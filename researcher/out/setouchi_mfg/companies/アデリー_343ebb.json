@@ -1,0 +1,921 @@
+{
+ "name": "アデリー",
+ "aliases": [],
+ "context": "山口県柳井市／出典:大学・高専の企業説明会／求人媒体:Indeed;マイナビ新卒;マイナビ転職;求人ボックス／想定年収:未取得／従業員:384",
+ "researched_at": "2026-11-05T06:16:16.852055+00:00",
+ "official_url": "https://ad-e.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "山口県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=243624&recruitingCourseId=27030167",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、愛知県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=243624&recruitingCourseId=27030167",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "奈良県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=243624&recruitingCourseId=27030167",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=243624&recruitingCourseId=27030167",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "石川県、愛知県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=243624&recruitingCourseId=27030167",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "北海道",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=243624&recruitingCourseId=27030167",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "福岡県、大分県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=243624&recruitingCourseId=27030167",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用ページ": [
+   {
+    "quote": "新卒採用2027",
+    "url": "https://ad-e.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用2028",
+    "url": "https://ad-e.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用2027",
+    "url": "https://ad-e.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用2028",
+    "url": "https://ad-e.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用2027",
+    "url": "https://ad-e.co.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用2028",
+    "url": "https://ad-e.co.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用2027",
+    "url": "https://ad-e.co.jp/archives/interview",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用2028",
+    "url": "https://ad-e.co.jp/archives/interview",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用2027",
+    "url": "https://ad-e.co.jp/archives/interview/%E7%A4%BE%E5%93%A1%E4%B8%80%E4%BA%BA%E4%B8%80%E4%BA%BA%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%80%81%E5%85%B1%E3%81%AB%E5%83%8D%E3%81%8D%E6%96%B9%E3%82%92%E6%A8%A1%E7%B4%A2%E3%81%97%E3%81%A6%E3%81%84",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用2028",
+    "url": "https://ad-e.co.jp/archives/interview/%E7%A4%BE%E5%93%A1%E4%B8%80%E4%BA%BA%E4%B8%80%E4%BA%BA%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%80%81%E5%85%B1%E3%81%AB%E5%83%8D%E3%81%8D%E6%96%B9%E3%82%92%E6%A8%A1%E7%B4%A2%E3%81%97%E3%81%A6%E3%81%84",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アデリーの転職・求人・中途採用情報|マイナビ転職",
+    "url": "https://tenshoku.mynavi.jp/company/414073/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アデリーの転職・求人・中途採用情報",
+    "url": "https://tenshoku.mynavi.jp/company/414073/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "「株式会社アデリー」の転職・求人・中途採用情報を掲載しています",
+    "url": "https://tenshoku.mynavi.jp/company/414073/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)アデリーの新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■説明会：各種リクルートイベント・WEB説明会(3月～)での会社説明",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=243624&recruitingCourseId=27030167",
+    "pass": 3
+   },
+   {
+    "quote": "■エントリーシート提出：応募するセミナーの日付によって、提出〆切が異なります",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=243624&recruitingCourseId=27030167",
+    "pass": 3
+   },
+   {
+    "quote": "エントリーシート提出時に【総合職】、【営業】、【システム】、【WEB通販】のいずれか1つを選択いただきます",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=243624&recruitingCourseId=27030167",
+    "pass": 3
+   },
+   {
+    "quote": "エントリーシート、WEB面接、対面面接（複数回）、適性検査などを通して総合的に判断します",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=243624&recruitingCourseId=27030167",
+    "pass": 3
+   },
+   {
+    "quote": "・エントリーシート（1次選考前に提出依頼）",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=243624&recruitingCourseId=27030167",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "「meet up Yanai」若手社会人交流応援事業を開催！",
+    "url": "https://ad-e.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "若手社員でも担当を持ち、自分のアイデアを提案できる環境があります",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "若手社員の仕事内容や働き方についても、リアルにお伝えします",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間休日120日、住宅手当や研修、メンター制度など、若手が安心して成長できる制度が整っています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3年後の売上100億円を目指す中、若手も主力メンバーとして活躍中",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "新人研修・若手研修・全体研修（年2回）など",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "配属される部署以外の若手社員を、メンターとして定めています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "資本金 1億円",
+    "url": "https://ad-e.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "三菱ビル11F",
+    "url": "https://ad-e.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "東京都千代田区丸の内2丁目5-2 三菱ビル11F",
+    "url": "https://ad-e.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "2024年売上高 83.7億円（グループ全体）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3年後の売上100億円を目指す中、若手も主力メンバーとして活躍中",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2028年には「100億円企業を実現したい」という新たな目標を胸に、",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "アデリーは、山口県柳井市を拠点にスイーツを中心としたギフト事業を展開している会社です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社モウリ（菓子問屋） エムアンドアール（ドーナツ生産工場）をM&Aにより取得",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2028年の売上100億円達成を目指し、新たな市場と価値の創出に挑戦中",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "「年収」の求人には、月給表記の求人も含みます",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万340円～25万3,140円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収380万円～530万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "商品開発パティシエ／年収350万円～550万円目安",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円～500万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "全国平均:393万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "【月給】210,000円〜236,000円＋諸手当 ※経験・スキル・年齢などに応じて優遇をいたしま…",
+    "url": "https://tenshoku.mynavi.jp/company/414073/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "310万円～360万円",
+    "url": "https://tenshoku.mynavi.jp/company/414073/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "【月給】210,000円〜236,000円＋諸手当",
+    "url": "https://tenshoku.mynavi.jp/company/414073/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "【月給】252,720円〜353,800円",
+    "url": "https://tenshoku.mynavi.jp/company/414073/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "380万円～530万円",
+    "url": "https://tenshoku.mynavi.jp/company/414073/joblist/",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "株式会社アデリーの転職・求人情報｜求人ボックス",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックスは、検索結果に掲載する求人を通して対価を得ることがあります",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックスでは、類似する求人が複数ヒットした際に求人を探しやすくなるよう自動で非表示にしています",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックスでは、求人の要約部分などにAI技術を利用しております",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックス内の検索数・閲覧数等により算出しています",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックスは、食べログ・価格.com・キナリノなどを運営する株式会社カカクコムが運営しています",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "登録ボタンを押すことにより、求人ボックスの",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "※規約同意後は、求人ボックスから新着求人やおすすめの求人などの求人情報をご連絡することがあります",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "メール受信設定は、求人ボックスからのメールに記載されている配信停止のリンク、またはマイページからいつでも停止できます",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "・求人ボックス会員サービスでは、プロフィール情報を保存して効率的に求人に応募ができます",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アデリーの転職・求人・中途採用情報|マイナビ転職",
+    "url": "https://tenshoku.mynavi.jp/company/414073/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります",
+    "url": "https://tenshoku.mynavi.jp/company/414073/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)アデリーの新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)アデリーの採用データ | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=243624&recruitingCourseId=27030167",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社アデリー の給与 - Indeed (インディード) — 日本での株式会社アデリーの平均給与 株式会社アデリーの平均月給の範囲は約 18.1万円／月（ホールスタッフ）から約 31.9万円／月（事業企画）です。 給与情報は、Indeed にこれまでに掲載された229件の求人に基いた推定値です。",
+    "url": "https://jp.indeed.com/cmp/株式会社アデリー/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アデリーの転職・求人情報｜求人ボックス — 株式会社アデリーの求人は14件あります。 【顧客満足度No.1】求人ボックスは毎日更新！ 正社員・アルバイト・パート・派遣の仕事・転職・採用情報をまとめて検索。 給与や勤務地、こだわりからあなたにぴったりの最新求人が見つかる！",
+    "url": "https://xn--pckua2a7gp15o89zb.com/株式会社アデリーの仕事",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アデリーの転職・求人・中途採用情報|マイナビ転職 — 「株式会社アデリー」の転職・求人・中途採用情報ページです。株式会社アデリーで募集中の求人情報（1件)を掲載しています。マイナビ転職の企業別求人情報一覧ページでは、関連する業種・職種の企業の求人情報なども探せます。",
+    "url": "https://tenshoku.mynavi.jp/company/414073/joblist/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アデリーの求人一覧 （5件 ・19.5〜35.4万 ） — 株式会社 アデリーの求人一覧。 掲載求人数は5件。 月給・時給の相場は19.5〜35.4万です。 山口県柳井市柳井11171-1。 給与偏差値・年齢別年収データ付きでハローワーク求人を分析。 ハローワーク+で。",
+    "url": "https://helloworkplus.com/company/3510-002939-1/",
+    "pass": 3
+   },
+   {
+    "quote": "アデリーの求人・採用・転職情報｜Yahoo!しごとカタログ — 株式会社アデリー 社内SE・プログラマー＜本社／山口県柳井市＞ 【仕事内容】 社内SE・プログラマー＜本社／山口県柳井市＞ 【具体的な仕事内容】 業務内容 情報システム部門の社内システム担当として、基幹システムの設計・開発・運用保守の業務に ...",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1100004416/jobs/",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 | 株式会社アデリー — OUR BUSINESSES（事業・サービス） 感動を生み出そう 私たちアデリーは、多くのお客様へ幸せを届けるため、食を中心とした販売事業、あるいは記念事業や業務開発、その他様々な新しい取り組みを「アイデアを現実化する」ことでサポートしていく企業です。",
+    "url": "https://ad-e.co.jp/recruit",
+    "pass": 3
+   },
+   {
+    "quote": "(株)アデリーの新卒採用・会社概要 | マイナビ2027(株)アデリーの採用データ | マイナビ2027アデリーの新卒採用・就職・企業情報【就活会議】アデリーの新卒採用・就職・会社概要とクチコミ｜就活サイト【ワンキ...株式会社アデリー公式｜企業情報 | . \\ 新卒社員インタビュー_Vol.2 ...株式会社アデリー | 食の総合プロデュースカンパニー — Oct 15, 2026 · そんな方に知っていただきたいのが、アデリーの営業職です。 アデリーは、全国の百貨店・量販店・専門店・道の駅などへ、スイーツや食品ギフトを届けている会社です。 私たちの営業は、ただ商品を販売する仕事ではありません。 Oct 15, 2026 · 仕事紹介記事 食品ギフト・地産品などが一堂に出展する展示会では、アデリーの商品の魅力を伝え、全国のバイヤーと商談をします。 新商品の提案や新規開拓のために、月に数回",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)アデリーの採用データ | マイナビ2027 — Oct 15, 2026 · 仕事紹介記事 食品ギフト・地産品などが一堂に出展する展示会では、アデリーの商品の魅力を伝え、全国のバイヤーと商談をします。 新商品の提案や新規開拓のために、月に数回は関東や関西へ出張もあります。",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=243624&recruitingCourseId=27030167",
+    "pass": 3
+   },
+   {
+    "quote": "アデリーの新卒採用・就職・企業情報【就活会議】アデリーの新卒採用・就職・会社概要とクチコミ｜就活サイト【ワンキ...株式会社アデリー公式｜企業情報 | . \\ 新卒社員インタビュー_Vol.2 ...株式会社アデリー | 食の総合プロデュースカンパニー — アデリー (小売り, その他／山口県)の新卒採用の企業研究、就活・選考対策情報です。 会社概要から、企業の評判、先輩のESの実例、面接で聞かれた質問まで、本選考・インターンシップの対策情報を掲載しています。 アデリーの概要、企業研究、就活対策情報です。 最新のインターンシップ ・説明会情報の他、ES・GD・面接・インターン・OB訪問・リクルーターの選考内容と先輩内定者の回答例を掲載しています。 はじめてのキャリアを選ぶ、就活サイト【ワンキャリア】 Aug 12, 2026 · 🎙️ アデリーの生産管理の仕事とは？ 1年目から見たアデリー",
+    "url": "https://syukatsu-kaigi.jp/companies/128794",
+    "pass": 3
+   },
+   {
+    "quote": "アデリーの新卒採用・就職・会社概要とクチコミ｜就活サイト【ワンキ... — アデリーの概要、企業研究、就活対策情報です。 最新のインターンシップ ・説明会情報の他、ES・GD・面接・インターン・OB訪問・リクルーターの選考内容と先輩内定者の回答例を掲載しています。 はじめてのキャリアを選ぶ、就活サイト【ワンキャリア】",
+    "url": "https://www.onecareer.jp/companies/54852",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "そんな方は、まずは会社説明会でアデリーの仕事を知ってみませんか？",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ペンギン界で最もロマンチックな求愛行動を取るアデリーペンギンとは... Oct 7, 2024 · そのペンギンが、『アデリーペンギン』。 「ただの石ではなく、綺麗な石をプレゼントする」 まさに、プロポーズするときにダイヤモンドの指輪を渡す、私たち人間と全く同じ行動。 メスがその石を気に入り、触れれば、カップル成立です。",
+    "url": "https://note.com/hayasakanagisa/n/n10b0bb49dd58",
+    "pass": 3
+   },
+   {
+    "quote": "アデリーペンギンの絵｜サキスミ 1 day ago · 子供のころ見た映画の下敷き（パウチ？）が出てきたので模写してみた。この思い出によって、ペンギンと言えばまずアデリーペンギンが浮かぶようになっている。懐かしい。かわいい。 ’91年の作品。見た人はいるだろうか？ 中央のアデリーペンギンを模写した キリっとした感じが無くなっ ...",
+    "url": "https://note.com/terasato_di/n/nb61bcb879240",
+    "pass": 3
+   },
+   {
+    "quote": "アデリーペンギンさん。｜ハチロウとドリル May 27, 2022 · その ファーストペンギンのモデル になっているのが 実は アデリーペンギンさん なんです。 南極において、アデリーペンギンさんは 食物連鎖の中間層にいます。 オキアミや甲殻類、魚類をエサとしていると同時に、 ヒョウアザラシ に捕食される関係性 ...",
+    "url": "https://note.com/hachirouyamazaki/n/nb699a0568de1",
+    "pass": 3
+   },
+   {
+    "quote": "南極探険家の奥さんの名前が由来｜アデリーペンギン Adelie Penguin Feb 9, 2024 · フランスの南極探険家が、このペンギンが発見された土地に自分の奥さんの名前（アデリー）をとって、『アデリーランド』、『アデリーコースト（アデリー海岸）』と名付けたのが、名前の由来だそうだ。",
+    "url": "https://note.com/zoo21st/n/n0685fce63d26",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ペンギン界で最もロマンチックな求愛行動を取るアデリーペンギンとは？🌈｜早坂 渚",
+    "url": "https://note.com/hayasakanagisa/n/n10b0bb49dd58",
+    "pass": 3
+   },
+   {
+    "quote": "ペンギン界で最もロマンチックな求愛行動を取るアデリーペンギンとは？🌈",
+    "url": "https://note.com/hayasakanagisa/n/n10b0bb49dd58",
+    "pass": 3
+   },
+   {
+    "quote": "南極大陸など寒い地域に生息する『ペンギン』。",
+    "url": "https://note.com/hayasakanagisa/n/n10b0bb49dd58",
+    "pass": 3
+   },
+   {
+    "quote": "実は、非常にロマンチックな生き物として知られています。",
+    "url": "https://note.com/hayasakanagisa/n/n10b0bb49dd58",
+    "pass": 3
+   },
+   {
+    "quote": "では、ペンギンは一体、どのような求愛行動を行うのでしょうか？",
+    "url": "https://note.com/hayasakanagisa/n/n10b0bb49dd58",
+    "pass": 3
+   },
+   {
+    "quote": "オスのペンギンは、繁殖期を迎えると、石でつくられた『コロニー』と呼ばれる巣に戻り、繁殖活動の準備を行います。",
+    "url": "https://note.com/hayasakanagisa/n/n10b0bb49dd58",
+    "pass": 3
+   },
+   {
+    "quote": "ペンギン界は、オスが巣を作り、メスを呼び込むのが一般的。",
+    "url": "https://note.com/hayasakanagisa/n/n10b0bb49dd58",
+    "pass": 3
+   },
+   {
+    "quote": "妻がいるペンギンは、巣の近くで妻を呼び寄せ、妻のいないペンギンは、巣の前で大きな鳴き声を上げ、求愛行動を行います。",
+    "url": "https://note.com/hayasakanagisa/n/n10b0bb49dd58",
+    "pass": 3
+   },
+   {
+    "quote": "子供のころ見た映画の下敷き（パウチ？）が出てきたので模写してみた。この思い出によって、ペンギンと言えばまずアデリーペンギンが浮かぶようになっている。懐かしい。かわいい。",
+    "url": "https://note.com/terasato_di/n/nb61bcb879240",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは。短編小説を中心にいろいろ表現します。",
+    "url": "https://note.com/terasato_di/n/nb61bcb879240",
+    "pass": 3
+   },
+   {
+    "quote": "昔 よく見たCMなんですが 関西だけなんですかね？",
+    "url": "https://note.com/hachirouyamazaki/n/nb699a0568de1",
+    "pass": 3
+   },
+   {
+    "quote": "オカンに難波まで たまに連れて行ってもらった時 ここのアイスキャンデーを買ってもらうのが 楽しみでした。",
+    "url": "https://note.com/hachirouyamazaki/n/nb699a0568de1",
+    "pass": 3
+   },
+   {
+    "quote": "そして、ここの看板を見て いつも思っていました。",
+    "url": "https://note.com/hachirouyamazaki/n/nb699a0568de1",
+    "pass": 3
+   },
+   {
+    "quote": "で、北極まで行って生息地を広げるには暑くてエサの少ない熱帯の海域を通らなくてはいけません。",
+    "url": "https://note.com/hachirouyamazaki/n/nb699a0568de1",
+    "pass": 3
+   },
+   {
+    "quote": "高い水温やエサの少なさが障壁となったため、ペンギンは",
+    "url": "https://note.com/hachirouyamazaki/n/nb699a0568de1",
+    "pass": 3
+   },
+   {
+    "quote": "南半球にしか生息していないと考えられています。",
+    "url": "https://note.com/hachirouyamazaki/n/nb699a0568de1",
+    "pass": 3
+   },
+   {
+    "quote": "さて、アデリーペンギンは 巣を作るのに石を使うのですが 辺り一面雪景色の南極大陸では、石を探すのに一苦労です。",
+    "url": "https://note.com/hachirouyamazaki/n/nb699a0568de1",
+    "pass": 3
+   },
+   {
+    "quote": "彼らからしてみれば 石は 人間にとってお金のように大事なものです。",
+    "url": "https://note.com/hachirouyamazaki/n/nb699a0568de1",
+    "pass": 3
+   },
+   {
+    "quote": "南極探険家の奥さんの名前が由来｜アデリーペンギン Adelie Penguin｜M_ayumi",
+    "url": "https://note.com/zoo21st/n/n0685fce63d26",
+    "pass": 3
+   },
+   {
+    "quote": "南極探険家の奥さんの名前が由来｜アデリーペンギン Adelie Penguin",
+    "url": "https://note.com/zoo21st/n/n0685fce63d26",
+    "pass": 3
+   },
+   {
+    "quote": "【ZOO 21st ～21世紀の動物園note～鳥図鑑】",
+    "url": "https://note.com/zoo21st/n/n0685fce63d26",
+    "pass": 3
+   },
+   {
+    "quote": "▶2007年までの写真集はこちら（旧サイト：PC用）",
+    "url": "https://note.com/zoo21st/n/n0685fce63d26",
+    "pass": 3
+   },
+   {
+    "quote": "前々からアドベンチャーワールドにいたとは思うのだが、いつもでかくて目立つ",
+    "url": "https://note.com/zoo21st/n/n0685fce63d26",
+    "pass": 3
+   },
+   {
+    "quote": "ばかり撮っていたので、何故かこれまでアデリーくんたちの画像は1枚もなかった。",
+    "url": "https://note.com/zoo21st/n/n0685fce63d26",
+    "pass": 3
+   },
+   {
+    "quote": "黒と白の部分がはっきり分かれていて、目の周りが白く縁取られているのが特徴的だ。",
+    "url": "https://note.com/zoo21st/n/n0685fce63d26",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社アデリー (@adelie_info) / X 2026年9月2日（水）～4日（金） 東京ビッグサイトにて開催される「#第40回グルメショー秋2026」にアデリーが出展します！ ブランドスイーツやオーダーメイドギフト、人気のスイーツなど、多彩な商品を取り揃えています。",
+    "url": "https://x.com/adelie_info",
+    "pass": 3
+   },
+   {
+    "quote": "アデリー (@AdelieADerry) / X Mention Follow PostsPosts RepliesReplies RepostsReposts MediaMedia アデリー @AdelieADerry Oct 27",
+    "url": "https://x.com/AdelieADerry",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アデリー on X: \"本日4月1日より、アデリー新CM放送スタート ... 本日4月1日より、アデリー新CM放送スタート 柳井商工高出身・バドミントン選手の宮崎友花さんをキャスティングしています！ ホシフルーツでの撮影では、スタッフが緊張してしまうほどの華やかさ…（笑） ぜひ見つけてみてくださいね📺🍓 cm.ad-p.jp/2026/",
+    "url": "https://x.com/adelie_info/status/2039144631737405669",
+    "pass": 3
+   },
+   {
+    "quote": "アデリーカップ2026 (@adeliecup2026) / X アデリーカップ2026の結果速報アカウント🧒🏻🏸 大会の速報、写真等を掲載いたします。 期間限定アカウント、写真動画 ...",
+    "url": "https://x.com/adeliecup2026",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by アデリーVRC (@Adelie1840) / X 連絡、回覧用〜 このアカウントでフォローするのは知り合った人のみです。 たまに投稿するかも？",
+    "url": "https://x.com/Adelie1840/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "アデリー (@IlikePygoscelis) / Posts / X Jan 22, 2020 · unitea_cha Jun 9 TRN直営店 x ゆに茶 コラボプレゼント企画🎉 ポータブルDAC「TRN WAVE」を1名様にプレゼント！ DACチップには「CS43198」を2基搭載し、 Bluetooth接続で、10～15時間の長期使用に対応。 LDACをはじめ、多様なコーデックに対応しています。 応募は簡単2 ...",
+    "url": "https://x.com/IlikePygoscelis",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "横澤 真人 - 株式会社アデリー - CEO | LinkedIn槙本 力也 - アデリープランニング株式会社 - CEOエグゼクティブアシ...Hunter C&c Equipment Passed Away Hunter C&c ... - LinkedInS’identifier sur LinkedIn | LinkedInKatie Stephens - Chief People Officer at Partnering Health ...Arts and Culture Correspondent at The Guardian - LinkedInDr. Armin Frommer – Chief Technical Officer bei Vaillant ... 株式会社アデリー - CEO · 職歴: 株式会社アデリー · 場所: 東京 · LinkedInのつなが",
+    "url": "https://jp.linkedin.com/in/myokosawa",
+    "pass": 3
+   },
+   {
+    "quote": "槙本 力也 - アデリープランニング株式会社 - CEOエグゼクティブアシ...Hunter C&c Equipment Passed Away Hunter C&c ... - LinkedInS’identifier sur LinkedIn | LinkedInKatie Stephens - Chief People Officer at Partnering Health ...Arts and Culture Correspondent at The Guardian - LinkedInDr. Armin Frommer – Chief Technical Officer bei Vaillant ... アデリープランニング株式会社 - CEOエグゼクティブアシスタント · 職歴: アデリープランニング株式会社 · 場所: 藤沢。 10億人のメンバーを擁するプロフェッショナ",
+    "url": "https://jp.linkedin.com/in/力也-槙本-3a347a1aa",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ADELLY TOKYO - Facebookスタジオ・アデリー | Tama-shi Tokyo - FacebookFacebook - log in or sign upアデリーの保育室 - Facebookアデリープランニング株式会社 - Facebookアデリーの保育室ADELITA アデリータ大名 | Fukuoka-shi Fukuoka - Facebook 装いのアクセントとしてはもちろん、 シンプルなスタイリングに添えるだけで、 ADELLYらしい気品と華やかさを演出してくれる一品。 日常の中にも、日本の美意識を感じられるものを。 #madeinjapan #アデリー #スカート #バッグ #桜刺繍 ヤマハ音楽教室に20年勤 務。 現在はJMLセミナー入野義朗音楽研究所にて現代ピア ノ演奏法講座にて研鑽中。 幼児から大人まで、また、幼稚園教諭・保育士の経験 もある為、保",
+    "url": "https://www.facebook.com/ADELLYTOKYO/",
+    "pass": 3
+   },
+   {
+    "quote": "スタジオ・アデリー | Tama-shi Tokyo - FacebookFacebook - log in or sign upアデリーの保育室 - Facebookアデリープランニング株式会社 - Facebookアデリーの保育室ADELITA アデリータ大名 | Fukuoka-shi Fukuoka - Facebook ヤマハ音楽教室に20年勤 務。 現在はJMLセミナー入野義朗音楽研究所にて現代ピア ノ演奏法講座にて研鑽中。 幼児から大人まで、また、幼稚園教諭・保育士の経験 もある為、保育士養成校向けピアノの指導も可能です 。 スタジオ・アデリー Connect with friends and the world around you on Facebook. May 17, 2026 · アデリーの保育室 『NPO法人アデリー』 アデリー保育室は、認可外保育園の認証もいただ",
+    "url": "https://www.facebook.com/studioadelie/",
+    "pass": 3
+   },
+   {
+    "quote": "アデリーの保育室 - Facebook May 17, 2026 · アデリーの保育室 『NPO法人アデリー』 アデリー保育室は、認可外保育園の認証もいただい ています。 ひとりひとりを大切にし、楽しい保育活動ができる ように創意工夫をし、職員が子供たちと全力で関わ っている素敵な保育施設です。",
+    "url": "https://www.facebook.com/アデリーの保育室-1682852205283469/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ad-e.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ad-e.co.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ad-e.co.jp/recruit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ad-e.co.jp/archives/interview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ad-e.co.jp/archives/interview/%E7%A4%BE%E5%93%A1%E4%B8%80%E4%BA%BA%E4%B8%80%E4%BA%BA%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%80%81%E5%85%B1%E3%81%AB%E5%83%8D%E3%81%8D%E6%96%B9%E3%82%92%E6%A8%A1%E7%B4%A2%E3%81%97%E3%81%A6%E3%81%84",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ad-e.co.jp/archives/interview",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://adelie-e.com/wp-content/uploads/2021/10/%E2%98%85DSC_9457-1536x1024-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://izabella-s.com/wp-content/uploads/2021/09/リクルート_キャリア-1-1024x715.jpg",
+    "status": "network_error:ConnectionError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://ad-e.co.jp/wp-content/themes/switch_tcd063/assets/images/index/company1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/414073/joblist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=243624&recruitingCourseId=27030167",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hayasakanagisa/n/n10b0bb49dd58",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/terasato_di/n/nb61bcb879240",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hachirouyamazaki/n/nb699a0568de1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zoo21st/n/n0685fce63d26",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/adelie_info",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AdelieADerry",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/adelie_info/status/2039144631737405669",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/adeliecup2026",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/myokosawa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/力也-槙本-3a347a1aa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ADELLYTOKYO/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/studioadelie/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/アデリーの保育室-1682852205283469/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AdelieADerry",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Adelie1840/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IlikePygoscelis",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アデリー 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/株式会社アデリー/salaries",
+    "https://xn--pckua2a7gp15o89zb.com/株式会社アデリーの仕事",
+    "https://tenshoku.mynavi.jp/company/414073/joblist/",
+    "https://helloworkplus.com/company/3510-002939-1/",
+    "https://jobcatalog.yahoo.co.jp/company/1100004416/jobs/",
+    "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "https://hellowork-plus.com/company/2250001012389/"
+   ]
+  },
+  {
+   "query": "アデリー 採用 新卒 高卒",
+   "results": [
+    "https://ad-e.co.jp/recruit",
+    "https://job.mynavi.jp/27/pc/search/corp243624/outline.html",
+    "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=243624&recruitingCourseId=27030167",
+    "https://syukatsu-kaigi.jp/companies/128794",
+    "https://www.onecareer.jp/companies/54852",
+    "https://www.instagram.com/p/Db7r4hEiYfq/",
+    "https://ad-e.co.jp/"
+   ]
+  },
+  {
+   "query": "site:note.com アデリー",
+   "results": [
+    "https://note.com/hayasakanagisa/n/n10b0bb49dd58",
+    "https://note.com/terasato_di/n/nb61bcb879240",
+    "https://note.com/hachirouyamazaki/n/nb699a0568de1",
+    "https://note.com/zoo21st/n/n0685fce63d26",
+    "https://note.com/hiho2351/n/n852de33bbc66",
+    "https://note.com/zoo21st/n/n38f1dfda4051",
+    "https://note.com/2es_uoy/n/ne23211e4a793"
+   ]
+  },
+  {
+   "query": "site:x.com アデリー",
+   "results": [
+    "https://x.com/adelie_info",
+    "https://x.com/AdelieADerry",
+    "https://x.com/adelie_info/status/2039144631737405669",
+    "https://x.com/adeliecup2026",
+    "https://x.com/cassino0727",
+    "https://x.com/7pengnta",
+    "https://x.com/adelie54"
+   ]
+  },
+  {
+   "query": "site:linkedin.com アデリー",
+   "results": [
+    "https://jp.linkedin.com/in/myokosawa",
+    "https://jp.linkedin.com/in/力也-槙本-3a347a1aa",
+    "https://www.linkedin.com/login/fr",
+    "https://uk.linkedin.com/in/katie-stephens-84b62913",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://www.linkedin.com/jobs/hunter-c&c-equipment-passed-away-hunter-c&c-equipment-son-death-jobs",
+    "https://de.linkedin.com/in/dr-armin-frommer-80107a364"
+   ]
+  },
+  {
+   "query": "site:facebook.com アデリー",
+   "results": [
+    "https://www.facebook.com/ADELLYTOKYO/",
+    "https://www.facebook.com/studioadelie/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/アデリーの保育室-1682852205283469/",
+    "https://www.facebook.com/adeliaeplanning/",
+    "https://www.facebook.com/p/アデリーの保育室-100080081667843/",
+    "https://www.facebook.com/ADELITADAIMYO/"
+   ]
+  },
+  {
+   "query": "アデリー note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.youtube.com/watch?v=2ToI2FVGOTM",
+    "https://shachomeikan.jp/industry_article/3932",
+    "https://pv.ad-p.jp/ad-zdk2026/",
+    "https://note.com/adeliae3",
+    "https://ad-e.co.jp/top-message",
+    "https://ad-e.co.jp/wp-content/uploads/2025/12/経営者インタビュー_アデリー.pdf"
+   ]
+  },
+  {
+   "query": "アデリー X 投稿",
+   "results": [
+    "https://x.com/AdelieADerry",
+    "https://x.com/Adelie1840/with_replies",
+    "https://adeli.fanbox.cc/posts",
+    "https://x.com/IlikePygoscelis",
+    "https://x.com/AdelieADerry/status/2084940474977251793",
+    "https://x.com/cassino0727/status/2098432612494934143",
+    "https://x.com/horiirag/status/2114643243686297803"
+   ]
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部21頁・検索8回）",
+  "資本金": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部21頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部21頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部21頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部21頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部21頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部21頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部21頁・検索8回）"
+ }
+}

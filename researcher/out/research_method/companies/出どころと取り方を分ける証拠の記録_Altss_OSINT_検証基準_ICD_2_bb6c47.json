@@ -1,0 +1,1214 @@
+{
+ "name": "出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）",
+ "en": "OSINT evidence provenance origin vs collection method ICD 203 likelihood language",
+ "aliases": [
+  "Altss private markets OSINT verification standard",
+  "ICD 203 analytic standards likelihood terms",
+  "Berkeley Protocol digital open source investigations verification"
+ ],
+ "context": "突き合わせ",
+ "kind": "market",
+ "researched_at": "2026-11-05T06:06:05.724082+00:00",
+ "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "checked against the cited primary sources on",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the Protocol's terms, gaining possession of online information through a screenshot, a conversion to PDF, a download or another form of capture.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Filings to, and records kept by, a regulator, statutory registry or court, retrieved from that body's own system",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Anything beyond the third party's own access; the content of a filing it describes, until the filing itself is retrieved",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4.2 What common US filings do and do not show.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Establish that the item is what it appears to be. A filing retrieved from the registry's own system is a different item from a copy of it hosted elsewhere. Check metadata, and compare dates inside the document with the page's dates.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A news report of a filing is evidence of what the reporter wrote. Its origin is OSINT_SOURCED. When the filing itself is retrieved from the regulator's own system, it becomes a second evidence item with origin REGULATORY_PUBLIC_RECORD. An evidence item names only what the researcher actually read.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A filing to, or a record kept by, a regulator, statutory registry or court, retrieved from that body's own system",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "An official publication of a public body or public-sector institution, issued in its official capacity and not as a filing to a regulator",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A filing is still the filer's own account. REGULATORY_PUBLIC_RECORD says where it was filed, not that it is true.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A subject's filing and the same subject's press release are one originating source for facts only the subject can supply. Together they do not make a claim CORROBORATED (see",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Filings are the filers' own accounts. A body's acceptance of a filing does not by itself establish that its content is true; for Form ADV the SEC states that accepting the form is not a finding that it was completed correctly.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Every evidence item records its capture date and time, the artefact's own publication or filing date, and the as-of date of the value, using the date vocabulary of the Evidence & Provenance Standard. These dates are never substituted for one another.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A copy of a filing hosted by an aggregator.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It is OSINT_SOURCED until the filing is retrieved from the regulator's or registry's own system.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "methodologies: Analytic products should identify underlying sources and methodologies upon",
+    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Altss Private Markets OSINT Verification Standard | Altss Frameworks",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Inspect the methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The Altss standard for verifying publicly accessible private-markets information: Berkeley Protocol-aligned source, item and content verification, the three evidence dimensions with origin kept separate from collection method, source grading, ICD 203 language for judgments, and source-rights recording.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5. Method",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The record kept for each evidence item about a private-markets entity or event: identifier, retrieval date, fixed copy or fingerprint, collection method and rights basis.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Source Reliability & Confidence Methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Entity Resolution Methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Temporal Data & Freshness Methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Investment Signal Classification Methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The standing of a source for a type of claim (RECORD_KEEPER, SUBJECT, DIRECT_ACCESS, COPY_OR_COMPILATION or UNATTRIBUTED), a grade of how dependable it has been for that type of claim (A to F), and a grade of how well an item of information is supported (1 to 6), all defined in the Source Reliability & Confidence Methodology. See",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the collection method, as process metadata (rule 6.2);",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "describes the quality and credibility of its underlying sources and methods;",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Rules 6.1 to 6.4 set out the Altss evidence model. It is an Altss-defined methodology, not an industry standard.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "6.2 Collection method is not origin.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The collection method is recorded separately, with each capture, as process metadata and is never an origin value. Origin follows the artefact: a Form ADV has origin REGULATORY_PUBLIC_RECORD, a news article OSINT_SOURCED and a statement the subject gives in answer to a request DISCLOSED, however each was obtained.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Obtain Your Amateur Radio License",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Communications & Emissions Training Framework",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Conduct a Daily Threat Analysis Using OSINT",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How To Begin Prepping",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— the disciplined set of standards and methods that turn open-source information into a sound, defensible judgment. It covers the U.S. Intelligence Community analytic standards, the structured analytic techniques that meet them, and the source-evaluation discipline every open-source analyst needs.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Analytic tradecraft is the disciplined set of methods, standards, and habits that separate professional intelligence analysis from opinion, punditry, or a news summary. It is concerned less with",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Tradecraft exists because the human mind is predictably biased. It anchors on first impressions, sees patterns in noise, favors evidence that confirms what it already believes, and grows overconfident as it accumulates detail. Structured methods and explicit standards are countermeasures: they force the analyst to slow down, externalize reasoning, and test judgments before publishing them.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "are the structured methods an analyst uses to meet those standards. Standards tell you what good looks like; techniques are how you get there.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Supply-chain & infrastructure risk frameworks",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A printable, fully branded field guide. The complete treatment of every section on this page, plus Analysis of Competing Hypotheses step by step, OSINT source tradecraft, a self-assessment workbook, and a curated reference library. Free for Patreon supporters.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step-by-step methods that externalize and discipline reasoning, drawn from the CIA’s",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The workhorse contrarian technique, treated step by step. ACH inverts intuitive analysis: instead of asking which evidence supports the preferred explanation, it asks which hypothesis is least contradicted by the evidence. The guide walks all eight steps, from generating a full hypothesis set to building and refining the evidence matrix to identifying indicators for future observation.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Supply-chain & critical-infrastructure risk frameworks",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— the structured method for analyzing an operational environment and its threat actors.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ATP 5-0.1, Army Design Methodology",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Which companies, investors and people matter to your work? Check the scope, fields and depth for your use case.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "10. Edge cases",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "11. Worked examples",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 1: a fund commitment, recorded in full.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claim: \"Example County Pension committed USD 50 million to Example Buyout Fund IV.\"",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "E1: Example Capital's press release on the fund's first close, naming the pension and the amount",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 2: a report of a filing.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 3: circular reporting.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 4: an attribute no usable source states.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 5: separating information from judgment.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Information: \"The June 2026 minutes of Example University Endowment's investment committee record approval of a revised policy portfolio with a 5% private credit target.\" (OFFICIAL_INSTITUTIONAL, OBSERVED.)",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 6: one press release, two origins.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Changes to the origin values, the validation statuses, the source-rights rule in 6.6 or the personal-data rules in 6.7 are major changes. New examples and clarifications are minor changes.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— a sanitized, public worked example of a tiered open-source collection framework.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "objectivity, bias, politicization, or other issues in Standards application in analytic products.",
+    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "practical mechanisms that reveal and mitigate bias. Analysts should be alert to influence by",
+    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "well as source access, validation, motivation, possible bias, or expertise. Source summary",
+    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Tradecraft exists because the human mind is predictably biased. It anchors on first impressions, sees patterns in noise, favors evidence that confirms what it already believes, and grows overconfident as it accumulates detail. Structured methods and explicit standards are countermeasures: they force the analyst to slow down, externalize reasoning, and test judgments before publishing them.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Unbiased, evidence-driven, and free of distortion by advocacy, preference, or pressure. Judgments are not shaded to please a customer or fit a policy.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— the U.S. Army’s comprehensive treatment of the intelligence analysis process, analytic standards, cognitive bias, and structured analytic techniques.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— the operational, anti-bias, and tradecraft rules that govern every Fortune Favors the Prepared analytical product.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "observed, derived and estimated data",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "DERIVED and ESTIMATED values have no origin of their own. Their origin is the set of origins of their inputs.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For DERIVED and ESTIMATED values, validation covers the inputs and the correct application of the rule or method. Validation never turns an ESTIMATED value into an OBSERVED one.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Reliability and credibility grades are judgments. Irwin and Mandel (2019) argue that the Admiralty-style scales mask subjectivity and recommend numeric probability estimates and periodic re-evaluation. This standard keeps ordinal grades for sources and information, requires reasons for each, and uses numeric ranges for likelihood judgments.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation (Source Triangulation)",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Observed, Derived and Estimated Data",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/solo_style/n/n985b3c636ab6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tantei_note/n/n50655677d2da",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/red_structure/n/na2c79b00d217",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zen_ai_lab/n/n1514d7e7c104",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bright_slug2632/n/n44571e8c8f5d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://archive.dni.gov/files/documents/ICD/ICD-203.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.intelligence.gov/mission/our-values/objectivity",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://quizlet.com/study-guides/icd-203-analytic-standards-overview-9f91d1c5-d52a-4436-a8da-5a1c25dea1b0",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://psu.pb.unizin.org/hls476/chapter/intelligence-community-directive-203/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://policycommons.net/artifacts/18285675/analytic-standards/19186147/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://irp.fas.org/dni/icd/icd-203.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35048",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-42102",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deloitte.com/jp/ja/services/risk-advisory/perspectives/substantive-test.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eccj.or.jp/investigation/zizen_r08.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pangearesearch.substack.com/p/analytic-tradecraft-standard-2-uncertainty",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/March-April-2021/Kwoun-Tradecraft-Standards/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3400/PEA3490-2/RAND_PEA3490-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cisecurity.org/ms-isac/services/words-of-estimative-probability-analytic-confidences-and-structured-analytic-techniques",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203） site:note.com",
+   "results": [
+    "https://note.com/solo_style/n/n985b3c636ab6",
+    "https://note.com/tantei_note/n/n50655677d2da",
+    "https://note.com/red_structure/n/na2c79b00d217",
+    "https://note.com/zen_ai_lab/n/n1514d7e7c104",
+    "https://note.com/itta_usa/n/nd300923856e1",
+    "https://note.com/bright_slug2632/n/n44571e8c8f5d",
+    "https://note.com/aiconsulting/n/nf74a657a69bd"
+   ]
+  },
+  {
+   "query": "出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203） note",
+   "results": [
+    "https://archive.dni.gov/files/documents/ICD/ICD-203.pdf",
+    "https://www.intelligence.gov/mission/our-values/objectivity",
+    "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
+    "https://quizlet.com/study-guides/icd-203-analytic-standards-overview-9f91d1c5-d52a-4436-a8da-5a1c25dea1b0",
+    "https://psu.pb.unizin.org/hls476/chapter/intelligence-community-directive-203/",
+    "https://policycommons.net/artifacts/18285675/analytic-standards/19186147/",
+    "https://note.com/shinu/n/n92a701e0f992",
+    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-42102",
+    "https://www.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford"
+   ]
+  },
+  {
+   "query": "出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203） やり方",
+   "results": [
+    "https://archive.dni.gov/files/documents/ICD/ICD-203.pdf",
+    "https://www.intelligence.gov/mission/our-values/objectivity",
+    "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
+    "https://policycommons.net/artifacts/18285675/analytic-standards/19186147/",
+    "https://quizlet.com/study-guides/icd-203-analytic-standards-overview-9f91d1c5-d52a-4436-a8da-5a1c25dea1b0",
+    "https://psu.pb.unizin.org/hls476/chapter/intelligence-community-directive-203/",
+    "https://irp.fas.org/dni/icd/icd-203.pdf",
+    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35048",
+    "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html"
+   ]
+  },
+  {
+   "query": "出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203） 事例",
+   "results": [
+    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-42102",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
+    "https://www.deloitte.com/jp/ja/services/risk-advisory/perspectives/substantive-test.html",
+    "https://www.eccj.or.jp/investigation/zizen_r08.pdf",
+    "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://www.lifescience.co.jp/yk/jpt_online/consort/honyaku.pdf"
+   ]
+  },
+  {
+   "query": "OSINT evidence provenance origin vs collection method ICD 203 likelihood language",
+   "results": [
+    "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "https://archive.dni.gov/files/documents/ICD/ICD-203.pdf",
+    "https://pangearesearch.substack.com/p/analytic-tradecraft-standard-2-uncertainty",
+    "https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/March-April-2021/Kwoun-Tradecraft-Standards/",
+    "https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3400/PEA3490-2/RAND_PEA3490-2.pdf",
+    "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
+    "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "https://www.cisecurity.org/ms-isac/services/words-of-estimative-probability-analytic-confidences-and-structured-analytic-techniques",
+    "https://www.trmlabs.com/glossary/open-source-intelligence-osint"
+   ]
+  },
+  {
+   "query": "site:note.com 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）",
+   "results": [
+    "https://note.com/solo_style/n/n985b3c636ab6",
+    "https://note.com/everprogress/n/nde8351a93d60",
+    "https://note.com/tantei_note/n/n50655677d2da",
+    "https://note.com/zen_ai_lab/n/n1514d7e7c104",
+    "https://note.com/itta_usa/n/nd300923856e1",
+    "https://note.com/bright_slug2632/n/n44571e8c8f5d",
+    "https://note.com/chiteki/n/n0cf4222b64ef"
+   ]
+  },
+  {
+   "query": "site:x.com 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）",
+   "results": [
+    "https://x.com/chisaidehissori",
+    "https://x.com/chisaidehissori/status/2049326830386344377",
+    "https://x.com/saveourtre/status/2103038081893011548",
+    "https://x.com/NagisamaFuushiP/status/2088566248632442945",
+    "https://x.com/AandS_KSB1983/status/2033918089558200496",
+    "https://x.com/AandS_KSB1983/status/2038539828237844502",
+    "https://x.com/grok/status/2113766012868809190"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）",
+   "results": [
+    "https://www.linkedin.com/company/altss",
+    "https://jp.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford?tl=ja",
+    "https://jp.linkedin.com/pulse/best-practices-conducting-osint-research-vijay-gupta--mmiac?tl=ja",
+    "https://www.linkedin.com/pulse/osint-isnt-problem-undisciplined-analysis-joshua-gobin-zopbe",
+    "https://jp.linkedin.com/pulse/methodology-helped-me-learn-osint-miguel-morello-f4egf?tl=ja",
+    "https://jp.linkedin.com/pulse/osint-framework-unlocking-power-open-source-intelligence-hacktifycs-aerif?tl=ja",
+    "https://jp.linkedin.com/pulse/build-modern-osint-program-security-teams-liferaftlabs-fyu0e?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）",
+   "results": [
+    "https://graph.facebook.com/v2.8/1785887818236054/picture/",
+    "https://www.facebook.com/newspark.yokohama/posts/ワークショップosintをやってみようを開催しましたosintに取り組むと世界の見え方が変わると講師の兼松雄一郎氏日経は話しました多様な公開データを使い多角的な/1452172130032474/",
+    "https://www.facebook.com/Securitydays13/photos/-注目講演security-days-東京日本ハッカー協会-杉浦代表理事がosint-でランサムグループの実態を可視化リークサイト交渉痕跡暗号資産の動きから-組/122176936220783877/",
+    "https://www.facebook.com/InteropTokyo/photos/-注目講演security-days-東京日本ハッカー協会-杉浦代表理事がosint-でランサムグループの実態を可視化リークサイト交渉痕跡暗号資産の動きから-組/1532652158197756/",
+    "https://www.facebook.com/balimoto.transcriber/videos/裁判で勝つ人と負ける人の最大の違いは証拠があるかどうかです借用書lineメール録音写真振込履歴など一つひとつの記録が裁判では重要な意味を持ちます本当のことだから/1605437727956386/",
+    "https://www.facebook.com/balimoto.transcriber/videos/怪しいと証明できるは別問題です離婚裁判で不倫を主張する場合ホテル利用記録や写真などの客観的証拠が重要になります感情的に問い詰める前にまず証拠を確保することが結果/1673612144771220/",
+    "https://www.facebook.com/balimoto.transcriber/videos/録音データは言った言わないが争われる裁判で重要な証拠になることがあります未払い残業代金銭トラブル不動産問題などでは相手の発言を客観的に示す資料として評価される場/1437498261613567/"
+   ]
+  },
+  {
+   "query": "出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203） note 社長",
+   "results": [
+    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-42102",
+    "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
+    "https://www.pmaj.or.jp/library/open/regular/kns20161111.pdf",
+    "https://www.eccj.or.jp/investigation/zizen_r08.pdf",
+    "https://www.deloitte.com/jp/ja/services/risk-advisory/perspectives/substantive-test.html",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://www.lifescience.co.jp/yk/jpt_online/consort/honyaku.pdf",
+    "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en"
+   ]
+  },
+  {
+   "query": "出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203） X 投稿",
+   "results": [
+    "https://archive.dni.gov/files/documents/ICD/ICD-203.pdf",
+    "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
+    "https://quizlet.com/study-guides/icd-203-analytic-standards-overview-9f91d1c5-d52a-4436-a8da-5a1c25dea1b0",
+    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35048",
+    "https://clarivate.com/intellectual-property/ja/download/dwpi-on-shareresearch-qa-ja",
+    "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
+    "https://jp.edanz.com/blog/peer-review-limitations"
+   ]
+  },
+  {
+   "query": "OSINT evidence provenance origin vs collection method ICD 203 likelihood language site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/cognitive-warfare-part-9-command-under-attack-contested-eva-sula-u344f",
+    "https://www.linkedin.com/posts/jessicastutzman_intelligence-intelligenceanalysis-analyticstandards-activity-7424124125759299584-GtvN",
+    "https://www.linkedin.com/posts/jessicastutzman_osint-intelligenceanalysis-intelligencetradecraft-activity-7423762491249266688-lDNb",
+    "https://pe.linkedin.com/pulse/planning-osint-collection-basics-leo-andrei-bujaki",
+    "https://www.linkedin.com/posts/jessicastutzman_intelligencefundamentalsproject-icd203-analyticstandards-activity-7426662561531449344-BS8A",
+    "https://www.linkedin.com/posts/jessicastutzman_intelligence-intelligenceanalysis-uncertainty-activity-7424445658461364224-vrE7",
+    "https://www.linkedin.com/pulse/osint-isnt-problem-undisciplined-analysis-joshua-gobin-zopbe",
+    "https://tr.linkedin.com/posts/ole-donner_nnfc-analytic-tradecraft-checklist-activity-7057202033828777984-QXcy"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "checked against the cited primary sources on",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the Protocol's terms, gaining possession of online information through a screenshot, a conversion to PDF, a download or another form of capture.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Filings to, and records kept by, a regulator, statutory registry or court, retrieved from that body's own system",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Anything beyond the third party's own access; the content of a filing it describes, until the filing itself is retrieved",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4.2 What common US filings do and do not show.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Establish that the item is what it appears to be. A filing retrieved from the registry's own system is a different item from a copy of it hosted elsewhere. Check metadata, and compare dates inside the document with the page's dates.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A news report of a filing is evidence of what the reporter wrote. Its origin is OSINT_SOURCED. When the filing itself is retrieved from the regulator's own system, it becomes a second evidence item with origin REGULATORY_PUBLIC_RECORD. An evidence item names only what the researcher actually read.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A filing to, or a record kept by, a regulator, statutory registry or court, retrieved from that body's own system",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "An official publication of a public body or public-sector institution, issued in its official capacity and not as a filing to a regulator",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A filing is still the filer's own account. REGULATORY_PUBLIC_RECORD says where it was filed, not that it is true.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A subject's filing and the same subject's press release are one originating source for facts only the subject can supply. Together they do not make a claim CORROBORATED (see",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Filings are the filers' own accounts. A body's acceptance of a filing does not by itself establish that its content is true; for Form ADV the SEC states that accepting the form is not a finding that it was completed correctly.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Every evidence item records its capture date and time, the artefact's own publication or filing date, and the as-of date of the value, using the date vocabulary of the Evidence & Provenance Standard. These dates are never substituted for one another.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A copy of a filing hosted by an aggregator.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It is OSINT_SOURCED until the filing is retrieved from the regulator's or registry's own system.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "methodologies: Analytic products should identify underlying sources and methodologies upon",
+    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Altss Private Markets OSINT Verification Standard | Altss Frameworks",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Inspect the methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The Altss standard for verifying publicly accessible private-markets information: Berkeley Protocol-aligned source, item and content verification, the three evidence dimensions with origin kept separate from collection method, source grading, ICD 203 language for judgments, and source-rights recording.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5. Method",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The record kept for each evidence item about a private-markets entity or event: identifier, retrieval date, fixed copy or fingerprint, collection method and rights basis.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Source Reliability & Confidence Methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Entity Resolution Methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Temporal Data & Freshness Methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Investment Signal Classification Methodology",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The standing of a source for a type of claim (RECORD_KEEPER, SUBJECT, DIRECT_ACCESS, COPY_OR_COMPILATION or UNATTRIBUTED), a grade of how dependable it has been for that type of claim (A to F), and a grade of how well an item of information is supported (1 to 6), all defined in the Source Reliability & Confidence Methodology. See",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the collection method, as process metadata (rule 6.2);",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "describes the quality and credibility of its underlying sources and methods;",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Rules 6.1 to 6.4 set out the Altss evidence model. It is an Altss-defined methodology, not an industry standard.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "6.2 Collection method is not origin.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The collection method is recorded separately, with each capture, as process metadata and is never an origin value. Origin follows the artefact: a Form ADV has origin REGULATORY_PUBLIC_RECORD, a news article OSINT_SOURCED and a statement the subject gives in answer to a request DISCLOSED, however each was obtained.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Obtain Your Amateur Radio License",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Communications & Emissions Training Framework",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Conduct a Daily Threat Analysis Using OSINT",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How To Begin Prepping",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— the disciplined set of standards and methods that turn open-source information into a sound, defensible judgment. It covers the U.S. Intelligence Community analytic standards, the structured analytic techniques that meet them, and the source-evaluation discipline every open-source analyst needs.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Analytic tradecraft is the disciplined set of methods, standards, and habits that separate professional intelligence analysis from opinion, punditry, or a news summary. It is concerned less with",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Tradecraft exists because the human mind is predictably biased. It anchors on first impressions, sees patterns in noise, favors evidence that confirms what it already believes, and grows overconfident as it accumulates detail. Structured methods and explicit standards are countermeasures: they force the analyst to slow down, externalize reasoning, and test judgments before publishing them.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "are the structured methods an analyst uses to meet those standards. Standards tell you what good looks like; techniques are how you get there.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Supply-chain & infrastructure risk frameworks",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A printable, fully branded field guide. The complete treatment of every section on this page, plus Analysis of Competing Hypotheses step by step, OSINT source tradecraft, a self-assessment workbook, and a curated reference library. Free for Patreon supporters.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step-by-step methods that externalize and discipline reasoning, drawn from the CIA’s",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The workhorse contrarian technique, treated step by step. ACH inverts intuitive analysis: instead of asking which evidence supports the preferred explanation, it asks which hypothesis is least contradicted by the evidence. The guide walks all eight steps, from generating a full hypothesis set to building and refining the evidence matrix to identifying indicators for future observation.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Supply-chain & critical-infrastructure risk frameworks",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— the structured method for analyzing an operational environment and its threat actors.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ATP 5-0.1, Army Design Methodology",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Which companies, investors and people matter to your work? Check the scope, fields and depth for your use case.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "10. Edge cases",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "11. Worked examples",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 1: a fund commitment, recorded in full.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Claim: \"Example County Pension committed USD 50 million to Example Buyout Fund IV.\"",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "E1: Example Capital's press release on the fund's first close, naming the pension and the amount",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 2: a report of a filing.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 3: circular reporting.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 4: an attribute no usable source states.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 5: separating information from judgment.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Information: \"The June 2026 minutes of Example University Endowment's investment committee record approval of a revised policy portfolio with a 5% private credit target.\" (OFFICIAL_INSTITUTIONAL, OBSERVED.)",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 6: one press release, two origins.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Changes to the origin values, the validation statuses, the source-rights rule in 6.6 or the personal-data rules in 6.7 are major changes. New examples and clarifications are minor changes.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— a sanitized, public worked example of a tiered open-source collection framework.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "objectivity, bias, politicization, or other issues in Standards application in analytic products.",
+    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "practical mechanisms that reveal and mitigate bias. Analysts should be alert to influence by",
+    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "well as source access, validation, motivation, possible bias, or expertise. Source summary",
+    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Tradecraft exists because the human mind is predictably biased. It anchors on first impressions, sees patterns in noise, favors evidence that confirms what it already believes, and grows overconfident as it accumulates detail. Structured methods and explicit standards are countermeasures: they force the analyst to slow down, externalize reasoning, and test judgments before publishing them.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Unbiased, evidence-driven, and free of distortion by advocacy, preference, or pressure. Judgments are not shaded to please a customer or fit a policy.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— the U.S. Army’s comprehensive treatment of the intelligence analysis process, analytic standards, cognitive bias, and structured analytic techniques.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— the operational, anti-bias, and tradecraft rules that govern every Fortune Favors the Prepared analytical product.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "observed, derived and estimated data",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "DERIVED and ESTIMATED values have no origin of their own. Their origin is the set of origins of their inputs.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For DERIVED and ESTIMATED values, validation covers the inputs and the correct application of the rule or method. Validation never turns an ESTIMATED value into an OBSERVED one.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Reliability and credibility grades are judgments. Irwin and Mandel (2019) argue that the Admiralty-style scales mask subjectivity and recommend numeric probability estimates and periodic re-evaluation. This standard keeps ordinal grades for sources and information, requires reasons for each, and uses numeric ranges for likelihood judgments.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation (Source Triangulation)",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Observed, Derived and Estimated Data",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-05T06:06:05.724082+00:00"
+}

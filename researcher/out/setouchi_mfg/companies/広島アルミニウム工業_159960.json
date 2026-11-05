@@ -1,0 +1,942 @@
+{
+ "name": "広島アルミニウム工業",
+ "aliases": [],
+ "context": "広島県広島市／出典:大学・高専の企業説明会／求人媒体:Indeed;スタンバイ;マイナビ新卒／想定年収:400〜700万円／従業員:不明",
+ "researched_at": "2026-11-05T06:09:44.709632+00:00",
+ "official_url": "https://www.hai.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "0 名",
+    "url": "https://www.hai.co.jp/recruitment/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "単独2,228名（2025年12月現在） グループ全体4,932名（2025年12月現在）",
+    "url": "https://www.hai.co.jp/company/company_profile/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒733-0011　広島県広島市西区横川町三丁目6番3号 TEL（082）233-1111　FAX（082）233-3351",
+    "url": "https://www.hai.co.jp/company/company_profile/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "広島県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "神奈川県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "兵庫県、長崎県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "長野県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "新潟県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "香川県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "沖縄県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "福岡県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "山形県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "栃木県、神奈川県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "愛知県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "岩手県",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：大正10年4月19日",
+    "url": "https://www.hai.co.jp/company/company_profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：昭和22年1月",
+    "url": "https://www.hai.co.jp/company/company_profile/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "3億5,000万円",
+    "url": "https://www.hai.co.jp/company/company_profile/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "単独990億円（2025年12月期） グループ全体1,513億円（2025年12月期）",
+    "url": "https://www.hai.co.jp/company/company_profile/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "1. ダイキャスト、砂型、金型、低圧の各製品の鋳造及び 加工・販売 2. 樹脂製品の成形及び加工並びに販売 3. 調理器具製品の製造並びに販売 4. 軽合金地金の製造並びに販売 5. 上記各種型具の設計製作並びに販売 6. 前各号に付帯する一切の業務",
+    "url": "https://www.hai.co.jp/company/company_profile/",
+    "pass": 1
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先",
+    "value": "マツダ(株)、(株)アイシン、ジヤトコ(株)、ZF Transmissions Gray Court, LLC、(株)デンソー",
+    "url": "https://www.hai.co.jp/company/company_profile/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "国内に10拠点 広島中心に展開しています",
+    "url": "https://www.hai.co.jp/company/global_network/",
+    "pass": 1
+   },
+   {
+    "quote": "単独990億円（2025年12月期）",
+    "url": "https://www.hai.co.jp/company/company_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ全体1,513億円（2025年12月期）",
+    "url": "https://www.hai.co.jp/company/company_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "マツダ(株)、(株)アイシン、ジヤトコ(株)、ZF Transmissions Gray Court, LLC、(株)デンソー",
+    "url": "https://www.hai.co.jp/company/company_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "これもひとえに、お取引先様や地域社会の皆様方からお寄せいただいたご支援ご協力の賜物と心より感謝申し上げます",
+    "url": "https://www.hai.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、２００２年からは、海外にも事業を展開し、ベトナムを皮切りにメキシコ、タイの３カ国にも生産拠点を置き、更なる事業の拡大を目指しております",
+    "url": "https://www.hai.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "祇園工場 （1961年）",
+    "url": "https://www.hai.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "マツダ株式会社の品質優良認定会社として選定される",
+    "url": "https://www.hai.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "千代田工場が（財）素形材センターより「環境優良工場」として表彰",
+    "url": "https://www.hai.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "マツダ株式会社のVA・VE提案制度において22年連続優秀賞を受賞",
+    "url": "https://www.hai.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "安佐工場 厚生労働大臣より労働安全衛生活動優良事業場として奨励賞受賞",
+    "url": "https://www.hai.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "本地ダイカスト第2工場竣工",
+    "url": "https://www.hai.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "5つの拠点に社員食堂があります",
+    "url": "https://www.hai.co.jp/recruitment/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "国内生産工場（広島7拠点、島根1拠点）",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【DX工場見学】広島アルミニウム工業様にお越しいただきました！｜TDグループ｜TD Holdings・東洋電装・TD衛星通信システム・ZIPCARE・バロ電機工業",
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "pass": 3
+   },
+   {
+    "quote": "【DX工場見学】広島アルミニウム工業様にお越しいただきました！",
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "pass": 3
+   },
+   {
+    "quote": "今回のDX工場見学は、",
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "pass": 3
+   },
+   {
+    "quote": "DX工場見学のご案内 | 35.6%の無駄を削減した東洋電装のDX工場",
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "pass": 3
+   },
+   {
+    "quote": "東洋電装株式会社は2022年2月に可部事業所（DX工場）をオープンし、製造プロセスのDX推進を進めています",
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "最新情報をInstagramで更新しています！",
+    "url": "https://www.hai.co.jp/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "【WEB開催】会社説明会！なんでもお答えします！",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "quote": "【DX工場見学】広島アルミニウム工業様にお越しいただきました！｜TDグループ｜TD Holdings・東洋電装・TD衛星通信システム・ZIPCARE・バロ電機工業",
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "pass": 3
+   },
+   {
+    "quote": "【DX工場見学】広島アルミニウム工業様にお越しいただきました！",
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "pass": 3
+   },
+   {
+    "quote": "今回のDX工場見学は、",
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "pass": 3
+   },
+   {
+    "quote": "DX工場見学のご案内 | 35.6%の無駄を削減した東洋電装のDX工場",
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "3億5,000万円",
+    "url": "https://www.hai.co.jp/company/company_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を3億5,000万円に増資",
+    "url": "https://www.hai.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "●基本給（実力主義での昇給項目、退職金に影響があります",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "quote": "●職能手当（年功序列型の為、勤続年数が上がれば一定額昇給）",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "quote": "・26歳 既婚者 想定年収約425万円（残業なしの場合）",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "quote": "・30歳 既婚者 子供1名 想定年収約465万円（残業なしの場合）",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "quote": "・35歳 既婚者 子供2名 想定年収約543万円（残業なしの場合）",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "quote": "・40歳 既婚者 子供2名 想定年収約603万円（残業なしの場合）",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "quote": "※年収の増加幅は、人事考課等の査定により異なります",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "quote": "語学手当（TOEIC５００点以上で１万円/月～３万円/月） 点数に応じて支給",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "quote": "毎年１月は評価と社内資格による昇給（実力主義型）",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "quote": "毎年４月は勤続年数に応じて定額昇給（年功序列型）",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "quote": "但し、初年度の７月賞与については、査定期間が1ヵ月だけとなりますので、",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "quote": "寸志として1ヶ月分の初任給を支給します",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "quote": "初年度の12月より、賞与満額支給となります",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "quote": "最大8万円まで補助します",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "数字で見るHAI｜採用情報｜広島アルミニウム工業",
+    "url": "https://www.hai.co.jp/recruitment/data/",
+    "pass": 1
+   },
+   {
+    "quote": "１．エントリーシート提出",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "quote": "エントリー者には専用のWebコンテンツを提供",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "engage in environmental initiatives as well. Since 2002,",
+    "url": "https://www.hai.co.jp/assets/img/company/company_profile/kaishaannai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "広島アルミニウム工業(株)の採用データ | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "広島アルミニウム工業 (株)の採用データ | マイナビ2027 — 広島アルミニウム工業 (株)の採用データ | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp2427 > employment",
+    "url": "https://job.mynavi.jp/27/pc/search/corp2427/employment.html",
+    "pass": 3
+   },
+   {
+    "quote": "広島アルミニウム工業 の「 年収 ・給与制度」 OpenWork — 広島アルミニウム工業 の「 年収 ・給与制度」 OpenWork OpenWork https://www.openwork.jp > ... > 広島アルミニウム工業",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G2BG&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "広島アルミニウム工業 の 求人 - 広島県 広島市 安佐北区 — 広島アルミニウム工業 の 求人 - 広島県 広島市 安佐北区 Indeed https://jp.indeed.com > q-広島アルミニウム工業-l-広島県...",
+    "url": "https://jp.indeed.com/q-%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD-l-%E5%BA%83%E5%B3%B6%E7%9C%8C-%E5%BA%83%E5%B3%B6%E5%B8%82-%E5%AE%89%E4%BD%90%E5%8C%97%E5%8C%BA-%E6%B1%82%E4%BA%BA.html",
+    "pass": 3
+   },
+   {
+    "quote": "広島アルミニウム工業株式会社 の求人情報（18件） — 広島アルミニウム工業株式会社 の求人情報（18件） スタンバイ",
+    "url": "https://jp.stanby.com/search?cp_id=222759&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報｜ 広島アルミニウム工業 — 採用情報｜ 広島アルミニウム工業 広島アルミニウム工業 https://www.hai.co.jp > recruitment",
+    "url": "https://www.hai.co.jp/recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "広島アルミニウム工業 新卒 高卒 の求人情報をすべて見る （136件） — 広島アルミニウム工業 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 ｜ 採用 情報 - 広島アルミニウム工業 — 新卒採用 ｜ 採用 情報 - 広島アルミニウム工業 広島アルミニウム工業 https://www.hai.co.jp > recruitment > newgraduate",
+    "url": "https://www.hai.co.jp/recruitment/newgraduate/",
+    "pass": 3
+   },
+   {
+    "quote": "広島アルミニウム工業 (株)の 採用 データ | マイナビ2027 — 広島アルミニウム工業 (株)の 採用 データ | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp2427 > employment",
+    "url": "https://job.mynavi.jp/27/pc/search/corp2427/employment.html",
+    "pass": 3
+   },
+   {
+    "quote": "広島アルミニウム工業 株式会社本社 の 新卒採用 ・企業情報 — 広島アルミニウム工業 株式会社本社 の 新卒採用 ・企業情報 コグナビ転職 https://www.cognavi.jp > catalog",
+    "url": "https://www.cognavi.jp/catalog/100928/000001/",
+    "pass": 3
+   },
+   {
+    "quote": "広島アルミニウム工業 株式会社の企業情報 - キャリタス就活 — 広島アルミニウム工業 株式会社の企業情報 - キャリタス就活 キャリタス就活 https://job.career-tasu.jp > corp",
+    "url": "https://job.career-tasu.jp/corp/00031246/",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【DX工場見学】 広島アルミニウム工業 様にお越しいただき ... 【DX工場見学】 広島アルミニウム工業 様にお越しいただき ... note https://note.com > ビジネス > マーケティング",
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【DX工場見学】広島アルミニウム工業様にお越しいただきました！｜TDグループ｜TD Holdings・東洋電装・TD衛星通信システム・ZIPCARE・バロ電機工業",
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "pass": 3
+   },
+   {
+    "quote": "【DX工場見学】広島アルミニウム工業様にお越しいただきました！",
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "pass": 3
+   },
+   {
+    "quote": "TDグループ｜TD Holdings・東洋電装・TD衛星通信システム・ZIPCARE・バロ電機工業",
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは！FRICS Fabの横山です。",
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "pass": 3
+   },
+   {
+    "quote": "広島アルミニウム工業株式会社様にお越しいただきました。",
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "pass": 3
+   },
+   {
+    "quote": "広島アルミニウム工業様は、アルミニウムの鋳造に関して全ての工法に対応できることを強みとしており、金型設計から鋳造・加工・アッセンブリーと完成品までの一貫生産体制を構築し、さまざまなアルミニウム製品の製造や販売を行っています。",
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "pass": 3
+   },
+   {
+    "quote": "広島市西区にあるアルミニウム製造、販売会社です。ダイキャスト、砂型、金型、低圧、高圧凝固、鋳造鍛造の各製品の鋳造及び加工並",
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "pass": 3
+   },
+   {
+    "quote": "を基に製造現場の工程改善や生産性向上を支援するサービスを紹介し、",
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "やきると on X: \" 広島アルミニウム工業 株式会社 11日公表－可 ... やきると on X: \" 広島アルミニウム工業 株式会社 11日公表－可 ... X https://x.com > @ygd862",
+    "url": "https://x.com/ygd862/status/1504711888424288256",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "広島アルミニウム工業 （株） | LinkedIn 広島アルミニウム工業 （株） | LinkedIn LinkedIn Costa Rica https://cr.linkedin.com > 広島アルミニウム工業（株）",
+    "url": "https://cr.linkedin.com/company/%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "広島アルミニウム工業 （株） | LinkedIn 広島アルミニウム工業 （株） | LinkedIn LinkedIn https://nl.linkedin.com > 広島アルミニウム工業（株）",
+    "url": "https://nl.linkedin.com/company/%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "広島アルミニウム工業 （株） | LinkedIn 広島アルミニウム工業 （株） | LinkedIn LinkedIn Norge https://no.linkedin.com > 広島アルミニウム工業（株）",
+    "url": "https://no.linkedin.com/company/%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "広島アルミニウム工業 (株) - Home | Facebook 広島アルミニウム工業 (株) - Home | Facebook Facebook https://www.facebook.com > 広島アルミニウム工業株",
+    "url": "https://www.facebook.com/pages/%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD%E6%A0%AA/786967311316586",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hai.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hai.co.jp/company/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hai.co.jp/company/global_network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hai.co.jp/recruitment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hai.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hai.co.jp/company/company_profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hai.co.jp/company/greeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hai.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hai.co.jp/company/management_policies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hai.co.jp/recruitment/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hai.co.jp/recruitment/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hai.co.jp/recruitment/benefits/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.hai.co.jp/assets/img/company/company_profile/kaishaannai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hai.co.jp/assets/img/company/company_profile/company_profile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hai.co.jp/assets/img/company/img_company01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hai.co.jp/assets/img/top/bg_recruitment.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hai.co.jp/assets/img/top/bg_recruitment_sp.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G2BG&q_no=2",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD-l-%E5%BA%83%E5%B3%B6%E7%9C%8C-%E5%BA%83%E5%B3%B6%E5%B8%82-%E5%AE%89%E4%BD%90%E5%8C%97%E5%8C%BA-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index?corpId=2427&recruitingCourseId=27002879",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ygd862/status/1504711888424288256",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cr.linkedin.com/company/%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/company/%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://no.linkedin.com/company/%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD%E6%A0%AA/786967311316586",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "広島アルミニウム工業 求人 年収",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp2427/employment.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000G2BG&q_no=2",
+    "https://jp.indeed.com/q-%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD-l-%E5%BA%83%E5%B3%B6%E7%9C%8C-%E5%BA%83%E5%B3%B6%E5%B8%82-%E5%AE%89%E4%BD%90%E5%8C%97%E5%8C%BA-%E6%B1%82%E4%BA%BA.html",
+    "https://jp.stanby.com/search?cp_id=222759&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "https://www.hai.co.jp/recruitment/",
+    "https://en-hyouban.com/company/00003766259/salary/",
+    "https://www.hellowork.careers/%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "https://www.r-agent.com/job_search/kw/%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__00003766259/",
+    "https://jobcatalog.yahoo.co.jp/company/1000006672/salaries/"
+   ]
+  },
+  {
+   "query": "広島アルミニウム工業 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.hai.co.jp/recruitment/newgraduate/",
+    "https://job.mynavi.jp/27/pc/search/corp2427/employment.html",
+    "https://www.cognavi.jp/catalog/100928/000001/",
+    "https://job.career-tasu.jp/corp/00031246/",
+    "https://www.hai.co.jp/recruitment/",
+    "https://syukatsu-kaigi.jp/companies/18089",
+    "https://www.instagram.com/p/DJtVWJvPi1l/",
+    "https://www.kurashimanet.jp/job/company/1508",
+    "https://job.mynavi.jp/27/pc/search/corp2427/outline.html"
+   ]
+  },
+  {
+   "query": "site:note.com 広島アルミニウム工業",
+   "results": [
+    "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "https://note.com/diecast1981/n/nedf0855b6ec3",
+    "https://note.com/nihonkiin/n/n087a7cfc542a",
+    "https://note.com/nihonkiin/n/ne2c8d17c2285",
+    "https://note.com/nihonkiin/n/n2c527ba28116",
+    "https://note.com/happy_hiko1039/n/na96384ba5a81",
+    "https://note.com/nihonkiin/n/n6758e103cb7a",
+    "https://note.com/nihonkiin/n/n0781302aaf4c",
+    "https://note.com/nihonkiin/n/ne42c4e2c6684",
+    "https://note.com/nihonkiin/n/n8a780e81b078"
+   ]
+  },
+  {
+   "query": "site:x.com 広島アルミニウム工業",
+   "results": [
+    "https://x.com/ange_violet_/status/1375744322100895747",
+    "https://x.com/ygd862/status/1504711888424288256",
+    "https://x.com/hirodai_bad/status/1930785472168747153",
+    "https://x.com/uij_gohiroshima/status/1694490620994420820?lang=ar-x-fm",
+    "https://x.com/kidowebnews/status/1863135428968366300",
+    "https://x.com/ygd862/status/1506180135321759747?lang=bg",
+    "https://x.com/hirodai_bad",
+    "https://x.com/ygd862/status/1504712117588750336?lang=bg",
+    "https://x.com/igokishikikaku",
+    "https://x.com/IGO_INFINITY"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 広島アルミニウム工業",
+   "results": [
+    "https://cr.linkedin.com/company/%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://nl.linkedin.com/company/%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://no.linkedin.com/company/%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/in/%E6%85%8E%E4%B9%9F-%E7%94%B0%E5%B3%B6-64110111a",
+    "https://www.linkedin.com/pub/dir/Mishima/+",
+    "https://www.linkedin.com/pub/dir/%E5%81%A5%E5%A4%AA%E9%83%8E/%E5%8E%9F%E7%94%B0",
+    "https://www.linkedin.com/pub/dir/+/Tomisaki",
+    "https://mx.linkedin.com/in/%E6%98%8C%E5%BC%98-%E5%B1%B1%E7%94%B0-7413b565",
+    "https://jp.linkedin.com/pub/dir/%E5%81%A5%E5%A4%AA%E9%83%8E/%E5%8E%9F%E7%94%B0/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/company/広島アルミニウム工業（株）"
+   ]
+  },
+  {
+   "query": "site:facebook.com 広島アルミニウム工業",
+   "results": [
+    "https://www.facebook.com/JBIC.Japan/posts/jbic-today%E3%82%8F%E3%81%8C%E7%A4%BE%E3%81%AE%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E5%B1%95%E9%96%8B%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8B%E3%82%89%E3%83%9E%E3%83%84%E3%83%80%E3%81%AE%E4%B8%BB%E8%A6%81%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E3%81%9D%E3%81%97%E3%81%A6%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3%E9%80%B2%E5%87%BA%E3%81%B8%E6%8A%80%E8%A1%93%E3%81%A7%E3%82%82%E7%B5%8C%E5%96%B6%E3%81%A7%E3%82%82%E6%8C%91%E6%88%A6%E3%82%92%E7%B6%9A%E3%81%91%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%A2%E3%83%AB/946358434200252/",
+    "https://www.facebook.com/pages/%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD%E6%A0%AA/786967311316586",
+    "https://www.facebook.com/aisapohiroshima/posts/4%E6%9C%888%E6%97%A5%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AB%E3%81%A6%E6%96%B0%E5%85%A5%E7%A4%BE%E5%93%A1%E7%A0%94%E4%BF%AE%E3%81%AE%E4%B8%80%E7%92%B0%E3%81%A8%E3%81%97%E3%81%A6%E5%87%BA%E5%89%8D%E8%AC%9B%E5%BA%A7%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E8%AC%9B%E5%B8%AB%E3%81%AB%E3%81%AF%E5%BA%83%E5%B3%B6%E5%B8%82%E6%89%8B%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90%E8%82%B2%E6%88%90%E4%BC%9A-%E3%81%82%E3%81%B3%E9%9A%8A%E3%81%AE%E7%9A%86%E3%81%95%E3%81%BE%E3%82%92%E3%81%8A%E8%BF%8E%E3%81%88%E3%81%97%E7%9F%A5%E7%9A%84%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3%E3%81%AB%E3%81%A4%E3%81%84/957578547027746/",
+    "https://www.facebook.com/public/%E7%94%B0%E5%B3%B6-%E6%85%8E%E4%B9%9F/?locale=ja_JP",
+    "https://www.facebook.com/p/Naomi-Kaji-100006175865042/",
+    "https://www.facebook.com/ryuichi.takao/",
+    "https://ja-jp.facebook.com/public/Tomonori-Koike",
+    "https://www.facebook.com/public/%E9%83%B7%E5%9C%B0%E7%A7%80%E4%B8%80/",
+    "https://www.facebook.com/pref.hiroshima/posts/%E9%9A%9C%E5%AE%B3%E8%80%85%E9%9B%87%E7%94%A8%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%80%E4%BC%81%E6%A5%AD%E3%82%92%E8%A1%A8%E5%BD%B099%E7%81%AB%E3%81%AB%E9%9A%9C%E5%AE%B3%E8%80%85%E3%81%AE%E7%A9%8D%E6%A5%B5%E7%9A%84%E3%81%AA%E9%9B%87%E7%94%A8%E3%82%92%E9%80%B2%E3%82%81%E3%82%8B%E7%9C%8C%E5%86%85%E5%84%AA%E8%89%AF%E4%BC%81%E6%A5%AD%EF%BC%93%E7%A4%BE%E3%82%92%E8%A1%A8%E5%BD%B0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEasahicho%E5%BA%83%E5%B3%B6%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%80%E3%82%A4%E3%82%BB%E3%83%AB%E5%A4%A7%E7%AB%B9/1267950195368178/",
+    "https://www.facebook.com/p/%E6%A5%AB-%E7%9C%9F%E7%90%86%E5%AD%90-100004182390128/"
+   ]
+  },
+  {
+   "query": "広島アルミニウム工業 note 社長",
+   "results": [
+    "https://www.hai.co.jp/company/greeting/",
+    "https://note.com/td_group_pr/n/n2cb3f49a1e3b",
+    "https://www.youtube.com/watch?v=4Q-KYPNadOs",
+    "https://www.instagram.com/reel/DLrhxZnvw6o/",
+    "https://leadersclub.chugoku-np.co.jp/posts/092",
+    "https://www.kurashimanet.jp/job/company/1508",
+    "https://www.jbic.go.jp/ja/information/today/today_202407/jtd_202407_ogc1.html",
+    "https://www.instagram.com/p/DJtWZYovHgQ/",
+    "https://ja.wikipedia.org/wiki/広島アルミニウム工業",
+    "https://www.hai.co.jp/company/company_profile/"
+   ]
+  },
+  {
+   "query": "広島アルミニウム工業 X 投稿",
+   "results": [
+    "https://www.hai.co.jp/",
+    "https://www.youtube.com/watch?v=n0mmWZTg5m0",
+    "https://www.instagram.com/p/DJtWu-FPNNd/",
+    "https://www.youtube.com/channel/UCvVY-Rpw7Xd4cYlhwz5bLgA",
+    "https://www.instagram.com/reel/DLrhxZnvw6o/",
+    "https://api01-platform.stream.co.jp/apiservice/plt3/MzU3MQ%3D%3D%23NDc1NA%3D%3D%232c6%2318f%230%2333E3B9D86400%23OzEw%23",
+    "https://www.youtube.com/watch?v=4Q-KYPNadOs",
+    "https://ohda-job.com/hiroshima-aluminum/",
+    "https://syukatsu-kaigi.jp/companies/18089/jobhunt_prompt_reports",
+    "https://x.com/hashtag/広島アルミニウム工業株式会社"
+   ]
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式12頁／PDF・画像5件／外部12頁・検索8回）"
+ }
+}

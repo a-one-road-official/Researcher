@@ -1,0 +1,1875 @@
+{
+ "name": "日野自動車",
+ "aliases": [],
+ "context": "全国／出典:マイナビ／求人媒体:求人ボックス／想定年収:600〜731万円／従業員:不明",
+ "researched_at": "2026-11-05T06:05:25.014216+00:00",
+ "official_url": "https://the-shashi.com/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "全社 > 歴代社長",
+    "value": "GET https://the-shashi.com /api /ceo.json",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "label": "全社 > 歴代社長",
+    "value": "GET https://the-shashi.com /api /ceo.json",
+    "url": "https://the-shashi.com/tse/1982/",
+    "pass": 1
+   },
+   {
+    "label": "全社 > 歴代社長",
+    "value": "GET https://the-shashi.com /api /ceo.json",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上収益",
+    "value": "36,974億円",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "label": "売上債権の増減額（△は増加）",
+    "value": "百万円 1,906 ▲3,138 1,140 ▲1,461 1,569 1,397 212 1,024 ▲3,130 ▲4,026 –",
+    "url": "https://the-shashi.com/tse/1777/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "461億円",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "百万円 2,317 2,561 10.5%",
+    "url": "https://the-shashi.com/tse/220A/",
+    "pass": 1
+   },
+   {
+    "label": "売上原価",
+    "value": "百万円 733 787 7.3%",
+    "url": "https://the-shashi.com/tse/220A/",
+    "pass": 1
+   },
+   {
+    "label": "売上総利益",
+    "value": "百万円 1,584 1,774 12.0%",
+    "url": "https://the-shashi.com/tse/220A/",
+    "pass": 1
+   },
+   {
+    "label": "売上債権の増減額（△は増加）",
+    "value": "百万円 ▲29 ▲50 –",
+    "url": "https://the-shashi.com/tse/220A/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "百万円 2,281 2,663 1,302 1,554 1,147 902 919 941 748 1,752 134.3%",
+    "url": "https://the-shashi.com/tse/3823/",
+    "pass": 1
+   },
+   {
+    "label": "売上原価",
+    "value": "百万円 1,509 1,821 530 893 852 848 550 622 393 851 116.7%",
+    "url": "https://the-shashi.com/tse/3823/",
+    "pass": 1
+   },
+   {
+    "label": "売上総利益",
+    "value": "百万円 772 842 772 661 295 54 369 319 355 900 153.7%",
+    "url": "https://the-shashi.com/tse/3823/",
+    "pass": 1
+   },
+   {
+    "label": "売上債権の増減額（△は増加）",
+    "value": "百万円 77 ▲69 17 ▲17 41 27 ▲38 32 11 6 ▲50.0%",
+    "url": "https://the-shashi.com/tse/3823/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "百万円 10,114 13,155 17,032 19,694 22,160 23,529 24,352 25,136 26,448 26,997 2.1%",
+    "url": "https://the-shashi.com/tse/6189/",
+    "pass": 1
+   },
+   {
+    "label": "売上原価",
+    "value": "百万円 8,488 11,053 14,703 17,234 19,385 20,654 21,304 23,050 23,783 24,311 2.2%",
+    "url": "https://the-shashi.com/tse/6189/",
+    "pass": 1
+   },
+   {
+    "label": "売上総利益",
+    "value": "百万円 1,626 2,102 2,328 2,459 2,774 2,874 3,047 2,085 2,665 2,685 0.8%",
+    "url": "https://the-shashi.com/tse/6189/",
+    "pass": 1
+   },
+   {
+    "label": "売上収益",
+    "value": "百万円 10,911 12,592 16,790 18,183 19,378 6.6%",
+    "url": "https://the-shashi.com/tse/9251/",
+    "pass": 1
+   },
+   {
+    "label": "売上原価",
+    "value": "百万円 5,550 6,435 8,761 9,594 10,223 6.6%",
+    "url": "https://the-shashi.com/tse/9251/",
+    "pass": 1
+   },
+   {
+    "label": "売上総利益",
+    "value": "百万円 5,360 6,157 8,029 8,589 9,154 6.6%",
+    "url": "https://the-shashi.com/tse/9251/",
+    "pass": 1
+   },
+   {
+    "label": "買収者の売上高",
+    "value": "3,720億57百万円 2012年3月期・単体。従業員数5,974名（2012年4月1日現在）",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "百万円 1,581 1,581 1,581 1,581 1,581 1,581 1,581 1,581 1,581 1,581 0.0%",
+    "url": "https://the-shashi.com/tse/1777/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "百万円 100 100 0.0%",
+    "url": "https://the-shashi.com/tse/220A/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "百万円 410 828 1,338 387 590 766 1,115 1,115 1,618 2,062 27.5%",
+    "url": "https://the-shashi.com/tse/3823/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "百万円 1,250 1,256 1,267 1,275 1,278 1,288 1,296 1,302 1,309 1,321 0.9%",
+    "url": "https://the-shashi.com/tse/6189/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "百万円 90 169 194 195 211 8.2%",
+    "url": "https://the-shashi.com/tse/9251/",
+    "pass": 1
+   },
+   {
+    "label": "被取得企業の資本金",
+    "value": "22,182千米ドル 発表時点。第55期の関係会社の状況では10米ドルと記載されている",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "商品及び製品",
+    "value": "百万円 – – 34 2 16 2 2 3 1 203 20403.2%",
+    "url": "https://the-shashi.com/tse/3823/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "米国コネチカット州スタンフォード 177 Broad Street。有価証券報告書の関係会社の状況では米国デラウェア州",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用ページ": [
+   {
+    "quote": "「住宅情報」「カーセンサー」の創刊とリクルート事件",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "アルバイト・パート求人情報事業のリクルートフロムエーを設立",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "1992年5月22日、創業者の江副浩正氏は保有するリクルート株をダイエーへ譲渡すると発表した",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "江副浩正氏が売却に踏み切ったのは、バブル崩壊でリクルートコスモスとファーストファイ…",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "スタッフサービス・Indeedの買収とリクルートHDへの持株会社化",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年12月、リクルートの本原仁志常務執行役員が、人材派遣のスタッフサービス・ホールディングスの代表取締役社長に就任した",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "本原仁志常務執行役員は、2003年6月からグループの派遣会社リクルートスタッフィングの社長を務めていた",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "研究所Recruit Institute of Technologyを設立",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "リクルートに中核事業会社・機能会社7社を統合",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "インディードリクルートパートナーズを連結子会社化",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "RGF International Recruitment Holdingsの株式を譲渡",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年10月、リクルートホールディングスは東京証券取引所市場第一部に株式を上場した",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "リクルートは2012年10月に米国の求人検索サイトIndeedを買収し、海外の人材事業の基盤を得ていた",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年〜：Indeedの買収と、8社への会社分割で生まれたリクルートホールディングス",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "リクルートHD 公式サイト「沿革」（2026年10月）",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "リクルートホールディングス ニュースリリース「新・住宅総合ブランド『SUUMO（スーモ）』本格スタート！」（2009年7月29日）",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "日経ビジネス No.160 p16-19「江副浩正氏（日本リクルートセンター社長）が語る新入社員気質」（日経BP社）（1976年4月26日）",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "現代の眼 別冊「江副浩正（日本リクルートセンター社長）——就職を産業にしたアイデアマン」（坂口義弘）",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "日経ビジネス No.597 p53-56「リクルート",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "浪花節的M&A、後でつじつま合わせ リクルート経営陣に気づかい」（日経BP社）（1992年7月27日）",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "日経ビジネス No.489 p88-89「位田尚隆氏（リクルート）登場」（日経BP社）（1988年2月29日）",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "日経ビジネス「河野栄子氏［リクルート社長］「理想の上司」が3代目社長に」（1997年7月14日）",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "日経ビジネス「リクルート、ネットビジネスのすごい実力」（1999年9月13日）",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "日経ビジネス「リクルート、IT関連で資本提携も視野」（2000年1月31日）",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "日経ビジネス「楽天が就職サイトで攻勢 リクルート・ヤフー独占提携でネット求人界に激震」（2004年4月5日）",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "ジェイエイシーリクルートメント 有価証券報告書「沿革」",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "ジェイエイシーリクルートメント 有価証券報告書（2025年12月期）【沿革】",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "人材派遣への参入と「JAC Recruitment」商標の譲受",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "Emmergarden Holdings Ltdから「JAC Recruitment」の商標権を譲受",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "JAC Singapore・JAC Recruitment UK・AGENSI PEKERJAAN JACと業務提携",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "JAC Personnel Recruitment Ltdと業務提携",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年6月に「JAC Recruitment」の商標権を譲り受け、2002年8月にシンガポール・英国などのJACと業務提携した",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "商号をジェイ エイ シー リクルートメントに変更",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "JAC Recruitment Hong Kongと業務提携契約を締結",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "JAC Recruitment Korea Co., Ltdと業務提携",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "JAC Recruitment Vietnam Co., Ltdと業務提携",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "JAC Recruitment Asiaの子会社化と海外拠点の再編",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "JAC Recruitment India Private Ltdと業務提携",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "JAC Recruitment （Germany） GmbH i.Grを設立",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "JAC Recruitment Asia Ltdの会社名をJAC Recruitment International Ltdに変更",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "JAC Recruitment （US）, Inc.を設立",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "JAC Recruitment Hong Kong Co., Ltdを解散",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "JAC Recruitment Germanyがミュンヘンオフィスを開設",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "JAC Recruitment Netherlandsを開設",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月にJAC Recruitment Asia Ltdを子会社化し2020年に広州、2023年に上海の法人を解散した",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "ジェイエイシーリクルートメントについて調べる",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "ジェイエイシーリクルートメント 公式サイト「沿革」（2026年10月）",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "ジェイエイシーリクルートメントの財務データ一覧を見る",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "米Indeedを買収｜2012年・リクルートHD",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "（2012年・リクルートHDの決断）",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年9月25日、リクルートは米国Indeed, Inc.の全株式の取得で同社と合意したと発表し、同年10月に子会社化した",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "50カ国以上・26言語に対応し、月間約8千万人が訪れて15億件の求人検索を生む技術力とユーザー基盤に、リクルートが長年蓄えたメディア運営の知見を掛け合わせる構想を掲げた",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "リクルートHD：HRテクノロジー事業ののれんの推移",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "Recruit Global Staffing社の取得で連結ののれんが141,892増加した",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "出所：リクルートホールディングス 有価証券報告書 第58期・第59期（2018年3月期・2019年3月期）【のれん及び無形資産】 ／ リクルートホールディングス 有価証券報告書 第60期〜第65期（2020年3月期〜2025年3月期）【経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析】各セグメントに帰属する地域別のれん金額",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "リクルートHD：HRテクノロジー事業の売上収益とセグメント利益",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "出所：リクルートホールディングス 有価証券報告書 第58期〜第65期（2018年3月期〜2025年3月期）【事業セグメント】外部顧客からの売上収益・セグメント利益 ／ リクルートホールディングス 有価証券報告書 第55期〜第57期（2015年3月期〜2017年3月期）【経営成績等の状況の概要】海外人材募集領域",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "会社分割で持株会社体制へ移行し、社名をリクルートホールディングスへ変更",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "出所：リクルート ニュースリリース 2012年9月25日「米国Indeed Inc.の株式取得（完全子会社化）に関するお知らせ」 ／ リクルートホールディングス 有価証券報告書 第55期（2015年3月期）【沿革】【関係会社の状況】・第58期（2018年3月期）【のれん及び無形資産】",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "リクルート ニュースリリース 2012年9月25日「米国Indeed Inc.の株式取得（完全子会社化）に関するお知らせ」 ／ リクルートホールディングス 有価証券報告書 第55期（2015年3月期）【沿革】【関係会社の状況】・第58期（2018年3月期）【のれん及び無形資産】",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "300万円の借入で始めた広告代理業",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "1960年〜：300万円の借入で始めた広告代理業",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "日本基準の連結のれんは213,051百万円",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "88,920百万円",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "3,720億57百万円",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 連結従業員数4.6万名・平均年収1,162万円（単体130名）",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "1981年12月期の年商は642億円、資本金は9億9000万円、従業員は1400名で、銀座のキャバレー跡地に地上11階地下3階の新社屋を構えていた",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "1981年12月期 資本金9億9000万円・年商642億円・従業員1400名、銀座のキャバレー跡地に地上11階地下3階の新社屋",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年4月期には売上高1757億5900万円を上げ、リクルートの1986年12月期の1384億円を超えた",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年4月期売上高1757億5900万円（リクルートの1986年12月期は1384億円）、長短借入金3722億円・自己資本比率10.6%",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "が新電電の参入に合わせて専用回線の使用料を予想を超える速さで下げ、東京・大阪間の6メガビット高速デジタル回線の月額使用料は1985年7月の1100万円から1991年には740万円へ3割以上安くなっている",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "東京・大阪間の6メガビット高速デジタル回線の月額使用料は1985年7月の1100万円から1991年7月に740万円へ3割以上下落",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 連結従業員数4.6万名・平均年収1,162万円（単体130名）",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "日野自動車の「年収・給与制度」 OpenWork",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車の「年収・給与制度」 ＜社員のクチコミ情報＞",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "155万円〜1500万円",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "正社員396人の社員クチコミから年収データを集計した結果、",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車の平均年収は618万円です",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車の職種別平均年収で最も高いのは営業職で686万円でした",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "続いて、生産技術職の684万円、技術職の671万円、設計職の657万円、総合職の596万円、管理職の594万円の順となっています",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "また、最も高い営業職と最も低い技能職の年収差は241万円で、職種によって大きな差があることが分かります",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 基本給の他交替手当がある 交...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度の特徴： 給与制度： 基本的には...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度の特徴： 給与制度： 同業他社に...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 給与が低い 非組合員最高位の...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 実力主義より年齢のイメージ ...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 高卒でもそんなに悪くはないか...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車経験者のキャリア事例・年収推移を見る（5人）",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： D5・A7などの職位テーブル...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度の特徴： 給与制度： 管理職は年...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 初任給が上げたことにより、昇...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度の特徴： 給与制度： 普通勤務(...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 基本給は同業他社に比べて低い...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度の特徴： 給与制度： 等級ごとに...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度の特徴： 給与制度： 基本給が低...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： JTC（日本伝統的企業）らし...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 賞与は年2回ある",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度： 事務・技術職は右記資格が与え...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.6万円〜21.2万円",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20.4万円〜21万円",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給22.3万円〜22.9万円",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給22.3万円〜23万円",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20.6万円",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20.1万円〜22.2万円",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "「給与」だから、",
+    "url": "https://www.hino-recruit-ginou-highschool.net/",
+    "pass": 3
+   },
+   {
+    "quote": "後から見たら＋6万円の衝撃と「チキン利確」のリアル",
+    "url": "https://note.com/tag/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "ダイエー傘下での1.4兆円の負債返済とリクナビの開始",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "スタッフサービス・Indeedの買収とリクルートHDへの持株会社化",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "リクルートは2012年10月に米国の求人検索サイトIndeedを買収し、海外の人材事業の基盤を得ていた",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年〜：リクナビ・OPT制度と、河野栄子社長が決着させたダイエー保有株の買い戻し",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年〜：ホットペッパーで始めた狭域ビジネスと、柏木斉社長のもとでのリクナビ競争",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年〜：Indeedの買収と、8社への会社分割で生まれたリクルートホールディングス",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年：米Indeedを買収",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "米Indeedを買収｜2012年・リクルートHD",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年9月25日、リクルートは米国Indeed, Inc.の全株式の取得で同社と合意したと発表し、同年10月に子会社化した",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "100%子会社の米国法人をIndeedへ吸収させ、Indeed社の株主へは現金を支払う現金交付合併の方式を採った",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "Indeedはその型から外れ、自社では求人を持たないまま月間8千万人を集める",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "Indeedが独立した報告セグメントとして姿を見せるのは買収から5年半後の2018年3月期で、それまでは人材メディア事業の一領域として、2年続けて8割を超える増収率を示す注記のなかにあった",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "IFRSへ移った2016年4月1日の時点でも、Indeedに配分されたのれんは889億円で、連結ののれん1,692億円の半分ほどにとどまる",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "この時点のHRテクノロジー事業はIndeedだけで構成される",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "Indeed, Inc.",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "100％子会社の米国法人とIndeedを、Indeedを存続会社として合併させた",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "IFRS移行日2016年4月1日のIndeedに関連するのれんの帳簿価額",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "求人検索は月15億件、50カ国以上・26言語に対応（いずれもIndeed社調べ）",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "欧米で急成長するIndeedが当社グローバルプラットフォームになりうると判断",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "出所：リクルート ニュースリリース 2012年9月25日「米国Indeed Inc.の株式取得（完全子会社化）に関するお知らせ」 ／ リクルートホールディングス 有価証券報告書 第55期（2015年3月期）【沿革】【関係会社の状況】・第58期（2018年3月期）【のれん及び無形資産】",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "リクルート ニュースリリース 2012年9月25日「米国Indeed Inc.の株式取得（完全子会社化）に関するお知らせ」 ／ リクルートホールディングス 有価証券報告書 第55期（2015年3月期）【沿革】【関係会社の状況】・第58期（2018年3月期）【のれん及び無形資産】",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "リクルート ニュースリリース「米国Indeed Inc.の株式取得（完全子会社化）に関するお知らせ」",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "Indeed, Inc. プレスリリース「Indeed to be Acquired by Recruit（2012年9月25日）」",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年：米Indeedを買収",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "「企業への招待」「住宅情報」、リクルート事件、Indeed買収と東証一部上場までの沿革と経緯を執筆",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "章「ダイエー傘下での1.4兆円の負債返済とリクナビの開始」を読む →",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年：米Indeedを買収",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "「企業への招待」「住宅情報」、リクルート事件、Indeed買収と東証一部上場までの沿革と経緯を執筆",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイエー傘下での1.4兆円の負債返済とリクナビの開始",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "スタッフサービス・Indeedの買収とリクルートHDへの持株会社化",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "売上収益3兆6,974億円を上げる人材サービスの大手である",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "36,974億円",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "1,383億円",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "3,000億円",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "4,436億円",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "15,886億円",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "1975年9月期の売上高104億円",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "1981年12月期の年商642億円",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信事業が約100億円の赤字",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "不況の前まで年率4割から5割で伸びていた売上高は、1974年の103億円から1975年9月期の104億円へほぼ横ばいに止まり、1976年9月期の見込みは120億円であった",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイエー保有株のうち25.2%を約1000億円で買い戻し",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "江副浩正氏の申し入れは発表のおよそ10日前で、売買額は約455億円、発行済み株式の33.9%にあたった",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "米Glassdoorを1,430億円で買収",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "自己株式取得を6,000億円へ",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年〜：HRテクノロジーを中核とした3事業体制と、Glassdoorの1,430億円での買収",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年〜：出木場久征社長の就任と、6,000億円に拡大した自己株式取得",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年：米Glassdoorを1,430億円で買収",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年：自己株式取得を6,000億円へ",
+    "url": "https://the-shashi.com/tse/6098/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎設備工業の財務データ（10期）",
+    "url": "https://the-shashi.com/tse/1777/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎設備工業 | 2016年3月期〜2025年3月期",
+    "url": "https://the-shashi.com/tse/1777/",
+    "pass": 1
+   },
+   {
+    "quote": "1976年にガスタービン組立工場を新設し、1989年には技術研究施設を開設して設備技術を磨いた",
+    "url": "https://the-shashi.com/tse/1982/",
+    "pass": 1
+   },
+   {
+    "quote": "空調・衛生などの建築設備工事を手がける会社で、2025年3月期の売上高は898億円",
+    "url": "https://the-shashi.com/tse/1982/",
+    "pass": 1
+   },
+   {
+    "quote": "1976年組立工場を新設",
+    "url": "https://the-shashi.com/tse/1982/",
+    "pass": 1
+   },
+   {
+    "quote": "東京設備・大恵工事の吸収合併とガスタービン組立工場の新設",
+    "url": "https://the-shashi.com/tse/1982/",
+    "pass": 1
+   },
+   {
+    "quote": "日比谷総合設備取引先持株会 理事長 奥田 香代子",
+    "url": "https://the-shashi.com/tse/1982/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期の売上高は461億円、営業利益率は25.4%で、国内人材紹介が9割を占める",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "担当者の厚みを拠点網より優先した帰結と言える",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "JAC Recruitment Asiaの子会社化と海外拠点の再編",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "連結したことで、不採算の拠点を閉じる判断を東京本社が下せるようになった",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "IFRSへ移った2016年4月1日の時点でも、Indeedに配分されたのれんは889億円で、連結ののれん1,692億円の半分ほどにとどまる",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別のれんは10億円単位の開示で、196.4十億円と記載",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "10億円単位の開示で201.5十億円",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "10億円単位の開示で227.0十億円",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "10億円単位の開示で246.9十億円",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "10億円単位の開示で280.3十億円",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "10億円単位の開示で277.1十億円",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "日本基準では海外人材募集領域の売上高1,202億円",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "取得原価3,651億円を投じ、海外本社を英国に設置した",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "2,551億円を投じた資産運用事業への本格進出",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年：米Glassdoorを1,430億円で買収",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年：自己株式取得を6,000億円へ",
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "pass": 1
+   },
+   {
+    "quote": "不況の前まで年率4割から5割で伸びていた売上高は、1974年の103億円から1975年9月期の104億円へほぼ横ばいに止まり、1976年9月期の見込みは120億円であった",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "不況前は年率4〜5割の成長、1974年103億円・1975年9月期104億円・1976年9月期は120億円の見込み",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "1981年12月期の年商は642億円、資本金は9億9000万円、従業員は1400名で、銀座のキャバレー跡地に地上11階地下3階の新社屋を構えていた",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "1981年12月期 資本金9億9000万円・年商642億円・従業員1400名、銀座のキャバレー跡地に地上11階地下3階の新社屋",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "意思決定は平均2週間、早ければ3日で済み、その速さが取引先に重宝されて月1500件の土地情報が持ち込まれた",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年4月期には売上高1757億5900万円を上げ、リクルートの1986年12月期の1384億円を超えた",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "ただし同期末の長短借入金は3722億円に達し、自己資本比率は10.6%しかなかった",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年4月期売上高1757億5900万円（リクルートの1986年12月期は1384億円）、長短借入金3722億円・自己資本比率10.6%",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "実際には情報通信事業の売上高が1991年3月期に540億円へ増加し、全体の15%を占めるまでになりながら、参入当初に年200億円近くあった赤字はこの期でも約100億円に上った",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年12月期から1990年3月期までの設備投資は約850億円に達し、償却も重くのしかかった",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "1991年3月期の情報通信事業は売上高540億円で全体の15%、赤字約100億円（参入当初は年200億円近い赤字）",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信事業の設備投資は1985年12月期から1990年3月期までで約850億円",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年：米Glassdoorを1,430億円で買収",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年：自己株式取得を6,000億円へ",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "米Glassdoorを1,430億円で買収",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "自己株式取得を6,000億円へ",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   },
+   {
+    "quote": "また、ものづくりの現場を学ぶ研修の一環として、工場実習も予定しております",
+    "url": "https://www.hino.co.jp/recruit/fresh/recruit/information/",
+    "pass": 3
+   },
+   {
+    "quote": "製造、工場作業、課員、在籍10～15年、退社済み(2025年より前)、中途入社、男性、日野自動車",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "会社説明会資料の沿革も、同じ1988年を千代田区での設立と人材紹介事業の開始の年として記した",
+    "url": "https://the-shashi.com/tse/2124/",
+    "pass": 1
+   },
+   {
+    "quote": "そんな先輩たちがどんな経験を経て一人前になっていったのか、職場で働く先輩社員の生の声を聞いてみましょう",
+    "url": "https://www.hino-recruit-ginou-highschool.net/",
+    "pass": 3
+   },
+   {
+    "quote": "採用スケジュール、インターンシップ制度の説明",
+    "url": "https://www.hino-recruit-ginou-highschool.net/",
+    "pass": 3
+   },
+   {
+    "quote": "先輩社員へのリアルなインタビューから、仕事内容ややりがい、日野の人の温かさなどを紐解きます",
+    "url": "https://www.hino.co.jp/recruit/fresh/index.html",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "、経済同友会の次の代表幹事と目された牛尾治朗氏、諸井虔氏の両副代表幹事も譲渡先に名を連ねるなど、財界の若手にまで波は及んだ",
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日野自動車 株式会社 の 求人 ・中途採用情報 - doda — 日野自動車 株式会社 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__00007872745",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00007872745/",
+    "pass": 3
+   },
+   {
+    "quote": "募集 要項 | 日野自動車 株式会社 | 採用サイト — 募集 要項 | 日野自動車 株式会社 | 採用サイト 日野自動車株式会社 https://www.hino.co.jp > fresh > recruit > information",
+    "url": "https://www.hino.co.jp/recruit/fresh/recruit/information/",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車 の「 年収 ・給与制度」 OpenWork — 日野自動車 の「 年収 ・給与制度」 OpenWork OpenWork https://www.openwork.jp > ... > 日野自動車",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車株式会社 の求人情報（220件） — 日野自動車株式会社 の求人情報（220件） スタンバイ",
+    "url": "https://jp.stanby.com/search?cp_id=695&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車 新卒 高卒 の求人情報をすべて見る （149件） — 日野自動車 新卒 高卒 の求人情報をすべて見る （149件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車 株式会社 高校生向け技能職 採用 サイト — 日野自動車 株式会社 高校生向け技能職 採用 サイト hino-recruit-ginou-highschool.net https://www.hino-recruit-ginou-highschool.net",
+    "url": "https://www.hino-recruit-ginou-highschool.net/",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車 株式会社 | 採用 サイト — 日野自動車 株式会社 | 採用 サイト 日野自動車株式会社 https://www.hino.co.jp > recruit > fresh",
+    "url": "https://www.hino.co.jp/recruit/fresh/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報 | 企業情報 | 日野自動車 株式会社 — 採用 情報 | 企業情報 | 日野自動車 株式会社 日野自動車株式会社 https://www.hino.co.jp > corp > recruit",
+    "url": "https://www.hino.co.jp/corp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "募集要項 | 日野自動車 株式会社 | 採用 サイト — 募集要項 | 日野自動車 株式会社 | 採用 サイト 日野自動車株式会社 https://www.hino.co.jp > fresh > recruit > information",
+    "url": "https://www.hino.co.jp/recruit/fresh/recruit/information/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "日野自動車 の人気・新着記事まとめ - note 日野自動車 の人気・新着記事まとめ - note note https://note.com > tag > 日野自動車",
+    "url": "https://note.com/tag/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車 の企業研究完全保存版‼ 日野自動車 株式会社/Hino ... 日野自動車 の企業研究完全保存版‼ 日野自動車 株式会社/Hino ... note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/akatsukikaname7/n/nb60e207736be",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車 （7205）36点：再建と統合の節目を迎える ... - note 日野自動車 （7205）36点：再建と統合の節目を迎える ... - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/it_daytrading/n/nf1d25c34cf83",
+    "pass": 3
+   },
+   {
+    "quote": "【動画解説版】 日野自動車 の企業研究完全保存版‼日野 ... - note 【動画解説版】 日野自動車 の企業研究完全保存版‼日野 ... - note note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/akatsukikaname7/n/n3f1afde8b13a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "日野自動車の人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A",
+    "pass": 3
+   },
+   {
+    "quote": "トラックやバスの製造を手がけ、三菱ふそうとの経営統合による新会社設立など大きな転換期を迎えています。",
+    "url": "https://note.com/tag/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A",
+    "pass": 3
+   },
+   {
+    "quote": "認証不正への対応や投資分析、採用対策など、企業の変革を巡る様々な記事が集まっています。",
+    "url": "https://note.com/tag/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A",
+    "pass": 3
+   },
+   {
+    "quote": "トラックやバスの製造を手がけ、三菱ふそうとの経営統合による新会社設立など大き…",
+    "url": "https://note.com/tag/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A",
+    "pass": 3
+   },
+   {
+    "quote": "タイヤ1本で、会社の信用が飛んでいく。車輪脱落128件と、1年で広がった「緩みを知らせる技術」",
+    "url": "https://note.com/tag/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A",
+    "pass": 3
+   },
+   {
+    "quote": "古参車ではないけれど、ちょっと珍しいハイブリッド車に乗れた",
+    "url": "https://note.com/tag/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A",
+    "pass": 3
+   },
+   {
+    "quote": "みなさんのお給料は振込ですか？手渡しですか？",
+    "url": "https://note.com/tag/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】ARCHIONは『買い』か？ — 巨大統合が生む商用車新時代の覇権と安全余裕率",
+    "url": "https://note.com/tag/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車の企業研究完全保存版‼日野自動車株式会社/Hino Motors, Ltd.で内定者続出!?就職成功の秘訣マニュアル｜あかつきかなめ 企業研究家",
+    "url": "https://note.com/akatsukikaname7/n/nb60e207736be",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車の企業研究完全保存版‼日野自動車株式会社/Hino Motors, Ltd.で内定者続出!?就職成功の秘訣マニュアル",
+    "url": "https://note.com/akatsukikaname7/n/nb60e207736be",
+    "pass": 3
+   },
+   {
+    "quote": "就職活動という人生の大きな転機において、どの企業を選ぶかはあなたの将来を左右する極めて重要な決断です。",
+    "url": "https://note.com/akatsukikaname7/n/nb60e207736be",
+    "pass": 3
+   },
+   {
+    "quote": "数ある企業の中でも、日本の物流を支え、世界中の人々の生活を支えている「日野自動車株式会社」に目をつけたあなたの直感は、非常に鋭いと言わざるを得ません。",
+    "url": "https://note.com/akatsukikaname7/n/nb60e207736be",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車は、単なる「トラックを作る会社」ではなく、世界のインフラを根底から支えるエッセンシャルな企業です。",
+    "url": "https://note.com/akatsukikaname7/n/nb60e207736be",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、その知名度の高さゆえに、内定を勝ち取るための倍率は決して低くはありません。",
+    "url": "https://note.com/akatsukikaname7/n/nb60e207736be",
+    "pass": 3
+   },
+   {
+    "quote": "表面的な知識だけで面接に挑んでも、百戦錬磨の採用担当者の心に響くことは難しいでしょう。",
+    "url": "https://note.com/akatsukikaname7/n/nb60e207736be",
+    "pass": 3
+   },
+   {
+    "quote": "この内容は、日野自動車への入社を心から熱望するあなたのために、徹底的な「日野自動車の企業研究」を網羅した完全保存版のマニュアルです。",
+    "url": "https://note.com/akatsukikaname7/n/nb60e207736be",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車（7205）36点：再建と統合の節目を迎えるトラック大手｜IT-daytrading",
+    "url": "https://note.com/it_daytrading/n/nf1d25c34cf83",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車（7205）36点：再建と統合の節目を迎えるトラック大手",
+    "url": "https://note.com/it_daytrading/n/nf1d25c34cf83",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車は1942年設立、1949年上場。トヨタ傘下でトラック・バス大手。事業構成はトラック・バス53％、トヨタ向け車両7％、補給部品10％、その他29％。営業利益率は3.4％と改善傾向ながら低水準。海外売上比率52％、主力はインドネシアなど東南アジア。26年春に三菱ふそうと経営統合し、持株会社の完全子会社化で上場廃止予定。他社と比べ再建色が濃いが、トヨタ支援の強みを持つ。",
+    "url": "https://note.com/it_daytrading/n/nf1d25c34cf83",
+    "pass": 3
+   },
+   {
+    "quote": "日野自は赤字続きから改善途上で、株式は上場廃止予定（26年4月）である点が最大の投資判断材料。短期的には業績改善と統合シナジー期待が株価を支える可能性があるが、配当停止中で投資魅力は乏しい。他の自動車大手（トヨタ、いすゞ）に比べ安定性で劣後するため、日野株は再建ストーリーを狙う投機的な位置づけ。長期安定投資より、統合比率やTOB条件を注視する局面。",
+    "url": "https://note.com/it_daytrading/n/nf1d25c34cf83",
+    "pass": 3
+   },
+   {
+    "quote": "財務状況：自己資本比率14.6％と脆弱、有利子負債4076億円。",
+    "url": "https://note.com/it_daytrading/n/nf1d25c34cf83",
+    "pass": 3
+   },
+   {
+    "quote": "株主還元：22年以降は配当ゼロ、還元余力なし。",
+    "url": "https://note.com/it_daytrading/n/nf1d25c34cf83",
+    "pass": 3
+   },
+   {
+    "quote": "成長性：売上は1.5兆〜1.7兆円で横ばい。利益は赤字基調。",
+    "url": "https://note.com/it_daytrading/n/nf1d25c34cf83",
+    "pass": 3
+   },
+   {
+    "quote": "過去数年：不正問題や市場競争で低迷。23/3期▲1176億円、25/3期▲2177億円の純損失。",
+    "url": "https://note.com/it_daytrading/n/nf1d25c34cf83",
+    "pass": 3
+   },
+   {
+    "quote": "【動画解説版】日野自動車の企業研究完全保存版‼日野自動車株式会社/Hino Motors, Ltd.で内定者続出!?就職成功の秘訣マニュアル｜あかつきかなめ 企業研究家",
+    "url": "https://note.com/akatsukikaname7/n/n3f1afde8b13a",
+    "pass": 3
+   },
+   {
+    "quote": "【動画解説版】日野自動車の企業研究完全保存版‼日野自動車株式会社/Hino Motors, Ltd.で内定者続出!?就職成功の秘訣マニュアル",
+    "url": "https://note.com/akatsukikaname7/n/n3f1afde8b13a",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車の企業研究完全保存版‼日野自動車株式会社/Hino Motors, Ltd.で内定者続出!?就職成功の秘訣マニュアル",
+    "url": "https://note.com/akatsukikaname7/n/n3f1afde8b13a",
+    "pass": 3
+   },
+   {
+    "quote": "をnotebooklmにて動画作成したものです。",
+    "url": "https://note.com/akatsukikaname7/n/n3f1afde8b13a",
+    "pass": 3
+   },
+   {
+    "quote": "文章で読む前に動画でサクッと企業の概要を理解したい就活生向けです。",
+    "url": "https://note.com/akatsukikaname7/n/n3f1afde8b13a",
+    "pass": 3
+   },
+   {
+    "quote": "動画閲覧後に詳しく読みたい方はメンバーシップの「",
+    "url": "https://note.com/akatsukikaname7/n/n3f1afde8b13a",
+    "pass": 3
+   },
+   {
+    "quote": "この動画を見るには下記からご確認ください。",
+    "url": "https://note.com/akatsukikaname7/n/n3f1afde8b13a",
+    "pass": 3
+   },
+   {
+    "quote": "​企業研究の深さが、キャリアの未来を決める。",
+    "url": "https://note.com/akatsukikaname7/n/n3f1afde8b13a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "日野自動車 株式会社 (@HINOJapan) / X 日野自動車 株式会社 (@HINOJapan) / X X https://x.com > HINOJapan",
+    "url": "https://x.com/HINOJapan",
+    "pass": 3
+   },
+   {
+    "quote": "南関東 日野自動車 株式会社 (@HINO_MKANTO) / X 南関東 日野自動車 株式会社 (@HINO_MKANTO) / X X https://x.com > HINO_MKANTO",
+    "url": "https://x.com/HINO_MKANTO",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by 日野自動車 株式会社 (@HINOJapan) / X Replies by 日野自動車 株式会社 (@HINOJapan) / X X https://x.com > HINOJapan > with_replies",
+    "url": "https://x.com/HINOJapan/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Highlights by 南関東 日野自動車 株式会社 (@HINO_MKANTO) / X Highlights by 南関東 日野自動車 株式会社 (@HINO_MKANTO) / X X https://x.com > HINO_MKANTO > highlights",
+    "url": "https://x.com/HINO_MKANTO/highlights",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "日野自動車 （株） - LinkedIn 日野自動車 （株） - LinkedIn LinkedIn https://www.linkedin.com > company > 日野自動車（株）",
+    "url": "https://www.linkedin.com/company/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車 （株） - LinkedIn 日野自動車 （株） - LinkedIn LinkedIn https://jp.linkedin.com > company > 日野自動車（株）",
+    "url": "https://jp.linkedin.com/company/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車 （株） - LinkedIn 日野自動車 （株） - LinkedIn LinkedIn Costa Rica https://cr.linkedin.com > company",
+    "url": "https://cr.linkedin.com/company/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "HINO / 日野自動車 株式会社 (@HINOofficial) - Facebook HINO / 日野自動車 株式会社 (@HINOofficial) - Facebook Facebook https://www.facebook.com > ... > Motor vehicle company",
+    "url": "https://www.facebook.com/HINOofficial/",
+    "pass": 3
+   },
+   {
+    "quote": "HINO / 日野自動車 株式会社 (@HINOofficial) - Mentions HINO / 日野自動車 株式会社 (@HINOofficial) - Mentions Facebook https://www.facebook.com > HINOofficial > mentions",
+    "url": "https://www.facebook.com/HINOofficial/mentions/",
+    "pass": 3
+   },
+   {
+    "quote": "HINO / 日野自動車 株式会社 - Facebook HINO / 日野自動車 株式会社 - Facebook Facebook https://www.facebook.com > HINOofficial > posts",
+    "url": "https://www.facebook.com/HINOofficial/posts/1777431217722739/",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車 - Home | Facebook 日野自動車 - Home | Facebook Facebook https://www.facebook.com > pages > 日野自動車",
+    "url": "https://www.facebook.com/pages/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A/816195912112460",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://the-shashi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-shashi.com/tse/6098/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-shashi.com/tse/1777/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://the-shashi.com/tse/1982/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-shashi.com/tse/2124/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-shashi.com/tse/220A/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://the-shashi.com/tse/3823/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://the-shashi.com/tse/6189/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://the-shashi.com/tse/9251/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://the-shashi.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-shashi.com/tse/6098/decisions/indeed-acquisition-2012/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-shashi.com/tse/6098/chapter-2/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00007872745/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hino.co.jp/recruit/fresh/recruit/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hino-recruit-ginou-highschool.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hino.co.jp/recruit/fresh/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/akatsukikaname7/n/nb60e207736be",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/it_daytrading/n/nf1d25c34cf83",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/akatsukikaname7/n/n3f1afde8b13a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/HINOJapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HINO_MKANTO",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HINOJapan/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HINO_MKANTO/highlights",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cr.linkedin.com/company/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HINOofficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HINOofficial/mentions/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HINOofficial/posts/1777431217722739/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A/816195912112460",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/HINOJapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HINO_MKANTO",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日野自動車 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00007872745/",
+    "https://www.hino.co.jp/recruit/fresh/recruit/information/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrTs&q_no=2",
+    "https://www.hino-recruit-ginou-fresh.net/recruit/requirements.html",
+    "https://jp.stanby.com/search?cp_id=695&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "https://www.aichi-hino.co.jp/recruit/information/",
+    "https://jobhouse.jp/factory/columns/1126",
+    "https://tenshoku.mynavi.jp/company/433444/",
+    "https://jobtalk.jp/companies/2514/answers?question_codes=earns",
+    "https://talentsquare.co.jp/career/hino-salary/"
+   ]
+  },
+  {
+   "query": "日野自動車 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.hino-recruit-ginou-highschool.net/",
+    "https://www.hino.co.jp/recruit/fresh/index.html",
+    "https://www.hino.co.jp/corp/recruit/",
+    "https://www.hino.co.jp/recruit/fresh/recruit/information/",
+    "https://www.youtube.com/watch?v=dOJBnVSdGB4",
+    "https://job.mynavi.jp/27/pc/search/corp140/outline.html",
+    "https://www.hino.co.jp/recruit/fresh/job_people/interview/",
+    "https://www.mkanto-hino.co.jp/recruit/fresh-sales/",
+    "https://www.hino.co.jp/corp/recruit/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 日野自動車",
+   "results": [
+    "https://note.com/tag/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A",
+    "https://note.com/akatsukikaname7/n/nb60e207736be",
+    "https://note.com/it_daytrading/n/nf1d25c34cf83",
+    "https://note.com/akatsukikaname7/n/n3f1afde8b13a",
+    "https://note.com/jobhuntkeyence/n/n4d71dd0a483a",
+    "https://note.com/cm_blib/n/n497c1f5102f6",
+    "https://note.com/yskhrn/n/n951faa0ce575",
+    "https://note.com/kaishamiru_jp/n/n4ff8ee314a39",
+    "https://note.com/hr793/n/n92b10c61967e",
+    "https://note.com/not365/n/ne458fbeb3626"
+   ]
+  },
+  {
+   "query": "site:x.com 日野自動車",
+   "results": [
+    "https://x.com/HINOJapan",
+    "https://x.com/HINO_MKANTO",
+    "https://x.com/HINOJapan/with_replies",
+    "https://x.com/HINO_MKANTO/highlights",
+    "https://x.com/IBARAKI_HINO",
+    "https://x.com/ReutersJapan/status/1932330988451119525",
+    "https://x.com/hashtag/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A",
+    "https://x.com/HINOJapan/status/2106293349158441190",
+    "https://x.com/i/trending/1932376081505653035",
+    "https://x.com/hinojapan"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 日野自動車",
+   "results": [
+    "https://www.linkedin.com/company/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/company/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/company/hino-motors-manufacturing-usa-inc.?trk=public_profile_experience-item_profile-section-card_image-click",
+    "https://cr.linkedin.com/company/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/in/yasuhisa-sugawara-baa3a5116",
+    "https://jp.linkedin.com/in/%E5%AD%9D%E5%8F%B8-%E5%8F%8B%E6%9D%BE-75b305169",
+    "https://jp.linkedin.com/company/hino-motor-sales-australia?trk=public_profile_experience-item_profile-section-card_image-click",
+    "https://jp.linkedin.com/in/masato-hirose-173457b2",
+    "https://jp.linkedin.com/in/hideki-kato-b864a2167",
+    "https://jp.linkedin.com/in/kazuki-shimizu-0222781b6"
+   ]
+  },
+  {
+   "query": "site:facebook.com 日野自動車",
+   "results": [
+    "https://www.facebook.com/HINOofficial/",
+    "https://www.facebook.com/HINOofficial/mentions/",
+    "https://www.facebook.com/HINOofficial/posts/1777431217722739/",
+    "https://www.facebook.com/pages/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A/816195912112460",
+    "https://www.facebook.com/HINOofficial/posts/1753641770101684/",
+    "https://www.facebook.com/HINOofficial/videos/802579928985452/",
+    "https://www.facebook.com/HINOofficial/posts/1782896197176241/",
+    "https://www.facebook.com/pages/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A/163711337016804",
+    "https://www.facebook.com/HINOofficial/posts/hino-%E3%82%92%E3%82%B5%E3%82%AF%E3%83%83%E3%81%A8%E7%9F%A5%E3%82%8D%E3%81%86%E7%94%9F%E7%94%A3%E6%8B%A0%E7%82%B9%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A-%E3%82%92%E3%82%B5%E3%82%AF%E3%83%83%E3%81%A8%E3%81%94%E7%B4%B9%E4%BB%8B%E7%AC%AC5%E5%BC%BE%E3%81%AE%E4%BB%8A%E5%9B%9E%E3%81%AF%E6%97%A5%E9%87%8E%E3%81%AE-%E7%94%9F%E7%94%A3-%E6%8B%A0%E7%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E6%97%A5%E9%87%8E%E3%81%AF%E5%9B%BD%E5%86%85%E3%81%AB%EF%BC%94%E3%81%A4%E3%81%AE%E7%94%9F%E7%94%A3%E6%8B%A0%E7%82%B9%E3%82%92%E6%A7%8B%E3%81%88%E3%81%A6%E3%81%8A%E3%82%8A%E6%9D%B1%E4%BA%AC%E9%83%BD%E3%81%AB/1163868405745693/",
+    "https://www.facebook.com/HINOofficial/posts/%E6%97%A5%E9%87%8E%E3%82%AA%E3%83%BC%E3%83%88%E3%83%97%E3%83%A9%E3%82%B630%E5%91%A8%E5%B9%B4%E6%84%9F%E8%AC%9D%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E9%96%8B%E5%82%AC%E6%97%A5%E9%87%8E%E3%82%AA%E3%83%BC%E3%83%88%E3%83%97%E3%83%A9%E3%82%B6%E3%81%AF%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%81%A8%E6%8A%80%E8%A1%93%E3%82%92%E4%BD%93%E6%84%9F%E3%81%A7%E3%81%8D%E3%82%8B%E4%BC%81%E6%A5%AD%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%E3%81%A7%E3%81%99%E9%96%8B%E9%A4%A830%E5%91%A8%E5%B9%B4%E3%82%92%E8%BF%8E%E3%81%88%E3%82%8B%E3%81%AB%E3%81%82%E3%81%9F%E3%82%8A%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8%E3%81%AE%E6%84%9F%E8%AC%9D%E3%81%AE%E6%B0%97%E6%8C%81/1701283858670809/"
+   ]
+  },
+  {
+   "query": "日野自動車 note 社長",
+   "results": [
+    "https://note.com/tag/%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A",
+    "https://www.nikkei.com/article/DGXZQOUC124EM0S6A210C2000000/",
+    "https://www.hino.co.jp/corp/about_us/corporate_information.html",
+    "https://www.hino.co.jp/corp/about_us/message.html",
+    "https://recruit.kobe-hino.co.jp/about/message.html",
+    "https://www.hino-recruit-ginou-highschool.net/company.html",
+    "https://www.youtube.com/watch?v=TrJuP5CvH-I",
+    "https://note.com/tag/%E6%97%A5%E9%87%8E%E7%A4%BE%E9%95%B7",
+    "https://sakuranote.net/sponsor/%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%A5%E9%87%8E%E8%87%AA%E5%8B%95%E8%BB%8A%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "https://the-shashi.com/tse/7205/ceo/"
+   ]
+  },
+  {
+   "query": "日野自動車 X 投稿",
+   "results": [
+    "https://x.com/HINOJapan",
+    "https://www.hino.co.jp/socialmedia_policy.html",
+    "https://www.hino.co.jp/corp/news/2014/20140225_02.html",
+    "https://x.com/HINO_MKANTO",
+    "https://www.hino.co.jp/japanmobilityshow2025/",
+    "https://fullload.bestcarweb.jp/news/14556",
+    "https://www.hino.co.jp/corp/hinotopics/",
+    "https://commons.wikimedia.org/wiki/File:Hino_Dutro_X_Hybrid_Cargo_XKU605M_for_Tokyo_Auto_Salon_2016.jpg",
+    "https://x.com/hinojapan",
+    "https://search.yahoo.co.jp/realtime/search/日野自動車/"
+   ]
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部24頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部24頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部24頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部24頁・検索8回）"
+ }
+}

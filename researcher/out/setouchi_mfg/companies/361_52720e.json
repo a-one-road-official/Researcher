@@ -1,0 +1,289 @@
+{
+ "name": "361",
+ "aliases": [],
+ "context": "岡山県岡山市／出典:大学・高専の企業説明会／求人媒体:Indeed;doda;engage;スタンバイ／想定年収:600〜681万円／従業員:10",
+ "researched_at": "2026-11-05T06:12:05.249504+00:00",
+ "official_url": "https://novafoam.jp/",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "高発泡プラスチック製品の製造及び販売",
+    "url": "https://novafoam.jp/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "塩﨑　英輔",
+    "url": "https://novafoam.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社・長野工場",
+    "value": "〒381-0211　長野県上高井郡小布施町雁田361番地1 TEL　026-247-2557(代表) FAX　026-247-2281",
+    "url": "https://novafoam.jp/company/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：昭和42年7月13日",
+    "url": "https://novafoam.jp/company/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "97,500千円",
+    "url": "https://novafoam.jp/company/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年商",
+    "value": "3,229百万円（2026年3月期）",
+    "url": "https://novafoam.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "174人（2026年3月現在）",
+    "url": "https://novafoam.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "果物の主要産地に生産拠点を構えることで、地域に根ざした迅速な対応と安定供給を実現",
+    "url": "https://novafoam.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "長野工場 自動選果機対応、ノバダンウェーブ、全国展開開始",
+    "url": "https://novafoam.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "長野工場 ノバールDX-H（重量物用バラ状緩衝材）販売開始",
+    "url": "https://novafoam.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "青森工場 23ホールネット生産開始",
+    "url": "https://novafoam.jp/company/",
+    "pass": 1
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "3,229百万円（2026年3月期）",
+    "url": "https://novafoam.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://novafoam.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://novafoam.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://novafoam.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://novafoam.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://novafoam.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10179676711/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE361",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mid-tenshoku.com/agency/a-5351/job-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=361+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://361recruit.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arwrk.net/recruit/xci0mraja0b3qap/9495923/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "361 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/Company/j_id__10179676711/",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE361",
+    "https://mid-tenshoku.com/agency/a-5351/job-list/",
+    "https://next.rikunabi.com/viewjob/jkfe951a45440d71d0/",
+    "https://en-hyouban.com/company/10200997356/",
+    "https://spojoba.com/job_offer/4997",
+    "https://arwrk.net/recruit/xci0mraja0b3qap/9983245/",
+    "https://jobtalk.jp/companies/9426089/answers",
+    "https://en-gage.net/user/search/desc/1181400/",
+    "https://jp.indeed.com/cmp/株式会社361"
+   ]
+  },
+  {
+   "query": "361 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=361+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://361recruit.com/recruit/",
+    "https://arwrk.net/recruit/xci0mraja0b3qap/9495923/",
+    "https://next.rikunabi.com/viewjob/jkd47b8ba8e44026b7/",
+    "https://mid-tenshoku.com/agency/a-5351/",
+    "https://en-gage.net/user/search/desc/2466942/",
+    "https://en-ambi.com/agency/a-5351/",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE361-2/jobs",
+    "https://www.miyazaki-seiko.co.jp/saiyo/information/highschool/",
+    "https://en-hyouban.com/company/10200997356/"
+   ]
+  },
+  {
+   "query": "site:note.com 361",
+   "results": [
+    "https://note.com/rapid_oriole4961/n/na44c805ee115",
+    "https://note.com/fshokai/n/n4ddf4ec012ff",
+    "https://note.com/361deg",
+    "https://note.com/rapid_oriole4961/n/nffa6166cbb47",
+    "https://note.com/1105shimada/n/n73ebf3fe74ac",
+    "https://note.com/keiwacampus/n/n7cff716b2c16",
+    "https://note.com/sarnathhall/n/n6186cd3a0468",
+    "https://note.com/holiday_records/n/n93ff41e104eb",
+    "https://note.com/sjsjsj/n/n7da45f4fb5d5",
+    "https://note.com/kkclub/n/n9ec0b6fd55f9?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com 361",
+   "results": [
+    "https://x.com/361_japan",
+    "https://x.com/361_japan/status/2116906856425914799",
+    "https://x.com/361_japan/reposts",
+    "https://x.com/361_japan/status/2116906856425914799/photo/1",
+    "https://x.com/361_japan/with_replies",
+    "https://x.com/361_japan/all?lang=es",
+    "https://x.com/361sport_global",
+    "https://x.com/Nebraska511/status/2117989320544121243",
+    "https://x.com/DanielLenton1/status/2117653039431713019",
+    "https://x.com/361_japan/all"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 361",
+   "results": [
+    "https://www.linkedin.com/company/361-degrees-international-ltd",
+    "https://www.linkedin.com/company/361-services",
+    "https://www.linkedin.com/company/361%C2%BA-usa",
+    "https://je.linkedin.com/jobs/%5Btao82.com%5D%E4%B8%89%E9%87%91%E5%A3%B6%E6%B8%B8%E6%88%8F%E5%AE%98%E7%BD%91api%E6%8E%A5%E5%8F%A3-jobs?position=1&pageNum=0",
+    "https://uk.linkedin.com/company/361-degrees-llp",
+    "https://www.linkedin.com/pulse/understanding-fdas-351-361-frameworks-what-medicine-know-koppenhaver-3mace",
+    "https://je.linkedin.com/jobs/%E6%9F%A5%E5%BC%80%E6%88%BF%E4%BF%A1%E6%81%AF%E5%9C%A8%E7%BA%BF%E6%9F%A5%E8%AF%A2%E3%80%96%E7%BD%91chadang.top%E3%80%97.ina-jobs",
+    "https://ie.linkedin.com/jobs/361%E7%BD%91%E7%90%83%E5%AE%98%E6%96%B9%E7%9B%B4%E6%92%AD%E9%97%B4%E7%B1%B3%E5%85%B0%E5%AE%98%E6%96%B9%E7%A7%80%E9%94%A6%E6%97%97%E2%9C%8C%E2%98%BE%E4%BB%A3%E2%98%BD%E2%98%BE%E5%8F%91%E2%98%BD%E2%98%BE%E8%B0%B7%E2%98%BD%E2%98%BE%E6%AD%8C%E2%98%BD%E2%9E%9F%E8%BF%9B%E2%9C%9A%E5%85%A5%E2%9E%9F%E2%98%BElo6n%EF%BD%A1cc%E2%98%BD%E2%9C%8C%E9%BE%99%E9%BE%99%E7%9B%B4%E6%92%AD%E6%95%85%E4%BA%8B%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%E8%9C%98%E8%9B%9B%E8%B6%B3%E7%90%83%E7%9B%B4%E6%92%AD%E5%85%A5%E5%8F%A3%E5%AE%98%E7%BD%9190%E5%B2%81%E8%80%81%E4%BA%BA%E8%87%AA%E9%A9%BE%E6%B8%B8%E6%94%BB%E7%95%A5/-jobs?position=1&pageNum=0",
+    "https://www.linkedin.com/pulse/philanthropy-nextgens-361-intel-mark-sanor-u3qpc",
+    "https://www.linkedin.com/company/360onefirm"
+   ]
+  },
+  {
+   "query": "site:facebook.com 361",
+   "results": [
+    "https://www.facebook.com/361usa/",
+    "https://www.facebook.com/361sportofficial/",
+    "https://www.facebook.com/ifalls.isd361/",
+    "https://www.facebook.com/361degreesrun/",
+    "https://www.facebook.com/groups/263473433707718/",
+    "https://www.facebook.com/sneakrtweakr/videos/129-and-this-colorway-reverses-itself-between-feet-361-big3-50-quick-reverse/1406891721561354/",
+    "https://www.facebook.com/361.Adventures/",
+    "https://www.facebook.com/361degreesbasketball/",
+    "https://www.facebook.com/361.lewarehouseltd/",
+    "https://www.facebook.com/361canada/"
+   ]
+  },
+  {
+   "query": "361 note 社長",
+   "results": [
+    "https://note.com/rapid_oriole4961/n/nffa6166cbb47",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://note.com/sadaaki",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://note.com/fshokai/n/n4ddf4ec012ff",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "361 X 投稿",
+   "results": [
+    "https://x.com/361_japan",
+    "https://www.instagram.com/361usa/",
+    "https://www.facebook.com/361sportofficial/videos/1147383071197327/",
+    "https://www.facebook.com/361sportofficial/",
+    "https://www.361usa.com/?srsltid=AYCX9vK_gTT4TcHj4mwIubOWcSCo4GJ7l84CViIvZFk0NfWsS-FTdf5S",
+    "https://ir.361sport.com/",
+    "https://x.com/361_japan/with_replies",
+    "https://www.youtube.com/@361Sportofficial",
+    "https://www.reddit.com/r/BBallShoes/comments/1iaj73k/361_x_3tudio_collab_bball_shoe_not_really_sure/?tl=ja",
+    "https://x.com/361_japan/status/2047525967548334266"
+   ]
+  }
+ ],
+ "missing": {
+  "主要取引先": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用ページ": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索8回）"
+ }
+}

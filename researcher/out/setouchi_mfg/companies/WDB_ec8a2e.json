@@ -1,0 +1,1348 @@
+{
+ "name": "WDB",
+ "aliases": [],
+ "context": "広島県大竹市／出典:大学・高専の企業説明会／求人媒体:マイナビ新卒;求人ボックス／想定年収:341〜742万円／従業員:不明",
+ "researched_at": "2026-11-05T06:05:59.722764+00:00",
+ "official_url": "https://www.wdb.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2011年（平成23年）11月1日",
+    "url": "https://www.wdb.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "創業：1985年（昭和60年）7月6日",
+    "url": "https://www.wdb.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "設立年月",
+    "value": "設立年月：2011年11月",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：1985年",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "4億5千万円",
+    "url": "https://www.wdb.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "450百万円",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "中野 敏光",
+    "url": "https://www.wdb.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "取締役 執行役員 エウレカ社 社長",
+    "value": "小原 万実",
+    "url": "https://www.wdb.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "取締役 執行役員 工学社 社長",
+    "value": "田代 修司",
+    "url": "https://www.wdb.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "中野敏光",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "中野敏光",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社 〒100-0005 東京都千代田区 丸の内1-4-1 丸の内永楽ビルディング 23F （ 地図 ） Tel： 03-6860-7111 （代） 神戸本社 〒650-0033 兵庫県神戸市中央区 江戸町101 （ 地図 ） Tel： 078-389-5711 （代） 神戸管理本部 〒650-0033 兵庫県神戸市中央区 江戸町101 （ 地図 ） Tel： 078-389-5721 （代） 姫路管理本部 〒670-0964 兵庫県姫路市豊沢町79 （ 地図 ） Tel： 079-257-0111 （代）",
+    "url": "https://www.wdb.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒100-0005 東京都千代田区 丸の内1-4-1 丸の内永楽ビルディング 23F （ 地図 ） Tel： 03-6860-7111 （代）",
+    "url": "https://www.wdb.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "神戸本社",
+    "value": "〒650-0033 兵庫県神戸市中央区 江戸町101 （ 地図 ） Tel： 078-389-5711 （代）",
+    "url": "https://www.wdb.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "本社住所 東京都千代田区丸の内2−3−2郵船ビルディング2F 業種 人材派遣・業務請負 設立年月 2011年11月 代表者 中野敏光",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "label": "本社住所",
+    "value": "東京都千代田区丸の内2−3−2郵船ビルディング2F",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都千代田区丸の内2丁目3番2号",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "現在のお取引先数",
+    "value": "約1,600法人 主要お取引先 国立研究開発法人 産業技術総合研究所 味の素株式会社 中外製薬株式会社 三菱ケミカル株式会社 日東電工株式会社 協和キリン株式会社 国立大学法人 京都大学 三菱電機株式会社 アステラス製薬株式会社 国立大学法人 東京大学 （敬称略・順不同）",
+    "url": "https://www.wdb.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "主要お取引先",
+    "value": "国立研究開発法人 産業技術総合研究所 味の素株式会社 中外製薬株式会社 三菱ケミカル株式会社 日東電工株式会社 協和キリン株式会社 国立大学法人 京都大学 三菱電機株式会社 アステラス製薬株式会社 国立大学法人 東京大学 （敬称略・順不同）",
+    "url": "https://www.wdb.co.jp/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "人材派遣サービス、人材紹介サービス",
+    "url": "https://www.wdb.co.jp/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "846名",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用ページ": [
+   {
+    "quote": "WDBグループ 新卒採用サイトの「ENTRY（2028年卒向け／会社説明会）」を更新しました",
+    "url": "https://www.wdb.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "WDBグループ 新卒採用サイトの「ENTRY（2027年卒向け／会社説明会）」を更新しました",
+    "url": "https://www.wdb.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "WDBグループ 新卒採用サイトの「ENTRY（2028年卒向け／1DAYお仕事体験）」を更新しました",
+    "url": "https://www.wdb.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大学・大学院で理学系分野を専攻した新卒採用の正社員を全国に派遣し、お客様が求めるスキル・知識・働く姿勢にお応えします",
+    "url": "https://www.wdb.co.jp/company/internal-company.html",
+    "pass": 1
+   },
+   {
+    "quote": "WDB株式会社の求人・採用情報｜求人ボックス",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "グループで、新卒採用に関するスカウトメールの送信業務をお任せします",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "WDB工学社の採用区分の特徴や募集要項、選考の流れ、求める人物像など、採用に関する情報をまとめています",
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "WDBグループ 新卒採用サイトの「ENTRY（2028年卒向け／会社説明会）」を更新しました",
+    "url": "https://www.wdb.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "WDBグループ 新卒採用サイトの「ENTRY（2027年卒向け／会社説明会）」を更新しました",
+    "url": "https://www.wdb.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大学内での会社説明会スタッフ／キャンパスプロモーター",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "「ENTRY（2028年卒向け／会社説明会）」を更新しました",
+    "url": "https://www.wdbhd.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "「ENTRY（2027年卒向け／会社説明会）」を更新しました",
+    "url": "https://www.wdbhd.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "先輩社員はWDBグループの何に「はまった」のか",
+    "url": "https://www.wdbhd.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "WDBグループで働く先輩社員の1日に密着",
+    "url": "https://www.wdbhd.co.jp/recruit/graduate/",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "また、人手不足に対しては、全国の研修所で人材養成研修を実施することで、適正な価格で、可能な限り求められる納期内に就業を開始できるように対応してきました",
+    "url": "https://www.wdb.co.jp/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "」より、翌年4月に意欲のある若手研究員の派遣が可能です",
+    "url": "https://www.wdb.co.jp/company/service/",
+    "pass": 1
+   },
+   {
+    "quote": "」には、若手の社員が多数在籍しています",
+    "url": "https://www.wdb.co.jp/company/service/",
+    "pass": 1
+   },
+   {
+    "quote": "若手のうちは責任者をしながら営業活動を行うので残業時間が多い",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "若手でも数字を挙げており、手を挙げれば昇進できると聞きました",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "4億5千万円",
+    "url": "https://www.wdb.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "派遣スタッフと社員に対する継続的な給与改定",
+    "url": "https://www.wdb.co.jp/company/responsibility.html",
+    "pass": 1
+   },
+   {
+    "quote": "資本金4億5千万円に増資",
+    "url": "https://www.wdb.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "「年収」の求人には、月給表記の求人も含みます",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給28万円～32万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給24万5,000円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "WDBの年収・給与 平均年収 - エン カイシャの評判",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "WDB株式会社の正社員109人の回答によると平均年収は363万円、年収範囲は230～650万円です",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "カイシャの評判に掲載されている年収情報は、当該企業で就業経験のある方を対象としたアンケートを基に、有効な回答かつ、雇用形態が正社員の回答から算出しております",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトの年収情報は、ユーザーの皆様に投稿いただいた時点の回答に基づいているため、実際の年収とは異なる可能性があります",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "WDB株式会社の年収・給与についての口コミ",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給は年に一度、１万円ほどであったが、物価の上昇によるものなのか勤続年数に応じたものであるかは不明",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は年に二回、それぞれ月給の1か月分であった",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "派遣先から良い評価をもらっても自分から昇給や昇格を申し出ないと変化はしない",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:正社員扱いとはいえ、技術派遣...",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員扱いとはいえ、技術派遣として入社してる以上大きな昇給は見込めません",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給を望むなら営業や管理担当など内勤の部署かと思います",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "基本給がかなり低く、派遣先で就業状態の手当で月給が保たれているので万が一就業先がない状態になった際の月給が不安",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:就業先や評価によるようですが...",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "就業先や評価によるようですが、昇給は多くはないものの毎年あります",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "最近は賃上げの影響もあり基本給が5%や8%上がるなど就業先が賃上げに前向きなところでは昇給に期待できます",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は夏と冬にありますが、それぞれ月給の1ヶ月に満たない程度なので少なめです",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "就業先の評価によって昇給額が変わるようです",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年収・給与の満足点:正社員型派遣は派遣...",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:私が支給されたのは基本給のほ...",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は夏・冬・年度末賞与がその年度ごとに支給があった",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員型派遣にとってこれはあまり大きな額とはいえなかったが年収で考えるとそこそこの額だったと思った",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:賞与は年1.5ヶ月分なので、...",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は年1.5ヶ月分なので、業務量と比較すると割に合わない人はいると思います",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:正社員型派遣は、形式上正社員...",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "勤務地も、給与も、時間も",
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "「卒業区分」・「採用区分」を選択し、「この条件でモデル年収を見る」を押すとモデル年収が表示されます",
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "役割や責任の範囲が広がる分、転籍後は年収アップが期待できます",
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "5年間の勤務を経て退職する場合、退職時に達成金として50万円を支給します",
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "総合職への異動では、職位の向上とあわせて、年収アップも期待できます",
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "WDB工学社の正社員型派遣として働く場合と、中堅・大企業で正社員として働く場合の年収を比較すると、",
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "※5年目で転職し、「キャリア助走達成金50万円」が支給された場合",
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "最終的な生涯年収は新卒で正社員として入社した場合と同程度まで到達します",
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "（下図黄色箇所）WDB工学社で5年勤務してから大企業／中堅企業へ転職することで、中小企業での生涯年収と比較して大きく差が出てきます",
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "事業所80拠点（120ブランチ）、研修所30拠点、サポートデスク2拠点",
+    "url": "https://www.wdb.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "新設分割により資本金3億円でWDB株式会社を設立し、人材サービス事業をWDBホールディングス株式会社からWDB株式会社へ承継",
+    "url": "https://www.wdb.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "WDBは全国に事業所80拠点（120ブランチ）、研修所30拠点、サポートデスク2拠点で運営しています",
+    "url": "https://www.wdb.co.jp/company/branch/",
+    "pass": 1
+   },
+   {
+    "quote": "神奈川県川崎市幸区堀川町580",
+    "url": "https://www.wdb.co.jp/company/branch/",
+    "pass": 1
+   },
+   {
+    "quote": "の取引先企業で研究開発業務や品質管理業務に従事します",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機ソフトウェア／三菱電機エンジニアリング／東京エレクトロン／テルモ／日機装／日立グローバルライフソリューションズ／グローリー（敬称略・順不同）",
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工／都筑製作所／大学・公的研究機関（敬称略・順不同）",
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "豊田自動織機／ホンダアクセス／本田技研工業／三菱電機モビリティ／三菱電機エンジニアリング／日油（敬称略・順不同）",
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "豊田自動織機／本田技研工業／三菱電機ソフトウェア／三菱電機エンジニアリング（敬称略・順不同）",
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "テルモ／日機装／川崎重工（敬称略・順不同）",
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "電力テクノシステムズ／四国計測工業／三菱電機ソフトウェア（敬称略・順不同）",
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の営業拠点・オペレーションセンターは、東京、大阪、神戸、沖縄に設置されている",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "東京・大阪・神戸は医薬品企業との接点を持ちやすい地域であり、沖縄を含む複数拠点で業務を行うことで、災害時などの事業継続体制にも配慮している",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "日本CRO協会のAnnual Report 2025によると、協会会員企業の2024年の総売上高は2,300.2億円で、前年の2,537.3億円から9.3％減少した",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "また、ＷＤＢココの主力領域に近いGVP関連、いわゆるPV・安全性情報関連業務の売上高は、前年から19.8％減少して272.3億円となった",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期から2025年3月期までの3年間で、売上高は36.15億円から53.26億円へ増加した",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は48.15億円へ減少し、営業利益は9.57億円まで落ち込んだ",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、業務量が減ったとしても、人件費や拠点費用などが同じ割合ですぐに減るわけではない",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期の売上高53.26億円と比較すると、2027年3月期予想の売上高46.55億円は、約12.6％低い水準となる",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益についても、2025年3月期の13.06億円から2027年3月期予想の9.60億円へ、約26.5％低下したままである",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月末の現金及び現金同等物は37.61億円であり、総資産57.04億円の約66％を占める",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "利益が減少した2026年3月期でも、営業キャッシュ・フローは5.70億円の黒字だった",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "投資キャッシュ・フローを差し引いた簡易的なフリーキャッシュ・フローは約4.90億円となり、減益局面でも現金を積み上げている",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、現金37.61億円、自己資本比率83.8％という財務状況を考えると、配当性向35.4％でもなお余力は大きい",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "特に中外製薬向け売上は16.54億円で、全体の31.1％を占めていた",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "ＷＤＢココは、2026年3月末時点で37.61億円の現金及び現金同等物を保有している",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "1および1によれば、2025年3月期末の総資産 55.85億円のうち、なんと 34.78億円 が「現金及び預金」です",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   },
+   {
+    "quote": "直近の2026年3月期第1四半期末でも、総資産 52.72億円のうち、",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   },
+   {
+    "quote": "33.87億円",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期で 16.3%（純利益 9.12億円 ÷ 総資産 55.85億円）1",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 22.0% （売上高 50.63億円、営業利益 11.12億円 2）",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣は、業績悪化を無視し、親会社（WDB-HD）10 に指示されて、会社に溜まった現金（34.78億円）1 を無理やり配当（タコ足配当）として流出させようとしている",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期の配当総額は 1.92億円 1 でした",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   },
+   {
+    "quote": "95円に増配しても、配当総額は 2.3億円程度でしょう",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   },
+   {
+    "quote": "WDBココが保有する現金は 34.78億円 1 です",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   },
+   {
+    "quote": "(※) WDBココの予想PER 8.7倍 = 現在株価 ¥2,632 4 ÷ 予想EPS ¥303.6（2の予想純利益 7.5億円 ÷ 推定発行済株式数 2,470,000株）",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "WDB株式会社の求人・採用情報｜求人ボックス",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックスは、検索結果に掲載する求人を通して対価を得ることがあります",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックスでは、類似する求人が複数ヒットした際に求人を探しやすくなるよう自動で非表示にしています",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックスでは、求人の要約部分などにAI技術を利用しております",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックスは、食べログ・価格.com・キナリノなどを運営する株式会社カカクコムが運営しています",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "登録ボタンを押すことにより、求人ボックスの",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "※規約同意後は、求人ボックスから新着求人やおすすめの求人などの求人情報をご連絡することがあります",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "メール受信設定は、求人ボックスからのメールに記載されている配信停止のリンク、またはマイページからいつでも停止できます",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "・求人ボックス会員サービスでは、プロフィール情報を保存して効率的に求人に応募ができます",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "WDB 株式会社の平均 年収 、年間給与所得情報 - doda — WDB 株式会社の平均 年収 、年間給与所得情報 - doda doda https://doda.jp > CompanyIncome > j_id__10115145405",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10115145405/",
+    "pass": 3
+   },
+   {
+    "quote": "WDB 株式会社の 求人 ・採用情報 - 求人ボックス — WDB 株式会社の 求人 ・採用情報 - 求人ボックス 求人ボックス https://求人ボックス.com > WDB株式会社の仕事",
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "WDB の 年収 ・給与 平均 年収 - エン カイシャの評判 — WDB の 年収 ・給与 平均 年収 - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company > salary",
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "WDB の「 年収 ・給与制度」 OpenWork — WDB の「 年収 ・給与制度」 OpenWork OpenWork https://www.openwork.jp > 人材サービス > WDB",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FqlC&q_no=2",
+    "pass": 3
+   },
+   {
+    "quote": "WDB ホールディングス株式会社の 年収 ・給与 — WDB ホールディングス株式会社の 年収 ・給与 らくらく求人検索 https://hw-jobs.careermine.jp > 企業年収ランキング",
+    "url": "https://hw-jobs.careermine.jp/salary/wdb-holdings",
+    "pass": 3
+   },
+   {
+    "quote": "WDB 新卒 高卒 の求人情報をすべて見る （136件） — WDB 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "WDB 工学社 新卒採用 — WDB 工学社 新卒採用 WDB工学社 https://www.wdb-k.co.jp > recruit > graduate",
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "WDB グループ 新卒採用 — WDB グループ 新卒採用 WDBホールディングス株式会社 https://www.wdbhd.co.jp > recruit > graduate",
+    "url": "https://www.wdbhd.co.jp/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "WDB (株)の 新卒採用 ・会社概要 | マイナビ2027 — WDB (株)の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp206483 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206483/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "キャリア 採用 - WDB株式会社 — キャリア 採用 - WDB株式会社 WDB株式会社 https://www.wdb.co.jp > recruit > career",
+    "url": "https://www.wdb.co.jp/recruit/career/",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "WDB ホールディングス（2475）最新株価・配当情報と ... - note WDB ホールディングス（2475）最新株価・配当情報と ... - note note https://note.com > noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-2475",
+    "pass": 3
+   },
+   {
+    "quote": "WDB ココ（7079）は再成長できるのか？高収益CRO企業の ... WDB ココ（7079）は再成長できるのか？高収益CRO企業の ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "WDB ココ（証券コード: 7079）企業分析｜ようじ - note WDB ココ（証券コード: 7079）企業分析｜ようじ - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/kakuka0904/n/n1e1ad15d95ec",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】 WDB ココ株式会社は『買い』か？ - note 【バフェットの視点】 WDB ココ株式会社は『買い』か？ - note note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ＷＤＢホールディングス（2475）株価・今後の見通し・予想｜noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-2475",
+    "pass": 3
+   },
+   {
+    "quote": "ＷＤＢココ（7079）は再成長できるのか？高収益CRO企業の事業概要と業績見通し。｜くんくん",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "ＷＤＢココ（7079）は再成長できるのか？高収益CRO企業の事業概要と業績見通し。",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "※本記事は、2026年5月24日時点で公表されている情報に基づいて作成しています。特定銘柄の売買を推奨するものではありません。",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "ＷＤＢココは1984年に設立され、2019年に東京証券取引所マザーズへ上場、現在は東証グロース市場に上場している。2026年3月末時点の従業員数は、臨時雇用者95名を含む611名である。",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品・医療機器における安全性情報管理、市販後調査（PMS）、臨床研究を主軸とした、市販後業務に特化したCRO",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "同社の営業拠点・オペレーションセンターは、東京、大阪、神戸、沖縄に設置されている。東京・大阪・神戸は医薬品企業との接点を持ちやすい地域であり、沖縄を含む複数拠点で業務を行うことで、災害時などの事業継続体制にも配慮している。",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "2. そもそもCROとは何をする会社なのか",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品は、研究段階から承認、販売後まで非常に長い時間をかけて管理される。",
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "pass": 3
+   },
+   {
+    "quote": "WDBココ（証券コード: 7079）企業分析｜ようじ",
+    "url": "https://note.com/kakuka0904/n/n1e1ad15d95ec",
+    "pass": 3
+   },
+   {
+    "quote": "WDBココ（証券コード: 7079）企業分析",
+    "url": "https://note.com/kakuka0904/n/n1e1ad15d95ec",
+    "pass": 3
+   },
+   {
+    "quote": "1. 主力事業の内容と経済的な堀（参入障壁・独自優位性）",
+    "url": "https://note.com/kakuka0904/n/n1e1ad15d95ec",
+    "pass": 3
+   },
+   {
+    "quote": "主力事業の概要: WDBココは医薬品・医療機器メーカー向けにCRO（開発業務受託機関）サービスを提供する企業で、特に医薬品の安全性情報管理（ファーマコビジランス; PV）業務に特化しています  。主な事業は、市販後の副作用情報の収集・評価・報告といった安全性情報管理支援、医薬品承認後の製造販売後調査（PMS）支援、臨床研究支援、薬事申請資料の作成・QC（品質チェック）支援などであり、市販後の薬剤監視業務を中心に展開しています 。また近年は治験（臨床試験）や医療機器分野の支援サービスにも領域を広げつつあります。これらのサービスはいずれも医薬品の開発・販売に不可欠な業務であり、高度な専門知識と厳格な規制対応が求められる分野です。",
+    "url": "https://note.com/kakuka0904/n/n1e1ad15d95ec",
+    "pass": 3
+   },
+   {
+    "quote": "経済的な堀・参入障壁: WDBココの強みは特化型CROとしての確立された地位とノウハウにあります。他社がCRO業務の一部としてPV業務を扱うのに対し、同社は安全性情報管理を主軸に専門特化しているため、この領域で深い知見と豊富な実績を蓄積しています 。実際、同社は安全性情報管理受託で国内トップクラスのシェアを持ち、製薬業界内で高い知名度を誇っています 。この実績により50社以上の製薬企業との強固な信頼関係を築いており、継続的な受注につながっています 。既存顧客との長期契約や高いリピート率は、新規参入企業にとって大きな参入障壁となります。",
+    "url": "https://note.com/kakuka0904/n/n1e1ad15d95ec",
+    "pass": 3
+   },
+   {
+    "quote": "また、同社はサービスの品質と効率を両立する独自の業務プロセスを確立しています。従来、人に依存しがちだった安全性情報管理業務に対し、業務プロセスの標準化・自動化と分業体制を徹底することで、「圧倒的に低価格かつ高品質なサービス」を実現しようとする戦略を掲げています 。属人的な対応を減らし、DX（デジタルトランスフォーメーション）技術も駆使して業務を最適化することで、新たな業界標準を創出しようとしています 。このような効率化ノウハウや自社開発の手順・システムは模倣が難しく、価格面・品質面での優位性として機能しています。",
+    "url": "https://note.com/kakuka0904/n/n1e1ad15d95ec",
+    "pass": 3
+   },
+   {
+    "quote": "さらに親会社WDBホールディングスによるグループシナジーも経済的な堀です。親会社は理学系研究職の人材サービスで国内最大級の実績を持ち、研究開発分野の派遣スタッフの3人に1人がWDBグループから就業しているほどの人材基盤があります 。このバックグラウンドにより、WDBココは未経験の理系人材を積極的に採用・育成できる体制を持っています。新人研修用のトレーニングセンター（神戸）を設置し独自の研修プログラムで戦力化しており、業界内では**「未経験者を正社員で受け入れるほぼ唯一のPV専門CRO」**とも評されています 。豊富な人材プールと育成力は、人材確保が鍵となるCRO業界で大きな強みとなり、新規参入者が同規模の人材を集め育成するのは容易ではありません。",
+    "url": "https://note.com/kakuka0904/n/n1e1ad15d95ec",
+    "pass": 3
+   },
+   {
+    "quote": "以上のように、専門特化による実績と信頼、プロセス革新による低コスト・高品質、人材供給力といった点でWDBココは経済的な堀を築いています。これらの参入障壁により、顧客企業にとって同社サービスは代替の効きにくい価値を提供しており、安定した事業基盤を支えています。",
+    "url": "https://note.com/kakuka0904/n/n1e1ad15d95ec",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】ＷＤＢココ株式会社は『買い』か？ — 高収益ニッチ企業を襲った「一時的な嵐」と「増配」のシグナル｜AIバフェット研究所 所長",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】ＷＤＢココ株式会社は『買い』か？ — 高収益ニッチ企業を襲った「一時的な嵐」と「増配」のシグナル",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   },
+   {
+    "quote": "ウォーレン・バフェットは、投資家にこうアドバイスしています。「ほとんどの人は、素晴らしい企業をそこそこの価格で買うほうが、そこそこの企業を素晴らしい価格で買うよりもずっとうまくいく」。",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   },
+   {
+    "quote": "私たちの仕事は、まずその企業が「素晴らしい企業」かどうかを見極めることです。「素晴らしい企業」とは、持続的な競争優位性、すなわち「経済的な堀（モート）」を持ち、投下した資本に対して高いリターン（ROEやROIC）を生み出し続けることができる企業を指します。",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、市場（ミスター・マーケット）は時に感情的になり、素晴らしい企業の株価を、まるで倒産寸前の企業であるかのように叩き売ることがあります。これこそが、バフェットが「素晴らしい企業を、素晴らしい価格で買う」絶好の機会と呼ぶものです。",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   },
+   {
+    "quote": "本日分析するWDBココ（7079）は、まさにこの典型的な状況に直面しています。",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   },
+   {
+    "quote": "企業の基礎理解（サークル・オブ・コンピテンス）",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   },
+   {
+    "quote": "ブランド/コスト/スイッチングコスト/無形資産/参入障壁",
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "WDB Consulting - LinkedIn WDB Consulting - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/wdb-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "Bay Consortium WDB - Workforce Development - LinkedIn Bay Consortium WDB - Workforce Development - LinkedIn LinkedIn https://www.linkedin.com > bay-cons...",
+    "url": "https://www.linkedin.com/in/bay-consortium-wdb-454558265",
+    "pass": 3
+   },
+   {
+    "quote": "WDB Medical Data, Inc. - LinkedIn WDB Medical Data, Inc. - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/wdb-medical-data-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "WDB , INC. - LinkedIn WDB , INC. - LinkedIn LinkedIn https://www.linkedin.com > wdb-inc",
+    "url": "https://www.linkedin.com/company/wdb-inc.",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "WDB Agency (@wdbagency) - Facebook WDB Agency (@wdbagency) - Facebook Facebook https://www.facebook.com > ... > Web Designer",
+    "url": "https://www.facebook.com/wdbagency/",
+    "pass": 3
+   },
+   {
+    "quote": "WDB , Inc. | Twin Falls ID - Facebook WDB , Inc. | Twin Falls ID - Facebook Facebook https://www.facebook.com > ... > Disability Service",
+    "url": "https://www.facebook.com/wdbcareinc/",
+    "pass": 3
+   },
+   {
+    "quote": "The WDB Trust (@thewdbtrust) - Photos - Facebook The WDB Trust (@thewdbtrust) - Photos - Facebook Facebook https://www.facebook.com > ... > The WDB Trust",
+    "url": "https://www.facebook.com/thewdbtrust/photos/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.wdb.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wdb.co.jp/company/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wdb.co.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wdb.co.jp/company/philosophy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wdb.co.jp/company/responsibility.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wdb.co.jp/company/strength/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wdb.co.jp/company/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wdb.co.jp/company/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wdb.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wdb.co.jp/company/internal-company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wdb.co.jp/company/branch/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.wdb.co.jp/assets/img/top/index_img_company-detail.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.wdb.co.jp/assets/img/top/index_img_recruit-title.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.wdb.co.jp/assets/img/top/index_img_recruit-graduate.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10115145405/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/10007494982/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wdb-k.co.jp/recruit/graduate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wdbhd.co.jp/recruit/graduate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-2475",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kakuka0904/n/n1e1ad15d95ec",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/wdb-consulting",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/bay-consortium-wdb-454558265",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/wdb-medical-data-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/wdb-inc.",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/wdbagency/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/wdbcareinc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thewdbtrust/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "WDB 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10115145405/",
+    "https://xn--pckua2a7gp15o89zb.com/WDB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://en-hyouban.com/company/10007494982/salary/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FqlC&q_no=2",
+    "https://hw-jobs.careermine.jp/salary/wdb-holdings",
+    "https://employment.en-japan.com/comp-63961/list/",
+    "https://www.wdb.com/",
+    "https://www.wdb-k.co.jp/recruit/career/salary-bonus/",
+    "https://jobtalk.jp/companies/422275",
+    "https://jobcatalog.yahoo.co.jp/company/1000000481/salaries/"
+   ]
+  },
+  {
+   "query": "WDB 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=wdb+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.wdb-k.co.jp/recruit/graduate/",
+    "https://www.wdbhd.co.jp/recruit/graduate/",
+    "https://job.mynavi.jp/27/pc/search/corp206483/outline.html",
+    "https://www.wdb.co.jp/recruit/career/",
+    "https://www.wdb-eu.com/recruit/",
+    "https://www.wdbcoco.com/recruit/",
+    "https://www.instagram.com/p/C6xgBSyxkfz/",
+    "https://www.wdbhd.co.jp/recruit/",
+    "https://www.gakujo.ne.jp/campus/company/employ/71537/"
+   ]
+  },
+  {
+   "query": "site:note.com WDB",
+   "results": [
+    "https://note.com/deft_knot1002/n/n4cb5486f2b3c",
+    "https://note.com/tag/vm/investment_money/company-2475",
+    "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "https://note.com/kakuka0904/n/n1e1ad15d95ec",
+    "https://note.com/tag/vm/investment_money/company-7079",
+    "https://note.com/btro/n/n980f273e86d5",
+    "https://note.com/morip/n/ndd6ba782480a",
+    "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "https://note.com/jrdbn/n/nbc2f5a027e48",
+    "https://note.com/pocoa_420/n/nc383f7d5d649"
+   ]
+  },
+  {
+   "query": "site:x.com WDB",
+   "results": [
+    "https://x.com/LBVFS/status/2116238840352706701",
+    "https://x.com/USIofIndia/status/2116584317480771630",
+    "https://x.com/LosCampesinos/status/1385654911996674055",
+    "https://x.com/jtstrecker/status/2098534847295975896/photo/2",
+    "https://x.com/DRDO_India/status/2079748070888411403",
+    "https://x.com/NayanimaBasu/status/2075552010800410821",
+    "https://x.com/RNstarted0404/status/2114191508534599694",
+    "https://x.com/hashtag/%ED%95%84%EB%A6%AC%ED%95%80%EC%B7%A8%EC%97%85%5B%ED%85%94kimtim1004%5D%EC%83%9D%ED%99%9C%EB%B9%84%EC%A7%80%EA%B8%89.wdb",
+    "https://x.com/hashtag/DitaCardigans",
+    "https://x.com/zaionline/status/1922859326735102106"
+   ]
+  },
+  {
+   "query": "site:linkedin.com WDB",
+   "results": [
+    "https://www.linkedin.com/company/wdb-consulting",
+    "https://www.linkedin.com/in/bay-consortium-wdb-454558265",
+    "https://www.linkedin.com/company/wdb-medical-data-inc-",
+    "https://www.linkedin.com/company/wdb-inc.",
+    "https://www.linkedin.com/company/wdb-agency",
+    "https://sb.linkedin.com/jobs/%EC%84%B1%EC%A0%81%EC%A6%9D%EB%AA%85%EC%84%9C%EC%9C%84%EC%A1%B0%20%EA%B0%80%EA%B2%A9%20%EC%95%88%EC%A0%84%20%E3%80%96%E3%89%B8%ED%86%A1%20:%20F999%20%ED%85%94%EB%A0%88%20:%20VCD777%E3%80%97.wdb-jobs",
+    "https://sz.linkedin.com/jobs/w%20ww55hhcom%20no%20Brasil%20%E2%80%93%20Acesse%2058H58.COM.wdb-jobs",
+    "https://zw.linkedin.com/jobs/Site%20da%20l55co%20m%20para%20usu%C3%A1rios%20do%20Brasil:%2058H58.COM.wdb-jobs",
+    "https://www.linkedin.com/in/gilduzanski",
+    "https://uk.linkedin.com/company/wdb-ltd"
+   ]
+  },
+  {
+   "query": "site:facebook.com WDB",
+   "results": [
+    "https://www.facebook.com/wdbagency/",
+    "https://www.facebook.com/wdbcareinc/",
+    "https://www.facebook.com/thewdbtrust/photos/",
+    "https://www.facebook.com/LATTCCalworksResourceHub/posts/looking-for-a-meaningful-career-selaco-wdb-is-helping-connect-job-seekers-with-a/1548692043946704/",
+    "https://www.facebook.com/wdbmarketing/posts/votewhen-team-wdb-gets-a-chance-to-collaborate-with-the-largest-black-owned-groc/1733237375469023/",
+    "https://www.facebook.com/WorkforceDevOfMSWNJ/",
+    "https://www.facebook.com/WDBLandscaping/",
+    "https://www.facebook.com/WDBinvestments/",
+    "https://www.facebook.com/SELACOWIB/",
+    "https://www.facebook.com/wedobetterdesign/"
+   ]
+  },
+  {
+   "query": "WDB note 社長",
+   "results": [
+    "https://note.com/open_azalea2045/n/n151b86aae1d0",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://www.nikkei.com/article/DGXMZO53277730S9A211C1000000/",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.wdbhd.co.jp/recruit/manage/interview/manager02.html",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/naminori_383/n/n54b0f2cd6058",
+    "https://x.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ]
+  },
+  {
+   "query": "WDB X 投稿",
+   "results": [
+    "http://www.wdb.design/",
+    "https://x.com/wbd/photo",
+    "https://s.kabutan.jp/stocks/2475/news/",
+    "https://www.wdb.com/mypage",
+    "https://doplus-rep.com/",
+    "https://www.wdbhd.co.jp/ir/press/",
+    "https://syukatsu-kaigi.jp/companies/14790",
+    "https://www.facebook.com/wdbagency/",
+    "https://x.com/wdb___",
+    "https://search.yahoo.co.jp/realtime/search/WDB/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像3件／外部17頁・検索8回）"
+ }
+}

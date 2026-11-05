@@ -1,0 +1,387 @@
+{
+ "name": "122",
+ "aliases": [],
+ "context": "山口県下関市／出典:大学・高専の企業説明会／求人媒体:Indeed;engage;マイナビ転職／想定年収:150〜1300万円／従業員:不明",
+ "researched_at": "2026-11-05T06:19:23.373835+00:00",
+ "official_url": "https://www.yamashita-kogyosho.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創　　業",
+    "value": "創　　業：1963年（昭和38年）9月",
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "設　　立",
+    "value": "設　　立：1974年（昭和49年）12月",
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代 表 者",
+    "value": "代表取締役　山下竜登（やましたたつと）",
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資 本 金",
+    "value": "2,000万円",
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所 在 地",
+    "value": "本社工場（精密板金、半導体製造装置部品） 〒744-0002　山口県下松市東海岸通り1番27 TEL：（0833）41-3333（代）／FAX：（0833）43-6914 第一工場（打ち出し、車両組み立て） 〒744-0002　山口県下松市東豊井122番5 TEL：（0833）45-5353（代）／FAX：（0833）45-5335",
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "40名（男性29名、女性11名／2026年9月末現在）",
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "鉄道車両部品の製造 先頭構体等の打ち出し板金、計器盤等の車両板金 半導体製造装置部品の製造 薄板精密板金",
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "2,000万円",
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "2000 万円",
+    "url": "https://www.yamashita-kogyosho.com/company/img/brochure.pdf?01",
+    "pass": 2
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "日立製作所笠戸事業所殿ならびに日立ハイテク殿をはじめとする日立グループ各社の皆様方の認定協力工場として半世紀を超える納入実績がございます",
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "県内工場の職人技 打ち出し板金：株式会社 山下工業所（下松市）",
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社工場（精密板金、半導体製造装置部品）",
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "第一工場（打ち出し、車両組み立て）",
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社工場増築（半導体）徳山税務署より優良申告法人として表敬（二回目）",
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "日立製作所水戸工場（現水戸事業所）より協力工場に認定",
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "日立製作所半導体製造装置部門（現・日立ハイテク）へ納入開始",
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "笠戸機械工業（現・日立交通テクノロジー）を窓口に完成車両メーカーへの製品納入を開始",
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "日立製作所笠戸工場（現・笠戸事業所）より協力工場に認定",
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "日立製作所笠戸工場（現・笠戸事業所）へ0系新幹線先頭構体の納入開始",
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "山下工業所は、半導体製造装置の部品、車両部品の製造・販売に係わる本社、及び第２工場の活動、製品及びサービス環境影響を低減するために、次の方針に基づき環境マネジメント活動を推進して地球環境との調和を目指します",
+    "url": "https://www.yamashita-kogyosho.com/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "（1961年、日立製作所笠戸工場）",
+    "url": "https://www.yamashita-kogyosho.com/company/img/brochure.pdf?01",
+    "pass": 2
+   },
+   {
+    "quote": "左より、国村次郎（前第一工場長・技能",
+    "url": "https://www.yamashita-kogyosho.com/company/img/brochure.pdf?01",
+    "pass": 2
+   },
+   {
+    "quote": "て、藤井洋征（前第二工場長・技能指導",
+    "url": "https://www.yamashita-kogyosho.com/company/img/brochure.pdf?01",
+    "pass": 2
+   },
+   {
+    "quote": "日立製作所笠戸事業所殿に納入の以下の先頭構体は、現役引退後、鉄道総合技術研究所殿",
+    "url": "https://www.yamashita-kogyosho.com/company/img/brochure.pdf?01",
+    "pass": 2
+   },
+   {
+    "quote": "*日立製作所笠戸事業所殿納入分の構体のみ集計",
+    "url": "https://www.yamashita-kogyosho.com/company/img/brochure.pdf?01",
+    "pass": 2
+   },
+   {
+    "quote": "「半導体製造装置部品の精密板金の改善」（第二工場長）",
+    "url": "https://www.yamashita-kogyosho.com/company/img/brochure.pdf?01",
+    "pass": 2
+   },
+   {
+    "quote": "「精密薄板板金溶接作業の改善」（第二工場溶接職長）",
+    "url": "https://www.yamashita-kogyosho.com/company/img/brochure.pdf?01",
+    "pass": 2
+   },
+   {
+    "quote": "7,322 ㎡ 第一工場 2,710 ㎡",
+    "url": "https://www.yamashita-kogyosho.com/company/img/brochure.pdf?01",
+    "pass": 2
+   },
+   {
+    "quote": "本社工場 4,612 ㎡",
+    "url": "https://www.yamashita-kogyosho.com/company/img/brochure.pdf?01",
+    "pass": 2
+   },
+   {
+    "quote": "2,269 ㎡ 第一工場 1,005 ㎡",
+    "url": "https://www.yamashita-kogyosho.com/company/img/brochure.pdf?01",
+    "pass": 2
+   },
+   {
+    "quote": "本社工場 1,264 ㎡",
+    "url": "https://www.yamashita-kogyosho.com/company/img/brochure.pdf?01",
+    "pass": 2
+   },
+   {
+    "quote": "524 ㎡ 第一工場 167 ㎡",
+    "url": "https://www.yamashita-kogyosho.com/company/img/brochure.pdf?01",
+    "pass": 2
+   },
+   {
+    "quote": "本社工場 357 ㎡",
+    "url": "https://www.yamashita-kogyosho.com/company/img/brochure.pdf?01",
+    "pass": 2
+   },
+   {
+    "quote": "■第一工場（打ち出し板金/三次元曲面成形）：",
+    "url": "https://www.yamashita-kogyosho.com/company/img/brochure.pdf?01",
+    "pass": 2
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.yamashita-kogyosho.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamashita-kogyosho.com/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamashita-kogyosho.com/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamashita-kogyosho.com/company/achievements.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamashita-kogyosho.com/company/environment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamashita-kogyosho.com/company/machinery.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.yamashita-kogyosho.com/company/img/brochure.pdf?01",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yamashita-kogyosho.com/company/img/sdgs/sdgs_shindan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yamashita-kogyosho.com/company/img/machinery.pdf?01",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/q-%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5122-%E6%B1%82%E4%BA%BA.html?vjk=61e5533b236299f8",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baitoru.com/kw/%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5%E3%80%80%EF%BC%91%EF%BC%92%EF%BC%92%E6%97%A5/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/career/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E9%AB%98%E5%8D%92-%E6%96%B0%E5%8D%92-%E6%B1%82%E4%BA%BA.html?vjk=470561fca6ca65f4",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://job.rikunabi.com/selection/job_search/kw/%E9%AB%98%E5%8D%92/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E9%AB%98%E5%8D%92-%E6%96%B0%E5%8D%92%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "122 求人 年収",
+   "results": [
+    "https://jp.indeed.com/q-年間休日122-求人.html?vjk=61e5533b236299f8",
+    "https://www.baitoru.com/kw/年間休日　１２２日/",
+    "https://jp.indeed.com/career/salaries",
+    "https://xn--pckua2a7gp15o89zb.com/人気職種の給料情報",
+    "https://tenshoku.mynavi.jp/knowhow/income/ranking/02/",
+    "https://helloworkplus.com/salary-ranking/",
+    "https://jobcatalog.yahoo.co.jp/company/ranking/annual-salary122/"
+   ]
+  },
+  {
+   "query": "122 採用 新卒 高卒",
+   "results": [
+    "https://jp.indeed.com/q-高卒-新卒-求人.html?vjk=470561fca6ca65f4",
+    "https://job.rikunabi.com/selection/job_search/kw/高卒/",
+    "https://xn--pckua2a7gp15o89zb.com/高卒-新卒の仕事",
+    "https://jp.stanby.com/r_d3e4a47de9f7077270edad18ce07114b",
+    "https://navi.handy.school/",
+    "https://www.harikennabi.jp/",
+    "https://xn--pckua2a7gp15o89zb.com/正社員-高卒-新卒の仕事"
+   ]
+  },
+  {
+   "query": "site:note.com 122",
+   "results": []
+  },
+  {
+   "query": "site:x.com 122",
+   "results": [
+    "https://x.com/NYPD122Pct",
+    "https://x.com/huangyun_122",
+    "https://help.x.com/en/x-for-websites-ads-info-and-privacy",
+    "https://x.com/SnowTheFox122",
+    "https://x.com/Rionaldo122",
+    "https://x.com/asakman122",
+    "https://x.com/dara122"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 122",
+   "results": [
+    "https://www.linkedin.com/company/iatse-local-122",
+    "https://in.linkedin.com/in/samk1710",
+    "https://tr.linkedin.com/posts/mahmut-emre-palta-488371181_logistics-uscustoms-tradeupdate-activity-7432070687537782784--MjY",
+    "https://ca.linkedin.com/jobs/911-dispatcher-jobs-toronto-on",
+    "https://uk.linkedin.com/in/mark-ludlow-miet-miwfm-73730868",
+    "https://www.linkedin.com/in/r-terrell-yarb50",
+    "https://ca.linkedin.com/in/leah-mcdaniel-5376bb122"
+   ]
+  },
+  {
+   "query": "site:facebook.com 122",
+   "results": [
+    "https://www.facebook.com/NYPD122pct/",
+    "https://www.facebook.com/122ndASB/",
+    "https://business.facebook.com/groups/uawlocal122/",
+    "https://www.facebook.com/122ndFighterWing/",
+    "https://www.facebook.com/p/NLSD-122-100084886635689/",
+    "https://www.facebook.com/grille122/",
+    "https://www.facebook.com/HarlemDistrict122/"
+   ]
+  },
+  {
+   "query": "122 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://froggy.smbcnikko.co.jp/66484/"
+   ]
+  },
+  {
+   "query": "122 X 投稿",
+   "results": [
+    "https://x.com/catSTAMP_122",
+    "https://note.com/sibajun_obake/n/na739be628cb4",
+    "https://x.com/takumainoue_122/status/2109988247611019282",
+    "https://www.witha.jp/sns・マーケティング/x-posting-guide-beginners/",
+    "https://help.x.com/ja",
+    "https://shiroutowiki.work/fanza/帝都裏映像/",
+    "https://myfans.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部6頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部6頁・検索8回）",
+  "採用ページ": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部6頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部6頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部6頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部6頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部6頁・検索8回）"
+ }
+}

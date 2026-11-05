@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・34品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・38品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2088,13 +2088,13 @@
 
 ## 工業統計 産業細分類別 従業者規模別 加工賃収入額 時系列 2010〜2020 e-Stat（Census of Manufacture processing fee by industry and size time series e-Stat）
 - 文脈：一次・統計
-- 事業所数・社数：記載なし（読んだ28頁・検索15回）
-- 社員数・平均社員数：記載なし（読んだ28頁・検索15回）
-- 受注金額・加工賃収入：記載なし（読んだ28頁・検索15回）
-- 1人あたり・1社あたり金額：記載なし（読んだ28頁・検索15回）
-- 生産能力・設備：記載なし（読んだ28頁・検索15回）
-- 10年推移：記載なし（読んだ28頁・検索15回）
-- 人手と仕事の差：記載なし（読んだ28頁・検索15回）
+- 事業所数・社数：記載なし（読んだ27頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ27頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ27頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ27頁・検索15回）
+- 生産能力・設備：記載なし（読んだ27頁・検索15回）
+- 10年推移：記載なし（読んだ27頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ27頁・検索15回）
 
 ## 鉱工業指数 業種別 稼働率指数 生産能力指数 金属製品 はん用機械（METI indices of industrial production capacity utilization by industry）
 - 文脈：一次・指数
@@ -2318,3 +2318,213 @@
 - 受注金額・加工賃収入：記載なし（読んだ37頁・検索15回）
 - 1人あたり・1社あたり金額：記載なし（読んだ37頁・検索15回）
 - 生産能力・設備：記載なし（読んだ37頁・検索15回）
+
+## 電気めっき業の事業所数を工業統計で取り直す（元へ戻る・4-24）（electroplating establishments Japan census of manufactures 2004 2014 2019）
+- 文脈：元へ戻る・めっき
+- 事業所数・社数：記載なし（読んだ48頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ48頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ48頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ48頁・検索15回）
+- 生産能力・設備：記載なし（読んだ48頁・検索15回）
+- 10年推移：記載なし（読んだ48頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ48頁・検索15回）
+
+## e-Stat の製造業 統計表ファイル（産業細分類×従業者規模・加工賃収入額）（e-Stat economic structure survey manufacturing establishments table by detailed industry and size xlsx）
+- 文脈：一次・統計表
+- 事業所数・社数：記載なし（読んだ31頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ31頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ31頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ31頁・検索15回）
+- 生産能力・設備：記載なし（読んだ31頁・検索15回）
+- 10年推移：記載なし（読んだ31頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ31頁・検索15回）
+
+## 中小企業実態基本調査 製造業 産業中分類×従業者規模 売上高・従業者数（SME basic survey Japan manufacturing sales per employee by industry and size）
+- 文脈：一次・推定の切り口
+- 事業所数・社数：
+  - 「経済センサス‐活動調査の「売上(収入)金額」を基に、売上高の総和の目標精度(標準誤差率)を業種分類(産業大分類)・従業者規模区分ごとに(3)に示すとおり目標精度を設定して標本サイズを算出した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「従業者規模 : 法人企業(常用雇用者数5人以下、6～20人、21～49人、50人以上の4区分)、個人企業」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「目標精度は、公表する統計表の表章を考慮し、業種分類別・従業者規模区分別に概ね8%、産業中分類別に10％、産業中分類・従業者規模区分別に概ね15％と設定した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「なお、産業中分類・従業者規模区分の標本サイズが少なくとも30以上とした」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記「１．標本サイズ」の(2)により全体の標本サイズを算出し、次に調査票乙の目標精度を、業種分類別・従業者規模区分別に概ね10%、産業中分類別に15％、産業中分類・従業者規模区分別に概ね20％と設定し、標本サイズを算出した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「区分：産業中分類＿６７区分、従業者規模＿５区分」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業実態基本調査 統計表 ３．売上高及び営業費用 産業別・従業者規模別表 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031738516&layout=datalist&statdisp_id=0003317772）
+  - 「３．売上高及び営業費用 産業別・従業者規模別表」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031738516&layout=datalist&statdisp_id=0003317772）
+  - 「（注１） 従業者規模別表は、「常用雇用者」の規模で分類している」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031738516&layout=datalist&statdisp_id=0003317772）
+  - 「中小企業実態基本調査_表(1)_従業者規模別表_年度次 2018年度 – 2024年度 (列指向形式)」（https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/）
+  - 「中小企業実態基本調査 確報統計表 ３．売上高及び営業費用 産業別・従業者規模別表 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003317772）
+  - 「３．売上高及び営業費用 産業別・従業者規模別表」（https://www.e-stat.go.jp/dbview?sid=0003317772）
+  - 「（注１） 従業者規模別表は、「常用雇用者」の規模で分類している」（https://www.e-stat.go.jp/dbview?sid=0003317772）
+  - 「2/4 従業者規模」（https://www.e-stat.go.jp/dbview?sid=0003317772）
+- 社員数・平均社員数：
+  - 「資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「通信業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「インターネット附随サービス業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「新聞業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「出版業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「卸売業:資本金1億円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「小売業:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「駐車場業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「物品賃貸業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「宿泊業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「旅行業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+- 受注金額・加工賃収入：
+  - 「資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「通信業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「インターネット附随サービス業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「新聞業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「出版業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「卸売業:資本金1億円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「小売業:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「駐車場業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「物品賃貸業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「宿泊業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「旅行業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+- 1人あたり・1社あたり金額：
+  - 「上記以外:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「小売業:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「駐車場業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「物品賃貸業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「宿泊業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「１企業当たりの売上高は２．２億円（前年度比６．９％増）、１企業当たりの営業利益は９０７万円（同１６．６％増）、１企業当たりの経常利益は１，０７５万円（同８．４％増）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の１企業当たりの付加価値額は９，９８６万円（前年度比４．３％増）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業における、１企業当たりの売上高は２．２億円（前年度比６．９％増）、１企業当たりの営業利益は９０７万円（同１６．６％増）、１企業当たりの経常利益は１，０７５万円（同８．４％増）、１企業当たりの従業者数は９．９人（同１．６％増）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の１企業当たりの経常利益は、１，０７５万円（前年度比８．４％増）である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「３．中小企業（法人企業）の付加価値額」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の１企業当たりの付加価値額は、９，９８６万円（前年度比４．３％増）である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の従業者１人当たりの付加価値額は、６３１万円（前年度比２．６％増）である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「図 中小企業（法人企業）の１企業当たりの付加価値額（産業大分類別）」（https://www.henmi-adm.jp/news/3775.html）
+- 生産能力・設備：
+  - 「中小企業基本法の規定に基づいて、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するための新たな調査として、平成16年9月に初めて実施」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「確報（６月）では、速報公表項目に加え、設備投資とリースの状況、海外展開と輸出の状況、受託・委託の状況等を集計・公表」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております」（https://www.e-stat.go.jp/stat-search/database?stat_infid=000031738516&layout=datalist&statdisp_id=0003317772）
+  - 「中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&kikan=00553&toukei=00553010&tstat=000001019842&tclass1=000001124875&tclass2val=0&statdisp_id=0003321340）
+  - 「中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております」（https://www.e-stat.go.jp/stat-search/files?toukei=00553010）
+  - 「第3次産業活動能力・稼働率指数」（https://www.e-stat.go.jp/stat-search/files?toukei=00553010）
+  - 「中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております」（https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/）
+  - 「04.設備投資とリースの状況」（https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/）
+  - 「中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております」（https://www.e-stat.go.jp/dbview?sid=0003286822）
+  - 「中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております」（https://www.e-stat.go.jp/dbview?sid=0003317772）
+  - 「中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております」（https://www.e-stat.go.jp/dbview?sid=0003317770）
+- 10年推移：
+  - 「（2025年7月30日）」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「中小企業の１企業当たりの売上高、営業利益、経常利益及び従業者数の全てが増加」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の１企業当たりの従業者数の変化を産業大分類別にみると、増加しているのは、生活関連サービス業，娯楽業（前年度比１１．５％増）、運輸業，郵便業（同４．９％増）など８産業である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「図 中小企業の従業者数構成比の推移（産業大分類別）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の１企業当たりの資産は３．７億円で、前年度の３．６億円から０．６％増加している」（https://www.henmi-adm.jp/news/3775.html）
+  - 「図 中小企業（法人企業）の資産構成比の推移（産業大分類別）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の１企業当たりの売上高の変化を産業大分類別にみると、増加しているのは、不動産業，物品賃貸業（前年度比１９．１％増）、卸売業（同１４．９％増）、運輸業，郵便業（同８．６％増）など８産業である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「図 中小企業の売上高構成比の推移（産業大分類別）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の１企業当たりの経常利益の変化を産業大分類別にみると、増加しているのは、運輸業，郵便業（前年度比２８．８％増）、建設業（同２７．８％増）など７産業である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「図 中小企業の経常利益構成比の推移（産業大分類別）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「産業大分類別にみると、学術研究，専門・技術サービス業（同１０．０％増）、建設業（同９．０％増）など８産業で増加している」（https://www.henmi-adm.jp/news/3775.html）
+  - 「産業大分類別にみると、学術研究，専門・技術サービス業（同８．６％増）、サービス業（他に分類されないもの）（同７．２％増）など７産業で増加している」（https://www.henmi-adm.jp/news/3775.html）
+  - 「2025年12月」（https://www.henmi-adm.jp/news/3775.html）
+  - 「2025年11月」（https://www.henmi-adm.jp/news/3775.html）
+  - 「2025年10月」（https://www.henmi-adm.jp/news/3775.html）
+- 人手と仕事の差：記載なし（読んだ36頁・検索15回）
+
+## 上場の受託加工会社のEDINET有報（従業員数・売上高・設備の新設計画）（EDINET annual securities report contract manufacturing employees net sales）
+- 文脈：一次・有報
+- 事業所数・社数：
+  - 「(1) 持分法を適用した関連会社数」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+  - 「(2) 持分法を適用しない関連会社数」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+- 社員数・平均社員数：
+  - 「従業員数 （名） 18,375 17,695 17,612 17,739 17,953」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「（注）１ 従業員数は就業人員を記載しております」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「２ 従業員数欄の（外書）は、臨時従業員の年間平均雇用人員であります」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「従業員数 （名） 5,061 5,013 5,053 5,100 5,281」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「（注）１ 従業員数は、就業人員を記載しております」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「2011年７月 インドの現地法人ボンベイ バーマ トレーディング社の精密ばね事業を買収し、NHKオートモーティ」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「（注）１ 従業員数は就業人員であります」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「３ 全社（共通）として記載されている従業員数は、特定の事業に区分できない管理部門等に所属しているもので」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「３ 従業員数欄の（外書）は、臨時従業員の年間平均雇用人員であります」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「４ 全社（共通）として記載されている従業員数は、特定の事業に区分できない管理部門等に所属しているもので」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「1996年４月 米国カリフォルニア州トーランスに現地法人PulstecUSA,Inc.を設立(現連結子会社)」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+  - 「2002年11月 中国の天津市保税区に現地法人帕路斯（天津）国際貿易有限公司を設立」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+  - 「2004年２月 中国の北京市に現地法人帕路斯（北京）科技有限公司を設立」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+  - 「2022年１月 米国ミシガン州ノバイに現地法人PulstecUSA,Inc.を移転」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+  - 「(注) １．従業員数は就業人員であります」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+- 受注金額・加工賃収入：
+  - 「売上高 （百万円） 572,639 586,903 693,246 766,934 801,698」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「経常利益 （百万円） 14,533 30,674 37,317 47,814 57,960」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「当期純利益 （百万円） 9,396 31,998 21,537 39,188 48,167」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「包括利益 （百万円） 21,730 45,791 36,917 71,866 48,344」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「純資産額 （百万円） 299,975 338,847 365,860 420,574 423,172」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「総資産額 （百万円） 560,769 588,091 606,039 690,289 696,340」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「キャッシュ・フロー （百万円） 29,636 34,505 13,656 66,706 55,713」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「キャッシュ・フロー （百万円） △ 24,107 4,987 △ 41,758 △ 10,349 △ 47,784」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「キャッシュ・フロー （百万円） 2,792 △ 27,658 △ 11,546 △ 20,996 △ 23,625」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「の期末残高 （百万円） 78,986 91,894 57,845 93,065 81,805」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「売上高 （百万円） 264,687 257,895 293,223 321,540 359,434」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「経常利益 （百万円） 11,071 28,283 31,533 23,776 39,404」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「当期純利益 （百万円） 4,961 31,052 4,442 31,910 32,075」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「資本金 （百万円） 17,009 17,009 17,009 17,009 17,009」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「純資産額 （百万円） 161,221 188,454 186,421 209,750 190,896」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+- 1人あたり・1社あたり金額：
+  - 「売上高 （百万円） 572,639 586,903 693,246 766,934 801,698」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「経常利益 （百万円） 14,533 30,674 37,317 47,814 57,960」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「当期純利益 （百万円） 9,396 31,998 21,537 39,188 48,167」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「包括利益 （百万円） 21,730 45,791 36,917 71,866 48,344」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「純資産額 （百万円） 299,975 338,847 365,860 420,574 423,172」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「総資産額 （百万円） 560,769 588,091 606,039 690,289 696,340」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「キャッシュ・フロー （百万円） 29,636 34,505 13,656 66,706 55,713」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「キャッシュ・フロー （百万円） △ 24,107 4,987 △ 41,758 △ 10,349 △ 47,784」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「キャッシュ・フロー （百万円） 2,792 △ 27,658 △ 11,546 △ 20,996 △ 23,625」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「の期末残高 （百万円） 78,986 91,894 57,845 93,065 81,805」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「売上高 （百万円） 264,687 257,895 293,223 321,540 359,434」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「経常利益 （百万円） 11,071 28,283 31,533 23,776 39,404」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「当期純利益 （百万円） 4,961 31,052 4,442 31,910 32,075」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「資本金 （百万円） 17,009 17,009 17,009 17,009 17,009」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「純資産額 （百万円） 161,221 188,454 186,421 209,750 190,896」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+- 生産能力・設備：
+  - 「１【設備投資等の概要】」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「結会計年度は、当社グループ全体で40,252百万円の設備投資を実施しました」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「新製品の受注、既存製品の生産性向上及び品質向上を主な目的に、当社グループで6,324百万円の設備投資を実施」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「新製品の受注、既存製品の生産性向上及び品質向上を主な目的に、当社グループで6,472百万円の設備投資を実施」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「新製品の開発及び受注、既存製品の生産性及び品質向上を主な目的に、当社グループで7,937百万円の設備投資を」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「新製品の開発及び受注、既存製品の生産性及び品質向上を主な目的に、当社グループで4,307百万円の設備投資を」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「12,691百万円の設備投資を実施しました」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「全社共通の設備として、当社グループで2,518百万円の設備投資を実施しました」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「翌連結会計年度（自 2025年４月１日 至 2026年３月31日）の設備投資は、54,001百万円を計画しており、セグメ」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「主な減少要因は、有形固定資産の取得による支出３億４百万円、定期預金の預入による支出69百万円でありま」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+  - 「１ 【設備投資等の概要】」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+  - 「当連結会計年度の設備投資の総額は412百万円であり、セグメントごとの設備投資は、次のとおりであります」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+  - 「当連結会計年度の主な設備投資は、販売促進用デモ機の導入を中心とする総額 28百万円の投資を実施しました」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+  - 「当連結会計年度の主な設備投資は、設計開発用パソコンの導入を中心とする総額 2百万円の投資を実施しまし」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+  - 「当連結会計年度の主な設備投資は、本社工場におけるクリーンルーム拡張・改修工事を中心とする総額 487百万」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+- 10年推移：
+  - 「【提出日】 2025年６月26日」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「【事業年度】 第105期（自 2024年４月１日 至 2025年３月31日）」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「１【主要な経営指標等の推移】」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「決算年月 2021年３月 2022年３月 2023年３月 2024年３月 2025年３月」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「５ 「収益認識に関する会計基準」（企業会計基準第29号 2020年３月31日）等を第102期の期首から適用して」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「６ 最高株価及び最低株価は、2022年４月４日より東京証券取引所プライム市場におけるものであり、それ以前」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「1998年１月 インドにおいて、過去10年間にわたり技術援助を行っていた、自動車懸架ばねメーカー ジャムナ・」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「2010年９月 株式交換により、横浜機工株式会社（現連結子会社）を完全子会社化」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「2010年11月 中国に湖北日発汽車零部件有限公司（現連結子会社）を設立」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「2010年12月 株式追加取得により、日発テレフレックス㈱（現ニッパツ・メック株式会社・連結子会社）を完全子」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「2015年３月」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「2015年４月」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「2017年７月」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「2019年２月」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+  - 「2019年３月」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf）
+- 人手と仕事の差：
+  - 「なる原価低減、品質向上、納期短縮に努めてまいります」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+  - 「また、成形品や金属加工品などの特注部材は、加工外注先に生産委託して調達しており、加工外注先の繁忙期」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+  - 「に備え相当数の加工外注先を確保しておりますが、加工外注先全体の稼働率が上昇するような局面においては、」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+  - 「安定した品質、納期、予定価格どおりに部材の調達ができない場合は、生産遅延や納入遅延が発生し、顧客の」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+  - 「セグメントの名称 受注高（千円） 前年同期比（％） 受注残高（千円） 前年同期比（％）」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+  - 「化することに加え、部品入手時期が未定では生産計画も立てられないため、顧客要求の納期に間に合わず失」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+  - 「従来の購入先や加工外注先では調達できないケースも散見されます」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）
+  - 「工外注先の開拓が必要となりますが、新たな調達先を確保できない場合や、価格・納期・品質などの面にお」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf）

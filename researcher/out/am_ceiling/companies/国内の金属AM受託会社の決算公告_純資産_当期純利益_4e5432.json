@@ -1,0 +1,479 @@
+{
+ "name": "国内の金属AM受託会社の決算公告（純資産・当期純利益）",
+ "en": "Japanese metal additive manufacturing service bureau financial statements",
+ "aliases": [
+  "金属3Dプリンター 受託 決算公告",
+  "金属積層造形 受託会社 官報 決算",
+  "金属AM 受託 売上高 会社概要 -求人"
+ ],
+ "context": "決算・一次",
+ "kind": "market",
+ "researched_at": "2026-11-05T06:03:40.235575+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://strainer.jp/rankings/%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81/financial-NetIncomeLoss",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/10/29/180000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://quote.eastmoney.com/newstatic/html/profitchart.html?code=000967",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100NINP.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.resona-am.co.jp/fund/120061/pdf/s120061.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nomura-am.co.jp/fund/pros_gen/Y2140725.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://quote.eastmoney.com/newstatic/html/profitchart.html?code=002111",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.toyoshin.co.jp/about/disclosure/disclosure_2023/documents/shiryo_01-08.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokiomarineam.co.jp/fund/135006_Plan_s.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.barrons.com/market-data/stocks/3154/financials?countrycode=jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sompo-am.co.jp/fund/0909/mss.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sbineotrade.jp/corporate/pdf/disclosure/financial_result_202103.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=IN8qId1KoD0%3D",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsubishicorp.com/jp/ja/ir/library/fstatement/pdf/2025_04/y2025_04.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kiw.co.jp/pdf/ir/securities/260625_yuho.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-gas.co.jp/IR/library/pdf/yuho/yuho2506.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nipponsteel.com/ir/pdf/nipponsteel_jp_br_2024_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.taxan.co.jp/jp/ir/upload_file/tdnrelease/8154_2025062615240114_P01_.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://catr.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sonylife.co.jp/company/news/18/files/061127kamihanki.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100WQWW.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kanpou.ai/kessan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kaijiwire.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kinmyakucode.com/ja/rankings/net-income/metal-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.am.mufg.jp/pdf/koumokuromi/150339/150339_20260625.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.adeka.co.jp/ir/library/pdf/2015_jigyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nomura-am.co.jp/fund/pros_gen/Y2140749.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kanpou.ai/company-notices",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kessan-zukan.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xactmetal.com/news_and_blog/affordable-metal-3d-printing-to-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manufacturingmag.com/article/post-processing-costs-metal-am-quotes-leave-out",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/333056/3d-printing-financials-28m-in-china-u-s-deals-and-a-metal-am-comeback/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.stratasys.com/news-events/press-releases/detail/978/stratasys-selected-for-multi-million-dollar-u-s-department",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1816613/000095017025046869/mkfg-20241231.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1754820/000155837024003411/dm-20231231x10k.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "国内の金属AM受託会社の決算公告（純資産・当期純利益） 単価 万円",
+   "results": [
+    "https://strainer.jp/rankings/%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81/financial-NetIncomeLoss",
+    "https://ryo-nakamura1.hatenablog.jp/entry/2026/10/29/180000",
+    "http://quote.eastmoney.com/newstatic/html/profitchart.html?code=000967",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100NINP.pdf",
+    "https://www.resona-am.co.jp/fund/120061/pdf/s120061.pdf",
+    "https://www.nomura-am.co.jp/fund/pros_gen/Y2140725.pdf",
+    "https://www.nipponsteel.com/ir/library/settlement/pdf/20251105_500.pdf",
+    "https://www.tokiomarineam.co.jp/fund/135006_Plan_s.pdf",
+    "https://www.am-one.co.jp/fund/pdf/313321/313321_pr_c.pdf",
+    "https://kanpou.ai/kessan"
+   ]
+  },
+  {
+   "query": "国内の金属AM受託会社の決算公告（純資産・当期純利益） 費用 相場",
+   "results": [
+    "https://strainer.jp/rankings/%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81/financial-NetIncomeLoss",
+    "http://quote.eastmoney.com/newstatic/html/profitchart.html?code=002111",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100NINP.pdf",
+    "https://www.resona-am.co.jp/fund/120061/pdf/s120061.pdf",
+    "https://www.toyoshin.co.jp/about/disclosure/disclosure_2023/documents/shiryo_01-08.pdf",
+    "https://www.tokiomarineam.co.jp/fund/135006_Plan_s.pdf",
+    "https://www.barrons.com/market-data/stocks/3154/financials?countrycode=jp",
+    "https://www.sompo-am.co.jp/fund/0909/mss.pdf",
+    "https://www.sbineotrade.jp/corporate/pdf/disclosure/financial_result_202103.pdf",
+    "https://kanpou.ai/kessan"
+   ]
+  },
+  {
+   "query": "国内の金属AM受託会社の決算公告（純資産・当期純利益） 最大 受注 億円",
+   "results": [
+    "https://ryo-nakamura1.hatenablog.jp/entry/2026/10/29/180000",
+    "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=IN8qId1KoD0%3D",
+    "https://www.mitsubishicorp.com/jp/ja/ir/library/fstatement/pdf/2025_04/y2025_04.pdf",
+    "https://www.kiw.co.jp/pdf/ir/securities/260625_yuho.pdf",
+    "https://www.tokyo-gas.co.jp/IR/library/pdf/yuho/yuho2506.pdf",
+    "https://www.nipponsteel.com/ir/pdf/nipponsteel_jp_br_2024_all.pdf",
+    "https://www.taxan.co.jp/jp/ir/upload_file/tdnrelease/8154_2025062615240114_P01_.pdf",
+    "https://ircms.irstreet.com/contents/data_file.php?template=404&brand=85&data=146606&filename=pdf_file.pdf",
+    "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/sr/pdf/26fr_j.pdf",
+    "https://kanpou.ai/kessan"
+   ]
+  },
+  {
+   "query": "国内の金属AM受託会社の決算公告（純資産・当期純利益） 量産 受注 年間",
+   "results": [
+    "https://catr.jp/",
+    "https://strainer.jp/rankings/%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81/financial-NetIncomeLoss",
+    "https://www.sbineotrade.jp/corporate/pdf/disclosure/financial_result_202103.pdf",
+    "http://www.sonylife.co.jp/company/news/18/files/061127kamihanki.pdf",
+    "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=IN8qId1KoD0%3D",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.toyoshin.co.jp/about/disclosure/disclosure_2023/documents/shiryo_01-08.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100WQWW.pdf",
+    "https://www.nipponsteel.com/ir/pdf/nipponsteel_jp_br_2024_all.pdf",
+    "https://kanpou.ai/kessan"
+   ]
+  },
+  {
+   "query": "国内の金属AM受託会社の決算公告（純資産・当期純利益） 売上高 受託",
+   "results": [
+    "https://strainer.jp/rankings/%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81/financial-NetIncomeLoss",
+    "https://ryo-nakamura1.hatenablog.jp/entry/2026/10/29/180000",
+    "https://kinmyakucode.com/ja/rankings/net-income/metal-products/",
+    "https://jp.nipponsanso.com/LinkClick.aspx?fileticket=IN8qId1KoD0%3D",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.am.mufg.jp/pdf/koumokuromi/150339/150339_20260625.pdf",
+    "https://www.tokyo-gas.co.jp/IR/library/pdf/yuho/yuho2506.pdf",
+    "https://www.adeka.co.jp/ir/library/pdf/2015_jigyou.pdf",
+    "https://nomura-am.co.jp/fund/pros_gen/Y2140749.pdf",
+    "https://kanpou.ai/kessan"
+   ]
+  },
+  {
+   "query": "Japanese metal additive manufacturing service bureau financial statements price per part",
+   "results": [
+    "https://xactmetal.com/news_and_blog/affordable-metal-3d-printing-to-japan/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://www.manufacturingmag.com/article/post-processing-costs-metal-am-quotes-leave-out",
+    "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "https://soar.wichita.edu/bitstreams/544e3c63-a995-4d43-881c-97c6398093d6/download",
+    "https://www.youtube.com/watch?v=EFIVisTNMuM",
+    "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "https://hachiquant.com/"
+   ]
+  },
+  {
+   "query": "Japanese metal additive manufacturing service bureau financial statements largest contract million",
+   "results": [
+    "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "https://3dprint.com/333056/3d-printing-financials-28m-in-china-u-s-deals-and-a-metal-am-comeback/",
+    "https://investors.stratasys.com/news-events/press-releases/detail/978/stratasys-selected-for-multi-million-dollar-u-s-department",
+    "https://www.sec.gov/Archives/edgar/data/1816613/000095017025046869/mkfg-20241231.htm",
+    "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "https://straitsresearch.com/report/metal-additive-manufacturing-market"
+   ]
+  },
+  {
+   "query": "Japanese metal additive manufacturing service bureau financial statements serial production long-term agreement value",
+   "results": [
+    "https://www.sec.gov/Archives/edgar/data/1754820/000155837024003411/dm-20231231x10k.htm",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/japan",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "https://www.mordorintelligence.com/industry-reports/global-additive-manufacturing-and-material-market-industry",
+    "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-equipment-market-report",
+    "https://additive-manufacturing-report.com/additive-manufacturing-market/",
+    "https://time2analyze.com/en"
+   ]
+  },
+  {
+   "query": "Japanese metal additive manufacturing service bureau financial statements revenue",
+   "results": [
+    "https://www.sec.gov/Archives/edgar/data/1754820/000155837024003411/dm-20231231x10k.htm",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://additivemanufacturingresearch.com/news/3d-printing-service-bureaus/",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "https://www.linkedin.com/pulse/japan-additive-manufacturing-material-market-size-share-onblf/",
+    "https://www.grandviewresearch.com/industry-analysis/us-additive-manufacturing-market-report",
+    "https://www.advancedmanufacturing.org/special-reports/additive-manufacturing/",
+    "https://www.mtlo.co.jp/en/ir/"
+   ]
+  },
+  {
+   "query": "site:note.com 国内の金属AM受託会社の決算公告（純資産・当期純利益）",
+   "results": [
+    "https://note.com/takasu_teac55/n/n8ed6de869471",
+    "https://note.com/kabuya66/n/n918a5e2ed2f6",
+    "https://note.com/taisuke_invest/n/n9698bb90e79a",
+    "https://note.com/kabubake/n/n488332ca0ff4",
+    "https://note.com/t_ryoma1985/n/n61ff1a0c2c66",
+    "https://note.com/taisuke_invest/n/n85573c77c0ce",
+    "https://note.com/atawara358/n/n588be35a538a"
+   ]
+  },
+  {
+   "query": "site:x.com 国内の金属AM受託会社の決算公告（純資産・当期純利益）",
+   "results": [
+    "https://x.com/kessan_db",
+    "https://x.com/kessan_db/status/2072982792162722218",
+    "https://x.com/HayamiKei_AI/status/2085321966358249515",
+    "https://x.com/kessan_db/status/2079863541465825466",
+    "https://x.com/kessan_db/status/2067844575264387321",
+    "https://x.com/kessan_db/status/2076843099113066582",
+    "https://x.com/kessan_kokoku/status/2033407855395557648"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 国内の金属AM受託会社の決算公告（純資産・当期純利益）",
+   "results": [
+    "https://jp.linkedin.com/pulse/韓国における企業信用調査-hiroyuki-nakamura",
+    "https://www.linkedin.com/jobs/view/【田町／管理職】アセットマネジメント◆プライム上場の総合ディベロッパー／am受託資産残高国内１位-at-doda-デューダ-4417456966",
+    "https://jp.linkedin.com/posts/sharelab-jp_金属am市場2034年に6兆円規模へvoxelmattersが最新市場レポート-activity-7328240169818505216-MPiF",
+    "https://jp.linkedin.com/in/yoichi-ito-77825928b",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7493484917767540736/",
+    "https://jp.linkedin.com/posts/hiroshige-masuo-328833154_この度金属技研では造形受託事業の強化を目的として日本国内初導入となる電子ビーム-activity-7447932924039102465-QDXa",
+    "https://jp.linkedin.com/posts/yuki-maed_国内製薬-2026年12月期2q決算ハイライト随時更新-answersnews-activity-7487289975131148289-LMEY"
+   ]
+  },
+  {
+   "query": "site:facebook.com 国内の金属AM受託会社の決算公告（純資産・当期純利益）",
+   "results": [
+    "https://www.facebook.com/tsrnet/",
+    "https://www.facebook.com/100050929632349/posts/マーケティングノウハウのライセンシングカンパニー株式会社刀決算公告第9期-第9期-決算公告2025年6月期当期純利益13億700万円利益剰余金62億3700万円/1478374410536866/",
+    "https://www.facebook.com/mitsubishidenki/videos/三菱電機-24年度-連結決算を発表-三菱電機-24年度-連結決算を発表しました-当社決算のポイントを抽出してお伝えします-24年度-連結決算発表サマリ/2407873126257437/",
+    "https://www.facebook.com/jpShareLab/posts/金属am市場2034年に9兆円規模へvoxelmattersが最新市場レポートを公開金属積層造形分野の専門調査会社voxelmattersは2025年に向けた最/1288246973302792/",
+    "https://www.facebook.com/jpShareLab/posts/日本の製造業革新に不可欠な金属積層造形技術の未来レポート公開-みずほ銀行みずほ銀行-産業調査部は2025年1月17日に自社ウェブサイト内mizuho-short/1197910572336433/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/当社金属3dプリンタ営業担当も登壇特別対談トップメーカーに聞くam3dプリンタの現状とこれから-vol5アペルザtv-特別対談シリーズトップメーカーに聞くam3/1242605148025353/",
+    "https://www.facebook.com/NikonGroupjp/posts/nikon-am-technology-center-japanを埼玉県行田市に開設最先端の金属アディティブマニュファクチャリング付加加工以下am技術の開発およ/936680661888050/"
+   ]
+  },
+  {
+   "query": "国内の金属AM受託会社の決算公告（純資産・当期純利益） note 社長",
+   "results": [
+    "https://note.com/t_ryoma1985/n/n61ff1a0c2c66",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.toyoshin.co.jp/about/disclosure/disclosure_2023/documents/shiryo_01-08.pdf",
+    "https://www.msn.com/ja-jp/money/stockdetails/earnings/fi-a1zcrw?noti=EarningRelease&ocid=U508DHP",
+    "https://www.am.mufg.jp/pdf/koumokuromi/355017/355017_20260730.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100NLJV.pdf",
+    "https://www.japanmetal.com/news-t20240509134661.html",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250409_archive/f9f10x/140120250407510353.pdf",
+    "https://www.am-one.co.jp/fund/pdf/313338/313338_pr_c.pdf",
+    "https://kanpou.ai/kessan"
+   ]
+  },
+  {
+   "query": "国内の金属AM受託会社の決算公告（純資産・当期純利益） X 投稿",
+   "results": [
+    "https://x.com/kessan_db/status/2048936593004913013",
+    "https://catr.jp/",
+    "https://www.sbineotrade.jp/corporate/pdf/disclosure/financial_result_202103.pdf",
+    "https://x.com/kessan_db",
+    "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/sr/pdf/26fr_j.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100WQWW.pdf",
+    "https://www.matsui.co.jp/parts/pdf-view/web/viewer.html?file=/stock/ipo/list/2026/pdf/IPO_584A0_01.pdf",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250409_archive/f9f10x/140120250407510353.pdf",
+    "https://jp.investing.com/news/pro/article-432SI-1697457"
+   ]
+  },
+  {
+   "query": "Japanese metal additive manufacturing service bureau financial statements site:linkedin.com",
+   "results": [
+    "https://in.linkedin.com/company/3d-product-development-pvt.-ltd",
+    "https://www.linkedin.com/pulse/revenue-forecast-growth-outlook-metal-additive-manufacturing-kee2e",
+    "https://ca.linkedin.com/company/agile-manufacturing-inc",
+    "https://jp.linkedin.com/in/3dpeter",
+    "https://www.linkedin.com/company/dm3d-metal-ded",
+    "https://www.linkedin.com/in/kevinalansheehy",
+    "https://www.linkedin.com/in/eric-z-cohen",
+    "https://www.linkedin.com/in/maximilian-liese",
+    "https://www.linkedin.com/posts/ampulse-daily_link-solution-selected-for-south-koreas-activity-7471389852580646912-cLII",
+    "https://www.linkedin.com/company/proto-labs"
+   ]
+  }
+ ],
+ "missing": {
+  "1件の単価": "記載なし（読んだ45頁・検索16回）",
+  "最大案件・上限": "記載なし（読んだ45頁・検索16回）",
+  "顧客1社の年間": "記載なし（読んだ45頁・検索16回）",
+  "受託会社の売上": "記載なし（読んだ45頁・検索16回）",
+  "用途別": "記載なし（読んだ45頁・検索16回）",
+  "価格を決める要因": "記載なし（読んだ45頁・検索16回）"
+ }
+}

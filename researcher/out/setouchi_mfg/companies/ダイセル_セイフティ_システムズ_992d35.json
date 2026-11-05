@@ -1,0 +1,819 @@
+{
+ "name": "ダイセル・セイフティ・システムズ",
+ "aliases": [],
+ "context": "全国／出典:マイナビ／求人媒体:doda;engage;エン転職;マイナビ新卒;マイナビ転職／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T06:05:29.057412+00:00",
+ "official_url": "https://www.daicel.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1919年9月8日",
+    "url": "https://www.daicel.com/corporate/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1987年5月1日",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "36,275百万円（2026年3月31日現在）",
+    "url": "https://www.daicel.com/corporate/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "8,000万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結 11,034名（2026年3月31日現在）",
+    "url": "https://www.daicel.com/corporate/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "447名（2025年3月現在）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "大阪 大阪市北区大深町3-1 グランフロント大阪タワーB GoogleMapで地図を見る 別ウィンドウで開く 東京 東京都港区港南2-18-1 JR品川イーストビル GoogleMapで地図を見る 別ウィンドウで開く",
+    "url": "https://www.daicel.com/corporate/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "671-1681",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "兵庫県たつの市揖保川町馬場805番地",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "0791（72）5974",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "兵庫県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "滋賀県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "大阪府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "和歌山県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "富山県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "岩手県、東京都",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "長野県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "北海道",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "埼玉県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "化学品などの製造・加工・販売",
+    "url": "https://www.daicel.com/corporate/company/",
+    "pass": 1
+   },
+   {
+    "label": "ダイセルの製品",
+    "value": "生活のさまざまなシーンで活躍する ダイセル製品の一端をご紹介します。",
+    "url": "https://www.daicel.com/recruit/",
+    "pass": 1
+   },
+   {
+    "label": "ダイセルの製品",
+    "value": "生活のさまざまなシーンで活躍する ダイセル製品の一端をご紹介します。",
+    "url": "https://www.daicel.com/recruit/career/",
+    "pass": 1
+   },
+   {
+    "label": "ダイセルの製品",
+    "value": "生活のさまざまなシーンで活躍する ダイセル製品の一端をご紹介します。",
+    "url": "https://www.daicel.com/recruit/diversity/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "インフレータ、イニシエータ、PGG（シートベルトプリテンショナー用ガス発生器）の製造販売",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "579,629百万円（2026年3月期）",
+    "url": "https://www.daicel.com/corporate/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "36,275百万円（2026年3月31日現在）",
+    "url": "https://www.daicel.com/corporate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "579,629百万円（2026年3月期）",
+    "url": "https://www.daicel.com/corporate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "【月給】19万円",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "【月給】20万円",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "★月給20万～",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "└期間中、上記以外の給与・待遇に変更はありません",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "【月給】27万円",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "月収例27万円は（残業代及び各手当て含む経験・能力による））",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "月収27万円以上可◎",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "【月給】27万円 ～",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "【月収例】月収24万円／23歳／経験4年",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "月収38万円／38歳／経験11年",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "月収45万円／43歳／経験16年",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "【年収例】年収350万円 ／ 22歳 経験4年",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "年収510万円 ／ 34歳 経験7年",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "年収660万円 ／ 42歳 経験18年",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "☆月給20万～",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "日本セルロイド人造絹糸株式会社（現 網干工場）設立",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "大阪繊維工業株式会社（現 神崎工場） 設立",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "三国加工工場を分離し、三国セルロイド株式会社（のちの三国プラスチックス株式会社）を設立",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1928年に東京工場内に写真フィルム生地試験工場（フィルム試験所）を設置し、フィルム生地、感光剤ならびに塗布技術の研究を進め、神奈川県足柄をフィルム製造の最適地と判断して、工場建設に入りました",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新潟県に新井工場を新設、アセチレン系有機合成事業を開始",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "安価で豊富な電力の供給が得られ、良質で豊富な石灰原石山が近隣にあり、工業用水が豊富にあることから、新潟県新井地区が最適地であるという結論に達し、1935年に新井工場を新設、カーバイドからアセチレン、アルデヒド、酢酸、無水酢酸、酢酸セルロース、酢酸エチル、アセトンと順次製造を開始しました",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "網干化工工場河内分工場（現 播磨工場）を新設、無煙火薬の製造を開始",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の発射薬の製造は、第1次世界大戦下、当時まだ合併前の日本セルロイド人造絹糸株式会社と呼んだ頃の網干工場において、ロシアなどの諸外国からの注文を受け、一時期発射薬を製造したのが最初です",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1953年、網干工場に隣接する海岸側の土地に発射薬製造の専用工場として網干化工工場を新設しましたが、翌1954年、火薬製造および貯蔵という特殊性にかんがみ、あらたな立地を求めて、網干化工工場河内分工場（現 播磨工場）を新設しました",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "堺工場で、たばこフィルター用アセテート・トウの製造を開始",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1955年7月に通産省から石油化学工業育成対策が発表され、石油化学工業の台頭に対応して、石油化学コンビナートに参画することとなり、1961年に大日本化成株式会社（現 大竹工場）を創設しました",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "設立当時の社員全員が “ON THE SAME BOAT”（一蓮托生）を合言葉に力を合わせて、工場建設に汗を流した苦労話は、「大竹物語」として語り継がれています",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新井工場のカーバイド、アセチレン、アルデヒドを停止し、有機合成品の原料を石油化学系に転換",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "大竹工場で、過酢酸法合成グリセリン企業化",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年以降、米国、タイ、ポーランド、中国、インドと世界各地に生産・販売拠点を設立し、グローバルな供給体制を整えました",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "網干工場にたばこフィルター用アセテート・トウ製造設備を設置し、堺工場との2拠点体制を構築",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "光学異性体分離事業の米国拠点Chiral Technologies Inc.を設立",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "フランスに光学異性体分離事業の欧州拠点Chiral Technologies-Europe SARL（現 Chiral Technologies Europe S.A.S.）を設立",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "上海に樹脂コンパウンド事業拠点Shanghai Daicel Polymers,Ltd.（上海大賽璐塑料工業有限公司）を設立",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "姫路製造所網干工場に統合生産センターが完成し、統合運転を開始",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "米国に自動車エアバッグ用インフレータの製造販売拠点Daicel Safety Systems America,LLCを合弁で設立",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "タイに自動車エアバッグ用インフレータの製造販売拠点Daicel Safety Systems (Thailand) Co.,Ltd.を設立",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ポーランドに自動車エアバッグ用インフレータの製造販売拠点Daicel Safety Systems Europe Sp. z o.o.を設立",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中国に自動車エアバッグ用インフレータの製造販売拠点Daicel Safety Systems (Jiangsu) Co.,Ltd.（大賽璐安全系統（江蘇）有限公司）を設立",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中国に光学異性体分離事業拠点Daicel Chiral Technologies (China) Co.,Ltd.（大賽璐薬物手性技術（上海）有限公司）を設立",
+    "url": "https://www.daicel.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の国内拠点について、",
+    "url": "https://www.daicel.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車の安全部品（エアバッグ関連）を製造する工場での仕事です",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "工場内は冷暖房を完備しているので、季節を問わず快適にお仕事していただけます＾＾",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品を作っている工場で、",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "製造職・工場勤務・交代勤務経験者の方大歓迎！",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "＊2か月間は研修期間として、工場ルールや会社生活等の教育を実施いたします",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "〔第1工場〕電話 0791（72）5416",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "〔第2工場〕電話 0791（72）5439",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "まず初めに工場で製造の流れを学び、さらに安全に対する考え方や工場ルールの知識を習得",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ＳＭＣ(株) 釜石工場・遠野工場(東証プライム上場)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "DAICEL 株式会社ダイセル Recruiting Site",
+    "url": "https://www.daicel.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "DAICEL 株式会社ダイセル Career Recruiting Site",
+    "url": "https://www.daicel.com/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "キャリア採用では、そうした事業の次なる展開を目指し、",
+    "url": "https://www.daicel.com/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "トップからのメッセージ | DAICEL 株式会社ダイセル Recruiting Site",
+    "url": "https://www.daicel.com/recruit/about/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちダイセルの採用サイトをご訪問くださり、ありがとうございます",
+    "url": "https://www.daicel.com/recruit/about/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "ダイセル・セイフティ・システムズ株式会社の求人 | ダイセル・セイフティ・システムズ株式会社 採用情報",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "ダイセル・セイフティ・システムズ株式会社 採用情報",
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "ダイセル・セイフティ・システムズ(株)【ダイセルグループ】の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度卒の新卒採用を開始いたしました！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ダイセル ・ セイフティ ・ システムズ 株式会社の平均 年収 - doda — ダイセル ・ セイフティ ・ システムズ 株式会社の平均 年収 - doda doda https://doda.jp > CompanyIncome > j_id__10008698802",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10008698802/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員 ダイセル ・ セイフティ ・ システムズ 株式会社 — 正社員 ダイセル ・ セイフティ ・ システムズ 株式会社 タウンワーク https://townwork.net > viewjob",
+    "url": "https://townwork.net/viewjob/jobid_ffe50a39f5dfc894/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイセル ・ セイフティ ・ システムズ 株式会社の 求人 — ダイセル ・ セイフティ ・ システムズ 株式会社の 求人 tenichi https://ten.1049.cc > dss > search > corp_206210",
+    "url": "https://ten.1049.cc/tp/dss/sp/search/corp_206210",
+    "pass": 3
+   },
+   {
+    "quote": "ダイセル ・ セイフティ ・ システムズ 株式会社の 求人 情報 — ダイセル ・ セイフティ ・ システムズ 株式会社の 求人 情報 マイナビ転職 https://tenshoku.mynavi.jp > jobinfo-442804-1-2-1",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-442804-1-2-1/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイセル ・ セイフティ ・ システムズ (株)【ダイセルグループ】 — ダイセル ・ セイフティ ・ システムズ (株)【ダイセルグループ】 マイナビ https://job.mynavi.jp > search > corp259753 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダイセル ・ セイフティ ・ システムズ 株式会社 ... - Instagram — ダイセル ・ セイフティ ・ システムズ 株式会社 ... - Instagram Instagram https://www.instagram.com > daicel_safety_systems",
+    "url": "https://www.instagram.com/daicel_safety_systems/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイセル ・ セイフティ ・ システムズ 株式会社 リクルートサイト — ダイセル ・ セイフティ ・ システムズ 株式会社 リクルートサイト 株式会社ダイセル https://www.daicel.com > dss",
+    "url": "https://www.daicel.com/dss/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイセル ・ セイフティ ・ システムズ 株式会社の求人・仕事・ 採用 — ダイセル ・ セイフティ ・ システムズ 株式会社の求人・仕事・ 採用 スタンバイ https://jp.stanby.com > ...",
+    "url": "https://jp.stanby.com/r_33a71687961dc029d01a76132d40fa6b",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "ダイセル・セイフティ・システムズ(株)【ダイセルグループ】の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "入社5か月の期間は、シニア・サブシニアの名称で、研修の進め方や会社生活に至るまで、様々な助言を行う先輩社員が付きます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ダイセル・セイフティ・システムズ - Facebook ダイセル・セイフティ・システムズ",
+    "url": "https://www.facebook.com/ダイセルセイフティシステムズ-193469880831929/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.daicel.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daicel.com/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daicel.com/corporate/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daicel.com/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daicel.com/corporate/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daicel.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daicel.com/recruit/top/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daicel.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daicel.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daicel.com/recruit/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daicel.com/recruit/diversity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daicel.com/recruit/about/message.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.daicel.com/corporate/company/pdf/index_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daicel.com/corporate/about/pdf/index_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daicel.com/corporate/about/pdf/index_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daicel.com/recruit/diversity/img/lead.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10008698802/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://townwork.net/session/destroy/?type=webSSO",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ten.1049.cc/tp/dss/search/corp_206210",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%83%80%E3%82%A4%E3%82%BB%E3%83%AB%E3%82%BB%E3%82%A4%E3%83%95%E3%83%86%E3%82%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/daicel_safety_systems/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ダイセルセイフティシステムズ-193469880831929/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ダイセル・セイフティ・システムズ 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10008698802/",
+    "https://townwork.net/viewjob/jobid_ffe50a39f5dfc894/",
+    "https://ten.1049.cc/tp/dss/sp/search/corp_206210",
+    "https://next.rikunabi.com/viewjob/jk8cffb3717ebf5ced/",
+    "https://tenshoku.mynavi.jp/jobinfo-442804-1-2-1/",
+    "https://jp.indeed.com/cmp/%E3%83%80%E3%82%A4%E3%82%BB%E3%83%AB%E3%83%BB%E3%82%BB%E3%82%A4%E3%83%95%E3%83%86%E3%82%A3%E3%83%BB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "https://en-hyouban.com/company/10008698802/kuchikomi/11199977/",
+    "https://jp.stanby.com/r_5f27830c0ca34a32123e752671d00590",
+    "https://jobcatalog.yahoo.co.jp/company/1500337389/salaries/",
+    "https://talentsquare.co.jp/career/daicel-salary/"
+   ]
+  },
+  {
+   "query": "ダイセル・セイフティ・システムズ 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%83%80%E3%82%A4%E3%82%BB%E3%83%AB%E3%82%BB%E3%82%A4%E3%83%95%E3%83%86%E3%82%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "https://www.instagram.com/daicel_safety_systems/",
+    "https://www.daicel.com/dss/",
+    "https://jp.stanby.com/r_33a71687961dc029d01a76132d40fa6b",
+    "https://fbs-pallets.co.jp/search/corp_206210/p_2",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10008698802/",
+    "https://ten.1049.cc/tp/dss/sp/",
+    "https://next.rikunabi.com/viewjob/jk58ed78ff0c0ec406/",
+    "https://www.daicel.com/recruit/top/"
+   ]
+  },
+  {
+   "query": "site:note.com ダイセル・セイフティ・システムズ",
+   "results": [
+    "https://note.com/kabutabi2000/n/na648bac59a29",
+    "https://note.com/naonote1225/n/nd35074030167",
+    "https://note.com/naonote1225/n/n102659c60065",
+    "https://note.com/company_scope/n/n33ad098e0bc8?hl=en",
+    "https://note.com/hiro124vrc/n/n092bef608350",
+    "https://note.com/tokiwa37/n/ned29a0584b17"
+   ]
+  },
+  {
+   "query": "site:x.com ダイセル・セイフティ・システムズ",
+   "results": [
+    "https://x.com/chemicaldailyad/status/1811153803653370268?lang=es",
+    "https://x.com/hiro_panketing/status/2113216154453807121",
+    "https://x.com/quickdisclosure/status/2054054288931131759",
+    "https://x.com/masashi_i/status/2054788802128847100",
+    "https://x.com/quickdisclosure/status/2019265027187044426",
+    "https://x.com/CM_Watch/status/2070340763901362284",
+    "https://x.com/SolizeC/status/2048621356976324908",
+    "https://x.com/AIIRFIRE/status/2095047974590251284"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ダイセル・セイフティ・システムズ",
+   "results": [
+    "https://www.linkedin.com/company/daicel-safety-sbu",
+    "https://jp.linkedin.com/in/yusuke-terasaka-03b421210/ja",
+    "https://jp.linkedin.com/in/sora-otaguro-896a5a7a",
+    "https://jp.linkedin.com/in/kita-yuma-49511b28a",
+    "https://jp.linkedin.com/in/makoto-t-5b9a281b6",
+    "https://www.linkedin.com/in/satoshi-kobayashi-63aa3311/",
+    "https://jp.linkedin.com/in/noriaki-yoshikawa-mieda-10b85b37",
+    "https://jp.linkedin.com/in/yasuto-fujita",
+    "https://jp.linkedin.com/in/yumaishimitsu",
+    "https://jp.linkedin.com/in/reiyamamoto"
+   ]
+  },
+  {
+   "query": "site:facebook.com ダイセル・セイフティ・システムズ",
+   "results": [
+    "https://www.facebook.com/tatsunoart/posts/%E6%9C%AC%E6%97%A5%E3%82%82%E9%80%B1%E6%9C%AB%E3%81%AB%E9%96%8B%E5%82%AC%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%9F%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AE%E3%81%94%E5%A0%B1%E5%91%8A%E3%81%A7%E3%81%99%EF%B8%8F11%E6%9C%8817%E6%97%A5-%E6%97%A5%E6%9B%9C%E6%97%A5%E3%81%AF%E3%82%B2%E3%82%B9%E3%83%88%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B4%E3%83%AD%E3%83%84%E3%83%AF%E3%83%95%E4%BE%BF%E3%82%8A%E3%82%AC%E3%83%AC%E3%83%AA%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%84%E3%83%86%E3%82%A3%E3%83%BC%E3%81%AB%E8%8F%85%E5%8E%9F%E3%81%82%E3%81%9A%E3%81%95%E3%81%95%E3%82%93%E3%83%80%E3%82%A4%E3%82%BC%E3%83%AB%E3%82%BB%E3%82%A4%E3%83%95%E3%83%86%E3%82%A3%E3%82%B7%E3%82%B9/951355070349640/",
+    "https://www.facebook.com/instantknowledgeofficial/posts/%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97-%E0%B9%84%E0%B8%94%E0%B9%80%E0%B8%8B%E0%B8%A5-%E0%B9%80%E0%B8%8B%E0%B8%9F%E0%B8%95%E0%B8%B5%E0%B9%89-%E0%B8%8B%E0%B8%B5%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B8%AA%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%88%E0%B9%8D%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%94-daicel-safety-systems-thailand-co/1351226019734228/",
+    "https://www.facebook.com/yamashita.sekkotuin.since2016/",
+    "https://www.facebook.com/ダイセルセイフティシステムズ-193469880831929/",
+    "https://www.facebook.com/ダイセルセイフティシステムズ-102607522198613/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/ダイセルセイフティシステムズ株-344151872771019/",
+    "https://www.facebook.com/pages/Daicel-Safety-Systems/1687687521535904/",
+    "https://www.facebook.com/pages/Daicel-Safety-Inc/154515747917182/",
+    "https://www.facebook.com/DSSAAZ/"
+   ]
+  },
+  {
+   "query": "ダイセル・セイフティ・システムズ note 社長",
+   "results": [
+    "https://www.daicel.com/dss/company/",
+    "https://course-harima.com/kigyo/%E3%83%80%E3%82%A4%E3%82%BB%E3%83%AB%E3%82%BB%E3%82%A4%E3%83%95%E3%83%86%E3%82%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "https://tenshoku.mynavi.jp/company/442804/",
+    "https://www.daicel.com/dss/",
+    "https://www.nikkan.co.jp/jinjis/detail/2013-01-28/2023-02/4982",
+    "https://www.nikkei.com/article/DGXZTSJA90401_Y5A910C2000000/",
+    "https://www.instagram.com/p/Dd0tKAfkyCt/",
+    "https://www.daicel.com/safety/",
+    "https://the-shashi.com/tse/4202/chapter-2/",
+    "https://the-shashi.com/tse/4202/executives/"
+   ]
+  },
+  {
+   "query": "ダイセル・セイフティ・システムズ X 投稿",
+   "results": [
+    "https://www.daicel.com/dss/company/",
+    "https://www.daicel.com/dss/",
+    "https://course-harima.com/kigyo/%E3%83%80%E3%82%A4%E3%82%BB%E3%83%AB%E3%82%BB%E3%82%A4%E3%83%95%E3%83%86%E3%82%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "https://www.instagram.com/daicel_safety_systems/",
+    "https://www.daicel.com/safety/",
+    "https://job.mynavi.jp/27/pc/search/corp259753/outline.html",
+    "https://chemical-news.com/tag/%E3%83%80%E3%82%A4%E3%82%BB%E3%83%AB/page/19/?wptouch_switch=mobile",
+    "https://www.daicel.com/news/2026/20260226_1252/",
+    "https://www.instagram.com/p/DYg0XMhApNn/",
+    "https://en-hyouban.com/company/10008698802/"
+   ]
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部7頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部7頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部7頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部7頁・検索8回）"
+ }
+}

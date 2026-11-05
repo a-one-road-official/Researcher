@@ -1,0 +1,467 @@
+{
+ "name": "防衛装備庁の中央調達 契約情報（積層造形・3Dプリンター）",
+ "en": "Japan Acquisition Technology and Logistics Agency contract information additive manufacturing",
+ "aliases": [
+  "防衛装備庁 中央調達 契約情報 積層造形",
+  "防衛装備庁 契約 3Dプリンター 金額 site:mod.go.jp filetype:pdf",
+  "装備品安定製造等確保計画 積層造形 認定"
+ ],
+ "context": "防衛・一次",
+ "kind": "market",
+ "researched_at": "2026-11-05T06:03:39.494148+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mod.go.jp/atla/souhon/supply/jisseki/rakusatu/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chotatsu-archive.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikiho.toyokeizai.net/news/0/901019",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sattu-ai-agent.com/2026/09/17/defence-2027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000058.000032276.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r06_chotatsu_jisseki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/souhon/supply/jisseki/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chotatsu-archive.com/bouei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r07_chotatsu_gairyaku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://report.jbaudit.go.jp/org/h19/2007-h19-1118-0.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keyplayers/n/n902a3655f444",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r07_chotatsu_jisseki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.reuters.com/jp/article/world/japan/2-idUSTYE9AJ074/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/data/info/ny_honbu/ippan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/souhon/koukoku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.e-gov.go.jp/data/dataset/mod_20151130_0128",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rssystem.go.jp/project/8c435d8a-c01c-468e-ab45-3ab31b612546",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dla.mil/About-DLA/News/News-Article-View/Article/3967178/dla-awards-first-competitive-contract-for-additive-manufacturing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/en/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Acquisition,_Technology_%26_Logistics_Agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://comptroller.war.gov/Portals/45/Documents/defbudget/FY2025/budget_justification/pdfs/03_RDT_and_E/RDTE_DLA_PB_2025.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://geminigr.com/en/media/blog/japan-defense-procurement-atla/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/atla_kouhou_en",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/201/velo3d-awarded-9-8-million-multi-year-department-of-war",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/en/soubichou_gaiyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://terra-drone.net/global/2026/05/08/terra-drone-secures-jpy-115-4-million-order-from-japans-acquisition-technology-logistics-agency-for-300-domestically-produced-modular-uav-general-purpose-units/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-108-million-contract-award-us-air-force-advanced-metal-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/navalnewscom/posts/japans-atla-awarded-two-major-contracts-to-mitsubishi-heavy-industries-totaling-/1106320181514344/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geminigr.com/en/media/blog/japans-acquisition-technology-logistics-agency-atla/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waru.edu/events/explore-dlas-capabilities-dod-additive-manufacturing-ecosystem",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ndia.dtic.mil/wp-content/uploads/2023/post/Mishima.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nihonkoku-shoukan.fandom.com/wiki/Acquisition,_Technology_%26_Logistics_Agency_(ATLA)",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defensenews.com/global/asia-pacific/2026/08/27/japan-approves-mass-production-of-3d-printed-interceptor-drones/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/country-commercial-guides/japan-defense-procurement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morningstar.com/news/accesswire/1225715msn/dynamic-aerospace-systems-otcqbbrql-uav-platforms-presented-to-japans-acquisition-technology-logistics-agency-atla-and-japan-self-defense-forces-jsdf-officials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/statistics/1229166/japan-leading-defense-suppliers-by-contract-value/?srsltid=AYCX9vIFljSF58uURvoMwfXSlsgYe1QL3Fy1A4OgzEWPnxbSNDIlTqKZ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aviationweek.com/defense/budget-policy-operations/interest-japanese-military-capabilities-50-atla-says",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jumpseataerospacenews.com/2026/07/madehere-delivers-3d-printed-parts-to-japans-atla/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/japan-taps-3d-printing-for-latest-interceptor-drone-fleet-254316/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://primaryignition.com/2026/08/28/japan-interceptor-drone-program-accelerates-with-3d-printed-terra-b1/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "防衛装備庁の中央調達 契約情報（積層造形・3Dプリンター） 単価 万円",
+   "results": [
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/rakusatu/index.html",
+    "https://chotatsu-archive.com/",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://shikiho.toyokeizai.net/news/0/901019",
+    "https://sattu-ai-agent.com/2026/09/17/defence-2027/",
+    "https://prtimes.jp/main/html/rd/p/000000058.000032276.html",
+    "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/21_bouei.pdf",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r07_chotatsu_gairyaku.pdf",
+    "https://wbcsr.deps.atla.mod.go.jp/koukoku/index1.html"
+   ]
+  },
+  {
+   "query": "防衛装備庁の中央調達 契約情報（積層造形・3Dプリンター） 費用 相場",
+   "results": [
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/rakusatu/index.html",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r06_chotatsu_jisseki.pdf",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/index.html",
+    "https://chotatsu-archive.com/bouei/",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r07_chotatsu_gairyaku.pdf",
+    "https://report.jbaudit.go.jp/org/h19/2007-h19-1118-0.htm",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://shikiho.toyokeizai.net/news/0/901019",
+    "https://note.com/keyplayers/n/n902a3655f444"
+   ]
+  },
+  {
+   "query": "防衛装備庁の中央調達 契約情報（積層造形・3Dプリンター） 最大 受注 億円",
+   "results": [
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r06_chotatsu_jisseki.pdf",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/rakusatu/index.html",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r07_chotatsu_jisseki.pdf",
+    "https://shikiho.toyokeizai.net/news/0/901019",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/index.html",
+    "https://chotatsu-archive.com/",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://sattu-ai-agent.com/2026/09/17/defence-2027/",
+    "https://www.reuters.com/jp/article/world/japan/2-idUSTYE9AJ074/"
+   ]
+  },
+  {
+   "query": "防衛装備庁の中央調達 契約情報（積層造形・3Dプリンター） 量産 受注 年間",
+   "results": [
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/rakusatu/index.html",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/index.html",
+    "https://www.mod.go.jp/atla/data/info/ny_honbu/ippan.html",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r06_chotatsu_jisseki.pdf",
+    "https://chotatsu-archive.com/",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://www.mod.go.jp/atla/souhon/koukoku.html",
+    "https://data.e-gov.go.jp/data/dataset/mod_20151130_0128",
+    "https://shikiho.toyokeizai.net/news/0/901019"
+   ]
+  },
+  {
+   "query": "防衛装備庁の中央調達 契約情報（積層造形・3Dプリンター） 売上高 受託",
+   "results": [
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/rakusatu/index.html",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://rssystem.go.jp/project/8c435d8a-c01c-468e-ab45-3ab31b612546",
+    "https://shikiho.toyokeizai.net/news/0/901019",
+    "https://data.e-gov.go.jp/data/dataset/mod_20151130_0128",
+    "https://prtimes.jp/main/html/rd/p/000000058.000032276.html",
+    "https://chotatsu-archive.com/",
+    "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/index.html"
+   ]
+  },
+  {
+   "query": "Japan Acquisition Technology and Logistics Agency contract information additive manufacturing price per part",
+   "results": [
+    "https://www.dla.mil/About-DLA/News/News-Article-View/Article/3967178/dla-awards-first-competitive-contract-for-additive-manufacturing/",
+    "https://www.mod.go.jp/atla/en/index.html",
+    "https://en.wikipedia.org/wiki/Acquisition,_Technology_%26_Logistics_Agency",
+    "https://comptroller.war.gov/Portals/45/Documents/defbudget/FY2025/budget_justification/pdfs/03_RDT_and_E/RDTE_DLA_PB_2025.pdf",
+    "https://geminigr.com/en/media/blog/japan-defense-procurement-atla/",
+    "https://x.com/atla_kouhou_en",
+    "https://www.defenseandmunitions.com/news/defense-and-munitions-online-exclusive-nikon-am-vp-of-technology-discusses-how-new-dla-contract-advances-am-for-defense-supply-chain/",
+    "https://www.acquisition.gov/dlad/subpart-11.91-%E2%80%93-additive-manufacturing",
+    "https://nihonkoku-shoukan.fandom.com/wiki/Acquisition,_Technology_%26_Logistics_Agency_(ATLA)",
+    "https://www.trade.gov/country-commercial-guides/japan-defense-procurement"
+   ]
+  },
+  {
+   "query": "Japan Acquisition Technology and Logistics Agency contract information additive manufacturing largest contract million",
+   "results": [
+    "https://ir.velo3d.com/news-events/press-releases/detail/201/velo3d-awarded-9-8-million-multi-year-department-of-war",
+    "https://www.dla.mil/About-DLA/News/News-Article-View/Article/3967178/dla-awards-first-competitive-contract-for-additive-manufacturing/",
+    "https://www.mod.go.jp/atla/en/soubichou_gaiyou.html",
+    "https://terra-drone.net/global/2026/05/08/terra-drone-secures-jpy-115-4-million-order-from-japans-acquisition-technology-logistics-agency-for-300-domestically-produced-modular-uav-general-purpose-units/",
+    "https://en.wikipedia.org/wiki/Acquisition,_Technology_%26_Logistics_Agency",
+    "https://www.3dsystems.com/press-releases/3d-systems-receives-108-million-contract-award-us-air-force-advanced-metal-printing",
+    "https://geminigr.com/en/media/blog/japan-defense-procurement-atla/",
+    "https://www.facebook.com/navalnewscom/posts/japans-atla-awarded-two-major-contracts-to-mitsubishi-heavy-industries-totaling-/1106320181514344/",
+    "https://aeromorning.com/en/6k-additive-awarded-us1-95m-by-defense-logistics-agency-dla/",
+    "https://www.prnewswire.com/news-releases/velo3d-awarded-9-8-million-multi-year-department-of-war-contract-supporting-the-defense-logistics-agency-302723183.html"
+   ]
+  },
+  {
+   "query": "Japan Acquisition Technology and Logistics Agency contract information additive manufacturing serial production long-term agreement value",
+   "results": [
+    "https://geminigr.com/en/media/blog/japans-acquisition-technology-logistics-agency-atla/",
+    "https://www.mod.go.jp/atla/en/index.html",
+    "https://en.wikipedia.org/wiki/Acquisition,_Technology_%26_Logistics_Agency",
+    "https://www.dla.mil/About-DLA/News/News-Article-View/Article/3967178/dla-awards-first-competitive-contract-for-additive-manufacturing/",
+    "https://x.com/atla_kouhou_en",
+    "https://www.waru.edu/events/explore-dlas-capabilities-dod-additive-manufacturing-ecosystem",
+    "https://ndia.dtic.mil/wp-content/uploads/2023/post/Mishima.pdf",
+    "https://terra-drone.net/global/2026/05/08/terra-drone-secures-jpy-115-4-million-order-from-japans-acquisition-technology-logistics-agency-for-300-domestically-produced-modular-uav-general-purpose-units/",
+    "https://nihonkoku-shoukan.fandom.com/wiki/Acquisition,_Technology_%26_Logistics_Agency_(ATLA)",
+    "https://www.defensenews.com/global/asia-pacific/2026/08/27/japan-approves-mass-production-of-3d-printed-interceptor-drones/"
+   ]
+  },
+  {
+   "query": "Japan Acquisition Technology and Logistics Agency contract information additive manufacturing revenue",
+   "results": [
+    "https://geminigr.com/en/media/blog/japans-acquisition-technology-logistics-agency-atla/",
+    "https://www.mod.go.jp/atla/en/index.html",
+    "https://en.wikipedia.org/wiki/Acquisition,_Technology_%26_Logistics_Agency",
+    "https://x.com/atla_kouhou_en",
+    "https://nihonkoku-shoukan.fandom.com/wiki/Acquisition,_Technology_%26_Logistics_Agency_(ATLA)",
+    "https://ndia.dtic.mil/wp-content/uploads/2023/post/Mishima.pdf",
+    "https://www.morningstar.com/news/accesswire/1225715msn/dynamic-aerospace-systems-otcqbbrql-uav-platforms-presented-to-japans-acquisition-technology-logistics-agency-atla-and-japan-self-defense-forces-jsdf-officials",
+    "https://www.statista.com/statistics/1229166/japan-leading-defense-suppliers-by-contract-value/?srsltid=AYCX9vIFljSF58uURvoMwfXSlsgYe1QL3Fy1A4OgzEWPnxbSNDIlTqKZ",
+    "https://aviationweek.com/defense/budget-policy-operations/interest-japanese-military-capabilities-50-atla-says",
+    "https://www.defensenews.com/global/asia-pacific/2026/08/27/japan-approves-mass-production-of-3d-printed-interceptor-drones/"
+   ]
+  },
+  {
+   "query": "site:note.com 防衛装備庁の中央調達 契約情報（積層造形・3Dプリンター）",
+   "results": [
+    "https://note.com/good_dill292/n/nd7023cb55e2e",
+    "https://note.com/kagawatomo/n/nec02a950e382",
+    "https://note.com/yo4shi80/n/n06bbcc93a9ca",
+    "https://note.com/keyplayers/n/n902a3655f444",
+    "https://note.com/tatsunori_sato60/n/n2f0c0cd93057",
+    "https://note.com/100syousetuka/n/n275b1170f1be",
+    "https://note.com/kiyotani/n/ne0a688a7583a",
+    "https://note.com/tanakaminoru_/n/n232286aed798",
+    "https://note.com/dataneko/n/n44534f61149a"
+   ]
+  },
+  {
+   "query": "site:x.com 防衛装備庁の中央調達 契約情報（積層造形・3Dプリンター）",
+   "results": [
+    "https://x.com/aliexp_store/status/2096240805291925720",
+    "https://x.com/atla_kouhou_jp",
+    "https://x.com/atla_kouhou_jp/articles",
+    "https://x.com/shinjirokoiz/status/2092276251839103440",
+    "https://x.com/triangle_chain/status/2117043983381889100",
+    "https://x.com/mod04tk24509/status/2049764704780984765",
+    "https://x.com/dragon_under_pi/status/2075836121922277718"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 防衛装備庁の中央調達 契約情報（積層造形・3Dプリンター）",
+   "results": [
+    "https://jp.linkedin.com/pulse/航空宇宙防衛分野における3dプリンティングと積層造形-market-overview-analyzing-trends-yqp0e",
+    "https://members.linkedin.com/en-gb/download-the-linkedin-app",
+    "https://ae.linkedin.com/posts/bijapan_3dプリンター住宅の時代は来るか建設用3dプリンター開発のpolyuseが約-activity-7031801464800886784-6ezb",
+    "https://uk.linkedin.com/in/kate-platonova",
+    "https://www.linkedin.com/posts/hiroyasu-harada-3a7a13210_変わる装備品調達と企業防衛力整備計画の全容とは原田-大靖-activity-7194260872783958018-KodA",
+    "https://www.linkedin.com/posts/keio-innovation-initiative-inc_3dプリンターで建設素材のデジタルアーキ35億円調達-日本経済新聞-activity-7289202916836421632-C7o2",
+    "https://jp.linkedin.com/posts/crisis-intelligence_防衛省-防衛装備庁-プロジェクト管理対象装備品-activity-7236544214677737472-cn5w"
+   ]
+  },
+  {
+   "query": "site:facebook.com 防衛装備庁の中央調達 契約情報（積層造形・3Dプリンター）",
+   "results": [
+    "https://www.facebook.com/jgsdf.fp/videos/陸上自衛隊-は防衛力の抜本的強化-の一環として整備能力を強化すべく３ｄプリンター-の導入に向けた取組を進めています部品等の補給が難しい活動地域でも３ｄプリンター/1030915528478654/",
+    "https://www.facebook.com/atlamod/",
+    "https://www.facebook.com/atlamod/posts/防衛装備庁-防衛装備庁-主催防衛装備庁技術シンポジウム２０２５-のアーカイブ配信及び資料公開を開始しましたアーカイブ配信はこちら/122203812722575382/",
+    "https://www.facebook.com/atlamod/posts/防衛装備庁-防衛装備庁-主催防衛装備庁技術シンポジウム２０２５-のアーカイブ配信及び資料公開を開始しましたアーカイブ配信はこちらhttpswwwmodgojpa/122203812722575382/",
+    "https://www.facebook.com/atlamod/posts/ファストパス調達について防衛省では従来よりも遥かにスピーディーに研究開発装備化を実現するファストパス調達を活用しスタートアップ企業等が有する優れた技術の早期の防/122208728264575382/",
+    "https://www.facebook.com/atlamod/posts/防衛装備庁は研究開発事業の概要を紹介する研究開発パンフレットを刷新しました各種イベント等で配布していますので是非お手に取ってみてください防衛装備庁webページで/122138534492575382/",
+    "https://www.facebook.com/atlamod/posts/令和７年３月１９日石川防衛装備庁長官は米国防安全保障協力庁長官との間で第９回安全保障協力協議会合ｓｃｃｍを開催しｆｍｓ調達を巡る諸課題について協議を行いました両/122151284396575382/"
+   ]
+  },
+  {
+   "query": "防衛装備庁の中央調達 契約情報（積層造形・3Dプリンター） note 社長",
+   "results": [
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/rakusatu/index.html",
+    "https://note.com/keyplayers/n/n902a3655f444",
+    "https://note.com/keyplayers/n/n50bce28654c1",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://www.asahi.com/articles/ASS932Q30S93ULFA00KM.html",
+    "https://note.com/yyukizi/n/n18554d2b167f",
+    "https://report.jbaudit.go.jp/org/h19/2007-h19-1118-0.htm",
+    "https://www.mod.go.jp/atla/souhon/deps/index.html",
+    "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f"
+   ]
+  },
+  {
+   "query": "防衛装備庁の中央調達 契約情報（積層造形・3Dプリンター） X 投稿",
+   "results": [
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/rakusatu/index.html",
+    "https://x.com/atla_kouhou_jp",
+    "https://data.e-gov.go.jp/data/dataset/mod_20140905_0100/resource/d76b5642-264b-4a28-b1fa-c106181508a1",
+    "https://rssystem.go.jp/project/8c435d8a-c01c-468e-ab45-3ab31b612546",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://chotatsu-archive.com/bouei/",
+    "https://www.mod.go.jp/atla/choutatsuchuuou.html",
+    "https://drone-journal.impress.co.jp/docs/special/1188616.html",
+    "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f"
+   ]
+  },
+  {
+   "query": "Japan Acquisition Technology and Logistics Agency contract information additive manufacturing site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/precisionadditivesolutions",
+    "https://www.linkedin.com/posts/star-media-group-berhad_malaysia-japan-explore-potential-defence-activity-7517920169277509632-L1vF",
+    "https://www.linkedin.com/posts/embassy-of-sweden-in-japan_swedens-defence-attach%C3%A9-to-japan-activity-7506608261312344064-QXK3",
+    "https://www.linkedin.com/posts/washingtonexec_announced-activity-7351287049934594048-bfjU",
+    "https://www.linkedin.com/jobs/view/program-manager-at-defense-logistics-agency-4485691474",
+    "https://www.linkedin.com/company/dynamic-aerospace-systems",
+    "https://www.linkedin.com/in/jim-additive-manufacturing",
+    "https://www.linkedin.com/in/ekirchner",
+    "https://www.linkedin.com/in/brent-ingraham-9b496a13",
+    "https://www.linkedin.com/company/addmfgmedia"
+   ]
+  }
+ ],
+ "missing": {
+  "1件の単価": "記載なし（読んだ43頁・検索16回）",
+  "最大案件・上限": "記載なし（読んだ43頁・検索16回）",
+  "顧客1社の年間": "記載なし（読んだ43頁・検索16回）",
+  "受託会社の売上": "記載なし（読んだ43頁・検索16回）",
+  "用途別": "記載なし（読んだ43頁・検索16回）",
+  "価格を決める要因": "記載なし（読んだ43頁・検索16回）"
+ }
+}

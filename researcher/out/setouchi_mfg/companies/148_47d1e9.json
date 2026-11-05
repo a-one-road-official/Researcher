@@ -1,0 +1,221 @@
+{
+ "name": "148",
+ "aliases": [],
+ "context": "山口県下関市／出典:大学・高専の企業説明会／求人媒体:Indeed;doda;マイナビ転職／想定年収:1027〜1027万円／従業員:不明",
+ "researched_at": "2026-11-05T06:21:35.500076+00:00",
+ "official_url": "https://grip-space.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,000万円",
+    "url": "https://grip-space.co.jp/about/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "WEB用動画制作 WEBシステム開発 ホームページ制作 ITコンサルティング業",
+    "url": "https://grip-space.co.jp/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用ページ": [
+   {
+    "quote": "わたしたちについて｜採用情報｜ECサイト構築、Webシステム開発、ホームページ制作、動画コンテンツ制作なら ibis studio株式会社",
+    "url": "https://grip-space.co.jp/about/",
+    "pass": 1
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "1,000万円",
+    "url": "https://grip-space.co.jp/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://grip-space.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grip-space.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/q-148-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/JobSearchList/j_k__/148,/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E6%A0%AA-148-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/148_(number)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shouselaw.com/ca/defense/penal-code/148/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://legalknowledgebase.com/what-is-a-148-police-code",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "148 求人 年収",
+   "results": [
+    "https://jp.indeed.com/q-148-求人.html",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_k__/148,/",
+    "https://jp.indeed.com/q-株-148-求人.html",
+    "https://tenshoku.mynavi.jp/shutoken/list/p14+c14214/min0800/pg148/",
+    "https://tenshoku.mynavi.jp/list/f003+f200/pg148/",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_k__/平均年収/-page__148/",
+    "https://job.pc-k.co.jp/salary-search/"
+   ]
+  },
+  {
+   "query": "148 採用 新卒 高卒",
+   "results": [
+    "https://en.m.wikipedia.org/wiki/148_(number)",
+    "https://www.shouselaw.com/ca/defense/penal-code/148/",
+    "https://legalknowledgebase.com/what-is-a-148-police-code",
+    "https://www.biblegateway.com/passage/?search=Psalm+148&version=NRSVUE",
+    "https://m.youtube.com/watch?v=XxKyX_ndsZY",
+    "https://www.biblegateway.com/passage/?search=psalm+148&version=NIV",
+    "https://codes.findlaw.com/ca/penal-code/pen-sect-148/",
+    "https://california.public.law/codes/penal_code_section_148",
+    "https://california.public.law/codes/penal_code_section_148.10",
+    "https://www.justia.com/criminal/docs/calcrim/2600/2656/"
+   ]
+  },
+  {
+   "query": "site:note.com 148",
+   "results": [
+    "https://en.m.wikipedia.org/wiki/148_(number)",
+    "https://www.shouselaw.com/ca/defense/penal-code/148/",
+    "https://legalknowledgebase.com/what-is-a-148-police-code",
+    "https://www.biblegateway.com/passage/?search=Psalm+148&version=NRSVUE",
+    "https://m.youtube.com/watch?v=XxKyX_ndsZY",
+    "https://www.biblegateway.com/passage/?search=psalm+148&version=NIV",
+    "https://codes.findlaw.com/ca/penal-code/pen-sect-148/",
+    "https://california.public.law/codes/penal_code_section_148",
+    "https://california.public.law/codes/penal_code_section_148.10",
+    "https://www.justia.com/criminal/docs/calcrim/2600/2656/"
+   ]
+  },
+  {
+   "query": "site:x.com 148",
+   "results": [
+    "https://en.m.wikipedia.org/wiki/148_(number)",
+    "https://www.shouselaw.com/ca/defense/penal-code/148/",
+    "https://legalknowledgebase.com/what-is-a-148-police-code",
+    "https://www.biblegateway.com/passage/?search=Psalm+148&version=NRSVUE",
+    "https://m.youtube.com/watch?v=XxKyX_ndsZY",
+    "https://www.biblegateway.com/passage/?search=psalm+148&version=NIV",
+    "https://codes.findlaw.com/ca/penal-code/pen-sect-148/",
+    "https://california.public.law/codes/penal_code_section_148",
+    "https://california.public.law/codes/penal_code_section_148.10",
+    "https://www.justia.com/criminal/docs/calcrim/2600/2656/"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 148",
+   "results": [
+    "https://en.m.wikipedia.org/wiki/148_(number)",
+    "https://www.shouselaw.com/ca/defense/penal-code/148/",
+    "https://legalknowledgebase.com/what-is-a-148-police-code",
+    "https://www.biblegateway.com/passage/?search=Psalm+148&version=NRSVUE",
+    "https://m.youtube.com/watch?v=XxKyX_ndsZY",
+    "https://www.biblegateway.com/passage/?search=psalm+148&version=NIV",
+    "https://codes.findlaw.com/ca/penal-code/pen-sect-148/",
+    "https://california.public.law/codes/penal_code_section_148",
+    "https://california.public.law/codes/penal_code_section_148.10",
+    "https://www.justia.com/criminal/docs/calcrim/2600/2656/"
+   ]
+  },
+  {
+   "query": "site:facebook.com 148",
+   "results": [
+    "https://en.m.wikipedia.org/wiki/148_(number)",
+    "https://www.shouselaw.com/ca/defense/penal-code/148/",
+    "https://legalknowledgebase.com/what-is-a-148-police-code",
+    "https://www.biblegateway.com/passage/?search=Psalm+148&version=NRSVUE",
+    "https://m.youtube.com/watch?v=XxKyX_ndsZY",
+    "https://www.biblegateway.com/passage/?search=psalm+148&version=NIV",
+    "https://codes.findlaw.com/ca/penal-code/pen-sect-148/",
+    "https://california.public.law/codes/penal_code_section_148",
+    "https://california.public.law/codes/penal_code_section_148.10",
+    "https://www.justia.com/criminal/docs/calcrim/2600/2656/"
+   ]
+  },
+  {
+   "query": "148 note 社長",
+   "results": [
+    "https://en.m.wikipedia.org/wiki/148_(number)",
+    "https://www.shouselaw.com/ca/defense/penal-code/148/",
+    "https://legalknowledgebase.com/what-is-a-148-police-code",
+    "https://www.biblegateway.com/passage/?search=Psalm+148&version=NRSVUE",
+    "https://m.youtube.com/watch?v=XxKyX_ndsZY",
+    "https://www.biblegateway.com/passage/?search=psalm+148&version=NIV",
+    "https://codes.findlaw.com/ca/penal-code/pen-sect-148/",
+    "https://california.public.law/codes/penal_code_section_148",
+    "https://california.public.law/codes/penal_code_section_148.10",
+    "https://www.justia.com/criminal/docs/calcrim/2600/2656/"
+   ]
+  },
+  {
+   "query": "148 X 投稿",
+   "results": [
+    "https://en.m.wikipedia.org/wiki/148_(number)",
+    "https://www.shouselaw.com/ca/defense/penal-code/148/",
+    "https://legalknowledgebase.com/what-is-a-148-police-code",
+    "https://www.biblegateway.com/passage/?search=Psalm+148&version=NRSVUE",
+    "https://m.youtube.com/watch?v=XxKyX_ndsZY",
+    "https://www.biblegateway.com/passage/?search=psalm+148&version=NIV",
+    "https://codes.findlaw.com/ca/penal-code/pen-sect-148/",
+    "https://california.public.law/codes/penal_code_section_148",
+    "https://california.public.law/codes/penal_code_section_148.10",
+    "https://www.justia.com/criminal/docs/calcrim/2600/2656/"
+   ]
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "人手不足の発言": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）",
+  "取引先・規模": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部6頁・検索8回）"
+ }
+}

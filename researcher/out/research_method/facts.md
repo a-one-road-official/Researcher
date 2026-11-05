@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・38品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・41品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -123,6 +123,10 @@
   - 「もし2つ目の情報源も同じ盲点を共有しているなら、それは三角測量ではなく、単に音量を大きくしただけにすぎません" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
 - 一次情報の探し方：
   - 「三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「研究者は、様々な方法、データソース、視点を採用することで、調査結果を確認し、結論が一貫していることを確認することができる」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
+  - 「三角測量を採用するかどうかを選択する際、研究者は研究の背景、目的、利用可能な資源、研究テーマの性質を慎重に評価すべきである」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
+  - 「調査は、統計的に評価できる量的情報を提供し、さまざまな質的情報源と組み合わせることができる」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
+  - 「結果を包括的かつ透明性をもって提示し、データ源と採用した分析プロセスを明らかにする」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
   - 「実験研究や統計学的処理をしたアンケート調査と比較し、質的研究は主として対象者の語りを分析しますので、結果に数値が使われません」（https://note.com/goldmist1959/n/nb892f5128ad2）
   - 「エビデンスとしてはやはり統計的に処理をした数値で表す方がどうしても客観性が高くみられるので、質的研究の結果は、量的研究を主とする研究者から、「エビデンスとして価値があるのか？」と懐疑的にみられやすいです」（https://note.com/goldmist1959/n/nb892f5128ad2）
   - 「しかし、量的な研究にも限界があり、統計学的処理の結果だけをエビデンスとしても患者や住民の困っていることを解決する際には、偏りが出てきます」（https://note.com/goldmist1959/n/nb892f5128ad2）
@@ -133,26 +137,22 @@
   - 「バラツキのロバスト統計量（５）- 正規分布で比較」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
   - 「バラツキのロバスト統計量（４）- [math] \displaystyle Q_n [/math]」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
   - 「統計要約量 (23)」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
-  - 「http://www.edu-ctr.pref.okayama.jp/chousa/study/h19/07-04.pdf#search='%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%AE%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3+%E6%95%99%E8%82%B2」（https://keywordkatakanagojiten2013.blogspot.com/2015/04/blog-post_55.html）
-  - 「富山大学医学部医学科 医療統計学講座」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja）
-  - 「PDFをダウンロード」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja）
-  - 「疫学や統計学では因果関係を立証するための方法論を総じて因果推論と呼ぶ」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja）
 - 失敗・落とし穴：
   - 「多くの学生は、意見の不一致（対立）を「失敗」と捉えがちです」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「しかしそれは失敗ではなく、適切に対処するための認められた語彙が存在します」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「Convenience Sampling: Avoid Bias When Recruiting Study Participants」（https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/）
-  - 「人間には「確証バイアス」があります」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
-  - 「これにより、単一の視点や方法だけを使った場合に生じる偏り（バイアス）を減らし、結果の妥当性と信頼性を高めます」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「坪山先生（2021） 「3.トライアンギュレーション：徹底したバイアスの排除」」（https://note.com/saito_lab/n/n554cd436c4ae）
-  - 「（4）研究者のバイアス排除」（https://note.com/saito_lab/n/n554cd436c4ae）
-  - 「また、インタビューの手法についても、異なるタイプを組み合わせるころで、バイアスを少なくし、より正確な情報の取得に勤めます」（https://note.com/saito_lab/n/n554cd436c4ae）
-  - 「個別のインタビューにおいて実施から24 時間以内にメモやテープ起こしを作成することで記憶の歪みを防ぐことが推奨されている．それと同時に，複数の研究者の参加により，個々の研究者の持ち込むバイアスが研究に影響を及ぼすことを防ぐことも推奨されている．」（https://note.com/saito_lab/n/n554cd436c4ae）
-  - 「この記事では、トライアンギュレーションの意味、デンジンによる4つの種類、目的、具体例、混合研究法との関係、注意点までを、研究法の標準的な文献にもとづいて整理します」（https://scholarcompass.net/columns/184）
-  - 「ただし注意点として、「トライアンギュレーション」という言葉は、デンジンが提唱した」（https://scholarcompass.net/columns/184）
-  - 「トライアンギュレーションのメリットと注意点」（https://scholarcompass.net/columns/184）
-  - 「注意点・限界」（https://scholarcompass.net/columns/184）
-  - 「それぞれの方法が同じ弱点（バイアス）を共有していれば、いくつ重ねても偏りは補正されません」（https://scholarcompass.net/columns/184）
-  - 「注意点・誤解されやすい点」（https://scholarcompass.net/columns/184）
+  - 「臨床心理系大学院生質的研究に取り組んでる質的研究の注意点が知りたい分析的帰納法ってなに？以上の項目に当てはまる数が多いほど、ご賞味ください」（https://clitama.human-relation.net/triangulation/）
+  - 「三角測量は、多様なデータ源、方法論、視点を融合させることで、研究者のバイアスを減らし、研究の深みを増し、最終的にはより信頼できる徹底的な結論に到達することを可能にする」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
+  - 「それぞれの研究者がもたらす異なる視点、経験、バイアスは、他の研究者の調査結果をサポートし、検証することができる」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
+  - 「バイアスの可能性を低くし、調査結果の信頼性を高めることで、三角測量は研究の妥当性に貢献する」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
+  - 「複数の手法、データソース、視点を組み合わせた場合でも、データに対する研究者の認識や分析は、研究者自身のバイアスや視点に影響される可能性がある」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
+  - 「多くの情報源から得られた知見を統合し、総合する必要があるかもしれないが、これには主観的な判断が含まれ、研究者のバイアスがかかるかもしれない」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
+  - 「三角測量のプロセスを通じて公平性と開放性を達成するためには、研究者は自身のバイアスを認識していなければならない」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
+  - 「三角測量は、多くの方法を組み合わせることでバイアスを減らし、個々のバイアスの影響を減らし、客観性を高める」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
+  - 「バイアスやリソースの制約など、三角測量に伴う限界や課題を認識し、対処する」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
+  - 「Common mistakes to avoid」（https://www.researchprospect.com/triangulation/）
+  - 「Every single method introduces method-specific error. Self-report surveys suffer from social-desirability bias;」（https://www.researchprospect.com/triangulation/）
+  - 「Reduces individual analyst bias」（https://www.researchprospect.com/triangulation/）
 - 実例：
   - 「どちらの立場を主張するかによって結果が異なります」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
@@ -167,16 +167,24 @@
   - 「Examples of Triangulation in UX」（https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/）
   - 「Triangulation can take many forms; two examples of how you could triangulate UX research are shown here. Left: Triangulate by using multiple methods to study the same activity, such as quantitative research, qualitative research, and expert review. Right: Triangulate by analyzing several different metrics related to the same activity, such as satisfaction ratings, time spent, and revenue volume.」（https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/）
   - 「Some examples of research triangulation are:」（https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/）
-  - 「その差が、長い目で見ると大きな結果の違いになる、ということなのだと思っています」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
-  - 「結果として、3つのうち2つは的外れでしたが、1つが「まさにそこが課題です」という反応をもらえました」（https://note.com/muchihaji3131/n/nbd8d564b66f6）
+  - 「著者たちは、使う側には制御できるという安心を、拒む側には一過性の流行だと退ける口実を与えるこの見方に対し、AIを結果を形づくる関係的な媒体（relational medium）として扱うよう求めています」（https://note.com/kasano/n/n7b5909b6492c）
+  - 「参加者には、生成AIを使っていて思考を停止させるサインにぶつかった具体的な事例を一つずつ持ち寄ってもらい、文字起こしにLLMを使うときの課題や、AI生成物を含む研究の帰属の示し方などを話し合う形式です」（https://note.com/kasano/n/n7b5909b6492c）
 - 検索結果の抜粋：
+  - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ... — Apr 3, 2023 · 本稿では、大規模言語モデル（Large Languagn Model, LLM）の急速かつ劇的な進歩を踏まえ、社会学の研究者であるノーマン・K・デンジンが1970年代に提唱した「トライアンギュレーション（三角測量）」という方法論の拡張を、デザインリサーチの多元化の一例と ...」（https://note.com/kasano/n/n5300393c2f30）
+  - 「デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、ト... — Oct 22, 2026 · 私はワークショップの前年に「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギュレーション」という短いテキストを書き、社会学者のノーマン・K・デンジン（Norman K. Denzin）が提唱したトライアンギュレーション（三角測量）のうち ...」（https://note.com/kasano/n/n7b5909b6492c）
+  - 「トライアンギュレーションとは？意味・4つの種類・研究での使い方をわ... — Sep 25, 2026 · デンジン自身はトライアンギュレーションを「複数の観察者・方法・解釈の視点・経験的資料の水準や形式を用いて解釈を構築すること」と説明しています。 トライアンギュレーションの4つの種類（デンジンの分類）」（https://scholarcompass.net/columns/184）
+  - 「トライアンギュレーションとは｜質的研究 用語集 | コード化・カテゴ... — Jan 21, 2026 · トライアンギュレーションとは トライアンギュレーションとは、複数のデータ源、研究者、理論、方法を用いることで研究 ...」（https://code-category.tapeokoshi.net/triangulation/）
+  - 「【わかりやすく】トライアンギュレーションとは？～具体例も交えて～ ... — Jan 14, 2024 · トライアンギュレーションとは まずは、定義を確認しておくと・・・ トライアンギュレーション（方法的複眼） とは基本 ...」（https://clitama.human-relation.net/triangulation/）
+  - 「トライアンギュレーション | Design Playbook — Mar 14, 2026 · トライアンギュレーションは、ひとつの調査結果を単独で信じるのではなく、異なる手法やデータ源、評価者の視点を組み合わせて解釈する考え方です。 定量と定性、観察と自己申告、複数の研究者によるレビューなどが典型例です。 主な種類 手法の三角 ...」（https://playbook.ankr.design/methods/triangulation/）
+  - 「質的研究においてなぜ三角測量（トライアンギュレーション）を用いる... — 以下では、4つのタイプが実際にどのようなものであるか、三角測量によって得られるものと得られないもの、情報源が対立したときの対処法、そして過剰な主張をせずに方法論のセクションに記述する方法を解説します。」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「トライアンギュレーション | Design Playbook — Mar 14, 2026 · トライアンギュレーション トライアンギュレーションは、複数の手法、データ、視点を組み合わせて、調査結果の確からしさや解釈の幅を高める考え方です。 更新日: 2026-03-14 概要」（https://playbook.ankr.design/methods/triangulation/）
+  - 「Triangulation in Research: Definition, Types, Examples, and Steps — Nov 4, 2024 · Triangulation in research is the deliberate use of multiple data sources, methods, investigators, or theoretical perspectives to examine the same phenomenon. Researchers compare the resulting evidence to identify convergence, complementarity, and divergence. Done well, triangulation strengthens the credibility and de」（https://researchmethod.net/triangulation/）
+  - 「Triangulation in Research: Types & Examples — Jun 17, 2026 · Triangulation in research is the practice of using multiple data sources, methods, investigators or theories to study a single phenomenon, so that the findings rest on more than one line of evidence.」（https://www.researchprospect.com/triangulation/）
+  - 「Triangulation in Research: The 4 Types — CASRAI — Aug 23, 2026 · Triangulation in Research: Types, Purpose, and How to Apply It Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.」（https://casrai.org/guides/triangulation-in-research）
+  - 「(PDF) The Role of Triangulation in Qualitative Research ... — Jul 5, 2024 · Abstract Triangulation is a methodological approach that involves using multiple methods or data sources to enhance the credibility and validity of research findings.」（https://www.researchgate.net/publication/382547374_The_Role_of_Triangulation_in_Qualitative_Research_Converging_Perspectives）
+  - 「Triangulation in Research | Guide, Types, Examples - Scribbr — Jan 3, 2022 · Triangulation uses multiple data sources, methods, investigators or theories in research.」（https://www.scribbr.com/methodology/triangulation/）
+  - 「(PDF) Triangulation in Research — Aug 31, 2021 · This research utilizes a mixed-method exploratory sequential research design employing the triangulation method to validate and confirm data using multiple sources to cross-check finding (Campbell ...」（https://www.researchgate.net/publication/354268603_Triangulation_in_Research）
   - 「質的研究におけるトライアンギュレーションとは｜M. Kawabata, RN., P... — Mar 7, 2025 · こんにちは！今回は、質的研究においてその質を上げるための方法として トライアンギュレーション について説明します ...」（https://note.com/goldmist1959/n/nb892f5128ad2）
-  - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ...VP ARCHIVE SCIENCE | Measuring the Earth PHASE 01-06 ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査をおこなう研究者から度々批判が」（https://note.com/kasano/n/n5300393c2f30）
-  - 「287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ... — Jun 11, 2025 · 今日は、坪山先生（2021） 「3.トライアンギュレーション：徹底したバイアスの排除」についての整理です。 Eisenhardt メソッドの特徴に、 徹底したトライアンギュレーションによって研究の厳密性を確保しようとしている p.26 が挙げられます。」（https://note.com/saito_lab/n/n554cd436c4ae）
-  - 「トライアンギュレーション とは？意味・4つの種類・研究での ... — トライアンギュレーション とは？意味・4つの種類・研究での ... scholarcompass.net https://scholarcompass.net > コラム」（https://scholarcompass.net/columns/184）
-  - 「質的研究における トライアンギュレーション とは？4つの型と ... — 質的研究における トライアンギュレーション とは？4つの型と ... Qualitati https://qualitati.com > blog > what-is-triangulation-qualitat...」（https://qualitati.com/blog/ja/what-is-triangulation-qualitative-research-2026）
-  - 「トリアンギュレーション・ トライアンギュレーション — トリアンギュレーション・ トライアンギュレーション さくらインターネット https://navymule9.sakura.ne.jp > 16_triangulation_Social...」（https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html）
-  - 「トライアンギュレーション （データの 三角測量 ） — トライアンギュレーション （データの 三角測量 ） はてなブログ https://oceanone.hatenablog.com > entry > 2020/02/19」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
 
 ## 企業分析のやり方（非上場・中小企業）（how to analyze private small companies）
 - 文脈：企業
@@ -896,6 +904,10 @@
   - 「Selection bias:」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
   - 「What was NOT leaked? Leaks are typically incomplete; the leaker’s selection criteria bias what’s available」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
   - 「Cognitive Biases in Intelligence Analysis」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「Sources that share the same bias, such as two surveys of the same people」（https://www.monitoringevaluationstudio.com/resources/reference/triangulation）
+  - 「Decide before you collect what counts as agreement. Two of three sources? All three within a stated margin? Without this, the analyst decides after seeing the data, which is where bias re-enters.」（https://www.monitoringevaluationstudio.com/resources/reference/triangulation）
+  - 「The point is complementary bias. Pair breadth with depth, self-report with observation, recall with records.」（https://www.monitoringevaluationstudio.com/resources/reference/triangulation）
+  - 「Agreement across sources raises confidence; it does not establish causation. Three sources can share the same underlying bias.」（https://www.monitoringevaluationstudio.com/resources/reference/triangulation）
 - 実例：
   - 「AIの調査結果を、どこまで信じてよいのか？出典・反証・不確実性を管理する基本設計｜南翔伍 / AIコンパニオンとSNSの間くらいの「Jams」開発中」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「AIの調査結果を、どこまで信じてよいのか？出典・反証・不確実性を管理する基本設計」（https://note.com/gtminami/n/n5d18b36d3acc）
@@ -1124,6 +1136,15 @@
   - 「：公開情報（業界レポート、統計データ、IR資料、ニュース記事等）を網羅的に収集・分析（出典：」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「：業界有識者、元業界幹部等への電話・対面インタビューによる一次情報の収集」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「：財務データ、市場規模データ、顧客データ等の統計分析」（https://renue.co.jp/posts/consulting-strategy-department-guide）
+  - 「三菱UFJリサーチ＆コンサルティング株式会社の転職・採用情報」（https://www.kotora.jp/c/50381/）
+  - 「デスクリサーチとは、インターネット上の情報、既存の市場レポート、統計データ、業界ニュースなどを活用する方法で、資料や公開データなどの二次情報をもとにして分析を進めます」（https://www.kotora.jp/c/50381/）
+  - 「一方、フィールドリサーチは、現地訪問やエキスパートへのインタビュー、またはアンケート調査によるデータ収集など、一次情報を直接取得する方法です」（https://www.kotora.jp/c/50381/）
+  - 「外資系コンサルタントがよく活用するのは、ピボットテーブルや統計分析ツール、さらにはPythonやRなどのプログラミングスキルを取り入れた高度な分析です」（https://www.kotora.jp/c/50381/）
+  - 「また、特定のファイル形式を探したい場合には「filetype:pdf キーワード」を活用します」（https://www.kotora.jp/c/50381/）
+  - 「この思考法を採用することで、表面的な課題にとどまることなく、クライアントの意思決定を支援するための深い洞察を提供することができます」（https://www.kotora.jp/c/50381/）
+  - 「最初に結論を提示し、その後に結論を裏付ける根拠やデータを示す「ピラミッド構造」を採用することで、見た人がすぐに全体像を把握できるようにします」（https://www.kotora.jp/c/50381/）
+  - 「簡単無料登録で、各業界を熟知したキャリアコンサルタントが非公開求人など多数のハイクラス求人からあなたの最新のポジションを紹介します」（https://www.kotora.jp/c/50381/）
+  - 「理系の強み採用！理系院卒がコンサル業界で求められる理由」（https://www.kotora.jp/c/50381/）
 - 失敗・落とし穴：
   - 「記事検索では、記載されるファクトと、それが語られている視点に注意する必要があります」（https://www.arts-crafts.co.jp/post-16243/）
   - 「設計観点の整理：戦略コンサルAI導入で陥りやすい3大落とし穴」（https://renue.co.jp/posts/consulting-strategy-department-guide）
@@ -1132,6 +1153,9 @@
   - 「落とし穴3：中国拠点コンサルAI×PIPL/大模型備案」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「ここでは、守秘義務・グローバルAI×越境データ・中国拠点×PIPLの3観点で落とし穴を整理します」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「AI活用の落とし穴は、」（https://renue.co.jp/posts/consulting-strategy-department-guide）
+  - 「1）承認の場面において報告を受ける側が、検討過程のロジックや検証具合に、より注意を払うようになる」（https://note.com/pathfinders01/n/nddf629565473）
+  - 「事後検証が当たり前になることで、「プロジェクトが成功した理由」「失敗した理由」が客観的なデータとして残るようになる」（https://note.com/pathfinders01/n/nddf629565473）
+  - 「監査法人から経理部への転職で年収アップは可能？活かせる経験・評価されるポイントと注意点」（https://www.kotora.jp/c/50381/）
 - 実例：
   - 「リサーチは経営戦略に近しい場に従事する戦略コンサルタントの主業務の一つであり、市場環境の調査・競合サービスの調査・最新事例の調査を行うことで、戦略策定に必要なファクトを整理しています」（https://www.arts-crafts.co.jp/post-16243/）
   - 「なので、今回は、戦略コンサルタントが実施する「リサーチの基本やまとめ方」について、実例を交えて紹介しようと思います」（https://www.arts-crafts.co.jp/post-16243/）
@@ -1148,6 +1172,8 @@
   - 「を活用したメディア・エンターテインメント領域における新規事業の創出を目指している」ものとし、その一端であるベンチマーク調査の事例を紹介します」（https://www.arts-crafts.co.jp/post-16243/）
   - 「を活用したメディア・エンターテインメント領域における新規事業の創出」を狙う際に、有益となり得るベンチマーク事例を収集します」（https://www.arts-crafts.co.jp/post-16243/）
   - 「活用事例なので、情報の在り処としては、国内外問わず通信キャリアやゲーム制作会社における取り組みが多いことが予想されます」（https://www.arts-crafts.co.jp/post-16243/）
+- 検索結果の抜粋：
+  - 「コンサルティングファームの戦略コンサルタントの業務内容｜市場調査... — Sep 16, 2026 · AIはデスクリサーチの高速化や定量モデルの自動構築、報告書ドラフトの自動生成で大幅な効率化に貢献しますが、 「筋の良い仮説」の構築、エキスパートインタビュー、ストーリーラインの構成、ワークショップのファシリテーション、チェンジ ...」（https://renue.co.jp/posts/consulting-strategy-department-guide）
 
 ## 業界統計（工業統計・経済構造実態調査・中小企業実態基本調査）を時系列で読む方法（how to read Japanese industrial statistics time series）
 - 文脈：凄腕・統計
@@ -1921,6 +1947,18 @@
   - 「前期と今期の純資産を比較することで、利益の増減を推定できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「ただし、前期と今期の純資産の差額から大まかな利益・損失の傾向を推定することは可能です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「前期比での純資産の変化から、損益の傾向を間接的に推定できる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「ファクト収集・検証やドラフトにはAIの力を多大に借りるが、」（https://note.com/ib_pe_hf/n/n91f16945e33e）
+  - 「2. iB考察による投資仮説」（https://note.com/ib_pe_hf/n/n91f16945e33e）
+  - 「5. 投資リターン、投資仮説の答え合わせ」（https://note.com/ib_pe_hf/n/n91f16945e33e）
+  - 「以下は、公開情報からiBが考察した当時の投資仮説」（https://note.com/ib_pe_hf/n/n91f16945e33e）
+  - 「仮説1：御三家は三菱自動車を潰さない」（https://note.com/ib_pe_hf/n/n91f16945e33e）
+  - 「仮説2：発行価格100円は、資本増強後の会社の価値より安い」（https://note.com/ib_pe_hf/n/n91f16945e33e）
+  - 「仮説3：ハンズオンの実績を作れる」（https://note.com/ib_pe_hf/n/n91f16945e33e）
+  - 「5-2. iBによるリターンの推定（仮定値）」（https://note.com/ib_pe_hf/n/n91f16945e33e）
+  - 「出口は市場売却なので、株価から逆算できる」（https://note.com/ib_pe_hf/n/n91f16945e33e）
+  - 「2005年11月の株価300円台と矛盾しない」（https://note.com/ib_pe_hf/n/n91f16945e33e）
+  - 「5-3. 仮説の答え合わせ」（https://note.com/ib_pe_hf/n/n91f16945e33e）
+  - 「仮説1（御三家は潰さない）：○」（https://note.com/ib_pe_hf/n/n91f16945e33e）
 - 一次情報の探し方：
   - 「官報の決算公告の見方を徹底解説｜貸借対照表要旨から財務状況を読み取る方法【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「官報の決算公告の見方を徹底解説｜貸借対照表要旨から財務状況を読み取る方法【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -1946,6 +1984,8 @@
   - 「流動比率が100%を下回る場合、短期的な支払い義務が短期間に現金化できる資産を上回っていることを意味し、資金繰りの悪化サインとして注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「ただし、中小企業の決算公告はB/Sのみのため、売上成長率や利益率の比較はできない点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「株式会社の決算公告を調べる際と対象を混同しないようご注意ください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 - 実例：
   - 「P/L全体は見えなくても、最終的な収益性の結果は確認できる仕組みになっています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「特に中小企業同士のビジネスでは、取引先が決算書を開示しないケースが多く、官報公告が唯一の財務情報源になることもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -1955,6 +1995,13 @@
   - 「経済産業省の商工業実態基本調査によると、製造業の中小企業では20%台が一つの基準となるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「なお、電子公告を選択している中小企業の一部は、義務の範囲を超えて損益計算書も任意で掲載するケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「バイアウトのケーススタディから投資について学びたい方」（https://note.com/ib_pe_hf/n/n91f16945e33e）
+  - 「同じことが他の不祥事でも起きるのかを、日本企業の主な事例で確かめる」（https://note.com/ib_pe_hf/n/n91f16945e33e）
+  - 「今の日本のドラッグストアがその実例になっている」（https://note.com/ib_pe_hf/n/n91f16945e33e）
+  - 「仕入の一本化とPBの相互供給で粗利を上げ、本部費を1つにした結果で、市場の成長率（年5〜9%）を大きく上回る」（https://note.com/ib_pe_hf/n/n91f16945e33e）
+  - 「①はFC、②はデジタルシフト、③はMY BOX、と結果的に3つとも打っている」（https://note.com/ib_pe_hf/n/n91f16945e33e）
+  - 「大手4社の8.0〜9.9%は、地域要件のない大型工事で全国の上位等級同士が価格で競う構造の結果で、経営判断の巧拙ではなく市場の違いによる」（https://note.com/ib_pe_hf/n/n91f16945e33e）
+  - 「企業集団制度で技術者を出向させ、稼働率を上げた結果が2024/6期の各社粗利率の上昇」（https://note.com/ib_pe_hf/n/n91f16945e33e）
 
 ## 非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ）（how to find private company revenue Japan consulting knowledge base）
 - 文脈：探し先
@@ -2137,6 +2184,7 @@
   - 「Reliability and credibility grades are judgments. Irwin and Mandel (2019) argue that the Admiralty-style scales mask subjectivity and recommend numeric probability estimates and periodic re-evaluation. This standard keeps ordinal grades for sources and information, requires reasons for each, and uses numeric ranges for likelihood judgments.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「Triangulation (Source Triangulation)」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「Observed, Derived and Estimated Data」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Information Credibility: Triangulation」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
 - 一次情報の探し方：
   - 「checked against the cited primary sources on」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「In the Protocol's terms, gaining possession of online information through a screenshot, a conversion to PDF, a download or another form of capture.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
@@ -2162,6 +2210,13 @@
   - 「Even with a solid framework and a set of reliable techniques, OSINT evaluation often comes down to the fine details – the subtle clues, the consistency checks, and the instinct honed by experience. This section offers practical, hands-on advice to help you refine your evaluation skills and avoid common pitfalls.」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
   - 「Can I identify any potential bias?」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
   - 「3. Beware of Confirmation Bias」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
+  - 「Pattern of inaccuracy; questionable access; biased reporting」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「Known falsification or bias; hostile disinformation source」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「State-aligned media (RT, CGTN, Press TV) will systematically bias toward state narratives; this doesn’t mean everything they publish is false, but it affects what they choose to report and how they frame it」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「a source is likely to report accurately vs. biasedly.」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「Chinese state media reports on Indian troop movements may be operationally accurate even if framed to support CCP messaging. Russian state media reports on Western political dynamics may be accurate on facts while biased in framing.」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「What was NOT leaked? Leaks are typically incomplete; the leaker’s selection criteria bias what’s available」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「Cognitive Biases in Intelligence Analysis」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
 - 実例：
   - 「Which companies, investors and people matter to your work? Check the scope, fields and depth for your use case.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「10. Edge cases」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
@@ -2224,9 +2279,27 @@
   - 「You can’t pull the exact annual revenue of a private company from a filing, because private firms don’t file one. But you can estimate it well by combining headcount, funding, and industry benchmarks, then confirming against a data provider. The more signals agree, the tighter your number.」（https://cufinder.io/blog/find-private-company-revenue/）
   - 「Yes, for many businesses. Public companies post exact revenue in their filings, and data providers carry estimated revenue for millions of private firms. A free lookup gets you a ballpark, while a paid enrichment tool gets you a researched figure across a whole list.」（https://cufinder.io/blog/find-private-company-revenue/）
   - 「SEC EDGAR (sec.gov/edgar) for public company filings」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「手元に集めた論文PDFの中から、技術調査や企画の目的に合う文献をAIで探して比較する際、対象範囲・発行年と版・引用根拠をどのように確かめればよいでしょうか」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「本稿では、手元に論文PDFを持つ担当者に向けて、AIを使って必要な研究を探して比較する方法を解説します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「Q1. ZoteroでPDFを管理する場合、データの読み込みは手元のパソコン内だけで完結しますか？」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「Q3. パソコン内のPDFを新しい版へ差し替えれば、Gemini Notebookの出力結果も自動で更新されますか？」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「手元に集めた論文PDFの中から、技術調査や企画に必要な文献をAIで探し出して比較する際、まず取り組むべきは「対象資料を正確に特定し、整理すること」です」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
 - 失敗・落とし穴：
   - 「社内資料を接続するときの注意点は何ですか？」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「重大な仕様変更や取得失敗があれば定期日を待たず見直します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「特に注意したいのは、同じ研究の異なる版を別の独立した研究として数えてしまうことや、PDFファイルをパソコンにダウンロードした日時を、論文の発行日時と混同してしまうことです」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「自動取得に失敗した場合は、手動で書誌情報の親項目を作成し、そこにPDFを紐付ける経路もあります」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「ここで注意したいのは、「元のフォルダにある全ファイル」「ノートに追加した資料」「AIとの会話で選択した資料」「AIの回答で実際に引用された資料」は、一致するとは限らない集合であるという点です」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「そのため、大量の論文を分けて保存した場合、一つのノートで得られた回答を「手持ちの全資料に対する調査結果」として扱わないよう注意してください」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「AIが生成した候補のリストや比較メモをそのまま調査の実績として鵜呑みにせず、AIの出力はあくまで探索の補助として、人が監督することが求められます」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「そのため、比較表の各項目はそのまま鵜呑みにせず、必ず原典で検証するプロセスが不可欠です」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「※なお、全文をAIツールに読み込ませる際、オークランド大学図書館は、同大学の購読契約に反するため、著作権のある文献の全文をAIへアップロードしないよう注意しています」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「そのため、一つのノートで得られた回答を、手持ちの全資料に対する網羅的な調査結果として扱わないよう注意してください」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「AIの出力は鵜呑みにせず、必ずリンク先の原文の文脈へ遡り、人間が評価条件を確認して採否を決めてください」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「オークランド大学図書館の調査ワークフローでは、大学の購読契約に反するため、著作権のある文献の全文をAIへアップロードしないよう注意を促しています」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「88万件の記事を瞬時に生成する革新性の裏に潜む、中央集権モデルの課題とバイアスの危険性を徹底分析」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「入力がファイルとして固定されているからこそ、検索の失敗原因を特定し、エージェントへの依頼を何度でも正確にやり直すことができます」（https://media.deskrex.ai/how-to-conference-survey-2026/）
+  - 「抽出や除外の判定が正しい文脈で行われているか、原文とバイアスは人が確認する必要があります」（https://media.deskrex.ai/how-to-conference-survey-2026/）
 - 実例：
   - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
   - 「毎週、生成AIに関するビジネス活用の事例をお届けしています」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
@@ -2485,3 +2558,197 @@
 - 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+
+## 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）（OSINT evidence provenance origin vs collection method ICD 203 likelihood language）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「methodologies: Analytic products should identify underlying sources and methodologies upon」（https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf）
+  - 「Altss Private Markets OSINT Verification Standard | Altss Frameworks」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Inspect the methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「The Altss standard for verifying publicly accessible private-markets information: Berkeley Protocol-aligned source, item and content verification, the three evidence dimensions with origin kept separate from collection method, source grading, ICD 203 language for judgments, and source-rights recording.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「5. Method」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「The record kept for each evidence item about a private-markets entity or event: identifier, retrieval date, fixed copy or fingerprint, collection method and rights basis.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Source Reliability & Confidence Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Entity Resolution Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Temporal Data & Freshness Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Investment Signal Classification Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「The standing of a source for a type of claim (RECORD_KEEPER, SUBJECT, DIRECT_ACCESS, COPY_OR_COMPILATION or UNATTRIBUTED), a grade of how dependable it has been for that type of claim (A to F), and a grade of how well an item of information is supported (1 to 6), all defined in the Source Reliability & Confidence Methodology. See」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「the collection method, as process metadata (rule 6.2);」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「describes the quality and credibility of its underlying sources and methods;」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Rules 6.1 to 6.4 set out the Altss evidence model. It is an Altss-defined methodology, not an industry standard.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「6.2 Collection method is not origin.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+- 突き合わせ・推定：
+  - 「observed, derived and estimated data」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「DERIVED and ESTIMATED values have no origin of their own. Their origin is the set of origins of their inputs.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「For DERIVED and ESTIMATED values, validation covers the inputs and the correct application of the rule or method. Validation never turns an ESTIMATED value into an OBSERVED one.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Reliability and credibility grades are judgments. Irwin and Mandel (2019) argue that the Admiralty-style scales mask subjectivity and recommend numeric probability estimates and periodic re-evaluation. This standard keeps ordinal grades for sources and information, requires reasons for each, and uses numeric ranges for likelihood judgments.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Triangulation (Source Triangulation)」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Observed, Derived and Estimated Data」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+- 一次情報の探し方：
+  - 「checked against the cited primary sources on」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「In the Protocol's terms, gaining possession of online information through a screenshot, a conversion to PDF, a download or another form of capture.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Filings to, and records kept by, a regulator, statutory registry or court, retrieved from that body's own system」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Anything beyond the third party's own access; the content of a filing it describes, until the filing itself is retrieved」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「4.2 What common US filings do and do not show.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Establish that the item is what it appears to be. A filing retrieved from the registry's own system is a different item from a copy of it hosted elsewhere. Check metadata, and compare dates inside the document with the page's dates.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「A news report of a filing is evidence of what the reporter wrote. Its origin is OSINT_SOURCED. When the filing itself is retrieved from the regulator's own system, it becomes a second evidence item with origin REGULATORY_PUBLIC_RECORD. An evidence item names only what the researcher actually read.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「A filing to, or a record kept by, a regulator, statutory registry or court, retrieved from that body's own system」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「An official publication of a public body or public-sector institution, issued in its official capacity and not as a filing to a regulator」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「A filing is still the filer's own account. REGULATORY_PUBLIC_RECORD says where it was filed, not that it is true.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「A subject's filing and the same subject's press release are one originating source for facts only the subject can supply. Together they do not make a claim CORROBORATED (see」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Filings are the filers' own accounts. A body's acceptance of a filing does not by itself establish that its content is true; for Form ADV the SEC states that accepting the form is not a finding that it was completed correctly.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Every evidence item records its capture date and time, the artefact's own publication or filing date, and the as-of date of the value, using the date vocabulary of the Evidence & Provenance Standard. These dates are never substituted for one another.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「A copy of a filing hosted by an aggregator.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「It is OSINT_SOURCED until the filing is retrieved from the regulator's or registry's own system.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+- 失敗・落とし穴：
+  - 「objectivity, bias, politicization, or other issues in Standards application in analytic products.」（https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf）
+  - 「practical mechanisms that reveal and mitigate bias. Analysts should be alert to influence by」（https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf）
+  - 「well as source access, validation, motivation, possible bias, or expertise. Source summary」（https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf）
+  - 「Tradecraft exists because the human mind is predictably biased. It anchors on first impressions, sees patterns in noise, favors evidence that confirms what it already believes, and grows overconfident as it accumulates detail. Structured methods and explicit standards are countermeasures: they force the analyst to slow down, externalize reasoning, and test judgments before publishing them.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
+  - 「Unbiased, evidence-driven, and free of distortion by advocacy, preference, or pressure. Judgments are not shaded to please a customer or fit a policy.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
+  - 「— the U.S. Army’s comprehensive treatment of the intelligence analysis process, analytic standards, cognitive bias, and structured analytic techniques.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
+  - 「— the operational, anti-bias, and tradecraft rules that govern every Fortune Favors the Prepared analytical product.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
+- 実例：
+  - 「Which companies, investors and people matter to your work? Check the scope, fields and depth for your use case.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「10. Edge cases」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「11. Worked examples」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Example 1: a fund commitment, recorded in full.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Claim: "Example County Pension committed USD 50 million to Example Buyout Fund IV."」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「E1: Example Capital's press release on the fund's first close, naming the pension and the amount」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Example 2: a report of a filing.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Example 3: circular reporting.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Example 4: an attribute no usable source states.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Example 5: separating information from judgment.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Information: "The June 2026 minutes of Example University Endowment's investment committee record approval of a revised policy portfolio with a 5% private credit target." (OFFICIAL_INSTITUTIONAL, OBSERVED.)」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Example 6: one press release, two origins.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「Changes to the origin values, the validation statuses, the source-rights rule in 6.6 or the personal-data rules in 6.7 are major changes. New examples and clarifications are minor changes.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
+  - 「— a sanitized, public worked example of a tiered open-source collection framework.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
+
+## 公的記録で会社を裏取りする（商業登記・判決・官報）（public records corporate verification Japan registry court kanpo）
+- 文脈：一次の探し方
+- 手順・やり方：
+  - 「公的記録で企業情報を確認する方法 — 商業登記・裁判記録・官報の読み方」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「登記簿・判決検索・官報といった公的記録を使って、ネット上の企業情報を自分で裏取りする方法を、手順と限界の両面から整理しました」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「その作業の中で、商業登記や裁判記録の取り寄せは定型業務だった」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「本記事では、誰でもアクセスできる主要な公的記録の使い方を、料金や画面遷移のレベルまで具体的に整理し、最後に公的記録では分からない領域についても触れておく」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「商業登記簿は、法人の基本情報——商号、本店所在地、目的、資本金、公告方法、役員などを、法令に基づいて記録した公的な記録だ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「読者向けには、上から順に①会社名、②本店、③事業目的、④公告方法、⑤株式と資本金の基本設計、⑥役員履歴、という順番で読むと迷わない」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「2026年5月時点の登記情報提供サービスは、利用方法が2系統に整理されている」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「いずれの利用方法でも、EMV 3-Dセキュア登録済みのクレジットカードが必要だ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「実際にこの方法で買取大吉と株式会社エンパワーの2社の商業登記を取り寄せ、両社の関係を独立検証した事例として」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「いずれも、第三者が同じ手順で登記を取れば再現できる検証だ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「公的記録を使って企業の実態を確認する具体的な手順は、私の著書」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「企業の裏取りで実務上よく使うのは、まず民事・刑事・行政という事件の性質を頭で分けたうえで、画面上は統合検索または行政事件タブを使い分ける、というやり方だ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「判決文の具体的な読み解き例として、「反社」「反社会的勢力」のようなレッテル型の表現について最高裁が真実相当性の基準を示した、最判平成9年9月9日（夕刊フジ・ロス疑惑事件）の活用例を、別記事」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「「『反社』表現の最高裁判例と4階層フレーム」」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「判決理由のどこに着目すれば、現代のネット告発の検証に橋を架けられるかを、フレームごとに示している」（https://shiraberu-note.com/public-records-corporate-verification/）
+- 突き合わせ・推定：
+  - 「登記簿・判決検索・官報といった公的記録を使って、ネット上の企業情報を自分で裏取りする方法を、手順と限界の両面から整理しました」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「危機管理と情報検証の実務で、情報の真偽を判定する作業に長く関わってきた」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「その経験から断言できるのは、ネット上に流通する企業情報の多くは、調査会社に頼まなくても、公的記録を読めば一般読者が自分で裏取りできるということだ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「商業登記・裁判記録・官報がその代表で、ネット上の主張を一次情報で裏取りする際の中核になる」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「ただし、企業の裏取りで実際に使う記録の多くは、いちいち情報公開請求を出さなくても、法定の公示制度として最初から閲覧可能になっている」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「役員の就任日・退任日と本店所在地の履歴を時系列で追うことが、登記簿を企業情報の裏取りに使う基本になる」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「なお、「履歴事項全部証明書」は現在事項に加えて過去の変更履歴も追えるので、企業の裏取りには「現在事項証明書」よりこちらを取り寄せた方がよい」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「「本店所在地＝営業実態の所在地」と短絡しないことが、裏取り記事では重要だ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「実際にこの方法で買取大吉と株式会社エンパワーの2社の商業登記を取り寄せ、両社の関係を独立検証した事例として」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「同じ手法で、アクセスジャーナルが報じた株式会社エンパワーをめぐる9つの個別主張を項目別に登記と照合した事例として」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「いずれも、第三者が同じ手順で登記を取れば再現できる検証だ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「企業の裏取りで実務上よく使うのは、まず民事・刑事・行政という事件の性質を頭で分けたうえで、画面上は統合検索または行政事件タブを使い分ける、というやり方だ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「判決理由のどこに着目すれば、現代のネット告発の検証に橋を架けられるかを、フレームごとに示している」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「公的記録は強力な裏取り手段だが、設計上の限界がある」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「公的記録を使えば、ネット上に流通している企業情報の多くは、第三者が独立に裏取りできる」（https://shiraberu-note.com/public-records-corporate-verification/）
+- 一次情報の探し方：
+  - 「公的記録で企業情報を確認する方法 — 商業登記・裁判記録・官報の読み方」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「登記簿・判決検索・官報といった公的記録を使って、ネット上の企業情報を自分で裏取りする方法を、手順と限界の両面から整理しました」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「その作業の中で、商業登記や裁判記録の取り寄せは定型業務だった」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「その経験から断言できるのは、ネット上に流通する企業情報の多くは、調査会社に頼まなくても、公的記録を読めば一般読者が自分で裏取りできるということだ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「本記事では、誰でもアクセスできる主要な公的記録の使い方を、料金や画面遷移のレベルまで具体的に整理し、最後に公的記録では分からない領域についても触れておく」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「公的記録を読む技術は、専門家でなくても身につけられる」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「ただし、公的記録に書かれていない事実は「存在しない」のではなく「公的記録には載らない種類の情報」であることが多い、という制度上の特徴も併せて意識しておきたい」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「公的記録とは何か — 誰でも独立して確認できる一次情報」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「商業登記簿の読み方 — 役員・本店所在地・履歴」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「官報の読み方 — 公告から企業の動きを読む」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「公的記録の限界 — 公開情報で「分からないこと」」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「公的記録とは、法令に基づいて国や公的機関が作成・保有・公示する記録のことだ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「商業登記・裁判記録・官報がその代表で、ネット上の主張を一次情報で裏取りする際の中核になる」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「制度の枠組みとしては、公文書管理法が公的文書の作成・整理・保存の統一ルールを定め、情報公開法が行政機関の保有する文書に対する開示請求制度を定めている」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「商業登記、裁判記録、官報、国税庁の法人番号公表サイトがそれにあたる」（https://shiraberu-note.com/public-records-corporate-verification/）
+- 失敗・落とし穴：
+  - 「検索を使うときの最大の注意点は、収録範囲だ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「注意点として、2025年3月15日にサービスの提供内容が変更されており、旧A・B・Cコース（日付検索のみ1,672円、日付＋記事検索2,200円など）は同年3月31日に終了している」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「「公的記録に載っていない」という事実を、その主張が事実ではないことの証明として使うのは、論理的には誤りだ」（https://shiraberu-note.com/public-records-corporate-verification/）
+- 実例：
+  - 「実際にこの方法で買取大吉と株式会社エンパワーの2社の商業登記を取り寄せ、両社の関係を独立検証した事例として」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「同じ手法で、アクセスジャーナルが報じた株式会社エンパワーをめぐる9つの個別主張を項目別に登記と照合した事例として」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「第3章でも、実務で取り扱った企業案件の事例とあわせて詳しく解説している」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「したがって、「登記簿に株主が出ていない」のは隠蔽ではなく、制度上の分離の結果だ」（https://shiraberu-note.com/public-records-corporate-verification/）
+  - 「Read API endpoints, authentication and integration examples.」（https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/）
+  - 「Teikoku Databank (tdb.co.jp) or Tokyo Shoko Research (tsrdata.co.jp). Order a company report — ¥3,000–30,000 depending on depth. Contains estimated financials, employee count, credit score, and in many cases partial shareholder data collected through banking relationships. Japanese only.」（https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/）
+
+## 競合仮説分析と確率の言葉（ACH・推定の言い方）（analysis of competing hypotheses diagnosticity matrix estimative language）
+- 文脈：分析の型
+- 手順・やり方：
+  - 「Analysis of Competing Hypotheses (ACH) is an intelligence analysis method based on」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「ACH is an eight-step method based on cognitive」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「cal scientific method. The rigor inherently re-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「quired means this method is appropriate to use」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「Time frame: The method is appropriate for any」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「in the method can com-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「intelligence circles, where this method is」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「How to Adapt ACH Tools to Foresight」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「scientific framework would help reduce cogni-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「process, validating intelligence methods and practices, the use of games in teaching」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「Analytic Methods ❙ Richards Heuer」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「(SACH) are methodologies designed to reduce the level of uncertainty among decision-makers」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「ticularly appropriate for intelligence problems. There are other methods analogous to ACH,」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「e.g., the broadly used medical methodology, Differential Diagnosis (DD). SACH is less used」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「makes the analyst’s reasoning more transparent. Both methods are conceptually straightfor-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+- 突き合わせ・推定：
+  - 「and retrieve the best possible estimate. ACH resembles Differential Diagnosis (DD) in」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「of confidence in their own estimate.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+- 一次情報の探し方：
+  - 「04B0000017, Bedford, MA: MITRE, October 2004. URL: https://pdfs.semanticscholar.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「org/7fe4/d4276e683293997f09758c79800787f52d0c.pdf. Accessed June 5, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「No. 7, January 2000, 50 pp. URL: https://fas.org/irp/eprint/folker.pdf. Accessed May 20, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf. Accessed June 5, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「S--3800--SE.pdf. Accessed June 7, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「pp. 205-231. URL: https://link.springer.com/content/pdf/10.1007%2Fs40070-013-0001-x.pdf.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「The-Five-Habits-Article.pdf. Accessed June 6, 2018」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「www.dtic.mil/get-tr-doc/pdf?AD=ADA463907. Accessed May 20, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「TR2005-01.pdf. Accessed June 6, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「tradecraftprimer-apr09-1.pdf. Accessed May 7, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「such as ACH. URL: http://c4i.gmu.edu/wp-content/uploads/AFCEA-gmkuk-2016-Rieber.pdf.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+- 失敗・落とし穴：
+  - 「similar clinical symptoms in a patient. ACH enables the user to reduce cognitive bias,」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「notably confirmation bias which compels people to seek evidence confirming their」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「biases when dealing with complex issues. The」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「tive biases in the intuitive analysis that occurs」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「eses (ACH) to help analysts overcome cognitive biases. While experimental evidence on the」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「least, does mitigate confirmation bias. Evidence suggests that these two methods can modestly」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「an optical illusion, no matter how much an analyst consciously tries to see past these biases,」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「the unconscious part of the brain continues to assert itself. Indeed, confirmation bias, which」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「to conspiracy theories. Other cognitive biases can have similar negative effects when forecast-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「A common pitfall in this step is to see a large amount of evidence (relative to the total amount」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「remember, unless you find an obvious error or stupid mistake, your first answer is probably」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「Brasfield Andrew, Forecasting Accuracy and Cognitive Bias in the Analysis of Competing」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「document/35793494/Forecasting-Accuracy-and-Cognitive-Bias-in-the-Analysis-of-Competing-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「Cheikes Brant, et alii, “Confirmation Bias in Complex Analyses”, Technical Report No. MTR」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+- 実例：
+  - 「ous foresight examples would be in monitoring」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「TABLE 1. EXAMPLE OF A DOUBLE­ENTRY TABLE」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「website. Heuer, who invented ACH, participated in its development. See Case Study examples and Selective Bibliography.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「Let’s imagine an unstable country as an example. When asked, analysts might come up with」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「of the competing hypotheses. Should this be the case, the analyst would either need to collect」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「regarding the analysis. For example, if this analysis indicates that the economy has not stabi-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「main question. For example, the original question “Which industries and tribal groups are」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「example, given that the assumption check revealed that the evidence did, indeed, support the」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「For example, imagine there are three main industries in country x, automotive, textile and min-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「enough information to answer a question. In the above example, it is entirely possible that data」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「SACH Case Study: Ghana Telecommunications」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「Note: The following case study conducted for a private client using SACH has been modified」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「ment based on the limited evidence available. For purposes of this case study, the analysts」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「Tools, Tutorials, Critiques and Case Studies」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）

@@ -8,7 +8,7 @@
  ],
  "context": "企業",
  "kind": "market",
- "researched_at": "2026-11-05T04:38:24.140781+00:00",
+ "researched_at": "2026-11-05T06:10:07.649728+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -34,12 +34,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/robinson_0822/n/n6a4dac170f59",
+    "url": "https://note.com/try_note_1026/n/n87f70ef36581",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/try_note_1026/n/n87f70ef36581",
+    "url": "https://note.com/robinson_0822/n/n6a4dac170f59",
     "status": "ok",
     "method": "http"
    },
@@ -50,16 +50,16 @@
    },
    {
     "url": "https://www.help-note.com/hc/ja/articles/33937437714969-note%E3%81%AB%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B-%E9%80%A3%E6%90%BA%E3%81%A7%E3%81%8D%E3%82%8B%E6%8E%A1%E7%94%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%B8%80%E8%A6%A7-ATS%E9%80%A3%E6%90%BA",
-    "status": "http_403",
-    "method": "http"
+    "status": "ok",
+    "method": "browser"
    },
    {
-    "url": "https://marugotoinc.jp/blog/note/",
+    "url": "https://biz.note.com/n/ne042982856d1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.jp/n/na66380adc503?gs=15a80840e8407b103ae75dbcf2c50283",
+    "url": "https://marugotoinc.jp/blog/note/",
     "status": "ok",
     "method": "http"
    },
@@ -69,7 +69,7 @@
     "method": "http"
    },
    {
-    "url": "https://biz.note.com/n/ne042982856d1",
+    "url": "https://note.jp/n/na66380adc503?gs=172d238bd65ee9bcf3429f08bcedf653",
     "status": "ok",
     "method": "http"
    },
@@ -109,27 +109,27 @@
     "method": "http"
    },
    {
-    "url": "https://local-saiyo.jp/blog/recruitment-site/design/p5279/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://coosy.co.jp/blog/recruiting-site-data/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.tracom.co.jp/tralog/job-idea/",
+    "url": "https://local-saiyo.jp/blog/recruitment-site/design/p5279/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://en-gage.net/engage-contents/knowledge/article/?id=recruitment-website",
+    "url": "https://n-works.link/blog/marketing/report-questionnaire-16",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://mizusaki-inc.com/knowledge/article103",
+    "url": "https://creerplus.nobu-n.co.jp/column/recruitment-site-examples/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noside-ltd.co.jp/blog/recruit-data/",
     "status": "ok",
     "method": "http"
    },
@@ -139,14 +139,14 @@
     "method": "http"
    },
    {
-    "url": "https://apply.workable.com/infer/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://www.indeed.com/",
     "status": "http_403",
     "method": "http"
+   },
+   {
+    "url": "https://apply.workable.com/infer/",
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://www.reddit.com/r/technicalwriting/comments/16lzcpw/why_are_some_jobs_listed_on_a_jobs_board_but_not/",
@@ -173,24 +173,24 @@
     "https://note.com/ready_prawn3804/n/n5ee232f6341e",
     "https://note.com/robinson_0822/n/n57139c8a158f",
     "https://note.com/fond_phlox8789/n/nb7e02d008b33",
-    "https://note.com/robinson_0822/n/n6a4dac170f59",
     "https://note.com/try_note_1026/n/n87f70ef36581",
+    "https://note.com/robinson_0822/n/n6a4dac170f59",
     "https://note.com/jinzaikakuho/n/n9d76f814cbbe",
     "https://note.com/sota_career/n/n93ea578f39e8",
-    "https://note.com/yutaro_ishii/n/n657611c8a7c4",
-    "https://note.com/robinson_0822/n/n660f8a923cf4"
+    "https://note.com/robinson_0822/n/n660f8a923cf4",
+    "https://note.com/yutaro_ishii/n/n657611c8a7c4"
    ]
   },
   {
    "query": "求人情報・採用ページから会社の実態を読む方法 note",
    "results": [
     "https://note.com/sota_career/n/n93ea578f39e8",
-    "https://note.com/try_note_1026/n/n87f70ef36581",
     "https://www.help-note.com/hc/ja/articles/33937437714969-note%E3%81%AB%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B-%E9%80%A3%E6%90%BA%E3%81%A7%E3%81%8D%E3%82%8B%E6%8E%A1%E7%94%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%B8%80%E8%A6%A7-ATS%E9%80%A3%E6%90%BA",
-    "https://marugotoinc.jp/blog/note/",
-    "https://note.jp/n/na66380adc503",
-    "https://mizusaki-inc.com/knowledge/article93",
     "https://biz.note.com/n/ne042982856d1",
+    "https://marugotoinc.jp/blog/note/",
+    "https://mizusaki-inc.com/knowledge/article93",
+    "https://note.jp/n/na66380adc503",
+    "https://note.com/try_note_1026/n/n87f70ef36581",
     "https://saiyo.migi-nanameue.co.jp/posts-1/note_recruit/",
     "https://www.careermart.co.jp/blog/14811",
     "https://note.com/imprecruitment/n/n82254ebe4955"
@@ -216,27 +216,27 @@
    "results": [
     "https://www.mhlw.go.jp/content/11600000/001319267.pdf",
     "https://nalevi.mynavi.jp/seeker-trends/21704/",
-    "https://local-saiyo.jp/blog/recruitment-site/design/p5279/",
     "https://coosy.co.jp/blog/recruiting-site-data/",
+    "https://local-saiyo.jp/blog/recruitment-site/design/p5279/",
+    "https://n-works.link/blog/marketing/report-questionnaire-16",
+    "https://creerplus.nobu-n.co.jp/column/recruitment-site-examples/",
+    "https://noside-ltd.co.jp/blog/recruit-data/",
     "https://www.tracom.co.jp/tralog/job-idea/",
     "https://en-gage.net/engage-contents/knowledge/article/?id=recruitment-website",
-    "https://mizusaki-inc.com/knowledge/article103",
-    "https://n-works.link/blog/marketing/report-questionnaire-16",
-    "https://noside-ltd.co.jp/blog/recruit-data/",
-    "https://jinzai-tenshokuroot.jp/column/362/"
+    "https://shinsotu.com/就活で企業のホームページを徹底分析！見るべき/"
    ]
   },
   {
    "query": "infer company from job postings",
    "results": [
     "https://www.infersol.com/career-at-infer-solutions/",
-    "https://apply.workable.com/infer/",
     "https://www.indeed.com/",
+    "https://apply.workable.com/infer/",
     "https://www.reddit.com/r/technicalwriting/comments/16lzcpw/why_are_some_jobs_listed_on_a_jobs_board_but_not/",
     "https://www.ycombinator.com/companies/infer/jobs",
     "https://www.linkedin.com/company/infer-solutions",
-    "https://theirstack.com/en/job-lookup",
     "https://www.facebook.com/Indeed/videos/did-you-know-almost-35-million-employers-use-indeed-thats-a-lot-of-job-listings-/1006084177848676/",
+    "https://theirstack.com/en/job-lookup",
     "https://www.wrk.com/blog/automate-extraction-company-info-job-postings",
     "https://vurzel.com/tools/jd-analyzer"
    ]
@@ -313,7 +313,7 @@
     "https://saiyo.migi-nanameue.co.jp/posts-1/note_recruit/",
     "https://www.funnypro.net/officialblog/article/knowhow/867/",
     "https://www.help-note.com/hc/ja/articles/33937437714969-note%E3%81%AB%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B-%E9%80%A3%E6%90%BA%E3%81%A7%E3%81%8D%E3%82%8B%E6%8E%A1%E7%94%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%B8%80%E8%A6%A7-ATS%E9%80%A3%E6%90%BA",
-    "https://jinzai-tenshokuroot.jp/column/362/"
+    "https://note.com/yoshi1456/n/ne0b285061612"
    ]
   },
   {
@@ -328,7 +328,7 @@
     "https://ats.atcompany.jp/recruiting/2589/",
     "https://ulforce-one.co.jp/blog/3209/",
     "https://freejob.work/content/t0082/",
-    "https://jinzai-tenshokuroot.jp/column/362/"
+    "https://note.com/stoneweb_sns/n/ne38914068f4d"
    ]
   },
   {
@@ -340,9 +340,9 @@
     "https://www.linkedin.com/company/infer-inc-",
     "https://www.linkedin.com/pulse/how-get-job-alerts-from-any-companys-careers-page-before-everyone-z1lcc",
     "https://www.linkedin.com/posts/jordanmazer_most-jobs-arent-posted-on-linkedin-heres-activity-7381330182722408448-FfLp",
+    "https://www.linkedin.com/jobs/view/ai-inference-engineer-at-rivian-4429258399",
     "https://www.linkedin.com/posts/debashish-ghatak_ai-inference-engineer-is-the-hottest-title-activity-7519939792273534976-LHtW",
     "https://www.linkedin.com/jobs/causal-inference-jobs",
-    "https://www.linkedin.com/jobs/inference-jobs-new-york",
     "https://www.linkedin.com/jobs/inference-solutions-jobs"
    ]
   }
@@ -355,6 +355,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-05T04:38:24.140781+00:00"
 }

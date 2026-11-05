@@ -1,0 +1,894 @@
+{
+ "name": "協和製作所",
+ "aliases": [],
+ "context": "岡山県倉敷市／出典:大学・高専の企業説明会／求人媒体:Indeed;スタンバイ;マイナビ転職／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T06:13:28.924364+00:00",
+ "official_url": "https://recruit.kyowa-mfg.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "279名（2025.11現在）",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirements/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用ページ": [
+   {
+    "quote": "トップページ - 協和製作所 新卒・中途採用情報サイト | 兵庫県加西市にあるパルスローラー、モーターローラの開発とシャフト・ギアの製造会社",
+    "url": "https://recruit.kyowa-mfg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "協和製作所では、新卒と中途採用による社員を募集しております",
+    "url": "https://recruit.kyowa-mfg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "協和製作所ってどんな会社？ - 協和製作所 新卒・中途採用情報サイト | 兵庫県加西市にあるパルスローラー、モーターローラの開発とシャフト・ギアの製造会社",
+    "url": "https://recruit.kyowa-mfg.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "協和製作所では、新卒と中途採用による社員を募集しております",
+    "url": "https://recruit.kyowa-mfg.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "こんな人を求めています - 協和製作所 新卒・中途採用情報サイト | 兵庫県加西市にあるパルスローラー、モーターローラの開発とシャフト・ギアの製造会社",
+    "url": "https://recruit.kyowa-mfg.co.jp/wanted/",
+    "pass": 1
+   },
+   {
+    "quote": "協和製作所では、新卒と中途採用による社員を募集しております",
+    "url": "https://recruit.kyowa-mfg.co.jp/wanted/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員 インタビュー 開発部 設計一課 - 協和製作所 新卒・中途採用情報サイト | 兵庫県加西市にあるパルスローラー、モーターローラの開発とシャフト・ギアの製造会社",
+    "url": "https://recruit.kyowa-mfg.co.jp/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "協和製作所では、新卒と中途採用による社員を募集しております",
+    "url": "https://recruit.kyowa-mfg.co.jp/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "人材育成の取り組み・福利厚生 - 協和製作所 新卒・中途採用情報サイト | 兵庫県加西市にあるパルスローラー、モーターローラの開発とシャフト・ギアの製造会社",
+    "url": "https://recruit.kyowa-mfg.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "協和製作所では、新卒と中途採用による社員を募集しております",
+    "url": "https://recruit.kyowa-mfg.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用 募集要項 - 協和製作所 新卒・中途採用情報サイト | 兵庫県加西市にあるパルスローラー、モーターローラの開発とシャフト・ギアの製造会社",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "エントリーは、上記URLもしくは各種ナビサイトから！",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "外部サイトでエントリーを受け付けております",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "協和製作所では、新卒と中途採用による社員を募集しております",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "キャリア採用 募集要項(中途採用) - 協和製作所 新卒・中途採用情報サイト | 兵庫県加西市にあるパルスローラー、モーターローラの開発とシャフト・ギアの製造会社",
+    "url": "https://recruit.kyowa-mfg.co.jp/career_requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "協和製作所では、新卒と中途採用による社員を募集しております",
+    "url": "https://recruit.kyowa-mfg.co.jp/career_requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ - 協和製作所 新卒・中途採用情報サイト | 兵庫県加西市にあるパルスローラー、モーターローラの開発とシャフト・ギアの製造会社",
+    "url": "https://recruit.kyowa-mfg.co.jp/inquery/",
+    "pass": 1
+   },
+   {
+    "quote": "協和製作所では、新卒と中途採用による社員を募集しております",
+    "url": "https://recruit.kyowa-mfg.co.jp/inquery/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員 インタビュー 開発部 開発課 - 協和製作所 新卒・中途採用情報サイト | 兵庫県加西市にあるパルスローラー、モーターローラの開発とシャフト・ギアの製造会社",
+    "url": "https://recruit.kyowa-mfg.co.jp/interview02/",
+    "pass": 1
+   },
+   {
+    "quote": "協和製作所では、新卒と中途採用による社員を募集しております",
+    "url": "https://recruit.kyowa-mfg.co.jp/interview02/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員 インタビュー 営業部 - 協和製作所 新卒・中途採用情報サイト | 兵庫県加西市にあるパルスローラー、モーターローラの開発とシャフト・ギアの製造会社",
+    "url": "https://recruit.kyowa-mfg.co.jp/interview03/",
+    "pass": 1
+   },
+   {
+    "quote": "協和製作所では、新卒と中途採用による社員を募集しております",
+    "url": "https://recruit.kyowa-mfg.co.jp/interview03/",
+    "pass": 1
+   },
+   {
+    "quote": "国内営業職 - 協和製作所 新卒・中途採用情報サイト | 兵庫県加西市にあるパルスローラー、モーターローラの開発とシャフト・ギアの製造会社",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E5%9B%BD%E5%86%85%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "> キャリア採用(中途採用) > 国内営業職",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E5%9B%BD%E5%86%85%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "協和製作所では、新卒と中途採用による社員を募集しております",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E5%9B%BD%E5%86%85%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "海外営業職 - 協和製作所 新卒・中途採用情報サイト | 兵庫県加西市にあるパルスローラー、モーターローラの開発とシャフト・ギアの製造会社",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E6%B5%B7%E5%A4%96%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "> キャリア採用(中途採用) > 海外営業職",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E6%B5%B7%E5%A4%96%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "協和製作所では、新卒と中途採用による社員を募集しております",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E6%B5%B7%E5%A4%96%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用 募集要項 | 採用情報 | 株式会社協和製作所",
+    "url": "https://kyowa-seisakusyo.co.jp/recruit/application/new.php",
+    "pass": 3
+   },
+   {
+    "quote": "エントリーフォーム、または履歴書の郵送にてご応募頂きます",
+    "url": "https://kyowa-seisakusyo.co.jp/recruit/application/new.php",
+    "pass": 3
+   },
+   {
+    "quote": "エントリーフォーム、または履歴書の内容を拝見し、1次面接についてご案内します",
+    "url": "https://kyowa-seisakusyo.co.jp/recruit/application/new.php",
+    "pass": 3
+   },
+   {
+    "quote": "＊未経験者採用は、新卒者をはじめ業界未経験の中途採用希望者を対象とします",
+    "url": "https://kyowaseisakusho.co.jp/recruit/",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "2026.3.18「加西／ハローワーク・JOBフェア」参加決定！",
+    "url": "https://recruit.kyowa-mfg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ハローワークで公開されたこの法人の求人情報を helloworkplus が集計したものです",
+    "url": "https://helloworkplus.com/company/2810-000550-1/",
+    "pass": 3
+   },
+   {
+    "quote": "出典: ハローワークで公開された求人情報をもとに helloworkplus が集計",
+    "url": "https://helloworkplus.com/company/2810-000550-1/",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "兵庫県加西市に拠点を構え、",
+    "url": "https://recruit.kyowa-mfg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、昭和25年(西暦 1950年)に川崎航空機株式会社（現在の川崎重工業株式会社）の機械加工協力会社として、兵庫県",
+    "url": "https://recruit.kyowa-mfg.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "近年の社会的な人手不足の影響もあり、物流や工場の搬送設備に欠かせないマテハン機器の部品・ユニットを開発・製造しているこの会社であれば、将来も安定して働けると考え、志望しました",
+    "url": "https://recruit.kyowa-mfg.co.jp/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "◎まずは、Web会社説明会 ⇒ 工場見学（対面 or Web）を通して当社について知ってください！",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "産業機器事業部 総合職：加西市内（本社・窪田工場）",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、単車、農機用メーカーとして高い精度と技術を誇り有力企業に幅広く納入しています",
+    "url": "https://helloworkplus.com/company/2810-000550-1/",
+    "pass": 3
+   },
+   {
+    "quote": "住宅手当、家族手当、入居時30歳（最大31歳11ヵ月）迄利用可能な借上社宅制度（諸規程有）、慶弔災害見舞制度、川崎市勤労者福祉共済加入",
+    "url": "https://kyowa-seisakusyo.co.jp/recruit/application/new.php",
+    "pass": 3
+   },
+   {
+    "quote": "洗練された工場や執務室・会議室のほか、食堂スペースも完備され、週次での清掃や年末大掃除により清潔に保たれています",
+    "url": "https://kyowa-seisakusyo.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "協和製作所って何をしている会社？｜協和製作所（大型機械を作る町工場）",
+    "url": "https://note.com/kyowa_ss/n/nb801cf60b20a",
+    "pass": 3
+   },
+   {
+    "quote": "工場の中って面白い仕事がいっぱいあるんです",
+    "url": "https://note.com/kyowa_ss/n/nb801cf60b20a",
+    "pass": 3
+   },
+   {
+    "quote": "協和製作所（大型機械を作る町工場）｜note",
+    "url": "https://note.com/kyowa_ss",
+    "pass": 3
+   },
+   {
+    "quote": "｜2030となりのプラ工場",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   },
+   {
+    "quote": "2030となりのプラ工場",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   },
+   {
+    "quote": "私たちプラ工場がいつも製造に使っている成形機ですが、改めて考えると、それを作ってくださる技術者さんがいらっしゃるんですよね…成形機ってすごく大きいですが、それを作る設備となると相当大きなものが必要になりそうですね…",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   },
+   {
+    "quote": "工場って、外からじゃ何をやってるのか分からないじゃないですか",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   },
+   {
+    "quote": "地域の子どもたちには爆弾を作ってると思われていたこともあります（笑）工場で働いている人に対して、職人気質で気難しい、頑固っぽい、口下手そう…そんな少しマイナスなイメージを持つ人がたまにいるんですよね",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーさんから機械のユーザーの反応を聞くと自分たちの技術を求めている人がいるんだと強く感じますし、それが海外からの声だったりすると、町工場でも世界に通用しているんだという自信をもらいます",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   },
+   {
+    "quote": "「まずは工場に興味を持ってもらわなければ」そんな思いから、昨年末にTwitterのアカウントを作り、年明けから自社のPRを始めました",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   },
+   {
+    "quote": "2030となりのプラ工場Slackへの参加方法はこちら！日刊工業新聞のプラスチックやDXに関わるニュースが毎日読めます！",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック加工の現場で明日から使えるITをシェアするコミュニティです！業務で使えるデジタルツールの紹介や、現場におけるDXの成功事例の共有など、工場で活用できるITをシェアしていきます",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "先輩社員 インタビュー 開発部 設計一課 - 協和製作所 新卒・中途採用情報サイト | 兵庫県加西市にあるパルスローラー、モーターローラの開発とシャフト・ギアの製造会社",
+    "url": "https://recruit.kyowa-mfg.co.jp/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "> 先輩社員からのメッセージ > 先輩社員 インタビュー 開発部 設計一課",
+    "url": "https://recruit.kyowa-mfg.co.jp/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "◎まずは、Web会社説明会 ⇒ 工場見学（対面 or Web）を通して当社について知ってください！",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "Web会社説明会 ご予約はコチラ→https://forms.office.com/r/dHs80wmEmB",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員 インタビュー 開発部 開発課 - 協和製作所 新卒・中途採用情報サイト | 兵庫県加西市にあるパルスローラー、モーターローラの開発とシャフト・ギアの製造会社",
+    "url": "https://recruit.kyowa-mfg.co.jp/interview02/",
+    "pass": 1
+   },
+   {
+    "quote": "> 先輩社員からのメッセージ > 先輩社員 インタビュー 開発部 開発課",
+    "url": "https://recruit.kyowa-mfg.co.jp/interview02/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員 インタビュー 営業部 - 協和製作所 新卒・中途採用情報サイト | 兵庫県加西市にあるパルスローラー、モーターローラの開発とシャフト・ギアの製造会社",
+    "url": "https://recruit.kyowa-mfg.co.jp/interview03/",
+    "pass": 1
+   },
+   {
+    "quote": "> 先輩社員からのメッセージ > 先輩社員 インタビュー 営業部",
+    "url": "https://recruit.kyowa-mfg.co.jp/interview03/",
+    "pass": 1
+   },
+   {
+    "quote": "既存ルート営業（出張）、見積書作成、カタログ・HPの制作、SNS（YouTube）の運用など",
+    "url": "https://recruit.kyowa-mfg.co.jp/interview03/",
+    "pass": 1
+   },
+   {
+    "quote": "社員インタビュー＜工作機械オペレーター編＞",
+    "url": "https://kyowaseisakusho.co.jp/recruit/",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "近年の社会的な人手不足の影響もあり、物流や工場の搬送設備に欠かせないマテハン機器の部品・ユニットを開発・製造しているこの会社であれば、将来も安定して働けると考え、志望しました",
+    "url": "https://recruit.kyowa-mfg.co.jp/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "変化しつつある製造業の若手採用の現状や、藤田さんが着手した新しい採用活動について",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   },
+   {
+    "quote": "なので経験のあるベテランを待つのではなく、若手を採用して未経験からプロに育てあげる気概で採用活動をしています",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "昇給率（2.5％） 2024年4月実績",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "昇給：年1回(4月)",
+    "url": "https://recruit.kyowa-mfg.co.jp/career_requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "賞与：年2回（7月、12月）",
+    "url": "https://recruit.kyowa-mfg.co.jp/career_requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "給与は年齢、経験 などにより決定します",
+    "url": "https://recruit.kyowa-mfg.co.jp/career_requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "初年度想定年収：300～500万円",
+    "url": "https://recruit.kyowa-mfg.co.jp/career_requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "月給250,000円～",
+    "url": "https://recruit.kyowa-mfg.co.jp/career_requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "月給240,000円～",
+    "url": "https://recruit.kyowa-mfg.co.jp/career_requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "500万円（5年目／27歳）",
+    "url": "https://recruit.kyowa-mfg.co.jp/career_requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "月給260,000円～",
+    "url": "https://recruit.kyowa-mfg.co.jp/career_requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "昇給：年1回(4月)",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E5%9B%BD%E5%86%85%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "賞与：年2回（7月、12月）",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E5%9B%BD%E5%86%85%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "給与は年齢、経験 などにより決定します",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E5%9B%BD%E5%86%85%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "初年度想定年収：300～500万円",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E5%9B%BD%E5%86%85%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "月給250,000円～",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E5%9B%BD%E5%86%85%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "月給240,000円～",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E5%9B%BD%E5%86%85%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "500万円（5年目／27歳）",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E5%9B%BD%E5%86%85%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "昇給：年1回(4月)",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E6%B5%B7%E5%A4%96%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "賞与：年2回（7月、12月）",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E6%B5%B7%E5%A4%96%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "給与は年齢、経験 などにより決定します",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E6%B5%B7%E5%A4%96%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "初年度想定年収：300～500万円",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E6%B5%B7%E5%A4%96%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "月給260,000円～",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E6%B5%B7%E5%A4%96%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "月給250,000円～",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E6%B5%B7%E5%A4%96%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "500万円（5年目／27歳）",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E6%B5%B7%E5%A4%96%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "pass": 1
+   },
+   {
+    "quote": "9600万円",
+    "url": "https://helloworkplus.com/company/2810-000550-1/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社協和製作所 の給与 | Indeed (インディード) — 株式会社協和製作所の平均月給の範囲は約 18.4万円／月（事務）から約 44.4万円／月（経理・財務）です。 株式会社協和製作所の平均年収は、約310万円 (オフィスワーク) 〜603万円 (管理職・マネージャー) です。",
+    "url": "https://jp.indeed.com/cmp/株式会社協和製作所/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社協和製作所 の給与 | Indeed (インディード) — 日本での株式会社協和製作所の平均給与 Indeed に掲載された求人と、この企業の従業員から寄せられた株式会社協和製作所の給与情報を参照する。 給与情報は、Indeed にこれまでに掲載された18件の求人に基いた推定値です。",
+    "url": "https://jp.indeed.com/cmp/株式会社協和製作所-8/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 協和製作所の求人一覧 （3件 ・23.0〜29.0万 ） — 株式会社 協和製作所の求人一覧。 掲載求人数は3件。 月給・時給の相場は23.0〜29.0万です。 兵庫県加西市窪田町570-10。 給与偏差値・年齢別年収データ付きでハローワーク求人を分析。 ハローワーク+で。",
+    "url": "https://helloworkplus.com/company/2810-000550-1/",
+    "pass": 3
+   },
+   {
+    "quote": "協和製作所の年収・給与・昇給・ボーナス｜Yahoo!しごとカタログ — 株式会社協和製作所の社員・元従業員による平均年収は、回答者は507万円。 年収・給与・ボーナスなどの待遇に関する評判・クチコミを掲載。 職種、雇用形態別、年代別などの平均年収も掲載。",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1500218672/salaries/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社協和製作所の平均年収、年間給与所得情報 − 転職ならdoda（デ... — 株式会社協和製作所の平均年収（年間収入）、職種別の入社後の年収例、業界の平均年収との比較情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで476,100社の企業情報が無料で検索・閲覧できます。",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10004431595/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 募集要項 | 採用情報 | 株式会社協和製作所 — 協和製作所は、金属加工機械の製造を中心とした、産業機械製造メーカーです。 独創的なアイデアと熟練の技術者による、協和製作所にしかできない、お客様にとっての最高品質となる専用の製造機械をご提供いたします。",
+    "url": "https://kyowa-seisakusyo.co.jp/recruit/application/new.php",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 | 株式会社 協和製作所 — （株）協和製作所の採用情報。創業当時から現在まで活躍している社員をはじめ、経験豊富なベテラン社員や、20代の若手社員があなたの成長をサポートします。",
+    "url": "https://kyowaseisakusho.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 - 株式会社協和製作所 — 協和製作所は、金属加工機械の製造を中心とした、産業機械製造メーカーです。 独創的なアイデアと熟練の技術者による、協和製作所にしかできない、お客様にとっての最高品質となる専用の製造機械をご提供いたします。",
+    "url": "https://kyowa-seisakusyo.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 募集要項 - 協和製作所 新卒・中途採用情報サイト | 兵庫県... — 新卒採用 募集要項 APPLICATION REQUIREMENTS トップページ > 新卒採用 募集要項 新卒採用 募集職種 設計・開発職 技術職 品質保証職 営業職 製造職",
+    "url": "https://recruit.kyowa-mfg.co.jp/requirements/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒 - 協和製作所 採用サイト — 当サイトでは、サイトの利便性向上のため、クッキー (Cookie)を使用しています。詳しくは プライバシーポリシー を御覧 ...",
+    "url": "https://recruit.kyowa-fact.co.jp/entry/career/newgraduate",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "協和製作所って何をしている会社？｜協和製作所（大型機械を作る町工... Apr 25, 2023 · これが協和製作所のメインの仕事になります。 何の機械を作っているのかって？ 今現在は工作機械と成形機が主な機械です。 工作機械は簡単に言うと金属を削る機械です。 フライスや旋盤、研磨機などなど沢山種類がありますが、それはまた今度。",
+    "url": "https://note.com/kyowa_ss/n/nb801cf60b20a",
+    "pass": 3
+   },
+   {
+    "quote": "協和製作所（大型機械を作る町工場）｜note 若い人にものづくりの楽しさを伝えたい！ なるべくわかりやすく伝えます！",
+    "url": "https://note.com/kyowa_ss",
+    "pass": 3
+   },
+   {
+    "quote": "さすがだね！と、言ってもらえる仕事です。でも、それよりも「社会人... Jun 8, 2023 · 今回は新潟県新潟市にある、工作機械を製造されている協和製作所の藤田さんにお話しをお伺いしました。 変化しつつある製造業の若手採用の現状や、藤田さんが着手した新しい採用活動について。 聞き手はこつ子です。 地元の中学での職業講和の写真。",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "協和製作所って何をしている会社？｜協和製作所（大型機械を作る町工場）",
+    "url": "https://note.com/kyowa_ss/n/nb801cf60b20a",
+    "pass": 3
+   },
+   {
+    "quote": "新潟県新潟市にある(株)協和製作所といいます。",
+    "url": "https://note.com/kyowa_ss/n/nb801cf60b20a",
+    "pass": 3
+   },
+   {
+    "quote": "今日は簡単に当社について紹介していこうと思います。",
+    "url": "https://note.com/kyowa_ss/n/nb801cf60b20a",
+    "pass": 3
+   },
+   {
+    "quote": "簡単な言葉で説明していくので丁寧さに欠けたらご容赦ください。",
+    "url": "https://note.com/kyowa_ss/n/nb801cf60b20a",
+    "pass": 3
+   },
+   {
+    "quote": "これが協和製作所のメインの仕事になります。",
+    "url": "https://note.com/kyowa_ss/n/nb801cf60b20a",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械は簡単に言うと金属を削る機械です。",
+    "url": "https://note.com/kyowa_ss/n/nb801cf60b20a",
+    "pass": 3
+   },
+   {
+    "quote": "フライスや旋盤、研磨機などなど沢山種類がありますが、それはまた今度。",
+    "url": "https://note.com/kyowa_ss/n/nb801cf60b20a",
+    "pass": 3
+   },
+   {
+    "quote": "大型の研磨機（2m×7mまで加工可能です）",
+    "url": "https://note.com/kyowa_ss/n/nb801cf60b20a",
+    "pass": 3
+   },
+   {
+    "quote": "協和製作所（大型機械を作る町工場）｜note",
+    "url": "https://note.com/kyowa_ss",
+    "pass": 3
+   },
+   {
+    "quote": "さすがだね！と、言ってもらえる仕事です。でも、それよりも「社会人は楽しいよ」って伝えたい採用担当者のお話。｜2030となりのプラ工場",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   },
+   {
+    "quote": "さすがだね！と、言ってもらえる仕事です。でも、それよりも「社会人は楽しいよ」って伝えたい採用担当者のお話。",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   },
+   {
+    "quote": "今回は新潟県新潟市にある、工作機械を製造されている協和製作所の藤田さんにお話しをお伺いしました。変化しつつある製造業の若手採用の現状や、藤田さんが着手した新しい採用活動について。聞き手はこつ子です。",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   },
+   {
+    "quote": "こういう活動をこちらから働きかけてガンガン増やしていこうかな〜！",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   },
+   {
+    "quote": "中学、高校、もしかして大学生にも需要あるかも…🤔？",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   },
+   {
+    "quote": ")と話して完全に熱い気持ちになっちゃいました🔥",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   },
+   {
+    "quote": "pic.twitter.com/zEXK8NP3fQ",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   },
+   {
+    "quote": "— 熱量高めな採用担当者@協和製作所 (@kyowa_ss)",
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 協和製作所 | Takaoka-shi Toyama - Facebook Jul 2, 2026 · 株式会社 協和製作所, Takaoka-shi. 27 followers. 創業1953年 鋳物メーカー⚙️⚙️ \\他に負けない、他にない鋳物づくり／ 協和製作所の公式Facebookページです💁♀️ 現場で働く社員の姿や日々の取り組みを発信中📢📢📢",
+    "url": "https://www.facebook.com/p/株式会社-協和製作所-61568885183542/",
+    "pass": 3
+   },
+   {
+    "quote": "協和製作所 | Osaka Osaka - Facebook Nov 10, 2016 · 協和製作所, Osaka. 17 likes · 1 was here. 切削加工 (樹脂切削加工 プラスチック切削加工) を短納期、低コストでご提供。 素材選びからご相談下さい。 協和製作所（大阪）",
+    "url": "https://www.facebook.com/profile.php/?id=100080949385475",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社協和製作所 - Facebook Apr 14, 2011 · Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.",
+    "url": "https://www.facebook.com/株式会社協和製作所-124504707624132/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 協和製作所 | Takaoka-shi Toyama - Facebook 株式会社 協和製作所, Takaoka-shi. 2 likes · 4 talking about this. Industrial Company",
+    "url": "https://www.facebook.com/people/株式会社-協和製作所/61568885183542/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://recruit.kyowa-mfg.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.kyowa-mfg.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.kyowa-mfg.co.jp/wanted/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.kyowa-mfg.co.jp/interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.kyowa-mfg.co.jp/humanresource/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.kyowa-mfg.co.jp/requirements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.kyowa-mfg.co.jp/career_requirements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.kyowa-mfg.co.jp/inquery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.kyowa-mfg.co.jp/interview02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.kyowa-mfg.co.jp/interview03/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E5%9B%BD%E5%86%85%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.kyowa-mfg.co.jp/requirement_career/%E6%B5%B7%E5%A4%96%E5%96%B6%E6%A5%AD%E8%81%B7/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%8D%94%E5%92%8C%E8%A3%BD%E4%BD%9C%E6%89%80/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%8D%94%E5%92%8C%E8%A3%BD%E4%BD%9C%E6%89%80-8/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://helloworkplus.com/company/2810-000550-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyowa-seisakusyo.co.jp/recruit/application/new.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyowaseisakusho.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyowa-seisakusyo.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kyowa_ss/n/nb801cf60b20a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kyowa_ss",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/p/株式会社-協和製作所-61568885183542/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=100080949385475",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株式会社協和製作所-124504707624132/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/株式会社-協和製作所/61568885183542/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "協和製作所 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/株式会社協和製作所/salaries",
+    "https://jp.indeed.com/cmp/株式会社協和製作所-8/salaries",
+    "https://helloworkplus.com/company/2810-000550-1/",
+    "https://jobcatalog.yahoo.co.jp/company/1500218672/salaries/",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10004431595/",
+    "https://xn--pckua2a7gp15o89zb.com/株式会社協和製作所の仕事",
+    "https://re-katsu.jp/career/company/recruit/42220/"
+   ]
+  },
+  {
+   "query": "協和製作所 採用 新卒 高卒",
+   "results": [
+    "https://kyowa-seisakusyo.co.jp/recruit/application/new.php",
+    "https://kyowaseisakusho.co.jp/recruit/",
+    "https://kyowa-seisakusyo.co.jp/recruit/",
+    "https://recruit.kyowa-mfg.co.jp/requirements/",
+    "https://recruit.kyowa-fact.co.jp/entry/career/newgraduate",
+    "http://kyowa-mfc.com/recruit.html",
+    "https://recruit.kyowa-fact.co.jp/entry"
+   ]
+  },
+  {
+   "query": "site:note.com 協和製作所",
+   "results": [
+    "https://note.com/kyowa_ss/n/nb801cf60b20a",
+    "https://note.com/kyowa_ss",
+    "https://note.com/2030tonapla/n/n9aaa78cdf4da",
+    "https://note.com/kabutica/n/n06b44770f842",
+    "https://note.com/jfic2020/n/n6ac3d356147f",
+    "https://note.com/teyney/n/n5025695b9251",
+    "https://note.com/arrows_column/n/nd4fd35a1d8b1"
+   ]
+  },
+  {
+   "query": "site:x.com 協和製作所",
+   "results": [
+    "https://x.com/kyowa_ss",
+    "https://x.com/KKyowaseiki",
+    "https://x.com/kyouwaseikou",
+    "https://x.com/kessan_db/status/2065032765654114400",
+    "https://x.com/tono5182/status/2101662240231526846",
+    "https://x.com/trans58851/status/2022037998255452386",
+    "https://x.com/p0ptartkitty/status/2115926138987913708"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 協和製作所",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 協和製作所",
+   "results": [
+    "https://www.facebook.com/p/株式会社-協和製作所-61568885183542/",
+    "https://www.facebook.com/profile.php/?id=100080949385475",
+    "https://www.facebook.com/株式会社協和製作所-124504707624132/",
+    "https://www.facebook.com/people/株式会社-協和製作所/61568885183542/",
+    "https://www.facebook.com/kyowa.mfg.japan/",
+    "https://www.facebook.com/koubouyutaka/videos/協和製作所-軸傾斜小型万能横切盤-ぺティワーク-pw-300wsによる木部材の定寸法カット切り口の綺麗さ精度の高さ作業の安定感は頼りになる木工機械です家具無垢家/5468301323240618/",
+    "https://www.facebook.com/watch/?v=329225101276468"
+   ]
+  },
+  {
+   "query": "協和製作所 note 社長",
+   "results": []
+  },
+  {
+   "query": "協和製作所 X 投稿",
+   "results": [
+    "https://www.instagram.com/p/DWf593JgUfL/",
+    "https://www.instagram.com/kyowa.mfg.japan/",
+    "https://www.instagram.com/p/DE6P2IgBCRv/",
+    "https://www.instagram.com/p/Dazt3hUEWKP/",
+    "https://www.instagram.com/kyowa_saga_s39/",
+    "https://www.instagram.com/p/DGcubiMhHdY/",
+    "https://x.com/kyowa_ss"
+   ]
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部13頁・検索8回）",
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部13頁・検索8回）",
+  "資本金": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部13頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部13頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部13頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部13頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部13頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部13頁・検索8回）"
+ }
+}

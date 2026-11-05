@@ -1,0 +1,468 @@
+{
+ "name": "金属3Dプリンター受託造形の体積単価（円/cm3・材料別）",
+ "en": "metal 3D printing service price per cubic centimeter stainless titanium",
+ "aliases": [
+  "金属3Dプリント 1cm3あたり 料金 ステンレス",
+  "金属積層造形 受託 体積単価 チタン",
+  "金属3Dプリンター 造形サービス 料金 円/cc -求人"
+ ],
+ "context": "料金・一次",
+ "kind": "market",
+ "researched_at": "2026-11-05T06:03:41.323747+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/column_488/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/lineup/reasonable",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j3d.co.jp/blog/blog10/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datadesign.co.jp/markforged/news/5139/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/tetteihikaku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://make.dmm.com/blog/business/reduce-costs-by3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/protocost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunstella.co.jp/blogs/column/3d-3d-printer-price?srsltid=AYCX9vJh7ikxh5pK9Ou_jipKPKUPIUWnacqznFLwU4DXoT6hEOxhk6m1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/jp/blog/how-to-calculate-3d-printer-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industrial-3d-printer.com/basic-knowledge/price-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/metal/what",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/column_1189/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/9277/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/4p17rs/how_much_does_it_cost_to_print_a_chemicallypure/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jlc3dp.com/blog/titanium-3d-printing-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.practicalmachinist.com/forum/threads/cost-to-metal-print-a-small-tuned-pipe.431409/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unionfab.com/blog/2025/01/metal-3d-printing-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.acsmaterial.com/metal-3d-printing-service.html?srsltid=AYCX9vJ9JHihB3gYAdHwSPwR41RLgrot81FvExoVA0H52a3NjSMcEEol",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fathommfg.com/capabilities/3d-printing-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.acsmaterial.com/metal-3d-printing-service.html?srsltid=AYCX9vJ9baxESDbLlgFFWFSNgxsHIRDoDGRgwcSRluBg7O3mvzFfJMfj",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/press-release/global-3d-metal-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/blog/roi-for-metal-3d-printers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/resources/blog/metal-3d-printing-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/How-much-is-3D-metal-printing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.xometry.com/capabilities/3d-printing-service/metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/3d-printing-cost-efficiency-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.acsmaterial.com/metal-3d-printing-service.html?srsltid=AYCX9vKfhqkUooWV_Y6Ps1OmEv9df5BMsW7jTpMI_a92hQjMjHPw02Pn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlc3dp.com/blog/metal-3d-printing-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属3Dプリンター受託造形の体積単価（円/cm3・材料別） 単価 万円",
+   "results": [
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://jampt.jp/column/column_488/",
+    "https://www.ricoh.co.jp/3dp/lineup/reasonable",
+    "https://j3d.co.jp/blog/blog10/",
+    "https://www.datadesign.co.jp/markforged/news/5139/",
+    "https://skhonpo.com/blogs/3dprinter-practice/tetteihikaku",
+    "https://online.solize.com/blog/protocost",
+    "https://i-maker.jp/blog/metal-3d-printer-s1-5188.html?srsltid=AYCX9vLVujHkNf7Jdmu9eKhU8C3KRMxyCxHgj_tEweVu-Gc-8ir4dsUv",
+    "https://formlabs.com/jp/blog/how-to-calculate-3d-printer-cost/",
+    "https://steelsale.jp/casestudy/3dp/a113"
+   ]
+  },
+  {
+   "query": "金属3Dプリンター受託造形の体積単価（円/cm3・材料別） 費用 相場",
+   "results": [
+    "https://jampt.jp/column/column_488/",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://make.dmm.com/blog/business/reduce-costs-by3dp/",
+    "https://online.solize.com/blog/protocost",
+    "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "https://sunstella.co.jp/blogs/column/3d-3d-printer-price?srsltid=AYCX9vJh7ikxh5pK9Ou_jipKPKUPIUWnacqznFLwU4DXoT6hEOxhk6m1",
+    "https://j3d.co.jp/blog/blog10/",
+    "https://formlabs.com/jp/blog/how-to-calculate-3d-printer-cost/",
+    "https://www.industrial-3d-printer.com/basic-knowledge/price-market.html"
+   ]
+  },
+  {
+   "query": "金属3Dプリンター受託造形の体積単価（円/cm3・材料別） 最大 受注 億円",
+   "results": [
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://jampt.jp/column/column_1189/",
+    "https://www.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "https://j3d.co.jp/blog/knowledge/index37/",
+    "https://www.bantec2022.com/archives/1584",
+    "https://j3d.co.jp/blog/entrustment/index19/"
+   ]
+  },
+  {
+   "query": "金属3Dプリンター受託造形の体積単価（円/cm3・材料別） 量産 受注 年間",
+   "results": [
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://jampt.jp/column/column_1189/",
+    "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://chuokatan.co.jp/products/3dp/"
+   ]
+  },
+  {
+   "query": "金属3Dプリンター受託造形の体積単価（円/cm3・材料別） 売上高 受託",
+   "results": [
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://jampt.jp/column/column_488/",
+    "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "https://metoree.com/categories/9277/"
+   ]
+  },
+  {
+   "query": "metal 3D printing service price per cubic centimeter stainless titanium price per part",
+   "results": [
+    "https://www.reddit.com/r/3Dprinting/comments/4p17rs/how_much_does_it_cost_to_print_a_chemicallypure/",
+    "https://jlc3dp.com/blog/titanium-3d-printing-cost",
+    "https://www.practicalmachinist.com/forum/threads/cost-to-metal-print-a-small-tuned-pipe.431409/",
+    "https://www.unionfab.com/blog/2025/01/metal-3d-printing-cost",
+    "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "https://www.acsmaterial.com/metal-3d-printing-service.html?srsltid=AYCX9vJ9JHihB3gYAdHwSPwR41RLgrot81FvExoVA0H52a3NjSMcEEol",
+    "https://www.rapiddirect.com/blog/metal-3d-printing-cost/",
+    "https://additiveplus.com/?srsltid=AYCX9vLTXKWP24mS07O879Hu2d3QSkU384v17did0YFZk_gYt7xJQ4UU",
+    "https://www.facebook.com/groups/373616512842240/posts/2753277744876093/",
+    "https://jcadusa.com/metal-3d-printing-cost-calculator/"
+   ]
+  },
+  {
+   "query": "metal 3D printing service price per cubic centimeter stainless titanium largest contract million",
+   "results": [
+    "https://fathommfg.com/metal-3d-printing",
+    "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "https://www.acsmaterial.com/metal-3d-printing-service.html?srsltid=AYCX9vJ9baxESDbLlgFFWFSNgxsHIRDoDGRgwcSRluBg7O3mvzFfJMfj",
+    "https://www.practicalmachinist.com/forum/threads/cost-to-metal-print-a-small-tuned-pipe.431409/",
+    "https://www.grandviewresearch.com/press-release/global-3d-metal-printing-market",
+    "https://www.youtube.com/watch?v=vCCnjtymVgo",
+    "https://jlc3dp.com/blog/titanium-3d-printing-cost"
+   ]
+  },
+  {
+   "query": "metal 3D printing service price per cubic centimeter stainless titanium serial production long-term agreement value",
+   "results": [
+    "https://markforged.com/resources/blog/roi-for-metal-3d-printers",
+    "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "https://www.protolabs.com/resources/blog/metal-3d-printing-cost/",
+    "https://www.quora.com/How-much-is-3D-metal-printing",
+    "https://www.xometry.com/capabilities/3d-printing-service/metal/",
+    "https://thevirtualfoundry.com/3d-printing-cost-efficiency-2/",
+    "https://www.acsmaterial.com/metal-3d-printing-service.html?srsltid=AYCX9vKfhqkUooWV_Y6Ps1OmEv9df5BMsW7jTpMI_a92hQjMjHPw02Pn",
+    "https://www.makerverse.com/resources/3d-printing-costs/",
+    "https://www.reddit.com/r/3Dprinting/comments/1k0qy4n/so_is_the_metal_3d_printing_party_over_usa/",
+    "https://jcadusa.com/metal-3d-printing-cost-calculator/"
+   ]
+  },
+  {
+   "query": "metal 3D printing service price per cubic centimeter stainless titanium revenue",
+   "results": [
+    "https://jlc3dp.com/blog/metal-3d-printing-cost",
+    "https://fathommfg.com/metal-3d-printing",
+    "https://www.practicalmachinist.com/forum/threads/cost-to-metal-print-a-small-tuned-pipe.431409/",
+    "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "https://www.protolabs.com/resources/blog/metal-3d-printing-cost/",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.acsmaterial.com/metal-3d-printing-service.html?srsltid=AYCX9vJeYb8AruY1qJNUnu-qrVsbWxXe7yFtjHYQQO3ws_9-vU-jIYRx",
+    "https://www.rapiddirect.com/blog/metal-3d-printing-cost/",
+    "https://www.reddit.com/r/3Dprinting/comments/4p17rs/how_much_does_it_cost_to_print_a_chemicallypure/",
+    "https://jcadusa.com/metal-3d-printing-cost-calculator/"
+   ]
+  },
+  {
+   "query": "site:note.com 金属3Dプリンター受託造形の体積単価（円/cm3・材料別）",
+   "results": []
+  },
+  {
+   "query": "site:x.com 金属3Dプリンター受託造形の体積単価（円/cm3・材料別）",
+   "results": [
+    "https://x.com/MTStokyoCEC",
+    "https://x.com/jpShareLab/status/2010959865490161682",
+    "https://x.com/jampt_official",
+    "https://x.com/Arigakougyousyo",
+    "https://x.com/hashtag/金属３Dプリンター",
+    "https://x.com/jampt_official/status/1968861562887700836",
+    "https://x.com/hashtag/金属3dプリンター"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金属3Dプリンター受託造形の体積単価（円/cm3・材料別）",
+   "results": [
+    "https://www.linkedin.com/company/3dprinterjp",
+    "https://jp.linkedin.com/company/三菱商事テクノス　東京カスタマー・エクスペリエンス・センター",
+    "https://jp.linkedin.com/pulse/sodick-technical-report-metal-3d-printer-フィルタ金型造形事例-0wjac",
+    "https://www.linkedin.com/posts/三菱商事テクノス　東京カスタマー・エクスペリエンス・センター_additivemanufacturing-am-金属積層造形-activity-7444625820213534720-YkQ4",
+    "https://jp.linkedin.com/posts/jeol-ltd-ja_jeol-jam5200ebm-金属3dプリンター-activity-7492406916032143360--h-I",
+    "https://jp.linkedin.com/posts/真-高田-80b6611b5_積層造形-金属3dプリンター-j3d-activity-6712255102066978816-b_WG",
+    "https://jp.linkedin.com/posts/hiroshige-masuo-328833154_この度金属技研では造形受託事業の強化を目的として日本国内初導入となる電子ビーム-activity-7447932924039102465-QDXa"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金属3Dプリンター受託造形の体積単価（円/cm3・材料別）",
+   "results": [
+    "https://www.facebook.com/p/J3D-100063524918233/",
+    "https://www.facebook.com/people/J3D/100063524918233/",
+    "https://www.facebook.com/metalprintj3d/about/",
+    "https://www.facebook.com/metalprintj3d/posts/株式会社j３d-金属３dプリンター受託造形サービスご報告ｊ３ｄが３ｄ造形した作品技術の進化がdmg森精機殿主催第21回切削加工ドリームコンテスト先端加工部門/2560003864499837/",
+    "https://www.facebook.com/watch/?v=3575562589424730",
+    "https://www.facebook.com/metalprintj3d/posts/2225813854585508/",
+    "https://www.facebook.com/metalprintj3d/videos/株式会社j３d-金属３dプリンター受託造形出力サービス積層造形金属3dプリンターj3d金属積層試作品冷却水管金型軽量化トポロジーアルミms1インコネル/1045637542603151/"
+   ]
+  },
+  {
+   "query": "金属3Dプリンター受託造形の体積単価（円/cm3・材料別） note 社長",
+   "results": [
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://jampt.jp/column/column_488/",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://j3d.co.jp/blog/blog10/",
+    "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "https://chuokatan.co.jp/products/3dp/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-1014/"
+   ]
+  },
+  {
+   "query": "金属3Dプリンター受託造形の体積単価（円/cm3・材料別） X 投稿",
+   "results": [
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://jampt.jp/column/column_488/",
+    "https://3dprinter.co.jp/cms3d/wp-content/themes/3dprinter-wp_new/images/product/markforged/metal-x/Metal-3dprinter.pdf",
+    "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "https://chuokatan.co.jp/products/3dp/"
+   ]
+  },
+  {
+   "query": "metal 3D printing service price per cubic centimeter stainless titanium site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/how-additive-manufacturing-revolutionizing-medical-n1che",
+    "https://www.linkedin.com/pulse/cold-spray-metal-additive-manufacturing-technology-alex-huckstepp",
+    "https://uk.linkedin.com/in/dr-diego-punin-lasertech",
+    "https://se.linkedin.com/in/ulfqviberg",
+    "https://ca.linkedin.com/in/shubhamets",
+    "https://www.linkedin.com/pulse/smart-materials-vs-programmable-matter-key-andre-wmfce",
+    "https://www.linkedin.com/in/ioanacozmuta",
+    "https://www.linkedin.com/in/nandaholz",
+    "https://www.linkedin.com/in/prkoirala",
+    "https://www.linkedin.com/in/vebishopwright"
+   ]
+  }
+ ],
+ "missing": {
+  "1件の単価": "記載なし（読んだ45頁・検索16回）",
+  "最大案件・上限": "記載なし（読んだ45頁・検索16回）",
+  "顧客1社の年間": "記載なし（読んだ45頁・検索16回）",
+  "受託会社の売上": "記載なし（読んだ45頁・検索16回）",
+  "用途別": "記載なし（読んだ45頁・検索16回）",
+  "価格を決める要因": "記載なし（読んだ45頁・検索16回）"
+ }
+}

@@ -1,0 +1,992 @@
+{
+ "name": "すぎはら",
+ "aliases": [],
+ "context": "広島県広島市／出典:大学・高専の企業説明会／求人媒体:Indeed;マイナビ新卒／想定年収:600〜699万円／従業員:260",
+ "researched_at": "2026-11-05T06:09:59.437107+00:00",
+ "official_url": "https://sugihara-net.biz/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：1923年4月（大正12年）",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月",
+    "value": "設立年月：1923年4月",
+    "url": "https://jobtalk.jp/companies/63313",
+    "pass": 3
+   },
+   {
+    "label": "創業",
+    "value": "創業：1923年",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "2,000万円",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "20,000,000円",
+    "url": "https://jobtalk.jp/companies/63313",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "2,000万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　杉原　滋",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "杉原滋",
+    "url": "https://jobtalk.jp/companies/63313",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・自動車内装品の開発・製造・販売 ・建機・農機内装部品の開発・製造・販売 ・ユニフォーム（事務服・作業服）、安全保護具一式の販売 ・帆布製品、梱包材の販売",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "・自動車内装品（フロアカーペット、トランクマット他）の開発、製造、販売 ・建機、農機内装部品の開発、製造、販売 ・ユニフォーム（事務服、作業服）、安全保護具一式の販売 主力製品のフロアカーペット(車両の床面を覆う静粛性、意匠性を兼ね備えています)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上",
+    "value": "118億円(2025年9月実績)",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "118億円（2025年9月実績）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "239人(2025年9月実績)",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "252人",
+    "url": "https://jobtalk.jp/companies/63313",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "239名（2025年9月実績）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先",
+    "value": "マツダ㈱、㈱マツダＥ＆Ｔ、林テレンプ㈱、プレス工業㈱ ㈱レニアス、㈱日本製鋼所、官公庁　他",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "label": "主な取引先",
+    "value": "マツダ(株)、(株)マツダＥ＆Ｔ、林テレンプ(株)、プレス工業(株) (株)レニアス、(株)日本製鋼所、官公庁　他",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒736-0084 広島市安芸区矢野新町2-3-50",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒731-4213 広島県安芸郡熊野町98-18 くまの産業団地内",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒747-0833 防府市大字浜方608-12",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒753-0212 山口県山口市下小鯖1274-1",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "広島県広島市翠３丁目１７番２１号",
+    "url": "https://jobtalk.jp/companies/63313",
+    "pass": 3
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "736-0084",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "広島県広島市安芸区矢野新町二丁目３番５０号",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "082-884-2311",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "広島県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "愛知県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "岐阜県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "静岡県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "神奈川県、岐阜県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "埼玉県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "群馬県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "大阪府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "山形県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用の発信": [
+   {
+    "quote": "会社説明会(27年卒)の予約受付中です！",
+    "url": "https://sugihara-net.biz/",
+    "pass": 1
+   },
+   {
+    "quote": "会社説明会(27年卒)の予約受付中です！ | 株式会社すぎはら｜広島の製造業 自動車内装パーツ 建設機械内装部品 緩衝材 作業服販売",
+    "url": "https://sugihara-net.biz/2026/03/02/2364/",
+    "pass": 1
+   },
+   {
+    "quote": "会社説明会(27年卒)の予約受付中です！",
+    "url": "https://sugihara-net.biz/2026/03/02/2364/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社マイナビの運営サイト「マイナビ2027」にて会社説明会の予約受付中です",
+    "url": "https://sugihara-net.biz/2026/03/02/2364/",
+    "pass": 1
+   },
+   {
+    "quote": "インターンシップへのご参加は、マイナビ2027からご予約を受け付けております",
+    "url": "https://sugihara-net.biz/2025/09/01/2243/",
+    "pass": 1
+   },
+   {
+    "quote": "広島工業大学 単独会社説明会へ参加します | 株式会社すぎはら｜広島の製造業 自動車内装パーツ 建設機械内装部品 緩衝材 作業服販売",
+    "url": "https://sugihara-net.biz/2025/04/10/2235/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月27日に「広島工業大学 単独会社説明会」へ参加します",
+    "url": "https://sugihara-net.biz/2025/04/10/2235/",
+    "pass": 1
+   },
+   {
+    "quote": "大学時代に自動車業界以外の企業などいろいろな会社説明会に参加しましたが、ものづくりの仕事に携わりたいと思い、すぎはらの会社説明会や会社訪問に参加しました",
+    "url": "https://sugihara-net.biz/recruit/interview/interview_imura/",
+    "pass": 1
+   },
+   {
+    "quote": "その想いを軸に就活に臨み、説明会や工場見学で感じた会社の雰囲気の良さに惹かれて入社を決めました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "Create an account or log in to Instagram - Share what you're",
+    "url": "https://note.com/uchiyama_nouen/n/ncc7c4564caa7",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "2,000万円",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "quote": "年収、評価制度",
+    "url": "https://jobtalk.jp/companies/63313",
+    "pass": 3
+   },
+   {
+    "quote": "現社員や元社員から投稿された企業の評判・面接・年収などの口コミ情報を、",
+    "url": "https://jobtalk.jp/companies/63313",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "お客様に製品を通じて提供するのはもちろん、社員とその家族、取引先や地域のみなさまへも「やすらぎ&くつろぎ」を心掛け、歴史を紡いでまいりました",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "quote": "地元マツダさまの内装シェア100％、主力のカーペット、トランクでは西日本シェアNo.1",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "quote": "中国・タイ・マレーシアにも拠点を構え、グローバルなサポート体制をとっています",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年に創業100年を迎えますが、これまで事業が継続でき、お客様や取引先、地域からの信頼を築いてこられたのは、社員とその家族のお陰です",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "quote": "118億円(2025年9月実績)",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "quote": "マツダ㈱、㈱マツダＥ＆Ｔ、林テレンプ㈱、プレス工業㈱",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "quote": "広島市出汐町に工場を新設（軍監督工場となる）",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋工業㈱（現 マツダ㈱)より、3輪トラックの幌、工具袋受注",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "quote": "マツダ㈱より「品質保証認定会社」の指定を受ける",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "quote": "都市開発にともない、出汐・瀬野川両工場を統合し、",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス工業㈱より、新キャタピラ三菱用キャブの内装品受注",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "quote": "SGI社 第2工場新設（マレーシア SENDAYAN）",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "quote": "防府第2工場建て替え",
+    "url": "https://sugihara-net.biz/company/",
+    "pass": 1
+   },
+   {
+    "quote": "すぎはらはマツダのフロアカーペットをはじめとする内装品を受注しており、信頼されている企業で責任を持ちながら働ける環境に魅力を感じて入社しました",
+    "url": "https://sugihara-net.biz/recruit/interview/interview_imura/",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "118億円（2025年9月実績）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "入社以来、開発部・開発課の一員として、マツダ車に採用されるフロアカーペットの音響開発に携わっています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "その想いを軸に就活に臨み、説明会や工場見学で感じた会社の雰囲気の良さに惹かれて入社を決めました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在はマツダ(株)でゲストエンジニアとして、主力製品であるフロアカーペットの製品図面の設計、3Dデータの作成などを担当しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "マツダ(株)、(株)マツダＥ＆Ｔ、林テレンプ(株)、プレス工業(株)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "広島市出汐町に工場を新設（軍監督工場となる）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "マツダ(株)より「品質保証認定会社」の指定を受ける",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "都市開発にともない、出汐・瀬野川両工場を統合し、",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "SGI社 第2工場新設",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "防府第2工場建て替え",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "採用情報 | 株式会社すぎはら｜広島の製造業 自動車内装パーツ 建設機械内装部品 緩衝材 作業服販売",
+    "url": "https://sugihara-net.biz/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "すぎはらの転職・採用情報｜社員口コミでわかる【転職会議】",
+    "url": "https://jobtalk.jp/companies/63313",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "(株)すぎはらの新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【夏採用積極実施中】★文理不問★マイナビだけでエントリー受付中！内々定まで最短2週間！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "株式会社マイナビの運営サイト「マイナビ2027」にて会社説明会の予約受付中です",
+    "url": "https://sugihara-net.biz/2026/03/02/2364/",
+    "pass": 1
+   },
+   {
+    "quote": "インターンシップへのご参加は、マイナビ2027からご予約を受け付けております",
+    "url": "https://sugihara-net.biz/2025/09/01/2243/",
+    "pass": 1
+   },
+   {
+    "quote": "(株)すぎはらの新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【夏採用積極実施中】★文理不問★マイナビだけでエントリー受付中！内々定まで最短2週間！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "外出先やちょっとした空き時間に、スマートフォンでマイナビを見てみよう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 すぎはら の給与 - Indeed (インディード) — 株式会社 すぎはら の給与 - Indeed (インディード) Indeed https://jp.indeed.com > cmp > 株式会社すぎはら > salaries",
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 すぎはら の平均 年収 、年間給与所得情報 - doda — 株式会社 すぎはら の平均 年収 、年間給与所得情報 - doda doda https://doda.jp > CompanyIncome > j_id__10002628036",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10002628036/",
+    "pass": 3
+   },
+   {
+    "quote": "すぎはら の転職・採用情報｜社員口コミでわかる【転職会議】 — すぎはら の転職・採用情報｜社員口コミでわかる【転職会議】 転職会議 https://jobtalk.jp > companies",
+    "url": "https://jobtalk.jp/companies/63313",
+    "pass": 3
+   },
+   {
+    "quote": "すぎはら の 年収 ・給与 平均 年収 - エン カイシャの評判 (7965) — すぎはら の 年収 ・給与 平均 年収 - エン カイシャの評判 (7965) エン カイシャの評判 https://en-hyouban.com > company > salary",
+    "url": "https://en-hyouban.com/company/10200287965/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "すぎはら 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork — すぎはら 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork OpenWork https://www.openwork.jp > company",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000pmbLM",
+    "pass": 3
+   },
+   {
+    "quote": "すぎはら 新卒 高卒 の求人情報をすべて見る （258件） — すぎはら 新卒 高卒 の求人情報をすべて見る （258件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 情報 | 株式会社 すぎはら ｜広島の製造業 自動車内装 ... — 新卒採用 情報 | 株式会社 すぎはら ｜広島の製造業 自動車内装 ... 株式会社すぎはら https://sugihara-net.biz > 採用情報",
+    "url": "https://sugihara-net.biz/recruit/graduate/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) すぎはら の 新卒採用 ・会社概要 | マイナビ2027 — (株) すぎはら の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp228571 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 すぎはら の求人 - 広島県 広島市 安芸区 矢野駅 — 株式会社 すぎはら の求人 - 広島県 広島市 安芸区 矢野駅 Indeed https://jp.indeed.com > q-株式会社すぎはら-l-広島県-広...",
+    "url": "https://jp.indeed.com/q-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89-l-%E5%BA%83%E5%B3%B6%E7%9C%8C-%E5%BA%83%E5%B3%B6%E5%B8%82-%E5%AE%89%E8%8A%B8%E5%8C%BA-%E7%9F%A2%E9%87%8E%E9%A7%85-%E6%B1%82%E4%BA%BA.html",
+    "pass": 3
+   },
+   {
+    "quote": "すぎはら の 新卒採用 ・就職・企業情報 - 就活会議 — すぎはら の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > companies",
+    "url": "https://syukatsu-kaigi.jp/companies/6475",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "次世代を担う若手農家が「親の代と同じままじゃいけない」「日本の農業を変えたい」っていう危機感や熱い想いを持って集まっていました",
+    "url": "https://note.com/uchiyama_nouen/n/ncc7c4564caa7",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "鮮度を届けるひと フーズバラエティ すぎはら 代表取締役社長 ... 鮮度を届けるひと フーズバラエティ すぎはら 代表取締役社長 ... note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/uchiyama_nouen/n/ncc7c4564caa7",
+    "pass": 3
+   },
+   {
+    "quote": "鮮度を届けるひと フーズバラエティ すぎはら 代表取締役 社長 ... 鮮度を届けるひと フーズバラエティ すぎはら 代表取締役 社長 ... note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/uchiyama_nouen/n/ncc7c4564caa7",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "鮮度を届けるひと フーズバラエティすぎはら 代表取締役社長 杉原 俊明さん｜アスパラガスのうちやま農園（嫁）",
+    "url": "https://note.com/uchiyama_nouen/n/ncc7c4564caa7",
+    "pass": 3
+   },
+   {
+    "quote": "鮮度を届けるひと フーズバラエティすぎはら 代表取締役社長 杉原 俊明さん",
+    "url": "https://note.com/uchiyama_nouen/n/ncc7c4564caa7",
+    "pass": 3
+   },
+   {
+    "quote": "閑静な住宅地が広がる札幌・宮の森の地で、80年以上に渡って愛され続けるご当地スーパー「フーズバラエティすぎはら」をご存じでしょうか。道産品やオーガニックといった枠には捉われず、広く全国各地の「美味しいもの」を吟味して集める、その名の通りバラエティに富んだ個性派スーパーです。",
+    "url": "https://note.com/uchiyama_nouen/n/ncc7c4564caa7",
+    "pass": 3
+   },
+   {
+    "quote": "札幌・宮の森のこだわりスーパー「フーズバラエティすぎはら」です。",
+    "url": "https://note.com/uchiyama_nouen/n/ncc7c4564caa7",
+    "pass": 3
+   },
+   {
+    "quote": "そして、うちやま農園のアスパラを販売して下さっている札幌で数少ない小売店。その出会いから、なぜ選んでくれたのか？なんてお話を、代表の杉原さんに伺いました。",
+    "url": "https://note.com/uchiyama_nouen/n/ncc7c4564caa7",
+    "pass": 3
+   },
+   {
+    "quote": "ーうちやまさんと出会ったきっかけは何ですか？",
+    "url": "https://note.com/uchiyama_nouen/n/ncc7c4564caa7",
+    "pass": 3
+   },
+   {
+    "quote": "きっかけは「農家のこせがれネットワーク」ですね。20年ほど前になるでしょうか。次世代を担う若手農家が「親の代と同じままじゃいけない」「日本の農業を変えたい」っていう危機感や熱い想いを持って集まっていました。道内に分散している、それぞれの地域でそれぞれ別々のものを作っている農家のこせがれ達です。当時はまだ個人の農家さんと自分達のような小売業者が直接話をするような機会は全くと言っていいほど、なかったんです。",
+    "url": "https://note.com/uchiyama_nouen/n/ncc7c4564caa7",
+    "pass": 3
+   },
+   {
+    "quote": "農家さんは自分達が作ったものがどうしてこんなに安く売られてしまうのか、隣のあんな風に作ってる野菜と俺の真剣に作っている野菜を一緒にされたくない！とか、将来への不安やいろんな憤りを感じていて、売る側が悪いんじゃないか？と。作る方も悪いけど、行政も悪いし、売る人間も悪いから、今の農産物はもうこんなことになってるんだから、売る側の人間の話を聞かせて欲しいということで、僕が流通代表として呼ばれたんです。",
+    "url": "https://note.com/uchiyama_nouen/n/ncc7c4564caa7",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "すぎはら ゆり (@yuriisneko) / X すぎはら ゆり (@yuriisneko) / X X https://x.com > yuriisneko",
+    "url": "https://x.com/yuriisneko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "すぎはら けいたろう (@sugiharakeitaro) - Photos - Facebook すぎはら けいたろう (@sugiharakeitaro) - Photos - Facebook Facebook https://www.facebook.com > ... > すぎはらけいたろう",
+    "url": "https://www.facebook.com/sugiharakeitaro/photos/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sugihara-net.biz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sugihara-net.biz/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sugihara-net.biz/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sugihara-net.biz/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sugihara-net.biz/2026/03/02/2364/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sugihara-net.biz/2025/09/30/2245/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sugihara-net.biz/2025/09/01/2243/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sugihara-net.biz/2025/04/10/2235/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sugihara-net.biz/2025/02/01/2204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sugihara-net.biz/product/fiber/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sugihara-net.biz/recruit/interview/interview_imura/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sugihara-net.biz/recruit/interview/interview_waki/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://sugihara-net.biz/bzyaybdqwmda/wp-content/themes/sugihara_theme/images/recruit_new/btn_graduate.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://sugihara-net.biz/bzyaybdqwmda/wp-content/themes/sugihara_theme/images/recruit_new/btn_career.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10002628036/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jobtalk.jp/companies/63313",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/uchiyama_nouen/n/ncc7c4564caa7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/yuriisneko",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sugiharakeitaro/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/uchiyama_nouen/n/ncc7c4564caa7",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "すぎはら 求人 年収",
+   "results": [
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89/salaries",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10002628036/",
+    "https://jobtalk.jp/companies/63313",
+    "https://en-hyouban.com/company/10200287965/salary/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000pmbLM",
+    "https://syukatsu-kaigi.jp/companies/6475/post_items/2/word_mouths",
+    "https://sugihara-net.biz/recruit/",
+    "https://www.hellowork.careers/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE+%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89%E9%96%A2%E9%80%A3%E3%81%AE%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E6%B1%82%E4%BA%BA",
+    "https://jp.indeed.com/cmp/株式会社すぎはら/salaries",
+    "https://jp.indeed.com/q-すぎはら-求人.html"
+   ]
+  },
+  {
+   "query": "すぎはら 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://sugihara-net.biz/recruit/graduate/",
+    "https://job.mynavi.jp/27/pc/search/corp228571/outline.html",
+    "https://jp.indeed.com/q-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89-l-%E5%BA%83%E5%B3%B6%E7%9C%8C-%E5%BA%83%E5%B3%B6%E5%B8%82-%E5%AE%89%E8%8A%B8%E5%8C%BA-%E7%9F%A2%E9%87%8E%E9%A7%85-%E6%B1%82%E4%BA%BA.html",
+    "https://syukatsu-kaigi.jp/companies/6475",
+    "https://wakamono-koyou-sokushin.mhlw.go.jp/search/service/makeprseet.action?action=makeprseet&kigyo_id=25787&kubun=user",
+    "https://sugihara-net.biz/recruit/",
+    "https://www.instagram.com/reel/DZwvy0XyWxt/",
+    "https://www.sugahara.com/about/recruit/",
+    "https://www.fujita.co.jp/recruit/"
+   ]
+  },
+  {
+   "query": "site:note.com すぎはら",
+   "results": [
+    "https://note.com/osugisugihara",
+    "https://note.com/osugisugihara/m/m51b794d2cfdf",
+    "https://note.com/uchiyama_nouen/n/ncc7c4564caa7",
+    "https://note.com/su616",
+    "https://note.com/m_sugihara/m/m86608d241fbd",
+    "https://note.com/osugisugihara/m/mdba211329f51",
+    "https://note.com/taneniwa/n/n3dfd4971670a",
+    "https://note.com/osugisugihara/m/mad603dfaf880/hashtag/whowas%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA",
+    "https://note.com/osugisugihara/n/n3397328a0b3b",
+    "https://note.com/kensugihara/n/n864b9c6385bb"
+   ]
+  },
+  {
+   "query": "site:x.com すぎはら",
+   "results": [
+    "https://x.com/yuriisneko",
+    "https://x.com/nodosakana",
+    "https://x.com/Soheyheyhey",
+    "https://x.com/rinasugihara__",
+    "https://x.com/cedarfieldsnow",
+    "https://x.com/AI_sugihara",
+    "https://x.com/KeitaroSugihara",
+    "https://x.com/sugihara_xmart",
+    "https://x.com/Kai_Sugihara/with_replies",
+    "https://x.com/TomosSpa"
+   ]
+  },
+  {
+   "query": "site:linkedin.com すぎはら",
+   "results": [
+    "https://jp.linkedin.com/in/yoshitaka-sugihara-a9875013",
+    "https://jp.linkedin.com/in/hiroshige-sugihara",
+    "https://uk.linkedin.com/in/azusa-sugihara-64782144/ja",
+    "https://www.linkedin.com/in/shosugihara",
+    "https://jp.linkedin.com/in/keiji-sugihara-b655971a3",
+    "https://www.linkedin.com/in/hanasugihara",
+    "https://jp.linkedin.com/in/masahiro-sugihara-b52035106",
+    "https://www.linkedin.com/in/sugiryo",
+    "https://jp.linkedin.com/in/yoshi-sugihara-8a663654",
+    "https://jp.linkedin.com/in/h-sugihara"
+   ]
+  },
+  {
+   "query": "site:facebook.com すぎはら",
+   "results": [
+    "https://www.facebook.com/foods.sugihara/",
+    "https://www.facebook.com/toshiaki.sugihara.14/",
+    "https://www.facebook.com/foods.sugihara/posts/%E6%9C%AC%E6%97%A510%E6%9C%8823%E6%97%A5%E3%81%A8%E6%98%8E%E6%97%A510%E6%9C%8824%E6%97%A5%E3%81%AF%E6%9C%88%E3%81%AB%E4%B8%80%E5%BA%A6%E3%81%AE%E6%9C%88%E6%9C%AB%E3%82%BB%E3%83%BC%E3%83%AB%E9%96%8B%E5%82%AC%E4%B8%AD%E3%83%95%E3%83%BC%E3%82%BA%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89-%E6%9D%89%E5%8E%9F%E5%95%86%E5%BA%97-%E5%86%86%E5%B1%B1%E5%85%AC%E5%9C%92-%E6%9C%AD%E5%B9%8C%E3%82%B0%E3%83%AB%E3%83%A1-%E5%8C%97%E6%B5%B7%E9%81%93/1739952341470957/",
+    "https://www.facebook.com/sugiharakeitaro/photos/",
+    "https://www.facebook.com/public/%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89%E6%9D%89%E5%8E%9F%E9%9B%85%E5%8F%B2",
+    "https://www.facebook.com/foods.sugihara/posts/%E5%B9%B4%E5%86%85%E7%84%A1%E4%BC%91%E3%81%A7%E5%96%B6%E6%A5%AD%E4%B8%AD%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E5%B9%B4%E6%9C%AB%E5%B9%B4%E5%A7%8B%E3%81%AE%E6%BA%96%E5%82%99%E3%81%AE%E3%81%8A%E6%89%8B%E4%BC%9D%E3%81%84%E3%81%AB%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89%EF%BC%93%E5%80%8D%E3%82%BB%E3%83%BC%E3%83%AB%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%BE%E3%81%99%E6%9C%9F%E9%96%93%EF%BC%91%EF%BC%92%E6%9C%88%EF%BC%92%EF%BC%93%E6%97%A5%E6%9C%88%EF%BC%91%EF%BC%92%E6%9C%88%EF%BC%92%EF%BC%97%E6%97%A5%E9%87%91%E3%81%BE%E3%81%A7-%E5%BA%97%E5%86%85%E3%81%AB%E3%81%AF%E9%A3%9F%E6%9D%90%E3%81%AE%E3%81%BF%E3%81%AA%E3%82%89%E3%81%9A%E7%B4%A0%E6%95%B5%E3%81%AA/1132560792210118/",
+    "https://www.facebook.com/foods.sugihara/posts/%E3%83%95%E3%83%BC%E3%82%BA%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89-%E6%9C%AD%E5%B9%8C%E3%82%B0%E3%83%AB%E3%83%A1-%E5%8C%97%E6%B5%B7%E9%81%93%E3%82%B0%E3%83%AB%E3%83%A1-%E4%BC%9D%E7%B5%B1%E9%87%8E%E8%8F%9C-%E9%87%8E%E8%8F%9C%E3%82%BD%E3%83%A0%E3%83%AA%E3%82%A8/1747165010749690/",
+    "https://www.facebook.com/sugiharachiune/mentions/",
+    "https://www.facebook.com/foods.sugihara/posts/%E6%9C%AC%E6%97%A53%E6%9C%8825%E6%97%A5%E3%81%A8%E6%98%8E%E6%97%A529%E6%97%A5%E3%81%AF%E6%9C%88%E6%9C%AB%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%92%E9%96%8B%E5%82%AC%E4%B8%AD-%E3%83%95%E3%83%BC%E3%82%BA%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%83%86%E3%82%A3%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89%E3%83%95%E3%83%BC%E3%82%BA%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E3%81%99%E3%81%8E%E3%81%AF%E3%82%89-%E6%9D%89%E5%8E%9F%E5%95%86%E5%BA%97-%E6%9C%AD%E5%B9%8C%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88-%E5%8C%97%E6%B5%B7%E9%81%93%E3%82%B0%E3%83%AB%E3%83%A1-%E6%9C%AD%E5%B9%8C%E3%82%B0/1529062015893325/",
+    "https://www.facebook.com/foods.sugihara/posts/%E7%9A%86%E6%A7%98%E3%81%AE%E3%81%8A%E3%81%8B%E3%81%92%E3%81%A7%E5%AE%AE%E3%81%AE%E6%A3%AE%E3%81%AB%E3%81%A6%E5%89%B5%E6%A5%AD84%E5%91%A8%E5%B9%B4%E3%82%92%E8%BF%8E%E3%81%88%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%BE%8C%E3%81%A8%E3%82%82%E5%9C%B0%E5%9F%9F%E3%81%AE%E4%BE%BF%E5%88%A9%E5%BA%97%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E6%83%85%E5%A0%B1%E7%99%BA%E4%BF%A1%E5%BA%97%E3%81%A8%E3%81%97%E3%81%A6%E9%A0%91%E5%BC%B5%E3%82%8A%E3%81%BE%E3%81%99%E6%9C%AC%E6%97%A5%E3%81%A8%E6%98%8E%E6%97%A5%E3%81%AF%E6%97%A5%E9%A0%83%E3%81%AE%E6%84%9F%E8%AC%9D%E3%82%92%E8%BE%BC%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%E5%A4%A7%E5%89%B5%E6%A5%AD%E7%A5%AD%E3%82%92%E9%96%8B/1366962738769921/"
+   ]
+  },
+  {
+   "query": "すぎはら note 社長",
+   "results": [
+    "https://note.com/totoshi",
+    "https://note.com/uchiyama_nouen/n/ncc7c4564caa7",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/osugisugihara/m/m51b794d2cfdf",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.com/tag/%E6%9D%89%E5%8E%9F",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E8%B2%9E%E9%A1%95",
+    "https://ja.wikipedia.org/wiki/杉原章郎"
+   ]
+  },
+  {
+   "query": "すぎはら X 投稿",
+   "results": [
+    "https://x.com/sugiharg",
+    "https://x.com/Anri0612Anr",
+    "https://syukatsu-kaigi.jp/companies/6475/word_mouths",
+    "https://www.tokyo-sports.co.jp/articles/-/275952",
+    "https://coki.jp/article/column/96862/",
+    "https://ggblog.hatenablog.com/entry/2025/01/11/083751",
+    "https://www.instagram.com/soheyheyhey.jp/",
+    "https://www.facebook.com/sugiharakeitaro/photos/",
+    "https://search.yahoo.co.jp/realtime/search/すぎはら/",
+    "https://skebetter.com/author/1011979270032257024/illust"
+   ]
+  }
+ ],
+ "missing": {}
+}

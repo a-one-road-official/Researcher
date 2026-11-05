@@ -1,0 +1,705 @@
+{
+ "name": "ローム・ワコー",
+ "aliases": [],
+ "context": "岡山県笠岡市／出典:大学・高専の企業説明会／求人媒体:Indeed;マイナビ新卒;求人ボックス／想定年収:520〜520万円／従業員:不明",
+ "researched_at": "2026-11-05T06:15:01.625334+00:00",
+ "official_url": "https://micro.rohm.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "岡山県笠岡市富岡100番地",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "326名",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立年",
+    "value": "設立年：1966年",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "450百万円",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "吉岡浩文",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用ページ": [
+   {
+    "quote": "募集要項から人財育成、福利厚生まで詳しい情報を公開中",
+    "url": "https://micro.rohm.com/jp/employment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報｜採用について｜ローム株式会社 - ROHM Semiconductor",
+    "url": "https://micro.rohm.com/jp/employment/recruit_group.html",
+    "pass": 1
+   },
+   {
+    "quote": "エントリー後ご希望をお伺いのうえ選考に進んでいただきます",
+    "url": "https://micro.rohm.com/jp/employment/recruit_group.html",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項をご覧のうえ、エントリーください",
+    "url": "https://micro.rohm.com/jp/employment/recruit_flow.html",
+    "pass": 1
+   },
+   {
+    "quote": "エントリーいただいた方には、",
+    "url": "https://micro.rohm.com/jp/employment/recruit_flow.html",
+    "pass": 1
+   },
+   {
+    "quote": "ホームページまたはマイナビからエントリーしてください",
+    "url": "https://micro.rohm.com/jp/employment/recruit_faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "エントリー後、マイページを登録していただくと会社説明会や選考会の案内、ロームの採用情報をご案内いたします",
+    "url": "https://micro.rohm.com/jp/employment/recruit_faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "エントリーしてもメールが届きませんがどうしたらいいですか",
+    "url": "https://micro.rohm.com/jp/employment/recruit_faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご登録いただいた翌日になっても、エントリー完了通知メールが届かない場合は、人事部 採用グループ（Tel：0120-606-314）までお電話ください",
+    "url": "https://micro.rohm.com/jp/employment/recruit_faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "職歴のある方は、原則としてキャリア（中途）採用になりますので、エントリー前に人事部 採用グループ（TEL：0120-606-314）までお問合せ下さい",
+    "url": "https://micro.rohm.com/jp/employment/recruit_faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報｜採用について｜ローム株式会社 - ROHM Semiconductor",
+    "url": "https://micro.rohm.com/jp/employment/recruit_newg.html",
+    "pass": 1
+   },
+   {
+    "quote": "詳細をご確認のうえ、エントリーをしてください",
+    "url": "https://micro.rohm.com/jp/employment/recruit_newg.html",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報｜採用について｜ローム株式会社 - ROHM Semiconductor",
+    "url": "https://micro.rohm.com/jp/employment/recruit_carrier.html",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報｜採用について｜ローム株式会社 - ROHM Semiconductor",
+    "url": "https://micro.rohm.com/jp/employment/recruit_intl_st.html",
+    "pass": 1
+   },
+   {
+    "quote": "まずは募集要項をご確認いただき、",
+    "url": "https://micro.rohm.com/jp/employment/recruit_intl_st.html",
+    "pass": 1
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "ロームの企業活動や製品に関する情報をブログで掲載",
+    "url": "https://micro.rohm.com/jp/employment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "マイページより会社説明会の日程や選考プロセスの",
+    "url": "https://micro.rohm.com/jp/employment/recruit_flow.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業研究される際は、ホームページをご覧いただくか、会社説明会にお越しください",
+    "url": "https://micro.rohm.com/jp/employment/recruit_faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "エントリー後、マイページを登録していただくと会社説明会や選考会の案内、ロームの採用情報をご案内いたします",
+    "url": "https://micro.rohm.com/jp/employment/recruit_faq.html",
+    "pass": 1
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "公益財団法人を設立し、若手音楽家たちの成長を支援",
+    "url": "https://micro.rohm.com/jp/employment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "若手社員は、...",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "若手社員は、特に35才まではかなり給料が上がっていく",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "ロームグループは、製造機能の強化および生産性向上のため、ローム 滋賀工場および国内の製造関連４社を前工程と後工程の製造会社２社に再編いたしました",
+    "url": "https://micro.rohm.com/jp/employment/recruit_group.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロームは主要な拠点のほとんどが都市部に存在するのが特徴です",
+    "url": "https://micro.rohm.com/jp/employment/recruit_faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "これは、お客様への素早い対応や国内各地の工場へ移動がしやすいという効率性と社員の私生活における充実を両立するためです",
+    "url": "https://micro.rohm.com/jp/employment/recruit_faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロームでは、世界各地に開発・製造・営業・QA拠点を構えており、海外での売上比率は6割以上を占めるグローバル企業です",
+    "url": "https://micro.rohm.com/jp/employment/recruit_faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "中国、アメリカ、ヨーロッパなどの拠点での開発、営業人員を増強する目的で、人財の多様性を推進していく予定です",
+    "url": "https://micro.rohm.com/jp/employment/recruit_faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "京都本社、国内工場拠点/8：15～17：15",
+    "url": "https://micro.rohm.com/jp/employment/recruit_newg.html",
+    "pass": 1
+   },
+   {
+    "quote": "京都駅前、新横浜、その他営業拠点/8：30～17：30",
+    "url": "https://micro.rohm.com/jp/employment/recruit_newg.html",
+    "pass": 1
+   },
+   {
+    "quote": "グループリーダー以上となるには海外工場への出向が必須だが、裏を返せば海外出向さえすれば帰任後にはランクアップできるような制度になっている",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "基準：1工場の場合、海外経験（マレーシア、中国工場への出向）が必須",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "マレーシアに現地法人、クランタン州に工場を設けている『ローム・ワコー』",
+    "url": "https://note.com/bright_borage950/n/nc99740d217d9",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "ホームページまたはマイナビからエントリーしてください",
+    "url": "https://micro.rohm.com/jp/employment/recruit_faq.html",
+    "pass": 1
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "給与改定 年1回（4月）",
+    "url": "https://micro.rohm.com/jp/employment/recruit_newg.html",
+    "pass": 1
+   },
+   {
+    "quote": "賞与 年2回（6月・12月）",
+    "url": "https://micro.rohm.com/jp/employment/recruit_newg.html",
+    "pass": 1
+   },
+   {
+    "quote": "ローム・ワコーの年収・給与 平均年収 - エン カイシャの評判",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "ローム・ワコー株式会社の正社員15人の回答によると平均年収は497万円、年収範囲は350～850万円です",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "カイシャの評判に掲載されている年収情報は、当該企業で就業経験のある方を対象としたアンケートを基に、有効な回答かつ、雇用形態が正社員の回答から算出しております",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトの年収情報は、ユーザーの皆様に投稿いただいた時点の回答に基づいているため、実際の年収とは異なる可能性があります",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "ローム・ワコー株式会社の年収・給与についての口コミ",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給額には上限があり、それ以上を目指すには社員グレードを高めていく必要があるが、そのためにはまず、部門長の推薦が必要",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:一般的な福利厚生は整っている...",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "地方にしては給与は水準〜やや高いと思われる",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年に2回、自身で決めた目標の達成度をもとに賞与が査定される",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:私が在籍していた時は35歳ま...",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与の時期に査定結果は教えてくれるがあんまりよく分からなかった",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:30歳前半までは年一回昇給す...",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "30歳前半までは年一回昇給することができる",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:県内を見ても比較的給与は高い...",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:30歳までは自動的に年一回の...",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "30歳までは自動的に年一回の昇給がある",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:昇給：年1回（4月）賞与：年...",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給：年1回（4月）",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与：年2回（6月、12月）",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度：給与制度としては新卒で入ると...",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度としては新卒で入ると、若い内の伸びが早いため30歳頃にはそこそこの給料が入ってくる",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:ロームグループの給与制度を導...",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "ロームグループの給与制度を導入しており、社員に見えやすい形となっており水準も県内では高い",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与・昇給・昇格全てにおいて評価が連動している",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "台湾、ベトナム、スリランカなどの留学生採用実績が",
+    "url": "https://micro.rohm.com/jp/employment/recruit_intl_st.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ローム・ワコーの年収・給与 平均年収も - エン カイシャの評判ローム・ワコー株式会社 の 日本 での給与 | Indeed (インディード)【独自】ロームの年収は平均810万円！役職別給与も解説ローム・ワコーの年収・給与3件｜平均・中央値・職種・役職・年代別ローム・ワコー株式会社の求人・採用情報｜求人ボックスローム・ワコー株式会社の製造・開発 (電気・機械・金属・化学)の給与...ローム・アッセンブリマニュファクチャリング（旧：ローム・ワコー株... — ローム・ワコー株式会社の正社員15人の回答によると平均年収は497万円、年収範囲は350～850万円です。 また、集計期間は2015年～2026年で回答者の平均年齢は35.3歳です。 ローム・ワコー株式会社の平均年収は、約411万円 (システムエンジニア) 〜590万円 (半導体設計エンジニア) です。 ローム・ワコー株式会社の平均月給",
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "ローム・ワコー株式会社 の 日本 での給与 | Indeed (インディード) — ローム・ワコー株式会社の平均年収は、約411万円 (システムエンジニア) 〜590万円 (半導体設計エンジニア) です。 ローム・ワコー株式会社の平均月給の範囲は約 20.0万円／月（栄養士）から約 28.2万円／月（システム運用・保守）です。",
+    "url": "https://jp.indeed.com/cmp/ローム・ワコー株式会社/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "ローム・ワコーの年収・給与3件｜平均・中央値・職種・役職・年代別 — Sep 16, 2026 · 年齢別の推定年収を掲載しています。 半導体・電子・精密機器業界で転職・就職を考えている方、ローム・ワコーへの転職・就職を考えている方、在籍中で自分の年収水準を確かめたい方に向けて、社員・元社員の回答をもとに掲載しています。",
+    "url": "https://openmoney.jp/corporations/12019/salaries",
+    "pass": 3
+   },
+   {
+    "quote": "ローム・ワコー株式会社の求人・採用情報｜求人ボックス — ローム・ワコー株式会社の求人・採用情報を5件掲載中！ 希望する職種や年収・月給、勤務地、こだわり条件から、あなたにぴったりの最新求人を検索！ 関連企業：ローム株式会社",
+    "url": "https://xn--pckua2a7gp15o89zb.com/ローム・ワコー株式会社の仕事",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "マレーシアのコタバルの時計台-ロームワコーの寄付で建立｜大川原 明 ... Apr 25, 2026 · 京都に本社を置く電子部品メーカー『ロームグループ』のグループ会社、岡山県笠岡市に本社を置く『ローム・ワコー』の会長の名前が刻まれていました。 マレーシアに現地法人、クランタン州に工場を設けている『ローム・ワコー』。",
+    "url": "https://note.com/bright_borage950/n/nc99740d217d9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "マレーシアのコタバルの時計台-ロームワコーの寄付で建立｜大川原 明(国際ジャーナリスト、旅行ジャーナリスト）",
+    "url": "https://note.com/bright_borage950/n/nc99740d217d9",
+    "pass": 3
+   },
+   {
+    "quote": "マレーシアのコタバルの時計台-ロームワコーの寄付で建立",
+    "url": "https://note.com/bright_borage950/n/nc99740d217d9",
+    "pass": 3
+   },
+   {
+    "quote": "大川原 明(国際ジャーナリスト、旅行ジャーナリスト）",
+    "url": "https://note.com/bright_borage950/n/nc99740d217d9",
+    "pass": 3
+   },
+   {
+    "quote": "【マレーシアのコタバルの時計台-ロームワコーの寄付で建立】",
+    "url": "https://note.com/bright_borage950/n/nc99740d217d9",
+    "pass": 3
+   },
+   {
+    "quote": "コタバル市街地を歩いていると日本語が目に入り確認。",
+    "url": "https://note.com/bright_borage950/n/nc99740d217d9",
+    "pass": 3
+   },
+   {
+    "quote": "京都に本社を置く電子部品メーカー『ロームグループ』のグループ会社、岡山県笠岡市に本社を置く『ローム・ワコー』の会長の名前が刻まれていました。",
+    "url": "https://note.com/bright_borage950/n/nc99740d217d9",
+    "pass": 3
+   },
+   {
+    "quote": "マレーシアに現地法人、クランタン州に工場を設けている『ローム・ワコー』。2005年5月29日にワコーの寄付で建立された時計台",
+    "url": "https://note.com/bright_borage950/n/nc99740d217d9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ぎこちゃん on X: \"今 ローム・ワコー 第二駐車場 にいるのをお知らせ... 今 ローム・ワコー 第二駐車場 にいるのをお知らせします。 \"到着〜 この https://t.co/lYfLuhj26v の詳細を確認するか、コメントを残して下さい。 (ローム・ワコー 第二駐車場 富岡, 笠岡市, 岡山県, JP) - ぎこちゃん",
+    "url": "https://x.com/gikotch/status/2090037988655079873",
+    "pass": 3
+   },
+   {
+    "quote": "ローム株式会社 on X: \"ロームグループのローム・ワコー（岡山県）は... ロームグループのローム・ワコー（岡山県）は、社員がより働きやすい職場としていくために、この度厚生棟を新設しました🏢 社員用の無人コンビニ、多目的エリアには卓球台などがあり、社員間の交流を深めることが可能です🏓",
+    "url": "https://x.com/ROHM_JP/status/1819207573763248612",
+    "pass": 3
+   },
+   {
+    "quote": "ローム株式会社 on X: \" お知らせ 2026年4月1日付で国内グループ（製... micro.rohm.com/jp/rdm/ 笠岡工場（ローム・ワコー）、広川工場・行橋工場（ローム・アポロ） ⇒後工程製造会社「ローム・アッセンブリ マニュファクチャリング株式会社 (RAM)」へ統合 micro.rohm.com/jp/ram/ ロームグループでは引き続き、事業運営の中核を担う製造 ...",
+    "url": "https://x.com/ROHM_JP/status/2039148752020357425",
+    "pass": 3
+   },
+   {
+    "quote": "ぎこちゃん 10/31~11/2九州遠征（佐賀） on X: \"到着〜 (@ ローム・ワ... ぎこちゃん 🐈🐾 10/31~11/2九州遠征（佐賀） on X: \"到着〜 (@ ローム・ワコー 第二駐車場 in 笠岡市, 岡山県) https://t.co/79LD2XpZJn\"",
+    "url": "https://x.com/gikotch/status/2063039586302124322",
+    "pass": 3
+   },
+   {
+    "quote": "ぎこちゃん 10/31~11/2九州遠征（佐賀） on X: \"到着〜 (@ ローム・ワ... Jun 5, 2026 · ぎこちゃん 🐈🐾 10/31~11/2九州遠征（佐賀） on X: \"到着〜 (@ ローム・ワコー 第二駐車場 in 笠岡市, 岡山県) https://t.co/79LD2XpZJn\"",
+    "url": "https://x.com/gikotch/status/2063039586302124322",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ローム・ワコー（株） | LinkedIn 概要 ウェブサイト http://micro.rohm.com ローム・ワコー（株）の外部リンク 業種 小売業 会社規模 社員 201-500名 本社 笠岡市 ...",
+    "url": "https://jp.linkedin.com/company/ローム・ワコー（株）",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ローム・ワコー - Facebook ローム・ワコー",
+    "url": "https://www.facebook.com/pages/ローム・ワコー/1945788392353616/",
+    "pass": 3
+   },
+   {
+    "quote": "ローム (ROHM) - \\マレーシアに新しい生産拠点を建設！／ ローム及び... ローム (ROHM) - \\マレーシアに新しい生産拠点を建設！ ／ ローム及びローム・ワコー株式会社は、需要が拡大するアナログLSI及びトランジスタの生産能力強化を図るため、マレーシアの製造子会社であるROHM-Wako Electronics (Malaysia) Sdn.",
+    "url": "https://www.facebook.com/RohmSemi/photos/マレーシアに新しい生産拠点を建設ローム及びロームワコー株式会社は需要が拡大するアナログlsi及びトランジスタの生産能力強化を図るためマレーシアの製造子会社である/2479445555523128/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://micro.rohm.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://micro.rohm.com/jp/employment/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://micro.rohm.com/jp/employment/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://micro.rohm.com/jp/employment/recruit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://micro.rohm.com/jp/employment/recruit_group.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://micro.rohm.com/jp/employment/recruit_flow.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://micro.rohm.com/jp/employment/recruit_faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://micro.rohm.com/jp/employment/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://micro.rohm.com/jp/employment/recruit_newg.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://micro.rohm.com/jp/employment/recruit_carrier.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://micro.rohm.com/jp/employment/recruit_intl_st.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://micro.rohm.com/jp/employment/products_home.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://en-hyouban.com/company/00005920171/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E3%83%AD%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%AF%E3%82%B3%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://talentsquare.co.jp/career/rohm-salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bright_borage950/n/nc99740d217d9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/gikotch/status/2090037988655079873",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ROHM_JP/status/1819207573763248612",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ROHM_JP/status/2039148752020357425",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gikotch/status/2063039586302124322",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/ローム・ワコー（株）",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/ローム・ワコー/1945788392353616/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RohmSemi/photos/マレーシアに新しい生産拠点を建設ローム及びロームワコー株式会社は需要が拡大するアナログlsi及びトランジスタの生産能力強化を図るためマレーシアの製造子会社である/2479445555523128/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gikotch/status/2063039586302124322",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ローム・ワコー 求人 年収",
+   "results": [
+    "https://en-hyouban.com/company/00005920171/salary/",
+    "https://jp.indeed.com/cmp/ローム・ワコー株式会社/salaries",
+    "https://talentsquare.co.jp/career/rohm-salary/",
+    "https://openmoney.jp/corporations/12019/salaries",
+    "https://xn--pckua2a7gp15o89zb.com/ローム・ワコー株式会社の仕事",
+    "https://jp.indeed.com/cmp/ローム・ワコー株式会社/salaries?job_category=engmech",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C30000003UzDF&q_no=2"
+   ]
+  },
+  {
+   "query": "ローム・ワコー 採用 新卒 高卒",
+   "results": []
+  },
+  {
+   "query": "site:note.com ローム・ワコー",
+   "results": [
+    "https://note.com/bright_borage950/n/nc99740d217d9",
+    "https://note.com/medicalconsult/n/ncef700ff57d9",
+    "https://note.com/kosuke_semicon/n/nf42c8b047362",
+    "https://note.com/rohm_recruting",
+    "https://note.com/rohm_recruting/n/nbbd8d5ea5678",
+    "https://note.com/rohm_recruting/n/n069228b7b6fb",
+    "https://note.com/gennki1234/n/ndb668d8a3e53"
+   ]
+  },
+  {
+   "query": "site:x.com ローム・ワコー",
+   "results": [
+    "https://x.com/gikotch/status/2090037988655079873",
+    "https://x.com/ROHM_JP/status/1819207573763248612",
+    "https://x.com/ROHM_JP/status/2039148752020357425",
+    "https://x.com/gikotch/status/2063039586302124322",
+    "https://x.com/gikotch/status/2072098902308962539",
+    "https://x.com/gikotch/status/1851951839455142318",
+    "https://x.com/Yukokunoshishi/status/2047907418311626852"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ローム・ワコー",
+   "results": [
+    "https://jp.linkedin.com/company/ローム・ワコー（株）",
+    "https://jp.linkedin.com/in/yutaka-tatsumi-5a4a12a1",
+    "https://www.linkedin.com/pub/dir/YUTAKA/TATSUMI",
+    "https://www.linkedin.com/pub/dir/Katsumi/Nakano",
+    "https://id.linkedin.com/in/i-gede-satyananda-gautama-3429052ba",
+    "https://sg.linkedin.com/in/tianseng-toh",
+    "https://de.linkedin.com/in/andreas-schneck-0250093"
+   ]
+  },
+  {
+   "query": "site:facebook.com ローム・ワコー",
+   "results": [
+    "https://www.facebook.com/pages/ローム・ワコー/1945788392353616/",
+    "https://www.facebook.com/ロームワコー-333777773331098/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/RohmSemi/photos/マレーシアに新しい生産拠点を建設ローム及びロームワコー株式会社は需要が拡大するアナログlsi及びトランジスタの生産能力強化を図るためマレーシアの製造子会社である/2479445555523128/",
+    "https://www.facebook.com/ロームワコー株式会社購買直通-1899113710374468/",
+    "https://www.facebook.com/RohmSemi/posts/1876960859104937/",
+    "https://www.facebook.com/malaysiabiznavi/posts/1990960491078782/"
+   ]
+  },
+  {
+   "query": "ローム・ワコー note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/東克己_(実業家)",
+    "https://www.rohm.co.jp/company/about/officer",
+    "https://micro.rohm.com/jp/wako/",
+    "https://jobtalk.jp/companies/249017/answers/8874188",
+    "https://www.city.kasaoka.okayama.jp/uploaded/attachment/51987.pdf",
+    "https://the-shashi.com/tse/6963/ceo/"
+   ]
+  },
+  {
+   "query": "ローム・ワコー X 投稿",
+   "results": [
+    "https://x.com/gikotch/status/2063039586302124322",
+    "https://av28.com/video/2671/素人投稿画像掲示板流出事件簿-ローム京都-青木恭子",
+    "https://micro.rohm.com/jp/wako/",
+    "https://bakusai.com/sch_all/acode=8/word=ロームワコーてどうなのよ？/",
+    "https://bowlroll.net/file/keyword/ロームワコー",
+    "https://x.com/hawahagl/status/2117939267339227500",
+    "https://devil999.com/流出の女王！上場企業半導体メーカーrohmエリート/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部12頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部12頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部12頁・検索8回）"
+ }
+}

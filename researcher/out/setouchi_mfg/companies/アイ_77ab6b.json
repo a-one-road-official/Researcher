@@ -1,0 +1,878 @@
+{
+ "name": "アイ",
+ "aliases": [],
+ "context": "広島県広島市／出典:大学・高専の企業説明会／求人媒体:doda;スタンバイ;求人ボックス／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T06:10:24.672874+00:00",
+ "official_url": "https://a-i-o.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "代表取締役会長　吉永　克己 代表取締役社長　吉永　隆男",
+    "url": "https://a-i-o.co.jp/company/companyoutline/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：昭和57年12月9日",
+    "url": "https://a-i-o.co.jp/company/companyoutline/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "4,000万円",
+    "url": "https://a-i-o.co.jp/company/companyoutline/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "広島県広島市南区皆実町4丁目1番14号 TEL.082-251-1151 FAX.082-251-1152",
+    "url": "https://a-i-o.co.jp/company/companyoutline/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "100名",
+    "url": "https://a-i-o.co.jp/company/companyoutline/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "検査サービス事業部 納品管理事業部 食品事業部",
+    "url": "https://a-i-o.co.jp/company/companyoutline/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "想定年収・給与": [
+   {
+    "quote": "4,000万円",
+    "url": "https://a-i-o.co.jp/company/companyoutline/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を1,000万円に増資",
+    "url": "https://a-i-o.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を4,000万円に増資",
+    "url": "https://a-i-o.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アイ工務店の年収・給料｜公開資料と求人の比較 | キャリビー",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイ工務店の掲載求人の想定年収は中央値で約673万円（全国平均460万円）",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "公開資料の給与実績と、求人の想定年収は集計対象が異なります",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "年収を比較する際は、額面の金額だけでなく、福利厚生（住宅手当・退職金・確定拠出年金）、賞与の支給実績（何ヶ月分か）、残業代の支給方法（みなし残業 vs 全額支給）も含めた「総報酬」で判断することが重要です",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイ工務店の確定的な平均年収は蓄積中ですが、掲載求人の想定年収（中央値）は約673万円です",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "年収は額面だけでなく、賞与の支給実績・福利厚生・残業代の支給方法まで含めた「総報酬」で比較するのが重要です",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "強み・適職から、年収相場までわかる",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "年収と一緒に、仕事との相性も",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイ工務店の掲載求人の想定年収（中央値）から算出した目安です",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "投稿された年収データが集まると、より精度の高い平均年収を表示します",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "国税庁「民間給与実態統計調査」（令和5年分）",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイ工務店の年収目安（約673万円）は全国平均460万円を約213万円上回ります",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "年収の比較は額面だけでなく、賞与・福利厚生を含む総報酬で見ることが大切です",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイ工務店は現在、想定年収が明示された求人を49件掲載しています",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "想定年収は400〜1000万円、中央値は約673万円です",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "職種別では「その他」の想定年収が最も高く、中央値約725万円（最大1000万円）です",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "求人の想定年収から算出（職種別の中央値の高い順）",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "想定年収は実際のオファー水準の出発点になります",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "職種・勤務地で絞り込んで、上記の年収レンジと照らし合わせてご確認ください",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "450〜1000万円",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "400〜800万円",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "450〜700万円",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "【大阪／未経験◎】完全反響：住宅アドバイザー◆設計知識も身につく◎入社後年収500万UPも可／転勤無",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "【静岡／未経験◎】完全反響：住宅アドバイザー◆設計知識も身につく◎入社後年収500万UPも可／転勤無",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "【滋賀／未経験◎】完全反響：住宅アドバイザー◆設計知識も身につく◎入社後年収500万UPも可／転勤無",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "アイ工務店は高年収？競合・日本の平均478万円と比較する給与実態 | 住まキャリ転職コラム",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "アイ工務店は高年収？競合・日本の平均478万円と比較する給与実態",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "「本当に年収1000万円を狙えるの？」",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "アイ工務店の年収水準や給与体系を詳しく解説し、営業職のインセンティブ制度や各職種の平均年収、福利厚生まで徹底調査",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "アイ工務店の年収は、",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "固定給＋賞与＋報奨金の3本柱の給与体系",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "最新情報によると、アイ工務店の平均年収は",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "630万円〜639万円",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年収1,000万円を超える社員もおよそ",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、職種や役職、個人の成果によって年収は大きく変動するため、あなたの経験やスキルに応じた具体的な年収は、プロのキャリアアドバイザーに相談して確認することをおすすめします",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年収は募集要項の記載値で、最新の募集状況は求人詳細でご確認ください",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "北海道・青森県・岩手県・宮城県・秋田県・山形県・福島県・茨城県・栃木県・群馬県・埼玉県・千葉県・東京都・神奈川県・新潟県・富山県・石川県・福井県・山梨県・長野県・岐阜県・静岡県・愛知県・三重県・滋賀県・京都府・大阪府・兵庫県・奈良県・和歌山県・鳥取県・島根県・岡山県・広島県・山口県・徳島県・香川県・愛媛県・高知県・福岡県・佐賀県・長崎県・熊本県・大分県・宮崎県・鹿児島県・沖縄県 / 360万円〜780万円",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "北海道・青森県・岩手県・宮城県・秋田県・山形県・福島県・茨城県・栃木県・群馬県・埼玉県・千葉県・東京都・神奈川県・新潟県・富山県・石川県・福井県・山梨県・長野県・岐阜県・静岡県・愛知県・三重県・滋賀県・京都府・大阪府・兵庫県・奈良県・和歌山県・鳥取県・島根県・岡山県・広島県・山口県・徳島県・香川県・愛媛県・高知県・福岡県・佐賀県・長崎県・熊本県・大分県・宮崎県・鹿児島県・沖縄県 / 300万円〜600万円",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "口コミサイト「エン カイシャの評判」に掲載されている情報をもとに、アイ工務店の職種別平均年収を見ていきましょう",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "平均年収：642万円",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "営業系の平均年収は642万円です",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "成果やインセンティブによって収入に差が生じる可能性があるため、実際の年収は経験や実績などによって異なります",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "平均年収：571万円",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "建築・土木系エンジニアの平均年収は571万円です",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "担当する職種や役職、経験年数などによって、年収には差が生じると考えられます",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "アイ工務店全体の平均年収は640万円",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "、回答者の年収範囲は300万～1,800万円です",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "これらは口コミ投稿者の回答を集計した数値であり、実際の給与を保証するものではありません",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "アイ工務店では成果主義を採用しており、実績に応じて昇給や昇進が期待できます",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "以下は、営業職における役職ごとの年収の一例です",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "月給33万円〜50万円 / 昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "週休3日＆月給27万円スタート★未経験歓迎のアイブロウリスト！月給33万コースも選択可◎年休最大162日＆全身脱毛・ホワイトニング無料♪ アイブロウリスト募集♪ カットやカラーなしで「美容師」免許を活かしたい方、 「未経験」や「ブランク」がある方も、大歓迎！ 各種メディアでも話題のメンズ美容サロンで、賢く・楽しく働きませんか？ 《 ミダシー とは？ ️ 》 「月1回・1時間・1万円で、身だしなみを完璧に」がキャッチフレーズ！ 人気急上昇中の、新しいメンズ美容サービスです",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収275.6万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収264万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収264万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収250万円〜460万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "東広島センター ／ 広島センター ／ 山口センター ／ 防府営業所 ／ 北九州営業所 ／ 関東工場",
+    "url": "https://a-i-o.co.jp/company/companyoutline/",
+    "pass": 1
+   },
+   {
+    "quote": "中国浙江省に独資による乾燥食品工場完成守波秋穂食品有限公司",
+    "url": "https://a-i-o.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "従業員数3,112人（2026年4月時点）名、資本金1億円、2010年7月13日設立",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "拠点はアイスタジオを含め302か所（2025年10月末時点）に到達しています",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は2,010億円（2025年6月期、公表値",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "資本金は1億円、従業員数は3,112人（2026年4月時点）",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "2,010億円（2025年6月期）",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "2年後の16期には年間8,000棟の引渡し、売上2,500億円を目指すとしています",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "特別報奨金は、半年間の売上が1億円を超えた場合に、報奨金が倍増する制度です",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "毎年2桁の増収を続け、経常利益は200億円に達する",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月期には売上高2,010億円を見込むなど、高い収益性を誇ります",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "年収は募集要項の記載値で、最新の募集状況は求人詳細でご確認ください",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "9割が中途採用であり、20代〜50代まで幅広い年齢層が活躍しているため、多様なバックグラウンドを持つ社員が活躍できる土壌があります",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "アイ工務店では多様な職種でキャリア採用を積極的に行っています",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "9割が中途採用で、20代〜50代まで幅広い年齢層が活躍",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "また、アイ工務店の求人数は、リクルートエージェントで約200件、エン・カイシャの評判で約350件といった情報があり、活発な採用活動を行っていることが伺えます",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 ／岡山市／既存顧客サポート／研修充実／２ ６年度年休１２９日／残業平均４時間以下",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 | アイ・エム・アイ株式会社 IMI.Co.,Ltd",
+    "url": "https://www.imimed.co.jp/recruit/newgraduate/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年 新卒採用",
+    "url": "https://www.imimed.co.jp/recruit/newgraduate/",
+    "pass": 3
+   },
+   {
+    "quote": "2028年 新卒採用",
+    "url": "https://www.imimed.co.jp/recruit/newgraduate/",
+    "pass": 3
+   },
+   {
+    "quote": "アイスタイルグループの新卒採用情報をご覧いただけます",
+    "url": "https://note.istyle.co.jp/?gs=3e5e802da339162553b4133841a1158a",
+    "pass": 3
+   },
+   {
+    "quote": "アイスタイルグループのキャリア（中途）採用情報をご覧いただけます",
+    "url": "https://note.istyle.co.jp/?gs=3e5e802da339162553b4133841a1158a",
+    "pass": 3
+   },
+   {
+    "quote": "アイスタイルリテール 新卒採用・キャリア採用サイト",
+    "url": "https://note.istyle.co.jp/?gs=3e5e802da339162553b4133841a1158a",
+    "pass": 3
+   },
+   {
+    "quote": "@cosme STOREやフラッグシップストアで働く店舗スタッフの採用情報をご覧いただけます",
+    "url": "https://note.istyle.co.jp/?gs=3e5e802da339162553b4133841a1158a",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "年功序列ではなく実績を正当に評価するため、若手社員や中途入社の社員でも早期に管理職を目指せるチャンスが豊富にあります",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "業界全体で若手・中堅の人材が不足しており、特に経験者や即戦力となる人材は引く手あまた",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 アイ ・インターナショナルの平均 年収 、給与情報 - doda — 株式会社 アイ ・インターナショナルの平均 年収 、給与情報 - doda doda https://doda.jp > CompanyIncome > j_id__10099890589",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10099890589/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アイ 工務店の 年収 ・給料｜公開資料と 求人 の比較 — 株式会社 アイ 工務店の 年収 ・給料｜公開資料と 求人 の比較 キャリビー https://career-be.jp > ... > 株式会社アイ工務店の求人",
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "pass": 3
+   },
+   {
+    "quote": "アイ 工務店は高 年収 ？競合・日本の平均478万円と比較する ... — アイ 工務店は高 年収 ？競合・日本の平均478万円と比較する ... 株式会社ユナイテッドマインドジャパン https://www.unitedmind.jp > 企業調査 > 住宅業界企業",
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "pass": 3
+   },
+   {
+    "quote": "アイ 電子株式会社 の 求人 ・中途採用情報 - doda — アイ 電子株式会社 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10007321275",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007321275/",
+    "pass": 3
+   },
+   {
+    "quote": "アイ デザイナーの給料・ 年収 はどのくらい？ - 学校法人 三幸学園 — アイ デザイナーの給料・ 年収 はどのくらい？ - 学校法人 三幸学園 三幸学園 https://www.sanko.ac.jp > ... > アイデザイナー",
+    "url": "https://www.sanko.ac.jp/job/research/eyelash_artist/kyuryo.html",
+    "pass": 3
+   },
+   {
+    "quote": "アイ 新卒 高卒 の求人情報をすべて見る （673件） — アイ 新卒 高卒 の求人情報をすべて見る （673件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 | アイ ・エム・ アイ 株式会社 IMI.Co.,Ltd — 新卒採用 | アイ ・エム・ アイ 株式会社 IMI.Co.,Ltd imimed.co.jp https://www.imimed.co.jp > 採用情報",
+    "url": "https://www.imimed.co.jp/recruit/newgraduate/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 ｜ 採用 情報 - アイ工務店 — 新卒採用 ｜ 採用 情報 - アイ工務店 アイ工務店 https://recruit.ai-koumuten.co.jp > graduates",
+    "url": "https://recruit.ai-koumuten.co.jp/graduates/",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報 - 株式会社プライム・アイ — 採用 情報 - 株式会社プライム・アイ 株式会社プライム・アイ https://prime-ai.co.jp > recruit",
+    "url": "https://prime-ai.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報 - アイ・システム株式会社 — 採用 情報 - アイ・システム株式会社 アイ・システム株式会社 https://www.i-system.co.jp > recruit",
+    "url": "https://www.i-system.co.jp/recruit/",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "［会社説明会の申込］を選択して、",
+    "url": "https://www.imimed.co.jp/recruit/newgraduate/",
+    "pass": 3
+   },
+   {
+    "quote": "ハカセ アイ (Ai-Hakase)🐱YouTube × 記事でトレンドAIを解説する為のnote🐾｜note",
+    "url": "https://note.com/ai_hakase",
+    "pass": 3
+   },
+   {
+    "quote": "ハカセ アイ (Ai-Hakase)🐱YouTube × 記事でトレンドAIを解説する為のnote🐾",
+    "url": "https://note.com/ai_hakase",
+    "pass": 3
+   },
+   {
+    "quote": "あいらぼ (Ai-Lab) は、NoteとYouTubeを活用して、皆さんを「生成AIを使いこなす側」へ導く戦略的パートナーシップです",
+    "url": "https://note.com/ai_hakase",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ハカセ アイ ( Ai -Hakase)  YouTube × 記事でトレンド AI を解説 ... ハカセ アイ ( Ai -Hakase)  YouTube × 記事でトレンド AI を解説 ... note https://note.com > ai_hakase",
+    "url": "https://note.com/ai_hakase",
+    "pass": 3
+   },
+   {
+    "quote": "アイ スタイル公式note「istories」 アイ スタイル公式note「istories」 note.com https://note.com > istyle_blog",
+    "url": "https://note.com/istyle_blog",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ハカセ アイ (Ai-Hakase)🐱YouTube × 記事でトレンドAIを解説する為のnote🐾｜note",
+    "url": "https://note.com/ai_hakase",
+    "pass": 3
+   },
+   {
+    "quote": "ハカセ アイ (Ai-Hakase)🐱YouTube × 記事でトレンドAIを解説する為のnote🐾",
+    "url": "https://note.com/ai_hakase",
+    "pass": 3
+   },
+   {
+    "quote": "『初心者からでも分かる最新AI』ということで、生成AIクリエイター向けに \"あいらぼ(Ai-Lab)\" を運営しております🧸",
+    "url": "https://note.com/ai_hakase",
+    "pass": 3
+   },
+   {
+    "quote": "解説の入口は無料記事。ComfyUIのワークフロー配布と質問はあいらぼのメンバーシップです。",
+    "url": "https://note.com/ai_hakase",
+    "pass": 3
+   },
+   {
+    "quote": "ご質問もメンバーシップ掲示板で丁寧に対応中です👌🏻 ̖́-︎",
+    "url": "https://note.com/ai_hakase",
+    "pass": 3
+   },
+   {
+    "quote": "『初心者からでも分かる最新AI』ということで、生成AIクリエイター向けに \"あいらぼ(Ai-L…",
+    "url": "https://note.com/ai_hakase",
+    "pass": 3
+   },
+   {
+    "quote": "🐾あいらぼ：記事｜動画｜ComfyUI ワークフロープラン",
+    "url": "https://note.com/ai_hakase",
+    "pass": 3
+   },
+   {
+    "quote": "🎥最新AI技術の『解説記事・実用動画・ComfyUI ワークフロー』がすべて見放題になるプランです。PC1台で実践できる図解・解説動画を定期更新中",
+    "url": "https://note.com/ai_hakase",
+    "pass": 3
+   },
+   {
+    "quote": "アイスタイル公式note「istories」",
+    "url": "https://note.istyle.co.jp/?gs=3e5e802da339162553b4133841a1158a",
+    "pass": 3
+   },
+   {
+    "quote": "アイスタイルグループは、独自のデータベースをもとに、常に生活者視点で未来を見据え、マーケットそのものをデザインする企業です。",
+    "url": "https://note.istyle.co.jp/?gs=3e5e802da339162553b4133841a1158a",
+    "pass": 3
+   },
+   {
+    "quote": "istoriesは、そんなアイスタイルグループのリアルをお伝えするnoteです。",
+    "url": "https://note.istyle.co.jp/?gs=3e5e802da339162553b4133841a1158a",
+    "pass": 3
+   },
+   {
+    "quote": "アイスタイルグループは、独自のデータベースをもとに、常に生活者視点で未来を見据え、マーケ…",
+    "url": "https://note.istyle.co.jp/?gs=3e5e802da339162553b4133841a1158a",
+    "pass": 3
+   },
+   {
+    "quote": "アイスタイルグループの新卒採用情報をご覧いただけます。",
+    "url": "https://note.istyle.co.jp/?gs=3e5e802da339162553b4133841a1158a",
+    "pass": 3
+   },
+   {
+    "quote": "アイスタイルグループのキャリア（中途）採用情報をご覧いただけます。",
+    "url": "https://note.istyle.co.jp/?gs=3e5e802da339162553b4133841a1158a",
+    "pass": 3
+   },
+   {
+    "quote": "アイスタイルリテール 新卒採用・キャリア採用サイト",
+    "url": "https://note.istyle.co.jp/?gs=3e5e802da339162553b4133841a1158a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Kizuna AI / キズナアイ (@aichan_nel) / X Kizuna AI / キズナアイ (@aichan_nel) / X X https://x.com > aichan_nel",
+    "url": "https://x.com/aichan_nel",
+    "pass": 3
+   },
+   {
+    "quote": "カミナリ アイ (@KaminariAi) / X カミナリ アイ (@KaminariAi) / X X https://x.com > KaminariAi",
+    "url": "https://x.com/KaminariAi",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://a-i-o.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://a-i-o.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://a-i-o.co.jp/company/companyoutline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://a-i-o.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10099890589/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imimed.co.jp/recruit/newgraduate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.ai-koumuten.co.jp/graduates/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/ai_hakase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.istyle.co.jp/?gs=3e5e802da339162553b4133841a1158a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/aichan_nel",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KaminariAi",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アイ 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10099890589/",
+    "https://career-be.jp/companies/c-4dfb206ea7c5c746/salary",
+    "https://www.unitedmind.jp/house-hr/column/ai-koumten-salary/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007321275/",
+    "https://www.sanko.ac.jp/job/research/eyelash_artist/kyuryo.html",
+    "https://jp.indeed.com/career/salaries/part-time/job-title/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC",
+    "https://work.beauty.hotpepper.jp/guide/article/00038/",
+    "https://employment.en-japan.com/comp-132868/",
+    "https://m-careerguide.jp/articles/2965/",
+    "https://jp.indeed.com/career/salaries"
+   ]
+  },
+  {
+   "query": "アイ 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%82%A2%E3%82%A4+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.imimed.co.jp/recruit/newgraduate/",
+    "https://recruit.ai-koumuten.co.jp/graduates/",
+    "https://prime-ai.co.jp/recruit/",
+    "https://www.i-system.co.jp/recruit/",
+    "https://www.istyle.co.jp/recruit/",
+    "https://www.ikic.co.jp/recruit/students.html",
+    "https://www.iim.co.jp/recruit/recruiting_newgraduate",
+    "https://www.ibm.com/jp-ja/careers/career-opportunities",
+    "https://www.i-asp.ne.jp/sp/recruit.html"
+   ]
+  },
+  {
+   "query": "site:note.com アイ",
+   "results": [
+    "https://note.com/ai_hakase",
+    "https://note.com/tag/AI",
+    "https://note.com/watamakimusic/n/n23c6716bc213",
+    "https://note.com/istyle_blog",
+    "https://note.com/takahiroanno/n/n4accbde18d56",
+    "https://note.com/i3systems",
+    "https://note.com/www017017/n/ndc73009b52cb",
+    "https://note.com/systemi",
+    "https://note.com/zakkaya_sun/n/nee366268ed0b",
+    "https://www.bbc.com/hindi/articles/cj98mx8n43do"
+   ]
+  },
+  {
+   "query": "site:x.com アイ",
+   "results": [
+    "https://x.com/moguru_ai",
+    "https://x.com/aichan_nel",
+    "https://x.com/_Eye_0_",
+    "https://x.com/KaminariAi",
+    "https://x.com/a78752716",
+    "https://careers.x.com/",
+    "https://communitynotes.x.com/guide/en/api/overview",
+    "https://x.com/EYE_marysblood",
+    "https://blog.x.com/company/twitter-acquires-fabula-ai",
+    "https://x.com/aininomiya"
+   ]
+  },
+  {
+   "query": "site:linkedin.com アイ",
+   "results": [
+    "https://rtb-us-east.linkedin.com/lax/clk?trk=comp_CwEAAAGgyxCeykzkDNCPD7O8lKPpcwfxX0ZoH8sK6D7k3sHFoCo15Aoox8CAjSbPr38CE4v_TvsqL3AFLwuYAlAN7bEg8fer4pYN_zyBjf_qqgwWOF8dJARSR22iitQ9rgvPiPWuz9uHuNPy8NnSl8U__atov00bmoNWET2AqGIMPDOLFWKPCOMCf19BWkCZZBbMU34rTBd6X_OBgVvLaWyR2bBgiyQfGzI09BkTLAovYYQXymJyO42SWX7qesnhQiU9bxWFAlsby2VAYhMBRQrx8H8GIpb8WVHVWsEfbHxGSD7udGluxILGUJk0geQTpSsqF2kMLQ2dERuaeKf_sGZW5r4HRIKF-sDqOCAzserbI3V-zav_mIql35rRt7yjykOkZIKXOPMrvkZHIl9bZ6tkA8HlEorFxKkk_CtOXJkGddlTFDMaZCb4MGRz-bVed0RcxZbhniil1mcyb5n7mW9Cp7YIfwIT1hU9F4fv-kaSGotJnebF7svug2VM1VFhT00HUcHhd0iUx0tQGuwDqGcUplQYYsdCXMEOsZt7XDJ78VmUAVmWro6xrY6OEej5WyUjD_oqQNuCXBZlNVr-8se9Ju6LXBiwMG9VAZaiSSGyU7mfR3lvaPQGj1j7Vdiyg5DKEdMa8aM91TCk5w3RxE_j-kRSzx93qFkwylZTcgqExNIX5ljvo06_vH3-IZDHPKl1xDfuFygcPujpokTjlxkq0JhWD2NFCONXap_LNRsCQT_R56WZU7wvrnzVtPgRgkPjP4UrtfL3fpOitPc66iwHcB-Bh4XKPh8zx1oGPQuFUlMhTDUTufoj83AlM4K963PtZcNc7hvrs9rD-sy6Hi_acI8Lqhi48qQNVwN0yBBDUpKZMMOFnP9IlNh_fXNcsH7B0-XYPSkpLqhXsssy7r87xwbqVmpZF9uYIbd5oyMFr-Rm5JmiWmf1gzK5dQ40f30ZIT2Qi7whnPxcQ5iK5Ih83Guf5hFgf5ms_REnBZm17nh0XtDXo7r7&action=click&laxrid=afd392d7-cbd3-41bf-9846-e34dcce79a51&laxbid=2&eid=4&wpub=parade.com&crtype=su&laxerid=b4af9724032b2306582d6fd357ae06c14ab4f3d6&pid=23876&adfmt=1&wp=45E39D85A58D6AE7&urle=CwEAAAGgyxCe0eCiWBvmB1knd9PVlQfrbHgqpZyAd8_IBLYs7QN0aNhghJEnSuBEzYETPR05z6ufUbKbFus5JOXb_SeZkfacDt4bvYkt7yAnfpUMiPsxJXKir43IxXG3ZTWBSncZN-jX2poWLCWVrg8OBXysUONR_MqL9FoDGiignRRPxzuBCVy_QbyBMP2aXjzeWkpSsbAwkmjvTk2BVE32EB3yqt_OrHz_EZ7erXvdg9c2Jct73mSuHzT4cCRqGsLTdEG3rAkFKU5dYlidM5Q78GS5hxPh7RUAVG1Zgh_3skOBb8FOinN4gMvbvl1yQxJPWvAvjl3m8VdJnaogclSM8j8TWTziG6ZD&urlhash=QdA5",
+    "https://fr.linkedin.com/company/oecd-ai",
+    "https://training.talent.linkedin.com/page/ai-powered-features",
+    "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FgKat87R3&urlhash=aw_z&mt=ptyIQ8DIqHEQf8E5YvEeBizo826W4uVSG-L47p5OoYOuiUU1mxBplwJdx08mx-0UuTH-TiFdHlhE5RHeseKvbSx9_ZbgURO-WbjkyX4ve-LvGd5wrKQtN-AM9Q&isSdui=true",
+    "https://uk.linkedin.com/company/sees-ai",
+    "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fcareers%2Eequinix%2Ecom%2Fequinix-ai-guidance-for-candidates&urlhash=PNtO&mt=PxPg30h0M2CbpxJYYCMrYwYXBY_Rp1r6DbVvnaZJErsNAeDOr3kbwkyUPIHkyliOUS9E5aNfKHnZRjP_y9n2SV_Q5Kws&isSdui=true",
+    "https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin",
+    "https://business.linkedin.com/learn/resources/upskilling-and-reskilling/ai-skill-pathways",
+    "https://www.linkedin.com/company/togethercomputer",
+    "https://jp.linkedin.com/jobs/ai-jobs"
+   ]
+  },
+  {
+   "query": "site:facebook.com アイ",
+   "results": [
+    "https://www.facebook.com/AI/",
+    "https://www.facebook.com/privacy/center/l/?logging_data%5B0%5D=%7B%22falco_event_name%22%3A%22privacy_center%22%2C%22extra_data%22%3A%7B%22content_type%22%3A%22guide%22%2C%22logging_element_name%22%3A%22meta_ai_tos%22%2C%22logging_element_type%22%3A%22outbound_link%22%2C%22entrypoint%22%3Anull%2C%22logging_element%22%3Anull%2C%22guide_id%22%3A%22generative-ai%22%2C%22parent_screen_element%22%3A%22generative_ai_guide%22%2C%22parent_unit_element%22%3Anull%2C%22render_surface%22%3A%22comet%22%2C%22event%22%3A%22server_click%22%2C%22falco_event_name%22%3A%22privacy_center%22%7D%7D&redirect_url=https%3A%2F%2Fwww.meta.ai%2F",
+    "https://ai.facebook.com/research/no-language-left-behind/",
+    "https://dataforgood.facebook.com/",
+    "https://ai.facebook.com/join-us",
+    "https://www.facebook.com/meganenoparismiki/posts/-%E3%83%A0%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%A2%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A2%E7%AC%AC3%E5%BC%BE-%E3%83%A0%E3%83%BC%E3%83%9F%E3%83%B3%E5%B0%8F%E8%AA%AC%E3%81%AE%E5%87%BA%E7%89%8880%E5%91%A8%E5%B9%B4%E3%82%92%E8%A8%98%E5%BF%B5%E3%81%97%E3%81%A6%E3%83%A0%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%A2%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A2%E7%AC%AC3%E5%BC%BE%E3%81%8C%E7%99%BB%E5%A0%B4%E3%83%A1%E3%82%AC%E3%83%8D%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E4%BB%A5%E5%A4%96%E3%81%AB%E3%82%82%E3%82%B0%E3%83%83%E3%82%BA%E3%82%82%E5%B1%95%E9%96%8B%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E9%99%90%E5%AE%9A%E3%81%A7%E5%85%88%E7%9D%80%E6%95%B0%E9%87%8F/1354421216688561/",
+    "https://ai.facebook.com/tools/",
+    "https://ai.facebook.com/tools/faiss/",
+    "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650",
+    "https://techcommunity.microsoft.com/category/windows/discussions/windowsinsiderprogram"
+   ]
+  },
+  {
+   "query": "アイ note 社長",
+   "results": [
+    "https://note.com/ai_shacho",
+    "https://note.com/ai_shacho/n/n4f9f55532375",
+    "https://note.com/juicy_takin9170",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/sadaaki",
+    "https://note.com/mitsukunikeishi/n/na53720f3f34b",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/mute_turtle9820/n/n9b9152018710",
+    "https://dictionary.cambridge.org/dictionary/english/continue",
+    "https://www.merriam-webster.com/dictionary/continue"
+   ]
+  },
+  {
+   "query": "アイ X 投稿",
+   "results": [
+    "https://digirise.ai/chaen-ai-lab/x/",
+    "https://lp.yoom.fun/blog-posts/how-to-automatically-create-ai-content-and-post-to-x-twitter-25w22",
+    "https://bika.ai/ja/template/x-ai-automated-tweets",
+    "https://www.nikkei.com/article/DGXZQOGN207K50Q6A120C2000000/",
+    "https://x.com/ishida_chatgpt/article/2066323646180954330",
+    "https://apps.apple.com/jp/app/x/id333903271",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://note.com/pengoo_writer/n/ndb01b4fc83dd",
+    "https://www.youtube.com/watch?v=Qy8t_SK8NaA",
+    "https://en.wikipedia.org/wiki/Laser-induced_breakdown_spectroscopy"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部10頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部10頁・検索8回）",
+  "採用人数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部10頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部10頁・検索8回）"
+ }
+}

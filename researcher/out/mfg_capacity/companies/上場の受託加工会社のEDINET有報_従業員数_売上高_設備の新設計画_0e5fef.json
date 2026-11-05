@@ -1,0 +1,1274 @@
+{
+ "name": "上場の受託加工会社のEDINET有報（従業員数・売上高・設備の新設計画）",
+ "en": "EDINET annual securities report contract manufacturing employees net sales",
+ "aliases": [
+  "site:disclosure2.edinet-fsa.go.jp 熱処理 有価証券報告書 従業員の状況",
+  "有価証券報告書 めっき加工 従業員数 売上高 提出会社",
+  "有価証券報告書 金属加工 受託 設備の新設 従業員の状況"
+ ],
+ "context": "一次・有報",
+ "kind": "market",
+ "researched_at": "2026-11-05T06:03:58.365158+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "従業員数 （名） 18,375 17,695 17,612 17,739 17,953",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１ 従業員数は就業人員を記載しております",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 従業員数欄の（外書）は、臨時従業員の年間平均雇用人員であります",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数 （名） 5,061 5,013 5,053 5,100 5,281",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１ 従業員数は、就業人員を記載しております",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2011年７月 インドの現地法人ボンベイ バーマ トレーディング社の精密ばね事業を買収し、NHKオートモーティ",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１ 従業員数は就業人員であります",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 全社（共通）として記載されている従業員数は、特定の事業に区分できない管理部門等に所属しているもので",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 従業員数欄の（外書）は、臨時従業員の年間平均雇用人員であります",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 全社（共通）として記載されている従業員数は、特定の事業に区分できない管理部門等に所属しているもので",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1996年４月 米国カリフォルニア州トーランスに現地法人PulstecUSA,Inc.を設立(現連結子会社)",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2002年11月 中国の天津市保税区に現地法人帕路斯（天津）国際貿易有限公司を設立",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2004年２月 中国の北京市に現地法人帕路斯（北京）科技有限公司を設立",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年１月 米国ミシガン州ノバイに現地法人PulstecUSA,Inc.を移転",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １．従業員数は就業人員であります",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．従業員数欄の（ ）内は、臨時従業員数であり、嘱託・パートタイマの人数であります",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．私達は、会社を取り巻く全ての人々と誠意をもって協調し、会社の繁栄と全員の幸福との一致を、追求し",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "売上高 （百万円） 572,639 586,903 693,246 766,934 801,698",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益 （百万円） 14,533 30,674 37,317 47,814 57,960",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益 （百万円） 9,396 31,998 21,537 39,188 48,167",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "包括利益 （百万円） 21,730 45,791 36,917 71,866 48,344",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産額 （百万円） 299,975 338,847 365,860 420,574 423,172",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産額 （百万円） 560,769 588,091 606,039 690,289 696,340",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー （百万円） 29,636 34,505 13,656 66,706 55,713",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー （百万円） △ 24,107 4,987 △ 41,758 △ 10,349 △ 47,784",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー （百万円） 2,792 △ 27,658 △ 11,546 △ 20,996 △ 23,625",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の期末残高 （百万円） 78,986 91,894 57,845 93,065 81,805",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 （百万円） 264,687 257,895 293,223 321,540 359,434",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益 （百万円） 11,071 28,283 31,533 23,776 39,404",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益 （百万円） 4,961 31,052 4,442 31,910 32,075",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 （百万円） 17,009 17,009 17,009 17,009 17,009",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産額 （百万円） 161,221 188,454 186,421 209,750 190,896",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産額 （百万円） 358,804 382,276 389,756 439,340 427,518",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ NHKスプリングタイランド社については、売上高（連結会社相互間の内部売上高を除く）の連結売上高に占",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 (千円) 2,090,042 2,445,227 2,448,750 2,612,074 2,486,548",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 (千円) 2,078,701 2,415,841 2,422,612 2,571,401 2,460,271",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1969年11月 資本金50万円で株式会社を設立、商号をパルステック工業株式会社に変更",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月期においては、売上",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高26億50百万円以上、売上高営業利益率10％以上を目標としております",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、売上高は24億86百万円（前年同期比4.8％減）、営業利益は３億36百万円（前年同期比6.2％減）、",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益は３億53百万円（前年同期比8.6％減）、親会社株主に帰属する当期純利益は法人税等調整額△１億２百",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "万円（△は益）の計上により３億55百万円（前年同期比8.9％増）となりました",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期の売上計上となることから、売上高は８億39百万円（前年同期比5.8％減）、セグメント利益は３億63百万円",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発の一部が来期に先送りされたことから、売上高は７億11百万円（前年同期比21.1％減）、セグメント利",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "益は40百万円（前年同期比7.1％減）となりました",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ら、売上高は９億35百万円（前年同期比14.2％増）となりましたが、クリーンルーム関連の減価償却費を計上し",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たことにより、セグメント利益は２億58百万円（前年同期比0.1％減）となりました",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の売上高は、前連結会計年度に比べ１億25百万円減少し、24億86百万円となりました",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の売上高営業利益率は、前連結会計年度に比べ0.2ポイント悪化し、13.5％となりました",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高（千円） 2,612,074 2,350,000 2,486,548",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "売上高 （百万円） 572,639 586,903 693,246 766,934 801,698",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益 （百万円） 14,533 30,674 37,317 47,814 57,960",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益 （百万円） 9,396 31,998 21,537 39,188 48,167",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "包括利益 （百万円） 21,730 45,791 36,917 71,866 48,344",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産額 （百万円） 299,975 338,847 365,860 420,574 423,172",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産額 （百万円） 560,769 588,091 606,039 690,289 696,340",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー （百万円） 29,636 34,505 13,656 66,706 55,713",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー （百万円） △ 24,107 4,987 △ 41,758 △ 10,349 △ 47,784",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー （百万円） 2,792 △ 27,658 △ 11,546 △ 20,996 △ 23,625",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の期末残高 （百万円） 78,986 91,894 57,845 93,065 81,805",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 （百万円） 264,687 257,895 293,223 321,540 359,434",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益 （百万円） 11,071 28,283 31,533 23,776 39,404",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益 （百万円） 4,961 31,052 4,442 31,910 32,075",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 （百万円） 17,009 17,009 17,009 17,009 17,009",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産額 （百万円） 161,221 188,454 186,421 209,750 190,896",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産額 （百万円） 358,804 382,276 389,756 439,340 427,518",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以上のような経営環境のもと、売上高は801,698百万円（前期比4.5％増）、営業利益は52,160百万円（前期比",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1969年11月 資本金50万円で株式会社を設立、商号をパルステック工業株式会社に変更",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高26億50百万円以上、売上高営業利益率10％以上を目標としております",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、売上高は24億86百万円（前年同期比4.8％減）、営業利益は３億36百万円（前年同期比6.2％減）、",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益は３億53百万円（前年同期比8.6％減）、親会社株主に帰属する当期純利益は法人税等調整額△１億２百",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "万円（△は益）の計上により３億55百万円（前年同期比8.9％増）となりました",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期の売上計上となることから、売上高は８億39百万円（前年同期比5.8％減）、セグメント利益は３億63百万円",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発の一部が来期に先送りされたことから、売上高は７億11百万円（前年同期比21.1％減）、セグメント利",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "益は40百万円（前年同期比7.1％減）となりました",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ら、売上高は９億35百万円（前年同期比14.2％増）となりましたが、クリーンルーム関連の減価償却費を計上し",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たことにより、セグメント利益は２億58百万円（前年同期比0.1％減）となりました",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の売上高は、前連結会計年度に比べ１億25百万円減少し、24億86百万円となりました",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度末における総資産は、前連結会計年度末と比べて１億52百万円減少し、50億29百万円となり",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これは主に、建物及び構築物が３億92百万円増加し、現金及び預金が３億15百万円、売掛金が１億66",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "百万円、建設仮勘定が93百万円それぞれ減少したことによるものであります",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "負債は、前連結会計年度末と比べて３億41百万円減少し、11億66百万円となりました",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "録債務が３億26百万円、未払法人税等が96百万円それぞれ減少したことによるものであります",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産は、前連結会計年度末と比べて１億88百万円増加し、38億63百万円となりました",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "剰余金が２億５百万円増加したことによるものであります",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "１【設備投資等の概要】",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "結会計年度は、当社グループ全体で40,252百万円の設備投資を実施しました",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新製品の受注、既存製品の生産性向上及び品質向上を主な目的に、当社グループで6,324百万円の設備投資を実施",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新製品の受注、既存製品の生産性向上及び品質向上を主な目的に、当社グループで6,472百万円の設備投資を実施",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新製品の開発及び受注、既存製品の生産性及び品質向上を主な目的に、当社グループで7,937百万円の設備投資を",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新製品の開発及び受注、既存製品の生産性及び品質向上を主な目的に、当社グループで4,307百万円の設備投資を",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "12,691百万円の設備投資を実施しました",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全社共通の設備として、当社グループで2,518百万円の設備投資を実施しました",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "翌連結会計年度（自 2025年４月１日 至 2026年３月31日）の設備投資は、54,001百万円を計画しており、セグメ",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主な減少要因は、有形固定資産の取得による支出３億４百万円、定期預金の預入による支出69百万円でありま",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 【設備投資等の概要】",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の設備投資の総額は412百万円であり、セグメントごとの設備投資は、次のとおりであります",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の主な設備投資は、販売促進用デモ機の導入を中心とする総額 28百万円の投資を実施しました",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の主な設備投資は、設計開発用パソコンの導入を中心とする総額 2百万円の投資を実施しまし",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の主な設備投資は、本社工場におけるクリーンルーム拡張・改修工事を中心とする総額 487百万",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の主な設備投資は、本社工場における建物付属設備の更新を中心とする総額 9百万円の投資を実",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "【提出日】 2025年６月26日",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【事業年度】 第105期（自 2024年４月１日 至 2025年３月31日）",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１【主要な経営指標等の推移】",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算年月 2021年３月 2022年３月 2023年３月 2024年３月 2025年３月",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 「収益認識に関する会計基準」（企業会計基準第29号 2020年３月31日）等を第102期の期首から適用して",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６ 最高株価及び最低株価は、2022年４月４日より東京証券取引所プライム市場におけるものであり、それ以前",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1998年１月 インドにおいて、過去10年間にわたり技術援助を行っていた、自動車懸架ばねメーカー ジャムナ・",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2010年９月 株式交換により、横浜機工株式会社（現連結子会社）を完全子会社化",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2010年11月 中国に湖北日発汽車零部件有限公司（現連結子会社）を設立",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2010年12月 株式追加取得により、日発テレフレックス㈱（現ニッパツ・メック株式会社・連結子会社）を完全子",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年３月",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年４月",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年７月",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年２月",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年３月",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年７月",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年４月",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年３月31日現在",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【提出日】 2025年６月23日",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【事業年度】 第56期(自 2024年４月１日 至 2025年３月31日)",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業株式会社(E02021)",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 【主要な経営指標等の推移】",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算年月 2021年３月 2022年３月 2023年３月 2024年３月 2025年３月",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．第53期まで、株主総利回りの比較指標に東証第二部株価指数を用いておりましたが、2022年４月４日の東京",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．最高株価及び最低株価は、2022年４月３日以前は東京証券取引所市場第二部におけるものであり、2022年４",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年８月 医療分野における品質マネジメントシステムの世界標準規格ISO13485の認証を取得",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年２月 ヨーロッパ事務所を閉鎖",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年１月 非接触硬さムラスキャナ（ｍｕｒａＲ）を開発し、販売に着手",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年12月 第三種医療機器製造販売業の許可を取得",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年１月 米国ミシガン州ノバイに現地法人PulstecUSA,Inc.を移転",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年４月 東京証券取引所の市場区分の見直しにより市場第二部からスタンダード市場へ移行",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年７月 Ｘ線単結晶方位測定装置（ｓ－Ｌａｕｅ）を開発し、販売に着手",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年３月 熱処理硬化層深さ測定装置（Ｈａｒｄｎｅｓｓ ＥＹＥ）を開発し、販売に着手",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年３月31日現在",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社の労働組合はパルステック工業労働組合と称し、1974年７月１日に結成され2025年３月31日現在の組合員数",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、結成以来労使関係は円満に推移しており特記すべき事項はありません",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(January 1, 2025 through December 31, 2025)",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Securities Report for the 54th Fiscal Year Ended December 31, 2025",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Fiscal year The 54th fiscal year (January 1, 2025 through December 31, 2025)",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Year ended December 31, 2021 2022 2023 2024 2025",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. The Company has applied the Accounting Standard for Revenue Recognition (ASBJ Statement No. 29, March 31, 2020)",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 . The Company has applied the Accounting Standard for Revenue Recognition (ASBJ Statement No. 29, March 31, 2020)",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6. The highest and lowest share prices on and before April 3, 2022 are quoted prices on the First Section of the Tokyo Stock",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Exchange and prices on and after April 4, 2022 are quoted from the Prime Market of the Tokyo Stock Exchange.",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "January 2015 The Company, as the surviving company, merged with Tokowaka Co., Ltd.",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "April 2015 Roland RVS Holding Inc. (holding company of RVS) established",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "May 2015 A company to develop and distribute music/media production software (RVS) established in the U.S.",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "August 2015 Roland DG Corporation excluded from the scope of application of equity method due to sale of part of the",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "March 2016 Roland VM Corporation (holding company of V-MODA) established",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "May 2016 A headphone development and manufacturing company in the U.S. (V-MODA) converted into a subsidiary of",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "April 2017 A global commercial distribution management company established in Malaysia",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "January 2018 Boss Corporation merged and absorbed into the Company",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "July 2018 A sales company established in Mexico",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "October 2020 A UK-based sales company and a general management company (holding company) combined",
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "(1) 持分法を適用した関連会社数",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 持分法を適用しない関連会社数",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "なる原価低減、品質向上、納期短縮に努めてまいります",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、成形品や金属加工品などの特注部材は、加工外注先に生産委託して調達しており、加工外注先の繁忙期",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に備え相当数の加工外注先を確保しておりますが、加工外注先全体の稼働率が上昇するような局面においては、",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "安定した品質、納期、予定価格どおりに部材の調達ができない場合は、生産遅延や納入遅延が発生し、顧客の",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称 受注高（千円） 前年同期比（％） 受注残高（千円） 前年同期比（％）",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "化することに加え、部品入手時期が未定では生産計画も立てられないため、顧客要求の納期に間に合わず失",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従来の購入先や加工外注先では調達できないケースも散見されます",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工外注先の開拓が必要となりますが、新たな調達先を確保できない場合や、価格・納期・品質などの面にお",
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://disclosure2.edinet-fsa.go.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XUXC.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2025_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2506.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tohoku-epco.co.jp/ir_n/report/securities_report/pdf/2024_ho.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hsk.co.jp/ja/ir/news/news6444496639367080117.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/kenkyu/jsdb/pdf/23_2-1-6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.inpex.com/ir/library/upload/securities20250331.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://edinetdb.jp/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetty.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XRXN.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nidec.com/files/user/www-nidec-com/ir/library/reports/FY25Q4_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://disclosure2.edinet-fsa.go.jp/week0010.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinet.twentyfive.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://disclosure2.edinet-fsa.go.jp/weee0070.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsa.go.jp/search/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100PEZ1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/meetings/iinkai_10/siryou_6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E01205/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W4UR.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://disclosure2.edinet-fsa.go.jp/WEEK0020.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100R4SI.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E03295/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S1004XKW.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/negotiable-securities/pdf/154_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2026_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100T4S1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fsa.go.jp/search/20130917.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://disclosure2.edinet-fsa.go.jp/week0020.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://corp.shiseido.com/en/ir/library/financial_statements/pdf/2025/annual_securities_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.advantest.com/document/en/investors/ir-library/report/IR_SecuritiesReport_83rd_en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bridgestone.com/ir/library/securities_report/pdf/e_104.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://global.canon/en/ir/yuuhou/canon2025q2-e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "上場の受託加工会社のEDINET有報（従業員数・売上高・設備の新設計画）",
+   "results": [
+    "https://disclosure2.edinet-fsa.go.jp/",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XUXC.pdf",
+    "https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2025_03.pdf",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2506.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "https://www.tohoku-epco.co.jp/ir_n/report/securities_report/pdf/2024_ho.pdf",
+    "https://edinetdb.jp/company/E33514/text",
+    "https://www.inpex.com/ir/library/upload/securities20250331.pdf",
+    "https://www.fsa.go.jp/search/",
+    "https://edinetdb.jp/companies"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社のEDINET有報（従業員数・売上高・設備の新設計画） 推移",
+   "results": [
+    "https://disclosure2.edinet-fsa.go.jp/",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XUXC.pdf",
+    "https://www.hsk.co.jp/ja/ir/news/news6444496639367080117.html",
+    "https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2025_03.pdf",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2506.pdf",
+    "https://www.tohoku-epco.co.jp/ir_n/report/securities_report/pdf/2024_ho.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W2ND.pdf",
+    "https://www.stat.go.jp/info/kenkyu/jsdb/pdf/23_2-1-6.pdf",
+    "https://www.inpex.com/ir/library/upload/securities20250331.pdf",
+    "https://edinetdb.jp/companies"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社のEDINET有報（従業員数・売上高・設備の新設計画） 統計 PDF",
+   "results": [
+    "https://disclosure2.edinet-fsa.go.jp/",
+    "https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2025_03.pdf",
+    "https://www.stat.go.jp/info/kenkyu/jsdb/pdf/23_2-1-6.pdf",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2506.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XRXN.pdf",
+    "https://www.tohoku-epco.co.jp/ir_n/report/securities_report/pdf/2024_ho.pdf",
+    "https://www.nidec.com/files/user/www-nidec-com/ir/library/reports/FY25Q4_jp.pdf",
+    "https://www.inpex.com/ir/library/upload/securities20250331.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "http://disclosure2.edinet-fsa.go.jp/week0010.aspx"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社のEDINET有報（従業員数・売上高・設備の新設計画） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://disclosure2.edinet-fsa.go.jp/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "https://www.fsa.go.jp/search/",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100PEZ1.pdf",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/meetings/iinkai_10/siryou_6.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100SWB3.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社のEDINET有報（従業員数・売上高・設備の新設計画） 従業者規模別",
+   "results": [
+    "https://disclosure2.edinet-fsa.go.jp/",
+    "https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2025_03.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XUXC.pdf",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2506.pdf",
+    "https://www.hsk.co.jp/ja/ir/news/news6444496639367080117.html",
+    "https://www.fsa.go.jp/search/",
+    "https://edinetdb.jp/company/E01205/text",
+    "https://www.tohoku-epco.co.jp/ir_n/report/securities_report/pdf/2024_ho.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W4UR.pdf",
+    "https://edinetdb.jp/companies"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社のEDINET有報（従業員数・売上高・設備の新設計画） 1人当たり 万円",
+   "results": [
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100R4SI.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XRXN.pdf",
+    "https://edinetdb.jp/company/E03295/text",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S1004XKW.pdf",
+    "https://www.nidec.com/files/user/www-nidec-com/ir/library/reports/FY25Q4_jp.pdf",
+    "https://www.mitsubishielectric.co.jp/investors/data/negotiable-securities/pdf/154_1.pdf",
+    "https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2026_03.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100T4S1.pdf",
+    "https://www.okaya.co.jp/storage/reports/Yi6Y9yNdAKGCgfNtQSZl8awpbnUNDADNthsYVFar.pdf"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社のEDINET有報（従業員数・売上高・設備の新設計画） 2015 2025",
+   "results": [
+    "https://disclosure2.edinet-fsa.go.jp/",
+    "https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2025_03.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W53K.pdf",
+    "https://www.fsa.go.jp/search/20130917.html",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XUXC.pdf",
+    "https://www.tohoku-epco.co.jp/ir_n/report/securities_report/pdf/2024_ho.pdf",
+    "https://edinetdb.jp/",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W4UR.pdf",
+    "https://www.mitsubishielectric.co.jp/investors/data/negotiable-securities/pdf/154_1.pdf",
+    "https://www.fsa.go.jp/search/"
+   ]
+  },
+  {
+   "query": "EDINET annual securities report contract manufacturing employees net sales Japan statistics",
+   "results": [
+    "https://disclosure2.edinet-fsa.go.jp/week0020.aspx",
+    "https://ir.roland.com/en/ir/library/result/main/00/teaserItems2/0111/linkList/03/link/Annual%20Securities%20Report%20for%20the%2054th%20Fiscal%20Year%20Ended%20December%2031,%202025.pdf",
+    "https://corp.shiseido.com/en/ir/library/financial_statements/pdf/2025/annual_securities_report.pdf",
+    "https://www.advantest.com/document/en/investors/ir-library/report/IR_SecuritiesReport_83rd_en.pdf",
+    "https://www.bridgestone.com/ir/library/securities_report/pdf/e_104.pdf",
+    "https://global.canon/en/ir/yuuhou/canon2025q2-e.pdf",
+    "https://www.furukawaelectric.com/en/ir/library/sr/pdf/2025/20250820_annual-securities-report.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/guide/EFT013/261002K0001/1/ESE140181.pdf",
+    "https://waseda-jp.libguides.com/research-navi/find_securities/en",
+    "https://disclosure2.edinet-fsa.go.jp/"
+   ]
+  },
+  {
+   "query": "site:note.com 上場の受託加工会社のEDINET有報（従業員数・売上高・設備の新設計画）",
+   "results": [
+    "https://note.com/kuuna_freedom/n/n316c56abc39d",
+    "https://note.com/tatsuya_sabato/n/ncb491b1d0992",
+    "https://note.com/edinetdb",
+    "https://note.com/right_emu2967/n/ncb9e3697d8ed",
+    "https://note.com/right_emu2967/n/n06f48fdc96cd",
+    "https://note.com/edinet_report/n/n1e83dac31ff6",
+    "https://note.com/kanai_sho/n/ndd0aecb41e21",
+    "https://note.com/irshukatsu/n/n02df72b74c82",
+    "https://note.com/anozaki/n/n1f0446e2eb0c"
+   ]
+  },
+  {
+   "query": "site:x.com 上場の受託加工会社のEDINET有報（従業員数・売上高・設備の新設計画）",
+   "results": [
+    "https://x.com/edinetdb_en",
+    "https://x.com/edinetdb/status/2079379240680915412",
+    "https://x.com/edinetdb/status/2088099216237429041",
+    "https://x.com/edinetdb",
+    "https://x.com/edinetdb/status/2073618055859704256",
+    "https://x.com/edinetdb/status/2068107369104687355",
+    "https://x.com/edinetdb/status/2043136670233677889"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 上場の受託加工会社のEDINET有報（従業員数・売上高・設備の新設計画）",
+   "results": [
+    "https://www.linkedin.com/posts/岡野-一哉-kazuya-okano-26334658_富山の十全化学核酸医薬の開発製造受託参入設備導入-日本経済新聞-activity-7085024670797750272-5kWf",
+    "https://jp.linkedin.com/posts/剛-吉田-181a81129_速報2026年3月期-有報総会前提出の速報分析-activity-7481183090082611200-fS36",
+    "https://jp.linkedin.com/posts/剛-吉田-181a81129_2025年3月期有報開示事例分析第12回追補会社計算規則に規定されていない-activity-7428273511426699265-mLJz",
+    "https://www.linkedin.com/posts/seiji-oguchi-354748289_有価証券報告書等irライブラリ株式会社アドバンテスト-activity-7476842233300680704-eIz4",
+    "https://www.linkedin.com/pulse/shien-売上6兆円毎日2700新製品but-廃棄率業界15sdgs対策も上場申請資料を読み解く-kazuhiro-obara-ap95c/",
+    "https://www.linkedin.com/posts/剛-吉田-181a81129_有価証券報告書の開示に関する事項の公表-activity-7328763238202953728-JHVl",
+    "https://www.linkedin.com/posts/cavora_社員38人で売上80億円はなぜ可能なのかaiが加工工程を自動化する工作機械が職人不足-activity-7491070575004545025-lg7G"
+   ]
+  },
+  {
+   "query": "site:facebook.com 上場の受託加工会社のEDINET有報（従業員数・売上高・設備の新設計画）",
+   "results": [
+    "https://www.facebook.com/ncnetwork/",
+    "https://www.facebook.com/malive0303/photos/稲畑産業8098ウナギ加工品乾燥野菜製造などの大五通商を子会社化2023-02-22稲畑産業はウナギ加工品や乾燥野菜の製造などを手がける大五通商静岡市売上高85/192864663352770/",
+    "https://www.facebook.com/sbbitjp/posts/従業員38人で売上73億円の衝撃世界初製造aiで常識を覆す金沢の町工場の正体/1403534831755972/",
+    "https://www.facebook.com/moriroku.official/photos/2025年9月8日発行のに化学工業日報樹脂常温粉砕機を導入の見出しで森六グループ会社であるアイエムマテリアルの受託加工の事業拡大についてご紹介いただきました森六/122137195610838793/",
+    "https://www.facebook.com/watch/?v=3556860971269155",
+    "https://www.facebook.com/factlink.com.vn/photos/-今週の注目企業のご紹介-ideaテクノロジー-コーポレーション株式会社機械設計製図受託請負精密機械加工自動化装置fa生産設備製作受託ideaテクノロジー-コー/948317660683773/",
+    "https://www.facebook.com/tbsnewsdig/videos/見られています出勤時間は自由従業員第一主義で売り上げ20倍に急成長のプリント加工会社-78歳の新入社員もゲキ推しさん2023年6月13日配信/1157121326150094/"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社のEDINET有報（従業員数・売上高・設備の新設計画） note 社長",
+   "results": [
+    "https://disclosure2.edinet-fsa.go.jp/",
+    "https://www.fsa.go.jp/search/20130917.html",
+    "https://www.jpx.co.jp/listing/stocks/new/co3pgt0000001sxv-att/12note-1s.pdf",
+    "https://note.com/edinetdb/n/n90ecdac201e9",
+    "https://edinetdb.jp/company/E38043/text",
+    "https://note.com/anozaki/n/n1f0446e2eb0c",
+    "https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2025_03.pdf",
+    "https://note.com/edinetdb/n/na319b903c835",
+    "https://submit2.edinet-fsa.go.jp/WAEK0010.aspx",
+    "https://edinetdb.jp/companies"
+   ]
+  },
+  {
+   "query": "上場の受託加工会社のEDINET有報（従業員数・売上高・設備の新設計画） X 投稿",
+   "results": [
+    "https://disclosure2.edinet-fsa.go.jp/",
+    "https://www.fsa.go.jp/search/20130917.html",
+    "https://www.jera.co.jp/static/files/corporate/ir/pdf/securities_report2506.pdf",
+    "https://submit2.edinet-fsa.go.jp/WAEK0010.aspx",
+    "http://recruit-holdings.com/ja/ir/library/upload/report_202503q4_ar_jp",
+    "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/sr/pdf/26fr_j.pdf",
+    "https://www.7andi.com/ir/file/library/pdf/25_7andi_int04.pdf",
+    "https://www.zensho.co.jp/jp/ir/resource/pdf/44.4Q.pdf",
+    "http://disclosure2.edinet-fsa.go.jp/week0010.aspx",
+    "https://edinetdb.jp/"
+   ]
+  },
+  {
+   "query": "EDINET annual securities report contract manufacturing employees net sales site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/japan-securities-news_japanequities-tokyostockexchange-institutionalinvesting-activity-7516407522740842496---PF",
+    "https://www.linkedin.com/posts/moatey_asml-stock-why-33b-in-installed-base-sales-activity-7517882581925748736-D_FH",
+    "https://www.linkedin.com/posts/toyo-keizai-data-services_japan-investment-toyokeizai-activity-7440019196333244416-f8Cs",
+    "https://www.linkedin.com/posts/japan-securities-news_japanequities-tokyostockexchange-institutionalinvesting-activity-7513500868982337536-g3Bv",
+    "https://www.linkedin.com/in/zaroffnoah",
+    "https://www.linkedin.com/posts/japan-securities-news_japanequities-tokyostockexchange-institutionalinvesting-activity-7518294960589164544-YyjI",
+    "https://uk.linkedin.com/in/kaz-sakai-cfa-57985a59",
+    "https://uk.linkedin.com/in/mason-lucas-b9525a204",
+    "https://au.linkedin.com/in/charlietrenorden",
+    "https://www.linkedin.com/posts/paul-young-055632b_asx-data-centre-stocks-crack-as-firmus-and-activity-7516098082485211137-JAwh"
+   ]
+  }
+ ],
+ "missing": {}
+}
