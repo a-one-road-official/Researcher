@@ -115,6 +115,48 @@ def pdf_text(data: bytes, timeout: int = 60) -> str:
         pr.join(5)
 
 
+def _unit_of(col: str) -> str:
+    """列の見出しから単位を取る（数字だけのセルに単位を付け、走査で金額・人数として読めるようにする）。"""
+    m = re.search(r"[（(]\s*(兆円|億円|百万円|千万円|万円|千円|円|人|事業所|社|%|％)\s*[)）]", col)
+    if m: return m.group(1)
+    if "事業所数" in col: return "事業所"
+    if "従業者数" in col or "従業員数" in col: return "人"
+    return ""
+
+
+def table_text(data: bytes, low: str = "", ctype: str = "", max_rows: int = 3000) -> str:
+    import io
+    try:
+        import pandas as pd
+        if low.endswith(".csv") or "csv" in ctype:
+            for enc in ("utf-8-sig", "cp932"):
+                try:
+                    sheets = {"csv": pd.read_csv(io.BytesIO(data), header=None, dtype=str, encoding=enc)}; break
+                except Exception:
+                    sheets = {}
+        else:
+            sheets = pd.read_excel(io.BytesIO(data), sheet_name=None, header=None, dtype=str)
+    except Exception:
+        return ""
+    lines = []
+    for name, df in sheets.items():
+        df = df.fillna("")
+        rows = [[str(x).strip() for x in r] for r in df.values.tolist()[:max_rows]]
+        # 見出しの行：数字でない文字が半分以上ある最初の行
+        head = next((r for r in rows if sum(1 for x in r if x and not re.fullmatch(r"[\d,.\-△▲ ]+", x)) * 2 >= max(1, sum(1 for x in r if x))), [])
+        for r in rows:
+            cells = [x for x in r if x]
+            if not cells: continue
+            if r is head or not any(re.fullmatch(r"[\d,.△▲-]+", x) for x in cells):
+                lines.append(f"{name}：" + " ".join(cells)); continue
+            label = " ".join(x for x in r if x and not re.fullmatch(r"[\d,.△▲-]+", x))[:60]
+            for i, x in enumerate(r):
+                if x and re.fullmatch(r"[\d,.△▲-]+", x) and x != "-":
+                    col = head[i] if i < len(head) else ""
+                    lines.append(f"{name}：{label}：{col} {x}{_unit_of(col)}")
+    return "\n".join(lines)[:400000]
+
+
 def parse_html(html: str, base: str) -> dict:
     soup = BeautifulSoup(html, "lxml")
     for t in soup(["script", "style", "noscript"]):
@@ -138,8 +180,23 @@ def parse_html(html: str, base: str) -> dict:
             dd = dt.find_next_sibling("dd")
             if dd:
                 pairs.append((dt.get_text(" ", strip=True), dd.get_text(" ", strip=True)))
-    text = re.sub(r"[ \t　]+", " ", soup.get_text("\n", strip=True))
+    full = re.sub(r"[ \t　]+", " ", soup.get_text("\n", strip=True))
+    # 2026-11-05 METHOD.md 4-35：本文に、同じサイトの関連記事・連載・ランキング・メニュー・フッターの文が混ざり、
+    # 別の記事の文が元のURLの引用として数えられた（d-pops-group の1人あたり売上の記事に登山の連載・FDE の記事、
+    # 電子決算公告ドットコムの記事に「1行3,589円」など関連記事の紹介文）。リンク・表は全体から取ったうえで、本文はそれらの枠を外して取る。
+    # 外した結果が短すぎる（全体の3割未満か200字未満）ページは、枠の判定を誤ったとみなして全体を使う
+    for t in soup.find_all(["nav", "aside", "footer", "header", "form"]):
+        t.decompose()
+    for t in soup.find_all(True, attrs={"class": True}):
+        if getattr(t, "decomposed", False): continue
+        c = " ".join(t.get("class") or []) + " " + (t.get("id") or "")
+        if BOXES.search(c): t.decompose()
+    body = re.sub(r"[ \t　]+", " ", soup.get_text("\n", strip=True))
+    text = body if len(body) >= 200 and len(body) >= 0.3 * len(full) else full
     return {"title": title, "text": text, "links": links, "images": imgs, "pairs": pairs}
+
+
+BOXES = re.compile(r"(^|[\s_-])(related|relation|recommend|popular|ranking|sidebar|side-bar|widget|breadcrumb|pickup|pick-up|banner|ad-|ads|advert|sns-share|share|footer|global-nav|gnav|menu|pager|pagination|tag-?list|category-list|newpost|new-post|archive)([\s_-]|$)", re.I)
 
 
 class Browser:
@@ -196,6 +253,13 @@ def fetch(url: str) -> dict:
     low = url.lower().split("?")[0]
     if body.startswith(b"%PDF") or "pdf" in ctype or low.endswith(".pdf"):
         res.update(kind="pdf", method="pdf", text=pdf_text(body))
+        return res
+    # 2026-11-05 METHOD.md 4-35：所管の統計表は Excel・CSV で置かれる（経産省の工業統計の結果表・時系列）。これまで HTML として読み、文字化けで数字が0件だった。
+    # 表を「シート名：行の見出し：列の見出し 値単位」（｜は走査で題名扱いになるので使わない）の行に直して本文にする。表の上の単位の注記（百万円・人）も行として残す
+    # e-Stat の file-download のように URL に拡張子が無い Excel もあるので、中身の先頭（xlsx=PK、xls=OLE）でも見分ける
+    if low.endswith((".xlsx", ".xls", ".xlsm", ".csv")) or "spreadsheet" in ctype or "ms-excel" in ctype or "text/csv" in ctype \
+            or body[:2] == b"PK" and "html" not in ctype or body[:8] == bytes.fromhex("D0CF11E0A1B11AE1"):
+        res.update(kind="table", method="table", text=table_text(body, low, ctype))
         return res
     if ctype.startswith("image/") or low.endswith((".png", ".jpg", ".jpeg", ".gif", ".webp")):
         res.update(kind="image", method="ocr", text=ocr_bytes(body))

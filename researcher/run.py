@@ -123,7 +123,7 @@ def pick_links(page: dict, kws: list[str], domain: str, limit: int) -> tuple[lis
             continue
         hay = (text + " " + url).lower()
         if any(str(k).lower() in hay for k in kws):
-            if url.lower().split("?")[0].endswith(".pdf"):
+            if url.lower().split("?")[0].endswith((".pdf", ".xlsx", ".xls", ".csv")) or "file-download" in url.lower():  # 4-35：統計の Excel・CSV も表のファイルとして先に読む
                 files.append(url)
             elif url not in pages:
                 pages.append(url)
@@ -251,7 +251,7 @@ def research_market(c: dict, topic: dict) -> dict:
     # inputs の「直接URL」列（topic の columns.url）に所管の結果ページを書いておけば、検索の前にそのページと、そこから同じドメインの
     # PDF・表のページ（リンクの文字が品目の言葉・規模・時系列・産業別を含むもの）を読む。直接URLのページは品目名の一致を求めない（統計表に品目名は出ない）
     seeds = [x for x in re.split(r"[;；|\s]+", c.get("url", "") or "") if x.startswith("http")]
-    kws = ["規模", "時系列", "産業別", "加工賃", "従業者", "概要", "確報", "xls", "csv"] + [w for a in c["aliases"] for w in a.split() if len(w) >= 2][:12]
+    kws = ["規模", "時系列", "産業別", "加工賃", "従業者", "概要", "確報", "xls", "csv", "excel", "file-download", "産業細分類"] + [w for a in c["aliases"] for w in a.split() if len(w) >= 2][:12]
     queue = []
     for su in seeds:
         page = fetch.fetch(su)

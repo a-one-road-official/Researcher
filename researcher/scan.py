@@ -52,7 +52,8 @@ TO_MAN = {"兆円": 1e8, "億円": 1e4, "千万円": 1e3, "百万円": 100, "万
 TO_PERSON = {"万人": 1e4, "千人": 1e3, "人": 1, "名": 1}
 NOW_YEAR = __import__("datetime").date.today().year
 # 2026-11-05 METHOD.md 4-5：数字にしてはいけない引用（見出し・記事題名・関連記事リンク・パンくず・検索結果の抜粋）
-HEADLINE = re.compile(r"(徹底解説|とは[？?]|まとめ|一覧|比較\d*選|\d+選|【20\d\d年[^】]*】|[｜|] ?[^｜|]{0,40}$| > | › |https?://|価格帯別|おすすめ|ランキング)")
+# 2026-11-05 4-35：関連記事の紹介文（「〜を解説します」「完全ガイド」「〜まで網羅」）の数字も事実にしない（電子決算公告ドットコムの「1行3,589円」の混入から）
+HEADLINE = re.compile(r"(完全ガイド|を?(わかりやすく)?(解説|説明)します|を網羅|を徹底比較|徹底解説|とは[？?]|まとめ|一覧|比較\d*選|\d+選|【20\d\d年[^】]*】|[｜|] ?[^｜|]{0,40}$| > | › |https?://|価格帯別|おすすめ|ランキング)")
 # 調査会社の市場レポート（互いに写し合うので、何社あっても独立の裏付けに数えない）METHOD.md 4-5
 REPORT = re.compile(r"(mordorintelligence|gminsights|sdki|marketsandmarkets|fortunebusinessinsights|grandviewresearch|precedenceresearch|globalinformation|gii\.co\.jp|researchandmarkets|imarcgroup|alliedmarketresearch|technavio|reportocean|marketresearchfuture|atpress|prtimes|dreamnews|kenresearch|expertmarketresearch|verifiedmarket)")
 # 数字の文脈。同じ区分でも「装置の価格」「市場規模」「1件の単価」を混ぜない（am_ceiling で装置価格と受託単価が混ざった失敗から）
@@ -128,7 +129,10 @@ CENSUS_YEARS = {"2012", "2016", "2021"}
 # 2026-11-05 4-34：レジスター統計の「試算値」・推計値は実測でない（総務省・経産省「経済構造統計の体系的整備について」2022-08-30）。見通しと同じく事実の向きに入れない
 TRIAL = re.compile(r"(試算値|試算|推計値|推計した|レジスター統計)")
 # 2026-11-05 4-34：決算の表は負の値を△・▲・括弧で書く（Bradshaw「company accounts」：括弧の数字は損失で、見落としやすい）。負の金額を捨てたり正にしたりしない
-NEGMARK = re.compile(r"[△▲]\s*$|[-−]\s*$")
+# 2026-11-05 4-35：ハイフン・マイナス記号は負にしない。統計表の「-」（該当なし・秘匿）や範囲の「10-19」まで負と読み、mfg_capacity の受注額・1人あたりの欄に
+# 負の値が入って食い違いの判定が外れ、【食い違い】が【一次で確認】に上がった失敗から。負は日本の表の慣行の△・▲と括弧だけで読む
+NEGMARK = re.compile(r"[△▲]\s*$")
+FINTABLE = re.compile(r"(当期純|純損|損失|損益|貸借対照表|決算公告|営業利益|経常利益|純資産)")
 GOINGCONCERN = re.compile(r"(継続企業の前提|重要な不確実性|going concern|material uncertainty)", re.I)
 GC = {}
 
@@ -161,7 +165,7 @@ def rows_for(topic):
                     if PERDENOM.match(q, m.start()): continue
                     v, u = norm(*m.groups())
                     pre = q[max(0, m.start() - 2):m.start()]
-                    neg = bool(NEGMARK.search(pre)) or (u == "万円" and pre.endswith("(") and q[m.end():m.end() + 1] == ")")
+                    neg = bool(NEGMARK.search(pre)) or (u == "万円" and pre.endswith("(") and q[m.end():m.end() + 1] == ")" and bool(FINTABLE.search(q)))  # 4-35：括弧は決算の表の文脈だけ
                     if u == "万円" and v <= 0: continue
                     if neg and u == "万円": v = -v  # 4-34 △・▲・括弧は負の値（損失・減少）
                     if u == "人" and v > MAXPERSON: OUTLIERS[topic] = OUTLIERS.get(topic, 0) + 1; continue  # 4-31 桁の感覚の上限
@@ -254,7 +258,8 @@ def grade(g):
     """確度4段階。METHOD.md 4-1／4-5（調査会社は束ねて1件、予測値は事実の裏付けにしない）／4-23（同じ値の写しは1件）。"""
     g = [r for r in g if not r.get("予測")] or g
     doms = {src_key(r) for r in g}
-    vals = sorted(r["値"] for r in g)
+    # 4-35：負の値（損失・減少）は幅・食い違いの判定に入れない。正の値だけで判定する
+    vals = sorted(r["値"] for r in g if r["値"] > 0) or sorted(r["値"] for r in g)
     med = statistics.median(vals)
     ec = echoes(g)
     # 2026-11-05 走査の失敗から：横須賀市・会津若松市・大阪市・経産省（全国）の別々の対象の数字が、中央値の近さだけで【裏付けあり】になった
@@ -349,7 +354,10 @@ def scan(topic):
                 md.append(f"- ⚠ 欄と単位が合わない：{cat}［{ctx}］に（{u}）が{len(g)}件。別の欄の混入なので確度を付けず、結論に使わない")
                 continue
             vals = [r["値"] for r in g]; prim = [r for r in g if r["一次"] == "一次"]
-            lo, hi = min(vals), max(vals)
+            pos = [v for v in vals if v > 0] or vals  # 4-35：幅は正の値で取る。負の値は件数だけ別に出す
+            lo, hi = min(pos), max(pos)
+            nneg_g = len(vals) - len([v for v in vals if v > 0])
+            if nneg_g: md.append(f"- （下の欄に負または0の値{nneg_g}件。幅・確度から外した）")
             spread = f"{hi/lo:.1f}倍" if lo > 0 else "-"
             peryear = {}
             # 4-20：同じ年に確報・改定があれば速報を外す
@@ -458,6 +466,27 @@ def scan(topic):
             md.append("  - 【推定】規模の内側の向き（同じ地域×同じ規模区分の1あたり金額・4-31）：" + "、".join(f"{reg}｜{band}：{t}" for (reg, band), t in sorted(wt.items())))
             words = {t[:2] for t in wt.values() if t[:2] in ("上昇", "下降", "横ばい")}
             md.append("  - 規模の内側の判定：" + ("全区分で" + next(iter(words)) + "（構成変化だけでは説明できない）" if len(words) == 1 and all(t[:2] in ("上昇", "下降", "横ばい") for t in wt.values()) else "判定できない（3年以上そろった区分が足りないか、区分で向きが割れる）"))
+        # 2026-11-05 4-35：配分の効き（Olley-Pakes の分解。財務総研 PPR 2017 の分解手法の整理より）。
+        # 同じ年×同じ地域で、規模区分ごとの総額（万円・1あたりでない）と人数がそろえば、
+        # 全体の1人あたり（総額の和÷人数の和＝人数で重みづけ）と、区分ごとの1人あたりの単純平均を並べ、差を「配分の効き」とする。
+        # 差が正なら1人あたりの高い区分に人が多く集まっている（大きい先が平均を押し上げる）。差の向きが年で変われば構成の移り変わり
+        tot = {}
+        for r in rs:
+            if not r["年"] or r["予測"] or not r.get("規模") or r["単位"] not in ("万円", "人"): continue
+            if "あたり" in r["区分"] or re.search(r"(あたり|当たり|平均)", r["引用"]): continue
+            k = (int(r["年"]), region_of(r["URL"]) or "全国・不明", r["規模"])
+            tot.setdefault(k, {}).setdefault(r["単位"], []).append(r["値"])
+        opd = {}
+        for (y, reg, band), d0 in tot.items():
+            if "万円" in d0 and "人" in d0 and statistics.median(d0["人"]) > 0:
+                opd.setdefault((y, reg), {})[band] = (statistics.median(d0["万円"]), statistics.median(d0["人"]))
+        oline = []
+        for (y, reg), bands in sorted(opd.items()):
+            if len(bands) < 2: continue
+            w = sum(m for m, _ in bands.values()) / sum(p for _, p in bands.values())
+            uw = statistics.mean(m / p for m, p in bands.values())
+            oline.append(f"{y}年・{reg}（{len(bands)}区分）：加重 {w:,.1f}／単純平均 {uw:,.1f}／配分の効き {w - uw:+,.1f}万円")
+        if oline: md.append("  - 【推定】配分の効き（規模区分の総額÷人数。加重の1人あたり−区分の単純平均。4-35）：" + "、".join(oline))
         md.append("")
     # 2026-11-05 4-19：何が見つからなかったかを書く（範囲の明示）。数字が1つも取れなかった品目を並べる
     names = set()
