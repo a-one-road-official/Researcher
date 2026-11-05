@@ -1,23 +1,19 @@
 """一時的な点検用（ベストベンチャー100の取り方の確認）。"""
-import sys, re, time, requests
+import requests, re, collections
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/126.0 Safari/537.36"}
-for u in ["https://best100.v-tsushin.jp/robots.txt", "https://best100.v-tsushin.jp/sitemap.xml", "https://best100.v-tsushin.jp/wp-sitemap.xml",
-          "https://best100.v-tsushin.jp/sitemap_index.xml", "https://best100.v-tsushin.jp/wp-json/wp/v2/types"]:
-    try:
-        r = requests.get(u, headers=UA, timeout=30)
-        print("GET", u, r.status_code, len(r.text)); print(r.text[:1200])
-    except Exception as e:
-        print("ERR", u, e)
-r = requests.get("https://best100.v-tsushin.jp/company/yaaha/", headers=UA, timeout=30)
-for k in ["article:published_time", "article:modified_time", "datePublished", "dateModified", "掲載", "年度", "選出"]:
-    for m in re.finditer(re.escape(k), r.text):
-        print("META", k, r.text[max(0, m.start()-80): m.end()+120].replace("\n", " ")); break
-time.sleep(5)
-for params in [{"url": "best100.v-tsushin.jp/company/*", "output": "json", "limit": "30", "fl": "timestamp,original,statuscode"},
-               {"url": "best100.v-tsushin.jp/", "output": "json", "limit": "30", "fl": "timestamp,original,statuscode"}]:
-    time.sleep(8)
-    try:
-        r = requests.get("https://web.archive.org/cdx/search/cdx", params=params, headers=UA, timeout=120)
-        print("CDX", r.status_code, r.text[:1500])
-    except Exception as e:
-        print("CDX ERR", repr(e))
+r = requests.get("https://best100.v-tsushin.jp/wp-sitemap-posts-company-1.xml", headers=UA, timeout=30)
+locs = re.findall(r"<loc>([^<]+)</loc>", r.text); lm = re.findall(r"<lastmod>([^<]+)</lastmod>", r.text)
+print("SITEMAP", r.status_code, len(locs), collections.Counter(x[:4] for x in lm))
+for base in ["company", "companies"]:
+    r = requests.get(f"https://best100.v-tsushin.jp/wp-json/wp/v2/{base}", params={"per_page": 100, "orderby": "date", "order": "asc", "_fields": "id,date,slug,title,company_category,status"}, headers=UA, timeout=30)
+    print("REST", base, r.status_code, r.headers.get("X-WP-Total"), r.headers.get("X-WP-TotalPages"))
+    if r.status_code == 200:
+        js = r.json(); print([ (j["date"][:10], j["slug"]) for j in js[:15]])
+r = requests.get("https://best100.v-tsushin.jp/wp-json/wp/v2/company", params={"per_page": 100, "page": 1, "_fields": "date"}, headers=UA, timeout=30)
+tot = int(r.headers.get("X-WP-TotalPages") or 1); years = collections.Counter()
+for pg in range(1, tot + 1):
+    rr = requests.get("https://best100.v-tsushin.jp/wp-json/wp/v2/company", params={"per_page": 100, "page": pg, "_fields": "date"}, headers=UA, timeout=30)
+    if rr.status_code == 200:
+        years.update(j["date"][:4] for j in rr.json())
+print("YEARS", sorted(years.items()))
+r = requests.get("https://best100.v-tsushin.jp/wp-json/wp/v2/types/company", headers=UA, timeout=30); print("TYPE", r.status_code, r.text[:600])
