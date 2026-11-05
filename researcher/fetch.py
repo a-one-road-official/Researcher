@@ -10,7 +10,14 @@ import subprocess
 import tempfile
 import time
 import urllib.robotparser
-from urllib.parse import urljoin
+from urllib.parse import urljoin as _raw_urljoin
+def urljoin(base, href):
+    """2026-11-05 HEALTH（setouchi_mfg・三王ハウジング）：ページ内の壊れたリンク（「http://[…」など）で urljoin が
+    ValueError: Invalid IPv6 URL を出し、会社1社の取得が丸ごとエラーになった。壊れたリンクは空にして飛ばす。"""
+    try:
+        return _raw_urljoin(base, href)
+    except ValueError:
+        return ""
 from urllib.parse import urlparse as _safe_urlparse
 
 
@@ -45,7 +52,10 @@ def _allowed(url: str) -> bool:
         except Exception:
             rp.parse([])
         _robots[key] = rp
-    return _robots[key].can_fetch(UA, url)
+    try:
+        return _robots[key].can_fetch(UA, url)
+    except ValueError:  # 壊れたURL（Invalid IPv6 URL など）は取りに行かない
+        return False
 
 
 def _pace(host: str) -> None:
@@ -112,10 +122,12 @@ def parse_html(html: str, base: str) -> dict:
     title = soup.title.get_text(strip=True) if soup.title else ""
     links = []
     for a in soup.find_all("a", href=True):
-        links.append((a.get_text(" ", strip=True)[:80], urljoin(base, a["href"]).split("#")[0]))
+        u = urljoin(base, a["href"]).split("#")[0]
+        if u: links.append((a.get_text(" ", strip=True)[:80], u))
     imgs = []
     for im in soup.find_all("img", src=True):
-        imgs.append((im.get("alt", "") or "", urljoin(base, im["src"])))
+        u = urljoin(base, im["src"])
+        if u: imgs.append((im.get("alt", "") or "", u))
     pairs = []
     for tr in soup.find_all("tr"):
         cells = tr.find_all(["th", "td"])

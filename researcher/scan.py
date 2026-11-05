@@ -87,6 +87,24 @@ def join_okuman(q):
     return OKUMAN.sub(lambda m: f"{int(m.group(1).replace(',', '')) * 10000 + int(m.group(2).replace(',', ''))}万円", q)
 
 # 2026-11-05：「4〜9人」「30人以上」「100人未満」は規模の区分の境目で、人数の事実ではない（mfg_capacity で社員数4〜615人の幅になった失敗から）
+# 2026-11-05 4-31：求人検索の結果ページ（jp.stanby.com の検索）の本文「年間2,850万人が行き交う国際空港」が、
+# 日本熱処理工業会の品目の社員数 2,850万人として数えられた失敗から。求人サイトの検索結果ページの数字は、統計・会社の事実にしない（4-9）
+JOBSEARCH = re.compile(r"(stanby|indeed|doda|mynavi|rikunabi|en-japan|townwork|baitoru|careerjet|kyujinbox|hatarako|jobtalk|openwork|en-hyouban|tenshoku)", re.I)
+def is_job_search(url):
+    p = urlparse(url)
+    return bool(JOBSEARCH.search(p.netloc)) and bool(re.search(r"(search|/q-|[?&](q|keyword|kw)=)", (p.path or "") + "?" + (p.query or ""), re.I))
+# 2026-11-05 4-31：桁の感覚の上限（4-4 の最後の確かめを機械に落とす）。1業種・1品目の社員数・従業者数が1,000万人を超えることはない
+# （日本の製造業の就業者全体より大きい）。超えた人数は別の文脈（乗降客・人口・閲覧数）の混入として数えず、件数だけ出す
+MAXPERSON = 1e7
+# 2026-11-05 4-31：規模の内側の向き（日本銀行 WP22-J-3：労働生産性の変化を Melitz-Polanec の分解で「企業内の改善」と「構成・再配分」「参入・退出」に分ける）。
+# 引用の中の従業者規模の区分（4〜9人・10〜29人・300人以上など）を値に付け、同じ地域×同じ規模の中で年ごとの向きを出す
+SIZEBAND = re.compile(r"(\d+)\s*人?\s*[〜～~\-−―]\s*(\d+)\s*人|(\d+)\s*人\s*以\s*上")
+def size_class_of(q, pos):
+    best = ""
+    for m in SIZEBAND.finditer(q[:pos + 1]):
+        best = f"{m.group(1)}〜{m.group(2)}人" if m.group(1) else f"{m.group(3)}人以上"
+    return best
+
 def is_size_band(q, m):
     if m.group(2) not in ("人", "名", "万人", "千人"): return False
     # 2026-11-05：NFKC で「～」が半角の「~」になり「4人~29人」の4が残った失敗と、PDFの「4人 以 上」の字間の空白から、半角~と空白入りも境目にする
@@ -112,6 +130,7 @@ def norm(v, u):
     if u == "％": u = "%"
     return x, u
 
+OUTLIERS = {}
 def rows_for(topic):
     for f in glob.glob(os.path.join(OUT, topic, "companies", "*.json")):
         try: d = json.load(open(f, encoding="utf-8"))
@@ -121,6 +140,7 @@ def rows_for(topic):
             for it in items or []:
                 q, url = unicodedata.normalize("NFKC", it.get("quote", "") or ""), it.get("url", "")  # 全角数字・全角％を半角に（4-12）
                 q = join_okuman(q)
+                if is_job_search(url): continue  # 4-31 求人サイトの検索結果ページの数字は事実にしない
                 if HEADLINE.search(q) or "抜粋" in cat: continue  # 見出し・題名・検索結果の抜粋は数字にしない（METHOD.md 4-5）
                 ys = YEAR.findall(q)
                 ctx = context_of(q)
@@ -130,6 +150,7 @@ def rows_for(topic):
                     if PERDENOM.match(q, m.start()): continue
                     v, u = norm(*m.groups())
                     if u == "万円" and v <= 0: continue
+                    if u == "人" and v > MAXPERSON: OUTLIERS[topic] = OUTLIERS.get(topic, 0) + 1; continue  # 4-31 桁の感覚の上限
                     # 数字の近く（前40字）の年を優先
                     near = YEAR.findall(q[max(0, m.start() - 40):m.start() + 5])
                     y = (near or ys or [""])[-1]
@@ -137,7 +158,7 @@ def rows_for(topic):
                     yield {"品目": name, "区分": cat, "文脈": ctx, "年": y, "値": round(v, 4), "単位": u,
                            "一次": kind, "立場": standing(url, kind),
                            "元へ戻る": "要" if kind != "一次" and CITES_PRIMARY.search(q) else "",
-                           "定義": defn_of(q), "版": version_of(q),
+                           "定義": defn_of(q), "版": version_of(q), "規模": size_class_of(q, m.start()),
                            # 2026-11-05 4-19：出どころの記録（URL・取得日・取り方）。欠けた引用は後から確かめられない
                            # 2026-11-05：mfg_capacity の引用は first_seen が無く「記録が欠けた数字 1488/1488」になった。ファイルの researched_at を取得日に使う
                            "取得日": it.get("first_seen", "") or (d.get("researched_at", "") or "")[:10],
@@ -222,6 +243,12 @@ def grade(g):
     near = {}
     for r in g:
         if med and abs(r["値"] - med) <= 0.2 * abs(med): near.setdefault(region_of(r["URL"]) or "全国", set()).add(indep_key(r, ec))
+    # 2026-11-05 4-31：矛盾に注目する（やさしいサイバーセキュリティ「OSINT 情報評価」の ACH の手順4：合う証拠の数より、合わない証拠を先に見る）。
+    # mfg_hiring_seg の「採用単価［給与・人件費］」が幅 3〜100万倍なのに、中央値の近くの2か所だけで【裏付けあり】になった失敗から。
+    # 幅が10倍を超え、中央値から離れた値しか持たない独立の出どころが1つでもあれば、裏付けではなく【食い違い】にする
+    agree = {indep_key(r, ec) for r in g if med and abs(r["値"] - med) <= 0.2 * abs(med)}
+    contra = {indep_key(r, ec) for r in g} - agree
+    if vals and vals[0] > 0 and vals[-1] / vals[0] > 10 and contra and len(doms) >= 2: return "【食い違い】"
     if any(len(v) >= 2 for v in near.values()): return "【裏付けあり】"
     if vals and vals[0] > 0 and vals[-1] / vals[0] > 3 and len(doms) >= 2: return "【食い違い】"
     if any(r["一次"] == "一次" for r in g): return "【一次で確認】"
@@ -286,6 +313,7 @@ def scan(topic):
     md += [f"- 出どころの記録が欠けた数字：{nprov}件／{len(rows)}件（URLか取得日が無い）"]
     # 2026-11-05 4-21：機械で決めきれず人（Claude の走査）の確認が要る件数（Data Ladder：保留の件数を品質の指標にする）。文脈不明か年が無い数字
     nhold = sum(1 for r in rows if r["文脈"] == "不明" or not r["年"])
+    md += [f"- 桁の感覚の外れで外した人数（1,000万人超・4-31）：{OUTLIERS.get(topic, 0)}件"]
     md += [f"- 要確認（文脈不明か年が無い）：{nhold}件／{len(rows)}件。この数字は結論に使う前に引用の本文で確かめる", ""]
     by_item = {}
     for r in rows: by_item.setdefault(r["品目"], []).append(r)
@@ -399,6 +427,18 @@ def scan(topic):
         if split_trend(cm): md.append(f"  - 事業所・社の数：{split_trend(cm)}")
         if tc.startswith("下降") and tu.startswith("上昇"):
             md.append(f"  - ⚠ 生き残り・構成変化の疑い：1あたり金額は{tu}、同じ品目の事業所・社の数は{tc}。規模別に分けた同じ表で、規模の内側でも上がっているかを確かめるまで「能力が上がった」と書かない（数の減少には転業・転出・規模下がりも含む。4-26）")
+        # 2026-11-05 4-31：規模の内側の向き（日銀 WP22-J-3 の Melitz-Polanec 分解の「内側の変化」にあたる部分だけを機械で出す）。
+        # 同じ地域×同じ規模区分×1あたり（万円）の年ごとの中央値で向きを出す。全区分で同じ向きなら構成変化だけでは説明できない。区分が混ざれば「判定できない」
+        within = {}
+        for r in rs:
+            if not r["年"] or r["予測"] or not r.get("規模") or r["単位"] != "万円": continue
+            if not ("あたり" in r["区分"] or re.search(r"(あたり|当たり|平均)", r["引用"])): continue
+            within.setdefault((region_of(r["URL"]) or "全国・不明", r["規模"]), {}).setdefault(int(r["年"]), []).append(r["値"])
+        wt = {k: trend({y: statistics.median(v) for y, v in ser.items()}) for k, ser in within.items()}
+        if wt:
+            md.append("  - 【推定】規模の内側の向き（同じ地域×同じ規模区分の1あたり金額・4-31）：" + "、".join(f"{reg}｜{band}：{t}" for (reg, band), t in sorted(wt.items())))
+            words = {t[:2] for t in wt.values() if t[:2] in ("上昇", "下降", "横ばい")}
+            md.append("  - 規模の内側の判定：" + ("全区分で" + next(iter(words)) + "（構成変化だけでは説明できない）" if len(words) == 1 and all(t[:2] in ("上昇", "下降", "横ばい") for t in wt.values()) else "判定できない（3年以上そろった区分が足りないか、区分で向きが割れる）"))
         md.append("")
     # 2026-11-05 4-19：何が見つからなかったかを書く（範囲の明示）。数字が1つも取れなかった品目を並べる
     names = set()
