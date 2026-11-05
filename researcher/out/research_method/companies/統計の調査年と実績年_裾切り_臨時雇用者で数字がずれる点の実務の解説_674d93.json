@@ -1,0 +1,348 @@
+{
+ "name": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説",
+ "en": "survey year vs reference year statistics pitfalls Japan census",
+ "aliases": [
+  "経済センサス 活動調査 実績年 前年 注意",
+  "工業統計 調査年 実績年 ずれ",
+  "統計 時系列 接続 裾切り 注意点 ブログ"
+ ],
+ "context": "一次情報の探し方",
+ "kind": "market",
+ "researched_at": "2026-11-05T11:30:04.763256+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/bearcapital/n/n4f3d135558b3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kazunomo/n/ne59b0909d029",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tt1933mania/n/n8d22c2011ac6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yoshi993/n/n24c3dbc880aa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/good_poppy696/n/nab4cdc77186d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/data_pn/n/n3a33a9120a47",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikiho.toyokeizai.net/news/0/34650",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA014930R01C26A0000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jyaga0716/n/n0aa7362ae7b7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.m2j.co.jp/market/report/50763",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/roudou/pdf/hndbk.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/43-1d.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nstac.go.jp/create/practice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je06/06-00301.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/number_misalignment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jstat.or.jp/toukei_y24/editinal_note/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-strategy.com/knowledge/column/archives/yamamoto/column/column_171002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_employment-situation_211213.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/info/guide/2025pamphlet.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/thejapantimes/posts/japans-population-has-fallen-to-12305-million-early-data-from-the-2025-census-sh/1401889985309919/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://journals.sagepub.com/doi/10.1177/2158244020963080",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://unstats.un.org/unsd/demographic/sconcerns/tuse/Country/Japan/sourcejpn96.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www2.census.gov/programs-surveys/abs/information/abs-question-guidance-508.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10043154/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 site:note.com",
+   "results": [
+    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/kazunomo/n/ne59b0909d029",
+    "https://note.com/tt1933mania/n/n8d22c2011ac6",
+    "https://note.com/yoshi993/n/n24c3dbc880aa",
+    "https://note.com/good_poppy696/n/nab4cdc77186d",
+    "https://note.com/data_pn/n/n3a33a9120a47",
+    "https://note.com/good_poppy696/n/n4f00eca6d7e1",
+    "https://note.com/furu_kaggle/n/ne5ef243c586a",
+    "https://note.com/yoshi993/n/n95e654ef41d0",
+    "https://note.com/seikahaibun/n/nb9c70e53a94a"
+   ]
+  },
+  {
+   "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 note",
+   "results": [
+    "https://www.youtube.com/watch?v=GEHY8yaF40c&vl=ja",
+    "https://note.com/good_poppy696/n/nab4cdc77186d",
+    "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
+    "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "https://shikiho.toyokeizai.net/news/0/34650",
+    "https://www.youtube.com/watch?v=AX7nENl0h7s",
+    "https://www.nikkei.com/article/DGXZQOUA014930R01C26A0000000/",
+    "https://note.com/jyaga0716/n/n0aa7362ae7b7",
+    "https://www.m2j.co.jp/market/report/50763",
+    "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf"
+   ]
+  },
+  {
+   "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 やり方",
+   "results": [
+    "https://www.stat.go.jp/data/roudou/pdf/hndbk.pdf",
+    "https://www.mhlw.go.jp/toukei/list/43-1d.html",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.nstac.go.jp/create/practice/",
+    "https://www5.cao.go.jp/j-j/wp/wp-je06/06-00301.html",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/number_misalignment/",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
+    "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_employment-situation_211213.html",
+    "https://www.nikkei.com/article/DGXZQOUA014930R01C26A0000000/",
+    "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf"
+   ]
+  },
+  {
+   "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 事例",
+   "results": [
+    "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
+    "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
+    "https://www.jstat.or.jp/toukei_y24/editinal_note/",
+    "https://www.mhlw.go.jp/toukei/list/43-1d.html",
+    "https://www5.cao.go.jp/j-j/wp/wp-je06/06-00301.html",
+    "https://www.nttdata-strategy.com/knowledge/column/archives/yamamoto/column/column_171002.html",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/025-039.pdf",
+    "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_employment-situation_211213.html",
+    "https://www.nikkei.com/article/DGXZQOUA014930R01C26A0000000/",
+    "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf"
+   ]
+  },
+  {
+   "query": "survey year vs reference year statistics pitfalls Japan census",
+   "results": [
+    "https://www.stat.go.jp/english/info/guide/2025pamphlet.html",
+    "https://www.facebook.com/thejapantimes/posts/japans-population-has-fallen-to-12305-million-early-data-from-the-2025-census-sh/1401889985309919/",
+    "https://journals.sagepub.com/doi/10.1177/2158244020963080",
+    "https://unstats.un.org/unsd/demographic/sconcerns/tuse/Country/Japan/sourcejpn96.pdf",
+    "https://www2.census.gov/programs-surveys/abs/information/abs-question-guidance-508.pdf",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10043154/",
+    "https://blog.gaijinpot.com/2025-japan-census/",
+    "https://www.reddit.com/r/japanlife/comments/1noeoeh/reminder_refusing_or_lying_on_the_census_in_japan/",
+    "https://demographics-by-cubit.helpscoutdocs.com/article/80-should-i-compare-data-year-over-year",
+    "https://www.stat.go.jp/english/data/kokusei/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説",
+   "results": [
+    "https://note.com/yoshi993/n/n24c3dbc880aa",
+    "https://note.com/good_poppy696/n/n4f00eca6d7e1",
+    "https://note.com/data_pn/n/n3a33a9120a47",
+    "https://note.com/good_poppy696/n/nab4cdc77186d",
+    "https://note.com/furu_kaggle/n/ne5ef243c586a",
+    "https://note.com/yoshi993/n/n95e654ef41d0",
+    "https://note.com/aitoshi/n/n95fbc7e00baf"
+   ]
+  },
+  {
+   "query": "site:x.com 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説",
+   "results": [
+    "https://x.com/nineKan821/status/2091011604200759444",
+    "https://x.com/rkakui/status/2114876378038538487",
+    "https://x.com/DAKURAblog/status/2029919305320780283",
+    "https://x.com/hujimari/status/2028425278494818581",
+    "https://x.com/kyookine/status/2095837126394871999",
+    "https://x.com/CIPHER1978/status/2108487235666661736",
+    "https://x.com/tsukamoto_ishin/status/2041784934847934824"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説",
+   "results": [
+    "https://jp.linkedin.com/posts/nobuakitanaka_表面的な雇用統計の数字だけを見ていると現代の労働市場の本当の変化を見誤るかもしれません-activity-7501775286707888128-m9Bv",
+    "https://jp.linkedin.com/posts/leverages-us_米国雇用統計レポート2025年12月実績と今後の展望-米労働省bls-activity-7424542213151285248-NWJG",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7467172911100055552/",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7377298388138029056/",
+    "https://jp.linkedin.com/posts/katsushi-tamagawa_国はなぜ数えるのか-戸籍度量衡統計で読む数字の出所-activity-7505103851054886912-NW7k",
+    "https://jp.linkedin.com/posts/leverages-us_米国経済-雇用統計-bls-activity-7432944798162124800-5iQJ",
+    "https://jp.linkedin.com/pulse/how-fake-numbers-were-spotted-using-basic-statistical-jeric-lam?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説",
+   "results": [
+    "https://www.facebook.com/mhlw.japan/posts/令和7年下半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします入職者票離/1315096163987107/",
+    "https://www.facebook.com/mhlw.japan/posts/令和7年上半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします入職者票離/1159409019555823/",
+    "https://www.facebook.com/mhlw.japan/posts/令和6年下半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします回答はオン/1019527123544014/",
+    "https://www.facebook.com/mhlw.japan/posts/雇用動向調査上半期を実施しています主要産業における入職離職や未充足求人の状況などを調査していますお手元に調査票が届いている事業所でまだ回答がお済みでない場合はご/1435509178612471/",
+    "https://www.facebook.com/worksinstitute/posts/民間企業の正規社員の中途採用の見通しと実績を調査しました2026年度の中途採用数が前年より増える197が減る59を上回り中途採用diは5年連続のプラスとなりまし/1479524270626425/",
+    "https://www.facebook.com/mhlw.japan/posts/令和6年下半期雇用動向調査にご協力ください主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします事業/984165253746868/",
+    "https://www.facebook.com/mhlw.japan/posts/令和7年下半期雇用動向調査にご協力ください主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします事業/1270702971759760/"
+   ]
+  },
+  {
+   "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=GEHY8yaF40c&vl=ja",
+    "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "https://www.mof.go.jp/pri/publication/financial_review/fr_list8/fr159.html",
+    "https://shikiho.toyokeizai.net/news/0/34650",
+    "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
+    "https://www.nikkei.com/article/DGXMZO40444030U9A120C1MM8000/",
+    "https://www.jstat.or.jp/toukei_y24/editinal_note/",
+    "https://www.pictet.co.jp/investment-information/market/today/20251007.html",
+    "https://note.com/kamokita/n/nbaaffd43b076",
+    "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf"
+   ]
+  },
+  {
+   "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=-OVFNjM-8AU",
+    "https://www.youtube.com/watch?v=64x-ixkbKBU",
+    "https://www.reuters.com/jp/business/RLPRQNYSTFNZ3HPBBJT6B457WQ-2026-05-11/",
+    "https://www.bbc.com/japanese/articles/c4gl2994d71o",
+    "https://www.m2j.co.jp/market/report/90495",
+    "https://www.dlri.co.jp/report/macro/495194.html",
+    "https://www.stat.go.jp/data/seigo/roudou/index.html",
+    "https://www.youtube.com/watch?v=AX7nENl0h7s",
+    "https://www.nikkei.com/article/DGXZQOGN030100T00C26A2000000/",
+    "https://www.soumu.go.jp/main_content/000623516.pdf"
+   ]
+  },
+  {
+   "query": "survey year vs reference year statistics pitfalls Japan census site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/emma-reburn-8563a679",
+    "https://www.linkedin.com/in/michaellemay",
+    "https://www.linkedin.com/in/stephanie-coffey-12390ab9",
+    "https://www.linkedin.com/in/paul-c-beatty-9981b49",
+    "https://www.linkedin.com/in/staskolenikov",
+    "https://www.linkedin.com/in/emin-dinlersoz-874a8822",
+    "https://www.linkedin.com/in/mark-muenchrath-348228b",
+    "https://www.linkedin.com/in/carolina-franco-20826145",
+    "https://www.linkedin.com/pulse/abs-sources-disability-statistics-20182023-analysis-brian-cooper-chv3c",
+    "https://www.linkedin.com/in/ron-jarmin-8083a85"
+   ]
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-05T11:30:04.763256+00:00"
+}

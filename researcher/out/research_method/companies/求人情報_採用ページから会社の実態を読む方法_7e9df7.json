@@ -8,7 +8,7 @@
  ],
  "context": "企業",
  "kind": "market",
- "researched_at": "2026-11-05T10:17:19.867026+00:00",
+ "researched_at": "2026-11-05T11:33:13.750018+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -49,14 +49,14 @@
     "method": "http"
    },
    {
-    "url": "https://biz.note.com/n/ne042982856d1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.help-note.com/hc/ja/articles/33937437714969-note%E3%81%AB%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B-%E9%80%A3%E6%90%BA%E3%81%A7%E3%81%8D%E3%82%8B%E6%8E%A1%E7%94%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%B8%80%E8%A6%A7-ATS%E9%80%A3%E6%90%BA",
     "status": "ok",
     "method": "browser"
+   },
+   {
+    "url": "https://biz.note.com/n/ne042982856d1",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://marugotoinc.jp/blog/note/",
@@ -64,12 +64,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.jp/n/na66380adc503?gs=775a70a2fbe9f1418854d591729fd871",
+    "url": "https://mizusaki-inc.com/knowledge/article93",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://mizusaki-inc.com/knowledge/article93",
+    "url": "https://note.jp/n/na66380adc503?gs=f5f30554ba5ee28ace61f30cbcd87fa8",
     "status": "ok",
     "method": "http"
    },
@@ -129,7 +129,7 @@
     "method": "http"
    },
    {
-    "url": "https://giginc.co.jp/blog/giglab/recruit-contents",
+    "url": "https://goworkship.com/magazine/hr-recruitment-site-examples-guide/",
     "status": "ok",
     "method": "http"
    },
@@ -139,14 +139,14 @@
     "method": "http"
    },
    {
-    "url": "https://apply.workable.com/infer/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://www.indeed.com/",
     "status": "http_403",
     "method": "http"
+   },
+   {
+    "url": "https://apply.workable.com/infer/",
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://www.reddit.com/r/technicalwriting/comments/16lzcpw/why_are_some_jobs_listed_on_a_jobs_board_but_not/",
@@ -185,14 +185,14 @@
    "query": "求人情報・採用ページから会社の実態を読む方法 note",
    "results": [
     "https://note.com/sota_career/n/n93ea578f39e8",
-    "https://biz.note.com/n/ne042982856d1",
     "https://www.help-note.com/hc/ja/articles/33937437714969-note%E3%81%AB%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B-%E9%80%A3%E6%90%BA%E3%81%A7%E3%81%8D%E3%82%8B%E6%8E%A1%E7%94%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%B8%80%E8%A6%A7-ATS%E9%80%A3%E6%90%BA",
+    "https://biz.note.com/n/ne042982856d1",
     "https://marugotoinc.jp/blog/note/",
-    "https://note.com/try_note_1026/n/n87f70ef36581",
-    "https://note.jp/n/na66380adc503",
     "https://mizusaki-inc.com/knowledge/article93",
+    "https://note.jp/n/na66380adc503",
+    "https://note.com/try_note_1026/n/n87f70ef36581",
     "https://saiyo.migi-nanameue.co.jp/posts-1/note_recruit/",
-    "https://biz.note.com/n/n1169ea18b8be",
+    "https://www.careermart.co.jp/blog/14811",
     "https://note.com/imprecruitment/n/n82254ebe4955"
    ]
   },
@@ -220,9 +220,9 @@
     "https://coosy.co.jp/blog/recruiting-site-data/",
     "https://local-saiyo.jp/blog/recruitment-site/design/p5279/",
     "https://www.cinc-j.co.jp/service/analytics/column/ai-research-2608/",
-    "https://giginc.co.jp/blog/giglab/recruit-contents",
-    "https://www.funnypro.net/officialblog/article/knowhow/867/",
     "https://goworkship.com/magazine/hr-recruitment-site-examples-guide/",
+    "https://www.funnypro.net/officialblog/article/knowhow/867/",
+    "https://giginc.co.jp/blog/giglab/recruit-contents",
     "https://jinzai-tenshokuroot.jp/column/362/"
    ]
   },
@@ -230,8 +230,8 @@
    "query": "infer company from job postings",
    "results": [
     "https://www.infersol.com/career-at-infer-solutions/",
-    "https://apply.workable.com/infer/",
     "https://www.indeed.com/",
+    "https://apply.workable.com/infer/",
     "https://www.reddit.com/r/technicalwriting/comments/16lzcpw/why_are_some_jobs_listed_on_a_jobs_board_but_not/",
     "https://www.ycombinator.com/companies/infer/jobs",
     "https://www.linkedin.com/company/infer-so",
@@ -260,15 +260,15 @@
    "query": "site:x.com 求人情報・採用ページから会社の実態を読む方法",
    "results": [
     "https://x.com/luigi_jpn/article/2090779211283976223",
+    "https://x.com/MOJ_IMMI/all?lang=bg",
     "https://x.com/HRFreaksYamane",
     "https://x.com/nocompany_jp",
     "https://x.com/CSA_recruit",
-    "https://x.com/MOJ_IMMI/all?lang=bg",
     "https://x.com/ca_tec_des",
-    "https://x.com/morimoto_region",
     "https://x.com/OpenWork_JP",
-    "https://x.com/dossun_jack",
-    "https://x.com/luigi_jpn/status/2112692683017949491"
+    "https://x.com/MOJ_IMMI/all",
+    "https://x.com/morimoto_region",
+    "https://x.com/and_shin"
    ]
   },
   {
@@ -293,11 +293,11 @@
     "https://www.facebook.com/%E3%82%BC%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA-1429538733742516/",
     "https://www.facebook.com/saponet.mynavi/",
     "https://www.facebook.com/castdice/?locale=ja_JP",
-    "https://www.facebook.com/nextbeat1/?locale=ja_JP",
     "https://www.facebook.com/kyodonews.saiyou/posts/%E5%85%B1%E5%90%8C%E9%80%9A%E4%BF%A1%E3%81%AE%E4%BB%95%E4%BA%8B%E7%B4%B9%E4%BB%8B%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E7%A7%8B%E3%81%AE%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E5%A1%BEin%E5%A4%A7%E9%98%AA%E3%82%9222%E6%97%A5%E5%85%B1%E5%90%8C%E9%80%9A%E4%BF%A1%E5%A4%A7%E9%98%AA%E6%94%AF%E7%A4%BE%E3%81%A7%E9%96%8B%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E8%BF%91%E7%95%BF%E5%9C%8F%E3%81%AE%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AE%E7%9A%86%E3%81%95%E3%82%93%E3%81%AB%E5%A4%9A%E6%95%B0%E3%81%8A%E8%B6%8A%E3%81%97%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%B9%B4%E5%85%A5/1710621032396495/",
+    "https://www.facebook.com/nextbeat1/?locale=ja_JP",
+    "https://www.facebook.com/kyodonews.saiyou/posts/%E6%9C%AC%E6%97%A528%E6%97%A5%E3%81%AF%E6%9D%B1%E4%BA%AC%E6%9D%B1%E6%96%B0%E6%A9%8B%E3%81%AE%E6%9C%AC%E7%A4%BE%E3%81%A7%EF%BC%97%E6%9C%88%E3%81%AE%E5%A4%8F%E5%AD%A3%E6%8E%A1%E7%94%A8%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E4%BC%9A%E3%82%92%E9%96%8B%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E4%B8%80%E8%88%AC%E8%A8%98%E8%80%853%E4%BA%BA%E8%8B%B1%E6%96%87%E8%A8%98%E8%80%85%E3%81%A8%E6%8A%80%E8%A1%93%E8%81%B7%E5%93%A1%E5%90%841%E4%BA%BA%E3%81%8C%E7%99%BB%E5%A3%87%E3%81%97%E5%85%B1%E5%90%8C%E9%80%9A%E4%BF%A1%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%9F%E3%81%84%E3%81%8D%E3%81%95%E3%81%A4%E3%82%84%E4%BB%8A%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%AE%E3%82%84%E3%82%8A/1470709159721018/",
     "https://www.facebook.com/vietnamtechnicalinterntrainee/posts/202643-%E6%84%9A%E7%97%B4ph%C3%A0n-n%C3%A0n-%E7%99%BB%E9%8C%B2%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%95%99%E5%93%A1%E3%81%AB%E9%96%A2%E3%81%97%E3%81%A6%E3%81%AE%E6%84%9A%E7%97%B4%E3%81%A7%E3%81%99%C4%91%C3%A2y-l%C3%A0-l%E1%BB%9Di-ph%C3%A0n-n%C3%A0n-v%E1%BB%81-gi%C3%A1o-vi%C3%AAn-ti%E1%BA%BFng-nh%E1%BA%ADt-ch/1550039853795967/",
     "https://www.facebook.com/kyodonews.saiyou/posts/4%E6%97%A5%E7%9B%AE%E3%82%92%E8%BF%8E%E3%81%88%E3%81%9F%E5%85%B1%E5%90%8C%E9%80%9A%E4%BF%A1%E7%B4%B9%E4%BB%8B%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E6%B1%90%E7%95%99%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E5%A1%BE12%E6%97%A5%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E6%94%AF%E5%B1%80%E8%A8%98%E8%80%85%E7%A4%BE%E4%BC%9A%E9%83%A8%E8%A8%98%E8%80%85%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%A7%E3%81%99%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E6%94%AF%E5%B1%80%E3%81%AE%E6%BE%A4%E7%94%B0%E5%92%8C%E6%A8%B9%E3%81%A8%E7%A4%BE%E4%BC%9A%E9%83%A8%E3%81%AE%E6%88%B8%E5%8F%A3%E6%8B%93%E6%B5%B7%E3%81%8C%E7%B4%84100%E4%BA%BA%E3%81%AE%E5%AD%A6%E7%94%9F%E3%81%95%E3%82%93%E3%82%92%E8%BF%8E%E3%81%88/1224801744311762/",
-    "https://www.facebook.com/kyodonews.saiyou/posts/%E6%9C%AC%E6%97%A528%E6%97%A5%E3%81%AF%E6%9D%B1%E4%BA%AC%E6%9D%B1%E6%96%B0%E6%A9%8B%E3%81%AE%E6%9C%AC%E7%A4%BE%E3%81%A7%EF%BC%97%E6%9C%88%E3%81%AE%E5%A4%8F%E5%AD%A3%E6%8E%A1%E7%94%A8%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E4%BC%9A%E3%82%92%E9%96%8B%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E4%B8%80%E8%88%AC%E8%A8%98%E8%80%853%E4%BA%BA%E8%8B%B1%E6%96%87%E8%A8%98%E8%80%85%E3%81%A8%E6%8A%80%E8%A1%93%E8%81%B7%E5%93%A1%E5%90%841%E4%BA%BA%E3%81%8C%E7%99%BB%E5%A3%87%E3%81%97%E5%85%B1%E5%90%8C%E9%80%9A%E4%BF%A1%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%9F%E3%81%84%E3%81%8D%E3%81%95%E3%81%A4%E3%82%84%E4%BB%8A%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%AE%E3%82%84%E3%82%8A/1470709159721018/",
     "https://www.facebook.com/groups/627324771859424/posts/1010675586857672/"
    ]
   },
@@ -355,6 +355,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-05T04:38:24.140781+00:00"
 }

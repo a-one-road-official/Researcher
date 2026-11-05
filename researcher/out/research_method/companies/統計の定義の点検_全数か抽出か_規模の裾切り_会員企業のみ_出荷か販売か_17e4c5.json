@@ -8,7 +8,7 @@
  ],
  "context": "定義の点検",
  "kind": "market",
- "researched_at": "2026-11-05T10:14:28.372020+00:00",
+ "researched_at": "2026-11-05T11:30:13.266486+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -39,7 +39,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/bizgram/n/n9a587c22ec50",
+    "url": "https://note.com/kagawatomo/n/nd3159032d31a",
     "status": "ok",
     "method": "http"
    },
@@ -99,7 +99,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
+    "url": "https://www.cross-m.co.jp/column/marketing/util55",
     "status": "ok",
     "method": "http"
    },
@@ -174,11 +174,11 @@
     "https://note.com/kagawatomo/n/n3899e67fd088",
     "https://note.com/lucid_lotus6287/n/n88e12e31126d",
     "https://note.com/kagawatomo/n/n49f13e2d83fe",
-    "https://note.com/bizgram/n/n9a587c22ec50",
     "https://note.com/kagawatomo/n/nd3159032d31a",
-    "https://note.com/oh_no/n/nf5edcdd115e4",
-    "https://note.com/globis_engineers/n/n0ed548d0bc9e",
-    "https://note.com/engikonsarutarou/n/n386bceaa56f6"
+    "https://note.com/lucid_lotus6287/n/n271a59a02c76",
+    "https://note.com/hirokimiyano/n/n25487b36dc52",
+    "https://note.com/bizgram/n/n9a587c22ec50",
+    "https://note.com/c4irj/n/na3d9304aba79"
    ]
   },
   {
@@ -205,8 +205,8 @@
     "https://www.e-stat.go.jp/surveyplan/p00500248001/download/ir0001",
     "https://www.soumu.go.jp/main_content/000666068.pdf",
     "https://www.pref.miyagi.jp/documents/27337/654753.pdf",
-    "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
     "https://www.cross-m.co.jp/column/marketing/util55",
+    "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
     "https://www.t-denshi-k.co.jp/media/column/sampling-inspection",
     "https://www.onoff.ne.jp/blog/?p=14424"
    ]
@@ -238,7 +238,7 @@
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC2996580/",
     "https://rpubs.com/r4_data/late_shpmts_hyp_test",
     "https://www.qt.io/quality-assurance/blog/why-code-coverage-metrics-can-be-misleading-and-how-coco-code-coverage-tool-makes-them-meaningful",
-    "https://training.nielseniq.com/wp-content/uploads/sites/4/2021/02/what-tools-can-i-use-to-understand-my-coverage.pdf"
+    "https://www.stat.berkeley.edu/~stark/SticiGui/Text/gloss.htm"
    ]
   },
   {
@@ -248,10 +248,10 @@
     "https://note.com/uedamath/n/nae5cd24433ea",
     "https://note.com/kenko2024/n/na7db5c406f98",
     "https://note.com/makememo/n/n7ae565d6e7f0",
-    "https://note.com/statistics_ai/n/n205349f6d99d",
     "https://note.com/paguinu/n/n175e4c9bea71",
-    "https://note.com/hiroshi_gomi/n/n2b41fe7fa1d3",
-    "https://note.com/roselite/n/nda0bcd852d3e"
+    "https://note.com/statistics_ai/n/n205349f6d99d",
+    "https://note.com/paguinu/n/n161fb26a6126",
+    "https://note.com/hiroshi_gomi/n/n2b41fe7fa1d3"
    ]
   },
   {
@@ -294,15 +294,15 @@
    "query": "統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か） note 社長",
    "results": [
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://note.com/tnishimaki/n/ndbaaed8d02be",
-    "https://note.com/paguinu/n/n5e638afbfc77",
+    "https://note.com/bunsekiya_tech/n/n905bc3d35a79",
     "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
-    "https://note.com/nanto_econ",
+    "https://note.com/tnishimaki/n/ndbaaed8d02be",
     "https://www.soumu.go.jp/main_content/000666068.pdf",
-    "https://www.insource-da.co.jp/dxpedia/2412_01.html",
-    "https://note.jp/n/n0c08f6e33ab8",
+    "https://note.com/nanto_econ",
     "https://www.meti.go.jp/statistics/tyo/syoudou/pdf/survey_report_r03.pdf",
-    "https://note.com/kenko2024/n/na7db5c406f98"
+    "https://note.jp/n/n0c08f6e33ab8",
+    "https://www.insource-da.co.jp/dxpedia/2412_01.html",
+    "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html"
    ]
   },
   {
@@ -317,7 +317,7 @@
     "https://researto.com/column/statistical-significance-p-value-marketing/",
     "https://www.e-stat.go.jp/surveyplan-ir-guide",
     "https://engineering-technology.brexa.com/blog/technavi/monozukuri-statistics-3-significance-test/",
-    "https://instant.engineer/entry/sampling-inspection"
+    "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html"
    ]
   },
   {
@@ -344,6 +344,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-05T05:36:39.709245+00:00"
 }
