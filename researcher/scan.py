@@ -3,11 +3,11 @@ out/<テーマ>/companies/*.json の引用から「年・数字・単位・出�
 出典ごとの食い違い（最大÷最小）、一次情報かどうか、年ごとの中央値、10年の向き（上昇/下降/横ばい/判定不可）を出す。
 同じ品目・同じ年に「金額」と「人数」の両方があれば、金額÷人数を【推定】1人あたりとして出す（式と出典件数つき）。
 出力：out/<テーマ>/cross.csv（全数字）、out/<テーマ>/scan_auto.md（品目ごとの結論の下書き）。解釈の最終判断は scan.md（Claude）で行う。"""
-import csv, glob, json, os, re, statistics, sys
+import csv, glob, json, os, re, statistics, sys, unicodedata
 from urllib.parse import urlparse
 
 OUT = os.path.join(os.path.dirname(__file__), "out")
-PRIMARY = re.compile(r"(\.go\.jp|\.lg\.jp|e-stat|edinet|jpx\.co\.jp|boj\.or\.jp|jil\.go|meti|mhlw|stat\.go|tdb\.co\.jp|tsr-net|\.or\.jp|\.ac\.jp|ir\.|/ir/|disclosure)")
+PRIMARY = re.compile(r"(\.go\.jp|xbrl|kanpo|houjin-bangou|\.lg\.jp|e-stat|edinet|jpx\.co\.jp|boj\.or\.jp|jil\.go|meti|mhlw|stat\.go|tdb\.co\.jp|tsr-net|\.or\.jp|\.ac\.jp|ir\.|/ir/|disclosure)")
 NUM = re.compile(r"(\d{1,3}(?:,\d{3})+|\d+(?:\.\d+)?)\s*(兆円|億円|百万円|千万円|万円|千円|円|万人|千人|人|名|社|事業所|件|倍|％|%|台)")
 YEAR = re.compile(r"(20[0-3]\d|19[89]\d)\s*年")
 TO_MAN = {"兆円": 1e8, "億円": 1e4, "千万円": 1e3, "百万円": 100, "万円": 1, "千円": 0.1, "円": 1e-4}
@@ -19,10 +19,15 @@ HEADLINE = re.compile(r"(徹底解説|とは[？?]|まとめ|一覧|比較\d*選
 REPORT = re.compile(r"(mordorintelligence|gminsights|sdki|marketsandmarkets|fortunebusinessinsights|grandviewresearch|precedenceresearch|globalinformation|gii\.co\.jp|researchandmarkets|imarcgroup|alliedmarketresearch|technavio|reportocean|marketresearchfuture|atpress|prtimes|dreamnews|kenresearch|expertmarketresearch|verifiedmarket)")
 # 数字の文脈。同じ区分でも「装置の価格」「市場規模」「1件の単価」を混ぜない（am_ceiling で装置価格と受託単価が混ざった失敗から）
 CONTEXT = [("市場規模", re.compile(r"(市場規模|市場は|市場が|market size|market (is|was|will)|CAGR|年平均成長率|億ドル|billion)", re.I)),
-           ("装置価格", re.compile(r"(装置|本体|プリンターは|機械の価格|導入費|設備投資|machine price|printer costs?)", re.I)),
+           # 2026-11-05 4-11：工場の新設・増産の計画は生産能力の信号で、装置1台の値段と混ぜない（crexgroup 有報の読み方）
+           ("設備投資・増産計画", re.compile(r"(設備投資|新工場|増産|増設|生産能力|能力増強|capex|capacity expansion)", re.I)),
+           ("装置価格", re.compile(r"(装置|本体|プリンターは|機械の価格|導入費|machine price|printer costs?)", re.I)),
            ("売上・決算", re.compile(r"(売上高|売上は|営業利益|経常利益|決算|revenue|sales of)", re.I)),
            ("統計の総額", re.compile(r"(出荷額|付加価値額|加工賃収入|総額|全国で|全体で|合計)")),
            ("単価・料金", re.compile(r"(単価|1個|1件|1点|1人あたり|一人当たり|料金|費用|円〜|円から|月額|年額|per part|per hour)", re.I))]
+
+# 2026-11-05 4-11：会社の見通し・計画・目標の数字は、年が過去でも予測扱い（有報の将来見通しの注意書きと同じ扱い）
+OUTLOOK = re.compile(r"(見込み|見込む|見通し|計画|予定|目標|目指す|予想|予測|forecast|expected to|target)", re.I)
 
 def context_of(q):
     for name, rx in CONTEXT:
@@ -43,7 +48,7 @@ def rows_for(topic):
         name = d.get("name", "")
         for cat, items in (d.get("evidence") or {}).items():
             for it in items or []:
-                q, url = it.get("quote", ""), it.get("url", "")
+                q, url = unicodedata.normalize("NFKC", it.get("quote", "") or ""), it.get("url", "")  # 全角数字・全角％を半角に（4-12）
                 if HEADLINE.search(q) or "抜粋" in cat: continue  # 見出し・題名・検索結果の抜粋は数字にしない（METHOD.md 4-5）
                 ys = YEAR.findall(q)
                 ctx = context_of(q)
@@ -55,7 +60,7 @@ def rows_for(topic):
                     y = (near or ys or [""])[-1]
                     yield {"品目": name, "区分": cat, "文脈": ctx, "年": y, "値": round(v, 4), "単位": u,
                            "一次": "調査会社" if REPORT.search(url) else "一次" if PRIMARY.search(url) else "記事",
-                           "予測": "予測" if y and int(y) > NOW_YEAR else "",
+                           "予測": "予測" if y and int(y) > NOW_YEAR else "見通し" if OUTLOOK.search(q) else "",
                            "出典": urlparse(url).netloc, "URL": url, "引用": q[:160]}
 
 def trend(series):

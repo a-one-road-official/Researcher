@@ -15,7 +15,15 @@ import re
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse as _raw_urlparse
+
+
+def urlparse(u):
+    """全角記号入りURLで落ちないようにする（HEALTH.md の am_ceiling エラー対策）。"""
+    try:
+        return _raw_urlparse(u or "")
+    except ValueError:
+        return _raw_urlparse("")
 
 from researcher.targets import ROOT, load_targets, load_topic, slug
 
