@@ -485,6 +485,48 @@ def conservative(vals):
     vals = sorted(vals)
     return statistics.quantiles(vals, n=4)[0] if len(vals) >= 4 else vals[0]
 
+# 2026-11-06 走査で見つかった失敗から：検索で拾った工業統計の行は「年不明」「製造業計（750万人・18.5万事業所）」が細分類の品目に混ざった。
+# build_kougyo.py が所管の Excel から直接読んだ kougyo_series.csv（産業細分類×年、同じ表・同じ年の組だけで割った値）があれば、
+# 番号ごとに最初の年・最後の年・複利の年率（4-37）・端の1点を外したときの向き（4-40）・統計の切れ目（2016年・2021年〜・4-26）を機械で出す
+KOUGYO_FOCUS = re.compile(r"めっき|金型|機械加工|熱処理|金属プレス|プレス|鍛造|鋳|溶接|塗装|研磨|切削|表面処理|製缶|板金|ねじ|ばね")
+def _kf(x):
+    try: return float(str(x).replace(",", "").replace("△", "-").replace("▲", "-"))
+    except Exception: return None
+def _cagr(a, b, n):
+    return (b / a) ** (1 / n) - 1 if a and b and a > 0 and b > 0 and n > 0 else None
+def kougyo_section(topic):
+    f = os.path.join(OUT, topic, "kougyo_series.csv")
+    if not os.path.exists(f): return []
+    by = {}
+    for r in csv.DictReader(open(f, encoding="utf-8-sig")):
+        y = _kf(r.get("year"))
+        if y is None: continue
+        by.setdefault((r["code"], r["name"]), []).append((int(y), r))
+    md = ["## 工業統計表 産業別統計表（確報）の直接読み：産業細分類×年（kougyo_series.csv・同じ表・同じ年の組だけで割った値）",
+          "- 年の切れ目：2016年は工業統計なし（経済センサス）、2021年からは経済構造実態調査。この表は2020年までで、2021年以降とつながない（4-26）。金額は名目・単位は表の欄の見出しのまま",
+          "- 年率は複利（(最後÷最初)^(1/年数)−1・4-37）。「端の1点に依存」は最初か最後の年を外すと向きが変わるもの（4-40）"]
+    keys = sorted(by, key=lambda k: (0 if KOUGYO_FOCUS.search(k[1] or "") else 1, k[0]))
+    shown = 0
+    for (code, name) in keys:
+        rs = sorted(by[(code, name)], key=lambda t: t[0])
+        if not KOUGYO_FOCUS.search(name or "") and shown >= 40: continue
+        parts = []
+        for fld in ("従業者1人あたり加工賃収入額", "1事業所あたり従業者数", "加工賃収入額", "事業所数", "従業者数"):
+            pts = [(y, _kf(r.get(fld))) for y, r in rs]
+            pts = [(y, v) for y, v in pts if v is not None]
+            if len(pts) < 2: continue
+            (y0, v0), (y1, v1) = pts[0], pts[-1]
+            g = _cagr(v0, v1, y1 - y0)
+            sgn = lambda a, b: (b > a) - (b < a)
+            d = sgn(v0, v1)
+            edge = len(pts) >= 3 and (sgn(pts[1][1], v1) != d or sgn(v0, pts[-2][1]) != d)
+            parts.append(f"{fld} {y0}年 {v0:,.1f}→{y1}年 {v1:,.1f}（{len(pts)}点" + (f"・年率 {g:+.1%}" if g is not None else "") + ("・⚠ 端の1点に依存" if edge else "") + "）")
+        if parts:
+            md.append(f"- 【一次で確認】{code} {name}：" + "／".join(parts))
+            shown += 1
+    if shown == 0: md.append("- （番号つきの行が年2点以上そろわない）")
+    return md + [""]
+
 def scan(topic):
     rows = drop_boilerplate(dedupe(list(rows_for(topic))))
     if not rows: return 0
@@ -895,6 +937,7 @@ def scan(topic):
         if len(byu.get("万円", [])) == 1 and len(byu.get("人", [])) == 1 and byu["人"][0] > 0 and "総額" in q:
             sl.append(f"- 【推定】{it}｜{byu['万円'][0]:g}万円÷{byu['人'][0]:g}人＝{byu['万円'][0] / byu['人'][0]:,.1f}万円/人（同じ文の総額÷人数）｜{urlparse(url).netloc}：{q[:60]}")
     md += ["## 同じ文の中の割り出し（総額÷人数・4-39）", *(sl[:30] or ["（なし）"]), ""]
+    md += kougyo_section(topic)
     md += ["## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）", *(f"- {t}" for t in thin or ["（なし）"]), ""]
     md += ["## 数字が1つも取れなかった品目（範囲の明示）", *(f"- {n}" for n in empty or ["（なし）"]), ""]
     open(os.path.join(OUT, topic, "scan_auto.md"), "w", encoding="utf-8").write("\n".join(md))
