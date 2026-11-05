@@ -438,6 +438,15 @@ def pick(g):
     vals = sorted(r["値"] for r in c)
     return y, statistics.median(vals), len(c), {r["出典"] for r in c}, {region_of(r["URL"]) or "全国" for r in c}
 
+# 2026-11-06 4-41：取り方の点検（英国下院図書館「How to check facts」：統計の発表の要約・報道発表より、データの表・法令などの原典を引く）。
+# 一次の数字でも、統計の概要・報道発表のページから取ったものは表で取り直す。URL で表（xlsx/csv/e-Stat の表）か要約かを分ける
+SUMMARYPAGE = re.compile(r"(gaiyo|gaiyou|kekka_?gaiyo|press|houdou|/news|summary|topics|happyou|kouhyou|pdf/.*(gaiyo|youyaku))", re.I)
+TABLEPAGE = re.compile(r"(\.xlsx?($|\?)|\.csv($|\?)|e-stat\.go\.jp/(dbview|stat-search/(files|database))|statdisp|/data/|toukeihyo|hyo)", re.I)
+NATSTAT_ITEM = re.compile(r"(工業統計|経済構造実態調査|経済センサス|e-Stat|法人企業統計|中小企業実態基本調査|鉱工業指数|賃金構造基本統計|生産動態統計)")
+NATSTAT_HOST = re.compile(r"(\.go\.jp$|e-stat\.go\.jp|\.lg\.jp$|^www\.pref\.|^www\.city\.)", re.I)
+def take_kind(url):
+    return "表" if TABLEPAGE.search(url or "") else "要約" if SUMMARYPAGE.search(url or "") else ""
+
 def conservative(vals):
     vals = sorted(vals)
     return statistics.quantiles(vals, n=4)[0] if len(vals) >= 4 else vals[0]
@@ -469,6 +478,14 @@ def scan(topic):
     thin = []  # 4-23：主張×独立の出どころの表（theosintvault の validation matrix）で、出どころ1か所の欄を最後に並べる
     for item, rs in sorted(by_item.items()):
         md.append(f"## {item}")
+        # 2026-11-06 4-41 走査の失敗から：品目「工業統計 全国 産業細分類×従業者規模…」の数字4件が全部 www.jama.or.jp（日本自動車工業会）で、
+        # .or.jp なので一次に数えられ【一次で確認】B3 と出た。品目が国の統計を名指しするのに、所管（国の .go.jp・e-Stat）以外から来た数字は、その統計の値ではない
+        if NATSTAT_ITEM.search(item):
+            off = {}
+            for r in rs:
+                h = urlparse(r["URL"]).netloc if r["URL"] else ""
+                if h and not NATSTAT_HOST.search(h): off[h] = off.get(h, 0) + 1
+            if off: md.append(f"- ⚠ 品目が名指しする国の統計と出どころが違う（4-41）：{sum(off.values())}件／{len(rs)}件が " + "・".join(f"{h} {n}件" for h, n in sorted(off.items(), key=lambda kv: -kv[1])[:4]) + "。その統計の値として使わず、所管（経産省・総務省・e-Stat）の表から取り直す")
         groups = {}
         for r in rs: groups.setdefault((r["区分"], r["文脈"], r["単位"]), []).append(r)
         for (cat, ctx, u), g in sorted(groups.items(), key=lambda kv: -len(kv[1])):
@@ -507,6 +524,10 @@ def scan(topic):
             if ec: md.append("  - ⚠ 写しの疑い（一次でない別々の出どころが同じ値をぴったり持つ。1件に束ねて数えた）：" + "、".join(f"{v:g}{u}が{n}か所" for v, n in sorted(ec.items())[:5]) + "。元（統計・開示・調査）までたどる")
             if len({src_key(r) for r in g}) == 1: thin.append(f"{item}｜{cat}［{ctx}］")
             pk = pick(g)
+            # 4-41：一次の数字の取り方（表か要約か）。一次が要約・報道発表だけなら表で取り直す
+            tk = {}
+            for r in prim: tk[take_kind(r["URL"]) or "不明"] = tk.get(take_kind(r["URL"]) or "不明", 0) + 1
+            if prim and tk.get("要約") and not tk.get("表"): md.append(f"  - ⚠ 一次{len(prim)}件のうち{tk['要約']}件が統計の概要・報道発表のページから、表から0件：同じ数字を統計の表（xlsx・csv・e-Stat の表）で取り直す（4-41）")
             if pk:
                 py, pv, pn, pd, preg = pk
                 picks[f"{item}｜{cat}［{ctx}］（{u}）"] = {"年": py, "値": pv, "件": pn, "確度": gr}
@@ -640,6 +661,27 @@ def scan(topic):
             uw = statistics.mean(m / p for m, p in bands.values())
             oline.append(f"{y}年・{reg}（{len(bands)}区分）：加重 {w:,.1f}／単純平均 {uw:,.1f}／配分の効き {w - uw:+,.1f}万円")
         if oline: md.append("  - 【推定】配分の効き（規模区分の総額÷人数。加重の1人あたり−区分の単純平均。4-35）：" + "、".join(oline))
+        # 2026-11-06 4-41：規模区分ごとの1人あたりの「山」（peppereffect の1人あたり売上の規模別ベンチマーク：効率は規模に比例せず中ほどの帯で山になり、
+        # 大きい先は管理の層で下がる。帯だけでは弱い信号）。大きいほど高いと決めず、どの区分が最大かを機械で出す
+        def _lb(band):
+            m0 = re.search(r"\d+", band or ""); return int(m0.group()) if m0 else 10**9
+        pk_line = []
+        for (y, reg), bands in sorted(opd.items()):
+            if len(bands) < 3: continue
+            order = sorted(bands, key=_lb); pp = [bands[b0][0] / bands[b0][1] for b0 in order]
+            top = max(range(len(pp)), key=lambda i0: pp[i0])
+            shape = "規模とともに上がる" if all(pp[i0] <= pp[i0 + 1] for i0 in range(len(pp) - 1)) else "規模とともに下がる" if all(pp[i0] >= pp[i0 + 1] for i0 in range(len(pp) - 1)) else ("中ほどの区分が山" if 0 < top < len(pp) - 1 else "向きが揃わない")
+            pk_line.append(f"{y}年・{reg}：最大は{order[top]}（{shape}）")
+        if pk_line: md.append("  - 【推定】規模区分ごとの1人あたりの形（4-41。大きいほど高いと決めない）：" + "、".join(pk_line))
+        # 2026-11-06 4-41：欄どうしの整合（Crystal Lewis のデータ清掃：同じ対象の別の欄が互いに合うかを確かめる）。
+        # 同じ品目・同じ年で 人数の中央値 ÷ 事業所数の中央値 が1未満なら、事業所数と人数のどちらかが別物（総数と1あたり、全国と県）の混入
+        ppl = {}; est = {}
+        for r in rs:
+            if not r["年"] or r["予測"] or "あたり" in r["区分"]: continue
+            if r["単位"] == "人" and r["区分"].startswith("社員数"): ppl.setdefault(int(r["年"]), []).append(r["値"])
+            if r["単位"] in ("事業所", "社") and r["区分"].startswith("事業所数"): est.setdefault(int(r["年"]), []).append(r["値"])
+        bad = [y for y in ppl if y in est and statistics.median(est[y]) > 0 and statistics.median(ppl[y]) < statistics.median(est[y])]
+        if bad: md.append("  - ⚠ 欄どうしが合わない（4-41）：" + "、".join(f"{y}年" for y in sorted(bad)) + "は人数の中央値が事業所数の中央値より小さい（1事業所1人未満）。どちらかの欄に別物が混ざっている。結論に使わない")
         md.append("")
     # 2026-11-05 4-19：何が見つからなかったかを書く（範囲の明示）。数字が1つも取れなかった品目を並べる
     names = set()
