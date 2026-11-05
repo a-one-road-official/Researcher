@@ -8,8 +8,52 @@
  ],
  "context": "書き方",
  "kind": "market",
- "researched_at": "2026-11-05T19:04:43.035986+00:00",
+ "researched_at": "2026-11-05T21:28:44.684009+00:00",
  "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "The 2024 update exists because analysts now routinely cite AI-generated outputs, rely on commercial platforms that sit between them and the original data, and work with sources that can disappear overnight. ICS 206-01 tells them how to document all of that so the reader can evaluate it, and these principles should apply wherever intelligence work happens.",
+    "url": "https://pangearesearch.io/research/sourcing-for-osint-icd-206-01/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "methodologies: Analytic products should identify underlying sources and methodologies upon",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "promote awareness of the role, responsibilities, and practices, and how to engage ombuds;",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "options or to show broader context or background. AR Cs are an appropriate method for",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CIO, the IC shall adopt a method to provide customized, Public Key Infrastructure-enabled",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the protection of sensitive data, sources, methods, and activities. Tearlines should adhere to the",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "sources and methods, when disclosure would harm national security. The degree to which",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "objectivity, bias, politicization, or other issues in Standards application in analytic producti;.",
@@ -61,50 +105,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "The 2024 update exists because analysts now routinely cite AI-generated outputs, rely on commercial platforms that sit between them and the original data, and work with sources that can disappear overnight. ICS 206-01 tells them how to document all of that so the reader can evaluate it, and these principles should apply wherever intelligence work happens.",
-    "url": "https://pangearesearch.io/research/sourcing-for-osint-icd-206-01/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "methodologies: Analytic products should identify underlying sources and methodologies upon",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "promote awareness of the role, responsibilities, and practices, and how to engage ombuds;",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "options or to show broader context or background. AR Cs are an appropriate method for",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CIO, the IC shall adopt a method to provide customized, Public Key Infrastructure-enabled",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the protection of sensitive data, sources, methods, and activities. Tearlines should adhere to the",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "sources and methods, when disclosure would harm national security. The degree to which",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -126,17 +126,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/cocowrite/n/n8481fac195e3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/umigameobasan/n/n3e92bc1539e1",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://note.com/ai_create_sho/n/nc69e649a506a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/goldmist1959/n/n88276ab96488",
     "status": "ok",
     "method": "http"
    },
@@ -186,7 +186,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://library.rikkyo.ac.jp/learning/reportguide/citation/",
+    "url": "https://www.hiroshima-u.ac.jp/wrc/howtowrite/Citation",
     "status": "ok",
     "method": "http"
    },
@@ -269,10 +269,10 @@
     "https://note.com/note_hanbai_lab/n/neeeb5a41ad80",
     "https://note.com/moritomokyan/n/n3302ffe0697d",
     "https://note.com/airi_study_life/n/n0ce90bdc33f2",
-    "https://note.com/cocowrite/n/n8481fac195e3",
     "https://note.com/umigameobasan/n/n3e92bc1539e1",
     "https://note.com/ai_create_sho/n/nc69e649a506a",
-    "https://note.com/reportai_jp/n/n69fd86817c96"
+    "https://note.com/goldmist1959/n/n88276ab96488",
+    "https://note.com/cocowrite/n/n8481fac195e3"
    ]
   },
   {
@@ -286,8 +286,7 @@
     "https://hybrid-analysis.com/sample/c2fc06662c3b01ad58f02d8702519b6f1577b1424c901fa8174a91a1eb915ac7",
     "https://www.worldoftest.com/ja/print/pdf/node/6768",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://note.com/shore9999/n/ncbe0fb8eb5ca",
-    "https://www.intelligence.gov/assets/documents/intelligence-community-directives/ICD_206.pdf"
+    "https://note.com/shore9999/n/ncbe0fb8eb5ca"
    ]
   },
   {
@@ -297,11 +296,11 @@
     "https://alc.chiba-u.jp/eyr/2020/03/16/03quote.html",
     "https://www.library.osaka-u.ac.jp/doc/ISLIB_017.pdf",
     "https://tetsutohagane.net/submission/files/writing_style_for_references_jp.pdf?v=20260731",
-    "https://library.rikkyo.ac.jp/learning/reportguide/citation/",
+    "https://www.hiroshima-u.ac.jp/wrc/howtowrite/Citation",
     "https://concours.toshokan.or.jp/concours/reference",
     "https://www.medinew.jp/articles/promotion/production/references",
-    "https://www.hiroshima-u.ac.jp/wrc/howtowrite/Citation",
-    "https://rs.usaco.co.jp/column/editage/how-to-23.html"
+    "https://rs.usaco.co.jp/column/editage/how-to-23.html",
+    "https://www.chem.tsukuba.ac.jp/junji/lecture/data/reference_instruction.pdf"
    ]
   },
   {
@@ -315,7 +314,7 @@
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.zentsuken.net/journal/file/144_5.html",
     "https://bunzen.co.jp/manage/wp-content/uploads/2019/10/BZLib-101_EMA_RP_r1.2.pdf",
-    "https://support.irdb.nii.ac.jp/ja/harvest/jpcoar/dataprovide_jalc"
+    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=8"
    ]
   },
   {
@@ -340,9 +339,9 @@
     "https://note.com/moritomokyan/n/n3302ffe0697d",
     "https://note.com/kensho_note/n/n80379e531cfb",
     "https://note.com/umigameobasan/n/n3e92bc1539e1",
-    "https://note.com/goldmist1959/n/n88276ab96488",
-    "https://note.com/worksflow/n/n091fa3d00856",
-    "https://note.com/cocowrite/n/n8481fac195e3"
+    "https://note.com/airi_study_life/n/n0ce90bdc33f2",
+    "https://note.com/reportai_jp/n/n69fd86817c96",
+    "https://note.com/worksflow/n/n091fa3d00856"
    ]
   },
   {
@@ -350,11 +349,11 @@
    "results": [
     "https://jf.x.com/images/media-preview/2115719028056682706",
     "https://x.com/okayamamental/status/2064838826275868943",
-    "https://x.com/gyunyuringojus/status/2104165428360888355",
     "https://x.com/aooi_AI/status/2065590127624339574",
-    "https://x.com/Suji_kin_DV/status/2031392251918823772",
     "https://x.com/NagatabiP/status/2092109081796571214",
-    "https://x.com/nxqnxp/status/2078156349788348590"
+    "https://x.com/nikkei_kotoba/status/778218941919272960",
+    "https://x.com/428sk1_guardian/status/2027327365710585967",
+    "https://x.com/unaden/status/2066452854022488551"
    ]
   },
   {
@@ -376,9 +375,9 @@
     "https://www.facebook.com/japan.icd.org/",
     "https://www.facebook.com/TCROSS.NEWS.JP/posts/26jcs速報-日本人患者におけるicd及びwcdの適応と予後-transition-japan-icdwcd研究transition-japan-icdwcd/1774378210478518/",
     "https://www.facebook.com/people/第21回-医療の質安全学会-学術集会/61588115708138/",
-    "https://www.facebook.com/iwamibeer/posts/缶充填の豆知識202缶206缶について最近ほぼ毎日のように問い合わせがあるので再度情報をアップしますアルミ缶には蓋の口径により202缶204缶206缶があります/795790365891631/",
     "https://www.facebook.com/TCROSS.NEWS.JP/posts/esccongress2025高リスクのmi後の患者におけるicdの効果-refine-icd試験refine-icd試験よりホルター心電図で異常が認められたm/1596895034893504/",
-    "https://www.facebook.com/100067669523711/posts/テキスト正誤表第２版-第11刷用を追加厚生労働省カリキュラム準拠要約筆記者養成テキスト正誤表第２版-第11刷用を追加しましたお手持ちのテキストの版をご確認の上ご/969071825358459/"
+    "https://www.facebook.com/100067669523711/posts/テキスト正誤表第２版-第11刷用を追加厚生労働省カリキュラム準拠要約筆記者養成テキスト正誤表第２版-第11刷用を追加しましたお手持ちのテキストの版をご確認の上ご/969071825358459/",
+    "https://www.facebook.com/jsqsh.anzen2005/posts/2026年度医療安全管理者養成研修の日程が決まりましたぜひご参加下さい開催日程オンデマンド配信-前半-5月1日金-5月31日日-後半-6月5日金-7月5日日-参/849551297825968/"
    ]
   },
   {
@@ -386,12 +385,12 @@
    "results": [
     "https://catill.bitbucket.io/CM/5_1_5_1.html",
     "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
-    "https://hybrid-analysis.com/sample/c2fc06662c3b01ad58f02d8702519b6f1577b1424c901fa8174a91a1eb915ac7",
+    "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://note.com/shore9999/n/ncbe0fb8eb5ca",
     "https://www.coinex.zone/ja/academy/2882/related-articles",
     "https://www.worldoftest.com/ja/print/pdf/node/6768",
     "https://www.tmj.jp/column/column_23826/",
-    "https://note.com/jacoby/n/n90477ed0cf3e",
     "https://rs.usaco.co.jp/column/editage/how-to-23.html"
    ]
   },
@@ -414,11 +413,11 @@
    "results": [
     "https://www.linkedin.com/posts/jessicastutzman_intelligence-intelligenceanalysis-sourcing-activity-7428112139405414400-PYxz",
     "https://www.linkedin.com/pulse/uncertainty-design-why-icd-203206-guardrails-matter-more-joshua-gobin-wywse",
-    "https://www.linkedin.com/top-content/productivity/creating-effective-standard-operating-procedures/standardizing-expertise-in-intelligence-work/",
     "https://it.linkedin.com/posts/mirkolapi_con-il-rilascio-delle-nuove-linee-guida-ics-activity-7271843491519811584-2_sw",
     "https://business.linkedin.com/hire/resources/how-to-hire-guides",
     "https://www.linkedin.com/posts/odni_ics-206-01pdf-activity-7269818693260349440-zVb5",
-    "https://www.linkedin.com/pulse/accountability-mandate-why-corporate-intelligence-requires-gobin-0flse"
+    "https://www.linkedin.com/top-content/productivity/creating-effective-standard-operating-procedures/standardizing-expertise-in-intelligence-work/",
+    "https://www.linkedin.com/posts/american-university-aurora_thank-you-to-dr-jessica-stutzman-for-leading-activity-7513687320701616131-xslC"
    ]
   }
  ],
@@ -427,6 +426,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-05T15:19:45.423228+00:00"
 }
