@@ -2046,6 +2046,8 @@
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「株主総会の特別決議から登記完了まで全手順と費用（登録免許税3万円）・注意点を完全解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
 - 実例：
   - 「P/L全体は見えなくても、最終的な収益性の結果は確認できる仕組みになっています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「特に中小企業同士のビジネスでは、取引先が決算書を開示しないケースが多く、官報公告が唯一の財務情報源になることもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -2667,6 +2669,9 @@
   - 「このような要因には、正確性および完全性、否定および欺瞞の可能性、情報の古さお よび継続的最新性、情報収集の技術的要素、ならびに情報源へのアクセス、検証、動機、 バイアスの可能性、または専門知識が含まれる」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
   - 「案の分析とは、出来事や現象を説明し、近い将来の結果を探り、驚きやリスクを軽減するために起こりうる未来を想像するために、異なる仮説を体系的に評価することである」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
   - 「分析成果物は、もっともらしい代替仮説を特定し、評価しなければならない」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
+  - 「describes the analyst's actual probability estimate for the event or claim in question. These are independent: an analyst can be highly confident in a low-likelihood judgment (strong evidence supporting an assessment that something is unlikely to happen) just as easily as low-confidence in a high-likelihood judgment (weak, contested evidence pointing toward something probably being true).」（https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained）
+  - 「map to increasingly narrow bands of estimated probability, rather than being left to each writer's individual sense of the word.」（https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained）
+  - 「No — confidence describes how well-supported the analysis itself is (sourcing, reporting volume, reliability); likelihood is the actual probability estimate for the event or claim. An analyst can hold either combination: high confidence in a low-likelihood judgment, or low confidence in a high-likelihood one.」（https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained）
 - 一次情報の探し方：
   - 「checked against the cited primary sources on」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「In the Protocol's terms, gaining possession of online information through a screenshot, a conversion to PDF, a download or another form of capture.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
@@ -3037,12 +3042,51 @@
 
 ## 出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件）（Admiralty code source reliability information credibility grading OSINT practice examples）
 - 文脈：突き合わせ・推定
+- 手順・やり方：
+  - 「How the Admiralty (NATO) system grades source reliability A to F and information credibility 1 to 6, why most open-source items start at F6, how corroboration moves grades, and how to grade results from aggregated data sources.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Disclaimer: This article is for education and for lawful, authorised professional research. Use these methods only where you have a legitimate purpose and a lawful basis, and follow the laws and platform terms that apply to you, including data protection law such as the UK GDPR and EU GDPR. See our」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「The oldest and most widely used scheme for this is the Admiralty system. This guide explains how it works, why so much open-source material starts at the bottom of the scale, how corroboration moves grades up, and how to grade results that reach you through an aggregated platform.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「(fourth edition, 2023), treats evaluation, an appraisal of source reliability and information credibility, as a step in processing that comes before analysis. That order matters for commercial teams too. Grade on collection, then analyse. If you grade after you have formed a view, the view will seep into the grades.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Here is the manual method we teach. It works in a spreadsheet, and it works better when the grades are stored as structured data your tools can read.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Step One: Split the Item into Source and Claim」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Step Two: Grade the Source on History, Not Feel」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Step Three: Grade the Claim on Corroboration and Plausibility」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Step Four: Store the Grade as a Machine Tag」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Step Five: Convert to STIX Confidence When You Share」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Corroboration is the engine of the whole system, and independence is what makes it count. Two sources that both copied the same original post are one source. Before you upgrade anything, ask whether the second source had its own access to the facts: a different dataset, a different collection method, a different moment in time.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「OSINT Report Template: How to Write Findings Other Analysts Can Check」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Demystifying Source Reliability: How To Ensure Credible CTI - Kraven Security」（https://kravensecurity.com/source-reliability-and-information-credibility/）
+  - 「Demystifying Source Reliability: How to Ensure Credible CTI」（https://kravensecurity.com/source-reliability-and-information-credibility/）
+  - 「, you must evaluate them separately. This disciplined separation provides a structured framework to cut through the noise and improve your threat prioritization.」（https://kravensecurity.com/source-reliability-and-information-credibility/）
+- 一次情報の探し方：
+  - 「Filing history and accounts consistent」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Register shows active status and recent filing」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「. One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「How close was the source to the information it is reporting? Primary sources that have direct knowledge are generally more reliable than secondary sources that are passing along information.」（https://kravensecurity.com/source-reliability-and-information-credibility/）
+- 失敗・落とし穴：
+  - 「They mean "no basis to judge yet". E and 5 are the negative grades. Treating F6 as "unreliable, false" throws away leads; treating it as "probably fine" invites mistakes. It means: do the work.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「, found that people rating trustworthiness put substantially more weight on the source than on the information. In other words, analysts naturally over-trust good sources and under-use good information from unknown ones. A written grade for each axis is the practical counter to that bias.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「of the information? This evaluates the source itself—its history, biases, and overall competence. Strong source reliability」（https://kravensecurity.com/source-reliability-and-information-credibility/）
+  - 「A common rookie mistake—and a dangerous one—is to conflate the two. An analyst might see a report from a top-tier cyber security firm (a source with high reliability) and automatically assume the information within is infallible.」（https://kravensecurity.com/source-reliability-and-information-credibility/）
+  - 「Objectivity and Bias:」（https://kravensecurity.com/source-reliability-and-information-credibility/）
+  - 「to quantify their assessments? Be aware of potential biases and distinguish between inherent bias and deliberate misdirection.」（https://kravensecurity.com/source-reliability-and-information-credibility/）
+  - 「You check a source’s reliability by evaluating it against established criteria, not just gut feeling. This involves assessing its historical accuracy, reputation in the security community, author expertise, transparency of data collection, and potential biases. A great intelligence framework for performing this analysis is the Admiralty Code.」（https://kravensecurity.com/source-reliability-and-information-credibility/）
+  - 「A source is considered unreliable if it has a history of inaccuracies, bias, or the promotion of a particular perspective instead of presenting facts. A lack of transparency is also a red flag; if you don’t know how it obtained the information, it is untrustworthy. Treat anonymous sources with skepticism, considering whether they are involved in spreading disinformation.」（https://kravensecurity.com/source-reliability-and-information-credibility/）
 - 実例：
   - 「no piece of information is normally of great value on its own. When first received it is like a sentence without its context. Signal intelligence for example, in its raw state is seldom intelligible on its own to anyone but the expert who extracts it or deciphers it… it cannot be read and understood, even when translated, in isolation」（https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/）
-- 手順・やり方：記載なし（読んだ28頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+  - 「support-example.example.com」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「carrowmere.example.com」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Run the work inside a Case in Forensic Mode so the search history and bookmarks sit with the grades. A reviewer can then see which search produced which graded item.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「@example_handle_support」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「secure-pay.example.org」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「An AML analyst at a payments firm reviews an incoming transfer from a wallet the customer says belongs to their trading company, Example Trading Ltd. A crypto forum post from an unknown account claims the same wallet belongs to an unrelated group.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「The customer's claim is upgraded to C1 (confirmed by the company's own long-standing publication and an independent attribution). The forum claim drops to F5. The analyst records both, with dates, and closes the review with a note in the Case. Our」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Information ages. A B1 record of a company's directors from 2023 is good history and possibly stale fact. Add a "valid as of" date to every graded item and re-check anything older than your case's decision window.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Collect only what the question needs, record the lawful basis for the research, and keep graded data no longer than the case requires. Respect platform terms when you gather material. Where an item grades low, say so plainly and do not let it drive a decision about an individual on its own. And treat every automated or AI-assisted grade as a suggestion that an analyst confirms and signs.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「. One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「OSINT investigation guides, case studies and tooling deep-dives from the UserSearch team.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Here are some examples of Admiralty Code ratings and subsequent actions to be taken:」（https://kravensecurity.com/source-reliability-and-information-credibility/）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
 
 ## e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）（e-Stat practical search techniques statistical code metadata notes）
 - 文脈：探し先・書き手

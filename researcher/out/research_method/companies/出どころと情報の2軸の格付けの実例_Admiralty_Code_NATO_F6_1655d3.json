@@ -8,12 +8,324 @@
  ],
  "context": "突き合わせ・推定",
  "kind": "market",
- "researched_at": "2026-11-05T09:11:14.119716+00:00",
+ "researched_at": "2026-11-05T10:22:09.735265+00:00",
  "evidence": {
   "実例": [
    {
     "quote": "no piece of information is normally of great value on its own. When first received it is like a sentence without its context. Signal intelligence for example, in its raw state is seldom intelligible on its own to anyone but the expert who extracts it or deciphers it… it cannot be read and understood, even when translated, in isolation",
     "url": "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "support-example.example.com",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "carrowmere.example.com",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Run the work inside a Case in Forensic Mode so the search history and bookmarks sit with the grades. A reviewer can then see which search produced which graded item.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "@example_handle_support",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "secure-pay.example.org",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "An AML analyst at a payments firm reviews an incoming transfer from a wallet the customer says belongs to their trading company, Example Trading Ltd. A crypto forum post from an unknown account claims the same wallet belongs to an unrelated group.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The customer's claim is upgraded to C1 (confirmed by the company's own long-standing publication and an independent attribution). The forum claim drops to F5. The analyst records both, with dates, and closes the review with a note in the Case. Our",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Information ages. A B1 record of a company's directors from 2023 is good history and possibly stale fact. Add a \"valid as of\" date to every graded item and re-check anything older than your case's decision window.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Collect only what the question needs, record the lawful basis for the research, and keep graded data no longer than the case requires. Respect platform terms when you gather material. Where an item grades low, say so plainly and do not let it drive a decision about an individual on its own. And treat every automated or AI-assisted grade as a suggestion that an analyst confirms and signs.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT investigation guides, case studies and tooling deep-dives from the UserSearch team.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Here are some examples of Admiralty Code ratings and subsequent actions to be taken:",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Filing history and accounts consistent",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Register shows active status and recent filing",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How close was the source to the information it is reporting? Primary sources that have direct knowledge are generally more reliable than secondary sources that are passing along information.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "They mean \"no basis to judge yet\". E and 5 are the negative grades. Treating F6 as \"unreliable, false\" throws away leads; treating it as \"probably fine\" invites mistakes. It means: do the work.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", found that people rating trustworthiness put substantially more weight on the source than on the information. In other words, analysts naturally over-trust good sources and under-use good information from unknown ones. A written grade for each axis is the practical counter to that bias.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "of the information? This evaluates the source itself—its history, biases, and overall competence. Strong source reliability",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A common rookie mistake—and a dangerous one—is to conflate the two. An analyst might see a report from a top-tier cyber security firm (a source with high reliability) and automatically assume the information within is infallible.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Objectivity and Bias:",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "to quantify their assessments? Be aware of potential biases and distinguish between inherent bias and deliberate misdirection.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "You check a source’s reliability by evaluating it against established criteria, not just gut feeling. This involves assessing its historical accuracy, reputation in the security community, author expertise, transparency of data collection, and potential biases. A great intelligence framework for performing this analysis is the Admiralty Code.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A source is considered unreliable if it has a history of inaccuracies, bias, or the promotion of a particular perspective instead of presenting facts. A lack of transparency is also a red flag; if you don’t know how it obtained the information, it is untrustworthy. Treat anonymous sources with skepticism, considering whether they are involved in spreading disinformation.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "How the Admiralty (NATO) system grades source reliability A to F and information credibility 1 to 6, why most open-source items start at F6, how corroboration moves grades, and how to grade results from aggregated data sources.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Disclaimer: This article is for education and for lawful, authorised professional research. Use these methods only where you have a legitimate purpose and a lawful basis, and follow the laws and platform terms that apply to you, including data protection law such as the UK GDPR and EU GDPR. See our",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The oldest and most widely used scheme for this is the Admiralty system. This guide explains how it works, why so much open-source material starts at the bottom of the scale, how corroboration moves grades up, and how to grade results that reach you through an aggregated platform.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(fourth edition, 2023), treats evaluation, an appraisal of source reliability and information credibility, as a step in processing that comes before analysis. That order matters for commercial teams too. Grade on collection, then analyse. If you grade after you have formed a view, the view will seep into the grades.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Here is the manual method we teach. It works in a spreadsheet, and it works better when the grades are stored as structured data your tools can read.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step One: Split the Item into Source and Claim",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step Two: Grade the Source on History, Not Feel",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step Three: Grade the Claim on Corroboration and Plausibility",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step Four: Store the Grade as a Machine Tag",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step Five: Convert to STIX Confidence When You Share",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Corroboration is the engine of the whole system, and independence is what makes it count. Two sources that both copied the same original post are one source. Before you upgrade anything, ask whether the second source had its own access to the facts: a different dataset, a different collection method, a different moment in time.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT Report Template: How to Write Findings Other Analysts Can Check",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Demystifying Source Reliability: How To Ensure Credible CTI - Kraven Security",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Demystifying Source Reliability: How to Ensure Credible CTI",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", you must evaluate them separately. This disciplined separation provides a structured framework to cut through the noise and improve your threat prioritization.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Measure Source Reliability and Information Credibility",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", you need a consistent method to measure its reliability and credibility.. This isn’t a gut feeling; it’s a methodical process based on a defined set of criteria.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Data Provenance and Methodology:",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "methods used to analyze it",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This robust framework provides a standard, unambiguous language for discussing source reliability and information credibility when performing intelligence analysis. Its",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Another popular framework, particularly within law enforcement communities, is the",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 1: Evaluate the Source (“GlitchFactor”)",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 2: Evaluate the Information (The “DataWipe” Ransomware)",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 3: Combine and Act",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Now you know how the Admiralty Code works, let’s explore some of the challenges of applying this framework to real-world CTI work.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The Admiralty Code framework was designed for evaluating “bomb and bullet” military intelligence, usually gathered through covert human sources. As such, applying this traditional intelligence framework to the cyber domain is not without its challenges.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Even with a defined framework, grading has a human element. An analyst’s personal experience,",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -28,7 +340,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/poncorocoro/n/n444668066be4",
+    "url": "https://note.com/poncorocoro/n/nd71662d63db8",
     "status": "ok",
     "method": "http"
    },
@@ -43,113 +355,13 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/poncorocoro/n/n40205124e2b9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/yama_note_365/n/n83fb14e8bce1",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/poncorocoro/n/nd71662d63db8",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://conservationcriminology.com/wp-content/uploads/2019/09/6x6-Admiralty-System.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.neco.navy.mil/necoattach/N0038326RMB04.pdf",
-    "status": "network_error:SSLError",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.ignis.jp/node/427/revisions/21492/view/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://note.com/tag/NATO",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary459.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.se.com/articles/ja/Knowledge/FA281446?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.neco.navy.mil/necoattach/N0010427QTA06.pdf",
-    "status": "network_error:SSLError",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.blueprism.com/japan/resources/white-papers/p2/?id=4824121",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://trexlabel.com/ja/glossary/450/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.worldoftest.com/ja/print/pdf/node/6768",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.neco.navy.mil/necoattach/N0010426QDB51.pdf",
-    "status": "network_error:SSLError",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_18.pdf",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://eosgmbh.com/en/admiralty-code-for-the-verification-of-information/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.linkedin.com/posts/jessicastutzman_osint-opensourceintelligence-intelligenceanalysis-activity-7432120971609714688-IopK",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://anticitizenone.medium.com/source-reliability-grading-and-analysis-483eeb57df1a",
-    "status": "http_403",
     "method": "http"
    },
    {
@@ -158,7 +370,27 @@
     "method": "http"
    },
    {
-    "url": "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Admiralty-Code",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matthewwold.net/post/intelligence-grading-why-the-admiralty-code-matters",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
     "status": "ok",
     "method": "http"
    }
@@ -169,71 +401,36 @@
    "query": "出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件） site:note.com",
    "results": [
     "https://note.com/jpnca/n/n5bed3a92cb08",
-    "https://note.com/poncorocoro/n/n444668066be4",
+    "https://note.com/poncorocoro/n/nd71662d63db8",
     "https://note.com/poncorocoro/n/n0c7829aee1af",
     "https://note.com/poncorocoro/n/n591851fd08c3",
-    "https://note.com/yama_note_365/n/n83fb14e8bce1",
-    "https://note.com/poncorocoro/n/nd71662d63db8",
     "https://note.com/poncorocoro/n/n40205124e2b9",
-    "https://note.com/hal_aixweb/n/nc9c2f91ab9fb",
-    "https://note.com/aominant/n/n22055a976cef",
-    "https://note.com/pn3/n/nd5ce5222f709"
+    "https://note.com/yama_note_365/n/n83fb14e8bce1",
+    "https://note.com/poncorocoro/n/n444668066be4"
    ]
   },
   {
    "query": "出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件） note",
-   "results": [
-    "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
-    "https://conservationcriminology.com/wp-content/uploads/2019/09/6x6-Admiralty-System.pdf",
-    "https://www.neco.navy.mil/necoattach/N0038326RMB04.pdf",
-    "https://www.ignis.jp/node/427/revisions/21492/view/",
-    "https://note.com/hashtag/NATO",
-    "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary459.pdf",
-    "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=8"
-   ]
+   "results": []
   },
   {
    "query": "出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件） やり方",
-   "results": [
-    "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
-    "https://www.se.com/articles/ja/Knowledge/FA281446?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
-    "https://www.neco.navy.mil/necoattach/N0010427QTA06.pdf",
-    "https://www.blueprism.com/japan/resources/white-papers/p2/?id=4824121",
-    "https://www.ignis.jp/node/427/revisions/21492/view/",
-    "https://trexlabel.com/ja/glossary/450/",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.worldoftest.com/ja/print/pdf/node/6768",
-    "https://w.atwiki.jp/hajimaruatrain/chmod/73.html"
-   ]
+   "results": []
   },
   {
    "query": "出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件） 事例",
-   "results": [
-    "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
-    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "https://www.se.com/articles/ja/Knowledge/FA281446?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
-    "https://www.neco.navy.mil/necoattach/N0010426QDB51.pdf",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.blueprism.com/japan/resources/white-papers/p2/?id=4824121",
-    "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_18.pdf",
-    "https://www.ignis.jp/node/427/revisions/21492/view/"
-   ]
+   "results": []
   },
   {
    "query": "Admiralty code source reliability information credibility grading OSINT practice examples",
    "results": [
-    "https://eosgmbh.com/en/admiralty-code-for-the-verification-of-information/",
-    "https://www.linkedin.com/posts/jessicastutzman_osint-opensourceintelligence-intelligenceanalysis-activity-7432120971609714688-IopK",
-    "https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system",
-    "https://anticitizenone.medium.com/source-reliability-grading-and-analysis-483eeb57df1a",
-    "https://pangearesearch.substack.com/p/the-admiralty-code-nato-6x6-system",
     "https://en.wikipedia.org/wiki/Admiralty_code",
-    "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
-    "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
     "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework",
-    "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/"
+    "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Admiralty-Code",
+    "https://www.matthewwold.net/post/intelligence-grading-why-the-admiralty-code-matters",
+    "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "https://preventio.live/knowledge/source-evaluation-admiralty-code"
    ]
   },
   {
@@ -275,7 +472,6 @@
   {
    "query": "site:facebook.com 出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件）",
    "results": [
-    "https://www.facebook.com/military.flak/posts/%E5%89%8D%E6%83%85%E6%8F%90%E8%A6%81-%E7%B9%BC%E7%BE%8E%E5%9C%8B%E7%A9%BA%E8%BB%8D%E5%85%AC%E9%96%8B%E8%AB%87%E8%AB%96ngad%E5%85%AD%E4%BB%A3%E6%A9%9F%E7%9A%84%E8%83%BD%E5%8A%9B%E6%8C%87%E6%A8%99%E5%BE%8C%E7%BE%8E%E5%9C%8B%E6%B5%B7%E8%BB%8D%E4%B9%9F%E5%9C%A82030-2035%E6%B5%B7%E8%88%AA%E5%B1%95%E6%9C%9B%E7%99%BD%E7%9A%AE%E6%9B%B8%E7%9A%84%E5%85%AC%E9%96%8B%E7%89%88%E4%B8%AD%E9%80%8F%E9%9C%B2%E4%BA%86%E4%B8%80%E4%BA%9B%E4%BB%96%E5%80%91%E5%B0%8D%E5%85%AD%E4%BB%A3%E6%A9%9F%E7%9A%84%E6%83%B3%E6%B3%95%E9%9B%96%E7%84%B6%E8%AE%80%E8%B5%B7%E4%BE%86%E5%AE%98%E8%85%94%E5%AE%98%E8%AA%BF%E4%BD%86%E5%90%84%E4%BD%8D/1718615198327207/",
     "https://www.facebook.com/pressajp/posts/英スターマー首相わが国の情報機関および他のnato諸国の評価によれば早ければ2030年にもロシアがnatoを攻撃する可能性があるウクライナ戦争であれだけ損耗して/1545010880314794/",
     "https://www.facebook.com/Rinya.Watanabe/posts/iphone-と-ipad-が機密-nato-情報の取り扱いに承認されましたドイツ政府による厳格なセキュリティテストと広範な評価を経てiphone-と-ipad/3833355320301447/",
     "https://www.facebook.com/nihonmatsu/photos/ご指摘ありがとうございます重要な論点だと思いますただこの点については国連憲章の解釈と実務運用に整理が必要ですまず国連憲章51条は加盟国に限定しない形で自衛権を規/25216311174644424/",
@@ -287,64 +483,344 @@
   },
   {
    "query": "出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件） note 社長",
-   "results": [
-    "https://www.se.com/articles/ja/Knowledge/FA53475?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
-    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.neco.navy.mil/necoattach/N0010426QDB51.pdf",
-    "https://nhqc3s.hq.nato.int/apps/DCRA_Report/id-29d4122b072148f5aaf4882ecc5d963c/elements/id-af0a909f58aa45a09a8856d0bfe2384a.html",
-    "https://sentry-magazine.com/ja/%E6%88%A6%E7%95%A5%E7%9A%84%E5%8D%94%E5%8A%9B%E9%96%A2%E4%BF%82-%E3%81%AE%E5%BC%B7%E5%8C%96/",
-    "https://www.youtube.com/watch?v=wemj_F_EtXI",
-    "https://note.com/hirokimiyano/n/n5e0a5e1356e7",
-    "https://www.ignis.jp/node/427/revisions/21492/view/"
-   ]
+   "results": []
   },
   {
    "query": "出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件） X 投稿",
-   "results": [
-    "https://www.se.com/articles/ja/Knowledge/FA53475?r=62&other.LCC_KnowledgeEditAsDraft.knowledgeEditAsDraft=1",
-    "https://www.blueprism.com/japan/resources/white-papers/p2/?id=4824121",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.ignis.jp/node/427/revisions/21492/view/",
-    "https://milterm.com/archives/4831",
-    "https://www.nids.mod.go.jp/publication/commentary/commentary350.html",
-    "https://www.wis-jma.go.jp/sataid/OBS/SCAT/WINY0807.TXT",
-    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=8",
-    "https://www.coinex.zone/ja/academy/2882/related-articles"
-   ]
+   "results": []
   },
   {
    "query": "Admiralty code source reliability information credibility grading OSINT practice examples site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/jessicastutzman_osint-opensourceintelligence-intelligenceanalysis-activity-7432120971609714688-IopK",
     "https://www.linkedin.com/pulse/assessing-source-credibility-osint-applying-admiralty-matthias-wilson-chqif",
-    "https://www.linkedin.com/pulse/trust-me-bro-its-legit-matthias-wilson-uzyrf",
-    "https://www.linkedin.com/posts/cynthiaugwu_osint-opensourceintelligence-intelligenceanalysis-activity-7389965375398002688-Mrkv",
-    "https://www.linkedin.com/posts/jessicastutzman_intelligenceanalysis-analytictradecraft-activity-7422275524808327168-PJ8D",
-    "https://www.linkedin.com/pulse/osint-future-arno-reuser-fdxxf",
-    "https://www.linkedin.com/pulse/i-built-ai-powered-threat-intelligence-analyst-heres-what-ryan-sketch-tbike",
-    "https://www.linkedin.com/pulse/solving-business-puzzle-open-source-intelligence-osint-tamara-erlij-nyetf",
-    "https://www.linkedin.com/posts/oleg-ruchayskiy-9443554_research-integrity-tools-are-born-to-die-activity-7427311269902217216-ELPs",
-    "https://www.linkedin.com/posts/matthewlonsdaleofficial_most-analysts-i-know-were-never-taught-how-activity-7516698043006701568-Br85"
+    "https://www.linkedin.com/posts/jessicastutzman_osint-opensourceintelligence-intelligenceanalysis-activity-7432120971609714688-IopK",
+    "https://pe.linkedin.com/pulse/trust-your-gpt-verify-how-osint-analysts-can-outwit-crowden-cco-ccpa-j3b0e",
+    "https://pe.linkedin.com/pulse/intelligence-source-grading-ensuring-reliability-critical-mcquade-lgs1c",
+    "https://www.linkedin.com/posts/forensicosint_matthias-wilsonrecently-shared-a-practical-activity-7333477156246667266-FlIV",
+    "https://www.linkedin.com/pulse/navigating-information-jungle-how-admiralty-code-can-your-jan-novák-qllrf",
+    "https://www.linkedin.com/posts/chintangurjar_threatintelligence-osint-cybersecurity-activity-7245197389475594241-1XF4"
    ]
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ28頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ28頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ28頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ28頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ12頁・検索12回）"
  },
  "new_this_run": {
   "実例": [
    {
-    "quote": "no piece of information is normally of great value on its own. When first received it is like a sentence without its context. Signal intelligence for example, in its raw state is seldom intelligible on its own to anyone but the expert who extracts it or deciphers it… it cannot be read and understood, even when translated, in isolation",
-    "url": "https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/",
+    "quote": "support-example.example.com",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "carrowmere.example.com",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Run the work inside a Case in Forensic Mode so the search history and bookmarks sit with the grades. A reviewer can then see which search produced which graded item.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "@example_handle_support",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "secure-pay.example.org",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "An AML analyst at a payments firm reviews an incoming transfer from a wallet the customer says belongs to their trading company, Example Trading Ltd. A crypto forum post from an unknown account claims the same wallet belongs to an unrelated group.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The customer's claim is upgraded to C1 (confirmed by the company's own long-standing publication and an independent attribution). The forum claim drops to F5. The analyst records both, with dates, and closes the review with a note in the Case. Our",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Information ages. A B1 record of a company's directors from 2023 is good history and possibly stale fact. Add a \"valid as of\" date to every graded item and re-check anything older than your case's decision window.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Collect only what the question needs, record the lawful basis for the research, and keep graded data no longer than the case requires. Respect platform terms when you gather material. Where an item grades low, say so plainly and do not let it drive a decision about an individual on its own. And treat every automated or AI-assisted grade as a suggestion that an analyst confirms and signs.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT investigation guides, case studies and tooling deep-dives from the UserSearch team.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Here are some examples of Admiralty Code ratings and subsequent actions to be taken:",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Filing history and accounts consistent",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Register shows active status and recent filing",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How close was the source to the information it is reporting? Primary sources that have direct knowledge are generally more reliable than secondary sources that are passing along information.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "They mean \"no basis to judge yet\". E and 5 are the negative grades. Treating F6 as \"unreliable, false\" throws away leads; treating it as \"probably fine\" invites mistakes. It means: do the work.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", found that people rating trustworthiness put substantially more weight on the source than on the information. In other words, analysts naturally over-trust good sources and under-use good information from unknown ones. A written grade for each axis is the practical counter to that bias.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "of the information? This evaluates the source itself—its history, biases, and overall competence. Strong source reliability",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A common rookie mistake—and a dangerous one—is to conflate the two. An analyst might see a report from a top-tier cyber security firm (a source with high reliability) and automatically assume the information within is infallible.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Objectivity and Bias:",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "to quantify their assessments? Be aware of potential biases and distinguish between inherent bias and deliberate misdirection.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "You check a source’s reliability by evaluating it against established criteria, not just gut feeling. This involves assessing its historical accuracy, reputation in the security community, author expertise, transparency of data collection, and potential biases. A great intelligence framework for performing this analysis is the Admiralty Code.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A source is considered unreliable if it has a history of inaccuracies, bias, or the promotion of a particular perspective instead of presenting facts. A lack of transparency is also a red flag; if you don’t know how it obtained the information, it is untrustworthy. Treat anonymous sources with skepticism, considering whether they are involved in spreading disinformation.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "How the Admiralty (NATO) system grades source reliability A to F and information credibility 1 to 6, why most open-source items start at F6, how corroboration moves grades, and how to grade results from aggregated data sources.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Disclaimer: This article is for education and for lawful, authorised professional research. Use these methods only where you have a legitimate purpose and a lawful basis, and follow the laws and platform terms that apply to you, including data protection law such as the UK GDPR and EU GDPR. See our",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The oldest and most widely used scheme for this is the Admiralty system. This guide explains how it works, why so much open-source material starts at the bottom of the scale, how corroboration moves grades up, and how to grade results that reach you through an aggregated platform.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(fourth edition, 2023), treats evaluation, an appraisal of source reliability and information credibility, as a step in processing that comes before analysis. That order matters for commercial teams too. Grade on collection, then analyse. If you grade after you have formed a view, the view will seep into the grades.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Here is the manual method we teach. It works in a spreadsheet, and it works better when the grades are stored as structured data your tools can read.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step One: Split the Item into Source and Claim",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step Two: Grade the Source on History, Not Feel",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step Three: Grade the Claim on Corroboration and Plausibility",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step Four: Store the Grade as a Machine Tag",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step Five: Convert to STIX Confidence When You Share",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Corroboration is the engine of the whole system, and independence is what makes it count. Two sources that both copied the same original post are one source. Before you upgrade anything, ask whether the second source had its own access to the facts: a different dataset, a different collection method, a different moment in time.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OSINT Report Template: How to Write Findings Other Analysts Can Check",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Demystifying Source Reliability: How To Ensure Credible CTI - Kraven Security",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Demystifying Source Reliability: How to Ensure Credible CTI",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", you must evaluate them separately. This disciplined separation provides a structured framework to cut through the noise and improve your threat prioritization.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Measure Source Reliability and Information Credibility",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", you need a consistent method to measure its reliability and credibility.. This isn’t a gut feeling; it’s a methodical process based on a defined set of criteria.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Data Provenance and Methodology:",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "methods used to analyze it",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This robust framework provides a standard, unambiguous language for discussing source reliability and information credibility when performing intelligence analysis. Its",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Another popular framework, particularly within law enforcement communities, is the",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 1: Evaluate the Source (“GlitchFactor”)",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 2: Evaluate the Information (The “DataWipe” Ransomware)",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 3: Combine and Act",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Now you know how the Admiralty Code works, let’s explore some of the challenges of applying this framework to real-world CTI work.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The Admiralty Code framework was designed for evaluating “bomb and bullet” military intelligence, usually gathered through covert human sources. As such, applying this traditional intelligence framework to the cyber domain is not without its challenges.",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Even with a defined framework, grading has a human element. An analyst’s personal experience,",
+    "url": "https://kravensecurity.com/source-reliability-and-information-credibility/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ]
  },
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-05T09:11:14.119716+00:00"
 }
