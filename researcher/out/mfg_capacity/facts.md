@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・72品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・74品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -4215,3 +4215,71 @@
 - 生産能力・設備：記載なし（読んだ36頁・検索15回）
 - 10年推移：記載なし（読んだ36頁・検索15回）
 - 人手と仕事の差：記載なし（読んだ36頁・検索15回）
+
+## 全国鍍金工業組合連合会の自身の公表（組合員数・従業者数・めっき加工の統計・団体でないサイトの写しを除く・4-43）（Japan electroplating industry federation own statistics members employees）
+- 文脈：団体・統計
+- 事業所数・社数：記載なし（読んだ42頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ42頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ42頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ42頁・検索15回）
+- 生産能力・設備：記載なし（読んだ42頁・検索15回）
+- 10年推移：記載なし（読んだ42頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ42頁・検索15回）
+
+## 毎月勤労統計調査 製造業 事業所規模別 現金給与総額 年平均（共通事業所系列・再集計値・抽出替えの段差をまたがない・給与の下限・4-17・4-43）（Monthly Labour Survey manufacturing establishment size annual average cash earnings common establishments series）
+- 文脈：給与・統計
+- 事業所数・社数：
+  - 「※ 第一種事業所については、調査対象事業所数が調査計画から不足していたことから、①令和３年～令和４年の約２年間調査を行うグループを創設、②令和３年1月と令和４年１月の部分入替え」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf）
+  - 「公営事業所の推計労働者数(R1) = 公営事業所の労働者数(H26) × 既存の公営事業所数(R1)公営事業所数(H26) ＋新規の公営事業所の労働者数(R1)」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf）
+  - 「○ ベンチマーク 更新を行う前のサンプル入替えの影響に ついて規模別 の寄与をみると、30～99人規模の影響が大きい」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf）
+  - 「30～99人 ＋0.6」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf）
+  - 「30～99人 ＋0.4」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf）
+  - 「30～99人 260,638 253,539 7,099（＋2.8％）」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf）
+  - 「30～99人 269,672 264,448 5,224（＋2.0％）」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf）
+  - 「30～99人 4,243 1,436（33.8％）」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf）
+  - 「30～99人 1,170.3 22.4 1,225.5 24.0 260,638 259,682 132.7 132.4 -956 -0.11 -0.3 -0.02」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf）
+  - 「第一種事業所（30人以上規模）は1万6700の事業所を調査していることになっていたのだが、実際に調査されていた事業所数はそれよりも5000程度少なく、公表値の7割程度しかなかったとされる」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「で具体的な標本事業所数が確認できるのは1996年（平成8年）以降だけであり、それ以前については定かでない」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「そのうえで、その後におこなった全国調査においては調査対象事業所数を減らし、また東京都のみ他道府県と異なる抽出率としたことを指摘し、承認を受けた調査計画と実際の調査方法との間に齟齬を生じさせたことは統計法9条及び11条違反だとした」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+- 社員数・平均社員数：
+  - 「賃金指数：（事業所規模５人以上） （2020（令和２）年平均＝１００）」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx）
+  - 「賃金指数：一 般 労 働 者 パートタイム労働者 事業所規模30人以上」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx）
+  - 「時間指数：（事業所規模５人以上） （2020（令和２）年平均＝１００）」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx）
+  - 「時間指数：一 般 労 働 者 パートタイム労働者 事業所規模30人以上」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx）
+  - 「雇用指数：（事業所規模５人以上） （2020（令和２）年平均＝１００）」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct03r.xlsx）
+  - 「雇用指数：一 般 労 働 者 パートタイム労働者 事業所規模30人以上」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct03r.xlsx）
+  - 「パート比率：（事業所規模５人以上）」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct04r.xlsx）
+  - 「労働異動率：（事業所規模５人以上）」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct05r.xlsx）
+  - 「賃金指数：（事業所規模５人以上） （令和２年平均＝１００）」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct01r.xlsx）
+  - 「賃金指数：一 般 労 働 者 パートタイム労働者 事業所規模30人以上」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct01r.xlsx）
+  - 「時間指数：（事業所規模５人以上） （令和２年平均＝１００）」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct02r.xlsx）
+  - 「時間指数：一 般 労 働 者 パートタイム労働者 事業所規模30人以上」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct02r.xlsx）
+  - 「雇用指数：（事業所規模５人以上） （令和２年平均＝１００）」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct03r.xlsx）
+  - 「雇用指数：一 般 労 働 者 パートタイム労働者 事業所規模30人以上」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct03r.xlsx）
+  - 「パート比率：（事業所規模５人以上）」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct04r.xlsx）
+- 受注金額・加工賃収入：
+  - 「この規定の違反者は、50万円以下の」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「後にこの規定は19条に移り、罰金の金額も「10万円以下」まで引き上げられている」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「以前の統計法60条は「次の各号のいずれかに該当する者は、六月以下の懲役又は五十万円以下の罰金に処する」としたうえで、その2号で「基幹統計の作成に従事する者で基幹統計をして真実に反するものたらしめる行為をした者」」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+- 1人あたり・1社あたり金額：
+  - 「この規定の違反者は、50万円以下の」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「後にこの規定は19条に移り、罰金の金額も「10万円以下」まで引き上げられている」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+  - 「以前の統計法60条は「次の各号のいずれかに該当する者は、六月以下の懲役又は五十万円以下の罰金に処する」としたうえで、その2号で「基幹統計の作成に従事する者で基幹統計をして真実に反するものたらしめる行為をした者」」（https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+- 10年推移：
+  - 「指数及び前年比などの増減率は、調査事業所の抽出替え等に伴い、過去に遡って改訂されることがあります」（https://www.mhlw.go.jp/toukei/list/30-1a.html）
+  - 「2025（令和7）年」（https://www.mhlw.go.jp/toukei/list/30-1a.html）
+  - 「2024（令和6）年」（https://www.mhlw.go.jp/toukei/list/30-1a.html）
+  - 「2023（令和5）年」（https://www.mhlw.go.jp/toukei/list/30-1a.html）
+  - 「2022（令和4）年」（https://www.mhlw.go.jp/toukei/list/30-1a.html）
+  - 「2021（令和3）年」（https://www.mhlw.go.jp/toukei/list/30-1a.html）
+  - 「2020（令和2）年」（https://www.mhlw.go.jp/toukei/list/30-1a.html）
+  - 「毎月勤労統計調査ー2025（令和7）年分結果確報」（https://www.mhlw.go.jp/toukei/list/30-1a.html）
+  - 「毎月勤労統計調査ー2025（令和７）年度分結果確報」（https://www.mhlw.go.jp/toukei/list/30-1a.html）
+  - 「毎月勤労統計調査−2025（令和7）年9月分結果速報及び2025（令和7）年夏季賞与の結果」（https://www.mhlw.go.jp/toukei/list/30-1a.html）
+  - 「毎月勤労統計調査−2026（令和8）年2月分結果速報及び2025（令和7）年年末賞与の結果」（https://www.mhlw.go.jp/toukei/list/30-1a.html）
+  - 「毎月勤労統計調査 2025（令和７）年分結果確報｜厚生労働省」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/25cr.html）
+  - 「毎月勤労統計調査 2025（令和７）年分結果確報」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/25cr.html）
+  - 「時系列第1表 賃金指数」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/25cr.html）
+  - 「時系列第2表 労働時間指数」（https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/25cr.html）
+- 生産能力・設備：記載なし（読んだ44頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ44頁・検索15回）

@@ -8,7 +8,7 @@
  ],
  "context": "書き方",
  "kind": "market",
- "researched_at": "2026-11-05T17:20:36.267511+00:00",
+ "researched_at": "2026-11-05T19:04:43.035986+00:00",
  "evidence": {
   "失敗・落とし穴": [
    {
@@ -111,42 +111,42 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://en.wikipedia.org/wiki/Jurisdiction",
+    "url": "https://note.com/note_hanbai_lab/n/neeeb5a41ad80",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.dictionary.com/browse/jurisdiction",
+    "url": "https://note.com/moritomokyan/n/n3302ffe0697d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.merriam-webster.com/dictionary/jurisdiction",
+    "url": "https://note.com/airi_study_life/n/n0ce90bdc33f2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cocowrite/n/n8481fac195e3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/umigameobasan/n/n3e92bc1539e1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_create_sho/n/nc69e649a506a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pangearesearch.substack.com/p/show-your-work-the-intelligence-standard",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://dictionary.cambridge.org/dictionary/english/jurisdiction",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.law.cornell.edu/wex/jurisdiction",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://legaldictionary.net/jurisdiction/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://catill.bitbucket.io/CM/5_1_5_1.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jenni.ai/ja/blog/what-is-a-credible-source",
     "status": "ok",
     "method": "http"
    },
@@ -161,13 +161,13 @@
     "method": "browser"
    },
    {
-    "url": "https://hybrid-analysis.com/sample/c2fc06662c3b01ad58f02d8702519b6f1577b1424c901fa8174a91a1eb915ac7",
+    "url": "https://jenni.ai/ja/blog/what-is-a-credible-source",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.worldoftest.com/ja/print/pdf/node/5895",
-    "status": "http_403",
+    "url": "https://hybrid-analysis.com/sample/c2fc06662c3b01ad58f02d8702519b6f1577b1424c901fa8174a91a1eb915ac7",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -221,24 +221,19 @@
     "method": "http"
    },
    {
-    "url": "https://bunzen.co.jp/manage/wp-content/uploads/2019/10/BZLib-101_EMA_RP_r1.2.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.zentsuken.net/journal/file/144_5.html",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://archive.dni.gov/files/documents/ICD/ICD-206.pdf",
-    "status": "http_403",
+    "url": "https://bunzen.co.jp/manage/wp-content/uploads/2019/10/BZLib-101_EMA_RP_r1.2.pdf",
+    "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://pangearesearch.substack.com/p/show-your-work-the-intelligence-standard",
+    "url": "https://archive.dni.gov/files/documents/ICD/ICD-206.pdf",
     "status": "http_403",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://pangearesearch.io/research/sourcing-for-osint-icd-206-01/",
@@ -259,6 +254,11 @@
     "url": "https://www.hsdl.org/document/480352",
     "status": "ok",
     "method": "browser"
+   },
+   {
+    "url": "https://www.intelligence.gov/assets/documents/intelligence-community-directives/ICD_203.pdf",
+    "status": "http_403",
+    "method": "pdf"
    }
   ]
  },
@@ -266,31 +266,28 @@
   {
    "query": "情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け site:note.com",
    "results": [
-    "https://en.wikipedia.org/wiki/Jurisdiction",
-    "https://www.dictionary.com/browse/jurisdiction",
-    "https://www.merriam-webster.com/dictionary/jurisdiction",
-    "https://dictionary.cambridge.org/dictionary/english/jurisdiction",
-    "https://www.law.cornell.edu/wex/jurisdiction",
-    "https://legaldictionary.net/jurisdiction/",
-    "https://www.britannica.com/topic/jurisdiction",
-    "https://www.worldlawdigest.com/usa/courts/what-is-jurisdiction",
-    "https://lawdefiner.com/jurisdiction-meaning/",
-    "https://uslawexplained.com/jurisdiction"
+    "https://note.com/note_hanbai_lab/n/neeeb5a41ad80",
+    "https://note.com/moritomokyan/n/n3302ffe0697d",
+    "https://note.com/airi_study_life/n/n0ce90bdc33f2",
+    "https://note.com/cocowrite/n/n8481fac195e3",
+    "https://note.com/umigameobasan/n/n3e92bc1539e1",
+    "https://note.com/ai_create_sho/n/nc69e649a506a",
+    "https://note.com/reportai_jp/n/n69fd86817c96"
    ]
   },
   {
    "query": "情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け note",
    "results": [
+    "https://pangearesearch.substack.com/p/show-your-work-the-intelligence-standard",
     "https://catill.bitbucket.io/CM/5_1_5_1.html",
-    "https://jenni.ai/ja/blog/what-is-a-credible-source",
     "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
     "https://academy.claude.com/ja/use-cases/legal-research-memo",
+    "https://jenni.ai/ja/blog/what-is-a-credible-source",
     "https://hybrid-analysis.com/sample/c2fc06662c3b01ad58f02d8702519b6f1577b1424c901fa8174a91a1eb915ac7",
-    "https://www.worldoftest.com/ja/print/pdf/node/5895",
-    "https://note.com/shore9999/n/ncbe0fb8eb5ca",
+    "https://www.worldoftest.com/ja/print/pdf/node/6768",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.coinex.zone/ja/academy/2882/related-articles",
-    "https://www.publix.com/pharmacy/pharmacy-services/vaccines/flu"
+    "https://note.com/shore9999/n/ncbe0fb8eb5ca",
+    "https://www.intelligence.gov/assets/documents/intelligence-community-directives/ICD_206.pdf"
    ]
   },
   {
@@ -304,8 +301,7 @@
     "https://concours.toshokan.or.jp/concours/reference",
     "https://www.medinew.jp/articles/promotion/production/references",
     "https://www.hiroshima-u.ac.jp/wrc/howtowrite/Citation",
-    "https://rs.usaco.co.jp/column/editage/how-to-23.html",
-    "https://social.msdn.microsoft.com/Forums/expression/en-US/194e4961-2ddc-45f5-b7b2-e88f28e03a3c/listbox-want-to-add-trigger-propertyispressed-valuetrue-which-is-not-working-and-saying"
+    "https://rs.usaco.co.jp/column/editage/how-to-23.html"
    ]
   },
   {
@@ -313,12 +309,12 @@
    "results": [
     "https://davidbioinformatics.nih.gov/content.jsp?file=citation.htm",
     "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://jenni.ai/ja/blog/what-is-a-credible-source",
     "https://www.worldoftest.com/ja/print/pdf/node/6768",
     "https://hybrid-analysis.com/sample/f4f43a7e76ccc770577f52c91241cad84ff60efe1a5def93e0412274498fb3ab/6a7691343ccd1d177d0a3af7",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://jenni.ai/ja/blog/what-is-a-credible-source",
-    "https://bunzen.co.jp/manage/wp-content/uploads/2019/10/BZLib-101_EMA_RP_r1.2.pdf",
     "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://bunzen.co.jp/manage/wp-content/uploads/2019/10/BZLib-101_EMA_RP_r1.2.pdf",
     "https://support.irdb.nii.ac.jp/ja/harvest/jpcoar/dataprovide_jalc"
    ]
   },
@@ -334,67 +330,55 @@
     "https://www.intelligence.gov/assets/documents/intelligence-community-directives/ICD_203.pdf",
     "https://archive.dni.gov/files/documents/ICD/ICS-206-01.pdf",
     "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
-    "https://en.m.wikipedia.org/wiki/Implantable_cardioverter-defibrillator"
+    "https://www.intelligence.gov/assets/documents/intelligence-community-directives/ICD_206.pdf"
    ]
   },
   {
    "query": "site:note.com 情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け",
    "results": [
-    "https://www.reddit.com/r/NikkeMobile/comments/17i2ume/for_those_who_completed_snow_white_event_in_over/",
-    "https://m.youtube.com/watch?v=8WrTmqgbIMo",
-    "https://janitorai.com/characters/c1233829-236f-4dc4-9e87-34daeb7c3b56_character-liliweiss-post-goddess-fall",
-    "https://nikke-goddess-of-victory-international.fandom.com/wiki/Goddess_Fall_(event)",
-    "https://nikke-goddess-of-victory-international.fandom.com/wiki/Goddess_Fall",
-    "https://nikke.gg/story-characters/",
-    "https://nikke.gg/the-lore-that-changes-everything-what-nikkes-story-is-really-about/",
-    "https://www.reddit.com/r/NikkeMobile/comments/13auamg/lore_theoryquestion_event_spoilers/",
-    "https://m.youtube.com/watch?v=vgEhv6qZHmk",
-    "https://ttiantech.com/game/nikke-event-goddess-fall/"
+    "https://note.com/note_hanbai_lab/n/neeeb5a41ad80",
+    "https://note.com/moritomokyan/n/n3302ffe0697d",
+    "https://note.com/kensho_note/n/n80379e531cfb",
+    "https://note.com/umigameobasan/n/n3e92bc1539e1",
+    "https://note.com/goldmist1959/n/n88276ab96488",
+    "https://note.com/worksflow/n/n091fa3d00856",
+    "https://note.com/cocowrite/n/n8481fac195e3"
    ]
   },
   {
    "query": "site:x.com 情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け",
    "results": [
-    "https://en.wikipedia.org/wiki/Google_Drive",
-    "https://workspace.google.com/intl/es/products/drive/",
-    "https://www.google.com/intx/en/drive/download/",
-    "https://support.google.com/drive/answer/10838124?hl=en",
-    "https://support.google.com/a/users/answer/13022292?hl=en",
-    "https://drive.google.com/",
-    "https://accounts.google.com/InteractiveLogin?emr=1&ltmpl=homepage&service=writely",
-    "https://drive.google.com/drive/u/0/home",
-    "https://workspace.google.com/products/drive/",
-    "https://myaccount.google.com/"
+    "https://jf.x.com/images/media-preview/2115719028056682706",
+    "https://x.com/okayamamental/status/2064838826275868943",
+    "https://x.com/gyunyuringojus/status/2104165428360888355",
+    "https://x.com/aooi_AI/status/2065590127624339574",
+    "https://x.com/Suji_kin_DV/status/2031392251918823772",
+    "https://x.com/NagatabiP/status/2092109081796571214",
+    "https://x.com/nxqnxp/status/2078156349788348590"
    ]
   },
   {
    "query": "site:linkedin.com 情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け",
    "results": [
-    "https://www.microsoft.com/en-us/microsoft-365/microsoft-defender-for-individuals",
-    "https://www.microsoft.com/en-us/microsoft-365/microsoft-defender-subscribers",
-    "https://support.microsoft.com/en-us/defender/installing-microsoft-defender",
-    "https://security.microsoft.com/",
-    "https://learn.microsoft.com/en-us/defender-business/mdb-get-started",
-    "https://apps.microsoft.com/detail/9p6pmztm93lr",
-    "https://support.microsoft.com/en-us/defender/how-to-start-a-scan-for-viruses-or-malware-in-microsoft-defender",
-    "https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-antivirus-windows",
-    "https://www.wikihow.com/Turn-On-Windows-Defender",
-    "https://apps.microsoft.com/detail/9p6pmztm93lr?hl=en-GB&gl=GB"
+    "https://www.linkedin.com/posts/jessicastutzman_intelligence-intelligenceanalysis-sourcing-activity-7428112139405414400-PYxz",
+    "https://www.linkedin.com/posts/odni_ics-206-01pdf-activity-7269818693260349440-zVb5",
+    "https://www.linkedin.com/pulse/uncertainty-design-why-icd-203206-guardrails-matter-more-joshua-gobin-wywse",
+    "https://www.linkedin.com/pulse/ai-enabled-intelligence-advancing-tradecraft-through-icd-joshua-gobin-m6yze?tl=en",
+    "https://www.linkedin.com/posts/osint-foundation_osint-opensourceintelligence-intelligence-activity-7416462289769390080-zdSW",
+    "https://www.linkedin.com/posts/jessicastutzman_osint-intelligencecommunity-opensourceintelligence-activity-7428900130843602944-xlft",
+    "https://jp.linkedin.com/pulse/osint-isnt-problem-undisciplined-analysis-joshua-gobin-zopbe?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com 情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け",
    "results": [
-    "https://en.m.wikipedia.org/wiki/Gaylord_Opryland_Resort_&_Convention_Center",
-    "https://www.booking.com/hotel/us/gaylord-opryland-resort-convention-center.html",
-    "https://www.christmasatgaylordopryland.com/resort-experience",
-    "https://www.marriott.com/en-us/hotels/bnago-gaylord-opryland-resort-and-convention-center/overview/",
-    "https://gaylord-opryland-resort-convention-center.atnashvillehotels.com/en/",
-    "https://www.southernliving.com/what-to-do-at-nashville-gaylord-opryland-resort-7481521",
-    "https://www.marriott.com/en-us/hotels/bnago-gaylord-opryland-resort-and-convention-center/rooms/",
-    "https://www.christmasatgaylordopryland.com/",
-    "https://www.tripadvisor.com/Hotel_Review-g55229-d105443-Reviews-Gaylord_Opryland_Resort_Convention_Center-Nashville_Davidson_County_Tennessee.html",
-    "https://www.gaylordhotels.com/"
+    "https://www.facebook.com/jsqsh.anzen2005/",
+    "https://www.facebook.com/japan.icd.org/",
+    "https://www.facebook.com/TCROSS.NEWS.JP/posts/26jcs速報-日本人患者におけるicd及びwcdの適応と予後-transition-japan-icdwcd研究transition-japan-icdwcd/1774378210478518/",
+    "https://www.facebook.com/people/第21回-医療の質安全学会-学術集会/61588115708138/",
+    "https://www.facebook.com/iwamibeer/posts/缶充填の豆知識202缶206缶について最近ほぼ毎日のように問い合わせがあるので再度情報をアップしますアルミ缶には蓋の口径により202缶204缶206缶があります/795790365891631/",
+    "https://www.facebook.com/TCROSS.NEWS.JP/posts/esccongress2025高リスクのmi後の患者におけるicdの効果-refine-icd試験refine-icd試験よりホルター心電図で異常が認められたm/1596895034893504/",
+    "https://www.facebook.com/100067669523711/posts/テキスト正誤表第２版-第11刷用を追加厚生労働省カリキュラム準拠要約筆記者養成テキスト正誤表第２版-第11刷用を追加しましたお手持ちのテキストの版をご確認の上ご/969071825358459/"
    ]
   },
   {
@@ -406,10 +390,9 @@
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.coinex.zone/ja/academy/2882/related-articles",
     "https://www.worldoftest.com/ja/print/pdf/node/6768",
-    "https://note.com/isaot/n/n19cb9c654269",
     "https://www.tmj.jp/column/column_23826/",
-    "https://rs.usaco.co.jp/column/editage/how-to-23.html",
-    "https://www.sephora.com/"
+    "https://note.com/jacoby/n/n90477ed0cf3e",
+    "https://rs.usaco.co.jp/column/editage/how-to-23.html"
    ]
   },
   {
@@ -423,23 +406,19 @@
     "https://hybrid-analysis.com/sample/ea6e09e356c4346e9fff8b145837bdc1a16367ee5f6e9104e7988ca462214fc1/5c6cf2077ca3e1325a6b4334",
     "https://catill.bitbucket.io/CM/5_1_5_1.html",
     "https://milab.mi-6.co.jp/article/t0004",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://mapdoor.com/us/ok/oklahoma-city/starbucks/ne-13th-st"
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text"
    ]
   },
   {
    "query": "ICD 206 sourcing requirements source descriptors source summary statement confidence likelihood site:linkedin.com",
    "results": [
-    "https://en.m.wikipedia.org/wiki/Implantable_cardioverter-defibrillator",
-    "https://www.icd10data.com/",
-    "https://www.cdc.gov/nchs/icd/icd-10-cm/index.html",
-    "https://www.mayoclinic.org/tests-procedures/implantable-cardioverter-defibrillators/about/pac-20384692",
-    "https://icdlist.com/",
-    "https://www.heart.org/en/health-topics/arrhythmia/prevention--treatment-of-arrhythmia/implantable-cardioverter-defibrillator-icd",
-    "https://icd10source.com/",
-    "https://icdlist.com/icd-10/look-up",
-    "https://www.icd10data.com/ICD10CM/Codes",
-    "https://icd.who.int/en/"
+    "https://www.linkedin.com/posts/jessicastutzman_intelligence-intelligenceanalysis-sourcing-activity-7428112139405414400-PYxz",
+    "https://www.linkedin.com/pulse/uncertainty-design-why-icd-203206-guardrails-matter-more-joshua-gobin-wywse",
+    "https://www.linkedin.com/top-content/productivity/creating-effective-standard-operating-procedures/standardizing-expertise-in-intelligence-work/",
+    "https://it.linkedin.com/posts/mirkolapi_con-il-rilascio-delle-nuove-linee-guida-ics-activity-7271843491519811584-2_sw",
+    "https://business.linkedin.com/hire/resources/how-to-hire-guides",
+    "https://www.linkedin.com/posts/odni_ics-206-01pdf-activity-7269818693260349440-zVb5",
+    "https://www.linkedin.com/pulse/accountability-mandate-why-corporate-intelligence-requires-gobin-0flse"
    ]
   }
  ],
@@ -448,6 +427,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-05T15:19:45.423228+00:00"
 }

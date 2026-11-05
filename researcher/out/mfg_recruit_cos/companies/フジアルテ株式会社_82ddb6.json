@@ -5,7 +5,7 @@
   "しごとアルテ"
  ],
  "context": "製造業特化（派遣・求人サイト）",
- "researched_at": "2026-11-05T10:58:27.176762+00:00",
+ "researched_at": "2026-11-05T18:58:57.755249+00:00",
  "official_url": "https://www.fujiarte.co.jp/",
  "identified_by": "given",
  "profile": {
@@ -24,6 +24,12 @@
    },
    {
     "label": "従業員数",
+    "value": "100名以上",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
     "value": "100名以上 500名以上 1,000名以上 5,000名以上 10,000名以上 20,000名以上",
     "url": "https://fujiarte.co.jp/results/case",
     "pass": 1
@@ -36,14 +42,14 @@
    },
    {
     "label": "従業員数",
-    "value": "100名以上",
-    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "value": "1,000名以上",
+    "url": "https://fujiarte.co.jp/results/case/post-253",
     "pass": 1
    },
    {
     "label": "従業員数",
-    "value": "1,000名以上",
-    "url": "https://fujiarte.co.jp/results/case/post-253",
+    "value": "10,000名以上",
+    "url": "https://fujiarte.co.jp/results/case/post-248",
     "pass": 1
    },
    {
@@ -175,9 +181,9 @@
     "pass": 3
    },
    {
-    "label": "設立",
-    "value": "設立：1995年03月",
-    "url": "https://prtimes.jp/main/html/rd/p/000000017.000143827.html",
+    "label": "創業",
+    "value": "創業：1962年",
+    "url": "https://www.manufacturing-hr.com/company/arte.html",
     "pass": 3
    },
    {
@@ -187,9 +193,9 @@
     "pass": 3
    },
    {
-    "label": "創業",
-    "value": "創業：1962年",
-    "url": "https://www.manufacturing-hr.com/company/arte.html",
+    "label": "設立",
+    "value": "設立：1995年03月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000017.000143827.html",
     "pass": 3
    },
    {
@@ -406,14 +412,14 @@
    },
    {
     "label": "資本金",
-    "value": "5000万円",
-    "url": "https://prtimes.jp/main/html/rd/p/000000017.000143827.html",
+    "value": "5,000万円（グループ資本金 合計 1億6,800万円）",
+    "url": "https://www.manufacturing-hr.com/company/arte.html",
     "pass": 3
    },
    {
     "label": "資本金",
-    "value": "5,000万円（グループ資本金 合計 1億6,800万円）",
-    "url": "https://www.manufacturing-hr.com/company/arte.html",
+    "value": "5000万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000017.000143827.html",
     "pass": 3
    },
    {
@@ -474,6 +480,12 @@
    },
    {
     "label": "代表者名",
+    "value": "平尾 隆志",
+    "url": "https://shachomeikan.jp/industry_article/2593",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
     "value": "平尾　隆志",
     "url": "https://prtimes.jp/main/html/rd/p/000000017.000143827.html",
     "pass": 3
@@ -482,12 +494,6 @@
     "label": "・代表者",
     "value": "代表取締役社長 平尾 隆志",
     "url": "https://prtimes.jp/main/html/rd/p/000000017.000143827.html",
-    "pass": 3
-   },
-   {
-    "label": "代表者名",
-    "value": "平尾 隆志",
-    "url": "https://shachomeikan.jp/industry_article/2593",
     "pass": 3
    },
    {
@@ -607,6 +613,12 @@
     "pass": 3
    },
    {
+    "label": "事業概要",
+    "value": "総合人材サービス業／製造アウトソーシング業、労働者派遣事業・労働大臣許可／（派）27-300012、有料職業紹介事業・労働大臣許可／27-ユ-300013",
+    "url": "https://shachomeikan.jp/industry_article/2593",
+    "pass": 3
+   },
+   {
     "label": "・事業内容",
     "value": "金属、プラスチックとそれらの複合材料を素材とした包装容器の設計・開発・製造・販売、食品関連機械、包装システムの販売および技術サービス",
     "url": "https://prtimes.jp/main/html/rd/p/000000017.000143827.html",
@@ -616,12 +628,6 @@
     "label": "・事業内容",
     "value": "総合人材サービス事業、人材派遣事業、人材紹介事業、アウトソーシング事業",
     "url": "https://prtimes.jp/main/html/rd/p/000000017.000143827.html",
-    "pass": 3
-   },
-   {
-    "label": "事業概要",
-    "value": "総合人材サービス業／製造アウトソーシング業、労働者派遣事業・労働大臣許可／（派）27-300012、有料職業紹介事業・労働大臣許可／27-ユ-300013",
-    "url": "https://shachomeikan.jp/industry_article/2593",
     "pass": 3
    }
   ],
@@ -763,6 +769,132 @@
    {
     "quote": "国内営業拠点37箇所の採用ネットワークを活用した全国採用で人材不足を迅速に解決",
     "url": "https://fujiarte.co.jp/about/strength",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "グローバル人材採用×チーム派遣と、リーダー常駐体制の構築により、在籍目標100名・定着率97.6％・出勤率98.3％を実現した生産チーム垂直立ち上げプロジェクト | 製造業の人材派遣会社ならフジアルテ",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "グローバル人材採用×チーム派遣と、リーダー常駐体制の構築により、在籍目標100名・定着率97.6％・出勤率98.3％を実現した生産チーム垂直立ち上げプロジェクト",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "100名の採用依頼",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特に、現地スタッフに加えて先行OJTによる習熟した現場リーダー・スタッフの採用により、",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "定着率の悪化による採用育成コストの負担増を予防",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コロナ禍による安全確保を目的とした厳格な条件を乗り越えて、3ヶ月で85名の新規採用を実現した、戦略的スピード採用プロジェクト",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用方法比較リスト、外国人雇用ハンドブックなど資料をダウンロード頂けます",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "創業以来これまで培ってきた実績とノウハウから、安全や品質や生産性を向上する独自のものづくり力と、採用から定着 そして人材育成やキャリア形成支援などのひとづくり力向上をはかり、改善への取り組みや制度・仕組みづくりなど、日々努力を重ねています",
+    "url": "https://fujiarte.co.jp/about/company-philosophy",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用方法比較リスト、外国人雇用ハンドブックなど資料をダウンロード頂けます",
+    "url": "https://fujiarte.co.jp/about/company-philosophy",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用難と急増産を乗り越える！ グローバル人材の教育体制構築と復職支援による生産力向上プロジェクト",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用方法比較リスト、外国人雇用ハンドブックなど資料をダウンロード頂けます",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フジアルテWeb採用推進チームが 近畿支部主催QCサークル大会で支部長賞と優秀賞のダブル受賞！",
+    "url": "https://fujiarte.co.jp/results/qc_circle",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用方法比較リスト、外国人雇用ハンドブックなど資料をダウンロード頂けます",
+    "url": "https://fujiarte.co.jp/results/qc_circle",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用情報 | 製造業の人材派遣会社ならフジアルテ",
+    "url": "https://fujiarte.co.jp/recruit-list",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一緒にフジアルテを盛り上げていただける方を募集しております",
+    "url": "https://fujiarte.co.jp/recruit-list",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新卒採用・中途採用・エンジニア採用・グローバル採用を行っています",
+    "url": "https://fujiarte.co.jp/recruit-list",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用方法比較リスト、外国人雇用ハンドブックなど資料をダウンロード頂けます",
+    "url": "https://fujiarte.co.jp/recruit-list",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2026年度 プロダクト・エンジニア職採用の内定式を開催しました",
+    "url": "https://fujiarte.co.jp/recruit/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2026年度 総合職採用 23期生 内定式を開催しました",
+    "url": "https://fujiarte.co.jp/recruit/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "外国人就業者の高い出勤率を実現した採用改善プロジェクト",
+    "url": "https://fujiarte.co.jp/results/case/post-86",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用方法比較リスト、外国人雇用ハンドブックなど資料をダウンロード頂けます",
+    "url": "https://fujiarte.co.jp/results/case/post-86",
     "pass": 1,
     "first_seen": "2026-11-05"
    },
@@ -1067,479 +1199,15 @@
     "pass": 1
    }
   ],
-  "料金": [
-   {
-    "quote": "13,490百万円（2019年3月期）",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "8,323百万円（2019年3月期）",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「品質を維持し、ムダな費用をかけずに納期を遵守",
-    "url": "https://fujiarte.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/services",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/services",
-    "pass": 1
-   },
-   {
-    "quote": "完全成功報酬型",
-    "url": "https://fujiarte.co.jp/services/dispatch",
-    "pass": 1
-   },
-   {
-    "quote": "募集広告費などの採用活動にかかる費用の削減、採用担当者のマンパワーの削減ができます",
-    "url": "https://fujiarte.co.jp/services/dispatch",
-    "pass": 1
-   },
-   {
-    "quote": "派遣料金はどのように決まりますか？",
-    "url": "https://fujiarte.co.jp/services/dispatch",
-    "pass": 1
-   },
-   {
-    "quote": "品質管理検定や自主保全士などの取得費用は、全額を会社が負担します",
-    "url": "https://fujiarte.co.jp/services/dispatch",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/services/dispatch",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/services/dispatch",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/services/global-workers",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/services/global-workers",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/services/engineer-dispatch",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/services/engineer-dispatch",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/services/new-graduate",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/services/new-graduate",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/services/contract",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/services/contract",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/services/mobility",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/services/mobility",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/about",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/about",
-    "pass": 1
-   },
-   {
-    "quote": "5,000万円（連結2億9,804万円）",
-    "url": "https://fujiarte.co.jp/about/company-overview",
-    "pass": 1
-   },
-   {
-    "quote": "1,000万円",
-    "url": "https://fujiarte.co.jp/about/company-overview",
-    "pass": 1
-   },
-   {
-    "quote": "9,000万円",
-    "url": "https://fujiarte.co.jp/about/company-overview",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/about/company-overview",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/about/company-overview",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/about/network",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/about/network",
-    "pass": 1
-   },
-   {
-    "quote": "派遣先は、派遣労働者の能力が向上したら派遣料金を値上げすべきか？",
-    "url": "https://fujiarte.co.jp/about/strength",
-    "pass": 1
-   },
-   {
-    "quote": "品質管理検定、自主保全士などの教育訓練・資格取得費用は、全額会社負担します",
-    "url": "https://fujiarte.co.jp/about/strength",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/about/strength",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/about/strength",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/about/company-philosophy",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/about/company-philosophy",
-    "pass": 1
-   },
-   {
-    "quote": "「品質を維持し(Q)､ムダな費用をかけずに(C)､納期を遵守し(D)、且つ、安全に(S)」を常に意識し、お客様に貢献できるように努めます",
-    "url": "https://fujiarte.co.jp/about/csr",
-    "pass": 1
-   },
-   {
-    "quote": "（回答をお送りする書留郵便料金として使用します）（2023年6月1日現在）",
-    "url": "https://fujiarte.co.jp/about/csr",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/about/csr",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/about/csr",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/about/compliance",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/about/compliance",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/results",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/results",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/results/case",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/results/case",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/results/qc_circle",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/results/qc_circle",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/recruit-list",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/recruit-list",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/topics/post-8626",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/topics/post-8626",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/results/case/post-86",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/results/case/post-86",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/results/case/post-254",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/results/case/post-254",
-    "pass": 1
-   },
-   {
-    "quote": "サービス内容、料金体系など、お気軽に",
-    "url": "https://fujiarte.co.jp/results/case/post-253",
-    "pass": 1
-   },
-   {
-    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
-    "url": "https://fujiarte.co.jp/results/case/post-253",
-    "pass": 1
-   },
-   {
-    "quote": "50百万円（2019年3月期）",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
-    "pass": 3
-   },
-   {
-    "quote": "1,818百万円（2019年3月期）",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
-    "pass": 3
-   }
-  ],
-  "株主構成": [
-   {
-    "quote": "プライム上場企業を始め4000社以上が導入する人事管理システム「カオナビ」を展開するグロース上場企業",
-    "url": "https://shachomeikan.jp/industry_article/2593",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "全国に40拠点を展開するプライム上場企業",
-    "url": "https://shachomeikan.jp/industry_article/2593",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【ダイハツグループ】ダイハツ工業100％出資の安定した基盤",
-    "url": "https://www.gakujo.ne.jp/campus/company/baseinfo/68585/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "子会社の株式会社平山の改善事例を紹介します",
-    "url": "https://www.manufacturing-hr.com/feature/examples.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "フジアルテスタッフサポートセンター株式会社(障がい者雇用特例子会社)",
-    "url": "https://fujiarte.co.jp/about/company-overview",
-    "pass": 1
-   },
-   {
-    "quote": "（障がい者雇用特例子会社）データ入力、スキャニングサービス事業",
-    "url": "https://fujiarte.co.jp/about/company-overview",
-    "pass": 1
-   },
-   {
-    "quote": "フジアルテスタッフサポートセンター株式会社（障がい者雇用特例子会社）設立",
-    "url": "https://fujiarte.co.jp/about/company-overview",
-    "pass": 1
-   },
-   {
-    "quote": "株式会社シンコムの子会社化",
-    "url": "https://fujiarte.co.jp/about/company-overview",
-    "pass": 1
-   },
-   {
-    "quote": "株式会社ファーストステップの子会社化",
-    "url": "https://fujiarte.co.jp/about/company-overview",
-    "pass": 1
-   },
-   {
-    "quote": "当社は、企業経営において、株主にとどまらず、従業員、取引先、顧客、債権者、地域社会をはじめとする多様なステークホルダーとの価値協創が重要となっていることを踏まえ、マルチステークホルダーとの適切な協働に取り組んでまいります",
-    "url": "https://fujiarte.co.jp/about/csr",
-    "pass": 1
-   },
-   {
-    "quote": "また、フジアルテグループ会社のフジアルテサポートセンターでは、障がい者特例子会社として、社会貢献に取り組んでおります",
-    "url": "https://fujiarte.co.jp/about/csr",
-    "pass": 1
-   },
-   {
-    "quote": "障害者特例子会社のフジアルテスタッフサポートセンター SSC",
-    "url": "https://fujiarte.co.jp/about/csr",
-    "pass": 1
-   },
-   {
-    "quote": "堺市が呼び掛けているマスク等の医療物資の寄附募集の趣旨に賛同し、堺市に障がい者雇用の特例子会社を置く企業として、日頃の感謝を込めこのたびマスク、消毒液の医療物資を寄贈いたしました",
-    "url": "https://fujiarte.co.jp/about/csr",
-    "pass": 1
-   },
-   {
-    "quote": "株式会社シンコムの子会社化",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社ファーストステップの子会社化",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
-    "pass": 3
-   },
-   {
-    "quote": "フジアルテスタッフサポートセンターは「全従業員の物心両面の幸福を追求し、世界の人々と社会の豊かさに貢献する」理念を掲げ、親会社であるフジアルテ（株）が、2011年4月に大阪府堺市で初の障がい者特例子会社として設立しました",
-    "url": "https://fujiarte-ssc.jp/information/",
-    "pass": 3
-   },
-   {
-    "quote": "フジアルテグループ(株)を親会社とする障がい者特例子会社",
-    "url": "https://fujiarte-ssc.jp/information/",
-    "pass": 3
-   },
-   {
-    "quote": "障がい者特例子会社 認定",
-    "url": "https://fujiarte-ssc.jp/information/",
-    "pass": 3
-   },
-   {
-    "quote": "フジアルテスタッフサポートセンター株式会社（障がい者雇用特例子会社）設立",
-    "url": "https://fujiarte.com/ja/informacoes-da-empresa-ja/",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社シンコムの子会社化",
-    "url": "https://fujiarte.com/ja/informacoes-da-empresa-ja/",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社ファーストステップの子会社化",
-    "url": "https://fujiarte.com/ja/informacoes-da-empresa-ja/",
-    "pass": 3
-   },
-   {
-    "quote": "フジアルテスタッフサポートセンター株式会社(障がい者雇用特例子会社)",
-    "url": "https://fujiarte.com/ja/informacoes-da-empresa-ja/",
-    "pass": 3
-   },
-   {
-    "quote": "中でも製造工程一式を請け負うアウトソーシングでは、上場企業をはじめ国内の名だたるメーカーと取引を行っています",
-    "url": "https://www.gakujo.ne.jp/campus/company/baseinfo/68585/",
-    "pass": 3
-   },
-   {
-    "quote": "フィクスコミュニケーションズ株式会社の子会社化",
-    "url": "https://job.mynavi.jp/28/pc/search/corp81695/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "フィクスジャパン株式会社の子会社化",
-    "url": "https://job.mynavi.jp/28/pc/search/corp81695/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "サンリン(株)【東証スタンダード市場上場】",
-    "url": "https://job.mynavi.jp/28/pc/search/corp81695/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "さらに障がい者雇用の特例子会社フジアルテスタッフサポートセンターと本社では、多くの障がい者を雇用しています",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=574",
-    "pass": 3
-   },
-   {
-    "quote": "日本を代表する400社以上の上場企業や急成長中の未上場企業の社長インタビュー動画や記事を掲載されている、",
-    "url": "https://fujiarte.co.jp/recruit/news/post-1186",
-    "pass": 3
-   },
-   {
-    "quote": "上場企業の「社長の右腕」となったビジネスパーソンから見る、キャリアアップのヒント",
-    "url": "https://shachomeikan.jp/industry_article/2593",
-    "pass": 3
-   },
-   {
-    "quote": "上場企業の「社長の右腕」として活躍されている3名のビジネスパーソン",
-    "url": "https://shachomeikan.jp/industry_article/2593",
-    "pass": 3
-   }
-  ],
   "創業年度": [
    {
     "quote": "創業3年で国内シェアトップへ",
+    "url": "https://shachomeikan.jp/industry_article/2593",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "創業者が語る国内シェアトップへと上り詰めた “信念の経営”",
     "url": "https://shachomeikan.jp/industry_article/2593",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -1820,134 +1488,6 @@
     "pass": 3
    }
   ],
-  "検索結果の抜粋": [
-   {
-    "quote": "フジアルテ (株)【製造職コース】の採用データ | マイナビ2027 — フジアルテ (株)【製造職コース】の採用データ | マイナビ2027 マイナビ https://job.mynavi.jp > corp243657 > recruiting_course",
-    "url": "https://job.mynavi.jp/27/pc/search/corp243657/recruiting_course27055154/recruiting_course.html?site_preference=pc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "フジアルテ - Wikipedia — フジアルテ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > フジアルテ",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
-    "pass": 3
-   },
-   {
-    "quote": "会社概要 | 製造業の人材派遣会社なら フジアルテ — 会社概要 | 製造業の人材派遣会社なら フジアルテ フジアルテ https://fujiarte.co.jp > 会社情報",
-    "url": "https://fujiarte.co.jp/about/company-overview",
-    "pass": 3
-   },
-   {
-    "quote": "会社情報 - フジアルテスタッフサポートセンター株式会社 — 会社情報 - フジアルテスタッフサポートセンター株式会社 フジアルテスタッフサポートセンター株式会社 https://fujiarte-ssc.jp > information",
-    "url": "https://fujiarte-ssc.jp/information/",
-    "pass": 3
-   },
-   {
-    "quote": "業界毎特集記事－ フジアルテ 株式会社 代表取締役社長 平尾 隆志 — 業界毎特集記事－ フジアルテ 株式会社 代表取締役社長 平尾 隆志 社長名鑑 https://shachomeikan.jp > industry_article",
-    "url": "https://shachomeikan.jp/industry_article/2593",
-    "pass": 3
-   },
-   {
-    "quote": "フジアルテ (株)【総合職コース】の会社概要 | マイナビ2027 — フジアルテ (株)【総合職コース】の会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp81695 > outline",
-    "url": "https://job.mynavi.jp/27/pc/search/corp81695/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "フジアルテ (株)【製造職コース】の会社概要 | マイナビ2028 — フジアルテ (株)【製造職コース】の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp243657 > outline",
-    "url": "https://job.mynavi.jp/28/pc/search/corp243657/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "フジアルテ 株式会社 - 会社図鑑 関西版100選 — フジアルテ 株式会社 - 会社図鑑 関西版100選 c-filekansai.com https://c-filekansai.com > fujiarte",
-    "url": "https://c-filekansai.com/m5EtWtgK-1/fujiarte",
-    "pass": 3
-   },
-   {
-    "quote": "フジアルテ 株式会社の新卒採用・就活情報 - Re就活キャンパス — フジアルテ 株式会社の新卒採用・就活情報 - Re就活キャンパス Ｒｅ就活キャンパス https://www.gakujo.ne.jp > campus > company > baseinfo",
-    "url": "https://www.gakujo.ne.jp/campus/company/baseinfo/68585/",
-    "pass": 3
-   },
-   {
-    "quote": "フジアルテ 株式会社 | 専門学校の就活No.1サイト キャリアマップ — フジアルテ 株式会社 | 専門学校の就活No.1サイト キャリアマップ Careermap https://www.careermap.jp > corporations",
-    "url": "https://www.careermap.jp/corporations/21763",
-    "pass": 3
-   },
-   {
-    "quote": "フジアルテ (株)【総合職コース】の会社概要 | マイナビ2028 — フジアルテ (株)【総合職コース】の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp81695 > outline",
-    "url": "https://job.mynavi.jp/28/pc/search/corp81695/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "フジアルテ の業績・将来性・強み・弱み - エン カイシャの評判 — フジアルテ の業績・将来性・強み・弱み - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company",
-    "url": "https://en-hyouban.com/company/10096952335/23/",
-    "pass": 3
-   },
-   {
-    "quote": "導入 実績 | 製造業 の人材派遣会社なら フジアルテ — 導入 実績 | 製造業 の人材派遣会社なら フジアルテ フジアルテ https://fujiarte.co.jp > results",
-    "url": "https://fujiarte.co.jp/results",
-    "pass": 3
-   },
-   {
-    "quote": "フジアルテ 株式会社の実績と 導入事例 — フジアルテ 株式会社の実績と 導入事例 manufacturing-hr.com https://www.manufacturing-hr.com > company > arte",
-    "url": "https://www.manufacturing-hr.com/company/arte.html",
-    "pass": 3
-   },
-   {
-    "quote": "フジアルテ 株式会社 | 導入事例 - HRBrain — フジアルテ 株式会社 | 導入事例 - HRBrain HRBrain https://www.hrbrain.jp > 導入事例",
-    "url": "https://www.hrbrain.jp/case/fujiarte",
-    "pass": 3
-   },
-   {
-    "quote": "フジアルテ 株式会社 (@corporateWeb_fa) on X — フジアルテ 株式会社 (@corporateWeb_fa) on X X https://x.com > @corporateWeb_fa",
-    "url": "https://x.com/corporateWeb_fa/status/2117195042498719832",
-    "pass": 3
-   },
-   {
-    "quote": "製造業の人材派遣会社なら フジアルテ — 製造業の人材派遣会社なら フジアルテ フジアルテ https://fujiarte.co.jp",
-    "url": "https://fujiarte.co.jp/",
-    "pass": 3
-   },
-   {
-    "quote": "工場・製造の求人・派遣はしごとアルテ - フジアルテ — 工場・製造の求人・派遣はしごとアルテ - フジアルテ しごとアルテ https://www.4510arte.jp > 記事",
-    "url": "https://www.4510arte.jp/posts/faq",
-    "pass": 3
-   },
-   {
-    "quote": "フジアルテ 株式会社 社員による会社評価ランキング - OpenWork — フジアルテ 株式会社 社員による会社評価ランキング - OpenWork OpenWork https://www.openwork.jp > 人材サービス > フジアルテ",
-    "url": "https://www.openwork.jp/a0910000006Ps97/ranking/",
-    "pass": 3
-   },
-   {
-    "quote": "採用情報 | 製造業の人材派遣会社なら フジアルテ — 採用情報 | 製造業の人材派遣会社なら フジアルテ フジアルテ https://fujiarte.co.jp > recruit-list",
-    "url": "https://fujiarte.co.jp/recruit-list",
-    "pass": 3
-   },
-   {
-    "quote": "「 フジアルテ 株式会社」の工場・製造業求人ならジョブハウス — 「 フジアルテ 株式会社」の工場・製造業求人ならジョブハウス ジョブハウス https://jobhouse.jp > factory > articles",
-    "url": "https://jobhouse.jp/factory/articles/b_161",
-    "pass": 3
-   },
-   {
-    "quote": "弊社の代表取締役 社長 平尾 インタビュー 記事が掲載されました ... — 弊社の代表取締役 社長 平尾 インタビュー 記事が掲載されました ... フジアルテ https://fujiarte.co.jp > ホーム > 採用サイト お知らせ",
-    "url": "https://fujiarte.co.jp/recruit/news/post-1186",
-    "pass": 3
-   },
-   {
-    "quote": "業界毎特集記事－ フジアルテ 株式会社 代表取締役 社長 平尾 隆志 — 業界毎特集記事－ フジアルテ 株式会社 代表取締役 社長 平尾 隆志 社長名鑑 https://shachomeikan.jp > industry_article",
-    "url": "https://shachomeikan.jp/industry_article/2593",
-    "pass": 3
-   },
-   {
-    "quote": "経営理念・ 社長 メッセージ | 製造業の人材派遣会社なら ... — 経営理念・ 社長 メッセージ | 製造業の人材派遣会社なら ... フジアルテ https://fujiarte.co.jp > 会社情報",
-    "url": "https://fujiarte.co.jp/about/company-philosophy",
-    "pass": 3
-   },
-   {
-    "quote": "【新卒向け】 フジアルテ 会社紹介 - YouTube — 【新卒向け】 フジアルテ 会社紹介 - YouTube YouTube https://www.youtube.com > watch",
-    "url": "https://www.youtube.com/watch?v=cSB32861sVA",
-    "pass": 3
-   }
-  ],
   "SNS・note（LinkedIn・検索結果の抜粋）": [
    {
     "quote": "フジアルテ 株式会社 - LinkedIn フジアルテ 株式会社 - LinkedIn LinkedIn https://www.linkedin.com > フジアルテ株式会社",
@@ -1955,45 +1495,171 @@
     "pass": 3
    }
   ],
-  "SNS・note（note・本文）": [
+  "株主構成": [
    {
-    "quote": "しごとアルテの口コミ・評判は怪しいの？実際の評価と登録前に知るべきポイント5選！｜ユウキxミサキ｜夫婦でnote更新中🌈",
-    "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
+    "quote": "プライム上場企業を始め4000社以上が導入する人事管理システム「カオナビ」を展開するグロース上場企業",
+    "url": "https://shachomeikan.jp/industry_article/2593",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "全国に40拠点を展開するプライム上場企業",
+    "url": "https://shachomeikan.jp/industry_article/2593",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【ダイハツグループ】ダイハツ工業100％出資の安定した基盤",
+    "url": "https://www.gakujo.ne.jp/campus/company/baseinfo/68585/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "子会社の株式会社平山の改善事例を紹介します",
+    "url": "https://www.manufacturing-hr.com/feature/examples.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業務用・家庭用ごま油で国内シェアトップを誇るスタンダード上場企業",
+    "url": "https://shachomeikan.jp/industry_article/2593",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "60万軒超の施工実績を誇るプライム上場企業",
+    "url": "https://shachomeikan.jp/industry_article/2593",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フジアルテスタッフサポートセンター株式会社(障がい者雇用特例子会社)",
+    "url": "https://fujiarte.co.jp/about/company-overview",
+    "pass": 1
+   },
+   {
+    "quote": "（障がい者雇用特例子会社）データ入力、スキャニングサービス事業",
+    "url": "https://fujiarte.co.jp/about/company-overview",
+    "pass": 1
+   },
+   {
+    "quote": "フジアルテスタッフサポートセンター株式会社（障がい者雇用特例子会社）設立",
+    "url": "https://fujiarte.co.jp/about/company-overview",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社シンコムの子会社化",
+    "url": "https://fujiarte.co.jp/about/company-overview",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ファーストステップの子会社化",
+    "url": "https://fujiarte.co.jp/about/company-overview",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、企業経営において、株主にとどまらず、従業員、取引先、顧客、債権者、地域社会をはじめとする多様なステークホルダーとの価値協創が重要となっていることを踏まえ、マルチステークホルダーとの適切な協働に取り組んでまいります",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "また、フジアルテグループ会社のフジアルテサポートセンターでは、障がい者特例子会社として、社会貢献に取り組んでおります",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "障害者特例子会社のフジアルテスタッフサポートセンター SSC",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "堺市が呼び掛けているマスク等の医療物資の寄附募集の趣旨に賛同し、堺市に障がい者雇用の特例子会社を置く企業として、日頃の感謝を込めこのたびマスク、消毒液の医療物資を寄贈いたしました",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社シンコムの子会社化",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
     "pass": 3
    },
    {
-    "quote": "しごとアルテの口コミ・評判は怪しいの？実際の評価と登録前に知るべきポイント5選！",
-    "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
+    "quote": "株式会社ファーストステップの子会社化",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
     "pass": 3
    },
    {
-    "quote": "https://www.4510arte.jp/",
-    "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
+    "quote": "フジアルテスタッフサポートセンターは「全従業員の物心両面の幸福を追求し、世界の人々と社会の豊かさに貢献する」理念を掲げ、親会社であるフジアルテ（株）が、2011年4月に大阪府堺市で初の障がい者特例子会社として設立しました",
+    "url": "https://fujiarte-ssc.jp/information/",
     "pass": 3
    },
    {
-    "quote": "「寮費無料」「即入寮OK」って条件が良すぎて、逆に「怪しくないの？」って思う人も多いんじゃないでしょうか。",
-    "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
+    "quote": "フジアルテグループ(株)を親会社とする障がい者特例子会社",
+    "url": "https://fujiarte-ssc.jp/information/",
     "pass": 3
    },
    {
-    "quote": "実際にネットで口コミや評判を調べてみたところ、",
-    "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
+    "quote": "障がい者特例子会社 認定",
+    "url": "https://fujiarte-ssc.jp/information/",
     "pass": 3
    },
    {
-    "quote": "寮費無料・高収入の工場系求人を探してる人には評価が高いサービス",
-    "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
+    "quote": "フジアルテスタッフサポートセンター株式会社（障がい者雇用特例子会社）設立",
+    "url": "https://fujiarte.com/ja/informacoes-da-empresa-ja/",
     "pass": 3
    },
    {
-    "quote": "もちろん完璧じゃないし、気をつけるべき点もあります。今回は、利用者の口コミや評判をもとに、良い点と注意点を整理してみました。",
-    "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
+    "quote": "株式会社シンコムの子会社化",
+    "url": "https://fujiarte.com/ja/informacoes-da-empresa-ja/",
     "pass": 3
    },
    {
-    "quote": "口コミで見かける気になる点・注意すべきこと",
-    "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
+    "quote": "株式会社ファーストステップの子会社化",
+    "url": "https://fujiarte.com/ja/informacoes-da-empresa-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "フジアルテスタッフサポートセンター株式会社(障がい者雇用特例子会社)",
+    "url": "https://fujiarte.com/ja/informacoes-da-empresa-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "中でも製造工程一式を請け負うアウトソーシングでは、上場企業をはじめ国内の名だたるメーカーと取引を行っています",
+    "url": "https://www.gakujo.ne.jp/campus/company/baseinfo/68585/",
+    "pass": 3
+   },
+   {
+    "quote": "フィクスコミュニケーションズ株式会社の子会社化",
+    "url": "https://job.mynavi.jp/28/pc/search/corp81695/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "フィクスジャパン株式会社の子会社化",
+    "url": "https://job.mynavi.jp/28/pc/search/corp81695/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "サンリン(株)【東証スタンダード市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp81695/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに障がい者雇用の特例子会社フジアルテスタッフサポートセンターと本社では、多くの障がい者を雇用しています",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=574",
+    "pass": 3
+   },
+   {
+    "quote": "日本を代表する400社以上の上場企業や急成長中の未上場企業の社長インタビュー動画や記事を掲載されている、",
+    "url": "https://fujiarte.co.jp/recruit/news/post-1186",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の「社長の右腕」となったビジネスパーソンから見る、キャリアアップのヒント",
+    "url": "https://shachomeikan.jp/industry_article/2593",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の「社長の右腕」として活躍されている3名のビジネスパーソン",
+    "url": "https://shachomeikan.jp/industry_article/2593",
     "pass": 3
    }
   ],
@@ -2002,6 +1668,428 @@
     "quote": "しごとアルテの口コミ・評判は怪しいの？実際の評価と登録前 ... しごとアルテの口コミ・評判は怪しいの？実際の評価と登録前 ... note https://note.com > ビジネス > キャリア・働き方",
     "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
     "pass": 3
+   }
+  ],
+  "売上・規模": [
+   {
+    "quote": "本方針は、当社内に掲示し、全従業員に周知させます",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、従業員各自の教育、啓発に努め個人情報保護意識の高揚を図ります",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1.個人情報の取扱事業者の名称及び住所並びに法人にあたってはその代表者の氏名",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "グローバル人材採用×チーム派遣と、リーダー常駐体制の構築により、在籍目標100名・定着率97.6％・出勤率98.3％を実現した生産チーム垂直立ち上げプロジェクト | 製造業の人材派遣会社ならフジアルテ",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "グローバル人材採用×チーム派遣と、リーダー常駐体制の構築により、在籍目標100名・定着率97.6％・出勤率98.3％を実現した生産チーム垂直立ち上げプロジェクト",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "100名以上",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "100名の採用依頼",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "7ヶ月で在籍目標100名を実現",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コロナ禍による安全確保を目的とした厳格な条件を乗り越えて、3ヶ月で85名の新規採用を実現した、戦略的スピード採用プロジェクト",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "100名以上",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "500名以上",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1,000名以上",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5,000名以上",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "10,000名以上",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "20,000名以上",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新卒社員32名の早期離職をゼロへ！実技研修とデータ活用で「12ヵ月後の定着率100%」を実現した離職防止プロジェクト",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "移管による生産影響「ゼロ」！3ヶ月で12名の派遣移管を完遂し、労務管理の不安を解消した計画的切替事例",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "100名規模の増員ニーズに応え、出勤率99.5%を維持",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1,000名以上",
+    "url": "https://fujiarte.co.jp/results/case/post-86",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "地方拠点の慢性的な人材確保の課題を解消し、",
+    "url": "https://fujiarte.co.jp/results/case/post-86",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1,000名以上",
+    "url": "https://fujiarte.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "外国人採用とリーダー常駐体制のチーム派遣により、在籍目標100名・定着率97.6％・出勤率98.3％を実現した生産チーム垂直立ち上げ事例",
+    "url": "https://fujiarte.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "300名以上",
+    "url": "https://fujiarte.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国内37拠点&海外の採用ネットワークを活かして、多彩な人材を全国各地に派遣します",
+    "url": "https://fujiarte.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカー出身者、製造拠点の垂直立ち上げ経験者など、ものづくり現場を改善するプロが多数在籍し、人を育て、生産性を高めながらよりよい現場を実現する力があります",
+    "url": "https://fujiarte.co.jp/services",
+    "pass": 1
+   },
+   {
+    "quote": "国内営業拠点37箇所の採用ネットワークを活かした、地域密着のエリアマーケティングが強みです",
+    "url": "https://fujiarte.co.jp/services/dispatch",
+    "pass": 1
+   },
+   {
+    "quote": "チーム派遣は、複数名単位の派遣社員を1つのチームとして一括派遣する方法です",
+    "url": "https://fujiarte.co.jp/services/dispatch",
+    "pass": 1
+   },
+   {
+    "quote": "6ヵ月間で100名規模の増員が必要",
+    "url": "https://fujiarte.co.jp/services/dispatch",
+    "pass": 1
+   },
+   {
+    "quote": "101名採用",
+    "url": "https://fujiarte.co.jp/services/dispatch",
+    "pass": 1
+   },
+   {
+    "quote": "遠隔地への工場設備の移管予定があり、約50名の垂直移管対応が必要",
+    "url": "https://fujiarte.co.jp/services/dispatch",
+    "pass": 1
+   },
+   {
+    "quote": "6か月で101名を採用し、6か月間の定着率93%を実現した事例もあります",
+    "url": "https://fujiarte.co.jp/services/dispatch",
+    "pass": 1
+   },
+   {
+    "quote": "全国37の営業拠点で採用し、リーダーを含むチーム単位で派遣します",
+    "url": "https://fujiarte.co.jp/services/dispatch",
+    "pass": 1
+   },
+   {
+    "quote": "100名規模の増員で出勤率99.5%を維持した事例や、70名規模の生産拠点を1.5か月で立ち上げた請負の事例があります",
+    "url": "https://fujiarte.co.jp/services/dispatch",
+    "pass": 1
+   },
+   {
+    "quote": "約100種類の資格を対象に報奨金制度を設けており、2025年度は240名以上が利用しました",
+    "url": "https://fujiarte.co.jp/services/dispatch",
+    "pass": 1
+   },
+   {
+    "quote": "合格者は累計404名で、外国人スタッフの定着率は70%以上です",
+    "url": "https://fujiarte.co.jp/services/dispatch",
+    "pass": 1
+   },
+   {
+    "quote": "日本人を希望して人材の募集をかけても、必要な人材を確保できないケースが目立っており、拠点の新規立ち上げや増産等の目途も経たず困っている",
+    "url": "https://fujiarte.co.jp/services/global-workers",
+    "pass": 1
+   },
+   {
+    "quote": "生産拠点の安定稼働と役職者人材の確保による柔軟な生産計画を実現した、外国人就業者への充実した就業＆生活支援プロジェクト",
+    "url": "https://fujiarte.co.jp/services/global-workers",
+    "pass": 1
+   },
+   {
+    "quote": "日本語能力検定 N1〜N5 の合格者数、累計404名",
+    "url": "https://fujiarte.co.jp/services/global-workers",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくり現場で働くための基礎教育を取得し、向上心の高い従業員を選抜して派遣します",
+    "url": "https://fujiarte.co.jp/services/engineer-dispatch",
+    "pass": 1
+   },
+   {
+    "quote": "国内37拠点にわたる採用ネットワークを活用",
+    "url": "https://fujiarte.co.jp/services/new-graduate",
+    "pass": 1
+   },
+   {
+    "quote": "正社員や期間従業員など、直接雇用に伴うコストの削減が可能",
+    "url": "https://fujiarte.co.jp/services/contract",
+    "pass": 1
+   },
+   {
+    "quote": "事業所管理職研修 477名",
+    "url": "https://fujiarte.co.jp/services/contract",
+    "pass": 1
+   },
+   {
+    "quote": "QC検定 1,143名",
+    "url": "https://fujiarte.co.jp/services/contract",
+    "pass": 1
+   },
+   {
+    "quote": "自主保全士検定 78名",
+    "url": "https://fujiarte.co.jp/services/contract",
+    "pass": 1
+   },
+   {
+    "quote": "現場リーダー研修 569名",
+    "url": "https://fujiarte.co.jp/services/contract",
+    "pass": 1
+   },
+   {
+    "quote": "70名規模の生産拠点をわずか1.5ヶ月で立ち上げ、生産目標を初日から100%達成した生産請負プロジェクト",
+    "url": "https://fujiarte.co.jp/services/contract",
+    "pass": 1
+   },
+   {
+    "quote": "半導体関連事業所の減少に伴い、基本的には従業員も減少傾向にありましたが、半導体製造装置製造業では増加傾向にあります",
+    "url": "https://fujiarte.co.jp/services/mobility",
+    "pass": 1
+   },
+   {
+    "quote": "半導体関連産業の従業員数推移",
+    "url": "https://fujiarte.co.jp/services/mobility",
+    "pass": 1
+   },
+   {
+    "quote": "モビリティ（自動車）関連産業の従業員数推移",
+    "url": "https://fujiarte.co.jp/services/mobility",
+    "pass": 1
+   },
+   {
+    "quote": "全国各地に展開した研修センターで人材を育成(8拠点)",
+    "url": "https://fujiarte.co.jp/services/mobility",
+    "pass": 1
+   },
+   {
+    "quote": "工具名・使用上の注意事項",
+    "url": "https://fujiarte.co.jp/services/mobility",
+    "pass": 1
+   },
+   {
+    "quote": "北上・札幌・仙台・つくば・千葉・埼玉・神奈川・山梨・富山・小松・七尾・福井・長野・浜松・豊橋・岡崎・刈谷・豊田・小牧・大垣・可児・四日市・桑名・伊賀・彦根・滋賀・京都・大阪・南大阪・梅田・阪神・明石・岡山・広島・出雲・北九州・熊本（37拠点）",
+    "url": "https://fujiarte.co.jp/about/company-overview",
+    "pass": 1
+   },
+   {
+    "quote": "「単なる人と人をつなぐネットワークではなく、人にとって重要で必要不可欠な動脈のような存在で、温かい血の通った人と人のつながりを大切にしていきたい」という気持ちを込めての命名であり、同時に、アルテはポルトガル語で「技術や芸術」を意味しています",
+    "url": "https://fujiarte.co.jp/about/company-overview",
+    "pass": 1
+   },
+   {
+    "quote": "キャラクター名は、常に挑み続ける「チャレンジ精神」と「フジアルテ」という社名の掛け合わせからきています",
+    "url": "https://fujiarte.co.jp/about/company-overview",
+    "pass": 1
+   },
+   {
+    "quote": "拠点紹介 | 製造業の人材派遣会社ならフジアルテ",
+    "url": "https://fujiarte.co.jp/about/network",
+    "pass": 1
+   },
+   {
+    "quote": "全国に展開するフジアルテの拠点・事業所一覧（３７拠点）",
+    "url": "https://fujiarte.co.jp/about/network",
+    "pass": 1
+   },
+   {
+    "quote": "三重県桑名市大字東方753-2",
+    "url": "https://fujiarte.co.jp/about/network",
+    "pass": 1
+   },
+   {
+    "quote": "国内営業拠点37箇所の採用ネットワークを活用した全国採用で人材不足を迅速に解決",
+    "url": "https://fujiarte.co.jp/about/strength",
+    "pass": 1
+   },
+   {
+    "quote": "フジアルテはメーカー出身者、製造拠点の垂直立ち上げ経験者など、ものづくり現場を改善するプロが多数在籍しています",
+    "url": "https://fujiarte.co.jp/about/strength",
+    "pass": 1
+   },
+   {
+    "quote": "そのため製造請負や拠点の立ち上げを請け負うことも可能です",
+    "url": "https://fujiarte.co.jp/about/strength",
+    "pass": 1
+   },
+   {
+    "quote": "従業員が働きがいをもって働くために、主体的にキャリアを描き、さらなる自己成長とキャリアビジョン実現に向けて、「キャリア形成支援サイクル」の運用を通じ、人事制度をベースに短期的・中長期的な目標を設定し取り組むことを支援します",
+    "url": "https://fujiarte.co.jp/about/strength",
+    "pass": 1
+   },
+   {
+    "quote": "管理監督者教育研修は累計700名近くが受講しています",
+    "url": "https://fujiarte.co.jp/about/strength",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、派遣社員を含むすべての従業員が意識し実践できるように各種方針を策定し、活動を推進しています",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "環境方針をグループの従業員に周知し、環境意識の向上に努めます",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "安全衛生スローガンの「災害ゼロから危険ゼロへめざそう安全文化の構築を」 をもとに、全従業員の安全と健康を守り、世界の人々と社会の豊かさに貢献いたします",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "全従業員が、気持ちよく働ける快適な職場環境の形成を目指した「快適職場づくり」の推進を継続的に行います",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "この労働安全衛生方針を、全従業員に周知徹底し各社員の意識向上に努めます",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "すべての役員・従業員が法令を遵守するとともに、社会規範や企業倫理に則り、誠実、公正で透明性の高い判断と行動を実践します",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "従業員の成長と自己実現",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "従業員一人ひとりの人格と多様性を尊重し、公平・公正な処遇に努めるとともに、学びと成長の機会を提供します",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "従業員が安心して働ける環境を守ることを大切に考え、お客様からのご要望のうち、社会通念上許容される範囲を超える言動については、カスタマーハラスメントと判断し、毅然として対応いたします",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "従業員の心身の安全を最優先に、必要に応じて対応をお断りし、特に悪質な行為と判断した場合は、外部機関とも連携し対応いたします",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、企業経営において、株主にとどまらず、従業員、取引先、顧客、債権者、地域社会をはじめとする多様なステークホルダーとの価値協創が重要となっていることを踏まえ、マルチステークホルダーとの適切な協働に取り組んでまいります",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "その上で、価値協創や生産性向上によって生み出された収益・成果について、マルチステークホルダーへの適切な分配を行うことが、賃金引上げのモメンタムの維持や経済の持続的発展につながるという観点から、従業員への還元や取引先への配慮が重要であることを踏まえ、以下の取組を進めてまいります",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "１．従業員への還元",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、経営資源の成長分野への重点的な投入、従業員の能力開発やスキル向上等を通じて、持続的な成長と生産性向上に取り組み、付加価値の最大化に注力します",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "その上で、生み出した収益・成果に基づいて、「賃金決定の大原則」にのっとり、自社の状況を踏まえた適切な方法による賃金の引上げを行うとともに、それ以外の総合的な処遇改善としても、従業員のエンゲージメント向上や更なる生産性の向上に資するよう、教育訓練等を中心に積極的に取り組むことを通じて、従業員への持続的な還元を目指します",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、賃金の引き上げについては、自社の経営環境や社会情勢も踏まえ、従業員の評価を公正かつ適正な手続きにより行い、会社収益の適切な分配・還元に努めるとともに、教育訓練等については、従業員の成長を支援するため教育制度や資格取得支援制度の充実を図り、個々のキャリアビジョンを実現する為に必要な知識や技術を主体的に学べる機会を提供し、会社と従業員が共に成長できる人材育成に取り組んでまいります",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、安心・安全で働きやすい職場環境を確保するとともに、全従業員のキャリア形成を支援します",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
+   },
+   {
+    "quote": "適切な事業情報開示に努め、透明性の高い事業運営を行い、不正競争防止法、労働関連法令・契約の遵守をはじめ、全従業員が法令遵守を徹底します",
+    "url": "https://fujiarte.co.jp/about/csr",
+    "pass": 1
    }
   ],
   "発言": [
@@ -2097,6 +2185,12 @@
    },
    {
     "quote": "「識学」の理論で組織の生産性向上に貢献！ロジカルな組織運営の普及で日本全体の成長を目指す社長の挑戦",
+    "url": "https://shachomeikan.jp/industry_article/2593",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "創業者が語る国内シェアトップへと上り詰めた “信念の経営”",
     "url": "https://shachomeikan.jp/industry_article/2593",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -2399,34 +2493,6 @@
    {
     "quote": "日本を代表する400社以上の上場企業や急成長中の未上場企業の社長インタビュー動画や記事を掲載されている、",
     "url": "https://fujiarte.co.jp/recruit/news/post-1186",
-    "pass": 3
-   }
-  ],
-  "SNS・note（X・検索結果の抜粋）": [
-   {
-    "quote": "フジアルテ 株式会社 - X フジアルテ 株式会社 - X X https://x.com > @corporateWeb_fa",
-    "url": "https://x.com/corporateWeb_fa/status/2105236215968760262/photo/1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "フジアルテ 株式会社 (@corporateWeb_fa) / X フジアルテ 株式会社 (@corporateWeb_fa) / X X https://x.com > corporateWeb_fa",
-    "url": "https://x.com/corporateWeb_fa",
-    "pass": 3
-   },
-   {
-    "quote": "フジアルテ 株式会社 (@corporateWeb_fa) on X フジアルテ 株式会社 (@corporateWeb_fa) on X X https://x.com > @corporateWeb_fa",
-    "url": "https://x.com/corporateWeb_fa/status/2117195042498719832",
-    "pass": 3
-   },
-   {
-    "quote": "フジアルテ 株式会社 - X フジアルテ 株式会社 - X X https://x.com > @corporateWeb_fa",
-    "url": "https://x.com/corporateWeb_fa/status/2096176514966393107",
-    "pass": 3
-   },
-   {
-    "quote": "フジアルテ 株式会社 on X: \"【製造業の人事・労務必見】2026 ... フジアルテ 株式会社 on X: \"【製造業の人事・労務必見】2026 ... X https://x.com > @corporateWeb_fa",
-    "url": "https://x.com/corporateWeb_fa/status/2058850571898265990",
     "pass": 3
    }
   ],
@@ -2759,6 +2825,54 @@
     "quote": "営業担当として一貫して寄り添い、信頼を築ける存在に",
     "url": "https://fujiarte.co.jp/recruit/sougou_gradu/generalist/",
     "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "製造現場の稼働率向上を実現した、コミュニケーション活性化に向けた具体的な取り組み事例の紹介",
+    "url": "https://fujiarte.co.jp/results/case/post-248",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "総合人材サービス、人材派遣事業、人材紹介事業、アウトソーシング事業、エンジニア事業、優良職業紹介事業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有料職業紹介事業・労働大臣許可 27-ユ-300013",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "製造派遣、製造請負、エンジニア派遣、人材紹介",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有料職業紹介事業・労働大臣許可 / 27-ユ-300013",
+    "url": "https://fujiarte-ssc.jp/information/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人材関連コンサルタントサービス、人材紹介サービス",
+    "url": "https://fujiarte-ssc.jp/information/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一般消費財メーカー向け営業支援、販売促進業務代行",
+    "url": "https://fujiarte-ssc.jp/information/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日本で働く方に役立つテーマを取り上げたり、興味深い話題を紹介したり、日本文化について解説している私たちの動画をぜひご覧ください",
+    "url": "https://fujiarte.com/ja/informacoes-da-empresa-ja/",
+    "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
@@ -3166,6 +3280,36 @@
     "first_seen": "2026-11-05"
    },
    {
+    "quote": "グローバル人材採用×チーム派遣と、リーダー常駐体制の構築により、在籍目標100名・定着率97.6％・出勤率98.3％を実現した生産チーム垂直立ち上げプロジェクト | 製造業の人材派遣会社ならフジアルテ",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "の徹底により5年連続無災害記録を更新し、顧客の協力会社内では初の",
+    "url": "https://fujiarte.co.jp/results/case/post-86",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "の実施（作業場のみならず駐車場通路などを含め、工場内の危険個所を抽出",
+    "url": "https://fujiarte.co.jp/results/case/post-86",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "顧客ご担当者様も同席する協議会にて抽出内容を報告し、顧客を巻き込んだ安全職場づくりを実施）",
+    "url": "https://fujiarte.co.jp/results/case/post-86",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "取引先安全活動へ当社管理者も参加（顧客内で実施している安全活動へ当社管理者も参加し、同活動内での教育内容を全スタッフに浸透するよう図った）",
+    "url": "https://fujiarte.co.jp/results/case/post-86",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
     "quote": "製造業の人材派遣会社ならフジアルテ",
     "url": "https://fujiarte.co.jp/",
     "pass": 1
@@ -3466,324 +3610,534 @@
     "pass": 1
    }
   ],
-  "売上・規模": [
+  "SNS・note（note・本文）": [
    {
-    "quote": "本方針は、当社内に掲示し、全従業員に周知させます",
-    "url": "https://fujiarte.co.jp/about/csr",
+    "quote": "の口コミを見ていると、寮付きの仕事を探してる人には共通の不安があるようです。",
+    "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しごとアルテの口コミ・評判は怪しいの？実際の評価と登録前に知るべきポイント5選！｜ユウキxミサキ｜夫婦でnote更新中🌈",
+    "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
+    "pass": 3
+   },
+   {
+    "quote": "しごとアルテの口コミ・評判は怪しいの？実際の評価と登録前に知るべきポイント5選！",
+    "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.4510arte.jp/",
+    "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
+    "pass": 3
+   },
+   {
+    "quote": "「寮費無料」「即入寮OK」って条件が良すぎて、逆に「怪しくないの？」って思う人も多いんじゃないでしょうか。",
+    "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
+    "pass": 3
+   },
+   {
+    "quote": "実際にネットで口コミや評判を調べてみたところ、",
+    "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
+    "pass": 3
+   },
+   {
+    "quote": "寮費無料・高収入の工場系求人を探してる人には評価が高いサービス",
+    "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん完璧じゃないし、気をつけるべき点もあります。今回は、利用者の口コミや評判をもとに、良い点と注意点を整理してみました。",
+    "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
+    "pass": 3
+   },
+   {
+    "quote": "口コミで見かける気になる点・注意すべきこと",
+    "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "13,490百万円（2019年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "8,323百万円（2019年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "サービス内容、料金体系など、お気軽に",
+    "url": "https://fujiarte.co.jp/results/case/post-248",
     "pass": 1,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "また、従業員各自の教育、啓発に努め個人情報保護意識の高揚を図ります",
-    "url": "https://fujiarte.co.jp/about/csr",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
+    "url": "https://fujiarte.co.jp/results/case/post-248",
     "pass": 1,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "1.個人情報の取扱事業者の名称及び住所並びに法人にあたってはその代表者の氏名",
-    "url": "https://fujiarte.co.jp/about/csr",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1,000名以上",
+    "quote": "「品質を維持し、ムダな費用をかけずに納期を遵守",
     "url": "https://fujiarte.co.jp/",
     "pass": 1
    },
    {
-    "quote": "外国人採用とリーダー常駐体制のチーム派遣により、在籍目標100名・定着率97.6％・出勤率98.3％を実現した生産チーム垂直立ち上げ事例",
+    "quote": "サービス内容、料金体系など、お気軽に",
     "url": "https://fujiarte.co.jp/",
     "pass": 1
    },
    {
-    "quote": "300名以上",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
     "url": "https://fujiarte.co.jp/",
     "pass": 1
    },
    {
-    "quote": "国内37拠点&海外の採用ネットワークを活かして、多彩な人材を全国各地に派遣します",
-    "url": "https://fujiarte.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "メーカー出身者、製造拠点の垂直立ち上げ経験者など、ものづくり現場を改善するプロが多数在籍し、人を育て、生産性を高めながらよりよい現場を実現する力があります",
+    "quote": "サービス内容、料金体系など、お気軽に",
     "url": "https://fujiarte.co.jp/services",
     "pass": 1
    },
    {
-    "quote": "国内営業拠点37箇所の採用ネットワークを活かした、地域密着のエリアマーケティングが強みです",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
+    "url": "https://fujiarte.co.jp/services",
+    "pass": 1
+   },
+   {
+    "quote": "完全成功報酬型",
     "url": "https://fujiarte.co.jp/services/dispatch",
     "pass": 1
    },
    {
-    "quote": "チーム派遣は、複数名単位の派遣社員を1つのチームとして一括派遣する方法です",
+    "quote": "募集広告費などの採用活動にかかる費用の削減、採用担当者のマンパワーの削減ができます",
     "url": "https://fujiarte.co.jp/services/dispatch",
     "pass": 1
    },
    {
-    "quote": "6ヵ月間で100名規模の増員が必要",
+    "quote": "派遣料金はどのように決まりますか？",
     "url": "https://fujiarte.co.jp/services/dispatch",
     "pass": 1
    },
    {
-    "quote": "101名採用",
+    "quote": "品質管理検定や自主保全士などの取得費用は、全額を会社が負担します",
     "url": "https://fujiarte.co.jp/services/dispatch",
     "pass": 1
    },
    {
-    "quote": "遠隔地への工場設備の移管予定があり、約50名の垂直移管対応が必要",
+    "quote": "サービス内容、料金体系など、お気軽に",
     "url": "https://fujiarte.co.jp/services/dispatch",
     "pass": 1
    },
    {
-    "quote": "6か月で101名を採用し、6か月間の定着率93%を実現した事例もあります",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
     "url": "https://fujiarte.co.jp/services/dispatch",
     "pass": 1
    },
    {
-    "quote": "全国37の営業拠点で採用し、リーダーを含むチーム単位で派遣します",
-    "url": "https://fujiarte.co.jp/services/dispatch",
-    "pass": 1
-   },
-   {
-    "quote": "100名規模の増員で出勤率99.5%を維持した事例や、70名規模の生産拠点を1.5か月で立ち上げた請負の事例があります",
-    "url": "https://fujiarte.co.jp/services/dispatch",
-    "pass": 1
-   },
-   {
-    "quote": "約100種類の資格を対象に報奨金制度を設けており、2025年度は240名以上が利用しました",
-    "url": "https://fujiarte.co.jp/services/dispatch",
-    "pass": 1
-   },
-   {
-    "quote": "合格者は累計404名で、外国人スタッフの定着率は70%以上です",
-    "url": "https://fujiarte.co.jp/services/dispatch",
-    "pass": 1
-   },
-   {
-    "quote": "日本人を希望して人材の募集をかけても、必要な人材を確保できないケースが目立っており、拠点の新規立ち上げや増産等の目途も経たず困っている",
+    "quote": "サービス内容、料金体系など、お気軽に",
     "url": "https://fujiarte.co.jp/services/global-workers",
     "pass": 1
    },
    {
-    "quote": "生産拠点の安定稼働と役職者人材の確保による柔軟な生産計画を実現した、外国人就業者への充実した就業＆生活支援プロジェクト",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
     "url": "https://fujiarte.co.jp/services/global-workers",
     "pass": 1
    },
    {
-    "quote": "日本語能力検定 N1〜N5 の合格者数、累計404名",
-    "url": "https://fujiarte.co.jp/services/global-workers",
-    "pass": 1
-   },
-   {
-    "quote": "ものづくり現場で働くための基礎教育を取得し、向上心の高い従業員を選抜して派遣します",
+    "quote": "サービス内容、料金体系など、お気軽に",
     "url": "https://fujiarte.co.jp/services/engineer-dispatch",
     "pass": 1
    },
    {
-    "quote": "国内37拠点にわたる採用ネットワークを活用",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
+    "url": "https://fujiarte.co.jp/services/engineer-dispatch",
+    "pass": 1
+   },
+   {
+    "quote": "サービス内容、料金体系など、お気軽に",
     "url": "https://fujiarte.co.jp/services/new-graduate",
     "pass": 1
    },
    {
-    "quote": "正社員や期間従業員など、直接雇用に伴うコストの削減が可能",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
+    "url": "https://fujiarte.co.jp/services/new-graduate",
+    "pass": 1
+   },
+   {
+    "quote": "サービス内容、料金体系など、お気軽に",
     "url": "https://fujiarte.co.jp/services/contract",
     "pass": 1
    },
    {
-    "quote": "事業所管理職研修 477名",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
     "url": "https://fujiarte.co.jp/services/contract",
     "pass": 1
    },
    {
-    "quote": "QC検定 1,143名",
-    "url": "https://fujiarte.co.jp/services/contract",
-    "pass": 1
-   },
-   {
-    "quote": "自主保全士検定 78名",
-    "url": "https://fujiarte.co.jp/services/contract",
-    "pass": 1
-   },
-   {
-    "quote": "現場リーダー研修 569名",
-    "url": "https://fujiarte.co.jp/services/contract",
-    "pass": 1
-   },
-   {
-    "quote": "70名規模の生産拠点をわずか1.5ヶ月で立ち上げ、生産目標を初日から100%達成した生産請負プロジェクト",
-    "url": "https://fujiarte.co.jp/services/contract",
-    "pass": 1
-   },
-   {
-    "quote": "半導体関連事業所の減少に伴い、基本的には従業員も減少傾向にありましたが、半導体製造装置製造業では増加傾向にあります",
+    "quote": "サービス内容、料金体系など、お気軽に",
     "url": "https://fujiarte.co.jp/services/mobility",
     "pass": 1
    },
    {
-    "quote": "半導体関連産業の従業員数推移",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
     "url": "https://fujiarte.co.jp/services/mobility",
     "pass": 1
    },
    {
-    "quote": "モビリティ（自動車）関連産業の従業員数推移",
-    "url": "https://fujiarte.co.jp/services/mobility",
+    "quote": "サービス内容、料金体系など、お気軽に",
+    "url": "https://fujiarte.co.jp/about",
     "pass": 1
    },
    {
-    "quote": "全国各地に展開した研修センターで人材を育成(8拠点)",
-    "url": "https://fujiarte.co.jp/services/mobility",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
+    "url": "https://fujiarte.co.jp/about",
     "pass": 1
    },
    {
-    "quote": "工具名・使用上の注意事項",
-    "url": "https://fujiarte.co.jp/services/mobility",
-    "pass": 1
-   },
-   {
-    "quote": "北上・札幌・仙台・つくば・千葉・埼玉・神奈川・山梨・富山・小松・七尾・福井・長野・浜松・豊橋・岡崎・刈谷・豊田・小牧・大垣・可児・四日市・桑名・伊賀・彦根・滋賀・京都・大阪・南大阪・梅田・阪神・明石・岡山・広島・出雲・北九州・熊本（37拠点）",
+    "quote": "5,000万円（連結2億9,804万円）",
     "url": "https://fujiarte.co.jp/about/company-overview",
     "pass": 1
    },
    {
-    "quote": "「単なる人と人をつなぐネットワークではなく、人にとって重要で必要不可欠な動脈のような存在で、温かい血の通った人と人のつながりを大切にしていきたい」という気持ちを込めての命名であり、同時に、アルテはポルトガル語で「技術や芸術」を意味しています",
+    "quote": "1,000万円",
     "url": "https://fujiarte.co.jp/about/company-overview",
     "pass": 1
    },
    {
-    "quote": "キャラクター名は、常に挑み続ける「チャレンジ精神」と「フジアルテ」という社名の掛け合わせからきています",
+    "quote": "9,000万円",
     "url": "https://fujiarte.co.jp/about/company-overview",
     "pass": 1
    },
    {
-    "quote": "拠点紹介 | 製造業の人材派遣会社ならフジアルテ",
+    "quote": "サービス内容、料金体系など、お気軽に",
+    "url": "https://fujiarte.co.jp/about/company-overview",
+    "pass": 1
+   },
+   {
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
+    "url": "https://fujiarte.co.jp/about/company-overview",
+    "pass": 1
+   },
+   {
+    "quote": "サービス内容、料金体系など、お気軽に",
     "url": "https://fujiarte.co.jp/about/network",
     "pass": 1
    },
    {
-    "quote": "全国に展開するフジアルテの拠点・事業所一覧（３７拠点）",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
     "url": "https://fujiarte.co.jp/about/network",
     "pass": 1
    },
    {
-    "quote": "三重県桑名市大字東方753-2",
-    "url": "https://fujiarte.co.jp/about/network",
-    "pass": 1
-   },
-   {
-    "quote": "国内営業拠点37箇所の採用ネットワークを活用した全国採用で人材不足を迅速に解決",
+    "quote": "派遣先は、派遣労働者の能力が向上したら派遣料金を値上げすべきか？",
     "url": "https://fujiarte.co.jp/about/strength",
     "pass": 1
    },
    {
-    "quote": "フジアルテはメーカー出身者、製造拠点の垂直立ち上げ経験者など、ものづくり現場を改善するプロが多数在籍しています",
+    "quote": "品質管理検定、自主保全士などの教育訓練・資格取得費用は、全額会社負担します",
     "url": "https://fujiarte.co.jp/about/strength",
     "pass": 1
    },
    {
-    "quote": "そのため製造請負や拠点の立ち上げを請け負うことも可能です",
+    "quote": "サービス内容、料金体系など、お気軽に",
     "url": "https://fujiarte.co.jp/about/strength",
     "pass": 1
    },
    {
-    "quote": "従業員が働きがいをもって働くために、主体的にキャリアを描き、さらなる自己成長とキャリアビジョン実現に向けて、「キャリア形成支援サイクル」の運用を通じ、人事制度をベースに短期的・中長期的な目標を設定し取り組むことを支援します",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
     "url": "https://fujiarte.co.jp/about/strength",
     "pass": 1
    },
    {
-    "quote": "管理監督者教育研修は累計700名近くが受講しています",
-    "url": "https://fujiarte.co.jp/about/strength",
+    "quote": "サービス内容、料金体系など、お気軽に",
+    "url": "https://fujiarte.co.jp/about/company-philosophy",
     "pass": 1
    },
    {
-    "quote": "当社では、派遣社員を含むすべての従業員が意識し実践できるように各種方針を策定し、活動を推進しています",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
+    "url": "https://fujiarte.co.jp/about/company-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "「品質を維持し(Q)､ムダな費用をかけずに(C)､納期を遵守し(D)、且つ、安全に(S)」を常に意識し、お客様に貢献できるように努めます",
     "url": "https://fujiarte.co.jp/about/csr",
     "pass": 1
    },
    {
-    "quote": "環境方針をグループの従業員に周知し、環境意識の向上に努めます",
+    "quote": "（回答をお送りする書留郵便料金として使用します）（2023年6月1日現在）",
     "url": "https://fujiarte.co.jp/about/csr",
     "pass": 1
    },
    {
-    "quote": "安全衛生スローガンの「災害ゼロから危険ゼロへめざそう安全文化の構築を」 をもとに、全従業員の安全と健康を守り、世界の人々と社会の豊かさに貢献いたします",
+    "quote": "サービス内容、料金体系など、お気軽に",
     "url": "https://fujiarte.co.jp/about/csr",
     "pass": 1
    },
    {
-    "quote": "全従業員が、気持ちよく働ける快適な職場環境の形成を目指した「快適職場づくり」の推進を継続的に行います",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
     "url": "https://fujiarte.co.jp/about/csr",
     "pass": 1
    },
    {
-    "quote": "この労働安全衛生方針を、全従業員に周知徹底し各社員の意識向上に努めます",
-    "url": "https://fujiarte.co.jp/about/csr",
+    "quote": "サービス内容、料金体系など、お気軽に",
+    "url": "https://fujiarte.co.jp/about/compliance",
     "pass": 1
    },
    {
-    "quote": "すべての役員・従業員が法令を遵守するとともに、社会規範や企業倫理に則り、誠実、公正で透明性の高い判断と行動を実践します",
-    "url": "https://fujiarte.co.jp/about/csr",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
+    "url": "https://fujiarte.co.jp/about/compliance",
     "pass": 1
    },
    {
-    "quote": "従業員の成長と自己実現",
-    "url": "https://fujiarte.co.jp/about/csr",
+    "quote": "サービス内容、料金体系など、お気軽に",
+    "url": "https://fujiarte.co.jp/results",
     "pass": 1
    },
    {
-    "quote": "従業員一人ひとりの人格と多様性を尊重し、公平・公正な処遇に努めるとともに、学びと成長の機会を提供します",
-    "url": "https://fujiarte.co.jp/about/csr",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
+    "url": "https://fujiarte.co.jp/results",
     "pass": 1
    },
    {
-    "quote": "従業員が安心して働ける環境を守ることを大切に考え、お客様からのご要望のうち、社会通念上許容される範囲を超える言動については、カスタマーハラスメントと判断し、毅然として対応いたします",
-    "url": "https://fujiarte.co.jp/about/csr",
+    "quote": "サービス内容、料金体系など、お気軽に",
+    "url": "https://fujiarte.co.jp/results/case",
     "pass": 1
    },
    {
-    "quote": "従業員の心身の安全を最優先に、必要に応じて対応をお断りし、特に悪質な行為と判断した場合は、外部機関とも連携し対応いたします",
-    "url": "https://fujiarte.co.jp/about/csr",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
+    "url": "https://fujiarte.co.jp/results/case",
     "pass": 1
    },
    {
-    "quote": "当社は、企業経営において、株主にとどまらず、従業員、取引先、顧客、債権者、地域社会をはじめとする多様なステークホルダーとの価値協創が重要となっていることを踏まえ、マルチステークホルダーとの適切な協働に取り組んでまいります",
-    "url": "https://fujiarte.co.jp/about/csr",
+    "quote": "サービス内容、料金体系など、お気軽に",
+    "url": "https://fujiarte.co.jp/results/qc_circle",
     "pass": 1
    },
    {
-    "quote": "その上で、価値協創や生産性向上によって生み出された収益・成果について、マルチステークホルダーへの適切な分配を行うことが、賃金引上げのモメンタムの維持や経済の持続的発展につながるという観点から、従業員への還元や取引先への配慮が重要であることを踏まえ、以下の取組を進めてまいります",
-    "url": "https://fujiarte.co.jp/about/csr",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
+    "url": "https://fujiarte.co.jp/results/qc_circle",
     "pass": 1
    },
    {
-    "quote": "１．従業員への還元",
-    "url": "https://fujiarte.co.jp/about/csr",
+    "quote": "サービス内容、料金体系など、お気軽に",
+    "url": "https://fujiarte.co.jp/recruit-list",
     "pass": 1
    },
    {
-    "quote": "当社は、経営資源の成長分野への重点的な投入、従業員の能力開発やスキル向上等を通じて、持続的な成長と生産性向上に取り組み、付加価値の最大化に注力します",
-    "url": "https://fujiarte.co.jp/about/csr",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
+    "url": "https://fujiarte.co.jp/recruit-list",
     "pass": 1
    },
    {
-    "quote": "その上で、生み出した収益・成果に基づいて、「賃金決定の大原則」にのっとり、自社の状況を踏まえた適切な方法による賃金の引上げを行うとともに、それ以外の総合的な処遇改善としても、従業員のエンゲージメント向上や更なる生産性の向上に資するよう、教育訓練等を中心に積極的に取り組むことを通じて、従業員への持続的な還元を目指します",
-    "url": "https://fujiarte.co.jp/about/csr",
+    "quote": "サービス内容、料金体系など、お気軽に",
+    "url": "https://fujiarte.co.jp/topics/post-8626",
     "pass": 1
    },
    {
-    "quote": "具体的には、賃金の引き上げについては、自社の経営環境や社会情勢も踏まえ、従業員の評価を公正かつ適正な手続きにより行い、会社収益の適切な分配・還元に努めるとともに、教育訓練等については、従業員の成長を支援するため教育制度や資格取得支援制度の充実を図り、個々のキャリアビジョンを実現する為に必要な知識や技術を主体的に学べる機会を提供し、会社と従業員が共に成長できる人材育成に取り組んでまいります",
-    "url": "https://fujiarte.co.jp/about/csr",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
+    "url": "https://fujiarte.co.jp/topics/post-8626",
     "pass": 1
    },
    {
-    "quote": "加えて、安心・安全で働きやすい職場環境を確保するとともに、全従業員のキャリア形成を支援します",
-    "url": "https://fujiarte.co.jp/about/csr",
+    "quote": "サービス内容、料金体系など、お気軽に",
+    "url": "https://fujiarte.co.jp/results/case/post-86",
     "pass": 1
    },
    {
-    "quote": "適切な事業情報開示に努め、透明性の高い事業運営を行い、不正競争防止法、労働関連法令・契約の遵守をはじめ、全従業員が法令遵守を徹底します",
-    "url": "https://fujiarte.co.jp/about/csr",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
+    "url": "https://fujiarte.co.jp/results/case/post-86",
     "pass": 1
+   },
+   {
+    "quote": "サービス内容、料金体系など、お気軽に",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1
+   },
+   {
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1
+   },
+   {
+    "quote": "サービス内容、料金体系など、お気軽に",
+    "url": "https://fujiarte.co.jp/results/case/post-253",
+    "pass": 1
+   },
+   {
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
+    "url": "https://fujiarte.co.jp/results/case/post-253",
+    "pass": 1
+   },
+   {
+    "quote": "50百万円（2019年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
+    "pass": 3
+   },
+   {
+    "quote": "1,818百万円（2019年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "フジアルテ 株式会社 - X フジアルテ 株式会社 - X X https://x.com > @corporateWeb_fa",
+    "url": "https://x.com/corporateWeb_fa/status/2105236215968760262/photo/1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フジアルテ 株式会社 (@corporateWeb_fa) / X フジアルテ 株式会社 (@corporateWeb_fa) / X X https://x.com > corporateWeb_fa",
+    "url": "https://x.com/corporateWeb_fa",
+    "pass": 3
+   },
+   {
+    "quote": "フジアルテ 株式会社 (@corporateWeb_fa) on X フジアルテ 株式会社 (@corporateWeb_fa) on X X https://x.com > @corporateWeb_fa",
+    "url": "https://x.com/corporateWeb_fa/status/2117195042498719832",
+    "pass": 3
+   },
+   {
+    "quote": "フジアルテ 株式会社 - X フジアルテ 株式会社 - X X https://x.com > @corporateWeb_fa",
+    "url": "https://x.com/corporateWeb_fa/status/2096176514966393107",
+    "pass": 3
+   },
+   {
+    "quote": "フジアルテ 株式会社 on X: \"【製造業の人事・労務必見】2026 ... フジアルテ 株式会社 on X: \"【製造業の人事・労務必見】2026 ... X https://x.com > @corporateWeb_fa",
+    "url": "https://x.com/corporateWeb_fa/status/2058850571898265990",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "フジアルテ (株)【製造職コース】の採用データ | マイナビ2027 — フジアルテ (株)【製造職コース】の採用データ | マイナビ2027 マイナビ https://job.mynavi.jp > corp243657 > recruiting_course",
+    "url": "https://job.mynavi.jp/27/pc/search/corp243657/recruiting_course27055154/recruiting_course.html?site_preference=pc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フジアルテ - Wikipedia — フジアルテ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > フジアルテ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 製造業の人材派遣会社なら フジアルテ — 会社概要 | 製造業の人材派遣会社なら フジアルテ フジアルテ https://fujiarte.co.jp > 会社情報",
+    "url": "https://fujiarte.co.jp/about/company-overview",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - フジアルテスタッフサポートセンター株式会社 — 会社情報 - フジアルテスタッフサポートセンター株式会社 フジアルテスタッフサポートセンター株式会社 https://fujiarte-ssc.jp > information",
+    "url": "https://fujiarte-ssc.jp/information/",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－ フジアルテ 株式会社 代表取締役社長 平尾 隆志 — 業界毎特集記事－ フジアルテ 株式会社 代表取締役社長 平尾 隆志 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/2593",
+    "pass": 3
+   },
+   {
+    "quote": "フジアルテ (株)【総合職コース】の会社概要 | マイナビ2027 — フジアルテ (株)【総合職コース】の会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp81695 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp81695/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "フジアルテ (株)【製造職コース】の会社概要 | マイナビ2028 — フジアルテ (株)【製造職コース】の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp243657 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp243657/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "フジアルテ 株式会社 - 会社図鑑 関西版100選 — フジアルテ 株式会社 - 会社図鑑 関西版100選 c-filekansai.com https://c-filekansai.com > fujiarte",
+    "url": "https://c-filekansai.com/m5EtWtgK-1/fujiarte",
+    "pass": 3
+   },
+   {
+    "quote": "フジアルテ 株式会社の新卒採用・就活情報 - Re就活キャンパス — フジアルテ 株式会社の新卒採用・就活情報 - Re就活キャンパス Ｒｅ就活キャンパス https://www.gakujo.ne.jp > campus > company > baseinfo",
+    "url": "https://www.gakujo.ne.jp/campus/company/baseinfo/68585/",
+    "pass": 3
+   },
+   {
+    "quote": "フジアルテ 株式会社 | 専門学校の就活No.1サイト キャリアマップ — フジアルテ 株式会社 | 専門学校の就活No.1サイト キャリアマップ Careermap https://www.careermap.jp > corporations",
+    "url": "https://www.careermap.jp/corporations/21763",
+    "pass": 3
+   },
+   {
+    "quote": "フジアルテ (株)【総合職コース】の会社概要 | マイナビ2028 — フジアルテ (株)【総合職コース】の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp81695 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp81695/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "フジアルテ の業績・将来性・強み・弱み - エン カイシャの評判 — フジアルテ の業績・将来性・強み・弱み - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company",
+    "url": "https://en-hyouban.com/company/10096952335/23/",
+    "pass": 3
+   },
+   {
+    "quote": "導入 実績 | 製造業 の人材派遣会社なら フジアルテ — 導入 実績 | 製造業 の人材派遣会社なら フジアルテ フジアルテ https://fujiarte.co.jp > results",
+    "url": "https://fujiarte.co.jp/results",
+    "pass": 3
+   },
+   {
+    "quote": "フジアルテ 株式会社の実績と 導入事例 — フジアルテ 株式会社の実績と 導入事例 manufacturing-hr.com https://www.manufacturing-hr.com > company > arte",
+    "url": "https://www.manufacturing-hr.com/company/arte.html",
+    "pass": 3
+   },
+   {
+    "quote": "フジアルテ 株式会社 | 導入事例 - HRBrain — フジアルテ 株式会社 | 導入事例 - HRBrain HRBrain https://www.hrbrain.jp > 導入事例",
+    "url": "https://www.hrbrain.jp/case/fujiarte",
+    "pass": 3
+   },
+   {
+    "quote": "フジアルテ 株式会社 (@corporateWeb_fa) on X — フジアルテ 株式会社 (@corporateWeb_fa) on X X https://x.com > @corporateWeb_fa",
+    "url": "https://x.com/corporateWeb_fa/status/2117195042498719832",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人材派遣会社なら フジアルテ — 製造業の人材派遣会社なら フジアルテ フジアルテ https://fujiarte.co.jp",
+    "url": "https://fujiarte.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "工場・製造の求人・派遣はしごとアルテ - フジアルテ — 工場・製造の求人・派遣はしごとアルテ - フジアルテ しごとアルテ https://www.4510arte.jp > 記事",
+    "url": "https://www.4510arte.jp/posts/faq",
+    "pass": 3
+   },
+   {
+    "quote": "フジアルテ 株式会社 社員による会社評価ランキング - OpenWork — フジアルテ 株式会社 社員による会社評価ランキング - OpenWork OpenWork https://www.openwork.jp > 人材サービス > フジアルテ",
+    "url": "https://www.openwork.jp/a0910000006Ps97/ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 | 製造業の人材派遣会社なら フジアルテ — 採用情報 | 製造業の人材派遣会社なら フジアルテ フジアルテ https://fujiarte.co.jp > recruit-list",
+    "url": "https://fujiarte.co.jp/recruit-list",
+    "pass": 3
+   },
+   {
+    "quote": "「 フジアルテ 株式会社」の工場・製造業求人ならジョブハウス — 「 フジアルテ 株式会社」の工場・製造業求人ならジョブハウス ジョブハウス https://jobhouse.jp > factory > articles",
+    "url": "https://jobhouse.jp/factory/articles/b_161",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の代表取締役 社長 平尾 インタビュー 記事が掲載されました ... — 弊社の代表取締役 社長 平尾 インタビュー 記事が掲載されました ... フジアルテ https://fujiarte.co.jp > ホーム > 採用サイト お知らせ",
+    "url": "https://fujiarte.co.jp/recruit/news/post-1186",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－ フジアルテ 株式会社 代表取締役 社長 平尾 隆志 — 業界毎特集記事－ フジアルテ 株式会社 代表取締役 社長 平尾 隆志 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/2593",
+    "pass": 3
+   },
+   {
+    "quote": "経営理念・ 社長 メッセージ | 製造業の人材派遣会社なら ... — 経営理念・ 社長 メッセージ | 製造業の人材派遣会社なら ... フジアルテ https://fujiarte.co.jp > 会社情報",
+    "url": "https://fujiarte.co.jp/about/company-philosophy",
+    "pass": 3
+   },
+   {
+    "quote": "【新卒向け】 フジアルテ 会社紹介 - YouTube — 【新卒向け】 フジアルテ 会社紹介 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=cSB32861sVA",
+    "pass": 3
    }
   ]
  },
@@ -3795,7 +4149,47 @@
     "method": "http"
    },
    {
+    "url": "https://fujiarte.co.jp/about/company-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://fujiarte.co.jp/services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fujiarte.co.jp/about/company-philosophy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fujiarte.co.jp/results/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fujiarte.co.jp/results/qc_circle",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fujiarte.co.jp/recruit-list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fujiarte.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fujiarte.co.jp/results/case/post-86",
     "status": "ok",
     "method": "http"
    },
@@ -3835,22 +4229,12 @@
     "method": "http"
    },
    {
-    "url": "https://fujiarte.co.jp/about/company-overview",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://fujiarte.co.jp/about/network",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://fujiarte.co.jp/about/strength",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://fujiarte.co.jp/about/company-philosophy",
     "status": "ok",
     "method": "http"
    },
@@ -3870,42 +4254,12 @@
     "method": "http"
    },
    {
-    "url": "https://fujiarte.co.jp/results/case",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://fujiarte.co.jp/results/qc_circle",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://fujiarte.co.jp/recruit-list",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://fujiarte.co.jp/recruit/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://fujiarte.co.jp/services/dispatch",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://fujiarte.co.jp/topics/post-8626",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://fujiarte.co.jp/results/case/post-86",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://fujiarte.co.jp/results/case/post-254",
     "status": "ok",
     "method": "http"
    },
@@ -3920,22 +4274,22 @@
     "method": "http"
    },
    {
+    "url": "https://fujiarte.co.jp/results/case/post-248",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fujiarte.co.jp/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fujiarte.co.jp/recruit/company/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://fujiarte.co.jp/recruit/sougou_gradu/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://fujiarte.co.jp/recruit/sougou_gradu/youngemployee/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://fujiarte.co.jp/recruit/sougou_gradu/generalist/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://fujiarte.co.jp/recruit/sougou_gradu/engineer/",
     "status": "ok",
     "method": "http"
    }
@@ -4009,12 +4363,12 @@
     "method": "http"
    },
    {
-    "url": "https://prtimes.jp/main/html/rd/p/000000017.000143827.html",
+    "url": "https://www.manufacturing-hr.com/company/arte.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.manufacturing-hr.com/feature/examples.html",
+    "url": "https://www.hrbrain.jp/case/fujiarte",
     "status": "ok",
     "method": "http"
    },
@@ -4132,13 +4486,13 @@
     "https://fujiarte.co.jp/about/company-overview",
     "https://fujiarte.com/ja/informacoes-da-empresa-ja/",
     "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
-    "https://job.mynavi.jp/27/pc/search/corp81695/outline.html",
-    "https://shachomeikan.jp/industry_article/2593",
-    "https://crefil.com/casestudy/483/",
+    "https://job.mynavi.jp/28/pc/search/corp243657/outline.html",
     "https://c-filekansai.com/m5EtWtgK-1/fujiarte",
+    "https://crefil.com/casestudy/483/",
+    "https://shachomeikan.jp/industry_article/2593",
     "https://www.daijob.com/jobs/company/6406",
     "https://www.careermap.jp/corporations/21763",
-    "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/sogyo-setsuritsu-soritsu/"
+    "https://ja.wikipedia.org/wiki/フジアルテ"
    ]
   },
   {
@@ -4149,8 +4503,8 @@
     "https://job.mynavi.jp/28/pc/search/corp81695/outline.html",
     "https://en-hyouban.com/company/10096952335/23/",
     "https://fujiarte.co.jp/about/company-overview",
-    "https://ryo-nakamura1.hatenablog.jp/entry/2026/01/21/190000_2",
     "https://job.mynavi.jp/28/pc/search/corp243657/outline.html",
+    "https://ryo-nakamura1.hatenablog.jp/entry/2026/01/21/190000_2",
     "https://www.openwork.jp/a0910000006Ps97/ranking/",
     "https://doda.jp/DodaFront/View/Company/j_id__10096952335/"
    ]
@@ -4159,15 +4513,15 @@
    "query": "フジアルテ 製造業 導入事例",
    "results": [
     "https://fujiarte.co.jp/results",
-    "https://prtimes.jp/main/html/rd/p/000000017.000143827.html",
-    "https://www.manufacturing-hr.com/feature/examples.html",
+    "https://www.manufacturing-hr.com/company/arte.html",
     "https://www.hrbrain.jp/case/fujiarte",
+    "https://prtimes.jp/main/html/rd/p/000000017.000143827.html",
     "https://x.com/corporateWeb_fa/status/2117195042498719832",
     "https://crefil.com/casestudy/483/",
     "https://fujiarte.co.jp/results/case",
     "https://www.youtube.com/watch?v=YLUEdp5TzrQ",
-    "https://www.4510arte.jp/",
-    "https://www.manufacturing-hr.com/company/arte.html"
+    "https://www.manufacturing-hr.com/feature/examples.html",
+    "https://sales.en-sx.com/case/fujiarte"
    ]
   },
   {
@@ -4178,10 +4532,10 @@
     "https://www.openwork.jp/a0910000006Ps97/ranking/",
     "https://job.mynavi.jp/27/pc/search/corp243657/recruiting_course27055154/recruiting_course.html?site_preference=pc",
     "https://fujiarte.co.jp/recruit-list",
-    "https://doda.jp/DodaFront/View/Company/j_id__10096952335/",
     "https://job-con.jp/company/72",
     "https://jp.indeed.com/cmp/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
     "https://jobhouse.jp/factory/articles/940123",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
     "https://3naoshi.com/services/5c3a80dd-dc9f-4297-93ae-621b79826635"
    ]
   },
@@ -4192,8 +4546,8 @@
     "https://fujiarte.co.jp/recruit/news/post-1186",
     "https://shachomeikan.jp/industry_article/2593",
     "https://fujiarte.co.jp/about/company-philosophy",
-    "https://c-filekansai.com/m5EtWtgK-1/fujiarte",
     "https://www.youtube.com/watch?v=cSB32861sVA",
+    "https://c-filekansai.com/m5EtWtgK-1/fujiarte",
     "https://www.4510arte.jp/posts/interview/12/46",
     "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
     "https://jinjibu.jp/hr-conference/202205/interview_detl.php?anc=G2",
@@ -4207,12 +4561,12 @@
     "https://note.com/yuki_nico002/n/nab21f809fc90",
     "https://note.com/revcomm_miitel/n/ne81e3879676d",
     "https://note.com/mizunezu42/n/nfc29b650fb9c",
-    "https://note.com/rich_auk207/n/n8cbf42cb3dfc",
     "https://note.com/micocloud/n/n3b4890cd9cc2",
+    "https://note.com/rich_auk207/n/n8cbf42cb3dfc",
     "https://note.com/tatsuya_sabato/n/n604757ac3ed9",
     "https://note.com/moririn_7027/n/nf20b0b653fd4",
     "https://note.com/suzu_kii_to/n/n95b4d72e4667/comments",
-    "https://note.com/mizunosan0101/n/n4e3d2b33c78c"
+    "https://note.com/eishin_daishi/n/nd470c5fdee1d"
    ]
   },
   {
@@ -4227,7 +4581,7 @@
     "https://x.com/corporateWeb_fa/status/2104511433744523532",
     "https://x.com/Firststep_mie",
     "https://x.com/corporateWeb_fa/status/2114658304605696068",
-    "https://x.com/corporateWeb_fa/status/2113201196374872236"
+    "https://x.com/corporateWeb_fa/status/2115975528654258513"
    ]
   },
   {
@@ -4270,9 +4624,9 @@
     "https://prtimes.jp/main/html/rd/p/000000020.000143827.html",
     "https://fujiarte.com/ja/mensagem-do-presidente-ja/",
     "https://www.openwork.jp/one_answer.php?vid=a0A2x00000465Ot&qco=4",
-    "https://jobtalk.jp/companies/52053/answers/1031489",
     "https://jinjibu.jp/corporate/CP0004418/",
-    "https://ja.wikipedia.org/wiki/藤原岳史"
+    "https://jobtalk.jp/companies/52053/answers/1031489",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
    ]
   },
   {
@@ -4287,7 +4641,7 @@
     "https://www.openwork.jp/company.php?m_id=a0910000006Ps97",
     "https://fujiarte.co.jp/topics/cat/cat1",
     "https://www.instagram.com/reel/DbDJSH9DXIG/",
-    "https://x.com/corporateWeb_fa"
+    "https://x.com/hashtag/フジアルテ"
    ]
   }
  ],
@@ -4296,51 +4650,263 @@
   "許認可": "記載なし（3回確認済み：公式30頁／PDF・画像3件／外部30頁・検索12回）"
  },
  "new_this_run": {
-  "株主構成": [
+  "採用・人数": [
    {
-    "quote": "【ダイハツグループ】ダイハツ工業100％出資の安定した基盤",
-    "url": "https://www.gakujo.ne.jp/campus/company/baseinfo/68585/",
-    "pass": 3,
+    "quote": "グローバル人材採用×チーム派遣と、リーダー常駐体制の構築により、在籍目標100名・定着率97.6％・出勤率98.3％を実現した生産チーム垂直立ち上げプロジェクト | 製造業の人材派遣会社ならフジアルテ",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "子会社の株式会社平山の改善事例を紹介します",
-    "url": "https://www.manufacturing-hr.com/feature/examples.html",
-    "pass": 3,
+    "quote": "グローバル人材採用×チーム派遣と、リーダー常駐体制の構築により、在籍目標100名・定着率97.6％・出勤率98.3％を実現した生産チーム垂直立ち上げプロジェクト",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "100名の採用依頼",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特に、現地スタッフに加えて先行OJTによる習熟した現場リーダー・スタッフの採用により、",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "定着率の悪化による採用育成コストの負担増を予防",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コロナ禍による安全確保を目的とした厳格な条件を乗り越えて、3ヶ月で85名の新規採用を実現した、戦略的スピード採用プロジェクト",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用方法比較リスト、外国人雇用ハンドブックなど資料をダウンロード頂けます",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "創業以来これまで培ってきた実績とノウハウから、安全や品質や生産性を向上する独自のものづくり力と、採用から定着 そして人材育成やキャリア形成支援などのひとづくり力向上をはかり、改善への取り組みや制度・仕組みづくりなど、日々努力を重ねています",
+    "url": "https://fujiarte.co.jp/about/company-philosophy",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用方法比較リスト、外国人雇用ハンドブックなど資料をダウンロード頂けます",
+    "url": "https://fujiarte.co.jp/about/company-philosophy",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用難と急増産を乗り越える！ グローバル人材の教育体制構築と復職支援による生産力向上プロジェクト",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用方法比較リスト、外国人雇用ハンドブックなど資料をダウンロード頂けます",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フジアルテWeb採用推進チームが 近畿支部主催QCサークル大会で支部長賞と優秀賞のダブル受賞！",
+    "url": "https://fujiarte.co.jp/results/qc_circle",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用方法比較リスト、外国人雇用ハンドブックなど資料をダウンロード頂けます",
+    "url": "https://fujiarte.co.jp/results/qc_circle",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用情報 | 製造業の人材派遣会社ならフジアルテ",
+    "url": "https://fujiarte.co.jp/recruit-list",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一緒にフジアルテを盛り上げていただける方を募集しております",
+    "url": "https://fujiarte.co.jp/recruit-list",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新卒採用・中途採用・エンジニア採用・グローバル採用を行っています",
+    "url": "https://fujiarte.co.jp/recruit-list",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用方法比較リスト、外国人雇用ハンドブックなど資料をダウンロード頂けます",
+    "url": "https://fujiarte.co.jp/recruit-list",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2026年度 プロダクト・エンジニア職採用の内定式を開催しました",
+    "url": "https://fujiarte.co.jp/recruit/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2026年度 総合職採用 23期生 内定式を開催しました",
+    "url": "https://fujiarte.co.jp/recruit/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "外国人就業者の高い出勤率を実現した採用改善プロジェクト",
+    "url": "https://fujiarte.co.jp/results/case/post-86",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用方法比較リスト、外国人雇用ハンドブックなど資料をダウンロード頂けます",
+    "url": "https://fujiarte.co.jp/results/case/post-86",
+    "pass": 1,
     "first_seen": "2026-11-05"
    }
   ],
   "創業年度": [
    {
-    "quote": "創業3年で国内シェアトップへ",
+    "quote": "創業者が語る国内シェアトップへと上り詰めた “信念の経営”",
     "url": "https://shachomeikan.jp/industry_article/2593",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ],
-  "検索結果の抜粋": [
+  "株主構成": [
    {
-    "quote": "フジアルテ (株)【製造職コース】の採用データ | マイナビ2027 — フジアルテ (株)【製造職コース】の採用データ | マイナビ2027 マイナビ https://job.mynavi.jp > corp243657 > recruiting_course",
-    "url": "https://job.mynavi.jp/27/pc/search/corp243657/recruiting_course27055154/recruiting_course.html?site_preference=pc",
+    "quote": "業務用・家庭用ごま油で国内シェアトップを誇るスタンダード上場企業",
+    "url": "https://shachomeikan.jp/industry_article/2593",
     "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "60万軒超の施工実績を誇るプライム上場企業",
+    "url": "https://shachomeikan.jp/industry_article/2593",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "売上・規模": [
+   {
+    "quote": "グローバル人材採用×チーム派遣と、リーダー常駐体制の構築により、在籍目標100名・定着率97.6％・出勤率98.3％を実現した生産チーム垂直立ち上げプロジェクト | 製造業の人材派遣会社ならフジアルテ",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "グローバル人材採用×チーム派遣と、リーダー常駐体制の構築により、在籍目標100名・定着率97.6％・出勤率98.3％を実現した生産チーム垂直立ち上げプロジェクト",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "100名以上",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "100名の採用依頼",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "7ヶ月で在籍目標100名を実現",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コロナ禍による安全確保を目的とした厳格な条件を乗り越えて、3ヶ月で85名の新規採用を実現した、戦略的スピード採用プロジェクト",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "100名以上",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "500名以上",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1,000名以上",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5,000名以上",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "10,000名以上",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "20,000名以上",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新卒社員32名の早期離職をゼロへ！実技研修とデータ活用で「12ヵ月後の定着率100%」を実現した離職防止プロジェクト",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "移管による生産影響「ゼロ」！3ヶ月で12名の派遣移管を完遂し、労務管理の不安を解消した計画的切替事例",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "100名規模の増員ニーズに応え、出勤率99.5%を維持",
+    "url": "https://fujiarte.co.jp/results/case",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1,000名以上",
+    "url": "https://fujiarte.co.jp/results/case/post-86",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "地方拠点の慢性的な人材確保の課題を解消し、",
+    "url": "https://fujiarte.co.jp/results/case/post-86",
+    "pass": 1,
     "first_seen": "2026-11-05"
    }
   ],
   "発言": [
    {
-    "quote": "〜新卒派遣×紹介予定派遣によるミスマッチ防止の取り組みについて、担当者インタビューを公開〜",
-    "url": "https://prtimes.jp/main/html/rd/p/000000017.000143827.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（本社：大阪府大阪市、代表取締役社長：平尾 隆志）は、",
-    "url": "https://prtimes.jp/main/html/rd/p/000000017.000143827.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「識学」の理論で組織の生産性向上に貢献！ロジカルな組織運営の普及で日本全体の成長を目指す社長の挑戦",
+    "quote": "創業者が語る国内シェアトップへと上り詰めた “信念の経営”",
     "url": "https://shachomeikan.jp/industry_article/2593",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -4348,121 +4914,109 @@
   ],
   "売り方": [
    {
-    "quote": "その制度が実際どれくらい利用され、どのように活用されているのかをご紹介します",
-    "url": "https://fujiarte.co.jp/recruit/",
+    "quote": "製造現場の稼働率向上を実現した、コミュニケーション活性化に向けた具体的な取り組み事例の紹介",
+    "url": "https://fujiarte.co.jp/results/case/post-248",
     "pass": 1,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "会社イベントや社内制度をリアルタイムに更新中！フジアルテの魅力をご紹介します",
-    "url": "https://fujiarte.co.jp/recruit/",
+    "quote": "総合人材サービス、人材派遣事業、人材紹介事業、アウトソーシング事業、エンジニア事業、優良職業紹介事業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有料職業紹介事業・労働大臣許可 27-ユ-300013",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "製造派遣、製造請負、エンジニア派遣、人材紹介",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有料職業紹介事業・労働大臣許可 / 27-ユ-300013",
+    "url": "https://fujiarte-ssc.jp/information/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人材関連コンサルタントサービス、人材紹介サービス",
+    "url": "https://fujiarte-ssc.jp/information/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一般消費財メーカー向け営業支援、販売促進業務代行",
+    "url": "https://fujiarte-ssc.jp/information/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日本で働く方に役立つテーマを取り上げたり、興味深い話題を紹介したり、日本文化について解説している私たちの動画をぜひご覧ください",
+    "url": "https://fujiarte.com/ja/informacoes-da-empresa-ja/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "製造業の顧客": [
+   {
+    "quote": "グローバル人材採用×チーム派遣と、リーダー常駐体制の構築により、在籍目標100名・定着率97.6％・出勤率98.3％を実現した生産チーム垂直立ち上げプロジェクト | 製造業の人材派遣会社ならフジアルテ",
+    "url": "https://fujiarte.co.jp/results/case/post-254",
     "pass": 1,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "フジアルテの様々なサービスや取り組み、企業詳細を動画でご紹介します",
-    "url": "https://fujiarte.co.jp/recruit/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "全国、多種多様なフィールドで躍動する先輩社員を紹介します",
-    "url": "https://fujiarte.co.jp/recruit/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "営業担当として一貫して寄り添い、信頼を築ける存在に",
-    "url": "https://fujiarte.co.jp/recruit/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "定期的な立哨活動（出勤するスタッフに対し、事業所入場門にて所長・営業スタッフ・事業所管理者が通勤災害・職場災害の防止を呼びかけ）",
+    "quote": "の徹底により5年連続無災害記録を更新し、顧客の協力会社内では初の",
     "url": "https://fujiarte.co.jp/results/case/post-86",
     "pass": 1,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "同じエリア内の営業所と連携し、週単位で他地域からの異動希望スタッフを確認することで受け入れを促進した",
-    "url": "https://fujiarte.co.jp/results/case/post-253",
+    "quote": "の実施（作業場のみならず駐車場通路などを含め、工場内の危険個所を抽出",
+    "url": "https://fujiarte.co.jp/results/case/post-86",
     "pass": 1,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "書類作成や住居・備品の確保など営業所内はもちろん、",
-    "url": "https://fujiarte.co.jp/results/case/post-253",
+    "quote": "顧客ご担当者様も同席する協議会にて抽出内容を報告し、顧客を巻き込んだ安全職場づくりを実施）",
+    "url": "https://fujiarte.co.jp/results/case/post-86",
     "pass": 1,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "製造現場の稼働率向上を実現した、コミュニケーション活性化に向けた具体的な取り組み事例の紹介",
-    "url": "https://fujiarte.co.jp/results/case/post-253",
+    "quote": "取引先安全活動へ当社管理者も参加（顧客内で実施している安全活動へ当社管理者も参加し、同活動内での教育内容を全スタッフに浸透するよう図った）",
+    "url": "https://fujiarte.co.jp/results/case/post-86",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "の口コミを見ていると、寮付きの仕事を探してる人には共通の不安があるようです。",
+    "url": "https://note.com/yuki_nico002/n/nab21f809fc90",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "料金": [
+   {
+    "quote": "サービス内容、料金体系など、お気軽に",
+    "url": "https://fujiarte.co.jp/results/case/post-248",
     "pass": 1,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "営業担当として一貫して寄り添い、信頼を築ける存在に",
-    "url": "https://fujiarte.co.jp/recruit/sougou_gradu/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また仕事を始めて気づいたこと、成長を感じたエピソードなどを紹介してもらいました",
-    "url": "https://fujiarte.co.jp/recruit/sougou_gradu/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また仕事を始めて気づいたこと、成長を感じたエピソードなどを紹介してもらいました",
-    "url": "https://fujiarte.co.jp/recruit/sougou_gradu/youngemployee/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただ、仕事に関しては少しだけ・・・、もちろん悪い意味ではないです（笑） 私は結構人と話すのが苦手で、最初に配属された部署ではテレアポをすることになって、最初は「無理！」と感じていたんですが、経験を積んで慣れました",
-    "url": "https://fujiarte.co.jp/recruit/sougou_gradu/youngemployee/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "私は現在営業から採用の仕事へキャリアチェンジをしたので求職者さんに「あなたはこんな工場に行きますよ」といった説明をすることも多いんですが、「空調が効いていて快適ですよ」「女性も楽しく働ける環境ですよ」って自信を持って言えるのは工場の経験があったからです",
-    "url": "https://fujiarte.co.jp/recruit/sougou_gradu/youngemployee/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "楽しいです！社内のシステムを通して、業務のやり方や運用をよりよいものに変えていくことで、皆さんの営業活動や採用活動に貢献できている、と考えると「これは凄いことだ」って感じます",
-    "url": "https://fujiarte.co.jp/recruit/sougou_gradu/youngemployee/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "私は現在採用業務として面談では学生さんにフジアルテの紹介や、選考・内定承諾に進むに向けて学生さんの疑問や不安を取り除くための相談にのる機会があります",
-    "url": "https://fujiarte.co.jp/recruit/sougou_gradu/youngemployee/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "私は元々採用職がやりたくて入ってきたけど、最初は営業で配属されました",
-    "url": "https://fujiarte.co.jp/recruit/sougou_gradu/youngemployee/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "でも、意外な自分の適性が見つかって、さらにアポイントメントのためのインサイド営業などの研修講師も経験させていただき、人に教える立場というのも面白いと感じられるようになりました",
-    "url": "https://fujiarte.co.jp/recruit/sougou_gradu/youngemployee/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "営業担当として一貫して寄り添い、信頼を築ける存在に",
-    "url": "https://fujiarte.co.jp/recruit/sougou_gradu/generalist/",
+    "quote": "サービスや料金体系など、ご不明点を直接ご相談したい方はこちらから",
+    "url": "https://fujiarte.co.jp/results/case/post-248",
     "pass": 1,
     "first_seen": "2026-11-05"
    }
   ]
  },
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-04T14:57:03.502231+00:00"
 }

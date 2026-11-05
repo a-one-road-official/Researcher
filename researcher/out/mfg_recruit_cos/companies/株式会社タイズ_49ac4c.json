@@ -4,7 +4,7 @@
   "タイズ"
  ],
  "context": "関西メーカー専門の転職エージェント",
- "researched_at": "2026-11-05T10:44:45.537547+00:00",
+ "researched_at": "2026-11-05T19:12:03.188347+00:00",
  "official_url": "https://www.ties-inc.co.jp/",
  "identified_by": "given",
  "profile": {
@@ -370,112 +370,143 @@
   ]
  },
  "evidence": {
-  "製造業の顧客": [
+  "SNS・note（Facebook・検索結果の抜粋）": [
    {
-    "quote": "創業者メッセージ｜メーカー専門の転職エージェント「タイズ」-製造業の求人・中途採用・転職情報が満載",
+    "quote": "株式会社 タイズ (@eeties) - Facebook 株式会社 タイズ (@eeties) - Facebook Facebook https://www.facebook.com > ... > コンサルティング会社",
+    "url": "https://www.facebook.com/eeties/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 タイズ (@eeties) - About - Facebook 株式会社 タイズ (@eeties) - About - Facebook Facebook https://www.facebook.com > ... > 株式会社タイズ",
+    "url": "https://www.facebook.com/eeties/about/",
+    "pass": 3
+   },
+   {
+    "quote": "タイズ 株式会社 (@tiesofficial) - Facebook タイズ 株式会社 (@tiesofficial) - Facebook Facebook https://www.facebook.com > ... > Shopping Service",
+    "url": "https://www.facebook.com/tiesofficial/",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社 タイズ 】 まだ誰も歩いていない道を、二人で切り ... 【株式会社 タイズ 】 まだ誰も歩いていない道を、二人で切り ... Facebook https://www.facebook.com > talentbook.jp > posts > 株式...",
+    "url": "https://www.facebook.com/talentbook.jp/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BF%E3%82%A4%E3%82%BA%E3%81%BE%E3%81%A0%E8%AA%B0%E3%82%82%E6%AD%A9%E3%81%84%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E9%81%93%E3%82%92%E4%BA%8C%E4%BA%BA%E3%81%A7%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F%E3%82%BF%E3%82%A4%E3%82%BAit%E5%96%B6%E6%A5%AD%E9%83%A8%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AE%E8%88%9E%E5%8F%B0%E8%A3%8F/1731387078484975/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "プライマリ タイズ （公式） (@primarytides) / X プライマリ タイズ （公式） (@primarytides) / X X https://x.com > primarytides",
+    "url": "https://x.com/primarytides",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プライマリ タイズ （公式） - @primarytides - X プライマリ タイズ （公式） - @primarytides - X X https://x.com > @primarytides",
+    "url": "https://x.com/primarytides/status/2117954007524376813",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プライマリ タイズ （公式） - @primarytides - X プライマリ タイズ （公式） - @primarytides - X X https://x.com > @primarytides",
+    "url": "https://x.com/primarytides/status/2118302617612976506",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー転職なら タイズ (@tiesTenshoku) / X メーカー転職なら タイズ (@tiesTenshoku) / X X https://x.com > tiesTenshoku",
+    "url": "https://x.com/tiesTenshoku",
+    "pass": 3
+   },
+   {
+    "quote": "フーシ派による包囲はさらに進み情勢は非常に厳しい。 タイズ ... フーシ派による包囲はさらに進み情勢は非常に厳しい。 タイズ ... X https://x.com > @you___27",
+    "url": "https://x.com/you___27/status/2110369843883196728",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 タイズ （人材サービス＆電気通信サービス） 株式会社 タイズ （人材サービス＆電気通信サービス） X https://x.com > ties_2012",
+    "url": "https://x.com/ties_2012",
+    "pass": 3
+   },
+   {
+    "quote": "プライマリ タイズ の 投稿 動画を楽しみましょう！ - X プライマリ タイズ の 投稿 動画を楽しみましょう！ - X X https://x.com > @primarytides",
+    "url": "https://x.com/primarytides/status/2117608921661931958",
+    "pass": 3
+   },
+   {
+    "quote": "プライマリ タイズ の 投稿 動画を楽しみましょう - X プライマリ タイズ の 投稿 動画を楽しみましょう - X X https://x.com > @primarytides",
+    "url": "https://x.com/primarytides/status/2117243277972004903",
+    "pass": 3
+   }
+  ],
+  "売上・規模": [
+   {
+    "quote": "このビジョンの実現と、2030年の売上目標達成に向け、私たちは「タテ・ヨコ・ナナメ」の戦略でダイナミックに事業を拡大しています",
     "url": "https://www.ee-ties.com/about/ceo/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "メーカー転職エージェント「タイズ」のトップ",
-    "url": "https://www.ee-ties.com/about/ceo/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社タイズは、「HR事業を通じて、企業の発展、個人の幸せを実現し、ひいては日本社会の繁栄に貢献する」という想いのもと、2005年にメーカー業界に特化した人材紹介会社として創業いたしました",
-    "url": "https://www.ee-ties.com/about/ceo/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2022年にはじげんグループにジョインし、現在は「メーカー業界の人事部になる」というビジョンを掲げています",
-    "url": "https://www.ee-ties.com/about/ceo/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "私たちは「メーカー業界の人事部」であることを志しています",
-    "url": "https://www.ee-ties.com/about/ceo/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「正しいことをやり続ける」という信念のもと、タイズの成長が日本の製造業のさらなる進化に貢献できると固く信じ、私たちはこれからも挑戦を続けてまいります",
-    "url": "https://www.ee-ties.com/about/ceo/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカー合格率No1企業多数",
-    "url": "https://www.ee-ties.com/about/ceo/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "SBIグループは国内最高峰の質・量を誇る金融データと、国内外で7,800万を超える顧客基盤、世界26か国・地域に及ぶ多様な海外事業体を有し、銀行・証券・保険・資産運用からデジタルアセットまでを横断したサービスラインナップを戦略的に融合し得る独自の強みを持ちます",
+    "quote": "180名（グループ連結）",
     "url": "https://www.sbigroup.co.jp/news/2025/1229_16004.html",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "株式会社SBI証券の顧客を対象とする「Forbes JAPAN」有料会員への登録促進施策、および「Forbes JAPAN」の顧客を対象とするSBIグループのブランディング施策を共同で実施",
-    "url": "https://www.sbigroup.co.jp/news/2025/1229_16004.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社概要｜メーカー専門の転職エージェント「タイズ」-製造業の求人・中途採用・転職情報が満載",
+    "quote": "〒450-0002 愛知県名古屋市中村区名駅4-8-26 エニシオ名駅13階",
     "url": "https://www.ee-ties.com/about/company/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "メーカー転職エージェント「タイズ」のトップ",
-    "url": "https://www.ee-ties.com/about/company/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカー業界およびコンサルティング業界に特化した人材紹介事業、採用代行事業",
-    "url": "https://www.ee-ties.com/about/company/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカー合格率No1企業多数",
-    "url": "https://www.ee-ties.com/about/company/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "“従来のアナログマッチング”×“じげんのデジタルマーケティング”＝製造業界No,1への挑戦",
+    "quote": "最終的には4,000億円の市場規模全体が対象です",
     "url": "https://recruit.ee-ties.com/job",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "多くのサービスを提供するために培われてきたじげんの圧倒的なデジタルマーケティングの知見を合わせることでHR領域事業を通じてメーカーの人事部になる",
+    "quote": "一人ひとりの成長を最大化する環境づくりと革新的な組織文化の醸成を通じて、2030年までに社員500名体制・売上180億円という大きな目標の実現に挑戦します",
     "url": "https://recruit.ee-ties.com/job",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "「ナナメ」の成長戦略があってこそ、「メーカー業界の人事部になる」ことへの実現に近づけます",
-    "url": "https://recruit.ee-ties.com/job",
+    "quote": "〒450-0002 愛知県名古屋市中村区名駅4丁目8-26 エニシオ名駅13階",
+    "url": "https://recruit.ee-ties.com/company",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "タイズでは、メーカー業界に特化した人材紹介を行っています",
-    "url": "https://recruit.ee-ties.com/job",
+    "quote": "地下鉄 東山線・桜通線 「名古屋駅」 徒歩 3 分",
+    "url": "https://recruit.ee-ties.com/company",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "これまでに培った実績とノウハウを活かし、全国のメーカー企業への転職支援を行っています",
-    "url": "https://recruit.ee-ties.com/job",
+    "quote": "名鉄 名古屋本線 「名鉄名古屋駅」 徒歩 3 分",
+    "url": "https://recruit.ee-ties.com/company",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "JR 在来線 「名古屋駅」 徒歩 4 分",
+    "url": "https://recruit.ee-ties.com/company",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "近鉄 名古屋線 「近鉄名古屋駅」 徒歩 4 分",
+    "url": "https://recruit.ee-ties.com/company",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "JR 東海道新幹線 「名古屋駅」 徒歩 7 分",
+    "url": "https://recruit.ee-ties.com/company",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "180名(グループ全体220名)",
+    "url": "https://recruit.ee-ties.com/company",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
@@ -486,7 +517,25 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "自分の挑戦が会社の未来に直結し、日本の製造業の進化に貢献できる",
+    "quote": "創業から10名規模で堅実に成長を続けてきたタイズは、2016年の中途採用、そして2020年の新卒採用を機に、組織化への舵を切り始めました",
+    "url": "https://recruit.ee-ties.com/company",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "オフィス移転（マニュライフプレイス堂島）従業員数30名突破",
+    "url": "https://recruit.ee-ties.com/company",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "M&A当時は社員数50名ほどでしたが、その後、関東や東海への拠点展開を進め、現在では140名規模の組織になりました",
+    "url": "https://recruit.ee-ties.com/company",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3年間で社員数が約3倍に、売上は2倍以上、そして利益は4倍にまで成長しています",
     "url": "https://recruit.ee-ties.com/company",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -498,223 +547,49 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "メーカー専門の転職エージェント「タイズ」-製造業の求人・中途採用・転職情報が満載",
-    "url": "https://www.ee-ties.com/",
+    "quote": "売上高180億円 従業員数500名突破",
+    "url": "https://recruit.ee-ties.com/company",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "メーカーの各業界において転職支援実績が豊富",
-    "url": "https://www.ee-ties.com/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最新のメーカー求人・自分の市場価値・業界の転職市況感を公式ラインでお知らせします",
-    "url": "https://www.ee-ties.com/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "、メーカーの職種すべてを専門的にカバーしています",
-    "url": "https://www.ee-ties.com/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカー合格率No1企業多数",
-    "url": "https://www.ee-ties.com/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカー転職エージェント「タイズ」のトップ",
-    "url": "https://www.ee-ties.com/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社タイズ様は、メーカー専門の転職エージェント「",
-    "url": "https://www.lany.co.jp/work/ties",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "弊社の場合、「メーカー転職」に特化したメディアという特徴から、専門性の高い記事の制作は必要不可欠でした",
-    "url": "https://www.lany.co.jp/work/ties",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "タイズ様がすでに持っていらっしゃるメーカーインタビューや事例記事を活かして、効果的な記事制作をおこなったことで成果に繋げることができたと考えています",
-    "url": "https://www.lany.co.jp/work/ties",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "前職は大手自動車部品メーカーの海外営業・製品企画を担当",
-    "url": "https://www.lany.co.jp/work/ties",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカー転職成功事例・体験談｜メーカー転職エージェント「タイズ」",
-    "url": "https://www.ee-ties.com/interview/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカー専門の転職エージェント「タイズ」のトップ",
-    "url": "https://www.ee-ties.com/interview/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "大手総合エンジニアリングメーカーの機械設計",
-    "url": "https://www.ee-ties.com/interview/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "■タイズのサービスで印象的だったこと 「タイズと大手エージェントのサポートに違いはありましたか？」 タイズさんは他エージェントよりも関西のメーカーと太いパイプを持っていることが強み…",
-    "url": "https://www.ee-ties.com/interview/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "大手電力メーカーの保守メンテナンスへの転職",
-    "url": "https://www.ee-ties.com/interview/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "商社からメーカーへ！着実な準備と対策で希望の転職を実現！",
-    "url": "https://www.ee-ties.com/interview/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカー合格率No1企業多数",
-    "url": "https://www.ee-ties.com/interview/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカー転職エージェント「タイズ」のトップ",
-    "url": "https://www.ee-ties.com/interview/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "料金プラン | ties [タイズ] ノーコードでデータの管理やフロー管理ができる顧客・案件管理システム",
-    "url": "https://ties.work/pricing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "利用規約｜メーカー専門の転職・求人サイト「タイズ」",
+    "quote": "氏名・住所等利用者であることを特定・確認するための本人確認書類",
     "url": "https://www.ee-ties.com/service_terms/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "メーカー合格率No1企業多数",
+    "quote": "他の利用者、当社または求人企業の従業員その他当社の事業に関わる一切の関係者（以下「関係者」といいます",
     "url": "https://www.ee-ties.com/service_terms/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "メーカー転職エージェント「タイズ」のトップ",
+    "quote": "当社または関係者が有する著作権、商標権その他の知的財産権を含む一切の財産的権利、営業上の秘密、名誉、プライバシー等を侵害する行為",
     "url": "https://www.ee-ties.com/service_terms/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "【代表インタビュー】経営思考のメカニズム「メーカー業界の人事部になる」ビジョンに込めた成長の機会",
+    "quote": "親会社の株式会社じげんには「人事部」がなく、「経営推進部」という名称なんです",
     "url": "https://recruit.ee-ties.com/interview/plSku8bn",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "「メーカー業界の人事部になる」というビジョン——これは「HRのあらゆる領域を手がける」という意味です",
+    "quote": "最終的には5,000億円の市場規模全体が対象です",
     "url": "https://recruit.ee-ties.com/interview/plSku8bn",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "つまり「人事部になる」とは、「メーカー業界の経営推進部になる」ということ",
+    "quote": "今現在、じげんグループでは11名の経営者が存在しています",
     "url": "https://recruit.ee-ties.com/interview/plSku8bn",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "「ナナメ」の成長戦略があってこそ、「メーカー業界の人事部になる」ことへの実現に近づけます",
-    "url": "https://recruit.ee-ties.com/interview/plSku8bn",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "関西を中心に大手メーカーの転職支援事業を展開する株式会社タイズを取材",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカー市場の現在や転職エージェントの介在価値、今後の事業展開などについて、代表取締役社長、今井氏に聞いた",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "タイズは、メーカー特化型の転職エージェントです",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2005年の創業時より、関西を中心に、製造業×大手企業×技術職×CA（キャリアアドバイザー）RA（リクルーティングアドバイザー）両面型に集中した事業展開にこだわり続け、現在は「大手メーカー向け転職エージェントと言えばタイズ」と称されるまでになりました",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "――今後もメーカー特化の事業展開を継続される予定でしょうか",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "タイズは、関西の大手メーカーのご支援からスタートしましたが、今後は縦・横・斜めの事業拡大を計画しています",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "横は、メーカーの他に、ITやコンサルなどの業界もカバーする戦略、斜めは、代表就任後に当社のビジョンを「メーカーの人事部」と定義し直しており、中途採用に限らず、幅広いソリューションを提供する戦略です",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アルティメイトリソーシズグループはコンサルタント業界やメーカーのRPO（採用代行）事業からスタートした会社で、顧客の採用戦略への伴走支援が強みです",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これは我々の斜めの戦略である「メーカーの人事部」になるための一つの事業展開です",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "――メーカーの市況感について、お考えをお聞かせください",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一部の業界で局所的な低迷はあるものの、メーカー全体の平均的な市況感は、10～20年のロングスパンでみれば悪くないと思います",
+    "quote": "拠点を持たないエリアへの事業拡大は、地域のお客様とコミュニケーションが取れている地場企業と協業することで双方の成長加速を作れると考えています",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -726,322 +601,8 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "タイズはメーカー向け人材紹介事業を展開しております",
-    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
-    "pass": 3
-   },
-   {
-    "quote": "同社は、関西メーカーを中心に顧客基盤を有しており、ほぼ全ての関西の主要な大手機械、電気/半導体、化学メーカーとの間で取引実績がございます",
-    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
-    "pass": 3
-   },
-   {
-    "quote": "また、各大手顧客の中途採用数に占める紹介成約実績において上位を獲得しております",
-    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
-    "pass": 3
-   },
-   {
-    "quote": "当社グループは、これまで既存領域における送客力の強化、顧客基盤の拡大、新規領域への拡張により、ライフサービスプラットフォームの価値拡大に努めて参りました",
-    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
-    "pass": 3
-   },
-   {
-    "quote": "本株式取得により、少子高齢化等を背景とした人手不足により人材確保ニーズが高まっている中、メーカー業界において新たに事業展開が可能となります",
-    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
-    "pass": 3
-   },
-   {
-    "quote": "メーカーに特化した人材紹介事業",
-    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
-    "pass": 3
-   },
-   {
-    "quote": "タイズはメーカー向け人材紹介事業を展開しております",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "同社は、関西メーカーを中心に顧客基",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "盤を有しており、ほぼ全ての関西の主要な大手機械、電気/半導体、化学メーカーとの間で取引実績",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "また、各大手顧客の中途採用数に占める紹介成約実績において上位を獲得しており",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "当社グループは、これまで既存領域における送客力の強化、顧客基盤の拡大、新規領域への拡張",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "メーカー業界において新たに事業展開が可能となります",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "（４） 事業内容 メーカーに特化した人材紹介事業",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "メンテナンス中｜メーカー転職ならタイズ",
-    "url": "https://www.ee-ties.com/about/company/",
-    "pass": 3
-   },
-   {
-    "quote": "メーカー専門の",
-    "url": "https://www.ee-ties.com/about/company/",
-    "pass": 3
-   },
-   {
-    "quote": "メンテナンス中｜メーカー転職ならタイズ",
-    "url": "https://www.ee-ties.com/about/ceo/",
-    "pass": 3
-   },
-   {
-    "quote": "メーカー専門の",
-    "url": "https://www.ee-ties.com/about/ceo/",
-    "pass": 3
-   },
-   {
-    "quote": "とはいえまだ弊社が強みを持っているのは、関西、関東の大手機電系（機械・電気・化学）メーカー中心です",
-    "url": "https://www.wantedly.com/companies/company_5236454/post_articles/877198",
-    "pass": 3
-   },
-   {
-    "quote": "現在中堅・中小メーカーとも取引を増やしており、今後は更に得意領域を増やし、そして、「メーカー領域No.1」を全国で確立するために、2023年の東京支社支社設立に続けて、2024年には名古屋支社と全国へサービス展開を広げていくつもりです",
-    "url": "https://www.wantedly.com/companies/company_5236454/post_articles/877198",
-    "pass": 3
-   },
-   {
-    "quote": "大阪・梅田に本社を置く、メーカー専門の転職エージェントです",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "メーカーの人材紹介が難しいのは、半導体製造装置の開発職と、金型技術者と、生産技術と、生産管理の違いが外から分からないからです",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "② 顧客基盤は、独立前に完成していた",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "関西の大手メーカーの経営者・人事部長を相手に、20年以上提案してきた人",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "メーカー × 関西 × 機電系",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "なぜメーカーだったのか",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "人材紹介会社は数千社あるが、特化型（ブティック型）は医療・介護・ITに集まっていて、メーカー特化は稀である",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "メーカーの人材紹介は難易度が高い",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "） 増やすもの 紹介件数 1件あたりの理解の深さ 顧客が負担するもの 書類を読む工数 相対的に高い手数料",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "「正義」＝顧客満足、「力」＝売上",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "理由は「急に社外の顧客と会う可能性があるため」",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "メーカーは切り分けられないから効率が悪い",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "メーカー特化には前例がありません",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "1顧客あたり単価",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "期 1顧客あたり単価 FY24/3 1Q 829万円 FY24/3 4Q 1,306万円 FY25/3 4Q",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "じげんグループの「非積み上げ型収益（単価重視型）」全体の顧客単価は",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "のリピート顧客（主に大手製造メーカー）が占める",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "大手メーカーには、毎年採る・同じ職種を毎年採る・一度信頼したエージェントを切らない、という3つの性質があります",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "新規開拓ではなく「既存顧客の中のシェア」を上げることで伸びる",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "メーカー業界の人事部",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "1顧客あたり単価が1,496万円から1,347万円に下がっています",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "エリア拡張に伴う新規顧客の増加による微減傾向",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "1年目に当たった顧客と4年目に当たった顧客の体験が同じではない",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "売上の8割が大手製造業なので、分散もありません",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "もし製造業のジョブ定義が標準化され、スキルがタグ化され、AIで扱えるデータになったら、",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "【HR戦略コンサル】メーカー支援特化型/年間休日125日♪/新卒3年目873万円！/成果サポート×適性ポジション「最速キャリア形成」",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "「メーカーの人事部」として事業拡大中！",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "【メーカーの人事部】採用から人事組織をサポート♪",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "Point6「日本メーカーに『支えられる側』から『支える側』へ」",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "・タイズが伴走するのは日本経済を支える大手メーカー♪",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "タイズが関わるのは日本を代表するメーカー",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "タイズはメーカーの人事・採用を手伝う会社です",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "■「メーカーの人事部」を担う立ち位置です",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "⇒メーカー支援という安定した事業モデルで、実力に応じた評価と報酬を実現",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "■メーカー特化型による優位性",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "大手メーカーに特化しているため、お客様に提供できる価値の深さが圧倒的です",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "■顧客ファースト",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "関西にて「メーカー・IT領域No.1」を確立",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "・メーカー業界・職種理解などの研修",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "幅広い“人事課題”を担う「メーカーの人事部」として活躍することで、20代から年収1000万円クラスのキャリアへ到達可能",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "転職実績｜メーカー専門の転職エージェント「タイズ」-製造業の求人・中途採用・転職情報が満載",
-    "url": "https://www.ee-ties.com/works/",
-    "pass": 3
-   }
-  ],
-  "料金": [
-   {
-    "quote": "料金プラン | ties [タイズ] ノーコードでデータの管理やフロー管理ができる顧客・案件管理システム",
-    "url": "https://ties.work/pricing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "利用者が提供した個人情報が正確でなかったこと、および、その内容の不備・齟齬等に起因して求人企業、その他の第三者から何らかの異議、請求もしくは要求等がなされた場合には、自己の費用負担と責任で対処するものとし、タイズに一切の迷惑をかけないことを保証するものとします",
-    "url": "https://www.ee-ties.com/service_terms/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "利用者は、前項の事情を踏まえ、自ら不利益もしくは損害が発生しないために必要な措置を、自己の責任と費用負担において講じるものとします",
-    "url": "https://www.ee-ties.com/service_terms/",
+    "quote": "――御社の売上の約80％は大手企業とのことですが、大手企業に選ばれる理由は何でしょう",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
@@ -1050,6 +611,137 @@
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
     "pass": 3,
     "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "直近10年で売上約3倍（1兆6867億円）営業利益率17.7％と圧倒的成長と高収益を実現する、大手電子部品メーカー様です",
+    "url": "https://note.com/ties_offcial/n/ne55d083c3299",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「小さな池の大きな魚戦略」：誰も見つけていない新しい池（市場）を探し出し、自らの力でその池を広げ、大きな魚（売上）が住めるよう池を拡大することで高シェア・高利益率の獲得を目指されています",
+    "url": "https://note.com/ties_offcial/n/ne55d083c3299",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "＜セミナーレポ＞参加者なんと70名！タイズ主催の「メーカー転職者交流会」に潜入！｜株式会社タイズ【公式】",
+    "url": "https://note.com/ties_offcial/n/n71ce31eabf2b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "＜セミナーレポ＞参加者なんと70名！タイズ主催の「メーカー転職者交流会」に潜入！",
+    "url": "https://note.com/ties_offcial/n/n71ce31eabf2b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズの強み通り、提示された企業群は大手企業や業界内での認知度が高い有名企業が中心でした",
+    "url": "https://note.com/aitensyokutarou/n/n36540bba9c22",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "BtoB領域において高いシェアと知名度を持つ有名メーカーであること",
+    "url": "https://note.com/aitensyokutarou/n/n36540bba9c22",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事を見つけてくださった皆様の中には、当社タイズの名前を初めて聞いたという方もいらっしゃるかもしれません",
+    "url": "https://note.com/ties_offcial/n/nc91e78889762",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従業員数：105名",
+    "url": "https://note.com/ties_offcial/n/nc91e78889762",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "愛知県名古屋市東区泉1-23-30 名古屋パナソニックビル6F",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "愛知県名古屋市中村区那古野一丁目47番1号 名古屋国際センタービル24F",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "目指すは2030年180億円",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "売上高も前年比130％超の成長を続け、30億円を突破しました",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今、私たちは2030年に「売上高180億円」という野心的な目標を掲げ、第二創業期とも言えるダイナミックな挑戦の真っ只中にいます",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "■ 2030年、売上高180億円・500名体制への挑戦",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2030年に掲げる「売上高180億円」という目標は、今の規模の数倍へと組織を拡大させる決意の現れです",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【名古屋】人材コンサルタント（法人営業・CA両面型）",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「フランチャイズ比較.net」が 有力フランチャイズ・専門家が一同に集結する「フランチャイズ比較フェアin名古屋」を開催！",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県名古屋市東区泉1-23-30 名古屋パナソニックビル6F",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県名古屋市中村区那古野一丁目47番1号 名古屋国際センタービル24F",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
+    "pass": 3
+   },
+   {
+    "quote": "会社名 株式会社じげん",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代表者名 代表取締役 社長執行役員 CEO 平尾 丈",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１） 名称 株式会社イーエイチアイ",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３） 代表者の役職・氏名 代表取締役 広岡 栄志",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
    },
    {
     "quote": "（５） 資本金 1 百万円",
@@ -1067,7 +759,17 @@
     "pass": 3
    },
    {
+    "quote": "売上高 - - -",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
     "quote": "当期純利益 - - △0 百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１） 名称 株式会社タイズ",
     "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
     "pass": 3
    },
@@ -1107,7 +809,22 @@
     "pass": 3
    },
    {
+    "quote": "また、対象会社の経営成績における進行期の通期の着地見込（2022年9 月期着地見込）は、売上",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
     "quote": "高1,334百万円、営業利益は363 百万円であります",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１） 名称 株式会社エイチツーケイ",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３） 代表者の役職・氏名 代表取締役 渡邊 一正",
     "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
     "pass": 3
    },
@@ -1122,7 +839,7 @@
     "pass": 3
    },
    {
-    "quote": "アドバイザリー費用等（概算額）",
+    "quote": "（１） 氏名 広岡 栄志",
     "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
     "pass": 3
    },
@@ -1132,223 +849,357 @@
     "pass": 3
    },
    {
-    "quote": "1,753百万円",
+    "quote": "「ゴルフをもっと楽しく、もっと身近に」を理念に、名門ゴルフ場の予約・手配を行うゴルフデスク事業と、法人向けゴルフイベントの企画・運営を展開しています",
+    "url": "https://linkties-holdings.com/group/",
+    "pass": 3
+   },
+   {
+    "quote": "現在中堅・中小メーカーとも取引を増やしており、今後は更に得意領域を増やし、そして、「メーカー領域No.1」を全国で確立するために、2023年の東京支社支社設立に続けて、2024年には名古屋支社と全国へサービス展開を広げていくつもりです",
+    "url": "https://www.wantedly.com/companies/company_5236454/post_articles/877198",
+    "pass": 3
+   },
+   {
+    "quote": "11年間10名だった会社が、売上30億円になるまで",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "── ここまで、社員は10名規模",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "── 社員133名、売上30億円突破、2030年に180億円を目指す",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "1｜11年間、10名 ── 何も起こさなかった期間",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "創業から10名規模で堅実に成長を続けてきた",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "社員10名の会社が、自社の方法論を商標登録しています",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "普通、10名の会社は商標を取りません",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "そして、なぜ11年も10名だったのか",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "企業が求める「職種・給与・勤務地」と、転職希望者の希望条件をデジタルに突き合わせれば、確かに効率よく売上は上がる",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "11年間10名だった理由が、ここにあります",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "人の時間が商品なので、人が育たないと売上が増えない",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "11年間10名だった理由が、ここでもう一度出てきます",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "「正義」＝顧客満足、「力」＝売上",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "アナログマッチングを掲げる会社が、その第一項で「売上が出ていない綺麗事は自己満足だ」と言い切っている",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "各1名ずつ、全員投票で決める",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "→ 優秀な5名を選出",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "売上目標の大きさによって、",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "後述しますが、じげんの開示によれば、タイズの新卒コンサルタントの1人あたり売上収益は、",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "じげんの決算説明資料に、タイズの新卒コンサルタント1人あたり売上収益が指数で開示されています",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "入社年次 1人あたり売上収益（指数） 1年目 1.0 2年目 ↗ 3年目 ↗↗",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "130名規模で、コンサルタント全員が毎週集合する会社です",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "❺ CAは週に5〜10名の求職者と面談する",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "なので、直接の売上にはなりません",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "項目 金額 売上",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "17.5億円 ÷ 3.63億円 ＝ 営業利益の約4.8年分",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "当期純損益 5.1億円 → 7.9億円 増加",
+    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
+    "pass": 3
+   },
+   {
+    "quote": "16.5億円",
+    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
+    "pass": 3
+   },
+   {
+    "quote": "24.9億円",
+    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
+    "pass": 3
+   },
+   {
+    "quote": "10.7億円",
+    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
+    "pass": 3
+   },
+   {
+    "quote": "18.6億円",
+    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Group Company リンク タイズ グループ — Group Company リンク タイズ グループ リンクタイズホールディングス株式会社 https://linkties-holdings.com > group",
+    "url": "https://linkties-holdings.com/group/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リンク タイズ ホールディングス株式会社 — リンク タイズ ホールディングス株式会社 スピーダ スタートアップ情報リサーチ https://initial.inc > companies > A-IFRFX",
+    "url": "https://initial.inc/companies/A-IFRFX",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... — 株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... 株式会社じげん || ZIGExN Co., Ltd. https://zigexn.co.jp > プレスリリース",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vIMIYg-FTSTV8FhIcWMj-z8mdP__K2n6UVSrsbAFVU38C0pxWBY",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事業を知る - 採用情報｜株式会社タイズ — 事業を知る - 採用情報｜株式会社タイズ recruit.ee-ties.com https://recruit.ee-ties.com > job",
+    "url": "https://recruit.ee-ties.com/job",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズ を知る｜採用情報 — タイズ を知る｜採用情報 recruit.ee-ties.com https://recruit.ee-ties.com > company",
+    "url": "https://recruit.ee-ties.com/company",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー専門の転職エージェント「 タイズ 」- 製造業 の求人 ... — メーカー専門の転職エージェント「 タイズ 」- 製造業 の求人 ... ee-ties.com https://www.ee-ties.com",
+    "url": "https://www.ee-ties.com/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【 タイズ ってどんな会社？】メーカー転職を成功に ... - YouTube — 【 タイズ ってどんな会社？】メーカー転職を成功に ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=PJxDIqQkIqQ",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【体験談】 タイズ の評判と口コミは？メーカー転職に特化して ... — 【体験談】 タイズ の評判と口コミは？メーカー転職に特化して ... IT業界ノート https://it-sales-note.com > reputation-of-ties",
+    "url": "https://it-sales-note.com/reputation-of-ties/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【社員 インタビュー 】神戸大学卒の彼が大手ではなく タイズ を ... — 【社員 インタビュー 】神戸大学卒の彼が大手ではなく タイズ を ... チアキャリア（CheerCareer） https://cheercareer.jp > 株式会社タイズ > タイムライン一覧",
+    "url": "https://cheercareer.jp/companies/3603/messages/117643",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... — 株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... 株式会社じげん || ZIGExN Co., Ltd. https://zigexn.co.jp > プレスリリース",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJG3h8QThxRceaeqetJQ0utlKKtkvFdOglj9ZNaAT5e-rrUQN6W",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... — 株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... 株式会社じげん || ZIGExN Co., Ltd. https://zigexn.co.jp > プレスリリース",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事務/管理系のメーカー転職成功 事例 ・体験談 - タイズ — 事務/管理系のメーカー転職成功 事例 ・体験談 - タイズ ee-ties.com https://www.ee-ties.com > ... > 事務/管理系",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... — 株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... 株式会社じげん || ZIGExN Co., Ltd. https://zigexn.co.jp > プレスリリース",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... — 株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... Amazon Web Services (AWS) PDF https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com > ...",
     "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
     "pass": 3
    },
    {
-    "quote": "17億5,000万円",
+    "quote": "Group｜リンク タイズ ホールディングス株式会社（linkties ... — Group｜リンク タイズ ホールディングス株式会社（linkties ... リンクタイズホールディングス株式会社 https://linkties-holdings.com > group",
+    "url": "https://linkties-holdings.com/group/",
+    "pass": 3
+   },
+   {
+    "quote": "リンク タイズ ホールディングス株式会社との資本業務提携契約 ... — リンク タイズ ホールディングス株式会社との資本業務提携契約 ... SBIホールディングス https://www.sbigroup.co.jp > news",
+    "url": "https://www.sbigroup.co.jp/news/2025/1229_16004.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜メーカー専門の転職エージェント「 タイズ 」 — 会社概要｜メーカー専門の転職エージェント「 タイズ 」 ee-ties.com https://www.ee-ties.com > 企業紹介",
+    "url": "https://www.ee-ties.com/about/company/",
+    "pass": 3
+   },
+   {
+    "quote": "代表メッセージ - タイズ — 代表メッセージ - タイズ ee-ties.com https://www.ee-ties.com > 企業紹介",
+    "url": "https://www.ee-ties.com/about/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "【 創業 者インタビュー】効率化ではなく、人と人を結びつける — 【 創業 者インタビュー】効率化ではなく、人と人を結びつける Wantedly https://www.wantedly.com > 株式会社タイズ > ストーリー",
+    "url": "https://www.wantedly.com/companies/company_5236454/post_articles/877198",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー専門の転職エージェントの株式会社 タイズ 、事業成長 ... — メーカー専門の転職エージェントの株式会社 タイズ 、事業成長 ... 株式会社じげん || ZIGExN Co., Ltd. https://zigexn.co.jp > プレスリリース",
+    "url": "https://zigexn.co.jp/12298/?srsltid=AYCX9vLFvAmKMsPfodnEr6n6zSDTqL5IQskU-GuZc-gZqCerf7NvdRom",
+    "pass": 3
+   },
+   {
+    "quote": "(株) タイズ の会社概要 | マイナビ2028 — (株) タイズ の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp290642 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "タイズ ってなんでこんなに伸びてるの？｜堀 凌也 - note — タイズ ってなんでこんなに伸びてるの？｜堀 凌也 - note note https://note.com > ビジネス > 人事・労務・採用",
     "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
     "pass": 3
    },
    {
-    "quote": "手数料が入るのは決まったときだけの成果課金モデルの会社が、これを明記している",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "） 増やすもの 紹介件数 1件あたりの理解の深さ 顧客が負担するもの 書類を読む工数 相対的に高い手数料",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "（半期につき5万円まで書籍・セミナー代を補助）があります",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "1人25万円",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "なお、求人媒体に掲載されている年収例によれば、新卒入社3年以内の平均年収は約873万円、入社2年目（24歳）のメンバークラスで約717万円とされています",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "手数料をもらい終えた人を集めるイベント",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "7｜17億5,000万円 ── 11年ためた会社の値札",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "取得額17億5,000万円",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "13億3,400万円",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "3億6,300万円",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "売上は買収時13億3,400万円 → 2024年3月時点で23億円 → 現在は",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "期 1顧客あたり単価 FY24/3 1Q 829万円 FY24/3 4Q 1,306万円 FY25/3 4Q",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "1,496万円",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "FY26/3 3Q 1,347万円",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "1顧客あたり単価が1,496万円から1,347万円に下がっています",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "1,500万円",
+    "quote": "株式会社 タイズ | 決算公告(2025年7月25日掲載) - 開示ワイヤー — 株式会社 タイズ | 決算公告(2025年7月25日掲載) - 開示ワイヤー kaijiwire.jp https://kaijiwire.jp > 官報公告",
     "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
     "pass": 3
    },
    {
-    "quote": "純利益 1,000万円",
-    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
+    "quote": "数字で見る タイズ ｜採用情報 — 数字で見る タイズ ｜採用情報 recruit.ee-ties.com https://recruit.ee-ties.com > number",
+    "url": "https://recruit.ee-ties.com/number",
     "pass": 3
    },
    {
-    "quote": "純利益 7,900万円",
-    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
+    "quote": "タイズ （人材）の「会社紹介」 OpenWork — タイズ （人材）の「会社紹介」 OpenWork OpenWork https://www.openwork.jp > ... > タイズ（人材） > 採用情報",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
     "pass": 3
    },
    {
-    "quote": "純利益 ▲1,374万円",
-    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
-    "pass": 3
-   },
-   {
-    "quote": "【HR戦略コンサル】メーカー支援特化型/年間休日125日♪/新卒3年目873万円！/成果サポート×適性ポジション「最速キャリア形成」",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "・入社3年目以内の平均年収942万円！",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "・マネージャーなら20代でも1,000万円を超え♪",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "・年間10万円の学習補助、多彩なフレームワーク研修などなど",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "⇒入社3年で平均年収873万円、成長企業の安定性を両立",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "■新卒3年目平均年収873万円",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "新卒3年目平均年収873万円",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "月5万円まで支給します",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "半期ごとにサークル構成メンバー数×1万円を上限に会社から補助します！",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "半期ごとに5万円まで、本やセミナーなどの学習費用を支援します",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "家族が法人優待価格で利用できる福利厚生サービス",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "インフルエンザの予防接種にかかる費用を全額補助します",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "費用は全額会社負担です！",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "※研修期間中の宿泊費用は全額会社負担",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "年間10万円まで本やセミナーなどの学習費用と仕事の生産性を上げる物品購入を補助します",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "幅広い“人事課題”を担う「メーカーの人事部」として活躍することで、20代から年収1000万円クラスのキャリアへ到達可能",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "ガス・電気料金を比較するなら【エネピ】",
+    "quote": "転職実績｜メーカー専門の転職エージェント「 タイズ 」 — 転職実績｜メーカー専門の転職エージェント「 タイズ 」 ee-ties.com https://www.ee-ties.com > works",
     "url": "https://www.ee-ties.com/works/",
     "pass": 3
    },
    {
-    "quote": "買取価格を比較するならヒカカク！",
-    "url": "https://www.ee-ties.com/works/",
+    "quote": "メーカー転職成功 事例 ・体験談 - タイズ — メーカー転職成功 事例 ・体験談 - タイズ ee-ties.com https://www.ee-ties.com > ... > 大手に転職成功",
+    "url": "https://www.ee-ties.com/interview/interview_tag/interview_tag12/",
     "pass": 3
    },
    {
-    "quote": "サービスの種類及び内容 手数料の額及び負担者",
-    "url": "https://jinzai.hellowork.mhlw.go.jp/icb_data/UploadFiles/Jigyosho/27-%E3%83%A6-300393/tesuryo/%E6%89%8B%E6%95%B0%E6%96%99%E8%A1%A8%E3%82%BF%E3%82%A4%E3%82%BA20240528.pdf",
+    "quote": "メーカー転職成功 事例 ・体験談 - タイズ — メーカー転職成功 事例 ・体験談 - タイズ ee-ties.com https://www.ee-ties.com > interview",
+    "url": "https://www.ee-ties.com/interview/",
     "pass": 3
    },
    {
-    "quote": "求人を受け付ける時の事務費用 1,000,000 円",
-    "url": "https://jinzai.hellowork.mhlw.go.jp/icb_data/UploadFiles/Jigyosho/27-%E3%83%A6-300393/tesuryo/%E6%89%8B%E6%95%B0%E6%96%99%E8%A1%A8%E3%82%BF%E3%82%A4%E3%82%BA20240528.pdf",
+    "quote": "サービス・コンサルタント紹介 - タイズ — サービス・コンサルタント紹介 - タイズ ee-ties.com https://www.ee-ties.com > ties-service",
+    "url": "https://www.ee-ties.com/ties-service/",
     "pass": 3
    },
    {
-    "quote": "手数料負担者は 求人者とします",
-    "url": "https://jinzai.hellowork.mhlw.go.jp/icb_data/UploadFiles/Jigyosho/27-%E3%83%A6-300393/tesuryo/%E6%89%8B%E6%95%B0%E6%96%99%E8%A1%A8%E3%82%BF%E3%82%A4%E3%82%BA20240528.pdf",
+    "quote": "タイズ が悪い・連絡こないって評判は本当？口コミをもとに ... — タイズ が悪い・連絡こないって評判は本当？口コミをもとに ... アクシス株式会社 https://axxis.co.jp > ... > 転職サイト・エージェント",
+    "url": "https://axxis.co.jp/magazine/58071",
     "pass": 3
    },
    {
-    "quote": "就職後1年間で支払われる賃金の100％手数料負",
-    "url": "https://jinzai.hellowork.mhlw.go.jp/icb_data/UploadFiles/Jigyosho/27-%E3%83%A6-300393/tesuryo/%E6%89%8B%E6%95%B0%E6%96%99%E8%A1%A8%E3%82%BF%E3%82%A4%E3%82%BA20240528.pdf",
+    "quote": "利用規約｜メーカー専門の転職・求人サイト「 タイズ 」 — 利用規約｜メーカー専門の転職・求人サイト「 タイズ 」 ee-ties.com https://www.ee-ties.com > service_terms",
+    "url": "https://www.ee-ties.com/service_terms/",
     "pass": 3
    },
    {
-    "quote": "上記手数料は消費税が含まれていません",
-    "url": "https://jinzai.hellowork.mhlw.go.jp/icb_data/UploadFiles/Jigyosho/27-%E3%83%A6-300393/tesuryo/%E6%89%8B%E6%95%B0%E6%96%99%E8%A1%A8%E3%82%BF%E3%82%A4%E3%82%BA20240528.pdf",
+    "quote": "料金 プラン | ties [ タイズ ] ノーコードでデータの管理やフロー ... — 料金 プラン | ties [ タイズ ] ノーコードでデータの管理やフロー ... ties.work https://ties.work > pricing",
+    "url": "https://ties.work/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "今井 良祐 - 採用情報｜株式会社タイズ — 今井 良祐 - 採用情報｜株式会社タイズ recruit.ee-ties.com https://recruit.ee-ties.com > interview",
+    "url": "https://recruit.ee-ties.com/interview/plSku8bn",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 タイズ 今井良祐 — 株式会社 タイズ 今井良祐 ポーターズ株式会社 https://hrbc.porters.jp > magazine > special_detail",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
+    "pass": 3
+   },
+   {
+    "quote": "【創業者 インタビュー 】効率化ではなく、人と人を結びつける — 【創業者 インタビュー 】効率化ではなく、人と人を結びつける Wantedly https://www.wantedly.com > 株式会社タイズ > ストーリー",
+    "url": "https://www.wantedly.com/companies/company_5236454/post_articles/877198",
+    "pass": 3
+   },
+   {
+    "quote": "社長インタビュー - メーカー転職エージェント「 タイズ 」 — 社長インタビュー - メーカー転職エージェント「 タイズ 」 ee-ties.com https://www.ee-ties.com > タイズマガジン",
+    "url": "https://www.ee-ties.com/magazine/magazine_tag/%E7%A4%BE%E9%95%B7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/",
     "pass": 3
    }
   ],
@@ -1480,6 +1331,72 @@
    {
     "quote": "※2024年6月27日付で、代表取締役社長に今井良祐（いまい りょうすけ）が就任しております",
     "url": "https://note.com/ties_offcial/n/nc91e78889762",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "当社は、株式会社イーエイチアイ（本社所在地：大阪府大阪市、代表取締役：広岡 栄志）及び株式会社タイズ（本社所在地：大阪府大阪市、代表取締役：広岡 栄志、以下「タイズ」といいます",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社エイ・アイ・パートナーズ設立 代表取締役(現任)",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エイ・アイ・パートナーズ税務会計事務所設立 代表(現任)",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第76回国民体育大会近畿ブロック大会 3位 京都府代表",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2018年度 男子日本代表チーム 第40回ウィリアム・ジョーンズカップ 日本代表候補選手",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2018年度バスケットボール男子U18日本代表チーム「 FIBA U18アジア選手権大会2018 」男子U18日本代表選手",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2012年度 男子U-16日本代表チーム 日本代表候補選手",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2013年度 男子U-18日本代表チーム 日本代表候補選手",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2016-17年度 バスケットボール男子U-19日本代表チーム 日本代表候補選手",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "■ 日本を代表する「大手優良メーカー」からの厚い信頼",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズを通じて転職された方にインタビューを実施しました",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
@@ -1991,6 +1908,42 @@
    },
    {
     "quote": "また、各大手顧客の中途採用数に占める紹介成約実績において上位を獲得しております",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これまでに培った実績は、業界最大手のエージェントと比較しても遜色なく、複数の優良メーカーにおいては「タイズ経由の採用数が最多」という評価をいただくことも少なくありません",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大手優良メーカー各社において、タイズ経由の採用実績は業界トップクラスのシェアを誇ります",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "■ 新卒・中途の垣根なく、誰もが主役になれるフラットな環境",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズの組織構成は、新卒が約4割、中途が約6割",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「新卒・中途を問わず、成果を出した者が正当に評価され、活躍できる」のがタイズの当たり前",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、各大手顧客の中途採用数に占める紹介成約実績において上位を獲得しております",
     "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
     "pass": 3
    },
@@ -2290,6 +2243,1138 @@
     "pass": 3
    }
   ],
+  "料金": [
+   {
+    "quote": "料金プラン | ties [タイズ] ノーコードでデータの管理やフロー管理ができる顧客・案件管理システム",
+    "url": "https://ties.work/pricing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "利用者が提供した個人情報が正確でなかったこと、および、その内容の不備・齟齬等に起因して求人企業、その他の第三者から何らかの異議、請求もしくは要求等がなされた場合には、自己の費用負担と責任で対処するものとし、タイズに一切の迷惑をかけないことを保証するものとします",
+    "url": "https://www.ee-ties.com/service_terms/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "利用者は、前項の事情を踏まえ、自ら不利益もしくは損害が発生しないために必要な措置を、自己の責任と費用負担において講じるものとします",
+    "url": "https://www.ee-ties.com/service_terms/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "入社3年～4年目の両面コンサルタントで年間売上5,000万円以上になっており、年収では1,000万円を超えます",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "年収 492万～700万円",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（５） 資本金 1 百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産 - - 240百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産 - - 240百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益 - - △0 百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（５） 資本金 15 百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "純資産 279百万円 398百万円 418百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総資産 401百万円 523 百万円 739百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 815百万円 1,120百万円 777百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益 152百万円 292百万円 △54 百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益 90 百万円 181 百万円 26 百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益 63 百万円 119 百万円 20 百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高1,334百万円、営業利益は363 百万円であります",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（７） 純資産 66 百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（８） 総資産 66 百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アドバイザリー費用等（概算額）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,750百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,753百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "17億5,000万円",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "手数料が入るのは決まったときだけの成果課金モデルの会社が、これを明記している",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "） 増やすもの 紹介件数 1件あたりの理解の深さ 顧客が負担するもの 書類を読む工数 相対的に高い手数料",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "（半期につき5万円まで書籍・セミナー代を補助）があります",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "1人25万円",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "なお、求人媒体に掲載されている年収例によれば、新卒入社3年以内の平均年収は約873万円、入社2年目（24歳）のメンバークラスで約717万円とされています",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "手数料をもらい終えた人を集めるイベント",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "7｜17億5,000万円 ── 11年ためた会社の値札",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "取得額17億5,000万円",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "13億3,400万円",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "3億6,300万円",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "売上は買収時13億3,400万円 → 2024年3月時点で23億円 → 現在は",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "期 1顧客あたり単価 FY24/3 1Q 829万円 FY24/3 4Q 1,306万円 FY25/3 4Q",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "1,496万円",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "FY26/3 3Q 1,347万円",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "1顧客あたり単価が1,496万円から1,347万円に下がっています",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "1,500万円",
+    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
+    "pass": 3
+   },
+   {
+    "quote": "純利益 1,000万円",
+    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
+    "pass": 3
+   },
+   {
+    "quote": "純利益 7,900万円",
+    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
+    "pass": 3
+   },
+   {
+    "quote": "純利益 ▲1,374万円",
+    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
+    "pass": 3
+   },
+   {
+    "quote": "【HR戦略コンサル】メーカー支援特化型/年間休日125日♪/新卒3年目873万円！/成果サポート×適性ポジション「最速キャリア形成」",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・入社3年目以内の平均年収942万円！",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・マネージャーなら20代でも1,000万円を超え♪",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・年間10万円の学習補助、多彩なフレームワーク研修などなど",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "⇒入社3年で平均年収873万円、成長企業の安定性を両立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■新卒3年目平均年収873万円",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "新卒3年目平均年収873万円",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "月5万円まで支給します",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "半期ごとにサークル構成メンバー数×1万円を上限に会社から補助します！",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "半期ごとに5万円まで、本やセミナーなどの学習費用を支援します",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "家族が法人優待価格で利用できる福利厚生サービス",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "インフルエンザの予防接種にかかる費用を全額補助します",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "費用は全額会社負担です！",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "※研修期間中の宿泊費用は全額会社負担",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間10万円まで本やセミナーなどの学習費用と仕事の生産性を上げる物品購入を補助します",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "幅広い“人事課題”を担う「メーカーの人事部」として活躍することで、20代から年収1000万円クラスのキャリアへ到達可能",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ガス・電気料金を比較するなら【エネピ】",
+    "url": "https://www.ee-ties.com/works/",
+    "pass": 3
+   },
+   {
+    "quote": "買取価格を比較するならヒカカク！",
+    "url": "https://www.ee-ties.com/works/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの種類及び内容 手数料の額及び負担者",
+    "url": "https://jinzai.hellowork.mhlw.go.jp/icb_data/UploadFiles/Jigyosho/27-%E3%83%A6-300393/tesuryo/%E6%89%8B%E6%95%B0%E6%96%99%E8%A1%A8%E3%82%BF%E3%82%A4%E3%82%BA20240528.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "求人を受け付ける時の事務費用 1,000,000 円",
+    "url": "https://jinzai.hellowork.mhlw.go.jp/icb_data/UploadFiles/Jigyosho/27-%E3%83%A6-300393/tesuryo/%E6%89%8B%E6%95%B0%E6%96%99%E8%A1%A8%E3%82%BF%E3%82%A4%E3%82%BA20240528.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "手数料負担者は 求人者とします",
+    "url": "https://jinzai.hellowork.mhlw.go.jp/icb_data/UploadFiles/Jigyosho/27-%E3%83%A6-300393/tesuryo/%E6%89%8B%E6%95%B0%E6%96%99%E8%A1%A8%E3%82%BF%E3%82%A4%E3%82%BA20240528.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "就職後1年間で支払われる賃金の100％手数料負",
+    "url": "https://jinzai.hellowork.mhlw.go.jp/icb_data/UploadFiles/Jigyosho/27-%E3%83%A6-300393/tesuryo/%E6%89%8B%E6%95%B0%E6%96%99%E8%A1%A8%E3%82%BF%E3%82%A4%E3%82%BA20240528.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上記手数料は消費税が含まれていません",
+    "url": "https://jinzai.hellowork.mhlw.go.jp/icb_data/UploadFiles/Jigyosho/27-%E3%83%A6-300393/tesuryo/%E6%89%8B%E6%95%B0%E6%96%99%E8%A1%A8%E3%82%BF%E3%82%A4%E3%82%BA20240528.pdf",
+    "pass": 3
+   }
+  ],
+  "製造業の顧客": [
+   {
+    "quote": "創業者メッセージ｜メーカー専門の転職エージェント「タイズ」-製造業の求人・中途採用・転職情報が満載",
+    "url": "https://www.ee-ties.com/about/ceo/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー転職エージェント「タイズ」のトップ",
+    "url": "https://www.ee-ties.com/about/ceo/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社タイズは、「HR事業を通じて、企業の発展、個人の幸せを実現し、ひいては日本社会の繁栄に貢献する」という想いのもと、2005年にメーカー業界に特化した人材紹介会社として創業いたしました",
+    "url": "https://www.ee-ties.com/about/ceo/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2022年にはじげんグループにジョインし、現在は「メーカー業界の人事部になる」というビジョンを掲げています",
+    "url": "https://www.ee-ties.com/about/ceo/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私たちは「メーカー業界の人事部」であることを志しています",
+    "url": "https://www.ee-ties.com/about/ceo/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「正しいことをやり続ける」という信念のもと、タイズの成長が日本の製造業のさらなる進化に貢献できると固く信じ、私たちはこれからも挑戦を続けてまいります",
+    "url": "https://www.ee-ties.com/about/ceo/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー合格率No1企業多数",
+    "url": "https://www.ee-ties.com/about/ceo/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "SBIグループは国内最高峰の質・量を誇る金融データと、国内外で7,800万を超える顧客基盤、世界26か国・地域に及ぶ多様な海外事業体を有し、銀行・証券・保険・資産運用からデジタルアセットまでを横断したサービスラインナップを戦略的に融合し得る独自の強みを持ちます",
+    "url": "https://www.sbigroup.co.jp/news/2025/1229_16004.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社SBI証券の顧客を対象とする「Forbes JAPAN」有料会員への登録促進施策、および「Forbes JAPAN」の顧客を対象とするSBIグループのブランディング施策を共同で実施",
+    "url": "https://www.sbigroup.co.jp/news/2025/1229_16004.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社概要｜メーカー専門の転職エージェント「タイズ」-製造業の求人・中途採用・転職情報が満載",
+    "url": "https://www.ee-ties.com/about/company/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー転職エージェント「タイズ」のトップ",
+    "url": "https://www.ee-ties.com/about/company/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー業界およびコンサルティング業界に特化した人材紹介事業、採用代行事業",
+    "url": "https://www.ee-ties.com/about/company/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー合格率No1企業多数",
+    "url": "https://www.ee-ties.com/about/company/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "“従来のアナログマッチング”×“じげんのデジタルマーケティング”＝製造業界No,1への挑戦",
+    "url": "https://recruit.ee-ties.com/job",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "多くのサービスを提供するために培われてきたじげんの圧倒的なデジタルマーケティングの知見を合わせることでHR領域事業を通じてメーカーの人事部になる",
+    "url": "https://recruit.ee-ties.com/job",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「ナナメ」の成長戦略があってこそ、「メーカー業界の人事部になる」ことへの実現に近づけます",
+    "url": "https://recruit.ee-ties.com/job",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズでは、メーカー業界に特化した人材紹介を行っています",
+    "url": "https://recruit.ee-ties.com/job",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これまでに培った実績とノウハウを活かし、全国のメーカー企業への転職支援を行っています",
+    "url": "https://recruit.ee-ties.com/job",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズは、メーカー業界に特化した人材紹介会社として2005年に創業し、2022年にはじげんグループにジョインし、関東・東海へと展開エリアを拡げ、売上も前年対比130%以上の成長を続け30億円を突破し、2030年には売上高180億円という目標に本気で挑み、長期的には「メーカー業界の人事部」になることを目指しています",
+    "url": "https://recruit.ee-ties.com/company",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自分の挑戦が会社の未来に直結し、日本の製造業の進化に貢献できる",
+    "url": "https://recruit.ee-ties.com/company",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「メーカーの人事になる」というビジョン達成に向けて邁進しており、2030年には売上高180億円、従業員数500名の達成を目指しています",
+    "url": "https://recruit.ee-ties.com/company",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー専門の転職エージェント「タイズ」-製造業の求人・中途採用・転職情報が満載",
+    "url": "https://www.ee-ties.com/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカーの各業界において転職支援実績が豊富",
+    "url": "https://www.ee-ties.com/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最新のメーカー求人・自分の市場価値・業界の転職市況感を公式ラインでお知らせします",
+    "url": "https://www.ee-ties.com/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "、メーカーの職種すべてを専門的にカバーしています",
+    "url": "https://www.ee-ties.com/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー合格率No1企業多数",
+    "url": "https://www.ee-ties.com/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー転職エージェント「タイズ」のトップ",
+    "url": "https://www.ee-ties.com/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社タイズ様は、メーカー専門の転職エージェント「",
+    "url": "https://www.lany.co.jp/work/ties",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "弊社の場合、「メーカー転職」に特化したメディアという特徴から、専門性の高い記事の制作は必要不可欠でした",
+    "url": "https://www.lany.co.jp/work/ties",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズ様がすでに持っていらっしゃるメーカーインタビューや事例記事を活かして、効果的な記事制作をおこなったことで成果に繋げることができたと考えています",
+    "url": "https://www.lany.co.jp/work/ties",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前職は大手自動車部品メーカーの海外営業・製品企画を担当",
+    "url": "https://www.lany.co.jp/work/ties",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー転職成功事例・体験談｜メーカー転職エージェント「タイズ」",
+    "url": "https://www.ee-ties.com/interview/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー専門の転職エージェント「タイズ」のトップ",
+    "url": "https://www.ee-ties.com/interview/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大手総合エンジニアリングメーカーの機械設計",
+    "url": "https://www.ee-ties.com/interview/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "■タイズのサービスで印象的だったこと 「タイズと大手エージェントのサポートに違いはありましたか？」 タイズさんは他エージェントよりも関西のメーカーと太いパイプを持っていることが強み…",
+    "url": "https://www.ee-ties.com/interview/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大手電力メーカーの保守メンテナンスへの転職",
+    "url": "https://www.ee-ties.com/interview/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "商社からメーカーへ！着実な準備と対策で希望の転職を実現！",
+    "url": "https://www.ee-ties.com/interview/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー合格率No1企業多数",
+    "url": "https://www.ee-ties.com/interview/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー転職エージェント「タイズ」のトップ",
+    "url": "https://www.ee-ties.com/interview/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "料金プラン | ties [タイズ] ノーコードでデータの管理やフロー管理ができる顧客・案件管理システム",
+    "url": "https://ties.work/pricing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "利用規約｜メーカー専門の転職・求人サイト「タイズ」",
+    "url": "https://www.ee-ties.com/service_terms/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー合格率No1企業多数",
+    "url": "https://www.ee-ties.com/service_terms/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー転職エージェント「タイズ」のトップ",
+    "url": "https://www.ee-ties.com/service_terms/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【代表インタビュー】経営思考のメカニズム「メーカー業界の人事部になる」ビジョンに込めた成長の機会",
+    "url": "https://recruit.ee-ties.com/interview/plSku8bn",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「メーカー業界の人事部になる」というビジョン——これは「HRのあらゆる領域を手がける」という意味です",
+    "url": "https://recruit.ee-ties.com/interview/plSku8bn",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "つまり「人事部になる」とは、「メーカー業界の経営推進部になる」ということ",
+    "url": "https://recruit.ee-ties.com/interview/plSku8bn",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「ナナメ」の成長戦略があってこそ、「メーカー業界の人事部になる」ことへの実現に近づけます",
+    "url": "https://recruit.ee-ties.com/interview/plSku8bn",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "関西を中心に大手メーカーの転職支援事業を展開する株式会社タイズを取材",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー市場の現在や転職エージェントの介在価値、今後の事業展開などについて、代表取締役社長、今井氏に聞いた",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズは、メーカー特化型の転職エージェントです",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2005年の創業時より、関西を中心に、製造業×大手企業×技術職×CA（キャリアアドバイザー）RA（リクルーティングアドバイザー）両面型に集中した事業展開にこだわり続け、現在は「大手メーカー向け転職エージェントと言えばタイズ」と称されるまでになりました",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "――今後もメーカー特化の事業展開を継続される予定でしょうか",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズは、関西の大手メーカーのご支援からスタートしましたが、今後は縦・横・斜めの事業拡大を計画しています",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "横は、メーカーの他に、ITやコンサルなどの業界もカバーする戦略、斜めは、代表就任後に当社のビジョンを「メーカーの人事部」と定義し直しており、中途採用に限らず、幅広いソリューションを提供する戦略です",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アルティメイトリソーシズグループはコンサルタント業界やメーカーのRPO（採用代行）事業からスタートした会社で、顧客の採用戦略への伴走支援が強みです",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これは我々の斜めの戦略である「メーカーの人事部」になるための一つの事業展開です",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "――メーカーの市況感について、お考えをお聞かせください",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一部の業界で局所的な低迷はあるものの、メーカー全体の平均的な市況感は、10～20年のロングスパンでみれば悪くないと思います",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカーの多くが輸出企業ですので、円安の影響で売上利益は好調です",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズはメーカー向け人材紹介事業を展開しております",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同社は、関西メーカーを中心に顧客基盤を有しており、ほぼ全ての関西の主要な大手機械、電気/半導体、化学メーカーとの間で取引実績がございます",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、各大手顧客の中途採用数に占める紹介成約実績において上位を獲得しております",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "当社グループは、これまで既存領域における送客力の強化、顧客基盤の拡大、新規領域への拡張により、ライフサービスプラットフォームの価値拡大に努めて参りました",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本株式取得により、少子高齢化等を背景とした人手不足により人材確保ニーズが高まっている中、メーカー業界において新たに事業展開が可能となります",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズは、関西・関東・東海のメーカー業界に特化したエージェントとして、創業以来「アナログマッチング」という独自の価値を提供し続けています",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズは2005年の創業以来、メーカー業界に特化した人材紹介のプロフェッショナルとして歩んできました",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私たちが目指す究極の姿、それは「メーカー業界の人事部」になることです",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカーの深部まで入り込み、精度の高い「アナログマッチング」を実現する",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズの事業の核は、製造業に特化したプロフェッショナルとしての介在価値にあります",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "■ 大手エージェントに引けを取らない、メーカー領域の圧倒的成約実績",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私たちは創業以来、メーカー業界に特化して膨大なノウハウを蓄積してきました",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これまでに培った実績は、業界最大手のエージェントと比較しても遜色なく、複数の優良メーカーにおいては「タイズ経由の採用数が最多」という評価をいただくことも少なくありません",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー業界の発展を真剣に願うからこそ、私たちは現状に甘んじることなく、常に自らをアップデートし続けています",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この「顧客ファースト」の精神こそが、私たちの誇りです",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "■ 日本を代表する「大手優良メーカー」からの厚い信頼",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大手優良メーカー各社において、タイズ経由の採用実績は業界トップクラスのシェアを誇ります",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー業界の深部まで知り尽くしたプロフェッショナルとして、他社には真似できない介在価値を提供しています",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「年功序列」の概念はなく、プロフェッショナルとして顧客に貢献した分だけ、社歴に関わらず報酬やポストとしてダイレクトに還元されます",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事務/管理系のメーカー転職成功事例・体験談｜メーカー転職エージェント「タイズ」",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事務/管理系のメーカー転職成功事例・体験談をご紹介します",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "『商社の営業マン』から『大手メーカーの調達』に転職成功！「成功の秘訣は良い職務経歴書をしっかりと“作り込む”こと」",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "環境装置メーカーの 購買（契約社員）への転職",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第一希望の大手メーカーに転職成功！他のエージェントからは「大手に転職は厳しい」と言われていました",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズはメーカー向け人材紹介事業を展開しております",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、関西メーカーを中心に顧客基盤を有しており、ほぼ全ての関西の主要な大手機械、電気/半導体、化学メーカーとの間で取引実績がございます",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
+    "pass": 3
+   },
+   {
+    "quote": "また、各大手顧客の中途採用数に占める紹介成約実績において上位を獲得しております",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、これまで既存領域における送客力の強化、顧客基盤の拡大、新規領域への拡張により、ライフサービスプラットフォームの価値拡大に努めて参りました",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
+    "pass": 3
+   },
+   {
+    "quote": "本株式取得により、少子高齢化等を背景とした人手不足により人材確保ニーズが高まっている中、メーカー業界において新たに事業展開が可能となります",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーに特化した人材紹介事業",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
+    "pass": 3
+   },
+   {
+    "quote": "タイズはメーカー向け人材紹介事業を展開しております",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、関西メーカーを中心に顧客基",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "盤を有しており、ほぼ全ての関西の主要な大手機械、電気/半導体、化学メーカーとの間で取引実績",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、各大手顧客の中途採用数に占める紹介成約実績において上位を獲得しており",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、これまで既存領域における送客力の強化、顧客基盤の拡大、新規領域への拡張",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー業界において新たに事業展開が可能となります",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（４） 事業内容 メーカーに特化した人材紹介事業",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "メンテナンス中｜メーカー転職ならタイズ",
+    "url": "https://www.ee-ties.com/about/company/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー専門の",
+    "url": "https://www.ee-ties.com/about/company/",
+    "pass": 3
+   },
+   {
+    "quote": "メンテナンス中｜メーカー転職ならタイズ",
+    "url": "https://www.ee-ties.com/about/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー専門の",
+    "url": "https://www.ee-ties.com/about/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "とはいえまだ弊社が強みを持っているのは、関西、関東の大手機電系（機械・電気・化学）メーカー中心です",
+    "url": "https://www.wantedly.com/companies/company_5236454/post_articles/877198",
+    "pass": 3
+   },
+   {
+    "quote": "現在中堅・中小メーカーとも取引を増やしており、今後は更に得意領域を増やし、そして、「メーカー領域No.1」を全国で確立するために、2023年の東京支社支社設立に続けて、2024年には名古屋支社と全国へサービス展開を広げていくつもりです",
+    "url": "https://www.wantedly.com/companies/company_5236454/post_articles/877198",
+    "pass": 3
+   },
+   {
+    "quote": "大阪・梅田に本社を置く、メーカー専門の転職エージェントです",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーの人材紹介が難しいのは、半導体製造装置の開発職と、金型技術者と、生産技術と、生産管理の違いが外から分からないからです",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "② 顧客基盤は、独立前に完成していた",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "関西の大手メーカーの経営者・人事部長を相手に、20年以上提案してきた人",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー × 関西 × 機電系",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "なぜメーカーだったのか",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社は数千社あるが、特化型（ブティック型）は医療・介護・ITに集まっていて、メーカー特化は稀である",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーの人材紹介は難易度が高い",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "） 増やすもの 紹介件数 1件あたりの理解の深さ 顧客が負担するもの 書類を読む工数 相対的に高い手数料",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "「正義」＝顧客満足、「力」＝売上",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "理由は「急に社外の顧客と会う可能性があるため」",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーは切り分けられないから効率が悪い",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー特化には前例がありません",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "1顧客あたり単価",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "期 1顧客あたり単価 FY24/3 1Q 829万円 FY24/3 4Q 1,306万円 FY25/3 4Q",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "じげんグループの「非積み上げ型収益（単価重視型）」全体の顧客単価は",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "のリピート顧客（主に大手製造メーカー）が占める",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "大手メーカーには、毎年採る・同じ職種を毎年採る・一度信頼したエージェントを切らない、という3つの性質があります",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "新規開拓ではなく「既存顧客の中のシェア」を上げることで伸びる",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー業界の人事部",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "1顧客あたり単価が1,496万円から1,347万円に下がっています",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "エリア拡張に伴う新規顧客の増加による微減傾向",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "1年目に当たった顧客と4年目に当たった顧客の体験が同じではない",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "売上の8割が大手製造業なので、分散もありません",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "もし製造業のジョブ定義が標準化され、スキルがタグ化され、AIで扱えるデータになったら、",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "【HR戦略コンサル】メーカー支援特化型/年間休日125日♪/新卒3年目873万円！/成果サポート×適性ポジション「最速キャリア形成」",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「メーカーの人事部」として事業拡大中！",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【メーカーの人事部】採用から人事組織をサポート♪",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "Point6「日本メーカーに『支えられる側』から『支える側』へ」",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・タイズが伴走するのは日本経済を支える大手メーカー♪",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "タイズが関わるのは日本を代表するメーカー",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "タイズはメーカーの人事・採用を手伝う会社です",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■「メーカーの人事部」を担う立ち位置です",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "⇒メーカー支援という安定した事業モデルで、実力に応じた評価と報酬を実現",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■メーカー特化型による優位性",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "大手メーカーに特化しているため、お客様に提供できる価値の深さが圧倒的です",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■顧客ファースト",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "関西にて「メーカー・IT領域No.1」を確立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・メーカー業界・職種理解などの研修",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "幅広い“人事課題”を担う「メーカーの人事部」として活躍することで、20代から年収1000万円クラスのキャリアへ到達可能",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "転職実績｜メーカー専門の転職エージェント「タイズ」-製造業の求人・中途採用・転職情報が満載",
+    "url": "https://www.ee-ties.com/works/",
+    "pass": 3
+   }
+  ],
   "SNS・note（note・本文）": [
    {
     "quote": "＜セミナーレポ＞参加者なんと70名！タイズ主催の「メーカー転職者交流会」に潜入！｜株式会社タイズ【公式】",
@@ -2384,6 +3469,24 @@
    {
     "quote": "ちなみにタイズのサービスとは以下の通りです。",
     "url": "https://note.com/aitensyokutarou/n/n36540bba9c22",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "キャリア採用シェアと言われても、パッとイメージしづらいかもしれません。",
+    "url": "https://note.com/ties_offcial/n/ne55d083c3299",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名の方にお集まりいただきました。ご参加者の皆様、ありがとうございました。",
+    "url": "https://note.com/ties_offcial/n/n71ce31eabf2b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事を見つけてくださった皆様の中には、当社タイズの名前を初めて聞いたという方もいらっしゃるかもしれません。",
+    "url": "https://note.com/ties_offcial/n/nc91e78889762",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
@@ -2503,247 +3606,6 @@
     "pass": 3
    }
   ],
-  "SNS・note（note・検索結果の抜粋）": [
-   {
-    "quote": "＜セミナーレポ＞参加者なんと70名！ タイズ 主催の「メーカー ... ＜セミナーレポ＞参加者なんと70名！ タイズ 主催の「メーカー ... note https://note.com > キャリア > 転職・キャリアチェンジ",
-    "url": "https://note.com/ties_offcial/n/n71ce31eabf2b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "19日目：メーカー特化転職エージェント「 タイズ 」と面談した体 19日目：メーカー特化転職エージェント「 タイズ 」と面談した体 note https://note.com > キャリア > 転職・キャリアチェンジ",
-    "url": "https://note.com/aitensyokutarou/n/n36540bba9c22",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "タイズ ってなんでこんなに伸びてるの？｜堀 凌也 - note タイズ ってなんでこんなに伸びてるの？｜堀 凌也 - note note https://note.com > ビジネス > 人事・労務・採用",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "タイズ が選ばれる理由～メーカー転職シェアNo.1の実績について タイズ が選ばれる理由～メーカー転職シェアNo.1の実績について note https://note.com > キャリア > 転職・キャリアチェンジ",
-    "url": "https://note.com/ties_offcial/n/ne55d083c3299",
-    "pass": 3
-   },
-   {
-    "quote": "メーカー特化の【 タイズ 】が公式 note を始めました！ メーカー特化の【 タイズ 】が公式 note を始めました！ note https://note.com > キャリア > 転職・キャリアチェンジ",
-    "url": "https://note.com/ties_offcial/n/nc91e78889762",
-    "pass": 3
-   }
-  ],
-  "株主構成": [
-   {
-    "quote": "そして、それを支えるタイズの社員や株主の皆様も幸せでなければならない",
-    "url": "https://www.ee-ties.com/about/ceo/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "米国のデジタルバンクErebor Bankへの1億ドルの出資に関するお知らせ",
-    "url": "https://www.sbigroup.co.jp/news/2025/1229_16004.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上場企業等のお客さまに関する情報のSBIグループにおける相互提供について",
-    "url": "https://www.sbigroup.co.jp/news/2025/1229_16004.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に大手上場企業への採用実績も多数あり、タイズ経由での採用が上位に入る企業・事業所もあります",
-    "url": "https://recruit.ee-ties.com/job",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そして何より、それを支えるタイズの社員や株主の皆様も幸せでなければならない",
-    "url": "https://recruit.ee-ties.com/company",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "つまり、企業様、求職者の皆様、エンドユーザー、社員、株主──全てのステークホルダーの幸せを追求する",
-    "url": "https://recruit.ee-ties.com/company",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そこで、依頼できるベンダーを探していたところ、親会社である",
-    "url": "https://www.lany.co.jp/work/ties",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "のSEO担当者から、親会社ですでにご支援いただいていたLANYさんを紹介してもらいました",
-    "url": "https://www.lany.co.jp/work/ties",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "小島さん：親会社から「記事のクオリティが高い」と好評だったため、信頼できると感じたのが一番の決め手です",
-    "url": "https://www.lany.co.jp/work/ties",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "LANYさんが納品する記事の品質には親会社からの高い評価があったため、信頼できると確信したんです",
-    "url": "https://www.lany.co.jp/work/ties",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社イーエイチアイ及び株式会社タイズの株式取得（完全子会社化）に関するお知らせ – 株式会社じげん || ZIGExN Co., Ltd.",
-    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
-    "pass": 3
-   },
-   {
-    "quote": "株主・投資家の皆様へ",
-    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社イーエイチアイ及び株式会社タイズの株式取得（完全子会社化）に関するお知らせ",
-    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社イーエイチアイ及び株式会社タイズの株式取得（完全子会社化）",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "当社連結の親会社所有者帰属持分比率は66.2％、のれん/資本倍率は0.5 倍と、財務目標(親会社所",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "①株式会社イーエイチアイ(子会社)",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "（７） 大株主及び持株比率 広岡 栄志 100.0%",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "（８） 上場会社と当該会社 との間の関係 資本関係 当該事項はありません",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "（７） 大株主及び持株比率",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "（注）2020年9 月16 日開催の定時株主総会において、決算期を7 月末から9 月末に変更したた",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "株式取得の相手先は、株式会社イーエイチアイについては３.①(７)に記載の個人株主、株式会",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "社タイズについては３.②(７)に記載の個人株主及び株式会社エイチツーケイであります",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "（９） 大株主及び持株比率 渡邊 一正 100.0%",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "（10） 上場会社と 当該会社の関係",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "（３） 上場会社と 当該個人の関係 当該事項はありません",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "2022年に東証プライム上場のじげん（3679）が",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "2026年に、上場IT企業グループの子会社が、規程に紙の手渡しを残している",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "非上場のオーナー企業で、承継の選択肢が限られていた",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "医療特化やIT特化のブティックなら、市場統計があり、上場している比較対象もあります",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "時期 従業員数 出来事 2022年10月 50〜60名規模 じげんが100%子会社化 2023年2月",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "タイズは非上場ですが、じげんの決算説明資料に",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "して子会社化しています",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "親会社 株式会社じげん（東証プライム） 100.00%",
-    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
-    "pass": 3
-   },
-   {
-    "quote": "大手上場企業への採用実績も多数あります",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "三谷商事(株)【東証スタンダード上場】",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "そして何より、それを支えるタイズの社員や株主の皆様も幸せでなければならない",
-    "url": "https://recruit.ee-ties.com/interview/plSku8bn",
-    "pass": 3
-   },
-   {
-    "quote": "つまり、企業様、求職者の皆様、エンドユーザー、社員、株主——全てのステークホルダーの幸せを追求する",
-    "url": "https://recruit.ee-ties.com/interview/plSku8bn",
-    "pass": 3
-   },
-   {
-    "quote": "親会社の株式会社じげんには「人事部」がなく、「経営推進部」という名称なんです",
-    "url": "https://recruit.ee-ties.com/interview/plSku8bn",
-    "pass": 3
-   },
-   {
-    "quote": "フィードバックは、私や親会社の株式会社じげんの代表取締役である平尾さん、さらには外部の経営者からも受けられる体制が存在します",
-    "url": "https://recruit.ee-ties.com/interview/plSku8bn",
-    "pass": 3
-   },
-   {
-    "quote": "直近では、25年の5月にアルティメイトリソーシズグループ株式会社を子会社にしたことで、事業拡大につながりました",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
-    "pass": 3
-   }
-  ],
   "創業年度": [
    {
     "quote": "創業者メッセージ｜メーカー専門の転職エージェント「タイズ」-製造業の求人・中途採用・転職情報が満載",
@@ -2808,6 +3670,48 @@
    {
     "quote": "2005年の創業以来、メーカー特化型の転職エージェントです",
     "url": "https://note.com/ties_offcial/n/n71ce31eabf2b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社エイ・アイ・パートナーズ設立 代表取締役(現任)",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エイ・アイ・パートナーズ税務会計事務所設立 代表(現任)",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズは、関西・関東・東海のメーカー業界に特化したエージェントとして、創業以来「アナログマッチング」という独自の価値を提供し続けています",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズは2005年の創業以来、メーカー業界に特化した人材紹介のプロフェッショナルとして歩んできました",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今、私たちは2030年に「売上高180億円」という野心的な目標を掲げ、第二創業期とも言えるダイナミックな挑戦の真っ只中にいます",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私たちは創業以来、メーカー業界に特化して膨大なノウハウを蓄積してきました",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私たちは今、第二創業期として急成長の真っ只中にあります",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
@@ -2967,770 +3871,32 @@
     "pass": 3
    }
   ],
-  "SNS・note（Facebook・検索結果の抜粋）": [
+  "SNS・note（note・検索結果の抜粋）": [
    {
-    "quote": "株式会社 タイズ (@eeties) - Facebook 株式会社 タイズ (@eeties) - Facebook Facebook https://www.facebook.com > ... > コンサルティング会社",
-    "url": "https://www.facebook.com/eeties/?locale=ja_JP",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社 タイズ (@eeties) - About - Facebook 株式会社 タイズ (@eeties) - About - Facebook Facebook https://www.facebook.com > ... > 株式会社タイズ",
-    "url": "https://www.facebook.com/eeties/about/",
-    "pass": 3
-   },
-   {
-    "quote": "タイズ 株式会社 (@tiesofficial) - Facebook タイズ 株式会社 (@tiesofficial) - Facebook Facebook https://www.facebook.com > ... > Shopping Service",
-    "url": "https://www.facebook.com/tiesofficial/",
-    "pass": 3
-   },
-   {
-    "quote": "【株式会社 タイズ 】 まだ誰も歩いていない道を、二人で切り ... 【株式会社 タイズ 】 まだ誰も歩いていない道を、二人で切り ... Facebook https://www.facebook.com > talentbook.jp > posts > 株式...",
-    "url": "https://www.facebook.com/talentbook.jp/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BF%E3%82%A4%E3%82%BA%E3%81%BE%E3%81%A0%E8%AA%B0%E3%82%82%E6%AD%A9%E3%81%84%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E9%81%93%E3%82%92%E4%BA%8C%E4%BA%BA%E3%81%A7%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F%E3%82%BF%E3%82%A4%E3%82%BAit%E5%96%B6%E6%A5%AD%E9%83%A8%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%AE%E8%88%9E%E5%8F%B0%E8%A3%8F/1731387078484975/",
-    "pass": 3
-   }
-  ],
-  "SNS・note（X・検索結果の抜粋）": [
-   {
-    "quote": "プライマリ タイズ （公式） (@primarytides) / X プライマリ タイズ （公式） (@primarytides) / X X https://x.com > primarytides",
-    "url": "https://x.com/primarytides",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "プライマリ タイズ （公式） - @primarytides - X プライマリ タイズ （公式） - @primarytides - X X https://x.com > @primarytides",
-    "url": "https://x.com/primarytides/status/2117954007524376813",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカー転職なら タイズ (@tiesTenshoku) / X メーカー転職なら タイズ (@tiesTenshoku) / X X https://x.com > tiesTenshoku",
-    "url": "https://x.com/tiesTenshoku",
-    "pass": 3
-   },
-   {
-    "quote": "フーシ派による包囲はさらに進み情勢は非常に厳しい。 タイズ ... フーシ派による包囲はさらに進み情勢は非常に厳しい。 タイズ ... X https://x.com > @you___27",
-    "url": "https://x.com/you___27/status/2110369843883196728",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社 タイズ （人材サービス＆電気通信サービス） 株式会社 タイズ （人材サービス＆電気通信サービス） X https://x.com > ties_2012",
-    "url": "https://x.com/ties_2012",
-    "pass": 3
-   },
-   {
-    "quote": "プライマリ タイズ の 投稿 動画を楽しみましょう！ - X プライマリ タイズ の 投稿 動画を楽しみましょう！ - X X https://x.com > @primarytides",
-    "url": "https://x.com/primarytides/status/2117608921661931958",
-    "pass": 3
-   },
-   {
-    "quote": "プライマリ タイズ の 投稿 動画を楽しみましょう - X プライマリ タイズ の 投稿 動画を楽しみましょう - X X https://x.com > @primarytides",
-    "url": "https://x.com/primarytides/status/2117243277972004903",
-    "pass": 3
-   }
-  ],
-  "売上・規模": [
-   {
-    "quote": "このビジョンの実現と、2030年の売上目標達成に向け、私たちは「タテ・ヨコ・ナナメ」の戦略でダイナミックに事業を拡大しています",
-    "url": "https://www.ee-ties.com/about/ceo/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "180名（グループ連結）",
-    "url": "https://www.sbigroup.co.jp/news/2025/1229_16004.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "〒450-0002 愛知県名古屋市中村区名駅4-8-26 エニシオ名駅13階",
-    "url": "https://www.ee-ties.com/about/company/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最終的には4,000億円の市場規模全体が対象です",
-    "url": "https://recruit.ee-ties.com/job",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一人ひとりの成長を最大化する環境づくりと革新的な組織文化の醸成を通じて、2030年までに社員500名体制・売上180億円という大きな目標の実現に挑戦します",
-    "url": "https://recruit.ee-ties.com/job",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "〒450-0002 愛知県名古屋市中村区名駅4丁目8-26 エニシオ名駅13階",
-    "url": "https://recruit.ee-ties.com/company",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "地下鉄 東山線・桜通線 「名古屋駅」 徒歩 3 分",
-    "url": "https://recruit.ee-ties.com/company",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名鉄 名古屋本線 「名鉄名古屋駅」 徒歩 3 分",
-    "url": "https://recruit.ee-ties.com/company",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "JR 在来線 「名古屋駅」 徒歩 4 分",
-    "url": "https://recruit.ee-ties.com/company",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "近鉄 名古屋線 「近鉄名古屋駅」 徒歩 4 分",
-    "url": "https://recruit.ee-ties.com/company",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "JR 東海道新幹線 「名古屋駅」 徒歩 7 分",
-    "url": "https://recruit.ee-ties.com/company",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "180名(グループ全体220名)",
-    "url": "https://recruit.ee-ties.com/company",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "タイズは、メーカー業界に特化した人材紹介会社として2005年に創業し、2022年にはじげんグループにジョインし、関東・東海へと展開エリアを拡げ、売上も前年対比130%以上の成長を続け30億円を突破し、2030年には売上高180億円という目標に本気で挑み、長期的には「メーカー業界の人事部」になることを目指しています",
-    "url": "https://recruit.ee-ties.com/company",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "創業から10名規模で堅実に成長を続けてきたタイズは、2016年の中途採用、そして2020年の新卒採用を機に、組織化への舵を切り始めました",
-    "url": "https://recruit.ee-ties.com/company",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "オフィス移転（マニュライフプレイス堂島）従業員数30名突破",
-    "url": "https://recruit.ee-ties.com/company",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "M&A当時は社員数50名ほどでしたが、その後、関東や東海への拠点展開を進め、現在では140名規模の組織になりました",
-    "url": "https://recruit.ee-ties.com/company",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3年間で社員数が約3倍に、売上は2倍以上、そして利益は4倍にまで成長しています",
-    "url": "https://recruit.ee-ties.com/company",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「メーカーの人事になる」というビジョン達成に向けて邁進しており、2030年には売上高180億円、従業員数500名の達成を目指しています",
-    "url": "https://recruit.ee-ties.com/company",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "売上高180億円 従業員数500名突破",
-    "url": "https://recruit.ee-ties.com/company",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "氏名・住所等利用者であることを特定・確認するための本人確認書類",
-    "url": "https://www.ee-ties.com/service_terms/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "他の利用者、当社または求人企業の従業員その他当社の事業に関わる一切の関係者（以下「関係者」といいます",
-    "url": "https://www.ee-ties.com/service_terms/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "当社または関係者が有する著作権、商標権その他の知的財産権を含む一切の財産的権利、営業上の秘密、名誉、プライバシー等を侵害する行為",
-    "url": "https://www.ee-ties.com/service_terms/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "親会社の株式会社じげんには「人事部」がなく、「経営推進部」という名称なんです",
-    "url": "https://recruit.ee-ties.com/interview/plSku8bn",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最終的には5,000億円の市場規模全体が対象です",
-    "url": "https://recruit.ee-ties.com/interview/plSku8bn",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今現在、じげんグループでは11名の経営者が存在しています",
-    "url": "https://recruit.ee-ties.com/interview/plSku8bn",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "拠点を持たないエリアへの事業拡大は、地域のお客様とコミュニケーションが取れている地場企業と協業することで双方の成長加速を作れると考えています",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカーの多くが輸出企業ですので、円安の影響で売上利益は好調です",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "――御社の売上の約80％は大手企業とのことですが、大手企業に選ばれる理由は何でしょう",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "入社3年～4年目の両面コンサルタントで年間売上5,000万円以上になっており、年収では1,000万円を超えます",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "直近10年で売上約3倍（1兆6867億円）営業利益率17.7％と圧倒的成長と高収益を実現する、大手電子部品メーカー様です",
-    "url": "https://note.com/ties_offcial/n/ne55d083c3299",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「小さな池の大きな魚戦略」：誰も見つけていない新しい池（市場）を探し出し、自らの力でその池を広げ、大きな魚（売上）が住めるよう池を拡大することで高シェア・高利益率の獲得を目指されています",
-    "url": "https://note.com/ties_offcial/n/ne55d083c3299",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "＜セミナーレポ＞参加者なんと70名！タイズ主催の「メーカー転職者交流会」に潜入！｜株式会社タイズ【公式】",
+    "quote": "＜セミナーレポ＞参加者なんと70名！ タイズ 主催の「メーカー ... ＜セミナーレポ＞参加者なんと70名！ タイズ 主催の「メーカー ... note https://note.com > キャリア > 転職・キャリアチェンジ",
     "url": "https://note.com/ties_offcial/n/n71ce31eabf2b",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "＜セミナーレポ＞参加者なんと70名！タイズ主催の「メーカー転職者交流会」に潜入！",
-    "url": "https://note.com/ties_offcial/n/n71ce31eabf2b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "タイズの強み通り、提示された企業群は大手企業や業界内での認知度が高い有名企業が中心でした",
+    "quote": "19日目：メーカー特化転職エージェント「 タイズ 」と面談した体 19日目：メーカー特化転職エージェント「 タイズ 」と面談した体 note https://note.com > キャリア > 転職・キャリアチェンジ",
     "url": "https://note.com/aitensyokutarou/n/n36540bba9c22",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "BtoB領域において高いシェアと知名度を持つ有名メーカーであること",
-    "url": "https://note.com/aitensyokutarou/n/n36540bba9c22",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "quote": "タイズ ってなんでこんなに伸びてるの？｜堀 凌也 - note タイズ ってなんでこんなに伸びてるの？｜堀 凌也 - note note https://note.com > ビジネス > 人事・労務・採用",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
    },
    {
-    "quote": "この記事を見つけてくださった皆様の中には、当社タイズの名前を初めて聞いたという方もいらっしゃるかもしれません",
+    "quote": "タイズ が選ばれる理由～メーカー転職シェアNo.1の実績について タイズ が選ばれる理由～メーカー転職シェアNo.1の実績について note https://note.com > キャリア > 転職・キャリアチェンジ",
+    "url": "https://note.com/ties_offcial/n/ne55d083c3299",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー特化の【 タイズ 】が公式 note を始めました！ メーカー特化の【 タイズ 】が公式 note を始めました！ note https://note.com > キャリア > 転職・キャリアチェンジ",
     "url": "https://note.com/ties_offcial/n/nc91e78889762",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員数：105名",
-    "url": "https://note.com/ties_offcial/n/nc91e78889762",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「フランチャイズ比較.net」が 有力フランチャイズ・専門家が一同に集結する「フランチャイズ比較フェアin名古屋」を開催！",
-    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
-    "pass": 3
-   },
-   {
-    "quote": "愛知県名古屋市東区泉1-23-30 名古屋パナソニックビル6F",
-    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
-    "pass": 3
-   },
-   {
-    "quote": "愛知県名古屋市中村区那古野一丁目47番1号 名古屋国際センタービル24F",
-    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
-    "pass": 3
-   },
-   {
-    "quote": "会社名 株式会社じげん",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "代表者名 代表取締役 社長執行役員 CEO 平尾 丈",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "（１） 名称 株式会社イーエイチアイ",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "（３） 代表者の役職・氏名 代表取締役 広岡 栄志",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "（５） 資本金 1 百万円",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "純資産 - - 240百万円",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "総資産 - - 240百万円",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "売上高 - - -",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "当期純利益 - - △0 百万円",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "（１） 名称 株式会社タイズ",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "（５） 資本金 15 百万円",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "純資産 279百万円 398百万円 418百万円",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "総資産 401百万円 523 百万円 739百万円",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "売上高 815百万円 1,120百万円 777百万円",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "営業利益 152百万円 292百万円 △54 百万円",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "経常利益 90 百万円 181 百万円 26 百万円",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "当期純利益 63 百万円 119 百万円 20 百万円",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "また、対象会社の経営成績における進行期の通期の着地見込（2022年9 月期着地見込）は、売上",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "高1,334百万円、営業利益は363 百万円であります",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "（１） 名称 株式会社エイチツーケイ",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "（３） 代表者の役職・氏名 代表取締役 渡邊 一正",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "（７） 純資産 66 百万円",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "（８） 総資産 66 百万円",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "（１） 氏名 広岡 栄志",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "1,750百万円",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "「ゴルフをもっと楽しく、もっと身近に」を理念に、名門ゴルフ場の予約・手配を行うゴルフデスク事業と、法人向けゴルフイベントの企画・運営を展開しています",
-    "url": "https://linkties-holdings.com/group/",
-    "pass": 3
-   },
-   {
-    "quote": "現在中堅・中小メーカーとも取引を増やしており、今後は更に得意領域を増やし、そして、「メーカー領域No.1」を全国で確立するために、2023年の東京支社支社設立に続けて、2024年には名古屋支社と全国へサービス展開を広げていくつもりです",
-    "url": "https://www.wantedly.com/companies/company_5236454/post_articles/877198",
-    "pass": 3
-   },
-   {
-    "quote": "11年間10名だった会社が、売上30億円になるまで",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "── ここまで、社員は10名規模",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "── 社員133名、売上30億円突破、2030年に180億円を目指す",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "1｜11年間、10名 ── 何も起こさなかった期間",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "創業から10名規模で堅実に成長を続けてきた",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "社員10名の会社が、自社の方法論を商標登録しています",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "普通、10名の会社は商標を取りません",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "そして、なぜ11年も10名だったのか",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "企業が求める「職種・給与・勤務地」と、転職希望者の希望条件をデジタルに突き合わせれば、確かに効率よく売上は上がる",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "11年間10名だった理由が、ここにあります",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "人の時間が商品なので、人が育たないと売上が増えない",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "11年間10名だった理由が、ここでもう一度出てきます",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "「正義」＝顧客満足、「力」＝売上",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "アナログマッチングを掲げる会社が、その第一項で「売上が出ていない綺麗事は自己満足だ」と言い切っている",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "各1名ずつ、全員投票で決める",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "→ 優秀な5名を選出",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "売上目標の大きさによって、",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "後述しますが、じげんの開示によれば、タイズの新卒コンサルタントの1人あたり売上収益は、",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "じげんの決算説明資料に、タイズの新卒コンサルタント1人あたり売上収益が指数で開示されています",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "入社年次 1人あたり売上収益（指数） 1年目 1.0 2年目 ↗ 3年目 ↗↗",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "130名規模で、コンサルタント全員が毎週集合する会社です",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "❺ CAは週に5〜10名の求職者と面談する",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "なので、直接の売上にはなりません",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "項目 金額 売上",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "17.5億円 ÷ 3.63億円 ＝ 営業利益の約4.8年分",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "当期純損益 5.1億円 → 7.9億円 増加",
-    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
-    "pass": 3
-   },
-   {
-    "quote": "16.5億円",
-    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
-    "pass": 3
-   },
-   {
-    "quote": "24.9億円",
-    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
-    "pass": 3
-   },
-   {
-    "quote": "10.7億円",
-    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
-    "pass": 3
-   },
-   {
-    "quote": "18.6億円",
-    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
-    "pass": 3
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "Group Company リンク タイズ グループ — Group Company リンク タイズ グループ リンクタイズホールディングス株式会社 https://linkties-holdings.com > group",
-    "url": "https://linkties-holdings.com/group/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "リンク タイズ ホールディングス株式会社 — リンク タイズ ホールディングス株式会社 スピーダ スタートアップ情報リサーチ https://initial.inc > companies > A-IFRFX",
-    "url": "https://initial.inc/companies/A-IFRFX",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... — 株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... 株式会社じげん || ZIGExN Co., Ltd. https://zigexn.co.jp > プレスリリース",
-    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vIMIYg-FTSTV8FhIcWMj-z8mdP__K2n6UVSrsbAFVU38C0pxWBY",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事業を知る - 採用情報｜株式会社タイズ — 事業を知る - 採用情報｜株式会社タイズ recruit.ee-ties.com https://recruit.ee-ties.com > job",
-    "url": "https://recruit.ee-ties.com/job",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "タイズ を知る｜採用情報 — タイズ を知る｜採用情報 recruit.ee-ties.com https://recruit.ee-ties.com > company",
-    "url": "https://recruit.ee-ties.com/company",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカー専門の転職エージェント「 タイズ 」- 製造業 の求人 ... — メーカー専門の転職エージェント「 タイズ 」- 製造業 の求人 ... ee-ties.com https://www.ee-ties.com",
-    "url": "https://www.ee-ties.com/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【 タイズ ってどんな会社？】メーカー転職を成功に ... - YouTube — 【 タイズ ってどんな会社？】メーカー転職を成功に ... - YouTube YouTube https://www.youtube.com > watch",
-    "url": "https://www.youtube.com/watch?v=PJxDIqQkIqQ",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【体験談】 タイズ の評判と口コミは？メーカー転職に特化して ... — 【体験談】 タイズ の評判と口コミは？メーカー転職に特化して ... IT業界ノート https://it-sales-note.com > reputation-of-ties",
-    "url": "https://it-sales-note.com/reputation-of-ties/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【社員 インタビュー 】神戸大学卒の彼が大手ではなく タイズ を ... — 【社員 インタビュー 】神戸大学卒の彼が大手ではなく タイズ を ... チアキャリア（CheerCareer） https://cheercareer.jp > 株式会社タイズ > タイムライン一覧",
-    "url": "https://cheercareer.jp/companies/3603/messages/117643",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... — 株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... 株式会社じげん || ZIGExN Co., Ltd. https://zigexn.co.jp > プレスリリース",
-    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJG3h8QThxRceaeqetJQ0utlKKtkvFdOglj9ZNaAT5e-rrUQN6W",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... — 株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... 株式会社じげん || ZIGExN Co., Ltd. https://zigexn.co.jp > プレスリリース",
-    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... — 株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... Amazon Web Services (AWS) PDF https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com > ...",
-    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
-    "pass": 3
-   },
-   {
-    "quote": "Group｜リンク タイズ ホールディングス株式会社（linkties ... — Group｜リンク タイズ ホールディングス株式会社（linkties ... リンクタイズホールディングス株式会社 https://linkties-holdings.com > group",
-    "url": "https://linkties-holdings.com/group/",
-    "pass": 3
-   },
-   {
-    "quote": "リンク タイズ ホールディングス株式会社との資本業務提携契約 ... — リンク タイズ ホールディングス株式会社との資本業務提携契約 ... SBIホールディングス https://www.sbigroup.co.jp > news",
-    "url": "https://www.sbigroup.co.jp/news/2025/1229_16004.html",
-    "pass": 3
-   },
-   {
-    "quote": "会社概要｜メーカー専門の転職エージェント「 タイズ 」 — 会社概要｜メーカー専門の転職エージェント「 タイズ 」 ee-ties.com https://www.ee-ties.com > 企業紹介",
-    "url": "https://www.ee-ties.com/about/company/",
-    "pass": 3
-   },
-   {
-    "quote": "代表メッセージ - タイズ — 代表メッセージ - タイズ ee-ties.com https://www.ee-ties.com > 企業紹介",
-    "url": "https://www.ee-ties.com/about/ceo/",
-    "pass": 3
-   },
-   {
-    "quote": "【 創業 者インタビュー】効率化ではなく、人と人を結びつける — 【 創業 者インタビュー】効率化ではなく、人と人を結びつける Wantedly https://www.wantedly.com > 株式会社タイズ > ストーリー",
-    "url": "https://www.wantedly.com/companies/company_5236454/post_articles/877198",
-    "pass": 3
-   },
-   {
-    "quote": "メーカー専門の転職エージェントの株式会社 タイズ 、事業成長 ... — メーカー専門の転職エージェントの株式会社 タイズ 、事業成長 ... 株式会社じげん || ZIGExN Co., Ltd. https://zigexn.co.jp > プレスリリース",
-    "url": "https://zigexn.co.jp/12298/?srsltid=AYCX9vLFvAmKMsPfodnEr6n6zSDTqL5IQskU-GuZc-gZqCerf7NvdRom",
-    "pass": 3
-   },
-   {
-    "quote": "(株) タイズ の会社概要 | マイナビ2028 — (株) タイズ の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp290642 > outline",
-    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "タイズ ってなんでこんなに伸びてるの？｜堀 凌也 - note — タイズ ってなんでこんなに伸びてるの？｜堀 凌也 - note note https://note.com > ビジネス > 人事・労務・採用",
-    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社 タイズ | 決算公告(2025年7月25日掲載) - 開示ワイヤー — 株式会社 タイズ | 決算公告(2025年7月25日掲載) - 開示ワイヤー kaijiwire.jp https://kaijiwire.jp > 官報公告",
-    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
-    "pass": 3
-   },
-   {
-    "quote": "数字で見る タイズ ｜採用情報 — 数字で見る タイズ ｜採用情報 recruit.ee-ties.com https://recruit.ee-ties.com > number",
-    "url": "https://recruit.ee-ties.com/number",
-    "pass": 3
-   },
-   {
-    "quote": "タイズ （人材）の「会社紹介」 OpenWork — タイズ （人材）の「会社紹介」 OpenWork OpenWork https://www.openwork.jp > ... > タイズ（人材） > 採用情報",
-    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
-    "pass": 3
-   },
-   {
-    "quote": "転職実績｜メーカー専門の転職エージェント「 タイズ 」 — 転職実績｜メーカー専門の転職エージェント「 タイズ 」 ee-ties.com https://www.ee-ties.com > works",
-    "url": "https://www.ee-ties.com/works/",
-    "pass": 3
-   },
-   {
-    "quote": "メーカー転職成功 事例 ・体験談 - タイズ — メーカー転職成功 事例 ・体験談 - タイズ ee-ties.com https://www.ee-ties.com > ... > 大手に転職成功",
-    "url": "https://www.ee-ties.com/interview/interview_tag/interview_tag12/",
-    "pass": 3
-   },
-   {
-    "quote": "メーカー転職成功 事例 ・体験談 - タイズ — メーカー転職成功 事例 ・体験談 - タイズ ee-ties.com https://www.ee-ties.com > interview",
-    "url": "https://www.ee-ties.com/interview/",
-    "pass": 3
-   },
-   {
-    "quote": "サービス・コンサルタント紹介 - タイズ — サービス・コンサルタント紹介 - タイズ ee-ties.com https://www.ee-ties.com > ties-service",
-    "url": "https://www.ee-ties.com/ties-service/",
-    "pass": 3
-   },
-   {
-    "quote": "タイズ が悪い・連絡こないって評判は本当？口コミをもとに ... — タイズ が悪い・連絡こないって評判は本当？口コミをもとに ... アクシス株式会社 https://axxis.co.jp > ... > 転職サイト・エージェント",
-    "url": "https://axxis.co.jp/magazine/58071",
-    "pass": 3
-   },
-   {
-    "quote": "利用規約｜メーカー専門の転職・求人サイト「 タイズ 」 — 利用規約｜メーカー専門の転職・求人サイト「 タイズ 」 ee-ties.com https://www.ee-ties.com > service_terms",
-    "url": "https://www.ee-ties.com/service_terms/",
-    "pass": 3
-   },
-   {
-    "quote": "料金 プラン | ties [ タイズ ] ノーコードでデータの管理やフロー ... — 料金 プラン | ties [ タイズ ] ノーコードでデータの管理やフロー ... ties.work https://ties.work > pricing",
-    "url": "https://ties.work/pricing",
-    "pass": 3
-   },
-   {
-    "quote": "今井 良祐 - 採用情報｜株式会社タイズ — 今井 良祐 - 採用情報｜株式会社タイズ recruit.ee-ties.com https://recruit.ee-ties.com > interview",
-    "url": "https://recruit.ee-ties.com/interview/plSku8bn",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社 タイズ 今井良祐 — 株式会社 タイズ 今井良祐 ポーターズ株式会社 https://hrbc.porters.jp > magazine > special_detail",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
-    "pass": 3
-   },
-   {
-    "quote": "【創業者 インタビュー 】効率化ではなく、人と人を結びつける — 【創業者 インタビュー 】効率化ではなく、人と人を結びつける Wantedly https://www.wantedly.com > 株式会社タイズ > ストーリー",
-    "url": "https://www.wantedly.com/companies/company_5236454/post_articles/877198",
-    "pass": 3
-   },
-   {
-    "quote": "社長インタビュー - メーカー転職エージェント「 タイズ 」 — 社長インタビュー - メーカー転職エージェント「 タイズ 」 ee-ties.com https://www.ee-ties.com > タイズマガジン",
-    "url": "https://www.ee-ties.com/magazine/magazine_tag/%E7%A4%BE%E9%95%B7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/",
     "pass": 3
    }
   ],
@@ -4020,6 +4186,132 @@
    {
     "quote": "当社は生産性が高く、営業利益率は30％以上あります",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズはメーカー向け人材紹介事業を展開しております",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、各大手顧客の中途採用数に占める紹介成約実績において上位を獲得しております",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、本株式取得により、当社Vertical HR事業は、既存の『リジョブ』（美容、リラクゼーション、介護等の領域に特化した求人情報を提供する媒体）、『ミラクス介護』『ミラクス保育』（介護・保育分野における人材紹介・派遣事業）、『建設JOBs』（建設領域に特化した人材紹介事業）、『リアルエステートWORKS』（不動産領域に特化した人材紹介事業）に加え、５つ目の領域特化の人材系事業となります",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人材紹介事業に関わる市場環境においては、厚生労働省の「令和元年度(2019年度) 職業紹介事業の事業報告の集計結果について」によると、2019年度の有料職業紹介事業における新規求職申込件数は20,019万件(前年度比17.6%)と試算されており、2016年度の12,993万件から拡大基調にあります（新型コロナウイルス感染症の拡大等によって影響を受けた2020年度を除いた最新データを参考）",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人材紹介事業（建築業界特化型・不動産業界特化型）",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "保険相談サービス事業（リーズ） イベント事業（イベント＆セミナー）",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人材紹介事業（運送・物流業／エッセンシャル領域）",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "運送・物流業界専門人材紹介サービス「ドラピタエージェント」：",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エッセンシャル領域専門人材紹介サービス「BizAgent」",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人材派遣、人材紹介、紹介予定派遣 等",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズ（人材）の「会社紹介」 OpenWork",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズは2005年の創業以来、メーカー業界に特化した人材紹介のプロフェッショナルとして歩んできました",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私たちが提供するのは、単なる人材紹介サービスではありません",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【名古屋】人材コンサルタント（法人営業・CA両面型）",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【大阪】人材コンサルタント（法人営業・CA両面型）",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【東京】人材コンサルタント（法人営業・CA両面型）",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事務/管理系のメーカー転職成功事例・体験談をご紹介します",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズのサービスで印象的だったこと 「タイズの転職サービスはいかがでしたか？」 他のエージェントも利用しましたが、他のエージェントはどちらかというと機械的に求人を紹介している印象を…",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "『商社の営業マン』から『大手メーカーの調達』に転職成功！「成功の秘訣は良い職務経歴書をしっかりと“作り込む”こと」",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "他のエージェントでは、ホームページ上のマイページで求人紹介や志望先企業への応募を行います",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. 第三者へ提供する目的：職業紹介や就職・転職に関するサービス提供のため",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
@@ -4323,6 +4615,248 @@
     "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
     "pass": 3
    }
+  ],
+  "株主構成": [
+   {
+    "quote": "そして、それを支えるタイズの社員や株主の皆様も幸せでなければならない",
+    "url": "https://www.ee-ties.com/about/ceo/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米国のデジタルバンクErebor Bankへの1億ドルの出資に関するお知らせ",
+    "url": "https://www.sbigroup.co.jp/news/2025/1229_16004.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上場企業等のお客さまに関する情報のSBIグループにおける相互提供について",
+    "url": "https://www.sbigroup.co.jp/news/2025/1229_16004.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特に大手上場企業への採用実績も多数あり、タイズ経由での採用が上位に入る企業・事業所もあります",
+    "url": "https://recruit.ee-ties.com/job",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして何より、それを支えるタイズの社員や株主の皆様も幸せでなければならない",
+    "url": "https://recruit.ee-ties.com/company",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "つまり、企業様、求職者の皆様、エンドユーザー、社員、株主──全てのステークホルダーの幸せを追求する",
+    "url": "https://recruit.ee-ties.com/company",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そこで、依頼できるベンダーを探していたところ、親会社である",
+    "url": "https://www.lany.co.jp/work/ties",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "のSEO担当者から、親会社ですでにご支援いただいていたLANYさんを紹介してもらいました",
+    "url": "https://www.lany.co.jp/work/ties",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "小島さん：親会社から「記事のクオリティが高い」と好評だったため、信頼できると感じたのが一番の決め手です",
+    "url": "https://www.lany.co.jp/work/ties",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "LANYさんが納品する記事の品質には親会社からの高い評価があったため、信頼できると確信したんです",
+    "url": "https://www.lany.co.jp/work/ties",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社イーエイチアイ及び株式会社タイズの株式取得（完全子会社化）に関するお知らせ – 株式会社じげん || ZIGExN Co., Ltd.",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社イーエイチアイ及び株式会社タイズの株式取得（完全子会社化）に関するお知らせ",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「企業・求職者・エンドユーザー・社員・株主」",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大手上場企業から独自の技術を持つ中堅企業まで、現場のキーマンと築き上げた信頼関係が、他社には出せない「生きた求人情報」の提供を支えています",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「経理職でグローバルに活躍したい！」上場企業に転職成功したストーリー",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社イーエイチアイ及び株式会社タイズの株式取得（完全子会社化）に関するお知らせ – 株式会社じげん || ZIGExN Co., Ltd.",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆様へ",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社イーエイチアイ及び株式会社タイズの株式取得（完全子会社化）に関するお知らせ",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vKtDG52jigPnmGGh9l_9_ln3k9FnVAg_vpzDXnS4k3BfFfUTAAH",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社イーエイチアイ及び株式会社タイズの株式取得（完全子会社化）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社連結の親会社所有者帰属持分比率は66.2％、のれん/資本倍率は0.5 倍と、財務目標(親会社所",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①株式会社イーエイチアイ(子会社)",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（７） 大株主及び持株比率 広岡 栄志 100.0%",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（８） 上場会社と当該会社 との間の関係 資本関係 当該事項はありません",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（７） 大株主及び持株比率",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）2020年9 月16 日開催の定時株主総会において、決算期を7 月末から9 月末に変更したた",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式取得の相手先は、株式会社イーエイチアイについては３.①(７)に記載の個人株主、株式会",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社タイズについては３.②(７)に記載の個人株主及び株式会社エイチツーケイであります",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（９） 大株主及び持株比率 渡邊 一正 100.0%",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（10） 上場会社と 当該会社の関係",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３） 上場会社と 当該個人の関係 当該事項はありません",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221019546493/140120221019546493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年に東証プライム上場のじげん（3679）が",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "2026年に、上場IT企業グループの子会社が、規程に紙の手渡しを残している",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "非上場のオーナー企業で、承継の選択肢が限られていた",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "医療特化やIT特化のブティックなら、市場統計があり、上場している比較対象もあります",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "時期 従業員数 出来事 2022年10月 50〜60名規模 じげんが100%子会社化 2023年2月",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "タイズは非上場ですが、じげんの決算説明資料に",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "して子会社化しています",
+    "url": "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
+    "pass": 3
+   },
+   {
+    "quote": "親会社 株式会社じげん（東証プライム） 100.00%",
+    "url": "https://kaijiwire.jp/kokoku/01a06777-b14d-7859-b04f-283517b492d8",
+    "pass": 3
+   },
+   {
+    "quote": "大手上場企業への採用実績も多数あります",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "三谷商事(株)【東証スタンダード上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "そして何より、それを支えるタイズの社員や株主の皆様も幸せでなければならない",
+    "url": "https://recruit.ee-ties.com/interview/plSku8bn",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、企業様、求職者の皆様、エンドユーザー、社員、株主——全てのステークホルダーの幸せを追求する",
+    "url": "https://recruit.ee-ties.com/interview/plSku8bn",
+    "pass": 3
+   },
+   {
+    "quote": "親会社の株式会社じげんには「人事部」がなく、「経営推進部」という名称なんです",
+    "url": "https://recruit.ee-ties.com/interview/plSku8bn",
+    "pass": 3
+   },
+   {
+    "quote": "フィードバックは、私や親会社の株式会社じげんの代表取締役である平尾さん、さらには外部の経営者からも受けられる体制が存在します",
+    "url": "https://recruit.ee-ties.com/interview/plSku8bn",
+    "pass": 3
+   },
+   {
+    "quote": "直近では、25年の5月にアルティメイトリソーシズグループ株式会社を子会社にしたことで、事業拡大につながりました",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
+    "pass": 3
+   }
   ]
  },
  "checked": {
@@ -4346,7 +4880,7 @@
     "method": "browser"
    },
    {
-    "url": "https://linkties-holdings.com/group/",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
     "status": "ok",
     "method": "http"
    },
@@ -4376,7 +4910,7 @@
     "method": "browser"
    },
    {
-    "url": "https://www.ee-ties.com/about/company/",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
     "status": "ok",
     "method": "http"
    },
@@ -4386,12 +4920,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.lany.co.jp/work/ties",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.ee-ties.com/interview/",
+    "url": "https://www.lany.co.jp/work/ties",
     "status": "ok",
     "method": "http"
    },
@@ -4501,7 +5035,7 @@
     "method": "http"
    },
    {
-    "url": "https://x.com/primarytides/status/2117954007524376813",
+    "url": "https://x.com/primarytides/status/2118302617612976506",
     "status": "robots_disallowed",
     "method": ""
    },
@@ -4518,9 +5052,9 @@
    "results": [
     "https://www.ee-ties.com/about/ceo/",
     "https://www.sbigroup.co.jp/news/2025/1229_16004.html",
-    "https://linkties-holdings.com/group/",
+    "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
     "https://initial.inc/companies/A-IFRFX",
-    "https://zigexn.co.jp/11938/?srsltid=AYCX9vJG3h8QThxRceaeqetJQ0utlKKtkvFdOglj9ZNaAT5e-rrUQN6W",
+    "https://linkties-holdings.com/group/",
     "https://mid-tenshoku.com/agency/a-1714/",
     "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
     "https://www.wantedly.com/companies/company_5236454/about",
@@ -4536,10 +5070,10 @@
     "https://recruit.ee-ties.com/job",
     "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
     "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
-    "https://www.jesra.or.jp/search/1537/",
     "https://www.ee-ties.com/ceo_blog/",
-    "https://mid-tenshoku.com/agency/a-1714/",
-    "https://zigexn.co.jp/14408/?srsltid=AYCX9vLIYL7ceaNpx0gvD3J54D6yRNCSyDQibv1faU6MX_y5_rck_kqz",
+    "https://zigexn.co.jp/12298/?srsltid=AYCX9vL-EUeXgHYC2PoRYIsvhx-tUz6EuZOnfqKPnSmkKQXbi0cFiZSH",
+    "https://www.ee-ties.com/about/",
+    "https://www.wantedly.com/companies/company_5236454/post_articles/877198",
     "https://corp.wiki.fc2.com/wiki/タイズ"
    ]
   },
@@ -4548,12 +5082,12 @@
    "results": [
     "https://recruit.ee-ties.com/company",
     "https://recruit.ee-ties.com/number",
-    "https://www.ee-ties.com/about/company/",
     "https://www.openwork.jp/a0C10000011UUyU/pr/",
     "https://job.mynavi.jp/28/pc/search/corp290642/outline.html",
+    "https://www.ee-ties.com/about/company/",
     "https://www.tie-s.jp/recruit/data/",
+    "https://recruit.ee-ties.com/",
     "https://note.com/humble_fowl4938/n/n5ff26948d9f6",
-    "https://www.ee-ties.com/about/ceo/",
     "https://mid-tenshoku.com/agency/a-1714/",
     "https://ja.wikipedia.org/wiki/売上高"
    ]
@@ -4562,14 +5096,14 @@
    "query": "タイズ 製造業 導入事例",
    "results": [
     "https://www.ee-ties.com/",
+    "https://www.ee-ties.com/interview/interview_job/interview_job4/",
     "https://www.lany.co.jp/work/ties",
-    "https://www.ee-ties.com/interview/",
-    "https://www.ee-ties.com/about/ceo/",
     "https://www.youtube.com/watch?v=PJxDIqQkIqQ",
+    "https://www.ee-ties.com/interview/",
     "https://www.ee-ties.com/works/",
+    "https://www.wantedly.com/companies/company_5236454/about",
     "https://note.com/ties_offcial/n/ne55d083c3299",
-    "https://www.talent-book.jp/ee-ties/stories/63071",
-    "https://www.youtube.com/channel/UCS6acxvjWwrGx2OZ0hvzJ0g",
+    "https://www.jobmiru.cloud/Integration-plan/user-interview/ties",
     "https://hrbc.porters.jp/case/detail/ties-portersagent-success-story"
    ]
   },
@@ -4580,11 +5114,11 @@
     "https://axxis.co.jp/magazine/58071",
     "https://www.ee-ties.com/service_terms/",
     "https://it-sales-note.com/reputation-of-ties/",
-    "https://www.ee-ties.com/ties-service/",
     "https://jinzai.hellowork.mhlw.go.jp/icb_data/UploadFiles/Jigyosho/27-%E3%83%A6-300393/tesuryo/%E6%89%8B%E6%95%B0%E6%96%99%E8%A1%A8%E3%82%BF%E3%82%A4%E3%82%BA20240528.pdf",
+    "https://www.ee-ties.com/ties-service/",
     "https://tt-hd.co.jp/",
-    "https://job.mynavi.jp/27/pc/search/corp290642/outline.html",
     "https://www.ee-ties.com/service/",
+    "https://job.mynavi.jp/27/pc/search/corp290642/outline.html",
     "https://ja.wikipedia.org/wiki/タイ料理"
    ]
   },
@@ -4614,8 +5148,7 @@
     "https://note.com/yknr_03/n/n1d8e0b79545f",
     "https://note.com/whisky/n/n8f33683c98ed",
     "https://note.com/ties_offcial/n/nc7d7f87cede5",
-    "https://note.com/ties_offcial/m/m31ea9aa61627/hashtag/%E8%BB%A2%E8%81%B7%E6%88%90%E5%8A%9F",
-    "https://note.com/ties_offcial/n/nddff083e6dc1"
+    "https://note.com/ties_offcial/m/m31ea9aa61627/hashtag/%E8%BB%A2%E8%81%B7%E6%88%90%E5%8A%9F"
    ]
   },
   {
@@ -4627,10 +5160,10 @@
     "https://x.com/ties_2012",
     "https://x.com/xTies_eSports/highlights",
     "https://x.com/Jungle_Tokyo/status/2086631767252062335",
-    "https://x.com/i/trending/2076610114476183755",
     "https://x.com/talentbook_jp/status/2116096555816239147",
+    "https://x.com/i/trending/2076610114476183755",
     "https://x.com/ties__store",
-    "https://x.com/RwandaMFA/status/1580160591758381057"
+    "https://x.com/tieskun"
    ]
   },
   {
@@ -4642,10 +5175,10 @@
     "https://www.linkedin.com/company/globaltieskzoo",
     "https://jp.linkedin.com/in/hayato-sato-a277283b",
     "https://www.linkedin.com/pulse/mining-common-ground-building-global-research-ties-vietnam-vlrnc",
-    "https://www.linkedin.com/pulse/defence-ministers-committed-further-support-ukraine-strengthen-ties-nef6f",
     "https://www.linkedin.com/company/globaltiesus",
     "https://www.linkedin.com/news/story/openai-cuts-ties-with-3-researchers-over-alleged-misconduct-7642124/",
-    "https://jp.linkedin.com/in/atsushi-adachi-764094117"
+    "https://jp.linkedin.com/in/atsushi-adachi-764094117",
+    "https://jp.linkedin.com/in/タイズ-株式会社-3aa48b167"
    ]
   },
   {
@@ -4674,23 +5207,23 @@
     "https://note.com/ties_offcial/m/m31ea9aa61627/hashtag/%E8%BB%A2%E8%81%B7%E6%88%90%E5%8A%9F",
     "https://note.com/ties_offcial/n/ne55d083c3299",
     "https://jinzainews.net/jinzaiguide/ee-ties/",
-    "https://ja.wikipedia.org/wiki/加藤貞顕",
-    "https://ja.wikipedia.org/wiki/藤原岳史"
+    "https://www.ee-ties.com/news/397144/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
    ]
   },
   {
    "query": "タイズ X 投稿",
    "results": [
-    "https://x.com/primarytides/status/2117954007524376813",
+    "https://x.com/primarytides/status/2118302617612976506",
     "https://www.facebook.com/eeties/?locale=ja_JP",
-    "https://www.youtube.com/watch?v=MxF-w_gu2xM",
     "https://www.ee-ties.com/reputation/",
+    "https://www.youtube.com/watch?v=MxF-w_gu2xM",
     "https://www.talent-book.jp/ee-ties/stories/61669",
-    "https://www.youtube.com/watch?v=sboyAPoFbk4",
-    "https://syukatsu-kaigi.jp/companies/38512/post_items/8/word_mouths",
+    "https://www.youtube.com/playlist?list=PLDL0mPvtYcPPB9RKRNJzKmfRvCDpB1TvP",
     "https://namokurashi.com/career-change/ties-reputation/",
     "https://x.com/PrimaryTides",
-    "https://x.com/xTies_eSports"
+    "https://note.com/money_atsu/n/n0ca5ae7df8e6",
+    "https://daimyouji.com/kasegu/xmoney/"
    ]
   }
  ],
@@ -4704,10 +5237,60 @@
   "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）"
  },
  "new_this_run": {
-  "製造業の顧客": [
+  "SNS・note（X・検索結果の抜粋）": [
    {
-    "quote": "メーカーの多くが輸出企業ですので、円安の影響で売上利益は好調です",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1320",
+    "quote": "プライマリ タイズ （公式） - @primarytides - X プライマリ タイズ （公式） - @primarytides - X X https://x.com > @primarytides",
+    "url": "https://x.com/primarytides/status/2118302617612976506",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "売上・規模": [
+   {
+    "quote": "愛知県名古屋市東区泉1-23-30 名古屋パナソニックビル6F",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "愛知県名古屋市中村区那古野一丁目47番1号 名古屋国際センタービル24F",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "目指すは2030年180億円",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "売上高も前年比130％超の成長を続け、30億円を突破しました",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今、私たちは2030年に「売上高180億円」という野心的な目標を掲げ、第二創業期とも言えるダイナミックな挑戦の真っ只中にいます",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "■ 2030年、売上高180億円・500名体制への挑戦",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2030年に掲げる「売上高180億円」という目標は、今の規模の数倍へと組織を拡大させる決意の現れです",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【名古屋】人材コンサルタント（法人営業・CA両面型）",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -4715,12 +5298,502 @@
   "検索結果の抜粋": [
    {
     "quote": "株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... — 株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... 株式会社じげん || ZIGExN Co., Ltd. https://zigexn.co.jp > プレスリリース",
-    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJG3h8QThxRceaeqetJQ0utlKKtkvFdOglj9ZNaAT5e-rrUQN6W",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事務/管理系のメーカー転職成功 事例 ・体験談 - タイズ — 事務/管理系のメーカー転職成功 事例 ・体験談 - タイズ ee-ties.com https://www.ee-ties.com > ... > 事務/管理系",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "発言": [
+   {
+    "quote": "当社は、株式会社イーエイチアイ（本社所在地：大阪府大阪市、代表取締役：広岡 栄志）及び株式会社タイズ（本社所在地：大阪府大阪市、代表取締役：広岡 栄志、以下「タイズ」といいます",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社エイ・アイ・パートナーズ設立 代表取締役(現任)",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エイ・アイ・パートナーズ税務会計事務所設立 代表(現任)",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第76回国民体育大会近畿ブロック大会 3位 京都府代表",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2018年度 男子日本代表チーム 第40回ウィリアム・ジョーンズカップ 日本代表候補選手",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2018年度バスケットボール男子U18日本代表チーム「 FIBA U18アジア選手権大会2018 」男子U18日本代表選手",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2012年度 男子U-16日本代表チーム 日本代表候補選手",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2013年度 男子U-18日本代表チーム 日本代表候補選手",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2016-17年度 バスケットボール男子U-19日本代表チーム 日本代表候補選手",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "■ 日本を代表する「大手優良メーカー」からの厚い信頼",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズを通じて転職された方にインタビューを実施しました",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "採用・人数": [
+   {
+    "quote": "また、各大手顧客の中途採用数に占める紹介成約実績において上位を獲得しております",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これまでに培った実績は、業界最大手のエージェントと比較しても遜色なく、複数の優良メーカーにおいては「タイズ経由の採用数が最多」という評価をいただくことも少なくありません",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大手優良メーカー各社において、タイズ経由の採用実績は業界トップクラスのシェアを誇ります",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "■ 新卒・中途の垣根なく、誰もが主役になれるフラットな環境",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズの組織構成は、新卒が約4割、中途が約6割",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「新卒・中途を問わず、成果を出した者が正当に評価され、活躍できる」のがタイズの当たり前",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "料金": [
+   {
+    "quote": "年収 492万～700万円",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "製造業の顧客": [
+   {
+    "quote": "タイズはメーカー向け人材紹介事業を展開しております",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同社は、関西メーカーを中心に顧客基盤を有しており、ほぼ全ての関西の主要な大手機械、電気/半導体、化学メーカーとの間で取引実績がございます",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、各大手顧客の中途採用数に占める紹介成約実績において上位を獲得しております",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "当社グループは、これまで既存領域における送客力の強化、顧客基盤の拡大、新規領域への拡張により、ライフサービスプラットフォームの価値拡大に努めて参りました",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本株式取得により、少子高齢化等を背景とした人手不足により人材確保ニーズが高まっている中、メーカー業界において新たに事業展開が可能となります",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズは、関西・関東・東海のメーカー業界に特化したエージェントとして、創業以来「アナログマッチング」という独自の価値を提供し続けています",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズは2005年の創業以来、メーカー業界に特化した人材紹介のプロフェッショナルとして歩んできました",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私たちが目指す究極の姿、それは「メーカー業界の人事部」になることです",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカーの深部まで入り込み、精度の高い「アナログマッチング」を実現する",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズの事業の核は、製造業に特化したプロフェッショナルとしての介在価値にあります",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "■ 大手エージェントに引けを取らない、メーカー領域の圧倒的成約実績",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私たちは創業以来、メーカー業界に特化して膨大なノウハウを蓄積してきました",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これまでに培った実績は、業界最大手のエージェントと比較しても遜色なく、複数の優良メーカーにおいては「タイズ経由の採用数が最多」という評価をいただくことも少なくありません",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー業界の発展を真剣に願うからこそ、私たちは現状に甘んじることなく、常に自らをアップデートし続けています",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この「顧客ファースト」の精神こそが、私たちの誇りです",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "■ 日本を代表する「大手優良メーカー」からの厚い信頼",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大手優良メーカー各社において、タイズ経由の採用実績は業界トップクラスのシェアを誇ります",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカー業界の深部まで知り尽くしたプロフェッショナルとして、他社には真似できない介在価値を提供しています",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「年功序列」の概念はなく、プロフェッショナルとして顧客に貢献した分だけ、社歴に関わらず報酬やポストとしてダイレクトに還元されます",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事務/管理系のメーカー転職成功事例・体験談｜メーカー転職エージェント「タイズ」",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事務/管理系のメーカー転職成功事例・体験談をご紹介します",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "『商社の営業マン』から『大手メーカーの調達』に転職成功！「成功の秘訣は良い職務経歴書をしっかりと“作り込む”こと」",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "環境装置メーカーの 購買（契約社員）への転職",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第一希望の大手メーカーに転職成功！他のエージェントからは「大手に転職は厳しい」と言われていました",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "キャリア採用シェアと言われても、パッとイメージしづらいかもしれません。",
+    "url": "https://note.com/ties_offcial/n/ne55d083c3299",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名の方にお集まりいただきました。ご参加者の皆様、ありがとうございました。",
+    "url": "https://note.com/ties_offcial/n/n71ce31eabf2b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事を見つけてくださった皆様の中には、当社タイズの名前を初めて聞いたという方もいらっしゃるかもしれません。",
+    "url": "https://note.com/ties_offcial/n/nc91e78889762",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "株式会社エイ・アイ・パートナーズ設立 代表取締役(現任)",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エイ・アイ・パートナーズ税務会計事務所設立 代表(現任)",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズは、関西・関東・東海のメーカー業界に特化したエージェントとして、創業以来「アナログマッチング」という独自の価値を提供し続けています",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズは2005年の創業以来、メーカー業界に特化した人材紹介のプロフェッショナルとして歩んできました",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今、私たちは2030年に「売上高180億円」という野心的な目標を掲げ、第二創業期とも言えるダイナミックな挑戦の真っ只中にいます",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私たちは創業以来、メーカー業界に特化して膨大なノウハウを蓄積してきました",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私たちは今、第二創業期として急成長の真っ只中にあります",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "売り方": [
+   {
+    "quote": "タイズはメーカー向け人材紹介事業を展開しております",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、各大手顧客の中途採用数に占める紹介成約実績において上位を獲得しております",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、本株式取得により、当社Vertical HR事業は、既存の『リジョブ』（美容、リラクゼーション、介護等の領域に特化した求人情報を提供する媒体）、『ミラクス介護』『ミラクス保育』（介護・保育分野における人材紹介・派遣事業）、『建設JOBs』（建設領域に特化した人材紹介事業）、『リアルエステートWORKS』（不動産領域に特化した人材紹介事業）に加え、５つ目の領域特化の人材系事業となります",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人材紹介事業に関わる市場環境においては、厚生労働省の「令和元年度(2019年度) 職業紹介事業の事業報告の集計結果について」によると、2019年度の有料職業紹介事業における新規求職申込件数は20,019万件(前年度比17.6%)と試算されており、2016年度の12,993万件から拡大基調にあります（新型コロナウイルス感染症の拡大等によって影響を受けた2020年度を除いた最新データを参考）",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人材紹介事業（建築業界特化型・不動産業界特化型）",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "保険相談サービス事業（リーズ） イベント事業（イベント＆セミナー）",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人材紹介事業（運送・物流業／エッセンシャル領域）",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "運送・物流業界専門人材紹介サービス「ドラピタエージェント」：",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エッセンシャル領域専門人材紹介サービス「BizAgent」",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人材派遣、人材紹介、紹介予定派遣 等",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズ（人材）の「会社紹介」 OpenWork",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズは2005年の創業以来、メーカー業界に特化した人材紹介のプロフェッショナルとして歩んできました",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私たちが提供するのは、単なる人材紹介サービスではありません",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【名古屋】人材コンサルタント（法人営業・CA両面型）",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【大阪】人材コンサルタント（法人営業・CA両面型）",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【東京】人材コンサルタント（法人営業・CA両面型）",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事務/管理系のメーカー転職成功事例・体験談をご紹介します",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "タイズのサービスで印象的だったこと 「タイズの転職サービスはいかがでしたか？」 他のエージェントも利用しましたが、他のエージェントはどちらかというと機械的に求人を紹介している印象を…",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "『商社の営業マン』から『大手メーカーの調達』に転職成功！「成功の秘訣は良い職務経歴書をしっかりと“作り込む”こと」",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "他のエージェントでは、ホームページ上のマイページで求人紹介や志望先企業への応募を行います",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. 第三者へ提供する目的：職業紹介や就職・転職に関するサービス提供のため",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "株式会社イーエイチアイ及び株式会社タイズの株式取得（完全子会社化）に関するお知らせ – 株式会社じげん || ZIGExN Co., Ltd.",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社イーエイチアイ及び株式会社タイズの株式取得（完全子会社化）に関するお知らせ",
+    "url": "https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「企業・求職者・エンドユーザー・社員・株主」",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大手上場企業から独自の技術を持つ中堅企業まで、現場のキーマンと築き上げた信頼関係が、他社には出せない「生きた求人情報」の提供を支えています",
+    "url": "https://www.openwork.jp/a0C10000011UUyU/pr/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「経理職でグローバルに活躍したい！」上場企業に転職成功したストーリー",
+    "url": "https://www.ee-ties.com/interview/interview_job/interview_job4/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ]
  },
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-04T14:59:07.691064+00:00"
 }

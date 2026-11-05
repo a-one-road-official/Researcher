@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・71品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・74品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1328,7 +1328,7 @@
   - 「９ 調査結果の」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ また、工業統計調査においては、市区町村別結果等の詳細集計や個人経営事業所」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ これに基づき、乙調査の位置づけについて検討を行った結果、①甲調査という産業」（https://www.soumu.go.jp/main_content/000744047.pdf）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
 
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
@@ -2098,11 +2098,11 @@
 
 ## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
 - 文脈：定義の点検
-- 手順・やり方：記載なし（読んだ28頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
-- 実例：記載なし（読んだ28頁・検索12回）
+- 手順・やり方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 実例：記載なし（読んだ21頁・検索12回）
 
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
@@ -3292,7 +3292,7 @@
 - 実例：
   - 「例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
   - 「(無料、データ加工実例)」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
 
 ## 官報・電子公告の決算公告で中小の財務を読む実務（探し方・単位・公告が無い理由）（reading Japanese public financial notices kanpo SME balance sheet units）
 - 文脈：一次情報の探し方
@@ -4587,3 +4587,203 @@
   - 「分解結果について、まず、大企業を中心とした上」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
   - 「この点は、過去の先行研究（深尾 (2012) 等）の結果」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
   - 「は小さいとの結果が得られた15（図 17）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+
+## 統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例）（revision analysis mean revision mean absolute revision bias test preliminary estimates real-time data）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「その趣旨は、いわゆる分散型の統計機構の下で各省が独自に統計調」（https://nira.or.jp/paper/report0810.pdf）
+  - 「また、現行の統計行政は、よく知られているように分散型であり、各府省の統計部」（https://nira.or.jp/paper/report0810.pdf）
+  - 「また、各論の永濱利廣氏の論文にあるように、いわゆる分散型の統計行政で」（https://nira.or.jp/paper/report0810.pdf）
+  - 「つまり、日本では、中央レベルでは分散型の統計機構」（https://nira.or.jp/paper/report0810.pdf）
+  - 「集中型機構ともいえる＊2」（https://nira.or.jp/paper/report0810.pdf）
+  - 「一性を図るため、調査方法、分類基準、定義などについての調査を実施している」（https://nira.or.jp/paper/report0810.pdf）
+  - 「②加工統計の加工方法が公表されていること、③第三者が再現可能であること等が挙」（https://nira.or.jp/paper/report0810.pdf）
+  - 「がない、統計間で重複がみられるなど、分散型統計行政の弊害が大きくなっているた」（https://nira.or.jp/paper/report0810.pdf）
+  - 「JIPデータベースの作成方法は、深尾・宮川（2008）第 2章に詳しく書かれているので、」（https://nira.or.jp/paper/report0810.pdf）
+  - 「実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成」（https://nira.or.jp/paper/report0810.pdf）
+  - 「推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法」（https://nira.or.jp/paper/report0810.pdf）
+  - 「データベースは、共通の計測方法の下での国際比較が可能となっている」（https://nira.or.jp/paper/report0810.pdf）
+  - 「方法が考えられるが、大きく粗資本ストックと純資本ストックに分けることができる」（https://nira.or.jp/paper/report0810.pdf）
+  - 「しているが、各物価指数が共通の方法で計測されているわけではない」（https://nira.or.jp/paper/report0810.pdf）
+  - 「常に有機的な活用方法を想定して統計を整備しているかどうか、という点である」（https://nira.or.jp/paper/report0810.pdf）
+- 突き合わせ・推定：
+  - 「推計期間 1970、1973-2003年 1960-1995年」（https://nira.or.jp/paper/report0810.pdf）
+  - 「実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成」（https://nira.or.jp/paper/report0810.pdf）
+  - 「推計期間 1970-2002年 1960-1992年」（https://nira.or.jp/paper/report0810.pdf）
+  - 「推計データ 労働者数、労働時間、賃金 労働者数、労働時間、賃金」（https://nira.or.jp/paper/report0810.pdf）
+  - 「推計期間 1970-2002年 1955-92年」（https://nira.or.jp/paper/report0810.pdf）
+  - 「『昭和45年国富調査』より推計」（https://nira.or.jp/paper/report0810.pdf）
+  - 「推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法」（https://nira.or.jp/paper/report0810.pdf）
+  - 「在まで 2つのヴァージョンがあり、データベースの延長推計を行っている」（https://nira.or.jp/paper/report0810.pdf）
+  - 「情報サービス産業の動向や受注ソフトウエア投資の推計は、」（https://nira.or.jp/paper/report0810.pdf）
+  - 「（1） 2002年推計見直しから積み残された“宿題”」（https://nira.or.jp/paper/report0810.pdf）
+  - 「GDP速報は2002年 8月に推計方法の抜本的な見直しを行った」（https://nira.or.jp/paper/report0810.pdf）
+  - 「い間、需要側統計（代表例は家計調査、法人企業統計季報） を中心に推計されてきたGDP」（https://nira.or.jp/paper/report0810.pdf）
+  - 「ているため、推計方法の見直しは確報との整合性も高めると考えられた」（https://nira.or.jp/paper/report0810.pdf）
+  - 「現行推計では、供給」（https://nira.or.jp/paper/report0810.pdf）
+  - 「側推計を組み合わせたことで「1ヵ月＋2週間」で公表できるようになった」（https://nira.or.jp/paper/report0810.pdf）
+- 一次情報の探し方：
+  - 「戦後の統計体系の見直しに向けた作業が内閣府の統計委員会を中心に行われている」（https://nira.or.jp/paper/report0810.pdf）
+  - 「現在の統計体系は、戦後の混乱した日本経済を建て直し、国民生活の安定を確保する」（https://nira.or.jp/paper/report0810.pdf）
+  - 「こうした中で実施された 60年ぶりの今回の統計法の全面改訂は、 新たな時代にふさ」（https://nira.or.jp/paper/report0810.pdf）
+  - 「わしい統計の構築に向けた幕開けといえるものである」（https://nira.or.jp/paper/report0810.pdf）
+  - 「本年秋には、 「公的統計の整備」（https://nira.or.jp/paper/report0810.pdf）
+  - 「時代から取り残されつつある現在の統計体系を見直すには、多様なアクターが参加」（https://nira.or.jp/paper/report0810.pdf）
+  - 「われわれは、統計利用者の立場から、現在の統計の諸」（https://nira.or.jp/paper/report0810.pdf）
+  - 「問題、今後の課題について議論を重ね、今回、新たな時代にふさわしい統計改革につ」（https://nira.or.jp/paper/report0810.pdf）
+  - 「1. 統計の役割と最近の統計制度見直しの経緯」（https://nira.or.jp/paper/report0810.pdf）
+  - 「(1) 統計の目的」（https://nira.or.jp/paper/report0810.pdf）
+  - 「統計は現実に生じていることの実態を把握することが目的であるが、 その用途には、」（https://nira.or.jp/paper/report0810.pdf）
+  - 「(2) 統計制度見直しの経緯」（https://nira.or.jp/paper/report0810.pdf）
+  - 「今回の統計制度の見直しの議論は、当時、経済財政諮問会議民間議員であった吉川」（https://nira.or.jp/paper/report0810.pdf）
+  - 「洋氏（東京大学大学院経済学研究科教授）が、日本の抱える統計の問題を経済財政諮」（https://nira.or.jp/paper/report0810.pdf）
+  - 「は、行政改革の一つとして、農林水産統計に偏った要員配置等を含めて、既存の統計」（https://nira.or.jp/paper/report0810.pdf）
+- 失敗・落とし穴：
+  - 「価ではない自己評価形式となっており、評価にバイアスがかかりやすくなること、ま」（https://nira.or.jp/paper/report0810.pdf）
+  - 「で、時系列的に連続させるには注意が必要である」（https://nira.or.jp/paper/report0810.pdf）
+  - 「これら低回収率がもたらすバイアスならびにその補正については」（https://nira.or.jp/paper/report0810.pdf）
+  - 「correcting for unit nonresponse bias in surveys," Journal of Econometrics, vol. 136(1), pages」（https://nira.or.jp/paper/report0810.pdf）
+  - 「to assess bias, efficiency, correlation, seasonality, and the relative」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
+  - 「The mean revision quantifies systematic bias in the revisions:」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
+  - 「\text{Bias} = \bar{r} = \frac{1}{N} \sum_{t=1}^{N} r_t^{f}」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
+  - 「"Bias (robust p-value)"」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
+  - 「#> id release N `Bias (mean)` `Bias (p-value)` `Bias (robust p-value)`」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
+  - 「#> • Significant upward bias detected (p = 0 )」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
+  - 「#> • Significant upward bias detected (p = 0.001 )」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
+  - 「predictability, and potential biases in data revisions.」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
+  - 「efficient and unbiased」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
+  - 「have a systematic bias.」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
+  - 「#> id pub_date N Frequency `Bias (mean)` `Bias (p-value)`」（https://docs.ropensci.org/reviser/articles/revision-analysis.html）
+- 実例：
+  - 「や結果が異なることから、ともすれば論者が自分の主張にあう都合のよいデータを使」（https://nira.or.jp/paper/report0810.pdf）
+  - 「より投入された資源とその結果得られる政策の成果との因果関係について厳密に分析」（https://nira.or.jp/paper/report0810.pdf）
+  - 「我々が実施したアンケート調査結果でも、グローバル化の進展に伴い、」（https://nira.or.jp/paper/report0810.pdf）
+  - 「調査結果に影響を及ぼし、厳密にいうと前回の調査との比較は困難となっているはず」（https://nira.or.jp/paper/report0810.pdf）
+  - 「一次統計は、一般に、統計調査の結果から直接得られる統計で、調査の企」（https://nira.or.jp/paper/report0810.pdf）
+  - 「は、入札の結果委託先が変更されることによる統計の継続性、質の確保という観点か」（https://nira.or.jp/paper/report0810.pdf）
+  - 「＜参考＞ESPフォーキャスター＊3に対するアンケート調査結果（詳細は資料編を参照）」（https://nira.or.jp/paper/report0810.pdf）
+  - 「アンケートの結果から日本の統計の問題点が浮き彫りになった」（https://nira.or.jp/paper/report0810.pdf）
+  - 「図表 1 景気動向指標としての統計調査の評価結果」（https://nira.or.jp/paper/report0810.pdf）
+  - 「図表 2 構造把握指標としての統計調査の評価結果」（https://nira.or.jp/paper/report0810.pdf）
+  - 「例えば米国商務省の Bureau of Labor Statisticsでは、労働生」（https://nira.or.jp/paper/report0810.pdf）
+  - 「ただこうした研究でも、企業行動が市場構造に影響されるケース」（https://nira.or.jp/paper/report0810.pdf）
+  - 「複数の異業種をかかえる事例が増える可能性がある」（https://nira.or.jp/paper/report0810.pdf）
+  - 「社のアンケート結果に基づくロジット・モデル分析」内閣府経済社会総合研究所『経済分析』」（https://nira.or.jp/paper/report0810.pdf）
+  - 「な経済変動、景気動向を把握するための統計指標」という観点から3段階評価した結果＊２」（https://nira.or.jp/paper/report0810.pdf）
+
+## 競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例）（how to research competitor revenue private company step by step sources）
+- 文脈：推定
+- 手順・やり方：
+  - 「この記事では、無料で確認できる情報源、非上場企業を調べる方法、売上と利益率を比べる手順を解説します」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「競合分析とは？やり方6ステップ・比較項目・フレームワーク10選」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「競合の選び方、調査項目と施策へつなぐ手順を紹介します」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「会社法440条は、株式会社の計算書類の公告について、対象書類と方法、有価証券報告書提出会社の適用除外を定めています」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「G-Searchは、帝国データバンク・東京商工リサーチの企業情報で非上場企業の業績を確認する方法を紹介しています」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「企業会計基準のセグメント情報の定めでは、外部顧客への売上高とセグメント間の内部売上高を分け、測定方法なども開示対象としています」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「項目名、算定方法、注記」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「競合シェアの調べ方｜情報源・計算方法と比較の注意点」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「市場シェアを調べる情報源と、比較範囲をそろえる方法を解説します」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「公表された実績と分け、算定方法や対象範囲、誤差の可能性を明記します」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「同じ条件に見えて差が残る場合は、出所と算定方法を確認し、不明点を注記します」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ｜ナレッジ｜イノベーション総合研究所」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「本記事では、無料で探す5ステップ、有料サービスの選び方、売上が不明なときの推定方法を解説します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「イノベーション総研の888名調査と実務向けの記録例も使い、調べた数字を参入判断や次の顧客検証へつなげる方法まで整理します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+- 突き合わせ・推定：
+  - 「非公開や未確認の数字を、0や推定の実績で埋めません」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「同名の別会社との混同も避け、所在地、事業内容、証券コードなどで対象を照合します」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「会社が説明する増収の理由と、自分が考えた仮説も分けます」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「貸借対照表に当期純利益が記載されていても、そこから売上は逆算できません」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「実績、会社予想、第三者の推計」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「資産、純資産、当期純利益の金額から売上を逆算せず、売上が掲載された資料がなければ未確認として残します」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「アクセス数や従業員数から競合の売上を推定できますか？」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「推計する場合も、購入率や単価、生産性などの前提に左右されます」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「本記事では、無料で探す5ステップ、有料サービスの選び方、売上が不明なときの推定方法を解説します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「イノベーション総研の888名調査と実務向けの記録例も使い、調べた数字を参入判断や次の顧客検証へつなげる方法まで整理します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「単体と連結、売上高と取扱高、実績と推定を混ぜない」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「公告が見つかったら、対象会社と決算期を照合し、損益計算書に売上高の記載があるかを読みます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「対象企業が多い、事業別の売上まで整理したい、情報同士の矛盾を調べる必要がある場合は、調査会社への依頼も選択肢です」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「06 撤退の規律：調べ続けて検証へ進めない」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「競合調査の先にある、顧客検証を進める」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+- 一次情報の探し方：
+  - 「上場企業はIR資料やEDINET、非上場企業は会社概要・公表資料・決算公告」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「公式サイトの「IR情報」「投資家情報」「決算」「会社概要」から探すと、資料の出所を確認しやすくなります」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「検索する場合も、会社名に「売上高」「決算短信」「有価証券報告書」「決算公告」などを組み合わせます」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「会社概要、IR資料、決算説明資料、公表された業績」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「決算短信、業績予想の修正、事業に関する開示」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「上場企業の売上を、IR・EDINET・決算短信で調べる」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「IR資料で決算の数字と事業別の内訳を確認する図」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「IR資料では、まず決算短信や有価証券報告書から対象年度の売上・利益を確認します」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「決算説明資料は、増減の背景、事業別の動き、会社が説明する今後の方針を読む補助になります」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「EDINETは、金融商品取引法に基づく有価証券報告書などを検索・閲覧する金融庁のシステムです」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「対象の有価証券報告書を開いたら、主要な経営指標、経営成績の説明、連結損益計算書、セグメント情報などを確認します」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「また、非上場でも有価証券報告書を提出する企業があるため、上場していないことだけを理由に検索対象から外す必要はありません」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「金融庁は、EDINETを、有価証券報告書などの提出から公衆縦覧までを電子化するシステムと説明し、正規の閲覧サイトを案内しています」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「適時開示では、最新の決算と業績予想の変更を見る」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「決算短信や業績予想の修正は、企業のIRサイトや日本取引所グループの適時開示情報から探せます」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+- 失敗・落とし穴：
+  - 「競合シェアの調べ方｜情報源・計算方法と比較の注意点」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「ただし、ページに更新日があっても、売上の対象年度が新しいとは限らない点に注意してください」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「失敗への懸念を伝え、軌道修正につながったと回答した材料」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「注意したいのは、書かれている数字がいつ時点のものかです」（https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/）
+  - 「In this guide, we’ll cover 12 sources, show how to match them to a decision, and explain how to stay ethical, measure results, and avoid common mistakes.」（https://www.questionpro.com/blog/competitive-intelligence-sources/）
+  - 「What common mistakes make competitive intelligence sources useless?」（https://www.questionpro.com/blog/competitive-intelligence-sources/）
+  - 「Personal bias and scattered records」（https://www.questionpro.com/blog/competitive-intelligence-sources/）
+  - 「Better answers come from curiosity, clear questions, and a customer-first frame. The biggest mistake is getting defensive because the topic is a competitor. People sense that tension and share less.」（https://www.questionpro.com/blog/competitive-intelligence-sources/）
+  - 「Most failures come from process, not from missing information. These mistakes show up most often:」（https://www.questionpro.com/blog/competitive-intelligence-sources/）
+- 実例：
+  - 「例えば会社が買収の影響を説明しているなら、売上増加をそのまま既存事業の顧客獲得力と捉えないようにします」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「実在企業の調査結果やDSSの実績ではありません」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「例えば、単位が「百万円」の表にある「1,200」は、1,200万円ではなく12億円です」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「検索結果が3件あることを「3つの独立した情報で確認できた」とは扱いません」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「例えば月額3万円で、年間平均200契約、期末時点では300契約まで増えた架空のサービスを考えます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「従業員数に業界平均の1人あたり売上を掛ける方法もありますが、実際には、外注の多さ、卸売かサービス業か、兼業の有無で結果は大きく変わります」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「これは大企業の新規事業関与者が、直近の経験に最も近い選択肢を一つ選んだ結果で、非上場企業の売上の公開状況を調べたものではありません」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「例えば、競合の伸びが想定より小さければ、価格、対象顧客、販売方法のどれを追加確認するかまで記録します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「例えば、発注支援ソフトの事業を検討しているなら、次のように整理できます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「調査結果はそろっているのに参入や検証の判断が進まない場合は、」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「調査結果を報告する際に迷いやすい、非公開情報・AIの利用・数字の不一致について答えます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「調査結果を、次の事業判断に使える形へ」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「最初に決めるのは、その調査結果を何の判断に使うのかという一文です」（https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/）
+
+## 大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API）（e-Stat user guide university library statistics code database API）
+- 文脈：統計
+- 手順・やり方：
+  - 「総務省eStatで公開されている政府統計データを取得する方法は、下記の通りです」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「この記事では、主に2つ目の方法（」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「2.1 データ取得手順」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「Step 1: eStat API のアプリケーションIDを取得する」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「Step 2: HTTP GETをコールして、APIからレスポンス（データ）を受け取る」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「APIの細かい使い方は、」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「Request a HTTP GET method to the given url (for REST API)」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「Request some HTTP GET methods to the given urls (for REST API)」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「(!! This method uses multi threading when calling HTTP GET requests」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「max number of working threads of CPUs within executing this method.」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+- 一次情報の探し方：
+  - 「Pythonでe-Stat APIを使う #WebScraping - Qiita」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「総務省eStatで公開されている政府統計データを取得する方法は、下記の通りです」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「0. 政府統計とは」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「とは、日本の行政機関（中央省庁＋地方自治体）が実施している統計調査の総称である」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「それぞれの統計調査は実施主体（〇〇省，〇〇庁，〇〇県など）ごとに管理していたようだが、最近では、ほぼすべての政府統計が」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「は、総務省統計局が主管する政府統計データベースを一般向けに公開しているサービスである」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「件の政府統計（テーブル）が登録されており、調査時期（年・月単位）や集計地域（国・都道府県・市区町村）ごとに分割された」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「では、672件ある政府統計を「統計分野」「組織」「統計の種類」「提供周期」で分けている」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「またデータを取得する場合、それぞれの政府統計に対して、さらに調査時期（年・月単位）や集計地域（国・都道府県・市区町村）によって絞る）」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「例えば、672件ある政府統計は「統計分野 (17)」と「組織 (14)」でまとめると次表のように整理される」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「の検索機能を使い、どのような政府統計があるかを把握すると良い」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「eStatで公開されているデータは、政府統計コードや統計表IDで識別される」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「「政府統計コード」： 政府統計に割り当てられたユニークID．」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「「統計表ID」： 政府統計に含まれる統計表に割り当てられたユニークID．」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「たとえば、国勢調査の政府統計コードは」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+- 実例：
+  - 「具体的には、PythonでWeb APIを扱う他のケースと同じように、」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「例えば、672件ある政府統計は「統計分野 (17)」と「組織 (14)」でまとめると次表のように整理される」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「例として、「家計調査 / 家計収支編 二人以上の世帯 詳細結果表」にアクセスする際の」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「ケース1: 国勢調査(2015) 「人口等基本集計」のダウンロード」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「./example1.json」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「ケース2: 総務省 「社会・人口統計体系」のダウンロード」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「参照したい政府統計に対して、一連の処理をすべてPythonスクリプトとして作成して、1つのパイプラインジョブにまとめれば、あとはスケジューラ(Airflow)を使って実行タイミングや実行結果のモニタリングを適切に設定すれば、APIからDWHへとデータを連携するためのバッチ処理が完成します．」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）

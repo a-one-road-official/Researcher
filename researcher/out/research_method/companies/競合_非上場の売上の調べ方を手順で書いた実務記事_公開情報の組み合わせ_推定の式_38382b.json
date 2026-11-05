@@ -1,0 +1,2308 @@
+{
+ "name": "競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例）",
+ "en": "how to research competitor revenue private company step by step sources",
+ "aliases": [
+  "競合 売上 調べ方 非上場 手順",
+  "競合調査 売上 推定 公開情報",
+  "competitor revenue research private company sources"
+ ],
+ "context": "推定",
+ "kind": "market",
+ "researched_at": "2026-11-05T19:12:25.377131+00:00",
+ "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "上場企業はIR資料やEDINET、非上場企業は会社概要・公表資料・決算公告",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公式サイトの「IR情報」「投資家情報」「決算」「会社概要」から探すと、資料の出所を確認しやすくなります",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索する場合も、会社名に「売上高」「決算短信」「有価証券報告書」「決算公告」などを組み合わせます",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社概要、IR資料、決算説明資料、公表された業績",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算短信、業績予想の修正、事業に関する開示",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上場企業の売上を、IR・EDINET・決算短信で調べる",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IR資料で決算の数字と事業別の内訳を確認する図",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IR資料では、まず決算短信や有価証券報告書から対象年度の売上・利益を確認します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算説明資料は、増減の背景、事業別の動き、会社が説明する今後の方針を読む補助になります",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "EDINETは、金融商品取引法に基づく有価証券報告書などを検索・閲覧する金融庁のシステムです",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対象の有価証券報告書を開いたら、主要な経営指標、経営成績の説明、連結損益計算書、セグメント情報などを確認します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、非上場でも有価証券報告書を提出する企業があるため、上場していないことだけを理由に検索対象から外す必要はありません",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "金融庁は、EDINETを、有価証券報告書などの提出から公衆縦覧までを電子化するシステムと説明し、正規の閲覧サイトを案内しています",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "適時開示では、最新の決算と業績予想の変更を見る",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算短信や業績予想の修正は、企業のIRサイトや日本取引所グループの適時開示情報から探せます",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業の売上は、公式サイトの会社概要・採用資料、親会社の開示資料、決算公告、企業資料などから調べられます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、決算公告があっても、売上高まで載っているとは限りません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告・無料の企業概要・有料情報で分かる範囲を区別する",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算情報があっても売上高が載っているとは限りません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開されている書類と、その対象会社・決算期を確認します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "貸借対照表は決算日時点の資産・負債・純資産を示す書類です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最初に押さえたいのは、決算情報があることと、売上高が載っていることは別だという点です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社の決算公告は、原則として貸借対照表が対象となり、大会社では損益計算書も対象になります（",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、有価証券報告書の提出義務がある株式会社には同条4項の例外があります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、非上場でも一定の条件で有価証券報告書を提出する企業があります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "でも、非上場企業の確認先として有価証券報告書、決算公告、会社資料などが挙げられています",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "正式社名を特定し、公式資料、親会社・EDINET、決算公告、図書館資料の順に探し、数字と出所を一緒に残します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "社名変更や本店移転がある場合は、過去の名称でも探すと古い決算資料にたどり着くことがあります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. 公式サイトの会社概要・採用情報・決算資料を読む",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公式サイトの会社概要、採用ページ、ニュース、決算・IR資料、電子公告を確認します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事では、無料で誰でも見られる公的な情報源と、各プラットフォームが公開している広告の一覧だけを使って、競合の輪郭を確かめる順番を整理します",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これらは公開情報より先に当たるべき一次情報で、しかも自社にしかありません",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的な情報源は、誰が何を目的に公開しているかがはっきりしているため、出どころの分からない数字とは扱いが違います",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "金融商品取引法にもとづく有価証券報告書等の開示書類",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特許・実用新案・意匠・商標と、審決の検索",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "似た商号の会社を取り違えていないか、登記上の所在地はどこかといった、あとから効いてくる基本を、公的な記録として確かめられるからです",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "EDINETは、金融庁が説明しているとおり、金融商品取引法に基づく有価証券報告書等の開示書類に関する電子開示システムです",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書には、事業の内容、セグメントごとの状況、従業員の数、経営方針や経営環境についての記述が、一定の書式で並びます",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算期をまたぐと状況は変わりますし、開示書類は提出されたときの記録として残ります",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "官報は行政機関の休日を除き毎日発行され、会社法にもとづく法定公告が掲載されます",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "官報のサイトでは、直近90日間は全て無料で閲覧できると案内されています",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "つまり、いま調べたい会社の決算公告が、たまたま直近のものであれば無料で確認できます",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告で得られるのは、貸借対照表の要旨など、公告として出された範囲に限られます",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "INPITが提供するJ-PlatPatは、無料で特許情報の検索・閲覧サービスを提供しています",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "扱うのは特許、実用新案、意匠、商標で、審決も検索できます",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Competitive intelligence sources are the people, records, and data feeds that show what your rivals are doing and why customers might choose them. Most are already within reach. Your sales calls, supplier conversations, customer reviews, job boards, and public filings all qualify.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Primary sources are information you collect firsthand. Secondary sources are information someone else has already collected or published. Strong programs use both, plus a third group called internal intelligence, which covers what your own teams already hear.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Reviews, competitor websites, SEC filings, patents, news, job postings",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Use secondary sources to spot what changed. Use primary sources to learn why it matters.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A new market segment calls for industry associations, conferences, filings, and a market survey.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "People are your richest primary sources because they explain why buyers choose one company over another. Five groups are the most productive to ask:",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Public filings and patents",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "9. Public filings and patents",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For US companies, public filings and patent records rank among the most reliable secondary sources. Public companies must file reports with the Securities and Exchange Commission (SEC), and anyone can read them for free in EDGAR, the SEC’s",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "public filing database",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Public websites, filings, patents, and press releases",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Public sources such as SEC filings, patents, websites, reviews, and press releases are legal to use. Risk begins when someone obtains trade secrets through deception, theft, or a breach of confidentiality. This is general information, so ask an attorney to review your policy.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "非公開や未確認の数字を、0や推定の実績で埋めません",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同名の別会社との混同も避け、所在地、事業内容、証券コードなどで対象を照合します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社が説明する増収の理由と、自分が考えた仮説も分けます",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "貸借対照表に当期純利益が記載されていても、そこから売上は逆算できません",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実績、会社予想、第三者の推計",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "資産、純資産、当期純利益の金額から売上を逆算せず、売上が掲載された資料がなければ未確認として残します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アクセス数や従業員数から競合の売上を推定できますか？",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推計する場合も、購入率や単価、生産性などの前提に左右されます",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、無料で探す5ステップ、有料サービスの選び方、売上が不明なときの推定方法を解説します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "イノベーション総研の888名調査と実務向けの記録例も使い、調べた数字を参入判断や次の顧客検証へつなげる方法まで整理します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "単体と連結、売上高と取扱高、実績と推定を混ぜない",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公告が見つかったら、対象会社と決算期を照合し、損益計算書に売上高の記載があるかを読みます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対象企業が多い、事業別の売上まで整理したい、情報同士の矛盾を調べる必要がある場合は、調査会社への依頼も選択肢です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "06 撤退の規律：調べ続けて検証へ進めない",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合調査の先にある、顧客検証を進める",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "イノベーション総研が、顧客仮説の整理から検証計画、事業立ち上げまで支援します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業の実績発表、第三者の収録値、自社の推定値",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業の売上が分からないときは、推定値と確認済みの数字を分ける",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "売上が不明な場合は顧客数と単価から幅を置いて試算し、実績と推定、年間売上と期末の年換算値を分けます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その場合は、売上の実績を「発見した」のではなく、前提を置いて「推定した」と明示します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推定対象はこのサービスの売上であり、会社全体の売上とは限りません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、推定に必要な考え方は、",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推定の幅が意思決定を変える場合だけ、追加調査する",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "あわせて、公開情報では届かない領域をはっきりさせ、そこを推計で埋めずに扱う方法まで扱います",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "換算すると、あとで原文と突き合わせられなくなります",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公表資料を一件ずつ突き合わせる作業のイメージです",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推計で埋めるのではなく、仮説として印を付けて残します",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推測のまま残し、事実と混ざらないようにしておけば、あとで公表された情報と突き合わせられます",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "右側は捨てずに、仮説の欄へ移します",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "差が見つかったら、それを自社の仮説として書き直します",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして、その仮説は自社の側で検証します",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここを推計で埋めず、仮説として印を付けて残します",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Cross-check important claims with a second, independent source.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "この記事では、無料で確認できる情報源、非上場企業を調べる方法、売上と利益率を比べる手順を解説します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合分析とは？やり方6ステップ・比較項目・フレームワーク10選",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合の選び方、調査項目と施策へつなぐ手順を紹介します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社法440条は、株式会社の計算書類の公告について、対象書類と方法、有価証券報告書提出会社の適用除外を定めています",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "G-Searchは、帝国データバンク・東京商工リサーチの企業情報で非上場企業の業績を確認する方法を紹介しています",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業会計基準のセグメント情報の定めでは、外部顧客への売上高とセグメント間の内部売上高を分け、測定方法なども開示対象としています",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "項目名、算定方法、注記",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合シェアの調べ方｜情報源・計算方法と比較の注意点",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場シェアを調べる情報源と、比較範囲をそろえる方法を解説します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公表された実績と分け、算定方法や対象範囲、誤差の可能性を明記します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同じ条件に見えて差が残る場合は、出所と算定方法を確認し、不明点を注記します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ｜ナレッジ｜イノベーション総合研究所",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、無料で探す5ステップ、有料サービスの選び方、売上が不明なときの推定方法を解説します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "イノベーション総研の888名調査と実務向けの記録例も使い、調べた数字を参入判断や次の顧客検証へつなげる方法まで整理します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場かどうかだけで、同じ開示方法になるとは限りません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業の売上の調べ方は、無料の情報を探す5ステップから",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "03 実行体制：情報を集める担当と手順が曖昧",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "無料の5ステップを見る →",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "次は、計算方法を説明するための架空例です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従業員数に業界平均の1人あたり売上を掛ける方法もありますが、実際には、外注の多さ、卸売かサービス業か、兼業の有無で結果は大きく変わります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、競合の伸びが想定より小さければ、価格、対象顧客、販売方法のどれを追加確認するかまで記録します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規事業の市場調査のやり方｜調べて終わらない4ステップと具体例",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合調査のやり方｜公開情報だけで確かめる手順と情報源 | 株式会社セイビー",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "あわせて、公開情報では届かない領域をはっきりさせ、そこを推計で埋めずに扱う方法まで扱います",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報源ごとの使い方と、載っている範囲",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特定の地域で新しく設立された会社を定期的に把握したい場合は、この差分データを使う方法があります",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "相手の訴求語を自社のキーワード設計に生かす方法は",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "生成AIに相手の売上や利用者数を尋ねて埋める、という進め方も避けてください",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開されていないことを知ろうとして、相手に直接近づく方法を取らないでください",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "購入を検討しているふりをして見積もりだけを取る、身分を伏せて相手の担当者に問い合わせる、相手の従業員から社内資料を持ち出させる、といったやり方です",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開されているページでも、取得の方法まで自由とは限りません",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事は情報源の所在と読み方を整理したものであり、個別の調査方法が法令や契約に適合するかどうかを判断するものではありません",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In this guide, we’ll cover 12 sources, show how to match them to a decision, and explain how to stay ethical, measure results, and avoid common mistakes.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Which active research methods go beyond public information?",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "step-by-step competitive analysis guide",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "walks through the framework.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Start with the decision, not the source list. A source earns a place on your list only if it helps answer a question tied to something you will actually do. These five steps keep the work focused.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "News and social channels give you real-time signals if you set them up once and check them on a schedule. Social listening means tracking mentions of a brand or topic across social platforms. It shows how customers talk about a rival right now. Set it up in five steps:",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Active methods cost more, but they answer questions public data cannot. Use them when a decision carries real money or risk. Two stand out:",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Learn everything about Net Promoter Score (NPS) and the Net Promoter Question. Get a clear view on the universal Net Promoter Score Formula, how to undertake Net Promoter Score Calculation followed by a simple Net Promoter Score Example.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "競合シェアの調べ方｜情報源・計算方法と比較の注意点",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、ページに更新日があっても、売上の対象年度が新しいとは限らない点に注意してください",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗への懸念を伝え、軌道修正につながったと回答した材料",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注意したいのは、書かれている数字がいつ時点のものかです",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In this guide, we’ll cover 12 sources, show how to match them to a decision, and explain how to stay ethical, measure results, and avoid common mistakes.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What common mistakes make competitive intelligence sources useless?",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Personal bias and scattered records",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Better answers come from curiosity, clear questions, and a customer-first frame. The biggest mistake is getting defensive because the topic is a competitor. People sense that tension and share less.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Most failures come from process, not from missing information. These mistakes show up most often:",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "例えば会社が買収の影響を説明しているなら、売上増加をそのまま既存事業の顧客獲得力と捉えないようにします",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実在企業の調査結果やDSSの実績ではありません",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、単位が「百万円」の表にある「1,200」は、1,200万円ではなく12億円です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索結果が3件あることを「3つの独立した情報で確認できた」とは扱いません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば月額3万円で、年間平均200契約、期末時点では300契約まで増えた架空のサービスを考えます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従業員数に業界平均の1人あたり売上を掛ける方法もありますが、実際には、外注の多さ、卸売かサービス業か、兼業の有無で結果は大きく変わります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これは大企業の新規事業関与者が、直近の経験に最も近い選択肢を一つ選んだ結果で、非上場企業の売上の公開状況を調べたものではありません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、競合の伸びが想定より小さければ、価格、対象顧客、販売方法のどれを追加確認するかまで記録します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、発注支援ソフトの事業を検討しているなら、次のように整理できます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果はそろっているのに参入や検証の判断が進まない場合は、",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果を報告する際に迷いやすい、非公開情報・AIの利用・数字の不一致について答えます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果を、次の事業判断に使える形へ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最初に決めるのは、その調査結果を何の判断に使うのかという一文です",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Googleの広告の透明性については、広告主またはウェブサイトの名前で検索でき、日付や対象地域などで結果を絞り込めます",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example: “We will buy this equipment if we can sell 10,000 more units.” That number tells you what evidence counts.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Good examples include “What are you hearing about lead times this quarter?” and “Are buyers asking more about a particular feature?” Skip anything that asks for a rival’s pricing or volumes. If a supplier hesitates, drop the topic and move on. That respect protects the relationship and keeps you on the right side of the line.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case Studies (27)",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Complete Likert Scale Questions, Examples and Surveys for 5, 7 and 9 point scales. Learn everything about Likert Scale with corresponding example for each question and survey demonstrations.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Learn everything about Net Promoter Score (NPS) and the Net Promoter Question. Get a clear view on the universal Net Promoter Score Formula, how to undertake Net Promoter Score Calculation followed by a simple Net Promoter Score Example.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/tsunobuchi/n/nfb921e361805",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/n41abb6bcd142",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/honda_crosscom/n/n2b7e5eb5cc79",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tsunobuchi/n/n30a2a77c74fc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/comix_ceo162230/n/n7c57a7770dfe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/n535b7dc1a668",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/key_maneylab/n/n4b8926568aa8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/stock_up/n/n2811e4e7d648",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuro_reboot/n/n1f2a985c8a09",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/promptdesign/n/nb6640107f8e2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.help-note.com/hc/ja/articles/42691602684057-%E5%85%B1%E5%90%8C%E9%81%8B%E5%96%B6%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3%E3%81%AB%E8%BF%BD%E5%8A%A0%E3%81%95%E3%82%8C%E3%81%9F%E6%9C%89%E6%96%99%E8%A8%98%E4%BA%8B%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%81%AF%E8%AA%B0%E3%81%AE%E3%82%82%E3%81%AE%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://espers.co.jp/column/17811/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kuroco.team/blog-data-kokaidata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://asana.com/ja/resources/competitive-analysis-example",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpo.go.jp/resources/report/sonota/document/zaisanken-seidomondai/2023_06_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://telecom.nikkei.co.jp/blog/3448/?from=login_title",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.g-search.jp/2024/12/20/01062.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jo-katsu.com/campus/4396/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coursera.org/articles/competitor-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uschamber.com/co/start/strategy/how-to-conduct-competitive-research",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.antler.co/blog/startup-competitor-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ProductManagement/comments/1fjslkm/how_do_you_guys_do_competitor_analysis/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/blog/small-business/what-is-competitor-anaylsis/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例） site:note.com",
+   "results": [
+    "https://note.com/tsunobuchi/n/nfb921e361805",
+    "https://note.com/kagawatomo/n/n41abb6bcd142",
+    "https://note.com/honda_crosscom/n/n2b7e5eb5cc79",
+    "https://note.com/tsunobuchi/n/n30a2a77c74fc",
+    "https://note.com/comix_ceo162230/n/n7c57a7770dfe",
+    "https://note.com/kagawatomo/n/n535b7dc1a668",
+    "https://note.com/kagawatomo/n/n455c241c3a9f",
+    "https://note.com/kagawatomo/n/n0f5fcb738bcf",
+    "https://note.com/kagawatomo/n/n5c2a409db4db",
+    "https://note.com/kagawatomo/n/n283e60c221b4"
+   ]
+  },
+  {
+   "query": "競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例） note",
+   "results": [
+    "https://note.com/key_maneylab/n/n4b8926568aa8",
+    "https://note.com/stock_up/n/n2811e4e7d648",
+    "https://note.com/tatsuro_reboot/n/n1f2a985c8a09",
+    "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "https://note.com/promptdesign/n/nb6640107f8e2",
+    "https://www.help-note.com/hc/ja/articles/42691602684057-%E5%85%B1%E5%90%8C%E9%81%8B%E5%96%B6%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3%E3%81%AB%E8%BF%BD%E5%8A%A0%E3%81%95%E3%82%8C%E3%81%9F%E6%9C%89%E6%96%99%E8%A8%98%E4%BA%8B%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%81%AF%E8%AA%B0%E3%81%AE%E3%82%82%E3%81%AE%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B",
+    "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
+    "https://espers.co.jp/column/17811/",
+    "https://note.com/zaimani_com/n/n55c23417fd36",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+   ]
+  },
+  {
+   "query": "競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例） やり方",
+   "results": [
+    "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "https://espers.co.jp/column/17811/",
+    "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/",
+    "https://kuroco.team/blog-data-kokaidata/",
+    "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
+    "https://asana.com/ja/resources/competitive-analysis-example",
+    "https://nvs.nikkei.co.jp/solutions/",
+    "https://www.jpo.go.jp/resources/report/sonota/document/zaisanken-seidomondai/2023_06_zentai.pdf",
+    "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/"
+   ]
+  },
+  {
+   "query": "競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例） 事例",
+   "results": [
+    "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "https://espers.co.jp/column/17811/",
+    "https://www.choosenic.com/yuho-shukatsu-navi/articles/guide/non-listed-company-research/",
+    "https://kuroco.team/blog-data-kokaidata/",
+    "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
+    "https://www.jpo.go.jp/resources/report/sonota/document/zaisanken-seidomondai/2023_06_zentai.pdf",
+    "https://telecom.nikkei.co.jp/blog/3448/?from=login_title",
+    "https://note.com/tsunobuchi/n/nfb921e361805",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+   ]
+  },
+  {
+   "query": "how to research competitor revenue private company step by step sources",
+   "results": [
+    "https://www.coursera.org/articles/competitor-analysis",
+    "https://www.uschamber.com/co/start/strategy/how-to-conduct-competitive-research",
+    "https://www.antler.co/blog/startup-competitor-analysis",
+    "https://www.reddit.com/r/ProductManagement/comments/1fjslkm/how_do_you_guys_do_competitor_analysis/",
+    "https://www.questionpro.com/blog/10-competitive-information-sources-that-are-right-in-front-of-you/",
+    "https://www.salesforce.com/blog/small-business/what-is-competitor-anaylsis/",
+    "https://www.squarespace.com/blog/competitive-analysis-research",
+    "https://www.xero.com/us/guides/how-to-do-competitor-analysis/",
+    "https://guides.lib.unc.edu/market-research-tutorial/competitors",
+    "https://www.flares.tech/sources/competitor-revenue"
+   ]
+  },
+  {
+   "query": "site:note.com 競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例）",
+   "results": [
+    "https://note.com/honda_crosscom/n/n2b7e5eb5cc79",
+    "https://note.com/comix_ceo162230/n/n7c57a7770dfe",
+    "https://note.com/kagawatomo/n/n455c241c3a9f",
+    "https://note.com/kagawatomo/n/n283e60c221b4",
+    "https://note.com/kagawatomo/n/n5c2a409db4db",
+    "https://biz.note.com/magazines",
+    "https://note.com/omanyuk/n/n6c9b8885a7b9",
+    "https://note.com/m_taguchi/n/ne49687df4e57",
+    "https://note.com/kagawatomo/n/nefcfe2cd0c1f",
+    "https://note.com/shintakai/n/n1bab29aa1ae6"
+   ]
+  },
+  {
+   "query": "site:x.com 競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例）",
+   "results": [
+    "https://x.com/zakiryo1533/article/2076676054467727432",
+    "https://x.com/masahirochaen/status/2051281504781934905",
+    "https://x.com/zakiryo1533/article/2065096178136682867",
+    "https://x.com/KagawaTomo/article/2064280932966908257",
+    "https://x.com/kawai_design/article/2087320120272236676",
+    "https://x.com/miyabi_foxx/article/2079083859162128661",
+    "https://x.com/masahirochaen/status/2027012182492553348",
+    "https://x.com/masahirochaen/status/2048684589997330770",
+    "https://x.com/shota7180/article/2081937702703038658",
+    "https://x.com/masahirochaen/status/2048685375124807980"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例）",
+   "results": [
+    "https://jp.linkedin.com/company/leverages-us",
+    "https://jp.linkedin.com/pulse/20vc-x-saastr-back-anthropic-eating-openais-lunch-figmas-lemkin-xdf2c?tl=ja",
+    "https://jp.linkedin.com/in/youngjoo-jung/en",
+    "https://jp.linkedin.com/in/takeshi-kikui",
+    "https://jp.linkedin.com/pulse/berlin-sealing-leaks-games-industry-law-summit-t003e?tl=ja",
+    "https://jp.linkedin.com/in/yusuke-aiba",
+    "https://jp.linkedin.com/company/tempura-technologies-inc",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E6%A1%88%E4%BB%B6no-1551%EF%BC%9E%E3%80%90%EF%BD%9E1380%E4%B8%87%E5%86%86%E3%80%91%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA%EF%BC%88%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%EF%BC%89%EF%BD%9C%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%AC%A1%E3%81%AE%E4%BA%8B%E6%A5%AD%E3%81%AE%E6%9F%B1%E3%82%92%E8%87%AA%E5%88%86%E3%81%AE%E6%89%8B%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%EF%BD%9C%E6%A7%8B%E6%83%B3%E3%81%8B%E3%82%89%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%83%BB%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B9%E3%81%BE%E3%81%A7%E4%B8%80%E8%B2%AB%E3%81%97%E3%81%A6%E6%8B%85%E3%81%86-at-linkard-inc-4485697939",
+    "https://www.linkedin.com/in/rikutakahashi",
+    "https://jp.linkedin.com/pulse/netnut-takedown-fbi-google-exposes-gap-you-need-close-bhaumik-gu19e?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例）",
+   "results": [
+    "https://www.facebook.com/kidera.yoshi/",
+    "https://www.facebook.com/logly.co.jp/",
+    "https://www.facebook.com/daishi.yasa/",
+    "https://www.facebook.com/shosan.mk/",
+    "https://www.facebook.com/kotatsuneko/",
+    "https://www.facebook.com/shosan.mk/posts/%E5%BE%A1%E7%A4%BCyoutube%E4%BD%8F%E5%AE%85%E4%BC%9A%E7%A4%BE%E3%81%AEai%E3%82%BC%E3%83%9F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E7%99%BB%E9%8C%B2%E8%80%851%E4%B8%87%E4%BA%BA%E3%82%92%E7%AA%81%E7%A0%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F5%E6%9C%88%E3%81%AB1%E6%9C%AC%E7%9B%AE%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9Fai%E3%81%AE%E6%83%85%E5%A0%B1%E3%81%AF%E3%81%84%E3%81%8F%E3%82%89%E3%81%A7%E3%82%82%E3%81%82%E3%82%8B%E3%81%AE%E3%81%AB%E3%81%86%E3%81%A1%E3%81%AE%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%81%93%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%A7%E3%81%A9%E3%81%86%E4%BD%BF%E3%81%86%E3%81%AE/1620539849857320/",
+    "https://www.facebook.com/hisho1214/?locale=ja_JP",
+    "https://www.facebook.com/100083033777264?locale=gl_ES",
+    "https://www.facebook.com/1217588311430428/",
+    "https://www.facebook.com/anagramsinc/posts/競合分析シート作成のコツ自社競合ともに一覧表にまとめて可視化する比較項目はサービスに応じて決める強みをハイライトしておく口コミなど定性的データも入れるlpのファ/5549763918413262/"
+   ]
+  },
+  {
+   "query": "競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例） note 社長",
+   "results": [
+    "https://note.com/key_maneylab/n/n4b8926568aa8",
+    "https://note.com/tatsuro_reboot/n/n1f2a985c8a09",
+    "https://note.com/promptdesign/n/nb6640107f8e2",
+    "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "https://note.com/zaimani_com/n/n55c23417fd36",
+    "https://note.com/mudakezuri/n/n28ae341a6135",
+    "https://espers.co.jp/column/17811/",
+    "https://webtan.impress.co.jp/e/2025/12/08/51787",
+    "https://note.com/kotobashira/n/n5f24357b6fdb",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+   ]
+  },
+  {
+   "query": "競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例） X 投稿",
+   "results": [
+    "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "https://espers.co.jp/column/17811/",
+    "https://x.com/miyabi_foxx/article/2079083859162128661",
+    "https://www.jpo.go.jp/support/example/ip-landscape-guide/document/index/all_guidebook.pdf",
+    "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
+    "https://sinis-x.tetemarche.co.jp/blog/x-competitive-analysis",
+    "https://debono.co.jp/media/kyogo-mei-kokoku/",
+    "https://jicpa.or.jp/specialized_field/publication/files/2-3-32-2a-20130722.pdf",
+    "https://j-net21.smrj.go.jp/startup/manual/list5/5-2-9.html",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+   ]
+  },
+  {
+   "query": "how to research competitor revenue private company step by step sources site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/how-conduct-market-research-competitor-analysis-gregory-brown-vexnc",
+    "https://www.linkedin.com/posts/sashareid_how-ai-has-changed-competitor-analysis-turning-activity-7519170767935361025-9Fhf",
+    "https://uk.linkedin.com/company/watchmycompetitor-co-ltd",
+    "https://www.linkedin.com/posts/colemoir_the-next-time-someone-asks-you-to-copy-a-activity-7518346730506043393-LU1N",
+    "https://uk.linkedin.com/company/thebusinessresearchcompany",
+    "https://business.linkedin.com/sell/resources/sales-terms/battle-card",
+    "https://www.linkedin.com/help/linkedin/answer/a553615",
+    "https://www.linkedin.com/in/jeremeydonovan",
+    "https://www.linkedin.com/in/jeffreyphawkins",
+    "https://uk.linkedin.com/company/comparables-ai"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "上場企業はIR資料やEDINET、非上場企業は会社概要・公表資料・決算公告",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公式サイトの「IR情報」「投資家情報」「決算」「会社概要」から探すと、資料の出所を確認しやすくなります",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索する場合も、会社名に「売上高」「決算短信」「有価証券報告書」「決算公告」などを組み合わせます",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社概要、IR資料、決算説明資料、公表された業績",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算短信、業績予想の修正、事業に関する開示",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上場企業の売上を、IR・EDINET・決算短信で調べる",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IR資料で決算の数字と事業別の内訳を確認する図",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IR資料では、まず決算短信や有価証券報告書から対象年度の売上・利益を確認します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算説明資料は、増減の背景、事業別の動き、会社が説明する今後の方針を読む補助になります",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "EDINETは、金融商品取引法に基づく有価証券報告書などを検索・閲覧する金融庁のシステムです",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対象の有価証券報告書を開いたら、主要な経営指標、経営成績の説明、連結損益計算書、セグメント情報などを確認します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、非上場でも有価証券報告書を提出する企業があるため、上場していないことだけを理由に検索対象から外す必要はありません",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "金融庁は、EDINETを、有価証券報告書などの提出から公衆縦覧までを電子化するシステムと説明し、正規の閲覧サイトを案内しています",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "適時開示では、最新の決算と業績予想の変更を見る",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算短信や業績予想の修正は、企業のIRサイトや日本取引所グループの適時開示情報から探せます",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業の売上は、公式サイトの会社概要・採用資料、親会社の開示資料、決算公告、企業資料などから調べられます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、決算公告があっても、売上高まで載っているとは限りません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告・無料の企業概要・有料情報で分かる範囲を区別する",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算情報があっても売上高が載っているとは限りません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開されている書類と、その対象会社・決算期を確認します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "貸借対照表は決算日時点の資産・負債・純資産を示す書類です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最初に押さえたいのは、決算情報があることと、売上高が載っていることは別だという点です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社の決算公告は、原則として貸借対照表が対象となり、大会社では損益計算書も対象になります（",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、有価証券報告書の提出義務がある株式会社には同条4項の例外があります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、非上場でも一定の条件で有価証券報告書を提出する企業があります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "でも、非上場企業の確認先として有価証券報告書、決算公告、会社資料などが挙げられています",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "正式社名を特定し、公式資料、親会社・EDINET、決算公告、図書館資料の順に探し、数字と出所を一緒に残します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "社名変更や本店移転がある場合は、過去の名称でも探すと古い決算資料にたどり着くことがあります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. 公式サイトの会社概要・採用情報・決算資料を読む",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公式サイトの会社概要、採用ページ、ニュース、決算・IR資料、電子公告を確認します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事では、無料で誰でも見られる公的な情報源と、各プラットフォームが公開している広告の一覧だけを使って、競合の輪郭を確かめる順番を整理します",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これらは公開情報より先に当たるべき一次情報で、しかも自社にしかありません",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的な情報源は、誰が何を目的に公開しているかがはっきりしているため、出どころの分からない数字とは扱いが違います",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "金融商品取引法にもとづく有価証券報告書等の開示書類",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特許・実用新案・意匠・商標と、審決の検索",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "似た商号の会社を取り違えていないか、登記上の所在地はどこかといった、あとから効いてくる基本を、公的な記録として確かめられるからです",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "EDINETは、金融庁が説明しているとおり、金融商品取引法に基づく有価証券報告書等の開示書類に関する電子開示システムです",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "有価証券報告書には、事業の内容、セグメントごとの状況、従業員の数、経営方針や経営環境についての記述が、一定の書式で並びます",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算期をまたぐと状況は変わりますし、開示書類は提出されたときの記録として残ります",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "官報は行政機関の休日を除き毎日発行され、会社法にもとづく法定公告が掲載されます",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "官報のサイトでは、直近90日間は全て無料で閲覧できると案内されています",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "つまり、いま調べたい会社の決算公告が、たまたま直近のものであれば無料で確認できます",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算公告で得られるのは、貸借対照表の要旨など、公告として出された範囲に限られます",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "INPITが提供するJ-PlatPatは、無料で特許情報の検索・閲覧サービスを提供しています",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "扱うのは特許、実用新案、意匠、商標で、審決も検索できます",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Competitive intelligence sources are the people, records, and data feeds that show what your rivals are doing and why customers might choose them. Most are already within reach. Your sales calls, supplier conversations, customer reviews, job boards, and public filings all qualify.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Primary sources are information you collect firsthand. Secondary sources are information someone else has already collected or published. Strong programs use both, plus a third group called internal intelligence, which covers what your own teams already hear.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Reviews, competitor websites, SEC filings, patents, news, job postings",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Use secondary sources to spot what changed. Use primary sources to learn why it matters.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A new market segment calls for industry associations, conferences, filings, and a market survey.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "People are your richest primary sources because they explain why buyers choose one company over another. Five groups are the most productive to ask:",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Public filings and patents",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "9. Public filings and patents",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For US companies, public filings and patent records rank among the most reliable secondary sources. Public companies must file reports with the Securities and Exchange Commission (SEC), and anyone can read them for free in EDGAR, the SEC’s",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "public filing database",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Public websites, filings, patents, and press releases",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Public sources such as SEC filings, patents, websites, reviews, and press releases are legal to use. Risk begins when someone obtains trade secrets through deception, theft, or a breach of confidentiality. This is general information, so ask an attorney to review your policy.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "非公開や未確認の数字を、0や推定の実績で埋めません",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同名の別会社との混同も避け、所在地、事業内容、証券コードなどで対象を照合します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社が説明する増収の理由と、自分が考えた仮説も分けます",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "貸借対照表に当期純利益が記載されていても、そこから売上は逆算できません",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実績、会社予想、第三者の推計",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "資産、純資産、当期純利益の金額から売上を逆算せず、売上が掲載された資料がなければ未確認として残します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アクセス数や従業員数から競合の売上を推定できますか？",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推計する場合も、購入率や単価、生産性などの前提に左右されます",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、無料で探す5ステップ、有料サービスの選び方、売上が不明なときの推定方法を解説します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "イノベーション総研の888名調査と実務向けの記録例も使い、調べた数字を参入判断や次の顧客検証へつなげる方法まで整理します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "単体と連結、売上高と取扱高、実績と推定を混ぜない",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公告が見つかったら、対象会社と決算期を照合し、損益計算書に売上高の記載があるかを読みます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対象企業が多い、事業別の売上まで整理したい、情報同士の矛盾を調べる必要がある場合は、調査会社への依頼も選択肢です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "06 撤退の規律：調べ続けて検証へ進めない",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合調査の先にある、顧客検証を進める",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "イノベーション総研が、顧客仮説の整理から検証計画、事業立ち上げまで支援します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業の実績発表、第三者の収録値、自社の推定値",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業の売上が分からないときは、推定値と確認済みの数字を分ける",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "売上が不明な場合は顧客数と単価から幅を置いて試算し、実績と推定、年間売上と期末の年換算値を分けます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その場合は、売上の実績を「発見した」のではなく、前提を置いて「推定した」と明示します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推定対象はこのサービスの売上であり、会社全体の売上とは限りません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、推定に必要な考え方は、",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推定の幅が意思決定を変える場合だけ、追加調査する",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "あわせて、公開情報では届かない領域をはっきりさせ、そこを推計で埋めずに扱う方法まで扱います",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "換算すると、あとで原文と突き合わせられなくなります",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公表資料を一件ずつ突き合わせる作業のイメージです",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推計で埋めるのではなく、仮説として印を付けて残します",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推測のまま残し、事実と混ざらないようにしておけば、あとで公表された情報と突き合わせられます",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "右側は捨てずに、仮説の欄へ移します",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "差が見つかったら、それを自社の仮説として書き直します",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして、その仮説は自社の側で検証します",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここを推計で埋めず、仮説として印を付けて残します",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Cross-check important claims with a second, independent source.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "この記事では、無料で確認できる情報源、非上場企業を調べる方法、売上と利益率を比べる手順を解説します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合分析とは？やり方6ステップ・比較項目・フレームワーク10選",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合の選び方、調査項目と施策へつなぐ手順を紹介します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社法440条は、株式会社の計算書類の公告について、対象書類と方法、有価証券報告書提出会社の適用除外を定めています",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "G-Searchは、帝国データバンク・東京商工リサーチの企業情報で非上場企業の業績を確認する方法を紹介しています",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業会計基準のセグメント情報の定めでは、外部顧客への売上高とセグメント間の内部売上高を分け、測定方法なども開示対象としています",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "項目名、算定方法、注記",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合シェアの調べ方｜情報源・計算方法と比較の注意点",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場シェアを調べる情報源と、比較範囲をそろえる方法を解説します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公表された実績と分け、算定方法や対象範囲、誤差の可能性を明記します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同じ条件に見えて差が残る場合は、出所と算定方法を確認し、不明点を注記します",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ｜ナレッジ｜イノベーション総合研究所",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、無料で探す5ステップ、有料サービスの選び方、売上が不明なときの推定方法を解説します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "イノベーション総研の888名調査と実務向けの記録例も使い、調べた数字を参入判断や次の顧客検証へつなげる方法まで整理します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場かどうかだけで、同じ開示方法になるとは限りません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業の売上の調べ方は、無料の情報を探す5ステップから",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "03 実行体制：情報を集める担当と手順が曖昧",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "無料の5ステップを見る →",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "次は、計算方法を説明するための架空例です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従業員数に業界平均の1人あたり売上を掛ける方法もありますが、実際には、外注の多さ、卸売かサービス業か、兼業の有無で結果は大きく変わります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、競合の伸びが想定より小さければ、価格、対象顧客、販売方法のどれを追加確認するかまで記録します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新規事業の市場調査のやり方｜調べて終わらない4ステップと具体例",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "競合調査のやり方｜公開情報だけで確かめる手順と情報源 | 株式会社セイビー",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "あわせて、公開情報では届かない領域をはっきりさせ、そこを推計で埋めずに扱う方法まで扱います",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報源ごとの使い方と、載っている範囲",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特定の地域で新しく設立された会社を定期的に把握したい場合は、この差分データを使う方法があります",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "相手の訴求語を自社のキーワード設計に生かす方法は",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "生成AIに相手の売上や利用者数を尋ねて埋める、という進め方も避けてください",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開されていないことを知ろうとして、相手に直接近づく方法を取らないでください",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "購入を検討しているふりをして見積もりだけを取る、身分を伏せて相手の担当者に問い合わせる、相手の従業員から社内資料を持ち出させる、といったやり方です",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開されているページでも、取得の方法まで自由とは限りません",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事は情報源の所在と読み方を整理したものであり、個別の調査方法が法令や契約に適合するかどうかを判断するものではありません",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In this guide, we’ll cover 12 sources, show how to match them to a decision, and explain how to stay ethical, measure results, and avoid common mistakes.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Which active research methods go beyond public information?",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "step-by-step competitive analysis guide",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "walks through the framework.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Start with the decision, not the source list. A source earns a place on your list only if it helps answer a question tied to something you will actually do. These five steps keep the work focused.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "News and social channels give you real-time signals if you set them up once and check them on a schedule. Social listening means tracking mentions of a brand or topic across social platforms. It shows how customers talk about a rival right now. Set it up in five steps:",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Active methods cost more, but they answer questions public data cannot. Use them when a decision carries real money or risk. Two stand out:",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Learn everything about Net Promoter Score (NPS) and the Net Promoter Question. Get a clear view on the universal Net Promoter Score Formula, how to undertake Net Promoter Score Calculation followed by a simple Net Promoter Score Example.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "競合シェアの調べ方｜情報源・計算方法と比較の注意点",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、ページに更新日があっても、売上の対象年度が新しいとは限らない点に注意してください",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗への懸念を伝え、軌道修正につながったと回答した材料",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注意したいのは、書かれている数字がいつ時点のものかです",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In this guide, we’ll cover 12 sources, show how to match them to a decision, and explain how to stay ethical, measure results, and avoid common mistakes.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What common mistakes make competitive intelligence sources useless?",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Personal bias and scattered records",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Better answers come from curiosity, clear questions, and a customer-first frame. The biggest mistake is getting defensive because the topic is a competitor. People sense that tension and share less.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Most failures come from process, not from missing information. These mistakes show up most often:",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "例えば会社が買収の影響を説明しているなら、売上増加をそのまま既存事業の顧客獲得力と捉えないようにします",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実在企業の調査結果やDSSの実績ではありません",
+    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、単位が「百万円」の表にある「1,200」は、1,200万円ではなく12億円です",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索結果が3件あることを「3つの独立した情報で確認できた」とは扱いません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば月額3万円で、年間平均200契約、期末時点では300契約まで増えた架空のサービスを考えます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従業員数に業界平均の1人あたり売上を掛ける方法もありますが、実際には、外注の多さ、卸売かサービス業か、兼業の有無で結果は大きく変わります",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これは大企業の新規事業関与者が、直近の経験に最も近い選択肢を一つ選んだ結果で、非上場企業の売上の公開状況を調べたものではありません",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、競合の伸びが想定より小さければ、価格、対象顧客、販売方法のどれを追加確認するかまで記録します",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、発注支援ソフトの事業を検討しているなら、次のように整理できます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果はそろっているのに参入や検証の判断が進まない場合は、",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果を報告する際に迷いやすい、非公開情報・AIの利用・数字の不一致について答えます",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査結果を、次の事業判断に使える形へ",
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最初に決めるのは、その調査結果を何の判断に使うのかという一文です",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Googleの広告の透明性については、広告主またはウェブサイトの名前で検索でき、日付や対象地域などで結果を絞り込めます",
+    "url": "https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example: “We will buy this equipment if we can sell 10,000 more units.” That number tells you what evidence counts.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Good examples include “What are you hearing about lead times this quarter?” and “Are buyers asking more about a particular feature?” Skip anything that asks for a rival’s pricing or volumes. If a supplier hesitates, drop the topic and move on. That respect protects the relationship and keeps you on the right side of the line.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Case Studies (27)",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Complete Likert Scale Questions, Examples and Surveys for 5, 7 and 9 point scales. Learn everything about Likert Scale with corresponding example for each question and survey demonstrations.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Learn everything about Net Promoter Score (NPS) and the Net Promoter Question. Get a clear view on the universal Net Promoter Score Formula, how to undertake Net Promoter Score Calculation followed by a simple Net Promoter Score Example.",
+    "url": "https://www.questionpro.com/blog/competitive-intelligence-sources/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-05T19:12:25.377131+00:00"
+}

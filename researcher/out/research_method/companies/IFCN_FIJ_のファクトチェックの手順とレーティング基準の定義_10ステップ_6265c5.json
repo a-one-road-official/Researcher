@@ -8,208 +8,8 @@
  ],
  "context": "",
  "kind": "market",
- "researched_at": "2026-11-05T17:15:50.180362+00:00",
+ "researched_at": "2026-11-05T19:14:41.207410+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "基本的なルール(2) 証拠に基づく検証",
-    "url": "https://fij.info/introduction/basic",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営み",
-    "url": "https://fij.info/introduction/basic",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "世の中に影響を与える言説や情報のうち、真偽が定かでないものや正確さに疑いがあるもの、事実かどうか検証されていないものが、ファクトチェックの対象となります",
-    "url": "https://fij.info/introduction/basic",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "真偽が定かでないため、調査・検証した結果、正確、もしくはほぼ正確であることが確認された場合や、誤りとは言えないが重要な事実が欠落していて誤解を与える場合など、様々なケースを取り扱います",
-    "url": "https://fij.info/introduction/basic",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ファクトチェックはあくまで「事実」かどうかを検証する営みですから、",
-    "url": "https://fij.info/introduction/basic",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "原則として「事実言明」に限って検証するというルール",
-    "url": "https://fij.info/introduction/basic",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ファクトチェックは、原則として調査によって収集・入手できる証拠（公開情報や文書など物的、客観的証拠）に基づいて、現実的に検証可能な「事実言明」を取り上げることが一般的です",
-    "url": "https://fij.info/introduction/basic",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第三者による再検証・再確認が困難な匿名情報源に基づく検証は、極めて例外的です",
-    "url": "https://fij.info/introduction/basic",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "原則として、公開の場で不特定多数に向けて発せられた公益にかかわる言説・情報で、社会的に影響が大きく、真偽検証する意義のあるものを選ぶことになるでしょう",
-    "url": "https://fij.info/introduction/basic",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "通常は、ファクトチェック記事の冒頭で検証対象の言説内容を明示します",
-    "url": "https://fij.info/introduction/basic",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "それを選択した理由や検証する意義について説明することもあります",
-    "url": "https://fij.info/introduction/basic",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その言説・情報の真偽を検証するために必要な事実関係の調査・取材を行います",
-    "url": "https://fij.info/introduction/basic",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ファクトチェックを行う人（＝ファクトチェッカー）は、予断を持たずに、公平に、事実かどうかの検証に徹することが求められます",
-    "url": "https://fij.info/introduction/basic",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "」とは、公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指すものとします",
-    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "」は、特定の主義主張や党派・集団等に対する擁護や批判を目的とせず、公正な基準と証拠に基づいて、事実に関する真実性・正確性の検証に徹するものとします",
-    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "３ ファクトチェックで検証の対象とした言説を「",
-    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "a. 原則として、客観的な証拠によって事実の存否や正確性を検証しうる「",
-    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "b. 検証の対象は、不特定多数者に公開され、社会に影響を与える可能性のある言説とします",
-    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検証の結果、どのような事実を認定し、どのような結論に至ったのか、対象言説の真実性・正確性についていかなる評価・判定（レーティング）をしたのか、を明示するものとします",
-    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事実認定や結論・判定に至った理由について第三者が検証できるよう、客観的な証拠（エビデンス）・出典や情報源（ソース）をできるだけ具体的かつ詳細に記載するものとします",
-    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(1) ファクトチェック記事は、できるだけファクトチェック（真偽の検証）に徹し、意見や論評、解説を混在させないようにします",
-    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ファクトチェック記事につける見出しは、対象言説の内容や検証の結論について誤解を与えないように注意して付けるものとします",
-    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "何のために、どのようなカテゴリーの言説（テーマ、ジャンル、発信源・媒体の種類など）を検証の対象とするのか",
-    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ファクトチェックとは、社会に広まった言説・情報が事実に基づいているかどうかを調べる、いわば「真偽検証」活動を指す",
-    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "SNSが普及した2010年代は、ネット情報を検証するファクトチェック専門団体が急増",
-    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今から5年前の2017年ごろ、私は大手メディアの誤報を検証するサイトを運営していたが、ネット情報の検証も含め、業界横断的な取組みが必要と感じていた",
-    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最も重要な原則は、「特定の主義主張や党派・集団等に対する擁護や批判を目的とせず、公正な基準と証拠に基づいて、事実に関する真実性・正確性の検証に徹する」というものだ",
-    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これを踏まえ、ファクトチェック対象は「客観的な証拠によって事実の存否や正確性を検証しうる『事実言明』とし、何ら事実言明を含まない意見表明や主張は対象としない」との原則を示した",
-    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事実と意見の峻別は検証対象を特定するプロセスだけでなく、記事化する上でも必要である",
-    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "誤情報に対してついつい強く批判したくなるものだが、あくまで冷静沈着な検証態度が求められるということだ",
-    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "FIJのガイドラインでは、このうち「情報源の透明性」（Transparency of Sources）に関して、「事実認定や結論・判定に至った理由について第三者が検証できるよう、客観的な証拠（エビデンス）・出典や情報源（ソース）をできるだけ具体的かつ詳細に記載する」としている",
-    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただ、曖昧さをもった日常言語や社会的事実を扱うため、ファクトチェッカーの間でも認識や評価の食い違いはよくあり、万能ではない",
-    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "in the US. The International Fact-checking Network estimated that",
-    "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10820/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "（2019年4月2日公開）を採用します",
@@ -438,6 +238,206 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "基本的なルール(2) 証拠に基づく検証",
+    "url": "https://fij.info/introduction/basic",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営み",
+    "url": "https://fij.info/introduction/basic",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "世の中に影響を与える言説や情報のうち、真偽が定かでないものや正確さに疑いがあるもの、事実かどうか検証されていないものが、ファクトチェックの対象となります",
+    "url": "https://fij.info/introduction/basic",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "真偽が定かでないため、調査・検証した結果、正確、もしくはほぼ正確であることが確認された場合や、誤りとは言えないが重要な事実が欠落していて誤解を与える場合など、様々なケースを取り扱います",
+    "url": "https://fij.info/introduction/basic",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ファクトチェックはあくまで「事実」かどうかを検証する営みですから、",
+    "url": "https://fij.info/introduction/basic",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "原則として「事実言明」に限って検証するというルール",
+    "url": "https://fij.info/introduction/basic",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ファクトチェックは、原則として調査によって収集・入手できる証拠（公開情報や文書など物的、客観的証拠）に基づいて、現実的に検証可能な「事実言明」を取り上げることが一般的です",
+    "url": "https://fij.info/introduction/basic",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第三者による再検証・再確認が困難な匿名情報源に基づく検証は、極めて例外的です",
+    "url": "https://fij.info/introduction/basic",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "原則として、公開の場で不特定多数に向けて発せられた公益にかかわる言説・情報で、社会的に影響が大きく、真偽検証する意義のあるものを選ぶことになるでしょう",
+    "url": "https://fij.info/introduction/basic",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "通常は、ファクトチェック記事の冒頭で検証対象の言説内容を明示します",
+    "url": "https://fij.info/introduction/basic",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "それを選択した理由や検証する意義について説明することもあります",
+    "url": "https://fij.info/introduction/basic",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その言説・情報の真偽を検証するために必要な事実関係の調査・取材を行います",
+    "url": "https://fij.info/introduction/basic",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ファクトチェックを行う人（＝ファクトチェッカー）は、予断を持たずに、公平に、事実かどうかの検証に徹することが求められます",
+    "url": "https://fij.info/introduction/basic",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "」とは、公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指すものとします",
+    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "」は、特定の主義主張や党派・集団等に対する擁護や批判を目的とせず、公正な基準と証拠に基づいて、事実に関する真実性・正確性の検証に徹するものとします",
+    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "３ ファクトチェックで検証の対象とした言説を「",
+    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "a. 原則として、客観的な証拠によって事実の存否や正確性を検証しうる「",
+    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "b. 検証の対象は、不特定多数者に公開され、社会に影響を与える可能性のある言説とします",
+    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検証の結果、どのような事実を認定し、どのような結論に至ったのか、対象言説の真実性・正確性についていかなる評価・判定（レーティング）をしたのか、を明示するものとします",
+    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事実認定や結論・判定に至った理由について第三者が検証できるよう、客観的な証拠（エビデンス）・出典や情報源（ソース）をできるだけ具体的かつ詳細に記載するものとします",
+    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(1) ファクトチェック記事は、できるだけファクトチェック（真偽の検証）に徹し、意見や論評、解説を混在させないようにします",
+    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ファクトチェック記事につける見出しは、対象言説の内容や検証の結論について誤解を与えないように注意して付けるものとします",
+    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "何のために、どのようなカテゴリーの言説（テーマ、ジャンル、発信源・媒体の種類など）を検証の対象とするのか",
+    "url": "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ファクトチェックとは、社会に広まった言説・情報が事実に基づいているかどうかを調べる、いわば「真偽検証」活動を指す",
+    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "SNSが普及した2010年代は、ネット情報を検証するファクトチェック専門団体が急増",
+    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今から5年前の2017年ごろ、私は大手メディアの誤報を検証するサイトを運営していたが、ネット情報の検証も含め、業界横断的な取組みが必要と感じていた",
+    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最も重要な原則は、「特定の主義主張や党派・集団等に対する擁護や批判を目的とせず、公正な基準と証拠に基づいて、事実に関する真実性・正確性の検証に徹する」というものだ",
+    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これを踏まえ、ファクトチェック対象は「客観的な証拠によって事実の存否や正確性を検証しうる『事実言明』とし、何ら事実言明を含まない意見表明や主張は対象としない」との原則を示した",
+    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事実と意見の峻別は検証対象を特定するプロセスだけでなく、記事化する上でも必要である",
+    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "誤情報に対してついつい強く批判したくなるものだが、あくまで冷静沈着な検証態度が求められるということだ",
+    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "FIJのガイドラインでは、このうち「情報源の透明性」（Transparency of Sources）に関して、「事実認定や結論・判定に至った理由について第三者が検証できるよう、客観的な証拠（エビデンス）・出典や情報源（ソース）をできるだけ具体的かつ詳細に記載する」としている",
+    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただ、曖昧さをもった日常言語や社会的事実を扱うため、ファクトチェッカーの間でも認識や評価の食い違いはよくあり、万能ではない",
+    "url": "https://www.nposfss.com/cat7/kikan45_p01.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "in the US. The International Fact-checking Network estimated that",
+    "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10820/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "真偽が定かでないため、調査・検証した結果、正確、もしくはほぼ正確であることが確認された場合や、誤りとは言えないが重要な事実が欠落していて誤解を与える場合など、様々なケースを取り扱います",
@@ -586,17 +586,12 @@
     "method": "http"
    },
    {
-    "url": "https://wwstd.jp/media/fact-check/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://slownews.com/n/n18dd57a3b545?gs=409274f47ca6944db061ca7dea18e3d5",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://fungry.co.jp/cnaps/blog/fact-check/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://slownews.com/n/n18dd57a3b545?gs=06b275607c59a6bc87d9afe4bd453c9b",
     "status": "ok",
     "method": "http"
    },
@@ -642,10 +637,7 @@
     "https://note.com/ruka1107/n/n31f3daf2ae89",
     "https://note.com/lyco_pene/n/n8df9ee7a82c4",
     "https://note.com/tomo_saka/n/n7883462e62d6",
-    "https://note.com/h_yanai/n/nb2d8403c620d",
-    "https://note.com/clean_broom590/n/n715b11453f96",
-    "https://note.com/shiny_broom7788/n/n6975a56b36e5",
-    "https://note.com/johokensyo_jp/n/n0399bbe05899"
+    "https://note.com/narukoaiart_note/n/nd8b1f7be19de"
    ]
   },
   {
@@ -666,14 +658,14 @@
    "query": "IFCN・FIJ のファクトチェックの手順とレーティング基準の定義（10ステップ全文・判定区分・数字の主張の検証例） やり方",
    "results": [
     "https://fij.info/introduction/basic",
-    "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
     "https://www.soumu.go.jp/main_content/000749420.pdf",
     "https://www.factcheckcenter.jp/explainer/fact-check/jfc-fact-checking-101/",
-    "https://litmus-factcheck.jp/policy/",
     "https://hfnet.nibn.go.jp/column/%E3%80%90%E7%AC%AC15%E5%9B%9E%E3%80%91-%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%AE%E5%8F%96%E7%B5%84%E3%81%BF%E3%81%A8%E6%83%85%E5%A0%B1%E5%88%A9%E6%B4%BB/",
+    "https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "https://litmus-factcheck.jp/policy/",
     "https://www.asahi.com/articles/AST6C1BRLT6CULZU002M.html",
     "https://www.nposfss.com/cat7/kikan45_p01.html",
-    "https://wwstd.jp/media/fact-check/"
+    "https://fungry.co.jp/cnaps/blog/fact-check/"
    ]
   },
   {
@@ -707,7 +699,15 @@
   },
   {
    "query": "site:note.com IFCN・FIJ のファクトチェックの手順とレーティング基準の定義（10ステップ全文・判定区分・数字の主張の検証例）",
-   "results": []
+   "results": [
+    "https://note.com/jfactcheckcenter/n/ne2c802afa5e0",
+    "https://note.com/jfactcheckcenter/n/n2cee9bbf1311",
+    "https://note.com/ruka1107/n/n31f3daf2ae89",
+    "https://note.com/jfactcheckcenter/n/n2cee9bbf1311?hl=en",
+    "https://note.com/lyco_pene/n/n8df9ee7a82c4",
+    "https://note.com/tomo_saka/n/n7883462e62d6",
+    "https://note.com/narukoaiart_note/n/nd8b1f7be19de"
+   ]
   },
   {
    "query": "site:x.com IFCN・FIJ のファクトチェックの手順とレーティング基準の定義（10ステップ全文・判定区分・数字の主張の検証例）",
@@ -718,7 +718,8 @@
     "https://x.com/naruko_aiart/status/2105643275155857854",
     "https://x.com/YoiTateiwa/status/2096432091353534486",
     "https://x.com/K_Ichida/status/2110904055719514217",
-    "https://x.com/fact_check_jp"
+    "https://x.com/fact_check_jp",
+    "https://x.com/YoiTateiwa/status/2096726047614193773"
    ]
   },
   {
@@ -790,6 +791,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-05T13:09:59.509835+00:00"
 }

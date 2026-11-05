@@ -1,0 +1,1150 @@
+{
+ "name": "毎月勤労統計調査 製造業 事業所規模別 現金給与総額 年平均（共通事業所系列・再集計値・抽出替えの段差をまたがない・給与の下限・4-17・4-43）",
+ "en": "Monthly Labour Survey manufacturing establishment size annual average cash earnings common establishments series",
+ "aliases": [
+  "毎月勤労統計調査 製造業 規模別 現金給与総額 年平均 site:mhlw.go.jp",
+  "毎月勤労統計 共通事業所 前年比 製造業",
+  "毎月勤労統計 再集計値 製造業"
+ ],
+ "context": "給与・統計",
+ "kind": "market",
+ "researched_at": "2026-11-05T18:58:56.947146+00:00",
+ "evidence": {
+  "10年推移": [
+   {
+    "quote": "指数及び前年比などの増減率は、調査事業所の抽出替え等に伴い、過去に遡って改訂されることがあります",
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025（令和7）年",
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024（令和6）年",
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023（令和5）年",
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022（令和4）年",
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021（令和3）年",
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020（令和2）年",
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "pass": 3
+   },
+   {
+    "quote": "毎月勤労統計調査ー2025（令和7）年分結果確報",
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "pass": 3
+   },
+   {
+    "quote": "毎月勤労統計調査ー2025（令和７）年度分結果確報",
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "pass": 3
+   },
+   {
+    "quote": "毎月勤労統計調査−2025（令和7）年9月分結果速報及び2025（令和7）年夏季賞与の結果",
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "pass": 3
+   },
+   {
+    "quote": "毎月勤労統計調査−2026（令和8）年2月分結果速報及び2025（令和7）年年末賞与の結果",
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "pass": 3
+   },
+   {
+    "quote": "毎月勤労統計調査 2025（令和７）年分結果確報｜厚生労働省",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/25cr.html",
+    "pass": 3
+   },
+   {
+    "quote": "毎月勤労統計調査 2025（令和７）年分結果確報",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/25cr.html",
+    "pass": 3
+   },
+   {
+    "quote": "時系列第1表 賃金指数",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/25cr.html",
+    "pass": 3
+   },
+   {
+    "quote": "時系列第2表 労働時間指数",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/25cr.html",
+    "pass": 3
+   },
+   {
+    "quote": "時系列第3表 常用雇用指数",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/25cr.html",
+    "pass": 3
+   },
+   {
+    "quote": "時系列第4表 パートタイム労働者比率",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/25cr.html",
+    "pass": 3
+   },
+   {
+    "quote": "時系列第5表 労働異動率",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/25cr.html",
+    "pass": 3
+   },
+   {
+    "quote": "時系列第6表 各国公表による主要国の実質賃金",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/25cr.html",
+    "pass": 3
+   },
+   {
+    "quote": "時系列第7表 時間当たり給与（パートタイム労働者）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/25cr.html",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：時系列表第１表 賃金指数",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：（事業所規模５人以上） （2020（令和２）年平均＝１００）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：前年比 実質前年比 前年比 実質前年比 前年比 実質前年比 前年比 実質前年比 前年比 前年比 前年比",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：2018年： 101.6",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：2018年： 1.4",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：2018年： 0.2",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：2018年： 101.4",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：2018年： 1.6",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：2018年： 0.4",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：2018年： 100.4",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：2018年： 1.3",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：2018年： 0.1",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：2018年： 101.9",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：2018年： 1.2",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：2018年： 0",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：2018年： 1.8",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：2018年： 3.8",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：2018年： -1.8",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：時系列表第２表 労働時間指数",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：（事業所規模５人以上） （2020（令和２）年平均＝１００）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：前年比 前年比 前年比 前年比 前年比 前年比 前年比",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：2018年： 105.2",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：2018年： -0.8",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：2018年： 104.4",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：2018年： -0.6",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：2018年： 107.6",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：2018年： -0.9",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：2018年： 105",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：2018年： -0.7",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：2018年： 0",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：2018年： -0.4",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：2019年： 102.9",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：2019年： -2.2",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：2019年： 102.7",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：2019年： -1.7",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：2019年： 104.8",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "雇用指数：時系列表第３表 常用雇用指数",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct03r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "雇用指数：（事業所規模５人以上） （2020（令和２）年平均＝１００）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct03r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "雇用指数：前年比 前年比 前年比 前年比 前年比 前年比 前年比",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct03r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "雇用指数：2018年： 98.6",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct03r.xlsx",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "賃金指数：（事業所規模５人以上） （2020（令和２）年平均＝１００）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：一 般 労 働 者 パートタイム労働者 事業所規模30人以上",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：（事業所規模５人以上） （2020（令和２）年平均＝１００）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：一 般 労 働 者 パートタイム労働者 事業所規模30人以上",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "雇用指数：（事業所規模５人以上） （2020（令和２）年平均＝１００）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct03r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "雇用指数：一 般 労 働 者 パートタイム労働者 事業所規模30人以上",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct03r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "パート比率：（事業所規模５人以上）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct04r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "労働異動率：（事業所規模５人以上）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct05r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：（事業所規模５人以上） （令和２年平均＝１００）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：一 般 労 働 者 パートタイム労働者 事業所規模30人以上",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：（事業所規模５人以上） （令和２年平均＝１００）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：一 般 労 働 者 パートタイム労働者 事業所規模30人以上",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "雇用指数：（事業所規模５人以上） （令和２年平均＝１００）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct03r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "雇用指数：一 般 労 働 者 パートタイム労働者 事業所規模30人以上",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct03r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "パート比率：（事業所規模５人以上）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct04r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "労働異動率：（事業所規模５人以上）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct05r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "実質賃金：（事業所規模５人以上） （令和２年平均＝１００）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct06r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "実質賃金：年 月 事業所規模５人以上 事業所規模30人以上",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct06r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：（事業所規模５人以上） （令和２年平均＝１００）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r05/23cr/xls/23ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：（事業所規模５人以上） （令和２年平均＝１００）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r05/23cr/xls/23ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "雇用指数：（事業所規模５人以上） （令和２年平均＝１００）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r05/23cr/xls/23ct03r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "パート比率：（事業所規模５人以上）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r05/23cr/xls/23ct04r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "労働異動率：（事業所規模５人以上）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r05/23cr/xls/23ct05r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "実質賃金：（事業所規模５人以上） （令和２年平均＝１００）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r05/23cr/xls/23ct06r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "常時30人以上雇",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約15,000 毎月 • 性別常用労働者",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 従業員500人以上は全数",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "常時５人以上30",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "常時１人以上５",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約22,000 １年 • 常用労働者ごとの",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "常用労働者を５人未満雇用",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 30人以上規模（第一種事業所）は層化無作為一段抽出、５～ 29人規模（第二種事業所）は層化無作為二段抽出により",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30人以上規模",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５～29人規模",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 500 人以上規模事業所は全数調査であり、入替えがあっても継続して調査を実施する",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【30人以上規模（第一種事業所）】",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【５～29人規模（第二種事業所）】",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第一種事業所の３分の２（500人以上規模は全数）",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ １月に行う30人以上規模（第一種事業所）の",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ ベンチマーク 更新を行う前のサンプル入替えの影響に ついて規模別 の寄与をみると、30～99人規模の影響が大きい",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数：（事業所規模５人以上） （令和２年平均＝１００）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r04/22cr/xls/22ct01r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "時間指数：（事業所規模５人以上） （令和２年平均＝１００）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r04/22cr/xls/22ct02r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "雇用指数：（事業所規模５人以上） （令和２年平均＝１００）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r04/22cr/xls/22ct03r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "パート比率：（事業所規模５人以上）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r04/22cr/xls/22ct04r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "労働異動率：（事業所規模５人以上）",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r04/22cr/xls/22ct05r.xlsx",
+    "pass": 3
+   },
+   {
+    "quote": "本調査においては、本統計を所管する厚生労働省が、平成30年1月分から調査対象事業所の入替方法及び集計方法の変更、基準とする母集団労働者数の更新を行うとともに、事業所規模30人以上の調査対象事業所を平成30年1月に約半分、平成31年1月に残りの約半分入替えを行った結果、本県の賃金指数等について入替前後で断層（前年同月比マイナス幅が拡大）が生じる結果となっております",
+    "url": "https://www.pref.tottori.lg.jp/317021.htm",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が毎月公表する全国調査結果の公表値において、平成30年11月分確報から、従来公表されてきた値が、平成24年以降において東京都の「500人以上規模の事業所」について復元して再集計された値（再集計値）に変更されました",
+    "url": "https://www.pref.tottori.lg.jp/317021.htm",
+    "pass": 3
+   },
+   {
+    "quote": "・令和6年1月分の調査で対象事業所（事業所規模5人以上）のうち約３割の入替を行いました",
+    "url": "https://www.pref.tottori.lg.jp/317021.htm",
+    "pass": 3
+   },
+   {
+    "quote": "この調査は、日本標準産業分類に定める「鉱業，採石業，砂利採取業」、「建設業」、「製造業」、「電気・ガス・熱供給・水道業」、「情報通信業」、「運輸業，郵便業」、「卸売業，小売業」、「金融業，保険業」、「不動産業，物品賃貸業」、「学術研究，専門・技術サービス業」、「宿泊業，飲食サービス業」、「生活関連サービス業，娯楽業（その他の生活関連サービス業のうち家事サービス業を除く）」、「教育，学習支援業」、「医療，福祉」、「複合サービス事業」、「サービス業（他に分類されないもの）」（外国公務を除く）において、常時５人以上の常用労働者を雇用する事業所の中から抽出された463事業所（うち、30人以上は約223事業所）について行っている",
+    "url": "https://www.pref.tottori.lg.jp/317021.htm",
+    "pass": 3
+   },
+   {
+    "quote": "（４）常用労働者",
+    "url": "https://www.pref.tottori.lg.jp/317021.htm",
+    "pass": 3
+   },
+   {
+    "quote": "「パートタイム労働者」とは、常用労働者のうち、１日の労働時間又は１週の労働日数が短い者のことである",
+    "url": "https://www.pref.tottori.lg.jp/317021.htm",
+    "pass": 3
+   },
+   {
+    "quote": "この結果は、調査事業所からの報告をもとにして事業所規模５人以上の県内すべての事業所に対応するよう推計したものである",
+    "url": "https://www.pref.tottori.lg.jp/317021.htm",
+    "pass": 3
+   },
+   {
+    "quote": "事業所規模５人以上の集計には、事業所規模30人以上の事業所も含まれている",
+    "url": "https://www.pref.tottori.lg.jp/317021.htm",
+    "pass": 3
+   },
+   {
+    "quote": "調査事業所のうち30 人以上の抽出方法は、従来の２～３年に一度行う総入替え方式から、毎年１月分調査時に行う部分入替え方式に平成30年から変更した",
+    "url": "https://www.pref.tottori.lg.jp/317021.htm",
+    "pass": 3
+   },
+   {
+    "quote": "は、常用労働者を5人以上雇用する事業所を対象として、それぞれ日本全国と各都道府県で毎月実施する",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3
+   },
+   {
+    "quote": "常用労働者が5人以上の事業所を対象として毎月おこなう",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3
+   },
+   {
+    "quote": "のほか、常用労働者が4人以下の事業所を対象に一年に一回7月分についておこなう",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3
+   },
+   {
+    "quote": "常用労働者を500人以上雇用する事業所は、2019年6月以降、すべて全国調査・地方調査において毎月調査される",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3
+   },
+   {
+    "quote": "30-499人規模の事業所については、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3
+   },
+   {
+    "quote": "29人以下の規模の事業所については、データベースによる選定ではなく、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "※ 第一種事業所については、調査対象事業所数が調査計画から不足していたことから、①令和３年～令和４年の約２年間調査を行うグループを創設、②令和３年1月と令和４年１月の部分入替え",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "公営事業所の推計労働者数(R1) = 公営事業所の労働者数(H26) × 既存の公営事業所数(R1)公営事業所数(H26) ＋新規の公営事業所の労働者数(R1)",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ ベンチマーク 更新を行う前のサンプル入替えの影響に ついて規模別 の寄与をみると、30～99人規模の影響が大きい",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30～99人 ＋0.6",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30～99人 ＋0.4",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30～99人 260,638 253,539 7,099（＋2.8％）",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30～99人 269,672 264,448 5,224（＋2.0％）",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30～99人 4,243 1,436（33.8％）",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30～99人 1,170.3 22.4 1,225.5 24.0 260,638 259,682 132.7 132.4 -956 -0.11 -0.3 -0.02",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第一種事業所（30人以上規模）は1万6700の事業所を調査していることになっていたのだが、実際に調査されていた事業所数はそれよりも5000程度少なく、公表値の7割程度しかなかったとされる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3
+   },
+   {
+    "quote": "で具体的な標本事業所数が確認できるのは1996年（平成8年）以降だけであり、それ以前については定かでない",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3
+   },
+   {
+    "quote": "そのうえで、その後におこなった全国調査においては調査対象事業所数を減らし、また東京都のみ他道府県と異なる抽出率としたことを指摘し、承認を受けた調査計画と実際の調査方法との間に齟齬を生じさせたことは統計法9条及び11条違反だとした",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "この規定の違反者は、50万円以下の",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3
+   },
+   {
+    "quote": "後にこの規定は19条に移り、罰金の金額も「10万円以下」まで引き上げられている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3
+   },
+   {
+    "quote": "以前の統計法60条は「次の各号のいずれかに該当する者は、六月以下の懲役又は五十万円以下の罰金に処する」としたうえで、その2号で「基幹統計の作成に従事する者で基幹統計をして真実に反するものたらしめる行為をした者」",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "この規定の違反者は、50万円以下の",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3
+   },
+   {
+    "quote": "後にこの規定は19条に移り、罰金の金額も「10万円以下」まで引き上げられている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3
+   },
+   {
+    "quote": "以前の統計法60条は「次の各号のいずれかに該当する者は、六月以下の懲役又は五十万円以下の罰金に処する」としたうえで、その2号で「基幹統計の作成に従事する者で基幹統計をして真実に反するものたらしめる行為をした者」",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "status": "ok",
+    "method": "http:seed"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/25cr.html",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct01r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct02r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct03r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct04r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct05r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cr/xls/25ct06r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/24cr.html",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct01r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct02r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct03r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct04r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct05r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/24cr/xls/24ct06r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r05/23cr/23cr.html",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r05/23cr/xls/23ct01r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r05/23cr/xls/23ct02r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r05/23cr/xls/23ct03r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r05/23cr/xls/23ct04r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r05/23cr/xls/23ct05r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r05/23cr/xls/23ct06r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r04/22cr/22cr.html",
+    "status": "ok",
+    "method": "http:seed-link"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20220405.pdf",
+    "status": "ok",
+    "method": "pdf:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r04/22cr/xls/22ct01r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r04/22cr/xls/22ct02r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r04/22cr/xls/22ct03r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r04/22cr/xls/22ct04r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r04/22cr/xls/22ct05r.xlsx",
+    "status": "ok",
+    "method": "table:seed-link2"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00450071&tstat=000001011791&tclass1=000001027657&tclass2val=0&statdisp_id=0003029036",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/559632.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.tottori.lg.jp/317021.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mbp-japan.com/kanagawa/shonan-mssr/column/5226282/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/maikin/2013/mk13qfsank.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dlri.co.jp/report/macro/560861.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/WOE00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/nenkan/1431-19e.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/english/estatis/esaikin/2026/e202605.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcer.or.jp/english/is-real-wage-still-falling-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bizstats-dashboard.com/en/japan/wage/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "毎月勤労統計調査 製造業 事業所規模別 現金給与総額 年平均（共通事業所系列・再集計値・抽出替えの段差をまたがない・給与の下限・4-17・4-43）",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00450071&tstat=000001011791&tclass1=000001027657&tclass2val=0&statdisp_id=0003029036",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/559632.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "https://www.pref.tottori.lg.jp/317021.htm",
+    "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "https://mbp-japan.com/kanagawa/shonan-mssr/column/5226282/",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2013/mk13qfsank.pdf",
+    "https://www.dlri.co.jp/report/macro/560861.html",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000008232508&layout=dataset&statdisp_id=0003030976"
+   ]
+  },
+  {
+   "query": "毎月勤労統計調査 製造業 事業所規模別 現金給与総額 年平均（共通事業所系列・再集計値・抽出替えの段差をまたがない・給与の下限・4-17・4-43） 推移",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00450071&tstat=000001011791&tclass1=000001027657&tclass2val=0&statdisp_id=0003029036",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/559632.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "https://www.pref.tottori.lg.jp/317021.htm",
+    "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "https://mbp-japan.com/kanagawa/shonan-mssr/column/5226282/",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2013/mk13qfsank.pdf",
+    "https://www.dlri.co.jp/report/macro/560861.html"
+   ]
+  },
+  {
+   "query": "毎月勤労統計調査 製造業 事業所規模別 現金給与総額 年平均（共通事業所系列・再集計値・抽出替えの段差をまたがない・給与の下限・4-17・4-43） 統計 PDF",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00450071&tstat=000001011791&tclass1=000001027657&tclass2val=0&statdisp_id=0003029036",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/559632.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "https://www.pref.tottori.lg.jp/317021.htm",
+    "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "https://mbp-japan.com/kanagawa/shonan-mssr/column/5226282/",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2013/mk13qfsank.pdf",
+    "https://www.dlri.co.jp/report/macro/560861.html"
+   ]
+  },
+  {
+   "query": "毎月勤労統計調査 製造業 事業所規模別 現金給与総額 年平均（共通事業所系列・再集計値・抽出替えの段差をまたがない・給与の下限・4-17・4-43） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00450071&tstat=000001011791&tclass1=000001027657&tclass2val=0&statdisp_id=0003029036",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/559632.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "https://www.pref.tottori.lg.jp/317021.htm",
+    "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "https://mbp-japan.com/kanagawa/shonan-mssr/column/5226282/",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2013/mk13qfsank.pdf",
+    "https://www.dlri.co.jp/report/macro/560861.html"
+   ]
+  },
+  {
+   "query": "毎月勤労統計調査 製造業 事業所規模別 現金給与総額 年平均（共通事業所系列・再集計値・抽出替えの段差をまたがない・給与の下限・4-17・4-43） 従業者規模別",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00450071&tstat=000001011791&tclass1=000001027657&tclass2val=0&statdisp_id=0003029036",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/559632.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "https://www.pref.tottori.lg.jp/317021.htm",
+    "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "https://mbp-japan.com/kanagawa/shonan-mssr/column/5226282/",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2013/mk13qfsank.pdf",
+    "https://www.dlri.co.jp/report/macro/560861.html"
+   ]
+  },
+  {
+   "query": "毎月勤労統計調査 製造業 事業所規模別 現金給与総額 年平均（共通事業所系列・再集計値・抽出替えの段差をまたがない・給与の下限・4-17・4-43） 1人当たり 万円",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00450071&tstat=000001011791&tclass1=000001027657&tclass2val=0&statdisp_id=0003029036",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/559632.pdf",
+    "https://www.pref.tottori.lg.jp/317021.htm",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "https://mbp-japan.com/kanagawa/shonan-mssr/column/5226282/",
+    "https://www.dlri.co.jp/report/macro/560861.html"
+   ]
+  },
+  {
+   "query": "毎月勤労統計調査 製造業 事業所規模別 現金給与総額 年平均（共通事業所系列・再集計値・抽出替えの段差をまたがない・給与の下限・4-17・4-43） 2015 2025",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00450071&tstat=000001011791&tclass1=000001027657&tclass2val=0&statdisp_id=0003029036",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/559632.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "https://www.pref.tottori.lg.jp/317021.htm",
+    "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "https://mbp-japan.com/kanagawa/shonan-mssr/column/5226282/",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2013/mk13qfsank.pdf",
+    "https://www.dlri.co.jp/report/macro/560861.html"
+   ]
+  },
+  {
+   "query": "Monthly Labour Survey manufacturing establishment size annual average cash earnings common establishments series Japan statistics",
+   "results": [
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/WOE00",
+    "https://www.stat.go.jp/english/data/nenkan/1431-19e.html",
+    "https://www.jil.go.jp/english/estatis/esaikin/2026/e202605.html",
+    "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "https://www.jcer.or.jp/english/is-real-wage-still-falling-in-japan",
+    "https://www.bizstats-dashboard.com/en/japan/wage/",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/f5b3c112ace253719216769ebb6d3c48.pdf",
+    "https://www.ceicdata.com/en/japan/monthly-labour-survey-average-monthly-cash-earnings-percentage-change",
+    "https://www.mhlw.go.jp/www2/info/toukei/english/m_explanation.htm",
+    "https://www.e-stat.go.jp/en/statistics/00450071"
+   ]
+  },
+  {
+   "query": "site:note.com 毎月勤労統計調査 製造業 事業所規模別 現金給与総額 年平均（共通事業所系列・再集計値・抽出替えの段差をまたがない・給与の下限・4-17・4-43）",
+   "results": [
+    "https://note.com/crisp_panda5486/n/n58f51504cd37",
+    "https://note.com/kazucallnote/n/n30ac23c20392",
+    "https://note.com/todobuono/n/n890a40ad78d0",
+    "https://note.com/todobuono/n/n64db128f1289",
+    "https://note.com/todobuono/n/n69cbe0e105f1",
+    "https://note.com/noted_ixora104/n/n980965e721c9",
+    "https://note.com/todobuono/n/n133f0bb73b0c"
+   ]
+  },
+  {
+   "query": "site:x.com 毎月勤労統計調査 製造業 事業所規模別 現金給与総額 年平均（共通事業所系列・再集計値・抽出替えの段差をまたがない・給与の下限・4-17・4-43）",
+   "results": [
+    "https://x.com/okayokay0214/status/2097120198147051649",
+    "https://jf.x.com/images/media-preview/2115216414147850652",
+    "https://jf.x.com/images/media-preview/2107586100512370742",
+    "https://x.com/TMiyajima1115/status/2107624199586222170",
+    "https://x.com/yuki_endo0815/status/2020646536112456184",
+    "https://x.com/karifkarikari/status/2107895715209060661",
+    "https://x.com/kawachan2022kps/status/2097308123891630522"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 毎月勤労統計調査 製造業 事業所規模別 現金給与総額 年平均（共通事業所系列・再集計値・抽出替えの段差をまたがない・給与の下限・4-17・4-43）",
+   "results": [
+    "https://www.linkedin.com/posts/daijob-com_厚生労働省毎月勤労統計調査2025令和7年10月分結果確報を公開-activity-7412085171136589824-A8Nv",
+    "https://news.linkedin.com/2026/LinkedIn-Top-Companies-2026",
+    "https://www.linkedin.com/learning-login/?fromSignIn=true",
+    "https://www.linkedin.com/company/asics-technologies",
+    "https://www.linkedin.com/company/perkins-coie-llp",
+    "https://www.linkedin.com/games/queens/",
+    "https://www.linkedin.com/posts/sakuraitakuya_2025年9月の毎月勤労統計では名目賃金は総額297787円で前年比21増-activity-7399047753483509760-SZjG"
+   ]
+  },
+  {
+   "query": "site:facebook.com 毎月勤労統計調査 製造業 事業所規模別 現金給与総額 年平均（共通事業所系列・再集計値・抽出替えの段差をまたがない・給与の下限・4-17・4-43）",
+   "results": [
+    "https://graph.facebook.com/v2.8/1954398104576868/picture/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2023年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1014172224088803/",
+    "https://www.facebook.com/permalink.php/?story_fbid=890677699909285&id=100069011896208",
+    "https://www.facebook.com/100069011896208/posts/毎月勤労統計調査地方調査月報令和７年９月分を公表しましたhttpswebprefhyogolgjpkk11documentsgeppou09pdf毎月勤労統計調/1180549484255437/",
+    "https://www.facebook.com/nishinippon.news/posts/毎月勤労統計の不正調査問題で厚生労働省が２０１２年分以降の再集計値を公表しました統計上の現金給与総額を全ての月で修正し１８年１月以降の伸び率賃金上昇率は従来の公/2017379805024121/",
+    "https://www.facebook.com/mayohumancapital/photos/高薪行業一覽平均總薪資-金融及保險業107348元年增-927-電子零組件製造業102150元年增-788-電力及燃氣供應業96669元-勞動市場變化全年受僱員/1081337160463969/",
+    "https://www.facebook.com/yamanoinoi/posts/226火-衆議院予算委員会中央公聴会その２山井さんはまず野党がお招きしたアベノミクスによろしくの著書がある労働問題の専門家弁護士の明石順平さんに質問しましたこの/329856447666214/"
+   ]
+  },
+  {
+   "query": "毎月勤労統計調査 製造業 事業所規模別 現金給与総額 年平均（共通事業所系列・再集計値・抽出替えの段差をまたがない・給与の下限・4-17・4-43） note 社長",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00450071&tstat=000001011791&tclass1=000001027657&tclass2val=0&statdisp_id=0003029036",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/559632.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "https://www.pref.tottori.lg.jp/317021.htm",
+    "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "https://mbp-japan.com/kanagawa/shonan-mssr/column/5226282/",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2013/mk13qfsank.pdf",
+    "https://www.dlri.co.jp/report/macro/560861.html"
+   ]
+  },
+  {
+   "query": "毎月勤労統計調査 製造業 事業所規模別 現金給与総額 年平均（共通事業所系列・再集計値・抽出替えの段差をまたがない・給与の下限・4-17・4-43） X 投稿",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00450071&tstat=000001011791&tclass1=000001027657&tclass2val=0&statdisp_id=0003029036",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/559632.pdf",
+    "https://www.pref.tottori.lg.jp/317021.htm",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "https://mbp-japan.com/kanagawa/shonan-mssr/column/5226282/",
+    "https://www.dlri.co.jp/report/macro/560861.html"
+   ]
+  },
+  {
+   "query": "Monthly Labour Survey manufacturing establishment size annual average cash earnings common establishments series site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/us-cabinet-manufacturing-industry-statistics-trends-2026-buckc",
+    "https://economicgraph.linkedin.com/content/dam/me/economicgraph/en-us/PDF/linkedIn-labor-market-report-building-a-future-of-work-that-works-jan-2026.pdf",
+    "https://www.linkedin.com/in/jeffreyrwinter",
+    "https://www.linkedin.com/in/matthewnestlerphd",
+    "https://www.linkedin.com/in/joseph-rosena",
+    "https://www.linkedin.com/pulse/best-hr-people-analytics-articles-june-2025-david-green--ffjme",
+    "https://www.linkedin.com/pulse/monthly-food-beverage-paul-young-q7b2f",
+    "https://www.linkedin.com/posts/neilretail_here-are-some-interesting-stories-from-the-activity-7518959460472602624-qciO",
+    "https://www.linkedin.com/in/davidroberge",
+    "https://www.linkedin.com/in/jsneff"
+   ]
+  }
+ ],
+ "missing": {
+  "生産能力・設備": "記載なし（読んだ44頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ44頁・検索15回）"
+ }
+}
