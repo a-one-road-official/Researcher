@@ -530,6 +530,7 @@
   - 「where subjective estimates or high uncertainty materially」（https://finxl.in/blogs/how-to-analyze-an-annual-report.html）
   - 「速報！！キオクシア（285A）決算後 検証編 19時までの情報」（https://note.com/tag/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99）
   - 「売上債権や棚卸資産の増減、支払債務の変動など、運転資本の効率性も同時に検証できます」（https://note.com/re_birth_ai/n/n0806b0d9ebe0）
+  - 「「この利益率の話、資料のどこに書いてあった？」の裏取りが数秒で終わる」（https://mitena.co.jp/n-nisa/notebooklm-stock-investment/）
 - 一次情報の探し方：
   - 「初学者でも出来る『５つのSTEPで読み解く有価証券報告書』｜wkwk｜小さな事業のAI・経営実践」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「初学者でも出来る『５つのSTEPで読み解く有価証券報告書』」（https://note.com/yoh2619/n/nab63a136eecc）
@@ -3029,11 +3030,11 @@
 
 ## 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）（statistical time series break linking retropolation official statistics）
 - 文脈：突き合わせ・失敗
-- 手順・やり方：記載なし（読んだ25頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
-- 実例：記載なし（読んだ25頁・検索12回）
+- 手順・やり方：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 実例：記載なし（読んだ28頁・検索12回）
 
 ## 現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手（channel checks methodology expert interviews structured questionnaire bias）
 - 文脈：探し先・書き手
@@ -3462,8 +3463,8 @@
   - 「‘, for example, or, in the wake of the collapse of Carillion」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
   - 「, for example, highlight (in a」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
   - 「, for example, includes a whole ‘」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
-- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説（survey year vs reference year statistics pitfalls Japan census）
 - 文脈：一次情報の探し方
@@ -3579,8 +3580,8 @@
   - 「These briefings, by Full Facts researcher Dr Dora-Olivia Vicol, explore two topics relevant to any communicators – especially journalists. These concise briefings, which use case studies and introduce psychological concepts, conclude with several recommendations for fact-checkers and journalists.」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
   - 「The articles in this series present various examples of contemporary online misinformation. But it is each article’s accompanying “recipe” for digital investigation that makes this resource uniquely useful. Each method uses free software.」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
   - 「This article by Deepak Adhikari, editor of South Asia Check, explains the basics of fact-checking. It is part of The Kit, a collection of short guides by Exposing the Invisible. It includes definitions of terms, uses examples, and provides additional resources. Adhikari emphasises the importance of fact-checking stories which are in the public interest.」（https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
 
 ## IFCN・FIJ のファクトチェックの手順とレーティング基準の定義（10ステップ全文・判定区分・数字の主張の検証例）（IFCN fact-checking steps rating definitions numbers claims methodology）
 - 文脈：

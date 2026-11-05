@@ -1,0 +1,361 @@
+{
+ "name": "マイナビ中途採用状況調査の業種別・従業員規模別（製造業の採用費・採用人数の原典）",
+ "en": "Mynavi mid-career recruitment survey manufacturing by company size hiring cost",
+ "aliases": [
+  "マイナビ 中途採用状況調査 製造業 従業員規模別 採用費用",
+  "中途採用状況調査 業種別 採用人数 費用総額 site:mynavi.jp",
+  "career-research.mynavi.jp 中途採用状況調査 製造業"
+ ],
+ "context": "規模",
+ "kind": "market",
+ "researched_at": "2026-11-05T16:32:25.039772+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stock-sun.com/column/mid-career-recruitment-costs/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thinc-agent.c-m.co.jp/knowhow/knowhow04/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mynavi.jp/news/2026/09/post_54722.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/adoption/mid-career.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260529_111552/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260929_115879/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.mynavi.jp/article/20260331-4277077/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000002382.000002955.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://edenred.jp/article/hr-recruiting/213/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20251226_105898/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/250617_midcareer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260430_110450/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZRSP705107_Q6A330C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000002131.000002955.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "マイナビ中途採用状況調査の業種別・従業員規模別（製造業の採用費・採用人数の原典） 採用単価 規模別",
+   "results": [
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://umai-jinji.jp/column/other-86/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "https://megdai.jp/markebatake/saiyou/6434/",
+    "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "https://edenred.jp/article/hr-recruiting/213/",
+    "https://www.works-i.com/surveys/adoption/mid-career.html",
+    "https://www.mynavi.jp/news/2026/09/post_54722.html"
+   ]
+  },
+  {
+   "query": "マイナビ中途採用状況調査の業種別・従業員規模別（製造業の採用費・採用人数の原典） 採用コスト 調査 万円",
+   "results": [
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "https://stock-sun.com/column/mid-career-recruitment-costs/",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "https://thinc-agent.c-m.co.jp/knowhow/knowhow04/",
+    "https://megdai.jp/markebatake/saiyou/6434/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "https://www.mynavi.jp/news/2026/03/post_52646.html"
+   ]
+  },
+  {
+   "query": "マイナビ中途採用状況調査の業種別・従業員規模別（製造業の採用費・採用人数の原典） 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "https://www.works-i.com/surveys/adoption/mid-career.html",
+    "https://stock-sun.com/column/mid-career-recruitment-costs/",
+    "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "https://megdai.jp/markebatake/saiyou/6434/"
+   ]
+  },
+  {
+   "query": "マイナビ中途採用状況調査の業種別・従業員規模別（製造業の採用費・採用人数の原典） 採用経路 割合 調査",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://career-research.mynavi.jp/reserch/20260529_111552/",
+    "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "https://career-research.mynavi.jp/reserch/20260929_115879/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "https://www.mynavi.jp/news/2026/09/post_54722.html"
+   ]
+  },
+  {
+   "query": "マイナビ中途採用状況調査の業種別・従業員規模別（製造業の採用費・採用人数の原典） 人手不足 充足率 調査 2025",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf",
+    "https://edenred.jp/article/hr-recruiting/213/",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://career-research.mynavi.jp/reserch/20251226_105898/",
+    "https://www.works-i.com/surveys/item/250617_midcareer.pdf"
+   ]
+  },
+  {
+   "query": "マイナビ中途採用状況調査の業種別・従業員規模別（製造業の採用費・採用人数の原典） 白書 採用",
+   "results": [
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://career-research.mynavi.jp/reserch/20260529_111552/",
+    "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "https://career-research.mynavi.jp/reserch/20260929_115879/",
+    "https://umai-jinji.jp/column/other-86/",
+    "https://career-research.mynavi.jp/reserch/20260430_110450/",
+    "https://career-research.mynavi.jp/reserch/20250326_93514/"
+   ]
+  },
+  {
+   "query": "site:note.com マイナビ中途採用状況調査の業種別・従業員規模別（製造業の採用費・採用人数の原典）",
+   "results": [
+    "https://note.com/jack4manastalk/n/n880406135053",
+    "https://note.com/hirotsuchida/n/n5e1c7166f48a",
+    "https://note.com/ikedon0505/n/n3d4e402301e3",
+    "https://note.com/ichi_twnovel/n/nc7a804e0096d",
+    "https://note.com/pearceinagaki_jp/n/n0b66758d80e5",
+    "https://note.com/redraw_0/n/n866774fa5b3f",
+    "https://note.com/jack4manastalk/n/ncabf83a88dd4",
+    "https://note.com/ocaml/n/nc8a8ec727bfa",
+    "https://note.com/tender_oriole190/n/n7d8e72960bdd",
+    "https://note.com/ocaml/n/n2c027478b941"
+   ]
+  },
+  {
+   "query": "site:x.com マイナビ中途採用状況調査の業種別・従業員規模別（製造業の採用費・採用人数の原典）",
+   "results": [
+    "https://x.com/Mizuki_SAIRAI/status/2071604849653989727",
+    "https://x.com/koyoukaihatu/status/2104765477415432468",
+    "https://x.com/500drachmas/status/2038128469192958428",
+    "https://x.com/info_vcareer/status/2079378291522469893",
+    "https://x.com/info_vcareer/status/2107621932614955246",
+    "https://x.com/tech_career_ana/status/2111389987216474173",
+    "https://x.com/Recruit_works/status/2020698349415080286"
+   ]
+  },
+  {
+   "query": "site:linkedin.com マイナビ中途採用状況調査の業種別・従業員規模別（製造業の採用費・採用人数の原典）",
+   "results": [
+    "https://jp.linkedin.com/posts/fukagwatakumi_マイナビが人事担当者1500名に聞いた中途採用の調査です-2025年に採用人数-activity-7505400156813676544-5c3V",
+    "https://www.linkedin.com/pulse/中途採用転職活動の定点調査から見る数のミスマッチ-崇-堀内-pfisf",
+    "https://jp.linkedin.com/posts/yuki-kawasaki_マイナビ中途採用状況調査2026年版2025年実績の結果を発表-日本経済新聞-activity-7456700153039851520-VASj",
+    "https://www.linkedin.com/pulse/転職市場の動きが鈍かった2024年は来たる労働市場減少社会の予行演習だったのでは-崇-堀内-hmdrc",
+    "https://jp.linkedin.com/posts/koji-furukawa-b79a98289_中途採用状況調査2026年版2025年実績-activity-7510479775962959873-YJF6",
+    "https://jp.linkedin.com/posts/koji-furukawa-b79a98289_ニュースリリース-マイナビ-activity-7509044301906235392-IRyk",
+    "https://jp.linkedin.com/posts/koji-furukawa-b79a98289_中途採用転職-総括レポート-2026年版2025年実績-activity-7501849446125801472-3GUa"
+   ]
+  },
+  {
+   "query": "site:facebook.com マイナビ中途採用状況調査の業種別・従業員規模別（製造業の採用費・採用人数の原典）",
+   "results": [
+    "https://www.facebook.com/office.oshima/posts/中途採用実態調査2024年度実績正規社員pdfを表示-3472kbhttpswwwworks-icomsurveysitem250617_midcareerpd/1128093886025954/",
+    "https://www.facebook.com/hrpro.co.jp/posts/マイナビが中途採用状況調査2022年版の結果を発表業種別の人手不足感や2022年の中途採用の見通しなどが明らかに中途採用-キャリア採用-人手不足-マッチング-働/6007194409294145/",
+    "https://www.facebook.com/hrpro.co.jp/photos/マイナビが中途採用状況調査2022年版の結果を発表業種別の人手不足感や2022年の中途採用の見通しなどが明らかに中途採用-キャリア採用-人手不足-マッチング-働/6007194395960813/",
+    "https://www.facebook.com/npojcca/posts/マイナビが中途採用状況調査の結果を発表した中途採用は即戦力補充が主な理由2024年４月からトラックドライバーなどの残業上限規制が始まる物流業界は切迫感が増してい/653217543578880/",
+    "https://www.facebook.com/hrzine/posts/マイナビは全国の民間企業などにおいて中途採用業務のうち採用費用の管理運用に携わっている人事担当者を対象に中途採用状況調査2022年版を実施した/529241512144788/",
+    "https://www.facebook.com/worksinstitute/posts/民間企業の正規社員の中途採用の見通しと実績を調査しました2026年度の中途採用数が前年より増える197が減る59を上回り中途採用diは5年連続のプラスとなりまし/1479524270626425/",
+    "https://www.facebook.com/jobins.jp/posts/中途採用状況調査-2019年版2018年実績httpscareerlabtenshokumynavijpreportreport-7934/675333722926192/"
+   ]
+  },
+  {
+   "query": "マイナビ中途採用状況調査の業種別・従業員規模別（製造業の採用費・採用人数の原典） note 社長",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "https://career-research.mynavi.jp/reserch/20260529_111552/",
+    "https://enterprise.goworkship.com/lp/recruit/recruit-cost-how",
+    "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "https://umai-jinji.jp/column/other-86/",
+    "https://career-research.mynavi.jp/reserch/20260430_110450/"
+   ]
+  },
+  {
+   "query": "マイナビ中途採用状況調査の業種別・従業員規模別（製造業の採用費・採用人数の原典） X 投稿",
+   "results": [
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "https://career-research.mynavi.jp/reserch/20260529_111552/",
+    "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "https://career-research.mynavi.jp/reserch/20260430_110450/",
+    "https://career-research.mynavi.jp/reserch/20260518_110616/",
+    "https://www.nikkei.com/article/DGXZRSP705107_Q6A330C2000000/",
+    "https://career-research.mynavi.jp/reserch/20250326_93514/"
+   ]
+  },
+  {
+   "query": "Mynavi mid-career recruitment survey manufacturing by company size hiring cost site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/mynavikorea",
+    "https://www.linkedin.com/posts/samhall-talentpartner-recruiter_japanhiring-talentacquisition-tokyojobs-activity-7397416463260684288-jmDs",
+    "https://www.linkedin.com/in/ortik-khamdamov-3722a592",
+    "https://www.linkedin.com/posts/naveen-kumar-948098100_top-job-portals-to-apply-for-jobs-in-activity-7434741934780272640-nh9v",
+    "https://www.linkedin.com/posts/wecrin_japanhiring-localrecruitment-linkedinrecruiting-activity-7368606154546917377-cGGV",
+    "https://www.linkedin.com/posts/%E8%B2%9E%E4%BA%BA-%E8%A5%BF%E5%AE%AE-23524616b_recruitment-talentacquisition-japan-activity-7517102385358409728-PgeQ",
+    "https://www.linkedin.com/pulse/japan-becoming-manager-punishment-thats-why-you-cant-hire-lim-ll76c",
+    "https://jp.linkedin.com/in/maki-kobayashi-sf",
+    "https://www.linkedin.com/company/wecrin",
+    "https://www.linkedin.com/posts/samhall-talentpartner-recruiter_japanhiring-linkedinjapan-globalhiring-activity-7417342537746518017-UUod"
+   ]
+  }
+ ],
+ "missing": {
+  "セグメント定義": "記載なし（読んだ30頁・検索13回）",
+  "採用単価": "記載なし（読んだ30頁・検索13回）",
+  "年間採用費": "記載なし（読んだ30頁・検索13回）",
+  "採用経路": "記載なし（読んだ30頁・検索13回）",
+  "充足・欠員": "記載なし（読んだ30頁・検索13回）",
+  "調査主体・時期": "記載なし（読んだ30頁・検索13回）"
+ }
+}

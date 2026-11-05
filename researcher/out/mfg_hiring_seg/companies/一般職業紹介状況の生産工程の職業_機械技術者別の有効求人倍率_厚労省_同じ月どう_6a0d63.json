@@ -1,0 +1,325 @@
+{
+ "name": "一般職業紹介状況の生産工程の職業・機械技術者別の有効求人倍率（厚労省・同じ月どうし）",
+ "en": "MHLW general job placement statistics effective job openings ratio production process occupations mechanical engineers",
+ "aliases": [
+  "一般職業紹介状況 職業別 有効求人倍率 生産工程の職業 site:mhlw.go.jp",
+  "一般職業紹介状況 機械技術者 有効求人倍率 年次",
+  "職業別 有効求人倍率 e-Stat 生産工程 機械技術者"
+ ],
+ "context": "職種",
+ "kind": "market",
+ "researched_at": "2026-11-05T16:35:06.352176+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jinjibu.jp/news/detl/26717/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lassic.co.jp/media/person/engineer-job-market-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/guide/start/32493/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.transtructure.com/hr-data-analysys/labor/p17764/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000143877.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/114-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001020327",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00450222",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "一般職業紹介状況の生産工程の職業・機械技術者別の有効求人倍率（厚労省・同じ月どうし） 採用単価 規模別",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://jinjibu.jp/news/detl/26717/",
+    "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/",
+    "https://saiyo.employment.en-japan.com/blog/jobs-to-applicants-ratio-by-job-type",
+    "https://www.soumu.go.jp/main_content/000143877.pdf"
+   ]
+  },
+  {
+   "query": "一般職業紹介状況の生産工程の職業・機械技術者別の有効求人倍率（厚労省・同じ月どうし） 採用コスト 調査 万円",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://www.works-i.com/column/labor-market/detail015.html",
+    "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://jinjibu.jp/news/detl/26717/",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/"
+   ]
+  },
+  {
+   "query": "一般職業紹介状況の生産工程の職業・機械技術者別の有効求人倍率（厚労省・同じ月どうし） 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://lassic.co.jp/media/person/engineer-job-market-data/",
+    "https://www.r-agent.com/guide/start/32493/",
+    "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/"
+   ]
+  },
+  {
+   "query": "一般職業紹介状況の生産工程の職業・機械技術者別の有効求人倍率（厚労省・同じ月どうし） 採用経路 割合 調査",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "https://www.works-i.com/column/labor-market/detail015.html",
+    "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://jinjibu.jp/news/detl/26717/",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://www.transtructure.com/hr-data-analysys/labor/p7557/"
+   ]
+  },
+  {
+   "query": "一般職業紹介状況の生産工程の職業・機械技術者別の有効求人倍率（厚労省・同じ月どうし） 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "https://www.works-i.com/column/labor-market/detail015.html",
+    "https://www.transtructure.com/hr-data-analysys/labor/p17764/",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/"
+   ]
+  },
+  {
+   "query": "一般職業紹介状況の生産工程の職業・機械技術者別の有効求人倍率（厚労省・同じ月どうし） 白書 採用",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://jinjibu.jp/news/detl/26717/",
+    "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/",
+    "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "https://www.soumu.go.jp/main_content/000143877.pdf",
+    "https://www.mhlw.go.jp/toukei/list/114-1.html"
+   ]
+  },
+  {
+   "query": "site:note.com 一般職業紹介状況の生産工程の職業・機械技術者別の有効求人倍率（厚労省・同じ月どうし）",
+   "results": [
+    "https://note.com/jazzy_mole4471/n/n64cfb0ee529a",
+    "https://note.com/unitelink/n/n12df7739d97f",
+    "https://note.com/career_bible/n/n245b12fc203b",
+    "https://note.com/career_bible/n/nac150f4a2e7c",
+    "https://note.com/son_jon/n/nb1bf010a6a0e",
+    "https://note.com/marketingtanuki/n/n65b40ad5665c",
+    "https://note.com/jack4manastalk/n/n880406135053",
+    "https://note.com/brainpad_aaa/n/nb3f803647a42",
+    "https://note.com/brainpad_aaa/n/nb7099cba2665",
+    "https://note.com/powerpoint_jp/n/n19840a713886"
+   ]
+  },
+  {
+   "query": "site:x.com 一般職業紹介状況の生産工程の職業・機械技術者別の有効求人倍率（厚労省・同じ月どうし）",
+   "results": [
+    "https://x.com/tokyoroudouMHLW/status/2017100464471384468",
+    "https://x.com/indbgraphreport/status/2038957947339100420",
+    "https://x.com/i/trending/2079500433479933988",
+    "https://x.com/info_vcareer/status/2105077665254588508",
+    "https://x.com/indbgraphreport/status/2048926724386414671",
+    "https://x.com/i/trending/2079145432018559004",
+    "https://x.com/indbgraphreport/status/1851059546070139055"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 一般職業紹介状況の生産工程の職業・機械技術者別の有効求人倍率（厚労省・同じ月どうし）",
+   "results": [
+    "https://jp.linkedin.com/in/%E7%A0%94%E4%BA%8C-%E8%97%A4%E5%B2%A1-944924359",
+    "https://www.linkedin.com/pulse/%E8%A8%98%E4%BA%8B%E6%8A%9C%E7%B2%8B433-toru-hara-yc7oc",
+    "https://www.linkedin.com/pulse/linkedin-stats-2026-updated-joe-apfelbaum-sfxte",
+    "https://www.linkedin.com/pulse/一般職業紹介状況労働力調査令和6年2月分-崇-堀内-xqazc",
+    "https://jp.linkedin.com/jobs/view/新興国での現地生産の「事業企画及び現地工場における生産準備（設備・工程設計、溶接指導）」-at-toyota-motor-corporation-4277377907",
+    "https://jp.linkedin.com/jobs/view/生産計画アシスタント-「niankos」-のソフト開発・現場への導入-（スタッフ・チームリーダー）-at-toyota-motor-corporation-4173004394",
+    "https://jp.linkedin.com/posts/宗大-宅間-41b61838a_開拓を増やしたいのに打ち手が採用しかない-②人材サービス製造業特化プライム-activity-7498663380132560897-6NDO",
+    "https://jp.linkedin.com/posts/sakuraitakuya_一般職業紹介状況令和7年6月分離職理由別求職者数の推移令和7年8月発表-activity-7361526205113618433-jWN_",
+    "https://de.linkedin.com/posts/christina-grubendorfer_wir-trauern-um-unseren-kollegen-und-freund-activity-7483592610088017920-saqQ"
+   ]
+  },
+  {
+   "query": "site:facebook.com 一般職業紹介状況の生産工程の職業・機械技術者別の有効求人倍率（厚労省・同じ月どうし）",
+   "results": [
+    "https://www.facebook.com/minshokyo/posts/厚労省職業紹介事業における職種別手数料離職状況が公表されました１２月２５日木厚生労働省から職業紹介事業者における職種別手数料離職状況についてが公表されましたこれ/863011129655238/",
+    "https://www.facebook.com/jinzaikyo/",
+    "https://www.facebook.com/lcgjapan/posts/lcgブログ公共職業安定所における一般職業紹介業務取扱要領を公開-会員限定コンテンツとして情報公開法の開示請求等により入手した役所内の各種マニュアルや通達等を分/750606661641594/",
+    "https://www.facebook.com/atsushi.okumura.sr/posts/労働時事49-２月の有効求人倍率３月31日厚生労働省ｈｐ一般職業紹介状況令和８年２月分によれば本年２月の有効求人倍率季節調整値は119倍で前月に比べて001ポイ/1546304880828087/",
+    "https://www.facebook.com/tanabecci/posts/ハローワーク田辺より一般職業紹介状況業務月報令和7年2月分が公表されました出典和歌山労働局ホームページ/1088833689950636/",
+    "https://www.facebook.com/aichi.roudoukyoku/posts/令和８年１月における雇用情勢をお伝えします-基調判断-雇用情勢は求人が求職を上回って推移しているものの物価上昇等が雇用に与える影響に注意する必要がある-有効求人/1370002271836174/",
+    "https://www.facebook.com/minshokyo/posts/厚生労働省東京愛知大阪各労働局から令和６年度指導監督状況報告書及び令和７年度指導監督方針が公表されました東京労働局愛知労働局大阪労働局から令和６年度職業紹介事業/719798867309799/"
+   ]
+  },
+  {
+   "query": "一般職業紹介状況の生産工程の職業・機械技術者別の有効求人倍率（厚労省・同じ月どうし） note 社長",
+   "results": [
+    "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "https://note.com/cclink/n/nbb7850e101c7",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "https://note.com/iida_yasuyuki/n/n627a844b8f7c",
+    "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/",
+    "https://lassic.co.jp/media/person/engineer-job-market-data/",
+    "https://www.henmi-adm.jp/news/2895.html"
+   ]
+  },
+  {
+   "query": "一般職業紹介状況の生産工程の職業・機械技術者別の有効求人倍率（厚労省・同じ月どうし） X 投稿",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://www.henmi-adm.jp/news/2895.html",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "https://jinjibu.jp/news/detl/26717/",
+    "https://note.com/kazucallnote/n/nd4d805c7d46e?sub_rt=share_pb",
+    "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001020327"
+   ]
+  },
+  {
+   "query": "MHLW general job placement statistics effective job openings ratio production process occupations mechanical engineers site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/jobs/view/manufacturing-lead-at-argen-corporation-4455404824",
+    "https://il.linkedin.com/in/adely-levy-52338822",
+    "https://www.linkedin.com/in/karthik-manoharan-mechanical-engineer",
+    "https://www.linkedin.com/in/hadi-wibawa-09601083",
+    "https://www.linkedin.com/in/jorge-fernandes-20ba548",
+    "https://www.linkedin.com/pulse/maintenance-support-lifecycle-challenges-robot-andre-ubeze",
+    "https://www.linkedin.com/in/lhensin",
+    "https://www.linkedin.com/in/john-pustell-80206aa",
+    "https://in.linkedin.com/in/mohammed-moin-shaikh-4a4024230",
+    "https://www.linkedin.com/in/lane-harper-12a506159"
+   ]
+  }
+ ],
+ "missing": {
+  "セグメント定義": "記載なし（読んだ23頁・検索13回）",
+  "採用単価": "記載なし（読んだ23頁・検索13回）",
+  "年間採用費": "記載なし（読んだ23頁・検索13回）",
+  "採用経路": "記載なし（読んだ23頁・検索13回）",
+  "充足・欠員": "記載なし（読んだ23頁・検索13回）",
+  "調査主体・時期": "記載なし（読んだ23頁・検索13回）"
+ }
+}

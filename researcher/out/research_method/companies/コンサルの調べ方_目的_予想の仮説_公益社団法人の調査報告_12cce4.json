@@ -8,22 +8,8 @@
  ],
  "context": "分析の型",
  "kind": "market",
- "researched_at": "2026-11-05T11:57:30.663632+00:00",
+ "researched_at": "2026-11-05T16:34:59.372153+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "入社後すぐにアナリストとして任されることが多い「デスクリサーチ」を例に方法と注意すべきポイントを解説",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "次世代のマテハン「物流ロボット」を解説！導入のメリットと注意点",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！ - Rally Note〜激しい環境変化を乗り越えるためのビジネスマガジン〜",
@@ -208,26 +194,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "こともあり戦略や調査設計時の仮説構築のために使われることが多いです",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "どのような情報になるか事前に仮説をたてておくことも重要です",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説に基づいて示唆出し、アウトプットの整理",
-    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "検索結果の抜粋": [
    {
     "quote": "コンサル のリサーチ実務どうやるの？4つのステップを実例 ... — コンサル のリサーチ実務どうやるの？4つのステップを実例 ... ラリーグロース株式会社 https://note.rallygrowth.co.jp > おすすめ",
@@ -291,6 +257,40 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "こともあり戦略や調査設計時の仮説構築のために使われることが多いです",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どのような情報になるか事前に仮説をたてておくことも重要です",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説に基づいて示唆出し、アウトプットの整理",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "入社後すぐにアナリストとして任されることが多い「デスクリサーチ」を例に方法と注意すべきポイントを解説",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "次世代のマテハン「物流ロボット」を解説！導入のメリットと注意点",
+    "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -332,11 +332,6 @@
     "method": "http"
    },
    {
-    "url": "https://globis.jp/article/2233/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.concord-career.com/dictionary/hypothesis-thinking/",
     "status": "ok",
     "method": "http"
@@ -355,6 +350,11 @@
     "url": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership.html",
     "status": "http_403",
     "method": "http"
+   },
+   {
+    "url": "https://stig.pp.u-tokyo.ac.jp/pdf/WP202403_1.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://note.rallygrowth.co.jp/recommend/consultant-research/",
@@ -382,7 +382,7 @@
     "method": "http"
    },
    {
-    "url": "https://consul.global/post38781/",
+    "url": "https://globis.jp/article/2233/",
     "status": "ok",
     "method": "http"
    },
@@ -407,12 +407,12 @@
     "method": "pdf"
    },
    {
-    "url": "https://constep.jp/column/2106",
+    "url": "https://constep.jp/column/2833",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://constep.jp/column/2833",
+    "url": "https://constep.jp/column/2106",
     "status": "ok",
     "method": "http"
    },
@@ -443,8 +443,8 @@
    },
    {
     "url": "https://medium.com/change-becomes-you/a-famous-strategy-consulting-technique-to-solve-problems-in-work-and-life-c8bcc069c95f",
-    "status": "ok",
-    "method": "browser"
+    "status": "http_403",
+    "method": "http"
    }
   ]
  },
@@ -468,14 +468,14 @@
    "query": "コンサルの調べ方（目的・予想の仮説・公益社団法人の調査報告） note",
    "results": [
     "https://note.com/tsunobuchi/n/n14a67db1074a",
-    "https://globis.jp/article/2233/",
     "https://www.concord-career.com/dictionary/hypothesis-thinking/",
     "https://bizgate.nikkei.com/article/DGXMZO3110386029052018000000?page=2",
     "https://www.fsa.go.jp/common/about/research/20250402/20250402.html",
     "https://www.pwc.com/jp/ja/knowledge/thoughtleadership.html",
-    "https://zen-consulting.net/2022/09/24/columnshortstory-initial-hypothesis-construction/",
     "https://stig.pp.u-tokyo.ac.jp/pdf/WP202403_1.pdf",
     "https://www.koeki-info.go.jp/content/20231130_11shiryo.pdf",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://note.com/spring_biz/n/nd7273285304a",
     "https://note.com/kfurusawa/n/nf281ee09554d"
    ]
   },
@@ -520,8 +520,8 @@
     "https://quizlet.com/800031683/quiz-06-a-short-introduction-to-science-flash-cards/",
     "https://medium.com/change-becomes-you/a-famous-strategy-consulting-technique-to-solve-problems-in-work-and-life-c8bcc069c95f",
     "https://pubmed.ncbi.nlm.nih.gov/30304365/",
-    "https://www.theanalystacademy.com/strategy-hypothesis-driven-approach/",
-    "https://www.plaud.ai/blogs/articles/consulting-report-template"
+    "https://www.reddit.com/r/consulting/comments/114fkgl/always_asked_to_carry_out_research_for_close_to/",
+    "https://visme.co/blog/consulting-report/"
    ]
   },
   {
@@ -531,12 +531,12 @@
     "https://note.com/anozaki/n/n8373b7aa9879",
     "https://note.com/kenta_19811025/n/ncf6f624939ac",
     "https://note.com/pogohopper8/n/n72c53042f427",
-    "https://note.com/olp2017/n/ncc843b441239",
     "https://note.com/medical_shift/n/n03a2c03a98e5",
-    "https://note.com/tojo_tokiaki/n/ncd076e28d636",
-    "https://note.com/crisp_curlew7429/n/n71426d121de2",
+    "https://note.com/takezo0921/n/n98a089779ef5",
+    "https://note.com/olp2017/n/ncc843b441239",
     "https://note.com/gentle_serval947/n/nc9c0d339a9c9",
-    "https://note.com/takezo0921/n/n98a089779ef5"
+    "https://note.com/crisp_curlew7429/n/n71426d121de2",
+    "https://note.com/xoperation/n/n93109494872d"
    ]
   },
   {
@@ -544,12 +544,12 @@
    "results": [
     "https://x.com/500drachmas",
     "https://x.com/koki_fukatsu",
-    "https://x.com/Strategy_Xx/status/2106983282500137438",
     "https://x.com/coach_kubota/article/2118164233326330244",
     "https://x.com/MacopeninSUTABA/status/2097883259686318238",
-    "https://x.com/Strategy_Xx/status/2107032073366372813",
     "https://x.com/consultant_2025/status/2077918546601164874",
+    "https://x.com/Strategy_Xx/status/2107032073366372813",
     "https://x.com/kanawakakasuga/status/2093322713574355031",
+    "https://x.com/daisuke_wakui/status/2116674327718641903",
     "https://x.com/consul_ichinose/status/2087757070695309333"
    ]
   },
@@ -577,21 +577,21 @@
     "https://www.facebook.com/minshokyo/posts/採用における人材サービスの利用に関するアンケート調査厚生労働省実施への-ご協力のお願い厚生労働省が職業紹介事業募集情報等提供事業等の適正な運営を確保するための今/1030271139595902/",
     "https://www.facebook.com/1jcer/",
     "https://www.facebook.com/chanceforchildren/posts/子どもの体験格差実態調査最終報告書を公開しています本調査はcfcが全国の小学生保護者2097人を対象にスポーツや文化芸術活動キャンプ等学校外の子どもの体験活動へ/657686099734850/",
-    "https://www.facebook.com/nikkei/posts/アクセンチュア浜岡社長調査だけのコンサルは時代遅れいらない-個人が顧客に必要とされる人材であり続けなければ生き残れないaiが進化しコンサル不要論も叫ばれる中業界/1583583443113052/"
+    "https://www.facebook.com/kohokyo/posts/三つの仮説財団は社団に較べ新公益法人制度により親和的である内閣府所管法人は都道府県所管法人に較べ不満が少ない一般法人は公益法人に較べ運営上の障害は少ないさて皆さ/2056097414628768/"
    ]
   },
   {
    "query": "コンサルの調べ方（目的・予想の仮説・公益社団法人の調査報告） note 社長",
    "results": [
-    "https://note.rallygrowth.co.jp/recommend/consultant-research/",
-    "https://note.com/spring_biz/n/nd7273285304a",
-    "https://consul.global/post38781/",
-    "https://bizgate.nikkei.com/article/DGXMZO3110386029052018000000?page=2",
-    "https://www.concord-career.com/dictionary/hypothesis-thinking/",
-    "https://career-incubation.co.jp/consulting/research/forefront/post-40.html",
+    "https://note.com/tsunobuchi/n/n14a67db1074a",
+    "https://www.nikkei.com/article/DGXMZO65074540W0A011C2000000",
     "https://www.fsa.go.jp/common/about/research/20250402/20250402.html",
-    "https://www.pwc.com/jp/ja/knowledge/thoughtleadership.html",
     "https://stig.pp.u-tokyo.ac.jp/pdf/WP202403_1.pdf",
+    "https://www.pwc.com/jp/ja/knowledge/thoughtleadership.html",
+    "https://researchmap.jp/shigeki-takeuchi/presentations/40372364",
+    "https://a-zeim.jp/consulting-revenue-forecasting-methods.html",
+    "https://note.com/domonjo01/n/n448f18bb8733",
+    "https://www.jfc.or.jp/wp-content/uploads/2022/05/10PT_appendix.pdf",
     "https://note.com/kfurusawa/n/nf281ee09554d"
    ]
   },
@@ -600,14 +600,14 @@
    "results": [
     "https://www.tiglon-partners.com/knowledge/a10bb00000055sdyaa/21453/",
     "https://influfect.com/notice/2928/",
-    "https://note.rallygrowth.co.jp/recommend/consultant-research/",
     "https://www.koho.or.jp/consulting/web/",
+    "https://note.rallygrowth.co.jp/recommend/consultant-research/",
     "https://sairu.co.jp/service/consulting/newbusiness/hypothesis-verification/",
     "https://www.fsa.go.jp/common/about/research/20250402/20250402.html",
     "https://www.hottolink.co.jp/service/twitter/consulting/",
-    "https://e-pace.co.jp/column/x-consulting/",
     "https://note.com/ulcons/n/n4e5578444b56",
-    "https://note.com/kfurusawa/n/nf281ee09554d"
+    "https://www.pwc.com/jp/ja/knowledge/thoughtleadership.html",
+    "https://renue.co.jp/posts/consulting-strategy-department-guide"
    ]
   },
   {
@@ -620,14 +620,14 @@
     "https://www.linkedin.com/company/fti-consulting",
     "https://www.linkedin.com/company/managedsolution",
     "https://business.linkedin.com/learn/resources/workplace-learning-report",
+    "https://www.linkedin.com/company/research-solutions",
     "https://www.linkedin.com/company/ibm",
-    "https://www.linkedin.com/company/mckinsey",
-    "https://www.linkedin.com/pulse/what-supply-chain-research-why-you-should-care-lora-cecere-tpnbe"
+    "https://www.linkedin.com/company/mckinsey"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-05T05:08:43.185057+00:00"
 }
