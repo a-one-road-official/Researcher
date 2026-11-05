@@ -8,66 +8,8 @@
  ],
  "context": "失敗・落とし穴",
  "kind": "market",
- "researched_at": "2026-11-05T16:38:29.214756+00:00",
+ "researched_at": "2026-11-05T18:32:16.371579+00:00",
  "evidence": {
-  "一次情報の探し方": [
-   {
-    "quote": "Centrica accounts (PDF)",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "how to find stories in company accounts",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Empathy as an investigative tool: how to map systems to come up with story ideas",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Teaching journalists how to find stories in company accounts: the story treasure hunt",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Teaching journalists how to find stories in company accounts: the story treasure hunt | Online Journalism Blog",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Teaching journalists how to find stories in company accounts: the story treasure hunt – Totally news",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to reduce the environmental impact of using AI",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "\"Journey prompts\" and \"destination prompts\": how to avoid becoming deskilled when using AI",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to: fix spreadsheet dates that are in both US and UK formats",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "実例": [
    {
     "quote": "Here, for example, is the Chairman of a football club criticising “so called fans” [sic] — as well as the local newspaper",
@@ -129,6 +71,64 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "how to find stories in company accounts",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Empathy as an investigative tool: how to map systems to come up with story ideas",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Teaching journalists how to find stories in company accounts: the story treasure hunt",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Teaching journalists how to find stories in company accounts: the story treasure hunt | Online Journalism Blog",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Teaching journalists how to find stories in company accounts: the story treasure hunt – Totally news",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to reduce the environmental impact of using AI",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "\"Journey prompts\" and \"destination prompts\": how to avoid becoming deskilled when using AI",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to: fix spreadsheet dates that are in both US and UK formats",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Centrica accounts (PDF)",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -145,6 +145,11 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/kaburobo/n/n3234f1af464a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/super_shisetucho/n/n973f90730c06",
     "status": "ok",
     "method": "http"
@@ -156,11 +161,6 @@
    },
    {
     "url": "https://note.com/ledge_globe/n/ne5fc5b799c01",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kyo_lowkeylife75/n/n80d6c7978c2a",
     "status": "ok",
     "method": "http"
    },
@@ -205,14 +205,14 @@
     "method": "http"
    },
    {
-    "url": "https://lab.pasona.co.jp/accounting/word/302/",
-    "status": "ok",
+    "url": "https://biz.moneyforward.com/accounting/basic/75547/",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://biz.moneyforward.com/accounting/basic/75547/",
+    "url": "https://lab.pasona.co.jp/accounting/word/302/",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://www.mjs.co.jp/outline/zeikei/activities/works/assets/pdf/monthlyreport24.pdf",
@@ -220,7 +220,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://profession-net.com/professionjournal/",
+    "url": "https://it-trend.jp/accounting_software/article/8-0003",
     "status": "ok",
     "method": "http"
    },
@@ -292,12 +292,12 @@
    "results": [
     "https://note.com/paguinu/n/n668cc7419453",
     "https://note.com/pure_accountant/n/n01a0f6d7715b",
+    "https://note.com/kaburobo/n/n3234f1af464a",
     "https://note.com/super_shisetucho/n/n973f90730c06",
     "https://note.com/van_finance9999/n/ned7ee1a74ac1",
     "https://note.com/ledge_globe/n/ne5fc5b799c01",
     "https://note.com/kyo_lowkeylife75/n/n80d6c7978c2a",
-    "https://note.com/finance_clinic/n/n1b223f531d59",
-    "https://note.com/haru2006ppe/n/n6ab886dbb003"
+    "https://note.com/finance_clinic/n/n1b223f531d59"
    ]
   },
   {
@@ -323,10 +323,10 @@
     "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/kan_ren0720_2_s_20220701.pdf",
     "https://www.youtube.com/watch?v=DBV1D4GuMXk",
     "https://prime-partners.co.jp/%E9%96%A2%E9%80%A3%E5%BD%93%E4%BA%8B%E8%80%85%E3%81%A8%E3%81%AF%EF%BC%9F%E7%AF%84%E5%9B%B2%E3%82%84%E5%8F%96%E5%BC%95%E3%81%AE%E9%96%8B%E7%A4%BA%E7%BE%A9%E5%8B%99%E3%82%92%E4%BC%9A%E8%A8%88%E5%9F%BA/",
-    "https://lab.pasona.co.jp/accounting/word/302/",
     "https://biz.moneyforward.com/accounting/basic/75547/",
+    "https://lab.pasona.co.jp/accounting/word/302/",
     "https://www.mjs.co.jp/outline/zeikei/activities/works/assets/pdf/monthlyreport24.pdf",
-    "https://profession-net.com/professionjournal/",
+    "https://it-trend.jp/accounting_software/article/8-0003",
     "https://www.youtube.com/watch?v=0g9pm0h3T_I"
    ]
   },
@@ -365,9 +365,9 @@
    "results": [
     "https://note.com/pure_accountant/n/n01a0f6d7715b",
     "https://note.com/ledge_globe/n/ne5fc5b799c01",
-    "https://note.com/van_finance9999/n/ned7ee1a74ac1",
     "https://note.com/super_shisetucho/n/n973f90730c06",
     "https://note.com/kyo_lowkeylife75/n/n80d6c7978c2a",
+    "https://note.com/van_finance9999/n/ned7ee1a74ac1",
     "https://note.com/finance_clinic/n/n1b223f531d59",
     "https://note.com/haru2006ppe/n/n6ab886dbb003"
    ]
@@ -379,22 +379,14 @@
     "https://x.com/100sha_knock",
     "https://x.com/Yf2JBeb3O918862/status/2049479423196582236",
     "https://x.com/shachou_k_ai/status/2091003090820644867",
+    "https://x.com/boki_accounting/status/2115370753822781748",
     "https://x.com/nkinvestigation",
-    "https://x.com/kaisha_cfo",
-    "https://x.com/kagachan777/status/2075442197416067305"
+    "https://x.com/kaisha_cfo"
    ]
   },
   {
    "query": "site:linkedin.com 調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字）",
-   "results": [
-    "https://jp.linkedin.com/in/naoki-asanuma-a2ba82264",
-    "https://jp.linkedin.com/in/正行-鈴木-810a1a17b",
-    "https://jp.linkedin.com/pulse/決算書重視の信用調査-hiroyuki-nakamura",
-    "https://www.linkedin.com/posts/rokkakuakio_決算書の数字は１００真実ではない六角明雄中小企業診断士経営コンサルタントビジネス-activity-7220050424140058626-inER",
-    "https://www.linkedin.com/posts/kenjiasada_17日土曜日日本記者クラブ土曜記者ゼミ調査報道でジャーナリスト記者向けに-activity-7012433755495694336-Pzqj",
-    "https://jp.linkedin.com/posts/海地-杉田-053ab0348_aiで決算書の分析ができる時代になりましたが自分で数字を読めない経営者はむしろ-activity-7456998580684369921-0FLa",
-    "https://jp.linkedin.com/pulse/年商180億の卸なのに期末だけ買掛金が軽い決算書に載らない9億円の簿外債務-kohei-yoshioka-6nccc"
-   ]
+   "results": []
   },
   {
    "query": "site:facebook.com 調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字）",
@@ -404,8 +396,8 @@
     "https://www.facebook.com/smrj.tokyokou/photos/数字に強い管理者へ苦手意識を解消しマネジメントの視座を変える数字の話になるとつい苦手意識が自社の決算書実は読み方がよくわからないそんなモヤモヤを抱えている管理者/1312460440941978/",
     "https://www.facebook.com/teruo.fujima/photos/モデル決算書で学ぶ財務入門決算書の仕組みや用語の意味数字の流れなどを理解したうえで決算書から経営体質や今後の課題などを読み取る視点について学びます加えてモデル決/27268630302779561/",
     "https://www.facebook.com/smrjchubu/photos/決算書を読み解く力をつける基本講座のご案内経営活動の成果を表した決算書を的確に読み解く事は財務面から企業経営業務を行う為に重要な第一歩ですこの研修では決算書の仕/1357154476446440/",
-    "https://www.facebook.com/kodatokaikei/posts/中小企業経営者必見決算書の読み方パーフェクトガイドpl損益計算書編決算書を読むスキルは会社の財務状況を理解し将来の戦略を立てる上で非常に重要です特にpl損益計算/1239281907259138/",
-    "https://www.facebook.com/tsrnet/posts/データを読む9月中間決算-上場企業継続企業の前提に関する注記調査gc注記-重要事象-付記企業合計59社-前年度から5社減少上場企業の倒産はリーマンショック時の2/1522637507804366/"
+    "https://www.facebook.com/tsrnet/posts/データを読む9月中間決算-上場企業継続企業の前提に関する注記調査gc注記-重要事象-付記企業合計59社-前年度から5社減少上場企業の倒産はリーマンショック時の2/1522637507804366/",
+    "https://www.facebook.com/kodatokaikei/posts/中小企業経営者必見決算書の読み方パーフェクトガイドpl損益計算書編決算書を読むスキルは会社の財務状況を理解し将来の戦略を立てる上で非常に重要です特にpl損益計算/1239281907259138/"
    ]
   },
   {
@@ -420,7 +412,7 @@
     "https://www.youtube.com/watch?v=k4d5ELPEGGg",
     "https://shikiho.toyokeizai.net/news/0/637641",
     "https://www.active-labo.com/%E4%B8%8E%E4%BF%A1%E7%AE%A1%E7%90%86%E3%82%B3%E3%83%A9%E3%83%A0/%EF%BD%87%EF%BD%83%E6%B3%A8%E8%A8%98%E3%82%92%E3%82%81%E3%81%90%E3%82%8B-%E8%AA%A4%E8%A7%A3/",
-    "https://www.youtube.com/watch?v=0g9pm0h3T_I"
+    "https://prime-partners.co.jp/related-party-note-example/"
    ]
   },
   {
@@ -432,7 +424,7 @@
     "https://www.k-larc.jp/%E7%94%A8%E8%AA%9E%E9%9B%86/%E5%AF%A9%E6%9F%BB%E9%96%A2%E9%80%A3-%E9%96%8B%E7%A4%BA-j-sox/gc%E6%B3%A8%E8%A8%98/",
     "https://www.active-labo.com/%E4%B8%8E%E4%BF%A1%E7%AE%A1%E7%90%86%E3%82%B3%E3%83%A9%E3%83%A0/%EF%BD%87%EF%BD%83%E6%B3%A8%E8%A8%98%E3%82%92%E3%82%81%E3%81%90%E3%82%8B-%E8%AA%A4%E8%A7%A3/",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://jicpa.or.jp/specialized_field/2-24-570-2-20221013.pdf",
+    "https://jicpa.or.jp/specialized_field/2-24-570-2-20191009.pdf",
     "https://www.ey.com/ja_jp/technical/library/info-sensor/2021/info-sensor-2021-12-11",
     "https://www.murc.jp/wp-json/wp/v2/column_reports/93218/revisions",
     "https://www.youtube.com/watch?v=0g9pm0h3T_I"
@@ -459,6 +451,6 @@
   "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-05T10:44:49.352522+00:00"
 }

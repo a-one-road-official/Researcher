@@ -8,7 +8,7 @@
  ],
  "context": "手順・やり方",
  "kind": "market",
- "researched_at": "2026-11-05T16:37:11.739202+00:00",
+ "researched_at": "2026-11-05T18:31:28.160565+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -180,6 +180,20 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Estimate value and cost savings from data observability.",
+    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "shows that organizations lose an estimated $13 million annually due to poor data quality, including stale data.",
+    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "Here’s how these risks manifest with real-world examples:",
@@ -237,20 +251,6 @@
    },
    {
     "quote": ", Quadratic helps users to identify stale data right from their spreadsheet interface. Suppose you’re working with large amounts of data for analysis and you quickly want to identify some stale data that is no longer relevant, you can do so by passing a text prompt in the Quadratic spreadsheet chat. Here’s an example:",
-    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "Estimate value and cost savings from data observability.",
-    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "shows that organizations lose an estimated $13 million annually due to poor data quality, including stale data.",
     "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -329,12 +329,12 @@
     "method": "http"
    },
    {
-    "url": "https://gyosyo.info/%E8%A1%8C%E6%94%BF%E4%B8%8D%E6%9C%8D%E5%AF%A9%E6%9F%BB%E6%B3%9554%E6%9D%A1%EF%BC%9A%E5%86%8D%E8%AA%BF%E6%9F%BB%E3%81%AE%E8%AB%8B%E6%B1%82%E6%9C%9F%E9%96%93/",
+    "url": "https://www.kfs.go.jp/system/relation.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.kfs.go.jp/system/relation.html",
+    "url": "https://gyosyo.info/%E8%A1%8C%E6%94%BF%E4%B8%8D%E6%9C%8D%E5%AF%A9%E6%9F%BB%E6%B3%9559%E6%9D%A1%EF%BC%9A%E5%86%8D%E8%AA%BF%E6%9F%BB%E3%81%AE%E8%AB%8B%E6%B1%82%E3%81%AE%E8%AA%8D%E5%AE%B9%E3%81%AE%E6%B1%BA%E5%AE%9A/",
     "status": "ok",
     "method": "http"
    },
@@ -389,12 +389,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.daosoft.ai/engineering-decision-records",
+    "url": "https://monday.com/blog/project-management/decision-log/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://monday.com/blog/project-management/decision-log/",
+    "url": "https://www.daosoft.ai/engineering-decision-records",
     "status": "ok",
     "method": "http"
    },
@@ -404,17 +404,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.metaplane.dev/blog/stale-data-leads-to-bad-business-decisions",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
+    "url": "https://scispace.com/agents/decision-log-template-fcjojbou",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.projectmanagertemplate.com/post/decision-logs-the-ultimate-guide",
     "status": "ok",
     "method": "http"
    }
@@ -433,7 +433,7 @@
     "https://note.com/marunage_shacho/n/n848a06092df7",
     "https://note.com/jgiajfid_5293/n/n44a8c595d642",
     "https://note.com/sou_devnotes/n/n90848e6f0694",
-    "https://note.com/nagi_cpa_tax/n/n01477e6dc17b"
+    "https://note.com/sakang0/n/n7cec29d3d62e"
    ]
   },
   {
@@ -455,8 +455,8 @@
    "query": "調査の判断台帳と再調査条件（見直し期限・取り直しの基準） やり方",
    "results": [
     "https://m-assets.com/lp/tax-audit/blog/re-investigation-request-deadline",
-    "https://gyosyo.info/%E8%A1%8C%E6%94%BF%E4%B8%8D%E6%9C%8D%E5%AF%A9%E6%9F%BB%E6%B3%9554%E6%9D%A1%EF%BC%9A%E5%86%8D%E8%AA%BF%E6%9F%BB%E3%81%AE%E8%AB%8B%E6%B1%82%E6%9C%9F%E9%96%93/",
     "https://www.kfs.go.jp/system/relation.html",
+    "https://gyosyo.info/%E8%A1%8C%E6%94%BF%E4%B8%8D%E6%9C%8D%E5%AF%A9%E6%9F%BB%E6%B3%9559%E6%9D%A1%EF%BC%9A%E5%86%8D%E8%AA%BF%E6%9F%BB%E3%81%AE%E8%AB%8B%E6%B1%82%E3%81%AE%E8%AA%8D%E5%AE%B9%E3%81%AE%E6%B1%BA%E5%AE%9A/",
     "https://arakawa-g3.com/column/detail/20251119202257/",
     "https://www.subsurface-exploration.com/necessity/reinvestigation.html",
     "https://www.mlit.go.jp/common/001249113.pdf",
@@ -484,15 +484,15 @@
   {
    "query": "research decision log revisit conditions stale data refresh criteria",
    "results": [
-    "https://www.daosoft.ai/engineering-decision-records",
     "https://monday.com/blog/project-management/decision-log/",
+    "https://www.daosoft.ai/engineering-decision-records",
     "https://bigid.com/blog/stale-data-meaning/",
-    "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
     "https://www.metaplane.dev/blog/stale-data-leads-to-bad-business-decisions",
-    "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
-    "https://www.ibm.com/think/topics/stale-data",
-    "https://www.projectmanager.com/blog/project-decision-log",
+    "https://scispace.com/agents/decision-log-template-fcjojbou",
     "https://www.projectmanagertemplate.com/post/decision-logs-the-ultimate-guide",
+    "https://medium.com/@gkunzile/10-common-ai-decision-log-mistakes-and-fixes-for-project-managers-0720d72fea5f",
+    "https://www.acceldata.io/blog/stale-data",
+    "https://www.projectmanager.com/blog/project-decision-log",
     "https://smartstatistics.co.uk/power-bi-refresh-timestamp-build-a-stale-data-warning/"
    ]
   },
@@ -507,32 +507,33 @@
     "https://note.com/paguinu/n/n3b6d21164525",
     "https://note.com/sharoushicun/n/n32da961bdb3f",
     "https://note.com/r_asatuki/n/n04815d9f64d1",
-    "https://note.com/meda_ka/n/ndf0dc2dd8ffd"
+    "https://note.com/meda_ka/n/ndf0dc2dd8ffd",
+    "https://note.com/sakang0/n/n7cec29d3d62e"
    ]
   },
   {
    "query": "site:x.com 調査の判断台帳と再調査条件（見直し期限・取り直しの基準）",
    "results": [
     "https://x.com/lucky_note_lab/article/2101647714970955993",
+    "https://jf.x.com/images/media-preview/2098139447132930216",
     "https://x.com/jaicofficial/status/2106882328018714747",
+    "https://x.com/nayuta_office/status/2115654994753966521",
     "https://x.com/SupagoInc/status/2113592493690524032",
-    "https://x.com/shizuokagyousei/status/2112369667201437931",
     "https://x.com/wakukoete/status/2115205650003136525",
     "https://x.com/xXQhdb3hFxm5oxQ/status/2098721965918052775",
-    "https://x.com/cb__news/status/2099695296829849892",
-    "https://x.com/marusa_tax/status/2114280554254274652"
+    "https://x.com/cb__news/status/2099695296829849892"
    ]
   },
   {
    "query": "site:linkedin.com 調査の判断台帳と再調査条件（見直し期限・取り直しの基準）",
    "results": [
-    "https://jp.linkedin.com/pulse/成年後見制度の見直しについて-md-phd-tamura-s9j9f",
+    "https://www.linkedin.com/company/verbalbeginningsllc",
     "https://jp.linkedin.com/posts/vaizo-ceo_受注内容を作業台帳へ転記する途中で処理が止まったとき最初からやり直していませんか-activity-7520650490334924800-wcei",
     "https://jp.linkedin.com/pulse/renewals-reviews-realignment-making-contract-cycles-work-tarkowski-6swde?tl=ja",
     "https://jp.linkedin.com/posts/鷹大朗-小林-604527215_kptのproblemに〇〇さんの意識が低い担当者の確認不足と書くと振り-activity-7501855078576713728-V0ji",
     "https://jp.linkedin.com/posts/fumiaki-kobayashi_デジタル臨調立ち上げと進むべき道1-activity-6938686557910355968-f7vE",
-    "https://jp.linkedin.com/posts/takaaki-tanaka（田中-隆明）-a3859a10_今日は経済センサス活動調査なるものを出した期限過ぎて役所から催促来たので任意かと-activity-7461018946159161344-WbQA",
-    "https://ae.linkedin.com/in/hend-sharafeldin-76b430220"
+    "https://ae.linkedin.com/in/hend-sharafeldin-76b430220",
+    "https://jp.linkedin.com/posts/takaaki-tanaka（田中-隆明）-a3859a10_今日は経済センサス活動調査なるものを出した期限過ぎて役所から催促来たので任意かと-activity-7461018946159161344-WbQA"
    ]
   },
   {
@@ -541,10 +542,10 @@
     "https://www.facebook.com/caremane/posts/公立病院方針見直しの期限を延期-by-ケアマネタイムス/1630698120401485/",
     "https://www.facebook.com/YatsushiroCity/posts/り災証明書に係る住家被害認定調査２次調査の申請受付についてり災証明書に係る住家被害認定調査２次調査について以下のとおり申請受付を開始しています当面の間土日祝日も/1597475575752385/",
     "https://www.facebook.com/CityofKanazawa/posts/高齢者福祉保健台帳一斉調査協力のお願い金沢市では満65歳以上の高齢者の生活状態を把握し援護を必要としている方の緊急連絡先やかかりつけ医などの情報を高齢者福祉保健/4055012661293371/",
-    "https://www.facebook.com/daikaigi/posts/病院経営定期調査の回答期限を9月末まで延長日病など3団体-年末の最終報告に反映-日本病院会など3団体は2026年度の病院経営定期調査の回答期限を9月30日に延長/1702118001920007/",
     "https://www.facebook.com/ecomark.jp/posts/2026年3月までに有効期限を迎える認定基準の見直しに関する意見募集について2023年10月1日10月31日有効期限のおよそ2年前を迎える認定基準について見直し/648095544115392/",
+    "https://www.facebook.com/daikaigi/posts/病院経営定期調査の回答期限を9月末まで延長日病など3団体-年末の最終報告に反映-日本病院会など3団体は2026年度の病院経営定期調査の回答期限を9月30日に延長/1702118001920007/",
     "https://www.facebook.com/mixonline.jp/posts/中医協総会合同部会-10月15日-議事要旨-条件期限付き再生医療等製品の算定方法の見直し-中医協総会が10月15日開かれ条件期限付き再生医療等製品の診療報酬上の/1117823256999271/",
-    "https://www.facebook.com/nikkei/posts/イオン爆発事故地震後に現場判断で再入館許可-再発防止へルール見直し-今後は従業員の避難後の再入館を防ぐため勤務時に従業員が貴重品などを携帯できるようにルールを変/1588035579334505/"
+    "https://www.facebook.com/ebisumatikado/posts/赤松町から始まった恵比須再調査水ケ江まで来ましたそのうち恵比須台帳６４１ebs番号１７２９水ケ江5丁目７１４の恵比須さんは建物が新築されてありませんでした/3643380155744613/"
    ]
   },
   {
@@ -569,11 +570,11 @@
     "https://sp.lawlibrary.jp/lgs/lscontents/tkcinfo/201903information.pdf",
     "https://www.tisi.jp/documents/jp/news/2021/tis_news/20210806_1.pdf",
     "https://www.joetsu-consulting.jp/news_contents_9316.html",
+    "https://rims-dev.misawa.co.jp/fudosan/contents/code/doc/9537155",
     "https://www.soumu.go.jp/main_content/000620312.pdf",
     "https://jcls.or.jp/wp-content/uploads/2020/05/journal_45-2.pdf",
     "https://www.gyoukaku.go.jp/hotline/img/27_kaitou_gyoukaku_20230829_R4.pdf",
     "https://taacaa.jp/data/files/kaijonews/58132.pdf",
-    "https://www.jacom.or.jp/nousei/news/2026/01/260122-87015.php",
     "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/88/03/index.htm"
    ]
   },
@@ -585,11 +586,11 @@
     "https://www.linkedin.com/pulse/prd-isnt-dead-just-changed-jobs-sachin-sharma-mzrqc",
     "https://www.linkedin.com/top-content/business-strategy/data-driven-decision-making/data-review-strategies-for-better-robot-decision-making/",
     "https://www.linkedin.com/posts/rameshchandranvadali_ai-dependent-financial-controls-protect-activity-7520512311317422080-_Ga2",
-    "https://vn.linkedin.com/in/laurent-el-ghaoui-3088a02",
-    "https://www.linkedin.com/posts/javier-ordieres-8697386b_construction-has-a-data-problem-disguised-activity-7520558400116674560-DNAI",
-    "https://www.linkedin.com/posts/bianca-brijnath_ethnically-inclusionscience-equity-activity-7518968223950692352-hXJP",
-    "https://www.linkedin.com/posts/rebecca-ferguson-mba_recruitingcapacity-talentstrategy-recruitingtechnology-activity-7520484015770968064-gBCY",
-    "https://www.linkedin.com/in/olgamack"
+    "https://www.linkedin.com/in/joshuatwhite",
+    "https://www.linkedin.com/help/linkedin/answer/a1340522",
+    "https://www.linkedin.com/in/olgamack",
+    "https://www.linkedin.com/in/ravenbrothers",
+    "https://www.linkedin.com/in/krishanthakker"
    ]
   }
  ],
@@ -597,6 +598,6 @@
   "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-05T06:55:09.007957+00:00"
 }

@@ -8,208 +8,8 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-05T16:32:23.836236+00:00",
+ "researched_at": "2026-11-05T18:26:42.317113+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "CUFinderなら、あらゆる企業の推定年間売上レンジを、一括でもAPI経由でも取得できます",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業名、ドメイン、またはLinkedIn URLをアップロードすると、CUFinderが各企業の推定年間売上レンジを返します",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "約1秒で、CUFinderが推定年間売上レンジを返します",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CUFinderの企業売上ファインダーは、推定売上高を従業員数や業種とあわせて返すため、手作業のリサーチなしで規模別にアカウントを見極め、ティア分けできます",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1B+件のプロフィールと照合",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "推測ではなく、検証済みの売上データ",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CUFinderは、毎日更新されるデータベースと照合してすべての売上の数値を検証しており、全サービスで98%+の正確性を維持しています",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CUFinderは10億件以上（1B+）のコンタクトプロファイルと8,500万件以上（85M+）の企業プロファイルを活用し、すべてを自動検証で毎日更新しています",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to estimate the annual revenue of a private company that never files public numbers, using signals, benchmarks and enrichment data.",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業名、ドメイン、LinkedIn URLをアップロードするだけで、従業員規模、業界ベンチマーク、検証済みの情報源などのシグナルにもとづいて推定年間売上高が返されます",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "プレスリリース、LinkedInの従業員数、業界レポートから手作業で推定値をつなぎ合わせる必要はありません",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "非上場企業の売上データや推定値を調べるには？",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "数分で、非上場企業も含めたリスト内の各企業の売上推定値が得られます",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "非上場企業の売上高を推定するには、通常、従業員数、業界平均、資金調達履歴、公開情報などを調べる必要があります",
-    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Revenue forecasting is an attempt to estimate the future sales of a company over a specific period, such as a quarter or a year. To predict future revenue, a company will analyze a variety of factors, including:",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Supply forecasts address inventory and production needs to meet demand. They rely on internal data like inventory and production capacity. Demand forecasts estimate future customer purchases to guide marketing and sales strategy using market and consumer data.",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Sales forecasting predicts how much a company expects to sell, while revenue forecasting estimates how much money those sales will generate. Revenue forecasting tends to be a more comprehensive prediction because it incorporates pricing, timing, renewals and revenue recognition.",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How To Estimate A Private Company's Revenue (2026)",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Estimate a Private Company’s Revenue: A Practical Guide",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to estimate a private company’s revenue is one of the most common challenges faced by investors, sales teams, job seekers, and business analysts. Unlike public companies, private businesses aren’t required to disclose their financial statements, which makes revenue estimation part research and part educated calculation.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This article walks you through practical, reliable methods to estimate a private company’s revenue using publicly available data, industry benchmarks, and smart analytical techniques. Whether you’re evaluating a potential business partner, researching a competitor, or preparing for B2B sales outreach, you’ll find actionable steps here.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Sales teams use revenue estimates to qualify leads and prioritize accounts. Investors and lenders use them to assess risk before extending credit or considering a deal. Job seekers use them to evaluate a company’s stability before accepting an offer. Competitors use them to benchmark market position and growth trends.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Because of this, most revenue estimates are approximations built from multiple data points rather than a single confirmed figure.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This approach estimates revenue by multiplying a company’s employee count by the average revenue generated per employee in that specific industry.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Multiply the employee count by that average to get an estimated range.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "If a marketing agency has 40 employees and the industry average revenue per employee is $150,000, the estimated annual revenue would be around $6 million.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Adjust the estimate based on known factors like location, market share, or growth stage.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Several commercial databases compile estimated revenue figures for private companies based on aggregated data, surveys, and modeling.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Offers business credit reports that often include estimated annual revenue figures.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Provides company profiles with estimated revenue ranges based on proprietary data models.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Crowdsources and estimates competitive intelligence including revenue ranges.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "These platforms use algorithms and data aggregation rather than confirmed financials, so treat their figures as informed estimates, not verified facts.",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "企業の年間売上高調査の仕組み：かんたん3ステップ",
@@ -452,6 +252,244 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Revenue Forecasting: Models, Benefits, Tips & Pitfalls to Avoid | Cherry Bekaert",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Understanding Revenue Forecasting: Models, Benefits and Pitfalls",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Revenue Projection Pitfalls To Avoid",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Without effective strategies in place, companies are more likely to make forecasting mistakes and calculate inaccurate projections. Newer companies may struggle due to the lack of historical data available. Companies can use competitor information and industry benchmarks to create predictions if there is not enough business-specific data to utilize for a forecast.",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Other mistakes businesses should work to avoid include:",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Common Mistakes to Avoid",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "CUFinderなら、あらゆる企業の推定年間売上レンジを、一括でもAPI経由でも取得できます",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業名、ドメイン、またはLinkedIn URLをアップロードすると、CUFinderが各企業の推定年間売上レンジを返します",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "約1秒で、CUFinderが推定年間売上レンジを返します",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CUFinderの企業売上ファインダーは、推定売上高を従業員数や業種とあわせて返すため、手作業のリサーチなしで規模別にアカウントを見極め、ティア分けできます",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1B+件のプロフィールと照合",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推測ではなく、検証済みの売上データ",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CUFinderは、毎日更新されるデータベースと照合してすべての売上の数値を検証しており、全サービスで98%+の正確性を維持しています",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CUFinderは10億件以上（1B+）のコンタクトプロファイルと8,500万件以上（85M+）の企業プロファイルを活用し、すべてを自動検証で毎日更新しています",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to estimate the annual revenue of a private company that never files public numbers, using signals, benchmarks and enrichment data.",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業名、ドメイン、LinkedIn URLをアップロードするだけで、従業員規模、業界ベンチマーク、検証済みの情報源などのシグナルにもとづいて推定年間売上高が返されます",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "プレスリリース、LinkedInの従業員数、業界レポートから手作業で推定値をつなぎ合わせる必要はありません",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業の売上データや推定値を調べるには？",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "数分で、非上場企業も含めたリスト内の各企業の売上推定値が得られます",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "非上場企業の売上高を推定するには、通常、従業員数、業界平均、資金調達履歴、公開情報などを調べる必要があります",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Revenue forecasting is an attempt to estimate the future sales of a company over a specific period, such as a quarter or a year. To predict future revenue, a company will analyze a variety of factors, including:",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Supply forecasts address inventory and production needs to meet demand. They rely on internal data like inventory and production capacity. Demand forecasts estimate future customer purchases to guide marketing and sales strategy using market and consumer data.",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Sales forecasting predicts how much a company expects to sell, while revenue forecasting estimates how much money those sales will generate. Revenue forecasting tends to be a more comprehensive prediction because it incorporates pricing, timing, renewals and revenue recognition.",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How To Estimate A Private Company's Revenue (2026)",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Estimate a Private Company’s Revenue: A Practical Guide",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to estimate a private company’s revenue is one of the most common challenges faced by investors, sales teams, job seekers, and business analysts. Unlike public companies, private businesses aren’t required to disclose their financial statements, which makes revenue estimation part research and part educated calculation.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This article walks you through practical, reliable methods to estimate a private company’s revenue using publicly available data, industry benchmarks, and smart analytical techniques. Whether you’re evaluating a potential business partner, researching a competitor, or preparing for B2B sales outreach, you’ll find actionable steps here.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Sales teams use revenue estimates to qualify leads and prioritize accounts. Investors and lenders use them to assess risk before extending credit or considering a deal. Job seekers use them to evaluate a company’s stability before accepting an offer. Competitors use them to benchmark market position and growth trends.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Because of this, most revenue estimates are approximations built from multiple data points rather than a single confirmed figure.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This approach estimates revenue by multiplying a company’s employee count by the average revenue generated per employee in that specific industry.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Multiply the employee count by that average to get an estimated range.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "If a marketing agency has 40 employees and the industry average revenue per employee is $150,000, the estimated annual revenue would be around $6 million.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Adjust the estimate based on known factors like location, market share, or growth stage.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Several commercial databases compile estimated revenue figures for private companies based on aggregated data, surveys, and modeling.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Offers business credit reports that often include estimated annual revenue figures.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Provides company profiles with estimated revenue ranges based on proprietary data models.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Crowdsources and estimates competitive intelligence including revenue ranges.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "These platforms use algorithms and data aggregation rather than confirmed financials, so treat their figures as informed estimates, not verified facts.",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "手軽な単発検索でも一括の売上エンリッチメントでも、すぐに結果が返ります",
@@ -508,44 +546,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Revenue Forecasting: Models, Benefits, Tips & Pitfalls to Avoid | Cherry Bekaert",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Understanding Revenue Forecasting: Models, Benefits and Pitfalls",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Revenue Projection Pitfalls To Avoid",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Without effective strategies in place, companies are more likely to make forecasting mistakes and calculate inaccurate projections. Newer companies may struggle due to the lack of historical data available. Companies can use competitor information and industry benchmarks to create predictions if there is not enough business-specific data to utilize for a forecast.",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Other mistakes businesses should work to avoid include:",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Common Mistakes to Avoid",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.",
@@ -569,12 +569,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/irshukatsu/n/n9fd752118742",
+    "url": "https://note.com/markeducation/n/n90132f936d08",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/jsuccession/n/n121cd8650c54",
+    "url": "https://note.com/irshukatsu/n/n9fd752118742",
     "status": "ok",
     "method": "http"
    },
@@ -659,11 +659,6 @@
     "method": "http"
    },
    {
-    "url": "https://ma-la.co.jp/m-and-a/non-listed-company/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.g-search.or.jp/column/trend/unlisted-company/",
     "status": "ok",
     "method": "http"
@@ -677,6 +672,11 @@
     "url": "https://kabutan.jp/news/marketnews/?b=n202304110472",
     "status": "ok",
     "method": "browser"
+   },
+   {
+    "url": "https://ma-la.co.jp/m-and-a/non-listed-company/",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.finrofca.com/news/top-down-vs-bottom-up-revenue-modeling-which-is-right-for-your-startup",
@@ -716,14 +716,14 @@
    "results": [
     "https://note.com/isa99999/n/n7aadf977f2e7",
     "https://note.com/relic_kitajima/n/n36ec7aa9f53a",
+    "https://note.com/markeducation/n/n90132f936d08",
     "https://note.com/irshukatsu/n/n9fd752118742",
-    "https://note.com/jsuccession/n/n121cd8650c54",
     "https://note.com/nayami_answer/n/ncacdf3ca4150",
     "https://note.com/value_stock_lab/n/ne66e3df843e7",
     "https://note.com/sk_kasou/n/n5f399867efe8",
     "https://note.com/tkano/n/ndebf3d70a4ad",
-    "https://note.com/tatsuya_sabato/n/nac55beffbef2",
-    "https://note.com/kyoki_labo/n/na1f6d6b90e9b"
+    "https://note.com/kyoki_labo/n/na1f6d6b90e9b",
+    "https://note.com/hirokimiyano/n/nf56f7e6de1a5"
    ]
   },
   {
@@ -753,7 +753,7 @@
     "https://www.gckk.co.jp/event/gcc003-02/",
     "https://zac-reforma.zendesk.com/hc/ja/articles/13172393132569--2-0-8-%E8%A4%87%E6%95%B0%E5%A3%B2%E4%B8%8A-%E8%A4%87%E6%95%B0%E5%A3%B2%E4%B8%8A%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%A6%82%E8%A6%81",
     "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624"
+    "https://cufinder.io/ja"
    ]
   },
   {
@@ -761,11 +761,11 @@
    "results": [
     "https://www.jsda.or.jp/about/kaigi/jisyukisei/gijigaiyou/files/201130_gaiyo.pdf",
     "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "https://ma-la.co.jp/m-and-a/non-listed-company/",
     "https://www.g-search.or.jp/column/trend/unlisted-company/",
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "https://kabutan.jp/news/marketnews/?b=n202304110472",
     "https://solid-ventures.media/knowledge/considering-a-non-listed-growth-model-for-solid-ventures-that-dare-not-aim-for-an-ipo/",
+    "https://kabutan.jp/news/marketnews/?b=n202304110472",
+    "https://ma-la.co.jp/m-and-a/non-listed-company/",
     "https://s.gbase.ai/insight/japan-unlisted-companies-ranking-2026/",
     "https://biz.moneyforward.com/ipo/basic/1686/",
     "https://cufinder.io/ja"
@@ -783,7 +783,7 @@
     "https://gocardless.com/guides/posts/top-down-vs-bottom-up-forecasting",
     "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
     "https://waveup.com/blog/top-down-and-bottom-up-market-size-calculation/",
-    "https://adlega.com/blog/revenue-forecasting/"
+    "https://www.easyfinancialmodels.com/blog/revenue-forecasting-top-down-bottom-up"
    ]
   },
   {
@@ -791,10 +791,10 @@
    "results": [
     "https://note.com/isa99999/n/n7aadf977f2e7",
     "https://note.com/relic_kitajima/n/n36ec7aa9f53a",
-    "https://note.com/hirokimiyano/n/nf56f7e6de1a5",
-    "https://note.com/kyoki_labo/n/na1f6d6b90e9b",
     "https://note.com/nus_cpa/n/nc113303bcd8a",
     "https://note.com/bloomo_economics/n/ncd864eb73506",
+    "https://note.com/kyoki_labo/n/na1f6d6b90e9b",
+    "https://note.com/hirokimiyano/n/nf56f7e6de1a5",
     "https://note.com/jsuccession/n/n121cd8650c54"
    ]
   },
@@ -803,9 +803,9 @@
    "results": [
     "https://x.com/labo_rabo/status/2079570844796473353",
     "https://x.com/tenma417/status/2087123885007442319",
-    "https://x.com/IA_okada/status/2100364647786479788",
     "https://x.com/nikkepedia_jp/status/2087109901323837507",
     "https://x.com/nikkepedia_jp/status/2056315388565344706",
+    "https://x.com/IA_okada/status/2100364647786479788",
     "https://x.com/Takuma_Uemura_/status/2088101782723723268",
     "https://x.com/StockSun_ceo/status/2089055769820024942"
    ]
@@ -814,12 +814,12 @@
    "query": "site:linkedin.com 非上場の売上を複数の信号で挟む（Inven・CUFinder）",
    "results": [
     "https://www.linkedin.com/company/cufinder",
-    "https://www.linkedin.com/products/inven-ai-inven/",
     "https://jp.linkedin.com/company/inven-ai",
-    "https://ae.linkedin.com/company/cufinder",
-    "https://members.linkedin.com/en-gb/find-your-next-job-on-linkedin",
-    "https://www.linkedin.com/posts/cufinder_gtm-activity-7520879108533436416-1mQP",
-    "https://www.linkedin.com/posts/cufinder_gtm-activity-7505670124767653888-6WOz"
+    "https://www.linkedin.com/products/inven-ai-inven/",
+    "https://www.linkedin.com/posts/cufinder_how-to-find-company-annual-revenue-using-activity-7310593906901975040-Iv-U",
+    "https://www.linkedin.com/posts/cufinder_boost-your-leads-with-revenue-filter-welcome-activity-7260961079738961920-Unsz",
+    "https://www.linkedin.com/posts/cufinder_gtm-activity-7519066663258836992-VFJm",
+    "https://www.linkedin.com/posts/cufinder_gtm-activity-7520879108533436416-1mQP"
    ]
   },
   {
@@ -831,7 +831,7 @@
     "https://www.facebook.com/celf.scsk/videos/日本語の指示だけで誰でも簡単データ集計/1388157590072474/",
     "https://www.facebook.com/reel/4038660449792662/",
     "https://www.facebook.com/boehringerJP/posts/-入山章栄-氏が迫る-非上場企業の強み世界の経営理論に精通する入山章栄氏早稲田大学ビジネススクール教授と荻村正孝-日本ベーリンガーインゲルハイム-株式会社-代表/1080703100734951/",
-    "https://www.facebook.com/nobuhiko.suda/videos/aiソロプレナー挑戦日記-4gumroadで販売開始から1週間アクセス0件そこで今回はchatgptclaudegeminigrokなど複数のaiと一緒にアクセ/889643920890873/"
+    "https://www.facebook.com/100078468711879/videos/1875185950525611/"
    ]
   },
   {
@@ -852,7 +852,7 @@
    "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） X 投稿",
    "results": [
     "https://www.jsda.or.jp/about/kaigi/jisyukisei/gijigaiyou/files/201130_gaiyo.pdf",
-    "https://nakamurafumi.com/video.php?pg=%E4%BB%A3%E5%B8%81%E6%8A%95%E6%B3%A8%E6%9B%BF%E4%BB%A3&srsltid=AYCX9vIKdRn9AqpTsXCYhhJpbGX6Zm8j2oLhJyvNhl8rtj7vnbLiEZYg",
+    "https://nakamurafumi.com/video.php?pg=%E4%BB%A3%E5%B8%81%E6%8A%95%E6%B3%A8%E6%9B%BF%E4%BB%A3&srsltid=AYCX9vICYfDa7GjRWHkBVgaIH7CfFAnQxv31SC6jkw_rSybHwOaLbYTr",
     "https://ma-la.co.jp/m-and-a/non-listed-company/",
     "https://www.nicmr.com/nicmr/report/repo/2020/2020win09.pdf",
     "https://community.squareup.com/t5/%E4%BE%BF%E5%88%A9%E3%81%AA%E6%A9%9F%E8%83%BD%E3%81%A8%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA/%E6%97%A5%E6%AC%A1%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%83%AC%E3%83%9D%E3%83%88%E3%81%AB-Square-POS%E4%B8%8A%E4%BB%A5%E5%A4%96%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%9F%E3%81%84-Ubereats%E3%81%AA%E3%81%A9/m-p/805694",
@@ -860,7 +860,7 @@
     "https://www.youtube.com/watch?v=A-vjciBnUes",
     "https://www.jsri.or.jp/publish/research/pdf/108/108_01.pdf",
     "https://cufinder.io/ja",
-    "https://cufinder.io/ja/buying-signals"
+    "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624"
    ]
   },
   {
@@ -869,18 +869,18 @@
     "https://www.linkedin.com/posts/karim-boussedra_stop-building-the-model-for-the-investor-activity-7518676612536614912-UHL1",
     "https://www.linkedin.com/top-content/marketing/marketing-budget-allocation/marketing-budget-forecasting-techniques/",
     "https://www.linkedin.com/in/stephen-frieder",
-    "https://www.linkedin.com/top-content/finance/private-equity-basics/financial-performance-metrics-for-portfolio-companies/",
     "https://www.linkedin.com/company/insight--partners",
+    "https://www.linkedin.com/top-content/finance/private-equity-basics/financial-performance-metrics-for-portfolio-companies/",
     "https://www.linkedin.com/pulse/rule-40-saas-how-calculate-what-investors-expect-2026-shawn-elliott-djqxc",
     "https://www.linkedin.com/posts/torontofidelitywholesaler_fidelitycanada-ai-activity-7487953089023524865-xn5r",
+    "https://uk.linkedin.com/in/ginevra",
     "https://www.linkedin.com/in/ashishsrimal",
-    "https://uk.linkedin.com/in/gregor-eadie-cfa-a21b28139",
-    "https://www.linkedin.com/in/peggyljohnson"
+    "https://uk.linkedin.com/in/krishen-patten-8021679a"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-05T05:08:45.202393+00:00"
 }
