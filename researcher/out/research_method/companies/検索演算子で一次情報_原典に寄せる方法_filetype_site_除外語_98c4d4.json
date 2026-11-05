@@ -8,7 +8,7 @@
  ],
  "context": "探し方",
  "kind": "market",
- "researched_at": "2026-11-05T10:00:43.179173+00:00",
+ "researched_at": "2026-11-05T11:15:17.868623+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -29,12 +29,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/fresh_impala9007/n/n62355267896c",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/nana_882391/n/n35ce95bb325e",
+    "url": "https://note.com/science_summary/n/n223612b7a530",
     "status": "ok",
     "method": "http"
    },
@@ -42,6 +37,11 @@
     "url": "https://note.com/kyotomori/n/nd498747a7c3e",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://note.com/fresh_impala9007/n/n62355267896c",
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://www.rhcnet.com/article/google_operator_.html",
@@ -84,12 +84,12 @@
     "method": "http"
    },
    {
-    "url": "https://altenas.jp/blog/search-command",
+    "url": "https://ischool.co.jp/2018-11-09/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ischool.co.jp/2018-11-09/",
+    "url": "https://altenas.jp/blog/search-command",
     "status": "ok",
     "method": "http"
    },
@@ -114,11 +114,6 @@
     "method": "http"
    },
    {
-    "url": "https://lifestyle.assist-all.co.jp/google-site-operator-search-guide/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.sorank.com/ja/blog-geo-seo/google-search-operators",
     "status": "ok",
     "method": "http"
@@ -130,6 +125,11 @@
    },
    {
     "url": "https://minto.tech/google-search-operators-advanced-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://9uick.com/ja/media/ai-search-research/ai-search-research-014",
     "status": "ok",
     "method": "http"
    },
@@ -172,10 +172,10 @@
     "https://note.com/zero_impact_edu/n/n0e08081a3573",
     "https://note.com/hikaru_thinks/n/nebc54c341963",
     "https://note.com/super_phlox114/n/na80f971322ef",
-    "https://note.com/fresh_impala9007/n/n62355267896c",
-    "https://note.com/nana_882391/n/n35ce95bb325e",
+    "https://note.com/science_summary/n/n223612b7a530",
     "https://note.com/kyotomori/n/nd498747a7c3e",
-    "https://note.com/mdp/n/nc204d39d34bc"
+    "https://note.com/fresh_impala9007/n/n62355267896c",
+    "https://note.com/nana_882391/n/n35ce95bb325e"
    ]
   },
   {
@@ -190,7 +190,7 @@
     "https://ahrefs.com/ja/blog/google-advanced-search-operators/",
     "https://hack.nikkei.com/blog/search_operator/",
     "https://altenas.jp/blog/search-command",
-    "https://www.sorank.com/ja/blog-geo-seo/google-search-operators"
+    "https://note.com/hikaru_thinks/n/nebc54c341963"
    ]
   },
   {
@@ -201,11 +201,11 @@
     "https://support.google.com/websearch/answer/2466433?hl=ja",
     "https://www.furi-ten.com/google-search-exclusion-complete-guide-2/",
     "https://hack.nikkei.com/blog/search_operator/",
-    "https://altenas.jp/blog/search-command",
     "https://ischool.co.jp/2018-11-09/",
+    "https://altenas.jp/blog/search-command",
     "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
     "https://seoagent.jp/blog/search-operators/",
-    "https://www.sorank.com/ja/blog-geo-seo/google-search-operators"
+    "https://lifestyle.assist-all.co.jp/google-site-operator-search-guide/"
    ]
   },
   {
@@ -220,7 +220,7 @@
     "https://jp.indeed.com/career-advice/work-efficiency/google-search-operators",
     "https://ischool.co.jp/2018-11-09/",
     "https://jp.strikingly.com/content/blog/google-search/",
-    "https://lifestyle.assist-all.co.jp/google-site-operator-search-guide/"
+    "https://www.sorank.com/ja/blog-geo-seo/google-search-operators"
    ]
   },
   {
@@ -245,9 +245,9 @@
     "https://note.com/hikaru_thinks/n/nebc54c341963",
     "https://note.com/kyotomori/n/nd498747a7c3e",
     "https://note.com/nana_882391/n/n35ce95bb325e",
-    "https://note.com/science_summary/n/n223612b7a530",
-    "https://note.com/nana_882391/n/nfc50f20bd0b3",
-    "https://note.com/fresh_impala9007/n/n62355267896c"
+    "https://note.com/fresh_impala9007/n/n62355267896c",
+    "https://note.com/mdp/n/nc204d39d34bc",
+    "https://note.com/harenohi_design/n/n976ff51ae1a1"
    ]
   },
   {
@@ -259,7 +259,7 @@
     "https://x.com/xkaseki413/status/2051160097288839258",
     "https://x.com/ChiseGomen/status/2110118589600837924",
     "https://x.com/BaronLeon86/status/2056003869734535543",
-    "https://x.com/shibakatze/status/2068629304033075563"
+    "https://x.com/bossnyan_ai/status/2098741815046443099"
    ]
   },
   {
@@ -277,13 +277,13 @@
   {
    "query": "site:facebook.com 検索演算子で一次情報・原典に寄せる方法（filetype・site・除外語）",
    "results": [
-    "https://www.facebook.com/public/VLOOKUP関数で複数の条件を設定・抽出する方法を解説-U-NOTE-filetype:doc/",
+    "https://www.facebook.com/public/(1)「Safari」や「メール」に表示されたQRを読み取る方法-filetype:svg/",
     "https://www.facebook.com/100070183516807/videos/2442001329657780/",
     "https://www.facebook.com/groups/880912055374027/posts/3852178711580665/",
-    "https://developers.facebook.com/documentation/instagram-platform/instagram-api-with-facebook-login/hashtag-search/",
     "https://www.facebook.com/yeswecan.jp/posts/claris-filemaker-2025-の新機能より直感的な検索を自然言語で検索実行-スクリプトステップ概要編少し複雑な検索を行う場合演算子や検索除外などを/1427295775672083/",
-    "https://www.facebook.com/lany.co.jp/posts/639476175308809/",
-    "https://www.facebook.com/nikkeib2b/videos/ビジネスの生成aiにたしかな一次情報/1045822954567996/"
+    "https://developers.facebook.com/documentation/instagram-platform/instagram-api-with-facebook-login/hashtag-search/",
+    "https://www.facebook.com/nikkeib2b/videos/ビジネスの生成aiにたしかな一次情報/1045822954567996/",
+    "https://www.facebook.com/lany.co.jp/posts/639476175308809/"
    ]
   },
   {
@@ -310,10 +310,10 @@
     "https://support.google.com/websearch/answer/2466433?hl=ja",
     "https://tatap.jp/knowledge/x-search-commands/",
     "https://xboost.now/tools/x-search-builder",
-    "https://generaltranslation.mintlify.app/ja/x-api/posts/search/integrate/operators",
     "https://www.reddit.com/r/uBlockOrigin/comments/1i8o5la/permanently_excluding_a_site_from_google_search/?tl=ja",
     "https://help.x.com/ja/rules-and-policies/x-search-policies",
-    "https://lifestyle.assist-all.co.jp/google-site-operator-search-guide/"
+    "https://ppc-master.jp/labo/2019/03/twitter_command.html",
+    "https://www.sorank.com/ja/blog-geo-seo/google-search-operators"
    ]
   },
   {
@@ -340,6 +340,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-05T05:08:52.502564+00:00"
 }

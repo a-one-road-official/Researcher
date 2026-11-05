@@ -3130,7 +3130,7 @@
 - 実例：
   - 「例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
   - 「(無料、データ加工実例)」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
-- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
 
 ## 官報・電子公告の決算公告で中小の財務を読む実務（探し方・単位・公告が無い理由）（reading Japanese public financial notices kanpo SME balance sheet units）
 - 文脈：一次情報の探し方

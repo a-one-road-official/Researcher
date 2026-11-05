@@ -793,6 +793,8 @@
 - 検索結果の抜粋：
   - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vKcmWhdJAJgdro4-Pa8F34wTyQriQ5XMZ3fyDJsQLm9XumUwu20・3回目）
   - 「視聴データの取扱いについて | あいテレビ は6チャンネル — 視聴データの取扱いについて | あいテレビ は6チャンネル itv6.jp https://www.itv6.jp > viewingdata」（https://www.itv6.jp/viewingdata/・3回目）
+  - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vKseXUQD6BwL-oLV79DvuLp7DeWroj1HJfycD66i8jmQfHfbx12・3回目）
+  - 「愛媛のニュース - Nスタえひめ｜ あいテレビ は6チャンネル — 愛媛のニュース - Nスタえひめ｜ あいテレビ は6チャンネル TBS NEWS DIG https://newsdig.tbs.co.jp > list > itv」（https://newsdig.tbs.co.jp/list/itv・3回目）
   - 「あいテレビ - Wikipedia — あいテレビ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > あいテレビ」（https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%84%E3%83%86%E3%83%AC%E3%83%93・3回目）
   - 「会社概要 | あいテレビ は6チャンネル — 会社概要 | あいテレビ は6チャンネル itv6.jp https://www.itv6.jp > company」（https://www.itv6.jp/company/・3回目）
   - 「株式会社 あいテレビ | 企業詳細 - ひめボスNAVI — 株式会社 あいテレビ | 企業詳細 - ひめボスNAVI ひめボスNAVI https://navi.himeboss.jp > company_detail」（https://navi.himeboss.jp/company_detail/208・3回目）
@@ -801,8 +803,6 @@
   - 「(株) あいテレビ の2027年度会社概要 | マイナビ2028 — (株) あいテレビ の2027年度会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp101256 > outline」（https://job.mynavi.jp/28/pc/search/corp101256/outline.html・3回目）
   - 「愛媛の優良企業・株式会社 あいテレビ インタビュー — 愛媛の優良企業・株式会社 あいテレビ インタビュー 四国転職ネット https://tenshoku.abi.co.jp > yuryokigyo-channel > itv-s」（https://tenshoku.abi.co.jp/yuryokigyo-channel/itv-s.html・3回目）
   - 「あいテレビ 「企業分析」 OpenWork — あいテレビ 「企業分析」 OpenWork OpenWork https://www.openwork.jp > ... > あいテレビ」（https://www.openwork.jp/a0C10000018dpqt/analysis/・3回目）
-  - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vKtYcgPlKjRLOXpPxdW5QQEzs9SEq5GU5-sREToQIGIO5-r9X90・3回目）
-  - 「あいテレビ オンラインチケット - CNプレイガイド — あいテレビ オンラインチケット - CNプレイガイド CNプレイガイド https://www.cnplayguide.com > itv6」（https://www.cnplayguide.com/itv6/・3回目）
 - 許認可：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部31頁・検索12回）
 
 ## 株式会社アウトソーシング
@@ -1184,13 +1184,14 @@
   - 「広島を代表する企業100選」（https://madeinlocal.jp/category/companies/hiroshima009・3回目）
   - 「代表取締役社長」（https://madeinlocal.jp/category/companies/hiroshima009・3回目）
 - 検索結果の抜粋：
+  - 「【あなたはどうしてラジオを使う？！ マツダ株式会社篇 ... — 【あなたはどうしてラジオを使う？！ マツダ株式会社篇 ... hfm.jp https://hfm.jp > topics」（https://hfm.jp/topics/18349/・3回目）
   - 「会社概要 | 広島FM 【公式】 — 会社概要 | 広島FM 【公式】 hfm.jp https://hfm.jp > company」（https://hfm.jp/company/・3回目）
   - 「広島 FM （ 広島 エフエム放送） - 広島ニュース 食べタインジャー — 広島 FM （ 広島 エフエム放送） - 広島ニュース 食べタインジャー 広島ニュース 食べタインジャー https://tabetainjya.com > local > hfm」（https://tabetainjya.com/local/hfm/・3回目）
   - 「営業情報 | 広島FM 【公式】 — 営業情報 | 広島FM 【公式】 hfm.jp https://hfm.jp > company > sales」（https://hfm.jp/company/sales/・3回目）
   - 「radiko(ラジコ) | 広島FM がスマホやPCで今すぐ聴ける - radiko — radiko(ラジコ) | 広島FM がスマホやPCで今すぐ聴ける - radiko radiko https://radiko.jp > index > HFM」（https://radiko.jp/index/HFM/・3回目）
   - 「6月のゲスト インタビュー 記事 広島 テレビ放送株式会社 代表 ... — 6月のゲスト インタビュー 記事 広島 テレビ放送株式会社 代表 ... hfm.jp https://hfm.jp > topics」（https://hfm.jp/topics/26724/・3回目）
   - 「【公式】 広島FM (@hfm.jp) • Instagram photos and videos — 【公式】 広島FM (@hfm.jp) • Instagram photos and videos Instagram https://www.instagram.com > hfm」（https://www.instagram.com/hfm.jp/・3回目）
-- 許認可：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 許認可：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）
 
 ## 株式会社ジンジブ
 - 公式URL：https://jinjib.co.jp/（given）

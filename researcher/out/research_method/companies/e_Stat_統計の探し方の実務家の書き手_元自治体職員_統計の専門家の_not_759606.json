@@ -8,42 +8,8 @@
  ],
  "context": "探し先・書き手",
  "kind": "market",
- "researched_at": "2026-11-05T10:06:59.213939+00:00",
+ "researched_at": "2026-11-05T11:21:15.605262+00:00",
  "evidence": {
-  "手順・やり方": [
-   {
-    "quote": "e-Stat 使い方 7 つの実務テクニック (検索・DB 表示・API・絞り込み) | 統計で見る都道府県",
-    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Excel での使い方 (Power Query)",
-    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これらすべてに対処する手順を以下で示します",
-    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": 「○○年から計算方法を変更」のような注記",
-    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として",
-    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "e-Stat 使い方 7 つの実務テクニック (検索・DB 表示・API・絞り込み) | 統計で見る都道府県",
@@ -136,6 +102,40 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として",
+    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "e-Stat 使い方 7 つの実務テクニック (検索・DB 表示・API・絞り込み) | 統計で見る都道府県",
+    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Excel での使い方 (Power Query)",
+    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これらすべてに対処する手順を以下で示します",
+    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": 「○○年から計算方法を変更」のような注記",
+    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として",
@@ -165,26 +165,6 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/stats47/m/m1b836e4c8dce/archive/2026-06",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/stats47/n/nc5a1358141a5",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/stats47/n/n0bd95dda8588",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/clean_lynx1895/n/n007cdb3dac0c",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
     "status": "ok",
     "method": "http"
@@ -205,7 +185,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.e-stat.go.jp/help/operation",
+    "url": "https://note.com/stats47/m/m1b836e4c8dce/archive/2026-06",
     "status": "ok",
     "method": "http"
    },
@@ -215,7 +195,12 @@
     "method": "http"
    },
    {
-    "url": "https://github.com/K-Oxon/e-stat-wrangling-skills/blob/main/plugins/estat-api/skills/estat-file-search/SKILL.md",
+    "url": "https://www.e-stat.go.jp/help/operation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/usageguide",
     "status": "ok",
     "method": "http"
    },
@@ -225,22 +210,27 @@
     "method": "http"
    },
    {
-    "url": "https://ec.europa.eu/eurostat/web/metadata",
+    "url": "https://github.com/K-Oxon/e-stat-wrangling-skills/blob/main/plugins/estat-api/skills/estat-file-search/SKILL.md",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://ec.europa.eu/eurostat/web/user-guides/data-browser/api-data-access/api-getting-started/api",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-gq-21-021",
+    "url": "https://ec.europa.eu/eurostat/web/metadata/classifications",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://unece.org/fileadmin/DAM/stats/publications/metadatamodeling.pdf",
+    "status": "http_403",
+    "method": "pdf"
    },
    {
     "url": "https://www.e-stat.go.jp/en/stat-search/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cros.ec.europa.eu/dashboard/ess-mh",
     "status": "ok",
     "method": "http"
    }
@@ -249,15 +239,7 @@
  "search_log": [
   {
    "query": "e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ） site:note.com",
-   "results": [
-    "https://note.com/stats47/n/n7e4572d23a1b",
-    "https://note.com/stats47/n/n258277f96f88",
-    "https://note.com/stats47/m/m1b836e4c8dce/archive/2026-06",
-    "https://note.com/stats47/n/nc5a1358141a5",
-    "https://note.com/stats47/n/n0bd95dda8588",
-    "https://note.com/clean_lynx1895/n/n007cdb3dac0c",
-    "https://note.com/stats47/n/naf04e81afb7b"
-   ]
+   "results": []
   },
   {
    "query": "e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ） note",
@@ -289,22 +271,22 @@
     "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
     "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
     "https://note.com/stats47/n/n7e4572d23a1b",
-    "https://note.com/stats47/m/m1b836e4c8dce/archive/2026-06",
     "https://www.research-skills.com/articles/estat-howto/",
+    "https://note.com/stats47/m/m1b836e4c8dce/archive/2026-06",
     "https://www.e-stat.go.jp/help/operation",
-    "https://www.e-stat.go.jp/"
+    "https://www.e-stat.go.jp/usageguide"
    ]
   },
   {
    "query": "e-Stat practical search techniques statistical code metadata notes",
    "results": [
-    "https://github.com/K-Oxon/e-stat-wrangling-skills/blob/main/plugins/estat-api/skills/estat-file-search/SKILL.md",
     "https://github.com/K-Oxon/e-stat-wrangling-skills/blob/main/plugins/estat-api/skills/estat-api-data-search/reference.md",
-    "https://ec.europa.eu/eurostat/web/metadata",
-    "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-gq-21-021",
+    "https://github.com/K-Oxon/e-stat-wrangling-skills/blob/main/plugins/estat-api/skills/estat-file-search/SKILL.md",
+    "https://ec.europa.eu/eurostat/web/user-guides/data-browser/api-data-access/api-getting-started/api",
+    "https://ec.europa.eu/eurostat/web/metadata/classifications",
+    "https://unece.org/fileadmin/DAM/stats/publications/metadatamodeling.pdf",
     "https://www.e-stat.go.jp/en/stat-search/",
-    "https://cros.ec.europa.eu/dashboard/ess-mh",
-    "https://unstats.un.org/unsd/demographic-social/meetings/2025/migration-wk-sadc-20250317/06.Metadata.pdf"
+    "https://lost-stats.github.io/"
    ]
   },
   {
@@ -313,10 +295,10 @@
     "https://note.com/stats47/n/n7e4572d23a1b",
     "https://note.com/stats47/n/n258277f96f88",
     "https://note.com/stats47/n/nc5a1358141a5",
-    "https://note.com/stats47/n/n73a4d300e045",
     "https://note.com/stats47/m/m1b836e4c8dce/archive/2026-06",
+    "https://note.com/stats47/n/n73a4d300e045",
     "https://note.com/stats47/m/m1b836e4c8dce",
-    "https://note.com/stats47/n/n0bd95dda8588"
+    "https://note.com/stats47/n/naf04e81afb7b"
    ]
   },
   {
@@ -326,8 +308,8 @@
     "https://x.com/AkenoYasutake/status/2095348795282464958",
     "https://x.com/satoPUBLIC/status/2026221573561102478",
     "https://x.com/u_sharoushi/status/2106927076116992488",
-    "https://x.com/Kadomatsu_Lib/status/2092745885700747773",
     "https://x.com/aireporter_nana/status/2043272797749968997",
+    "https://x.com/Kadomatsu_Lib/status/2092745885700747773",
     "https://x.com/neogis_nishi/status/1755789620011569573"
    ]
   },
@@ -352,15 +334,15 @@
     "https://www.facebook.com/stat.japan/photos/統計局からのお知らせ本日13時00分から統計ダッシュボードのアドレスurlが変わりました新httpsdashboarde-statgojp旧urlでアクセスいた/1505660842846741/",
     "https://www.facebook.com/tmlibrary/photos/122水午後3４時統計情報の調べ方都立中央図書館独統計センターより講師をお招きする特別セミナーです政府統計ポータルサイトe-stat地図で見る統計jstat-m/3138928889455242/",
     "https://www.facebook.com/tokyoacademy.koumuin/posts/stay-homeおウチでできる自治体研究②統計統計とはある集団を時間や地域などの一定の条件下で調べこの結果を集計加工して得られた数値のことをいいます数値やその/3836047226467420/",
-    "https://www.facebook.com/stat.japan/posts/キッズすたっと探そう統計データに使い方動画を掲載小中学生向け統計データ検索サイトキッズすたっと探そう統計データに使い方を分かりやすく説明した動画を掲載しました是/2078323622247124/"
+    "https://www.facebook.com/gosegirl/posts/市職員有志が制作-統計the御所-r6御所ボーイｍです御所市役所の職員有志でつくる自主研究グループ御所市統計研究会吉岡聖会長がグラフやデータ等を用いた統計書統計/802209968609212/"
    ]
   },
   {
    "query": "e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ） note 社長",
    "results": [
     "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "https://note.com/stats47/n/n258277f96f88",
     "https://note.com/stats47/n/n7e4572d23a1b",
+    "https://note.com/stats47/n/n258277f96f88",
     "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
     "https://www.research-skills.com/articles/estat-howto/",
     "https://www.e-stat.go.jp/",
@@ -375,27 +357,27 @@
     "https://note.com/stats47/m/m1b836e4c8dce/archive/2026-06",
     "https://note.com/stats47/n/n258277f96f88",
     "https://www.research-skills.com/articles/estat-howto/",
-    "https://www.e-stat.go.jp/help/operation",
-    "https://www.e-stat.go.jp/"
+    "https://www.e-stat.go.jp/",
+    "https://www.e-stat.go.jp/help/operation"
    ]
   },
   {
    "query": "e-Stat practical search techniques statistical code metadata notes site:linkedin.com",
    "results": [
     "https://www.linkedin.com/advice/1/what-most-important-statistical-programming-concepts-4zaic",
-    "https://www.linkedin.com/pulse/advanced-censys-search-techniques-mootez-elghaki-5spte",
+    "https://www.linkedin.com/advice/1/what-advanced-statistical-techniques-do-you-use-skills-statistics",
     "https://pe.linkedin.com/advice/1/what-most-effective-techniques-managing-metadata-your-nzgkf",
-    "https://pe.linkedin.com/posts/access2perspectives_sdg-indicator-codes-as-metadata-in-institutional-activity-7122198522115825664-Pkrs",
+    "https://pe.linkedin.com/pulse/stat-16-statistical-techniques-equivalence-testing-wayne-taylor",
+    "https://es.linkedin.com/in/alexqueiroz",
     "https://ma.linkedin.com/in/meriem-alla-45b300313",
-    "https://uk.linkedin.com/in/hemlaldulal",
     "https://ca.linkedin.com/in/lilian-amadike-513318216"
    ]
   }
  ],
  "missing": {
-  "失敗・落とし穴": "記載なし（読んだ18頁・検索12回）"
+  "失敗・落とし穴": "記載なし（読んだ16頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-05T08:54:13.847710+00:00"
 }
