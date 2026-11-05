@@ -551,6 +551,19 @@ def scan(topic):
         if nct: md.append(f"- ⚠ 調査の委託先の変更の語が{nct}件：集め方が変わり系列の継続性が落ちる。その年を切れ目として扱う（4-44）")
         nis = sum(1 for r in rs if INTERSEG.search(r["引用"]))
         if nis: md.append(f"- ⚠ セグメント間・内部売上の語が{nis}件：外部の客への売上と内部の売上を分け、合計に内部を足さない（4-44）")
+        # 2026-11-06 4-45（iri-group 新規事業の市場調査：工場向けなら会社数と工場数のどちらを数えているかを確かめる）：
+        # 同じ品目の数え上げに「社」と「事業所」が両方あれば、企業と事業所（工場）が混ざっている。1社が複数の工場を持つので、同じ欄として比べない
+        ucnt = {}
+        for r in rs:
+            if r["区分"].startswith("事業所数"): ucnt[r["単位"]] = ucnt.get(r["単位"], 0) + 1
+        if ucnt.get("社") and ucnt.get("事業所"): md.append(f"- ⚠ 企業と事業所が混在：数え上げに（社）{ucnt['社']}件と（事業所）{ucnt['事業所']}件。会社数と工場数は別の対象なので、割り算・比較は同じ単位どうしでだけ行う（4-45）")
+        # 2026-11-06 4-45 走査の失敗から：めっきの「社員数・平均社員数」の欄に 5,626〜31,487人（業界全体の従業者数）が入り、1社の平均として読める形で出た。
+        # 同じ品目の事業所数の中央値より「平均社員数」の中央値が大きければ、平均ではなく業界の総数の疑いとして印す（平均×事業所数＝総数なので、平均が事業所数を超えるのは中小の受託ではまず無い）
+        emp = [r["値"] for r in rs if r["区分"].startswith("社員数") and r["単位"] == "人" and r["値"] > 0]
+        est = [r["値"] for r in rs if r["区分"].startswith("事業所数") and r["単位"] in ("事業所", "社") and r["値"] > 0]
+        if emp and est and statistics.median(est) >= 50 and statistics.median(emp) > statistics.median(est):
+            md.append(f"- ⚠ 平均でなく総数の疑い：社員数の欄の中央値 {statistics.median(emp):g}人が、同じ品目の事業所数の中央値 {statistics.median(est):g}を超える。業界全体の人数として読み、1社あたりの平均にしない（4-45）")
+            md.append(f"  - 【推定】総数として読んだときの1事業所あたり＝社員数の中央値÷事業所数の中央値：{statistics.median(emp) / statistics.median(est):.1f}人（出典が別々なら桁の目安だけ）")
         groups = {}
         for r in rs: groups.setdefault((r["区分"], r["文脈"], r["単位"]), []).append(r)
         for (cat, ctx, u), g in sorted(groups.items(), key=lambda kv: -len(kv[1])):

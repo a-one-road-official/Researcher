@@ -1,4 +1,4 @@
-品目,英語名,別名,文脈
+﻿品目,英語名,別名,文脈
 デスクリサーチで書かれていない数字を推定する方法,desk research estimating unpublished numbers,フェルミ推定 実務 市場規模;公開情報から売上を推定;非上場企業 売上 推定 方法,推定
 複数の情報源を突き合わせる三角測量（トライアンギュレーション）,triangulation multiple sources research,情報の裏取り 方法;クロスチェック リサーチ;情報源 食い違い 判断,突き合わせ
 企業分析のやり方（非上場・中小企業）,how to analyze private small companies,非上場企業 調べ方;中小企業 企業分析 方法;帝国データバンク 使わず 企業調査,企業
@@ -75,3 +75,5 @@ IFCN・FIJ のファクトチェックの手順とレーティング基準の定
 大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API）,e-Stat user guide university library statistics code database API,e-Stat 使い方 手引き 図書館 filetype:pdf;e-Stat 統計表 データベース 注記 ダウンロード 方法;e-Stat API 使い方 統計表ID,統計
 データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務,data journalism counterfactual comparison confounding chance small counts margin of error guide,Curious Journalist's Guide to Data Stray;データジャーナリズム 因果 比較対象 交絡 記者;統計 誤差の範囲 報道 前月比 標本誤差 読み方,突き合わせ
 統計の利用者から見た政府統計の問題点（自己評価式・低回収率・委託先の変更による継続性・加工統計の再現性）を書いた報告書,official statistics user problems low response rate contractor change continuity reproducibility report,統計改革 報告書 NIRA 統計の問題点;政府統計 回収率 低下 バイアス 補正;統計調査 民間委託 継続性 品質 filetype:pdf,統計
+市場規模の資料が食い違うときの照合（商品の範囲・地域・売上か出荷額か・実績か予測か）,reconciling conflicting market size estimates scope geography revenue shipments forecast,市場規模 資料 食い違い 照合 方法;市場規模 出荷額 売上 違い 推計;market size estimates differ why reconcile,突き合わせ
+データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説,common data journalism mistakes averages totals denominators,データジャーナリズム よくある間違い 数字;平均と総数 取り違え 統計 記事;データ報道 検証 手順 note,失敗
