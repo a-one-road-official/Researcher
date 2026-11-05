@@ -116,18 +116,34 @@ def identify(c: dict, log: list) -> tuple[str, str]:
     return "", "not_found"
 
 
+# 2026-11-05 走査の失敗から（mfg_capacity の「直接URL」）：e-Stat の入口から e-stat.go.jp のトップ・英語版・問い合わせ、
+# 経産省の入口から変更調査の PDF・索引ページだけを読み、統計表の Excel まで届かず数字が0件だった。原因は、別名の語（「e-Stat」など）が
+# ドメイン名に含まれ全部のリンクに当たっていたこと。ドメイン・入口のURLに含まれる語は手がかりにしない、案内のリンク（トップ・英語版・
+# 問い合わせ・サイトマップ・ログイン）は飛ばす、当たった語の数で並べる（METHOD.md 4-38）
+NAVLINK = re.compile(r"(/en/|/english/|contact|inquiry|toiawase|sitemap|site_map|privacy|policy|login|help|faq|/rss|accessibility|kiyaku|riyou)", re.I)
 def pick_links(page: dict, kws: list[str], domain: str, limit: int) -> tuple[list[str], list[str]]:
+    base = (page.get("final_url") or "").lower()
+    kws = [k for k in kws if str(k).lower() not in domain.lower() and str(k).lower() not in base]
     pages, files = [], []
     for text, url in page.get("links", []):
-        if urlparse(url).netloc.split(":")[0].removeprefix("www.") != domain:
+        pu = urlparse(url)
+        if pu.netloc.split(":")[0].removeprefix("www.") != domain:
+            continue
+        if pu.path in ("", "/") or NAVLINK.search(pu.path + "?" + (pu.query or "")):
             continue
         hay = (text + " " + url).lower()
-        if any(str(k).lower() in hay for k in kws):
+        hits = sum(1 for k in kws if str(k).lower() in hay)
+        # e-Stat の一覧は年・分類のリンクの文字に品目の語が出ない。入口と同じパスで条件（tstat・cycle・tclass）が足されたリンクは1段下の一覧として読む
+        bp = urlparse(base)
+        if not hits and bp.path and pu.path.lower() == bp.path and bp.query and len(pu.query or "") > len(bp.query) and all(x in (pu.query or "").lower() for x in bp.query.split("&")):
+            hits = 1
+        if hits:
             if url.lower().split("?")[0].endswith((".pdf", ".xlsx", ".xls", ".csv")) or "file-download" in url.lower():  # 4-35：統計の Excel・CSV も表のファイルとして先に読む
-                files.append(url)
-            elif url not in pages:
-                pages.append(url)
-    return pages[:limit], files
+                files.append((hits, url))
+            elif url not in [u for _, u in pages]:
+                pages.append((hits, url))
+    pages.sort(key=lambda x: -x[0]); files.sort(key=lambda x: -x[0])
+    return [u for _, u in pages][:limit], [u for _, u in files]
 
 
 def same_entity(page: dict, rec: dict) -> bool:
@@ -270,6 +286,19 @@ def research_market(c: dict, topic: dict) -> dict:
             sp = fetch.fetch(u)
             rec["checked"]["pass3"].append({"url": sp["final_url"], "status": sp["status"], "method": sp.get("method", "") + ":seed-link"})
             queue.append(sp)
+            # 4-38：統計表の Excel は入口の2段下にあることが多い（e-Stat：統計の一覧→年の一覧→file-download）。下のページのファイルも読む
+            if u in subs:
+                try:
+                    _, f2 = pick_links(sp, kws, dom, 0)
+                except Exception:
+                    f2 = []
+                for u2 in f2[: lim.get("pdfs", 6) // 2 or 2]:
+                    if u2 in seen:
+                        continue
+                    seen.add(u2)
+                    sp2 = fetch.fetch(u2)
+                    rec["checked"]["pass3"].append({"url": sp2["final_url"], "status": sp2["status"], "method": sp2.get("method", "") + ":seed-link2"})
+                    queue.append(sp2)
     for page in queue:
         if not page.get("text"):
             continue

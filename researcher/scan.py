@@ -153,6 +153,10 @@ def rows_for(topic):
     for f in glob.glob(os.path.join(OUT, topic, "companies", "*.json")):
         try: d = json.load(open(f, encoding="utf-8"))
         except Exception: continue
+        yield from rows_from_doc(topic, d)
+
+def rows_from_doc(topic, d):
+    if True:
         name = d.get("name", "")
         for cat, items in (d.get("evidence") or {}).items():
             for it in items or []:
@@ -190,6 +194,33 @@ def rows_for(topic):
                            "予測": "予測" if y and int(y) > NOW_YEAR else "見通し" if OUTLOOK.search(q) else "試算" if TRIAL.search(q) else "",
                            "年の補正": yfix, "符号": "負" if neg and u == "万円" else "",
                            "出典": urlparse(url).netloc, "URL": url, "引用": q[:160]}
+
+
+# 2026-11-05 4-38：判定の正解例での点検（ripla「名寄せシステム開発の進め方」：判定は人が付けた正解例と照合してから使い、
+# 失敗例・未判定例も示す）。走査で見つかった失敗（4-5・4-21・4-31・4-35・4-37）を正解例にし、毎回の実行で抜き出しの規則が
+# まだ効いているかを機械で確かめる。期待どおりでない例は scan_auto.md の先頭に出す（規則を直したときの戻り＝デグレを防ぐ）
+GOLD = [
+    ("関連記事の題名の数字（4-5）", "1万円〜1億円まで価格帯別に徹底解説", "https://example.com/a", []),
+    ("億＋万の1つの値（4-5）", "製造品出荷額は1,512億9,435万円だった", "https://example.go.jp/a", [(1512 * 10000 + 9435, "万円")]),
+    ("億＋百万円の1つの値（4-5）", "売上高は6,771億63百万円", "https://example.go.jp/a", [(6771 * 10000 + 63 * 100, "万円")]),
+    ("為替の換算レート（4-5）", "1ドル約149円で換算", "https://example.com/a", []),
+    ("規模区分の境目・半角~（4-21）", "従業者4人~29人の事業所", "https://example.go.jp/a", []),
+    ("規模区分の境目・以上（4-5）", "従業者30人以上の事業所", "https://example.go.jp/a", []),
+    ("1人あたりの分母の1（4-5）", "1人あたり加工賃は500万円", "https://example.go.jp/a", [(500, "万円")]),
+    ("万＋人の1つの値（4-37）", "従業者数は11万8213人", "https://example.go.jp/a", [(11 * 10000 + 8213, "人")]),
+    ("△は負の金額（4-34）", "当期純損失 △1,200万円", "https://example.go.jp/a", [(-1200, "万円")]),
+    ("ハイフンは負にしない（4-35）", "加工賃 -  300万円", "https://example.go.jp/a", [(300, "万円")]),
+    ("求人検索ページの数字（4-31）", "年間2,850万人が行き交う国際空港", "https://jp.stanby.com/search?q=a", []),
+    ("1,000万人超の人数（4-31）", "利用者は延べ3,000万人", "https://example.com/a", []),
+]
+def gold_check():
+    bad = []
+    for label, q, url, want in GOLD:
+        d = {"name": "__gold__", "evidence": {"テスト": [{"quote": q, "url": url}]}}
+        got = sorted((round(r["値"], 4), r["単位"]) for r in rows_from_doc("__gold__", d))
+        if got != sorted((round(v, 4), u) for v, u in want): bad.append(f"- ✗ {label}：「{q}」→ 期待 {want}／実際 {got}")
+    OUTLIERS.pop("__gold__", None)
+    return bad
 
 # 2026-11-05 4-26：工業統計は2022年から経済構造実態調査（製造業事業所調査）に包まれ、対象が「従業者4人以上の全数」から
 # 「出荷額上位9割の実測＋残りは伸び率で推計、1人以上全数を集計」に変わった（総務省・経産省 2021-03-24 資料）。2021年以前と2022年以降は同じ系列でつながない
@@ -351,6 +382,9 @@ def scan(topic):
     with open(os.path.join(OUT, topic, "cross.csv"), "w", encoding="utf-8-sig", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=list(rows[0])); w.writeheader(); w.writerows(rows)
     md = [f"# 走査（自動）— {topic}", "", "機械で出した突き合わせと【推定】。式と出典件数つき。最終の結論は scan.md。", ""]
+    gb = gold_check()
+    md += [f"- 判定の正解例の点検（4-38）：{len(GOLD) - len(gb)}／{len(GOLD)}件が期待どおり", *gb]
+    picks = {}  # 4-38：前回からの変化を出すため、欄ごとの採る値を残す
     # 2026-11-05 4-19：出どころの記録（URL・取得日）が欠けた数字を数える。0件でなければ HEALTH と同じく直す対象
     nprov = sum(1 for r in rows if not r["URL"] or not r["取得日"])
     md += [f"- 出どころの記録が欠けた数字：{nprov}件／{len(rows)}件（URLか取得日が無い）"]
@@ -402,6 +436,7 @@ def scan(topic):
             pk = pick(g)
             if pk:
                 py, pv, pn, pd, preg = pk
+                picks[f"{item}｜{cat}［{ctx}］（{u}）"] = {"年": py, "値": pv, "件": pn, "確度": gr}
                 md.append(f"  - 採る値（規則：予測除外→一次優先→全国優先→確報優先→最新年→中央値）：{pv:g}{u}（{py or '年不明'}年・{pn}件・出典{len(pd)}か所）")
                 if len(preg) >= 2: md.append(f"  - ⚠ 採る値に地域が混ざる（{'・'.join(sorted(preg)[:5])}）：この中央値は使わず、地域ごとに読む（4-30）")
                 # 4-21：最新の年が3年以上前なら古い（Inven：公表データは古いことがある）。今の判断に使う前に新しい版を探す
@@ -552,6 +587,22 @@ def scan(topic):
            f"- △・▲・括弧の負の金額：{nneg}件（損失・減少。正の値と同じ欄で中央値を取るときは本文で確かめる）",
            f"- 試算値・推計値として事実の向きから外した数字：{ntrial}件",
            *(f"- ⚠ 継続企業の前提・重要な不確実性の注記：{n}（{u}）" for n, u in sorted(GC.get(topic, set()))[:10]), ""]
+    # 2026-11-05 4-38：前回からの変化（ICD 203：新しい情報や推論がどう判断を変えたかを書き、定型の繰り返しを避ける）。
+    # 前回の採る値（picks.json）と比べ、値が±20%を超えて動いた欄・確度が変わった欄・新しく出た欄・消えた欄を並べる
+    pf = os.path.join(OUT, topic, "picks.json")
+    try: prev = json.load(open(pf, encoding="utf-8"))
+    except Exception: prev = None
+    ch = []
+    if prev is not None:
+        for k, v in sorted(picks.items()):
+            o = prev.get(k)
+            if o is None: ch.append(f"- 新しく出た：{k} {v['値']:g}（{v['年'] or '年不明'}年）{v['確度']}"); continue
+            moved = o.get("値") and abs(v["値"] - o["値"]) > abs(o["値"]) * 0.2
+            if moved or o.get("確度") != v["確度"] or o.get("年") != v["年"]:
+                ch.append(f"- 変わった：{k} {o.get('値', 0):g}（{o.get('年') or '年不明'}年）{o.get('確度', '')} → {v['値']:g}（{v['年'] or '年不明'}年）{v['確度']}")
+        ch += [f"- 消えた：{k}" for k in sorted(set(prev) - set(picks))]
+    md += ["## 前回からの変化（採る値・確度・年。4-38）", *(ch[:40] or (["（変化なし）"] if prev is not None else ["（初回。次の実行から比べる）"])), *([f"- ほか{len(ch) - 40}件"] if len(ch) > 40 else []), ""]
+    json.dump(picks, open(pf, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     md += ["## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）", *(f"- {t}" for t in thin or ["（なし）"]), ""]
     md += ["## 数字が1つも取れなかった品目（範囲の明示）", *(f"- {n}" for n in empty or ["（なし）"]), ""]
     open(os.path.join(OUT, topic, "scan_auto.md"), "w", encoding="utf-8").write("\n".join(md))
