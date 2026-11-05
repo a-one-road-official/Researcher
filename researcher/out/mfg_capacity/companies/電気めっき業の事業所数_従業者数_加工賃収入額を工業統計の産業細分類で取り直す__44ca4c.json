@@ -1,0 +1,340 @@
+{
+ "name": "電気めっき業の事業所数・従業者数・加工賃収入額を工業統計の産業細分類で取り直す（syntaxpartners の写しでなく元へ・4-24）",
+ "en": "electroplating industry establishments employees census of manufactures detailed industry Japan",
+ "aliases": [
+  "工業統計 電気めっき業 事業所数 従業者数 加工賃収入額 細分類",
+  "電気めっき業 産業細分類 工業統計表 推移",
+  "経済構造実態調査 電気めっき業 事業所数"
+ ],
+ "context": "めっき・統計",
+ "kind": "market",
+ "researched_at": "2026-11-05T16:50:50.127959+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085371",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neji-bane.jp/news/20201116_02_04",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.atsugi.kanagawa.jp/material/files/group/6/suiigenn.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou25_d/fil/11_chui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/summary/gyosyu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jaim-skill.or.jp/assets/files/entry/sample_2462-2464-2469.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nistep.go.jp/sti_indicator/2017/RM261_27.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001022686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nlftp.mlit.go.jp/ksj/gmlold/datalist/gmlold_KsjTmplt-S03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/statistics/636792/japan-communication-electronics-equipment-manufacturing-industry-business-number/?srsltid=AYCX9vI_3xLoaVR77zgmmkuz6OFRvp0liVQwHpSgdhHefzR0Wjz33Ivs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/dbview?sid=0004005686",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "電気めっき業の事業所数・従業者数・加工賃収入額を工業統計の産業細分類で取り直す（syntaxpartners の写しでなく元へ・4-24）",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085371",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.city.atsugi.kanagawa.jp/material/files/group/6/suiigenn.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou25_d/fil/11_chui.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/summary/gyosyu.pdf",
+    "https://www.nistep.go.jp/sti_indicator/2017/RM261_27.html",
+    "https://www.jaim-skill.or.jp/assets/files/entry/sample_2462-2464-2469.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ]
+  },
+  {
+   "query": "電気めっき業の事業所数・従業者数・加工賃収入額を工業統計の産業細分類で取り直す（syntaxpartners の写しでなく元へ・4-24） 推移",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085371",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.city.atsugi.kanagawa.jp/material/files/group/6/suiigenn.pdf",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
+    "https://www.mof.go.jp/pri/reference/ssc/summary/gyosyu.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou25_d/fil/11_chui.pdf",
+    "https://www.jaim-skill.or.jp/assets/files/entry/sample_2462-2464-2469.pdf",
+    "https://www.nistep.go.jp/sti_indicator/2017/RM261_27.html"
+   ]
+  },
+  {
+   "query": "電気めっき業の事業所数・従業者数・加工賃収入額を工業統計の産業細分類で取り直す（syntaxpartners の写しでなく元へ・4-24） 統計 PDF",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085371",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.city.atsugi.kanagawa.jp/material/files/group/6/suiigenn.pdf",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
+    "https://www.mof.go.jp/pri/reference/ssc/summary/gyosyu.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou25_d/fil/11_chui.pdf",
+    "https://www.jaim-skill.or.jp/assets/files/entry/sample_2462-2464-2469.pdf",
+    "https://www.nistep.go.jp/sti_indicator/2017/RM261_27.html"
+   ]
+  },
+  {
+   "query": "電気めっき業の事業所数・従業者数・加工賃収入額を工業統計の産業細分類で取り直す（syntaxpartners の写しでなく元へ・4-24） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085371",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.city.atsugi.kanagawa.jp/material/files/group/6/suiigenn.pdf",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
+    "https://www.mof.go.jp/pri/reference/ssc/summary/gyosyu.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou25_d/fil/11_chui.pdf",
+    "https://www.jaim-skill.or.jp/assets/files/entry/sample_2462-2464-2469.pdf",
+    "https://www.nistep.go.jp/sti_indicator/2017/RM261_27.html",
+    "https://ja.wikipedia.org/wiki/工業統計調査"
+   ]
+  },
+  {
+   "query": "電気めっき業の事業所数・従業者数・加工賃収入額を工業統計の産業細分類で取り直す（syntaxpartners の写しでなく元へ・4-24） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085371",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.city.atsugi.kanagawa.jp/material/files/group/6/suiigenn.pdf",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
+    "https://www.mof.go.jp/pri/reference/ssc/summary/gyosyu.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou25_d/fil/11_chui.pdf",
+    "https://www.jaim-skill.or.jp/assets/files/entry/sample_2462-2464-2469.pdf",
+    "https://www.nistep.go.jp/sti_indicator/2017/RM261_27.html"
+   ]
+  },
+  {
+   "query": "電気めっき業の事業所数・従業者数・加工賃収入額を工業統計の産業細分類で取り直す（syntaxpartners の写しでなく元へ・4-24） 1人当たり 万円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085371",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.city.atsugi.kanagawa.jp/material/files/group/6/suiigenn.pdf",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
+    "https://www.mof.go.jp/pri/reference/ssc/summary/gyosyu.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou25_d/fil/11_chui.pdf",
+    "https://www.jaim-skill.or.jp/assets/files/entry/sample_2462-2464-2469.pdf",
+    "https://www.nistep.go.jp/sti_indicator/2017/RM261_27.html"
+   ]
+  },
+  {
+   "query": "電気めっき業の事業所数・従業者数・加工賃収入額を工業統計の産業細分類で取り直す（syntaxpartners の写しでなく元へ・4-24） 2015 2025",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085371",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.city.atsugi.kanagawa.jp/material/files/group/6/suiigenn.pdf",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
+    "https://www.mof.go.jp/pri/reference/ssc/summary/gyosyu.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou25_d/fil/11_chui.pdf",
+    "https://www.jaim-skill.or.jp/assets/files/entry/sample_2462-2464-2469.pdf",
+    "https://www.nistep.go.jp/sti_indicator/2017/RM261_27.html"
+   ]
+  },
+  {
+   "query": "electroplating industry establishments employees census of manufactures detailed industry Japan Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.statista.com/statistics/636792/japan-communication-electronics-equipment-manufacturing-industry-business-number/?srsltid=AYCX9vI_3xLoaVR77zgmmkuz6OFRvp0liVQwHpSgdhHefzR0Wjz33Ivs",
+    "https://www.e-stat.go.jp/en/dbview?sid=0004005686",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2011/10/trade-and-employment-in-japan_g17a202a/5kg3nh62jg0x-en.pdf",
+    "https://fred.stlouisfed.org/tags/series?t=employment%3Bjapan%3Bmanufacturing",
+    "http://www.americanplatingcompany.com/information-on-metal-plating-demographics/",
+    "https://www.e-stat.go.jp/en/stat-search/database?statdisp_id=0004040076"
+   ]
+  },
+  {
+   "query": "site:note.com 電気めっき業の事業所数・従業者数・加工賃収入額を工業統計の産業細分類で取り直す（syntaxpartners の写しでなく元へ・4-24）",
+   "results": [
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/kens_reading1/n/n764c552aeeb9",
+    "https://note.com/at_consulting18/n/nb1bfe4b1b017",
+    "https://note.com/david_parekar/n/n570d2928ebf3",
+    "https://note.com/david_parekar/n/ne61b7069390d",
+    "https://note.com/ogawa_tech/n/n6299bd0a6539",
+    "https://note.com/ogawa_tech/n/ndc40f3e6ca98"
+   ]
+  },
+  {
+   "query": "site:x.com 電気めっき業の事業所数・従業者数・加工賃収入額を工業統計の産業細分類で取り直す（syntaxpartners の写しでなく元へ・4-24）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2102725299331064069",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845",
+    "https://x.com/tokei_ibaraki/status/1620330455823441921",
+    "https://x.com/tokei_ibaraki/status/2082712347798577159",
+    "https://x.com/takano_mario/status/2093143372257251825",
+    "https://x.com/Setubi5_osaka/status/2039117279334731787",
+    "https://x.com/OgawaSeisakusho/status/2030446148042002722"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 電気めっき業の事業所数・従業者数・加工賃収入額を工業統計の産業細分類で取り直す（syntaxpartners の写しでなく元へ・4-24）",
+   "results": [
+    "https://jp.linkedin.com/in/泰雄-二宮-0342631b0",
+    "https://jp.linkedin.com/in/洋之-石田-972971211",
+    "https://pulse.linkedin.com/",
+    "https://jp.linkedin.com/company/（株）放電精密加工研究所",
+    "https://jp.linkedin.com/posts/悠暉-大島-a0a302a0_山形市めっき老舗のスズキハイテック売上高100億円へ3本の矢-日本経済新聞-activity-7373997027627765760-4vPr",
+    "https://jp.linkedin.com/pulse/boost-profits-circular-electroplating-how-economy-lowers-venkat-raja-rh2ce?tl=ja",
+    "https://jp.linkedin.com/in/郁心-佐藤-0318521b5"
+   ]
+  },
+  {
+   "query": "site:facebook.com 電気めっき業の事業所数・従業者数・加工賃収入額を工業統計の産業細分類で取り直す（syntaxpartners の写しでなく元へ・4-24）",
+   "results": [
+    "https://www.facebook.com/sankoseisaku/",
+    "https://www.facebook.com/denkimekki/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1384167243755964/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2023年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1014172224088803/",
+    "https://www.facebook.com/story.php/?story_fbid=720004953160255&id=100054522697629",
+    "https://www.facebook.com/denkimekki/posts/5009032599152964/",
+    "https://www.facebook.com/denkimekki/posts/２月例会のご案内関西のものづくり百年とその将来-めっきが果たす役割明けましておめでとうございます会員の皆様には新しい年を迎え新たな気持ちでお仕事に取り組んでおら/1656259437763647/"
+   ]
+  },
+  {
+   "query": "電気めっき業の事業所数・従業者数・加工賃収入額を工業統計の産業細分類で取り直す（syntaxpartners の写しでなく元へ・4-24） note 社長",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085371",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.city.atsugi.kanagawa.jp/material/files/group/6/suiigenn.pdf",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
+    "https://www.mof.go.jp/pri/reference/ssc/summary/gyosyu.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou25_d/fil/11_chui.pdf",
+    "https://www.jaim-skill.or.jp/assets/files/entry/sample_2462-2464-2469.pdf",
+    "https://www.nistep.go.jp/sti_indicator/2017/RM261_27.html"
+   ]
+  },
+  {
+   "query": "電気めっき業の事業所数・従業者数・加工賃収入額を工業統計の産業細分類で取り直す（syntaxpartners の写しでなく元へ・4-24） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001041688&result_page=1&tclass3val=0&statdisp_id=0003085371",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.city.atsugi.kanagawa.jp/material/files/group/6/suiigenn.pdf",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
+    "https://www.mof.go.jp/pri/reference/ssc/summary/gyosyu.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou25_d/fil/11_chui.pdf",
+    "https://www.jaim-skill.or.jp/assets/files/entry/sample_2462-2464-2469.pdf",
+    "https://www.nistep.go.jp/sti_indicator/2017/RM261_27.html"
+   ]
+  },
+  {
+   "query": "electroplating industry establishments employees census of manufactures detailed industry Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/tin-electroplating-solution-market-us-japan-korea-imxxf",
+    "https://www.linkedin.com/pulse/nickel-plated-steel-strip-market-us-japan-korea-6el4f",
+    "https://ca.linkedin.com/company/kuntz",
+    "https://www.linkedin.com/pulse/silver-plated-copper-strip-market-us-japan-korea-0qicf",
+    "https://www.linkedin.com/pulse/metal-finishing-machines-market-global-outlook-oy5mf",
+    "https://www.linkedin.com/pulse/plating-rectifiers-market-us-japan-korea-europe-vw8jf",
+    "https://zw.linkedin.com/company/okuno-auromex",
+    "https://uk.linkedin.com/company/bep-surface-technologies",
+    "https://www.linkedin.com/pulse/market-leaders-laggards-global-electroplating-apparatus-trends-aa7sc",
+    "https://mt.linkedin.com/company/sts-industrie-sa"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ21頁・検索15回）",
+  "社員数・平均社員数": "記載なし（読んだ21頁・検索15回）",
+  "受注金額・加工賃収入": "記載なし（読んだ21頁・検索15回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ21頁・検索15回）",
+  "生産能力・設備": "記載なし（読んだ21頁・検索15回）",
+  "10年推移": "記載なし（読んだ21頁・検索15回）",
+  "人手と仕事の差": "記載なし（読んだ21頁・検索15回）"
+ }
+}

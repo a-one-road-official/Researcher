@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・65品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・68品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1414,14 +1414,72 @@
 - 検索結果の抜粋：
   - 「The 15 Best Academic Blogs for 2025 | Ex OrdoThe Researcher's Source Blog | For Researchers | Springer NatureBlog — Sage Research Methods CommunityResearcher.Life: Blog Category | Researcher.LifeResearch Techniques – Types, Examples and Selection Guide — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the University of」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer Nature21 Best Academic Blogs Every Researcher Must Follow10 Best Academic Blogs Every Researcher Must Subscribe to in 2023Blog — Sage Research Methods Community — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog o」（https://www.exordo.com/blog/the-best-academic-blogs）
+  - 「The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer NatureBlog — Sage Research Methods Community21 Best Academic Blogs Every Researcher Must FollowResearch Techniques – Types, Examples and Selection Guide — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger 」（https://www.exordo.com/blog/the-best-academic-blogs）
 
 ## 検索演算子で一次情報・原典に寄せる方法（filetype・site・除外語）（search operators primary sources filetype site research）
 - 文脈：探し方
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：
+  - 「この記事では、Google検索コマンドの基本的な使い方から、仕事・SEO担当者向けの実践的な活用法、さらに」（https://func.jp/google-search-command/）
+  - 「iPhone OR Android 写真 共有 方法」（https://func.jp/google-search-command/）
+  - 「→ iPhoneまたはAndroidの写真共有方法に関する記事をまとめて表示」（https://func.jp/google-search-command/）
+  - 「機種が決まっていないときや両方の方法を比較したいときに便利」（https://func.jp/google-search-command/）
+  - 「→ 設定名を忘れていても、該当する機能の手順記事を見つけられる」（https://func.jp/google-search-command/）
+  - 「ChatGPT 使い方 after:2025-01-01」（https://func.jp/google-search-command/）
+  - 「「サイトの全体規模を把握するための目安」として使うのがコツで、正確なインデックス状況はGoogle Search Consoleで確認してください」（https://func.jp/google-search-command/）
+  - 「→ 「やり方」を主題にした解説記事の競合状況を把握できる」（https://func.jp/google-search-command/）
+  - 「intitle:ChatGPT 使い方 after:2025-06-01」（https://func.jp/google-search-command/）
+  - 「2025年6月以降に公開された、タイトルに「ChatGPT 使い方」が含まれる記事だけを表示します」（https://func.jp/google-search-command/）
+  - 「intitle:確定申告 やり方 after:2026-01-01 -site:nta.go.jp」（https://func.jp/google-search-command/）
+  - 「allintitle:確定申告 やり方 2026 -site:nta.go.jp」（https://func.jp/google-search-command/）
+  - 「allintitle:Google スプレッドシート 使い方 初心者 -site:func.jp」（https://func.jp/google-search-command/）
+  - 「→ AI回答を避けて生の声を探す・オープンデータ取得・SNS投稿調査など、2026年型の使い方が特に有効」（https://func.jp/google-search-command/）
+  - 「Google AI検索の使い方｜通常検索との違いと活用シーン【2026年版】」（https://func.jp/google-search-command/）
+- 突き合わせ・推定：
+  - 「after:/before:で表示されるページは、Googleが推定した公開日時が基準になります」（https://func.jp/google-search-command/）
+  - 「site:で表示される件数はあくまでGoogleの推定値であり、実際のインデックス数と大きく乖離することがあります」（https://func.jp/google-search-command/）
+  - 「queries is an estimate, not an exact count. It's often wrong. Use it to get a rough sense of scale, not a precise figure.」（https://www.denis-iakimenko.com/blog/google-search-operators）
+  - 「Date approximations. before: and after: use Google’s indexed-date estimate, which is not the same as the page’s published date. For research that requires exact publication dates, verify against the page itself or use the publisher’s archive.」（https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/）
+- 一次情報の探し方：
+  - 「これを使うことで「特定のサイト内だけ検索」「PDFファイルだけ表示」「キーワードを完全一致で探す」など、通常の検索では難しい絞り込みが簡単にできます」（https://func.jp/google-search-command/）
+  - 「: PDFや資料だけを絞り込んで検索できる」（https://func.jp/google-search-command/）
+  - 「論文・公的機関の資料・業界レポートなど、PDFやExcelで公開されている一次情報を効率よく探したいときに便利です」（https://func.jp/google-search-command/）
+  - 「pdf / doc / docx / xls / xlsx / ppt / pptx / txt / csv」（https://func.jp/google-search-command/）
+  - 「filetype:pdf 中小企業 DX 推進」（https://func.jp/google-search-command/）
+  - 「→ 官公庁や団体が公開しているPDF資料を中心に確認できる」（https://func.jp/google-search-command/）
+  - 「site:自社ドメイン filetype:pdf」（https://func.jp/google-search-command/）
+  - 「と検索すれば、公開状態になっているPDF資料の確認・管理にも役立ちます」（https://func.jp/google-search-command/）
+  - 「→ 公的機関の対策情報だけを横断して確認できる」（https://func.jp/google-search-command/）
+  - 「site:mhlw.go.jp filetype:pdf 介護保険」（https://func.jp/google-search-command/）
+  - 「厚生労働省サイト内で公開されている介護保険関連のPDF資料だけを一覧表示します」（https://func.jp/google-search-command/）
+  - 「省庁の通知・ガイドライン・統計資料に直接アクセスでき、一般ブログや転載記事を排除できます」（https://func.jp/google-search-command/）
+  - 「site:meti.go.jp filetype:pdf DX 中小企業」（https://func.jp/google-search-command/）
+  - 「→ 経済産業省のDX推進PDF資料を直接表示」（https://func.jp/google-search-command/）
+  - 「site:mext.go.jp filetype:pdf 学習指導要領」（https://func.jp/google-search-command/）
+- 失敗・落とし穴：
+  - 「site:note.com 副業 フリーランス 失敗」（https://func.jp/google-search-command/）
+  - 「→ noteの副業・フリーランス失敗体験談を表示」（https://func.jp/google-search-command/）
+  - 「Common mistake: Adding a space.」（https://cited.so/blog/search-operators）
+  - 「Common combination mistakes:」（https://cited.so/blog/search-operators）
+  - 「Common Search Operator Mistakes」（https://cited.so/blog/search-operators）
+  - 「The most common mistake: adding spaces where they don't belong.」（https://cited.so/blog/search-operators）
+  - 「The most common mistakes—spacing errors and Boolean precedence confusion—are easily avoided with incremental testing. Build queries one operator at a time, verify results, then add complexity.」（https://cited.so/blog/search-operators）
+  - 「Common Mistakes and Limits」（https://www.greengeeks.com/blog/google-search-operators-full-list-and-examples/）
+- 実例：
+  - 「検索ボックスに特定の記号や英単語を組み合わせるだけで、検索結果を劇的に絞り込めます」（https://func.jp/google-search-command/）
+  - 「たとえば「site:」の場合、「site: example.com」（スペースあり）では機能しません」（https://func.jp/google-search-command/）
+  - 「「site:example.com」（スペースなし）と入力します」（https://func.jp/google-search-command/）
+  - 「と、そのキーワードを含むページを検索結果から除外できます」（https://func.jp/google-search-command/）
+  - 「ため、スペース区切りと結果は変わりません」（https://func.jp/google-search-command/）
+  - 「日本語は単語間にスペースがないため、英語ほど正確に機能しないケースがあります」（https://func.jp/google-search-command/）
+  - 「ただし現在のGoogleでは、範囲指定よりも検索意図が優先されるため、必ずしも結果が厳密に絞り込まれるわけではありません」（https://func.jp/google-search-command/）
+  - 「「円」「$」などの通貨単位を付けると正しく機能しないケースが増えています」（https://func.jp/google-search-command/）
+  - 「data.go.jpはCSVがインデックスされていないケースが多いため、統計データ探しはe-stat.go.jpを指定するのが確実です」（https://func.jp/google-search-command/）
+  - 「ただし、コマンドを増やしすぎると検索結果が極端に少なくなったり、0件になったりすることがあるため、必要最小限の組み合わせから試すことをおすすめします」（https://func.jp/google-search-command/）
+  - 「検索コマンドを使っても結果が0件になります」（https://func.jp/google-search-command/）
+  - 「コマンドの組み合わせや条件が厳しすぎると結果が0件になります」（https://func.jp/google-search-command/）
+  - 「まずコマンドを1つに減らして試し、結果が出るか確認してください」（https://func.jp/google-search-command/）
+  - 「また、after:/before:の日付が間違っていると意図した期間と異なる結果が出ることもあります」（https://func.jp/google-search-command/）
+  - 「検索結果ページ右上のメニューや「ツール」ボタンから開けます」（https://func.jp/google-search-command/）
 
 ## AIリサーチの出典・反証・不確実性の管理（重要主張からの検証）（verify AI research claims sources counterevidence uncertainty）
 - 文脈：裏取り
@@ -4023,3 +4081,179 @@
   - 「: Harvard Business Review（2026年6月）が指摘する通り、「完璧に整った履歴書・自己PR・志望動機」を作るコストが実質ゼロになった結果、文章の完成度やデスクトップ上の企業研究は能力や熱意の証明（シグナル）として機能しなくなった [SRC-056]」（https://note.com/jack4manastalk/n/n880406135053）
   - 「「その場の同期対話で検証可能な実務スキル・再現性・AIとの協働プロセス」**（ペア作業、AI利用前提のライブ課題、システムデザイン・ケース議論、リファレンスチェック）へと一段と鋭くシフトしている [SRC-056, SRC-058]」（https://note.com/jack4manastalk/n/n880406135053）
   - 「ご質問にある「本番面接以外に求職者のアクションが不要なケース」は」（https://note.com/jack4manastalk/n/n880406135053）
+
+## 1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号）（revenue per employee benchmark by company size median quartile）
+- 文脈：推定
+- 手順・やり方：
+  - 「SaaS CAC Ratio | How to Calculate and Why It Matters」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Calculate Your Renewal and Upsell Rate」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「The Rule of 40 SaaS | How to Calculate and Why It Matters in 2025? (Updated)」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Calculate and Understand the SaaS Quick Ratio」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Correctly Calculate your SaaS Gross Profit Margin」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Calculate Customer Lifetime Value (CLTV)」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Create the Dreaded Excel Waterfall Chart」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Prepare for Preliminary SaaS Due Diligence」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Prepare for M&A Management Presentations」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Forecast Your Sales Team Headcount While Scaling Bookings」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「Five Pillar SaaS Metrics Framework」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Move Your Number」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「Want ARR per employee alongside the rest of the Efficiency pillar and the full Five Pillar Framework?」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「How to Calculate the Burn Multiple」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+  - 「recommends staying consistent within your comparison set rather than picking whichever method flatters the number.」（https://bizminer.com/revenue-per-employee-benchmarks/）
+- 突き合わせ・推定：
+  - 「The AI infrastructure companies sit above even that. Epoch AI estimates Anthropic at roughly」（https://www.thesaascfo.com/arr-per-employee-benchmarks/）
+- 実例：
+  - 「Reconciliation example」（https://bizminer.com/revenue-per-employee-benchmarks/）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+
+## 研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合）（data cleaning plan checklist consistency checks Crystal Lewis data management education research）
+- 文脈：清掃
+- 手順・やり方：
+  - 「さまざまな可視化の方法を試してみるとよいでしょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「データクリーニングをどこまで・どのように行うかは、分析の方針や分析方法、用いる分析ツールによっても異なるため、ここでは基本的な確認ポイントに絞って解説していきます」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「Excel等の表形式のデータの入力方法については、総務省が公開している「」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「統計表における機械判読可能なデータ作成に関する表記方法」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「カンマ（タブ）と改行という単純な方法でデータを表現しているため、テキストエディター等でも開くことができるなど、ソフトウェアの種別を問わず開くことができるメリットもあります」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「詳しい使い方などは、以下の資料をご覧ください」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「イリノイ大学が提供しているOpenRefineの使い方ガイドです」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「データをクリーンアップする方法トップ10」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「誤ってデータを消したりしてしまわないためにセルをロックする（＝編集できなくする）方法を紹介しています」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「データのフォーマット（形式）を統一したり、値を正規化したりするために、セルに入力規則を設定する方法を紹介しています」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「Excelを使用してデータを集計する方法を解説した動画です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「正規表現とは、「メタ文字」という特殊な文字を用いるなどの方法で、高度な文字列の検索や置換を行う仕組みのことです」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「のページにおいて、Googleドキュメントでの正規表現の使用方法や利用できるメタ文字などについて説明があります」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「正規表現の使い方などについては、以下の資料をご覧ください」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「書籍に沿って使い方を学ぶ場合に限り、無料版でも行えます」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+- 突き合わせ・推定：
+  - 「このような重複データを照合し、同一と判断して統合する処理が名寄せです」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「検索・照合の精度を上げるための“土台作り”となる処理です」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「氏名・住所・電話番号などを照合し、1つのデータに統合します」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「データ・クリーニングによって、組み合わせたデータをシステム間で一貫性を持って使用できるようになり、データ形式や規格の矛盾から生じる問題を防ぐことができます」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
+  - 「同じデータセット内で、データが異なる形式や構造で表現されていると矛盾が生じます」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
+  - 「これに対処するため、データ専門家は欠損値を推定データで置き換えたり、不完全な入力項目を削除したり、さらなる調査のために欠損値にフラグを立てたりする場合があります」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
+  - 「データの検証では、多くの場合、手動検査または自動データ・クリーニング・ツールを使用して、エラーや一貫性のないデータ、異常が残っていないかをチェックします」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
+- 一次情報の探し方：
+  - 「統計表における機械判読可能なデータ作成に関する表記方法」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「以下の画像は、同じテキストをPDF（画像左）とプレーンテキスト（画像右）で表示した例です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「たとえば、PDFファイルのテキストをそのままコピーしたり、画像ファイルにOCR（画像等に含まれる文字を認識する技術）をかけたりすると、予期しない改行やスペースが入ることがあります」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「PDFは人間にとっては問題なく読むことができるファイルですが、コンピュータによる処理には適さない（機械可読でない）ファイルとなっています」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「相談できる分野に統計・データ処理があるので、わからないことがあったら相談してみてください」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「異常値を含んだまま分析すると、平均値や統計結果が大きく歪んでしまう可能性があります」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「文字データを、AIや統計ソフトが扱える「数値」に変換します」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「機械学習や統計分析を行う際に必要となる処理です」（https://www.cm-net.co.jp/blog/data-cleansing/）
+- 失敗・落とし穴：
+  - 「分析をはじめる前に、いくつかデータをピックアップしてチェックしたり、データを可視化したりして間違いを見つけることで、こうした二度手間を避けることができます」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「ツール使用時にテキストデータがサーバに送信されるため、個人情報を含むテキストで使用する場合には注意が必要です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「なお、Excelでは1900年より前の日付を「文字列」として扱うため、注意が必要です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「ただし、日本語では適切に動作しないことがあったり、固有名詞などはチェックできなかったりするため、注意が必要です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「ただ、Excelでは操作を誤りやすいため、変更の必要がないセルをロックしたり、既定値のあるデータには「データの入力規則」を適用したりするとよいでしょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「そこで重要になるのが、データの誤りや重複、表記ゆれなどを修正し、信頼性の高い状態へと整える」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「９．データクレンジング実施時のポイント・注意点」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「データクレンジングとは、データベースに保存された情報の誤りや重複、表記ゆれ、欠損などの不備を修正し、データの正確性や一貫性を高める作業のことです」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「新しいシステムへデータを移行する際、既存データに誤りや不要な情報が含まれていると、その問題も新しい環境へと引き継がれてしまい、トラブルの原因となります」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「データに誤りや重複、表記ゆれがある状態では、必要な情報を探すのに時間がかかり、分析や業務のたびに修正作業が発生します」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「しかし、古い情報や不正確なデータをもとに判断すると、戦略の方向性を見誤り、長期的な競争力を損なうリスクがあります」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「ここでは、実施時に押さえておきたい重要なポイントと注意点を整理します」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「情シス代行とは？依頼できる業務内容・導入メリット・失敗しない選び方を徹底解説！」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「例えば、データ・クリーニングは、機械学習アルゴリズムのトレーニングの基となるデータセットを、正確で一貫性がありバイアスのない状態にするのに役立ちます」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
+  - 「このクリーンなデータの基盤がなければ、アルゴリズムは不正確で一貫性がなくバイアスのある予測を生成する可能性があり、意思決定の有効性と信頼性を低下させかねません」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
+- 実例：
+  - 「研究をする過程では、アンケート調査の回答、計測・観測結果など様々なデータを収集・生成することがあるかと思います」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「たとえば、アンケート調査を実施し、以下のような回答結果を分析する場合を考えてみましょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「ここでの事例はGoogleドキュメントに限らず、他のテキストエディタでもおおむね利用できる事例です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「そのほか、正規表現の実例については、インターネット上でさまざまな紹介がされているので、調べてみましょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「情シス支援サービス「ION」（イオン） 事例紹介」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「といった問題に直面するケースも少なくありません」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「こうした不正確で整理されていないデータは、分析結果の精度を低下させるだけでなく、業務効率の悪化や誤った意思決定の原因にもなります」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「今回は、データクレンジングの概要や目的、必要になるケース、具体的な手法や進め方について分かりやすく解説します」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「３．データクレンジングが必要になるケース」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「と呼ばれ、そのまま利用すると検索や集計が正しく行えなかったり、分析結果の精度にも影響が及び、誤った意思決定や業務効率の低下につながる可能性があります」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「上記のような処理を通じてデータの品質が向上し、データ分析やマーケティング、営業活動などにおいて、より信頼性の高い結果を得られるようになります」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「しかし実際には、誤入力や重複登録、表記ゆれ、情報の欠損などが含まれているケースも少なくありません」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「データ分析の結果は、元となるデータの品質に大きく左右されます」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「ダーティデータを含んだ状態のまま分析を行えば、得られる結果も不正確になり、誤った意思決定につながる可能性があります」（https://www.cm-net.co.jp/blog/data-cleansing/）
+  - 「ここでは、企業でよく見られる代表的なケースを紹介します」（https://www.cm-net.co.jp/blog/data-cleansing/）
+
+## 議会図書館・統計機関のファクトチェックの手引き（要約でなく表を引く・比べる相手・確かめられない主張の扱い）（House of Commons Library how to check facts statistics primary source data tables）
+- 文脈：検証
+- 手順・やり方：
+  - 「顔認証企業フェイス・インティの委託によるオピニウム社の調査(英国成人2000人対象)では、69%が利用方法に発言権を持つべきだと回答し、61%が誤認による巻き込まれを懸念し、57%が画像保存を懸念したと報告している」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 顔認証の「例外的運用から日常的運用への移行」は、監視インフラの正当化が「テロ対策」から「日常の治安維持」へと静かに範囲を広げる典型例であり、情報安全保障の観点では監視技術の運用範囲が既成事実として拡大していく過程として注視する価値がある」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 著名な既存メディア出身者の発言を、自陣営が唱える「レガシーメディアは死んだ」という主張に沿う形へ見出しと編集で寄せる手法は、権威ある人物の言葉を借りて世論を誘導する情報操作の典型例であり、当人の異議申し立てによって初めて表面化した点に注意が必要である」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 領土訪問と「制裁は不当」との言説を同時に出す手法は、被害者性を演出して自国の強硬策を正当化する認知戦上の典型的な語り口である」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「指輪は18金製で、ダイヤモンド321個、サファイア56個、エメラルド13個、ルビー6個と「T」の頭文字型のダイヤモンド飾り2個をあしらい、評価額は2万5千ドル(約390万円)から3万5千ドル(約540万円)と報じられた」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「装甲車両が巻き上げる砂塵を偵察ドローンが容易に捕捉し、爆弾投下型や自爆突入型(FPV)ドローンが後続、判定が早く部隊は繰り返し「再投入」された」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「クラウドフレアは、AIエージェント専用のクラウドホスト型ブラウザ「Kitesurf」を発表した」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 週間と月間という異なる指標が並べられ、外部からの検証が難しい点が重要で、対話型AIが世界人口の1割規模の日常的な情報経路になった以上、その規模と応答の傾向は情報環境の評価対象として測定可能な形で示される必要がある」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「別の欄の方法論の専門家は実在するが、無断で名前を使われていた」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「調査では66%が生成AIの使用経験があると答えた一方、効果的な使い方を理解していると答えたのは38%だった」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「政治の情報を対話型AIから得るとした割合は、右寄りと極右で34%、中道と左派では22から23%と差があった」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 対話型AIを政治情報の入口にする層が右寄りに偏るという分布は、モデルの応答傾向がそのまま特定層の情報環境になることを意味するが、外部からモデルを監査する手段が無いため、その影響を測定すること自体ができないという指摘が重要である」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 一次資料の文言を書き換えず「理論上」という留保語一語を落とすだけで主張が反転する手口は、事実確認の網をすり抜けやすい増幅型の情報操作の典型である」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「政権は「従来の72回の注射」から大幅に減ると説明したが、専門家はこの数字は混合ワクチンを複数回と数え、毎年のインフルエンザと新型コロナウイルス接種を前提とし過大だと反論する」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 科学者に否定されてきたワクチンと自閉症の関連説を含む反ワクチン言説が公的な政策文書に取り込まれる過程は、偽情報が周縁から公式チャンネルへと格上げされる主流化の典型例として注視に値する」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+- 突き合わせ・推定：
+  - 「埋葬時にイラン外相が投稿した墓地の写真は、一部のイラン反体制派にAI生成と断定されたが、後の検証で本物と確認された」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「ガザ、ティグレイ、イランの事例を通じ、否認は検証に耐える必要がなく、疑いを生む時間差を作れば足りると論じる」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 嘘つきの配当が個別事案の後追い検証では追いつかない構造的優位を持つ点は、認知戦における「証拠の真正性」そのものを標的にする反射統制の応用として注目に値する」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「英国運輸警察(鉄道を管轄する警察)は、ライブ顔認証(監視映像を警察の要注意人物リストと照合する技術)の試験運用をロンドン地下鉄へ拡大する」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「米メディア404Mediaによると、新ツール「DecryptAds」は、広告システムを列挙するads.txtとapp-ads.txt、、取引先を列挙するsellers.jsonを横断検索可能にし、従来は情報源や漏洩、アプリ解析に頼っていた調査を公開ファイルの突き合わせで行えるようにした」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: ads.txt、app-ads.txt、sellers.jsonのような公開広告仕様ファイルを横断照合する手法は、影響工作ネットワークの同定で広告アカウントIDや配信タグが有力な指紋として使われてきた流れの延長にあり、帰属分析の基盤として認知戦調査にも応用しうる」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「韓国発スタートアップ、砲兵射撃指揮AI「バーバラ」をウクライナで実地検証」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「韓国の防衛スタートアップNewtype Industriesが、ウクライナ軍部隊と協力してAI活用ソフト「バーバラ(Barbara)」を検証していることが分かった」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「参入は、2022年からウクライナで活動するカナダ拠点の助言会社リアクション・グループの仲介で実現し、同社はこれまで約10社の技術検証を支援してきた」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Newtype Industriesは既に2つの部隊と接触し初期評価を得ており、検証は2026年内を超えない見込みという」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 戦場での実地検証は資金調達や販路開拓に直結する強力な宣伝材料でもあり、防衛技術企業の対外発信を読む際は、検証を行った事実と性能が実証されたという主張を切り分ける必要がある」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「64通りのシナリオの分析結果、石油大手のAI活用による誘発排出は、AIの電力消費による排出の3.3倍から13.3倍に達すると推計された」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「年間の追加排出量は、低位推計でメキシコの年間排出量、高位推計では世界4位の排出国ロシアの年間排出量に相当する規模になる」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: エージェントが未検証のウェブコンテンツを直接読み込んで行動する設計は、プロンプトインジェクションを介した情報操作という新たな攻撃面を広げる点で注視に値する」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「FDAは同日、そのまま食べられるカット野菜や果物の製造業者向けに、衛生管理、供給業者の検証、冷蔵などを求める最終指針を確定した」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+- 一次情報の探し方：
+  - 「https://www.reuters.com/legal/legalindustry/who-governs-ai-federal-governments-challenge-state-regulation-what-organizations--pracin-2026-08-12/」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「レンダリングエンジンにBlitz、CSS解析にFirefoxのStylo、JavaScriptエンジンにRust製のBoa JSを採用し、Rust製ヘッドレスエンジンObscuraの移植版を最初の試作としたと説明する」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 争点は報道機関の収益にとどまらず、読者が要約の背後にある一次情報へ到達する経路が細ることにあり、出所の確認を経ずに要約だけが流通する状態は情報操作への耐性を下げる方向に働く」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 所管機関が調査継続中とする一方で政府広報が「封じ込め済み」と断定する不一致は、危機時の公的情報の一貫性を損ない、当局の説明を信用しない層の形成という形で後の情報操作に足場を与える」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 英政府のデータ倫理・イノベーションセンター（現在は廃止）の評価者が「合法であることは正統性と同じではない」と述べた点が核心で、住民に説明も同意もないまま公的機関が市民を採点していたという事実は、当局不信を煽る言説に実証的な足場を与え、後続の情報操作が寄生できる素地をつくる」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「同社広報によれば到達は8月上旬で、2026年2月の月間7億5000万人、7月下旬の決算発表時点の9億5000万人から伸びた」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「YouTube日本「ニュース＆政治」週間ランキングの統計分析（2026/08/03-08/09）｜一田和樹のメモ帳」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 科学者に否定されてきたワクチンと自閉症の関連説を含む反ワクチン言説が公的な政策文書に取り込まれる過程は、偽情報が周縁から公式チャンネルへと格上げされる主流化の典型例として注視に値する」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「https://www.sv.uio.no/c-rex/aktuelt/aktuelle-saker/2026/jupskas_a-forsta-terror-i-norge_crex_arbeidsnotat_2026.pdf」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「ある実験では、レビュアーエージェントが多肢選択式の回答判定コードの不具合(最初に出現した文字を機械的に採用しLLMの言い回しを誤読する欠陥)を発見し、研究者エージェントが修正した」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「https://www.epsu.org/sites/default/files/article/files/CICTAR_Palantir.pdf」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 死者の総数と人口当たりの率をすり替える手法は、公式統計を引用したまま結論だけを反転させるため、指摘されても発言者が撤回する必要を感じにくく、政府高官が発信源となる場合には訂正が届く範囲がさらに狭まる」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「同省の王磊は「ある国」の行為への反応としてこの概念を位置づけ、自国のデジタル基盤の採用を他国に迫る点と、自由放任の規制によってAI統治が少数の企業に委ねられている点を挙げた」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「米国の上下水道の制御系を狙うイラン系とみられる侵入は、7月30日に確認された7州から8月4日には少なくとも12州へ倍増したが、米政府は正式な帰属を出しておらず、7月31日に大統領がイランとする評価を退けてミネソタ州に責任があると述べて生じた公的な食い違いも訂正されていない」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「AI費用の高騰で出張と採用の大半を凍結した独SAP」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+- 失敗・落とし穴：
+  - 「エグリストン氏は、Metaの規約運用実績には確信が持てないとしつつ、各国で進む注意義務(デューティ・オブ・ケア)立法が実質的な変化を促すことに期待を示した」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「英国運輸警察(鉄道を管轄する警察)は、ライブ顔認証(監視映像を警察の要注意人物リストと照合する技術)の試験運用をロンドン地下鉄へ拡大する」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 著名な既存メディア出身者の発言を、自陣営が唱える「レガシーメディアは死んだ」という主張に沿う形へ見出しと編集で寄せる手法は、権威ある人物の言葉を借りて世論を誘導する情報操作の典型例であり、当人の異議申し立てによって初めて表面化した点に注意が必要である」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「枠組みは脆弱性データベースやGitHubを自ら検索する「学習サイクル」を備え、誤りを自己修正していたという」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「座標の誤りや民間人地域該当の疑いには警告を出すが、最終的な交戦判断は人間が下す」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「第4回デジタル・ディフェンス・シンポジウム(シンガポール)の国際法セッションで、明治大学サイバーセキュリティ研究所の河野桂子氏が、サイバー空間におけるデューデリジェンス(当然行うべき注意義務)を論じた講演を、筆者が解説する」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「監査会社Eticasは13モデルの3万6千件超の性能指標を検証し、多くのモデルは適合率が低く、危険と判定された人の高い割合が誤りだと指摘した」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「共同創設者のフェイマリー・ヴァッセル博士は、パランティアやアンドリーセン・ホロウィッツの宣言がAIの軌道と権力の集中を不可避として扱うとし、「技術的不可避性の文法」の解体と、AGIなど思弁的リスクから具体的な害への注意の移動を掲げた」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「筆者は、ロシアが1年以上、偽情報や政治的圧力、経済的威圧、代理勢力でパシニャン首相の弱体化と選挙干渉、EU加盟の妨害を図って失敗した後の、公然の恫喝への移行だと位置づける」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「以下、業務アプリのSSO統合、セッション長の短縮と再認証、認証元ネットワークの限定、法人管理端末の要求、資格情報の保護、多要素認証の登録直前に認証失敗や放棄された承認要求がないかの監視、python-requestsなど自動処理を示す利用者エージェントによる大量閲覧を持ち出しと同等に扱う検知、商用VPNや住宅用回線の代理からの認証への警告が続く」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「AIインフラ投資は既に1兆5000億ドル（約233兆円）に達し、2027年以降も拡大が見込まれる一方、生成AIは判例の捏造やコード削除、誤診断入力など重大な誤りを頻発させ、その修正作業が入力コストを押し上げる」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「筆者は、AIの限界を強調する近時の論考に対し、エージェントは環境からの反応を得て自ら誤りを修正できると反論した」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: レビュアーエージェントが誤りを検出し修正する多層構成は、影響工作におけるAI生成コンテンツの品質管理体制にも転用され得る点で、能力実証の意義を超えて注視に値する」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「過去の判断記録と突き合わせ「2025年の事後検証にはRustへの書き換えが失敗したとある」と指摘する使い方も示される」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「報告書は、注意喚起が改訂されないこと自体が連邦の対応状況を示す情報だとする」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+- 実例：
+  - 「Claudeのコメント: 真正な草の根の左右合流と、外部主体が意図的に仕掛ける疑似的な合流工作(反射統制)を峻別する必要性を示す事例であり、FIMI分析における真正性判定の難しさを浮き彫りにする」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「証拠否認を国家が常用してきたイランで、立場が逆転した事例である」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「ガザ、ティグレイ、イランの事例を通じ、否認は検証に耐える必要がなく、疑いを生む時間差を作れば足りると論じる」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Nicholas Casey（The New York Times Magazine）」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「64通りのシナリオの分析結果、石油大手のAI活用による誘発排出は、AIの電力消費による排出の3.3倍から13.3倍に達すると推計された」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 現物贈答による政策決定者への働きかけは偽情報とは異なる影響工作の古典的回路であり、関税政策という具体的な物質的帰結に接続した点で立証性の高い事例である」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Duterte case: Trial to open on 30 November 2026」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「https://www.icc-cpi.int/news/duterte-case-trial-open-30-november-2026」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 実戦部隊の能力格差を可視化するこの種の演習結果は、対抗勢力がNATOの実戦能力不足という言説を補強する材料に転用しうる点で、情報安全保障上も注視すべきだ」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「フランスの新聞社約300社が加盟する団体APIGは8月11日、Googleの生成AIによる検索結果の要約について、同国の競争当局に申し立てたと発表した」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 反戦の選択肢を投票用紙から消す措置は、得票という形で反戦世論が可視化される経路を断つ点に本質があり、抑圧の結果として現れる「反対票の不在」が国内の合意を示す証拠として再利用される構図をつくる」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 「AIを使っていない」という表明そのものが偽装の対象になった事例であり、真正性の主張は検証手段を伴わなければ信頼の記号として流用されるという点で、実在人物の経歴と顔写真を流用するなりすまし網の手口と構造が同じである」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 映像による本人確認が実時間の顔変換と物理的な小道具の併用で破られた事例であり、発覚が処理落ちという偶然に依存していた点は、なりすましの検知を人の目視や動作の自然さに頼る運用の限界を示す」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「Claudeのコメント: 反射統制の観点では、EUが強力な対抗手段を行使より温存に留めていること自体が、対称的な相互依存が抑止として機能する事例であり、認知戦で語られる非対称的な脆弱性の構図とは異なる」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
+  - 「豪州の男性がAIエージェントにジム予約を依頼したところ、予約システムに侵入し他人の予約を取り消していた事例も紹介した」（https://note.com/ichi_twnovel/n/nc7a804e0096d）
