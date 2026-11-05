@@ -9,7 +9,7 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-05T17:58:46.974985+00:00",
+ "researched_at": "2026-11-05T19:56:17.177521+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -21,11 +21,6 @@
    },
    {
     "url": "https://note.com/zen_ai_lab/n/n1514d7e7c104",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/toaru_hakase/n/n6aed01d88f0c",
     "status": "ok",
     "method": "http"
    },
@@ -43,6 +38,41 @@
     "url": "https://note.com/matuno_w/n/n8f726df39686",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://note.com/a_hosokawa/n/ne4d800cf95ba",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/actions-marketplace-validations/mohitagw15856_pm-claude-skills/blob/main/skills/source-triangulation/SKILL.md",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattwalker.education/tools/co-teaching/13-source-triangulation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://measurementpress.org/articles/source-triangulation-checklist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://altss.com/glossary/source-triangulation",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
@@ -52,11 +82,11 @@
    "results": [
     "https://note.com/_novita_/n/n6c6761f4478b",
     "https://note.com/zen_ai_lab/n/n1514d7e7c104",
-    "https://note.com/toaru_hakase/n/n6aed01d88f0c",
     "https://note.com/tsuzurika/n/n243e77314a07",
     "https://note.com/aoki_ai/n/n3c64fad53bac",
     "https://note.com/matuno_w/n/n8f726df39686",
-    "https://note.com/a_hosokawa/n/ne4d800cf95ba"
+    "https://note.com/a_hosokawa/n/ne4d800cf95ba",
+    "https://note.com/ecsel_65you/n/nf98d84fd922c"
    ]
   },
   {
@@ -73,18 +103,26 @@
   },
   {
    "query": "source triangulation trace to origin echo verbatim numbers validation matrix",
-   "results": []
+   "results": [
+    "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
+    "https://github.com/actions-marketplace-validations/mohitagw15856_pm-claude-skills/blob/main/skills/source-triangulation/SKILL.md",
+    "https://abstractopedia.org/mechanisms/triangulation_matrix/",
+    "https://mattwalker.education/tools/co-teaching/13-source-triangulation.html",
+    "https://measurementpress.org/articles/source-triangulation-checklist",
+    "https://altss.com/glossary/source-triangulation",
+    "https://github.com/mblode/pm-claude-skills-mohitagw15856/blob/main/exports/continue/pm-cowork/source-triangulation/source-triangulation.md"
+   ]
   },
   {
    "query": "site:note.com 出どころを元までたどり、こだまを束ねる（source triangulation・検証の表）",
    "results": [
     "https://note.com/_novita_/n/n6c6761f4478b",
     "https://note.com/zen_ai_lab/n/n1514d7e7c104",
-    "https://note.com/poka_nero/n/n85048bd7be59",
     "https://note.com/tsuzurika/n/n243e77314a07",
     "https://note.com/aoki_ai/n/n3c64fad53bac",
     "https://note.com/a_hosokawa/n/ne4d800cf95ba",
-    "https://note.com/matuno_w/n/n8f726df39686"
+    "https://note.com/matuno_w/n/n8f726df39686",
+    "https://note.com/poka_nero/n/n85048bd7be59"
    ]
   },
   {
@@ -93,9 +131,9 @@
     "https://x.com/okame_icu/status/2108317764503138444",
     "https://x.com/konkyo_note",
     "https://x.com/onemuya2022/status/2115038864637383036",
+    "https://x.com/mina_suki_yo/status/2084642205717963218",
     "https://x.com/ono_cardiology/status/2033845853790556569",
-    "https://x.com/Kodama_JPN/status/2032456809404076122",
-    "https://x.com/kizunasan/status/2113064229439938811",
+    "https://x.com/boxheadroom/status/2113647038764298725",
     "https://x.com/nikkei_kotoba/status/778218941919272960"
    ]
   },
@@ -104,9 +142,9 @@
    "results": [
     "https://www.linkedin.com/top-content/science/research-methods/triangulation-methods-in-research/",
     "https://www.linkedin.com/top-content/science/research-methods/triangulation-vs-single-source-research/",
-    "https://www.linkedin.com/pulse/mixed-method-research-example-data-triangulation-ariful-islam",
     "https://www.linkedin.com/pulse/triangulation-its-significance-research-enhancing-kousthupamany-folzc",
-    "https://www.linkedin.com/pulse/what-data-triangulation-anurodh-kumar",
+    "https://www.linkedin.com/pulse/data-triangulation-arun-kumar-zzruc",
+    "https://www.linkedin.com/advice/3/what-most-effective-methods-triangulate-data-from-glmoc",
     "https://jp.linkedin.com/pulse/understanding-verification-validation-key-pillars-quality-ttcyc?tl=ja",
     "https://jp.linkedin.com/pulse/data-provenance-hidden-backbone-every-ai-supply-chain-navar-blair-dulee?tl=ja"
    ]
@@ -116,11 +154,11 @@
    "results": [
     "https://developers.facebook.com/",
     "https://www.facebook.com/youhei.takahashi.54/posts/稲架はざ掛けするために稲を束ねる場所小田原市桑原-たんぼの恵を感じる会/28256729824026583/",
-    "https://www.facebook.com/shigeru.tada.1/posts/元スレ-1-記憶たどり-20190201金-12402327-idkkdui0m9net-ハロウィーンパーティーに参加するために100円ショップで購入したタトゥ/2174333802633537/",
-    "https://www.facebook.com/kusanomidou/videos/httpskusanomidocomvisitedshiro135254渡来人の一族が支えた飛鳥の歴史を記事で読む海を渡り飛鳥を支えた-渡来人の一族東漢氏日本書/1557795419488146/",
-    "https://www.facebook.com/sinobu0428dx/videos/皆さんはこの事件をどう感じましたか5つの家族はなぜ一人の女に支配されたのか尼崎連続変死事件角田美代子が家族に入り込んだきっかけから事件の発覚裁判前に残された疑問/1571080568041047/",
     "https://www.facebook.com/kusanomidou/videos/httpskusanomidocomvisitedshiro133394家康が桶に隠れて命拾い-奈良に伝わる奇妙な話の真相真田の兵に追われた徳川家康が桶屋の桶に/1597718521539142/",
-    "https://www.facebook.com/bunkashiryoukankamebun/posts/保津川を下り角倉了以素庵の足跡をたどりました現在開催中の特別展関連事業として角倉了以素庵の足跡をたどるフィールドワークを10月10日土秋晴れのもと開催することが/1620633416527303/"
+    "https://www.facebook.com/bunkashiryoukankamebun/posts/保津川を下り角倉了以素庵の足跡をたどりました現在開催中の特別展関連事業として角倉了以素庵の足跡をたどるフィールドワークを10月10日土秋晴れのもと開催することが/1620633416527303/",
+    "https://www.facebook.com/shigeru.tada.1/posts/元スレ-1-記憶たどり-20190201金-12402327-idkkdui0m9net-ハロウィーンパーティーに参加するために100円ショップで購入したタトゥ/2174333802633537/",
+    "https://www.facebook.com/kazenotopos/",
+    "https://www.facebook.com/sinobu0428dx/videos/皆さんはこの事件をどう感じましたか5つの家族はなぜ一人の女に支配されたのか尼崎連続変死事件角田美代子が家族に入り込んだきっかけから事件の発覚裁判前に残された疑問/1571080568041047/"
    ]
   },
   {
@@ -135,23 +173,23 @@
    "query": "source triangulation trace to origin echo verbatim numbers validation matrix site:linkedin.com",
    "results": [
     "https://www.linkedin.com/posts/maxharitonoff_crsl-activity-7454916441922842624-wiL6",
-    "https://www.linkedin.com/pulse/traceability-matrix-tm-audit-ready-gmp-compliant-framework-palav-ey2af",
+    "https://www.linkedin.com/posts/veritrace-intelligence_fraud-intelligence-services-contact-notice-activity-7500623640758095872-lCnE",
     "https://au.linkedin.com/company/originstrace",
     "https://in.linkedin.com/company/source-trace-systems",
     "https://ng.linkedin.com/company/origintrace",
     "https://ic.linkedin.com/products/acviss-origin-track-trace/",
-    "https://www.linkedin.com/pulse/design-inputs-outputs-trace-matrix-principles-lean-documents-ctjwe"
+    "https://www.linkedin.com/advice/0/what-latest-trends-developments-origin-tracing-verification"
    ]
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ6頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ6頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ6頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ6頁・検索12回）",
-  "実例": "記載なし（読んだ6頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ12頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ12頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ12頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ12頁・検索12回）",
+  "実例": "記載なし（読んだ12頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-05T06:29:42.994050+00:00"
 }

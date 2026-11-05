@@ -8,84 +8,8 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-05T17:50:35.263143+00:00",
+ "researched_at": "2026-11-05T19:51:46.564104+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "本記事では、名寄せロジックの基本構造から、企業・個人・ECデータ別のキー設計、アルゴリズムの選び方、Excelや専用ツールを使った実装手順、そして運用でよく起きる失敗とその回避策まで、実務に直結する内容を順に整理しています",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せの実装経験がある担当者でも、同じ失敗パターンに繰り返し陥ることがあります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでは代表的な4つの失敗パターンを、発生原因・影響・回避策のセットで整理します",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗1：クレンジング不足のままマッチングを実行し精度が出ない",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗2：キー設定が甘く誤統合（false positive）が発生する",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗3：個人情報の誤統合によるプライバシーリスク",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗4：一度きりの名寄せで終わり新規データの重複が再発する",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事では、名寄せロジックを構成するキー・判定ルール・アルゴリズムの3要素から始まり、データ種別ごとのキー設計、アルゴリズムの選び方、4ステップの実装手順、そして運用でよく起きる失敗パターンまでを整理しました",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "需要予測AIとは？仕組み・導入メリット・失敗しない5ステップを解説",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "法人番号は国税庁長官が法人等（設立登記法人・国の機関・地方公共団体など）に対して1つ指定する13桁の識別番号であり、企業名や所在地が変更されても番号自体は変わりません",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最新日付優先は更新日時が新しいレコードの値を採用する方式で、最新情報を維持したい項目（電話番号・住所など）に適しています",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "需要予測モデルの種類と選び方｜統計・機械学習の使い分けを解説",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説 - GENIEE's library",
@@ -220,6 +144,76 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "「名寄せをする」という作業は一見シンプルに見えますが、実際には①何をキーにして照合するか、②どの条件で「同一」と見なすか、③その判定をどの計算方式で実行するか、という3つの設計が揃って初めて機能します",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "マッチングキーとは、異なるデータソース間で同一エンティティを特定するための照合項目です",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一意キーが取得できている場合は、照合の精度が高く、設計もシンプルになります",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どれだけ高度なアルゴリズムを使っても、照合の起点となるキーが適切でなければ、誤統合や未統合は避けられません",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "異なるシステム間で商品データを統合・横断分析する際に、JANコードが存在すれば照合の精度は大幅に高まります",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ルールが増えるほど管理コストが上昇し、矛盾するルールが生まれるリスクも高まります",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "複合キーを使う場合はCONCATENATE関数（または&演算子）で複数項目を結合した照合キーを生成し、条件付き書式で重複箇所を色分けして可視化すると確認作業が効率化されます",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一致ルールで照合するフィールドと一致条件（完全一致・部分一致など）を定義し、重複ルールでその結果に対してアラートを出すか自動ブロックするかを設定します",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "法人番号は国税庁長官が法人等（設立登記法人・国の機関・地方公共団体など）に対して1つ指定する13桁の識別番号であり、企業名や所在地が変更されても番号自体は変わりません",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "最新日付優先は更新日時が新しいレコードの値を採用する方式で、最新情報を維持したい項目（電話番号・住所など）に適しています",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "需要予測モデルの種類と選び方｜統計・機械学習の使い分けを解説",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "名寄せの必要性は感じていても、「どの項目をキーにすればいいのか」「判定ルールをどう設計するのか」という具体的な手順が見えず、作業が止まっているケースは少なくありません",
@@ -330,51 +324,57 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "突き合わせ・推定": [
+  "失敗・落とし穴": [
    {
-    "quote": "「名寄せをする」という作業は一見シンプルに見えますが、実際には①何をキーにして照合するか、②どの条件で「同一」と見なすか、③その判定をどの計算方式で実行するか、という3つの設計が揃って初めて機能します",
+    "quote": "本記事では、名寄せロジックの基本構造から、企業・個人・ECデータ別のキー設計、アルゴリズムの選び方、Excelや専用ツールを使った実装手順、そして運用でよく起きる失敗とその回避策まで、実務に直結する内容を順に整理しています",
     "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "マッチングキーとは、異なるデータソース間で同一エンティティを特定するための照合項目です",
+    "quote": "名寄せの実装経験がある担当者でも、同じ失敗パターンに繰り返し陥ることがあります",
     "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "一意キーが取得できている場合は、照合の精度が高く、設計もシンプルになります",
+    "quote": "ここでは代表的な4つの失敗パターンを、発生原因・影響・回避策のセットで整理します",
     "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "どれだけ高度なアルゴリズムを使っても、照合の起点となるキーが適切でなければ、誤統合や未統合は避けられません",
+    "quote": "失敗1：クレンジング不足のままマッチングを実行し精度が出ない",
     "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "異なるシステム間で商品データを統合・横断分析する際に、JANコードが存在すれば照合の精度は大幅に高まります",
+    "quote": "失敗2：キー設定が甘く誤統合（false positive）が発生する",
     "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ルールが増えるほど管理コストが上昇し、矛盾するルールが生まれるリスクも高まります",
+    "quote": "失敗3：個人情報の誤統合によるプライバシーリスク",
     "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "複合キーを使う場合はCONCATENATE関数（または&演算子）で複数項目を結合した照合キーを生成し、条件付き書式で重複箇所を色分けして可視化すると確認作業が効率化されます",
+    "quote": "失敗4：一度きりの名寄せで終わり新規データの重複が再発する",
     "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "一致ルールで照合するフィールドと一致条件（完全一致・部分一致など）を定義し、重複ルールでその結果に対してアラートを出すか自動ブロックするかを設定します",
+    "quote": "この記事では、名寄せロジックを構成するキー・判定ルール・アルゴリズムの3要素から始まり、データ種別ごとのキー設計、アルゴリズムの選び方、4ステップの実装手順、そして運用でよく起きる失敗パターンまでを整理しました",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "需要予測AIとは？仕組み・導入メリット・失敗しない5ステップを解説",
     "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -386,11 +386,6 @@
   "pass3": [
    {
     "url": "https://note.com/tender_clam9623/n/n5116d5a7bd28",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ponhinata/n/n38d28a97b1f4",
     "status": "ok",
     "method": "http"
    },
@@ -411,6 +406,11 @@
    },
    {
     "url": "https://note.com/atstream/n/na4971a88118f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/anomaly_inc/n/n15611efccadc",
     "status": "ok",
     "method": "http"
    },
@@ -470,11 +470,6 @@
     "method": "http"
    },
    {
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "status": "ok",
     "method": "http"
@@ -486,21 +481,6 @@
    },
    {
     "url": "https://www.dtc.co.jp/blog/juuyoubutu_kanri_dx",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.issoh.co.jp/column/details/18983/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://mazrica.com/product/businesslab/sfa/deduplication-record-matching/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
     "status": "ok",
     "method": "http"
    },
@@ -541,15 +521,12 @@
    "query": "名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社） site:note.com",
    "results": [
     "https://note.com/tender_clam9623/n/n5116d5a7bd28",
-    "https://note.com/ponhinata/n/n38d28a97b1f4",
     "https://note.com/ai_komon/n/n9b96b57f965c",
     "https://note.com/atstream/n/n4b6dd8a1e381",
     "https://note.com/ai_scout_jp/n/na264a18ce645",
     "https://note.com/atstream/n/na4971a88118f",
     "https://note.com/anomaly_inc/n/n15611efccadc",
-    "https://note.com/anomaly_inc/n/n97a5977ecc26",
-    "https://note.com/tender_clam9623/n/n9688b0e5c705",
-    "https://note.com/anomaly_inc/n/ndf1797c3b277"
+    "https://note.com/ponhinata/n/n38d28a97b1f4"
    ]
   },
   {
@@ -578,8 +555,7 @@
     "https://sls.co.jp/kagizaru/other/post91130/",
     "https://mamorio.biz/issue-key",
     "https://sakaelock.jp/blog/case/repair/p18053/",
-    "https://bqey.com/column/archives/84",
-    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/"
+    "https://bqey.com/column/archives/84"
    ]
   },
   {
@@ -593,8 +569,7 @@
     "https://traka.total-link.jp/230612/",
     "https://bqey.com/column/archives/84",
     "https://www.kinkoya.jp/article/keybox/",
-    "https://www.dtc.co.jp/blog/juuyoubutu_kanri_dx",
-    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/"
+    "https://www.dtc.co.jp/blog/juuyoubutu_kanri_dx"
    ]
   },
   {
@@ -616,11 +591,11 @@
    "query": "site:note.com 名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）",
    "results": [
     "https://note.com/tender_clam9623/n/n5116d5a7bd28",
-    "https://note.com/ai_komon/n/n9b96b57f965c",
     "https://note.com/atstream/n/n4b6dd8a1e381",
-    "https://note.com/atstream/n/na4971a88118f",
     "https://note.com/anomaly_inc/n/n15611efccadc",
+    "https://note.com/atstream/n/na4971a88118f",
     "https://note.com/anomaly_inc/n/n97a5977ecc26",
+    "https://note.com/ai_komon/n/n9b96b57f965c",
     "https://note.com/ponhinata/n/n38d28a97b1f4"
    ]
   },
@@ -630,32 +605,32 @@
     "https://x.com/codelabjp",
     "https://x.com/kotoha_ai_auto/status/2087399771057361310",
     "https://x.com/boss_sec_labo/status/2114236798163669191",
-    "https://x.com/wren_fukushima/status/2112775798281367773",
     "https://x.com/boss_sec_labo/status/2111657313614573684",
     "https://x.com/boss_sec_labo/status/2112896734502539563",
-    "https://x.com/boss_sec_labo/status/2112385872066920625",
-    "https://x.com/ai_shihan/status/2112320962670756172"
+    "https://x.com/wren_fukushima/status/2112775798281367773",
+    "https://x.com/MyTechBlogJP/status/2108086381390266677",
+    "https://x.com/boss_sec_labo/status/2112385872066920625"
    ]
   },
   {
    "query": "site:linkedin.com 名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）",
    "results": [
+    "https://www.linkedin.com/company/atco-group",
+    "https://www.linkedin.com/company/concentrix",
     "https://jp.linkedin.com/posts/takahiko-nishida-35899838_取引先の一覧を2つのシステムで突き合わせる前に確かめる4点を公開する-claude-activity-7493199656081096705-zUpz",
     "https://jp.linkedin.com/pulse/analyzing-missing-data-sql-step-by-step-guide-adetona-makinde-8scxf?tl=ja",
     "https://jp.linkedin.com/posts/清悟-中村-6952563ba_単独愛知の町工場から棚卸しもrpaも消えたgemini活用4事例が衝撃-activity-7511219977451147265-Tftt",
     "https://jp.linkedin.com/pulse/346連載-兵力で勝てないなら頭で勝つ-vol2偵察なくして作戦なし-ai導入の前に業務の棚卸しから始めよ-忍-渡辺-3cgjc",
-    "https://jp.linkedin.com/posts/高井-翔平-313547287_aiが使われない理由は性能ではない-aiを導入したけれど現場で全く使われなくなった-activity-7460260052055035905-LFJv",
-    "https://jp.linkedin.com/pulse/handling-missing-data-how-leads-wrong-conclusions-doug-rose-otnpe?tl=ja",
-    "https://jp.linkedin.com/posts/優貴乃-岩﨑-9a2798353_ai導入前の業務棚卸しシート-activity-7473600460126412800-uzHg"
+    "https://jp.linkedin.com/posts/高井-翔平-313547287_aiが使われない理由は性能ではない-aiを導入したけれど現場で全く使われなくなった-activity-7460260052055035905-LFJv"
    ]
   },
   {
    "query": "site:facebook.com 名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）",
    "results": [
-    "https://www.facebook.com/mynumber.funsan/posts/分散化でなく名寄せキーロガー盗用画面同期も国が大丈夫ですと言うのは詭弁です一体どういう言い訳をしているのでしょうかシリアル番号だけでは個人の情報にアクセスできま/588864446795501/",
+    "https://www.facebook.com/EXIT266/",
     "https://www.facebook.com/NipponSoftOfficial/photos/ma合併後の顧客データの統合でお困りではありませんかmaにともなうシステム統合ではデータの品質整合性の壁名寄せの難しさといった課題をいかに解決していくかが顧客デ/122278510886231505/",
-    "https://www.facebook.com/story.php/?story_fbid=1211807907615758&id=100063596796246",
     "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
+    "https://www.facebook.com/story.php/?story_fbid=1211807907615758&id=100063596796246",
     "https://www.facebook.com/meow0217/posts/闇の力を秘めし鍵よ真の姿を我の前に示せ契約のもとさくらが命じるレリーズ隱藏著黑暗力量的鑰匙啊在我面前顯示你真正的力量跟你定下約定的小櫻命令你封印解除封印兩年的照/793883736095426/",
     "https://www.facebook.com/takako.daichi/posts/根室の皆さんへ根室平内郵便局前でゴリラのキーホルダーがついた鍵を拾いました郵便局前だったので局長に託しておきました失くされた方の元に届きますように/2420433901466255/",
     "https://www.facebook.com/asteriawarp/posts/asteria-warp-tips-紹介-条件分岐編branchstartコンポーネントを使った条件分岐を動画で解説キクちゃんことキクチがちょっと偉そうにしてま/4310092612417051/"
@@ -667,12 +642,12 @@
     "https://blog.convibase.jp/key-management/",
     "https://mamorio.biz/issue-key",
     "https://note.com/itjigsaw_puzzle/n/n03ed4fbfe5cf",
-    "https://note.com/tonton_security/n/n14a22580d56d",
     "https://traka.total-link.jp/230612/",
-    "https://khsaoki.com/sparekey-002/",
-    "https://www.youtube.com/watch?v=dBB_yeV-DM8",
+    "https://note.com/tonton_security/n/n14a22580d56d",
+    "https://www.youtube.com/watch?v=1t6G5jBv0YE",
     "https://sakaelock.jp/blog/case/repair/p18053/",
-    "https://biz.moneyforward.com/payroll/basic/76883/",
+    "https://kagilock.jp/topics/grand-master-key-system/",
+    "https://khsaoki.com/sparekey-002/",
     "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/"
    ]
   },
@@ -680,12 +655,12 @@
    "query": "名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社） X 投稿",
    "results": [
     "https://x.com/izukan01/status/2114963556005302625",
-    "https://www.youtube.com/watch?v=IoN3IrJesOc",
     "https://blog.convibase.jp/key-management/",
+    "https://www.youtube.com/watch?v=IoN3IrJesOc",
     "https://www.reddit.com/r/Database/comments/qcgqt7/are_composite_primary_keys_bad_practice/?tl=ja",
+    "https://khsaoki.com/sparekey-002/",
     "https://www.itscom.co.jp/forbiz/column/office-environment/16418/",
     "https://mamorio.biz/issue-key",
-    "https://khsaoki.com/sparekey-002/",
     "https://traka.total-link.jp/230612/",
     "https://cho-tatsu.com/lab/kanri/kosu/kosu-kanri/",
     "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/"
@@ -708,378 +683,7 @@
   }
  ],
  "missing": {},
- "new_this_run": {
-  "失敗・落とし穴": [
-   {
-    "quote": "本記事では、名寄せロジックの基本構造から、企業・個人・ECデータ別のキー設計、アルゴリズムの選び方、Excelや専用ツールを使った実装手順、そして運用でよく起きる失敗とその回避策まで、実務に直結する内容を順に整理しています",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せの実装経験がある担当者でも、同じ失敗パターンに繰り返し陥ることがあります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでは代表的な4つの失敗パターンを、発生原因・影響・回避策のセットで整理します",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗1：クレンジング不足のままマッチングを実行し精度が出ない",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗2：キー設定が甘く誤統合（false positive）が発生する",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗3：個人情報の誤統合によるプライバシーリスク",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗4：一度きりの名寄せで終わり新規データの重複が再発する",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事では、名寄せロジックを構成するキー・判定ルール・アルゴリズムの3要素から始まり、データ種別ごとのキー設計、アルゴリズムの選び方、4ステップの実装手順、そして運用でよく起きる失敗パターンまでを整理しました",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "需要予測AIとは？仕組み・導入メリット・失敗しない5ステップを解説",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "法人番号は国税庁長官が法人等（設立登記法人・国の機関・地方公共団体など）に対して1つ指定する13桁の識別番号であり、企業名や所在地が変更されても番号自体は変わりません",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "最新日付優先は更新日時が新しいレコードの値を採用する方式で、最新情報を維持したい項目（電話番号・住所など）に適しています",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "需要予測モデルの種類と選び方｜統計・機械学習の使い分けを解説",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説 - GENIEE's library",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せの必要性は感じていても、「どの項目をキーにすればいいのか」「判定ルールをどう設計するのか」という具体的な手順が見えず、作業が止まっているケースは少なくありません",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、名寄せロジックの基本構造から、企業・個人・ECデータ別のキー設計、アルゴリズムの選び方、Excelや専用ツールを使った実装手順、そして運用でよく起きる失敗とその回避策まで、実務に直結する内容を順に整理しています",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "条件を人手で定義するルールベース型、文字列の類似度をスコア化する類似度マッチング型、そして学習データからモデルを構築するAI・機械学習型です",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "マッチングキーの設計方法：何をキーにすれば同一判定できるか",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ECサイト・商品データの場合：JANコード・型番・会員IDの活用",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "JANコードが存在しない場合は、型番や商品名＋メーカー名の複合キーで補完します",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せアルゴリズムの種類と選び方：ルールベース・類似度マッチング・AI型",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ルールベース型は、「企業名が完全一致かつ電話番号の上7桁が一致する場合は同一とする」のように、判定条件を人手で明文化して実行する方式です",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "類似度マッチング型：スコアで同一性を判定する方式",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "類似度マッチング型は、文字列同士の「どれだけ似ているか」をスコアとして計算し、設定した閾値を超えた場合に同一と判定する方式です",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ルールベース型では網羅しきれない表記ゆれに対応できるのが最大の利点です",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "代表的な計算手法として、レーベンシュタイン距離（一方の文字列をもう一方に変換するために必要な「挿入・削除・置換」の最小操作回数で類似度を表す手法）、Jaccard係数（2つの集合の和集合に占める共通要素（積集合）の割合）、N-gram（文字列をN文字の連続部分列として列挙し、その集合の一致度で類似度を計算する方法）などがあります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AI・機械学習型：学習データから判定モデルを構築する方式",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "When data is incomplete, the success or failure of record linkage has less to do with which technique you choose and more to do with how well the chosen technique aligns with the realities of your data. Many linkage initiatives fail because the methods are applied outside the conditions they were designed for.",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Many modern implementations are grounded in probabilistic frameworks such as Fellegi-Sunter model which formalizes how agreement and disagreement across attributes contribute to match likelihood.",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Blocking and indexing are sometimes misunderstood in discussions around record linkage techniques. They are not methods for determining whether records match. Instead, they determine which records are even compared in the first place and how efficiently those comparisons can happen at scale.",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In practice, the most reliable record linkage techniques are not single methods but deliberate combinations of deterministic rules, probabilistic scoring, fuzzy similarity measures, and carefully designed blocking strategies.",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Evaluate Record Linkage Solutions for Incomplete Data",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Conclusion & Next Steps for Decision-Makers",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What Are Entity Graphs and How to Build One You Can Trust",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "名寄せの必要性は感じていても、「どの項目をキーにすればいいのか」「判定ルールをどう設計するのか」という具体的な手順が見えず、作業が止まっているケースは少なくありません",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "判定ルールとは、キー同士の比較結果をどの条件で「同一」と見なすかを定義するものです",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "以下では、企業データ・個人データ・ECデータの3つのケース別に、推奨キーと複合キーの組み合わせ方を整理します",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、法人番号が登録されていない取引先や、古いデータには番号が存在しないケースもあります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "担当者が異なるシステムや部門で同じ企業を別レコードとして登録してしまうケースは多く、法人番号による統合はその根本的な解決策になります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会員データの統合では、実店舗とECサイトで会員IDが別々に管理されているケースが多く見られます",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "棚卸しの結果として、「このシステムには法人番号が存在しないため複合キーを使う」「メールアドレスの欠損率が高いため電話番号を補助キーにする」といった判断が具体的にできるようになります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この段階を省略して実装に進むと、後工程で設計の見直しが必要になるケースが多いため、丁寧に進めることが重要です",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一致ルールで照合するフィールドと一致条件（完全一致・部分一致など）を定義し、重複ルールでその結果に対してアラートを出すか自動ブロックするかを設定します",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "顧客データが複数のシステムに分散していて集約に手間がかかっているケースや、社内に分析専門家がおらずデータ活用の進め方に迷っているケースでは、導入支援チームによる要件定義と運用支援チームによる伴走サポートが整っている点も、選定時の判断材料になります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえば、同じビルに入居する別会社が「企業名の一部＋住所」の複合キーで同一と判定されたり、類似した名前の別人が氏名だけで統合されたりするケースが該当します",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "食品のAI需要予測で食品ロス削減と欠品防止を両立する方法｜導入事例と5つの実践ポイント",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Linking similar records always involves uncertainty. The real question is where errors are acceptable. Different use cases tolerate different risks, but many linkage implementations fail because this distinction is never made explicit.",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "it is often safer to preserve uncertainty and route ambiguous cases for review than to force a match that cannot be defended later.",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Deterministic matching relies on predefined rules, such as exact matches on one or more fields. For example, ‘match records where email addresses are identical,’ or ‘where name and date of birth matches exactly.’ In practice, many deterministic implementations use hierarchical or rules-priority matching, where high-confidence rules are evaluated first before broader criteria are applied.",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "techniques measure how similar two values are rather than whether they are identical. Common examples include string similarity measures used to compare names, addresses, or other free-text fields.",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "algorithms so high confidence matches, and ambiguous cases can be handled differently.",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, deterministic rules can be used to capture high-confidence matches, while similarity-based scoring helps surface potential matches when identifiers are missing or inconsistent. This layered approach reduces reliance on any single attribute and supports more resilient linkage outcomes on incomplete data.",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "「名寄せをする」という作業は一見シンプルに見えますが、実際には①何をキーにして照合するか、②どの条件で「同一」と見なすか、③その判定をどの計算方式で実行するか、という3つの設計が揃って初めて機能します",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "マッチングキーとは、異なるデータソース間で同一エンティティを特定するための照合項目です",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一意キーが取得できている場合は、照合の精度が高く、設計もシンプルになります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "どれだけ高度なアルゴリズムを使っても、照合の起点となるキーが適切でなければ、誤統合や未統合は避けられません",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "異なるシステム間で商品データを統合・横断分析する際に、JANコードが存在すれば照合の精度は大幅に高まります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ルールが増えるほど管理コストが上昇し、矛盾するルールが生まれるリスクも高まります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "複合キーを使う場合はCONCATENATE関数（または&演算子）で複数項目を結合した照合キーを生成し、条件付き書式で重複箇所を色分けして可視化すると確認作業が効率化されます",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一致ルールで照合するフィールドと一致条件（完全一致・部分一致など）を定義し、重複ルールでその結果に対してアラートを出すか自動ブロックするかを設定します",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ]
- },
- "runs": 1,
+ "new_this_run": {},
+ "runs": 2,
  "first_researched_at": "2026-11-05T17:50:35.263143+00:00"
 }

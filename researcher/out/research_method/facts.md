@@ -2262,6 +2262,8 @@
   - 「調査結果を、次の事業判断に使える形へ」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「業種別・企業事例（6）」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「例えば会社が買収の影響を説明しているなら、売上増加をそのまま既存事業の顧客獲得力と捉えないようにします」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+- 検索結果の抜粋：
+  - 「非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ｜ナレ... — 非上場企業の売上の調べ方を、無料の5ステップと有料データベースで解説。決算公告に売上がない理由、単体・連結の違い、推定の計算例も紹介します。888名の独自調査を踏まえ、競合の売上を新規事業の判断に使う記録例まで整理しました。」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
 
 ## 生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法）（structured analytic techniques ACH analysis of competing hypotheses generation verification separation）
 - 文脈：分析の型
@@ -2674,11 +2676,11 @@
 
 ## 出どころを元までたどり、こだまを束ねる（source triangulation・検証の表）（source triangulation trace to origin echo verbatim numbers validation matrix）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ6頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ6頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ6頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
-- 実例：記載なし（読んだ6頁・検索12回）
+- 手順・やり方：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## コンサルの調べ方（目的・予想の仮説・公益社団法人の調査報告）（consulting desk research hypothesis expected answer association reports）
 - 文脈：分析の型
@@ -2984,11 +2986,11 @@
 
 ## 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果（statistical literacy bias types survivorship selection measurement correlation causation）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 実例：記載なし（読んだ27頁・検索12回）
 
 ## 生産性の分解（内部効果・構成効果・参入退出効果）（productivity decomposition within between entry exit effect）
 - 文脈：突き合わせ・推定
