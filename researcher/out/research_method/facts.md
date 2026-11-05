@@ -328,8 +328,8 @@
   - 「Real‑World Example: Turning a Vague Posting into a Winning Application」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Insert concrete examples—e.g., “Led a cross‑functional team of 5 to deliver project X two weeks ahead of schedule.”」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Add at least one quantified soft‑skill example.」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方（how to use Japanese government statistics time series）
 - 文脈：統計
@@ -1918,7 +1918,7 @@
   - 「仮説検証の考え方や手順について！ポイント・注意点まで詳しく解説」（https://sherpaworks.jp/sherpa/backcast/）
 - 実例：
   - 「結果として、社員の士気を向上させ、離職率を下げることにつながります」（https://sherpaworks.jp/sherpa/backcast/）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
 
 ## 有価証券報告書の設備の状況・セグメント情報・将来見通しの読み方（reading annual report capex plan segment forward-looking statement）
 - 文脈：企業
@@ -2589,12 +2589,17 @@
   - 「argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「For records with incomplete or inconsistent data, use similarity scoring, fuzzy algorithms, or ML models to estimate match likelihood.」（https://www.rudderstack.com/blog/what-is-entity-resolution/）
+  - 「Probabilistic methods combine several pieces of evidence and estimate how strongly a pair resembles a true match versus a non-match.」（https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/）
 - 一次情報の探し方：
   - 「2. Data Profiling and Standardization」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「Matching records across heterogeneous datasets (e.g., SQL and NoSQL databases, spreadsheets, PDFs) can be exceptionally difficult due to different types of entities, encoding, formatting, languages, and schemas. Converting all this different type of data into a pre-defined schema through schema-matching and data exchange is a risky process and can result in the loss of valuable information.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「2. Scalable Data Profiling and Cleansing」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「3. Linking and profiling」（https://www.rudderstack.com/blog/what-is-entity-resolution/）
+  - 「PDF and DOCX manifestations of one document;」（https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/）
+  - 「A repository contains five identical copies of a PDF and one later corrected edition. Checksums collapse the exact copies into one storage identity, while the corrected edition remains a distinct version linked to the same logical document.」（https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/）
+- 失敗・落とし穴：
+  - 「High-consequence identity systems should generally bias toward review when evidence is ambiguous.」（https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/）
 - 実例：
   - 「For example, a CRM may contain a customer named “Maria Hernandez,” while a billing system records the same person as “M. Hernández.” Their names are not identical, but similarities across their address, email, telephone number, and other attributes may provide enough evidence to link the records to the same customer.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「For example, one system may use “Customer Name,” another “Account Holder,” and a third separate the same information into first-name and last-name fields.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
@@ -2611,7 +2616,6 @@
   - 「For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「Entity Resolution Use Cases」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「A single accuracy percentage can be misleading because most possible record pairs are non-matches. Evaluation should therefore include false positives, false negatives, the percentage of cases requiring human review and the quality of complete entity clusters—not only individual record pairs.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
 
 ## 非上場の売上を複数の信号で挟む（Inven・CUFinder）（private company revenue estimate multiple signals top-down bottom-up conservative）
 - 文脈：推定

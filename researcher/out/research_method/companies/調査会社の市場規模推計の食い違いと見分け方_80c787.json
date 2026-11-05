@@ -8,100 +8,8 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-05T16:22:05.933256+00:00",
+ "researched_at": "2026-11-05T18:12:20.027426+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "これらの前提を事前に整理しておくことで、調査結果の説得力は格段に向上します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "人材紹介大手3社転職実績集計結果",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、人材紹介大手3社転職実績集計結果では、転職紹介実績の推移や転職紹介人数推移などが確認できます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえば、新規参入の判断においては、市場全体の把握よりも、価格帯別・顧客業種別の構成や、勝ち筋に直結する「顧客の購買プロセス」といった具体的なデータの方が、価値が高いケースも多々あります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "既存のレポートが存在していても、地域や用途、販売チャネルなどの切り口が自社の想定と異なれば、そのまま実務に活用できないケースが多いためです",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "前提条件の置き方によって結果が大きく変動します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その反面、元データの定義が自社の狙いと少しでもズレていると、最終的な算出結果に大きな誤差が生じるリスクも含んでいます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "東京都内の小売店舗数 × 1店舗あたりの平均冷凍ショーケース（扉）数 × 1扉あたりの平均陳列パック数 × 1日の棚回転率（％） × 1パックあたりの平均単価 × 1年の営業日",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "結果を左右する重要なパラメータを見極めること",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "※ 感度分析とは、前提条件や入力変数（パラメータ）を変化させた際に、それが最終的な出力結果（利益、解析の結論など）にどの程度の影響を与えるかを定量的に確認・評価する手法です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "複数社で同様の逆算を行い、結果が近いレンジに収束するかを確認する",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "数えた方法は、報告書に書いてある",
@@ -297,6 +205,226 @@
    },
    {
     "quote": "＜関連コラム＞ 市場調査の依頼方法は？相場（費用感）や成功させるためのポイントなど紹介",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "これは、数字を誤りと断ずるものではない",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "では、総説の予測は誤りだったのか",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注記がないことと、誤りであることは、別の話である",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ある人気ブランドのラベルには、発酵のために微量のアルコールを含むことがあり、その量は0.5%未満、という注意書きがあった",
+    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "もう一つ、注意がある",
+    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "年をまたぐ比較には、もう一つ落とし穴がある",
+    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注意したいのは、数えた範囲である",
+    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一方で、CBDそのものの売上を知りたい場合には数字が過大に見える点に注意が必要だ",
+    "url": "https://note.com/tomohironakagawa/n/n66a9824ad706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "重要なのは、ひとつの数字を「市場規模の真実」として鵜呑みにしないことだ",
+    "url": "https://note.com/tomohironakagawa/n/n66a9824ad706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際にデータを利用する際は、調査対象が全数か抽出か、特定の規模制限があるかといった点に注意が必要です",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、これらのデータは基本的に会員企業の数値に基づいている点に注意が必要です",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この手法で最も注意すべきは、",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "もう一つの落とし穴は、",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "乖離が大きい場合は、定義のズレや前提の誤りを点検する重要な手がかりになります",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "● 設問設計による回答バイアスを最小限に抑えたい",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ブランドリフトとは？質問テンプレートやメリット、注意点について解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "インタビューフローの作り方｜基礎からグループ/デプスインタビューの注意点まで解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ホームユーステスト（HUT）とは？メリットとデメリット、注意点を解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "定量調査の事例紹介！企業が抱える課題や調査結果、失敗例とその留意点とは？",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "オンラインインタビューに向いている調査とは？注意点やメリットなど紹介",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "これらの前提を事前に整理しておくことで、調査結果の説得力は格段に向上します",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人材紹介大手3社転職実績集計結果",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、人材紹介大手3社転職実績集計結果では、転職紹介実績の推移や転職紹介人数推移などが確認できます",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえば、新規参入の判断においては、市場全体の把握よりも、価格帯別・顧客業種別の構成や、勝ち筋に直結する「顧客の購買プロセス」といった具体的なデータの方が、価値が高いケースも多々あります",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "既存のレポートが存在していても、地域や用途、販売チャネルなどの切り口が自社の想定と異なれば、そのまま実務に活用できないケースが多いためです",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前提条件の置き方によって結果が大きく変動します",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その反面、元データの定義が自社の狙いと少しでもズレていると、最終的な算出結果に大きな誤差が生じるリスクも含んでいます",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "東京都内の小売店舗数 × 1店舗あたりの平均冷凍ショーケース（扉）数 × 1扉あたりの平均陳列パック数 × 1日の棚回転率（％） × 1パックあたりの平均単価 × 1年の営業日",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "結果を左右する重要なパラメータを見極めること",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "※ 感度分析とは、前提条件や入力変数（パラメータ）を変化させた際に、それが最終的な出力結果（利益、解析の結論など）にどの程度の影響を与えるかを定量的に確認・評価する手法です",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "複数社で同様の逆算を行い、結果が近いレンジに収束するかを確認する",
     "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -544,134 +672,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "これは、数字を誤りと断ずるものではない",
-    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "では、総説の予測は誤りだったのか",
-    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注記がないことと、誤りであることは、別の話である",
-    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ある人気ブランドのラベルには、発酵のために微量のアルコールを含むことがあり、その量は0.5%未満、という注意書きがあった",
-    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "もう一つ、注意がある",
-    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "年をまたぐ比較には、もう一つ落とし穴がある",
-    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注意したいのは、数えた範囲である",
-    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一方で、CBDそのものの売上を知りたい場合には数字が過大に見える点に注意が必要だ",
-    "url": "https://note.com/tomohironakagawa/n/n66a9824ad706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "重要なのは、ひとつの数字を「市場規模の真実」として鵜呑みにしないことだ",
-    "url": "https://note.com/tomohironakagawa/n/n66a9824ad706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際にデータを利用する際は、調査対象が全数か抽出か、特定の規模制限があるかといった点に注意が必要です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、これらのデータは基本的に会員企業の数値に基づいている点に注意が必要です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この手法で最も注意すべきは、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "もう一つの落とし穴は、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "乖離が大きい場合は、定義のズレや前提の誤りを点検する重要な手がかりになります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "● 設問設計による回答バイアスを最小限に抑えたい",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ブランドリフトとは？質問テンプレートやメリット、注意点について解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "インタビューフローの作り方｜基礎からグループ/デプスインタビューの注意点まで解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ホームユーステスト（HUT）とは？メリットとデメリット、注意点を解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "定量調査の事例紹介！企業が抱える課題や調査結果、失敗例とその留意点とは？",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "オンラインインタビューに向いている調査とは？注意点やメリットなど紹介",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "日本貿易振興機構（JETRO）の輸出品目別レポート（しょうゆ、2025年7月更新）は、しょうゆ情報センターの統計資料を引く",
@@ -905,7 +905,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=386f5f0b013bdc778d3d06fa29830de6",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=97717871bd59c0d13bebf55fe95ad4c7",
     "status": "ok",
     "method": "http"
    },
@@ -920,7 +920,7 @@
     "method": "http"
    },
    {
-    "url": "https://corp.neo-m.jp/column/marketing-research_145_marketing-size",
+    "url": "https://note.com/oh1ta/n/nbe59fdb76e4f",
     "status": "ok",
     "method": "http"
    },
@@ -945,12 +945,12 @@
     "method": "browser"
    },
    {
-    "url": "https://crexgroup.com/ja/data/column/research-methods/market-size-research-basics-methods/",
+    "url": "https://corp.neo-m.jp/column/marketing-research_145_marketing-size",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/market-size-research-basics-methods/",
     "status": "ok",
     "method": "http"
    },
@@ -970,27 +970,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.crex-data.com/column/market-research-company-comparison",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.rjc.co.jp/column/262",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.research-company-100.com/marketing-types/market-size.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.lexisnexis.com/en-us/glossary/market-research.page",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.sogolytics.com/blog/how-to-write-market-research-analysis-report/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://link.springer.com/article/10.1007/s11408-026-00497-w",
     "status": "robots_disallowed",
     "method": ""
    },
@@ -1005,12 +995,7 @@
     "method": "http"
    },
    {
-    "url": "https://cleverx.com/blog/essential-research-strategies-for-effective-market-analysis-a-smart-research-approach/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.driveresearch.com/market-research-company-blog/how-to-know-market-research-data-is-credible-market-research-data-credibility/",
+    "url": "https://qlarityaccess.com/qlarity/evaluate-market-research-results",
     "status": "ok",
     "method": "http"
    }
@@ -1041,8 +1026,8 @@
     "https://insight.rakuten.co.jp/knowledge/column/column034/",
     "https://note.com/ai_datamimi/n/ndb66cfb9d566",
     "https://www.macromill.com/service/column/entry-003/",
-    "https://corp.neo-m.jp/column/marketing-research_145_marketing-size",
     "https://note.com/oh1ta/n/nbe59fdb76e4f",
+    "https://corp.neo-m.jp/column/marketing-research_145_marketing-size",
     "https://www.intage.co.jp/gallery/marketsize/",
     "https://note.com/jgiajfid_5293/n/nfff6807ef5ed"
    ]
@@ -1055,10 +1040,10 @@
     "https://insight.rakuten.co.jp/knowledge/column/column034/",
     "https://www.macromill.com/service/column/entry-003/",
     "https://mdb-biz.jmar.co.jp/column/57",
+    "https://www.youtube.com/watch?v=J8jE60kgKyg",
     "https://www.intage.co.jp/gallery/marketsize/",
     "https://proffit.jp/column/1/4FNysU9V",
     "https://corp.neo-m.jp/column/marketing-research_145_marketing-size",
-    "https://www.youtube.com/watch?v=J8jE60kgKyg",
     "https://crexgroup.com/ja/data/column/research-methods/market-size-research-basics-methods/"
    ]
   },
@@ -1073,8 +1058,7 @@
     "https://biz.loyalty.co.jp/column/083/",
     "https://corp.neo-m.jp/column/marketing-research_145_marketing-size",
     "https://cyber-synapse.com/consulting/features/whatismarketresearch/",
-    "https://nvs.nikkei.co.jp/research/20251014-column/",
-    "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/"
+    "https://nvs.nikkei.co.jp/research/20251014-column/"
    ]
   },
   {
@@ -1082,13 +1066,13 @@
    "results": [
     "https://www.lexisnexis.com/en-us/glossary/market-research.page",
     "https://www.sogolytics.com/blog/how-to-write-market-research-analysis-report/",
+    "https://link.springer.com/article/10.1007/s11408-026-00497-w",
     "https://dnb.com.eg/market-research-reports-for-b2b-companies-what-to-look-for-and-why-it-matters/",
     "https://www.publichealth.columbia.edu/research/population-health-methods/difference-difference-estimation",
-    "https://cleverx.com/blog/essential-research-strategies-for-effective-market-analysis-a-smart-research-approach/",
-    "https://www.driveresearch.com/market-research-company-blog/how-to-know-market-research-data-is-credible-market-research-data-credibility/",
+    "https://qlarityaccess.com/qlarity/evaluate-market-research-results",
+    "https://www.biobrain.io/blog/10-market-research-mistakes-that-lead-to-poor-business-decisions",
+    "https://www.qresearchsoftware.com/market-research-guide-data-preparation",
     "https://www.hbs.edu/ris/Publication%20Files/23-062_1f58623a-ee21-44b9-a262-276047bc5543.pdf",
-    "https://www.kidwelltax.com/blog/7-effective-ways-to-evaluate-a-market/",
-    "https://link.springer.com/article/10.1007/s11408-026-00497-w",
     "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html"
    ]
   },
@@ -1118,7 +1102,7 @@
     "https://x.com/morihiroaki/status/2107944535900954805",
     "https://x.com/aiwalk_walker/article/2112799196621488530",
     "https://x.com/nogrobal/status/2107782007287857379",
-    "https://x.com/Nao_Maeda_Asahi/status/1267001968037249024"
+    "https://x.com/jitasoku_ai/status/2114711043599659486"
    ]
   },
   {
@@ -1126,12 +1110,12 @@
    "results": [
     "https://jp.linkedin.com/in/koyo-katsuki-23032016b",
     "https://www.linkedin.com/news/story/食い違いの解消にはまず傾聴-5538530/",
+    "https://www.linkedin.com/blog/member",
     "https://za.linkedin.com/jobs/metallurgist-jobs",
     "https://my.linkedin.com/jobs/view/country-manager-new-market-expansion-at-first-circle-4471674924",
     "https://jp.linkedin.com/pulse/提案書の数字どれが最新か迷わないために食い違いを溜めないai活用4つのコツ-hiroaki-mori-vlj2c",
     "https://jp.linkedin.com/posts/祐太-惠良-恵良祐太331b_市場規模の数字を作るたびに推計の但し書きが増えていませんか-調査会社のレポート-activity-7522492645907193856-B69A",
-    "https://jp.linkedin.com/posts/woo-seop-shin-0b23251a0_新規事業におけるtamsamsom推定audit-modeが不可欠な理由-activity-7373892778302488576-N3ug",
-    "https://www.linkedin.com/posts/taito-sugishima-b0b8652b_imd-世界デジタル競争力ランキング2022-発表に合わせて日本のデジタル競争力-activity-6985778512313933824-KpyS"
+    "https://jp.linkedin.com/posts/woo-seop-shin-0b23251a0_新規事業におけるtamsamsom推定audit-modeが不可欠な理由-activity-7373892778302488576-N3ug"
    ]
   },
   {
@@ -1185,33 +1169,18 @@
     "https://www.linkedin.com/pulse/data-analysis-market-research-faster-way-decide-bhgie",
     "https://www.linkedin.com/posts/lumarie-guth-76702b14_i-rebuilt-my-international-market-research-activity-7508559149832638464-soUB",
     "https://www.linkedin.com/pulse/market-research-vs-user-whats-real-difference-glow-team-sl08e",
-    "https://www.linkedin.com/posts/debadatta-patel-a3993b189_marketresearch-activity-7514565566259699712-s9Ab",
     "https://www.linkedin.com/pulse/market-research-dead-what-replaces-much-harder-dr-elena-zhukovskaya-qgo5f",
     "https://www.linkedin.com/pulse/how-use-market-research-survey-validate-your-aukye",
     "https://www.linkedin.com/pulse/how-reputable-market-research-companies-verify-your-dhtye",
-    "https://www.linkedin.com/pulse/fundamental-problem-market-research-thinkimr-xuube",
     "https://www.linkedin.com/top-content/marketing/understanding-marketing-funnel-stages/market-research-and-analysis/",
-    "https://www.linkedin.com/top-content/sales/market-research-for-sales/how-to-measure-market-demand-accurately/"
+    "https://www.linkedin.com/top-content/sales/market-research-for-sales/how-to-measure-market-demand-accurately/",
+    "https://www.linkedin.com/pulse/significant-difference-between-meanings-terms-market-survey-andi",
+    "https://www.linkedin.com/posts/clement-de-chaisemartin-b076135_which-difference-in-differences-estimator-activity-7518682461539577856-xhzQ"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {
-  "失敗・落とし穴": [
-   {
-    "quote": "定量調査の事例紹介！企業が抱える課題や調査結果、失敗例とその留意点とは？",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "オンラインインタビューに向いている調査とは？注意点やメリットなど紹介",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ]
- },
- "runs": 7,
+ "new_this_run": {},
+ "runs": 8,
  "first_researched_at": "2026-11-05T00:49:22.795751+00:00"
 }
