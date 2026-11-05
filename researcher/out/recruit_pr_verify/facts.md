@@ -1,4 +1,4 @@
-# 仮説の検証 — 中堅製造業向け採用広報：社数・採用難・採用費・採用広報の単価・継続・原価・買い方・前例（事実のみ・23品目）
+# 仮説の検証 — 中堅製造業向け採用広報：社数・採用難・採用費・採用広報の単価・継続・原価・買い方・前例（事実のみ・27品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2390,3 +2390,396 @@
   - 「10. 協和プレス工業株式会社 P .15」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
   - 「11. 空調技研工業株式会社 P .16」（https://www.jaim-skill.or.jp/assets/files/top/case_study.pdf）
 - 作る側の原価：記載なし（読んだ36頁・検索13回）
+
+## 人材確保と販路開拓を同じ設問で比べた経営課題調査（年ごと）（SME management issues survey labor shortage vs sales Japan）
+- 文脈：①営業と採用・一次
+- 社数（規模別）：
+  - 「ら、小規模企業の企業数は約 84.5%と高くなっているが、常用雇用数や従業員数の割合は低くな」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「表 2 規模別企業数・常用雇用数・従業者数」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「（出所）中小企業庁再編加工「総務省・経済産業省 2021 年経済センサス―活動調査」より筆者」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「2025 年 9 月 30 日時点の活動状況としては、支援申し込み企業数 805」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「中小企業は企業数の約 99.7%、 従業員総数の約 7 割を占めており、多くの雇用を生み出し、労」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「・中小企業庁（2023）『総務省・経済産業省「令和 3 年経済センサス‐活動調査」再編加工』,」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「※大企業：資本金10億円以上、中堅企業：資本金１億円以上10億円未満、中小企業：資本金２千万円以上１億円未満」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「300人未満 300～999人 1000～4999人 5000人以上」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「100～299人 30～99人 10～29人 9人以下」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「（出所）総務省・経済産業省「令和３年経済センサス-活動調査」再編加工」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「中堅企業 約0.9万者」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「リクルートが4000人超の中小企業の事業責任者に行ったアンケート調査である「中小・中堅企業の事業課題・人材課題に関する調査」では、中途採用を実施している中小企業の事業責任者の30.6％が「募集しても、応募がない」と回答し、さらに33.0％が「応募はあるが、応募者の資質が自社の求める水準に満たなかった」と回答しているなど、採用活動における母集団形成の難しさや、求める人材像とのミスマッチが浮き彫りになっている（図表5）」（https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html）
+  - 「企業と応募者の間で折り合わなかった内容を見ていくと、中小・中堅企業の折り合わなかった内容として最も挙げられるのは「賃金水準」であった（図表6）」（https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html）
+- 採用難（公的統計）：
+  - 「課題6．人手不足と人件費の高騰」（https://ecto-con.com/newchallenges/）
+  - 「日銀短観の雇用人員判断DI（中小企業・全産業）は、2020年にコロナ禍で−6まで浅くなった後、再びマイナス幅が広がり、2026年9月は−42と人手不足が強まっている」（https://ecto-con.com/newchallenges/）
+  - 「このような人手不足は、複合的な要因が絡み合った根深い問題となっていて、2027年も解決の見通しは立っていません」（https://ecto-con.com/newchallenges/）
+  - 「を見ても、2026年度上半期の人手不足に関連する倒産240件のうち、人件費の高騰が原因のものが130件と半数を超えていました」（https://ecto-con.com/newchallenges/）
+  - 「深刻な人手不足を乗り越えるための5つの具体的対策について、中小企業診断士の経営コンサルタントが解説」（https://ecto-con.com/newchallenges/）
+  - 「「人材の確保（人手不足）・育成」(58.7%)、」（https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf）
+  - 「（出所）厚生労働省（2024）「令和 6 年度版労働経済の分析―人手不足への対応―」」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「図 7 の日本政策公庫の調査結果から、中小企業の人手不足への対応として、「従業員の多能工」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「図 7 人手不足への対応」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「省力化の成果として、省電力投資によって人手不足を乗り越えている中小製造業 4 社の事例」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「持したまま、残業時間を半分に削減することができ量的にも質的にも人手不足を緩和したり、8」（https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf）
+  - 「企業も3、4割程度に上り、人手不足に対して、」（https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf）
+  - 「• 人手不足を感じている企業の割合は世界平均で７割を超えるなど、世界的に人手不足が課題となっている」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「EU（27か国）において人手不足を感じている」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「出典：日本商工会議所・東京商工会議所「「人手不足等への対応に関する調査」結果概要」（2024年９月）を基に中小企業庁が作成」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+- 採用にいくら払うか：
+  - 「では、委託先の担当者のメールが乗っ取られたとみられ、本物のアドレスから届いた偽の支払い依頼によって、約1,400万円を失った事例も紹介されています」（https://ecto-con.com/newchallenges/）
+  - 「経営コンサルタントを月5万円から依頼、低コストで課題解決できます」（https://ecto-con.com/newchallenges/）
+  - 「中小企業の様々な経営課題を月5万円から解決します」（https://ecto-con.com/newchallenges/）
+  - 「の平均は、2024年8月の0.669%から2026年8月には1.782%へと、2年で約1.1ポイント上がっています」（https://ecto-con.com/newchallenges/）
+  - 「によると、借入金利が0.25%上がるだけで、借入のある企業の利払いは1社あたり年46万円増え、約2,700社が赤字に転落するとされています」（https://ecto-con.com/newchallenges/）
+  - 「3,000万円」（https://ecto-con.com/newchallenges/）
+  - 「5,000万円」（https://ecto-con.com/newchallenges/）
+  - 「12.5万円」（https://ecto-con.com/newchallenges/）
+  - 「着手金なし・月額5万円〜、全額返金保証」（https://ecto-con.com/newchallenges/）
+  - 「では2016年から2021年の5年間で、調べものにSNSを使う人がすべての年代で増え、10代ではSNS（73%）が検索エンジン（69%）を上回ったという結果が出ています」（https://ecto-con.com/newchallenges/）
+  - 「月額5万円〜、全国オンライン対応」（https://ecto-con.com/newchallenges/）
+  - 「年間530時間の業務削減を達成」（https://ecto-con.com/newchallenges/）
+  - 「短観の中小企業は資本金2千万円以上1億円未満」（https://ecto-con.com/newchallenges/）
+  - 「では、日本の人口は5年間で約317万人も減りました」（https://ecto-con.com/newchallenges/）
+  - 「1000万円以下 135 48.0%」（https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf）
+- 採用広報・採用サイトの単価：
+  - 「では、委託先の担当者のメールが乗っ取られたとみられ、本物のアドレスから届いた偽の支払い依頼によって、約1,400万円を失った事例も紹介されています」（https://ecto-con.com/newchallenges/）
+  - 「経営コンサルタントを月5万円から依頼、低コストで課題解決できます」（https://ecto-con.com/newchallenges/）
+  - 「中小企業の様々な経営課題を月5万円から解決します」（https://ecto-con.com/newchallenges/）
+  - 「によると、借入金利が0.25%上がるだけで、借入のある企業の利払いは1社あたり年46万円増え、約2,700社が赤字に転落するとされています」（https://ecto-con.com/newchallenges/）
+  - 「3,000万円」（https://ecto-con.com/newchallenges/）
+  - 「5,000万円」（https://ecto-con.com/newchallenges/）
+  - 「12.5万円」（https://ecto-con.com/newchallenges/）
+  - 「着手金なし・月額5万円〜、全額返金保証」（https://ecto-con.com/newchallenges/）
+  - 「月額5万円〜、全国オンライン対応」（https://ecto-con.com/newchallenges/）
+  - 「短観の中小企業は資本金2千万円以上1億円未満」（https://ecto-con.com/newchallenges/）
+  - 「単位は件（暦年・負債1,000万円以上の法的整理）」（https://ecto-con.com/newchallenges/）
+  - 「そして全員が経済産業省登録の中小企業診断士であり、貴社のお悩みに合わせて最適な専門家からのサポートを、月5万円～という圧倒的にリーズナブルな料金でご提供しています」（https://ecto-con.com/newchallenges/）
+  - 「初回相談は無料、月額5万円から可能な現実的な費用で、貴社の経営における根本的な解決を実現します」（https://ecto-con.com/newchallenges/）
+  - 「1000万円以下 135 48.0%」（https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf）
+  - 「1000万円超～5000万円 102 36.3%」（https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf）
+- 継続して払うか：
+  - 「1つでもできていない項目があれば、社内の担当者や保守業者さんに確かめるところから始めてみてください」（https://ecto-con.com/newchallenges/）
+  - 「ウイルス対策ソフト（Windowsに最初から入っている機能でも構いません）を有効にしたうえで、期限を切らさないようにし、パソコンやソフトのプログラムは、自動で更新される設定にしておきましょう」（https://ecto-con.com/newchallenges/）
+  - 「ただし、メーカーのサポートが終わった製品には、更新そのものが届かなくなります」（https://ecto-con.com/newchallenges/）
+  - 「どんな機器があるのかを把握し、使っていないものは止め、使っているものは更新を欠かさないようにしましょう」（https://ecto-con.com/newchallenges/）
+  - 「自社のホームページも、WordPressで作っているなら、本体だけでなくプラグインやPHPまで、こまめに更新しておく必要があります」（https://ecto-con.com/newchallenges/）
+  - 「また自社のメールがなりすましに使われないよう、ドメインにSPF・DKIM・DMARCという設定を入れておくことも大切ですが、これは保守業者さんやメールの提供元に頼めば対応してもらえます」（https://ecto-con.com/newchallenges/）
+  - 「また、もし感染に気づいたら、ネットワークから切り離し、電源は切らずに、保守業者と警察へ連絡しましょう」（https://ecto-con.com/newchallenges/）
+  - 「着手金なし・月額5万円〜、全額返金保証」（https://ecto-con.com/newchallenges/）
+  - 「2050年のカーボンニュートラル実現に向けて、企業には環境負荷の低減が求められており、これに伴う設備投資や運用コストの増加は避けられません」（https://ecto-con.com/newchallenges/）
+  - 「月額5万円〜、全国オンライン対応」（https://ecto-con.com/newchallenges/）
+  - 「中には無料で始められるものもありますが、その運用には多くの時間がかかる上に、慣れないうちは辛いことも多いです」（https://ecto-con.com/newchallenges/）
+  - 「月額90,000円〜、初回60分無料相談」（https://ecto-con.com/newchallenges/）
+  - 「によると、2025年における日本の社長の平均年齢は60.8歳と、35年連続で過去最高を更新しました」（https://ecto-con.com/newchallenges/）
+  - 「30,000円・2時間スポット、継続強要なし」（https://ecto-con.com/newchallenges/）
+  - 「初回相談は無料、月額5万円から可能な現実的な費用で、貴社の経営における根本的な解決を実現します」（https://ecto-con.com/newchallenges/）
+- どう買われるか：
+  - 「簡単ではありますが、解決策の方向性も併せてご紹介しています」（https://ecto-con.com/newchallenges/）
+  - 「では、委託先の担当者のメールが乗っ取られたとみられ、本物のアドレスから届いた偽の支払い依頼によって、約1,400万円を失った事例も紹介されています」（https://ecto-con.com/newchallenges/）
+  - 「セキュリティ対策というと難しく聞こえますが、社長が自ら技術を覚える必要はありません」（https://ecto-con.com/newchallenges/）
+  - 「社長の名前をかたって社員に指示を出す手口もあるので、この決まりは社内で共有しておきましょう」（https://ecto-con.com/newchallenges/）
+  - 「そのうえで、返済と利払いの増加を織り込んだ資金繰り表を12か月先まで作り、金融機関には月次の試算表と事業計画を早めに出して、対話を始めておくと安心です」（https://ecto-con.com/newchallenges/）
+  - 「迷ったときは自社だけで決めずに、金融機関だけでなく財務の専門家に相談しながら進めるのが安全です」（https://ecto-con.com/newchallenges/）
+  - 「中小企業の公的支援制度をフル活用して、金融機関出身の中小企業診断士が月次で伴走支援」（https://ecto-con.com/newchallenges/）
+  - 「商工会議所や公的機関などの相談窓口から民間のコンサル会社まで、あなたが誰に相談するべきかわかります」（https://ecto-con.com/newchallenges/）
+  - 「お金が残らない状態をなんとかしたい中小企業の社長様へ」（https://ecto-con.com/newchallenges/）
+  - 「「ホームページを作って3年、問い合わせが...」（https://ecto-con.com/newchallenges/）
+  - 「多くの金融機関では、手形や小切手を振り出せる最終期限を2026年9月末としていたため、その期限は既に過ぎています」（https://ecto-con.com/newchallenges/）
+  - 「もしこのような変化への対応ができていなければ、手形・小切手はすぐに、ISDNは期限から逆算して、取引先や金融機関と相談しておく必要があるでしょう」（https://ecto-con.com/newchallenges/）
+  - 「最後にご紹介する経営課題は、事業承継とM&Aの話です」（https://ecto-con.com/newchallenges/）
+  - 「によると、2025年における日本の社長の平均年齢は60.8歳と、35年連続で過去最高を更新しました」（https://ecto-con.com/newchallenges/）
+  - 「によると、40歳未満の社長の企業は、売上が増えた企業の割合が最も高かったようです」（https://ecto-con.com/newchallenges/）
+- 営業と採用のどちらに困っているか：
+  - 「2027年、中小企業が直面する7つの経営課題と解決策」（https://ecto-con.com/newchallenges/）
+  - 「そこで今回は、2027年に中小企業が直面する経営課題について、多くの事業者様に関係するものを7つピックアップしてまとめてみました」（https://ecto-con.com/newchallenges/）
+  - 「課題6．人手不足と人件費の高騰」（https://ecto-con.com/newchallenges/）
+  - 「2027年の経営課題を乗り越えるために」（https://ecto-con.com/newchallenges/）
+  - 「2027年の経営課題として、まず取り上げたいのがサイバーセキュリティです」（https://ecto-con.com/newchallenges/）
+  - 「中小企業の様々な経営課題を月5万円から解決します」（https://ecto-con.com/newchallenges/）
+  - 「（日本・2026年6月時点）では、AIの要約が表示されると、検索1位のページでもクリックが大きく減ったとされています」（https://ecto-con.com/newchallenges/）
+  - 「AIを中心としたDXへの対応は、2027年の重要な経営課題の一つであり、デジタル化の波を今まで何とか避けてきた中小企業も、いよいよこれからは逃れられなくなるでしょう」（https://ecto-con.com/newchallenges/）
+  - 「ジタル化 を推 進する人 材の確 保・育 成」(47.3%)など人 材 面の回答が上位」（https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf）
+  - 「• １－２．重点的に取り組みたい経営課題・・・・・・・・・・・ ・・・・・・・・・・・・ ・・ ３」（https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf）
+  - 「１－２．重点的に取り組みたい経営課題」（https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf）
+  - 「「新規顧客開拓、販路開拓」（64.4%）が最多」（https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf）
+  - 「「人材の確保（人手不足）・育成」(58.7%)、」（https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf）
+  - 「（高付加価値化）」(37.0%)が上位」（https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf）
+  - 「「販売先の開拓・確保」（55.9%）、「人材確保」(55.5%)が上位」（https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf）
+- 前例の会社（製造業特化）：
+  - 「（2026年7〜9月期）を見ると、従業員20人以上の中小企業では「売上が増えた」という企業の方が多い一方で、20人未満の小さな企業では、減った企業の方が多くなっています」（https://ecto-con.com/newchallenges/）
+  - 「売上が「増えた」企業と「減った」企業の差（2026年7〜9月期・前年同期比）」（https://ecto-con.com/newchallenges/）
+  - 「売上DIは、従業員20人以上の中小企業でプラス18.2（増えた企業の方が多い）、従業員20人未満の小さな企業でマイナス10.9（減った企業の方が多い）」（https://ecto-con.com/newchallenges/）
+  - 「従業員20人以上の中小企業：+18.2（増えた企業の方が多い）」（https://ecto-con.com/newchallenges/）
+  - 「従業員20人以上の中小企業」（https://ecto-con.com/newchallenges/）
+  - 「従業員20人未満の小さな企業：▲10.9（減った企業の方が多い）」（https://ecto-con.com/newchallenges/）
+  - 「従業員20人未満の小さな企業」（https://ecto-con.com/newchallenges/）
+  - 「数字は売上が「増加」と答えた企業の割合から「減少」と答えた企業の割合を引いたもの（売上DI）」（https://ecto-con.com/newchallenges/）
+  - 「中小企業編（原則従業員20人以上）と小企業編（原則従業者20人未満）は別々の調査のため、数字の大きさではなく、向きの違いとして見てください」（https://ecto-con.com/newchallenges/）
+  - 「…売上が落ちると、ついこんなふうに考えてしまいがちです」（https://ecto-con.com/newchallenges/）
+  - 「しかし景気のせいで終わらせずに、売上が落ちた理由を細かく分けて見ていくと、意外と社内に打ち手が見つかることもあります」（https://ecto-con.com/newchallenges/）
+  - 「売上が前年並み～上がっていたとしても、物価が上がっていれば、売れた数は減っているということもあります」（https://ecto-con.com/newchallenges/）
+  - 「そこでまずは売上を、「客数」「回数」「単価」の3つに分解して、去年と今年の同じ月を並べてみましょう」（https://ecto-con.com/newchallenges/）
+  - 「こういった流れを見逃さず、いち早くECサイトを導入した中小企業の中には、売上を大幅に伸ばした事例が多数報告されています」（https://ecto-con.com/newchallenges/）
+  - 「どれだけ禁止したとしても、AIは世界中で普及を広げていきますし、従業員は個人で使い続けます」（https://ecto-con.com/newchallenges/）
+- 作る側の原価：記載なし（読んだ33頁・検索13回）
+
+## 日銀短観 製造業 規模別 雇用人員判断DI 10年推移（BOJ Tankan employment conditions DI manufacturing by size）
+- 文脈：②採用難・一次
+- 社数（規模別）：
+  - 「【企業規模】：日銀短観では、資本金を基準に大企業＝資本金10億円以上、中堅企業＝同1億円以上10億円未満、中小企業＝同2000万円以上1億円未満に区分している」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+- 採用難（公的統計）：
+  - 「雇用人員判断DI｜短観9月調査に見る製造業の人手不足」（https://eiko-et.com/tankan-koyou/）
+  - 「本日のブログは、日本銀行の短観（全国企業短期経済観測調査）2026年9月調査に基づき、製造業の人手不足の状況についてお伝えします」（https://eiko-et.com/tankan-koyou/）
+  - 「その前提として必要なのは、自社の業種や規模における人手不足の程度を把握することであり、9月調査はそのための判断材料になります」（https://eiko-et.com/tankan-koyou/）
+  - 「では、9月調査で製造業の人手不足はどのように変化したのでしょうか」（https://eiko-et.com/tankan-koyou/）
+  - 「製造業の雇用人員判断DIは全規模合計で-29となり、6月調査の-27から人手不足感が強まりました」（https://eiko-et.com/tankan-koyou/）
+  - 「つまり、製造業の各社は、業況については慎重な見通しを示しながらも、人手不足感は12月まで緩和しないとみています」（https://eiko-et.com/tankan-koyou/）
+  - 「雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「【2026年最新】日銀短観 雇用人員判断DI推移グラフ（四半期・人手不足感）| 経済まるみえ」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「0が過剰・不足の境界線で、マイナスが大きいほど人手不足感が強いことを示します」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「2010年代後半から人手不足が深刻化し、コロナ禍で一時的に緩和したものの、その後再び不足感が強まる傾向が続いています」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「0 を下回れば人手不足を感じる企業が多数、深く負（−30 以下）は深刻な人手不足」（https://www.keizai-ondokei.net/tankan/employment/）
+  - 「−40 前後の歴史的人手不足」（https://www.keizai-ondokei.net/tankan/employment/）
+- 採用にいくら払うか：
+  - 「【2026年10月最新】2026年7-9月期の訪日外国人旅行消費額は2兆2,076億円となり、13期連続で前年同期比でプラス成長（5年間推移データ）」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「【2026年10月最新】訪日外国人客数 9月は310万4千人で前年同月比5.0%減、中国からの訪日外国人客は-44.5％と減少続く（5年間推移データ）」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「卵の平均小売価格（Lサイズ1ダース・米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「牛ひき肉の平均小売価格（1ポンド・米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「コーヒー（レギュラー）の平均小売価格（1ポンド・米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「新規失業保険申請件数（4週移動平均・米国・週次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「SOFR 30日平均（米国・日次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「SOFR 90日平均（米国・日次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「シカゴ連銀全米活動指数（3ヶ月移動平均・米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「電気料金の平均価格（1kWhあたり・米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「都市ガス料金の平均価格（1サームあたり・米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「暖房用灯油（2号燃料油）の平均価格（米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「ダウ工業株30種平均（日次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「平均はマイナス2.4で、3カ月先の予測は「不足」側に2～3程度、外れる傾向があったことが分かります」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「一定期間内（一般には1年間）に国内で新たに生み出されたモノやサービスの付加価値の合計」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+- 採用広報・採用サイトの単価：
+  - 「電気料金の平均価格（1kWhあたり・米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「都市ガス料金の平均価格（1サームあたり・米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「【企業規模】：日銀短観では、資本金を基準に大企業＝資本金10億円以上、中堅企業＝同1億円以上10億円未満、中小企業＝同2000万円以上1億円未満に区分している」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「電気料金の平均価格（1kWhあたり・米国・月次）」（https://keizai-marumie.com/tankan/selling_price_di/）
+  - 「都市ガス料金の平均価格（1サームあたり・米国・月次）」（https://keizai-marumie.com/tankan/selling_price_di/）
+- 継続して払うか：
+  - 「販売価格の見通し：5年後＋5.2％とインフレマインドが継続する見通し」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「常に最新のデータを手元に：更新作業から解放」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「11期連続での＋10％ポイント超えとなり、底堅さが継続する」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「作成した分析表（Excelシート）は、更新ボタンひと押しで最新データに更新可能」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「コンプライアンス面でも安心なデータ運用をサポートします」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「＜2025/12/25 更新＞」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「一人当たり月額賃金・俸給（総額・ドイツ・四半期）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「【1on1成功術】今日から使えるテンプレート＆運用ガイド！無料ダウンロードはこちら！」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「一人当たり月額賃金・俸給（総額・ドイツ・四半期）」（https://keizai-marumie.com/tankan/selling_price_di/）
+- どう買われるか：
+  - 「契約形態の選定と単価の決定については、それぞれ別のブログでお伝えしているため、必要な範囲に絞ってご紹介します」（https://eiko-et.com/tankan-koyou/）
+  - 「この考え方は、弊社のコーポレートサイトの事業紹介ページに図解しています」（https://eiko-et.com/tankan-koyou/）
+  - 「日本銀行が12月に公表した「全国企業短期経済観測調査（日銀短観）」につき、データからわかる動向・特徴について紹介します」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「今回紹介したデータだけでなく、過去の調査結果も含め、日銀短観データのすべてを収録しております」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「本記事でご紹介した分析は、当社が提供する経済統計データベース『」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「以下では、Accelがもたらす主なメリットをご紹介します」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「企業を対象とした同様の調査は他にも複数の役所や金融機関が実施しているのですが、日銀の短観は回答率が高いなどデータの質が良いことで知られています」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「「物価の安定」と「金融システムの安定」を目的に設立され、銀行券（お札）の発行や金融機関同士の決済のほか、金利操作などの金融政策を担っている」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「社内の平均年齢−8歳！マイナビ転職を使用し、若手社員採用に舵をきった新社長のチャレンジ」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+- 営業と採用のどちらに困っているか：
+  - 「雇用人員判断DI｜短観9月調査に見る製造業の人手不足」（https://eiko-et.com/tankan-koyou/）
+  - 「本日のブログは、日本銀行の短観（全国企業短期経済観測調査）2026年9月調査に基づき、製造業の人手不足の状況についてお伝えします」（https://eiko-et.com/tankan-koyou/）
+  - 「その前提として必要なのは、自社の業種や規模における人手不足の程度を把握することであり、9月調査はそのための判断材料になります」（https://eiko-et.com/tankan-koyou/）
+  - 「では、9月調査で製造業の人手不足はどのように変化したのでしょうか」（https://eiko-et.com/tankan-koyou/）
+  - 「製造業の雇用人員判断DIは全規模合計で-29となり、6月調査の-27から人手不足感が強まりました」（https://eiko-et.com/tankan-koyou/）
+  - 「2026年9月調査の製造業の雇用人員判断DIは、全規模合計で-29、中小企業で-32です」（https://eiko-et.com/tankan-koyou/）
+  - 「図1 製造業の雇用人員判断DI（規模別）」（https://eiko-et.com/tankan-koyou/）
+  - 「雇用人員判断DI（2026年9月調査、％ポイント）」（https://eiko-et.com/tankan-koyou/）
+  - 「図2 2026年9月調査の雇用人員判断DI（製造業・全産業・非製造業）」（https://eiko-et.com/tankan-koyou/）
+  - 「製造業の雇用人員判断DIは、全規模合計で-29、中小企業で-32です」（https://eiko-et.com/tankan-koyou/）
+  - 「雇用人員判断DI：-27から」（https://eiko-et.com/tankan-koyou/）
+  - 「雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「【2026年最新】日銀短観 雇用人員判断DI推移グラフ（四半期・人手不足感）| 経済まるみえ」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「上位1%が保有する純資産の割合（米国・四半期）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「上位0.1%が保有する純資産の割合（米国・四半期）」（https://keizai-marumie.com/tankan/employment_di/）
+- 前例の会社（製造業特化）：
+  - 「婚礼の現場からフリーのウエディングプランナーとして独立後、2015年に株式会社永光の代表取締役に就任し、2018年にウエディングプランナーの業務委託サービス「プラスワン・プランナー」を立ち上げる」（https://eiko-et.com/tankan-koyou/）
+  - 「© 2026 株式会社永光」（https://eiko-et.com/tankan-koyou/）
+  - 「全国約1万社の企業を対象に、年4回（3月、6月、9月、12月）四半期ごとに実施され、企業の業況や経済環境の現状・先行き（今後3か月）についての判断、売上高、収益、設備投資額などの事業計画の実績と予測値を調査します」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「©️2025 株式会社アイ・エヌ情報センター」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「小売売上高（自動車・部品を除く・米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「小売売上高（自動車・部品販売店・米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「小売売上高（ガソリンスタンド・米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「小売売上高（建材・園芸用品店・米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「企業売上高（製造・卸売・小売の合計・米国・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「食品小売の売上高指数（実質・ドイツ・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「通信販売・ネット通販の売上高指数（実質・ドイツ・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「宿泊・飲食サービス業の売上高指数（実質・ドイツ・月次）」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「企業が自社の従業員数について「過剰」「不足」のどちらに感じているかを示す指標です」（https://keizai-marumie.com/tankan/employment_di/）
+  - 「コロナ禍以前は深刻な人手不足が生じていた飲食業では、休業や時短営業を迫られた結果、逆に従業員を減らす動きが広がっています」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+  - 「企業が従業員について感じている過不足感も、この指標で把握できます」（https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html）
+- 作る側の原価：記載なし（読んだ24頁・検索13回）
+
+## 瀬戸内5県の製造業 規模別企業数（経済センサス同一表）（Economic Census manufacturing establishments by size prefecture）
+- 文脈：①社数・一次
+- 社数（規模別）：
+  - 「令和８年経済センサス-活動調査を実施します」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「経済センサスは５年ごとに実施されていますが、中間年の実態を把握する目的で、総務省・経済産業省が毎年（経済センサス-活動調査実施年を除く」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「総務省・経済産業省が令和４年12月26日に公表した令和3年経済センサス-活動調査産業別集計（製造業）について、公表値の一部に訂正がありました」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「令和3年経済センサス‐活動調査 正誤情報」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「総務省・経済産業省が令和４年12月26日に公表した令和3年経済センサス-活動調査産業別集計（製造業）について、」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第１表】［総括表：従業者４人以上の事業所］従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(29KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第３表】［従業者４人以上の事業所に関する統計表］従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(26KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第４表】［従業者４人以上の事業所に関する統計表］産業中分類＞従業者規模・経営組織・資本金階層別統計表 (Excelファイル)(117KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第７表】［従業者４人以上の事業所に関する統計表］市町別＞従業者規模・経営組織・資本金階層・産業中分類別統計表 (Excelファイル)(215KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第８表】［従業者30人以上の事業所に関する統計表］従業者規模・産業中分類別統計表 (Excelファイル)(40KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第10表】［工業用地・工業用水に関する統計表：従業者30人以上の事業所］従業者規模・産業中分類別統計表 (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表１】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者４人以上の事業所］（昭和25年～） (Excelファイル)(33KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表２】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者３人以下の事業所］（昭和58年～） (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表３】市町別の事業所数の推移［従業員４人以上の事業所］（平成13年～） (Excelファイル)(26KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「令和３年経済センサス‐活動調査」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1）
+- 採用にいくら払うか：
+  - 「【参考表１】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者４人以上の事業所］（昭和25年～） (Excelファイル)(33KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表２】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者３人以下の事業所］（昭和58年～） (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「第１表 年次別、卸売業・小売業別の事業所数（法人・個人別）、従業者数、年間商品販売額及び売場面積 (Excelファイル)(14KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「第２表 卸売業・小売業の産業分類細分類別の事業所数（従業者規模別）、従業者数、年間商品販売額及び売場面積 (Excelファイル)(176KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「第４表 卸売業・小売業別、経営組織別の事業所数（単独・本支店別）、従業者数及び年間商品販売額 (Excelファイル)(15KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「第５表 小売業の産業分類小分類別、商品販売形態別の事業所数、年間商品販売額及び構成比 (Excelファイル)(20KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「第６表 小売業の産業分類中分類別、売場面積規模別の事業所数、年間商品販売額及び売場面積 (Excelファイル)(15KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「第７表 小売業の産業分類中分類別、営業時間階級別の事業所数、従業者数、年間商品販売額及び売場面積 (Excelファイル)(14KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「第１表 産業分類別の事業所数、従業者数、年間商品販売額及び売場面積（小売業） (Excelファイル)(107KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表1】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移[従業者4人以上の事業所]（昭和25年～） (Excelファイル)(34KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【参考表2】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移[従業者3人以下の事業所]（昭和58年～） (Excelファイル)(16KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「【第2表】産業中分類別統計表（市町別，事業所数，従業者数及び年間商品販売額） (Excelファイル)(144KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「図表 65 では、常用雇用者規模別に、賃金の平均改定率の推移を見ている」（https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf）
+  - 「図表 65 常用雇用者規模別賃金の平均改定率の推移」（https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf）
+- 継続して払うか：
+  - 「（令和５年２月26日更新）」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（令和８年６月30日更新）」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+- どう買われるか：
+  - 「各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1）
+- 営業と採用のどちらに困っているか：
+  - 「図表 15 は平成 28 年、令和 3 年の各企業について労働生産性の上位 30％、下位 30％、その他」（https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf）
+  - 「01_生産性上位30%以内 02_生産性中位40% 03_生産性下位30%以内」（https://www.meti.go.jp/meti_lib/report/2023FY/000308.pdf）
+- 前例の会社（製造業特化）：
+  - 「【参考表３】市町別の事業所数の推移［従業員４人以上の事業所］（平成13年～） (Excelファイル)(26KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）付表５ 市町、産業大分類別売上（収入）金額（試算値） (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（企業等）付表９ 市町、企業産業大分類別売上（収入）金額 (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）付表５ 市町，産業大分類別売上（収入）金額（試算値） (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（企業等）付表９ 市町，企業産業大分類別売上（収入）金額 (Excelファイル)(17KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「＜事業所に関する集計－産業横断的集計（売上（収入）金額等）＞」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）第1-1表 産業(大分類)，経営組織(5区分)別民営事業所数，従業者数，売上(収入)金額，1事業所当たり従業者数，1事業所当たり売上(収入)金額及び従業者1人当たり売上(収入)金額―広島県 (Excelファイル)(19KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）第2-2-1表 産業(中分類)，単独・本所・支所(3区分)別民営事業所数，従業者数及び売上(収入)金額(外国の会社及び法人でない団体を除く) - 広島県，広島大都市圏 (Excelファイル)(67KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）第3-1表 産業(中分類)別民営事業所数，売上(収入)金額及び事業活動(22区分)別該当事業所数，売上(収入)金額(外国の会社及び法人でない団体を除く) - 広島県，広島大都市圏 (Excelファイル)(168KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）第4-2-1表 産業(大分類)，経営組織(5区分)別民営事業所数，従業者数及び売上(収入)金額 - 広島県，広島市 (Excelファイル)(18KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（事業所）第5-2-1表 産業(大分類)，従業者規模(7区分)別民営事業所数，従業者数，売上(収入)金額，1事業所当たり従業者数，1事業所当たり売上(収入)金額及び従業者1人当たり売上(収入)金額(外国の会社及び法人でない団体を除く) - 広島県，広島市 (Excelファイル)(53KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（企業等）第1-2表 企業産業(中分類)，単一・複数(２区分)別企業等数，事業所数，従業者数，売上(収入)金額，費用，付加価値額及び設備投資額―広島県，広島大都市圏 (Excelファイル)(99KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（企業等）第2－2表 企業産業(大分類)別企業等数，売上(収入)金額及び事業活動(22区分)別該当企業等数，売上(収入)金額―広島県，広島大都市圏 (Excelファイル)(24KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「（企業等）第3－2表 企業産業(大分類)，経営組織(３区分)別企業等数，事業所数，従業者数，売上(収入)金額，費用，付加価値額及び設備投資額―広島県，広島大都市圏 (Excelファイル)(28KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaicensus.html）
+  - 「特性別、立地環境小分類（小売業・飲食サービス業・生活関連サービス業）別の事業所数、従業者数、売上（収入）金額及び売場面積」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&result_page=1）
+- 採用難（公的統計）：記載なし（読んだ33頁・検索13回）
+- 採用広報・採用サイトの単価：記載なし（読んだ33頁・検索13回）
+- 作る側の原価：記載なし（読んだ33頁・検索13回）
+
+## 採用サイト・採用広報の公式料金表（制作会社各社）（recruitment website production price list official）
+- 文脈：③単価・一次
+- 社数（規模別）：
+  - 「ハイファクトリ社の「200社以上」はIndeed運用の導入数で、ジェイ・ライン社の「12,000社以上」は採用支援の取引社数です」（https://www.hear.co.jp/recruit/recruit-site-agency）
+  - 「12,000社は取引社数で、採用サイト制作の件数ではありません」（https://www.hear.co.jp/recruit/recruit-site-agency）
+  - 「2001年設立で、取引社数920社以上（公式）」（https://n-works.link/blog/db/recruitment-site/）
+  - 「トルーは、株式会社ダトラが提供する採用マーケティングATSで、Indeed標準連携に加えIndeed PLUS・求人ボックス・スタンバイ・Googleしごと検索などの求人検索エンジンに対応し、累計導入社数は1,200社以上です（2025年9月時点・同社調べ）」（https://recruit-site-hikaku.com/recruitment-website-hikaku/）
+  - 「利用企業数国内No.1（公式表記）」（https://i-rec.jp/column/recruitment-site-recommend/）
+  - 「iRec（アイレック）は、採用活動支援実績20年の「採用のプロ」が開発した採用サイト制作CMSで、累計導入社数は1,300社以上（2026年7月時点）」（https://i-rec.jp/column/recruitment-site-recommend/）
+  - 「公式サイトでは利用企業数国内No.1をうたっており、まず無料で採用サイトを持ちたい企業の定番の選択肢です」（https://i-rec.jp/column/recruitment-site-recommend/）
+  - 「トルー（運営：株式会社ダトラ）は、応募集客と採用管理を一体化した「採れるATS」を掲げる採用マーケティングツールで、導入社数は1,200社以上（2025年9月時点）」（https://i-rec.jp/column/recruitment-site-recommend/）
+- 採用難（公的統計）：
+  - 「採用データ集【2026年版】内定率・内定辞退率・求人倍率・離職率・採用コストの最新統計を出典つきで一覧」（https://www.hear.co.jp/recruit/recruit-site-agency）
+- 採用にいくら払うか：
+  - 「300万～1,500万円程度」（https://sevendex.com/post/31388/）
+  - 「採用LP50万円～、採用サイト200万円～」（https://sevendex.com/post/31388/）
+  - 「300万円～」（https://sevendex.com/post/31388/）
+  - 「40万～500万円程度」（https://sevendex.com/post/31388/）
+  - 「初期費用30万円～、月額1万円～」（https://sevendex.com/post/31388/）
+  - 「100万円～」（https://sevendex.com/post/31388/）
+  - 「120万円～」（https://sevendex.com/post/31388/）
+  - 「採用サイト制作の費用は、公式メディア上で300万円からと案内されています」（https://sevendex.com/post/31388/）
+  - 「1ページ（2ヶ月）：100万円〜10ページ前後」（https://sevendex.com/post/31388/）
+  - 「（3ヶ月以上）：500万円〜20ページ前後」（https://sevendex.com/post/31388/）
+  - 「（4ヶ月以上）：800万円〜」（https://sevendex.com/post/31388/）
+  - 「250万円～500万円程度（」（https://sevendex.com/post/31388/）
+  - 「・フルオーダープラン 100万円～（税別）」（https://sevendex.com/post/31388/）
+  - 「・採用サイトパッケージ 48万円（税別）」（https://sevendex.com/post/31388/）
+  - 「採用サイト制作の料金相場｜「100～150万円未満」「200～300万円未満」が多い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+- 採用広報・採用サイトの単価：
+  - 「【2026年最新】採用サイト制作会社おすすめ15選｜実績・費用・選び方を徹底比較｜セブンデックス」（https://sevendex.com/post/31388/）
+  - 「【2026年最新】採用サイト制作会社おすすめ15選｜実績・費用・選び方を徹底比較」（https://sevendex.com/post/31388/）
+  - 「本記事では、おすすめの採用サイト制作会社15社を、特徴・費用・支援範囲などから比較します」（https://sevendex.com/post/31388/）
+  - 「採用サイト制作会社15社を目的別に比較」（https://sevendex.com/post/31388/）
+  - 「おすすめの採用サイト制作会社15選」（https://sevendex.com/post/31388/）
+  - 「1. 採用サイト制作会社は、どのような基準で選べばよいですか？」（https://sevendex.com/post/31388/）
+  - 「2.採用サイトの制作費用はどれくらいかかりますか？」（https://sevendex.com/post/31388/）
+  - 「採用サイト制作の料金相場は？採用担当者110名へ実態調査！価格別のサイト制作概要も」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「本記事では、採用サイト制作に携わったことのある採用担当者110名にアンケートを実施した結果を基に採用サイト制作の料金相場をご紹介しています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「・110名の採用担当者に聞いた、採用サイト制作の料金相場」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「採用サイト制作の料金相場｜「100～150万円未満」「200～300万円未満」が多い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「採用サイトのリニューアルの料金相場｜「100～150万円未満」「200～300万円未満」が多い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「無料〜10万円以下の場合」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「10万円〜50万円以下の場合」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「50〜100万円以下の場合」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+- 継続して払うか：
+  - 「デザインやクリエイティブに強い会社もあれば、採用戦略・採用ブランディングから支援する会社、Webマーケティングや公開後の運用まで対応する会社もあります」（https://sevendex.com/post/31388/）
+  - 「採用サイト制作費用と相場感｜初期費用・月額費用・無料ツールとの違い」（https://sevendex.com/post/31388/）
+  - 「Web戦略からCMS構築、SEO、公開後の運用まで幅広く支援する」（https://sevendex.com/post/31388/）
+  - 「採用マーケティングを強みとし、公開後の集客やコンテンツ運用まで支援する」（https://sevendex.com/post/31388/）
+  - 「採用支援とWebマーケティングを組み合わせ、制作後の継続運用にも対応する」（https://sevendex.com/post/31388/）
+  - 「初期費用30万円～、月額1万円～」（https://sevendex.com/post/31388/）
+  - 「株式会社ジオコードは、Webサイト制作に加えて、SEO、コンテンツマーケティング、広告運用、UI/UX改善などを提供している会社です」（https://sevendex.com/post/31388/）
+  - 「WordPressを基本としたサイト構築や、採用情報を更新しやすい仕組みの実装にも対応しています」（https://sevendex.com/post/31388/）
+  - 「制作費だけでなく、広告費や公開後の運用費も含め、どの範囲を任せるか整理して相談するとよいでしょう」（https://sevendex.com/post/31388/）
+  - 「WordPressで更新できるサイトを作りたい」（https://sevendex.com/post/31388/）
+  - 「また、採用サイトの他にも、デザインの知見とグローバルな開発体制を強みに、クライアントのDXを戦略設計から運用の一貫サポートを行っています」（https://sevendex.com/post/31388/）
+  - 「初期費用300,000円～、運用費用10,000円～」（https://sevendex.com/post/31388/）
+  - 「同社はSaiyo.crew」のホームページ内で自社ブログを運営しており、日々現場でWeb採用支援を行っている営業マンが中心となって採用活動や採用サイト運用に関連する情報を発信しています」（https://sevendex.com/post/31388/）
+  - 「採用サイト制作会社を選ぶときに、料金だけで決めてしまうと「安く作れたのに成果が出ない」「更新や運用で余計な手間とコストがかかる」といった失敗につながりがちです」（https://sevendex.com/post/31388/）
+  - 「あわせて、ページ追加や修正回数によって追加費用が発生するのか、公開後の更新や保守にはどの程度の費用がかかるのか、といった条件も事前に確認しておくと安心です」（https://sevendex.com/post/31388/）
+- 作る側の原価：
+  - 「プロカメラマンの撮影やライターの執筆代が発生し、15人分のコンテンツを作成します」（https://hypex.jp/articles/recruitment-site-price）
+  - 「相場：インタビュー記事作成（撮影込み）：5～10万円/1本あたり」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-saiyositeseisaku-strong-241205/）
+  - 「相場： 5～35万円/1本あたり」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-saiyositeseisaku-strong-241205/）
+  - 「カメラマン1日あたり5万〜10万円」（https://airlife-lab.com/web-marketing/1162/）
+  - 「制作費が安く見えても、更新のたびに外注費が発生する契約では、3年総額で逆転するケースを支援先で何度も見てきました」（https://recruit-site-hikaku.com/recruitment-website-hikaku/）
+  - 「・リクルートとエンジャパンで約17年コピーライターを経験」（https://web-kanji.com/posts/objects-recruit-site）
+- どう買われるか：
+  - 「そのうえで、製造工程に沿った職種紹介や、社員のリアルな声を伝えるコンテンツ設計を行い、業務理解と入社後イメージの具体化を促進」（https://sevendex.com/post/31388/）
+  - 「ここでは、採用マーケティングの観点から、制作会社がどのような流れで企画・設計・公開・改善を進めていくのか、その中で具体的にどんな業務が行われているのかを、順を追って紹介します」（https://sevendex.com/post/31388/）
+  - 「どんなページを用意するか（トップ／職種紹介／社員インタビュー／FAQ／応募フォームなど）」（https://sevendex.com/post/31388/）
+  - 「トップページのキービジュアルやキャッチコピーを決めたうえで、職種紹介やインタビューページなどの下層ページも、全体の世界観が統一されるようにデザインしていきます」（https://sevendex.com/post/31388/）
+  - 「これまで採用サイト制作に強みを持っている企業を紹介してきましたが、どこの企業が一番合っているのかを選ぶ参考になれば幸いです」（https://sevendex.com/post/31388/）
+  - 「採用サイトの制作事例25選｜採用課題別に参考サイトを一覧で紹介」（https://sevendex.com/post/31388/）
+  - 「LP制作・改善事例5選｜CVRや問い合わせにつながる設計と改善のポイント」（https://sevendex.com/post/31388/）
+  - 「コーポレートサイト制作事例25選｜目的別に参考サイトを一覧で紹介」（https://sevendex.com/post/31388/）
+  - 「リサーチ会社10選！調査、分析したいデータ別に企業を紹介【2026年最新版】」（https://sevendex.com/post/31388/）
+  - 「【2026年最新版】ブランディング会社おすすめ16選｜各社の特徴と実績、失敗しない選び方も紹介」（https://sevendex.com/post/31388/）
+  - 「ロゴデザイン会社8選｜各企業の特徴や選び方も紹介【2026年最新版】」（https://sevendex.com/post/31388/）
+  - 「【2026年 最新版】マーケティング会社おすすめ一覧！大手企業や注目のベンチャー企業を紹介｜サービスに最適な企業の選び方も解説」（https://sevendex.com/post/31388/）
+  - 「Webデザインに強い制作会社15選！Webデザイナー向け企業の選び方のポイントも紹介【2026年最新版】」（https://sevendex.com/post/31388/）
+  - 「お困りごとやお悩みがございましたら、まずお気軽にお問い合わせください」（https://sevendex.com/post/31388/）
+  - 「採用サイト制作の料金と相場｜作成ポイント・管理ツールの特徴を紹介」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+- 営業と採用のどちらに困っているか：
+  - 「同様にリニューアル費用に関する予算についてのアンケート結果によると、採用サイト制作の料金相場と同様に、上位は「100～150万円未満」「200～300万円未満」が多いことがわかります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-other-saiyositeseisaku-ryokin-souba-191113/）
+  - 「の中でも、どんな採用サイトであれば企業への印象がよくなるのかを質問したところ、上位は「募集要項がすぐに見つかる」が45.98%、「具体的な情報が多く載っている」が42.63%となり、続いて「都合の悪い情報も正直に載せている」が36.24%、「沢山の情報が載っている」が31.53%となっており、リアリティのある情報へのニーズが伺えます」（https://baigie.me/recruit-blog/2025/10/30/recruit-website-company/）
+  - 「上位の比較記事19本に載っている会社、Studio Experts、地域別の比較記事、検索で集めた候補から、依頼先の種類が偏らないように選びました」（https://studio-goro.com/column/knowledge/recruit_agency-selection）
+  - 「【2025年】SEO対策とは？上位表示させるやり方を解説」（https://leadnine.co.jp/media-homepage/18650/）
+  - 「不動産の現場で7年間、SEO・MEOなど様々なWeb集客を実践し、不動産会社が200社以上ある地域で上位表示を実現」（https://airlife-lab.com/web-marketing/1162/）
+  - 「格安の「スタンダードプラン」に加え、オリジナルデザインで自社の強みをより強調できる「ゴールドプラン（398,000円〜）」、さらに競合他社との差別化を徹底し、ライティングや動画埋め込みまで対応する最上位の「プラチナプラン（778,000円〜）」を展開」（https://web-kanji.com/posts/objects-recruit-site）
+- 前例の会社（製造業特化）：
+  - 「株式会社ゴマシオカンパニー（採用おむすび）」（https://sevendex.com/post/31388/）
+  - 「株式会社HERPでは、組織拡大に伴って採用力の強化が必要になる一方、「誰に・何を伝えて選ばれる会社になるのか」という採用ブランドの軸が明確になっていないという課題がありました」（https://sevendex.com/post/31388/）
+  - 「株式会社Speee様の新卒採用強化に向けて、SEVENDEXが」（https://sevendex.com/post/31388/）
+  - 「キオクシア岩手株式会社様では、事業拡大に伴う生産体制の強化に向けて、即戦力人材の採用強化が急務となっていました」（https://sevendex.com/post/31388/）
+  - 「株式会社ONEは、人材・求人領域の知見を生かしながら、採用サイトの制作から集客、アクセス解析、パンフレット、動画などを幅広く提供しています」（https://sevendex.com/post/31388/）
+  - 「株式会社ONEの企業情報・採用サイトの制作実績」（https://sevendex.com/post/31388/）
+  - 「株式会社クライマークスは、採用サイトの成果を応募数だけでなく「入社」と捉え、採用ミスマッチの解消を重視している会社です」（https://sevendex.com/post/31388/）
+  - 「2004年の創業以来、600社以上の採用課題を支援しており、企業理解に基づくコンテンツ制作と、認知から入社までの採用フローを俯瞰した設計を強みとしています」（https://sevendex.com/post/31388/）
+  - 「株式会社クライマークスの企業情報・採用サイトの制作実績」（https://sevendex.com/post/31388/）
+  - 「株式会社ベイジは、採用戦略と求職者調査に基づく、論理的な採用サイト設計を得意としています」（https://sevendex.com/post/31388/）
+  - 「株式会社ベイジの企業情報・採用サイトの制作実績」（https://sevendex.com/post/31388/）
+  - 「株式会社カケハシスカイは、採用支援の知見を生かし、採用戦略に沿ったサイトを提案する会社です」（https://sevendex.com/post/31388/）
+  - 「制作実績には、株式会社シグマの採用サイトなどがあります」（https://sevendex.com/post/31388/）
+  - 「株式会社カケハシスカイの企業情報・採用サイトの制作実績」（https://sevendex.com/post/31388/）
+  - 「株式会社ジオコードは、Webサイト制作に加えて、SEO、コンテンツマーケティング、広告運用、UI/UX改善などを提供している会社です」（https://sevendex.com/post/31388/）

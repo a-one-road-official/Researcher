@@ -8,89 +8,89 @@
 - 事業の層を混ぜない：①領域＝樹脂以外（決定済み）②やること＝海外の製品を担いで日本で売る、または日本の製品を海外に売る（決定済み）③財布の入り口（消費か投資か）④ビジネスモデル（A1がどうお金を受け取るか）。決まっていないのは③④だけ。
 - 答えに使いたい事実が無かった・薄かった箱は、答えの最後に「掘る対象」として挙げる（次の回でリサーチャーの対象に足す）。
 
-## 更新：2026-11-05 09:11 JST
+## 更新：2026-11-05 10:36 JST
 
 ## この24時間で増えた事実（一部）
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の競合（奪いに来る側）：「米連邦通信委、外国製ヒューマノイドロボットなどの新規流通を実質禁止(中国、米国) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の競合（奪いに来る側）：「米国関税措置への対応」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の競合（奪いに来る側）：「インドネシア」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・検索結果の抜粋）：「なぜ日本からヒューマノイド ロボット スタートアップが生まれ ... なぜ日本からヒューマノイド ロボット スタートアップが生まれ ... note https://note.com > 科学・テクノロジー > ロボット技術」https://note.com/otl_sr/n/nbb8ebb84e6e1
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・検索結果の抜粋）：「人型ロボット の人気・新着記事まとめ - note 人型ロボット の人気・新着記事まとめ - note note https://note.com > tag > 人型ロボット」https://note.com/tag/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・検索結果の抜粋）：「世界一売れた 人型ロボット は、ほとんど働いていない - note 世界一売れた 人型ロボット は、ほとんど働いていない - note note https://note.com > ビジネス > ビジネス全般」https://note.com/all_zero/n/nf802b0141ff6
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客（金を払う側）：「政府公共調達データベース」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客（金を払う側）：「「対象機器・サービス」リストに掲載されている品目の多くは、中国やロシアの特定企業の通信機器やサービスとなっており、中国は今回の措置に対して、報復措置を講じると表明している（米通商専門誌「インサイドUSトレード」7月30日）」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客（金を払う側）：「リスト掲載品目の中で、製造企業を特定せず製品カテゴリー自体を掲載し、特定製品に「条件付き承認」を与える形式となっているのは、今回の外国製高度ロボット機器およびインバーターのほか、消費者ルーター（」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・本文）：「なぜ日本からヒューマノイドロボットスタートアップが生まれないのか｜小倉崇＠シンクロボ代表取締役社長」https://note.com/otl_sr/n/nbb8ebb84e6e1
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・本文）：「なぜ日本からヒューマノイドロボットスタートアップが生まれないのか」https://note.com/otl_sr/n/nbb8ebb84e6e1
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・本文）：「結論から言うとすでに生まれている。本書ではタイトルとは無関係に」https://note.com/otl_sr/n/nbb8ebb84e6e1
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「高度外国人材活躍支援」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「トップ層は年収20億円、新卒でも1億円超！中国「AI人材争奪戦」の舞台裏」https://36kr.jp/502670/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「製造業の組立工程では、人手不足や作業員の負担増加が課題となっています」https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（LinkedIn・検索結果の抜粋）：「ヒューマノイド ロボット が日常生活を変えようとしている10の ... ヒューマノイド ロボット が日常生活を変えようとしている10の ... LinkedIn https://jp.linkedin.com > pulse > 10-wa」https://jp.linkedin.com/pulse/10-ways-humanoid-robots-change-everyday-life-bernard-marr-mvtmf?tl=ja
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（LinkedIn・検索結果の抜粋）：「Fast Humanoid Robot Locomotion with Controllable Autonomy Fast Humanoid Robot Locomotion with Controllable Autonomy Link」https://www.linkedin.com/posts/takayukiyamazaki_humanoidrobot-physicalai-reinforcementlearning-activity-7501770536310587392-pRFq
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（LinkedIn・検索結果の抜粋）：「Humanoid Robots Learn Whole-Body Skills with Physics ... Humanoid Robots Learn Whole-Body Skills with Physics ... Linked」https://www.linkedin.com/posts/takayukiyamazaki_humanoidrobot-physicalai-reinforcementlearning-activity-7474789326497796096-3aUb
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（Facebook・検索結果の抜粋）：「UBTECHが公開したフルサイズの新しい 人型ロボット 。日本円 ... UBTECHが公開したフルサイズの新しい 人型ロボット 。日本円 ... Facebook https://www.facebook.com > ... > Vide」https://www.facebook.com/BilingualNewsPodcast/videos/ubtech%E3%81%8C%E5%85%AC%E9%96%8B%E3%81%97%E3%81%9F%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%97%A5%E6%9C%AC%E5%86%86%E3%81%A72000%E4%B8%87%E5%86%86%E3%81%BB%E3%81%A9%E3%81%A7%E8%B2%A9%E5%A3%B2%E4%BA%88%E5%AE%9A%E5%84%AA%E9%9B%85%E3%81%AB%E3%83%AF%E3%83%AB%E3%83%84%E3%82%92%E3%81%99%E3%82%8B%E5%A5%B3%E6%80%A7%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%A9%E3%81%86%E6%80%9D%E3%81%86%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%81%AF2026%E5%B9%B4%E6%9C%80%E5%85%88%E7%AB%AF%E6%8A%80/1493981065376043/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（Facebook・検索結果の抜粋）：「A Japanese firm has unveiled a new humanoid robot ... A Japanese firm has unveiled a new humanoid robot ... Facebook htt」https://www.facebook.com/NipponTVNews24Japan/videos/a-japanese-firm-has-unveiled-a-new-humanoid-robot-designed-specifically-for-indo/877722245129013/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（Facebook・検索結果の抜粋）：「中国工場が10分に1体の 人型ロボット を生産 - Facebook 中国工場が10分に1体の 人型ロボット を生産 - Facebook Facebook https://www.facebook.com > ... > Newsplus」https://www.facebook.com/newsplusth/videos/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%A0%B4%E3%81%8C10%E5%88%86%E3%81%AB1%E4%BD%93%E3%81%AE%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%92%E7%94%9F%E7%94%A3/888782954166680/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜検索結果の抜粋：「米連邦通信委、外国製ヒューマノイド ロボット などの新規流通 ... — 米連邦通信委、外国製ヒューマノイド ロボット などの新規流通 ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜検索結果の抜粋：「中国製ロボット、海外導入広がる 羽田空港で 人型ロボット 実証 — 中国製ロボット、海外導入広がる 羽田空港で 人型ロボット 実証 Science Portal Asia Pacific https://spap.jst.go.jp > c」https://spap.jst.go.jp/china/news/260602/topic_2_01.html
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜検索結果の抜粋：「2026 年ヒューマノイド ロボット 産業発展報告書 - 百度百科 — 2026 年ヒューマノイド ロボット 産業発展報告書 - 百度百科 百度百科 https://baike.baidu.com > item > 2026年ヒューマノイド」https://baike.baidu.com/ja/item/2026%E5%B9%B4%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E7%94%A3%E6%A5%AD%E7%99%BA%E5%B1%95%E5%A0%B1%E5%91%8A%E6%9B%B8/4963438
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜技術（新しい技術・実証）：「米連邦通信委、外国製ヒューマノイドロボットなどの新規流通を実質禁止(中国、米国) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜技術（新しい技術・実証）：「米連邦通信委、外国製ヒューマノイドロボットなどの新規流通を実質禁止」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜技術（新しい技術・実証）：「外国製のヒューマノイドや四足歩行ロボットなどの高度ロボット機器と、ネットワーク接続型パワーインバーターを追加したと発表」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の顧客（発注元が求めること）：「基準・認証、ルール形成戦略」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の顧客（発注元が求めること）：「基準・認証、規制」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の顧客（発注元が求めること）：「ただし、消費者が購入済みの機器の使用や、これまでにFCC認証を取得している既存モデルの輸入・販売・販売促進には適用されない」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（X・検索結果の抜粋）：「そもそも ロボット が 人型 （ヒューマノイド）である必要性 ... - X そもそも ロボット が 人型 （ヒューマノイド）である必要性 ... - X X https://x.com > @iw_toshiki」https://x.com/iw_toshiki/status/2022959200226471985
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（X・検索結果の抜粋）：「イーロン・マスク「10年で 人型ロボット 10億体」その未来を ... イーロン・マスク「10年で 人型ロボット 10億体」その未来を ... X https://x.com > @tesla_modelY」https://x.com/tesla_modelY/article/2095267937376764345
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（X・検索結果の抜粋）：「人型ロボット が実用されている「パトレイバー」が、実は思っ ... 人型ロボット が実用されている「パトレイバー」が、実は思っ ... X https://x.com > @AmadeusSVX」https://x.com/AmadeusSVX/status/2008389204691038703
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜自社の競合（商社・代理店・仲介）：「2026年１月に帝華機械株式会社はBooster Roboticsと正式に日本国内正規代理店として契約致しました」https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜自社の競合（商社・代理店・仲介）：「中国では商用化済みでも日本との接点が薄い企業や、すでに国内展開を進める企業を可視化し、日本企業にとっての調達先、協業先、販売代理候補、潜在競合を整理しています」https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜自社の競合（商社・代理店・仲介）：「製造業、商社、金融機関、コンサルティング会社、新規事業部門などの市場調査・事業企画にご活用いただけます」https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜経済（規模・価格・為替）：「市場規模も世界全体の50％を超えた」https://spap.jst.go.jp/china/news/260602/topic_2_01.html
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜経済（規模・価格・為替）：「中国UBTECH、日韓から人型ロボット受注 海外契約11億円超 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア」https://36kr.jp/502670/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜経済（規模・価格・為替）：「中国UBTECH、日韓から人型ロボット受注 海外契約11億円超」https://36kr.jp/502670/
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜政治（法・予算・規制）：「世界各国の関税率」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜政治（法・予算・規制）：「政府公共調達データベース」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- AI・半導体｜日本→海外（輸出）｜人型ロボット｜政治（法・予算・規制）：「米国関税措置への対応」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜自社の競合（商社・代理店・仲介）：「代理店プログラム」https://www.dreamnews.jp/press/0000367069
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜自社の競合（商社・代理店・仲介）：「その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます」https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜自社の競合（商社・代理店・仲介）：「第11章「Marketing, Distributors and Customer」では、販売チャネル（直接チャネル、間接チャネル）、超エッジAIチップセットの販売業者、および超エッジAIチップセットの顧客に関する情報が記載されている」https://www.atpress.ne.jp/news/9440001
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜政治（法・予算・規制）：「米国の対中輸出規制：最新状況、見通し、及び日本のエッジAI市場への影響｜EDGEMATRIX」https://note.com/edgematrix/n/n5b8403acc4ff
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜政治（法・予算・規制）：「米国の対中輸出規制：最新状況、見通し、及び日本のエッジAI市場への影響」https://note.com/edgematrix/n/n5b8403acc4ff
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜政治（法・予算・規制）：「米国の対中輸出規制は、技術覇権を巡る米中間の緊張の高まりを背景に、近年厳格化が進んでいます」https://note.com/edgematrix/n/n5b8403acc4ff
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜社会（人・担い手）：「③ 現地拠点・人材・組織」https://www.provej.jp/sectors-new/ai-semiconductor/
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜社会（人・担い手）：「装置・材料の供給、工場周辺のサービス、顧客開拓、人材、AIの活用」https://www.provej.jp/sectors-new/ai-semiconductor/
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜社会（人・担い手）：「Rapidus千歳・TSMC熊本の周辺サービス・建設・人材」https://www.provej.jp/sectors-new/ai-semiconductor/
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「：国内エッジAI市場は年率41.3％で成長し、2026年には431億円規模に達する見込み」https://note.com/edgematrix/n/n5b8403acc4ff
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「EdgeCortix、みずほ銀行との間で15億円の当座貸越枠を締結 ― 事業成長加速に向けた財務基盤を強化 ―」https://www.edgecortix.com/ja/press-releases
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「EdgeCortix、シリーズB資金調達の初回クローズを完了、総調達額は約150億円に到達」https://www.edgecortix.com/ja/press-releases
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜SNS・note（X・検索結果の抜粋）：「エッジAIチップ のAlif Semiconductorを13.5億ドルで買収】 ➡️ エッジAIチップ のAlif Semiconductorを13.5億ドルで買収】 ➡️ X https://x.com > @AnalogDevices」https://x.com/AnalogDevicesJP/status/2100445960891736181
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜検索結果の抜粋：「米、 AI 半導体 輸出 の新規則検討 外国企業による対 ... - Reuters — 米、 AI 半導体 輸出 の新規則検討 外国企業による対 ... - Reuters Reuters https://www.reuters.com 」https://www.reuters.com/jp/markets/global-markets/5BU5JXROQ5PNBJVV3ES4JBCGLI-2026-03-05/
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜検索結果の抜粋：「日本 発スタートアップの エッジAIチップ がNVIDIA超え - MONOist — 日本 発スタートアップの エッジAIチップ がNVIDIA超え - MONOist MONOist https://monoist.itmedia.co」https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜検索結果の抜粋：「エッジAIチップ市場 の規模と シェア に関するレポート、2034年 — エッジAIチップ市場 の規模と シェア に関するレポート、2034年 Global Market Insights Inc. https://www.gminsigh」https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜SNS・note（Facebook・検索結果の抜粋）：「Akida™ Edge AI Box で、BrainChipのAKD1000 AI チップ を ... Akida™ Edge AI Box で、BrainChipのAKD1000 AI チップ を ... Facebook https:/」https://www.facebook.com/VVDNJapan/posts/akida-edge-ai-box-%E3%81%A7brainchip%E3%81%AEakd1000-ai%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%A7%E9%AB%98%E6%80%A7%E8%83%BD%E3%81%AA%E3%82%A8%E3%83%83%E3%82%B8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%92%E4%BD%93%E9%A8%93%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF/593091243245014/
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜技術（新しい技術・実証）：「米国の対中輸出規制：最新状況、見通し、及び日本のエッジAI市場への影響｜EDGEMATRIX」https://note.com/edgematrix/n/n5b8403acc4ff
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜技術（新しい技術・実証）：「米国の対中輸出規制：最新状況、見通し、及び日本のエッジAI市場への影響」https://note.com/edgematrix/n/n5b8403acc4ff
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜技術（新しい技術・実証）：「特に、人工知能（AI）や半導体技術は、米国の安全保障政策の中心に位置づけられ、輸出規制の主要な対象となっています」https://note.com/edgematrix/n/n5b8403acc4ff
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客（金を払う側）：「2024年12月以降、米国商務省は半導体製造装置やAI関連技術に対する新たな対中輸出規制を導入しました」https://note.com/edgematrix/n/n5b8403acc4ff
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客（金を払う側）：「：米国の技術やソフトウェアを使用する外国企業にも適用される「外国直接製品規則（FDPR）」が強化され、台湾や日本など第三国の企業にも影響が及ぶ」https://note.com/edgematrix/n/n5b8403acc4ff
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客（金を払う側）：「：中国以外の地域（台湾、ベトナム、インドなど）での製造や調達が加速」https://note.com/edgematrix/n/n5b8403acc4ff
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜SNS・note（LinkedIn・検索結果の抜粋）：「エッジAI システムオン チップ - LinkedIn エッジAI システムオン チップ - LinkedIn LinkedIn https://jp.linkedin.com > pulse > edge-ai-system-on-chi」https://jp.linkedin.com/pulse/edge-ai-system-on-chip-soc-solutions-3rurc?tl=ja
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜SNS・note（LinkedIn・検索結果の抜粋）：「DEEPX's Edge AI Chip Lineup — What You Need to Know DEEPX's Edge AI Chip Lineup — What You Need to Know LinkedIn https:/」https://www.linkedin.com/pulse/deepxs-edge-ai-chip-lineup-what-you-need-know-md-faruk-alam-shync
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜SNS・note（LinkedIn・検索結果の抜粋）：「Edge AI System-on- Chip (SoC) Solutions and Their ... - LinkedIn Edge AI System-on- Chip (SoC) Solutions and Their ... -」https://www.linkedin.com/pulse/edge-ai-system-on-chip-soc-solutions-3rurc
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の顧客（発注元が求めること）：「日本のエッジAI企業は、NVIDIAやARMベースのチップに依存しており、部品調達コストの上昇や納期遅延のリスクが高まる」https://note.com/edgematrix/n/n5b8403acc4ff
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の顧客（発注元が求めること）：「：日本のエッジAIデバイス製造は、TSMCなど台湾の半導体サプライヤーに大きく依存」https://note.com/edgematrix/n/n5b8403acc4ff
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の顧客（発注元が求めること）：「⑤ 規制・認証・法務・知財」https://www.provej.jp/sectors-new/ai-semiconductor/
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の競合（奪いに来る側）：「米国の対中輸出規制：最新状況、見通し、及び日本のエッジAI市場への影響｜EDGEMATRIX」https://note.com/edgematrix/n/n5b8403acc4ff
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の競合（奪いに来る側）：「米国の対中輸出規制：最新状況、見通し、及び日本のエッジAI市場への影響」https://note.com/edgematrix/n/n5b8403acc4ff
-- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の競合（奪いに来る側）：「米国の対中輸出規制は、技術覇権を巡る米中間の緊張の高まりを背景に、近年厳格化が進んでいます」https://note.com/edgematrix/n/n5b8403acc4ff
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜政治（法・予算・規制）：「年以降は、米国政府による先端半導体を巡る輸出」https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜政治（法・予算・規制）：「規制を受けた駆け込み需要 が発生した」https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜政治（法・予算・規制）：「中国政府が 成熟（非先端）領域を中心に 、半導体」https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客（金を払う側）：「企業が一定の競争力を有する分野にも需要が波及し、半導体輸出の増勢が加速している」https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客（金を払う側）：「1 WSTS の予測は、加盟している半導体メーカーの予測値などをもとに作成されている」https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf
-- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客（金を払う側）：「く、日本企業が一定の競争力を有する NAND 型フ」https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客（金を払う側）：「企業の海外進出を支えるフェアコンサルティングの「多様性」」https://forbesjapan.com/articles/detail/105959
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客（金を払う側）：「サステナグロースを実現する企業の条件 「サステナグロースカンパニーアワード 2026」審査員対談」https://forbesjapan.com/articles/detail/105959
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客（金を払う側）：「なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像」https://forbesjapan.com/articles/detail/105959
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜経済（規模・価格・為替）：「市場規模は322.7%増の7億4000万ドル（約1170億円）超」https://36kr.jp/503096/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜経済（規模・価格・為替）：「中国レアアース大手「北方稀土」、純利益2.6倍 価格上昇とコスト低下が追い風」https://36kr.jp/503096/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜経済（規模・価格・為替）：「20万円で買える中国の人型ロボット、まだ「ハイテク玩具」なのか」https://36kr.jp/503096/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜自社の競合（商社・代理店・仲介）：「「AI Highlight Agent」のベータ版を提供開始」https://www.atpress.ne.jp/news/6814765
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜自社の競合（商社・代理店・仲介）：「アクロバットで話題の人型ロボ「H1」「G1」、GMO子会社が国内販売へ 中国Unitreeと代理店契約 - ITmedia NEWS」https://www.itmedia.co.jp/news/article/2606/19/1260619118/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜自社の競合（商社・代理店・仲介）：「アクロバットで話題の人型ロボ「H1」「G1」、GMO子会社が国内販売へ 中国Unitreeと代理店契約」https://www.itmedia.co.jp/news/article/2606/19/1260619118/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の顧客（発注元が求めること）：「結論として、従来の産業用ロボット市場で培われた「品質と信頼性」という強みは依然として重要であるものの、ヒューマノイドロボットが要求する「高出力密度」」https://blogs.itmedia.co.jp/serial/2025/09/post_8658.html
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の顧客（発注元が求めること）：「「高度な熱管理」といった新たな技術要件に対応し、単なる部品サプライヤーから「戦略的パートナー」へとビジネスモデルを進化させることが不可欠であると提言します」https://blogs.itmedia.co.jp/serial/2025/09/post_8658.html
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の顧客（発注元が求めること）：「同社は中国のサプライヤーと強固なサプライチェーンを構築しており、熱管理部品のSanhua Intelligent Control、精密減速機のGreen Harmonics、ロータリーアクチュエータのTuopu Groupなどが主要な供給元」https://blogs.itmedia.co.jp/serial/2025/09/post_8658.html
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜技術（新しい技術・実証）：「ヒューマノイドロボットの世界出荷台数が432％急増、中国勢がシェア95％超 | Forbes JAPAN 公式サイト（フォーブス ジャパン）」https://forbesjapan.com/articles/detail/105959
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜技術（新しい技術・実証）：「BRAND VOICE・Paid Program」https://forbesjapan.com/articles/detail/105959
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜技術（新しい技術・実証）：「Forbes JAPAN CAREER・Paid Program」https://forbesjapan.com/articles/detail/105959
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・検索結果の抜粋）：「話題のヒューマノイド ロボット 紹介：欧米編、21選 - note 話題のヒューマノイド ロボット 紹介：欧米編、21選 - note note https://note.com > 科学・テクノロジー > ロボット技術」https://note.com/yamarikiedge/n/nb88c6f434090
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・検索結果の抜粋）：「ドローンの歴史から予想するヒューマノイド ロボット の未来 ドローンの歴史から予想するヒューマノイド ロボット の未来 note https://note.com > 科学・テクノロジー > ロボット技術」https://note.com/otl_sr/n/n069149d30cbd
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・検索結果の抜粋）：「新入社員は「人型ロボット」になった―創業140年の老舗企業が始めた、A... Sep 8, 2026 · 創業140年の老舗企業、カクイチが2027年4月、二足歩行型ヒューマノイドロボットを「新卒総合職」として迎える計画を進めています。 名」https://note.com/anms/n/n398f824cb45e
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（LinkedIn・検索結果の抜粋）：「#ceatec2026 #日立製作所 #nvidia #フィジカルai #人型ロボット #製造... CEATEC 2026 | Physical AI – Hitachi × NVIDIA: Small Humanoid Robots w」https://www.linkedin.com/feed/update/urn:li:activity:7516377767186464768/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（LinkedIn・検索結果の抜粋）：「#人型ロボット | 新良貴 浩史 - LinkedIn 日本 なるほどね〜 #人型ロボット 新良貴 浩史 産業機械メーカー日本 17時間前 この投稿について報告する なるほどね〜 #人型ロボット Celso Nisterenko 2ヶ月前 」https://jp.linkedin.com/posts/浩史-新-469330276_人型ロボット-activity-7523535023438913536-H9zS
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（LinkedIn・検索結果の抜粋）：「#人型ロボット | 新良貴 浩史 - LinkedIn 日本 人型ロボットの動画って、中国の多いけど、本物なのだろうかって思ってします。 ＃人型ロボット Onur Sezgin 2ヶ月前」https://jp.linkedin.com/posts/浩史-新-469330276_人型ロボット-activity-7523175919226691584-r7Cr
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の競合（奪いに来る側）：「ヒューマノイドロボットの世界出荷台数が432％急増、中国勢がシェア95％超 | Forbes JAPAN 公式サイト（フォーブス ジャパン）」https://forbesjapan.com/articles/detail/105959
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の競合（奪いに来る側）：「ヒューマノイドロボットの世界出荷台数が432％急増、中国勢がシェア95％超」https://forbesjapan.com/articles/detail/105959
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の競合（奪いに来る側）：「3位以下は台数が大幅に少なく、主に中国企業が数百台規模で続いている」https://forbesjapan.com/articles/detail/105959
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（Facebook・検索結果の抜粋）：「【世界人型ロボット運動会 日本から唯一参戦「ひとみん」400mと1500m... Aug 27, 2026 · 大会、二日目の昨日は、 四百メートル走が行われました。 中には、常識を覆す走りを見せる ロボットも。 アメリカの調査会社によりま」https://www.facebook.com/tvasahinews/videos/世界人型ロボット運動会-日本から唯一参戦ひとみん400mと1500mを完走-北京中国で5日間にわたって行われている人型ロボットの運動会で日本と中国の企業が世界最/1605544117889612/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（Facebook・検索結果の抜粋）：「人型ロボットを待つか、今あるロボットから始めるか、決めていますか... 人型ロボットを待つか、今あるロボットから始めるか 、決めていますか。 横須賀の造船所づくりを進めた幕臣と、飛ぶ機械を描 き続けた画家が語ったら。 人型ロボットが自動車工」https://www.facebook.com/growthintelligence2026/videos/人型ロボットを待つか今あるロボットから始めるか決めていますか横須賀の造船所づくりを進めた幕臣と飛ぶ機械を描き続けた画家が語ったら人型ロボットが自動車工場で部品を/951094967720868/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（Facebook・検索結果の抜粋）：「人型ロボット研究開発チーム - Facebook Feb 25, 2026 · 本時刻より自社HPを公開いたします。 0から自力で開発していますので、何か、不具合や改 善箇所があればご連絡いただけたら修繕にかかります 。 下記、URLよりH」https://www.facebook.com/profile.php/?id=61586129523341
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（X・検索結果の抜粋）：「ぽん吉 on X: " 世界人型ロボット最新レポート①｜2026年11月4日 8:00 ... 🤖 世界人型ロボット最新レポート①｜2026年11月4日 8:00 JST 本日の最重要ニュースは、Xiaomiが11月3日に発表した、工場と住」https://x.com/Zwe3sJg1hD54815/status/2117783993366307302
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（X・検索結果の抜粋）：「JR西日本ニュース【公式】 on X: " 「量産型人型ロボット」 既導入の... 「量産型人型ロボット」 既導入の人型ロボットを軽量・小型化 より高所での作業が可能になり、操作性も向上 小型・軽量化、ブーム長さを延長などの改良実施 線路沿」https://x.com/news_jrwest/status/2111027510318354489
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（X・検索結果の抜粋）：「イーロン・マスク氏、AIと人型ロボットが世界経済を20〜30%押し上げる... 人型ロボットは10年後までに10億台普及し、全体の生産力が全人類を超えると予測した。 Xではこれらのタイムラインが共有され、日本ユーザーからは人手不足解消への期」https://x.com/i/trending/2094926173663047914
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「日本も例外ではなく、トラックドライバーの時間外労働規制を背景とする「2024年問題」や、世界に類を見ないスピードで進む少子高齢化によって、物流、製造業、サービス業における労働力確保が喫緊の課題となっています」https://blogs.itmedia.co.jp/serial/2025/09/post_8658.html
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「: 日本の突出した少子高齢化と労働力不足は、サービスロボットや物流ロボット（AMR）の需要を世界に先駆けて高めています」https://blogs.itmedia.co.jp/serial/2025/09/post_8658.html
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜社会（人・担い手）：「AI雇用削減 (1件)」https://blogs.itmedia.co.jp/serial/2025/09/post_8658.html
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・本文）：「話題のヒューマノイドロボット紹介：欧米編、21選｜Yamariki-山本力弥(RobotMateHub)」https://note.com/yamarikiedge/n/nb88c6f434090
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・本文）：「話題のヒューマノイドロボット紹介：欧米編、21選」https://note.com/yamarikiedge/n/nb88c6f434090
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜SNS・note（note・本文）：「Yamariki-山本力弥(RobotMateHub)」https://note.com/yamarikiedge/n/nb88c6f434090
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜政治（法・予算・規制）：「IDCは、地方政府や産業団地、国有企業による継続的な支援、データ収集センターの整備、さらに完成機メーカーや部品メーカー、AIモデル企業、システムインテグレーター（SI）事業者間の連携強化が市場拡大を支えていると分析した」https://36kr.jp/503096/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜政治（法・予算・規制）：「研究教育、実演・展示、政府主導のロボット学習用データ収集施設向けの出荷は、合計で全体の69％を占めた」https://36kr.jp/503096/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜政治（法・予算・規制）：「日本も例外ではなく、トラックドライバーの時間外労働規制を背景とする「2024年問題」や、世界に類を見ないスピードで進む少子高齢化によって、物流、製造業、サービス業における労働力確保が喫緊の課題となっています」https://blogs.itmedia.co.jp/serial/2025/09/post_8658.html
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜検索結果の抜粋：「世界の 人型ロボット 出荷、上半期2万5000台に急増 中国勢が ... — 世界の 人型ロボット 出荷、上半期2万5000台に急増 中国勢が ... 36Kr Japan https://36kr.jp > new-cat > 特集」https://36kr.jp/503096/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜検索結果の抜粋：「世界のヒューマノイド ロボット 市場で上位5社を中国企業が独占 — 世界のヒューマノイド ロボット 市場で上位5社を中国企業が独占 Gate.com https://www.gate.com > Gate > News > Flash」https://www.gate.com/ja/news/detail/chinese-firms-dominate-global-humanoid-robot-top-5-in-h1-2026-sales-hit-25029287
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜検索結果の抜粋：「ヒューマノイド ロボット企業 を 日本 の大手から解説【2026年】 — ヒューマノイド ロボット企業 を 日本 の大手から解説【2026年】 robot-with.com https://robot-with.com > ヒューマノイド」https://robot-with.com/humanoid/japan-humanoid-companies
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客（金を払う側）：「主要企業には、NVIDIA、Qualcomm、MediaTek、Apple、Samsung、Mobileye、Ambarella、NXP Semiconductors、STMicroelectronics、Renesas Electroni」https://newscast.jp/smart/news/8082788
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客（金を払う側）：「具体的には、市場導入、調査対象期間、調査目的、市場調査方法、調査プロセスとデータソース、経済指標、使用通貨、市場推定の注意点といった基本情報が説明されています」https://newscast.jp/smart/news/8082788
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客（金を払う側）：「第3章には、主要企業によるエッジAI推論用チップの市場分析が含まれています」https://newscast.jp/smart/news/8082788
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜技術（新しい技術・実証）：「4. 米国の対中輸出規制が日本のエッジAI市場に与える影響」https://note.com/edgematrix/n/n5b8403acc4ff
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜技術（新しい技術・実証）：「エッジAI推論用チップの世界市場（2026年～2032年）、市場規模（NPU 中心の AI チップ、GPU ベースの AI チップ、DSP ベースの AI チップ）・分析レポートを発表 | NEWSCAST」https://newscast.jp/smart/news/8082788
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜技術（新しい技術・実証）：「エッジAI推論用チップの世界市場（2026年～2032年）、市場規模（NPU 中心の AI チップ、GPU ベースの AI チップ、DSP ベースの AI チップ）・分析レポートを発表」https://newscast.jp/smart/news/8082788
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜SNS・note（LinkedIn・検索結果の抜粋）：「Edge AI Chips for Everyday Devices - LinkedIn Edge AI Chips for Everyday Devices - LinkedIn LinkedIn https://www.linkedi」https://www.linkedin.com/posts/actions-technology-co-ltd_empowering-ai-anywhere-anytime-through-intelligent-activity-7520292374137184256-L0ee
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の顧客（発注元が求めること）：「原材料とサプライヤー、製造コスト構造、製造プロセス分析、および産業チェーン構造について記載されています」https://www.atpress.ne.jp/news/8082788
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の顧客（発注元が求めること）：「エッジAI用のNPUニューラルプロセッシングユニットは、スマートフォンやウェアラブルOEMが専用のニューラルエンジンを統合することで、2035年までにCAGRが18.2%と最も成長が早いコンポーネントセグメントを表しています」https://www.marketresearchfuture.com/ja/reports/edge-ai-hardware-market-7836
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の顧客（発注元が求めること）：「ヨーロッパは2025年に約61億米ドルを生み出し、EUチップ法および自動車OEMの調達によって推進されています」https://www.marketresearchfuture.com/ja/reports/edge-ai-hardware-market-7836
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の競合（奪いに来る側）：「生成AIの技術者は米国・中国・インドに集中し、日本は1〜2万人規模にとどまります」https://www.provej.jp/sectors-new/ai-semiconductor/
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の競合（奪いに来る側）：「→ プルーヴは、海外（台湾・韓国・インド・米国）の半導体・AI人材の採用支援、経済安保関連の補助金獲得の準備、海外の大手ITとの合弁設計、国産の大規模言語モデルの海外での収益化をお手伝いします」https://www.provej.jp/sectors-new/ai-semiconductor/
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の競合（奪いに来る側）：「型1：ソフトと総合力で圧倒的シェア（米NVIDIA）」https://www.provej.jp/sectors-new/ai-semiconductor/
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜社会（人・担い手）：「日本の急速な高齢化と労働力人口の減少は、同国のエッジAI市場拡大の根底にある構造的要因として浮上しています」https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜社会（人・担い手）：「同時に、65歳以上の国民の割合は2024年に総人口の約29.1％に達し、日本は世界でも最も高齢化が進んだ主要経済国となっています」https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜社会（人・担い手）：「この急速な拡大の主な要因は、日本人口の高齢化であります」https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜自社の競合（商社・代理店・仲介）：「「AI Highlight Agent」のベータ版を提供開始」https://www.atpress.ne.jp/news/5320140
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜自社の競合（商社・代理店・仲介）：「「AI Highlight Agent」のベータ版を提供開始」https://www.atpress.ne.jp/news/8082788
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜自社の競合（商社・代理店・仲介）：「エッジハードウェアに関連する定期的なソフトウェア収益は、ベンダーのマージンに15〜20%を追加し、エッジAIハードウェア市場を一度限りのハードウェア販売を超えて拡大させる可能性があります」https://www.marketresearchfuture.com/ja/reports/edge-ai-hardware-market-7836
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜政治（法・予算・規制）：「台湾が米国の規制影響を受ける場合、日本の企業も間接的に影響を受ける可能性がある」https://note.com/edgematrix/n/n5b8403acc4ff
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜政治（法・予算・規制）：「：規制により中国市場が縮小する中、日本政府は半導体産業の再興を推進（例：Rapidusプロジェクト）」https://note.com/edgematrix/n/n5b8403acc4ff
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜政治（法・予算・規制）：「NVIDIAのAIチップ（H20など）が対中輸出規制の対象となったことで、中国市場向け製品開発や輸出に制約が生じる可能性がある」https://note.com/edgematrix/n/n5b8403acc4ff
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「水素製造市場規模は2030年までに2,387.9億ドルに達し、CAGR7.6%で成長」https://www.dreamnews.jp/press/0000367069
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「市場規模で 2034」https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜経済（規模・価格・為替）：「エッジ人工知能チップ市場の調査レポートでは、以下のセグメントについて、2021年〜2034年の売上高（百万米ドル）に関する市場推計と予測を含む、業界の詳細な分析を提供している」https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜自社の競合（商社・代理店・仲介）：「投資信託およびETFを売買する際は、取扱いの金融商品取引業者の定める売買手数料がかかります」https://www.ssga.com/jp/ja/institutional/insights/why-asia-may-be-the-biggest-winner-of-the-global-ai-boom
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜自社の競合（商社・代理店・仲介）：「これらの費用には、運用会社・管理会社に支払う報酬、組入れ有価証券の売買の際に発生する手数料、監査費用等があります」https://www.ssga.com/jp/ja/institutional/insights/why-asia-may-be-the-biggest-winner-of-the-global-ai-boom
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜自社の競合（商社・代理店・仲介）：「※購入のお申し込みや売買手数料等につきましては、取扱いの金融商品取引業者までお問い合わせ下さい」https://www.ssga.com/jp/ja/institutional/insights/why-asia-may-be-the-biggest-winner-of-the-global-ai-boom
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客（金を払う側）：「EUVでは、EUV露光装置を世界で唯一量産できるオランダのASMLが有名ですが、レーザーテックもEUV露光に対応したマスク検査装置で独占的なシェアを有しており、先端半導体の製造プロセスにおいて極めて重要な役割を担っているといえます」https://www.nomura.co.jp/wealthstyle/article/0201/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客（金を払う側）：「日本のAI半導体分野は、最先端のチップ設計・開発を目指す企業と、製造装置・材料分野で世界的に重要な役割を担う企業が両輪となり、その存在感を示しています」https://orutedia.com/ai-semiconductor-manufacturer/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客（金を払う側）：「最先端ロジック半導体（2nm世代）の量産を目指す国策企業」https://orutedia.com/ai-semiconductor-manufacturer/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜政治（法・予算・規制）：「この工場は、日本政府の支援を受けて建設され、約1兆2900億円の投資額で20万平方メートル以上の敷地面積を持ち、半導体供給における強靭さを日本と世界にさらに強化することを目指しています」https://deallab.info/semiconductor/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜政治（法・予算・規制）：「アジア各国の多くの政府は、AIおよび関連インフラを支援するために積極的な税制優遇措置を導入しており、現時点でAIに特化した税制措置を導入していない米国とは異なる状況を示しています」https://www.ssga.com/jp/ja/institutional/insights/why-asia-may-be-the-biggest-winner-of-the-global-ai-boom
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜政治（法・予算・規制）：「フォックスコン（鴻海精密工業）の鄭州工場は中国最大の電子機器工場であり、また世界経済フォーラム（WEF）によって「Lighthouse工場」に認定されています」https://www.ssga.com/jp/ja/institutional/insights/why-asia-may-be-the-biggest-winner-of-the-global-ai-boom
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客の競合（奪いに来る側）：「中国政府は、国内の半導体メーカーに対し、新工場の建」https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客の競合（奪いに来る側）：「半導体業界の世界市場シェアの分析 | deallab」https://deallab.info/semiconductor/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客の競合（奪いに来る側）：「半導体業界の世界市場シェアの分析 - deallab」https://deallab.info/semiconductor/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜技術（新しい技術・実証）：「や PC などの最終製品まで、AI に関連する幅広い製品が含まれる」https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf
 
 ## ファイル
 - 分野_AI_半導体_輸出_dd03fe.md：分野_AI・半導体_輸出

@@ -1,0 +1,1164 @@
+{
+ "name": "研削・研磨・仕上げの受託",
+ "en": "grinding polishing job shop Japan",
+ "aliases": [
+  "研磨 賃加工 事業所",
+  "金属研磨 加工賃",
+  "研削加工 1人当たり"
+ ],
+ "context": "工法・研磨",
+ "kind": "market",
+ "researched_at": "2026-11-05T00:45:53.914353+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "経済構造実態調査 品目編 01009 品目別の加工賃収入額及び産出事業所数（全事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "2023000000_2023_112292_ビスコース人絹・キュプラ・アセテート長繊維織物（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_114291_絹・人絹織物機械染色（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_116191_織物製成人男子・少年服（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_116291_織物製成人女子・少女服（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_218391_人工骨材（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_325291_人形（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "山形県山形市蔵王上野578-2 | 従業員 220人 | 資本金 6億円 | 1961年10月6日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "福岡県北九州市八幡西区小嶺2-10-1 | 従業員 3547人 | 資本金 164億円 | 1957年(昭和32年)4月",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "新潟県長岡市西陵町221-35 | 従業員 281人 | 資本金 70億円 | 1986年3月14日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都千代田区大手町１丁目２−１ | 従業員 14000人 | 資本金 1683億円 | 1940年3月30日（創業1911年6月20日）",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府八尾市南植松町2丁目34番地 | 従業員 1283人",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "富山県富山市八尾町保内2-3-4 | 従業員 100人 | 資本金 9500万円 | 1979年7月1日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県横須賀市光の丘7-3 | 従業員 17人 | 資本金 1000万円 | 2020年3月16日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "千葉県松戸市高塚新田563 | 従業員 673人 | 資本金 97億円 | 1937年(昭和12年)9月7日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都豊島区池袋4-33-3 | 従業員 38人 | 資本金 5000万円 | 1965年7月10日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "滋賀県栗東市六地蔵130 | 従業員 900人 | 資本金 30億円 | 2021年8月2日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "三重県津市一身田中野8-1 | 従業員 80人 | 資本金 4000万円 | 1959年9月",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区晴海オフィスタワーＺ １５階 | 従業員 573人 | 資本金 55億円 | 1907年5月15日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府大阪市西区靱本町3-10-15 | 従業員 70人 | 資本金 9800万円 | 1927年6月8日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区恵比寿4-20-3（恵比寿ガーデンプレイスタワー） | 従業員 1895人 | 資本金 177億円 | 1949年7月1日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "台湾（全域）NO 77 KUNG YEH ROAD, DA LI DIST | 従業員 200人 | 資本金 6億円 | 1998年8月",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "福井県福井市円成寺町１-６ | 従業員 50人 | 資本金 6500万円 | 昭和39年5月",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "埼玉県比企郡川島町八幡6-13 | 従業員 490人",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "経済構造実態調査 品目編 01009 品目別の加工賃収入額及び産出事業所数（全事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "時間軸_R7 製造品目（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091191_部分肉・冷凍肉（ブロイラーを除く）（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091291_肉加工品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091391_処理牛乳・乳飲料（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091491_乳製品（処理牛乳・乳飲料を除く）（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091991_その他の畜産食料品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092191_水産缶詰・瓶詰（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092291_海藻加工（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092391_水産練製品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092491_塩干・塩蔵品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092591_冷凍水産物（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092691_冷凍水産食品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092991_その他の水産食料品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_093191_野菜缶詰・果実缶詰・農産保存食料品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_093291_野菜漬物（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_094191_味そ（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "山形県山形市蔵王上野578-2 | 従業員 220人 | 資本金 6億円 | 1961年10月6日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "福岡県北九州市八幡西区小嶺2-10-1 | 従業員 3547人 | 資本金 164億円 | 1957年(昭和32年)4月",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "新潟県長岡市西陵町221-35 | 従業員 281人 | 資本金 70億円 | 1986年3月14日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都千代田区大手町１丁目２−１ | 従業員 14000人 | 資本金 1683億円 | 1940年3月30日（創業1911年6月20日）",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "富山県富山市八尾町保内2-3-4 | 従業員 100人 | 資本金 9500万円 | 1979年7月1日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県横須賀市光の丘7-3 | 従業員 17人 | 資本金 1000万円 | 2020年3月16日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "千葉県松戸市高塚新田563 | 従業員 673人 | 資本金 97億円 | 1937年(昭和12年)9月7日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都豊島区池袋4-33-3 | 従業員 38人 | 資本金 5000万円 | 1965年7月10日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "滋賀県栗東市六地蔵130 | 従業員 900人 | 資本金 30億円 | 2021年8月2日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "三重県津市一身田中野8-1 | 従業員 80人 | 資本金 4000万円 | 1959年9月",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区晴海オフィスタワーＺ １５階 | 従業員 573人 | 資本金 55億円 | 1907年5月15日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府大阪市西区靱本町3-10-15 | 従業員 70人 | 資本金 9800万円 | 1927年6月8日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区恵比寿4-20-3（恵比寿ガーデンプレイスタワー） | 従業員 1895人 | 資本金 177億円 | 1949年7月1日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "台湾（全域）NO 77 KUNG YEH ROAD, DA LI DIST | 従業員 200人 | 資本金 6億円 | 1998年8月",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "福井県福井市円成寺町１-６ | 従業員 50人 | 資本金 6500万円 | 昭和39年5月",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区三田3-4-19 | 従業員 154人 | 資本金 3億円 | 2021年8月12日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県伊勢原市石田２００ | 従業員 9005人 | 資本金 547億円 | 1948年5月1日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県富士市吉原宝町1-1 | 従業員 95人 | 資本金 2200万円 | 1995年(平成７年)4月14日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "経済構造実態調査 / 2024年経済構造実態調査（製造業事業所調査） / 二次集計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "経済構造実態調査は、我が国の企業等の経済活動の状況を明らかにし、国民経済計算の精度向上等に資するとともに、企業等に関する施策の基礎資料を得ることを目的として、総務省・経済産業省の共管で令和元年（2019年）から実施しております",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2024年経済構造実態調査（製造業事業所調査）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2025-08-29 14:00",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_000000_合計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_090000_食料品",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091191_部分肉・冷凍肉（ブロイラーを除く）（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091291_肉加工品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091391_処理牛乳・乳飲料（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091491_乳製品（処理牛乳・乳飲料を除く）（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_091991_その他の畜産食料品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092191_水産缶詰・瓶詰（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092291_海藻加工（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092391_水産練製品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092491_塩干・塩蔵品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092591_冷凍水産物（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092691_冷凍水産食品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "2023000000_2023_092991_その他の水産食料品（賃加工）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県横須賀市光の丘7-3 | 従業員 17人 | 資本金 1000万円 | 2020年3月16日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "YIGを進化させたIIG（IRINO INTERNAL GRINDING）のハイブリッド精密内面研削盤 IIG-20Hを2024年2月より発売開始しました",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "滋賀県栗東市六地蔵130 | 従業員 900人 | 資本金 30億円 | 2021年8月2日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "機能材料事業は、1910年の油脂事業創業以来、わが国油脂化学分野のパイオニアとして業界をリードしてきました",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区三田3-4-19 | 従業員 154人 | 資本金 3億円 | 2021年8月12日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県高座郡寒川町岡田3－22－16 | 資本金 1000万円 | 2023年2月",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県横浜市都筑区茅ケ崎中央8-33 サウス・コア2F | 2016年1月8日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県姫路市土山東の町１－２ 株式会社大成化研内 | 資本金 200万円 | 2016年3月",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社はタイ、インドネシア、中国（無錫）に拠点があり日系メーカー様へJIT対応など日本国内と同じサービスを提供して凡そ10年の実績があります",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区日本橋室町1-2-6 日本橋大栄ビル 7階 | 従業員 100人 | 資本金 300万円 | 2018",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "◆長寿命鉛蓄電池販売「10年保障」ESS, PPAソーラー発電、風力発電向け蓄電コンテナーユニット製造販売",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2017年 ISAAT OKINAWAにて機械論文発表",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年 精密工学会 ものづくり賞 受賞",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "○摩擦、摩耗を減少",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "JIMTOF2024出展",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "本装置を2025年12月17日（水）～12月19日（金）に東京ビッグサイトにて開催される〈SEMICON JAPAN 2025〉に展示いたします",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "砥粒の切込み量を増加させるなどの点に効果があり、研削性を高める",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "フレームを大型化し前後の安定性を増加の高剛性仕様となります",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "富山県富山市八尾町保内2-3-4 | 従業員 100人 | 資本金 9500万円 | 1979年7月1日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県横須賀市光の丘7-3 | 従業員 17人 | 資本金 1000万円 | 2020年3月16日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都豊島区池袋4-33-3 | 従業員 38人 | 資本金 5000万円 | 1965年7月10日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "三重県津市一身田中野8-1 | 従業員 80人 | 資本金 4000万円 | 1959年9月",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府大阪市西区靱本町3-10-15 | 従業員 70人 | 資本金 9800万円 | 1927年6月8日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "福井県福井市円成寺町１-６ | 従業員 50人 | 資本金 6500万円 | 昭和39年5月",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県富士市吉原宝町1-1 | 従業員 95人 | 資本金 2200万円 | 1995年(平成７年)4月14日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都八王子市横山町21－12 横山町ビル2階 | 従業員 8人 | 資本金 1000万円 | 2008年8月",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県高座郡寒川町岡田3－22－16 | 資本金 1000万円 | 2023年2月",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府堺市西区浜寺船尾町東２丁１２２番地 | 従業員 110人 | 資本金 3000万円 | 1934年10月",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区新富1-18-8 RBM築地スクエア8階 | 従業員 5300人 | 資本金 8000万円 | 2009年7月1日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都文京区春日二丁目４番１号 | 資本金 3600万円 | 1972年08月17日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県豊橋市石巻西川町字大原12番地 | 従業員 140人 | 資本金 6000万円 | 大正13年",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "千葉県松戸市松飛台316-3 | 従業員 14人 | 資本金 3000万円 | 1976年7月",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "新潟県上越市三和区野５８２３－１ | 従業員 107人 | 資本金 9500万円 | 昭和33年8月",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "広島県廿日市市可愛11-33 | 資本金 3200万円 | 1940年9月6日",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "茨城県日立市石名坂町2-43-14 | 従業員 50人 | 資本金 3000万円 | 1959（昭和34年3月）",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都品川区東大井2-13-8 ケイヒン東大井ビル | 従業員 117人 | 資本金 5000万円 | 1941年9月（創業1936年）",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "設備投資不要の消耗品科目にてCO2排出量を削減！防火対策コスト低減",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資不要の消耗品科目にてCO2削減が可能",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "■設備投資不要の消耗品科目にてCO2削減",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資不要の消耗品科目にてCO2を削減します",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "・複合加工…自社内で丸・角の複合工程を行い加工効率向上、納期短縮にお応えします",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "社内使用PCDバイトの再研磨に適しています（再研磨費用の圧縮、納期の短縮、試作品への対応迅速化などのメリットが有ります）",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "動画の製品は、鋳物製品であり幾何公差1/100の製品と通常であれば苦労する製品ですが立型研削盤を用いることにより高精度を安定的に出し、納期も安定してお客様に出荷することができます",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "短納期対応や全工程を通してのコストダウンの提案が可能です",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のご要望の納期対応が出来るよう体制を整えました",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "・処理スピードが速いため、短納期に対応",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "複合加工 S45C 黒染め 工程集約 短納期",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "表面処理のお任せのワンストップサービスで短納期にお応えすることが可能です！",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "表面処理お任せのワンストップサービスで短納期にお応えします",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "工作物の物流による時間のロスをなくし、納期とコストを圧縮する事が可能",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "■工作物の物流による時間のロスをなくし、納期とコストを圧縮可能",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "水平分業による役割分担で人手不足の解消と、工場内の合理化を実現いたします",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ZX ～チッパーと粉砕刃物の研削盤～【短納期】",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "「感謝をかたちに」をスローガンとした品質の保証と感度のよい納期の対応",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "円筒研削との違いを知らずに加工方法を選ぶと、コスト・精度・納期の",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "加工から研磨仕上まで当社で一貫加工し、品質・コスト・納期でお客様の",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、加工しながら精度の確認ができ、試作品・短納期に対応できます",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "複合加工 鉄SS400 低炭素鋼 少ロット 試作品 短納期（2）",
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://orbray.com/product/jewel/technology/wafer-processing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E7%A0%94%E7%A3%A8/%E5%8F%97%E8%A8%97/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.yokocera.co.jp/manufacture/processing/grind.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saito-os.com/polishing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agency-assist.co.jp/column/717/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.askk.co.jp/contents/course/grinding.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/6010536",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/1005511",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/semiconductor-wafer-polishing-and-grinding-equipment-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.otec-kk.co.jp/roll-product/kenmashiro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%A0%94%E7%A3%A8%E6%9D%90%E5%B8%82%E5%A0%B4-102177",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mirror-polish.com/faq/knowledge-of-polishing/precision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.noritake.co.jp/catalogType/download/267d44491168f3e10ed29bbbfc9b9501.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jgw-asn.com/pages/24/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.resiton.co.jp/publics/translation/JE/?ds=d250be858ca8ec2a4b81f7193179b6bc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tfkenpo.or.jp/UploadedFiles/taisenhyo(footsal)20261104.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0803juchu-4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.tsubame.niigata.jp/soshiki/somu/1/toukei/3336.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-reports/semiconductor-wafer-polishing-and-grinding-equipment-market/123",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5695/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.r-agent.com/job_search/kw/%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%20%E7%A0%94%E5%89%8A%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://recruit-holdings.com/ja/ir/library/upload/report_202503q4_ar_jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shiken.co.jp/processing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kurodaprecision.com/jp/products/mt/subsidy/subsidy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mipox.co.jp/media/archives/101",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/service/specialty/processing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mako-fmds.com/functional/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kusunokikenma.her.jp/archives/453",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tnksanwa.co.jp/media/detail.html?id=3008",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanetsu-seiko.com/technology.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://swd-metalprocessing.com/faq/898/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toyo-kenmazai-kogyo.jp/article/grinding-polishing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohthuka.co.jp/technical-columns/technical-columns-3890",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E7%A0%94%E7%A3%A8/%E5%8F%97%E8%A8%97/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bls.gov/oes/2023/may/oes519022.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://seisanzai-japan.com/articlecat/japanese-job-shop-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2023/wp23e07.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buehler.com/products/grinding-and-polishing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/japan-dental-grinding-polishing-burs-market-regional-5envf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fred.stlouisfed.org/series/JPNPEFANA",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "研削・研磨・仕上げの受託",
+   "results": [
+    "https://orbray.com/product/jewel/technology/wafer-processing.html",
+    "https://mono.ipros.com/cg1/%E7%A0%94%E7%A3%A8/%E5%8F%97%E8%A8%97/",
+    "http://www.yokocera.co.jp/manufacture/processing/grind.html",
+    "https://saito-os.com/polishing/",
+    "https://www.agency-assist.co.jp/column/717/",
+    "https://www.askk.co.jp/contents/course/grinding.html",
+    "https://metoree.com/categories/7302/",
+    "https://mirror-polish.com/service/grinding/",
+    "https://www.kanetsu-seiko.com/technology.html",
+    "https://mono.ipros.com/cg1/研磨/受託/"
+   ]
+  },
+  {
+   "query": "研削・研磨・仕上げの受託 推移",
+   "results": [
+    "https://newscast.jp/smart/news/6010536",
+    "https://www.atpress.ne.jp/news/1005511",
+    "https://www.mordorintelligence.com/ja/industry-reports/semiconductor-wafer-polishing-and-grinding-equipment-market",
+    "https://blog.otec-kk.co.jp/roll-product/kenmashiro",
+    "https://www.fortunebusinessinsights.com/jp/%E7%A0%94%E7%A3%A8%E6%9D%90%E5%B8%82%E5%A0%B4-102177",
+    "https://mirror-polish.com/faq/knowledge-of-polishing/precision/",
+    "https://www.databridgemarketresearch.com/jp/reports/global-abrasive-market",
+    "https://www.noritake.co.jp/grinding_service/",
+    "https://www.mipox.co.jp/media/archives/500",
+    "https://www.jgw-asn.com/pages/24/"
+   ]
+  },
+  {
+   "query": "研削・研磨・仕上げの受託 統計 PDF",
+   "results": [
+    "https://www.noritake.co.jp/catalogType/download/267d44491168f3e10ed29bbbfc9b9501.pdf",
+    "https://www.jgw-asn.com/pages/24/",
+    "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "https://www.resiton.co.jp/publics/translation/JE/?ds=d250be858ca8ec2a4b81f7193179b6bc",
+    "https://www.tfkenpo.or.jp/UploadedFiles/taisenhyo(footsal)20261104.pdf",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/0803juchu-4.pdf",
+    "https://pr.mono.ipros.com/kawashin/product/detail/2000545817/",
+    "https://www.jsat-sf.jp/mysite5/past%20meeting.html",
+    "https://www.soumu.go.jp/main_content/000777097.pdf",
+    "https://www.meti.go.jp/statistics/tyo/seidou/gaiyo/chosahyo/pdf/2024/7260.pdf"
+   ]
+  },
+  {
+   "query": "研削・研磨・仕上げの受託 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/",
+    "https://www.city.tsubame.niigata.jp/soshiki/somu/1/toukei/3336.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://web.pref.hyogo.lg.jp/stat/cate3_711.html"
+   ]
+  },
+  {
+   "query": "研削・研磨・仕上げの受託 従業者規模別",
+   "results": [
+    "https://www.atpress.ne.jp/news/1005511",
+    "https://www.mordorintelligence.com/ja/industry-reports/semiconductor-wafer-polishing-and-grinding-equipment-market",
+    "https://www.fortunebusinessinsights.com/jp/%E7%A0%94%E7%A3%A8%E6%9D%90%E5%B8%82%E5%A0%B4-102177",
+    "https://www.researchnester.jp/industry-reports/semiconductor-wafer-polishing-and-grinding-equipment-market/123",
+    "https://mono.ipros.com/category/5925e393d39d5a52/index.html",
+    "https://metoree.com/categories/5695/",
+    "https://www.r-agent.com/job_search/kw/%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%20%E7%A0%94%E5%89%8A%E5%8A%A0%E5%B7%A5/",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "http://recruit-holdings.com/ja/ir/library/upload/report_202503q4_ar_jp",
+    "https://mono.ipros.com/cg1/研磨/受託/"
+   ]
+  },
+  {
+   "query": "研削・研磨・仕上げの受託 1人当たり 万円",
+   "results": [
+    "https://mono.ipros.com/cg1/%E7%A0%94%E7%A3%A8/%E5%8F%97%E8%A8%97/",
+    "https://www.shiken.co.jp/processing.html",
+    "https://kurodaprecision.com/jp/products/mt/subsidy/subsidy.html",
+    "https://www.mipox.co.jp/media/archives/101",
+    "https://www.fujimiinc.co.jp/service/specialty/processing.html",
+    "https://mako-fmds.com/functional/",
+    "https://kusunokikenma.her.jp/archives/453",
+    "https://blog.otec-kk.co.jp/roll-product/kenmashiro",
+    "https://haradaseiki.co.jp/guidelines2/"
+   ]
+  },
+  {
+   "query": "研削・研磨・仕上げの受託 2015 2025",
+   "results": [
+    "https://mono.ipros.com/cg1/%E7%A0%94%E7%A3%A8/%E5%8F%97%E8%A8%97/",
+    "http://www.yokocera.co.jp/manufacture/processing/grind.html",
+    "https://www.tnksanwa.co.jp/media/detail.html?id=3008",
+    "https://www.kanetsu-seiko.com/technology.html",
+    "https://swd-metalprocessing.com/faq/898/",
+    "https://toyo-kenmazai-kogyo.jp/article/grinding-polishing/",
+    "https://newscast.jp/smart/news/6010536",
+    "https://ohthuka.co.jp/technical-columns/technical-columns-3890",
+    "https://www.agency-assist.co.jp/column/717/",
+    "https://mono.ipros.com/cg1/研磨/受託/"
+   ]
+  },
+  {
+   "query": "grinding polishing job shop Japan Japan statistics",
+   "results": [
+    "https://www.bls.gov/oes/2023/may/oes519022.htm",
+    "https://seisanzai-japan.com/articlecat/japanese-job-shop-report/",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2023/wp23e07.htm",
+    "https://www.buehler.com/products/grinding-and-polishing/",
+    "https://www.linkedin.com/pulse/japan-dental-grinding-polishing-burs-market-regional-5envf",
+    "https://fred.stlouisfed.org/series/JPNPEFANA",
+    "https://www.statista.com/topics/7451/employment-in-japan/?srsltid=AYCX9vIyTjaThvZtHNBfe0DZetBNrsKhlx5Pr0RShsLKmjA9xNUfJz5C",
+    "https://www.wiego.org/wp-content/uploads/2019/09/Chatani_non-regular_employment_statistics_Japan.pdf",
+    "https://www.struers.com/en/products/grinding-and-polishing/grinding-and-polishing-equipment",
+    "https://www.indexbox.io/blog/grinding-sanding-and-polishing-machine-japan-market-overview-2024-4/"
+   ]
+  },
+  {
+   "query": "site:note.com 研削・研磨・仕上げの受託",
+   "results": [
+    "https://note.com/qy_research/n/ne5ebfa0d3353",
+    "https://note.com/izuku_idea/n/nc1d97abd74d1",
+    "https://note.com/nplus_report/n/nc2e8ab429266",
+    "https://note.com/niigata_nbk/n/n8c9b84798a8c",
+    "https://note.com/cac_nagahori/n/n8f41fa2ad9e8",
+    "https://note.com/tech_nomad/n/n5eefb5eda986",
+    "https://note.com/blue_collar_t/n/n235399fbd49b",
+    "https://note.com/mobio_osaka/n/n5f63c9c4a570",
+    "https://note.com/gijutsu_lab/n/nc1643c9e328f",
+    "https://note.com/wtpindustrial/n/nb0edc80944c9"
+   ]
+  },
+  {
+   "query": "site:x.com 研削・研磨・仕上げの受託",
+   "results": [
+    "https://x.com/nakanokagaku/status/1374873694644805632",
+    "https://help.x.com/en/using-x",
+    "https://x.com/i/status/1724577443686822360",
+    "https://x.com/ALGOVISION1",
+    "https://x.com/JTEKT_PR/status/2092525265306210545",
+    "https://x.com/kaikentogiya",
+    "https://x.com/Dprocess_JP/status/2049646887024931178"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 研削・研磨・仕上げの受託",
+   "results": [
+    "https://jp.linkedin.com/in/satoshi-yamamoto-515596174",
+    "https://jp.linkedin.com/pulse/%E7%95%B3%E3%81%BF%E8%BE%BC%E3%81%BF%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%E3%82%92%E8%A3%BD%E9%80%A0%E3%81%99%E3%82%8B%E4%B8%BB%E8%A6%81%E4%BC%81%E6%A5%AD-reflector-rule-np4te",
+    "https://jp.linkedin.com/pulse/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E3%82%A6%E3%82%A8%E3%83%8F%E7%94%A8-cmp-%E3%83%91%E3%83%83%E3%83%89-%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%9F%BA%E6%9D%BF-%E6%A5%AD%E7%95%8C%E3%81%AE-2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE79-psege",
+    "https://jp.linkedin.com/pulse/%E3%82%A6%E3%83%BC%E3%83%AB%E7%94%A8%E3%83%A4%E3%82%B9%E3%83%AA%E3%81%A8%E3%82%84%E3%81%99%E3%82%8A%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%8A%E4%BD%8D%E4%BC%81%E6%A5%AD2026-brevionx-h7ebf"
+   ]
+  },
+  {
+   "query": "site:facebook.com 研削・研磨・仕上げの受託",
+   "results": [
+    "https://www.facebook.com/TAKANO.NET/",
+    "https://www.facebook.com/matsuuramc/videos/%E4%BB%8A%E5%9B%9E%E3%81%AF%E3%83%9E%E3%83%AB%E3%82%A8%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E9%8B%BC%E3%81%A8%E6%99%82%E5%8A%B9%E5%87%A6%E7%90%86%E5%89%8D%E5%BE%8C%E3%81%AE%E5%AF%B8%E6%B3%95%E5%A4%89%E5%8C%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99-%E3%83%9E%E3%83%AB%E3%82%A8%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E9%8B%BC%E3%81%AF%E9%89%84%E3%81%A8%E3%83%8B%E3%83%83%E3%82%B1%E3%83%AB%E3%82%92%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AB%E3%81%97%E3%81%9F%E9%AB%98%E5%BC%B7%E5%BA%A6%E9%AB%98%E9%9D%AD%E6%80%A7%E3%81%AE%E9%87%91%E5%B1%9E%E3%81%A7%E6%99%82%E5%8A%B9%E5%87%A6%E7%90%86%E3%81%A7%E7%A1%AC%E5%BA%A6%E3%82%92%E4%B8%8A%E3%81%92%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C/1295314872126716/",
+    "https://www.facebook.com/tokyokenmazai/",
+    "https://www.facebook.com/people/遠山精工/61572234582990/",
+    "https://www.facebook.com/bafukenma.masui/",
+    "https://www.facebook.com/mipox.japan/photos/mipox受託研磨事業-設備拡充近年受託研磨加工のご要望が急増しているsicやgan等のパワーデバイス用基板多結晶セラミックス基板のニーズにお応えするため平面研/1228824050464195/",
+    "https://www.facebook.com/naniwaabrasive/",
+    "https://www.facebook.com/kk.morita/",
+    "https://www.facebook.com/tipton.corp/photos/受託解析サービスが名古屋市工業技術グランプリ名古屋市工業研究所長賞を受賞しましたバレル研磨受託解析サービスが令和7年度名古屋市工業技術グランプリ公財名古屋産業振/912793381695541/"
+   ]
+  },
+  {
+   "query": "研削・研磨・仕上げの受託 note 社長",
+   "results": [
+    "https://mono.ipros.com/cg1/%E7%A0%94%E7%A3%A8/%E5%8F%97%E8%A8%97/",
+    "http://www.yokocera.co.jp/manufacture/processing/grind.html",
+    "https://saito-os.com/polishing/",
+    "https://note.com/trang_1985/n/ne75466163b00",
+    "https://www.shiken.co.jp/processing.html",
+    "https://toyo-kenmazai-kogyo.jp/article/grinding-polishing/",
+    "https://sakusakuec.com/shop/pg/1kenma-kakou/?srsltid=AYCX9vK9TIpfWcHr8ZNODejJXTNg_HVM9yAIWTs_FqbmMz3WM9_udA5y",
+    "https://www.fujimiinc.co.jp/service/specialty/processing.html",
+    "https://www.tokyokenmazai.com/contractprocessing",
+    "https://mono.ipros.com/cg1/研磨/受託/"
+   ]
+  },
+  {
+   "query": "研削・研磨・仕上げの受託 X 投稿",
+   "results": [
+    "https://mono.ipros.com/cg1/%E7%A0%94%E7%A3%A8/%E5%8F%97%E8%A8%97/",
+    "https://www.shiken.co.jp/processing.html",
+    "https://saito-os.com/polishing/",
+    "http://www.yokocera.co.jp/manufacture/processing/grind.html",
+    "https://www.kanetsu-seiko.com/technology.html",
+    "https://www.mipox.co.jp/media/archives/101",
+    "https://mako-fmds.com/functional/",
+    "https://www.tokyokenmazai.com/contractprocessing",
+    "https://x.com/ishiken_gogo",
+    "https://mono.ipros.com/cg1/研磨/受託/"
+   ]
+  },
+  {
+   "query": "grinding polishing job shop Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/jobs/view/grinder-polisher-at-chrome-hearts-4441248091",
+    "https://www.linkedin.com/jobs/view/stainless-steel-polisher-at-prestige-fabrication-4447986569",
+    "https://www.linkedin.com/jobs/view/grinding-operator-at-dimar-manufacturing-corp-4485197515",
+    "https://www.linkedin.com/jobs/view/fabricator-at-wabash-4480887282",
+    "https://www.linkedin.com/jobs/view/precision-surface-grinder-at-pinewood-tool-4483978802",
+    "https://www.linkedin.com/pulse/kaizen-thinking-machine-job-shop-matt-elson",
+    "https://in.linkedin.com/company/s-k-b-machine-tools-pvt.-ltd.-",
+    "https://www.linkedin.com/jobs/view/manual-machinist-lathe-operator-at-hannecard-usa-4445237022",
+    "https://ca.linkedin.com/jobs/view/concrete-polisher-at-northern-concrete-refinement-and-polishing-co-4429324696",
+    "https://www.linkedin.com/jobs/view/cutter-grinder-manual-at-msc-industrial-supply-co-4487086001"
+   ]
+  }
+ ],
+ "missing": {}
+}

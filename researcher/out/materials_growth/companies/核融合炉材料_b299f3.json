@@ -1,0 +1,1976 @@
+{
+ "name": "核融合炉材料",
+ "en": "fusion reactor materials",
+ "aliases": [
+  "tungsten divertor",
+  "reduced activation ferritic martensitic",
+  "核融合材料"
+ ],
+ "context": "核融合",
+ "kind": "market",
+ "researched_at": "2026-11-05T00:41:12.414159+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "Nuclear Fusion and Advanced Materials Market Size & Share, 2034",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Nuclear Fusion and Advanced Materials Market Size, Share, Trends, & Growth Forecast Report - Segmented By Material (Tungsten, Beryllium, Vanadium-Based Alloys, SiC Composites, Others), Technology (Magnetic Confinement, Inertial Confinement, Others), And Region (North America, Europe, Asia Pacific, Latin America, Middle east and Africa) – Industry Analysis (2026 to 2034)",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, 2025",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.13 billion in 2025",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.17 billion in 2026",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.40 billion by 2034",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "market size was calculated to be USD 0.13 billion in 2025 and is anticipated to be worth USD 1.40 billion by 2034, growing from USD 0.17 billion in 2026 at a CAGR of 30.20% during the forecast period.",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2024, the Federal Ministry of Education and Research (BMBF) of Germany financed the PriFUSIO research initiative with 18 million euros and is called Advance Nuclear Fusion Research, which involves over 1.3 million euros for SCHOTT.",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Size, Share | CAGR of 6.2%",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 555.0 Billion",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 304.1 Billion",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "$7.1 billion",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "£410 million",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "$1.5 billion",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "$570 million",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 135.0 billion",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Magnetic confinement uses powerful magnetic fields to contain plasma within a defined space, preventing it from touching reactor walls and allowing temperatures to reach over 100 million degrees Celsius—conditions necessary for sustained fusion.",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Deuterium and tritium, both isotopes of hydrogen, produce the highest known fusion energy yield when combined—about 17.6 MeV (million electron volts) per reaction—making them the preferred fuel choice for most experimental and prototype fusion reactors worldwide.",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Furthermore, the DOE has initiated the Milestone-Based Fusion Development Program, allocating $46 million to eight private companies over an 18-month period. This program aims to support the design and research efforts necessary for developing fusion power plants, with the overarching goal of demonstrating pilot-scale fusion within a decade.",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Internationally, countries like Germany and South Korea have also intensified their support for fusion energy. Germany committed $1.4 billion over five years to collaborative research and development of fusion power plants, while South Korea pledged $900 million over a decade to develop a fusion-driven industrial ecosystem.",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "$1.4 billion",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Reactor Components Market Size, Share & Forecast Report 2025 to 2034 | Dataintelo",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Reactor Components Market Size, Share and Forecast Report 2025 to 2034",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size 2025",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4.20 Billion",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 12.12 Billion",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Reactor Components Market size, 2019 to 2034 (USD Billion)",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "$4.2 billion",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "$12.12 billion",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "of 2025 demand, anchored by nearly CNY 10 billion of Hefei procurement for EAST, BEST and CRAFT",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "a year; FIA respondents alone reported USD 538 million of supply chain spend in 2025",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Base year 2025, historical data from 2019, forecast to 2034. Market values are established by Dataintelo research in USD Billion, built from",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "$7.92 billion",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Utilities and technology buyers are signing for fusion power before the first plant runs, which turns pilot plant designs into firm hardware orders. Eni signed an agreement worth more than USD 1 billion in September 2025 to buy power from the planned ARC plant of Commonwealth Fusion Systems, and Google has agreed to take 200 MW from the same plant. These contracts support the",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "a year from a very small 2025 base of long-lead orders. Eni signed an agreement worth more than USD 1 billion in September 2025 to buy power from the planned ARC plant, and Google has agreed to take 200 MW from it, which gives the first commercial plant contracted revenue before construction. Other applications, which cover neutron sources and component test facilities, grow at",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "a year. ITER members deliver nine-tenths of their contributions in kind as components, systems or buildings, so national agencies such as Fusion for Energy, with EUR 1,049.7 million of 2025 commitments, are direct buyers from industry. Chinese state buyers in Hefei and the new China Fusion Energy Co, with CNY 15 billion of capital, keep this group the largest even as ITER manufacturing winds down.",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Size, Share, and Forecast (2026–2032)",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Size by Fuel Type, Technology, System Type, Investment Type, Application and Region - Segment-Level Market Assessment, Growth Opportunity Analysis, Competitive Mapping & Forecast to 2032",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "347.48 USD Bn.",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "size was valued at USD 347.48 Billion in 2025 and the total Fusion Energy revenue is expected to grow at a CAGR of 7.4% from 2026 to 2032, reaching nearly USD 572.74 Billion by 2032.",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Private Investment Surpasses US$10 Billion",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Global private fusion funding exceeds $10 billion from corporations, energy users, and sovereign funds, boosting innovation and commercialization.",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2025:",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 347.48 Bn.",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2032:",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 572.74 Bn.",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "3] What was the Global Fusion Energy Market size in 2025?",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "The Fusion Energy Market size is expected to reach USD 347.48 billion in 2025.",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "4] What is the expected Global Fusion Energy Market size by 2032?",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "The Fusion Energy Market size is expected to reach USD 572.74 billion by 2032.",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "5. Fusion Energy Market: Global Market Size and Forecast by Segmentation (by Value in USD Million) (2025-2032)",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for nuclear fusion technologies is expected to increase from $1.7 billion in 2035 to $6.8 billion by the end of 2040, with a compound annual growth rate (CAGR) of 31.6% during the forecast period of 2035-2040.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "$1.7 billion",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "$6.8 billion",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "The nuclear fusion market size is expected to reach $6.8 billion by 2040 from $1.7 billion in 2035 growing at a CAGR of 31.6% during the forecast period.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for advanced materials for extreme environments was valued at $3.4 billion in 2024 and is estimated to increase from $3.6 billion in 2025 to reach $4.8 billion by 2030, at a compound annual growth rate (CAGR) of 6.1% from 2025 through 2030.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for diesel generators is expected to grow from $22.2 billion in 2025 and is projected to reach $31.8 billion by the end of 2030, at a compound annual growth rate (CAGR) of 7.5% during the forecast period of 2025 to 2030.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for superconductors is expected to grow from $9.4 billion in 2025 and is projected to reach $16.4 billion by the end of 2030, at a compound annual growth rate (CAGR) of 11.8% during the forecast period of 2025 to 2030.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for laser systems, components and materials is expected to grow from $21.0 billion in 2024 to reach $30.4 billion by the end of 2029, at a compound annual growth rate (CAGR) of 7.7% from 2024 through 2029.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for hydrogen generation is expected to grow from $223.1 billion in 2026 and is projected to reach $406.8 billion by the end of 2031, at a compound annual growth rate (CAGR) of 12.8% during the forecast period of 2026 to 2031.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "CAGR, 2026–2034",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "market size was calculated to be USD 0.13 billion in 2025 and is anticipated to be worth USD 1.40 billion by 2034, growing from USD 0.17 billion in 2026 at a CAGR of 30.20% during the forecast period.",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Size, Share | CAGR of 6.2%",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2024, growing at a",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 6.2%",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 6.2%.",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2034)",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2025 to 2034",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034 at a CAGR of",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, a compound annual growth rate of",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "of fusion reactor component spend in 2025 and grow at",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": ", the fastest component type. Heat management technologies were named a bottleneck by 44% of fusion companies in the FIA 2026 survey, and 48% of companies called fusion fuel cycle systems a major future concern, because a power plant must breed and recover its own tritium while ITER's blanket is a shielding design. Divertors grow at",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "of component demand in 2025 and grow at",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "a year from a very small 2025 base of long-lead orders. Eni signed an agreement worth more than USD 1 billion in September 2025 to buy power from the planned ARC plant, and Google has agreed to take 200 MW from it, which gives the first commercial plant contracted revenue before construction. Other applications, which cover neutron sources and component test facilities, grow at",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "of fusion reactor components in 2025 and grow at",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "a year, the fastest of the large buyer groups. FIA respondents reported USD 538 million of supply chain spend in 2025, about half of the world's private companies, and planned a 27% rise to USD 681 million in 2026, while 69% of suppliers still report a lack of long-term visibility of fusion needs. Research institutes and universities grow at",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "size was valued at USD 347.48 Billion in 2025 and the total Fusion Energy revenue is expected to grow at a CAGR of 7.4% from 2026 to 2032, reaching nearly USD 572.74 Billion by 2032.",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2026 to 2032 CAGR:",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "The Global Fusion Energy Market is growing at a significant rate of 7.4 % during the forecast period.",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for nuclear fusion technologies is expected to increase from $1.7 billion in 2035 to $6.8 billion by the end of 2040, with a compound annual growth rate (CAGR) of 31.6% during the forecast period of 2035-2040.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "Analyses of global market trends, with data from 2035-2040, and projections of compound annual growth rates (CAGRs) through 2040",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 31.6% for the forecast period of 2035-2040",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "The nuclear fusion market size is expected to reach $6.8 billion by 2040 from $1.7 billion in 2035 growing at a CAGR of 31.6% during the forecast period.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for advanced materials for extreme environments was valued at $3.4 billion in 2024 and is estimated to increase from $3.6 billion in 2025 to reach $4.8 billion by 2030, at a compound annual growth rate (CAGR) of 6.1% from 2025 through 2030.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for diesel generators is expected to grow from $22.2 billion in 2025 and is projected to reach $31.8 billion by the end of 2030, at a compound annual growth rate (CAGR) of 7.5% during the forecast period of 2025 to 2030.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for superconductors is expected to grow from $9.4 billion in 2025 and is projected to reach $16.4 billion by the end of 2030, at a compound annual growth rate (CAGR) of 11.8% during the forecast period of 2025 to 2030.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for laser systems, components and materials is expected to grow from $21.0 billion in 2024 to reach $30.4 billion by the end of 2029, at a compound annual growth rate (CAGR) of 7.7% from 2024 through 2029.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for hydrogen generation is expected to grow from $223.1 billion in 2026 and is projected to reach $406.8 billion by the end of 2031, at a compound annual growth rate (CAGR) of 12.8% during the forecast period of 2026 to 2031.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for hydrogen fuel cells is expected to grow from $5.9 billion in 2026 and is projected to reach $13.1 billion by the end of 2031, at a compound annual growth rate (CAGR) of 17.3% during the forecast period of 2026 to 2031.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for solar energy was valued at $492.7 billion in 2025 and, is estimated to reach $582.7 billion by 2026 and $974.7 billion by 2031, at a compound annual growth rate (CAGR) of 10.8% from 2026 through 2031.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "The global agricultural biotechnology market was valued at an estimated $84.7 billion in 2025 and is estimated to increase from $91.5 billion in 2026 to reach $137 billion by the end of 2031, at a compound annual growth rate (CAGR) of 8.4% from 2026 to 2031.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "The global bioinformatics market was valued at $23.5 billion in 2025 and is estimated to reach $43.5 billion by the end of 2030, at a compound annual growth rate (CAGR) of 13.1% from 2025 to 2030.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "Analyses of global market trends, with data from 2018, estimates for 2019, and projections of compound annual growth rates (CAGRs) through 2025 (in value and volumetric terms)",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "The Market Size is Growing at a CAGR of 7.20%from 2023 to 2033",
+    "url": "https://www.sphericalinsights.com/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Global Advanced Materials for Nuclear Fusion Technology Market Size is Anticipated to Exceed USD 0.922 Million by 2033, Growing at a CAGR of 7.20% from 2023 to 2033.",
+    "url": "https://www.sphericalinsights.com/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period CAGR 2023-2033 :",
+    "url": "https://www.sphericalinsights.com/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "1. What is the CAGR of the advanced materials for the nuclear fusion technology market over the forecast period?",
+    "url": "https://www.sphericalinsights.com/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "The advanced materials for nuclear fusion technology market is projected to expand at a CAGR of 7.20% during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Global Advanced Materials for Nuclear Fusion Technology Market Size is Expected to Grow from USD 0.46 Million in 2023 to USD 0.922 Million by 2033, at a CAGR of 7.20% during the forecast period 2023-2033.",
+    "url": "https://www.sphericalinsights.com/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for nuclear fusion technologies is expected to increase from $1.7 billion in 2035 to $6.8 billion by the end of 2040, with a compound annual growth rate (CAGR) of 31.6% during the forecast period of 2035-2040.",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "The North American market for nuclear fusion technologies is expected to increase from $1.2 billion in 2035 to $4.4 billion by the end of 2040, with a CAGR of 29.4% during the forecast period of 2035-2040.",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia-Pacific market for nuclear fusion technologies is projected to increase from $182.3 million in 2035 to $1 billion by the end of 2040, with a CAGR of 41.4% during the forecast period of 2035-2040.",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Analyses of global market trends, with data from 2035-2040, and projections of compound annual growth rates (CAGRs) through 2040",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of technology, the advanced materials market segmentation comprises magnetic confinement, inertial confinement and others. Magnetic confinement technology held a prominent market share of 45.5% in 2021. The segment is anticipated to grow at a CAGR of 6.4% during the forecast period and consequently boost the global advanced materials for nuclear technology market in the next few years.",
+    "url": "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "It is expected to grow at a CAGR of 7.3% from 2022 to 2031",
+    "url": "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "Highly competitive landscape driven by specialized metallurgical and material enterprises navigating manufacturing scalability constraints, production costs, and geopolitical supply vulnerabilities.",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global, Regional & Country Level Analysis, Segment-Level Analysis, DROC, PESTLE Analysis, Porter’s Five Forces Analysis, Competitive Landscape, Analyst Overview of Investment Opportunities",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "KEY PLAYERS IN THE GLOBAL NUCLEAR FUSION AND ADVANCED MATERIALS MARKET",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major key players in the Global Nuclear Fusion and Advanced materials are Ulba Metallurgical Plant, A.L.M.T. Corp., NGK Metals, BETEK GmbH & Co. KG, Chongyi ZhangYuan Tungsten Co. Ltd., Buffalo Tungsten Inc., CMOC, H.C. Starck Tungsten GmbH, ATI Inc., GUANGDONG XIANGLU TUNGSTEN CO LTD, Materion Corporation, and others.",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Reactor Components Market: Competitive Landscape",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "The major players in the Global Fusion Energy Market are Commonwealth Fusion Systems (USA), TAE Technologies (USA), Helion Energy (USA), Tokamak Energy (UK) and others.",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "3. Global Fusion Energy Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "3.2. Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "3.3. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "11. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Air Quality Monitoring Software Market by Application, End-user and Region – Global Market Size Estimation, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2034",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Combined Heat and Power Market by Fuel, Technology, Capacity, End-Use , Region – Global Market Size Estimation, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2034",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Distributed Natural Gas Fuelled Generation Market Size by Technology, End-User, Region, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2032",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Coverage of nuclear fusion regulations across several countries, government funded projects, start-ups in nuclear fusion, and alternative energy investments opportunities in the oil & gas industry",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "Company profiles of major players within the industry, including Commonwealth Fusion Systems, First Light Fusion Ltd, General Fusion Inc., HB11 Energy Holdings Pty Ltd, and Marvel Fusion GmbH",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "The report also includes a section on the major players in the market. Further, it explains the major drivers, competitive landscape, and current trends of the nuclear fusion market. The report concludes with a focus on the nuclear fusion vendor landscape and includes profiles of the major players operating in the global market.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "Growing Number of Start-ups in Nuclear Fusion",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominate the global nuclear fusion market as it is the headquarters for a large number of startups and R&D facilities.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key companies/players in the global nuclear fusion market?",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "With a vast understanding of the competitive landscape, the team can support clients in making data-driven decisions to help them achieve a competitive edge in their respective markets.",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter- 8: Competitive Landscape",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "A.L.M.T. Corp., BETEK GmbH & Co. KG, Buffalo Tungsten Inc., H.C. Starck Tungsten GmbH, Materion Corporation, GUANGDONG XIANGLU TUNGSTEN CO LTD, ATI Inc., CMOC, Chongyi ZhangYuan Tungsten Co. Ltd., NGK Metals, Ulba Metallurgical Plant, and other key companies.",
+    "url": "https://www.sphericalinsights.com/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "List of Key Companies",
+    "url": "https://www.sphericalinsights.com/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "The report also includes a section on the major players in the market. Further, it explains the major drivers, competitive landscape, and current trends of the nuclear fusion market. The report concludes with a focus on the nuclear fusion vendor landscape and includes profiles of the major players operating in the global market.",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Coverage of nuclear fusion regulations across several countries, government funded projects, start-ups in nuclear fusion, and alternative energy investments opportunities in the oil & gas industry",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Company profiles of major players within the industry, including Commonwealth Fusion Systems, First Light Fusion Ltd, General Fusion Inc., HB11 Energy Holdings Pty Ltd, and Marvel Fusion GmbH",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Growing Number of Start-ups in Nuclear Fusion",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 8 Competitive Landscape",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 9: Number of New Nuclear Fusion Start-ups, 2017-2022",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Materials for Nuclear Fusion Technology Market Outlook for Key Players",
+    "url": "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the advanced materials market for nuclear fusion technology industry report have been profiled based on parameters such as company overview, business strategies, financial overview, business segments, product portfolio, and recent developments.",
+    "url": "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the prominent players in the global advanced materials business for nuclear fusion technology?",
+    "url": "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "Top Nuclear Fusion Startups by Fundraising (2026)",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "What are the top nuclear fusion startups by total funding raised?",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "The concentration of capital is striking. The top five account for 63.8% of the $11.77B raised by startups with reported funding totals, while the top ten represent nearly 79%. Commonwealth Fusion Systems alone has raised more than the next four companies combined.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "The United States remains the dominant funding destination, with approximately $8.31B across 24 startups. China follows with $1.40B across 11 companies, while Germany has emerged as Europe's strongest player with roughly $1.10B.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Top startups in the nuclear fusion market ranked by total funding raised",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Here is an updated table that ranks the top startups in the nuclear fusion market based on the total amount of funding they have raised to date.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Which nuclear fusion startups have raised the most funding?",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Together, these five companies have attracted approximately $7.52B. That's 63.8% of the $11.77B raised by the 57 startups in our ranking. Commonwealth Fusion Systems alone has raised more than the next four companies combined.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Is investment in nuclear fusion startups growing faster than before?",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Investment in nuclear fusion startups has accelerated sharply, with the industry attracting a record $4.48B over the 12 months leading to July 2026, according to the Fusion Industry Association.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Our ranking covers 57 startups, whose reported or estimated funding totals represent approximately $11.77B.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "The difference becomes even more striking further down the ranking. The top 20 companies have attracted approximately $10.84B, leaving around $936M distributed among the other 37 startups.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "All 57 startups",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Commonwealth Fusion Systems has raised $4.0B across five rounds, making it the clear financial leader among nuclear fusion startups.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Which nuclear fusion startups raised the largest recent funding rounds?",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "Asia-Pacific (anticipated to achieve the highest CAGR growth driven by innovations in China, Japan, and South Korea)",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Internationally, collaborative efforts are also gaining momentum. The United States and Japan have announced a joint partnership to accelerate the development and commercialization of nuclear fusion. This collaboration focuses on addressing scientific and technical challenges, fostering cooperation between universities, national laboratories, and private companies in both countries.",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "North America – US, Canada; Europe – Germany, France, The UK, Spain, Italy, Rest of Europe; Asia Pacific – China, Japan, South Korea, India, Australia, Singapore, Rest of APAC; Latin America – Brazil, Mexico, Rest of Latin America; Middle East & Africa – GCC, South Africa, Rest of MEA",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Faraday Factory Japan",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Heavy Industries",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Faraday Factory Japan signed to supply HTS tape for Proxima Fusion's demo stellarator magnet.",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "The UK STEP 2G REBCO tape framework was awarded to Fujikura and Faraday Factory Japan.",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commonwealth Fusion Systems, Westinghouse Electric Company, Fujikura, Faraday Factory Japan, Kyoto Fusioneering, Ansaldo Nucleare, Walter Tosto, China National Nuclear Corporation (CNNC), General Atomics, Toshiba Energy Systems & Solutions, Mitsubishi Heavy Industries, Hitachi, Tokamak Energy, Rosatom, Western Superconducting Technologies",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "13.2.2 Japan",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "16.3.4 Faraday Factory Japan",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "16.3.11 Mitsubishi Heavy Industries",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "16.3.12 Hitachi",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fujikura and Faraday Factory Japan won places on the UK STEP REBCO tape framework in April 2025, and Faraday Factory Japan supplies HTS tape for Proxima Fusion's demo stellarator magnet. Commonwealth Fusion Systems and Tokamak Energy build HTS magnets, while Western Superconducting Technologies supplies NbTi and Nb3Sn strand for ITER and Chinese tokamaks. Magnets grow at 13.7% a year.",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Magnets are the largest component type with 24.0% of 2025 spend, and they grow at 13.7% a year to 2034. Toroidal field, poloidal field and central solenoid coils are the most expensive systems on a magnetic confinement device. HTS tape frameworks such as the April 2025 UK STEP award to Fujikura and Faraday Factory Japan show how buyers are qualifying new magnet suppliers.",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific leads with 50.0% of 2025 demand and grows at 12.0% a year. Hefei budgets nearly CNY 10 billion (USD 1.4 billion) of procurement for EAST, BEST and CRAFT, CNNC set up China Fusion Energy Co with CNY 15 billion of capital in July 2025, and Japan, Korea and India each supply 9.1 percent of ITER construction in kind.",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "(China, South Korea, Japan, India, Australia, Indonesia, Malaysia, Vietnam, Taiwan, Bangladesh, Pakistan and Rest of APAC)",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "12. Helical Fusion (Japan)",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "17. Kyoto Fusioneering (Japan)",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "8.6.3. Japan",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "11.12. Helical Fusion (Japan)",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "11.17. Kyoto Fusioneering (Japan)",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "U.S., Canada, U.K., France, Rest of Europe, China, Japan, Rest of Asia-Pacific",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific (China, Japan, India, Rest of APAC)",
+    "url": "https://www.sphericalinsights.com/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "Table 29: Japanese Nuclear Fusion Device Status and Design Stage, by Device and Organization",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 51: Japanese Market Shares of Electricy Generation, by Energy Source, 2022 and 2050",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "12.4.3. Japan Advanced Materials Market for Nuclear Fusion Technology Volume (Kg) and Value (US$ Thousand) Forecast, by Material, 2022–2031",
+    "url": "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "12.4.4. Japan Advanced Materials Market for Nuclear Fusion Technology Volume (Kg) and Value (US$ Thousand) Forecast, Technology, 2022–2031",
+    "url": "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "Table 65: Japan Advanced Materials Market for Nuclear Fusion Technology Volume (Kg) Forecast, by Material, 2022–2031",
+    "url": "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "Table 66: Japan Advanced Materials Market for Nuclear Fusion Technology Value (US$ Thousand) Forecast, by Material, 2022–2031",
+    "url": "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "Table 67: Japan Advanced Materials Market for Nuclear Fusion Technology Volume (Kg) Forecast, by Technology, 2022–2031",
+    "url": "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "Table 68: Japan Advanced Materials Market for Nuclear Fusion Technology Value (US$ Thousand) Forecast, by Technology 2022–2031",
+    "url": "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "JX Advanced Metals, Persol Venture Partners, SBI Shinsei Corporate Investment",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Japan contributes another $409M across six companies, many of which focus on reactor engineering, materials and specialized technologies.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Which nuclear fusion startups have raised the most funding in Japan?",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Kyoto Fusioneering leads Japan's nuclear fusion startup ranking with $207M, followed by Helical Fusion at more than $83M and EX-Fusion at $40M.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Japan also has companies working on enabling technologies, including MiRESSO at $29M and LINEA Innovations at $13M.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Across these six ventures, Japan has attracted approximately $409M. The country's startup sector is relatively small compared with the United States and China, but it covers several important parts of the fusion industry rather than focusing exclusively on complete reactor development.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "The group ranges from Commonwealth Fusion Systems at $4.0B to SunUp Fusion at $100M. It includes several reactor architectures and companies headquartered in the United States, China, Germany, the United Kingdom and Japan.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "Deuterium-Tritium fuel dominates with 63.5% share in 2024 due to its high energy yield and research maturity",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (2025)",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Share of 2025 revenue",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive chapter profiles 15 companies with business overview, product portfolio, recent developments and strategy, and ranks them by market share. Shares are in the report.",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "16.2 Global Fusion Reactor Components Market: Market Share Analysis, 2025",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "The component share of ITER-wide spend was cross-checked against disclosed contracts such as the 2025 vacuum vessel assembly award.",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "2] Which region is expected to dominate the Global Fusion Energy Market?",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "By technology type, which segment will dominate the market by the end of 2040?",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "pass": 3
+   },
+   {
+    "quote": "3. Which region holds the largest share of the advanced materials for the nuclear fusion technology market?",
+    "url": "https://www.sphericalinsights.com/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "Summary Figure: Global Market Shares of Nuclear Fusion Technologies, by Region, 2035",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 18: Global Market Shares of Nuclear Fusion Technologies, by Type, 2035",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 19: Global Market Shares of Nuclear Fusion Technologies, by Type, 2040",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 20: Global Market Shares of Nuclear Fusion Technologies, by Application, 2035",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 21: Global Market Shares of Nuclear Fusion Technologies, by Application, 2040",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 23: Global Market Shares of Electricity Generation by Nuclear Fusion, by Region, 2035",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 24: Global Market Shares of Electricity Generation by Nuclear Fusion, by Region, 2040",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 25: Global Market Shares of Nuclear Fusion Space Propulsion Systems, by Region, 2035",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 26: Global Market Shares of Nuclear Fusion Space Propulsion Systems, by Region, 2040",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 27: Global Market Shares of Other Applications of Nuclear Fusion Technologies, by Region, 2035",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 28: Global Market Shares of Other Applications of Nuclear Fusion Technologies, by Region, 2040",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 29: Global Market Shares of Nuclear Fusion Companies, by Region, 2022",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 30: Global Market Shares of Nuclear Fusion Technologies, by Region, 2035",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 31: Global Market Shares of Nuclear Fusion Technologies, by Region, 2040",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 32: U.S. Market Shares of Electricity Generation, by Energy Source, 2022 and 2050",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of technology, the advanced materials market segmentation comprises magnetic confinement, inertial confinement and others. Magnetic confinement technology held a prominent market share of 45.5% in 2021. The segment is anticipated to grow at a CAGR of 6.4% during the forecast period and consequently boost the global advanced materials for nuclear technology market in the next few years.",
+    "url": "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "Middle East & Africa and Latin America, cumulatively, held share of less than 11.4 % the global advanced materials market for nuclear fusion technology in 2021. Both the UAE and Saudi Arabia are investing in the nuclear fission technology, and they are likely to also invest in the nuclear fusion technology during the forecast period.",
+    "url": "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "Market share analysis by company (2021)",
+    "url": "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "15.1. Global Advanced Material for Fusion Technology Company Market Share Analysis, 2021",
+    "url": "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "The concentration of capital is striking. The top five account for 63.8% of the $11.77B raised by startups with reported funding totals, while the top ten represent nearly 79%. Commonwealth Fusion Systems alone has raised more than the next four companies combined.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Nuclear fusion startup funding is remarkably concentrated, with the three largest companies accounting for approximately 55% of reported funding and the top ten capturing nearly 79%.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "The United States dominates private nuclear fusion funding, with approximately $8.31B raised across 24 startups in our ranking. China comes second at roughly $1.40B, followed by Germany at approximately $1.10B.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "The main difference is concentration. America's largest startup has attracted more than three times the combined funding of China's two leading companies, while China has built a sizeable group of ventures in the $100M–$350M range.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "to support nuclear fusion energy, aiming to construct a leading fusion power project by 2040. Similarly, the European Union’s Net Zero Industrial Act has designated fusion as a strategic technology, unlocking additional funding opportunities and reinforcing its role in Europe’s clean energy strategy.",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, Avalanche achieved a significant milestone by reaching 200 kilovolts in its second prototype reactor, marking the highest known operating voltage for any fusion device at the time. The company has secured over $40 million in funding from investors including Founders Fund and Toyota Ventures, and is preparing to raise an additional $100 million to advance its technology.",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, Avalanche Energy, is preparing to raise up to $100 million in a Series B funding round to further advance its technology and expand its operations.",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Raised USD 863 million in August 2025; total funding nearly USD 3 billion",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commonwealth Fusion Systems raised USD 863 million for SPARC and ARC, taking total funding to nearly USD 3 billion.",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Fusion Industry Association reported USD 2.64 billion raised by fusion companies in twelve months and USD 9.766 billion cumulative.",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "World Nuclear News: FIA global fusion industry funding 2025",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Size by Fuel Type, Technology, System Type, Investment Type, Application and Region - Segment-Level Market Assessment, Growth Opportunity Analysis, Competitive Mapping & Forecast to 2032",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Private Investment Surpasses US$10 Billion",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Global private fusion funding exceeds $10 billion from corporations, energy users, and sovereign funds, boosting innovation and commercialization.",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "5.4. Fusion Energy Market Size and Forecast, by Investment Type (2025-2032)",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "5.4.2. Private Sector Investments",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "5.4.3. Public Sector Investment",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4. North America Fusion Energy Market Size and Forecast, by Investment Type (2025-2032)",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4.2. Private Sector Investments",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4.3. Public Sector Investment",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4. Europe Fusion Energy Market Size and Forecast, by Investment Type (2025-2032)",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "8.4. Asia Pacific Fusion Energy Market Size and Forecast, by Investment Type (2025-2032)",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 6: Funds Raised, by Nuclear Fusion Companies, Till 2022",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 7: Shares of Funds Raised, by Nuclear Fusion Companies, Through 2022",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 14: Oil & Gas Company Investments in Nuclear Fusion Power",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 64: Nuclear Fusion Companies Funding Range, 2021 and 2022",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 67: Average Capital Investment Required, by Energy Sources",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "pass": 3
+   },
+   {
+    "quote": "Commonwealth Fusion Systems leads the nuclear fusion startup funding ranking with $4.0B raised, followed by Helion Energy ($1.5B), Pacific Fusion ($900M), Proxima Fusion ($665M) and Inertia Enterprises ($450M). These five companies have attracted approximately $7.52B combined.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "The concentration of capital is striking. The top five account for 63.8% of the $11.77B raised by startups with reported funding totals, while the top ten represent nearly 79%. Commonwealth Fusion Systems alone has raised more than the next four companies combined.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Investment is accelerating. The Fusion Industry Association reported a record $4.48B in fusion company funding over the 12 months leading to July 2026, up 69% from the preceding period. Its broader industry survey put cumulative funding at $14.24B.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the biggest rounds have happened remarkably recently. Commonwealth Fusion Systems raised $1B in July 2026, Helion Energy secured approximately $500M in September, and Proxima Fusion completed a $468M financing in July. Inertia Enterprises also raised $450M in its first major round.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "The United States remains the dominant funding destination, with approximately $8.31B across 24 startups. China follows with $1.40B across 11 companies, while Germany has emerged as Europe's strongest player with roughly $1.10B.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Chinese fusion companies are becoming serious fundraising competitors. NovaFusionX and Startorus Fusion have each raised more than $300M, and several other Chinese ventures have passed the $100M mark. Their growing financial backing makes the international competition increasingly interesting.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Stellarators are enjoying a particularly strong investment cycle. Proxima Fusion and Type One Energy have raised $665M and more than $400M respectively, while Thea Energy, Xinghe Fusion and Renaissance Fusion are developing additional alternatives to conventional tokamaks.",
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "笠田研究室@金研 on X: \" 核融合炉材料 国際会議ICFRM-22を ... 笠田研究室@金研 on X: \" 核融合炉材料 国際会議ICFRM-22を ... X https://x.com > @KasadaLab_IMR",
+    "url": "https://x.com/KasadaLab_IMR/status/1962531189497172019",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "30.20",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "quote": "market size was calculated to be USD 0.13 billion in 2025 and is anticipated to be worth USD 1.40 billion by 2034, growing from USD 0.17 billion in 2026 at a CAGR of 30.20% during the forecast period."
+   },
+   {
+    "value": "6.2",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "quote": "Fusion Energy Market Size, Share | CAGR of 6.2%"
+   },
+   {
+    "value": "7.4",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "quote": "size was valued at USD 347.48 Billion in 2025 and the total Fusion Energy revenue is expected to grow at a CAGR of 7.4% from 2026 to 2032, reaching nearly USD 572.74 Billion by 2032."
+   },
+   {
+    "value": "31.6",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for nuclear fusion technologies is expected to increase from $1.7 billion in 2035 to $6.8 billion by the end of 2040, with a compound annual growth rate (CAGR) of 31.6% during the forecast period of 2035-2040."
+   },
+   {
+    "value": "6.1",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for advanced materials for extreme environments was valued at $3.4 billion in 2024 and is estimated to increase from $3.6 billion in 2025 to reach $4.8 billion by 2030, at a compound annual growth rate (CAGR) of 6.1% from 2025 through 2030."
+   },
+   {
+    "value": "7.5",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for diesel generators is expected to grow from $22.2 billion in 2025 and is projected to reach $31.8 billion by the end of 2030, at a compound annual growth rate (CAGR) of 7.5% during the forecast period of 2025 to 2030."
+   },
+   {
+    "value": "11.8",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for superconductors is expected to grow from $9.4 billion in 2025 and is projected to reach $16.4 billion by the end of 2030, at a compound annual growth rate (CAGR) of 11.8% during the forecast period of 2025 to 2030."
+   },
+   {
+    "value": "7.7",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for laser systems, components and materials is expected to grow from $21.0 billion in 2024 to reach $30.4 billion by the end of 2029, at a compound annual growth rate (CAGR) of 7.7% from 2024 through 2029."
+   },
+   {
+    "value": "12.8",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for hydrogen generation is expected to grow from $223.1 billion in 2026 and is projected to reach $406.8 billion by the end of 2031, at a compound annual growth rate (CAGR) of 12.8% during the forecast period of 2026 to 2031."
+   },
+   {
+    "value": "17.3",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for hydrogen fuel cells is expected to grow from $5.9 billion in 2026 and is projected to reach $13.1 billion by the end of 2031, at a compound annual growth rate (CAGR) of 17.3% during the forecast period of 2026 to 2031."
+   },
+   {
+    "value": "10.8",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for solar energy was valued at $492.7 billion in 2025 and, is estimated to reach $582.7 billion by 2026 and $974.7 billion by 2031, at a compound annual growth rate (CAGR) of 10.8% from 2026 through 2031."
+   },
+   {
+    "value": "8.4",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global agricultural biotechnology market was valued at an estimated $84.7 billion in 2025 and is estimated to increase from $91.5 billion in 2026 to reach $137 billion by the end of 2031, at a compound annual growth rate (CAGR) of 8.4% from 2026 to 2031."
+   },
+   {
+    "value": "13.1",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global bioinformatics market was valued at $23.5 billion in 2025 and is estimated to reach $43.5 billion by the end of 2030, at a compound annual growth rate (CAGR) of 13.1% from 2025 to 2030."
+   },
+   {
+    "value": "7.20",
+    "url": "https://www.sphericalinsights.com/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "quote": "The Market Size is Growing at a CAGR of 7.20%from 2023 to 2033"
+   },
+   {
+    "value": "31.6",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "quote": "The global market for nuclear fusion technologies is expected to increase from $1.7 billion in 2035 to $6.8 billion by the end of 2040, with a compound annual growth rate (CAGR) of 31.6% during the forecast period of 2035-2040."
+   },
+   {
+    "value": "29.4",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "quote": "The North American market for nuclear fusion technologies is expected to increase from $1.2 billion in 2035 to $4.4 billion by the end of 2040, with a CAGR of 29.4% during the forecast period of 2035-2040."
+   },
+   {
+    "value": "41.4",
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "quote": "The Asia-Pacific market for nuclear fusion technologies is projected to increase from $182.3 million in 2035 to $1 billion by the end of 2040, with a CAGR of 41.4% during the forecast period of 2035-2040."
+   },
+   {
+    "value": "6.4",
+    "url": "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "quote": "In terms of technology, the advanced materials market segmentation comprises magnetic confinement, inertial confinement and others. Magnetic confinement technology held a prominent market share of 45.5% in 2021. The segment is anticipated to grow at a CAGR of 6.4% during the forecast period and cons"
+   },
+   {
+    "value": "7.3",
+    "url": "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "quote": "It is expected to grow at a CAGR of 7.3% from 2022 to 2031"
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "0.13",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "quote": "USD 0.13 billion in 2025"
+   },
+   {
+    "value": "0.17",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "quote": "USD 0.17 billion in 2026"
+   },
+   {
+    "value": "1.40",
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "quote": "USD 1.40 billion by 2034"
+   },
+   {
+    "value": "555.0",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "quote": "USD 555.0 Billion"
+   },
+   {
+    "value": "304.1",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "quote": "USD 304.1 Billion"
+   },
+   {
+    "value": "7.1",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "quote": "$7.1 billion"
+   },
+   {
+    "value": "1.5",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "quote": "$1.5 billion"
+   },
+   {
+    "value": "570",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "quote": "$570 million"
+   },
+   {
+    "value": "135.0",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "quote": "USD 135.0 billion"
+   },
+   {
+    "value": "46",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "quote": "Furthermore, the DOE has initiated the Milestone-Based Fusion Development Program, allocating $46 million to eight private companies over an 18-month period. This program aims to support the design and research efforts necessary for developing fusion power plants, with the overarching goal of demons"
+   },
+   {
+    "value": "1.4",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "quote": "Internationally, countries like Germany and South Korea have also intensified their support for fusion energy. Germany committed $1.4 billion over five years to collaborative research and development of fusion power plants, while South Korea pledged $900 million over a decade to develop a fusion-dri"
+   },
+   {
+    "value": "900",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "quote": "Internationally, countries like Germany and South Korea have also intensified their support for fusion energy. Germany committed $1.4 billion over five years to collaborative research and development of fusion power plants, while South Korea pledged $900 million over a decade to develop a fusion-dri"
+   },
+   {
+    "value": "4.20",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "quote": "USD 4.20 Billion"
+   },
+   {
+    "value": "12.12",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "quote": "USD 12.12 Billion"
+   },
+   {
+    "value": "4.2",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "quote": "$4.2 billion"
+   },
+   {
+    "value": "538",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "quote": "a year; FIA respondents alone reported USD 538 million of supply chain spend in 2025"
+   },
+   {
+    "value": "7.92",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "quote": "$7.92 billion"
+   },
+   {
+    "value": "1",
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "quote": "Utilities and technology buyers are signing for fusion power before the first plant runs, which turns pilot plant designs into firm hardware orders. Eni signed an agreement worth more than USD 1 billion in September 2025 to buy power from the planned ARC plant of Commonwealth Fusion Systems, and Goo"
+   },
+   {
+    "value": "347.48",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "quote": "size was valued at USD 347.48 Billion in 2025 and the total Fusion Energy revenue is expected to grow at a CAGR of 7.4% from 2026 to 2032, reaching nearly USD 572.74 Billion by 2032."
+   },
+   {
+    "value": "572.74",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "quote": "size was valued at USD 347.48 Billion in 2025 and the total Fusion Energy revenue is expected to grow at a CAGR of 7.4% from 2026 to 2032, reaching nearly USD 572.74 Billion by 2032."
+   },
+   {
+    "value": "10",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "quote": "Private Investment Surpasses US$10 Billion"
+   },
+   {
+    "value": "1.7",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for nuclear fusion technologies is expected to increase from $1.7 billion in 2035 to $6.8 billion by the end of 2040, with a compound annual growth rate (CAGR) of 31.6% during the forecast period of 2035-2040."
+   },
+   {
+    "value": "6.8",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for nuclear fusion technologies is expected to increase from $1.7 billion in 2035 to $6.8 billion by the end of 2040, with a compound annual growth rate (CAGR) of 31.6% during the forecast period of 2035-2040."
+   },
+   {
+    "value": "3.4",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for advanced materials for extreme environments was valued at $3.4 billion in 2024 and is estimated to increase from $3.6 billion in 2025 to reach $4.8 billion by 2030, at a compound annual growth rate (CAGR) of 6.1% from 2025 through 2030."
+   },
+   {
+    "value": "3.6",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for advanced materials for extreme environments was valued at $3.4 billion in 2024 and is estimated to increase from $3.6 billion in 2025 to reach $4.8 billion by 2030, at a compound annual growth rate (CAGR) of 6.1% from 2025 through 2030."
+   },
+   {
+    "value": "4.8",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for advanced materials for extreme environments was valued at $3.4 billion in 2024 and is estimated to increase from $3.6 billion in 2025 to reach $4.8 billion by 2030, at a compound annual growth rate (CAGR) of 6.1% from 2025 through 2030."
+   },
+   {
+    "value": "22.2",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for diesel generators is expected to grow from $22.2 billion in 2025 and is projected to reach $31.8 billion by the end of 2030, at a compound annual growth rate (CAGR) of 7.5% during the forecast period of 2025 to 2030."
+   },
+   {
+    "value": "31.8",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for diesel generators is expected to grow from $22.2 billion in 2025 and is projected to reach $31.8 billion by the end of 2030, at a compound annual growth rate (CAGR) of 7.5% during the forecast period of 2025 to 2030."
+   },
+   {
+    "value": "9.4",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for superconductors is expected to grow from $9.4 billion in 2025 and is projected to reach $16.4 billion by the end of 2030, at a compound annual growth rate (CAGR) of 11.8% during the forecast period of 2025 to 2030."
+   },
+   {
+    "value": "16.4",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for superconductors is expected to grow from $9.4 billion in 2025 and is projected to reach $16.4 billion by the end of 2030, at a compound annual growth rate (CAGR) of 11.8% during the forecast period of 2025 to 2030."
+   },
+   {
+    "value": "21.0",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for laser systems, components and materials is expected to grow from $21.0 billion in 2024 to reach $30.4 billion by the end of 2029, at a compound annual growth rate (CAGR) of 7.7% from 2024 through 2029."
+   },
+   {
+    "value": "30.4",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for laser systems, components and materials is expected to grow from $21.0 billion in 2024 to reach $30.4 billion by the end of 2029, at a compound annual growth rate (CAGR) of 7.7% from 2024 through 2029."
+   },
+   {
+    "value": "223.1",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for hydrogen generation is expected to grow from $223.1 billion in 2026 and is projected to reach $406.8 billion by the end of 2031, at a compound annual growth rate (CAGR) of 12.8% during the forecast period of 2026 to 2031."
+   },
+   {
+    "value": "406.8",
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "quote": "The global market for hydrogen generation is expected to grow from $223.1 billion in 2026 and is projected to reach $406.8 billion by the end of 2031, at a compound annual growth rate (CAGR) of 12.8% during the forecast period of 2026 to 2031."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/3905071",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dri.co.jp/auto/search_hot.php?seq=12",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC198VG0Z11C26A0000000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000352790",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fkg-report.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pps-net.org/column/151067",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabu.com/kabuyomu/money/898.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mext.go.jp/a_menu/shinkou/fusion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabukiso.com/siryou/kanren/nuclear_fusion.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asuene.com/media/1562/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/fusion-reactor-components-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/thebusinessresearchcompany_fusionenergy-advancedmaterials-cleanenergy-activity-7472898340410511361-z4CI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/nuclear-fusion-market/US",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://undark.org/2025/02/11/startups-fusion-energy/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://thefusionreport.substack.com/p/commercial-fusion-energy-funding",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://energy.mit.edu/news-events/news/funding-fusion-revolution",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/Futurology/comments/1vqr8gl/every_fusion_startup_that_has_raised_over_100m/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/KasadaLab_IMR/status/1962531189497172019",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "核融合炉材料 市場規模 年平均成長率",
+   "results": [
+    "https://www.atpress.ne.jp/news/8633668",
+    "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "https://newscast.jp/news/3905071",
+    "https://note.com/better_equation/n/n8e6e921f9bfe",
+    "https://www.dreamnews.jp/press/0000352790",
+    "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "https://semabiz.co.jp/mnmep10531/",
+    "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market"
+   ]
+  },
+  {
+   "query": "核融合炉材料 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.atpress.ne.jp/news/8633668",
+    "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "https://newscast.jp/news/3905071",
+    "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "https://www.dri.co.jp/auto/search_hot.php?seq=12",
+    "https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC198VG0Z11C26A0000000",
+    "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "https://www.dreamnews.jp/press/0000352790",
+    "https://fkg-report.jp/"
+   ]
+  },
+  {
+   "query": "核融合炉材料 参入 企業 国内",
+   "results": [
+    "https://pps-net.org/column/151067",
+    "https://kabu.com/kabuyomu/money/898.html",
+    "https://www.mext.go.jp/a_menu/shinkou/fusion/",
+    "https://kabukiso.com/siryou/kanren/nuclear_fusion.html",
+    "https://asuene.com/media/1562/",
+    "https://www.helicalfusion.com/post/%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E5%95%86%E7%94%A8%E5%88%A9%E7%94%A8%E5%8F%AF%E8%83%BD%E3%81%AA%E6%A0%B8%E8%9E%8D%E5%90%88%E7%82%89%E5%AE%9F%E7%8F%BE%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99helical-fusion%E3%80%812030%E5%B9%B4%E4%BB%A3%E3%81%AB%E3%80%8C%E5%AE%9F%E7%94%A8%E7%99%BA%E9%9B%BB%E3%80%8D%E3%82%92%E9%81%94%E6%88%90%E3%81%99%E3%82%8B%E3%80%8Chelix-program%E3%80%8D%E3%81%8A%E3%82%88%E3%81%B3%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E7%99%BA%E8%A1%A8",
+    "http://jpscience.info/fusion-startup-japan/",
+    "https://strainer.jp/notes/8696",
+    "https://www.integral-japan.net/?p=36813",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00001/07886/"
+   ]
+  },
+  {
+   "query": "fusion reactor materials market size CAGR 2025",
+   "results": [
+    "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "https://market.us/report/global-fusion-energy-market/",
+    "https://dataintelo.com/report/fusion-reactor-components-market",
+    "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA",
+    "https://www.snsinsider.com/reports/fusion-reactor-market-10941",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/nuclear-fusion-market/US",
+    "https://www.adopter.net/knowledge-hub/25-statistics-on-nuclear-fusion-you-need-to-know-in-2026",
+    "https://www.linkedin.com/pulse/market-analysis-fusion-reactor-components-accurate-vltqf",
+    "https://dataintelo.com/report/global-nuclear-fusion-and-advanced-material-market"
+   ]
+  },
+  {
+   "query": "fusion reactor materials market key players competitive landscape",
+   "results": [
+    "https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market",
+    "https://www.linkedin.com/posts/thebusinessresearchcompany_fusionenergy-advancedmaterials-cleanenergy-activity-7472898340410511361-z4CI",
+    "https://market.us/report/global-fusion-energy-market/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/nuclear-fusion-market/US",
+    "https://www.sphericalinsights.com/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP",
+    "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "https://www.transparencymarketresearch.com/advanced-materials-market-for-nuclear-fusion-technology.html",
+    "https://dataintelo.com/report/fusion-reactor-components-market",
+    "https://www.marketsandmarkets.com/Market-Reports/nuclear-fusion-market-97331362.html"
+   ]
+  },
+  {
+   "query": "fusion reactor materials startup funding 2025",
+   "results": [
+    "https://undark.org/2025/02/11/startups-fusion-energy/",
+    "https://thefusionreport.substack.com/p/commercial-fusion-energy-funding",
+    "https://energy.mit.edu/news-events/news/funding-fusion-revolution",
+    "https://www.reddit.com/r/Futurology/comments/1vqr8gl/every_fusion_startup_that_has_raised_over_100m/",
+    "https://newmarketpitch.com/blogs/news/nuclear-fusion-top-startups-fundraising",
+    "https://netzeroinsights.com/resources/nuclear-fission-investment-surges-2025/",
+    "https://dealroom.co/market-maps/nuclear-fusion-startups/",
+    "https://en.wikipedia.org/wiki/List_of_nuclear_fusion_companies",
+    "https://medium.com/@noahbean3396/the-race-to-build-a-star-how-five-companies-are-actually-trying-to-crack-nuclear-fusion-2a7f36251f7a",
+    "https://startupwired.com/2026/01/01/top-10-fusion-startups-that-ruled-2025/"
+   ]
+  },
+  {
+   "query": "site:note.com 核融合炉材料",
+   "results": [
+    "https://note.com/science_totoron/n/nc63a63bd8889",
+    "https://note.com/sustainergy/n/na2332a98ff8e",
+    "https://note.com/kagawatomo/n/n864a184f1986",
+    "https://note.com/kyoto_gonchan/n/n689be98fcaac",
+    "https://note.com/neo_tech_world/n/n69454f3b60d1",
+    "https://note.com/umibenoheya/n/nd1dcc3cf7833",
+    "https://note.com/gentle_ixora5914/n/n6d191683bbc9",
+    "https://note.com/kininarukasetu/n/ned90fcb2d5ac",
+    "https://note.com/kojifukuoka/n/n71c43ae09d9a",
+    "https://note.com/veriscio/n/n4b2c59f1a3fb"
+   ]
+  },
+  {
+   "query": "site:x.com 核融合炉材料",
+   "results": [
+    "https://x.com/qst_rokkasyo/status/2110188842779087347",
+    "https://x.com/qst_rokkasyo/status/2095071202855580035",
+    "https://x.com/qst_rokkasyo/status/2077220030232871259",
+    "https://x.com/KasadaLab_IMR/status/1962531189497172019",
+    "https://x.com/NakaQst/status/1962787583613718542",
+    "https://x.com/qst_rokkasyo",
+    "https://x.com/iterjapan/status/2059182757654511741",
+    "https://x.com/newswitch_/status/2114176138075333033",
+    "https://x.com/mcgc_jp/status/2084806385062326285",
+    "https://x.com/qst_rokkasyo/status/2003646813010591762"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 核融合炉材料",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E6%A0%B8%E8%9E%8D%E5%90%88%E7%82%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%8D%E3%83%B3%E3%83%88%E3%81%AE%E5%9B%BD%E5%86%85%E5%B8%82%E5%A0%B4%E3%81%A8%E5%B0%86%E6%9D%A5%E4%BA%88%E6%B8%AC-skewer-scale-1sq4e",
+    "https://jp.linkedin.com/pulse/5-hottest-compact-fusion-reactor-startups-2026-lars-warren-ericson-bcv9e?tl=ja",
+    "https://jp.linkedin.com/company/helical-fusion",
+    "https://www.linkedin.com/news/story/%E6%A0%B8%E8%9E%8D%E5%90%88%E7%99%BA%E9%9B%BB-%E4%BA%AC%E5%A4%A7%E7%99%BA%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E8%AA%95%E7%94%9F-4496219/",
+    "https://www.linkedin.com/pulse/fusion-energy-reading-industry-through-its-two-wheels-haruyuki-koredo-wxgvc",
+    "https://www.linkedin.com/posts/renaissance-fusion_japan-materials-engineering-activity-7260926681706610688-nvW-",
+    "https://jp.linkedin.com/posts/yukio-toda-53a948269_%E6%A0%B8%E8%9E%8D%E5%90%88-fusionenergy-fusionindustrialisation-activity-7522575973985382400-qHps",
+    "https://www.linkedin.com/company/linea-innovations",
+    "https://www.linkedin.com/posts/leoneluca_european-fusion-start-up-pushes-for-local-activity-7508541060529438722-nVYV",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%9D%B1%E4%BA%AC%E3%80%91%E3%83%88%E3%82%AB%E3%83%9E%E3%82%AF%E7%82%89%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%AD%E6%80%A7%E5%AD%90%E8%A7%A3%E6%9E%90%E2%97%86%E6%A0%B8%E8%9E%8D%E5%90%88%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E7%99%BA%E9%9B%BB%E5%AE%9F%E8%A8%BC%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E6%9C%80%E5%85%88%E7%AB%AFpjt-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4486417578"
+   ]
+  },
+  {
+   "query": "site:facebook.com 核融合炉材料",
+   "results": [
+    "https://www.facebook.com/BroaderApproachActivity/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%BB%8A%E5%9B%9E%E3%81%AF%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AE%E6%A9%9F%E8%83%BD%E6%9D%90%E6%96%99%E3%83%88%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E5%A2%97%E6%AE%96%E6%9D%90%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%A7%E3%81%99%E6%A0%B8%E8%9E%8D%E5%90%88%E7%82%89%E3%81%AE%E7%87%83%E6%96%99%E3%81%A7%E3%81%82%E3%82%8B%E3%83%88%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%81%AF%E8%87%AA%E7%84%B6%E7%95%8C%E3%81%AB%E3%81%AF%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%BE%E3%81%9B%E3%82%93%EF%B8%8F%E3%81%9D%E3%81%AE%E3%81%9F%E3%82%81%E6%A0%B8%E8%9E%8D%E5%90%88%E7%82%89%E3%81%A7%E3%81%AF%E7%87%83%E6%96%99%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%AA%E3%81%8C/1577799877725366/",
+    "https://www.facebook.com/BroaderApproachActivity/posts/%E6%A0%B8%E8%9E%8D%E5%90%88%E3%81%A8%E3%81%84%E3%81%86%E3%81%A8%E5%A4%A7%E3%81%8D%E3%81%AA%E8%A3%85%E7%BD%AE%E3%82%84%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E3%81%8C%E6%80%9D%E3%81%84%E6%B5%AE%E3%81%8B%E3%81%B6%E3%81%8B%E3%82%82%E3%81%97%E3%82%8C%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%82%82%E5%AE%9F%E3%81%AF%E3%81%9D%E3%81%AE%E7%82%89%E3%82%92%E5%8B%95%E3%81%8B%E3%81%97%E7%B6%9A%E3%81%91%E3%82%89%E3%82%8C%E3%82%8B%E3%81%8B%E3%81%A9%E3%81%86%E3%81%8B%E3%81%AF%E7%9B%AE%E7%AB%8B%E3%81%9F%E3%81%AA%E3%81%84%EF%B8%8F%E6%9D%90%E6%96%99%EF%B8%8F%E3%81%8C%E6%8F%A1%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%8C%E6%89%B1%E3%81%86%E5%A2%97%E6%AE%96%E6%A9%9F%E8%83%BD%E6%9D%90%E6%96%99%E3%81%AF/1584317740406913/",
+    "https://www.facebook.com/BroaderApproachActivity/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%B8%8F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%80%E5%BE%8C%E3%81%AE%E6%8A%95%E7%A8%BF%E3%81%A8%E3%81%AA%E3%82%8B%E4%BB%8A%E5%9B%9E%E3%81%AF%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%8C%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E8%A3%85%E7%BD%AE%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%94%E7%B4%B9%E4%BB%8B%E6%A0%B8%E8%9E%8D%E5%90%88%E7%82%89%E6%A7%8B%E9%80%A0%E6%9D%90%E6%96%99%E9%96%8B%E7%99%BA%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%A7%E3%81%AF%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E3%81%AE%E5%BE%97%E6%84%8F%E5%88%86%E9%87%8E%E3%82%92%E6%B4%BB%E3%81%8B%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E5%8D%94%E5%8A%9B%E3%81%97%E3%81%A6/1620793783425975/",
+    "https://www.facebook.com/BroaderApproachActivity/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E5%89%8D%E5%9B%9E%E3%81%AE%E6%8A%95%E7%A8%BF%E3%81%A7%E7%A7%81%E3%81%9F%E3%81%A1%E5%A2%97%E6%AE%96%E6%A9%9F%E8%83%BD%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AF%E6%A0%B8%E8%9E%8D%E5%90%88%E7%82%89%E3%81%AE%E7%87%83%E6%96%99%E3%81%AB%E3%81%AA%E3%82%8B%E6%9D%90%E6%96%99%E3%82%92%E7%A0%94%E7%A9%B6%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%A8%E3%81%8A%E8%A9%B1%E3%81%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%A0%B8%E8%9E%8D%E5%90%88%E5%8F%8D%E5%BF%9C%E3%81%A7%E3%81%AF%E4%B8%AD%E6%80%A7%E5%AD%90%E3%81%8C%E7%99%BA%E7%94%9F%E3%81%97%E3%81%BE%E3%81%99%E3%81%8C%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%A7%E3%81%AF%E3%83%88/1570702558435098/",
+    "https://www.facebook.com/BroaderApproachActivity/posts/%E6%A0%B8%E8%9E%8D%E5%90%88%E3%81%AF%E5%BC%B7%E5%8A%9B%E3%81%AA%E4%B8%AD%E6%80%A7%E5%AD%90%E3%82%92%E7%99%BA%E7%94%9F%E3%81%95%E3%81%9B%E3%81%A6%E3%81%9D%E3%81%AE%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E7%99%BA%E9%9B%BB%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%99%E6%A0%B8%E8%9E%8D%E5%90%88%E7%82%89%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%AB%E3%81%AF%E6%A0%B8%E8%A7%A3%E6%9E%90%E3%81%8C%E9%87%8D%E8%A6%81%E3%81%A7%E3%81%99%E3%81%8C%E3%81%A9%E3%82%93%E3%81%AA%E5%BD%B9%E5%89%B2%E3%82%92%E6%9E%9C%E3%81%9F%E3%81%99%E3%81%8B%E8%A6%8B%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E6%A0%B8%E8%9E%8D%E5%90%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%82%82%E3%81%A3%E3%81%A8%E8%A9%B3/1197525179086173/",
+    "https://www.facebook.com/BroaderApproachActivity/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%B8%8F%E6%A0%B8%E8%9E%8D%E5%90%88%E7%82%89%E6%A7%8B%E9%80%A0%E6%9D%90%E6%96%99%E9%96%8B%E7%99%BA%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%A7%E3%81%99%E6%A0%B8%E8%9E%8D%E5%90%88%E7%82%89%E3%82%92%E8%B6%85%E9%AB%98%E6%B8%A9%E3%81%AE%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E3%81%8B%E3%82%89%E5%AE%88%E3%82%8B%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BF%E3%81%A7%E3%81%99%E3%81%8C%E6%9D%90%E6%96%99%E3%81%AB%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E9%87%8D%E8%A6%81%E3%81%AA%E6%80%A7%E8%B3%AA%E3%81%AB%E3%81%AF%E7%86%B1%E3%81%AB%E5%BC%B7%E3%81%84%E3%81%93%E3%81%A8%E3%81%AE%E3%81%BB%E3%81%8B%E3%81%AB%E5%BC%B7%E5%BA%A6%E7%A1%AC%E3%81%95%E3%81%A8%E7%A0%B4%E5%A3%8A%E9%9D%B1/1597762035729150/",
+    "https://www.facebook.com/BroaderApproachActivity/posts/%E7%87%83%E6%96%99%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E5%8B%95%E3%81%8F%E6%A0%B8%E8%9E%8D%E5%90%88%E7%82%89%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E5%A2%97%E6%AE%96%E6%A9%9F%E8%83%BD%E6%9D%90%E6%96%99dt%E6%A0%B8%E8%9E%8D%E5%90%88%E7%82%89%E3%81%A7%E3%81%AF%E7%87%83%E3%82%84%E3%81%97%E3%81%9F%E5%88%86-%E3%81%AE%E7%87%83%E6%96%99%E3%83%88%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E5%BF%85%E8%A6%81%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E9%87%8D%E6%B0%B4%E7%B4%A0%E3%81%AF%E6%B5%B7%E6%B0%B4%E4%B8%AD%E3%81%AB%E5%8D%81%E5%88%86%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8C%E3%83%88%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0/1224161879755836/",
+    "https://www.facebook.com/BroaderApproachActivity/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E6%A0%B8%E8%9E%8D%E5%90%88%E7%82%89%E6%A7%8B%E9%80%A0%E6%9D%90%E6%96%99%E9%96%8B%E7%99%BA%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%A7%E3%81%99%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E6%A0%B8%E8%9E%8D%E5%90%88%E7%82%89%E5%86%85%E3%81%A7%E4%BD%BF%E3%82%8F%E3%82%8C%E3%82%8B%E6%9D%90%E6%96%99%E9%87%91%E5%B1%9E%E3%82%84%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E6%80%A7%E8%B3%AA%E3%81%8C%E9%AB%98%E7%86%B1%E3%82%84%E6%94%BE%E5%B0%84%E7%B7%9A%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%A4%89%E5%8C%96%E3%81%99%E3%82%8B%E3%81%8B%E3%82%92%E7%A0%94%E7%A9%B6%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E6%A0%B8%E8%9E%8D/1591139229724764/",
+    "https://www.facebook.com/BroaderApproachActivity/photos/1613727867465900/",
+    "https://www.facebook.com/BroaderApproachActivity/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E6%A0%B8%E8%9E%8D%E5%90%88%E7%82%89%E6%A7%8B%E9%80%A0%E6%9D%90%E6%96%99%E9%96%8B%E7%99%BA%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%A7%E3%81%99%E7%A7%81%E9%81%94%E3%81%AF%E9%8A%85%E5%90%88%E9%87%91%E3%81%AE%E9%AB%98%E6%B8%A9%E6%B0%B4%E4%B8%AD%E3%81%A7%E3%81%AE%E8%85%90%E9%A3%9F%E8%A9%A6%E9%A8%93%E3%82%84%E5%BC%B7%E5%BA%A6%E8%A9%A6%E9%A8%93%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E8%85%90%E9%A3%9F%E3%81%97%E3%81%AB%E3%81%8F%E3%81%84%E6%B0%B4%E3%81%AE%E6%9D%A1%E4%BB%B6%E3%82%84%E3%81%A9%E3%82%8C%E3%81%A0%E3%81%91%E8%85%90%E9%A3%9F%E3%81%99%E3%82%8B%E3%81%8B%E4%BA%88%E6%B8%AC%E3%81%99%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%AE%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E3%82%82%E8%A1%8C/1605621791609841/"
+   ]
+  },
+  {
+   "query": "核融合炉材料 note 社長",
+   "results": [
+    "https://note.com/deeptech_japan/n/n3f89750245e7",
+    "https://www.qst.go.jp/site/rokkasyo/4747.html",
+    "https://www.reddit.com/r/fusion/comments/nuw9vj/what_are_the_main_challenges_to_solve_before_we/?tl=ja",
+    "https://note-moonshot.jst.go.jp/n/nfdaeb415ae50",
+    "https://monoist.itmedia.co.jp/mn/articles/2607/21/news038.html",
+    "https://ieei.or.jp/2021/12/expl211201/",
+    "https://newswitch.jp/p/35172",
+    "https://note.com/tag/%E6%A0%B8%E8%9E%8D%E5%90%88",
+    "https://www.technologyreview.jp/s/369629/fusion-power-plants-dont-exist-yet-but-theyre-making-money-anyway/",
+    "https://note.com/kandoinspirefact/n/nb8469843efa6"
+   ]
+  },
+  {
+   "query": "核融合炉材料 X 投稿",
+   "results": [
+    "https://x.com/qst_rokkasyo/status/2110188842779087347",
+    "https://www.reddit.com/r/AskPhysics/comments/lo1i8g/is_a_fusion_reaction_dangerous_to_be_near/?tl=ja",
+    "https://www.qst.go.jp/site/rokkasyo/4747.html",
+    "https://www.reddit.com/r/ScienceNcoolThings/comments/1oainsm/plasma_inside_the_st40_fusion_reactor_filmed_in/?tl=ja",
+    "https://www.jspf.or.jp/journal/sp.html",
+    "https://www.aesj.or.jp/~fusion/aesjfnt/jp/publications/rensai2.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2503/12/news021.html",
+    "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/056/shiryo/__icsFiles/afieldfile/2012/09/24/1326074_04.pdf",
+    "https://ja.wikipedia.org/wiki/核融合炉",
+    "https://x.com/A1aBrIGp0Q30150/status/2116470894579405282"
+   ]
+  },
+  {
+   "query": "fusion reactor materials site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/arsenetema_most-fusion-reactor-designs-are-adopting-activity-7519072472076304384-ptCK",
+    "https://www.linkedin.com/in/ian-wojtowicz-884b34201",
+    "https://www.linkedin.com/posts/jay-gambetta-a274753a_a-sustainable-fusion-economy-will-require-activity-7479856058606317568-goaO",
+    "https://www.linkedin.com/posts/fusion-and-fission-at-ornl_what-happens-inside-a-machine-designed-to-activity-7472318170704527361-PHr7",
+    "https://www.linkedin.com/top-content/innovation/clean-energy-innovations/innovative-techniques-in-fusion-energy/",
+    "https://www.linkedin.com/posts/researchutk_the-high-heat-flux-facility-will-evaluate-activity-7419829296078241793-PckO",
+    "https://www.linkedin.com/posts/spaceatsurrey_materials-engineers-in-our-school-of-engineering-activity-7327731612165574656-xCwr",
+    "https://www.linkedin.com/posts/rickyproy_scientists-just-cracked-one-of-fusion-energys-activity-7426373082241507328-Lomt",
+    "https://www.linkedin.com/pulse/reactor-only-beginning-astralsystems-e2cwe",
+    "https://www.linkedin.com/posts/charleshirst_just-got-back-from-attending-my-first-international-activity-7380656759851618304-K_Jj"
+   ]
+  }
+ ],
+ "missing": {}
+}

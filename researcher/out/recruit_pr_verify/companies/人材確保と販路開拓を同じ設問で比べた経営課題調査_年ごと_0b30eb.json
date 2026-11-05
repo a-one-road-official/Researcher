@@ -1,0 +1,2180 @@
+{
+ "name": "人材確保と販路開拓を同じ設問で比べた経営課題調査（年ごと）",
+ "en": "SME management issues survey labor shortage vs sales Japan",
+ "aliases": [
+  "中小企業白書 経営課題 人材確保 販路開拓",
+  "日本商工会議所 人手不足 調査 経営課題",
+  "中小企業景況調査 経営上の問題点 製造業 filetype:pdf"
+ ],
+ "context": "①営業と採用・一次",
+ "kind": "market",
+ "researched_at": "2026-11-05T00:41:52.323177+00:00",
+ "evidence": {
+  "採用難（公的統計）": [
+   {
+    "quote": "課題6．人手不足と人件費の高騰",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "日銀短観の雇用人員判断DI（中小企業・全産業）は、2020年にコロナ禍で−6まで浅くなった後、再びマイナス幅が広がり、2026年9月は−42と人手不足が強まっている",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "このような人手不足は、複合的な要因が絡み合った根深い問題となっていて、2027年も解決の見通しは立っていません",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "を見ても、2026年度上半期の人手不足に関連する倒産240件のうち、人件費の高騰が原因のものが130件と半数を超えていました",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "深刻な人手不足を乗り越えるための5つの具体的対策について、中小企業診断士の経営コンサルタントが解説",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "「人材の確保（人手不足）・育成」(58.7%)、",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）厚生労働省（2024）「令和 6 年度版労働経済の分析―人手不足への対応―」",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 7 の日本政策公庫の調査結果から、中小企業の人手不足への対応として、「従業員の多能工",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 7 人手不足への対応",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "省力化の成果として、省電力投資によって人手不足を乗り越えている中小製造業 4 社の事例",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "持したまま、残業時間を半分に削減することができ量的にも質的にも人手不足を緩和したり、8",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業も3、4割程度に上り、人手不足に対して、",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足を感じている企業の割合は世界平均で７割を超えるなど、世界的に人手不足が課題となっている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "EU（27か国）において人手不足を感じている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：日本商工会議所・東京商工会議所「「人手不足等への対応に関する調査」結果概要」（2024年９月）を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工会議所の「中小企業の経営課題に関するアンケート」調査でも、人員が「不足」と回答した企業の割合は52.4％となっており、恒常的に人手不足感が生じている様子を確認できる",
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "業種別に見ると、特に建設業、運輸業は7割を超える企業が人手不足であると答えており、これらの業種を中心に人材の確保に困難をきたしている（図表3）",
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在の中小製造業が直面しているのは、原材料費の高騰、人件費の上昇、そして人手不足という3つが同時に進行する状況です",
+    "url": "https://cr-cres.jp/cresight/production/%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%B5%8C%E5%96%B6%EF%BD%9C%E4%B8%89%E9%87%8D%E8%8B%A6%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E5%88%A9%E7%9B%8A%E3%82%92%E6%AE%8B%E3%81%99/",
+    "pass": 3
+   }
+  ],
+  "採用にいくら払うか": [
+   {
+    "quote": "では、委託先の担当者のメールが乗っ取られたとみられ、本物のアドレスから届いた偽の支払い依頼によって、約1,400万円を失った事例も紹介されています",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "経営コンサルタントを月5万円から依頼、低コストで課題解決できます",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の様々な経営課題を月5万円から解決します",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "の平均は、2024年8月の0.669%から2026年8月には1.782%へと、2年で約1.1ポイント上がっています",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、借入金利が0.25%上がるだけで、借入のある企業の利払いは1社あたり年46万円増え、約2,700社が赤字に転落するとされています",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "12.5万円",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "着手金なし・月額5万円〜、全額返金保証",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "では2016年から2021年の5年間で、調べものにSNSを使う人がすべての年代で増え、10代ではSNS（73%）が検索エンジン（69%）を上回ったという結果が出ています",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "月額5万円〜、全国オンライン対応",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "年間530時間の業務削減を達成",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "短観の中小企業は資本金2千万円以上1億円未満",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "では、日本の人口は5年間で約317万人も減りました",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円以下 135 48.0%",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円超～5000万円 102 36.3%",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5000万円超～１億円 40 14.2%",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 1 より例えば、製造業・建設業・運輸業では、 「資本金の額または出資の総額」が 3 億円以下",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3.サービス業 5000 万円以下 100 人以下 5 人以下",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4.小売業 5000 万円以下 50 人以下 5 人以下",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代化が進んだことで、1960 年代の 10 年間で中小企業の賃金率は毎年 10％以上の上昇を続け、大",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の差を比較すると、男性で大企業の場合約 26.9 万円、中企業の場合約 20.9 万円、小企業の場合",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約 14.1 万円の月収の差がある",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、 女性で大企業の場合約 7.5 万円、 中企業の場合約 7.1 万円、",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小企業の場合約 5.3 万円の月収の差がある",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、１人当たりの平均給与を事業所規模別にみると、表 3 より、小規模事業者・中小企業",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に分類される従業員 10 人未満の事業所では約 382 万円 （男性約 476 万円、 女性約 272 万円） 、従",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業員 10 から 29 人の事業所では約 420 万円（男性約 518 万円、女性約 290 万円）となっている",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、従業員 5000 人以上の事業所においては約 520 万円（男性約 675 万円、女性約 316 万円）",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "140 万円の差があり、性別ごとにみると男性の場合は約 200 万円、女性の場合は約 44 万円の差",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1. ここでいう大企業とは資本金10億円以上の企業、中小企業とは資本金１千万円以上１億円未満の企業とする",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）資本金１千万円以上１億円未満を中小製造業、資本金10億円以上を大企業製造業とした",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 年間におけるイノベーション活動1の実行状況",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1. 直近10年間における人材戦略の策定状況について、 「策定した」と回答した企業に聞いたもの",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. 「紐づけた」は、直近10年間における経営戦略と人材戦略の紐づけ状況について、 「大いに考えた」 、 「ある程度",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「紐づけなかった」は、直近10年間における経営戦略と人材戦略の紐づけ状",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足を感じている企業の割合は世界平均で７割を超えるなど、世界的に人手不足が課題となっている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※大企業：資本金10億円以上、中堅企業：資本金１億円以上10億円未満、中小企業：資本金２千万円以上１億円未満",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※能力開発費が実質GDPに占める割合の５か年平均の推移",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平均値±標準偏差×３の範囲内の数値が対象",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 時間外労働時間（平均）は、20時間以下の割合が約８割（45時間以下の割合は約９割）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上1,000万円未満 約140万者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• その際、売上高１億円～10億円（売上高10億円を目指す企業）／1,000万円～１億円（売上高１億円を目指す企業）に分",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円×グループ構成員数",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合わせて3,000万円まで",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(c)事務費・専門家費：200万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１機能：～50万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２機能以上：～350万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～350万円 5万円～150万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "時系列で過去からの従業員規模別の従業員数の推移を確認すると、1980年には、小規模企業（従業員数1～29人）が平均1332万人、中規模企業（同30～499人）が1171万人、大企業（同500人以上）が891万人であった",
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "pass": 3
+   }
+  ],
+  "採用広報・採用サイトの単価": [
+   {
+    "quote": "では、委託先の担当者のメールが乗っ取られたとみられ、本物のアドレスから届いた偽の支払い依頼によって、約1,400万円を失った事例も紹介されています",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "経営コンサルタントを月5万円から依頼、低コストで課題解決できます",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の様々な経営課題を月5万円から解決します",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、借入金利が0.25%上がるだけで、借入のある企業の利払いは1社あたり年46万円増え、約2,700社が赤字に転落するとされています",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "12.5万円",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "着手金なし・月額5万円〜、全額返金保証",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "月額5万円〜、全国オンライン対応",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "短観の中小企業は資本金2千万円以上1億円未満",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "単位は件（暦年・負債1,000万円以上の法的整理）",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "そして全員が経済産業省登録の中小企業診断士であり、貴社のお悩みに合わせて最適な専門家からのサポートを、月5万円～という圧倒的にリーズナブルな料金でご提供しています",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "初回相談は無料、月額5万円から可能な現実的な費用で、貴社の経営における根本的な解決を実現します",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円以下 135 48.0%",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円超～5000万円 102 36.3%",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5000万円超～１億円 40 14.2%",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3.サービス業 5000 万円以下 100 人以下 5 人以下",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4.小売業 5000 万円以下 50 人以下 5 人以下",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の差を比較すると、男性で大企業の場合約 26.9 万円、中企業の場合約 20.9 万円、小企業の場合",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約 14.1 万円の月収の差がある",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、 女性で大企業の場合約 7.5 万円、 中企業の場合約 7.1 万円、",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小企業の場合約 5.3 万円の月収の差がある",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に分類される従業員 10 人未満の事業所では約 382 万円 （男性約 476 万円、 女性約 272 万円） 、従",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業員 10 から 29 人の事業所では約 420 万円（男性約 518 万円、女性約 290 万円）となっている",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、従業員 5000 人以上の事業所においては約 520 万円（男性約 675 万円、女性約 316 万円）",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "140 万円の差があり、性別ごとにみると男性の場合は約 200 万円、女性の場合は約 44 万円の差",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対象になるものの例としては、100 万円以上の機械及び装置、30 万円以上の器",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "具及び備品、60 万円以上の建物附属設備がある",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の範囲内（最高 8000 万円）で共済金の貸付けが受けられる制度である",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1. ここでいう大企業とは資本金10億円以上の企業、中小企業とは資本金１千万円以上１億円未満の企業とする",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）資本金１千万円以上１億円未満を中小製造業、資本金10億円以上を大企業製造業とした",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※大企業：資本金10億円以上、中堅企業：資本金１億円以上10億円未満、中小企業：資本金２千万円以上１億円未満",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上1,000万円未満 約140万者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• その際、売上高１億円～10億円（売上高10億円を目指す企業）／1,000万円～１億円（売上高１億円を目指す企業）に分",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円×グループ構成員数",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合わせて3,000万円まで",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(c)事務費・専門家費：200万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１機能：～50万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２機能以上：～350万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～350万円 5万円～150万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～50万円以下：3/4",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円～350万円：2/3",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5万円～150万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "150万円～450万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "補助上限 600万円 700万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   }
+  ],
+  "継続して払うか": [
+   {
+    "quote": "1つでもできていない項目があれば、社内の担当者や保守業者さんに確かめるところから始めてみてください",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "ウイルス対策ソフト（Windowsに最初から入っている機能でも構いません）を有効にしたうえで、期限を切らさないようにし、パソコンやソフトのプログラムは、自動で更新される設定にしておきましょう",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、メーカーのサポートが終わった製品には、更新そのものが届かなくなります",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "どんな機器があるのかを把握し、使っていないものは止め、使っているものは更新を欠かさないようにしましょう",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "自社のホームページも、WordPressで作っているなら、本体だけでなくプラグインやPHPまで、こまめに更新しておく必要があります",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "また自社のメールがなりすましに使われないよう、ドメインにSPF・DKIM・DMARCという設定を入れておくことも大切ですが、これは保守業者さんやメールの提供元に頼めば対応してもらえます",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "また、もし感染に気づいたら、ネットワークから切り離し、電源は切らずに、保守業者と警察へ連絡しましょう",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "着手金なし・月額5万円〜、全額返金保証",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "2050年のカーボンニュートラル実現に向けて、企業には環境負荷の低減が求められており、これに伴う設備投資や運用コストの増加は避けられません",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "月額5万円〜、全国オンライン対応",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "中には無料で始められるものもありますが、その運用には多くの時間がかかる上に、慣れないうちは辛いことも多いです",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "月額90,000円〜、初回60分無料相談",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2025年における日本の社長の平均年齢は60.8歳と、35年連続で過去最高を更新しました",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "30,000円・2時間スポット、継続強要なし",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "初回相談は無料、月額5万円から可能な現実的な費用で、貴社の経営における根本的な解決を実現します",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "取引継続の観点から、取引先の要請に対応せざるを得ない",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、 個人企業は法人企業と比べて 「現在の事業を継続するつもりはない」 と回",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "遇した場合において、事業資産の損害を最小限にとどめつつ、中核となる事業の継続や早期復旧",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を可能とするための事業継続計画のことである44",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "継続することは困難であるため、 限られた資源や人材で対応しなければならない",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "BCP を作成する際に企業が検討すべき観点としては、1. 重要製品・サービスの供給継続・早期",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク 「事業継続計画「（BCP）に対する企業の意識調査「（2024 年）」によると、BCP",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019 年 7 月 16 日から 2027 年 3 月 31 日までの間に事業継続力",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "強化計画または連携事業継続力強化計画の認定を受けた事業者が、認定を受けた日から 1 年を",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業継続計画（BCP）を策定または既存の BCP の改善を行う際に要する経費の一部を補助し、",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外部人材の活用により、課題解決や事業を安定的に継続のた",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業が賃上げへの対応を継続して、雇用を守っていくために、政府の価格転嫁や生産性の",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "16.8%増加し、2016 年以降で最多件数を更新している80",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で技術力や生産効率を向上させるためにも、 スタートアップ 企業の育成支援も継続的に行うこ",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・香川県 （2025a） 「県内中小企業の皆さんの BCP「 （事業継続計画） 策定を応援します！ （香川県",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・中小企業庁 （2025d） 「中小企業防災・減殺投資促進税制「（特定事業継続力強化設備等の特別償",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "持更新」を優先度の高い項目として挙げる割合",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「維持更新」よりも高い結果となり、設備投資",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ ここでいう人材戦略は、 「人材を重要な経営資源として捉え、採用・配置、教育、評価及び報酬などの人事施策を構築・運用するための戦略」を指す",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ービスや開発環境のセキュリティ確保ができる人材」 、 「アプリケーションの開発ができる人材」 、 「インフラの構築・運用ができる人材」を指す",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "導入関連費（保守運用やマニュアル作成等のサポート費用に加えて、",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社会全体としての人口減少が進み、構造的に就業者数の増加が見込めない中、中小企業の人材確保は事業継続の死活問題となってきている",
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁・中小企業基盤整備機構「中小企業景況調査」によると、2013年第4四半期以降、全ての業種において従業員が「不足」と回答した企業の割合が「過剰」と回答した企業の割合を上回る状況が継続している",
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "この傾向は将来にわたって継続し、2050年には5300万人弱の水準まで減少すると推計されている",
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "原価を継続的に把握するには、記録の仕組みが要ります",
+    "url": "https://cr-cres.jp/cresight/production/%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%B5%8C%E5%96%B6%EF%BD%9C%E4%B8%89%E9%87%8D%E8%8B%A6%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E5%88%A9%E7%9B%8A%E3%82%92%E6%AE%8B%E3%81%99/",
+    "pass": 3
+   },
+   {
+    "quote": "継続的な把握には記録の仕組みが要り、生産管理システムはその手段になります",
+    "url": "https://cr-cres.jp/cresight/production/%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%B5%8C%E5%96%B6%EF%BD%9C%E4%B8%89%E9%87%8D%E8%8B%A6%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E5%88%A9%E7%9B%8A%E3%82%92%E6%AE%8B%E3%81%99/",
+    "pass": 3
+   }
+  ],
+  "どう買われるか": [
+   {
+    "quote": "簡単ではありますが、解決策の方向性も併せてご紹介しています",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "では、委託先の担当者のメールが乗っ取られたとみられ、本物のアドレスから届いた偽の支払い依頼によって、約1,400万円を失った事例も紹介されています",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ対策というと難しく聞こえますが、社長が自ら技術を覚える必要はありません",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "社長の名前をかたって社員に指示を出す手口もあるので、この決まりは社内で共有しておきましょう",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "そのうえで、返済と利払いの増加を織り込んだ資金繰り表を12か月先まで作り、金融機関には月次の試算表と事業計画を早めに出して、対話を始めておくと安心です",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "迷ったときは自社だけで決めずに、金融機関だけでなく財務の専門家に相談しながら進めるのが安全です",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の公的支援制度をフル活用して、金融機関出身の中小企業診断士が月次で伴走支援",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "商工会議所や公的機関などの相談窓口から民間のコンサル会社まで、あなたが誰に相談するべきかわかります",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "お金が残らない状態をなんとかしたい中小企業の社長様へ",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "「ホームページを作って3年、問い合わせが...",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの金融機関では、手形や小切手を振り出せる最終期限を2026年9月末としていたため、その期限は既に過ぎています",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "もしこのような変化への対応ができていなければ、手形・小切手はすぐに、ISDNは期限から逆算して、取引先や金融機関と相談しておく必要があるでしょう",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "最後にご紹介する経営課題は、事業承継とM&Aの話です",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2025年における日本の社長の平均年齢は60.8歳と、35年連続で過去最高を更新しました",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、40歳未満の社長の企業は、売上が増えた企業の割合が最も高かったようです",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "信用保険法」により、中小企業などが金融機関から事業資金を借りる際に、信用保証協会が公的",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1992 年から 1994 年には政府系中小企業金融機関（日本政策金融公庫、商工組合中央金庫など）",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "による貸付限度枠の拡大、1998 年には金融機関の貸し渋り22を受けた中小企業に保証を認める制",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "庫や商工組合中央金庫 の政府系中小企業金融機関 とゼロゼロ融資と呼ばれた民間金融機関 によ",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "22 貸し渋りとは、金融機関が本来は融資をしても問題ないと考えられる企業に対しても融資控",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "や金融機関と連携して事業継承診断 などを用いた事業継承計画 の策定を行っている",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "承支援では、中小企業診断士や金融機関 OB などの専門家によるアドバイスを受けることができ",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、マッチングから成約までのコーディネート、登録されている民間業者や金融機関の",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "福井県では福井商工会議所と連携してふくいジョブステーションという中小企業の人材確保 ・",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "12 は日本商工会議所と東京商工会議所が「最低賃金を下回る従業員がいたため、賃金を引き上",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "75 日本商工会議所・東京商工会議所（2025）p. 3.",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）日本商工会議所・東京商工会議所（2025）「中小企業における最低賃金の影響に関する",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・日本商工会議所・東京商工会議所（2025） 「中小企業における最低賃金の影響に関する調査」,",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本稿では、白書の概要について紹介する",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：日本商工会議所「商工会議所早期景気観測調査（LOBO調査） 」",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：東京商工会議所「中小企業のイノベーション実態調査」 （2020年10月）",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "件数はよろず支援拠点で50件超、商工会・商",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11 ここでいう支援機関とは、商工会・商工会議所、よろず支援拠点、税・法務関係士業、中小企業診断士、金融機関のほか、コンサルタント等の認定経",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. ここでは、 地域課題解決事業に係る資金の調達方法で 「金融機関等からの借入れ」 、 「ファンドや事業会社等からの出資」 、",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "白書の内容について紹介してきたが、本稿では",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：日本商工会議所・東京商工会議所「「人手不足等への対応に関する調査」結果概要」（2024年９月）を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「地域の人事部」による人材確保・育成・定着",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "体となって人材確保・育成・定着を行う「地域の人事部」の取組を推進",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "既に一定のノウハウを持つ地域の人事部事業者による伴走支援や地域間・広域連携を推進",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "副業・兼業：報酬、紹介手数料、移動費補助等",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 内閣府はプロ拠点の運営事業経費や人材紹介手数料等の補助を実施",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・業所管省庁・業界団体・商工会・商工会議所・金融機関等の周知等の取組により、ツール活用を促進",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・希望する事業者は、商工会・商工会議所に派遣される専門家等と一緒にツールを利用",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工会議所の「中小企業の経営課題に関するアンケート」調査でも、人員が「不足」と回答した企業の割合は52.4％となっており、恒常的に人手不足感が生じている様子を確認できる",
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "出所：東京商工会議所「中小企業の経営課題に関するアンケート調査",
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "本シリーズでは、引き続き中小企業庁や日本商工会議所、東京商工会議所、リクルートが行った調査などに基づき、中小企業を取り巻く経営環境の変化やそこにおける人材に関する課題の位置づけ、また人手不足の問題に対してどのように対応しようとしているのかを整理していく",
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁「2025年版中小企業白書」現状分析1-⑥、日本商工会議所・東京商工会議所調査",
+    "url": "https://cr-cres.jp/cresight/production/%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%B5%8C%E5%96%B6%EF%BD%9C%E4%B8%89%E9%87%8D%E8%8B%A6%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E5%88%A9%E7%9B%8A%E3%82%92%E6%AE%8B%E3%81%99/",
+    "pass": 3
+   },
+   {
+    "quote": "※必要なら、経営に入って一緒に動く人材をご紹介します",
+    "url": "https://cr-cres.jp/cresight/production/%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%B5%8C%E5%96%B6%EF%BD%9C%E4%B8%89%E9%87%8D%E8%8B%A6%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E5%88%A9%E7%9B%8A%E3%82%92%E6%AE%8B%E3%81%99/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：大川精螺工業 公式サイト（製品・技術紹介）",
+    "url": "https://cr-cres.jp/cresight/production/%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%B5%8C%E5%96%B6%EF%BD%9C%E4%B8%89%E9%87%8D%E8%8B%A6%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E5%88%A9%E7%9B%8A%E3%82%92%E6%AE%8B%E3%81%99/",
+    "pass": 3
+   },
+   {
+    "quote": "大川精螺工業 公式サイト（冷間鍛造による材料使用量抑制の技術紹介）",
+    "url": "https://cr-cres.jp/cresight/production/%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%B5%8C%E5%96%B6%EF%BD%9C%E4%B8%89%E9%87%8D%E8%8B%A6%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E5%88%A9%E7%9B%8A%E3%82%92%E6%AE%8B%E3%81%99/",
+    "pass": 3
+   },
+   {
+    "quote": "社長が工場を任せるとき｜工場長を社内で育てるか、外から迎えるか",
+    "url": "https://cr-cres.jp/cresight/production/%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%B5%8C%E5%96%B6%EF%BD%9C%E4%B8%89%E9%87%8D%E8%8B%A6%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E5%88%A9%E7%9B%8A%E3%82%92%E6%AE%8B%E3%81%99/",
+    "pass": 3
+   }
+  ],
+  "営業と採用のどちらに困っているか": [
+   {
+    "quote": "2027年、中小企業が直面する7つの経営課題と解決策",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで今回は、2027年に中小企業が直面する経営課題について、多くの事業者様に関係するものを7つピックアップしてまとめてみました",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "課題6．人手不足と人件費の高騰",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年の経営課題を乗り越えるために",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年の経営課題として、まず取り上げたいのがサイバーセキュリティです",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の様々な経営課題を月5万円から解決します",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "（日本・2026年6月時点）では、AIの要約が表示されると、検索1位のページでもクリックが大きく減ったとされています",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "AIを中心としたDXへの対応は、2027年の重要な経営課題の一つであり、デジタル化の波を今まで何とか避けてきた中小企業も、いよいよこれからは逃れられなくなるでしょう",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "ジタル化 を推 進する人 材の確 保・育 成」(47.3%)など人 材 面の回答が上位",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• １－２．重点的に取り組みたい経営課題・・・・・・・・・・・ ・・・・・・・・・・・・ ・・ ３",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１－２．重点的に取り組みたい経営課題",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「新規顧客開拓、販路開拓」（64.4%）が最多",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「人材の確保（人手不足）・育成」(58.7%)、",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（高付加価値化）」(37.0%)が上位",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「販売先の開拓・確保」（55.9%）、「人材確保」(55.5%)が上位",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(47.3%)など人材面の回答が上位",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハウが不足している」（29.2%）が上位",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 節 中小企業の経営課題と政策的対応の方向性",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.1 人材課題（人材確保、事業継承、省力化・生産性向上）",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクが行った日本の中小企業の経営課題と事業活動に関する調査（2024 年度）",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1 最も重視する経営課題（企業規模別）",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）帝国データバンク「令和 6 年度中小企業の経営課題と事業活動に関する調査」p. 17 よ",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "DI（2025 年 4 月から 6 月期）は▲23.0 となっており、中小企業の人材不足は歯止めがかかって",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）厚生労働省（2024）「令和 6 年度版労働経済の分析―人手不足への対応―」",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業も3、4割程度に上り、人手不足に対して、",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足を感じている企業の割合は世界平均で７割を超えるなど、世界的に人手不足が課題となっている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "EU（27か国）において人手不足を感じている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：日本商工会議所・東京商工会議所「「人手不足等への対応に関する調査」結果概要」（2024年９月）を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "実際に、帝国データバンクの「中小企業の経営課題とその解決に向けた取組に関する調査」によれば、最も優先度が高い経営課題だと答えた中小企業の割合は46.6％と突出して多くなっている",
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の経営課題として、人材の確保や人材の育成は上位を占めており、人口減少のトレンドが続く中、これらの課題は避けては通れない経営課題として認識されているのである（図表2）",
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表2 中小企業の経営課題",
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "注：「現在の経営課題について、対応する優先度が高いと考えているもの」を上から順に3つ聞き、1位を集計",
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工会議所の「中小企業の経営課題に関するアンケート」調査でも、人員が「不足」と回答した企業の割合は52.4％となっており、恒常的に人手不足感が生じている様子を確認できる",
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在の中小製造業が直面しているのは、原材料費の高騰、人件費の上昇、そして人手不足という3つが同時に進行する状況です",
+    "url": "https://cr-cres.jp/cresight/production/%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%B5%8C%E5%96%B6%EF%BD%9C%E4%B8%89%E9%87%8D%E8%8B%A6%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E5%88%A9%E7%9B%8A%E3%82%92%E6%AE%8B%E3%81%99/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁「2026年版中小企業白書」（原データは（株）帝国データバンク「令和7年度中小企業の経営課題と事業活動に関する調査」）",
+    "url": "https://cr-cres.jp/cresight/production/%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%B5%8C%E5%96%B6%EF%BD%9C%E4%B8%89%E9%87%8D%E8%8B%A6%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E5%88%A9%E7%9B%8A%E3%82%92%E6%AE%8B%E3%81%99/",
+    "pass": 3
+   }
+  ],
+  "前例の会社（製造業特化）": [
+   {
+    "quote": "（2026年7〜9月期）を見ると、従業員20人以上の中小企業では「売上が増えた」という企業の方が多い一方で、20人未満の小さな企業では、減った企業の方が多くなっています",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "売上が「増えた」企業と「減った」企業の差（2026年7〜9月期・前年同期比）",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "売上DIは、従業員20人以上の中小企業でプラス18.2（増えた企業の方が多い）、従業員20人未満の小さな企業でマイナス10.9（減った企業の方が多い）",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員20人以上の中小企業：+18.2（増えた企業の方が多い）",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員20人以上の中小企業",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員20人未満の小さな企業：▲10.9（減った企業の方が多い）",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員20人未満の小さな企業",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "数字は売上が「増加」と答えた企業の割合から「減少」と答えた企業の割合を引いたもの（売上DI）",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業編（原則従業員20人以上）と小企業編（原則従業者20人未満）は別々の調査のため、数字の大きさではなく、向きの違いとして見てください",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "…売上が落ちると、ついこんなふうに考えてしまいがちです",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし景気のせいで終わらせずに、売上が落ちた理由を細かく分けて見ていくと、意外と社内に打ち手が見つかることもあります",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "売上が前年並み～上がっていたとしても、物価が上がっていれば、売れた数は減っているということもあります",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "そこでまずは売上を、「客数」「回数」「単価」の3つに分解して、去年と今年の同じ月を並べてみましょう",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "こういった流れを見逃さず、いち早くECサイトを導入した中小企業の中には、売上を大幅に伸ばした事例が多数報告されています",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "どれだけ禁止したとしても、AIは世界中で普及を広げていきますし、従業員は個人で使い続けます",
+    "url": "https://ecto-con.com/newchallenges/",
+    "pass": 3
+   },
+   {
+    "quote": "○ ２０２３年度の売上/経常利益 予想（２０１９年度比）（単数回 答）は、売上・経常利益ともに「減少」・「増加」がとも",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ド力・認知度向上」（19.6%）、「ビジネスチャンス・売上拡大」（18.1%）などが、「取引 先からの要請への対応」",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２０２３年度の売上予想は、コロナ前と比べ、「減少」「増加」が拮抗",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• １－１．２０２３年度の売上/経常利益予想（２０１９年度比）・・・・・・・・・・・・・ ・・ ２",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１－１．２０２３年度の売上/経常利益予想（２０１９年度比）",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜2023年度売上予想（2019年度比）＞",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２０２３年 売上予想（２０１９年度比）",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スチャンス・売上拡大」（18.1 %）などが、「取引先からの要請への対応」（7.1 %）を上回る",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「資本金額」、 「常時雇用する従業員の数」のいずれかで基準を満たせば中小企業に当てはまる",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "または「常時使用する従業員の数」が 300 人以下となっている1",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員総数は約 69.7％という割合になっている",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の約 84.5%、常用雇用数は約 12.4％、従業員総数は約 20.5％の割合になっている2",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ら、小規模企業の企業数は約 84.5%と高くなっているが、常用雇用数や従業員数の割合は低くな",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の常用雇用数と従業員総数を比較すると、約 600 万人、大企業では約 14 万人の",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員総数 構成比 従業員総数 構成比 従業員総数 構成比 従業員総数",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このことから、中小企業は資金や従業員数といった中小規模性により、大企業に比べてより競",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しさへの迅速な対応するための創業支援などが必要である5",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "共同施設、工場団地などを建設する際に低金利で融資するものであった16",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.4 バブル崩壊後（1990 年代から 2020 年代前半）の創業・新事業支援政策への転換",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次に 1990 年代中頃になると、創業・新規事業支援が本格化した",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、新 「中小企業基本法」の創業支援は小さな企業を増やすことである",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新 「中小企業基本法」の施策は、旧 「中小企業基本法」にはなかった創業支援やベンチャー企",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ブル経済の崩壊によって倒産した企業の従業員を救ったり、新しく起業して挑戦したいと思う",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "始めに、中小企業の売上高を見ると、リーマ",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 1 図 企業規模別に見た、売上高の推移（中白第 1-1-6 図）",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "けて確認すると、売上高へのプラスの影響をい",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "不足感が弱まり、製造業と卸売業では従業員数",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ずれの業種も従業員数過不足DIはマイナスと",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 3 図 業種別に見た、従業員数過不足 DI の推移（中白第 1-1-21 図）",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注） 従業員数過不足DIとは、従業員の今期の状況について、 「過剰」と答えた企業の割合（％）から、 「不足」と答えた企業",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模別に、2017年から2019年までの",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "選定した市場の特徴別に、売上高増加",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. 売上高増加率は2016年と2021年を比較したものである",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 8 図 経営戦略策定時に選定した市場の特徴別に見た、 売上高増加率と付加価値額増加率の水準 （中央値） （中白第 2-1-10 図）",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "策定状況別に、 従業員数増加率の水準（中央値）",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「策定しなかった」企業と比較して、従業員数",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に、売上高増加率の水準（中央値）を見ると、",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "づけなかった」企業と比較して、売上高増加率",
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 中小企業の従業員数過不足DIを見ると、全ての業種において人手不足感が強まっている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 従業員の規模が小さい企業ほど求人倍率が高く、採用難度が高い（人材を募集しても確保できない）状況",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 人手不足への対策としては採用活動の強化が最多となっており、事業のスリム化、多様な人材の活用、従業員の能力",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "GDPに占める企業の能力開発費の割合の国際比較 従業員一人当たりの能力開発費の企業規模間の比較",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 数年後の事業方針に紐づけて人材育成・能力開発方針を定めている企業は約１割程度であり、従業員数が少ないほど",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• また、経営戦略と人材戦略を「紐づけた」企業は、「紐づけなかった」企業と比較して、売上高増加率の水準が高い",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上100億円以上 約4,500者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   }
+  ],
+  "社数（規模別）": [
+   {
+    "quote": "ら、小規模企業の企業数は約 84.5%と高くなっているが、常用雇用数や従業員数の割合は低くな",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表 2 規模別企業数・常用雇用数・従業者数",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）中小企業庁再編加工「総務省・経済産業省 2021 年経済センサス―活動調査」より筆者",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年 9 月 30 日時点の活動状況としては、支援申し込み企業数 805",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業は企業数の約 99.7%、 従業員総数の約 7 割を占めており、多くの雇用を生み出し、労",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・中小企業庁（2023）『総務省・経済産業省「令和 3 年経済センサス‐活動調査」再編加工』,",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※大企業：資本金10億円以上、中堅企業：資本金１億円以上10億円未満、中小企業：資本金２千万円以上１億円未満",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300人未満 300～999人 1000～4999人 5000人以上",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "100～299人 30～99人 10～29人 9人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）総務省・経済産業省「令和３年経済センサス-活動調査」再編加工",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中堅企業 約0.9万者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "リクルートが4000人超の中小企業の事業責任者に行ったアンケート調査である「中小・中堅企業の事業課題・人材課題に関する調査」では、中途採用を実施している中小企業の事業責任者の30.6％が「募集しても、応募がない」と回答し、さらに33.0％が「応募はあるが、応募者の資質が自社の求める水準に満たなかった」と回答しているなど、採用活動における母集団形成の難しさや、求める人材像とのミスマッチが浮き彫りになっている（図表5）",
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業と応募者の間で折り合わなかった内容を見ていくと、中小・中堅企業の折り合わなかった内容として最も挙げられるのは「賃金水準」であった（図表6）",
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "1,400",
+    "url": "https://ecto-con.com/newchallenges/",
+    "quote": "では、委託先の担当者のメールが乗っ取られたとみられ、本物のアドレスから届いた偽の支払い依頼によって、約1,400万円を失った事例も紹介されています"
+   },
+   {
+    "value": "5",
+    "url": "https://ecto-con.com/newchallenges/",
+    "quote": "経営コンサルタントを月5万円から依頼、低コストで課題解決できます"
+   },
+   {
+    "value": "46",
+    "url": "https://ecto-con.com/newchallenges/",
+    "quote": "によると、借入金利が0.25%上がるだけで、借入のある企業の利払いは1社あたり年46万円増え、約2,700社が赤字に転落するとされています"
+   },
+   {
+    "value": "3,000",
+    "url": "https://ecto-con.com/newchallenges/",
+    "quote": "3,000万円"
+   },
+   {
+    "value": "5,000",
+    "url": "https://ecto-con.com/newchallenges/",
+    "quote": "5,000万円"
+   },
+   {
+    "value": "12.5",
+    "url": "https://ecto-con.com/newchallenges/",
+    "quote": "12.5万円"
+   },
+   {
+    "value": "1,000",
+    "url": "https://ecto-con.com/newchallenges/",
+    "quote": "単位は件（暦年・負債1,000万円以上の法的整理）"
+   },
+   {
+    "value": "1000",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "quote": "1000万円以下 135 48.0%"
+   },
+   {
+    "value": "5000",
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "quote": "1000万円超～5000万円 102 36.3%"
+   },
+   {
+    "value": "5000",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "3.サービス業 5000 万円以下 100 人以下 5 人以下"
+   },
+   {
+    "value": "26.9",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "の差を比較すると、男性で大企業の場合約 26.9 万円、中企業の場合約 20.9 万円、小企業の場合"
+   },
+   {
+    "value": "20.9",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "の差を比較すると、男性で大企業の場合約 26.9 万円、中企業の場合約 20.9 万円、小企業の場合"
+   },
+   {
+    "value": "14.1",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "約 14.1 万円の月収の差がある"
+   },
+   {
+    "value": "7.5",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "一方、 女性で大企業の場合約 7.5 万円、 中企業の場合約 7.1 万円、"
+   },
+   {
+    "value": "7.1",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "一方、 女性で大企業の場合約 7.5 万円、 中企業の場合約 7.1 万円、"
+   },
+   {
+    "value": "5.3",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "小企業の場合約 5.3 万円の月収の差がある"
+   },
+   {
+    "value": "382",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "に分類される従業員 10 人未満の事業所では約 382 万円 （男性約 476 万円、 女性約 272 万円） 、従"
+   },
+   {
+    "value": "476",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "に分類される従業員 10 人未満の事業所では約 382 万円 （男性約 476 万円、 女性約 272 万円） 、従"
+   },
+   {
+    "value": "272",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "に分類される従業員 10 人未満の事業所では約 382 万円 （男性約 476 万円、 女性約 272 万円） 、従"
+   },
+   {
+    "value": "420",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "業員 10 から 29 人の事業所では約 420 万円（男性約 518 万円、女性約 290 万円）となっている"
+   },
+   {
+    "value": "518",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "業員 10 から 29 人の事業所では約 420 万円（男性約 518 万円、女性約 290 万円）となっている"
+   },
+   {
+    "value": "290",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "業員 10 から 29 人の事業所では約 420 万円（男性約 518 万円、女性約 290 万円）となっている"
+   },
+   {
+    "value": "520",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "一方、従業員 5000 人以上の事業所においては約 520 万円（男性約 675 万円、女性約 316 万円）"
+   },
+   {
+    "value": "675",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "一方、従業員 5000 人以上の事業所においては約 520 万円（男性約 675 万円、女性約 316 万円）"
+   },
+   {
+    "value": "316",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "一方、従業員 5000 人以上の事業所においては約 520 万円（男性約 675 万円、女性約 316 万円）"
+   },
+   {
+    "value": "140",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "140 万円の差があり、性別ごとにみると男性の場合は約 200 万円、女性の場合は約 44 万円の差"
+   },
+   {
+    "value": "200",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "140 万円の差があり、性別ごとにみると男性の場合は約 200 万円、女性の場合は約 44 万円の差"
+   },
+   {
+    "value": "44",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "140 万円の差があり、性別ごとにみると男性の場合は約 200 万円、女性の場合は約 44 万円の差"
+   },
+   {
+    "value": "100",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "対象になるものの例としては、100 万円以上の機械及び装置、30 万円以上の器"
+   },
+   {
+    "value": "30",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "対象になるものの例としては、100 万円以上の機械及び装置、30 万円以上の器"
+   },
+   {
+    "value": "60",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "具及び備品、60 万円以上の建物附属設備がある"
+   },
+   {
+    "value": "8000",
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "quote": "の範囲内（最高 8000 万円）で共済金の貸付けが受けられる制度である"
+   },
+   {
+    "value": "1,000",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "売上1,000万円未満 約140万者"
+   },
+   {
+    "value": "50",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "50万円×グループ構成員数"
+   },
+   {
+    "value": "3,000",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "合わせて3,000万円まで"
+   },
+   {
+    "value": "200",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "(c)事務費・専門家費：200万円"
+   },
+   {
+    "value": "350",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "２機能以上：～350万円"
+   },
+   {
+    "value": "5",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "～350万円 5万円～150万円"
+   },
+   {
+    "value": "150",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "～350万円 5万円～150万円"
+   },
+   {
+    "value": "450",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "150万円～450万円"
+   },
+   {
+    "value": "600",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "補助上限 600万円 700万円"
+   },
+   {
+    "value": "700",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "quote": "補助上限 600万円 700万円"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000121.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ecto-con.com/newchallenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://axc-g.co.jp/news/2026/10/28_01-8/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fashionsnap.com/article/2026-03-23/2026-human-resources/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hrzine.jp/news/detail/8245",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.osaka-ue.ac.jp/file/general/37572",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://rire.fpu.ac.jp/rirecms/wp-content/uploads/2025/05/02_%E7%A0%94%E7%A9%B6%E8%AB%96%E6%96%8702.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/file/06-Seisakujouhou-11600000-Shokugyouanteikyoku/0000203093.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/001474492.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/14/dl/14-1-2_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000141.000026996.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/09abd5f68e004ce28ef503580486210e/%E4%BC%81%E6%A5%AD%E3%81%AE%E7%B5%8C%E5%96%B6%E8%AA%B2%E9%A1%8C%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%EF%BC%882026%E5%B9%B4%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.massmedian.net/news/view/1217",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itmedia.co.jp/business/articles/2603/06/news046.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000001280.000043465.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jma-news.com/archives/6525",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zenkyo.or.jp/chiiki/docs/casestudy/CKjirei2408.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/ronbun1408_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cr-cres.jp/cresight/production/%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%B5%8C%E5%96%B6%EF%BD%9C%E4%B8%89%E9%87%8D%E8%8B%A6%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E5%88%A9%E7%9B%8A%E3%82%92%E6%AE%8B%E3%81%99/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logi-today.com/919090",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "人材確保と販路開拓を同じ設問で比べた経営課題調査（年ごと）",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000121.pdf",
+    "https://ecto-con.com/newchallenges/",
+    "https://axc-g.co.jp/news/2026/10/28_01-8/",
+    "https://www.fashionsnap.com/article/2026-03-23/2026-human-resources/",
+    "https://hrzine.jp/news/detail/8245",
+    "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "https://373news.com/lifestyle/info/pr_times/detail/000000141.000026996.html",
+    "https://j-net21.smrj.go.jp/solution/handbook/hr/10items.html",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/09abd5f68e004ce28ef503580486210e/企業の経営課題に関するアンケート（2026年）.pdf"
+   ]
+  },
+  {
+   "query": "人材確保と販路開拓を同じ設問で比べた経営課題調査（年ごと） 調査 PDF",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000121.pdf",
+    "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "https://www.osaka.cci.or.jp/Chousa_Kenkyuu_Iken/Iken_Youbou/c230421ank.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/37572",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "https://shokosoken.or.jp/shokokinyuu/2023/07/202307_2.pdf",
+    "https://rire.fpu.ac.jp/rirecms/wp-content/uploads/2025/05/02_%E7%A0%94%E7%A9%B6%E8%AB%96%E6%96%8702.pdf",
+    "https://www.jma.or.jp/img/pdf-report/keieikadai_2023_report.pdf",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/09abd5f68e004ce28ef503580486210e/企業の経営課題に関するアンケート（2026年）.pdf"
+   ]
+  },
+  {
+   "query": "人材確保と販路開拓を同じ設問で比べた経営課題調査（年ごと） 厚生労働省",
+   "results": [
+    "https://www.mhlw.go.jp/file/06-Seisakujouhou-11600000-Shokugyouanteikyoku/0000203093.pdf",
+    "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "https://www.mhlw.go.jp/content/001474492.pdf",
+    "https://www.fashionsnap.com/article/2026-03-23/2026-human-resources/",
+    "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/14/dl/14-1-2_03.pdf",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/09abd5f68e004ce28ef503580486210e/企業の経営課題に関するアンケート（2026年）.pdf"
+   ]
+  },
+  {
+   "query": "人材確保と販路開拓を同じ設問で比べた経営課題調査（年ごと） 規模別 万円",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://www.fashionsnap.com/article/2026-03-23/2026-human-resources/",
+    "https://www.osaka-ue.ac.jp/file/general/37572",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://prtimes.jp/main/html/rd/p/000000141.000026996.html",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/09abd5f68e004ce28ef503580486210e/企業の経営課題に関するアンケート（2026年）.pdf"
+   ]
+  },
+  {
+   "query": "人材確保と販路開拓を同じ設問で比べた経営課題調査（年ごと） 製造業 事例",
+   "results": [
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "https://www.osaka-ue.ac.jp/file/general/37572",
+    "https://jma-news.com/archives/6525",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/management-issues/",
+    "https://www.zenkyo.or.jp/chiiki/docs/casestudy/CKjirei2408.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/ronbun1408_01.pdf",
+    "https://cr-cres.jp/cresight/production/%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%B5%8C%E5%96%B6%EF%BD%9C%E4%B8%89%E9%87%8D%E8%8B%A6%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E5%88%A9%E7%9B%8A%E3%82%92%E6%AE%8B%E3%81%99/",
+    "https://www.fiweek.jp/hub/ja-jp/blog/article01-issue.html"
+   ]
+  },
+  {
+   "query": "人材確保と販路開拓を同じ設問で比べた経営課題調査（年ごと） 2025 OR 2026",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "https://www.massmedian.net/news/view/1217?ct_7b206f8306368v93=2.1.365.1b33app3bu6bc603.365.NxbONf8OQ3Qx66ecD33o63oa.WZ96Nadz2YNcWZ3cz362363d.null",
+    "https://futures-literacy.jp/2026/03/management-issues-smallcompany/",
+    "https://axc-g.co.jp/news/2026/10/28_01-8/",
+    "https://ecto-con.com/newchallenges/",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "https://hrzine.jp/news/detail/8245",
+    "https://www.itmedia.co.jp/business/articles/2603/06/news046.html",
+    "https://www.logi-today.com/919090"
+   ]
+  },
+  {
+   "query": "site:note.com 人材確保と販路開拓を同じ設問で比べた経営課題調査（年ごと）",
+   "results": [
+    "https://note.com/sion_remake0415/n/nb6172330abba",
+    "https://note.com/sasaki_nobukazu/n/n67626b1c4824",
+    "https://note.com/joseishacho/n/n8747026df049",
+    "https://note.com/sasaki_nobukazu/n/n8c59506ffe4d",
+    "https://note.com/kabuberry_/n/n4548f62b9ec2",
+    "https://note.com/kabuberry_/n/n970768c109cd",
+    "https://note.com/zum_ism/n/n95a214855ce7",
+    "https://note.com/sheep_ceosyatyo/n/ncfc7269a66cd",
+    "https://note.com/nekota_toure/n/neac5af85edce",
+    "https://note.com/tck/n/n95812964bcbb"
+   ]
+  },
+  {
+   "query": "site:x.com 人材確保と販路開拓を同じ設問で比べた経営課題調査（年ごと）",
+   "results": [
+    "https://x.com/yoshi_ishii/status/1975925106477281764",
+    "https://x.com/matsuikoji/status/1804134438382768590",
+    "https://x.com/osaka_yorozu",
+    "https://x.com/inouemasafumi/status/2101294745695948973",
+    "https://x.com/YorishigeNumazu/status/1993993463139115294",
+    "https://x.com/fukuoka_cci/status/2115318608532578410",
+    "https://x.com/shindo_y/status/2111747993854730714",
+    "https://x.com/mutsuzawa_shoko",
+    "https://x.com/kochi_cci",
+    "https://x.com/mori_kado_cci"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 人材確保と販路開拓を同じ設問で比べた経営課題調査（年ごと）",
+   "results": [
+    "https://www.linkedin.com/in/koji-egami-26451136a",
+    "https://www.linkedin.com/in/rey-hayashi/ja",
+    "https://www.linkedin.com/in/ted-tetsuo-tomonaga-6472282ab",
+    "https://jp.linkedin.com/in/seijiro-yuda-330422105",
+    "https://www.linkedin.com/posts/invest-in-nara_%E6%8B%A0%E7%82%B9%E6%88%A6%E7%95%A5-%E7%B5%8C%E5%96%B6%E6%9C%80%E9%81%A9%E5%8C%96-bcp-activity-7441740530197291009-vAcc",
+    "https://www.linkedin.com/in/kana-kawai-590b6032b",
+    "https://www.linkedin.com/in/kosuke-itoh-7b1018270",
+    "https://jp.linkedin.com/in/kohei-terao-882325ab",
+    "https://www.linkedin.com/posts/hubei-talent_%E8%8D%86%E6%A5%9A%E4%BA%A7%E4%B8%9A-%E6%B9%96%E5%8C%97%E4%B8%80%E6%9D%9F%E5%85%89%E8%B7%A8%E8%B6%8A%E5%9F%8E%E9%99%85%E7%85%A7%E4%BA%AE%E4%B8%80%E7%89%87%E4%BA%A7%E4%B8%9A-one-beam-of-light-activity-7504080869381382145-GPLW",
+    "https://jp.linkedin.com/pulse/%E6%B5%B7%E5%A4%96%E4%BA%BA%E6%9D%90%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%AE%E6%B4%BB%E7%94%A8%E3%81%8C%E7%B5%84%E7%B9%94%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E5%BD%93%E7%A4%BE%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF%E3%81%8C%E5%A4%96%E9%83%A8%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%81%A7%E7%B4%B9-7445400667998887937-mnj7c"
+   ]
+  },
+  {
+   "query": "site:facebook.com 人材確保と販路開拓を同じ設問で比べた経営課題調査（年ごと）",
+   "results": [
+    "https://www.facebook.com/meti.chugoku/posts/%E4%B8%AD%E5%9B%BD%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E5%B1%80%E3%81%A7%E3%81%AF%E5%9C%B0%E5%9F%9F%E3%81%AE%E4%B8%AD%E5%B0%8F%E8%A6%8F%E6%A8%A1%E4%BA%8B%E6%A5%AD%E8%80%85%E3%81%8C%E6%B5%B7%E5%A4%96%E8%BC%B8%E5%87%BA%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%B6%99%E7%B6%9A%E7%9A%84%E3%81%AA%E5%8F%96%E5%BC%95%E3%81%AB%E3%81%A4%E3%81%AA%E3%81%8C%E3%82%8B%E8%B2%A9%E8%B7%AF%E9%96%8B%E6%8B%93%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AE%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E5%BD%93%E6%97%A5%E3%81%AF%E3%82%B7%E3%83%B3/1510978797735701/",
+    "https://www.facebook.com/meti.chugoku/posts/%E5%89%AF%E6%A5%AD%E5%85%BC%E6%A5%AD%E4%BA%BA%E6%9D%90%E6%B4%BB%E7%94%A8%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E4%BC%81%E6%A5%AD%E6%88%90%E9%95%B7%E3%81%AE%E3%82%AB%E3%82%AE%E3%81%AF%E7%A4%BE%E5%A4%96%E3%81%AB%E3%81%82%E3%82%8B%E3%82%92%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%E5%BD%A2%E5%BC%8F%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E8%B2%A9%E8%B7%AF%E6%8B%A1%E5%A4%A7dx%E6%8E%A8%E9%80%B2%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA%E7%B5%84%E7%B9%94%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AA%E3%81%A9%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%80%E4%BC%81%E6%A5%AD%E3%81%AE%E7%9A%86%E6%A7%98%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6%E5%89%AF%E6%A5%AD%E5%85%BC%E6%A5%AD%E4%BA%BA/1546519210848326/",
+    "https://www.facebook.com/shimonoseki.koho/posts/%E6%8E%A1%E7%94%A8%E3%81%A0%E3%81%91%E3%81%AB%E9%A0%BC%E3%82%89%E3%81%AA%E3%81%84%E4%BA%BA%E6%9D%90%E7%A2%BA%E4%BF%9D%E3%81%B8%E4%BA%8B%E4%BE%8B%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6%E5%89%AF%E6%A5%AD%E5%85%BC%E6%A5%AD%E4%BA%BA%E6%9D%90%E6%B4%BB%E7%94%A8%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%96%8B%E5%82%AC%E3%81%93%E3%82%93%E3%81%AA%E4%BA%BA%E3%81%8C%E7%A4%BE%E5%86%85%E3%81%AB%E3%81%84%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%9F%E3%82%89%E3%81%9D%E3%81%86%E6%80%9D%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E6%8E%A1%E7%94%A8%E5%BC%B7%E5%8C%96%E5%BA%83%E5%A0%B1%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0d/1090950550221612/",
+    "https://www.facebook.com/yorozu.saitama/posts/%E8%A3%9C%E5%8A%A9%E9%87%91%E6%B4%BB%E7%94%A8%E3%82%92%E3%81%94%E6%A4%9C%E8%A8%8E%E4%B8%AD%E3%81%AE%E5%B0%8F%E5%A3%B2%E5%8D%B8%E5%A3%B2%E6%A5%AD%E3%81%AE%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8-%E8%A3%9C%E5%8A%A9%E9%87%91%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%81%84%E3%81%91%E3%82%8C%E3%81%A9%E3%81%A9%E3%81%AE%E5%88%B6%E5%BA%A6%E3%82%92%E9%81%B8%E3%81%B9%E3%81%B0%E3%82%88%E3%81%84%E3%81%8B%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-%E3%81%9D%E3%82%93%E3%81%AA%E6%96%B9%E3%81%AB%E6%9C%97%E5%A0%B1%E3%81%A7%E3%81%99%E4%B8%AD%E5%B0%8F%E6%A9%9F%E6%A7%8B%E3%81%AE%E5%B0%8F%E8%A6%8F%E6%A8%A1%E4%BA%8B%E6%A5%AD%E8%80%85%E3%82%92%E5%BF%9C%E6%8F%B4%E3%81%97%E3%81%BE%E3%81%99%E3%81%A7%E3%81%AF%E7%B5%8C/1695787879218575/",
+    "https://www.facebook.com/meti.chugoku/posts/%E4%BA%BA%E6%9D%90%E7%A2%BA%E4%BF%9D%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E5%9C%B0%E5%9F%9F%E3%81%AE%E4%BA%BA%E4%BA%8B%E9%83%A8%E5%AE%9F%E8%B7%B5%E8%80%85%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6-%E5%9C%B0%E5%9F%9F%E4%B8%80%E4%BD%93%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E5%9C%B0%E5%9F%9F%E4%BC%81%E6%A5%AD%E3%81%AE%E6%94%AF%E6%8F%B4%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%92%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AB%E3%81%A6%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9F%9F%E3%81%AE%E7%B5%8C%E5%96%B6%E6%94%AF%E6%8F%B4%E6%A9%9F%E9%96%A2%E8%87%AA%E6%B2%BB%E4%BD%93%E4%BC%81%E6%A5%AD%E7%AD%89%E5%9C%B0%E5%9F%9F%E3%81%AE%E4%BA%BA%E4%BA%8B%E9%83%A8%E3%81%AB%E9%96%A2%E5%BF%83/1509370254563222/",
+    "https://www.facebook.com/smrjchubu/posts/%E7%B5%8C%E5%96%B6%E3%81%AB%E3%81%8A%E6%82%A9%E3%81%BF%E3%81%AE%E6%96%B9%E3%81%B8-%E6%88%90%E9%95%B7%E5%8A%A0%E9%80%9F%E5%8C%96%E3%83%88%E3%83%BC%E3%82%BF%E3%83%AB%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E5%A3%B2%E4%B8%8A%E9%AB%98100%E5%84%84%E5%86%86%E8%B6%85%E3%81%B8%E3%81%AE%E9%A3%9B%E8%BA%8D%E7%9A%84%E6%88%90%E9%95%B7%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AB%E5%AF%BE%E3%81%97%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%84%E7%B5%8C%E5%96%B6%E8%AA%B2%E9%A1%8C%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E6%A7%98%E3%80%85%E3%81%AA%E6%94%AF%E6%8F%B4%E7%AD%96%E3%81%AB%E3%82%88%E3%82%8A%E3%81%9D%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%82%92%E6%94%AF%E6%8F%B4/1427853106043243/",
+    "https://www.facebook.com/okinawa.ric/posts/%E9%96%8B%E5%82%AC%E5%A0%B1%E5%91%8A-%E3%81%8A%E3%81%8D%E3%81%AA%E3%82%8F%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%BF%9C%E6%8F%B4%E3%83%95%E3%82%A7%E3%82%A22026%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%98%A8%E6%97%A5%E9%96%8B%E5%82%AC%E3%81%97%E3%81%9F%E3%81%8A%E3%81%8D%E3%81%AA%E3%82%8F%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%BF%9C%E6%8F%B4%E3%83%95%E3%82%A7%E3%82%A22026%E3%81%AB%E3%81%AF%E7%B4%841000%E5%90%8D%E3%82%82%E3%81%AE%E7%9A%86%E3%81%95%E3%81%BE%E3%81%AB%E3%81%94%E6%9D%A5%E5%A0%B4%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E7%9B%9B%E6%B3%81%E3%81%AE%E3%81%86%E3%81%A1%E3%81%AB%E7%B5%82/1472891921544393/",
+    "https://www.facebook.com/fukuoka.cci/posts/-%E7%B5%8C%E5%96%B6%E3%81%AE%E3%81%8A%E6%82%A9%E3%81%BF%E4%B8%80%E7%B7%92%E3%81%AB%E8%A7%A3%E6%B1%BA%E3%81%97%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B-%E7%A6%8F%E5%B2%A1%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80news-10%E6%9C%88%E5%8F%B7-%E7%A6%8F%E5%B2%A1%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80%E3%81%A7%E3%81%AF%E4%BA%8B%E6%A5%AD%E8%A8%88%E7%94%BB%E3%81%AE%E7%AD%96%E5%AE%9A%E3%82%84%E8%A3%9C%E5%8A%A9%E9%87%91%E7%94%B3%E8%AB%8B%E3%81%9D%E3%81%AE%E5%BE%8C%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%81%AA%E3%81%A9%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E4%BA%8B%E6%A5%AD%E8%80%85%E3%81%AE%E7%B5%8C%E5%96%B6/1553357480167109/",
+    "https://www.facebook.com/atsushi.matsuoka.18/posts/%E4%B8%96%E7%95%8C%E3%81%A7%E5%8B%9D%E8%B2%A0%E3%81%99%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%82%92%E6%9D%B1%E4%BA%AC%E3%81%8B%E3%82%89%E5%9B%BD%E8%87%AA%E6%B2%BB%E4%BD%93%E3%81%AE%E5%9E%A3%E6%A0%B9%E3%82%92%E8%B6%8A%E3%81%88%E3%81%9F%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E6%B5%B7%E5%A4%96%E5%B1%95%E9%96%8B%E6%94%AF%E6%8F%B4%E3%81%B8%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%AD%B0%E4%BC%9A%E3%81%AE%E4%BB%A3%E8%A1%A8%E8%B3%AA%E5%95%8F%E3%81%A7%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AE%E6%B5%B7%E5%A4%96%E5%B1%95%E9%96%8B%E6%94%AF%E6%8F%B4%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%8F%96%E3%82%8A%E4%B8%8A%E3%81%92%E3%81%BE%E3%81%97/28380467898319935/",
+    "https://www.facebook.com/inouemasafumi/posts/%EF%BC%99%E6%9C%88%E8%AD%B0%E4%BC%9A%E3%81%AE%E4%BB%A3%E8%A1%A8%E8%B3%AA%E5%95%8F%E3%82%92%E7%B5%82%E3%81%88%E3%81%A6%EF%BC%99%E6%9C%88%EF%BC%91%EF%BC%95%E6%97%A5%E8%87%AA%E6%B0%91%E5%85%9A%E7%A6%8F%E5%B2%A1%E7%9C%8C%E8%AD%B0%E5%9B%A3%E3%81%AE%E6%B8%A1%E8%BE%BA%E4%BC%9A%E9%95%B7%E3%81%8C%E4%BB%A3%E8%A1%A8%E8%B3%AA%E5%95%8F%E3%81%AB%E7%AB%8B%E3%81%A1%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%A3%E8%A1%A8%E8%B3%AA%E5%95%8F%E3%81%AF%E4%BC%9A%E6%B4%BE%E3%82%92%E4%BB%A3%E8%A1%A8%E3%81%97%E3%81%A6%E7%9C%8C%E6%94%BF%E3%81%AE%E9%87%8D%E8%A6%81%E3%81%AA%E8%AA%B2%E9%A1%8C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%9F%A5%E4%BA%8B%E3%82%84%E6%95%99%E8%82%B2%E9%95%B7%E3%81%AA%E3%81%A9%E3%81%AB%E8%80%83%E3%81%88%E3%82%84%E5%AF%BE%E5%BF%9C/28399484016337928/"
+   ]
+  },
+  {
+   "query": "人材確保と販路開拓を同じ設問で比べた経営課題調査（年ごと） note 社長",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "https://hrzine.jp/news/detail/8245",
+    "https://axc-g.co.jp/news/2026/10/28_01-8/",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "https://j-net21.smrj.go.jp/solution/handbook/hr/10items.html",
+    "https://note.com/kosuke_39/n/ne724a0c39737",
+    "https://www.logi-today.com/919090",
+    "https://www.osaka-ue.ac.jp/file/general/37572",
+    "https://www.fashionsnap.com/article/2026-03-23/2026-human-resources/"
+   ]
+  },
+  {
+   "query": "人材確保と販路開拓を同じ設問で比べた経営課題調査（年ごと） X 投稿",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260304-management-issues/",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "https://www.the-miyanichi.co.jp/pressrelease/prtimes/1209686.html",
+    "https://www.fashionsnap.com/article/2026-03-23/2026-human-resources/",
+    "https://hrzine.jp/news/detail/8245",
+    "https://www.logi-today.com/919090",
+    "https://373news.com/lifestyle/info/pr_times/detail/000000141.000026996.html",
+    "https://news.nicovideo.jp/watch/nw19928932?news_ref=20_20",
+    "https://jma-news.com/archives/6911",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/09abd5f68e004ce28ef503580486210e/企業の経営課題に関するアンケート（2026年）.pdf"
+   ]
+  },
+  {
+   "query": "SME management issues survey labor shortage vs sales Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/top-content/recruitment-hr/addressing-labor-shortages/japan-workforce-shortage-trends/",
+    "https://www.linkedin.com/posts/nozomimorgan_japanesebusiness-hrstrategy-usbusiness-activity-7491180040978796544-QqKY",
+    "https://www.linkedin.com/posts/daichi-kunii_japanmanda-japaneconomy-smeacquisition-activity-7512636643724394496-y_U4",
+    "https://www.linkedin.com/pulse/copy-japan-targets-5000-companies-india-2029-yashasvi-rathore-gxlrc",
+    "https://www.linkedin.com/posts/ivestay_dbs-tops-list-of-employers-sought-by-singapore-activity-7475170192923254784-vO6J",
+    "https://www.linkedin.com/top-content/future-of-work/global-workforce-expansion/japan-as-a-destination-for-international-business-expansion/",
+    "https://business.linkedin.com/learn/resources/workplace-learning-report",
+    "https://www.linkedin.com/in/toshihiro-kazama-667736111",
+    "https://uk.linkedin.com/company/isi-markets",
+    "https://www.linkedin.com/pulse/japan-ai-sales-assistant-industry-analysis-report-market-size-mg2ee"
+   ]
+  }
+ ],
+ "missing": {
+  "作る側の原価": "記載なし（読んだ33頁・検索13回）"
+ }
+}

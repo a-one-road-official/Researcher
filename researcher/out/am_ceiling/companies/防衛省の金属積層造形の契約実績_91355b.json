@@ -1,0 +1,584 @@
+{
+ "name": "防衛省の金属積層造形の契約実績",
+ "en": "Japan Ministry of Defense additive manufacturing contract",
+ "aliases": [
+  "防衛装備庁 積層造形 契約",
+  "防衛省 3Dプリンター 契約 金額 site:go.jp",
+  "防衛装備庁 契約実績 積層造形"
+ ],
+ "context": "防衛・一次",
+ "kind": "market",
+ "researched_at": "2026-11-05T00:57:14.623343+00:00",
+ "evidence": {
+  "1件の単価": [
+   {
+    "quote": "（別紙参照） ５ 入 札 方 法 落札決定に当たっては、入札書に記載された金額に当該金額の１０パーセントに相当する額を加算した金額をもって落札価格とするので、各入札者は、消費税及び地方消費税に係る課税事業者であるか免税事業者であるかを問わず、見積もった契約金額の１００",
+    "url": "https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK",
+    "pass": 3
+   },
+   {
+    "quote": "札 方 法 落札決定に当たっては、入札書に記載された金額に当該金額の１０パーセントに相当する額を加算した金額をもって落札価格とするので、各入札者は、消費税及び地方消費税に係る課税事業者であるか免税事業者であるかを問わず、見積もった契約金額の１００／１１０に相当する金額を入札書に記載すること",
+    "url": "https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK",
+    "pass": 3
+   },
+   {
+    "quote": "' ② 端 数 処 理 入札書に記載された金額の１１０／１００に相当する金額に１円未満の端数があるときは、その端数金額を切り捨てるものとし、当該端数金額を切り捨てた後に得られる金額をもって、申し込みがあったものとする",
+    "url": "https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK",
+    "pass": 3
+   }
+  ],
+  "顧客1社の年間": [
+   {
+    "quote": "６ 保 証 金 ①入札保証金免 除 ②契約保証金免 除 ７ 入 札 の 無 効 ４の参加資格のない者のした入札、入札に関する条件に反した入札又は入札後契約を締結するまでの間に、都道府県警察から暴力団関係業者として排除するよう要請があり、当該状態が継続している有資格業者のし",
+    "url": "https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK",
+    "pass": 3
+   },
+   {
+    "quote": "札 の 無 効 ４の参加資格のない者のした入札、入札に関する条件に反した入札又は入札後契約を締結するまでの間に、都道府県警察から暴力団関係業者として排除するよう要請があり、当該状態が継続している有資格業者のした入札は無効とする",
+    "url": "https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK",
+    "pass": 3
+   }
+  ],
+  "用途別": [
+   {
+    "quote": "積層造形装置の整備（防衛省） ｜ 天羅AI",
+    "url": "https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK",
+    "pass": 3
+   },
+   {
+    "quote": "③令和７・８・９防衛省競争参加資格（全省庁統一資格）「役務の提供等」の「A」、「B」、「C」又は「D」の等級に格付けされ関東・甲信越地域の競争参加資格を有する者であること",
+    "url": "https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK",
+    "pass": 3
+   },
+   {
+    "quote": "④大臣官房衛生監、防衛政策局長、防衛装備庁長官又は防衛装備庁長官官房会計官から「装備品等の役務の調達に係る指名停止の要領」に基づく指名停止の措置を受けている期間中の者でないこと",
+    "url": "https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK",
+    "pass": 3
+   },
+   {
+    "quote": "指名停止を受けている者と資本関係又は人的関係のある者であって、当該者と同種の物品の売買又は製造若しくは役務請負について防衛省又は防衛装備庁と契約を行おうとする者でないこと",
+    "url": "https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK",
+    "pass": 3
+   },
+   {
+    "quote": "公告第５０号 令和８年８月３日 分任支出負担行為担当官 防衛装備庁艦艇装備研究所 総務課長 北村 優子 公 告 下記により入札を実施するので、入札及び契約心得（地方調達）（平成３１年４月１日）を熟知の上、参加されたい",
+    "url": "https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK",
+    "pass": 3
+   },
+   {
+    "quote": "件 名 規 格 数 量納 地 納 期摘 要 積層造形装置の整備 仕様書のとおり １件'防衛装備庁艦艇装備研究所（目黒地区）' 令和8年10月23日",
+    "url": "https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK",
+    "pass": 3
+   },
+   {
+    "quote": "）） ②場 所 防衛装備庁艦艇装備研究所（目黒地区）入札室（庁舎２階） （東京都目黒区中目黒２－２－１）",
+    "url": "https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK",
+    "pass": 3
+   },
+   {
+    "quote": "⑤前号により、現に指名停止を受けている者と資本関係又は人的関係のある者であって、当該者と同種の物品の売買又は製造若しくは役務請負について防衛省又は防衛装備庁と契約を行おうとする者でないこと",
+    "url": "https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、真にやむを得ない事由を大臣官房衛生監、防衛政策局長、防衛装備庁長官又は防衛装備庁長官官房会計官が認めた場合には、この限りではない",
+    "url": "https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK",
+    "pass": 3
+   },
+   {
+    "quote": "(１) 防衛省競争参加資格の資格審査結果通知書の写しを入札日の前日までに提出するものとする",
+    "url": "https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK",
+    "pass": 3
+   },
+   {
+    "quote": "Byron Kennedy, SPEE3D CEO (left) next to: Ground Staff Office Ministry of Defense Major General Mr. Shirakawa (right).",
+    "url": "https://www.spee3d.com/bridging-innovation-and-defence-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "Credit: Japanese Ground Self Defense Force Facebook Page",
+    "url": "https://www.spee3d.com/bridging-innovation-and-defence-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   }
+  ],
+  "価格を決める要因": [
+   {
+    "quote": "As part of our partnership, we will provide the JGSDF comprehensive training, support, and maintenance for both WarpSPEE3D and XSPEE3D. This includes field exercise programs with the XSPEE3D, ensuring that Japan’s forces are well-equipped to fully utilize the potential of this technology when in the field and on base.",
+    "url": "https://www.spee3d.com/bridging-innovation-and-defence-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "This partnership with the JGDSF signifies how SPEE3D technology continues to offer Defence a reliable metal manufacturing capability to further strengthen existing supply chains in the field, or on base. The most recent example of this is that just last month, the",
+    "url": "https://www.spee3d.com/bridging-innovation-and-defence-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r05_chotatsu_jisseki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r06_chotatsu_jisseki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikiho.toyokeizai.net/news/0/901019",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2025/yosan_20250402.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r07_chotatsu_jisseki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www2.njss.info/offers/view/31088099",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r07_chotatsu_gairyaku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/souhon/supply/jisseki/rakusatu/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/article/world/japan/2-idUSTYE9AJ074/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.axelspace.com/ja/news/satellite_constellation_project/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/p/48786",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/souhon/supply/jisseki/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nyusatsu-compass.com/organ/u1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.postation.jp/military/procurement?fy=8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/budget/release/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/budget/chotatsu/naikyoku/consul/kekka_gyomu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nedo.go.jp/news/press/AA5_101845.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://open-g.itlibra.com/tools/procurement/U1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cao.go.jp/chotatsu/kohyo/kohyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nyusatsu-in.jp/bid/4140",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo02_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000058.000032276.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/gov_procurement/national/articles/337718/2024122301580048.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.spee3d.com/bridging-innovation-and-defence-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.stratasys.com/news-events/press-releases/detail/978/stratasys-selected-for-multi-million-dollar-u-s-department",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dprintedparts.com/2021/07/19/additive-excellence-defense-contracting-with-confidence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cto.mil/wp-content/uploads/2021/01/dod-additive-manufacturing-strategy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/paulperera_analysis-of-us-military-budget-shows-increased-activity-7407877007230869505-owb_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.statista.com/statistics/1551852/japan-expenses-defense-related-contracts-by-agency/?srsltid=AYCX9vJEkLdp3yu7IIjUEBDh5FkNBMgsRsV2g6bgJf-3puwWx26U2Q8L",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/themilitarychannelusa/posts/read-the-united-states-and-japan-have-finalized-a-major-defense-agreement-worth-/122225604020902462/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/nikon-secures-u-s-defense-contract-for-tomahawk-mid-body-printing-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/statistics/1229166/japan-leading-defense-suppliers-by-contract-value/?srsltid=AYCX9vJradRtjl6DaCldveNXPXtRhJtpKauFzO0jFlGyoDCeZQ4Ik2h2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitehouse.gov/fact-sheets/2025/10/28195/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defenseandmunitions.com/news/3d-systems-receives-7-million-dollar-plus-contract-from-us-air-force-for-advanced-metal-printing-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://breakingdefense.com/2026/10/us-japan-ink-agreements-for-amraam-production-sm-3-production-boost-japanese-mod/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://warontherocks.com/cogs-of-war/the-additive-manufacturing-mirage-in-defense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dla.mil/About-DLA/News/News-Article-View/Article/3967178/dla-awards-first-competitive-contract-for-additive-manufacturing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/statistics/1229166/japan-leading-defense-suppliers-by-contract-value/?srsltid=AYCX9vKdtI1OyNj7JOdU37exVzZKr0BQbOFpvN6oK1FcfI66KzVWQiHK",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapid3devent.com/event/news/the-expanding-role-of-additive-manufacturing-in-the-defense-industrial-base/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "防衛省の金属積層造形の契約実績 単価 万円",
+   "results": [
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r05_chotatsu_jisseki.pdf",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r06_chotatsu_jisseki.pdf",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://shikiho.toyokeizai.net/news/0/901019",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2025/yosan_20250402.pdf",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/zaiseia20251111/02.pdf",
+    "https://www.mod.go.jp/rdb/s-kanto/contract/construction/index.html",
+    "https://www.mod.go.jp/rdb/tohoku/contract/constitution/pdf/20240117-keiyakuseido.pdf",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/index.html"
+   ]
+  },
+  {
+   "query": "防衛省の金属積層造形の契約実績 費用 相場",
+   "results": [
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r06_chotatsu_jisseki.pdf",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r07_chotatsu_jisseki.pdf",
+    "https://shikiho.toyokeizai.net/news/0/901019",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r05_chotatsu_jisseki.pdf",
+    "https://www2.njss.info/offers/view/31088099",
+    "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r07_chotatsu_gairyaku.pdf",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/rakusatu/index.html"
+   ]
+  },
+  {
+   "query": "防衛省の金属積層造形の契約実績 最大 受注 億円",
+   "results": [
+    "https://www.reuters.com/jp/article/world/japan/2-idUSTYE9AJ074/",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r06_chotatsu_jisseki.pdf",
+    "https://shikiho.toyokeizai.net/news/0/901019",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r05_chotatsu_jisseki.pdf",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r07_chotatsu_jisseki.pdf",
+    "https://www.axelspace.com/ja/news/satellite_constellation_project/",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://newswitch.jp/p/48786",
+    "https://www.youtube.com/watch?v=jy9-moDRn7k",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/index.html"
+   ]
+  },
+  {
+   "query": "防衛省の金属積層造形の契約実績 量産 受注 年間",
+   "results": [
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r06_chotatsu_jisseki.pdf",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r05_chotatsu_jisseki.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.mod.go.jp/j/budget/release/index.html",
+    "https://shikiho.toyokeizai.net/news/0/901019",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://www.mod.go.jp/j/budget/chotatsu/naikyoku/consul/kekka_gyomu.html",
+    "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "https://www.nedo.go.jp/news/press/AA5_101845.html",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/index.html"
+   ]
+  },
+  {
+   "query": "防衛省の金属積層造形の契約実績 売上高 受託",
+   "results": [
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r06_chotatsu_jisseki.pdf",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r05_chotatsu_jisseki.pdf",
+    "https://shikiho.toyokeizai.net/news/0/901019",
+    "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo02_03.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000058.000032276.html",
+    "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/pdf/r07_chotatsu_jisseki.pdf",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/rakusatu/index.html"
+   ]
+  },
+  {
+   "query": "Japan Ministry of Defense additive manufacturing contract price per part",
+   "results": [
+    "https://www.spee3d.com/bridging-innovation-and-defence-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "https://investors.stratasys.com/news-events/press-releases/detail/978/stratasys-selected-for-multi-million-dollar-u-s-department",
+    "https://www.3dprintedparts.com/2021/07/19/additive-excellence-defense-contracting-with-confidence/",
+    "https://www.cto.mil/wp-content/uploads/2021/01/dod-additive-manufacturing-strategy.pdf",
+    "https://www.linkedin.com/posts/paulperera_analysis-of-us-military-budget-shows-increased-activity-7407877007230869505-owb_",
+    "https://www.statista.com/statistics/1551852/japan-expenses-defense-related-contracts-by-agency/?srsltid=AYCX9vJEkLdp3yu7IIjUEBDh5FkNBMgsRsV2g6bgJf-3puwWx26U2Q8L",
+    "https://warontherocks.com/cogs-of-war/the-additive-manufacturing-mirage-in-defense/",
+    "https://www.trade.gov/market-intelligence/japan-additive-manufacturing-and-3d-printing",
+    "https://www.researchandmarkets.com/reports/5939456/aerospace-defense-additive-manufacturing-market?srsltid=AYCX9vJTOOvSNSMlLQSoDq_1xrvfkGaOfcOGb8kL4Qal03VToy_FEgqp",
+    "https://www.defensenews.com/global/asia-pacific/2026/08/27/japan-approves-mass-production-of-3d-printed-interceptor-drones/"
+   ]
+  },
+  {
+   "query": "Japan Ministry of Defense additive manufacturing contract largest contract million",
+   "results": [
+    "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "https://www.facebook.com/themilitarychannelusa/posts/read-the-united-states-and-japan-have-finalized-a-major-defense-agreement-worth-/122225604020902462/",
+    "https://investors.stratasys.com/news-events/press-releases/detail/978/stratasys-selected-for-multi-million-dollar-u-s-department",
+    "https://www.voxelmatters.com/nikon-secures-u-s-defense-contract-for-tomahawk-mid-body-printing-systems/",
+    "https://www.statista.com/statistics/1229166/japan-leading-defense-suppliers-by-contract-value/?srsltid=AYCX9vJradRtjl6DaCldveNXPXtRhJtpKauFzO0jFlGyoDCeZQ4Ik2h2",
+    "https://www.whitehouse.gov/fact-sheets/2025/10/28195/",
+    "https://www.defenseandmunitions.com/news/3d-systems-receives-7-million-dollar-plus-contract-from-us-air-force-for-advanced-metal-printing-system/",
+    "https://www.youtube.com/watch?v=Pac5A8_6dhc",
+    "https://www.trade.gov/country-commercial-guides/japan-defense-procurement",
+    "https://www.nextmsc.com/report/japan-additive-manufacturing-market"
+   ]
+  },
+  {
+   "query": "Japan Ministry of Defense additive manufacturing contract serial production long-term agreement value",
+   "results": [
+    "https://www.facebook.com/themilitarychannelusa/posts/read-the-united-states-and-japan-have-finalized-a-major-defense-agreement-worth-/122225604020902462/",
+    "https://breakingdefense.com/2026/10/us-japan-ink-agreements-for-amraam-production-sm-3-production-boost-japanese-mod/",
+    "https://www.cto.mil/wp-content/uploads/2021/01/dod-additive-manufacturing-strategy.pdf",
+    "https://warontherocks.com/cogs-of-war/the-additive-manufacturing-mirage-in-defense/",
+    "https://www.dla.mil/About-DLA/News/News-Article-View/Article/3967178/dla-awards-first-competitive-contract-for-additive-manufacturing/",
+    "https://www.youtube.com/watch?v=Pac5A8_6dhc",
+    "https://www.statista.com/statistics/1229166/japan-leading-defense-suppliers-by-contract-value/?srsltid=AYCX9vKdtI1OyNj7JOdU37exVzZKr0BQbOFpvN6oK1FcfI66KzVWQiHK",
+    "https://www.rapid3devent.com/event/news/the-expanding-role-of-additive-manufacturing-in-the-defense-industrial-base/",
+    "https://spfusa.org/publications/japans-growing-international-defense-procurement/",
+    "https://www.defensenews.com/global/asia-pacific/2026/08/27/japan-approves-mass-production-of-3d-printed-interceptor-drones/"
+   ]
+  },
+  {
+   "query": "Japan Ministry of Defense additive manufacturing contract revenue",
+   "results": [
+    "https://investors.stratasys.com/news-events/press-releases/detail/978/stratasys-selected-for-multi-million-dollar-u-s-department",
+    "https://www.cto.mil/wp-content/uploads/2021/01/dod-additive-manufacturing-strategy.pdf",
+    "https://www.youtube.com/watch?v=Pac5A8_6dhc",
+    "https://www.fortunebusinessinsights.com/aerospace-defense-additive-manufacturing-market-106550",
+    "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "https://www.researchnester.com/reports/additive-manufacturing-market/5009",
+    "https://www.instagram.com/p/DXw2L6pjQ3r/",
+    "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "https://instituteofgeoeconomics.org/en/research/2025102402/",
+    "https://www.mod.go.jp/en/d_act/d_budget/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 防衛省の金属積層造形の契約実績",
+   "results": [
+    "https://note.com/_takumi_inoue_/n/n32e12ae3216b",
+    "https://note.com/good_dill292/n/nea281867c3a3",
+    "https://note.com/ryusun_ryusun/n/n71ed3580ec07",
+    "https://note.com/_takumi_inoue_/n/n1d3a5511ec86",
+    "https://note.com/hikaru_96_1104/n/n15f4e2ec5d78",
+    "https://note.com/good_dill292/n/nd7023cb55e2e",
+    "https://note.com/good_dill292/n/n4b2d00b9c432",
+    "https://note.com/good_dill292/n/n57e26023a40a",
+    "https://note.com/good_dill292/n/ndd519c9d5bb3",
+    "https://note.com/good_dill292/n/n0ccbe5980c51"
+   ]
+  },
+  {
+   "query": "site:x.com 防衛省の金属積層造形の契約実績",
+   "results": [
+    "https://x.com/fujikawa/status/2110885395940745597",
+    "https://x.com/tomotake94/status/2034417743441899832",
+    "https://x.com/TORNADO_P107/status/2080994580179390600",
+    "https://x.com/mod_kitakanDB/status/2071760635197526351",
+    "https://x.com/0929_masanobu/status/2026327732909662235",
+    "https://x.com/comint44/status/2042601224097382528",
+    "https://x.com/atla_kouhou_jp",
+    "https://x.com/mod_kitakanDB/status/2100026887548379151"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 防衛省の金属積層造形の契約実績",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E3%82%AB%E3%83%89%E3%83%9F%E3%82%A6%E3%83%A0%E9%9B%BB%E6%B0%97%E3%83%A1%E3%83%83%E3%82%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%B5%B7%E5%A4%96%E5%B8%82%E5%A0%B4%E6%A9%9F%E4%BC%9A%E3%81%A8%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%82%AF%E3%82%B9%E5%88%86%E6%9E%902026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%ACc-7506510717613826048-ze0zf",
+    "https://jp.linkedin.com/pulse/%E9%80%A3%E7%B6%9A%E3%82%AA%E3%83%BC%E3%83%96%E3%83%B3-market-analysis-new-trends-size-growth-expected-pktqe",
+    "https://jp.linkedin.com/pulse/%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC%E5%90%B8%E5%8F%8E%E6%9D%90%E6%96%99-market-report-2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E6%A5%AD%E7%95%8C%E6%88%90%E9%95%B7%E5%8F%8E%E7%9B%8A%E3%81%8A%E3%82%88%E3%81%B386%E3%81%AEcagr%E6%88%A6%E7%95%A5%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%A9%B3%E7%B4%B0%E5%88%86%E6%9E%90-wejkc",
+    "https://jp.linkedin.com/pulse/%E5%A4%96%E5%9B%BD%E5%B8%82%E5%A0%B4%E6%A9%9F%E4%BC%9A%E3%81%A8%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%82%AF%E3%82%B9%E5%88%86%E6%9E%90-%E3%83%A6%E3%83%8B%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%9B%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A12026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E4%BA%88%E6%B8%ACcagr-zkzte"
+   ]
+  },
+  {
+   "query": "site:facebook.com 防衛省の金属積層造形の契約実績",
+   "results": [
+    "https://www.facebook.com/3dp.idarts/",
+    "https://www.facebook.com/pages/It%E3%83%97%E3%83%AD%E3%83%9E%E3%83%83%E3%83%81%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/987854894580882/",
+    "https://www.facebook.com/mod.japn/",
+    "https://www.facebook.com/nedo.fb/posts/経済安全保障重要技術育成プログラム経済安全保障重要技術育成プログラム高度な金属積層造形システム技術の開発実証の実施体制が決定しました詳細はこちらhttpswww/699776762419913/",
+    "https://www.facebook.com/japanplanninginstitute/videos/20241217開催防衛装備庁防衛生産基盤強化法施行後１年の実績等を踏まえた今後の実施の方向性についてセミナーアーカイブ配信はこちらからhttpswwwjpic/463432630134532/",
+    "https://www.facebook.com/AbeShinzoBronzeStatue/videos/広島県呉市の日鉄跡地新たな防衛拠点へ小泉進次郎防衛大臣のさらなる覚醒か防衛省が広島県呉市にある日本製鉄跡地の取得に向け売買契約を正式に締結したかつて日本の鉄鋼業/1072278465418513/",
+    "https://www.facebook.com/ShimadzuCorporation/posts/おしらせ５月29日当社と大阪大学などが提案した研究開発課題統合型レーザー金属積層造形技術の研究開発が-nedo-の-経済安全保障重要技術育成プログラム-に採択さ/1163482562247537/",
+    "https://www.facebook.com/japanplanninginstitute/photos/12月17日火開催防衛装備庁-防衛-生産基盤強化法施行後１年の実績等を踏まえた今後の実施の方向性について-講師今村-健一-氏防衛装備庁-装備政策部-装備政策課-/1116157787177887/",
+    "https://www.facebook.com/INTERMOLD/photos/1536547798265309/"
+   ]
+  },
+  {
+   "query": "防衛省の金属積層造形の契約実績 note 社長",
+   "results": [
+    "https://note.com/keyplayers/n/n50bce28654c1",
+    "https://www.mod.go.jp/atla/funding/hyouka.html",
+    "https://note.com/kiyotani/n/n90e4f465679c",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://note.com/tatsuya_sabato/n/n4154edcb0378",
+    "https://www.mod.go.jp/j/budget/chotatsu/naikyoku/consul/kekka_gyomu.html",
+    "https://www.mod.go.jp/j/press/kisha/2026/0828a.html",
+    "https://www.nedo.go.jp/news/press/AA5_101845.html",
+    "https://note.com/whenevereagle_1/n/n029a280e01dd",
+    "https://nyusatsu-in.jp/bid/4140"
+   ]
+  },
+  {
+   "query": "防衛省の金属積層造形の契約実績 X 投稿",
+   "results": [
+    "https://x.com/ModJapan_jp?lang=ja",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://www.mod.go.jp/j/budget/release/index.html",
+    "https://drone-journal.impress.co.jp/docs/special/1188616.html",
+    "https://www.mod.go.jp/atla/funding/hyouka.html",
+    "https://nsearch.jp/nyusatsu_ankens/6564e8467b958f10c8f167fa",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.youtube.com/watch?v=8eAX5DWvvyM",
+    "https://www.nedo.go.jp/news/press/AA5_101845.html",
+    "https://www.mod.go.jp/atla/souhon/supply/jisseki/index.html"
+   ]
+  },
+  {
+   "query": "Japan Ministry of Defense additive manufacturing contract site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/paulperera_analysis-of-us-military-budget-shows-increased-activity-7407877007230869505-owb_",
+    "https://www.linkedin.com/posts/matt-mckinstry-456530144_joint-statement-reaffirming-a-shared-commitment-activity-7440952664374321152-KaFf",
+    "https://uk.linkedin.com/company/amufacture",
+    "https://www.linkedin.com/posts/machinist-in_hmt-limited-signs-mou-with-rosatom-additive-activity-7440789035859677184-bp5o",
+    "https://de.linkedin.com/in/jacobrindler",
+    "https://www.linkedin.com/posts/guy-boekenstein-4899271a9_sovereign-defence-defence-activity-7499211743462600704-byiL",
+    "https://www.linkedin.com/posts/the-defense-post_rolls-royce-has-inaugurated-a-activity-7455148873410564096-LnFt",
+    "https://in.linkedin.com/company/national-centre-for-additive-manufacturing-ncam",
+    "https://in.linkedin.com/in/varmaefesto3dmetalprinting",
+    "https://uk.linkedin.com/in/danjohns1"
+   ]
+  }
+ ],
+ "missing": {
+  "最大案件・上限": "記載なし（読んだ45頁・検索16回）",
+  "受託会社の売上": "記載なし（読んだ45頁・検索16回）"
+ }
+}

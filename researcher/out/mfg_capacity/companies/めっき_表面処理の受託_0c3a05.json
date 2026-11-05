@@ -1,0 +1,880 @@
+{
+ "name": "めっき・表面処理の受託",
+ "en": "electroplating industry Japan statistics",
+ "aliases": [
+  "全国鍍金工業組合連合会 統計",
+  "めっき 加工賃 推移",
+  "金属表面処理 事業所 従業者"
+ ],
+ "context": "工法・めっき",
+ "kind": "market",
+ "researched_at": "2026-11-05T00:50:01.747971+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "国内の電気めっき業の事業所数は、この20年で減少が続いています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の2025年経済構造実態調査によると、各業種の規模は次のとおりです（事業所数・従業者数は2025年6月1日時点、製造品出荷額等は2024年の実績",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "電気めっき業の事業所数は、工業統計（従業者4人以上の事業所）で、2004年の1,489事業所から2014年に1,162事業所、2019年に1,070事業所へと減りました",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "全国鍍金工業組合連合会（全鍍連）の組合員は、2005年4月時点で1,878社・従業員29,999人、2026年4月時点で22組合・1,107事業所・従業員24,675人です（2005年は社数、2026年は事業所数による値で、統計の事業所の数え方とも異なります）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "電気めっき業の事業所数（2025年6月時点）は、東京都155、大阪府142、愛知県106、埼玉県88、神奈川県46の順で、製造品出荷額等（2024年実績）は、愛知県573億円、大阪府457億円、埼玉県406億円、東京都400億円、長野県361億円の順です（",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "経済産業省の2025年経済構造実態調査によると、各業種の規模は次のとおりです（事業所数・従業者数は2025年6月1日時点、製造品出荷額等は2024年の実績",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "27,459人",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "31,487人",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "5,626人",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "22,229人",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "15,642人",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "電気めっき業の事業所数は、工業統計（従業者4人以上の事業所）で、2004年の1,489事業所から2014年に1,162事業所、2019年に1,070事業所へと減りました",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月時点の1,016事業所は全規模の事業所を対象とする値で、4人以上を対象とする過去の値と比べると、減少の幅は実際より小さく見えます",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "全国鍍金工業組合連合会（全鍍連）の組合員は、2005年4月時点で1,878社・従業員29,999人、2026年4月時点で22組合・1,107事業所・従業員24,675人です（2005年は社数、2026年は事業所数による値で、統計の事業所の数え方とも異なります）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所の規模は小さく、2025年6月時点の電気めっき業1,016事業所のうち、従業者29人以下の事業所が779事業所（約77%）を占めます",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "100人以上の事業所は48事業所です",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年には、大型のめっき設備を持ちながら人員不足から稼働率が下がっていた三鷹金属工業のめっき事業を、セイワHD傘下の冨士鍍金工業所が譲り受け、製造能力を約35%増やす見込みを示しました（事例②）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は取得の時点で、既存取引先以外の車載電装メーカー・自動車メーカーへの拡販、海外の自動車メーカーの新規開拓、金属加工と表面処理のパッケージでの提案、M&Aを含む生産拠点の拡充、自動化・省人化による生産性の向上の5点をシナジーとして想定していました",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの案件は、（i）事業承継型の持株会社が、株式の取得と事業の譲受を組み合わせて、愛知県・岐阜県を中心に、関東も含めてめっき・表面処理の会社と設備を積み上げている、（ii）買い手が取得の評価の目安（EV/EBITDA5倍以内）を開示している、（iii）売り手側の事情として、後継者不在だけでなく、人員不足と設備投資の余力の制約が公表されている、という点を示しています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者４人以上の事業所",
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "一方で製造品出荷額等は、この20年、4,000億円台で推移しています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の2025年経済構造実態調査によると、各業種の規模は次のとおりです（事業所数・従業者数は2025年6月1日時点、製造品出荷額等は2024年の実績",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "4,933億円",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "7,148億円",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "1,288億円",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "3,043億円",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "3,164億円",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ各年の製造品出荷額等は、4,365億円、4,169億円、4,779億円です",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "JCUは、2026年3月期の国内の装飾向け薬品の売上がデザインの傾向の変化もあり横ばいと説明",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "JCUは、2026年3月期に台湾で半導体パッケージ基板向けのめっき薬品の売上が前年から大幅に増加したと説明",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "トーカロの半導体・FPD分野の売上高は248億円（2026年3月期、連結売上高の42.4%）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体関連の需要 — トーカロは、中期経営計画「TOCALO2030」（2027年3月期〜2031年3月期）で、半導体・FPD分野の売上高を248億円（2026年3月期）から450億円に伸ばす目標を掲げています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "1,382億円（2026年3月期）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "加工事業の売上高は486億円",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "585億円（2026年3月期）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・FPD分野が売上高の42.4%",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "（１）電気めっき業における都道府県別製造品出荷額（平成22年度工業統計データより）",
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "pass": 3
+   },
+   {
+    "quote": "（２）電気めっき業における出荷額（平成22年度工業統計データより）",
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "単体の売上高は、有償支給取引を控除した付加価値額ベースで100億円超と開示されています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "対象事業の売上高は2億6,400万円（2026年6月期）、譲受価額は非公開です",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "エムエフケイは硬質アルマイト、精密洗浄、電解・化学研磨等を手がけ、2023年9月期の売上高は5億1,500万円です",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "キザイの2019年3月期の売上高は13億4,700万円、営業利益は1億1,700万円、純資産は18億4,200万円です",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年8月、残る株式を保有していたタイの上場会社Thai Stanley Electricから16.35%（170,040株）を2億9,000万バーツ（約10億2,300万円）で取得し、保有比率を83.65%から100%に引き上げました",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "2026年には、大型のめっき設備を持ちながら人員不足から稼働率が下がっていた三鷹金属工業のめっき事業を、セイワHD傘下の冨士鍍金工業所が譲り受け、製造能力を約35%増やす見込みを示しました（事例②）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの案件は、（i）事業承継型の持株会社が、株式の取得と事業の譲受を組み合わせて、愛知県・岐阜県を中心に、関東も含めてめっき・表面処理の会社と設備を積み上げている、（ii）買い手が取得の評価の目安（EV/EBITDA5倍以内）を開示している、（iii）売り手側の事情として、後継者不在だけでなく、人員不足と設備投資の余力の制約が公表されている、という点を示しています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "トーカロは、中期経営計画「TOCALO2030」で、東南アジアではタイ、インドネシア、マレーシア、シンガポールを中心に事業を広げ、米国ではアリゾナ州に2025年9月に設立したTOCALO USA-Arizonaなどで生産能力を強化するとしています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "時期については、六価クロム化合物の暫定排水基準が施行日（2024年4月1日）から3年間、亜鉛の暫定排水基準が2029年12月10日までとされていることも、設備投資の計画と合わせて検討の材料になります",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "国内の電気めっき業の事業所数は、この20年で減少が続いています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で製造品出荷額等は、この20年、4,000億円台で推移しています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "めっき薬品の分野では、2025年に米国の化学メーカーが国内のめっき薬品メーカーを取得しています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "1. めっき・表面処理業界の市場構造 — 事業所の減少と再編の要因",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の2025年経済構造実態調査によると、各業種の規模は次のとおりです（事業所数・従業者数は2025年6月1日時点、製造品出荷額等は2024年の実績",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省 2025年経済構造実態調査 製造業事業所調査 産業別統計表",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "電気めっき業の事業所数は、工業統計（従業者4人以上の事業所）で、2004年の1,489事業所から2014年に1,162事業所、2019年に1,070事業所へと減りました",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月時点の1,016事業所は全規模の事業所を対象とする値で、4人以上を対象とする過去の値と比べると、減少の幅は実際より小さく見えます",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所の規模は小さく、2025年6月時点の電気めっき業1,016事業所のうち、従業者29人以下の事業所が779事業所（約77%）を占めます",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "JCUは、2026年3月期に台湾で半導体パッケージ基板向けのめっき薬品の売上が前年から大幅に増加したと説明",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数の減少と能力の集約 — 上記のとおり、電気めっき業の事業所数は減少が続く一方、出荷額等は維持されています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "暫定基準の対象は延長のたびに絞られ、2021年12月以降は電気めっき業だけが対象となり、値も4mg/Lに引き下げられています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月の改正で、電気めっき業の暫定基準4mg/Lは2029年12月10日まで延長されました",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "六価クロム化合物の排水基準も、2024年4月1日に0.5mg/Lから0.2mg/Lに強化され、電気めっき業には施行日から3年間、暫定基準0.5mg/Lが適用されています（",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "環境省 報道発表（2024年11月、亜鉛の暫定排水基準）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "環境省 報道発表（2024年1月、六価クロム化合物の排水基準）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "化学物質の規制では、PFOS（2010年）、PFOA（2021年）、PFHxS（2024年）が化学物質審査規制法の第一種特定化学物質に指定され、PFOSを含むめっき用の表面処理剤とその調製添加剤は輸入禁止製品とされています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "事業承継 — 中小企業庁の資料によると、経営者が70歳以上の中小企業は98.6万者で、中小企業実態基本調査に基づく全体（302.2万者）の32.6%を占めます（2023年6月時点",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "人員の確保と設備投資の余力 — 三鷹金属工業のめっき事業の譲渡では、人員不足と追加投資の余力の制約により設備の稼働率が下がっていたことが、背景として公表されています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "人員と投資の余力を持つ買い手のもとで設備を稼働させることが、この取引の目的の一つでした",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "三鷹金属工業は大型のめっき設備と多数の生産ラインを持つ一方、人員不足と追加投資の余力の制約から稼働率が下がっていました",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの案件は、（i）事業承継型の持株会社が、株式の取得と事業の譲受を組み合わせて、愛知県・岐阜県を中心に、関東も含めてめっき・表面処理の会社と設備を積み上げている、（ii）買い手が取得の評価の目安（EV/EBITDA5倍以内）を開示している、（iii）売り手側の事情として、後継者不在だけでなく、人員不足と設備投資の余力の制約が公表されている、という点を示しています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "業績への影響については、売上高は変わらない一方、売上原価のうち外注加工費が減り、固定費が増える見込みとしています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "外注加工費が減るという説明からは、マルマエがこの事業に表面処理を委託していたことが読み取れます",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "目的は、精密部品事業における品質・コスト・納期の向上とサプライチェーンの強化です",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "事例④の買い手は一貫生産の強化を、事例⑤の買い手は品質・コスト・納期の向上とサプライチェーンの強化を目的としています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "取得の目的として、一貫生産の強化、品質・コスト・納期の向上、サプライチェーンの強化が挙げられています",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "三鷹金属工業では、人員不足と追加投資の余力の制約から、めっき設備の稼働率が下がっていました（事例②）",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの公表からは、事例の売り手が、価格に加えて、譲渡後に設備を稼働させる人員と投資の余力、技術と雇用の承継、事業の継続を買い手に求めていたことがうかがえます",
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/cg1/%E8%A1%A8%E9%9D%A2%E5%87%A6%E7%90%86/%E7%84%A1%E9%9B%BB%E8%A7%A3%E3%82%81%E3%81%A3%E3%81%8D/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualtec.co.jp/surface_finishing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tukada-riken.co.jp/column/plating-surface-treatment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-denki.co.jp/business/plating/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asa-mekki.com/tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-p.co.jp/mekki/plating/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2024/05/ee956971d2f4aa40830ab014f591d229.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9241717",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E3%82%81%E3%81%A3%E3%81%8D%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lucid_lotus6287/n/nf781b769b137",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/ires1978677-chemical-surface-treatment-market-by-product-type.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/eptec/product/detail/2000455773/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://tri-osaka.jp/c/content/files/archives/Corr.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.monozukuri.org/techno/technote025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfe-tec.co.jp/tech-consul/fushoku05.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.platinumpartners.jp/column-trend-mekki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tc-kyoto.or.jp/domains/surface-finishing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plama.or.jp/news/2023%E5%B9%B46%E6%9C%88%E5%AE%9F%E6%96%BD%E3%80%80%E7%B5%8C%E6%B8%88%E6%A7%8B%E9%80%A0%E5%AE%9F%E6%85%8B%E8%AA%BF%E6%9F%BB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketgrowthreports.com/jp/market-reports/metal-plating-and-finishing-market-111606",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2026/pdf/ichiran_seizo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.buffett-code.com/industries/2351303",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.neji-bane.jp/news/20201116_02_04",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/metal-plating-and-finishing-market-105449",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://sukimagroup.jp/seizou-hyoumen-shori-tokutei-ginou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fm-007.com/case/plating/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5687/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401006/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monocon.biz/column/costdown_07",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ma-succeed.jp/content/knowledge/post-12608",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-navi.co.jp/mekki-hyomen-shori-hojokin-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinnihon-kinzoku.co.jp/business/treatment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitaka-seisaku.co.jp/proposal/752/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asa-mekki.com/wp-content/uploads/2025/08/dl001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://eptec.co.jp/development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sfj.or.jp/journal/jnl_feats.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-denki.co.jp/topics/Product/a23",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://electroplating-surface.businesshub.trueone.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reqodata.com/ja/surface-treatment-plating-companies-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/japan-electroplating-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vLRVzf4ue0ZyG8FyGer0Rym5VO5h-m6vrNZAHBlkJAEExYdXC-E",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/japan-electroplating-solution-market-analysis-firje",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.com/Ken-Research-v3771/Japan-Electroplating-Size-Share-Growth-44097954/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "めっき・表面処理の受託",
+   "results": [
+    "https://mono.ipros.com/cg1/%E8%A1%A8%E9%9D%A2%E5%87%A6%E7%90%86/%E7%84%A1%E9%9B%BB%E8%A7%A3%E3%82%81%E3%81%A3%E3%81%8D/",
+    "https://www.qualtec.co.jp/surface_finishing/",
+    "https://www.tukada-riken.co.jp/column/plating-surface-treatment/",
+    "https://www.fujita-denki.co.jp/business/plating/",
+    "https://asa-mekki.com/tech/",
+    "https://www.sanwa-p.co.jp/mekki/plating/",
+    "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "https://www.mekkidia.com/list/",
+    "https://www.y-skt.co.jp/magazine/knowledge/guide-plating/",
+    "https://reqodata.com/ja/surface-treatment-plating-companies-japan"
+   ]
+  },
+  {
+   "query": "めっき・表面処理の受託 推移",
+   "results": [
+    "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2024/05/ee956971d2f4aa40830ab014f591d229.pdf",
+    "https://www.qualtec.co.jp/surface_finishing/",
+    "https://www.atpress.ne.jp/news/9241717",
+    "https://mono.ipros.com/cg2/%E3%82%81%E3%81%A3%E3%81%8D%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://note.com/lucid_lotus6287/n/nf781b769b137",
+    "https://www.gii.co.jp/report/ires1978677-chemical-surface-treatment-market-by-product-type.html",
+    "https://tc-kyoto.or.jp/domains/surface-finishing/",
+    "https://www.jcu-i.com/wp-content/uploads/2017/03/irks_20160513.pdf",
+    "https://www.platinumpartners.jp/column-trend-mekki.html"
+   ]
+  },
+  {
+   "query": "めっき・表面処理の受託 統計 PDF",
+   "results": [
+    "https://pr.mono.ipros.com/eptec/product/detail/2000455773/",
+    "https://zentoren.or.jp/mekki/data.html",
+    "http://tri-osaka.jp/c/content/files/archives/Corr.pdf",
+    "https://www.qualtec.co.jp/surface_finishing/",
+    "http://www.monozukuri.org/techno/technote025.pdf",
+    "https://www.jfe-tec.co.jp/tech-consul/fushoku05.html",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.uyemura.co.jp/wordpress/wp-content/uploads/2024/05/ee956971d2f4aa40830ab014f591d229.pdf",
+    "https://www.sun-kk.co.jp/knowledge/about/list-of-plating-processes.php",
+    "https://electroplating-surface.businesshub.trueone.co.jp/"
+   ]
+  },
+  {
+   "query": "めっき・表面処理の受託 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "https://www.platinumpartners.jp/column-trend-mekki.html",
+    "https://tc-kyoto.or.jp/domains/surface-finishing/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.plama.or.jp/news/2023%E5%B9%B46%E6%9C%88%E5%AE%9F%E6%96%BD%E3%80%80%E7%B5%8C%E6%B8%88%E6%A7%8B%E9%80%A0%E5%AE%9F%E6%85%8B%E8%AA%BF%E6%9F%BB/",
+    "https://www.marketgrowthreports.com/jp/market-reports/metal-plating-and-finishing-market-111606",
+    "https://www.stat.go.jp/data/e-census/2026/pdf/ichiran_seizo.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/"
+   ]
+  },
+  {
+   "query": "めっき・表面処理の受託 従業者規模別",
+   "results": [
+    "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "https://www.buffett-code.com/industries/2351303",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.neji-bane.jp/news/20201116_02_04/",
+    "https://www.businessresearchinsights.com/jp/market-reports/metal-plating-and-finishing-market-105449",
+    "https://sukimagroup.jp/seizou-hyoumen-shori-tokutei-ginou/",
+    "https://www.fm-007.com/case/plating/",
+    "https://www.platinumpartners.jp/column-trend-mekki.html",
+    "https://metoree.com/categories/5687/",
+    "https://www.qualtec.co.jp/case_study_category/surface_finishing/"
+   ]
+  },
+  {
+   "query": "めっき・表面処理の受託 1人当たり 万円",
+   "results": [
+    "https://batonz.jp/sell_cases/bk_2400000/bk_2401006/",
+    "https://www.monocon.biz/column/costdown_07",
+    "https://ma-succeed.jp/content/knowledge/post-12608",
+    "https://hojokin-navi.co.jp/mekki-hyomen-shori-hojokin-2026/",
+    "https://mono.ipros.com/cg2/%E3%82%81%E3%81%A3%E3%81%8D%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.shinnihon-kinzoku.co.jp/business/treatment/",
+    "https://www.mitaka-seisaku.co.jp/proposal/752/",
+    "https://sanwamekki.com/info/column/column_others/unit-price-setting/",
+    "https://leon-strategy.com/want/setsubi/mekki/jidousha-sonota",
+    "https://neopretex.com/column/plating-quote-pricing-breakdown/"
+   ]
+  },
+  {
+   "query": "めっき・表面処理の受託 2015 2025",
+   "results": [
+    "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "https://mono.ipros.com/cg1/%E8%A1%A8%E9%9D%A2%E5%87%A6%E7%90%86/%E7%84%A1%E9%9B%BB%E8%A7%A3%E3%82%81%E3%81%A3%E3%81%8D/",
+    "https://asa-mekki.com/wp-content/uploads/2025/08/dl001.pdf",
+    "https://eptec.co.jp/development/",
+    "https://tc-kyoto.or.jp/domains/surface-finishing/",
+    "https://www.sfj.or.jp/journal/jnl_feats.html",
+    "https://www.tukada-riken.co.jp/column/plating-surface-treatment/",
+    "https://www.fujita-denki.co.jp/topics/Product/a23",
+    "https://www.qualtec.co.jp/surface_finishing/",
+    "https://electroplating-surface.businesshub.trueone.co.jp/"
+   ]
+  },
+  {
+   "query": "electroplating industry Japan statistics Japan statistics",
+   "results": [
+    "https://www.kenresearch.com/japan-electroplating-market",
+    "https://www.stat.go.jp/english/",
+    "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vLRVzf4ue0ZyG8FyGer0Rym5VO5h-m6vrNZAHBlkJAEExYdXC-E",
+    "https://www.linkedin.com/pulse/japan-electroplating-solution-market-analysis-firje",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://www.marketresearch.com/Ken-Research-v3771/Japan-Electroplating-Size-Share-Growth-44097954/",
+    "https://www.jema-net.or.jp/English/stats/index.html",
+    "https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-japan.pdf",
+    "https://zentoren.or.jp/en/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com めっき・表面処理の受託",
+   "results": [
+    "https://note.com/lucid_lotus6287/n/nf781b769b137",
+    "https://note.com/manav_/n/ndae2cdc06cfe",
+    "https://note.com/ebinax/n/ne9087d69767f",
+    "https://note.com/loyal_myrtle1528/n/n0f05cf5f19ea",
+    "https://note.com/lucid_lotus6287/n/nd7eb15603f67",
+    "https://note.com/manav_/n/n74cd3f240acb",
+    "https://note.com/serendip_hd7318/n/n85f1a89422f1",
+    "https://note.com/mobio_osaka/n/n5f63c9c4a570",
+    "https://note.com/kakuka0904/n/n1304f072e432",
+    "https://note.com/kokonoe_cluture/n/n10020d9ca624"
+   ]
+  },
+  {
+   "query": "site:x.com めっき・表面処理の受託",
+   "results": [
+    "https://x.com/realix1967",
+    "https://x.com/atengineer_info",
+    "https://x.com/tech_activator",
+    "https://x.com/takeshimanago",
+    "https://x.com/syukatsu_fukui",
+    "https://x.com/Nikkan_Events/status/2100117482296291530",
+    "https://x.com/norion_tech",
+    "https://x.com/Nihonkazai",
+    "https://x.com/johnancorp",
+    "https://x.com/senbankako"
+   ]
+  },
+  {
+   "query": "site:linkedin.com めっき・表面処理の受託",
+   "results": [
+    "https://jp.linkedin.com/pulse/hdi%E7%94%A8%E9%9B%BB%E8%A7%A3%E9%8A%85%E3%82%81%E3%81%A3%E3%81%8D-%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BA%88%E6%B8%AC2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87132%E3%81%AE%E6%88%90%E9%95%B7%E5%8F%AF%E8%83%BD%E6%80%A7-lbiae",
+    "https://jp.linkedin.com/pulse/%E6%9C%80%E6%96%B0%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%81%AE%E7%B5%90%E6%9E%9C%E3%81%A8%E3%81%97%E3%81%A6%E4%B8%89%E4%BE%A1%E3%82%AF%E3%83%AD%E3%83%A0%E4%BB%95%E4%B8%8A%E3%81%92-market-forecasted-from-2026--amioe",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E5%9F%BC%E7%8E%89%E7%9C%8C%E4%B8%89%E9%83%B7%E5%B8%82%E3%80%91%E5%93%81%E8%B3%AA%E7%AE%A1%E7%90%86%EF%BC%88%E4%BF%82%E9%95%B7%EF%BD%9E%E8%AA%B2%E9%95%B7%E7%B4%9A%EF%BC%89%EF%BC%8F%E8%BB%A2%E5%8B%A4%E3%81%AA%E3%81%97%E3%83%BB%E6%9D%B1%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E7%B4%9A%E3%81%AE%E3%83%A1%E3%83%83%E3%82%AD%E5%8A%A0%E5%B7%A5%E5%B7%A5%E5%A0%B4%E3%83%BB%E9%95%B7%E6%9C%9F%E4%BC%91%E6%9A%87%E5%85%85%E5%AE%9F-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4486420084",
+    "https://jp.linkedin.com/pulse/dlc%E3%82%B3%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%8A%E3%82%88%E3%81%B3%E3%82%B3%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90%E6%A5%AD%E7%95%8C%E5%8B%95%E5%90%91%E3%81%A8cagr-88%E6%88%90%E9%95%B72026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4-pavilion-pace-tszle",
+    "https://jp.linkedin.com/pulse/%E5%B8%82%E5%A0%B4%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%82%AF%E3%82%B9%E6%95%B4%E5%BD%A2%E5%A4%96%E7%A7%91%E7%94%A8%E3%82%A4%E3%83%B3%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88%E6%8A%97%E8%8F%8C%E3%82%B3%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-7513515527680614401-fy8ze",
+    "https://jp.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AA%E3%83%BC%E3%83%92%E3%83%A9",
+    "https://jp.linkedin.com/pulse/%E5%B8%82%E5%A0%B4%E5%8B%95%E5%90%91%E3%81%A8%E3%82%AB%E3%83%89%E3%83%9F%E3%82%A6%E3%83%A0%E3%83%95%E3%83%AB%E3%82%AA%E3%83%AD%E3%83%9B%E3%82%A6%E9%85%B8%E5%A1%A9-cas%E7%95%AA%E5%8F%B714486-19-2-%E6%A5%AD%E7%95%8C%E4%BA%88%E6%B8%AC2033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%8B%95%E5%90%91%E6%A9%9F%E4%BC%9A%E3%81%8A%E3%82%88%E3%81%B3%E4%BA%88%E6%83%B3cagr-7tsje",
+    "https://jp.linkedin.com/pulse/%E8%B2%B4%E9%87%91%E5%B1%9E%E9%9B%BB%E8%A7%A3%E8%B3%AA%E5%B8%82%E5%A0%B4%E3%81%AE%E5%AE%8C%E5%85%A8%E5%88%86%E6%9E%90%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E3%81%8A%E3%82%88%E3%81%B398%E4%BA%88%E6%B8%AC2026%E5%B9%B4-2033%E5%B9%B4-verityx-p3gme",
+    "https://jp.linkedin.com/pulse/%E6%9C%80%E6%96%B0%E5%88%86%E6%9E%90%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8D%E3%82%B9%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9F%E3%83%B3%E9%85%B8%E3%83%8B%E3%83%83%E3%82%B1%E3%83%AB-ii-%E5%9B%9B%E6%B0%B4%E5%92%8C%E7%89%A9%E5%B8%82%E5%A0%B4%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E5%A0%85%E8%AA%BF%E3%81%AAcagr116%E3%81%A7%E6%88%90%E9%95%B7%E3%81%99%E3%82%8B%E3%81%A8%E4%BA%88%E6%83%B3%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99-4uore",
+    "https://jp.linkedin.com/pulse/pvd%E8%A3%85%E9%A3%BE%E3%82%B3%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC2026%E5%B9%B42033%E5%B9%B4cagr-12%E5%8F%8E%E7%9B%8A%E3%81%8A%E3%82%88%E3%81%B3%E5%9C%B0%E5%9F%9F%E5%88%A5%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%AE%E5%88%86%E6%9E%90-pznse"
+   ]
+  },
+  {
+   "query": "site:facebook.com めっき・表面処理の受託",
+   "results": [
+    "https://www.facebook.com/sensyo7/?locale=ja_JP",
+    "https://www.facebook.com/umeda.ss/",
+    "https://www.facebook.com/factlink.com.vn/posts/-%E4%BB%8A%E9%80%B1%E3%81%AE%E6%B3%A8%E7%9B%AE%E4%BC%81%E6%A5%AD%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B-nbv-%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0-coltd%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E6%9D%BF%E9%87%91%E5%8A%A0%E5%B7%A5%E5%93%81%E3%82%92%E4%B8%80%E8%B2%AB%E7%94%9F%E7%94%A3%E6%BA%B6%E8%9E%8D%E4%BA%9C%E9%89%9B%E3%83%A1%E3%83%83%E3%82%AD%E9%87%91%E7%89%A9%E5%9C%9F%E6%9C%A8%E5%BB%BA%E7%AF%89%E9%83%A8%E6%9D%90%E6%9E%B6%E7%B7%9A%E9%87%91%E7%89%A9%E5%90%84%E7%A8%AE%E6%9D%BF%E9%87%912013%E5%B9%B411%E6%9C%88%E3%81%AB%E4%BD%8E%E4%BE%A1%E6%A0%BC%E7%9F%AD%E7%B4%8D%E6%9C%9F/1036806711834867/",
+    "https://www.facebook.com/sankoseisaku/",
+    "https://www.facebook.com/100057261497497/?locale=mk_MK",
+    "https://www.facebook.com/factlink.com.vn/",
+    "https://www.facebook.com/nichimecha/",
+    "https://www.facebook.com/61552652726128/posts/10%E6%9C%8822%E6%97%A523%E6%97%A5%E3%81%A8%E7%87%95%E4%B8%89%E6%9D%A1%E5%9C%B0%E5%A0%B4%E7%94%A3%E6%A5%AD%E6%8C%AF%E8%88%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%81%A6%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E7%87%95%E4%B8%89%E6%9D%A1%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%A1%E3%83%83%E3%82%BB2026%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F1%E6%97%A5%E7%9B%AE%E3%81%AF%E3%81%82%E3%81%84%E3%81%AB%E3%81%8F%E3%81%AE%E9%9B%A82%E6%97%A5%E7%9B%AE%E3%81%AF%E7%A7%8B%E6%99%B4%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E5%BD%93%E6%97%A5%E3%81%AF%E7%9F%AD%E3%81%84/122279278682088424/",
+    "https://www.facebook.com/takeproductstakeshiakita/",
+    "https://www.facebook.com/sensyo7/"
+   ]
+  },
+  {
+   "query": "めっき・表面処理の受託 note 社長",
+   "results": [
+    "https://note.com/lucid_lotus6287/n/nf781b769b137",
+    "https://note.com/mobio_osaka/n/n5f63c9c4a570",
+    "https://www.yoridori.jp/earth-note/interview-narumi-plating/",
+    "https://www.qualtec.co.jp/surface_finishing/",
+    "https://note.com/towariken/all",
+    "https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/",
+    "https://diamond.jp/articles/-/363003",
+    "https://jutaku-seizo.net/contents/003",
+    "https://mbp-japan.com/tokyo/officetrueone/column/5240218/",
+    "https://reqodata.com/ja/surface-treatment-plating-companies-japan"
+   ]
+  },
+  {
+   "query": "めっき・表面処理の受託 X 投稿",
+   "results": [
+    "https://www.qualtec.co.jp/surface_finishing/",
+    "https://asa-mekki.com/faq/",
+    "https://mono.ipros.com/product/detail/2001665122/",
+    "https://tc-kyoto.or.jp/domains/surface-finishing/",
+    "https://metoree.com/categories/5687/",
+    "https://orist.jp/kenkyu-bu/kinzoku-hyomen/",
+    "https://www.mitsuyanet.co.jp/others/process.php",
+    "https://www.tosetz.com/post/_0033",
+    "https://fusoplating.co.jp/flow/",
+    "https://reqodata.com/ja/surface-treatment-plating-companies-japan"
+   ]
+  },
+  {
+   "query": "electroplating industry Japan statistics site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/global-copper-electroplating-solution-market-analysis-statistics-vaixe",
+    "https://www.linkedin.com/pulse/market-leaders-laggards-global-electroplating-apparatus-trends-aa7sc",
+    "https://www.linkedin.com/pulse/report-offers-thorough-study-metal-electroplating-kit-market-d2x5e",
+    "https://www.linkedin.com/pulse/evaluating-profitability-growth-germany-electroplating-solution-ik2he",
+    "https://www.linkedin.com/pulse/growth-insights-electroplating-machines-market-whats-fueling-byfqe",
+    "https://www.linkedin.com/pulse/whats-driving-europe-electroplating-solution-market-boom-key-jbpte",
+    "https://www.linkedin.com/pulse/nickel-electroplating-additive-market-outlook-e5ise",
+    "https://www.linkedin.com/pulse/high-purity-gold-potassium-cyanide-market-us-japan-lqyff",
+    "https://sg.linkedin.com/in/yin-kong-choong",
+    "https://in.linkedin.com/in/preyansh-shah-70bb91197"
+   ]
+  }
+ ],
+ "missing": {}
+}

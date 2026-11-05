@@ -13578,18 +13578,97 @@
 
 ## ＷＯＬＶＥＳ　ＨＡＮＤ
 - 公式URL：特定できず（not_found）
-- 設立：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索12回）
-- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索12回）
-- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索12回）
-- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索12回）
-- ビジネスモデル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索12回）
-- 誰に：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索12回）
-- 何を：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索12回）
-- どうやって売るか：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索12回）
-- お金の形：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索12回）
-- 売上構成：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索12回）
-- 利益の源泉：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索12回）
-- 沿革：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索12回）
+- 株主：－ 4 18 12 24 18 1,405 1,481 －（https://kitaishihon.com/company/194A/board-of-director・3回目）
+- 株主構成：
+  - 「その後、JVCC株式会社グループ及び同社への出資ファンドを運営するJ-STAR株式会社との統合を契機に「第１ 企業の概況（はじめに）」に記載のとおり、当社（株式会社WOLVES Hand）が設立され、株式会社大冬希、株式会社Ｖパワー、JVCCグループ、株式会社ベイサイドアニマルクリニックとの統合を進めながら、ペットサロンの運営、動物病院向けソフトウエアの提供、獣医療教育セミナーの配信、医療用機械器具の製造・販売など事業を進めて参りました」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「株主・投資家の皆様に向けてメッセージを掲載しています」（https://wolveshand.jp/ir/・3回目）
+  - 「持株比率 38.63%」（https://kitaishihon.com/company/194A/board-of-director・3回目）
+  - 「２．2021年９月30日開催の定時株主総会において定款の変更が決議されたことにより、当社は同日付をもって監査等委員会設置会社へ移行しました」（https://kitaishihon.com/company/194A/board-of-director・3回目）
+  - 「３．2025年９月26日開催の定時株主総会終結の時から１年間であります」（https://kitaishihon.com/company/194A/board-of-director・3回目）
+  - 「４．2025年９月26日開催の定時株主総会終結の時から２年間であります」（https://kitaishihon.com/company/194A/board-of-director・3回目）
+  - 「b．2026年９月30日開催予定の定時株主総会の議案（決議事項）として、「取締役（監査等委員である取締役を除く」（https://kitaishihon.com/company/194A/board-of-director・3回目）
+  - 「なお、役員の役職等については、当該定時株主総会の直後に開催が予定される取締役会の決議事項の内容（役職等）を含めて記載しています」（https://kitaishihon.com/company/194A/board-of-director・3回目）
+  - 「３．2026年９月30日開催の定時株主総会終結の時から１年間であります」（https://kitaishihon.com/company/194A/board-of-director・3回目）
+- 創業年度：
+  - 「当社の代表取締役CEO兼COOである北井正志は、2000年１月に大阪市西区南堀江にて「きたい動物病院」を開院した後、株式会社大冬希、株式会社Ｖパワーを設立し動物病院事業を拡大して参りました」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「その後、JVCC株式会社グループ及び同社への出資ファンドを運営するJ-STAR株式会社との統合を契機に「第１ 企業の概況（はじめに）」に記載のとおり、当社（株式会社WOLVES Hand）が設立され、株式会社大冬希、株式会社Ｖパワー、JVCCグループ、株式会社ベイサイドアニマルクリニックとの統合を進めながら、ペットサロンの運営、動物病院向けソフトウエアの提供、獣医療教育セミナーの配信、医療用機械器具の製造・販売など事業を進めて参りました」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「以下では、当社の設立、株式会社大冬希、株式会社Ｖパワー、JVCCグループ各社の吸収合併を経た現在に至るまでの沿革のほか、「きたい動物病院」の開院から当社への統合に至るまでの沿革を記載しています」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「東京都千代田区に動物病院の運営を主たる事業として、株式会社WOLVES Handを設立」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「カルテック承継株式会社（現：カルテック株式会社）を設立」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「大阪市西区に、堀江動物医療センター有限会社を設立して動物病院事業を法人化」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「大阪市西区に、株式会社大冬希を設立し、株式会社へ移行」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「中央動物医療センター内に夜間救急外来・大阪動物ＥＲセンターを設立」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「設立 2019年4月」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「社設立）し、事業承継M&Aに」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「・2019年の設立以降、増収増益を継続中、6期連続増収増益を継続しており、過去最高売上高を記録」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「4 東京都千代田区に動物病院の運営を主たる事業として、㈱WOLVES Handを設立」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+- ビジネスモデル：
+  - 「「どなたでも気軽に最先端の動物医療を提供する」を掲げるWOLVES HANDが問う、高収益モデルと理念語の距離」（https://money.note.com/companies/194A・3回目）
+  - 「第1章. ビジネスモデルの「持続性」」（https://note.com/tekkan/n/n945e42eb06a4・3回目）
+- 誰に：
+  - 「電子カルテや各種証明書の発行、顧客」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「成に注力した結果、当社の顧客」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「ビス及び高度医療を提供していく体制維持を継続することで 、顧客」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+- 何を：
+  - 「トリミングサービスの提供・ペットホテルの運営等のペットサロンの運営を開始」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「ヘルスケア・環境関連製品の研究開発・製造・販売」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「を形成し、シームレスにサービスを提供」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「 当社主力の東京、大阪、沖縄」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「付随ビジネスの開拓 成長加速に向け、共同研究による創薬・商品開発など動物医療関連ビジネスを想定」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「 豊富な診療件数の臨床例活用 共同研究による創薬・商品開発」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「付随ビジネスの開拓例 当社の豊富な診療件数を活用し、大手医薬品会社等との連携により創薬・商品開発」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「動物先端医療研究所創薬・商品開発のビジネススキーム」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「 当社は保有する治験データを活用し、ペット用商品、サプ」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「ヘルスケア・環境関連製品の研究開発・製造・販売」（https://kitaishihon.com/company/194A/board-of-director・3回目）
+- どうやって売るか：
+  - 「り、高度診療は紹介で受入れ」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「外来、紹介の増加」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「 獣医大学や人材紹介会社と連携しながら説明会の開催や実習の」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「期待株紹介Part２！ 194A WOLVESHAND」（https://money.note.com/companies/194A・3回目）
+- お金の形：
+  - 「師数、診療件数・単価、動物病」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「動物病院数＆1病院当たり売上高、診療件数＆診療単価の推移 いずれも高水準で安定的に推移」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「 診療単価と1病院当たり売上高」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「診療単価 12.9千円」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「の確保及び診療単価上昇によるリスクの軽減を図っている」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「格水準の上昇に合わせて医薬品代や診察単価の改定等の対応を」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「第８章. 考察：次の一手「予防医療とサブスクリプション」」（https://note.com/tekkan/n/n945e42eb06a4・3回目）
+  - 「- 月額500円で、すべての限定記事が読み放題！」（https://note.com/tekkan/n/n945e42eb06a4・3回目）
+- 利益の源泉：
+  - 「 営業利益率は17％前後で推」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「営業利益 EBITDA 営業利益率 EBITDAマージン」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+  - 「「どなたでも気軽に最先端の動物医療を提供する」を掲げるWOLVES HANDが問う、高収益モデルと理念語の距離」（https://money.note.com/companies/194A・3回目）
+- 沿革：
+  - 「WOLVES HAND【194A】のストーリー・沿革 - キタイシホン」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「2026年6月期有価証券報告書より」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「以下では、当社の設立、株式会社大冬希、株式会社Ｖパワー、JVCCグループ各社の吸収合併を経た現在に至るまでの沿革のほか、「きたい動物病院」の開院から当社への統合に至るまでの沿革を記載しています」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「2019年４月」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「2019年５月」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「2019年６月」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「2019年８月」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「2019年10月」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「2019年11月」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「2020年１月」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「2020年４月」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「2020年10月」（https://kitaishihon.com/company/194A/story・3回目）
+- 検索結果の抜粋：
+  - 「WOLVES HAND 【194A】の 大株主 | バフェット・コード — WOLVES HAND 【194A】の 大株主 | バフェット・コード バフェット・コード https://www.buffett-code.com > mainshareholder」（https://www.buffett-code.com/company/194A/mainshareholder・3回目）
+  - 「WOLVES HAND 【194A】の 大株主 情報 - 株探 — WOLVES HAND 【194A】の 大株主 情報 - 株探 株探 https://kabutan.jp > stock > holder」（https://kabutan.jp/stock/holder?code=194A・3回目）
+  - 「IR IR情報 - WOLVES HAND動物病院グループ — IR IR情報 - WOLVES HAND動物病院グループ WOLVES HAND動物病院グループ https://wolveshand.jp > ...」（https://wolveshand.jp/ir/・3回目）
+  - 「ウルブズ ハンド （194A）のプロフィール | 会社四季報オンライン — ウルブズ ハンド （194A）のプロフィール | 会社四季報オンライン 四季報オンライン https://shikiho.toyokeizai.net > ... > WOLVES HAND」（https://shikiho.toyokeizai.net/stocks/194A/corporate・3回目）
+  - 「WOLVES HAND 【194A】の社長・役員 - キタイシホン — WOLVES HAND 【194A】の社長・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director」（https://kitaishihon.com/company/194A/board-of-director・3回目）
+  - 「会社概要 - WOLVES HAND動物病院グループ — 会社概要 - WOLVES HAND動物病院グループ WOLVES HAND動物病院グループ https://wolveshand.jp > ホーム > 会社概要」（https://wolveshand.jp/company/・3回目）
+  - 「WOLVES HAND 【194A】のストーリー・沿革 - キタイシホン — WOLVES HAND 【194A】のストーリー・沿革 - キタイシホン キタイシホン https://kitaishihon.com > company > story」（https://kitaishihon.com/company/194A/story・3回目）
+  - 「WOLVES HAND [ウルブズハンド]（194A）のIPO上場情報 — WOLVES HAND [ウルブズハンド]（194A）のIPO上場情報 やさしいIPO株のはじめ方 https://www.ipokiso.com > company > wolveshand」（https://www.ipokiso.com/company/2024/wolveshand.html・3回目）
+  - 「会社概要 - 動物病院M&A事業継承 — 会社概要 - 動物病院M&A事業継承 WOLVES HAND動物病院グループ https://ma.wolveshand.jp > company」（https://ma.wolveshand.jp/company/・3回目）
+  - 「WOLVES HAND ［194A］IPO - YouTube — WOLVES HAND ［194A］IPO - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=Ba6nUCkrcVw・3回目）
+  - 「WOLVES HAND [194A]：事業計画及び成長可能性 ... — WOLVES HAND [194A]：事業計画及び成長可能性 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20250930565398/・3回目）
+  - 「株式会社 WOLVES HAND — 株式会社 WOLVES HAND finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250930/20250930565398.pdf・3回目）
+- 設立：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）
+- 売上構成：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部21頁・検索21回）
 
 ## ＺＥＴＡ
 - 公式URL：https://www.zetaglobal.com/（search:yahoo_jp:ZETA）
@@ -14394,18 +14473,21 @@
 
 ## ｉ‐ｐｌｕｇ
 - 公式URL：特定できず（not_found）
-- 設立：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索11回）
-- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索11回）
-- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索11回）
-- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索11回）
-- ビジネスモデル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索11回）
-- 誰に：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索11回）
-- 何を：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索11回）
-- どうやって売るか：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索11回）
-- お金の形：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索11回）
-- 売上構成：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索11回）
-- 利益の源泉：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索11回）
-- 沿革：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索11回）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部14頁・検索20回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部14頁・検索20回）
+- 設立：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部14頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部14頁・検索20回）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部14頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部14頁・検索20回）
+- 株主構成：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部14頁・検索20回）
+- ビジネスモデル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部14頁・検索20回）
+- 誰に：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部14頁・検索20回）
+- 何を：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部14頁・検索20回）
+- どうやって売るか：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部14頁・検索20回）
+- お金の形：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部14頁・検索20回）
+- 売上構成：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部14頁・検索20回）
+- 利益の源泉：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部14頁・検索20回）
+- 沿革：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部14頁・検索20回）
 
 ## ｊｉｇ．ｊｐ
 - 公式URL：https://www.jig.jp/（search:yahoo_jp:jig.jp）
@@ -25816,19 +25898,139 @@
 - 売上構成：記載なし（3回確認済み：公式21頁／PDF・画像11件／外部1頁・検索5回）
 
 ## エックスネット
-- 公式URL：特定できず（not_found）
-- 設立：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- ビジネスモデル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- 誰に：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- 何を：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- どうやって売るか：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- お金の形：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- 売上構成：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- 利益の源泉：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- 沿革：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
+- 公式URL：https://www.xnet.co.jp/（search:yahoo_jp:エックスネット）
+- 創業年度：Established：June 3,1991（https://www.xnet.co.jp/about/index_ab_en.html・1回目）
+- 創業年度：設立：1991年6月3日（平成3年）（https://www.xnet.co.jp/if/ceomes2.html・1回目）
+- 株主：東京都千代田区丸の内一丁目4番1号 三井住友信託銀行株式会社（https://www.xnet.co.jp/if/index_ir.html・1回目）
+- 従業員数：208名（2026年3月31日現在）（https://www.xnet.co.jp/if/ceomes2.html・1回目）
+- 事業内容：アプリケーションアウトソーシング事業（商品名「ＸＮＥＴサービス」）（https://www.xnet.co.jp/if/ceomes2.html・1回目）
+- 株主構成：
+  - 「「株式分割」、株式分割に伴う「定款の一部変更」、「配当予想の修正」および「株主優待制度の変更」に関するお知らせ」（https://www.xnet.co.jp/・1回目）
+  - 「(株)ＮＴＴデータと資本提携解消、新たな業務提携へ」（https://www.xnet.co.jp/if/ceomes2.html・1回目）
+  - 「株主・投資家の皆様へ | 株式会社エックスネット」（https://www.xnet.co.jp/if/index_ir.html・1回目）
+  - 「定時株主総会・期末配当 毎年3月31日」（https://www.xnet.co.jp/if/index_ir.html・1回目）
+  - 「株主様の口座のある証券会社にお申出ください」（https://www.xnet.co.jp/if/index_ir.html・1回目）
+  - 「なお、証券会社等に口座がないため特別口座を開設されました株主様は、特別口座の口座管理機関である三井住友信託銀行株式会社にお申出ください」（https://www.xnet.co.jp/if/index_ir.html・1回目）
+  - 「株主名簿管理人である三井住友信託銀行株式会社にお申出ください」（https://www.xnet.co.jp/if/index_ir.html・1回目）
+  - 「ただし、株式数比例配分方式をご選択いただいている株主様につきましては、源泉徴収税額の計算は証券会社等にて行われます」（https://www.xnet.co.jp/if/index_ir.html・1回目）
+  - 「なお、配当金領収証にて配当金をお受け取りの株主様につきましても、配当金のお支払いの都度「配当金計算書」を同封させていただいております」（https://www.xnet.co.jp/if/index_ir.html・1回目）
+  - 「確定申告をなされる株主様は大切に保管ください」（https://www.xnet.co.jp/if/index_ir.html・1回目）
+  - 「「株式分割」、株式分割に伴う「定款の一部変更」、「配当予想の修正」および「株主優待制度の変更」に関するお知らせ（PDF：192KB）」（https://www.xnet.co.jp/if/ir4.html・1回目）
+  - 「支配株主等に関する事項について（PDF：175KB）」（https://www.xnet.co.jp/if/ir4.html・1回目）
+- 創業年度：
+  - 「従業員持株会設立に関するお知らせ（PDF：105KB）」（https://www.xnet.co.jp/if/ir4.html・1回目）
+  - 「shares as of June 30, 2026) held by a trust account. The trust account was established in」（https://www.xnet.co.jp/if/ir4files/20260731-2.pdf・2回目）
+  - 「The company was established in June 1991 and began offering “XNET Service,” its current mainstay service. In October of」（https://www.xnet.co.jp/if/ir6files/20260723-1.pdf・2回目）
+  - 「established in May 2025 as a system for arbitrary registration specified in the Financial Instruments and Exchange Act , in」（https://www.xnet.co.jp/if/ir6files/20260723-1.pdf・2回目）
+  - 「創業以来、業界のデファクトスタンダードとして牽引しており、生損保業界においては90％前後」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「1991 年 6 月に設立し、現在の主力サービス「XNET サービス」の提供を開始した」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「④ 日本で拠点開設をする海外金融事業者（投資運用業者、 投資助言 ・ 代理業者等）に対し、創業面や生活面の情報提供・」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「こうした状況に対し、同社は、創業当初から自社で情報システムを構築し、月々のサービス料だけで複数の顧客に提供するという」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「⑭投資信託委託業開業支援サービス 投資信託委託業の開業に当たり、会社設立、投資申請準備から開業まで、一貫して」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「⑮投資一任業開業支援サービス 投資一任業の開業に当たり、会社設立、投資申請準備から開業まで、一貫して支援」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「「XNET サービス」は、創業当時（1991 年）から月額定額の利用料を継続的に受領するサブスクリプションモデルによりサービスを」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「当社は多様な人財を確保するため創業以来、中途採用を原則としており、管理職における中途採用者の割合は100％を占めて」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+- ビジネスモデル：
+  - 「で、当社のアプリケーションとホスティング環境をご利用いただくサービス型のビジネスモデル』」（https://www.xnet.co.jp/news/ixfiles/20260804-1.pdf・2回目）
+  - 「独自のビジネスモデルを考え、これを「XNETサービス」と名付けた」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「（３）ビジネスモデル：サブスクリプションモデルを採用」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「る「パッケージ型」とは一線を画す先進的なビジネスモデルである」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「（３）安定的な収益構造」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+- 誰に：
+  - 「また、個人向け信託管理システムについても導入社数」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「顧客である機関投資家においてＩＴ人材が不足するなか、当社が長年蓄えてきた金融システム関連の知見およ」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「修正』及び『第２四半期末配当（エクストラ配当）予想の修正』に関するお知らせ」における説明のとおり、顧客」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「2027 年３月期第２四半期（中間期）については、顧客需要の拡大を背景として想定以」（https://www.xnet.co.jp/if/ir4files/20260916-1.pdf・2回目）
+  - 「また、個人向け信託管理システムについても導入社数が徐々に拡大するなど、アプリケーシ」（https://www.xnet.co.jp/if/ir4files/20260731-1.pdf・2回目）
+  - 「顧客である機関投資家においてＩＴ人材が不足するなか、当社が長年蓄えてきた金融システム関連の知見および」（https://www.xnet.co.jp/if/ir4files/20260731-1.pdf・2回目）
+  - 「顧客とコラボレーションしながら成長し続けることのできる「eXcellent Company」を目指している」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「２．「できない」→「できる！」にしてお客様を笑顔にするために努力し続けます」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「また、ビジョンとして「買い手よし：顧客である資産運用業界」「売り手よし：同社」「世間よし：日本経済・国民」「未来よし：3 者全員の」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「同社では、自社がすべてのソリューションを有するのではなく、顧客が望むどのサービス、システムともつなぎ、共生する状況を目指」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「後述する「資産運用立国」構想もあり、今後も同社の顧客市場は安定的」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「一方、同社の顧客は、ビジネス環境変化の影響を受け、リソース不足と本業への集中を余儀なくされており、後述するAMO サー」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+- 何を：
+  - 「株式会社かんぽ生命保険に対する有価証券管理サービスの提供開始について」（https://www.xnet.co.jp/・1回目）
+  - 「ＸＮＥＴサービスについて | 株式会社エックスネット」（https://www.xnet.co.jp/about/index_ab.html・1回目）
+  - 「｢サービス導入によるシステム調達｣をご提案いたします」（https://www.xnet.co.jp/about/index_ab.html・1回目）
+  - 「サービスのご提供のため、」（https://www.xnet.co.jp/about/index_ab.html・1回目）
+  - 「※ 一部サービスでは発生する場合があります」（https://www.xnet.co.jp/about/index_ab.html・1回目）
+  - 「アプリケーションアウトソーシング事業（商品名「ＸＮＥＴサービス」）」（https://www.xnet.co.jp/if/ceomes2.html・1回目）
+  - 「当社はパーパス実現に向け、資産運用管理ソリューション「ＸＮＥＴサービス」の提供を」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「資産運用管理ソリューション「ＸＮＥＴサービス」は、大別して以下に区分されます」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「有価証券管理システムを中心としたXNETシステムの月額利用料を収益源とするサービス」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「XNETシステムに関する導入や保守、会計制度変更対応等の業務を請負うサービス（システム運用受託）」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「これらのうち、アプリケーション、ＳＯおよびＡＭＯのなかで継続的なシステム保守サービスについては、当」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「社の安定的な収益基盤を支えるコアサービス（コア売上）として捉え、より積極的にビジネス拡大を推進しており」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+- どうやって売るか：
+  - 「同社は法制面など外部パートナーと連携して開業支援サービスを提供し、既に多くの実績を積み上げており、これもポジティブな」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「営銀行による単独利用、信託銀行が地域金融機関と提携する代理店方式の何れに」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「投信直販を手掛ける投信委託会社は、設定・解約のデータや基準価額・分配金のデータをシームレスに接続」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+- お金の形：
+  - 「株式・債券の受発注や損益管理、会計処理といったさまざまな資産運用管理業務を円滑に遂行するためのシステム開発・保守・運用を行っています」（https://www.xnet.co.jp/about/index_ab.html・1回目）
+  - 「有価証券管理システムを中心としたXNETシステムの月額利用料を収益源とするサービス」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「XNETシステムに関する導入や保守、会計制度変更対応等の業務を請負うサービス（システム運用受託）」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「これらのうち、アプリケーション、ＳＯおよびＡＭＯのなかで継続的なシステム保守サービスについては、当」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「びサポート力が評価され、コア売上につながる継続保守案件（月額ＡＭＯ）は引き続き拡大しております」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「投資等によるコスト増を吸収するため単価の改定を進めたこと等もあり、ＡＭＯについては前年同期比増収を確保」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「・コア売上：サブスクリプションモデルによる月額定額で安定的な売上」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「（対象サービス）アプリケーション、ＡＭО（月額）、ＳＯ」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「支払手数料 57,735 52,371」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「支払手数料 18,950 -」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「る業務効率化の効果を高く評価いただくとともに、当社の特長である『月額固定のサービス利用料」（https://www.xnet.co.jp/news/ixfiles/20260804-1.pdf・2回目）
+  - 「・ アプリケーション：有価証券管理システムを中心としたXNETシステムの月額利用料を収益源とするサービス」（https://www.xnet.co.jp/if/ir4files/20260731-1.pdf・2回目）
+- 売上構成：
+  - 「（セグメント情報等の注記） ……………………………………………………………………………………… 8」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「当社は、ＸＮＥＴサービス事業の単一セグメントであるため、記載を省略しております」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「（セグメント情報等の注記） ……………………………………………………………………………………… 7」（https://www.xnet.co.jp/if/ir4files/20260731-1.pdf・2回目）
+  - 「・ コア売上 ： サブスクリプションモデルにより安定的に売上を確保できるセグメント」（https://www.xnet.co.jp/if/ir4files/20260731-1.pdf・2回目）
+  - 「当社は、ＸＮＥＴサービス事業の単一セグメントであるため、記載を省略しております」（https://www.xnet.co.jp/if/ir4files/20260731-1.pdf・2回目）
+  - 「事業セグメントはXNET サービス事業の単一セグメント」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「器販売等」は、顧客が「XNETサービス」導入時に、コンピュータ等の機器の導入も希望する際に販売するものであり、売上構成比」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「25/3期 構成比 26/3期 構成比 前期比 修正予想比」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「25/3期 構成比 26/3期 構成比 前期比」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「26/3 期 構成比 27/3期（予） 構成比 前期比」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+- 利益の源泉：
+  - 「「資産運用管理×IT」領域における卓越した専門性を強みに、」（https://www.xnet.co.jp/・1回目）
+  - 「間純利益316百万円（前年同期比69.8％増）となり、売上高営業利益率は16.3％となりました」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「期と比較して前年同期比減益幅が縮小するとともに、売上高営業利益率も改善しております」（https://www.xnet.co.jp/if/ir4files/20261030-1.pdf・2回目）
+  - 「四半期純利益135百万円（前年同期比13.1％減）となり、売上高営業利益率は14.5％となりました」（https://www.xnet.co.jp/if/ir4files/20260731-1.pdf・2回目）
+  - 「低採算のスポット案件からの撤退などで売上総利益は同18.7％増加し、売上総利益率も同3.1 ポイント上昇」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「⚫ 前中期経営計画では、コア売上高は49.3 億円と目標である50 億円にはわずかながら未達となったものの、営業利益率、」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「まず、日本独自のビジネス慣行や参入障壁を是正し、新規」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「計算）があり、資産運用会社による投信計理システムの導入など、資産運用業のコスト高や参入障壁の要因として指摘さ」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「【1-5 特長・強み・競争優位性】」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「この競争優位性の源泉になっているのが有価証券に関する豊富な情報と、情報やノウハウを常に反映させ最新の状態としてい」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「26年 3 月期目標に対しコア売上高は49.3億円とわずかに目標未達も、営業利益率、ROEは目標を大きく上回った」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+  - 「営業利益率 15.0％ 18.0％」（https://www.xnet.co.jp/if/ir6files/20260714-1.pdf・2回目）
+- 沿革：
+  - 「2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（非連結）」（https://www.xnet.co.jp/・1回目）
+  - 「2026年9月9日、「投資家向けIRセミナー - ブリッジサロン」に参加いたしました」（https://www.xnet.co.jp/・1回目）
+  - 「2026年9月、以下の個人投資家向け説明会を開催します」（https://www.xnet.co.jp/・1回目）
+  - 「2027年3月期 第1四半期決算短信〔日本基準〕（非連結）」（https://www.xnet.co.jp/・1回目）
+  - 「1991年6月3日（平成3年）」（https://www.xnet.co.jp/if/ceomes2.html・1回目）
+  - 「1991年6月」（https://www.xnet.co.jp/if/ceomes2.html・1回目）
+  - 「1991年8月」（https://www.xnet.co.jp/if/ceomes2.html・1回目）
+  - 「1992年4月」（https://www.xnet.co.jp/if/ceomes2.html・1回目）
+  - 「1993年8月」（https://www.xnet.co.jp/if/ceomes2.html・1回目）
+  - 「1995年3月」（https://www.xnet.co.jp/if/ceomes2.html・1回目）
+  - 「1998年7月」（https://www.xnet.co.jp/if/ceomes2.html・1回目）
+  - 「2000年6月」（https://www.xnet.co.jp/if/ceomes2.html・1回目）
+- 検索結果の抜粋：
+  - 「エックスネット 【4762】の 大株主 情報 - 株探 — エックスネット 【4762】の 大株主 情報 - 株探 株探 https://kabutan.jp > stock > holder」（https://kabutan.jp/stock/holder?code=4762・3回目）
+  - 「IR 株主 ・投資家の皆様へ - エックスネット — IR 株主 ・投資家の皆様へ - エックスネット 株式会社エックスネット https://www.xnet.co.jp > index_ir」（https://www.xnet.co.jp/if/index_ir.html・3回目）
+  - 「エックスネット 【4762】の 大株主 - バフェット・コード — エックスネット 【4762】の 大株主 - バフェット・コード バフェット・コード https://www.buffett-code.com > mainshareholder」（https://www.buffett-code.com/company/4762/mainshareholder・3回目）
+  - 「【4762】 エックスネット の 株主 優待情報 — 【4762】 エックスネット の 株主 優待情報 yutai.net-ir.ne.jp https://yutai.net-ir.ne.jp > company」（https://yutai.net-ir.ne.jp/company/4762/・3回目）
+  - 「【 エックスネット 】[4762]適時開示情報 株主 総会や定款関連 — 【 エックスネット 】[4762]適時開示情報 株主 総会や定款関連 日本経済新聞 https://www.nikkei.com > nkd > company > disclose」（https://www.nikkei.com/nkd/company/disclose/?scode=4762・3回目）
+  - 「会社概要 | 株式会社 エックスネット — 会社概要 | 株式会社 エックスネット 株式会社エックスネット https://www.xnet.co.jp > ceomes2」（https://www.xnet.co.jp/if/ceomes2.html・3回目）
+  - 「エックスネット - Wikipedia — エックスネット - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > エックスネット」（https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8D%E3%83%83%E3%83%88・3回目）
+  - 「【 エックスネット 】[4762]企業概要 社員数や役員報酬・資本金 — 【 エックスネット 】[4762]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo」（https://www.nikkei.com/nkd/company/gaiyo/?scode=4762・3回目）
+  - 「業務内容について｜ XNET RECRUITMENT - エックスネット — 業務内容について｜ XNET RECRUITMENT - エックスネット 株式会社エックスネット https://www.xnet.co.jp > recruit > job-career > business」（https://www.xnet.co.jp/recruit/job-career/business/・3回目）
+  - 「エックスネット （4762）のプロフィール | 会社四季報オンライン — エックスネット （4762）のプロフィール | 会社四季報オンライン 四季報オンライン https://shikiho.toyokeizai.net > 銘柄研究 > エックスネット」（https://shikiho.toyokeizai.net/stocks/4762/corporate・3回目）
+  - 「XNET を紐解くKEYWORDS - エックスネット — XNET を紐解くKEYWORDS - エックスネット 株式会社エックスネット https://www.xnet.co.jp > recruit > about > keywords」（https://www.xnet.co.jp/recruit/about/keywords/・3回目）
+  - 「4762） エックスネット 2026年3月期上期決算 - ブリッジサロン — 4762） エックスネット 2026年3月期上期決算 - ブリッジサロン ブリッジサロン http://www.bridge-salon.jp > archives > 2025/12」（http://www.bridge-salon.jp/report_bridge/archives/2025/12/251210_4762.html・3回目）
+- 設立：記載なし（3回確認済み：公式11頁／PDF・画像8件／外部11頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式11頁／PDF・画像8件／外部11頁・検索14回）
 
 ## エヌアイデイ
 - 公式URL：https://www.nid.co.jp/（search:yahoo_jp:エヌアイデイ）
@@ -65356,19 +65558,91 @@ TOWグループ連結：300名（2026年6月末現在）（https://job.mynavi.jp
 - 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
 
 ## モバイルファクトリー
-- 公式URL：特定できず（not_found）
-- 設立：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部0頁・検索7回）
-- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部0頁・検索7回）
-- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部0頁・検索7回）
-- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部0頁・検索7回）
-- ビジネスモデル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部0頁・検索7回）
-- 誰に：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部0頁・検索7回）
-- 何を：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部0頁・検索7回）
-- どうやって売るか：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部0頁・検索7回）
-- お金の形：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部0頁・検索7回）
-- 売上構成：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部0頁・検索7回）
-- 利益の源泉：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部0頁・検索7回）
-- 沿革：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部0頁・検索7回）
+- 公式URL：https://www.mobilefactory.jp/（search:yahoo_jp:モバイルファクトリー）
+- 創業年度：2001年10月1日（https://www.mobilefactory.jp/corporate/overview/・1回目）
+- 創業年度：2001年10月（https://gamebiz.jp/news/163136・3回目）
+- 株主：毎年3月（https://www.mobilefactory.jp/ir/ir_stock_info/・1回目）
+- 株主：東京都千代田区丸の内一丁目４番１号 三井住友信託銀行株式会社（https://www.mobilefactory.jp/ir/ir_stock_info/・1回目）
+- 従業員数：78名（単体）（https://www.mobilefactory.jp/corporate/overview/・1回目）
+- 事業内容：モバイルゲーム事業（位置ゲーム）、コンテンツ事業（https://www.mobilefactory.jp/corporate/overview/・1回目）
+- 株主構成：
+  - 「株主還元・株式情報 | 株式会社モバイルファクトリー」（https://www.mobilefactory.jp/ir/ir_stock_info/・1回目）
+  - 「当社は、株主様に対する利益還元を重要な経営課題と認識すると共に、持続的な成長に必要な経営体質の強化及び設備投資等を行うことも経営上重要と捉えております」（https://www.mobilefactory.jp/ir/ir_stock_info/・1回目）
+  - 「そのため、業績、財政状態及び株価水準等を総合的に勘案しながら、株主様に対する利益還元と持続的な成長のための内部留保をバランスよく実施していくことを方針としております」（https://www.mobilefactory.jp/ir/ir_stock_info/・1回目）
+  - 「当社株式への投資魅力を高め、より多くの株主様に当社株式を保有していただくことを目的に、株主優待制度を導入しております」（https://www.mobilefactory.jp/ir/ir_stock_info/・1回目）
+  - 「（1）対象株主様」（https://www.mobilefactory.jp/ir/ir_stock_info/・1回目）
+  - 「初回基準日を2026年3月とし、以降は毎年3月末日、9月末日現在の株主名簿に記載または記録された、当社株式1,000株以上を１年以上継続保有されている株主様を対象といたします」（https://www.mobilefactory.jp/ir/ir_stock_info/・1回目）
+  - 「1年以上継続保有とは、基準日（3月末日及び9月末日）の当社株主名簿に、1,000株以上の保有を同一株主番号で連続3回以上記載または記録されることをいいます」（https://www.mobilefactory.jp/ir/ir_stock_info/・1回目）
+  - 「（2）株主優待の内容」（https://www.mobilefactory.jp/ir/ir_stock_info/・1回目）
+  - 「対象株主様に対して、各10,000円（年間合計20,000円分）のデジタルギフトⓇを贈呈いたします」（https://www.mobilefactory.jp/ir/ir_stock_info/・1回目）
+  - 「事業活動に直接影響しない非定常的な特殊要因により当期純損益が大きく変動する場合は、その影響を除いて株主還元金額を決定する予定」（https://www.mobilefactory.jp/ir/ir_stock_info/・1回目）
+  - 「累進配当（減配無し）を前提とし、配当性向40％以上またはDOE（株主資本配当率）7％以上のいずれか高い水準での配当を実施」（https://www.mobilefactory.jp/ir/ir_stock_info/・1回目）
+  - 「株主総会 | 株式会社モバイルファクトリー」（https://www.mobilefactory.jp/ir/ir_stock_info/ir_gene_meeting/・1回目）
+- 創業年度：
+  - 「株式会社モバイルファクトリーは2026年10月1日で創業25周年を迎えました」（https://www.mobilefactory.jp/・1回目）
+  - 「モバイルファクトリーは2001年の創業から今日にいたるまで、「わたしたちが創造するモノを通じて世界の人々をハッピーにすること」というミッションを掲げ、モバイルインターネット業界で着メロ事業や広告事業を皮切りに、ソーシャルアプリ事業、そして近年ではブロックチェーン事業への挑戦など、時代の変化にあわせて多くのチャレンジをし、提供サービスを変化させてきました」（https://www.mobilefactory.jp/corporate/ceo_message/・1回目）
+  - 「株式会社エイチ・アイ・エスを発起人とした「地方創生・観光プロモーションコンソーシアム」の設立メンバーとして参加」（https://www.mobilefactory.jp/corporate/history/・1回目）
+  - 「モバイルファクトリー[3912]：株式会社モバイルファクトリーは2026年10月1日で創業25周年を迎えました 2026年10月1日(適時開示) ：日経会社情報DIGITAL：日本経済新聞」（https://www.nikkei.com/nkd/disclosure/tdnr/20261001544196/・3回目）
+  - 「モバファク：株式会社モバイルファクトリーは2026年10月1日で創業25周年を迎えました」（https://www.nikkei.com/nkd/disclosure/tdnr/20261001544196/・3回目）
+- 誰に：
+  - 「ユーザーに本当に楽しんでもらえるサービスをわたしたちと一緒に作っていきませんか？」（https://www.mobilefactory.jp/・1回目）
+  - 「旅行会社などとコンソーシアムを組みましたし、ユーザーの方々にもっと喜んでいただけるよう、そして、地域振興のお役に立てるような取り組みは引き続き行っていきたいと思います」（https://gamebiz.jp/news/163136・3回目）
+- 何を：
+  - 「ユーザーに本当に楽しんでもらえるサービスをわたしたちと一緒に作っていきませんか？」（https://www.mobilefactory.jp/・1回目）
+  - 「モバイルファクトリーは2001年の創業から今日にいたるまで、「わたしたちが創造するモノを通じて世界の人々をハッピーにすること」というミッションを掲げ、モバイルインターネット業界で着メロ事業や広告事業を皮切りに、ソーシャルアプリ事業、そして近年ではブロックチェーン事業への挑戦など、時代の変化にあわせて多くのチャレンジをし、提供サービスを変化させてきました」（https://www.mobilefactory.jp/corporate/ceo_message/・1回目）
+  - 「当社は単なるサービス提供者としてではなく、皆様に感動をお届けする存在でありたいと考えています」（https://www.mobilefactory.jp/corporate/ceo_message/・1回目）
+  - 「サービス紹介動画 | 株式会社モバイルファクトリー」（https://www.mobilefactory.jp/ir/about/ir_movie/・1回目）
+  - 「株式会社モバイルファクトリー（以下、「当社」という）は、金融商品取引法等の諸法令ならびに、東京証券取引所の定める適時開示規則に従い、正確、適時かつ公平に情報の開示を行います」（https://www.mobilefactory.jp/ir/ir_policy/・1回目）
+  - 「当社では金融商品取引法および東京証券取引所の定める適時開示規則に従い、適時開示情報伝達システム(TDnet)を通じて、迅速かつ公平な情報開示に努めてまいります」（https://www.mobilefactory.jp/ir/ir_policy/・1回目）
+  - 「「melop♪」にアプリ・待受画像コンテンツサービス追加」（https://www.mobilefactory.jp/corporate/history/・1回目）
+  - 「べた付け商品コンテストで「メロプレ」が準大賞を受賞」（https://www.mobilefactory.jp/corporate/history/・1回目）
+  - 「着信メロディASP サービス「melop♪」リリース」（https://www.mobilefactory.jp/corporate/history/・1回目）
+  - 「主力ゲームである「ステーションメモリーズ！」は、駅や鉄道路線を巡って施設情報を収集し、収集数を競う陣取りゲームに参加したり、ライフログとして記録したりできる要素が魅力です」（https://www.kabuyutai.com/kobetu/mobilefactory.html・3回目）
+  - 「好きな決済サービスと交換できるので、もらって困ることのない優待ですね♪」（https://www.kabuyutai.com/kobetu/mobilefactory.html・3回目）
+  - 「またサイト上に掲載されているゲームやサービスの著作権やその他知的財産権はそれぞれ運営・配信しているゲーム会社・運営会社に帰属します」（https://gamebiz.jp/news/163136・3回目）
+- どうやって売るか：
+  - 「DIME (ダイム) 2026年 5月号にて「駅メモ！」が紹介され、@DIMEにて特集記事が公開されました」（https://www.mobilefactory.jp/・1回目）
+  - 「8月26日(火)放送 テレビ東京系『開運！なんでも鑑定団』にて「駅メモ！」が紹介されました」（https://www.mobilefactory.jp/・1回目）
+  - 「高精度な紹介がもたらした採用の手応え』が掲載されました」（https://www.mobilefactory.jp/・1回目）
+  - 「サービス紹介動画 | 株式会社モバイルファクトリー」（https://www.mobilefactory.jp/ir/about/ir_movie/・1回目）
+  - 「モバイルファクトリー（3912）の株主優待紹介」（https://www.kabuyutai.com/kobetu/mobilefactory.html・3回目）
+  - 「【優待内容】「ダンダダン酒場」のほか、グループ店舗で使える優待食事割引券（10,000円相当～）など」（https://www.kabuyutai.com/kobetu/mobilefactory.html・3回目）
+  - 「本アプリから紹介するキャンペーンについて「Apple Inc .」、「Apple Japan Inc.（アップルジャパン株式会社）」は、スポンサーではなく一切関係ありません」（https://www.kabuyutai.com/kobetu/mobilefactory.html・3回目）
+- お金の形：
+  - 「※ネット注文手数料です（電話注文は別手数料）」（https://www.kabuyutai.com/kobetu/mobilefactory.html・3回目）
+  - 「※SBI証券の手数料は「ゼロ革命対象者」の場合です」（https://www.kabuyutai.com/kobetu/mobilefactory.html・3回目）
+  - 「※楽天証券の手数料は「ゼロコース」を選んだ場合です」（https://www.kabuyutai.com/kobetu/mobilefactory.html・3回目）
+- 沿革：
+  - 「2024年11月26日(火)代表取締役の宮嶌が「 日野学園 ドリームジョブツアー in 五反田バレー2024」で講演しました」（https://www.mobilefactory.jp/・1回目）
+  - 「2025年12月期より6月末日を基準日とした中間配当を実施」（https://www.mobilefactory.jp/ir/ir_stock_info/・1回目）
+  - 「2026年12月期」（https://www.mobilefactory.jp/ir/ir_calendar/・1回目）
+  - 「2026年10月23日 15:00」（https://www.mobilefactory.jp/ir/ir_calendar/・1回目）
+  - 「2026年12月期第3四半期 機関投資家・アナリスト向けオンライン決算説明会」（https://www.mobilefactory.jp/ir/ir_calendar/・1回目）
+  - 「2026年10月23日 13:00」（https://www.mobilefactory.jp/ir/ir_calendar/・1回目）
+  - 「2026年12月期第3四半期 決算発表」（https://www.mobilefactory.jp/ir/ir_calendar/・1回目）
+  - 「2026年9月24日～」（https://www.mobilefactory.jp/ir/ir_calendar/・1回目）
+  - 「2026年7月24日 15:00」（https://www.mobilefactory.jp/ir/ir_calendar/・1回目）
+  - 「2026年12月期第2四半期 機関投資家・アナリスト向けオンライン決算説明会」（https://www.mobilefactory.jp/ir/ir_calendar/・1回目）
+  - 「2026年7月24日 13:00」（https://www.mobilefactory.jp/ir/ir_calendar/・1回目）
+  - 「2026年12月期第2四半期 決算発表」（https://www.mobilefactory.jp/ir/ir_calendar/・1回目）
+- 検索結果の抜粋：
+  - 「株主 還元・株式情報 | 株式会社 モバイルファクトリー — 株主 還元・株式情報 | 株式会社 モバイルファクトリー 株式会社モバイルファクトリー https://www.mobilefactory.jp > IR」（https://www.mobilefactory.jp/ir/ir_stock_info/・3回目）
+  - 「モバイルファクトリー （3912）の 株主 優待紹介 — モバイルファクトリー （3912）の 株主 優待紹介 楽しい株主優待＆配当 https://www.kabuyutai.com > kobetu > mobilefactory」（https://www.kabuyutai.com/kobetu/mobilefactory.html・3回目）
+  - 「モバイルファクトリー 【3912】の 大株主 情報 - 株探 — モバイルファクトリー 【3912】の 大株主 情報 - 株探 株探 https://kabutan.jp > stock > holder」（https://kabutan.jp/stock/holder?code=3912・3回目）
+  - 「【 モバイルファクトリー 】[3912] 株主 優待情報 | 日経電子版 — 【 モバイルファクトリー 】[3912] 株主 優待情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > yutai」（https://www.nikkei.com/nkd/company/yutai/?scode=3912・3回目）
+  - 「モバイルファクトリー 【3912】の 大株主 - バフェット・コード — モバイルファクトリー 【3912】の 大株主 - バフェット・コード バフェット・コード https://www.buffett-code.com > mainshareholder」（https://www.buffett-code.com/company/3912/mainshareholder・3回目）
+  - 「会社概要｜会社案内 - 株式会社モバイルファクトリー — 会社概要｜会社案内 - 株式会社モバイルファクトリー 株式会社モバイルファクトリー https://www.mobilefactory.jp > corporate」（https://www.mobilefactory.jp/corporate/・3回目）
+  - 「株式会社 モバイルファクトリー は2026年10月1日で 創業 25 ... — 株式会社 モバイルファクトリー は2026年10月1日で 創業 25 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20261001544196/・3回目）
+  - 「株式会社 モバイルファクトリー は 2026年10月1日で 創業 25 ... — 株式会社 モバイルファクトリー は 2026年10月1日で 創業 25 ... PR TIMES https://prtimes.jp > その他」（https://prtimes.jp/main/html/rd/p/000000195.000024306.html・3回目）
+  - 「モバイルファクトリー 【3912】のストーリー・沿革 — モバイルファクトリー 【3912】のストーリー・沿革 キタイシホン https://kitaishihon.com > company > story」（https://kitaishihon.com/company/3912/story・3回目）
+  - 「モバイルファクトリー の技術スタック — モバイルファクトリー の技術スタック what we use https://whatweuse.dev > company > mobilefactory」（https://whatweuse.dev/company/mobilefactory・3回目）
+  - 「株式会社 モバイルファクトリー | ロール モデル 就活・転職 ... — 株式会社 モバイルファクトリー | ロール モデル 就活・転職 ... タレントブック・ストーリー https://www.talent-book.jp > mobilefactory」（https://www.talent-book.jp/mobilefactory・3回目）
+  - 「株式会社 モバイルファクトリー 会社説明資料 - Speaker Deck — 株式会社 モバイルファクトリー 会社説明資料 - Speaker Deck Speaker Deck https://speakerdeck.com > mobilefactory > zhu-shi-hui-sh...」（https://speakerdeck.com/mobilefactory/zhu-shi-hui-she-mobairuhuakutori-hui-she-shuo-ming-zi-liao・3回目）
+- 設立：記載なし（3回確認済み：公式24頁／PDF・画像2件／外部21頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式24頁／PDF・画像2件／外部21頁・検索14回）
+- ビジネスモデル：記載なし（3回確認済み：公式24頁／PDF・画像2件／外部21頁・検索14回）
+- 売上構成：記載なし（3回確認済み：公式24頁／PDF・画像2件／外部21頁・検索14回）
+- 利益の源泉：記載なし（3回確認済み：公式24頁／PDF・画像2件／外部21頁・検索14回）
 
 ## モリタホールディングス
 - 公式URL：https://www.morita119.com/（search:yahoo_jp:モリタホールディングス）
@@ -100726,19 +101000,150 @@ TOWグループ連結：300名（2026年6月末現在）（https://job.mynavi.jp
 - 売上高：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部4頁・検索5回）
 
 ## 長栄
-- 公式URL：特定できず（not_found）
-- 設立：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
-- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
-- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
-- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
-- ビジネスモデル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
-- 誰に：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
-- 何を：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
-- どうやって売るか：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
-- お金の形：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
-- 売上構成：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
-- 利益の源泉：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
-- 沿革：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
+- 公式URL：https://www.kk-choei.co.jp/（search:yahoo_jp:長栄）
+- 創業年度：1980年8月1日（https://www.kk-choei.co.jp/about/・1回目）
+- 創業年度：1988年4月5日（https://www.kk-choei.co.jp/about/・1回目）
+- 創業年度：1988年（https://shachomeikan.jp/industry_article/5783・3回目）
+- 株主：事業年度の終了後3ヵ月以内（https://www.kk-choei.co.jp/ir/stock/・1回目）
+- 株主：毎年3月31日（https://www.kk-choei.co.jp/ir/stock/・1回目）
+- 株主：三井住友信託銀行株式会社（https://www.kk-choei.co.jp/ir/stock/・1回目）
+- 従業員数：261名（2026年3月31日時点）（https://www.kk-choei.co.jp/about/・1回目）
+- 従業員数：254名（https://shachomeikan.jp/industry_article/5783・3回目）
+- 従業員数：242名（2023年3月31日時点）（https://shachomeikan.jp/industry_article/2422・3回目）
+- 事業内容：賃貸不動産の管理業／自社保有不動産の賃貸事業／不動産の売買や賃貸の仲介／不動産開発業／リフォーム工事／マンスリーマンション事業／レンタル事業（https://shachomeikan.jp/industry_article/5783・3回目）
+- 株主構成：
+  - 「．現在、株主優待はございません」（https://www.kk-choei.co.jp/ir/faq/・1回目）
+  - 「株主・投資家の皆様へ | 経営情報 | IR情報 | 京都 賃貸 マンション管理と仲介 株式会社長栄」（https://www.kk-choei.co.jp/ir/management/・1回目）
+  - 「※証券会社の口座をご利用の株主様は、お取引の証券会社へご照会ください」（https://www.kk-choei.co.jp/ir/stock/・1回目）
+  - 「株主名簿管理人である三井住友信託銀行株式会社にお申出ください」（https://www.kk-choei.co.jp/ir/stock/・1回目）
+  - 「当社は「企業を通じて社会に役立つ「人」を育てる」という企業理念のもと、会社の持続的な成長及び中長期的な企業価値の向上を目指し、株主をはじめとするあらゆるステークホルダーから信頼されるために、コーポレート・ガバナンスの実効性を高めることが重要であると考えております」（https://www.kk-choei.co.jp/ir/management/governance/・1回目）
+  - 「また、上記に該当しない情報であっても、株主・投資家の皆様にとって有用であると判断されるものについては、当社ウェブサイトへの掲載等により、可能な範囲で適切かつ公平に開示します」（https://www.kk-choei.co.jp/ir/management/disclosure/・1回目）
+  - 「【大株主一覧】 長栄（2993）」（https://www.kabutore.biz/genzaikabuka/okabunushi2993.html・3回目）
+  - 「【大株主一覧】長栄（2993）」（https://www.kabutore.biz/genzaikabuka/okabunushi2993.html・3回目）
+  - 「持株比率：35.14% 所有株式数：1541000株」（https://www.kabutore.biz/genzaikabuka/okabunushi2993.html・3回目）
+  - 「持株比率：14.82% 所有株式数：650000株」（https://www.kabutore.biz/genzaikabuka/okabunushi2993.html・3回目）
+  - 「持株比率：8.32% 所有株式数：365000株」（https://www.kabutore.biz/genzaikabuka/okabunushi2993.html・3回目）
+  - 「持株比率：2.1% 所有株式数：92000株」（https://www.kabutore.biz/genzaikabuka/okabunushi2993.html・3回目）
+- 創業年度：
+  - 「長栄は創業以来、賃貸マンション管理を専門にしてきた経験と実績があります」（https://www.kk-choei.co.jp/・1回目）
+  - 「『オーナー様に寄り添って考える』創業以来、管理を専門にしてきた経験と実績」（https://www.kk-choei.co.jp/・1回目）
+  - 「長栄は創業以来、賃貸マンション管理を専門にしてきた経験と実績があります」（https://www.kk-choei.co.jp/about/・1回目）
+  - 「長栄は創業以来、賃貸マンション管理を専門にしてきた経験と実績があります」（https://www.kk-choei.co.jp/about/greeting.html・1回目）
+  - 「長栄は創業以来、賃貸マンション管理を専門にしてきた経験と実績があります」（https://www.kk-choei.co.jp/about/officer.html・1回目）
+  - 「長栄は創業以来、賃貸マンション管理を専門にしてきた経験と実績があります」（https://www.kk-choei.co.jp/about/sustainability.html・1回目）
+  - 「長栄は創業以来、賃貸マンション管理を専門にしてきた経験と実績があります」（https://www.kk-choei.co.jp/about/history.html・1回目）
+  - 「京都市伏見区内にて不動産管理業を営む長栄を創業」（https://www.kk-choei.co.jp/about/history.html・1回目）
+  - 「Bellevie Club 株式会社 設立」（https://www.kk-choei.co.jp/about/history.html・1回目）
+  - 「長栄は創業以来、賃貸マンション管理を専門にしてきた経験と実績があります」（https://www.kk-choei.co.jp/about/owned.html・1回目）
+  - 「長栄は創業以来、賃貸マンション管理を専門にしてきた経験と実績があります」（https://www.kk-choei.co.jp/ir/・1回目）
+  - 「長栄は創業以来、賃貸マンション管理を専門にしてきた経験と実績があります」（https://www.kk-choei.co.jp/ir/highlight/・1回目）
+- ビジネスモデル：
+  - 「不動産賃貸事業との両輪で成長するビジネスモデルを構築」（https://www.kk-choei.co.jp/ir/business/・1回目）
+  - 「地域不動産業で輝くビジネスモデル 株式会社長栄の成長戦略を読み解く | チームマイクの企業分析」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「地域不動産業で輝くビジネスモデル 株式会社長栄の成長戦略を読み解く」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「家賃収入に対して一定のパーセンテージを徴収するビジネスモデルにより、管理戸数が増えるほど収益が拡大しやすい構造となっています」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「同社は不動産管理を主軸とした安定収益モデルを構築しているため、投資家からはディフェンシブ銘柄としても注目される可能性があります」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「パラカのビジネスモデルに迫る 駐車場業界の成長戦略を徹底解説」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「株式会社トーセイの成長戦略とビジネスモデルの魅力に迫る」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「都市部の成長戦略を支えるビジネスモデル 株式会社ディア・ライフの魅力に迫る」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「株式会社No.1都市開発が描くビジネスモデルの魅力」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「注目企業ファンタジスタの成長戦略を深掘り 不動産業界を支えるビジネスモデルキャンバス分析」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「同社は都市部の不動産市場に特化しており、近年その独自のビジネスモデルが注目されています」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「ビジネスモデルを徹底解剖 成長戦略に注目が集まるスター・マイカ・ホールディングスの魅力」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+- 誰に：
+  - 「また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります」（https://www.kk-choei.co.jp/ir/disclaimer/・1回目）
+  - 「なぜそうなったのかという点では、同社が地域の不動産マーケットに深く根差し、賃貸から売買、リフォームまでを一貫して扱うことで相互に顧客を誘導しやすい構造が生まれたことが挙げられます」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「地域での知名度と顧客ネットワークが、不動産オーナーや入居者の獲得をスムーズにする要因となっています」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「管理にまつわるさまざまな手続きやトラブル対応を一括して行うことで、顧客の負担を軽減しています」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「7. 顧客との関係」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「8. 顧客セグメント」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「顧客との密なコミュニケーションや物件のクオリティを保つためには、人的リソースと定期的なメンテナンスが欠かせないからです」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「主力となる不動産売買事業では、中古の住宅や収益物件を買い取り、リフォームなどで価値を高めてから一般のお客様や投資家向けに販売して...」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「選ばれ続ける理由は現場の「小さな積み重ね」 長栄・舩井社長が語る顧客志向の真髄」（https://shachomeikan.jp/industry_article/5783・3回目）
+  - 「マンション管理の最前線で顧客と向き合い折衝力を磨き上げたのが、現在代表取締役を務める舩井渉氏だ」（https://shachomeikan.jp/industry_article/5783・3回目）
+  - 「「不動産屋ではなくサービス会社」と言い切る舩井氏に、現場で培ったマインドと、お客様の生活にワクワクを届ける独自の生存戦略、そして未来のビジョンをうかがった」（https://shachomeikan.jp/industry_article/5783・3回目）
+  - 「オーナー様にとって一番大事なお客様は入居者様です」（https://shachomeikan.jp/industry_article/5783・3回目）
+- 何を：
+  - 「長栄の管理物件にお住まいの方専用の会員サービス「ベルヴィクラブ」」（https://www.kk-choei.co.jp/・1回目）
+  - 「優待サービスやプレゼント企画など詳細はこちら」（https://www.kk-choei.co.jp/・1回目）
+  - 「「入居者ファースト」のサービス提供を今後も行ってまいります」（https://www.kk-choei.co.jp/・1回目）
+  - 「長栄の管理物件にお住まいの方専用の会員サービス「ベルヴィクラブ」」（https://www.kk-choei.co.jp/about/・1回目）
+  - 「優待サービスやプレゼント企画など詳細はこちら」（https://www.kk-choei.co.jp/about/・1回目）
+  - 「管理センター「Bellevie」（ベルヴィ）は、常に他社に先駆けての独自のノウハウとアフターサービスの充実に努め、」（https://www.kk-choei.co.jp/about/・1回目）
+  - 「長栄の管理物件にお住まいの方専用の会員サービス「ベルヴィクラブ」」（https://www.kk-choei.co.jp/about/greeting.html・1回目）
+  - 「優待サービスやプレゼント企画など詳細はこちら」（https://www.kk-choei.co.jp/about/greeting.html・1回目）
+  - 「近年、消費者の動向は、シェアリングサービスやサブスクリプションサービスの拡大等に見られるように、「所有」から「利用」へと変化してきています」（https://www.kk-choei.co.jp/about/greeting.html・1回目）
+  - 「当社が取り扱う物件では、留学生を中心とした外国籍の居住者も増加しており、多様な文化的背景に対する配慮を要するなど、管理会社に求められるサービスも従来から変化してきております」（https://www.kk-choei.co.jp/about/greeting.html・1回目）
+  - 「また、当社ではこれまでも管理物件にお住まいいただいている皆様に日々の暮らしを楽しんでいただけるような四季折々のイベントやキャンペーンを実施しており、「住む」プラスαのサービスを提供してまいりました」（https://www.kk-choei.co.jp/about/greeting.html・1回目）
+  - 「当社はこれからも、これまで培ってきた不動産管理サービスを変わらずに提供しつつ、同時に、新しい発想と行動力で変わりゆく様々な社会環境に柔軟に対応し、これまでの不動産業のイメージの枠にとらわれない総合的なサービスを提供してまいります」（https://www.kk-choei.co.jp/about/greeting.html・1回目）
+- どうやって売るか：
+  - 「仲介営業店舗の１号店となる西京極センターを開設」（https://www.kk-choei.co.jp/about/history.html・1回目）
+  - 「太秦センターを開設 管理センターが10店舗となる」（https://www.kk-choei.co.jp/about/history.html・1回目）
+  - 「、管理センターが20店舗となる」（https://www.kk-choei.co.jp/about/history.html・1回目）
+  - 「健全性の高い企業経営を構築するために、任意の指名・報酬委員会の設置、執行役員制度の採用を行っており、経営監視機能の強化や取締役の選任及び報酬に関する妥当性及び透明性を確保するよう努めております」（https://www.kk-choei.co.jp/ir/management/governance/・1回目）
+  - 「仲介営業店舗１号店 西京極センター（京都市右京区）を開設」（https://strainer.jp/companies/JP-2993/history・3回目）
+  - 「5. パートナー」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「物件オーナーとの関係は同社のビジネスにとって最も重要なパートナーシップです」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「金融機関とのパートナー関係は、不動産投資や購入希望者への融資相談などにおいて不可欠です」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「管理、リフォーム、資金調達など多岐にわたるサービスを円滑に提供するには、各分野の専門家とのネットワークが欠かせず、それがパートナーシップの強化へとつながっています」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「クレスト草津やベルヴィ能見台などの物件で、購入後の空室が順調に入居者を獲得し満室稼働している事例を紹介」（https://edinetdb.jp/company/E37141/presentations/・3回目）
+  - 「自社物件の改装事例として、アップス嵯峨野の事例を紹介」（https://edinetdb.jp/company/E37141/presentations/・3回目）
+- お金の形：
+  - 「近年、消費者の動向は、シェアリングサービスやサブスクリプションサービスの拡大等に見られるように、「所有」から「利用」へと変化してきています」（https://www.kk-choei.co.jp/about/greeting.html・1回目）
+  - 「この好業績は、管理戸数の継続的な積み上げに伴って主力の不動産管理事業におけるストック収益が順調に拡大したことに加え、自社保有物件の高い入居率を維持したことで不動産賃貸事業の売上高が堅調に推移したことによるものです」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「賃貸管理手数料は同社のメインとなる収益源です」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「不動産売買や仲介手数料も着実な収益となっており、投資物件を探しているオーナーや住み替えを検討する入居者に対して、総合的なサービスを提供できる点が強みです」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「管理戸数が増えれば増えるほど手数料収入が拡大し、その安定収益をもとに新たな物件獲得やリフォーム強化が可能になります」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「管理戸数の増加に伴い管理収入が堅調に推移し、仲介手数料収入やマンスリー売上も好調で増収増益となりました」（https://edinetdb.jp/company/E37141/presentations/・3回目）
+  - 「入居者管理（賃料収納、入退去管理、契約更新）、ビルメンテナンス（エレベーター点検、消防施設保守点検、共用部・貯水槽清掃）、賃貸仲介、リフォーム、入居者サービス（Bellevie Club運営、トラブル対応）、売買仲介、マンスリーマンション運営など多岐にわたる」（https://edinetdb.jp/company/E37141/presentations/・3回目）
+  - 「主なサービス内容は、賃料収納、入退去管理、契約更新などの入居者管理、エレベーター点検や消防施設保守点検などのビルメンテナンス、賃貸仲介、リフォーム工事、入居者向け会員組織「Bellevie Club」の運営、トラブル対応などの入居者サービス、売買仲介、マンスリーマンション管理です」（https://edinetdb.jp/company/E37141/presentations/・3回目）
+- 売上構成：
+  - 「8. 顧客セグメント」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「そうした人口構成やライフスタイルを的確に捉え、複数のセグメントに対応することで空室リスクを抑え、安定的な稼働率を実現しているといえます」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「不動産管理事業のセグメント売上高は2026年3月期第1四半期時点で966百万円、セグメント利益は129百万円でした」（https://edinetdb.jp/company/E37141/presentations/・3回目）
+  - 「不動産賃貸事業のセグメント売上高は2026年3月期第1四半期時点で1,575百万円、セグメント利益は398百万円でした」（https://edinetdb.jp/company/E37141/presentations/・3回目）
+  - 「売上構成比は、家賃収入等が62.0%、管理収入が16.4%、工事売上が13.5%、その他が8.1%となっています」（https://edinetdb.jp/company/E37141/presentations/・3回目）
+  - 「工事売上やマンスリー売上など周辺業務も好調であったことから、セグメント売上高は3,169百万円、セグメント利益は468百万円となり、増収増益となりました」（https://edinetdb.jp/company/E37141/presentations/・3回目）
+  - 「不動産賃貸事業では、前事業年度に取得した物件が家賃収入の増加に寄与し、セグメント売上高は4,830百万円となりました」（https://edinetdb.jp/company/E37141/presentations/・3回目）
+  - 「また、物件取得にかかる一時的な費用が減少したことにより、セグメント利益は1,056百万円と増益となりました」（https://edinetdb.jp/company/E37141/presentations/・3回目）
+- 利益の源泉：
+  - 「自社で保有・管理する賃貸物件の入居率向上や資産価値を高めるリノベーション提案を強みとしており、入居者へのきめ細やかな管理サービスとオーナーに対する高効率な不動産経営支援を通じて、持続可能な賃貸住宅市場と地域の快適な居住環境の整備を足元から力強く支えています」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「空室率の低減や家賃回収、定期的な建物点検など、オーナーに代わって複雑な業務を一元管理する仕組みを確立している点が強みです」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「不動産売買・仲介においては、地域密着の強みを活かし、地場の不動産情報を熟知した提案を行います」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「不動産売買や仲介手数料も着実な収益となっており、投資物件を探しているオーナーや住み替えを検討する入居者に対して、総合的なサービスを提供できる点が強みです」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「外部環境の変化があっても、いずれかの部門で収益を補完できる体制を築いていることが強みです」（https://consovation.com/%E5%9C%B0%E5%9F%9F%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E3%81%A7%E8%BC%9D%E3%81%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%95%B7%E6%A0%84/・3回目）
+  - 「ーー多くのオーナー様や入居者様に選ばれ続ける、一番の強みは何でしょうか」（https://shachomeikan.jp/industry_article/5783・3回目）
+  - 「ですから、弊社の最大の強みは入居者サービスの充実に注力していること、つまり「できるだけよいお客様に、長く住んでいただくこと」を最重要視している点にあります」（https://shachomeikan.jp/industry_article/5783・3回目）
+  - 「貴社が業界内で実績を出せるのは、どういった強みがあるからだとお考えですか」（https://shachomeikan.jp/industry_article/2422・3回目）
+- 沿革：
+  - 「1980年8月1日」（https://www.kk-choei.co.jp/about/・1回目）
+  - 「1988年4月5日」（https://www.kk-choei.co.jp/about/・1回目）
+  - 「2026年5月1日現在」（https://www.kk-choei.co.jp/about/officer.html・1回目）
+  - 「沿革 | 京都 賃貸 マンション管理と仲介 株式会社長栄」（https://www.kk-choei.co.jp/about/history.html・1回目）
+  - 「2026年3月31日決算時」（https://www.kabutore.biz/genzaikabuka/okabunushi2993.html・3回目）
+  - 「2025年9月30日決算時」（https://www.kabutore.biz/genzaikabuka/okabunushi2993.html・3回目）
+  - 「2025年3月31日決算時」（https://www.kabutore.biz/genzaikabuka/okabunushi2993.html・3回目）
+  - 「2024年9月30日決算時」（https://www.kabutore.biz/genzaikabuka/okabunushi2993.html・3回目）
+  - 「2024年3月31日決算時」（https://www.kabutore.biz/genzaikabuka/okabunushi2993.html・3回目）
+  - 「2023年9月30日 第2四半期決算時」（https://www.kabutore.biz/genzaikabuka/okabunushi2993.html・3回目）
+  - 「2023年3月31日決算時」（https://www.kabutore.biz/genzaikabuka/okabunushi2993.html・3回目）
+  - 「2022年9月30日 第2四半期決算時」（https://www.kabutore.biz/genzaikabuka/okabunushi2993.html・3回目）
+- 検索結果の抜粋：
+  - 「長栄【2993】の大株主と資本異動情報｜株探（かぶたん） — 長栄【2993】の最新大株主上位10件と自己株口を掲載。2026年03月31日現在、長栄の第1位株主は長田修で34.45％を保有しています。株主名のほか ...」（https://kabutan.jp/stock/holder?code=2993・3回目）
+  - 「【大株主一覧】長栄（2993） - かぶれん — 過去の大株主 2025年9月30日決算時 代表取締役 社長執行役員 舩井 渉 長田 修 持株比率：35.28% 所有株式数：1541000株 京都市伏見区 長田 久美子 持株比率：14.88% 所有株式数：650000株 京都市伏見区 OSAフィールド株式会社 持株比率：8.35% 所有株式数：365000株 京都市伏見区向島中島町52 長田 栄臣 持株 ...」（https://www.kabutore.biz/genzaikabuka/okabunushi2993.html・3回目）
+  - 「長栄（2993）の大株主一覧 | IRBANK — 長栄（2993）の大株主一覧。上位株主の持株比率・株式数を掲載。」（https://irbank.net/E37141/holder・3回目）
+  - 「長栄【2993】の大株主 | バフェット・コード — 長栄【2993】の大株主上位10件の推移を掲載。 2026年3月31日現在、 長栄の筆頭株主は長田 修で 35.14%を保有しています。 そのほか、持ち株比率、保有株式数、保有金額の推移も併せて掲載しています。」（https://www.buffett-code.com/company/2993/mainshareholder・3回目）
+  - 「長栄【2993】の大株主と資本異動情報｜株探（かぶたん） — 長栄【2993】の最新大株主上位10件と自己株口を掲載。2026年03月31日現在、長栄の第1位株主は長田修で34.45％を保有しています。株主名のほか ...」（https://kabutan.jp/stock/holder/?code=2993・3回目）
+  - 「株式会社長栄 の大株主・株主構成 (FY2026) | EDINET DB — 株式会社長栄 の所有者別状況 (外国法人等 0.2%)・大株主 上位10・株主構成の時系列推移を有報から構造化。」（https://edinetdb.jp/company/E37141/shareholders・3回目）
+  - 「長栄（2993）の株主構成・大株主情報 | OpenFiling — 長栄（証券コード:2993、3月決算）の株主構成を確認できます。スタンダード市場 / 不動産業の上場企業について、大株主、保有比率、株主構成に関する情報を掲載しています。」（https://openfiling.app/companies/2993/shareholders・3回目）
+  - 「沿革 | 京都 賃貸 マンション管理と仲介 株式会社長栄 — 株式会社長栄の沿革です。京都・滋賀・大阪・愛知・東京・千葉・福岡の賃貸マンション管理会社です。」（https://www.kk-choei.co.jp/about/history.html・3回目）
+  - 「長栄の沿革 | ストレイナー — トップ 不動産業 長栄 沿革 長栄【2993】 沿革」（https://strainer.jp/companies/JP-2993/history・3回目）
+  - 「長栄【2993】のストーリー・沿革 - キタイシホン — 長栄(2993/東証スタンダード/不動産業)のストーリー・沿革はキタイシホンでCHECK!!ストーリー、トップメッセージ、用語解説 ...」（https://kitaishihon.com/company/2993/story・3回目）
+  - 「沿革｜会社案内｜株式会社長栄 — ホーム 会社案内 沿革 沿革 昭和34年 7月 「長栄殖産株式会社」設立 昭和35年12月 「長栄ビル（現「長栄第1ビル」）」竣工 昭和40年 9月 「松本ビルディング」竣工・同ビル内に松本支店開設 昭和46年 7月 社名を「株式会社長栄」に変更 昭和47年11月 「八十二銀行川越ビル」竣工 昭和48年 6月 ...」（https://choei-n.co.jp/company/history.php・3回目）
+  - 「会社概要 | 京都 賃貸 マンション管理と仲介 株式会社長栄 — 社名 株式会社長栄 代表者 代表取締役 会長執行役員 長田 修 代表取締役 社長執行役員 舩井 渉 創業 1980年8月1日 会社設立 1988年4月5日 登記住所 京都市伏見区深草西浦町三丁目70番地 第5長栄アストロビル 本社所在地 京都市下京区万寿寺通烏丸西入御供石町369 No.60京都烏丸万寿寺ビル 資本金 7億 ...」（https://www.kk-choei.co.jp/about/・3回目）
+- 設立：記載なし（3回確認済み：公式21頁／PDF・画像2件／外部23頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式21頁／PDF・画像2件／外部23頁・検索14回）
 
 ## 長谷川香料
 - 公式URL：https://www.t-hasegawa.co.jp/（search:yahoo_jp:長谷川香料）
@@ -101095,19 +101500,141 @@ TOWグループ連結：300名（2026年6月末現在）（https://job.mynavi.jp
 - 利益の源泉：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
 
 ## 阪急阪神ホールディングス
-- 公式URL：特定できず（not_found）
-- 設立：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- ビジネスモデル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- 誰に：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- 何を：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- どうやって売るか：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- お金の形：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- 売上構成：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- 利益の源泉：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
-- 沿革：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部6頁・検索7回）
+- 公式URL：https://www.hankyu-hanshin.co.jp/（search:yahoo_jp:阪急阪神ホールディングス）
+- 創業年度：会社創立：1907年（明治40年）10月19日（https://www.hankyu-hanshin.co.jp/corporate/data/・1回目）
+- 事業内容：「阪急電鉄株式会社」「阪神電気鉄道株式会社」「阪急阪神不動産株式会社」「株式会社阪急交通社」「株式会社阪急阪神エクスプレス」の5社を中核会社とする純粋持株会社として、グループ全体の事業戦略の策定や経営管理、経営資源の最適配分を行っています。（https://www.hankyu-hanshin.co.jp/corporate/data/・1回目）
+- 株主構成：
+  - 「【リリース】 コーポレートベンチャーキャピタルファンド「阪急阪神イノベーションパートナーズ投資事業有限責任組合」が宿泊･短期賃貸施設の運営･管理事業を展開する「matsuri technologies」に出資しました（阪急阪神ホールディングス）」（https://www.hankyu-hanshin.co.jp/・1回目）
+  - 「【リリース】 コーポレートベンチャーキャピタルファンド「阪急阪神イノベーションパートナーズ投資事業有限責任組合」が日本で暮らす外国人の生活を支える「グローバルトラストネットワークス」に出資しました（阪急阪神ホールディングス）」（https://www.hankyu-hanshin.co.jp/・1回目）
+  - 「「阪急電鉄株式会社」「阪神電気鉄道株式会社」「阪急阪神不動産株式会社」「株式会社阪急交通社」「株式会社阪急阪神エクスプレス」の5社を中核会社とする純粋持株会社として、グループ全体の事業戦略の策定や経営管理、経営資源の最適配分を行っています」（https://www.hankyu-hanshin.co.jp/corporate/data/・1回目）
+  - 「株主・投資家向け情報 | 阪急阪神ホールディングス株式会社」（https://www.hankyu-hanshin.co.jp/ir/・1回目）
+  - 「IR資料室 | 株主・投資家向け情報 | 阪急阪神ホールディングス株式会社」（https://www.hankyu-hanshin.co.jp/ir/library/・1回目）
+  - 「当社株式に関して、成長性・株主還元方針・株主優待制度をわかりやすく紹介します」（https://www.hankyu-hanshin.co.jp/ir/individual/・1回目）
+  - 「所有者別状況及び大株主の状況を掲載しています」（https://www.hankyu-hanshin.co.jp/ir/stock/・1回目）
+  - 「株主還元に関する基本的な考え方や配当などを掲載しています」（https://www.hankyu-hanshin.co.jp/ir/stock/・1回目）
+  - 「株主優待に関する情報や、株主優待乗車証、グループ優待券の詳細をご覧いただけます」（https://www.hankyu-hanshin.co.jp/ir/stock/・1回目）
+  - 「株主総会の招集ご通知、決議ご通知などを掲載しています」（https://www.hankyu-hanshin.co.jp/ir/stock/・1回目）
+  - 「IRカレンダー | 株主・投資家向け情報 | 阪急阪神ホールディングス株式会社」（https://www.hankyu-hanshin.co.jp/ir/calendar/・1回目）
+  - 「株主通信 Vol.51発行（株主通信）」（https://www.hankyu-hanshin.co.jp/ir/calendar/・1回目）
+- 創業年度：
+  - 「【リリース】 CVCファンド「阪急阪神イノベーションパートナーズ2号投資事業有限責任組合」を10月1日付でSBIインベストメントと共同で設立しました（阪急阪神ホールディングス）」（https://www.hankyu-hanshin.co.jp/・1回目）
+  - 「㈱⼤阪野球倶楽部（⼤阪タイガース、後の㈱阪神タイガース）を設立」（https://www.hankyu-hanshin.co.jp/corporate/history/・1回目）
+  - 「創業期から魅力あふれる沿線づくり・まちづくりにこだわり、都市交通事業と共に成長を続けてきた不動産事業」（https://www.hankyu-hanshin.co.jp/corporate/about_us/realestate.html・1回目）
+  - 「2025年1月、初めてカナダに事業進出し、現地法人を設立の上、マンション分譲事業を推進していくことを発表しました」（https://www.hankyu-hanshin.co.jp/corporate/about_us/realestate.html・1回目）
+  - 「1948年の創業以来、常に「お客様目線」を大切にし、」（https://www.hankyu-hanshin.co.jp/corporate/about_us/travel.html・1回目）
+  - 「阪急阪神ホールディングスは、創業以来100年以上にわたり、関西圏を中心に「安心・快適」な暮らしと「夢・感動」をお届けしてきました」（https://www.hankyu-hanshin.co.jp/ir/individual/・1回目）
+  - 「1911 年創立」（https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf・2回目）
+  - 「て設立、1970 年に「広島交響楽団」へ改称」（https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf・2回目）
+  - 「2023 年に創立 40 周年を迎えた」（https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf・2回目）
+  - 「1953 年創立」（https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf・2回目）
+  - 「1980 年「大阪シンフォニカー」として創立」（https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf・2回目）
+  - 「奏会開催が叶わなかったものの、設立 25 周年となる 2026 年の定期演奏会で披露され好評を博した」（https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf・2回目）
+- ビジネスモデル：
+  - 「JR東日本、JAL、NTT…異業種が続々と銀行業に参入 競合が増えても「既存の銀行」が儲かる「収益モデルの中身」とは」（https://jbpress.ismedia.jp/articles/-/96258・3回目）
+  - 「丸紅または三菱商事などの総合商社系物流部門：商社が持つグローバルな商流と、にしてつが持つ実運送フォワーディング機能を組み合わせる戦略的買収の可能性がある」（https://note.com/better_equation/n/nc8917f03aafe・3回目）
+  - 「阪急阪神ホールディングスは、創業者・小林一三が築いた「地域や文化を総合的に盛り上げる」ビジネスモデルを起点に、阪神のスポーツ・娯楽資産を吸収する形でさらなる多角化を進めたことが大きな強みです」（https://note.com/jobhuntkeyence/n/nd2ea7059aecd・3回目）
+  - 「阪急阪神ホールディングスも「阪急阪神DXプロジェクト」を始動させ、グループ横断のデジタル基盤（HH Cross）を活かしたサービス向上や、新たなビジネスモデルを模索中です」（https://note.com/jobhuntkeyence/n/nd2ea7059aecd・3回目）
+  - 「グループが掲げる「鉄道×不動産×エンタメ」にデジタルや海外展開が加わることで、業界の常識を超えた新たな収益モデルを打ち立てられるかが勝負の分かれ目になりそうです」（https://note.com/jobhuntkeyence/n/nd2ea7059aecd・3回目）
+  - 「鉄道利用者を不動産事業で取り込み、エンタメでさらなるファンを獲得し、旅行やホテルで横展開するという多重構造が、グループとしての強靭なビジネスモデルを支えています」（https://note.com/jobhuntkeyence/n/nd2ea7059aecd・3回目）
+  - 「・DX施策により、グループ横断で顧客データを活用し新しいビジネスモデルを開発」（https://note.com/jobhuntkeyence/n/nd2ea7059aecd・3回目）
+- 誰に：
+  - 「お客様の喜びを実現し、社会に貢献します」（https://www.hankyu-hanshin.co.jp/・1回目）
+  - 「【リリース】 阪急交通社 秋のお客様感謝イベント 中部国際空港ウォーキング 10月25日(日)初開催 空港島･総合物流区域周辺などをめぐります」（https://www.hankyu-hanshin.co.jp/・1回目）
+  - 「そして、これらの活動等を通じて、暮らしを支える「安心や快適」、暮らしを彩る「夢や感動」を絶えずお客様にお届けしてきました」（https://www.hankyu-hanshin.co.jp/corporate/vision.html・1回目）
+  - 「お客様の喜びを実現し、社会に貢献します」（https://www.hankyu-hanshin.co.jp/corporate/vision.html・1回目）
+  - 「私たちは、出会いを大切にし、お客様の立場に立って最善を尽くします」（https://www.hankyu-hanshin.co.jp/corporate/vision.html・1回目）
+  - 「「すべてはお客様のために」を原点に、お客様の満足を常に考え、」（https://www.hankyu-hanshin.co.jp/corporate/vision.html・1回目）
+  - 「私たちが関わるすべての事業は、お客様とともに歩んでいます」（https://www.hankyu-hanshin.co.jp/corporate/vision.html・1回目）
+  - 「顧客満足度調査「JCSI（日本版顧客満足度指数：Japanese Customer Satisfaction Index）」において、阪急電鉄は、近郊鉄道の部門で、17年連続で1位を獲得しています」（https://www.hankyu-hanshin.co.jp/corporate/vision.html・1回目）
+  - 「この調査は、公益財団法人 日本生産性本部 サービス産業生産性協議会が実施している日本最大級の顧客満足度調査で、総計10万人以上の利用者からの回答をもとに、統計的な手法により企業・ブランドを評価するものです」（https://www.hankyu-hanshin.co.jp/corporate/vision.html・1回目）
+  - 「お客様や地域社会の声に耳を傾け、そのニーズや課題に真摯に向き合い、サステナブル経営を進めるうえで重きを置く重要テーマ（マテリアリティ）に、事業を通じて一つひとつ応えていくことにより、持続的な企業価値の向上、ひいては持続可能な社会の実現につなげていきます」（https://www.hankyu-hanshin.co.jp/corporate/vision.html・1回目）
+  - 「阪急バス・阪神バスでは、路線バスのリアルタイムな運行状況などを検索できるバスロケーションサービスや、ハウスICカード乗車券「hanica」などを通じ、お客様の利便性向上に努めています」（https://www.hankyu-hanshin.co.jp/corporate/about_us/urban.html・1回目）
+  - 「電車内や駅において、各種交通広告媒体（デジタルサイネージや看板・ポスターなど）を幅広く取り扱い、お客様に"価値ある空間"を提供しています」（https://www.hankyu-hanshin.co.jp/corporate/about_us/urban.html・1回目）
+- 何を：
+  - 「【リリース】 のせでん×アイカサ 能勢電鉄の12駅に、傘のシェアリングサービス「アイカサ」を導入!」（https://www.hankyu-hanshin.co.jp/・1回目）
+  - 「【リリース】 ～AIを活用したお忘れ物検索サービス～「落とし物クラウドfind」を導入します! 11月10日(火)に阪神電車、11月19日(木)に阪急電鉄でサービスを開始」（https://www.hankyu-hanshin.co.jp/・1回目）
+  - 「【リリース】 阪神タイガース JERA セ･リーグ優勝記念 厳選した国内･海外旅行商品を販売開始しました」（https://www.hankyu-hanshin.co.jp/・1回目）
+  - 「【お知らせ】 ～半導体物流におけるEnd to Endのソリューションを紹介～ インド･ニューデリーで開催される半導体国際展示会「SEMICON India 2026」に初出展（阪急阪神エクスプレス）」（https://www.hankyu-hanshin.co.jp/・1回目）
+  - 「【お知らせ】 2027年 阪急電鉄カレンダー「マルーンの疾風(かぜ)」を10月9日(金)から販売します ～壁掛け版と卓上版の同時購入でオリジナルデザインのクリアファイルをプレゼント～（阪急阪神マーケティングソリューションズ）」（https://www.hankyu-hanshin.co.jp/・1回目）
+  - 「阪急阪神ホールディングスグループは、鉄道事業をベースに住宅・商業施設等の開発から阪神タイガースや宝塚歌劇など魅力溢れるエンタテインメントの提供に至るまで、多岐にわたる分野において、それまでになかったサービスを次々と提供することにより、沿線をはじめ良質な「まちづくり」に貢献するとともに、社会に新風を吹き込み、100 年以上の長い歴史の中で数々の足跡を残してきました」（https://www.hankyu-hanshin.co.jp/corporate/vision.html・1回目）
+  - 「私たちは、これからも、培ってきたブランドやまちづくりのノウハウを活かし、グループ一丸となって良質なサービスを提供していきます」（https://www.hankyu-hanshin.co.jp/corporate/vision.html・1回目）
+  - 「当社グループのサービスやブランドは高い評価をいただいており、そうした評価はグループ従業員の喜びにもつながっています」（https://www.hankyu-hanshin.co.jp/corporate/vision.html・1回目）
+  - 「この調査は、公益財団法人 日本生産性本部 サービス産業生産性協議会が実施している日本最大級の顧客満足度調査で、総計10万人以上の利用者からの回答をもとに、統計的な手法により企業・ブランドを評価するものです」（https://www.hankyu-hanshin.co.jp/corporate/vision.html・1回目）
+  - 「安全・安心・快適で多彩な輸送サービスを提供」（https://www.hankyu-hanshin.co.jp/corporate/about_us/urban.html・1回目）
+  - 「この2社を中心に、社会を支える鉄道インフラとして関西圏で鉄道ネットワークを形成し、安全・安心・快適に、利用しやすい鉄道サービスを提供しています」（https://www.hankyu-hanshin.co.jp/corporate/about_us/urban.html・1回目）
+  - 「阪急バス・阪神バスでは、路線バスのリアルタイムな運行状況などを検索できるバスロケーションサービスや、ハウスICカード乗車券「hanica」などを通じ、お客様の利便性向上に努めています」（https://www.hankyu-hanshin.co.jp/corporate/about_us/urban.html・1回目）
+- どうやって売るか：
+  - 「【リリース】 コーポレートベンチャーキャピタルファンド「阪急阪神イノベーションパートナーズ投資事業有限責任組合」が宿泊･短期賃貸施設の運営･管理事業を展開する「matsuri technologies」に出資しました（阪急阪神ホールディングス）」（https://www.hankyu-hanshin.co.jp/・1回目）
+  - 「【リリース】 阪神タイガース2年連続リーグ優勝!優勝翌日から3日間「阪神タイガース JERA セントラル･リーグ優勝記念キャンペーン」を開催します ✓対象のレストラン･バー計24店舗でドリンクが何杯でも半額 ✓ホテル阪神大阪 日本料理･天ぷら「花座」の対象メニューが半額」（https://www.hankyu-hanshin.co.jp/・1回目）
+  - 「【リリース】 ugo株式会社との自律移動型AIロボット「ugo」の活用･展開に向けた協業の開始について ～パートナー契約を締結し、フィジカルAIの社会実装を推進～（アイテック阪急阪神）」（https://www.hankyu-hanshin.co.jp/・1回目）
+  - 「【お知らせ】 ～半導体物流におけるEnd to Endのソリューションを紹介～ インド･ニューデリーで開催される半導体国際展示会「SEMICON India 2026」に初出展（阪急阪神エクスプレス）」（https://www.hankyu-hanshin.co.jp/・1回目）
+  - 「【お知らせ】 東京都「企業のScope3(物流分野)対策促進事業(航空･海上輸送)」 SAF･バイオ燃料を活用した航空･海上貨物輸送を促進する貨物代理店に選定（阪急阪神エクスプレス）」（https://www.hankyu-hanshin.co.jp/・1回目）
+  - 「【リリース】 コーポレートベンチャーキャピタルファンド「阪急阪神イノベーションパートナーズ投資事業有限責任組合」が日本で暮らす外国人の生活を支える「グローバルトラストネットワークス」に出資しました（阪急阪神ホールディングス）」（https://www.hankyu-hanshin.co.jp/・1回目）
+  - 「【リリース】 CVCファンド「阪急阪神イノベーションパートナーズ2号投資事業有限責任組合」を10月1日付でSBIインベストメントと共同で設立しました（阪急阪神ホールディングス）」（https://www.hankyu-hanshin.co.jp/・1回目）
+  - 「それぞれの会社が歩んできた歴史を、主要な出来事とともにご紹介します」（https://www.hankyu-hanshin.co.jp/corporate/history/・1回目）
+  - 「（パン・アメリカン航空会社と日本で初めて代理店契約を締結）」（https://www.hankyu-hanshin.co.jp/corporate/history/・1回目）
+  - 「わが国初のIATA航空貨物取扱代理店の認可を取得」（https://www.hankyu-hanshin.co.jp/corporate/history/・1回目）
+  - 「2025年3月には、「RESPIRE（レスパイア）」ブランドとして2店舗目となるホテル阪急グランレスパイア大阪が開業しました」（https://www.hankyu-hanshin.co.jp/corporate/about_us/realestate.html・1回目）
+  - 「日本初のIATA航空貨物取扱代理店として、信頼の国際輸送サービスを提供」（https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html・1回目）
+- お金の形：
+  - 「「ビルボード」マスターライセンス契約を締結」（https://www.hankyu-hanshin.co.jp/corporate/history/・1回目）
+  - 「2006年に日本におけるライセンス契約を締結し、ライブレストラン事業をはじめ多角的に展開しています」（https://www.hankyu-hanshin.co.jp/corporate/about_us/entertainment.html・1回目）
+  - 「社会インフラに関するシステム開発や、Ｅコマース（電子商取引）サイトの構築・保守などの情報サービス事業、テレビ・インターネット・電話の各サービスを中心とした地域密着型の放送・通信事業、さらには、セキュリティサービスや、プログラミング教育といったあんしん・教育事業を通じて、高度情報化社会のビジネスをサポートするとともに、日々の暮らしに安心・快適をお届けしています」（https://www.hankyu-hanshin.co.jp/corporate/about_us/info_communication.html・1回目）
+  - 「JobVoice の企業別「志望動機30例×面接質問の解答例30例」（1,000社以上）を、月額 ¥10,000 で読み放題にするメンバーシップです」（https://note.com/jobhuntkeyence/n/nd2ea7059aecd・3回目）
+  - 「社員の声にも、安定の裏返しとしての保守性が色濃くにじむ」（https://note.com/company_scope/n/naa02704b962a・3回目）
+- 売上構成：
+  - 「セグメント別の営業収益と事業利益の推移をご覧いただけます」（https://www.hankyu-hanshin.co.jp/ir/financial/・1回目）
+  - 「不動産に軸足を置く理由での売却といいますが、それならば、国際輸送セグメントとロジスティックスを組み合わせた使い方ができるわけで、非常にチグハグした印象が否めない」（https://note.com/gogo_labo/n/n0564ea790e62・3回目）
+  - 「阪急阪神ホールディングスが、グループ売上高の約1割を占める基幹事業であった国際輸送セグメントの完全売却に踏み切った背景には、市況変動リスクの高さと、中核である関西沿線エリアの大規模再開発に向けた資本配分の最適化という明確な経営判断が存在する」（https://note.com/better_equation/n/nc8917f03aafe・3回目）
+  - 「新型コロナウイルス禍に伴うサプライチェーンの混乱期であった2023年3月期には、航空・海上運賃の高騰を追い風に、阪急阪神エクスプレスを中核とする国際輸送セグメントは営業収益1632億円、営業利益84億円を叩き出し、一時的にグループ業績を牽引した」（https://note.com/better_equation/n/nc8917f03aafe・3回目）
+  - 「2024年3月期には営業利益が約2億円へと激減し、2025年3月期には市況の軟化に加えてフォワーディング基幹システム等に関する減損損失約19億円の計上が重なり、セグメント営業損失約12億円という赤字へ転落した」（https://note.com/better_equation/n/nc8917f03aafe・3回目）
+  - 「グループの国際物流セグメント売上高は約7900億円規模に達し、エレクトロニクス関連の航空貨物取扱量において国内屈指のシェアを誇るほか、傘下のAPL Logisticsを通じて北米や新興国での3PLを展開している」（https://note.com/better_equation/n/nc8917f03aafe・3回目）
+  - 「国際物流を含む物流業セグメントの売上高は約800億円から1000億円規模（西日本鉄道全体の連結売上高は約4700億円規模）であり、航空混載貨物取扱量において日本トップクラスの取扱量を維持している」（https://note.com/better_equation/n/nc8917f03aafe・3回目）
+  - 「4-1：事業セグメントの概要」（https://note.com/jobhuntkeyence/n/nd2ea7059aecd・3回目）
+  - 「その先入観を、セグメント別の営業収益が静かに覆す」（https://note.com/company_scope/n/naa02704b962a・3回目）
+- 利益の源泉：
+  - 「グループ経営理念・私たちの強み | 阪急阪神ホールディングス株式会社」（https://www.hankyu-hanshin.co.jp/corporate/vision.html・1回目）
+  - 「こうした沿線価値の創造力は、私たちの強みの一つです」（https://www.hankyu-hanshin.co.jp/corporate/vision.html・1回目）
+  - 「当社グループ固有の強みであるスポーツ事業とステージ事業をはじめ、」（https://www.hankyu-hanshin.co.jp/corporate/about_us/entertainment.html・1回目）
+  - 「当社グループについて、事業内容・企業規模・強み・成長戦略をわかりやすく紹介します」（https://www.hankyu-hanshin.co.jp/ir/individual/・1回目）
+  - 「※価格や在庫状況が急遽変更になる場合があります」（https://www.hankyu-hanshin.co.jp/release/2026/11/389cad5647be0d71cf846dc7a5a41bcf0ff378d5.pdf・2回目）
+  - 「100年間、別々の道を歩んだ両社が合わさり、互いの強みを活かしつつ、ふたたび大きな成長の果実を得ることができるのか、楽しみにいたしたいところです」（https://note.com/gogo_labo/n/n0564ea790e62・3回目）
+  - 「国内の人口減少や少子高齢化が加速する中、私鉄経営の持続可能性を担保するためには、グループの強みである都市交通、不動産、エンタテインメント事業へ経営資源を集中的に再配分することが急務であった」（https://note.com/better_equation/n/nc8917f03aafe・3回目）
+  - 「三菱倉庫の国際運送取扱事業は、海上輸送および港湾運送、国内の保管倉庫に圧倒的な強みを持つ一方、航空フォワーディングの売上は170億円規模にとどまっていた」（https://note.com/better_equation/n/nc8917f03aafe・3回目）
+  - 「ロジスティードは2024年5月、電子部品および調達物流に強みを持つアルプス物流に対してTOBを実施することを発表し、買付代金約1052億円を投じて同年10月に子会社化を完了させた」（https://note.com/better_equation/n/nc8917f03aafe・3回目）
+  - 「アルプス物流は上場廃止となり、ロジスティードは自社の強みである3PLオペレーションにアルプス物流の電子部品サプライチェーン網を融合させ、特定産業分野での圧倒的なグローバル競争力構築に乗り出している」（https://note.com/better_equation/n/nc8917f03aafe・3回目）
+  - 「原料調達から工場の在庫管理、輸出入通関、目的国内での高機能倉庫保管、最終納品先への二次配送までを、単一の契約とプラットフォームで完結させるエンドツーエンドのトータルロジスティクスが標準となっている」（https://note.com/better_equation/n/nc8917f03aafe・3回目）
+  - 「売上高は約1800億円規模であり、自動車関連物流や化学品輸送、中国・東南アジア・欧州を結ぶ国際複合一貫輸送に強みを持つ」（https://note.com/better_equation/n/nc8917f03aafe・3回目）
+- 沿革：
+  - 「1907年（明治40年）10月19日」（https://www.hankyu-hanshin.co.jp/corporate/data/・1回目）
+  - 「2026年6月18日現在」（https://www.hankyu-hanshin.co.jp/corporate/data/・1回目）
+  - 「2026年4月1日現在」（https://www.hankyu-hanshin.co.jp/corporate/data/・1回目）
+  - 「2025年度調査」（https://www.hankyu-hanshin.co.jp/corporate/vision.html・1回目）
+  - 「2006年に発足した阪急阪神ホールディングスは、両社が培ってきた伝統と革新の精神を受け継ぎ、新たな価値創造に挑戦し続けています」（https://www.hankyu-hanshin.co.jp/corporate/history/・1回目）
+  - 「2025年1月、初めてカナダに事業進出し、現地法人を設立の上、マンション分譲事業を推進していくことを発表しました」（https://www.hankyu-hanshin.co.jp/corporate/about_us/realestate.html・1回目）
+  - 「2025年3月には、「RESPIRE（レスパイア）」ブランドとして2店舗目となるホテル阪急グランレスパイア大阪が開業しました」（https://www.hankyu-hanshin.co.jp/corporate/about_us/realestate.html・1回目）
+  - 「2026年には「フォーブス・トラベルガイド」の「ホテル部門」において、大阪のホテルで"唯一"4年連続となる5つ星を獲得し、時代を超えたクラシカルな空間、そして心のこもったおもてなしとサービスで、お客様にユニークで思い出に残るパーソナルな体験を提供します」（https://www.hankyu-hanshin.co.jp/corporate/about_us/realestate.html・1回目）
+  - 「2025年に創設90周年を迎えた歴史と伝統を誇る人気球団」（https://www.hankyu-hanshin.co.jp/corporate/about_us/entertainment.html・1回目）
+  - 「2023年に18年ぶりのリーグ優勝、38年ぶりの日本シリーズ制覇を成し遂げ、その活躍は観客を大いに魅了するとともに、野球界発展に寄与し続けています」（https://www.hankyu-hanshin.co.jp/corporate/about_us/entertainment.html・1回目）
+  - 「1914年の第一回公演から110年を超える歴史が綴られてきました」（https://www.hankyu-hanshin.co.jp/corporate/about_us/entertainment.html・1回目）
+  - 「2006年に日本におけるライセンス契約を締結し、ライブレストラン事業をはじめ多角的に展開しています」（https://www.hankyu-hanshin.co.jp/corporate/about_us/entertainment.html・1回目）
+- 検索結果の抜粋：
+  - 「株主 構成比率 | 阪急阪神ホールディングス 株式会社 — 株主 構成比率 | 阪急阪神ホールディングス 株式会社 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > stock > classification」（https://www.hankyu-hanshin.co.jp/ir/stock/classification.html・3回目）
+  - 「阪急阪神ホールディングス 【9042】の 大株主 情報 - 株探 — 阪急阪神ホールディングス 【9042】の 大株主 情報 - 株探 株探 https://kabutan.jp > stock > holder」（https://kabutan.jp/stock/holder?code=9042・3回目）
+  - 「株主 優待 | 阪急阪神ホールディングス 株式会社 — 株主 優待 | 阪急阪神ホールディングス 株式会社 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > stock > benefit」（https://www.hankyu-hanshin.co.jp/ir/stock/benefit/・3回目）
+  - 「株主 優待基準・内容 | 阪急阪神ホールディングス 株式会社 — 株主 優待基準・内容 | 阪急阪神ホールディングス 株式会社 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > benefit > outline」（https://www.hankyu-hanshin.co.jp/ir/stock/benefit/outline.html・3回目）
+  - 「よくあるご質問 | 阪急阪神ホールディングス 株式会社 — よくあるご質問 | 阪急阪神ホールディングス 株式会社 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > faq」（https://www.hankyu-hanshin.co.jp/faq/・3回目）
+  - 「Shareholders Information | Hankyu Hanshin Holdings, Inc. — Shareholders Information | Hankyu Hanshin Holdings, Inc. 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > c...」（https://www.hankyu-hanshin.co.jp/en/ir/stock/classification.html・3回目）
+  - 「Segment Information | Hankyu Hanshin Holdings, Inc. — Segment Information | Hankyu Hanshin Holdings, Inc. 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > s...」（https://www.hankyu-hanshin.co.jp/en/ir/financial/segment.html・3回目）
+  - 「Management Policy | Hankyu Hanshin Holdings, Inc. — Management Policy | Hankyu Hanshin Holdings, Inc. 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > ...」（https://www.hankyu-hanshin.co.jp/en/ir/management/・3回目）
+  - 「Investor Relations | Hankyu Hanshin Holdings, Inc. — Investor Relations | Hankyu Hanshin Holdings, Inc. 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > ...」（https://www.hankyu-hanshin.co.jp/en/ir/・3回目）
+  - 「グループの歴史 | 阪急阪神ホールディングス 株式会社 — グループの歴史 | 阪急阪神ホールディングス 株式会社 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > corporate > history」（https://www.hankyu-hanshin.co.jp/corporate/history/・3回目）
+  - 「会社概要 | 阪急阪神ホールディングス 株式会社 — 会社概要 | 阪急阪神ホールディングス 株式会社 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > corporate > data」（https://www.hankyu-hanshin.co.jp/corporate/data/・3回目）
+  - 「阪急阪神ホールディングス - Wikipedia — 阪急阪神ホールディングス - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 阪急阪神ホールディングス」（https://ja.wikipedia.org/wiki/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
+- 株主：記載なし（3回確認済み：公式22頁／PDF・画像16件／外部19頁・検索14回）
+- 設立：記載なし（3回確認済み：公式22頁／PDF・画像16件／外部19頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式22頁／PDF・画像16件／外部19頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式22頁／PDF・画像16件／外部19頁・検索14回）
 
 ## 電業社機械製作所
 - 公式URL：https://www.dmw.co.jp/（search:yahoo_jp:電業社機械製作所）

@@ -1,0 +1,947 @@
+{
+ "name": "町工場のインターン・職場体験受け入れ支援",
+ "en": "manufacturing internship program small factory",
+ "aliases": [
+  "町工場 インターン",
+  "製造業 インターンシップ 中小",
+  "工場見学 採用"
+ ],
+ "context": "採用支援",
+ "kind": "market",
+ "researched_at": "2026-11-05T00:41:12.786062+00:00",
+ "evidence": {
+  "売り手": [
+   {
+    "quote": "株式会社日立ハイテクマニファクチャ&サービス",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社獺祭（2025年6月1日より社名変更 旧：旭酒造株式会社）",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社キーレックス・ワイテック・インターナショナル",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "航空運輸・空港運営、官公庁・行政・警察",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "「本気でやる子を育てる」を理念に、生徒の未来を創る教育を提供",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社H4",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "マーケ志望必見｜最新トレンドを「仕掛ける側」に！SNS運営の長期有償インターン",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ロジスティクス・ネットワーク（ニチレイロジグループ）",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社BREXA Advan（旧アドバンテック）",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Ｄ２",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、社員一人ひとりが自分らしく働ける環境を提供しています",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "【地域貢献/企業CSR活動】運営に参加してみよう！",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ハイメディック シニアライフ事業【リゾートトラストグループ】",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "70年以上の技術を活かし、印刷や電子分野を支える独自の光化学材料を提供しています",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "社員一人一人が「オーナーシップマインド」を持ち、主体的に運営しています",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "【文理不問／人柄重視の採用】Webメールとセキュリティに関わるソフトウェア製品・クラウドサービスを提供している企業です",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "ピーエス・コンストラクション株式会社【大成建設グループ】",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社トリート（株式会社ＰＬＡＮ・ＤＯ・ＳＥＥグループ）",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "日本総合住生活株式会社【UR都市機構グループ】",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "Ｊ－ＰＯＷＥＲジェネレーションサービス株式会社",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "トゥモローランドはファッションを通してお客さまに喜びや夢を与え、心の豊かさを提供することを最も大切な使命と考えています",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "一貫生産体制のアルミニウム総合メーカーで、自社工場を有し、あらゆる分野へアルミの特性を生かした商品を提供しています",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "チョコっとトークde会社を知ろう！RIKEN Open Company",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "ケーキとトークde会社を知ろう！RIKEN Open Company",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "パーソルビジネスプロセスデザイン株式会社【旧パーソルプロセス&テクノロジー株式会社】",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "チャブ・グループの一員として火災保険、賠償責任保険、傷害保険、自動車保険、旅行保険等を提供しています",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アーネストワン（飯田グループホールディングス）",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "関東地域で官庁・民間の建築工事に約74年の実績を有し、また不動産を多数保有・運営する充実した資産内容で定評の安定企業",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "「本気でやる子を育てる」を理念に、生徒の未来を創る教育を提供",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "運営会社 株式会社キャリタス 協力 日本経済新聞社 ・日経HR",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "銀行業務を体験してもらうことにより、金融知識を学ぶ機会を提供し、将来を担う地域の成長を支える人材の育成に取り組んでいます",
+    "url": "https://www.pref.chiba.lg.jp/kyouiku/seisaku/kyaria/csr/ichiran-syokubataiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "金融機関の業務を体験してもらうことにより、将来を担う子供たちの職業観を醸成し、金融知識を習得できる場を提供するため、地域の小中学生を対象に職場体験の受入を実施します",
+    "url": "https://www.pref.chiba.lg.jp/kyouiku/seisaku/kyaria/csr/ichiran-syokubataiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "プロ野球の試合運営業務や球場清掃、諸業務の体験を行うことにより、プロスポーツチームの業務内容への関心を高めるとともに、社会人としてのマナーを学ぶことを目的に地元小中学生の体験を受け入れる",
+    "url": "https://www.pref.chiba.lg.jp/kyouiku/seisaku/kyaria/csr/ichiran-syokubataiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "在住地問わず、大学、専門学校生を対象に通年でインターンシップを受け入れ、社会人としてのマナーを身につけるとともに、イベントの企画運営や業務補助を行い、プロスポーツの業務理解を深める",
+    "url": "https://www.pref.chiba.lg.jp/kyouiku/seisaku/kyaria/csr/ichiran-syokubataiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "桜木・加曾利地区商工振興会と連携して、地元中学校高校生徒を社会職場体験学習に取り入れ朝市等の手伝いや店舗販売や企画運営に参加してもらっている",
+    "url": "https://www.pref.chiba.lg.jp/kyouiku/seisaku/kyaria/csr/ichiran-syokubataiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon Japan合同会社 NRT1 市川倉庫",
+    "url": "https://www.pref.chiba.lg.jp/kyouiku/seisaku/kyaria/csr/ichiran-syokubataiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "高校生を受け入れ可能な研究室を全国にある大学等の研究機関から募り、夏休みと春休み、高校生に研究室滞在の機会を提供します",
+    "url": "https://www.pref.chiba.lg.jp/kyouiku/seisaku/kyaria/csr/ichiran-syokubataiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "この変化を反映しているのが、みん就株式会社の2026年卒業予定学生向けの調査です",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "PR TIMES｜ポート株式会社のプレスリリース「みん就 2026年卒 インターン人気企業ランキング」を発表",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "PR TIMES｜ポート株式会社のプレスリリース 「みん就 2026年卒 インターン人気企業ランキング」を発表",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "企業や業界の情報提供（半日〜1日）",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "オープン・カンパニーは、企業や業界についての情報提供や広報を主な目的としています",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "インターンシップ | ニトリシティ2024 株式会社ニトリ",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "専門コース：「アクチュアリーコース」「資産運用コース」を提供",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "「みん就」総合ランキングでも90位から32位と飛躍を見せた本田技研工業では、「お客様扱いしない」コンセプトで、学生へのインターンシップ・キャリア形成支援の機会を提供しています",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "PR TIMES｜ポート株式会社のプレスリリース みん就「2026年卒 インターン人気企業ランキング」を発表",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年卒学生を対象に、株式会社ディスコが実施した調査によると、学生満足度を高める主要因は「社員との交流機会」と「成長実感」です",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ディスコ｜インターンシップ等に関する特別調査",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マイナビの2025年卒向け調査によれば、公式ルール（前述の採用活動日程ルール）に沿う形で、大手企業の選考が始まる6月を境として学生の内定保有率が顕著に上昇します",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "秋季には夏の経験を踏まえたプログラムを提供し、春季には採用選考直前の最終アプローチとして実施することで、一連の流れを作ることが可能です",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした複数時期に分けてプログラムを提供することで、学生との接点を増やし、段階的な関係構築を通じて採用成功率を高める効果が期待できます",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトにおけるニュース、データ及びその他の情報などのコンテンツは一般的な情報提供を目的にしており、特定のお客様のニーズへの対応もしくは特定のサービスの優遇的な措置を保証するものではありません",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Mizkan J plus Holdings",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%8B%9F%E9%9B%86+%E4%BC%81%E6%A5%AD/",
+    "pass": 3
+   },
+   {
+    "quote": "航空運輸・空港運営、官公庁・行政・警察",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%8B%9F%E9%9B%86+%E4%BC%81%E6%A5%AD/",
+    "pass": 3
+   },
+   {
+    "quote": "東北ではすっかりおなじみとなっているシライシブランドのパンを提供",
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "pass": 3
+   },
+   {
+    "quote": "北洲が提供している住まいを、どのようにお客様にお伝えするか、展示場でのグループワークや営業手法について学ぶインターンです",
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "pass": 3
+   },
+   {
+    "quote": "総合アミューズメント業（パチンコ、各種アミューズメント施設、飲食事業等の企画・運営・管理）",
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "pass": 3
+   },
+   {
+    "quote": "「スーパースポーツゼビオ」を運営しています",
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに商品開発や新規事業開発、プロスポーツチームの運営、施設事業などに事業領域を拡げ、様々なシーンでお客様のスポーツスタイルをサポートする企業として拡大を続けています",
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "pass": 3
+   },
+   {
+    "quote": "健康イベントに参加して運営体験ができる内容となっています",
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "【王子グループ】プラントエンジニア職:1Day工場見学会",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "【王子グループ】岐阜県/プラントエンジニア1Day工場見学",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "9割自社技術の化学メーカー！化学プラントを身近に感じられる☆",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "1day工場見学会|機械・電気|設備・プラントエンジニア",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "10/30、11/6、11/13開催｜交通費全員1万円支給",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "中小製造業が行う長期有償型インターンシップの受け入れ費用を支援 | 記事一覧 | J-Net21[中小企業ビジネス支援サイト]",
+    "url": "https://j-net21.smrj.go.jp/news/nskto6000001zdxf.html",
+    "pass": 3
+   },
+   {
+    "quote": "・補助上限額 5万円",
+    "url": "https://j-net21.smrj.go.jp/news/nskto6000001zdxf.html",
+    "pass": 3
+   },
+   {
+    "quote": "10億円未満",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "10～100億円未満",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "100～300億円未満",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "300～500億円未満",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "500～1000億円未満",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "1000億円以上",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "◆月給26万円◆休日120日以上◆私服勤務OK◆1日の所定労働時間7.5時間",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "10億円未満",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "10～100億円未満",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "100～300億円未満",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "300～500億円未満",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "500～1000億円未満",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "1000億円以上",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "【WEB】1兆円企業の成長を支える、コスモス薬品の仕事を知る会社説明会",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年10月/11月/12月値上げ一覧】食品・飲料・郵便料金・酒たばこ",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "【税理士監修】150万円の壁｜学生アルバイトは扶養のまま収入増！残課題も",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "【税理士監修】123万円の壁はいつから？2026年以降の178万円の壁も解説",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "その広告費はなんと年間で5億円",
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "pass": 3
+   },
+   {
+    "quote": "実案件の「新規事業」立ち上げ〜5days〜【1日2万円支給】",
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "pass": 3
+   },
+   {
+    "quote": "Program1：宿泊プラン企画ワーク",
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "pass": 3
+   },
+   {
+    "quote": "グループワークを通じ、社会を支えるプラントビジネスの魅力を3日間で体感いただくコースです",
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "pass": 3
+   },
+   {
+    "quote": "グループワークを通じ、社会を支えるプラントビジネスの魅力を３日間で体感いただくコースです",
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "pass": 3
+   }
+  ],
+  "継続・規模": [
+   {
+    "quote": "607件以上",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "1/607件以上",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、コロナ禍でも黒字経営を継続するIT/DX企業です！EC市場で17年連続国内No.1！",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "同調査によれば、約4割の学生が5社以上のインターンシップに参加しています",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "約4割が「5社以上」にインターン・OCに参加",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "2267件以上",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%8B%9F%E9%9B%86+%E4%BC%81%E6%A5%AD/",
+    "pass": 3
+   },
+   {
+    "quote": "100社以上の企業を取り上げました",
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "pass": 3
+   },
+   {
+    "quote": "こちらのコースでは、和菓子の生産業務において、同社が力を入れて取り組んでいる5S活動や業務改善活動などの体験も実施",
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "pass": 3
+   }
+  ],
+  "効果": [
+   {
+    "quote": "定着率100%・育休取得男女100%！長く働ける安定企業",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "文理不問/自社製品前年比2倍の売上の会社ってどんな会社？？",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数の離職率 5％以下",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数の離職率 5％以下",
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年卒の採用見通しでは、採用数が「増える」企業が13.2%、「減る」企業が5.4%と、増加傾向が続いています",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "調査によれば、就業体験を伴うインターンシップに参加した学生は、不参加学生と比較して「キャリア選択への納得感」が高い人の割合が約2倍以上（43.8%対19.4%）にのぼりました",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "「入社後の勤続意向」が約1.6倍高い",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "「心身の健康」状態が約1.6倍良好",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "「組織コミットメント（目的・愛着）」が約1.5倍高い",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "「適応感」が約1.4倍高い",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "「キャリア自律」が約1.5倍高い",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "「自律的・主体的な仕事」が約1.4倍高い",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度卒からは、専門性の高い学生の評価と採用がより柔軟に行えるようになり、学生のキャリア選択における納得感の向上や、入社後の定着率アップにつながることが期待されています",
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "pass": 3
+   }
+  ],
+  "採用の困りごと": [
+   {
+    "quote": "金沢開催 金沢で働く若手社員に聞ける営業職座談会&工場見学",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "■営業って実際どう？若手社員に何でも聞ける説明会です■",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "若手も主役！次世代ランプの提案舞台に同席して現場を味わう◎",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "28卒～｜リアル 若手社員製品デモ：一部日程で社長参加！オフィス見学実施コース",
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "pass": 3
+   },
+   {
+    "quote": "【Web開催】若手スタッフが登場!テレビ番組の裏側を大公開!",
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%8B%9F%E9%9B%86+%E4%BC%81%E6%A5%AD/",
+    "pass": 3
+   },
+   {
+    "quote": "試食販売マッチ開催：若手社員と一緒に、試食販売を体験していただきます",
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "pass": 3
+   },
+   {
+    "quote": "高齢化社会・健康志向の高まりを背景に、現代人の健康作りに役立つ新たなお米加工ビジネスを展開しています",
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用に長く携わってきたベテランスタッフや、若手先輩社員が、「ホテルマンとしての礼儀作法や身だしなみ」について アドバイスします",
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "pass": 3
+   },
+   {
+    "quote": "番組収録・生放送を見学したり、実際に機材を使っての番組体験、また若手社員とのトークセッション、振り返りなどを行う予定です",
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの企業が、定着率の低下や若手社員の伸び悩みに課題を感じています",
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "中小製造業が行う長期有償型 インターンシップ の 受け入れ 費用 ... — 中小製造業が行う長期有償型 インターンシップ の 受け入れ 費用 ... J-Net21[中小企業ビジネス支援サイト] https://j-net21.smrj.go.jp > news",
+    "url": "https://j-net21.smrj.go.jp/news/nskto6000001zdxf.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.tokyo-kosha.or.jp/support/udaenk00000057pl-att/25-1_monodukuri-internship_chirashi.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/hyogo-roudoukyoku/content/contents/001842108.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/news/nskto6000001zdxf.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.support-navi.metro.tokyo.lg.jp/detail/2/e37hSx6wRNQtDlQ2y",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://01intern.com/recruitment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/hiringeek/recruit/internship_cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gakuseikyosan.com/media/?p=1038",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tracom.co.jp/tralog/internship-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.careerlinkfactory.co.jp/service/internship/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "http://www.hocci.or.jp/employment/pdf/2026internship.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://barijob.jp/company/internship.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/kyouiku/seisaku/kyaria/csr/ichiran-syokubataiken.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.onecareer.jp/blog/internship_case_studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lokatsu-company.mhlw.go.jp/internship/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edenred.jp/article/hr-recruiting/241/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saponet.mynavi.jp/column/detail/20250617182416.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jri.co.jp/MediaLibrary/file/column/opinion/detail/20210412_10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://job.rikunabi.com/job_search/kw/%E5%8B%9F%E9%9B%86+%E4%BC%81%E6%A5%AD/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jisa1234.jp/industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hrnote.jp/contents/contents-2177/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shugyo.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://renew-career.com/magazine/longintern-major/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "町工場のインターン・職場体験受け入れ支援 料金 月額",
+   "results": [
+    "https://www.tokyo-kosha.or.jp/support/udaenk00000057pl-att/25-1_monodukuri-internship_chirashi.pdf",
+    "https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/",
+    "https://jsite.mhlw.go.jp/hyogo-roudoukyoku/content/contents/001842108.pdf",
+    "https://j-net21.smrj.go.jp/news/nskto6000001zdxf.html",
+    "https://www.support-navi.metro.tokyo.lg.jp/detail/2/e37hSx6wRNQtDlQ2y",
+    "https://barijob.jp/company/internship.pdf",
+    "https://www.wantedly.com/hiringeek/recruit/internship_cost/",
+    "https://www.career-kansai.jp/manual/",
+    "https://web.pref.hyogo.lg.jp/sr05/otameshi.html",
+    "https://www.tokyo-kosha.or.jp/support/shien/internship/index.html"
+   ]
+  },
+  {
+   "query": "町工場のインターン・職場体験受け入れ支援 成果報酬 採用課金",
+   "results": [
+    "https://01intern.com/recruitment/",
+    "https://www.wantedly.com/hiringeek/recruit/internship_cost/",
+    "https://job.career-tasu.jp/intern-search/lst-special-50/",
+    "https://www.gakuseikyosan.com/media/?p=1038",
+    "https://www.tracom.co.jp/tralog/internship-2/",
+    "https://service.onecareer.jp/blog/job_board_pay_per_hire",
+    "https://www.tokyo-kosha.or.jp/support/udaenk00000057pl-att/25-1_monodukuri-internship_chirashi.pdf",
+    "https://job.rikunabi.com/contents/internship/11525/",
+    "https://www.tis.amano.co.jp/gyomu_kaizen/3792/",
+    "https://www.mhlw.go.jp/bunya/nouryoku/training/dl/training02g-02.pdf"
+   ]
+  },
+  {
+   "query": "町工場のインターン・職場体験受け入れ支援 導入実績 社",
+   "results": [
+    "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "https://www.careerlinkfactory.co.jp/service/internship/",
+    "http://www.hocci.or.jp/employment/pdf/2026internship.pdf",
+    "https://barijob.jp/company/internship.pdf",
+    "https://www.tracom.co.jp/tralog/internship-2/",
+    "https://www.pref.chiba.lg.jp/kyouiku/seisaku/kyaria/csr/ichiran-syokubataiken.html",
+    "https://www.meti.go.jp/policy/economy/jinzai/intern/guidebook-all.pdf",
+    "https://www.chisou.go.jp/sousei/internship/common/pdf/internship-hint_honpen_h31_3.pdf",
+    "https://tokyoshugyotaiken.metro.tokyo.lg.jp/",
+    "https://www.kubota.co.jp/sustainability/society/community/workplace-experience.html"
+   ]
+  },
+  {
+   "query": "町工場のインターン・職場体験受け入れ支援 事例 応募数 採用",
+   "results": [
+    "https://service.onecareer.jp/blog/internship_case_studies",
+    "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "https://lokatsu-company.mhlw.go.jp/internship/",
+    "https://edenred.jp/article/hr-recruiting/241/",
+    "https://saponet.mynavi.jp/column/detail/20250617182416.html",
+    "https://www.jri.co.jp/file/column/opinion/detail/20210412_10.pdf",
+    "http://www.jcci.or.jp/file/kikaku/202501/hakusho2017.pdf",
+    "https://www.meti.go.jp/policy/economy/jinzai/intern/guidebook-all.pdf",
+    "https://www.chisou.go.jp/sousei/internship/common/pdf/internship-hint_honpen_h31_3.pdf",
+    "https://official-hayashi.com/2025/06/01/young-people/"
+   ]
+  },
+  {
+   "query": "町工場のインターン・職場体験受け入れ支援 会社 一覧 比較",
+   "results": [
+    "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "https://www.careerlinkfactory.co.jp/service/internship/",
+    "https://job.rikunabi.com/job_search/kw/%E5%8B%9F%E9%9B%86+%E4%BC%81%E6%A5%AD/",
+    "https://jisa1234.jp/industry/",
+    "https://hrnote.jp/contents/contents-2177/",
+    "https://shugyo.jp/",
+    "https://barijob.jp/company/internship.pdf",
+    "https://renew-career.com/magazine/longintern-major/",
+    "https://www.global.toshiba/jp/recruit/corporate/internship.html",
+    "https://www.career-kansai.jp/class/reception/list/"
+   ]
+  },
+  {
+   "query": "site:note.com 町工場のインターン・職場体験受け入れ支援",
+   "results": [
+    "https://note.com/umiumu/n/n5e6f67d2ff90",
+    "https://note.com/umiumu/n/ndd8e4ce96e68",
+    "https://note.com/umiumu/n/n709a9042498d",
+    "https://note.com/satodukuri/n/n77a3c750c6e9",
+    "https://note.com/machi_hito1507/n/n47d68b62e524",
+    "https://note.com/areai/n/ne9e7c286d1de",
+    "https://note.com/miyakkobase/n/n821e962606de",
+    "https://note.com/meoto_gift/n/n52836819ea65",
+    "https://note.com/nakamura_design/n/n474f9e2e347f",
+    "https://note.com/takada188/n/n1abaca1d2730"
+   ]
+  },
+  {
+   "query": "site:x.com 町工場のインターン・職場体験受け入れ支援",
+   "results": [
+    "https://x.com/Tone_ss",
+    "https://x.com/Transcend_L",
+    "https://x.com/miyadai_capatas",
+    "https://x.com/lunchde_sendai",
+    "https://x.com/skip_kesennuma",
+    "https://x.com/action_port",
+    "https://x.com/TSUBAMATE",
+    "https://x.com/UTokyotaiken",
+    "https://x.com/chifumi1997/reposts",
+    "https://x.com/jobiwakuni"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 町工場のインターン・職場体験受け入れ支援",
+   "results": [
+    "https://jp.linkedin.com/jobs/%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EB%93%9D%EC%8B%A4%ED%99%95%EC%9D%B8%EC%84%9C%EC%9C%84%EC%A1%B0-%E2%82%AE-%E3%89%B8%ED%86%A1-f999-%E2%82%B0-%EC%99%B8%EA%B5%AD%EB%8C%80%ED%95%99%EC%A1%B8%EC%97%85%EC%A6%9D%EB%AA%85%EC%84%9C%EC%9C%84%EC%A1%B0-%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%EC%A1%B8%EC%97%85%EC%A6%9D%EB%AA%85%EC%84%9C%EC%9C%84%EC%A1%B0-.arx-jobs",
+    "https://jp.linkedin.com/directory/articles",
+    "https://jp.linkedin.com/jobs/%E4%BA%A1%E7%81%B5%E5%A4%A7%E7%9B%97%E7%99%BB%E5%BD%95-g763.com-ug%E7%8E%AF%E7%90%83%E5%8C%85%E8%B5%A2/-jobs",
+    "https://jp.linkedin.com/in/hasumi-saito-424746234/ja",
+    "https://jp.linkedin.com/in/ykbaseball",
+    "https://mz.linkedin.com/jobs/view/%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88%E3%83%BB%E3%83%91%E3%83%BC%E3%83%88-at-%EF%BC%88%E6%A0%AA%EF%BC%89%E3%82%A2%E3%82%B0%E3%83%AD%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3-4443572390",
+    "https://jp.linkedin.com/in/mamoru-tanaka-8882461a9",
+    "https://jp.linkedin.com/in/anhuioss/zh-cn",
+    "https://jp.linkedin.com/in/%E7%9C%9F%E4%BA%BA-%E7%AE%95%E8%BC%AA-0721837a",
+    "https://jp.linkedin.com/in/%E5%A4%A7%E8%BC%94-%E9%88%B4%E6%9C%A8-2b0075322"
+   ]
+  },
+  {
+   "query": "site:facebook.com 町工場のインターン・職場体験受け入れ支援",
+   "results": [
+    "https://www.facebook.com/RealizeFukushima/posts/%E5%8D%97%E4%BC%9A%E6%B4%A5%E5%9C%B0%E6%96%B9%E3%81%A7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E3%81%AE%E5%8F%97%E3%81%91%E5%85%A5%E3%82%8C%E5%AE%9F%E6%96%BD%E4%B8%AD%E5%8D%97%E4%BC%9A%E6%B4%A5%E7%AE%A1%E5%86%85%E3%81%AE%E4%BC%81%E6%A5%AD%E3%81%A8%E3%81%93%E3%81%AE%E5%9C%B0%E5%9F%9F%E3%81%A7%E5%B0%B1%E8%81%B7%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%E3%81%84%E3%81%A8%E3%81%84%E3%81%86%E6%96%B9%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%AB%E3%81%97%E3%81%9F%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E3%81%AE%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E3%82%92%EF%BC%99%E6%9C%88%E3%81%8B%E3%82%89%E9%96%8B%E5%A7%8B%E3%81%97%E3%81%BE%E3%81%99%E6%9C%80%E7%9F%AD%EF%BC%91/1199279242244351/",
+    "https://www.facebook.com/yuji.seki.524/videos/%E6%A1%90%E7%94%9F%E3%82%92%E8%89%AF%E3%81%8F%E3%81%99%E3%82%8B%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2-%E3%81%9D%E3%81%AE13-%E6%A1%90%E7%94%9F%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E4%BC%81%E6%A5%AD%E3%82%92%E6%A1%90%E7%94%9F%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E5%BF%9C%E6%8F%B4%E3%81%99%E3%82%8B%E8%A1%97%E3%81%AB%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E4%BB%8A%E6%9C%9D%E3%82%82%E6%9C%9D%E8%B5%B7%E4%BC%9A%E3%81%A7%E6%B8%85%E3%80%85%E3%81%97%E3%81%84%E4%B8%80%E6%97%A5%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%92%E5%88%87%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7/2620241895090457/",
+    "https://www.facebook.com/p/Senbay-61560573854241/",
+    "https://www.facebook.com/tatakiage/photos/3387701464579182/",
+    "https://www.facebook.com/YatsushiroCity/posts/%E5%A4%8F%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E5%8F%82%E5%8A%A0%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86731%E3%80%86%E5%88%87-%E3%81%93%E3%81%AE%E5%A4%8F%E5%85%AB%E4%BB%A3%E5%B8%82%E5%86%85%E4%BC%81%E6%A5%AD2%E7%A4%BE%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%AB%8B%E5%A4%A7%E5%AD%A6%E5%85%AB%E4%BB%A3%E5%B8%82%E3%81%8C%E9%80%A3%E6%90%BA%E3%81%97%E5%A4%A7%E5%AD%A6%E7%9F%AD%E5%A4%A7%E9%AB%98%E5%B0%82%E7%94%9F%E5%90%91%E3%81%91%E5%9C%B0%E5%9F%9F%E5%AF%86%E7%9D%80%E5%9E%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%BE%E3%81%99%E6%97%A5%E7%A8%8B91%E6%9C%889/1217657283734218/",
+    "https://www.facebook.com/kitzsns/?locale=ja_JP",
+    "https://www.facebook.com/yuji.seki.524/posts/%E6%A1%90%E7%94%9F%E3%82%92%E8%89%AF%E3%81%8F%E3%81%99%E3%82%8B%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2-%E3%81%9D%E3%81%AE13-%E6%A1%90%E7%94%9F%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E4%BC%81%E6%A5%AD%E3%82%92%E6%A1%90%E7%94%9F%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E5%BF%9C%E6%8F%B4%E3%81%99%E3%82%8B%E8%A1%97%E3%81%AB%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E4%BB%8A%E6%9C%9D%E3%82%82%E6%9C%9D%E8%B5%B7%E4%BC%9A%E3%81%A7%E6%B8%85%E3%80%85%E3%81%97%E3%81%84%E4%B8%80%E6%97%A5%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%92%E5%88%87%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7/28317205731292494/",
+    "https://www.facebook.com/100063668615792/posts/-%E7%AC%AC%E4%BA%8C%E6%96%B0%E5%8D%92%E6%97%A2%E5%8D%92%E3%81%AE%E6%96%B9%E3%81%B8%E5%96%B6%E6%A5%AD%E8%81%B7%E5%8B%9F%E9%9B%86%E4%B8%AD%E5%96%B6%E6%A5%AD%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%AB%E6%8C%91%E6%88%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%E3%81%84%E3%81%A7%E3%82%82%E7%B5%8C%E9%A8%93%E3%81%8C%E3%81%AA%E3%81%84%E3%81%8B%E3%82%89%E4%B8%8D%E5%AE%89%E3%81%9D%E3%82%93%E3%81%AA%E6%96%B9%E3%82%82%E3%81%94%E5%AE%89%E5%BF%83%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%82%A2%E3%83%88%E3%83%A0%E3%81%A7%E3%81%AFojt%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E5%95%86%E5%93%81%E7%9F%A5%E8%AD%98%E3%82%84%E6%8F%90%E6%A1%88%E3%81%AE%E4%BB%95%E6%96%B9%E3%82%92%E5%B0%91%E3%81%97%E3%81%9A%E3%81%A4%E5%AD%A6/1794658552666415/",
+    "https://www.facebook.com/hokkaidointothelocal/",
+    "https://www.facebook.com/Howmet-Aerospace-Nomi-100085745260978/"
+   ]
+  },
+  {
+   "query": "町工場のインターン・職場体験受け入れ支援 note 社長",
+   "results": [
+    "https://note.com/lush_eider8738/n/n69ba4f08dc2c",
+    "https://note.com/machi_hito1507/n/n47d68b62e524",
+    "https://note.com/tag/%E4%BB%95%E4%BA%8B%E4%BD%93%E9%A8%93",
+    "https://note.com/denso_yamagata/n/nc622ede63c1d",
+    "https://jsite.mhlw.go.jp/hyogo-roudoukyoku/content/contents/001842108.pdf",
+    "https://www.tokyo-kosha.or.jp/support/shien/internship/index.html",
+    "https://www.instagram.com/p/DeOq5w2gbbH/",
+    "https://www.shinhidaka-hokkaido.jp/hotnews/files/00004100/00004187/20210614152330.pdf",
+    "https://web.pref.hyogo.lg.jp/sr05/otameshi.html",
+    "https://note.com/lumispark/n/n9f27eb269591"
+   ]
+  },
+  {
+   "query": "町工場のインターン・職場体験受け入れ支援 X 投稿",
+   "results": [
+    "https://x.com/InternGuide",
+    "https://job.career-tasu.jp/intern-search/lst-isimpCont-30/",
+    "https://www.tokyo-kosha.or.jp/support/udaenk00000057pl-att/25-1_monodukuri-internship_chirashi.pdf",
+    "https://jta.or.jp/member/keiei/intern2023.html",
+    "https://www.mhlw.go.jp/kouseiroudoushou/saiyou/tokusetsu/internship/",
+    "https://www.env.go.jp/info/internship/index.html",
+    "https://tokyoshugyotaiken.metro.tokyo.lg.jp/",
+    "https://careetern.com/column/detail/2021002",
+    "https://www.career-kansai.jp/manual/",
+    "https://x.com/Panasonic_IN_JP/status/2117089323027767564"
+   ]
+  },
+  {
+   "query": "manufacturing internship program small factory site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/jobs/view/summer-2027-manufacturing-engineering-intern-at-av-4462061814",
+    "https://www.linkedin.com/jobs/view/smart-factory-robotics-operations-intern-at-trumpf-north-america-4464920486",
+    "https://www.linkedin.com/jobs/manufacturing-engineering-intern-jobs",
+    "https://www.linkedin.com/jobs/internship-jobs",
+    "https://www.linkedin.com/jobs/view/2027-industrial-engineering-summer-intern-los-angeles-ca-fremont-ca-at-ups-4461333261",
+    "https://www.linkedin.com/jobs/view/manufacturing-engineering-intern-fall-2026-spring-2027-at-first-solar-4453593010",
+    "https://www.linkedin.com/jobs/view/manufacturing-leadership-intern-summer-2027-at-international-paper-4461040796",
+    "https://www.linkedin.com/jobs/view/manufacturing-integration-intern-spring-2027-at-first-solar-4470046994",
+    "https://www.linkedin.com/jobs/view/manufacturing-engineering-intern-spring-2027-at-freeform-4474622120",
+    "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-at-openshelf-4466868567"
+   ]
+  }
+ ],
+ "missing": {
+  "成果報酬・採用課金": "記載なし（読んだ25頁・検索12回）",
+  "法的な区分": "記載なし（読んだ25頁・検索12回）"
+ }
+}

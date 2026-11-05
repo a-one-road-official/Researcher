@@ -1,0 +1,1390 @@
+{
+ "name": "wl-C 3D CAD（組込み用CADエンジン・ブラウザCAD）",
+ "en": "embeddable browser CAD SDK",
+ "aliases": [
+  "web CAD SDK",
+  "CAD kernel OEM",
+  "embedded 3D CAD",
+  "online CAD API",
+  "ブラウザCAD"
+ ],
+ "context": "wl-C 3D CAD",
+ "kind": "market",
+ "researched_at": "2026-11-05T00:45:46.635944+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "Different vendors achieve this to varying degrees and with different techniques, as we’ll explore in a moment. Some basic solutions only hide their logo, while advanced ones allow you extensive rebranding and even embedding analytics",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "on top of the vendor’s engine.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "top embedded analytics tools that support white labeling",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": ". Essentially, if you have specific UI needs, you are free to implement them on top of Embeddable’s data/query backbone.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "These advanced solutions (Embeddable, Sisense Compose, etc.) are ideal if your top priority is a",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "is the top self-hosted/hosted tier (around $15k+/year) which includes all Pro features like interactive embedding and white-label customization.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "To remove that watermark entirely, you need to be on a higher-tier plan (their “Professional” or “Elite” plans). The top-tier (Elite) also lets you white-label email notifications and alerts with your branding.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "is an end-to-end AI-powered analytics platform with native SQL, NoSQL and document support and embedded analytics. It stands out for its ability to connect directly to a wide range of SQL, NoSQL, API, and document data sources without ETL. It supports teams with internal BI while giving SaaS vendors and enterprises white-labeling and OEM capabilities.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Tableau is a leading BI platform known for rich visuals. It",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Tableau’s reliability and scalability for analytics workloads are proven, and it provides features like row-level security which are important for multi-tenant scenarios (though configuring that in an embed context is non-trivial). If your use case needs top-notch analytics and you’re willing to settle for a “good enough” UI integration, Tableau could serve.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Use a standard white-label platform (e.g., GoodData, Yellowfin, Qrvey, or Luzmo)",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Embeddable and Sisense Compose SDK are top choices for advanced scenarios. Both let you build analytics directly into your app’s DOM with full styling control. These options are ideal when you want analytics to look and behave as if your team built them entirely in-house.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.investopedia.com/terms/w/white-label-product.asp",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Top embedded analytics tools",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "GoodData Cloud supports dashboard embedding through iframe as well as the GoodData.UI React SDK. Its React framework lets developers embed existing visualizations or create custom analytical components on top of the GoodData backend.",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "That last question is especially important. Two vendors can both say \"fully white-label\" while describing very different products.",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "More analytics vendors now expose conversational analytics, AI assistants or agent-like interfaces directly to end users.",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "If the dashboard looks like your product but the AI assistant suddenly looks and behaves like a third-party tool, the experience stops being white-label at exactly the moment the user becomes most interactive.",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "may get more value from extending the stack they already operate than replacing it purely to gain deeper white-label control. Teams evaluating newer embedded-first vendors can also compare",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Omni Analytics alternatives",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "The key is to define \"white-label\" before comparing vendors.",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "The leading library for creating and manipulating PDF files in Java and .NET",
+    "url": "https://apryse.com/blog/webviewer/how-to-embed-cad-viewer-in-your-application",
+    "pass": 3
+   },
+   {
+    "quote": "Document SDK Alternatives",
+    "url": "https://apryse.com/blog/webviewer/how-to-embed-cad-viewer-in-your-application",
+    "pass": 3
+   },
+   {
+    "quote": "It is then possible to zoom into the drawing to levels way beyond competitors’ offerings. Zooming is possible either via the Mouse wheel, from the control ribbon, or using the Marquee Zoom tool.",
+    "url": "https://apryse.com/blog/webviewer/how-to-embed-cad-viewer-in-your-application",
+    "pass": 3
+   },
+   {
+    "quote": "This reduces the need to license tools from multiple vendors and avoids the need for users to learn how to use such tools.",
+    "url": "https://apryse.com/blog/webviewer/how-to-embed-cad-viewer-in-your-application",
+    "pass": 3
+   },
+   {
+    "quote": "toPivotTableWidgetProps",
+    "url": "https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html",
+    "pass": 3
+   },
+   {
+    "quote": "The leading library for creating and manipulating PDF files in Java and .NET",
+    "url": "https://apryse.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Document SDK Alternatives",
+    "url": "https://apryse.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Partner With Apryse - the World’s Leading Document Processing Technology Provider.",
+    "url": "https://apryse.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Best White-Label Canva Alternatives for SaaS in 2026",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": "One SDK across web, mobile, desktop",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": "The same engine installs across web, mobile, desktop, and server, so you integrate once and keep behavior consistent wherever you ship.",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": "Most of a creative editor is invisible. The canvas is the easy part; the rendering engine, file formats, and export are what take months to get right and never stop needing maintenance.",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": "It is a creative editor that runs inside your own web, mobile, or desktop app, rather than a hosted tool your users visit on another site. CE.SDK installs as a package in your codebase, so the editor ships as part of your product.",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": "Web (JavaScript, React, Angular, Vue, Svelte, Next.js), mobile (iOS, Android, React Native, Flutter), desktop (Electron, macOS, Mac Catalyst), and server-side (Node.js). The same engine runs across all of them.",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": "One sentence builds the table. When a sweep call fails, the assistant diagnoses the error and corrects it on its own, then retextures the top.",
+    "url": "https://github.com/xiangechen/chili3d",
+    "pass": 3
+   },
+   {
+    "quote": "Parametric bodies are feature-list models in the Onshape/Fusion style: a body stores no baked shape, only an ordered list of features, and the list is replayed top to bottom on every rebuild. Editing any upstream feature — a dimension, a sketch line, a suppressed step — re-evaluates everything downstream of it.",
+    "url": "https://github.com/xiangechen/chili3d",
+    "pass": 3
+   },
+   {
+    "quote": "— In-app assistant: browser-direct LLM providers, tool registry, the",
+    "url": "https://github.com/xiangechen/chili3d",
+    "pass": 3
+   },
+   {
+    "quote": "The shift from desktop-based CAD tools to interactive, web-based 3D experiences has transformed how product teams collaborate, sell, and support physical goods. Whether you’re building immersive product configurators, digital twins, or AR-powered maintenance manuals, your ability to scale depends on the strength of your",
+    "url": "https://www.vntana.com/blog/developer-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "The pipeline starts with the ability to ingest native CAD files from platforms like:",
+    "url": "https://www.vntana.com/blog/developer-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to co-founding VNTANA, Ben was District Manager at Fortune 300 human resources management software company ADP, where he became a top sales performer. He is a graduate of the University of Southern California’s Lloyd Greif Center for Entrepreneurial Studies, with a BS in Business Administration-Entrepreneurship.",
+    "url": "https://www.vntana.com/blog/developer-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "CAD (Computer-Aided Design) startups are reimagining how engineers and product designers create 3D geometry, validate designs, and collaborate across teams. The incumbent CAD market — built around SolidWorks, CATIA, NX, and Creo — was architected for the desktop workstation era.",
+    "url": "https://threadmoat.com/categories/cad-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Well-known players operating in this market segment — from established vendors to emerging challengers. This is not a ranking or endorsement.",
+    "url": "https://threadmoat.com/categories/cad-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Implicit modeling platform for advanced structures, topology optimization, and additive manufacturing design.",
+    "url": "https://threadmoat.com/categories/cad-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Generative design uses AI algorithms to automatically explore hundreds or thousands of design alternatives that meet specified constraints (weight, strength, manufacturing method). Engineers define the goals and constraints; the AI proposes geometry that would be impossible to create manually. Autodesk Fusion 360 and Siemens NX are among the platforms offering embedded generative design.",
+    "url": "https://threadmoat.com/categories/cad-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Rankings — top-scored startups by category",
+    "url": "https://threadmoat.com/categories/cad-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Explore our one-stop-shop for everything you need to know about transitioning to Onshape.",
+    "url": "https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam",
+    "pass": 3
+   },
+   {
+    "quote": "Read technical documentation on any Onshape topic and learn troubleshooting tips.",
+    "url": "https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam",
+    "pass": 3
+   },
+   {
+    "quote": "The common thread? Desktop limitations disappeared, and teams could finally work the way they wanted to. Here’s what changed for product development:",
+    "url": "https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam",
+    "pass": 3
+   },
+   {
+    "quote": "After switching from desktop SOLIDWORKS to Onshape,",
+    "url": "https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam",
+    "pass": 3
+   },
+   {
+    "quote": "The thread connecting these wins? Teams stopped accepting desktop limitations and gained capabilities that weren't possible before, like instant access from anywhere, automatic version control, zero IT overhead, and workflows that actually match how modern product development happens.",
+    "url": "https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop CAD had a good run. But 2025 proved the constraints it creates are no longer worth tolerating.",
+    "url": "https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Photopolymers",
+    "url": "https://www.protolabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Tough Black (Loctite Henkel 3843) and Ceramic-Filled (BASF 3280) are two new advanced photopolymer materials now available for 3D printing.",
+    "url": "https://www.protolabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "In-depth guides and reports on a range of digital manufacturing topics",
+    "url": "https://www.protolabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Developed and supported by leading visualisation experts for leading software application vendors in fields ranging from consumer products to automotive and the built environment.",
+    "url": "https://www.siemens.com/en-us/products/plm-components/3d-visualization-sdk/",
+    "pass": 3
+   },
+   {
+    "quote": "The leading library for creating and manipulating PDF files in Java and .NET",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Document SDK Alternatives",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Web, Server, Desktop",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   },
+   {
+    "quote": "Easily add high-fidelity direct conversion from CAD files, on any web, mobile, server or desktop software. Convert to PDF, PDF/A, PDF/E-2, image file types, and more.",
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "The Best White Label Embedded Analytics Tools for 2026",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded Analytics Solution of the Year",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "List of White-Label Embedded Analytics Tools for Customer-Facing Analytics",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "The best white label embedded analytics tools, sorted according to the level of customization they provide.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "What is white-labeling, and why does it matter?",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Levels of white-labeling in analytics tools",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Standard white-labeling",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced (full) white-labeling:",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "How to evaluate white label embedded analytics tools",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Domain white labeling (custom hostnames)",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced (full) white-labeling embedded analytics tools",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Standard white labeling tools",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Basic white-labeling tools",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Power BI Embedded",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Tableau Embedded Analytics",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "9 Best White-Label Embedded Analytics Platforms in 2026",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "White-label embedded analytics should do more than replace a vendor logo with yours.",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "\"does this platform offer white-labeling?\"",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "embedded analytics platforms",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "White-label embedded analytics platforms at a glance",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "White-label capabilities are plan-dependent",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Power BI embedded APIs",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "This comparison is based on public vendor product pages and documentation checked in September 2026. Capabilities and plan availability change, so confirm requirements such as custom domains, SSO or fully branded self-service environments before signing a contract.",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "What does \"fully white-label\" actually mean?",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "white-label analytics",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "A more useful way to think about white-label depth is through five layers.",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "This is where the difference between simple rebranding and product integration becomes more obvious.",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "an iframe is not automatically incompatible with white-labeling",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Power BI, for example, lets developers apply custom report themes, change layouts and control pane visibility through its embedded APIs.",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Does an AI assistant use your branding?",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "provides a rich Javascript API for devlopers that allow a more interactive embedded experience.",
+    "url": "https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Embed SDK is a suite of JavaScript APIs delivered as a JavaScript library for consumption by the host app. As an abstracted embedded interface that wraps an iFrame element, it comes packed with features to programmatically:",
+    "url": "https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html",
+    "pass": 3
+   },
+   {
+    "quote": "For an embedded application to work in these browsers, SSL must be enabled and some additional configuration must be done in Sisense.",
+    "url": "https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html",
+    "pass": 3
+   },
+   {
+    "quote": "When a user interacts with the dashboard embedded using Embed SDK, such as when modifying filters, these changes are saved to the Sisense Application Database and are thus persisted. The user will see the changes upon reload, or even when logging in from a different machine.",
+    "url": "https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html",
+    "pass": 3
+   },
+   {
+    "quote": "setting declares whether the Assistant may appear in an Embed SDK iFrame. If you do not set it, the embedded application shows no Assistant. To show it, pass",
+    "url": "https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html",
+    "pass": 3
+   },
+   {
+    "quote": "// Allow the Assistant in the embedded iFrame",
+    "url": "https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html",
+    "pass": 3
+   },
+   {
+    "quote": "or newer, you can apply any existing theme to the embedded Sisense UI using the desired theme's",
+    "url": "https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html",
+    "pass": 3
+   },
+   {
+    "quote": "To predefine a theme before the embedded dashboard is loaded, specify the",
+    "url": "https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html",
+    "pass": 3
+   },
+   {
+    "quote": ", which will apply the theme to the embedded Sisense application:",
+    "url": "https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html",
+    "pass": 3
+   },
+   {
+    "quote": "CoDesign SDK gives your product's AI agent the tools to resize, localize, rebrand and generate designs on your own servers, and every result stays an editable CE.SDK design.",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": "Best White-Label Canva Alternatives for SaaS in 2026",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": "Let your own agent generate, resize and rebrand editable designs in your product.",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": "A creative editor embedded in your app, not bolted on",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": "Ship the complete editing interface to your users, then show, hide, reposition, or rename controls and apply your brand theme so it fits your product.",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": "Embedding puts the editor in your app; white-labeling makes it your brand. Theme the UI, remove all IMG.LY branding, and configure every part of the interface.",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore white-labeling",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": "Apply your brand theme, show or hide the navigation bar, dock, and inspector, and decide how much of the interface to expose: full-UI, headless, or a mix.",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": "See how an embedded SDK compares to a hosted editor when you need to own the UI, the data, and the roadmap.",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": "Read how product teams embedded a creative editor instead of building one.",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": "No. The embedded editor ships a full editing UI for your users, and a headless API runs the same engine with no UI when you want to build a completely custom interface or drive it programmatically. You can mix both.",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": ": lines, arcs, circles, ellipses, conics, splines and text, with geometric and dimensional constraints, construction geometry, auto-constraints, projected edges and external references; profiles stay solved by the embedded garlic constraint solver",
+    "url": "https://github.com/xiangechen/chili3d",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion 360 and Inventor CAD platforms with embedded generative design and cloud collaboration.",
+    "url": "https://threadmoat.com/categories/cad-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Generative design uses AI algorithms to automatically explore hundreds or thousands of design alternatives that meet specified constraints (weight, strength, manufacturing method). Engineers define the goals and constraints; the AI proposes geometry that would be impossible to create manually. Autodesk Fusion 360 and Siemens NX are among the platforms offering embedded generative design.",
+    "url": "https://threadmoat.com/categories/cad-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Self-hosted & embedded",
+    "url": "https://rasterex.com/sdk/cad",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Different vendors achieve this to varying degrees and with different techniques, as we’ll explore in a moment. Some basic solutions only hide their logo, while advanced ones allow you extensive rebranding and even embedding analytics",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "(e.g., style individual widget chrome, button shapes, iconography to match your app). Some platforms explicitly let you inject custom CSS or override style variables, which can be very useful for a close match.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "The recently added embedding SDK (available in Enterprise too) gives more control by letting you embed individual components and tweak styling via CSS variables, which moves it toward advanced territory.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "and has modules that let you embed content in various ways.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "This SDK (available on Pro/Enterprise) gives much finer control – you can embed individual charts or even their full query builder as native elements, apply CSS variables to restyle components, and override certain interactions. This moves Metabase closer to the “standard” category for customization, but using the SDK requires a React front-end and coding.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "That makes Toucan particularly interesting for ISVs, reseller models or products where one analytics deployment may need to support multiple customer brands.",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "It varies by vendor and it is the most common procurement surprise. Sisense puts white-labeling on its Grow and Scale tiers rather than Launch, and several of Metabase's deeper theming and authenticated modular embedding features sit in Pro or Enterprise. Confirm the specific surfaces you need, including custom domains, branded email and self-service, against the plan actually being quoted.",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": ". You can also experiment with a variety of examples and use cases in the",
+    "url": "https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html",
+    "pass": 3
+   },
+   {
+    "quote": "Subscribe to various events fired within Sisense",
+    "url": "https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, timing your code execution correctly is enabled by using not just the promises of actions, but also various events that indicate a change in the iFrame's state, such as",
+    "url": "https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html",
+    "pass": 3
+   },
+   {
+    "quote": "APRYSE PARTNER PROGRAM",
+    "url": "https://apryse.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "As the global leader in document processing technology, Apryse provides developers, enterprise customers and small businesses the right SDK for any platform so they can reach their document goals faster. Our partner program is designed for those looking to extend these benefits to their clients.",
+    "url": "https://apryse.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you are looking to resell, integrate or innovate. We have something for everyone.",
+    "url": "https://apryse.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Become the connection point between Apryse and Resellers, creating an expanded approach to giving customers Best in Class Document Management.",
+    "url": "https://apryse.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Join the Partner Program Today",
+    "url": "https://apryse.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Batch-generate design variants",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": "Variable Data Printing",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": ": build a part from a description, reshape an existing model (dimensions, fillets, holes, booleans), measure lengths, areas and volumes, query face/curve/surface types, organize the tree, set properties and materials, manage document variables, adjust the view and export the result — all through chat",
+    "url": "https://github.com/xiangechen/chili3d",
+    "pass": 3
+   },
+   {
+    "quote": ": document variables drive feature dimensions and can suppress a feature when they resolve to zero",
+    "url": "https://github.com/xiangechen/chili3d",
+    "pass": 3
+   },
+   {
+    "quote": "functions/variables,",
+    "url": "https://github.com/xiangechen/chili3d",
+    "pass": 3
+   },
+   {
+    "quote": "Creates derivatives for various use cases (AR, 2D thumbnails, configurators)",
+    "url": "https://www.vntana.com/blog/developer-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "121 Seaport Boulevard, Boston, MA 02210",
+    "url": "https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam",
+    "pass": 3
+   },
+   {
+    "quote": "Various grades of plastics across molding, machining, and 3D printing",
+    "url": "https://www.protolabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Venezuela, Bolivarian Republic of",
+    "url": "https://www.protolabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Deliver high performance rendering across a variety of platforms with HOOPS Visualize, a powerful 3D visualization software development toolkit.",
+    "url": "https://www.siemens.com/en-us/products/plm-components/3d-visualization-sdk/",
+    "pass": 3
+   },
+   {
+    "quote": "Venezuela, Bolivarian Republic of",
+    "url": "https://www.nutrient.io/sdk/solutions/cad/",
+    "pass": 3
+   },
+   {
+    "quote": "var saveAsDXF = function () {",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "var viewsNames = [\"Initial View\", \"-\", \"Top View\", \"Bottom View\", \"Left View\",",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Here file is a component of the File JavaScript class, name is a text string, pos is an object with margins x",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "and y, the point of insertion in the coordinate system, scale is an object with margins x and y that",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "You may purchase from SOFT GOLD or its authorized reseller additional licenses to permit multiple",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "effective only when granted in writing by SOFT GOLD or its authorized reseller and are conditioned upon",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "its authorized reseller has expressly granted to you and you will not allow the SOFTWARE to be used by",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "BECAUSE OF THE VARIOUS HARDWARE AND SOFTWARE ENVIRONMENTS INTO WHICH SOFTWARE MAY",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "$2,000/month",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": "– you must budget for at least $500/month Pro plan (plus $10 per viewer per month) to remove logos and get interactive embedding.",
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "pass": 3
+   },
+   {
+    "quote": ", starting from €1,995 per month billed annually, combining a platform fee with adoption-based usage. White-labeling, self-service analytics, AI and APIs are included in the product from day one rather than unlocked through a higher feature tier.",
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Since integrating IMG.LY’s editor, we now deliver 30,000+ ad creatives per month, dramatically shorten time-to-launch, and help our clients cut design spend by up to $10,000 per month.",
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "pass": 3
+   },
+   {
+    "quote": "Low-volume molding up to 100,000+ parts with volume pricing available—no MOQ required",
+    "url": "https://www.protolabs.com/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Cloud-Native CAD 2025 Wins: Revenue Growth, Real-Time Collaboration, Unified CAD-CAM",
+    "url": "https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam",
+    "pass": 3
+   },
+   {
+    "quote": "delivered some remarkable results in 2025. Companies switching to online 3D CAD design posted some dramatic outcomes: Revenue growth year-over-year, faster collaboration, complete elimination of IT overhead, and a more integrated workflow between engineering and manufacturing.",
+    "url": "https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam",
+    "pass": 3
+   },
+   {
+    "quote": "AE Inc. grew revenue by eliminating constraints. K2 cut feedback cycles through real-time collaboration. CAM Studio unified workflows that had been split for decades.",
+    "url": "https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam",
+    "pass": 3
+   },
+   {
+    "quote": "Integrate the latest 3D model visualization capabilities into your applications economically and quickly with flexible licensing arrangements and comprehensive support services.",
+    "url": "https://www.siemens.com/en-us/products/plm-components/3d-visualization-sdk/",
+    "pass": 3
+   },
+   {
+    "quote": "To add switching 3D views, you only need to create an array of views names (their order is important)",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4.DISCLAIMER OF WARRANTY",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS, LOSS OF PROFITS, OR THE LIKE), WHETHER",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "web- cad - sdk -reference.pdf - ComponentSource CDN — web- cad - sdk -reference.pdf - ComponentSource CDN ComponentSource PDF https://origin2.cdn.componentsource.com > resources",
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【3Dモデル】3Dモデル作成webサービス｜imash【個人開発】数千万円の流体解析ソフトはもう要らない？ブラウザを開...無料3D CADが、ついにAIで動く。「SolidCraft」はFusionを変えるかCADに画面はいらない。264のAPIでAIとWebアプリをつなぐ「ClassCAD」...テキストからCADを作る――3Dプリンター用の設計をAIに任せる2026年の現... Jan 15, 2025 · Blender のように 3D モデルを作成できるウェブサービスには、いくつかの優れたオプションがあります。以下にいくつか挙げます： 初心者向けのシンプルなインターフェース。 ブラウザ上で3Dモデリングが可能。 3Dプリン ... Sep 6, 2026 · 3Dプリンターでプロトタイプを造形する前に、金型を彫る前に、配管径を決める前に、まずはブラウザで流してみてください。 『S",
+    "url": "https://note.com/imashroom/n/ncfda8f9281c6",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cube.dev/articles/best-white-label-embedded-analytics-platforms-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unlayer.com/blog/how-to-white-label-embeddable-editor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.cloud.google.com/looker/docs/embed-sdk-intro?hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apryse.com/blog/webviewer/how-to-embed-cad-viewer-in-your-application",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://developer.adobe.com/express/embed-sdk/docs/v4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.retool.com/classic-apps/guides/app-management/embed-apps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.draftsight.com/2D-cad/become-a-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intellicadms.com/affiliate-partner-marketing-program?srsltid=AYCX9vI3Vq3EFHFBh9r2bU6EIY2LYExg_GKqsPTM7TorFskJNFJP0gqX",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solidworks.com/partners/become-solidworks-reseller-partner",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://apryse.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/support/partners",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SolidWorks/comments/1low0ok/are_browserbased_cad_visualization_tools/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://img.ly/capabilities/embeddable-editor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brandkit.com/embeddable-media",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/xiangechen/chili3d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vntana.com/blog/developer-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://threadmoat.com/categories/cad-startups",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trimech.com/best-cad-startup-programs-for-hardware-startups-how-to-choose-the-right-one/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pshdesign.com/from-concept-to-market-how-the-right-cad-software-accelerates-startup-growth/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.synctera.com/post/guide-to-projecting-revenue-from-embedded-banking-products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocanvas.com/blog/what-is-an-embedded-sdk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/the-browser-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embeddable.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embedded.gusto.com/blog/embedded-fintech-strategy-revenue-churn/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.landbase.com/blog/fastest-growing-embedded-analytics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insyde.com/news/press-releases/insyde-software-names-pertech-embedded-solutions-as-sales-representative-in-israel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.europarl.europa.eu/RegData/etudes/STUD/2025/778576/ECTI_STU(2025)778576_EN.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/products/plm-components/3d-visualization-sdk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.opendesign.com/products/inweb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aps.autodesk.com/viewer-sdk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apryse.com/products/core-sdk/cad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nutrient.io/sdk/solutions/cad/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rasterex.com/sdk/cad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.opendesign.com/products/drawings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/products/search/cad_soft/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cad100.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/jp/blog/cad-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/ja/products/creo?srsltid=AYCX9vLvsPBSLVsMdSynYmta3Us24hxvkf6LTNqbQwekMDeYezZB8_1H",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg3/3DCAD%E3%82%BD%E3%83%95%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oqton.com/oqton-announces-strategic-partnership-with-castor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3yourmind.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.g2.com/products/ntop/competitors/alternatives",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://seekmake.com/compare/3yourmind/metal-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intellicadms.com/oem-cad-software-license-custom-cad?srsltid=AYCX9vJNqXUKKaj0MiWawWLzQNq0q2vIXX1X5YYkeoJbwrRDP8UJh4Ip",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/partner-program/oem-software",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://netlicensing.io/case-studies/oem-embedded-licensing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/imashroom/n/ncfda8f9281c6",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "embeddable browser CAD SDK white label",
+   "results": [
+    "https://embeddable.com/blog/white-label-embedded-analytics-tools",
+    "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "https://cube.dev/articles/best-white-label-embedded-analytics-platforms-2026",
+    "https://www.luzmo.com/blog/white-label-embedded-analytics-platforms",
+    "https://unlayer.com/blog/how-to-white-label-embeddable-editor",
+    "https://developers.beefree.io/page-builder",
+    "https://www.gocanvas.com/products/white-label-embed",
+    "https://datatako.com/blog/white-label-embedded-analytics",
+    "https://embedworkflow.com/features/white-label-workflow-builder/",
+    "https://mlightcad.com/cad-sdk.html"
+   ]
+  },
+  {
+   "query": "embeddable browser CAD SDK OEM API embed",
+   "results": [
+    "https://docs.cloud.google.com/looker/docs/embed-sdk-intro",
+    "https://apryse.com/blog/webviewer/how-to-embed-cad-viewer-in-your-application",
+    "https://developer.adobe.com/express/embed-sdk/docs/v4/",
+    "https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html",
+    "https://docs.retool.com/classic-apps/guides/app-management/embed-apps",
+    "https://cpqhelp.zendesk.com/hc/en-us/articles/25665051891341-Using-the-Embed-API",
+    "https://img.ly/capabilities/embeddable-editor/",
+    "https://aps.autodesk.com/viewer-sdk",
+    "https://developers.komo.tech/embedding/",
+    "https://unlayer.com/blog/embeddable-builder-sdks-and-api-integration-guide"
+   ]
+  },
+  {
+   "query": "embeddable browser CAD SDK reseller partner program",
+   "results": [
+    "https://www.draftsight.com/2D-cad/become-a-reseller",
+    "https://www.intellicadms.com/affiliate-partner-marketing-program?srsltid=AYCX9vI3Vq3EFHFBh9r2bU6EIY2LYExg_GKqsPTM7TorFskJNFJP0gqX",
+    "https://www.solidworks.com/partners/become-solidworks-reseller-partner",
+    "https://apryse.com/partners",
+    "https://www.youtube.com/watch?v=CqXIkK39lXc",
+    "https://www.autodesk.com/support/partners",
+    "https://www.arcvertex.com/get-started/reseller-program/",
+    "https://www.ironcad.com/become-a-reseller/",
+    "https://xentara.io/xentara-partnership-program/",
+    "https://embeddable.com/partners"
+   ]
+  },
+  {
+   "query": "embeddable browser CAD SDK rebrand your logo",
+   "results": [
+    "https://www.reddit.com/r/SolidWorks/comments/1low0ok/are_browserbased_cad_visualization_tools/",
+    "https://img.ly/capabilities/embeddable-editor/",
+    "https://brandkit.com/embeddable-media",
+    "https://www.youtube.com/watch?v=cLb_t3Sf0WM",
+    "https://github.com/xiangechen/chili3d",
+    "https://www.vntana.com/blog/developer-tools/",
+    "https://spline.design/",
+    "https://www.opendesign.com/blog/2024/october/drawings-inweb-sdk-oda",
+    "https://www.designhuddle.com/graphic-design-editor",
+    "https://mlightcad.com/cad-sdk.html"
+   ]
+  },
+  {
+   "query": "embeddable browser CAD SDK startup profitable revenue",
+   "results": [
+    "https://www.reddit.com/r/SolidWorks/comments/1low0ok/are_browserbased_cad_visualization_tools/",
+    "https://threadmoat.com/categories/cad-startups",
+    "https://trimech.com/best-cad-startup-programs-for-hardware-startups-how-to-choose-the-right-one/",
+    "https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam",
+    "https://pshdesign.com/from-concept-to-market-how-the-right-cad-software-accelerates-startup-growth/",
+    "https://www.vntana.com/blog/developer-tools/",
+    "https://synctera.com/post/guide-to-projecting-revenue-from-embedded-banking-products",
+    "https://gaps.com/web-development/",
+    "https://embedded.gusto.com/blog/embedded-fintech-strategy-revenue-churn/",
+    "https://compworth.com/company/embeddable"
+   ]
+  },
+  {
+   "query": "embeddable browser CAD SDK company EBITDA profitable bootstrapped",
+   "results": [
+    "https://www.gocanvas.com/blog/what-is-an-embedded-sdk",
+    "https://www.vntana.com/blog/developer-tools/",
+    "https://multiples.vc/private-comps/the-browser-company",
+    "https://embeddable.com/",
+    "https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam",
+    "https://embedded.gusto.com/blog/embedded-fintech-strategy-revenue-churn/",
+    "https://www.landbase.com/blog/fastest-growing-embedded-analytics",
+    "https://threadmoat.com/categories/cad-startups",
+    "https://www.youtube.com/watch?v=KgUe-kkuMRo",
+    "https://docs.embeddable.com/"
+   ]
+  },
+  {
+   "query": "embeddable browser CAD SDK vendors Europe Israel Germany",
+   "results": [
+    "https://www.youtube.com/watch?v=r-De57aHcIc",
+    "https://www.insyde.com/news/press-releases/insyde-software-names-pertech-embedded-solutions-as-sales-representative-in-israel/",
+    "https://www.reddit.com/r/SolidWorks/comments/1low0ok/are_browserbased_cad_visualization_tools/",
+    "https://www.protolabs.com/",
+    "https://github.com/xiangechen/chili3d",
+    "https://www.vntana.com/blog/developer-tools/",
+    "https://www.europarl.europa.eu/RegData/etudes/STUD/2025/778576/ECTI_STU(2025)778576_EN.pdf",
+    "https://www.siemens.com/en-us/products/plm-components/3d-visualization-sdk/",
+    "https://www.opendesign.com/products/inweb",
+    "https://apryse.com/products/core-sdk/cad"
+   ]
+  },
+  {
+   "query": "embeddable browser CAD SDK pricing API",
+   "results": [
+    "https://aps.autodesk.com/viewer-sdk",
+    "https://apryse.com/products/core-sdk/cad",
+    "https://www.nutrient.io/sdk/solutions/cad/",
+    "https://rasterex.com/sdk/cad",
+    "https://www.opendesign.com/products/drawings",
+    "https://embeddable.com/pricing",
+    "https://www.reddit.com/r/SolidWorks/comments/1low0ok/are_browserbased_cad_visualization_tools/",
+    "https://www.techsoft3d.com/developers/products/hoops-exchange/",
+    "https://www.partwork.ai/viewer/",
+    "https://github.com/xiangechen/chili3d"
+   ]
+  },
+  {
+   "query": "wl-C 3D CAD（組込み用CADエンジン・ブラウザCAD） 日本 代理店",
+   "results": [
+    "https://www.cadjapan.com/products/search/cad_soft/",
+    "https://www.cad100.jp/",
+    "https://formlabs.com/jp/blog/cad-software/",
+    "https://www.ptc.com/ja/products/creo?srsltid=AYCX9vLvsPBSLVsMdSynYmta3Us24hxvkf6LTNqbQwekMDeYezZB8_1H",
+    "https://mono.ipros.com/cg3/3DCAD%E3%82%BD%E3%83%95%E3%83%88/",
+    "https://www.3dcad-productiontech.net/",
+    "https://www.autodesk.com/jp/solutions/aec/3d-cad-software",
+    "https://www.zwsoft.co.jp/blog/best-cad-soft-osusume/",
+    "https://monoist.itmedia.co.jp/mn/articles/2406/17/news013.html",
+    "https://cad-kenkyujo.com/web-cad/"
+   ]
+  },
+  {
+   "query": "embeddable browser CAD SDK alternatives to CASTOR Oqton 3YOURMIND Materialise AMFG nTop",
+   "results": [
+    "https://oqton.com/oqton-announces-strategic-partnership-with-castor/",
+    "https://www.3yourmind.com/",
+    "https://www.youtube.com/watch?v=cLb_t3Sf0WM",
+    "https://www.ntop.com/",
+    "https://www.g2.com/products/ntop/competitors/alternatives",
+    "https://seekmake.com/compare/3yourmind/metal-3d-printing",
+    "https://www.youtube.com/watch?v=FmtzP7VX2PE",
+    "https://oqton.com/build-preparation/",
+    "https://www.3dsystems.com/software",
+    "https://worldmetrics.org/best/browser-cad-software/"
+   ]
+  },
+  {
+   "query": "embeddable browser CAD SDK SDK license OEM partners list",
+   "results": [
+    "https://www.intellicadms.com/oem-cad-software-license-custom-cad?srsltid=AYCX9vJNqXUKKaj0MiWawWLzQNq0q2vIXX1X5YYkeoJbwrRDP8UJh4Ip",
+    "https://apryse.com/products/core-sdk/cad",
+    "https://www.autodesk.com/partner-program/oem-software",
+    "https://netlicensing.io/case-studies/oem-embedded-licensing/",
+    "https://tatsoft.com/tatsoft-oem-partner-program/",
+    "https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf",
+    "https://www.intellicad.org/cad-software-oem-licensing",
+    "https://www.opendesign.com/products/mcad-sdk",
+    "https://www.techsoft3d.com/developers/products/hoops-exchange/",
+    "https://www.autodesk.com/partner-program/customized-applications"
+   ]
+  },
+  {
+   "query": "site:note.com wl-C 3D CAD（組込み用CADエンジン・ブラウザCAD）",
+   "results": [
+    "https://note.com/teruemon/n/n8d59bafc9081",
+    "https://note.com/fooping/n/n0c5759c21db6",
+    "https://note.com/imashroom/n/ncfda8f9281c6",
+    "https://note.com/tk_ax/n/nde2e4f968dab",
+    "https://note.com/tk_ax/n/n4253b1e91c00",
+    "https://note.com/ohba_artlife/n/n71b2e38afb7d",
+    "https://note.com/speclabseng/n/n9d1098aa9aa9"
+   ]
+  },
+  {
+   "query": "site:x.com wl-C 3D CAD（組込み用CADエンジン・ブラウザCAD）",
+   "results": [
+    "https://x.com/Fico184838/status/2067751924930068687",
+    "https://x.com/FoopingTech/status/2108127901254349170",
+    "https://x.com/heecheee/status/2116358031902712032",
+    "https://x.com/Udon_CAD/status/1794852230656647313",
+    "https://x.com/happy_modeling/status/2109260838876189090",
+    "https://x.com/7_eito_7/status/2043929642361655398",
+    "https://x.com/MakerMatters/status/2037300608735019277"
+   ]
+  },
+  {
+   "query": "site:linkedin.com wl-C 3D CAD（組込み用CADエンジン・ブラウザCAD）",
+   "results": [
+    "https://hk.linkedin.com/in/wl-c-09b72b3a3",
+    "https://www.linkedin.com/pub/dir/Wl/C",
+    "https://hk.linkedin.com/pub/dir/Wl/C./hk-0-Hong-Kong-SAR",
+    "https://www.linkedin.com/pub/dir/WL/C.",
+    "https://tw.linkedin.com/in/wl-c-31aa3312b",
+    "https://tw.linkedin.com/in/wl-c-3a298431b",
+    "https://fr.linkedin.com/posts/gilles-guichard-741944356_wlc-activity-7501516604997042176-mWzQ"
+   ]
+  },
+  {
+   "query": "site:facebook.com wl-C 3D CAD（組込み用CADエンジン・ブラウザCAD）",
+   "results": [
+    "https://www.facebook.com/DesignSparkJP/videos/無料自在重くない商用無料の3d-cad/788402728290557/",
+    "https://www.facebook.com/takayuki.hirayama.75/videos/アルムの技術開発の今その10cadエンジン加工プログラム生成を掛け合わせたarumcadstepデータをグラフニューラルネットワークによって特徴推論をするアルム/924285127013037/",
+    "https://www.facebook.com/WlC867/",
+    "https://www.facebook.com/WLCCICTE/photos/1277353884613745/",
+    "https://www.facebook.com/阿彬電腦-103812604853756/videos/wlc與lightweight-ap無線架構介紹與實作-ccna-200-301-wlan/502901004321396/",
+    "https://www.facebook.com/marketplace/item/37828863583425953/",
+    "https://www.facebook.com/groups/296354234301053/posts/1903209193615541/"
+   ]
+  },
+  {
+   "query": "wl-C 3D CAD（組込み用CADエンジン・ブラウザCAD） note 社長",
+   "results": [
+    "https://bi-media.jp/5795/",
+    "https://www.youtube.com/watch?v=OA6LbHQs7K0",
+    "https://note.com/fooping/n/n0c5759c21db6",
+    "https://prtimes.jp/main/html/rd/p/000000007.000181991.html",
+    "https://www.scene.space/post-all/news/341.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2406/17/news013.html",
+    "https://www.reddit.com/r/rust/comments/g30nel/what_would_you_use_to_build_3d_cad_software/?tl=ja",
+    "https://webcad.jp/",
+    "https://www.reddit.com/r/FreeCAD/comments/1xc0swt/he_creado_un_software_cad_2d3d_gratuito_y_de/?tl=ja",
+    "https://cad-kenkyujo.com/web-cad/"
+   ]
+  },
+  {
+   "query": "wl-C 3D CAD（組込み用CADエンジン・ブラウザCAD） X 投稿",
+   "results": [
+    "https://www.reddit.com/r/FreeCAD/comments/1xc0swt/he_creado_un_software_cad_2d3d_gratuito_y_de/?tl=ja",
+    "https://bi-media.jp/5795/",
+    "https://www.youtube.com/watch?v=LXlobFSmT0g",
+    "https://www.reddit.com/r/rust/comments/g30nel/what_would_you_use_to_build_3d_cad_software/?tl=ja",
+    "https://monoist.itmedia.co.jp/mn/articles/2406/17/news013.html",
+    "https://www.ptc.com/ja/products/windchill/ptc-product-view?srsltid=AYCX9vJdIx1D0fJg8efT70OMldEEp3MIzagpXJY7X1CHfLzYdMrw_8N3",
+    "https://www.spatial.com/ja/solutions/3d-visualization/hoops-visualize-web",
+    "https://prtimes.jp/main/html/rd/p/000000007.000181991.html",
+    "https://kulmanlab.com/ja/",
+    "https://engineeringonweb.com/cad/?lang=ja"
+   ]
+  },
+  {
+   "query": "embeddable browser CAD SDK site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/powerful-cad-kernel-web-dmitrii-pasukhin-fiesf",
+    "https://no.linkedin.com/company/rasterex",
+    "https://lt.linkedin.com/company/bitbybit-dev",
+    "https://www.linkedin.com/company/open-design-alliance",
+    "https://in.linkedin.com/company/prolincur",
+    "https://lt.linkedin.com/in/matas-ubarevicius",
+    "https://www.linkedin.com/posts/project-jupyter_projectjupyter-jupytercad-robotics-activity-7506416928471633920-VUHa",
+    "https://www.linkedin.com/in/andrewhaykurtz",
+    "https://jp.linkedin.com/company/vntana",
+    "https://www.linkedin.com/in/cliffolling"
+   ]
+  }
+ ],
+ "missing": {
+  "日本対応": "記載なし（読んだ56頁・検索18回）"
+ }
+}

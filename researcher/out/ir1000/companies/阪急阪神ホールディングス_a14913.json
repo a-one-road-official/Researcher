@@ -1,0 +1,2630 @@
+{
+ "name": "阪急阪神ホールディングス",
+ "aliases": [],
+ "context": "証券コード9042／陸運業／プライム（内国株式）／2026.03期 売上高1,203,506百万円 営業利益率10.6%",
+ "researched_at": "2026-11-05T01:06:20.102875+00:00",
+ "official_url": "https://www.hankyu-hanshin.co.jp/",
+ "identified_by": "search:yahoo_jp:阪急阪神ホールディングス",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "会社創立",
+    "value": "会社創立：1907年（明治40年）10月19日",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/data/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "「阪急電鉄株式会社」「阪神電気鉄道株式会社」「阪急阪神不動産株式会社」「株式会社阪急交通社」「株式会社阪急阪神エクスプレス」の5社を中核会社とする純粋持株会社として、グループ全体の事業戦略の策定や経営管理、経営資源の最適配分を行っています。",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/data/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "株主構成": [
+   {
+    "quote": "【リリース】 コーポレートベンチャーキャピタルファンド「阪急阪神イノベーションパートナーズ投資事業有限責任組合」が宿泊･短期賃貸施設の運営･管理事業を展開する「matsuri technologies」に出資しました（阪急阪神ホールディングス）",
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【リリース】 コーポレートベンチャーキャピタルファンド「阪急阪神イノベーションパートナーズ投資事業有限責任組合」が日本で暮らす外国人の生活を支える「グローバルトラストネットワークス」に出資しました（阪急阪神ホールディングス）",
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「阪急電鉄株式会社」「阪神電気鉄道株式会社」「阪急阪神不動産株式会社」「株式会社阪急交通社」「株式会社阪急阪神エクスプレス」の5社を中核会社とする純粋持株会社として、グループ全体の事業戦略の策定や経営管理、経営資源の最適配分を行っています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/data/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家向け情報 | 阪急阪神ホールディングス株式会社",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "IR資料室 | 株主・投資家向け情報 | 阪急阪神ホールディングス株式会社",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "当社株式に関して、成長性・株主還元方針・株主優待制度をわかりやすく紹介します",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "所有者別状況及び大株主の状況を掲載しています",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "株主還元に関する基本的な考え方や配当などを掲載しています",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "株主優待に関する情報や、株主優待乗車証、グループ優待券の詳細をご覧いただけます",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "株主総会の招集ご通知、決議ご通知などを掲載しています",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "IRカレンダー | 株主・投資家向け情報 | 阪急阪神ホールディングス株式会社",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信 Vol.51発行（株主通信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "第188回定時株主総会（株主総会）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信 Vol.50発行（株主通信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信 Vol.49発行（株主通信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "第187回定時株主総会（株主総会）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信 Vol.48発行（株主通信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信 Vol.47発行（株主通信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "第186回定時株主総会（株主総会）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信 Vol.46発行（株主通信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信 Vol.45発行（株主通信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "第185回定時株主総会（株主総会）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信 Vol.44発行（株主通信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信 Vol.43発行（株主通信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "第184回定時株主総会（株主総会）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信 Vol.42発行（株主通信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信 Vol.41発行（株主通信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "第183回定時株主総会（株主総会）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信 Vol.40発行（株主通信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信 Vol.39発行（株主通信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "第182回定時株主総会（株主総会）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信 Vol.38発行（株主通信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信 Vol.37発行（株主通信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "第181回定時株主総会（株主総会）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信 Vol.36発行（株主通信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "IRニュース一覧 | 株主・投資家向け情報 | 阪急阪神ホールディングス株式会社",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "統合報告書 (Integrated Report) | 株主・投資家向け情報 | 阪急阪神ホールディングス株式会社",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/integratedreports/",
+    "pass": 1
+   },
+   {
+    "quote": "Financial Policy and Shareholder Returns",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/integratedreports/",
+    "pass": 1
+   },
+   {
+    "quote": "Financial policy and returns to shareholders",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/integratedreports/",
+    "pass": 1
+   },
+   {
+    "quote": "その後も買い増しが続き、06年5月時点でのファンドの持株比率およそ47%となっていた",
+    "url": "https://note.com/gogo_labo/n/n0564ea790e62",
+    "pass": 3
+   },
+   {
+    "quote": "加えて阪神の含み益や資産で自社のバランスシートを正常化できるという意味で、自社株主への説明にもじゅうぶんな理由付けができました",
+    "url": "https://note.com/gogo_labo/n/n0564ea790e62",
+    "pass": 3
+   },
+   {
+    "quote": "本件M&A取引における構造上の際立った特徴は、複雑に絡み合っていた株主間関係を整理した上で実行される2段階の集約スキームにある",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "取引合意前の阪急阪神エクスプレスにおける持分比率は、親会社である阪急阪神ホールディングスが66パーセント、特別積合せ貨物輸送大手であるセイノーホールディングスが34パーセントであった",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "国際輸送事業を専業大手に委ねることで、2027年3月期連結決算において約750億円（個別決算では約910億円）の株式売却益を計上し、得られた豊富なキャッシュを沿線開発投資、有利子負債の削減、株主還元へと充当する財務戦略を選択したのである",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "近鉄エクスプレスは上場企業として積極的なグローバル展開を進め、南アフリカの物流企業APL Logisticsを買収するなど、親会社の鉄道事業を売上高で上回る規模へ成長していた",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "運賃市況の正常化や基幹システム刷新への巨額投資が求められる中、短期的な株主還元圧力から距離を置き、機動的な構造改革とグローバル投資を推進するための非公開化であった",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "ボロレ・ロジスティクスを統合したことで急拡大を遂げ、親会社の船腹量と連動した強力なエンドツーエンド物流を提供している",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "最近の経営戦略は、親会社である日本郵船が推進する総合物流戦略と深く連動している",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "自社の限られた資本を九州の地域インフラと不動産開発に集中させるため、国際物流事業本部を分社化して外部に譲渡、あるいは資本提携を結ぶ動機は阪急阪神ホールディングスと完全に一致する",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社阪急阪神エクスプレス 当社株主が三菱倉庫株式会社に変更となる株式譲渡契約が締結されました",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "2005年に阪急電鉄が持株会社化し、翌2006年に村上ファンドによる阪神株買い占め騒動を受けて阪神電気鉄道をTOBで完全子会社化",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "阪神電鉄を買収する過程で村上ファンドの動きを受けた歴史があり、株主対応やコーポレート・ガバナンスの強化に積極的です",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "グループとしては東宝やH2Oリテイリングなどと相互持株関係を築き、「阪急阪神東宝グループ」として企業価値向上を図る戦略をとっています",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "持株会社の下、阪急・阪神・不動産・ホテルなど主要事業会社が並立する体制ですが、それぞれのブランドや社風をある程度尊重しながら経営を進めているのが特徴です",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングス全体としては、持株会社での採用というより、主要事業会社（阪急電鉄、阪神電鉄、阪急阪神不動産、阪急阪神ホテルズなど）がそれぞれ採用活動を行うケースが多いです",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "阪急・阪神の統合後はグループ会社間の重要事項を持株会社が統括する仕組みを強化することで、一枚岩の経営を目指す方針です",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "株主還元にも配慮し、業績や資本効率を踏まえた配当性向を設定したり、自己株式取得を柔軟に実施したりしています",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "まず押さえておきたいのが、この会社が純粋持株会社だという点だ",
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "pass": 3
+   },
+   {
+    "quote": "タイトルに掲げた30歳734万円という数字も、持株会社の229人ではなく、こうした事業会社で働く社員の年収相場として読む必要がある",
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "pass": 3
+   },
+   {
+    "quote": "提出会社単体の平均年収は900万円だが、これは平均年齢42.9歳・平均勤続18.3年という、中堅以上が厚い母集団の数字であり、持株会社という性格上、グループ全体の実態を映すものではない",
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "【リリース】 CVCファンド「阪急阪神イノベーションパートナーズ2号投資事業有限責任組合」を10月1日付でSBIインベストメントと共同で設立しました（阪急阪神ホールディングス）",
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "㈱⼤阪野球倶楽部（⼤阪タイガース、後の㈱阪神タイガース）を設立",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "創業期から魅力あふれる沿線づくり・まちづくりにこだわり、都市交通事業と共に成長を続けてきた不動産事業",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/realestate.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月、初めてカナダに事業進出し、現地法人を設立の上、マンション分譲事業を推進していくことを発表しました",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/realestate.html",
+    "pass": 1
+   },
+   {
+    "quote": "1948年の創業以来、常に「お客様目線」を大切にし、",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/travel.html",
+    "pass": 1
+   },
+   {
+    "quote": "阪急阪神ホールディングスは、創業以来100年以上にわたり、関西圏を中心に「安心・快適」な暮らしと「夢・感動」をお届けしてきました",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "1911 年創立",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て設立、1970 年に「広島交響楽団」へ改称",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023 年に創立 40 周年を迎えた",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1953 年創立",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1980 年「大阪シンフォニカー」として創立",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "奏会開催が叶わなかったものの、設立 25 周年となる 2026 年の定期演奏会で披露され好評を博した",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「札響」の愛称で親しまれ、2026 年に創立 65 周年を迎え",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "歴代の指揮者には、名誉創立指揮者・荒谷正雄をはじめ、ペーター・シュヴァルツ、岩城宏之、秋山和慶、尾",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ラクリン、創立名誉指揮者 村川千秋、桂冠指揮者 飯森範親、名誉指揮者 黒岩英臣",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1946 年東宝交響楽団として創立",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、２０２３年にオーストラリアに現地法人HHPAUS を設立",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/0e1b27e134f47b72e597598c51a053d1419a0738.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "沿線を丸ごとデザインし、人々の暮らしを豊かに彩るという発想は、まさしく創業者・小林一三が築いてきたDNAの延長にあると感じます",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "1-1：設立と歴史的背景",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングスの起源は、1907年（明治40年）に小林一三によって創立された「箕面有馬電気軌道」（のちの阪急電鉄）にさかのぼります",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "一方で阪神電気鉄道は1899年に設立され、1905年に大阪～神戸間（阪神本線）で営業開始するなど、日本の私鉄として草創期から存在感を示します",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングスは、創業者・小林一三が築いた「地域や文化を総合的に盛り上げる」ビジネスモデルを起点に、阪神のスポーツ・娯楽資産を吸収する形でさらなる多角化を進めたことが大きな強みです",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様の喜びを実現し、社会に貢献します",
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【リリース】 阪急交通社 秋のお客様感謝イベント 中部国際空港ウォーキング 10月25日(日)初開催 空港島･総合物流区域周辺などをめぐります",
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、これらの活動等を通じて、暮らしを支える「安心や快適」、暮らしを彩る「夢や感動」を絶えずお客様にお届けしてきました",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の喜びを実現し、社会に貢献します",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、出会いを大切にし、お客様の立場に立って最善を尽くします",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "「すべてはお客様のために」を原点に、お客様の満足を常に考え、",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちが関わるすべての事業は、お客様とともに歩んでいます",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足度調査「JCSI（日本版顧客満足度指数：Japanese Customer Satisfaction Index）」において、阪急電鉄は、近郊鉄道の部門で、17年連続で1位を獲得しています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "この調査は、公益財団法人 日本生産性本部 サービス産業生産性協議会が実施している日本最大級の顧客満足度調査で、総計10万人以上の利用者からの回答をもとに、統計的な手法により企業・ブランドを評価するものです",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様や地域社会の声に耳を傾け、そのニーズや課題に真摯に向き合い、サステナブル経営を進めるうえで重きを置く重要テーマ（マテリアリティ）に、事業を通じて一つひとつ応えていくことにより、持続的な企業価値の向上、ひいては持続可能な社会の実現につなげていきます",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "阪急バス・阪神バスでは、路線バスのリアルタイムな運行状況などを検索できるバスロケーションサービスや、ハウスICカード乗車券「hanica」などを通じ、お客様の利便性向上に努めています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/urban.html",
+    "pass": 1
+   },
+   {
+    "quote": "電車内や駅において、各種交通広告媒体（デジタルサイネージや看板・ポスターなど）を幅広く取り扱い、お客様に\"価値ある空間\"を提供しています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/urban.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、流通事業が持つお客様やメーカーとの接点と、交通広告事業が持つ情報発信力を活かし、店頭での商品販売に交通広告媒体やイベントスペースを活用したPR等も行っています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/urban.html",
+    "pass": 1
+   },
+   {
+    "quote": "阪急阪神の住まいブランド〈ジオ〉はお客様の声に寄り添いながら、安心で快適な品質を追求し、進化してきました",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/realestate.html",
+    "pass": 1
+   },
+   {
+    "quote": "\"もうひとつの我が家\"のように落ち着いた雰囲気と心温まるサービスでお客様をお迎え",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/realestate.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年には「フォーブス・トラベルガイド」の「ホテル部門」において、大阪のホテルで\"唯一\"4年連続となる5つ星を獲得し、時代を超えたクラシカルな空間、そして心のこもったおもてなしとサービスで、お客様にユニークで思い出に残るパーソナルな体験を提供します",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/realestate.html",
+    "pass": 1
+   },
+   {
+    "quote": "そして、華やかなステージでお客様を魅了し続ける宝塚歌劇",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/entertainment.html",
+    "pass": 1
+   },
+   {
+    "quote": "多彩なライブエンタテインメントを提供し、お客様の暮らしを彩っています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/entertainment.html",
+    "pass": 1
+   },
+   {
+    "quote": "華やかな歌やダンス、心を揺さぶる演技でお客様を夢と感動のステージへと誘う宝塚歌劇団",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/entertainment.html",
+    "pass": 1
+   },
+   {
+    "quote": "社会に安心と快適をお届けし、生成AIを活用してお客様のDXをさらに推進することで全国規模の拡大を目指します",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/info_communication.html",
+    "pass": 1
+   },
+   {
+    "quote": "1948年の創業以来、常に「お客様目線」を大切にし、",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/travel.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の安心・安全の確保を最優先とし、付加価値の高い旅行商品の提供はもとより、",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/travel.html",
+    "pass": 1
+   },
+   {
+    "quote": "5つのブランド展開で、「心に届く旅」をお客様へ提供",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/travel.html",
+    "pass": 1
+   },
+   {
+    "quote": "長年にわたって培った経験と知識を活かし、お客様の多様なニーズにお応えします",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/travel.html",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な経験と実績を活かして安心・快適なビジネス旅行を提供し、お客様の海外赴任や事業展開をトータルサポートします",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/travel.html",
+    "pass": 1
+   },
+   {
+    "quote": "欧米豪州を中心とした諸外国の旅行会社から、観光をはじめ企業視察やMICEなどの目的で訪日されるお客様の旅行手配を承っています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/travel.html",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの旅行業務で培ってきた顧客接点や、管理業務・コールセンター運営で積み上げたノウハウを活かし、全国の自治体や企業などが抱える課題解決に向けた事業を推進します",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/travel.html",
+    "pass": 1
+   },
+   {
+    "quote": "通関、保管・管理、物流コンサルティングに至るまで、充実したサービスを展開し、お客様にとって最適なサプライチェーン・マネジメントをサポートします",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html",
+    "pass": 1
+   },
+   {
+    "quote": "物流の始点から終点まで一貫したサービスで、お客様から厚い信頼をいただいています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html",
+    "pass": 1
+   },
+   {
+    "quote": "一般コンテナ輸送（LCL:混載貨物、FCL:コンテナ扱い貨物）はもちろんのこと、特殊コンテナ輸送、在来船利用輸送、さらには輸出入通関や物流コンサルティングまで、お客様のニーズに応える最適なサービスをお届けします",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html",
+    "pass": 1
+   },
+   {
+    "quote": "高度な物流コンサルティング能力を備えたエキスパートが、最先端のITを最大限に駆使し、お客様に最適なロジスティクス・ソリューションを提案",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html",
+    "pass": 1
+   },
+   {
+    "quote": "※車椅子をご利用のお客様は、各公演のお問合せ先までご連絡ください",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（ご来場のお客様へのお願い：https://billboard-cc.com/notice/）",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "公演チケットをご購入されたお客様向けに、 航空券・ホテル・会場までの送迎・観光がセットになったプランです",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "能勢電鉄では、2021 年から開催し、 多くのお客様にご好評をいただいている 「電車運転体験会」 について、",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/22eb699080651416c502bd236a76cabd37a78f5e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、 内容を一部見直し、 よりお客様に楽し",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/22eb699080651416c502bd236a76cabd37a78f5e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "DX企画・推進人材のための「顧客価値提供力養成講座」",
+    "url": "https://jbpress.ismedia.jp/articles/-/96258",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の「本音」の捉え方 “心理データ”を活用したマーケティング戦略",
+    "url": "https://jbpress.ismedia.jp/articles/-/96258",
+    "pass": 3
+   },
+   {
+    "quote": "Growing with Customers 散らばった顧客データをひとつに",
+    "url": "https://jbpress.ismedia.jp/articles/-/96258",
+    "pass": 3
+   },
+   {
+    "quote": "海外現地企業を単独で買収・統合するプロセス（PMI）には特有の難しさが伴うことを経験した同社は、強固な顧客基盤と長年の海外ネットワークを持ち、経営実態や企業文化の親和性が高い日本の大手フォワーダーを一括で取得する方針へと舵を切った",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "第二の補完性は、顧客基盤と取扱商材のクロスセルである",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "両社の顧客基盤を相互に開放し、三菱倉庫の海上輸送顧客に航空輸送を、阪急阪神エクスプレスの航空顧客に海上輸送や国内外の倉庫保管を提案することで、大規模なシナジーの創出が見込まれる",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "同社の経営戦略の核は、顧客のサプライチェーンを包括的に支援する共創型ロジスティクスである",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "センコーグループホールディングス：流通・小売向け3PLにおいて国内屈指の規模を誇り、エーアイテイーの輸入通関・国際輸送網を統合することで、荷主に対して海外工場から国内店舗・エンドユーザーまでの完全一貫物流を提供できるようになる",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "山九：地域港湾や産業プラント物流と一体化できる拠点や顧客網の取得を目指す",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "小林一三は阪急百貨店や宝塚歌劇団など、多彩な事業を生み出した実業家で、「お客様ファースト」の精神を掲げながら沿線開発や文化事業を手がけました",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングスグループの経営理念は「『安心・快適』、そして『夢・感動』をお届けすることで、お客様の喜びを実現し、社会に貢献します",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、デジタル領域への投資で顧客接点を拡大し、ROE8%以上を目標とする持続的な財務成長を目指しているのが特徴です",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "今後さらにデジタル技術の導入が加速すれば、沿線住民や施設利用者に対してカスタマイズされた情報発信が可能になり、ブランド力を一段と強化していくはずです",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "鉄道利用者を不動産事業で取り込み、エンタメでさらなるファンを獲得し、旅行やホテルで横展開するという多重構造が、グループとしての強靭なビジネスモデルを支えています",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "社員からは、「幅広い事業領域があるため、自分の可能性を試せるチャンスが豊富」という声や、「『お客様に夢・感動を』という理念がベースにあるので、ホスピタリティ精神が全体に浸透している」という意見が多く聞かれます",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "DX分野では共通会員基盤「HH Cross」を中心に、各事業の顧客データを集積し、One to Oneマーケティングなどのサービスを拡充する方針です",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "・DX施策により、グループ横断で顧客データを活用し新しいビジネスモデルを開発",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "鉄道・不動産・エンタメなど多彩な事業を展開しているため、変化に対応しながらお客様のニーズを先取りできる人を歓迎します",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "【リリース】 のせでん×アイカサ 能勢電鉄の12駅に、傘のシェアリングサービス「アイカサ」を導入!",
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【リリース】 ～AIを活用したお忘れ物検索サービス～「落とし物クラウドfind」を導入します! 11月10日(火)に阪神電車、11月19日(木)に阪急電鉄でサービスを開始",
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【リリース】 阪神タイガース JERA セ･リーグ優勝記念 厳選した国内･海外旅行商品を販売開始しました",
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【お知らせ】 ～半導体物流におけるEnd to Endのソリューションを紹介～ インド･ニューデリーで開催される半導体国際展示会「SEMICON India 2026」に初出展（阪急阪神エクスプレス）",
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【お知らせ】 2027年 阪急電鉄カレンダー「マルーンの疾風(かぜ)」を10月9日(金)から販売します ～壁掛け版と卓上版の同時購入でオリジナルデザインのクリアファイルをプレゼント～（阪急阪神マーケティングソリューションズ）",
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "阪急阪神ホールディングスグループは、鉄道事業をベースに住宅・商業施設等の開発から阪神タイガースや宝塚歌劇など魅力溢れるエンタテインメントの提供に至るまで、多岐にわたる分野において、それまでになかったサービスを次々と提供することにより、沿線をはじめ良質な「まちづくり」に貢献するとともに、社会に新風を吹き込み、100 年以上の長い歴史の中で数々の足跡を残してきました",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、これからも、培ってきたブランドやまちづくりのノウハウを活かし、グループ一丸となって良質なサービスを提供していきます",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループのサービスやブランドは高い評価をいただいており、そうした評価はグループ従業員の喜びにもつながっています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "この調査は、公益財団法人 日本生産性本部 サービス産業生産性協議会が実施している日本最大級の顧客満足度調査で、総計10万人以上の利用者からの回答をもとに、統計的な手法により企業・ブランドを評価するものです",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "安全・安心・快適で多彩な輸送サービスを提供",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/urban.html",
+    "pass": 1
+   },
+   {
+    "quote": "この2社を中心に、社会を支える鉄道インフラとして関西圏で鉄道ネットワークを形成し、安全・安心・快適に、利用しやすい鉄道サービスを提供しています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/urban.html",
+    "pass": 1
+   },
+   {
+    "quote": "阪急バス・阪神バスでは、路線バスのリアルタイムな運行状況などを検索できるバスロケーションサービスや、ハウスICカード乗車券「hanica」などを通じ、お客様の利便性向上に努めています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/urban.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、流通事業が持つお客様やメーカーとの接点と、交通広告事業が持つ情報発信力を活かし、店頭での商品販売に交通広告媒体やイベントスペースを活用したPR等も行っています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/urban.html",
+    "pass": 1
+   },
+   {
+    "quote": "\"もうひとつの我が家\"のように落ち着いた雰囲気と心温まるサービスでお客様をお迎え",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/realestate.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年には「フォーブス・トラベルガイド」の「ホテル部門」において、大阪のホテルで\"唯一\"4年連続となる5つ星を獲得し、時代を超えたクラシカルな空間、そして心のこもったおもてなしとサービスで、お客様にユニークで思い出に残るパーソナルな体験を提供します",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/realestate.html",
+    "pass": 1
+   },
+   {
+    "quote": "社会インフラに関するシステム開発や、Ｅコマース（電子商取引）サイトの構築・保守などの情報サービス事業、テレビ・インターネット・電話の各サービスを中心とした地域密着型の放送・通信事業、さらには、セキュリティサービスや、プログラミング教育といったあんしん・教育事業を通じて、高度情報化社会のビジネスをサポートするとともに、日々の暮らしに安心・快適をお届けしています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/info_communication.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、臨床検査・健康診断・健康経営などの医療ソリューションや高品質なソフトウェア開発などの受託サービスも展開しています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/info_communication.html",
+    "pass": 1
+   },
+   {
+    "quote": "地域密着の情報メディアであるケーブルテレビ放送に加え、有線および無線のインターネットサービスなどを提供しています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/info_communication.html",
+    "pass": 1
+   },
+   {
+    "quote": "ハイスペックな光インターネットサービスや高速無線インターネットもご利用いただけるほか、オリジナル番組（コミュニティチャンネル）の制作にも力を入れています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/info_communication.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の安心・安全の確保を最優先とし、付加価値の高い旅行商品の提供はもとより、",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/travel.html",
+    "pass": 1
+   },
+   {
+    "quote": "きめ細やかなサービスで訪日旅行をプロデュース",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/travel.html",
+    "pass": 1
+   },
+   {
+    "quote": "コールセンター運営をはじめソリューション事業を展開",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/travel.html",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルに展開する高品質なサービスと、",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html",
+    "pass": 1
+   },
+   {
+    "quote": "通関、保管・管理、物流コンサルティングに至るまで、充実したサービスを展開し、お客様にとって最適なサプライチェーン・マネジメントをサポートします",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本初のIATA航空貨物取扱代理店として、信頼の国際輸送サービスを提供",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html",
+    "pass": 1
+   },
+   {
+    "quote": "物流の始点から終点まで一貫したサービスで、お客様から厚い信頼をいただいています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html",
+    "pass": 1
+   },
+   {
+    "quote": "30の国と地域に190を超える自社拠点を有し、提携代理店も含め、全世界で迅速かつ安全なドア・ツー・ドアの国際輸送サービスを提供しています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html",
+    "pass": 1
+   },
+   {
+    "quote": "一般コンテナ輸送（LCL:混載貨物、FCL:コンテナ扱い貨物）はもちろんのこと、特殊コンテナ輸送、在来船利用輸送、さらには輸出入通関や物流コンサルティングまで、お客様のニーズに応える最適なサービスをお届けします",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html",
+    "pass": 1
+   },
+   {
+    "quote": "物流全体を最適化するソリューションを提案・実現",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html",
+    "pass": 1
+   },
+   {
+    "quote": "高度な物流コンサルティング能力を備えたエキスパートが、最先端のITを最大限に駆使し、お客様に最適なロジスティクス・ソリューションを提案",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html",
+    "pass": 1
+   },
+   {
+    "quote": "※主催者公認のチケットリセールサービスとして、チケプラにて公式チケットトレードを行います",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023 年 12 月より、動画配信サービス",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "構成企業：阪神園芸株式会社、阪急阪神ビルマネジメント株式会社、阪急阪神クリーンサービス株式会社、",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/f43fa752794cf9150f24f4703ba644d8db4ab67c.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "千葉哲幸「今、このフードサービス企業がおもしろい！」",
+    "url": "https://jbpress.ismedia.jp/articles/-/96258",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングスは、グループ最大の事業拠点であるこの街を「世界と関西をつなぐ国際交流拠点」へと進化させる一方、沿線価値の向上や海外不動産、観光・インバウンド、デジタルを活用した新たなサービスの創出を成長戦略の柱に据える",
+    "url": "https://jbpress.ismedia.jp/articles/-/96258",
+    "pass": 3
+   },
+   {
+    "quote": "4カ月で口座開設39万件を獲得したJR東日本「JREバンク」、金融サービスの先にある「真の狙い」",
+    "url": "https://jbpress.ismedia.jp/articles/-/96258",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、荷主企業によるScope3温室効果ガス排出量の削減要請を受け、持続可能な航空燃料（SAF）やバイオディーゼル燃料を用いた低炭素輸送枠の調達、排出量の精緻な可視化サービスの提供が必須要件となった",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "国際貨物を成田空港や主要港湾に到着させても、そこから内陸の工場や消費地へ運ぶトラックや中継拠点を確保できなければ、国際物流サービス全体が成立しない",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "自前の倉庫拠点や国内配送ネットワークを持たない外資系フォワーダーや純粋な代理店型フォワーダーはサービスの維持が困難になっており、国内の強固な倉庫・輸配送アセットを保有する大手倉庫や陸運企業との資本・業務統合が急速に価値を高めている",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "産業別アプローチを強化し、半導体、医薬品・ヘルスケア、自動車、電機・電子、アパレルの5大重点産業に特化したソリューションを構築している",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船がコンテナ船事業を統合会社Ocean Network Express（ONE）に集約したことを受け、郵船ロジスティクスは荷主と直接接点を持ち、サプライチェーン全体を包括するサービスを提供する役割を担っている",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、SAFを利用したカーボンオフセット航空輸送やバイオ燃料による海上輸送プログラムなど、脱炭素ソリューションを業界に先駆けて商用化し、環境意識の高い欧米大手荷主の囲い込みを図っている",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "三井倉庫ホールディングスは、倉庫保管、港湾運送から国際フォワーディング、サプライチェーンソリューションまでを一貫提供する総合物流企業グループである",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "また、サプライチェーンのCO2排出量を算定・可視化し、削減施策を提示する三井倉庫サステナビリティ・サービスを独自展開し、環境対応を武器とした荷主との長期包括契約の獲得を積極的に推進している",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、大手船社による垂直統合やデジタルフォワーダーの台頭により、単なる混載スペースの手配だけでなく、輸出入両端での自前倉庫保管や陸上配送と連動させたサービスを求められる局面が増加している",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "トランコム：求車求荷サービスと物流センター運営を展開する中、国際輸送領域への本格進出を図るためのプラットフォームとして買収するシナリオが考えられる",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "鴻池運輸：総合的な物流サービス網を拡充するため、私鉄系の優良な荷主基盤を持つ中堅子会社を傘下に収める動きが想定される",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "そうした体験の中で「人の心を豊かにし、街を活性化するサービスとは何か」を考えたとき、私にとって最も身近で憧れの存在だったのが同社です",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングスも「阪急阪神DXプロジェクト」を始動させ、グループ横断のデジタル基盤（HH Cross）を活かしたサービス向上や、新たなビジネスモデルを模索中です",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：阪急阪神ホールディングスの主力製品とサービス",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "DX分野では共通会員基盤「HH Cross」を中心に、各事業の顧客データを集積し、One to Oneマーケティングなどのサービスを拡充する方針です",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、「優勝セールや関連イベントで地域の活気がどれほど生まれたのか」「エンタメと鉄道・不動産を掛け合わせることで、どのような新サービスが考えられるか」など、興味と熱量を込めて話すと大きなアピールポイントとなります",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "長期経営構想では、遅くとも2030年度までにROE8%の持続的達成を掲げ、「圧倒的No.1の沿線の実現」「コンテンツの魅力の最大化」「首都圏・海外へのエリア拡大」「ビジネスソリューションへの注力」の4つを成長の柱に据える",
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化で沿線からのキャッシュ創出力が先細る将来を見据え、海外不動産や情報サービスなど成長分野へ投資を振り向ける方針だ",
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "pass": 3
+   },
+   {
+    "quote": "現金の手当は薄いが、グループのサービスを社員特典として享受できる",
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "【リリース】 コーポレートベンチャーキャピタルファンド「阪急阪神イノベーションパートナーズ投資事業有限責任組合」が宿泊･短期賃貸施設の運営･管理事業を展開する「matsuri technologies」に出資しました（阪急阪神ホールディングス）",
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【リリース】 阪神タイガース2年連続リーグ優勝!優勝翌日から3日間「阪神タイガース JERA セントラル･リーグ優勝記念キャンペーン」を開催します ✓対象のレストラン･バー計24店舗でドリンクが何杯でも半額 ✓ホテル阪神大阪 日本料理･天ぷら「花座」の対象メニューが半額",
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【リリース】 ugo株式会社との自律移動型AIロボット「ugo」の活用･展開に向けた協業の開始について ～パートナー契約を締結し、フィジカルAIの社会実装を推進～（アイテック阪急阪神）",
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【お知らせ】 ～半導体物流におけるEnd to Endのソリューションを紹介～ インド･ニューデリーで開催される半導体国際展示会「SEMICON India 2026」に初出展（阪急阪神エクスプレス）",
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【お知らせ】 東京都「企業のScope3(物流分野)対策促進事業(航空･海上輸送)」 SAF･バイオ燃料を活用した航空･海上貨物輸送を促進する貨物代理店に選定（阪急阪神エクスプレス）",
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【リリース】 コーポレートベンチャーキャピタルファンド「阪急阪神イノベーションパートナーズ投資事業有限責任組合」が日本で暮らす外国人の生活を支える「グローバルトラストネットワークス」に出資しました（阪急阪神ホールディングス）",
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【リリース】 CVCファンド「阪急阪神イノベーションパートナーズ2号投資事業有限責任組合」を10月1日付でSBIインベストメントと共同で設立しました（阪急阪神ホールディングス）",
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "それぞれの会社が歩んできた歴史を、主要な出来事とともにご紹介します",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "（パン・アメリカン航空会社と日本で初めて代理店契約を締結）",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "わが国初のIATA航空貨物取扱代理店の認可を取得",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月には、「RESPIRE（レスパイア）」ブランドとして2店舗目となるホテル阪急グランレスパイア大阪が開業しました",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/realestate.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本初のIATA航空貨物取扱代理店として、信頼の国際輸送サービスを提供",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html",
+    "pass": 1
+   },
+   {
+    "quote": "1948年に日本初の国際航空運送協会（IATA）認可の貨物代理店として、国際航空貨物輸送の業務に進出して以来、確固たるブランド力を築き上げてきました",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html",
+    "pass": 1
+   },
+   {
+    "quote": "30の国と地域に190を超える自社拠点を有し、提携代理店も含め、全世界で迅速かつ安全なドア・ツー・ドアの国際輸送サービスを提供しています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html",
+    "pass": 1
+   },
+   {
+    "quote": "経営計画体系及び長期経営構想をご紹介します",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "コーポレート・ガバナンスの基本方針と体制をご紹介します",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "こちらのページでは、暮らしに根ざした私たちの事業を、企業の特徴や株式情報を通してわかりやすく紹介しています",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの使命や価値観、行動規範をご紹介します",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループについて、事業内容・企業規模・強み・成長戦略をわかりやすく紹介します",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社株式に関して、成長性・株主還元方針・株主優待制度をわかりやすく紹介します",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "1989 年より Bunkamura オーチャードホールとフランチャイズ契約を締結",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "者、フォルクハルト・シュトイデがミュージック・パートナーを務める",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "常任指揮者 阪哲朗、首席客演指揮者 鈴木秀美、ミュージックパートナー ラデク・バボラーク、ジュリアン・",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "飲食・物販店舗や協賛ブースの出展、≪ひかりの実≫制作ワークショップなどを通じ、光のアー",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/f43fa752794cf9150f24f4703ba644d8db4ab67c.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "〔内容〕 ・ナイトマルシェ（飲食９店舗、物販３店舗 計１２店舗）",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/f43fa752794cf9150f24f4703ba644d8db4ab67c.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・デジタルサイネージでの≪ひかりの実≫“笑顔”イラスト紹介",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/f43fa752794cf9150f24f4703ba644d8db4ab67c.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "北浜法律事務所・河浪潤パートナー 弁護士「多様な法務の専門家がチームで支援」",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/040800656/",
+    "pass": 3
+   },
+   {
+    "quote": "自前の倉庫拠点や国内配送ネットワークを持たない外資系フォワーダーや純粋な代理店型フォワーダーはサービスの維持が困難になっており、国内の強固な倉庫・輸配送アセットを保有する大手倉庫や陸運企業との資本・業務統合が急速に価値を高めている",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "西日本鉄道は地方私鉄でありながら、戦後直後の1948年に航空貨物代理店業務を開始し、現在では日本発国際航空貨物取扱量で国内第4位から第5位のポジションを維持している",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "センコーグループホールディングス：流通・小売向け3PLにおいて国内屈指の規模を誇り、エーアイテイーの輸入通関・国際輸送網を統合することで、荷主に対して海外工場から国内店舗・エンドユーザーまでの完全一貫物流を提供できるようになる",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "鉄道輸送との直接的なシナジーが希薄化した物流子会社や通関代理店を単独で維持する意義は薄れており、非中核事業の切り離し（ノンコア資産の売却）が進む可能性が高い",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "プラチナパートナーズ M&Aニュース 三菱倉庫、阪急阪神エクスプレスの全株式を1,201億円で取得",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、実際に選考通過した就活生の志望動機例を3つ紹介します",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、阪急百貨店と阪神百貨店は店舗名を統合せずにブランドを分けています",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは、阪急阪神ホールディングスに対する志望動機の例を30パターン紹介します",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1907年（明治40年）10月19日",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月18日現在",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月1日現在",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度調査",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "2006年に発足した阪急阪神ホールディングスは、両社が培ってきた伝統と革新の精神を受け継ぎ、新たな価値創造に挑戦し続けています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月、初めてカナダに事業進出し、現地法人を設立の上、マンション分譲事業を推進していくことを発表しました",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/realestate.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月には、「RESPIRE（レスパイア）」ブランドとして2店舗目となるホテル阪急グランレスパイア大阪が開業しました",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/realestate.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年には「フォーブス・トラベルガイド」の「ホテル部門」において、大阪のホテルで\"唯一\"4年連続となる5つ星を獲得し、時代を超えたクラシカルな空間、そして心のこもったおもてなしとサービスで、お客様にユニークで思い出に残るパーソナルな体験を提供します",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/realestate.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年に創設90周年を迎えた歴史と伝統を誇る人気球団",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/entertainment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年に18年ぶりのリーグ優勝、38年ぶりの日本シリーズ制覇を成し遂げ、その活躍は観客を大いに魅了するとともに、野球界発展に寄与し続けています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/entertainment.html",
+    "pass": 1
+   },
+   {
+    "quote": "1914年の第一回公演から110年を超える歴史が綴られてきました",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/entertainment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2006年に日本におけるライセンス契約を締結し、ライブレストラン事業をはじめ多角的に展開しています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/entertainment.html",
+    "pass": 1
+   },
+   {
+    "quote": "1948年の創業以来、常に「お客様目線」を大切にし、",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/travel.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年にDHAT（Disaster Hankyu Assistance Team）を発足させ、災害時における地域支援の取組を進めています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/travel.html",
+    "pass": 1
+   },
+   {
+    "quote": "1948年に日本初の国際航空運送協会（IATA）認可の貨物代理店として、国際航空貨物輸送の業務に進出して以来、確固たるブランド力を築き上げてきました",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年6月に東京税関長よりAEO制度※における「認定通関業者」としての認定を受け、輸出入申告官署の自由化を活用しています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期 決算短信",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期 決算補足説明資料",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期以前のIR資料",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期以前のIR資料",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期以前のIR資料を見る",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期以前のIR資料",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期以前のIR資料",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期以前のIR資料",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期以前のIR資料",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 第2四半期決算発表（決算短信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 第1四半期決算発表（決算短信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 決算説明会（投資家向け説明資料）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 期末決算発表（決算短信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 第3四半期決算発表（決算短信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 半期報告書提出（有価証券報告書・半期報告書（四半期報告書））",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 第2四半期決算説明会（投資家向け説明資料）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 第2四半期決算発表（決算短信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 第1四半期決算発表（決算短信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 決算説明会（投資家向け説明資料）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 期末決算発表（決算短信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 第3四半期決算発表（決算短信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 半期報告書提出（有価証券報告書・四半期報告書）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 第2四半期決算説明会（投資家向け説明資料）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 第2四半期決算発表（決算短信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 第1四半期決算発表（決算短信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度 決算説明会（投資家向け説明資料）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度 期末決算発表（決算短信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度 第3四半期報告書提出（有価証券報告書・四半期報告書）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度 第3四半期決算発表（決算短信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度 第2四半期報告書提出（有価証券報告書・四半期報告書）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度 第2四半期決算説明会（投資家向け説明資料）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度 第2四半期決算発表（決算短信）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度 第1四半期報告書提出（有価証券報告書・四半期報告書）",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "グループ経営理念・私たちの強み | 阪急阪神ホールディングス株式会社",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした沿線価値の創造力は、私たちの強みの一つです",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループ固有の強みであるスポーツ事業とステージ事業をはじめ、",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/entertainment.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループについて、事業内容・企業規模・強み・成長戦略をわかりやすく紹介します",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "※価格や在庫状況が急遽変更になる場合があります",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/389cad5647be0d71cf846dc7a5a41bcf0ff378d5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "100年間、別々の道を歩んだ両社が合わさり、互いの強みを活かしつつ、ふたたび大きな成長の果実を得ることができるのか、楽しみにいたしたいところです",
+    "url": "https://note.com/gogo_labo/n/n0564ea790e62",
+    "pass": 3
+   },
+   {
+    "quote": "国内の人口減少や少子高齢化が加速する中、私鉄経営の持続可能性を担保するためには、グループの強みである都市交通、不動産、エンタテインメント事業へ経営資源を集中的に再配分することが急務であった",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "三菱倉庫の国際運送取扱事業は、海上輸送および港湾運送、国内の保管倉庫に圧倒的な強みを持つ一方、航空フォワーディングの売上は170億円規模にとどまっていた",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "ロジスティードは2024年5月、電子部品および調達物流に強みを持つアルプス物流に対してTOBを実施することを発表し、買付代金約1052億円を投じて同年10月に子会社化を完了させた",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "アルプス物流は上場廃止となり、ロジスティードは自社の強みである3PLオペレーションにアルプス物流の電子部品サプライチェーン網を融合させ、特定産業分野での圧倒的なグローバル競争力構築に乗り出している",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "原料調達から工場の在庫管理、輸出入通関、目的国内での高機能倉庫保管、最終納品先への二次配送までを、単一の契約とプラットフォームで完結させるエンドツーエンドのトータルロジスティクスが標準となっている",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は約1800億円規模であり、自動車関連物流や化学品輸送、中国・東南アジア・欧州を結ぶ国際複合一貫輸送に強みを持つ",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "強みである航空フォワーディング機能と、買収したAPL Logisticsが保有する北米を中心とした海上輸送、自動車完成車物流、3PL機能を融合させ、総合物流企業としての提案力を高めている",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "ロジスティードは、国内の3PL事業をゼロから開拓したパイオニアであり、高度な倉庫オペレーション力、マテリアルハンドリング自動化技術、ITシステム構築力に強みを持つ",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "過去の構造改革を経て強固な財務体質と高収益性を確立した",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "内外トランスラインは、複数の荷主の小口貨物を1本のコンテナに集約して輸送する海上混載において圧倒的なシェアと高収益性を誇る",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "日中および東南アジア航路におけるアパレル、日用品、生活雑貨の輸入通関・フォワーディングに圧倒的な強みを持つ独立系企業である",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "ハマキョウレックス：アパレル業界向けの物流センター運営に強みを持っており、輸入上流工程を内製化するための垂直統合ディールとして合理性がある",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "プロ野球や宝塚といったエンタメを軸にした街全体の盛り上げ方は、他社にはない独自の強みだと感じています",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "鉄道沿線の暮らしを支えつつ、人々の娯楽・文化へのニーズにも対応するという多面的な取り組みは、この会社だけが培ってきた強みです",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングスは、創業者・小林一三が築いた「地域や文化を総合的に盛り上げる」ビジネスモデルを起点に、阪神のスポーツ・娯楽資産を吸収する形でさらなる多角化を進めたことが大きな強みです",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "強みである沿線開発を一段と深めつつ、関西圏外や海外へも新たな市場機会を求めるという方針です",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "国内の乗客数が頭打ちでも、国際物流や海外不動産などで収益源を多様化できる点が同社の強みといえます",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "4-2：安定収益と競争優位",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "阪急沿線は「住みたい街」として人気が高く、神戸線や宝塚線、京都線はJRとの競争があるものの、沿線開発による資産価値の高さで一定の競争優位を保っています",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "宝塚歌劇や阪神タイガースの興行収益は景気に左右されやすい面もありますが、ファンの熱意が強く根付いているため、集客力が高い点が強みです",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、阪急と阪神の歴史的違いなどから組織調整の難しさを感じる社員もいるようですが、「自律分散的な経営」を掲げることで両社の強みを活かせるように取り組んでいます",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "7-2：SWOT分析（強み・弱み）",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングスは強みを活かせば地域活性や海外事業の拡大でさらなる飛躍が見込めますが、一方で人口減やリモートワークなど交通インフラの需要変動をどうカバーするかが鍵です",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "同社の強みである総合力と企業ブランドを活かして、これらの取り組みをさらに発展させることで、社会からの評価を一段と高めるポテンシャルがあります",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "「年収UP」へのコミット力が最大の強みであり、求職者",
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "pass": 3
+   },
+   {
+    "quote": "1. 「強み・弱み・課題」を10分でインプット",
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "「ビルボード」マスターライセンス契約を締結",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年に日本におけるライセンス契約を締結し、ライブレストラン事業をはじめ多角的に展開しています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/entertainment.html",
+    "pass": 1
+   },
+   {
+    "quote": "社会インフラに関するシステム開発や、Ｅコマース（電子商取引）サイトの構築・保守などの情報サービス事業、テレビ・インターネット・電話の各サービスを中心とした地域密着型の放送・通信事業、さらには、セキュリティサービスや、プログラミング教育といったあんしん・教育事業を通じて、高度情報化社会のビジネスをサポートするとともに、日々の暮らしに安心・快適をお届けしています",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/info_communication.html",
+    "pass": 1
+   },
+   {
+    "quote": "JobVoice の企業別「志望動機30例×面接質問の解答例30例」（1,000社以上）を、月額 ¥10,000 で読み放題にするメンバーシップです",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "社員の声にも、安定の裏返しとしての保守性が色濃くにじむ",
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別の営業収益と事業利益の推移をご覧いただけます",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産に軸足を置く理由での売却といいますが、それならば、国際輸送セグメントとロジスティックスを組み合わせた使い方ができるわけで、非常にチグハグした印象が否めない",
+    "url": "https://note.com/gogo_labo/n/n0564ea790e62",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングスが、グループ売上高の約1割を占める基幹事業であった国際輸送セグメントの完全売却に踏み切った背景には、市況変動リスクの高さと、中核である関西沿線エリアの大規模再開発に向けた資本配分の最適化という明確な経営判断が存在する",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "新型コロナウイルス禍に伴うサプライチェーンの混乱期であった2023年3月期には、航空・海上運賃の高騰を追い風に、阪急阪神エクスプレスを中核とする国際輸送セグメントは営業収益1632億円、営業利益84億円を叩き出し、一時的にグループ業績を牽引した",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期には営業利益が約2億円へと激減し、2025年3月期には市況の軟化に加えてフォワーディング基幹システム等に関する減損損失約19億円の計上が重なり、セグメント営業損失約12億円という赤字へ転落した",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "グループの国際物流セグメント売上高は約7900億円規模に達し、エレクトロニクス関連の航空貨物取扱量において国内屈指のシェアを誇るほか、傘下のAPL Logisticsを通じて北米や新興国での3PLを展開している",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "国際物流を含む物流業セグメントの売上高は約800億円から1000億円規模（西日本鉄道全体の連結売上高は約4700億円規模）であり、航空混載貨物取扱量において日本トップクラスの取扱量を維持している",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "4-1：事業セグメントの概要",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "その先入観を、セグメント別の営業収益が静かに覆す",
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株主 構成比率 | 阪急阪神ホールディングス 株式会社 — 株主 構成比率 | 阪急阪神ホールディングス 株式会社 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > stock > classification",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/stock/classification.html",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングス 【9042】の 大株主 情報 - 株探 — 阪急阪神ホールディングス 【9042】の 大株主 情報 - 株探 株探 https://kabutan.jp > stock > holder",
+    "url": "https://kabutan.jp/stock/holder?code=9042",
+    "pass": 3
+   },
+   {
+    "quote": "株主 優待 | 阪急阪神ホールディングス 株式会社 — 株主 優待 | 阪急阪神ホールディングス 株式会社 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > stock > benefit",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/stock/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "株主 優待基準・内容 | 阪急阪神ホールディングス 株式会社 — 株主 優待基準・内容 | 阪急阪神ホールディングス 株式会社 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > benefit > outline",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/stock/benefit/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご質問 | 阪急阪神ホールディングス 株式会社 — よくあるご質問 | 阪急阪神ホールディングス 株式会社 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > faq",
+    "url": "https://www.hankyu-hanshin.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Shareholders Information | Hankyu Hanshin Holdings, Inc. — Shareholders Information | Hankyu Hanshin Holdings, Inc. 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > c...",
+    "url": "https://www.hankyu-hanshin.co.jp/en/ir/stock/classification.html",
+    "pass": 3
+   },
+   {
+    "quote": "Segment Information | Hankyu Hanshin Holdings, Inc. — Segment Information | Hankyu Hanshin Holdings, Inc. 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > s...",
+    "url": "https://www.hankyu-hanshin.co.jp/en/ir/financial/segment.html",
+    "pass": 3
+   },
+   {
+    "quote": "Management Policy | Hankyu Hanshin Holdings, Inc. — Management Policy | Hankyu Hanshin Holdings, Inc. 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > ...",
+    "url": "https://www.hankyu-hanshin.co.jp/en/ir/management/",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Relations | Hankyu Hanshin Holdings, Inc. — Investor Relations | Hankyu Hanshin Holdings, Inc. 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > ...",
+    "url": "https://www.hankyu-hanshin.co.jp/en/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "グループの歴史 | 阪急阪神ホールディングス 株式会社 — グループの歴史 | 阪急阪神ホールディングス 株式会社 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > corporate > history",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/history/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 阪急阪神ホールディングス 株式会社 — 会社概要 | 阪急阪神ホールディングス 株式会社 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > corporate > data",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/data/",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングス - Wikipedia — 阪急阪神ホールディングス - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 阪急阪神ホールディングス",
+    "url": "https://ja.wikipedia.org/wiki/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "グループの事業領域 | 阪急阪神ホールディングス 株式会社 — グループの事業領域 | 阪急阪神ホールディングス 株式会社 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > corporate > about_us",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングス ってどんな会社？ — 阪急阪神ホールディングス ってどんな会社？ 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > individual > overview",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/individual/overview.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略 | 阪急阪神ホールディングス 株式会社 RECRUITING ... — 経営戦略 | 阪急阪神ホールディングス 株式会社 RECRUITING ... 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > company > strategy",
+    "url": "https://www.hankyu-hanshin.co.jp/jinji/company/strategy.html",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングス 株式会社 — 阪急阪神ホールディングス 株式会社 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp",
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "経営計画 | 阪急阪神ホールディングス 株式会社 — 経営計画 | 阪急阪神ホールディングス 株式会社 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > managementplan",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/management/managementplan.html",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報 | 阪急阪神ホールディングス 株式会社 — セグメント情報 | 阪急阪神ホールディングス 株式会社 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > financial > segment",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/financial/segment.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 | 株主・投資家向け情報 - 阪急阪神ホールディングス — IR 資料 室 | 株主・投資家向け情報 - 阪急阪神ホールディングス 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > library",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家向け情報 | 阪急阪神ホールディングス 株式会社 — 株主・投資家向け情報 | 阪急阪神ホールディングス 株式会社 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > ...",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー | 株主・投資家向け情報 — IRカレンダー | 株主・投資家向け情報 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > calendar",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース一覧 | 株主・投資家向け情報 — IRニュース一覧 | 株主・投資家向け情報 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > topics",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/topics/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度（2026年3月期） 決算 補足 説明資料 — 2025年度（2026年3月期） 決算 補足 説明資料 阪急阪神ホールディングス株式会社 PDF https://www.hankyu-hanshin.co.jp > 2026/05",
+    "url": "https://www.hankyu-hanshin.co.jp/2026/05/ef8d211e0f7d7999f5bcef6d1b707f78619f86da.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社一覧 | 阪急阪神ホールディングス 株式会社 — グループ会社一覧 | 阪急阪神ホールディングス 株式会社 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > corporate > group_list",
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/group_list.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR資料室 | 株主・投資家向け情報 - 阪急阪神ホールディングス — IR資料室 | 株主・投資家向け情報 - 阪急阪神ホールディングス 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > library",
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングス ・嶋田泰夫 社長 「暮らしを守り ... — 阪急阪神ホールディングス ・嶋田泰夫 社長 「暮らしを守り ... 日経BP https://project.nikkeibp.co.jp > ESG > atcl > column",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/040800656/",
+    "pass": 3
+   },
+   {
+    "quote": "仕事紹介 | 働き方を知る - 阪急阪神ホールディングス — 仕事紹介 | 働き方を知る - 阪急阪神ホールディングス 阪急阪神ホールディングス株式会社 https://www.hankyu-hanshin.co.jp > company > senior",
+    "url": "https://www.hankyu-hanshin.co.jp/jinji/company/senior/",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングス 【9042】の 社長 ・役員 - キタイシホン — 阪急阪神ホールディングス 【9042】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/9042/board-of-director",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "JR東日本、JAL、NTT…異業種が続々と銀行業に参入 競合が増えても「既存の銀行」が儲かる「収益モデルの中身」とは",
+    "url": "https://jbpress.ismedia.jp/articles/-/96258",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅または三菱商事などの総合商社系物流部門：商社が持つグローバルな商流と、にしてつが持つ実運送フォワーディング機能を組み合わせる戦略的買収の可能性がある",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングスは、創業者・小林一三が築いた「地域や文化を総合的に盛り上げる」ビジネスモデルを起点に、阪神のスポーツ・娯楽資産を吸収する形でさらなる多角化を進めたことが大きな強みです",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングスも「阪急阪神DXプロジェクト」を始動させ、グループ横断のデジタル基盤（HH Cross）を活かしたサービス向上や、新たなビジネスモデルを模索中です",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "グループが掲げる「鉄道×不動産×エンタメ」にデジタルや海外展開が加わることで、業界の常識を超えた新たな収益モデルを打ち立てられるかが勝負の分かれ目になりそうです",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "鉄道利用者を不動産事業で取り込み、エンタメでさらなるファンを獲得し、旅行やホテルで横展開するという多重構造が、グループとしての強靭なビジネスモデルを支えています",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "・DX施策により、グループ横断で顧客データを活用し新しいビジネスモデルを開発",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "阪急阪神ホールディングス 、20年に寄せて  〜協調編 - note 阪急阪神ホールディングス 、20年に寄せて  〜協調編 - note note https://note.com > Go Osada〈55labo:主宰〉",
+    "url": "https://note.com/gogo_labo/n/n0564ea790e62",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングス の人気・新着記事まとめ - note 阪急阪神ホールディングス の人気・新着記事まとめ - note note https://note.com > tag > 阪急阪神ホールディングス",
+    "url": "https://note.com/tag/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングス はなぜ阪急阪神エクスプレスを三菱 ... 阪急阪神ホールディングス はなぜ阪急阪神エクスプレスを三菱 ... note https://note.com > ビジネス > 戦略・組織論",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングス の志望動機30選！企業研究から面接 ... 阪急阪神ホールディングス の志望動機30選！企業研究から面接 ... note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングス の年収｜30歳で734万は本当か ... 阪急阪神ホールディングス の年収｜30歳で734万は本当か ... note https://note.com > キャリア > 企業分析",
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "阪急阪神ホールディングス、20年に寄せて❸〜協調編｜Go Osada〈55labo:主宰〉",
+    "url": "https://note.com/gogo_labo/n/n0564ea790e62",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングス、20年に寄せて❸〜協調編",
+    "url": "https://note.com/gogo_labo/n/n0564ea790e62",
+    "pass": 3
+   },
+   {
+    "quote": "2005年の夏、阪神タイガースは2年ぶりの優勝に向けてペナントレースを闘っていました。2位は前年の覇者・中日ドラゴンズでしたが、大差が開き、逃げ切りモードで終幕へーーー",
+    "url": "https://note.com/gogo_labo/n/n0564ea790e62",
+    "pass": 3
+   },
+   {
+    "quote": "折も折、当時上場していた阪神電鉄株が大幅に上がっていました。阪神の経営陣は球団優勝に絡む株高とみて、特段の対策を打っていませんでした。",
+    "url": "https://note.com/gogo_labo/n/n0564ea790e62",
+    "pass": 3
+   },
+   {
+    "quote": "そこにファンドから出された大量保有報告書で、すべての原因がわかりました。",
+    "url": "https://note.com/gogo_labo/n/n0564ea790e62",
+    "pass": 3
+   },
+   {
+    "quote": "この時既に阪神株の27%弱（※1）がファンドの手に落ちてしまっていました。",
+    "url": "https://note.com/gogo_labo/n/n0564ea790e62",
+    "pass": 3
+   },
+   {
+    "quote": "（※1）25年9月時点。その後も買い増しが続き、06年5月時点でのファンドの持株比率およそ47%となっていた。",
+    "url": "https://note.com/gogo_labo/n/n0564ea790e62",
+    "pass": 3
+   },
+   {
+    "quote": "阪神の盤石な経営基盤を築いた西梅田プロジェクト、",
+    "url": "https://note.com/gogo_labo/n/n0564ea790e62",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングスの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングスはなぜ阪急阪神エクスプレスを三菱倉庫に売却したのか？｜Better Equation Research",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングスはなぜ阪急阪神エクスプレスを三菱倉庫に売却したのか？",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "Better Equation Research",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル市場におけるメガフォワーダーの誕生と垂直統合",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場における非公開化とグループ事業再編",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "需給バランスの急激な変化と運賃市況の正常化",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "地政学リスクの常態化とサプライチェーンの分断",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "三菱倉庫は2026年10月30日、阪急阪神ホールディングス傘下の国際貨物フォワーディング中核会社である阪急阪神エクスプレスの全株式を取得し、完全子会社化することを決議した。取得する普通株式の対価は1201億1000万円であり、アドバイザリー費用等を含む取得総額は概算で1213億3700万円に達する。各国の独占禁止法や競争法に基づく許認可の取得を前提条件としており、株式譲渡の実行時期は2026年度第4四半期、すなわち2027年1月から3月頃を予定している。",
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングスの志望動機30選！企業研究から面接対策まで【34,210文字】平均年収955万円／採用人数47名｜JobVoice｜志望動機と企業研究",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングスの志望動機30選！企業研究から面接対策まで【34,210文字】平均年収955万円／採用人数47名",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "先輩社員の体験記を何冊も読み漁ったりする手間が省けること。",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "「ES突破」「面接突破」そして内定をもぎ取るための強力な一冊。",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "ぜひ、あなたの就活を加速させるお供にしてください。",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "就職活動は、「企業研究」「エントリーシート（ES）」「面接対策」など、やるべきことが次から次へと出てきます。いざスタートしようと思っても、",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "💡志望動機をどう作ればいいのか、全然イメージが湧かない",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "💡面接対策は、正直どうやって進めていいかわからない",
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングスの年収｜30歳で734万は本当か【2026年最新】｜企業スコープ_ハイクラス向け企業分析",
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングスの年収｜30歳で734万は本当か【2026年最新】",
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "pass": 3
+   },
+   {
+    "quote": "阪急電車、阪神タイガース、宝塚歌劇、阪急百貨店。関西で暮らせば、一日のどこかで必ずこのグループに触れている。その総元締めである阪急阪神ホールディングスは、営業収益1兆1,069億円を稼ぐ関西最大級の都市型グループだ。",
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "pass": 3
+   },
+   {
+    "quote": "ところが、鉄道会社というイメージで見ると数字の形が裏切られる。グループの稼ぎ頭は鉄道ではなく不動産で、その営業収益は3,578億円。旅行事業も2,610億円あり、都市交通(鉄道・バス)の2,043億円を上回っている。鉄道は屋台骨ではあっても、もはや最大の稼ぎ頭ではない。",
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "pass": 3
+   },
+   {
+    "quote": "そして調査ベースで見た30歳時点の年収相場は、約734万円。関西の名門インフラとしては、悪くないどころか高い部類に入る。鉄道会社という顔の裏で、不動産と旅行で稼ぐ多角型グループ。その30歳734万円という水準は本当に出るのか。本記事では、最新の有価証券報告書、IR資料、社員クチコミといった一次データから、ネームバリューだけでは見えてこない阪急阪神ホールディングスの本質を読み解いていく。",
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "pass": 3
+   },
+   {
+    "quote": "1. 意外と知らない阪急阪神ホールディングス",
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "pass": 3
+   },
+   {
+    "quote": "「鉄道とタイガースと宝塚の会社」。その認識は半分正しく、半分は実態を取りこぼしている。決算書を開くと、このグループの本当の形が見えてくる。",
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "PR TIMESトラベル on X: \"【 阪急阪神ホールディングス のCVC ... PR TIMESトラベル on X: \"【 阪急阪神ホールディングス のCVC ... X https://x.com > @PRTIMES_TRAVEL",
+    "url": "https://x.com/PRTIMES_TRAVEL/status/2117121488998605174",
+    "pass": 3
+   },
+   {
+    "quote": "# 阪急阪神ホールディングス 株式会社 - Search / X # 阪急阪神ホールディングス 株式会社 - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "阪急阪神ホールディングス 株式会社 - LinkedIn 阪急阪神ホールディングス 株式会社 - LinkedIn LinkedIn https://www.linkedin.com > hankyuhanshinholdings",
+    "url": "https://www.linkedin.com/company/hankyuhanshinholdings/",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングス 株式会社 - LinkedIn 阪急阪神ホールディングス 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > hankyuhanshinholdings",
+    "url": "https://jp.linkedin.com/company/hankyuhanshinholdings",
+    "pass": 3
+   },
+   {
+    "quote": "田中 統也 - 阪急阪神ホールディングス - 人事 - LinkedIn 田中 統也 - 阪急阪神ホールディングス - 人事 - LinkedIn LinkedIn https://jp.linkedin.com > 統也-田中-215b811b2",
+    "url": "https://jp.linkedin.com/in/%E7%B5%B1%E4%B9%9F-%E7%94%B0%E4%B8%AD-215b811b2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "阪急阪神ホールディングス グループ 「阪急阪神 未来のゆめ ... 阪急阪神ホールディングス グループ 「阪急阪神 未来のゆめ ... Facebook https://www.facebook.com > kacco.info > posts > 阪急阪...",
+    "url": "https://www.facebook.com/kacco.info/posts/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E-%E6%9C%AA%E6%9D%A5%E3%81%AE%E3%82%86%E3%82%81%E3%81%BE%E3%81%A1%E5%9F%BA%E9%87%91%E7%AC%AC18%E5%9B%9E%E5%8A%A9%E6%88%90%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E6%B2%BF%E7%B7%9A%E3%81%A7%E5%9C%B0%E5%9F%9F%E7%92%B0%E5%A2%83%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%84%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%81%AE%E8%82%B2%E6%88%90%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%80%E5%B8%82%E6%B0%91%E5%9B%A3%E4%BD%93%E3%81%AE%E7%9A%86%E6%A7%98%E3%81%B8%E3%81%AE%E5%8A%A9%E6%88%90%E5%AF%BE/1367692052196931/",
+    "pass": 3
+   },
+   {
+    "quote": "誰かの『好き』で溢れている。」 阪急阪神ホールディングス ... 誰かの『好き』で溢れている。」 阪急阪神ホールディングス ... Facebook https://www.facebook.com > ... > 阪急電鉄 > Videos",
+    "url": "https://www.facebook.com/hankyu.ex/videos/%E5%8B%95%E7%94%BB%E5%85%AC%E9%96%8B%E3%81%93%E3%81%AE%E8%A1%97%E3%81%AF%E8%AA%B0%E3%81%8B%E3%81%AE%E5%A5%BD%E3%81%8D%E3%81%A7%E6%BA%A2%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AF%E7%92%B0%E5%A2%83%E5%88%86%E9%87%8E%E3%81%AE%E5%8F%96%E7%B5%84%E6%96%B9%E9%87%9D%E3%82%92%E3%81%8A%E4%BC%9D%E3%81%88%E3%81%99%E3%82%8B%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%8B%95%E7%94%BB%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%8B%95%E7%94%BB%E3%81%A7%E3%81%AF%E9%98%AA%E6%80%A5%E9%9B%BB%E8%BB%8A%E3%82%84%E9%98%AA%E6%80%A5%E8%A5%BF%E5%AE%AE/2708609932855762/",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングス 株式会社主催、コングラントが伴走 ... 阪急阪神ホールディングス 株式会社主催、コングラントが伴走 ... Facebook https://www.facebook.com > CONGRANT.LLC > posts",
+    "url": "https://www.facebook.com/CONGRANT.LLC/posts/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%B8%BB%E5%82%AC%E3%82%B3%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88%E3%81%8C%E4%BC%B4%E8%B5%B0%E6%94%AF%E6%8F%B4%E3%81%99%E3%82%8B%E3%82%86%E3%82%81%E3%81%BE%E3%81%A1%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-%E7%89%B9%E8%A8%AD%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E3%81%AF%E5%90%84%E5%9B%A3%E4%BD%93%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%8C%E5%85%AC%E9%96%8B%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/1599841351939839/",
+    "pass": 3
+   },
+   {
+    "quote": "阪急阪神ホールディングス へ全て譲渡することが発表されまし ... 阪急阪神ホールディングス へ全て譲渡することが発表されまし ... Facebook https://www.facebook.com > posts > セイノーnewsセイノー...",
+    "url": "https://www.facebook.com/100008476953246/posts/%E3%82%BB%E3%82%A4%E3%83%8E%E3%83%BCnews%E3%82%BB%E3%82%A4%E3%83%8E%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%8C%E4%BF%9D%E6%9C%89%E3%81%99%E3%82%8B%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9hex%E3%81%AE%E6%A0%AA%E5%BC%8F%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%B8%E5%85%A8%E3%81%A6%E8%AD%B2%E6%B8%A1%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E7%99%BA%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F2018%E5%B9%B4%E4%BB%A5/4158518961107295/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/vision.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/urban.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/realestate.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/entertainment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/info_communication.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/travel.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/corporate/about_us/international.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/ir/topics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/ir/management/managementplan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/ir/library/integratedreports/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/c9c7d3f13cb797ab279a97d5ae1ab7192f27e5db.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/389cad5647be0d71cf846dc7a5a41bcf0ff378d5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/f43fa752794cf9150f24f4703ba644d8db4ab67c.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/38b58ed58ff9ecaf0b8b353498beae78e5e31541.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/22eb699080651416c502bd236a76cabd37a78f5e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/f63552a0d0723c9b55d14d03c096e66ff8b02137.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/0e1b27e134f47b72e597598c51a053d1419a0738.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/11/35de7fb4025b2d0342f2a39530907ecedfb119a0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/assets/images/history/img_hankyu_flow_thumb01.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/assets/images/history/img_hankyu_flow_thumb02.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/assets/images/history/img_hankyu_flow_thumb03.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/assets/images/history/img_hankyu_flow_thumb04.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/assets/images/history/img_hanshin_flow_thumb01.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/assets/images/history/img_hanshin_flow_thumb02.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/assets/images/history/img_hanshin_flow_thumb03.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hankyu-hanshin.co.jp/assets/images/top/img_top_business_acc_main01.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kabutan.jp/stock/holder?code=9042",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/040800656/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jbpress.ismedia.jp/articles/-/96258",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gogo_labo/n/n0564ea790e62",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/better_equation/n/nc8917f03aafe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/PRTIMES_TRAVEL/status/2117121488998605174",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hankyuhanshinholdings/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/hankyuhanshinholdings",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E7%B5%B1%E4%B9%9F-%E7%94%B0%E4%B8%AD-215b811b2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kacco.info/posts/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E-%E6%9C%AA%E6%9D%A5%E3%81%AE%E3%82%86%E3%82%81%E3%81%BE%E3%81%A1%E5%9F%BA%E9%87%91%E7%AC%AC18%E5%9B%9E%E5%8A%A9%E6%88%90%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E6%B2%BF%E7%B7%9A%E3%81%A7%E5%9C%B0%E5%9F%9F%E7%92%B0%E5%A2%83%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%84%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%81%AE%E8%82%B2%E6%88%90%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%80%E5%B8%82%E6%B0%91%E5%9B%A3%E4%BD%93%E3%81%AE%E7%9A%86%E6%A7%98%E3%81%B8%E3%81%AE%E5%8A%A9%E6%88%90%E5%AF%BE/1367692052196931/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hankyu.ex/videos/%E5%8B%95%E7%94%BB%E5%85%AC%E9%96%8B%E3%81%93%E3%81%AE%E8%A1%97%E3%81%AF%E8%AA%B0%E3%81%8B%E3%81%AE%E5%A5%BD%E3%81%8D%E3%81%A7%E6%BA%A2%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AF%E7%92%B0%E5%A2%83%E5%88%86%E9%87%8E%E3%81%AE%E5%8F%96%E7%B5%84%E6%96%B9%E9%87%9D%E3%82%92%E3%81%8A%E4%BC%9D%E3%81%88%E3%81%99%E3%82%8B%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%8B%95%E7%94%BB%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%8B%95%E7%94%BB%E3%81%A7%E3%81%AF%E9%98%AA%E6%80%A5%E9%9B%BB%E8%BB%8A%E3%82%84%E9%98%AA%E6%80%A5%E8%A5%BF%E5%AE%AE/2708609932855762/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CONGRANT.LLC/posts/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%B8%BB%E5%82%AC%E3%82%B3%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88%E3%81%8C%E4%BC%B4%E8%B5%B0%E6%94%AF%E6%8F%B4%E3%81%99%E3%82%8B%E3%82%86%E3%82%81%E3%81%BE%E3%81%A1%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-%E7%89%B9%E8%A8%AD%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E3%81%AF%E5%90%84%E5%9B%A3%E4%BD%93%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%8C%E5%85%AC%E9%96%8B%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/1599841351939839/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100008476953246/posts/%E3%82%BB%E3%82%A4%E3%83%8E%E3%83%BCnews%E3%82%BB%E3%82%A4%E3%83%8E%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%8C%E4%BF%9D%E6%9C%89%E3%81%99%E3%82%8B%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9hex%E3%81%AE%E6%A0%AA%E5%BC%8F%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%B8%E5%85%A8%E3%81%A6%E8%AD%B2%E6%B8%A1%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E7%99%BA%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F2018%E5%B9%B4%E4%BB%A5/4158518961107295/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/company_scope/n/naa02704b962a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gogo_labo/n/n0564ea790e62",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "阪急阪神ホールディングス",
+   "results": [
+    "https://www.hankyu-hanshin.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.nikkei.com/nkd/company/?scode=9042",
+    "https://jp.linkedin.com/company/hankyuhanshinholdings",
+    "https://www.hhcross.hankyu-hanshin.jp/",
+    "https://deeppoint.remixpoint.co.jp/companies/hankyu-hanshin-holdings",
+    "https://ja.wikipedia.org/wiki/阪急阪神ホールディングス",
+    "https://en.wikipedia.org/wiki/Hankyu_Hanshin_Holdings",
+    "https://ja.wikipedia.org/wiki/阪急阪神",
+    "https://www.hankyu-hanshin.co.jp/corporate/data/"
+   ]
+  },
+  {
+   "query": "阪急阪神ホールディングス 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://www.hankyu-hanshin.co.jp/ir/stock/classification.html",
+    "https://kabutan.jp/stock/holder?code=9042",
+    "https://www.hankyu-hanshin.co.jp/ir/stock/benefit/",
+    "https://www.hankyu-hanshin.co.jp/ir/stock/benefit/outline.html",
+    "https://www.hankyu-hanshin.co.jp/faq/",
+    "https://the-shashi.com/tse/9042/shareholders/",
+    "https://www.hankyu-hanshin.co.jp/ir/stock/reports/",
+    "https://www.nikkei.com/nkd/company/stockholder/?scode=9042",
+    "https://www.hankyu-hanshin.co.jp/ir/stock/information.html"
+   ]
+  },
+  {
+   "query": "阪急阪神ホールディングス shareholders ownership investors parent company",
+   "results": [
+    "https://www.hankyu-hanshin.co.jp/en/ir/stock/classification.html",
+    "https://www.hankyu-hanshin.co.jp/en/ir/financial/segment.html",
+    "https://www.hankyu-hanshin.co.jp/en/ir/management/",
+    "https://en.wikipedia.org/wiki/Hankyu_Hanshin_Holdings",
+    "https://www.hankyu-hanshin.co.jp/en/ir/",
+    "https://www.hankyu-hanshin.co.jp/en/",
+    "https://www.hankyu-hanshin.co.jp/en/ir/stock/",
+    "https://www.hhram.co.jp/en/corporate/history.html",
+    "https://www.hankyu-hanshin.co.jp/en/corporate/message.html",
+    "https://zaimiru.jp/company/9042/shareholders"
+   ]
+  },
+  {
+   "query": "阪急阪神ホールディングス 設立 OR 創業 OR founded",
+   "results": [
+    "https://www.hankyu-hanshin.co.jp/corporate/history/",
+    "https://www.hankyu-hanshin.co.jp/corporate/data/",
+    "https://ja.wikipedia.org/wiki/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.hankyu-hanshin.co.jp/corporate/about_us/",
+    "https://www.hankyu-hanshin.co.jp/ir/individual/overview.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9042",
+    "https://www.hankyu-hanshin.co.jp/jinji/company/outline.html",
+    "https://job.mynavi.jp/27/pc/search/corp58127/outline.html",
+    "https://deeppoint.remixpoint.co.jp/companies/hankyu-hanshin-holdings",
+    "https://ja.wikipedia.org/wiki/阪急電鉄"
+   ]
+  },
+  {
+   "query": "阪急阪神ホールディングス ビジネスモデル",
+   "results": [
+    "https://www.hankyu-hanshin.co.jp/jinji/company/strategy.html",
+    "https://www.hankyu-hanshin.co.jp/",
+    "https://www.hankyu-hanshin.co.jp/ir/management/managementplan.html",
+    "https://www.hankyu-hanshin.co.jp/ir/financial/segment.html",
+    "https://www.hankyu-hanshin.co.jp/corporate/about_us/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Frto&q_no=9",
+    "https://www.youtube.com/watch?v=byBdChaLlmQ",
+    "https://www.hankyu-hanshin.co.jp/corporate/data/",
+    "https://ja.wikipedia.org/wiki/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9"
+   ]
+  },
+  {
+   "query": "阪急阪神ホールディングス 決算説明資料",
+   "results": [
+    "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "https://www.hankyu-hanshin.co.jp/ir/",
+    "https://www.hankyu-hanshin.co.jp/ir/calendar/",
+    "https://www.hankyu-hanshin.co.jp/ir/topics/",
+    "https://www.hankyu-hanshin.co.jp/2026/05/ef8d211e0f7d7999f5bcef6d1b707f78619f86da.pdf",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9042"
+   ]
+  },
+  {
+   "query": "阪急阪神ホールディングス 事業系統図",
+   "results": [
+    "https://www.hankyu-hanshin.co.jp/corporate/data/",
+    "https://www.hankyu-hanshin.co.jp/corporate/group_list.html",
+    "https://www.hankyu-hanshin.co.jp/",
+    "https://www.hhp.co.jp/corp/organization/",
+    "https://www.hankyu-hanshin.co.jp/ir/library/",
+    "https://ja.wikipedia.org/wiki/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.hankyu-hanshin.co.jp/ir/library/secreports/",
+    "https://www.hankyu-hanshin.co.jp/sitemap.html",
+    "https://ja.wikipedia.org/wiki/阪急阪神ホールディングス",
+    "https://ja.wikipedia.org/wiki/阪急阪神東宝グループ"
+   ]
+  },
+  {
+   "query": "阪急阪神ホールディングス 社長 インタビュー",
+   "results": [
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/040800656/",
+    "https://jbpress.ismedia.jp/articles/-/96258",
+    "https://www.hankyu-hanshin.co.jp/jinji/company/senior/",
+    "https://dentetsu.hankyu.co.jp/jinji/office/interview03/",
+    "https://kitaishihon.com/company/9042/board-of-director",
+    "https://the-shashi.com/tse/9042/executives/ceo/shimada-yasuo/",
+    "https://www.hankyu-hanshin.co.jp/corporate/message.html",
+    "https://ja.wikipedia.org/wiki/%E5%B6%8B%E7%94%B0%E6%B3%B0%E5%A4%AB",
+    "https://ja.wikipedia.org/wiki/嶋田泰夫",
+    "https://www.nikkan.co.jp/articles/view/00741657"
+   ]
+  },
+  {
+   "query": "site:note.com 阪急阪神ホールディングス",
+   "results": [
+    "https://note.com/gogo_labo/n/n0564ea790e62",
+    "https://note.com/kabu_times/n/n8943be09feac",
+    "https://note.com/tag/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://note.com/better_equation/n/nc8917f03aafe",
+    "https://note.com/gogo_labo/n/n3536ca00d6b9",
+    "https://note.com/deveshukatsu/n/n5b793a620122",
+    "https://note.com/puripuridaijin/n/n246aa8959bb9",
+    "https://note.com/python514/n/n936d25bb0d27",
+    "https://note.com/tatsuya_sabato/n/ndf20e4bdf2ab",
+    "https://note.com/company_scope/n/naa02704b962a"
+   ]
+  },
+  {
+   "query": "site:x.com 阪急阪神ホールディングス",
+   "results": [
+    "https://x.com/HEX_GP",
+    "https://x.com/PRTIMES_TRAVEL/status/2117121488998605174",
+    "https://x.com/hashtag/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "https://x.com/kessan_db/status/2116657564327039441",
+    "https://x.com/tokyonewsmedia/status/2116712396706246926",
+    "https://x.com/hankyu_ex/status/1019769130000384000",
+    "https://x.com/senna0726/status/2113220499790823919",
+    "https://x.com/hankyu_ex/status/2112382316626747903",
+    "https://x.com/hanshin_pr/status/2026902294902837359",
+    "https://x.com/hanshin_pr/status/2045064725042758021"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 阪急阪神ホールディングス",
+   "results": [
+    "https://www.linkedin.com/company/hankyuhanshinholdings/",
+    "https://jp.linkedin.com/company/hankyuhanshinholdings",
+    "https://www.linkedin.com/company/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E4%B8%8D%E5%8B%95%E7%94%A3%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/in/%E7%B5%B1%E4%B9%9F-%E7%94%B0%E4%B8%AD-215b811b2",
+    "https://jp.linkedin.com/in/nobuhide-okamoto-927408236",
+    "https://jp.linkedin.com/in/%E7%9C%9F%E9%99%BD-%E4%B8%AD%E7%A5%9E-9ba53b297",
+    "https://www.linkedin.com/company/%E3%82%A2%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://fr.linkedin.com/company/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E4%B8%8D%E5%8B%95%E7%94%A3%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/in/%E8%8F%9C%E5%A4%AE-%E5%B1%B1%E6%9C%AC-b25156333",
+    "https://jp.linkedin.com/in/光彦-小坂-aa3297308"
+   ]
+  },
+  {
+   "query": "site:facebook.com 阪急阪神ホールディングス",
+   "results": [
+    "https://www.facebook.com/kacco.info/posts/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E-%E6%9C%AA%E6%9D%A5%E3%81%AE%E3%82%86%E3%82%81%E3%81%BE%E3%81%A1%E5%9F%BA%E9%87%91%E7%AC%AC18%E5%9B%9E%E5%8A%A9%E6%88%90%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E6%B2%BF%E7%B7%9A%E3%81%A7%E5%9C%B0%E5%9F%9F%E7%92%B0%E5%A2%83%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%84%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%81%AE%E8%82%B2%E6%88%90%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%80%E5%B8%82%E6%B0%91%E5%9B%A3%E4%BD%93%E3%81%AE%E7%9A%86%E6%A7%98%E3%81%B8%E3%81%AE%E5%8A%A9%E6%88%90%E5%AF%BE/1367692052196931/",
+    "https://www.facebook.com/hankyu.ex/videos/%E5%8B%95%E7%94%BB%E5%85%AC%E9%96%8B%E3%81%93%E3%81%AE%E8%A1%97%E3%81%AF%E8%AA%B0%E3%81%8B%E3%81%AE%E5%A5%BD%E3%81%8D%E3%81%A7%E6%BA%A2%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AF%E7%92%B0%E5%A2%83%E5%88%86%E9%87%8E%E3%81%AE%E5%8F%96%E7%B5%84%E6%96%B9%E9%87%9D%E3%82%92%E3%81%8A%E4%BC%9D%E3%81%88%E3%81%99%E3%82%8B%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%8B%95%E7%94%BB%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%8B%95%E7%94%BB%E3%81%A7%E3%81%AF%E9%98%AA%E6%80%A5%E9%9B%BB%E8%BB%8A%E3%82%84%E9%98%AA%E6%80%A5%E8%A5%BF%E5%AE%AE/2708609932855762/",
+    "https://www.facebook.com/CONGRANT.LLC/posts/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%B8%BB%E5%82%AC%E3%82%B3%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88%E3%81%8C%E4%BC%B4%E8%B5%B0%E6%94%AF%E6%8F%B4%E3%81%99%E3%82%8B%E3%82%86%E3%82%81%E3%81%BE%E3%81%A1%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-%E7%89%B9%E8%A8%AD%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E3%81%AF%E5%90%84%E5%9B%A3%E4%BD%93%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%8C%E5%85%AC%E9%96%8B%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/1599841351939839/",
+    "https://www.facebook.com/100008476953246/posts/%E3%82%BB%E3%82%A4%E3%83%8E%E3%83%BCnews%E3%82%BB%E3%82%A4%E3%83%8E%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%8C%E4%BF%9D%E6%9C%89%E3%81%99%E3%82%8B%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9hex%E3%81%AE%E6%A0%AA%E5%BC%8F%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%B8%E5%85%A8%E3%81%A6%E8%AD%B2%E6%B8%A1%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E7%99%BA%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F2018%E5%B9%B4%E4%BB%A5/4158518961107295/",
+    "https://www.facebook.com/ligare2012/posts/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E3%81%A8%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9Ehd%E6%9B%B8%E7%B1%8D%E3%83%87%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%89%E3%81%AA%E9%83%BD%E5%B8%82%E3%81%A8%E4%BA%A4%E9%80%9A%E3%82%92%E5%87%BA%E7%89%88-%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E8%B5%B7%E7%82%B9%E3%81%A8%E3%81%97%E3%81%9F%E5%AF%BE%E8%A9%B1%E3%81%A8%E5%85%B1%E5%89%B5%E3%81%AE%E3%81%BE%E3%81%A1%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%92%E6%8F%90%E6%A1%88/1662114765926239/",
+    "https://www.facebook.com/nikkei.brand.voice/posts/32-%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E%E6%8E%B2%E8%BC%89%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AE%E5%BA%83%E5%91%8A%E3%81%A7%E3%81%99-%E5%A4%A7%E9%98%AA%E6%A2%85%E7%94%B0%E3%82%A8%E3%83%AA%E3%82%A2%E3%81%A7%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E8%8A%9D%E7%94%B01%E4%B8%81%E7%9B%AE%E8%A8%88%E7%94%BB%E3%82%92%E9%80%B2%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B%E5%90%8C%E7%A4%BE%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E4%B8%8D%E5%8B%95%E7%94%A3%E3%81%AE%E7%A4%BE%E5%93%A1%E3%81%AE%E5%A7%BF%E3%81%A8%E3%81%A8%E3%82%82/122237599400144802/",
+    "https://www.facebook.com/ReseMom/posts/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AF2026%E5%B9%B411%E6%9C%887%E6%97%A5%E3%81%8B%E3%82%892027%E5%B9%B42%E6%9C%8827%E6%97%A5%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%B0%8F%E5%AD%A6%E7%94%9F%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%97%E3%81%9F%E8%A7%A6%E3%82%8C%E3%82%8B%E6%84%9F%E3%81%98%E3%82%8B%E3%82%86%E3%82%81%E3%81%BE%E3%81%A1-%E3%81%93%E3%81%A9%E3%82%82%E3%83%A9%E3%83%9C%E3%82%92%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%85%B5%E5%BA%AB%E7%9C%8C%E3%81%AE4%E4%BC%9A%E5%A0%B4%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%99%E3%82%8B/1707423004724614/",
+    "https://www.facebook.com/yumemachi.pj/",
+    "https://www.facebook.com/yumemachi.pj/posts/%E4%BB%96%E3%81%AE%E6%8A%95%E7%A8%BF%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E-%E6%9C%AA%E6%9D%A5%E3%81%AE%E3%82%86%E3%82%81%E3%81%BE%E3%81%A1%E5%9F%BA%E9%87%91%E5%B8%82%E6%B0%91%E5%9B%A3%E4%BD%93%E5%8A%A9%E6%88%90%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E7%AC%AC18%E5%9B%9E%E5%B8%82%E6%B0%91%E5%9B%A3%E4%BD%93%E3%82%92%E5%8B%9F%E9%9B%86%E3%81%97%E3%81%BE%E3%81%99%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%A7%E3%81%AF%E6%9C%AA%E6%9D%A5%E3%81%AB%E3%82%8F%E3%81%9F%E3%82%8A%E4%BD%8F%E3%81%BF%E3%81%9F%E3%81%84%E3%81%BE%E3%81%A1%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AB%E5%90%91%E3%81%91/1707634554698139/",
+    "https://www.facebook.com/100005148401870/posts/%E5%A4%A7%E9%98%AA%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E5%85%AB%E5%B0%BE%E5%B8%82-%E3%81%A8%E3%81%AE%E9%80%A3%E6%90%BA%E3%81%A7%E7%A4%BE%E4%BC%9A%E5%8F%82%E5%8A%A0%E5%9E%8B%E4%BB%8B%E8%AD%B7%E4%BA%88%E9%98%B2%E4%BA%8B%E6%A5%AD%E3%81%88%E3%81%84%E3%81%A3%E3%81%A8yao%E3%82%92%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%EF%B8%8F-%E6%88%90%E6%9E%9C%E9%80%A3%E5%8B%95%E5%9E%8B%E6%B0%91%E9%96%93%E5%A7%94%E8%A8%97%E5%A5%91%E7%B4%84%E6%96%B9%E5%BC%8Fpfs%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%A4%E3%81%AA%E3%81%8C%E3%82%8B%E3%81%93%E3%81%A8%E7%A4%BE%E4%BC%9A/3520183268163252/"
+   ]
+  },
+  {
+   "query": "阪急阪神ホールディングス note 社長",
+   "results": [
+    "https://note.com/jobhuntkeyence/n/nd2ea7059aecd",
+    "https://note.com/tag/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://note.com/company_scope/n/naa02704b962a",
+    "https://note.com/gogo_labo/n/n0564ea790e62",
+    "https://www.hankyu-hanshin.co.jp/corporate/data/",
+    "https://note.com/shushoku28/n/ne2135d3eb2d3",
+    "https://www.hankyu-hanshin.co.jp/corporate/message.html",
+    "https://www.nikkei.com/article/DGXZQOUF3000M0Q6A930C2000000/",
+    "https://x.com/Ka_______DeE/status/2117318498145980510",
+    "https://ja.wikipedia.org/wiki/嶋田泰夫"
+   ]
+  },
+  {
+   "query": "阪急阪神ホールディングス X 投稿",
+   "results": [
+    "https://x.com/HEX_GP",
+    "https://www.hankyu-hanshin.co.jp/",
+    "https://www.hankyu-hanshin.co.jp/release/",
+    "https://hcl-c.com/outline/snslink.html",
+    "https://www.hankyu-hanshin.co.jp/ir/library/secreports/",
+    "https://s.kabutan.jp/stocks/9042/news/",
+    "https://www.asahi.com/topics/word/%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9.html",
+    "https://www.hankyu-hanshin.co.jp/corporate/data/",
+    "https://search.yahoo.co.jp/realtime/search/阪急阪神ホールディングス/",
+    "https://x.com/hashtag/阪急阪神ホールディングスグループ"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式22頁／PDF・画像16件／外部19頁・検索14回）",
+  "設立": "記載なし（3回確認済み：公式22頁／PDF・画像16件／外部19頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式22頁／PDF・画像16件／外部19頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式22頁／PDF・画像16件／外部19頁・検索14回）"
+ }
+}

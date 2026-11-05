@@ -4676,12 +4676,102 @@
 
 ## 核融合炉材料（fusion reactor materials）
 - 文脈：核融合
-- 市場規模：記載なし（読んだ30頁・検索6回）
-- 成長率：記載なし（読んだ30頁・検索6回）
-- 主要企業：記載なし（読んだ30頁・検索6回）
-- 日本企業：記載なし（読んだ30頁・検索6回）
-- 上位シェア：記載なし（読んだ30頁・検索6回）
-- 投資：記載なし（読んだ30頁・検索6回）
+- 市場規模：
+  - 「Nuclear Fusion and Advanced Materials Market Size & Share, 2034」（https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market）
+  - 「Global Nuclear Fusion and Advanced Materials Market Size, Share, Trends, & Growth Forecast Report - Segmented By Material (Tungsten, Beryllium, Vanadium-Based Alloys, SiC Composites, Others), Technology (Magnetic Confinement, Inertial Confinement, Others), And Region (North America, Europe, Asia Pacific, Latin America, Middle east and Africa) – Industry Analysis (2026 to 2034)」（https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market）
+  - 「Market Size, 2025」（https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market）
+  - 「USD 0.13 billion in 2025」（https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market）
+  - 「USD 0.17 billion in 2026」（https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market）
+  - 「USD 1.40 billion by 2034」（https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market）
+  - 「market size was calculated to be USD 0.13 billion in 2025 and is anticipated to be worth USD 1.40 billion by 2034, growing from USD 0.17 billion in 2026 at a CAGR of 30.20% during the forecast period.」（https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market）
+  - 「In April 2024, the Federal Ministry of Education and Research (BMBF) of Germany financed the PriFUSIO research initiative with 18 million euros and is called Advance Nuclear Fusion Research, which involves over 1.3 million euros for SCHOTT.」（https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market）
+  - 「Fusion Energy Market Size, Share | CAGR of 6.2%」（https://market.us/report/global-fusion-energy-market/）
+  - 「USD 555.0 Billion」（https://market.us/report/global-fusion-energy-market/）
+  - 「USD 304.1 Billion」（https://market.us/report/global-fusion-energy-market/）
+  - 「$7.1 billion」（https://market.us/report/global-fusion-energy-market/）
+  - 「£410 million」（https://market.us/report/global-fusion-energy-market/）
+  - 「$1.5 billion」（https://market.us/report/global-fusion-energy-market/）
+  - 「$570 million」（https://market.us/report/global-fusion-energy-market/）
+- 成長率：
+  - 「CAGR, 2026–2034」（https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market）
+  - 「market size was calculated to be USD 0.13 billion in 2025 and is anticipated to be worth USD 1.40 billion by 2034, growing from USD 0.17 billion in 2026 at a CAGR of 30.20% during the forecast period.」（https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market）
+  - 「Fusion Energy Market Size, Share | CAGR of 6.2%」（https://market.us/report/global-fusion-energy-market/）
+  - 「in 2024, growing at a」（https://market.us/report/global-fusion-energy-market/）
+  - 「CAGR of 6.2%」（https://market.us/report/global-fusion-energy-market/）
+  - 「CAGR of 6.2%.」（https://market.us/report/global-fusion-energy-market/）
+  - 「CAGR (2025-2034)」（https://market.us/report/global-fusion-energy-market/）
+  - 「CAGR 2025 to 2034」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「by 2034 at a CAGR of」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「by 2034, a compound annual growth rate of」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「of fusion reactor component spend in 2025 and grow at」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「, the fastest component type. Heat management technologies were named a bottleneck by 44% of fusion companies in the FIA 2026 survey, and 48% of companies called fusion fuel cycle systems a major future concern, because a power plant must breed and recover its own tritium while ITER's blanket is a shielding design. Divertors grow at」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「of component demand in 2025 and grow at」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「a year from a very small 2025 base of long-lead orders. Eni signed an agreement worth more than USD 1 billion in September 2025 to buy power from the planned ARC plant, and Google has agreed to take 200 MW from it, which gives the first commercial plant contracted revenue before construction. Other applications, which cover neutron sources and component test facilities, grow at」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「of fusion reactor components in 2025 and grow at」（https://dataintelo.com/report/fusion-reactor-components-market）
+- 主要企業：
+  - 「Highly competitive landscape driven by specialized metallurgical and material enterprises navigating manufacturing scalability constraints, production costs, and geopolitical supply vulnerabilities.」（https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market）
+  - 「Global, Regional & Country Level Analysis, Segment-Level Analysis, DROC, PESTLE Analysis, Porter’s Five Forces Analysis, Competitive Landscape, Analyst Overview of Investment Opportunities」（https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market）
+  - 「KEY PLAYERS IN THE GLOBAL NUCLEAR FUSION AND ADVANCED MATERIALS MARKET」（https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market）
+  - 「The major key players in the Global Nuclear Fusion and Advanced materials are Ulba Metallurgical Plant, A.L.M.T. Corp., NGK Metals, BETEK GmbH & Co. KG, Chongyi ZhangYuan Tungsten Co. Ltd., Buffalo Tungsten Inc., CMOC, H.C. Starck Tungsten GmbH, ATI Inc., GUANGDONG XIANGLU TUNGSTEN CO LTD, Materion Corporation, and others.」（https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market）
+  - 「Top Key Players in the Market」（https://market.us/report/global-fusion-energy-market/）
+  - 「Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments」（https://market.us/report/global-fusion-energy-market/）
+  - 「Competitive Landscape」（https://market.us/report/global-fusion-energy-market/）
+  - 「Fusion Reactor Components Market: Competitive Landscape」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「Key Companies Profiled」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「Map the competitive landscape and the strategies of leading players」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「Competitive Landscape」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「Fusion Energy Market Competitive Landscape」（https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/）
+  - 「Fusion Energy Key Players」（https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/）
+  - 「The major players in the Global Fusion Energy Market are Commonwealth Fusion Systems (USA), TAE Technologies (USA), Helion Energy (USA), Tokamak Energy (UK) and others.」（https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/）
+- 日本企業：
+  - 「Asia-Pacific (anticipated to achieve the highest CAGR growth driven by innovations in China, Japan, and South Korea)」（https://www.marketdataforecast.com/market-reports/nuclear-fusion-and-advanced-materials-market）
+  - 「Internationally, collaborative efforts are also gaining momentum. The United States and Japan have announced a joint partnership to accelerate the development and commercialization of nuclear fusion. This collaboration focuses on addressing scientific and technical challenges, fostering cooperation between universities, national laboratories, and private companies in both countries.」（https://market.us/report/global-fusion-energy-market/）
+  - 「North America – US, Canada; Europe – Germany, France, The UK, Spain, Italy, Rest of Europe; Asia Pacific – China, Japan, South Korea, India, Australia, Singapore, Rest of APAC; Latin America – Brazil, Mexico, Rest of Latin America; Middle East & Africa – GCC, South Africa, Rest of MEA」（https://market.us/report/global-fusion-energy-market/）
+  - 「Faraday Factory Japan」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「Mitsubishi Heavy Industries」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「Faraday Factory Japan signed to supply HTS tape for Proxima Fusion's demo stellarator magnet.」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「The UK STEP 2G REBCO tape framework was awarded to Fujikura and Faraday Factory Japan.」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「Commonwealth Fusion Systems, Westinghouse Electric Company, Fujikura, Faraday Factory Japan, Kyoto Fusioneering, Ansaldo Nucleare, Walter Tosto, China National Nuclear Corporation (CNNC), General Atomics, Toshiba Energy Systems & Solutions, Mitsubishi Heavy Industries, Hitachi, Tokamak Energy, Rosatom, Western Superconducting Technologies」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「13.2.2 Japan」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「16.3.4 Faraday Factory Japan」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「16.3.11 Mitsubishi Heavy Industries」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「16.3.12 Hitachi」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「Fujikura and Faraday Factory Japan won places on the UK STEP REBCO tape framework in April 2025, and Faraday Factory Japan supplies HTS tape for Proxima Fusion's demo stellarator magnet. Commonwealth Fusion Systems and Tokamak Energy build HTS magnets, while Western Superconducting Technologies supplies NbTi and Nb3Sn strand for ITER and Chinese tokamaks. Magnets grow at 13.7% a year.」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「Magnets are the largest component type with 24.0% of 2025 spend, and they grow at 13.7% a year to 2034. Toroidal field, poloidal field and central solenoid coils are the most expensive systems on a magnetic confinement device. HTS tape frameworks such as the April 2025 UK STEP award to Fujikura and Faraday Factory Japan show how buyers are qualifying new magnet suppliers.」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「Asia Pacific leads with 50.0% of 2025 demand and grows at 12.0% a year. Hefei budgets nearly CNY 10 billion (USD 1.4 billion) of procurement for EAST, BEST and CRAFT, CNNC set up China Fusion Energy Co with CNY 15 billion of capital in July 2025, and Japan, Korea and India each supply 9.1 percent of ITER construction in kind.」（https://dataintelo.com/report/fusion-reactor-components-market）
+- 上位シェア：
+  - 「Deuterium-Tritium fuel dominates with 63.5% share in 2024 due to its high energy yield and research maturity」（https://market.us/report/global-fusion-energy-market/）
+  - 「Market Share (2025)」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「Share of 2025 revenue」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「The competitive chapter profiles 15 companies with business overview, product portfolio, recent developments and strategy, and ranks them by market share. Shares are in the report.」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「16.2 Global Fusion Reactor Components Market: Market Share Analysis, 2025」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「The component share of ITER-wide spend was cross-checked against disclosed contracts such as the 2025 vacuum vessel assembly award.」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「2] Which region is expected to dominate the Global Fusion Energy Market?」（https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/）
+  - 「By technology type, which segment will dominate the market by the end of 2040?」（https://www.bccresearch.com/market-research/energy-and-resources/fusion-power-market-report.html?srsltid=AYCX9vLnWHkfdLFaZnu8hGNqpD7pjPBkiJF8C5aAKKxylPdLMhIW1sJA）
+  - 「3. Which region holds the largest share of the advanced materials for the nuclear fusion technology market?」（https://www.sphericalinsights.com/reports/advanced-materials-for-nuclear-fusion-technology-market）
+  - 「Summary Figure: Global Market Shares of Nuclear Fusion Technologies, by Region, 2035」（https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP）
+  - 「Figure 18: Global Market Shares of Nuclear Fusion Technologies, by Type, 2035」（https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP）
+  - 「Figure 19: Global Market Shares of Nuclear Fusion Technologies, by Type, 2040」（https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP）
+  - 「Figure 20: Global Market Shares of Nuclear Fusion Technologies, by Application, 2035」（https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP）
+  - 「Figure 21: Global Market Shares of Nuclear Fusion Technologies, by Application, 2040」（https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP）
+  - 「Figure 23: Global Market Shares of Electricity Generation by Nuclear Fusion, by Region, 2035」（https://www.researchandmarkets.com/reports/4895939/nuclear-fusion-and-advanced-materials-emerging?srsltid=AYCX9vIm0PNErs47Xyd3e08NYjBzxsvn6Yq93jTU_EmzmOw4CzHPM2GP）
+- 投資：
+  - 「to support nuclear fusion energy, aiming to construct a leading fusion power project by 2040. Similarly, the European Union’s Net Zero Industrial Act has designated fusion as a strategic technology, unlocking additional funding opportunities and reinforcing its role in Europe’s clean energy strategy.」（https://market.us/report/global-fusion-energy-market/）
+  - 「In 2023, Avalanche achieved a significant milestone by reaching 200 kilovolts in its second prototype reactor, marking the highest known operating voltage for any fusion device at the time. The company has secured over $40 million in funding from investors including Founders Fund and Toyota Ventures, and is preparing to raise an additional $100 million to advance its technology.」（https://market.us/report/global-fusion-energy-market/）
+  - 「In 2025, Avalanche Energy, is preparing to raise up to $100 million in a Series B funding round to further advance its technology and expand its operations.」（https://market.us/report/global-fusion-energy-market/）
+  - 「Raised USD 863 million in August 2025; total funding nearly USD 3 billion」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「Commonwealth Fusion Systems raised USD 863 million for SPARC and ARC, taking total funding to nearly USD 3 billion.」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「The Fusion Industry Association reported USD 2.64 billion raised by fusion companies in twelve months and USD 9.766 billion cumulative.」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「10.5 Investment Scenario」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「World Nuclear News: FIA global fusion industry funding 2025」（https://dataintelo.com/report/fusion-reactor-components-market）
+  - 「Fusion Energy Market Size by Fuel Type, Technology, System Type, Investment Type, Application and Region - Segment-Level Market Assessment, Growth Opportunity Analysis, Competitive Mapping & Forecast to 2032」（https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/）
+  - 「Private Investment Surpasses US$10 Billion」（https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/）
+  - 「Global private fusion funding exceeds $10 billion from corporations, energy users, and sovereign funds, boosting innovation and commercialization.」（https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/）
+  - 「5.4. Fusion Energy Market Size and Forecast, by Investment Type (2025-2032)」（https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/）
+  - 「5.4.2. Private Sector Investments」（https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/）
+  - 「5.4.3. Public Sector Investment」（https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/）
+  - 「6.4. North America Fusion Energy Market Size and Forecast, by Investment Type (2025-2032)」（https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/）
 
 ## 宇宙用耐熱材料（thermal protection system materials）
 - 文脈：宇宙
@@ -6286,12 +6376,100 @@
 
 ## ワイヤーアーク積層用ワイヤ（WAAM wire）
 - 文脈：金属AM
-- 市場規模：記載なし（読んだ30頁・検索6回）
-- 成長率：記載なし（読んだ30頁・検索6回）
-- 主要企業：記載なし（読んだ30頁・検索6回）
-- 日本企業：記載なし（読んだ30頁・検索6回）
-- 上位シェア：記載なし（読んだ30頁・検索6回）
-- 投資：記載なし（読んだ30頁・検索6回）
+- 市場規模：
+  - 「ワイヤアーク積層造形ソリューションの世界市場（2026年～2032年）、市場規模（ガス金属アーク溶接、ガスタンタルムアーク溶接、その他）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/news/4594187）
+  - 「ワイヤアーク積層造形ソリューションの世界市場（2026年～2032年）、市場規模（ガス金属アーク溶接、ガスタンタルムアーク溶接、その他）・分析レポートを発表」（https://newscast.jp/news/4594187）
+  - 「世界のワイヤアーク積層造形ソリューション市場規模は、2025年の3億1,100万米ドルから2032年には5億1,600万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.1%で成長すると見込まれています」（https://newscast.jp/news/4594187）
+  - 「第2章には、エグゼクティブサマリーとして、世界のワイヤアーク積層造形ソリューション市場の概要（市場規模、地域別CAGR、国・地域別分析）、タイプ別（ガスメタルアーク溶接、ガスタングステンアーク溶接、その他）、材料別（鉄鋼・ステンレス、アルミニウム合金、チタン合金、その他）、シーン別（工具・治具、修理・再製造、その他）、アプリケーション別（航空宇宙産業、エネルギー産業、その他）の市場セグメントに関する詳細な要約が収録されており、それぞれの市場規模、CAGR、市場シェアのデータが含まれています」（https://newscast.jp/news/4594187）
+  - 「第3章には、ワイヤアーク積層造形ソリューション市場における主要プレーヤーの市場規模と市場シェア（収益、市場シェアの推移）、主要プレーヤーの拠点と提供製品、市場集中度分析（競争状況、CR3, CR5, CR10）、新規参入企業、M&Aや事業拡大に関する詳細な分析が示されています」（https://newscast.jp/news/4594187）
+  - 「第4章には、地域別のワイヤアーク積層造形ソリューション市場規模（収益）、各地域（南北アメリカ、APAC、ヨーロッパ、中東・アフリカ）の市場成長に関する詳細な分析が提供されています」（https://newscast.jp/news/4594187）
+  - 「第5章には、南北アメリカ地域のワイヤアーク積層造形ソリューション市場について、国別（米国、カナダ、メキシコ、ブラジル）、タイプ別、アプリケーション別の市場規模と成長が詳述されています」（https://newscast.jp/news/4594187）
+  - 「第6章には、APAC地域のワイヤアーク積層造形ソリューション市場について、国別（中国、日本、韓国、東南アジア、インド、オーストラリア）、タイプ別、アプリケーション別の市場規模と成長が詳述されています」（https://newscast.jp/news/4594187）
+  - 「第7章には、ヨーロッパ地域のワイヤアーク積層造形ソリューション市場について、国別（ドイツ、フランス、英国、イタリア、ロシア）、タイプ別、アプリケーション別の市場規模と成長が詳述されています」（https://newscast.jp/news/4594187）
+  - 「第8章には、中東・アフリカ地域のワイヤアーク積層造形ソリューション市場について、国別（エジプト、南アフリカ、イスラエル、トルコ、GCC諸国）、タイプ別、アプリケーション別の市場規模と成長が詳述されています」（https://newscast.jp/news/4594187）
+  - 「ワイヤアーク積層造形ソリューションの世界市場（2026年～2032年）、市場規模（ガス金属アーク溶接、ガスタンタルムアーク溶接、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター」（https://www.atpress.ne.jp/news/4594187）
+  - 「ワイヤアーク積層造形ソリューションの世界市場（2026年～2032年）、市場規模（ガス金属アーク溶接、ガスタンタルムアーク溶接、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/4594187）
+  - 「世界のワイヤアーク積層造形ソリューション市場規模は、2025年の3億1,100万米ドルから2032年には5億1,600万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.1%で成長すると見込まれています」（https://www.atpress.ne.jp/news/4594187）
+  - 「第2章には、エグゼクティブサマリーとして、世界のワイヤアーク積層造形ソリューション市場の概要（市場規模、地域別CAGR、国・地域別分析）、タイプ別（ガスメタルアーク溶接、ガスタングステンアーク溶接、その他）、材料別（鉄鋼・ステンレス、アルミニウム合金、チタン合金、その他）、シーン別（工具・治具、修理・再製造、その他）、アプリケーション別（航空宇宙産業、エネルギー産業、その他）の市場セグメントに関する詳細な要約が収録されており、それぞれの市場規模、CAGR、市場シェアのデータが含まれています」（https://www.atpress.ne.jp/news/4594187）
+  - 「第3章には、ワイヤアーク積層造形ソリューション市場における主要プレーヤーの市場規模と市場シェア（収益、市場シェアの推移）、主要プレーヤーの拠点と提供製品、市場集中度分析（競争状況、CR3, CR5, CR10）、新規参入企業、M&Aや事業拡大に関する詳細な分析が示されています」（https://www.atpress.ne.jp/news/4594187）
+- 成長率：
+  - 「世界のワイヤアーク積層造形ソリューション市場規模は、2025年の3億1,100万米ドルから2032年には5億1,600万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.1%で成長すると見込まれています」（https://newscast.jp/news/4594187）
+  - 「第2章には、エグゼクティブサマリーとして、世界のワイヤアーク積層造形ソリューション市場の概要（市場規模、地域別CAGR、国・地域別分析）、タイプ別（ガスメタルアーク溶接、ガスタングステンアーク溶接、その他）、材料別（鉄鋼・ステンレス、アルミニウム合金、チタン合金、その他）、シーン別（工具・治具、修理・再製造、その他）、アプリケーション別（航空宇宙産業、エネルギー産業、その他）の市場セグメントに関する詳細な要約が収録されており、それぞれの市場規模、CAGR、市場シェアのデータが含まれています」（https://newscast.jp/news/4594187）
+  - 「第3章には、ワイヤアーク積層造形ソリューション市場における主要プレーヤーの市場規模と市場シェア（収益、市場シェアの推移）、主要プレーヤーの拠点と提供製品、市場集中度分析（競争状況、CR3, CR5, CR10）、新規参入企業、M&Aや事業拡大に関する詳細な分析が示されています」（https://newscast.jp/news/4594187）
+  - 「世界のワイヤアーク積層造形ソリューション市場規模は、2025年の3億1,100万米ドルから2032年には5億1,600万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.1%で成長すると見込まれています」（https://www.atpress.ne.jp/news/4594187）
+  - 「第2章には、エグゼクティブサマリーとして、世界のワイヤアーク積層造形ソリューション市場の概要（市場規模、地域別CAGR、国・地域別分析）、タイプ別（ガスメタルアーク溶接、ガスタングステンアーク溶接、その他）、材料別（鉄鋼・ステンレス、アルミニウム合金、チタン合金、その他）、シーン別（工具・治具、修理・再製造、その他）、アプリケーション別（航空宇宙産業、エネルギー産業、その他）の市場セグメントに関する詳細な要約が収録されており、それぞれの市場規模、CAGR、市場シェアのデータが含まれています」（https://www.atpress.ne.jp/news/4594187）
+  - 「第3章には、ワイヤアーク積層造形ソリューション市場における主要プレーヤーの市場規模と市場シェア（収益、市場シェアの推移）、主要プレーヤーの拠点と提供製品、市場集中度分析（競争状況、CR3, CR5, CR10）、新規参入企業、M&Aや事業拡大に関する詳細な分析が示されています」（https://www.atpress.ne.jp/news/4594187）
+  - 「CAGR 2025 to 2034」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「by 2034, a CAGR of」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「by 2034, a compound annual growth rate of」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「of wire arc additive manufacturing value in 2025 and grow at」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「a year, driven by nickel aluminium bronze for submarine valves, fittings and propulsion parts; in March 2026 AML3D won an AUD 2.61 million US Navy contract for such components. Nickel alloys grow at」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「CAGR (2025-2034)」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「CAGR to 2034」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The global wire arc additive manufacturing market was worth $160 million in 2025 and reaches $608.47 million by 2034, growing at a CAGR of 16.0%. The value covers WAAM systems, path planning and monitoring software, and contract part printing, repair and qualification services. It excludes laser and electron beam wire deposition, powder processes and wire feedstock sold separately.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「6.90% CAGR」（https://www.reportprime.com/cored-wire-r160）
+- 主要企業：
+  - 「また本レポートでは、ワイヤアーク積層造形ソリューションのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的なワイヤアーク積層造形ソリューション市場の加速する動向の中で、主要グローバル企業の独自の立場をより深く理解できるよう、各社の戦略を分析しています」（https://newscast.jp/news/4594187）
+  - 「本レポートでは、製品タイプ、用途、主要企業、主要地域および国別に、ワイヤアーク積層造形ソリューション市場の包括的な概要、市場シェア、成長機会を提示しています」（https://newscast.jp/news/4594187）
+  - 「第3章には、ワイヤアーク積層造形ソリューション市場における主要プレーヤーの市場規模と市場シェア（収益、市場シェアの推移）、主要プレーヤーの拠点と提供製品、市場集中度分析（競争状況、CR3, CR5, CR10）、新規参入企業、M&Aや事業拡大に関する詳細な分析が示されています」（https://newscast.jp/news/4594187）
+  - 「また本レポートでは、ワイヤアーク積層造形ソリューションのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的なワイヤアーク積層造形ソリューション市場の加速する動向の中で、主要グローバル企業の独自の立場をより深く理解できるよう、各社の戦略を分析しています」（https://www.atpress.ne.jp/news/4594187）
+  - 「本レポートでは、製品タイプ、用途、主要企業、主要地域および国別に、ワイヤアーク積層造形ソリューション市場の包括的な概要、市場シェア、成長機会を提示しています」（https://www.atpress.ne.jp/news/4594187）
+  - 「第3章には、ワイヤアーク積層造形ソリューション市場における主要プレーヤーの市場規模と市場シェア（収益、市場シェアの推移）、主要プレーヤーの拠点と提供製品、市場集中度分析（競争状況、CR3, CR5, CR10）、新規参入企業、M&Aや事業拡大に関する詳細な分析が示されています」（https://www.atpress.ne.jp/news/4594187）
+  - 「Wire Arc Additive Manufacturing Market: Competitive Landscape」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Key Companies Profiled」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Map the competitive landscape and the strategies of leading players」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Competitive Landscape」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Key Companies Covered」（https://www.reportprime.com/cored-wire-r160）
+  - 「Competitive Landscape」（https://www.reportprime.com/cored-wire-r160）
+  - 「Additive manufacturing using wire arc technology is gaining significant attention due to its efficiency in producing large metal components. This report explores the recent growth, key players, emerging trends, and segmentation of the wire arc additive manufacturing cell market to provide a comprehensive understanding of its future trajectory.」（https://www.openpr.com/news/4654183/growth-of-the-wire-arc-additive-manufacturing-cell-market-driven）
+  - 「The demand for wireless monitoring and surveillance solutions has surged dramatically as security needs evolve and technology advances. This market is experiencing dynamic growth fueled by more widespread adoption of wireless communication and monitoring systems. Let's explore the current market size, key players, technological innovations, and the segments driving this sector forward.」（https://www.openpr.com/news/4654183/growth-of-the-wire-arc-additive-manufacturing-cell-market-driven）
+- 日本企業：
+  - 「第6章には、APAC地域のワイヤアーク積層造形ソリューション市場について、国別（中国、日本、韓国、東南アジア、インド、オーストラリア）、タイプ別、アプリケーション別の市場規模と成長が詳述されています」（https://newscast.jp/news/4594187）
+  - 「・日本語タイトル：ワイヤアーク積層造形ソリューションの世界市場2026年～2032年」（https://newscast.jp/news/4594187）
+  - 「第6章には、APAC地域のワイヤアーク積層造形ソリューション市場について、国別（中国、日本、韓国、東南アジア、インド、オーストラリア）、タイプ別、アプリケーション別の市場規模と成長が詳述されています」（https://www.atpress.ne.jp/news/4594187）
+  - 「・日本語タイトル：ワイヤアーク積層造形ソリューションの世界市場2026年～2032年」（https://www.atpress.ne.jp/news/4594187）
+  - 「積層造形用ワイヤの建設利用のための技術実証を開始〜竹中工務店・シモダフランジとともにWAAM方式金属3Dプリンターの評価試験を実施〜 | プレスリリース | 企業情報 | 大同特殊鋼」（https://www.daido.co.jp/about/release/2026/260127_waam.html）
+  - 「大同特殊鋼株式会社（社長：清水哲也）は、株式会社竹中工務店（社長：佐々木正人）、株式会社シモダフランジ（社長：下田信治）と共同で、積層造形用ワイヤを利用した金属3Dプリンターの建設分野での利用促進を目的とした技術実証プロジェクトを開始しました」（https://www.daido.co.jp/about/release/2026/260127_waam.html）
+  - 「大同特殊鋼： 積層造形用ワイヤの開発と提供、建設金属廃材の再生プロセスの確立」（https://www.daido.co.jp/about/release/2026/260127_waam.html）
+  - 「大同特殊鋼株式会社 技術開発研究所 企画室」（https://www.daido.co.jp/about/release/2026/260127_waam.html）
+  - 「Copyright The Japan Welding Engineering Society, 2011-2021 All Rights Reserved.」（https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf）
+  - 「a year. DAIHEN showed the ArcBuilder 3D at Robot Technology Japan 2026 at USD 450,000 to 500,000, a price that puts a turnkey cell within reach of fabricators already running DAIHEN welding robots. In February 2026 WAAM3D signed a memorandum with National Aerospace Industry Corporation Malaysia to set up WAAM at the MyAERO Centre, tying the technology to regional」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Osaka, Japan」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「ArcBuilder 3D launched at Robot Technology Japan 2026, priced USD 450,000 to 500,000」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「DAIHEN entered the WAAM market with the ArcBuilder 3D at Robot Technology Japan 2026, priced at USD 450,000 to 500,000.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「United States, Canada, United Kingdom, Germany, Netherlands, Norway, Spain, Australia, China, Japan, Singapore, Malaysia, Brazil, Mexico, Saudi Arabia, United Arab Emirates」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「14.2.2 Japan」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+- 上位シェア：
+  - 「第2章には、エグゼクティブサマリーとして、世界のワイヤアーク積層造形ソリューション市場の概要（市場規模、地域別CAGR、国・地域別分析）、タイプ別（ガスメタルアーク溶接、ガスタングステンアーク溶接、その他）、材料別（鉄鋼・ステンレス、アルミニウム合金、チタン合金、その他）、シーン別（工具・治具、修理・再製造、その他）、アプリケーション別（航空宇宙産業、エネルギー産業、その他）の市場セグメントに関する詳細な要約が収録されており、それぞれの市場規模、CAGR、市場シェアのデータが含まれています」（https://newscast.jp/news/4594187）
+  - 「第3章には、ワイヤアーク積層造形ソリューション市場における主要プレーヤーの市場規模と市場シェア（収益、市場シェアの推移）、主要プレーヤーの拠点と提供製品、市場集中度分析（競争状況、CR3, CR5, CR10）、新規参入企業、M&Aや事業拡大に関する詳細な分析が示されています」（https://newscast.jp/news/4594187）
+  - 「第11章には、WAAM3D、Gefertec、ModuleWorks、MX3D、RAMLAB、FasTech、AML3D、Lincoln Electric、Voestalpine Böhler Welding、Keepsake Automation、Fronius、Addilan、SBI GmbH、Valk Weldingといった主要プレーヤー各社の企業情報、提供製品、収益、粗利益、市場シェア、主要事業概要、最新の動向に関する詳細な分析が提供されています」（https://newscast.jp/news/4594187）
+  - 「第2章には、エグゼクティブサマリーとして、世界のワイヤアーク積層造形ソリューション市場の概要（市場規模、地域別CAGR、国・地域別分析）、タイプ別（ガスメタルアーク溶接、ガスタングステンアーク溶接、その他）、材料別（鉄鋼・ステンレス、アルミニウム合金、チタン合金、その他）、シーン別（工具・治具、修理・再製造、その他）、アプリケーション別（航空宇宙産業、エネルギー産業、その他）の市場セグメントに関する詳細な要約が収録されており、それぞれの市場規模、CAGR、市場シェアのデータが含まれています」（https://www.atpress.ne.jp/news/4594187）
+  - 「第3章には、ワイヤアーク積層造形ソリューション市場における主要プレーヤーの市場規模と市場シェア（収益、市場シェアの推移）、主要プレーヤーの拠点と提供製品、市場集中度分析（競争状況、CR3, CR5, CR10）、新規参入企業、M&Aや事業拡大に関する詳細な分析が示されています」（https://www.atpress.ne.jp/news/4594187）
+  - 「第11章には、WAAM3D、Gefertec、ModuleWorks、MX3D、RAMLAB、FasTech、AML3D、Lincoln Electric、Voestalpine Böhler Welding、Keepsake Automation、Fronius、Addilan、SBI GmbH、Valk Weldingといった主要プレーヤー各社の企業情報、提供製品、収益、粗利益、市場シェア、主要事業概要、最新の動向に関する詳細な分析が提供されています」（https://www.atpress.ne.jp/news/4594187）
+  - 「Market Share (2025)」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Share of 2025 revenue」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The competitive chapter profiles 14 companies with business overview, product portfolio, recent developments and strategy, and ranks them by market share. Shares are in the report.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「17.2 Global Wire Arc Additive Manufacturing Market: Market Share Analysis, 2025」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Top regions by 2024 market share:」（https://www.reportprime.com/cored-wire-r160）
+  - 「2.3.1 Global Cored Wire Sales Market Share by Type (2017-2025)」（https://www.reportprime.com/cored-wire-r160）
+  - 「2.3.2 Global Cored Wire Revenue and Market Share by Type (2017-2025)」（https://www.reportprime.com/cored-wire-r160）
+  - 「2.5.1 Global Cored Wire Sale Market Share by Application (2020-2025)」（https://www.reportprime.com/cored-wire-r160）
+  - 「2.5.2 Global Cored Wire Revenue and Market Share by Application (2017-2025)」（https://www.reportprime.com/cored-wire-r160）
+- 投資：
+  - 「Investment from Valk Welding to expand MaxQ systems, 2025」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Invested in RAMLAB, 2025」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The US Navy, Electric Boat and Lincoln Electric announced funding for four SculptPrint 1500 WAAM cells in Cleveland.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「11.5 Investment Scenario」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Dataintelo research set the growth rate from AML3D revenue growth and order intake, US Navy Maritime Industrial Base funding, MMPDS acceptance of plasma arc titanium and new system launches, balanced against supplier losses and post-processing constraints.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The growth rate was validated through Dataintelo primary research with market participants and cross-checked against AML3D order intake, US Navy program funding and Norsk Titanium guidance changes.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Europe is on track to expand its cored wire market from around USD 0.64 billion in 2025 to nearly USD 0.87 billion by 2031, registering a steady 6.10% CAGR and absolute growth of roughly USD 0.23 billion. Decarbonisation drives, including stricter CO₂ regulations and funding for green steel pilots, are nudging producers toward higher-purity alloying solutions, significantly lifting wire uptake.」（https://www.reportprime.com/cored-wire-r160）
+  - 「As the demand for complex, lightweight components surges in sectors like aerospace, defense, and energy, the broader 3D printing materials market is seeing rapid investments in highly refined powders and polymers. However, feedstock economics often dictate the viability of an AM process for truly large parts.」（https://mx3d.com/why-waam-matters/）
+  - 「Investment in WAAM systems is driven by the potential for cost-effective large-scale component production, particularly in aerospace and automotive applications. Companies such as AML3D and Rosotics Inc. are attracting capital for R&D and scaling operations, aiming to expand market share from the current $786.04 million valuation.」（https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995）
+- 検索結果の抜粋：
+  - 「Why WAAM Matters: The Industrial Advantages of Wire Arc ... — Why WAAM Matters: The Industrial Advantages of Wire Arc ... MX3D https://mx3d.com > why-waam-matters」（https://mx3d.com/why-waam-matters/）
+  - 「WAAM 101 - Wire Arc Additive Manufacturing - RAMLAB — WAAM 101 - Wire Arc Additive Manufacturing - RAMLAB RAMLAB https://www.ramlab.com > waam-101」（https://www.ramlab.com/resources/waam-101/）
+  - 「WAAM3D secures funding to commercialise Wire -based ... — WAAM3D secures funding to commercialise Wire -based ... TCT Magazine https://www.tctmagazine.com > waam...」（https://www.tctmagazine.com/waam3d-funding-wire-based-additive-manufacturing/）
 
 ## 金属バインダージェット用粉末（binder jetting metal powder）
 - 文脈：金属AM

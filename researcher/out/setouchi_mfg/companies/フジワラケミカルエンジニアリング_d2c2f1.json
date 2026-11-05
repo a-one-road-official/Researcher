@@ -1,0 +1,739 @@
+{
+ "name": "フジワラケミカルエンジニアリング",
+ "aliases": [],
+ "context": "岡山県倉敷市／出典:タウンページ;県・市の企業ガイド／求人媒体:Indeed;doda;マイナビ転職／想定年収:未取得／従業員:45",
+ "researched_at": "2026-11-05T01:09:32.247260+00:00",
+ "official_url": "https://fuji-chemicaleng.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：平成元年9月",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　杉本 剛久",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "42人（2026年6月現在）",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,500万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "6億円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "製缶業、工業用プラスチック加工・機械加工・溶接組立・曲げ加工 プラスチック加工・溶接のプロフェッショナル プラスチック素材を対象に、機械加工、溶接・熱曲げ加工などの加工技術を駆使し、PVC被覆加工、半導体洗浄装置の筐体製作、液晶製造装置の付帯装置製作などを行っています。 私たちはプラスチックの特性と加工技術を駆使して、お客様のアイディアを形にするエンジニア集団です。 ★品質マネジメントシステムの国際規格「ISO 9001：2015」認証取得企業",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "岡山県倉敷市福江7-1",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用ページ": [
+   {
+    "quote": "採用情報 | 株式会社フジワラケミカルエンジニアリング",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/",
+    "pass": 1
+   },
+   {
+    "quote": "エントリーに必要な資格やスキルはありますか？",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/",
+    "pass": 1
+   },
+   {
+    "quote": "見学をご希望の方は、エントリーフォームやお電話にてご連絡ください",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用募集要項 | 株式会社フジワラケミカルエンジニアリング",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/new-graduate-information/",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項と採用ステップをお読みいただき、新卒採用の",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/new-graduate-information/",
+    "pass": 1
+   },
+   {
+    "quote": "ご応募を希望の方はエントリーフォームまたはお電話にてご連絡いただきますよう、お願いいたします",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/new-graduate-information/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用エントリー | 株式会社フジワラケミカルエンジニアリング",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/new-graduate-entry/",
+    "pass": 1
+   },
+   {
+    "quote": "エントリーは以下のフォームをご利用ください",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/new-graduate-entry/",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用募集要項 | 株式会社フジワラケミカルエンジニアリング",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/career-information/",
+    "pass": 1
+   },
+   {
+    "quote": "募集要項と採用ステップをお読みいただき、中途採用の",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/career-information/",
+    "pass": 1
+   },
+   {
+    "quote": "ご応募を希望の方はエントリーフォームまたはお電話にてご連絡いただきますよう、お願いいたします",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/career-information/",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用エントリー | 株式会社フジワラケミカルエンジニアリング",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/career-entry/",
+    "pass": 1
+   },
+   {
+    "quote": "エントリーは以下のフォームをご利用ください",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/career-entry/",
+    "pass": 1
+   },
+   {
+    "quote": "企業HP「採用情報」からもご覧いただけます",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "年1回（9月）、社員の成長と技術力に基づいて昇給を行います",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/",
+    "pass": 1
+   },
+   {
+    "quote": "年1回の決算賞与（業績に応じて支給）",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/new-graduate-information/",
+    "pass": 1
+   },
+   {
+    "quote": "年1回の決算賞与（業績に応じて支給）",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/career-information/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界で活躍【機械加工スタッフ】日勤のみ★賞与最大年3回",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "月給200,000円～250,000円 ＋ 諸手当",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "※試用期間3ヶ月あり：月給（基本給）200,000円+諸手当（通勤費のみ）",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年収356万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年収445万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年収530万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年収700万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給年1回（9月）",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与年2回（7月・12月／前年実績 平均3ヶ月分）",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "1,500万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年2回の賞与＋業績に応じた決算賞与を",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年収1,000万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "新入社員研修、若手社員研修（外部講座）",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/new-graduate-information/",
+    "pass": 1
+   },
+   {
+    "quote": "23歳の若手社員インタビューもぜひCheckを♪",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "【 未経験歓迎 】＼第二新卒者もぜひ！23歳若手のインタビューあり／ ◎高卒以上 ◎入社後1年間のメンター制度でサポート ★30代若手リーダーも活躍中",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "面接の際には、工場見学も行います",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/career-information/",
+    "pass": 1
+   },
+   {
+    "quote": "その後は先輩社員とマンツーマンで練習スタート",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "入社から1年間は、先輩社員1名が",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "23歳の若手社員インタビューもぜひCheckを♪",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.youtube.com/@chemicafujiwara",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.instagram.com/fujiwarachemical/",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "面接の際には、工場見学も行います",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/career-information/",
+    "pass": 1
+   },
+   {
+    "quote": "工場生産・製造（輸送用機器・家電・電子機器系）",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "【業績好調＆増員募集】売上10億円・50名体制へ拡大中",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "株式会社フジワラケミカルエンジニアリングの求人情報／倉敷から世界へ！半導体業界を支える【製造(組立・加工)】転勤無 (285635)／岡山県 | 転職・求人情報サイトのマイナビ転職【掲載終了】",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "「マイナビ転職」応募フォームよりご応募ください",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "お送りいただいたマイナビ転職の応募データをもとに書類選考いたします",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ転職では、サイトの継続的な改善や、ユーザーのみなさまに最適化された広告を配信すること等を目的に、Cookie等の「インフォマティブデータ」を利用しています",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 フジワラケミカルエンジニアリング の 求人 情報 — 株式会社 フジワラケミカルエンジニアリング の 求人 情報 マイナビ転職 https://tenshoku.mynavi.jp > jobinfo-285635-3-5-1",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 フジワラケミカルエンジニアリング のキャリア・企業 ... — 株式会社 フジワラケミカルエンジニアリング のキャリア・企業 ... Indeed https://jp.indeed.com > cmp > 株式会社フジワラケミカル...",
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 フジワラケミカルエンジニアリング の平均 年収 - doda — 株式会社 フジワラケミカルエンジニアリング の平均 年収 - doda doda https://doda.jp > CompanyIncome > j_id__10001367053",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10001367053/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用 募集 要項 - 株式会社フジワラケミカルエンジニアリング — 中途採用 募集 要項 - 株式会社フジワラケミカルエンジニアリング 株式会社フジワラケミカルエンジニアリング https://fuji-chemicaleng.co.jp > career-information",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/career-information/",
+    "pass": 3
+   },
+   {
+    "quote": "フジワラケミカルエンジニアリング の口コミ一覧 — フジワラケミカルエンジニアリング の口コミ一覧 エン カイシャの評判 https://en-hyouban.com > company > kuchikomi",
+    "url": "https://en-hyouban.com/company/10200026910/kuchikomi/",
+    "pass": 3
+   },
+   {
+    "quote": "フジワラケミカルエンジニアリング 新卒 高卒 の求人情報をすべて見る （136件） — フジワラケミカルエンジニアリング 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "中途 採用 募集要項 - 株式会社フジワラケミカルエンジニアリング — 中途 採用 募集要項 - 株式会社フジワラケミカルエンジニアリング 株式会社フジワラケミカルエンジニアリング https://fuji-chemicaleng.co.jp > career-information",
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/career-information/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 フジワラケミカルエンジニアリング の求人情報 — 株式会社 フジワラケミカルエンジニアリング の求人情報 マイナビ転職 https://tenshoku.mynavi.jp > jobinfo-285635-3-5-1",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "pass": 3
+   },
+   {
+    "quote": "5 件の 株式会社 フジワラケミカルエンジニアリング 求人 の求人 — 5 件の 株式会社 フジワラケミカルエンジニアリング 求人 の求人 Indeed https://jp.indeed.com > q-株式会社フジワラケミカルエンジ...",
+    "url": "https://jp.indeed.com/q-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0-%E6%B1%82%E4%BA%BA-%E6%B1%82%E4%BA%BA.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 フジワラケミカルエンジニアリング の過去求人情報 — 株式会社 フジワラケミカルエンジニアリング の過去求人情報 doda https://doda.jp > View > EndJobDetail > j_id__3005214893",
+    "url": "https://doda.jp/DodaFront/View/EndJobDetail/j_id__3005214893/",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"昨日のテレビ放送で フジワラケミカルエンジニアリング ... - X \"昨日のテレビ放送で フジワラケミカルエンジニアリング ... - X X https://x.com > @dairiki_uniform",
+    "url": "https://x.com/dairiki_uniform/status/2094983186048749894",
+    "pass": 3
+   },
+   {
+    "quote": "フジワラケミカルエンジニアリング (@fujiwarachemi) / X Feb 10 プラスチック円筒加工の基礎と現実：板曲げの限界を材料特性と数値から徹底解説 fuji-chemicaleng.co.jp プラスチック円筒加工の基礎と現実：板曲げの限界を材料特性と数値から徹底解説 | 株式会社フジワラケミカルエンジニアリング",
+    "url": "https://x.com/fujiwarachemi",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 フジワラケミカルエンジニアリング - Facebook 株式会社 フジワラケミカルエンジニアリング - Facebook Facebook https://www.facebook.com > ... > Plastic Manufacturer",
+    "url": "https://www.facebook.com/Fujichemicaleng/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://fuji-chemicaleng.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fuji-chemicaleng.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fuji-chemicaleng.co.jp/production-system/facility-overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fuji-chemicaleng.co.jp/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/new-graduate-information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/new-graduate-entry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/career-information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fuji-chemicaleng.co.jp/recruitment-information/career-entry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fuji-chemicaleng.co.jp/corporate/iso/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fuji-chemicaleng.co.jp/corporate/philosophy/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10001367053/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/dairiki_uniform/status/2094983186048749894",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fujiwarachemi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Fujichemicaleng/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "フジワラケミカルエンジニアリング 求人 年収",
+   "results": [
+    "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10001367053/",
+    "https://fuji-chemicaleng.co.jp/recruitment-information/career-information/",
+    "https://en-hyouban.com/company/10200026910/kuchikomi/",
+    "https://xn--pckua2a7gp15o89zb.com/jbi/a1d63add459ca28a9d501337c9534ec7",
+    "https://toranet.jp/viewjob/0e3dd26895ca29ec/",
+    "https://townwork.net/company/603685993/",
+    "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3303202076961&kJKbn=1&jGSHNo=SPgwUUN4775VbKz3f5q1qQ%3D%3D&fullPart=1&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=0",
+    "https://jp.indeed.com/cmp/株式会社フジワラケミカルエンジニアリング/salaries"
+   ]
+  },
+  {
+   "query": "フジワラケミカルエンジニアリング 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://fuji-chemicaleng.co.jp/recruitment-information/career-information/",
+    "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "https://jp.indeed.com/q-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%83%AF%E3%83%A9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0-%E6%B1%82%E4%BA%BA-%E6%B1%82%E4%BA%BA.html",
+    "https://doda.jp/DodaFront/View/EndJobDetail/j_id__3005214893/",
+    "https://fuji-chemicaleng.co.jp/recruitment-information/new-graduate-information/",
+    "https://toranet.jp/viewjob/0e3dd26895ca29ec/",
+    "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=3303202076961&kJKbn=1&jGSHNo=SPgwUUN4775VbKz3f5q1qQ%3D%3D&fullPart=1&iNFTeikyoRiyoDtiID=&kSNo=&newArrived=&tatZngy=1&shogaiKbn=0",
+    "https://townwork.net/company/603685993/",
+    "https://tenshoku.mynavi.jp/jobinfo-285635-3-6-1/"
+   ]
+  },
+  {
+   "query": "site:note.com フジワラケミカルエンジニアリング",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n9df2425cfa62",
+    "https://note.com/dr_kano/n/n1e2f294b8aea",
+    "https://note.com/warazi03/n/n8c020c2447bc",
+    "https://note.com/kabu_neko_nya/n/ncb7e31b57182",
+    "https://note.com/clipcorporation/n/n789dfc79b761",
+    "https://note.com/tsu2ura2/n/nb6f241dd1b17",
+    "https://note.com/clipcorporation/n/nf4ccab2cb9fe",
+    "https://note.com/clipcorporation/n/n07d5b7147ff6",
+    "https://note.com/clipcorporation/n/nd76fc846b538",
+    "https://note.com/clipcorporation/n/n1c9bfdb464b5"
+   ]
+  },
+  {
+   "query": "site:x.com フジワラケミカルエンジニアリング",
+   "results": [
+    "https://x.com/dairiki_uniform/status/2094983186048749894",
+    "https://x.com/sakana_tsuko",
+    "https://x.com/bijutsu1",
+    "https://x.com/fujiwarachemi",
+    "https://x.com/ho5341927556176/status/2084789724296950117",
+    "https://x.com/Liza_Shumska/status/2116512882599117191",
+    "https://x.com/KyosukeFujiwara",
+    "https://x.com/geekfujiwara",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/naoyafujiwara/status/2116028156952133723"
+   ]
+  },
+  {
+   "query": "site:linkedin.com フジワラケミカルエンジニアリング",
+   "results": [
+    "https://th.linkedin.com/in/acefujiwara",
+    "https://www.linkedin.com/pub/dir/Souya/+",
+    "https://www.linkedin.com/pub/dir/Fukuda/+",
+    "https://jp.linkedin.com/in/kenta-fujiwara-fujiken",
+    "https://www.linkedin.com/pub/dir/Keiichi/-pr-",
+    "https://jp.linkedin.com/in/ken-ichi-fujino-9346a410b",
+    "https://jp.linkedin.com/company/mcit-official",
+    "https://jp.linkedin.com/in/tomofumi-yabu-4901bb14b",
+    "https://jp.linkedin.com/in/nobuhiro-fujihara-47275170",
+    "https://jp.linkedin.com/in/shinji-k-50ab77170/ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com フジワラケミカルエンジニアリング",
+   "results": [
+    "https://www.facebook.com/Fujichemicaleng/",
+    "https://www.facebook.com/materialtechnical/posts/%E5%BA%83%E5%B3%B6%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6-%E5%90%8D%E8%AA%89%E6%95%99%E6%8E%88-%E5%B7%A5%E5%AD%A6%E5%8D%9A%E5%A3%AB%E4%B8%AD%E6%9D%91%E7%9C%81%E4%B8%89%E5%85%88%E7%94%9F%E3%81%AB%E3%82%88%E3%82%8B%E8%AC%9B%E7%BE%A9%E3%81%AE%E6%A7%98%E5%AD%90%E3%81%A7%E3%81%99%E6%9C%AC%E7%A4%BE%E7%A6%8F%E5%B1%B1%E3%81%A8%E3%82%82%E3%81%AB%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E5%AF%BE%E7%AD%96%E3%81%A8%E3%81%97%E3%81%A6%E5%BA%83%E3%81%84%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%81%AB%E4%BC%9A%E5%A0%B4%E3%82%92%E4%BD%9C%E3%82%8A%E8%AC%9B%E7%BE%A9%E3%82%92%E5%8F%97%E3%81%91%E3%81%BE%E3%81%97%E3%81%9F%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E8%81%B4%E3%81%8F%E5%8A%9B%E3%81%AB%E5%85%88/3955704087816666/",
+    "https://www.facebook.com/tominaga1959/posts/2024%E5%B9%B4%E4%BB%95%E4%BA%8B%E7%B4%8D%E3%82%81%E5%BC%8F%EF%B8%8F%E4%BB%8A%E5%B9%B4%E3%82%82%E4%BB%8A%E6%97%A5%E3%81%A7%E4%BB%95%E4%BA%8B%E7%B4%8D%E3%82%81%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F2025%E5%B9%B4%E3%81%AF16%E3%81%8B%E3%82%89%E3%81%AE%E6%93%8D%E6%A5%AD%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%EF%B8%8F%E6%9D%A5%E5%B9%B4%E3%82%82%E3%81%A9%E3%81%86%E3%81%9E%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E8%87%B4%E3%81%97%E3%81%BE%E3%81%99%E3%83%88%E3%83%9F%E3%83%8A%E3%82%AC%E3%83%88%E3%83%9F%E3%83%8D%E3%82%B3%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E4%BC%81/612941874643794/",
+    "https://www.facebook.com/materialtechnical/videos/nc%E6%97%8B%E7%9B%A4%E5%88%87%E7%B2%89%E5%87%A6%E7%90%86/150000769374984/",
+    "https://www.facebook.com/eneos.jp/posts/%E5%BD%93%E7%A4%BE%E3%81%8A%E3%82%88%E3%81%B3%E4%B8%89%E8%8F%B1%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AF2021%E5%B9%B47%E6%9C%88%E3%82%88%E3%82%8A%E4%B8%89%E8%8F%B1%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E8%8C%A8%E5%9F%8E%E4%BA%8B%E6%A5%AD%E6%89%80%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%A5%9E%E6%A0%96%E5%B8%82%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E6%B2%B9%E5%8C%96%E4%BA%8B%E6%A5%AD%E9%96%8B%E5%A7%8B%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6%E5%BB%BA%E8%A8%AD%E3%82%92%E9%80%B2%E3%82%81%E3%81%A6%E3%81%84%E3%81%9F%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E8%A8%AD/1042716744643222/",
+    "https://www.facebook.com/oijapan/videos/jasis-%E3%82%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A5%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%84-%E3%81%AF%EF%BC%99%E6%9C%88%EF%BC%92%E6%97%A5%E6%B0%B4%E3%81%8B%E3%82%89%E5%B9%95%E5%BC%B5%E3%83%A1%E3%83%83%E3%82%BB%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B-jasis%E3%81%AB%E5%8F%82%E5%8A%A0%E8%87%B4%E3%81%97%E3%81%BE%E3%81%99%E4%BB%8A%E5%B9%B4%E3%81%AE%E7%9B%AE%E7%8E%89%E3%81%AFmems%E3%81%8C%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F%E6%96%B0%E3%81%9F%E3%81%AA%E3%83%8A%E3%83%8E%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AF/1379299811037250/",
+    "https://www.facebook.com/tominaga1959/videos/%E3%83%86%E3%83%AC%E3%83%93%E5%8F%96%E6%9D%90%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%EF%B8%8F%E5%A5%BD%E3%81%8D%E7%A9%8D%E3%82%82%E3%82%8B%E9%AB%98%E7%9F%A5%E3%81%A8%E3%81%84%E3%81%86%E3%81%84%E3%81%8D%E3%81%84%E3%81%8D%E3%81%A8%E6%9A%AE%E3%82%89%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E9%AB%98%E7%9F%A5%E7%9C%8C%E6%B0%91%E3%82%92%E5%8F%96%E3%82%8A%E4%B8%8A%E3%81%92%E3%81%A6%E5%87%BA%E6%BC%94%E8%80%85%E3%81%AE%E6%9A%AE%E3%82%89%E3%81%97%E3%82%84%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E9%83%BD%E5%B8%82%E9%83%A8%E3%81%A8%E3%81%AF%E9%81%95%E3%81%A3%E3%81%9F%E9%AB%98%E7%9F%A5%E3%81%A7%E6%9A%AE%E3%82%89%E3%81%99%E3%81%93%E3%81%A8%E3%81%AE%E9%AD%85%E5%8A%9B/731741956162050/",
+    "https://www.facebook.com/100057451719569/posts/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%9E%E3%83%81%E3%82%AF%E3%83%9E%E3%83%A2%E3%83%88-%E3%82%AC%E3%83%A9%E3%83%9D%E3%83%B3%E6%8A%BD%E9%81%B8%E4%BC%9A%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B1024%E5%9C%9F1025%E6%97%A5%E6%9C%9F%E9%96%93%E4%B8%AD%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%9E%E3%83%81%E3%82%AF%E3%83%9E%E3%83%A2%E3%83%88%E3%81%A7%E3%81%AE%E3%81%8A%E8%B2%B7%E3%81%84%E4%B8%8A%E3%81%923000%E5%86%86%E7%A8%8E%E8%BE%BC%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E5%90%88%E7%AE%97%E5%8F%AF%E3%81%94%E3%81%A8%E3%81%AB1%E5%9B%9E%E6%8A%BD%E9%81%B8%E3%81%AB%E3%81%94%E5%8F%82%E5%8A%A0%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91/1603471521577890/",
+    "https://www.facebook.com/k0in0b0ri/posts/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E3%82%AA%E3%83%BC%E3%83%90%E3%83%A4%E3%82%B7%E3%81%A7%E3%81%99%E6%9C%AC%E6%97%A5%E3%82%AA%E3%83%BC%E3%83%90%E3%83%A4%E3%82%B7%E3%81%8A%E4%BC%91%E3%81%BF%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%A6%E3%81%BE%E3%81%97%E3%81%9F%EF%B8%8F%E6%9D%A5%E9%80%B1%E3%81%8B%E3%82%89%E3%82%82%E3%81%BE%E3%81%9F%E3%81%93%E3%81%84%E3%81%AE%E3%81%BC%E3%82%8A%E3%81%A7%E3%81%8A%E5%BE%85%E3%81%A1%E3%81%97%E3%81%A6%E3%81%BE%E3%81%99%E9%99%A2%E9%95%B7%E8%B5%B0%E3%82%8B%E3%81%AE%E7%B6%9A%E3%81%91%E3%82%89%E3%82%8C%E3%81%A6%E3%81%A6%E3%81%99%E3%81%94%E3%81%84tel-0822375/1610554984415794/",
+    "https://www.facebook.com/oijapan/videos/q-%E5%85%B1%E7%84%A6%E7%82%B9%E9%A1%95%E5%BE%AE%E9%8F%A1%E3%81%AF%E3%81%A9%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%E3%81%AE%E6%B7%B1%E3%81%95%E3%81%BE%E3%81%A7%E6%92%AE%E5%BD%B1%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B/1209324869829086/?locale=ms_MY"
+   ]
+  },
+  {
+   "query": "フジワラケミカルエンジニアリング note 社長",
+   "results": [
+    "https://fuji-chemicaleng.co.jp/corporate/message/",
+    "https://tenshoku.mynavi.jp/jobinfo-285635-3-5-1/",
+    "https://www.instagram.com/p/DUPICFaE6MM/",
+    "https://www.pref.okayama.jp/site/micro/643648.html",
+    "https://archive.otex-online.jp/cms/storage/uploads/174/panel/1/pdf/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E7%94%A8PDF.pdf",
+    "https://www.openwork.jp/company.php?m_id=a0C1000001M24Lm",
+    "https://xn--pckua2a7gp15o89zb.com/jbi/a1d63add459ca28a9d501337c9534ec7",
+    "https://cnavi.g-search.or.jp/detail/4260001014606.html",
+    "https://note.com/visavis_visit/n/nb174584fb516"
+   ]
+  },
+  {
+   "query": "フジワラケミカルエンジニアリング X 投稿",
+   "results": [
+    "https://fuji-chemicaleng.co.jp/",
+    "https://mono.ipros.com/company/detail/2093731/",
+    "https://jgoodtech.smrj.go.jp/corp/info/JC0000000048459?preview=false&createdLocale=ja_JP",
+    "https://www.instagram.com/fujiwarachemical/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000001M24Lm",
+    "https://www.pref.okayama.jp/site/micro/643648.html",
+    "https://archive.otex-online.jp/cms/storage/uploads/174/panel/1/pdf/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E7%94%A8PDF.pdf",
+    "https://expo.semi.org/japan2026/Public/eBooth.aspx?IndexInList=185&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=705919&Nav=False",
+    "https://fuji-chemicaleng.co.jp/news/",
+    "https://x.com/fujiwarachemi"
+   ]
+  }
+ ],
+ "missing": {
+  "主要取引先": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部8頁・検索8回）"
+ }
+}

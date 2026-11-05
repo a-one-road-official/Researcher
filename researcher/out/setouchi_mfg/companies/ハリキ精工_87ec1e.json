@@ -1,0 +1,799 @@
+{
+ "name": "ハリキ精工",
+ "aliases": [],
+ "context": "岡山県津山市／出典:タウンページ;県・市の企業ガイド／求人媒体:Indeed;doda;自社採用ページ／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T01:08:18.567051+00:00",
+ "official_url": "https://www.hariki.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創立",
+    "value": "創立：1952年(昭和27年)3月",
+    "url": "https://www.hariki.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：1934年",
+    "url": "https://en-hyouban.com/company/10105757389/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1952年3月",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "6,000万円",
+    "url": "https://www.hariki.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "60百万円",
+    "url": "https://en-hyouban.com/company/10105757389/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "6,000万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒537-0012　大阪府大阪市東成区大今里３丁目26番17号",
+    "url": "https://www.hariki.co.jp/recruit/career/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒708-1514　岡山県久米郡美咲町藤田上111番地",
+    "url": "https://www.hariki.co.jp/recruit/career/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "大阪府大阪市東成区大今里3丁目26番17号",
+    "url": "https://en-hyouban.com/company/10105757389/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒537-0012 大阪府大阪市東成区大今里3-26-17",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "81名",
+    "url": "https://en-hyouban.com/company/10105757389/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "132名",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "榛木竜",
+    "url": "https://en-hyouban.com/company/10105757389/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "精密切削部品製造・工業用ファスナー（ねじ類）の販売",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用ページ": [
+   {
+    "quote": "【中途採用】新たに３職種（検品・出荷業務担当、営業職、技術職）の募集を開始しました",
+    "url": "https://www.hariki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "グローバルインターンシップ生を受け入れました",
+    "url": "https://www.hariki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "入社後は基本的に先輩社員とのOJT研修を行い業務を覚えていきます",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "ベトナム工場がデンソーベトナム様より「特別協力賞」を受賞",
+    "url": "https://www.hariki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ベトナム工場がデンソーベトナム様、デンソーメキシコ様より表彰いただきました",
+    "url": "https://www.hariki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "主力の精密切削部品について、技術的なご相談、ご要望は自社の岡山工場・ベトナム工場のほか、協力工場とも連携し、単品から量産まで幅広く、速やかに課題解決にあたらせていただきます",
+    "url": "https://www.hariki.co.jp/company/access-2/",
+    "pass": 1
+   },
+   {
+    "quote": "岡山工場は、品質/環境/医療機器マネジメントシステムの国際規格であるISO9001/ISO14001/ISO13485の認証取得工場です",
+    "url": "https://www.hariki.co.jp/company/access-2/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルに展開する当社初の海外自社生産拠点として2002年11月に産声を上げました",
+    "url": "https://www.hariki.co.jp/company/access-2/",
+    "pass": 1
+   },
+   {
+    "quote": "海外の販売拠点という機能と同時に流通の拠点という機能を合わせ持ち、ベトナムを中心に東南アジアで製造された製品を世界に向けて発信しています",
+    "url": "https://www.hariki.co.jp/company/access-2/",
+    "pass": 1
+   },
+   {
+    "quote": "タイは、自動車をはじめとした各産業の一大生産拠点となってます",
+    "url": "https://www.hariki.co.jp/company/access-2/",
+    "pass": 1
+   },
+   {
+    "quote": "これに対応すべく、よりお客様に近い所に営業拠点を設け、迅速な行動力で新規開拓を強力に推進しています",
+    "url": "https://www.hariki.co.jp/company/access-2/",
+    "pass": 1
+   },
+   {
+    "quote": "営業・工場からメッセージ – ハリキ精工株式会社",
+    "url": "https://www.hariki.co.jp/company/from-factory/",
+    "pass": 1
+   },
+   {
+    "quote": "高校卒業後、ハリキ精工 岡山工場に入社し、製造2課に配属されました",
+    "url": "https://www.hariki.co.jp/recruit/hariki_face-2/",
+    "pass": 1
+   },
+   {
+    "quote": "オーダーメイドの金属部品等を商材としたBtoB営業（既存取引先営業が中心）",
+    "url": "https://www.hariki.co.jp/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO9001認証取得（2005年4月25日）、ISO14001認証取得（2001年10月17日）、ISO13485認証取得（2012年8月29日）岡山工場において取得致しました",
+    "url": "https://www.hariki.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "岡山工場は品質／環境マネジメントシステムの国際基準であるISO9001/ISO14001/ISO13485の認証取得工場です",
+    "url": "https://www.hariki.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "岡山県英田郡美作町に、岡山第1工場竣工",
+    "url": "https://www.hariki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "岡山県久米郡柵原町に、岡山第2工場竣工",
+    "url": "https://www.hariki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001 岡山工場において認証取得",
+    "url": "https://www.hariki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ベトナムに現地法人（工場）「HARIKI PRECISION VIETNAM CO.,LTD.」創業",
+    "url": "https://www.hariki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO9001 岡山工場において認証取得",
+    "url": "https://www.hariki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "TS16949／ISO9001ベトナム工場において認証取得",
+    "url": "https://www.hariki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業許可証 岡山工場において認証取得",
+    "url": "https://www.hariki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第2種医療機器製造販売業 岡山工場において許可取得",
+    "url": "https://www.hariki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO13485 岡山工場において認証取得",
+    "url": "https://www.hariki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "6,000万円",
+    "url": "https://www.hariki.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "昇給年1回（4月）、賞与年2回（7月、12月）",
+    "url": "https://www.hariki.co.jp/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "ハリキ精工株式会社で働く社員や元社員が投稿した、給与・年収、勤務時間、休日・休暇、面接などの評判・口コミを8件掲載中",
+    "url": "https://en-hyouban.com/company/10105757389/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/10105757389/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:基本給が低く手当にて見れる給...",
+    "url": "https://en-hyouban.com/company/10105757389/",
+    "pass": 3
+   },
+   {
+    "quote": ":契約社員でしたが、賞与が年２回ありました",
+    "url": "https://en-hyouban.com/company/10105757389/",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "330万～400万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "月給 220,000円～280,000円（一律手当含む）",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "※経験やスキル、前職の給与を考慮し決定します",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "初年度年収は、入社後向こう一年間に支給される予定の金額で、基本給に諸手当と前年度の標準的な査定ベースの賞与額を加えたものです",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "初年度年収は、入社される方のスキルや経験によって必ずしも一定ではありませんので、検索した年収額と実際に入社した際の金額は異なる場合があります",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "330万円～400万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給：年1回（4月）",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与：年2回（7月・12月)",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "6,000万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "年収1,000万円",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "現在、カーボンニュートラルの実現や高齢化社会への対応など、持続可能な社会の構築が世界的な課題となる中、ものづくり製造業の果たすべき役割はますます大きくなって来ていると感じます",
+    "url": "https://www.hariki.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ハリキ精工 株式会社 の 求人 ・中途採用情報 - doda — ハリキ精工 株式会社 の 求人 ・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10007418038",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007418038/",
+    "pass": 3
+   },
+   {
+    "quote": "ハリキ精工 「社員クチコミ」 就職・転職の採用企業リサーチ ... — ハリキ精工 「社員クチコミ」 就職・転職の採用企業リサーチ ... OpenWork https://www.openwork.jp > company",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000qamY6",
+    "pass": 3
+   },
+   {
+    "quote": "ハリキ精工 株式会社の評判・口コミ - エン カイシャの評判 — ハリキ精工 株式会社の評判・口コミ - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company",
+    "url": "https://en-hyouban.com/company/10105757389/",
+    "pass": 3
+   },
+   {
+    "quote": "ハリキ精工 株式会社の 求人 情報 - マイナビ転職 — ハリキ精工 株式会社の 求人 情報 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > ... > ハリキ精工株式会社",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-3-1/",
+    "pass": 3
+   },
+   {
+    "quote": "ハリキ精工 の転職・採用情報｜社員口コミでわかる【転職会議】 — ハリキ精工 の転職・採用情報｜社員口コミでわかる【転職会議】 転職会議 https://jobtalk.jp > companies",
+    "url": "https://jobtalk.jp/companies/76968",
+    "pass": 3
+   },
+   {
+    "quote": "ハリキ精工 新卒 高卒 の求人情報をすべて見る （136件） — ハリキ精工 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 - ハリキ精工株式会社 — 新卒採用 - ハリキ精工株式会社 ハリキ精工株式会社 https://www.hariki.co.jp > recruit > new",
+    "url": "https://www.hariki.co.jp/recruit/new/",
+    "pass": 3
+   },
+   {
+    "quote": "ハリキ精工 株式会社の求人情報 - マイナビ転職 — ハリキ精工 株式会社の求人情報 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > ... > ハリキ精工株式会社",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "ハリキ精工 の 新卒採用 ・就職・企業情報 - 就活会議 — ハリキ精工 の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > companies",
+    "url": "https://syukatsu-kaigi.jp/companies/33861",
+    "pass": 3
+   },
+   {
+    "quote": "ハリキ精工 「社員クチコミ」 就職・転職の 採用 企業リサーチ ... — ハリキ精工 「社員クチコミ」 就職・転職の 採用 企業リサーチ ... OpenWork https://www.openwork.jp > company",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000qamY6",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "求人媒体": [
+   {
+    "quote": "ハリキ精工株式会社の求人情報／金属切削加工部品の【法人営業】◆大阪勤務 (421390)／大阪府 | 転職・求人情報サイトのマイナビ転職【掲載終了】",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "本求人はマイナビ転職の応募フォームでのみ受け付けます",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "本求人は、株式会社マイナビが運営する",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "「マイナビ転職キャリアパートナー」による人材紹介案件です",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "※個人情報について「マイナビ転職キャリアパートナー個人情報の取り扱いについて」に同意いただき、",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ転職キャリアパートナー内 ハリキ精工株式会社採用事務局",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "上記は、株式会社マイナビ（マイナビ転職キャリアパートナー）内／ハリキ精工株式会社採用事務局の所在地です",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ転職では、サイトの継続的な改善や、ユーザーのみなさまに最適化された広告を配信すること等を目的に、Cookie等の「インフォマティブデータ」を利用しています",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "※オプトアウトをした場合、マイナビ転職の一部サービスを利用できない場合があります",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Ryo HARIKI - ハリキ精工 株式会社 - 代表取締役社長 | LinkedIn Ryo HARIKI - ハリキ精工 株式会社 - 代表取締役社長 | LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/ryo-hariki-437b3a7b",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hariki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hariki.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hariki.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hariki.co.jp/company/access-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hariki.co.jp/company/from-factory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hariki.co.jp/recruit/hariki_face-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hariki.co.jp/recruit/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hariki.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hariki.co.jp/company/greeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hariki.co.jp/company/access-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hariki.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hariki.co.jp/company/from-factory/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.hariki.co.jp/wp/wp-content/themes/hariki/img/recruit/recruit_main.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hariki.co.jp/wp/wp-content/uploads/2018/09/recruit_img03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hariki.co.jp/wp/wp-content/uploads/2018/09/recruit_img02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007418038/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000qamY6",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en-hyouban.com/company/10105757389/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/ryo-hariki-437b3a7b",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ハリキ精工 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007418038/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000qamY6",
+    "https://en-hyouban.com/company/10105757389/",
+    "https://tenshoku.mynavi.jp/jobinfo-421390-5-3-1/",
+    "https://jobtalk.jp/companies/76968",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__10007418038/",
+    "https://www.hariki.co.jp/recruit/career/",
+    "https://www.capla-tensyoku.jp/job/20231013-34679",
+    "https://employment.en-japan.com/comp-90814/",
+    "https://jp.indeed.com/cmp/ハリキ精工株式会社/salaries"
+   ]
+  },
+  {
+   "query": "ハリキ精工 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%83%8F%E3%83%AA%E3%82%AD%E7%B2%BE%E5%B7%A5+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.hariki.co.jp/recruit/new/",
+    "https://tenshoku.mynavi.jp/jobinfo-421390-5-1-1/",
+    "https://syukatsu-kaigi.jp/companies/33861",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000qamY6",
+    "https://miraiyu-career.com/tanex/job/job89013/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007418038/",
+    "https://www.hariki.co.jp/recruit/",
+    "https://www.capla-tensyoku.jp/job/20231013-34679",
+    "https://employment.en-japan.com/comp-90814/"
+   ]
+  },
+  {
+   "query": "site:note.com ハリキ精工",
+   "results": [
+    "https://note.com/",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/takuzona",
+    "https://note.com/2011tango_rika/n/n83c2337ae9ad",
+    "https://tales.note.com/",
+    "https://note.com/kouki319/n/n14276352bf66",
+    "https://note.com/001903/n/n21d20baa95b1"
+   ]
+  },
+  {
+   "query": "site:x.com ハリキ精工",
+   "results": [
+    "https://x.com/",
+    "https://x.com/harima_mold",
+    "https://x.com/adrnvic/status/2116339042962833541",
+    "https://x.com/chillestwoman/status/2116669325868400644",
+    "https://x.com/evadentz/status/2115896420809216184",
+    "https://x.com/abdulbasitaka/status/2115913589441843427",
+    "https://x.com/lovergrl2002/status/2114215220327678069"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ハリキ精工",
+   "results": [
+    "https://jp.linkedin.com/in/ryo-hariki-437b3a7b",
+    "https://au.linkedin.com/in/monica-dayao",
+    "https://jp.linkedin.com/in/jason-swick-5aaa441bb",
+    "https://jp.linkedin.com/in/kazuhiro-imai-265083164",
+    "https://jp.linkedin.com/in/eiji-hayashi-ab8706188",
+    "https://www.linkedin.com/in/diego-sarabia-654409353",
+    "https://www.linkedin.com/",
+    "https://in.linkedin.com/in/ashutosh-ranka-a9896394",
+    "https://www.linkedin.com/in/jacob-fong/ja",
+    "https://hu.linkedin.com/in/judit-csenge-vizi"
+   ]
+  },
+  {
+   "query": "site:facebook.com ハリキ精工",
+   "results": [
+    "https://www.facebook.com/ryo.hariki/",
+    "https://www.facebook.com/tsuyamabiz/posts/%E4%BC%9A%E5%93%A1%E4%BC%81%E6%A5%AD-%E7%9B%B8%E4%BA%92%E8%A8%AA%E5%95%8F%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%A4%E5%92%8C7%E5%B9%B410%E6%9C%8816%E6%97%A5%E6%B4%A5%E5%B1%B1%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%E3%83%A1%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%A7%E3%81%AF%E4%BC%9A%E5%93%A1%E4%BC%81%E6%A5%AD%E5%90%8C%E5%A3%AB%E3%81%AE%E7%90%86%E8%A7%A3%E3%81%A8%E9%80%A3%E6%90%BA%E3%82%92%E6%B7%B1%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E7%9B%AE%E7%9A%84%E3%81%AB%E4%BC%9A%E5%93%A1%E4%BC%81%E6%A5%AD%E7%9B%B8%E4%BA%92%E8%A8%AA%E5%95%8F%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/1221216366703520/",
+    "https://www.facebook.com/ikoma.rb/posts/%E6%B4%A5%E5%B1%B1%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%E3%83%A1%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%AE%E4%BC%9A%E5%93%A1%E4%BC%81%E6%A5%AD%E3%81%AE%E7%9B%B8%E4%BA%92%E8%A8%AA%E5%95%8F%E3%81%AB%E4%B8%89%E5%8A%A0%E5%B7%A5%E5%A0%B4%E9%95%B7%E3%81%A8%E4%BF%9D%E7%94%B0%E3%81%8C%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%96%E7%A4%BE%E3%81%95%E3%82%93%E3%81%AE%E8%A6%8B%E5%AD%A6%E3%81%AF%E8%87%AA%E7%A4%BE%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8B%E8%89%AF%E3%81%84%E6%A9%9F%E4%BC%9A%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E4%BB%8A%E5%BE%8C%E3%82%82%E6%A7%98%E3%80%85%E3%81%AA%E4%BC%81%E6%A5%AD%E3%81%95%E3%82%93%E3%81%A8%E4%BA%A4%E6%B5%81/1377606424368537/",
+    "https://ja-jp.facebook.com/public/Shingo-Morihiro",
+    "https://www.facebook.com/HARIKISEIKO/",
+    "https://www.facebook.com/ハリキ精工-336453059717415/",
+    "https://www.facebook.com/people/ハリキ-精工/100055180062533/",
+    "https://www.facebook.com/ハリキ精工株式会社-297183017004933/",
+    "https://www.facebook.com/HARIKISEIKO/posts/以下のurlはハリキ精工株式会社の公式ホームページですhttpwwwharikicojp/234311503333094/",
+    "https://www.facebook.com/ハリキ精工株式会社岡山工場-108785818723733/"
+   ]
+  },
+  {
+   "query": "ハリキ精工 note 社長",
+   "results": [
+    "https://www.hariki.co.jp/company/",
+    "https://www.pref.okayama.jp/site/micro/600510.html",
+    "https://syukatsu-kaigi.jp/companies/33861/match",
+    "https://note.com/mobio_osaka/n/n692073b17d68",
+    "https://www.hariki.co.jp/company/history/",
+    "https://tenshoku.mynavi.jp/company/421390/",
+    "https://www.buffett-code.com/company/71f3psxb5k/",
+    "https://note.com/tatsuya_sabato/n/n3072de1d9ff4",
+    "https://www.openwork.jp/a0C1000000qamY6/compa/a0C1000000poaJq/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "ハリキ精工 X 投稿",
+   "results": [
+    "https://www.hariki.co.jp/",
+    "https://syukatsu-kaigi.jp/companies/33861",
+    "https://www.pref.okayama.jp/site/micro/600510.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000qamY6",
+    "https://x.com/NSK_PR_JP",
+    "https://www.fact-link.com.vn/home/harikiprecision/",
+    "https://www.tsuyama-ct.ac.jp/torikumi/kokusai/hariki.html",
+    "https://www.hariki.co.jp/%E6%9C%AC%E7%A4%BE%E6%96%B0%E7%A4%BE%E5%B1%8B%E7%AB%A3%E5%B7%A5%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "https://syukatsu-kaigi.jp/companies/33861/word_mouths",
+    "https://www.hariki.co.jp/category/news/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部6頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部6頁・検索8回）"
+ }
+}

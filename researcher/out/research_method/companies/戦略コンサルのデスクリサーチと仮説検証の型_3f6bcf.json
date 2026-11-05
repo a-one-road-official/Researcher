@@ -1,0 +1,1226 @@
+{
+ "name": "戦略コンサルのデスクリサーチと仮説検証の型",
+ "en": "strategy consultant desk research hypothesis method",
+ "aliases": [
+  "戦略コンサル デスクリサーチ 型",
+  "コンサル リサーチ 新人 研修",
+  "McKinsey desk research approach"
+ ],
+ "context": "凄腕・型",
+ "kind": "market",
+ "researched_at": "2026-11-05T00:43:39.111430+00:00",
+ "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "記事検索では、記載されるファクトと、それが語られている視点に注意する必要があります",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "設計観点の整理：戦略コンサルAI導入で陥りやすい3大落とし穴",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "落とし穴1：守秘義務×Engagement Letter×AIクライアント情報の処理",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "落とし穴2：グローバルコンサルAI×Big3/Big4×EU AI Act×越境データ",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "落とし穴3：中国拠点コンサルAI×PIPL/大模型備案",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは、守秘義務・グローバルAI×越境データ・中国拠点×PIPLの3観点で落とし穴を整理します",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AI活用の落とし穴は、",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "リサーチは経営戦略に近しい場に従事する戦略コンサルタントの主業務の一つであり、市場環境の調査・競合サービスの調査・最新事例の調査を行うことで、戦略策定に必要なファクトを整理しています",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なので、今回は、戦略コンサルタントが実施する「リサーチの基本やまとめ方」について、実例を交えて紹介しようと思います",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上記にも述べた通り、戦略策定のためには「市場環境の調査・競合サービスの調査・最新事例の調査」等を行います",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場レポートの検索）・エキスパートインタビュー・アンケート・現地調査などがありますが、今回は主にデスクリサーチに主軸にして、その基本的な考え方を実例交えて紹介します",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「中国の飲食店市場を調べて欲しい」というリサーチ依頼があった場合、中国市場に参入したい・中国市場にて新規取引先を見つけたい・中国市場における先進事例を知りたい等の意図が想定され、これらの目的によって調査項目が大きく変動します",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これが曖昧だとクライアントの納得感を失い、リサーチ結果を基にした討議が滞ってしまいます",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチの実施において、リサーチ結果の納得感は、「情報が多いほど良いわけではなく、提案内容の方針によっても大きく変わる」ことを意識する必要があります",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「電気自動車の市場規模」を調査する際は、「電気自動車・",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、リサーチ依頼者に対して、そのファクトがどう影響するのかをフラットに見る必要があります",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アウトプットの作成では、調査事例をまとめたサマリースライド、個別事例をまとめた個票を作成することが多いです",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "スライド作成術でも一つの記事が書ける程にノウハウがあるため割愛しますが、アウトプットイメージについては、後述する実例を参考にしてください",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは、調査項目やそのアウトプットの実例を紹介し、リサーチの流れを再確認したいと思います",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を活用したメディア・エンターテインメント領域における新規事業の創出を目指している」ものとし、その一端であるベンチマーク調査の事例を紹介します",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を活用したメディア・エンターテインメント領域における新規事業の創出」を狙う際に、有益となり得るベンチマーク事例を収集します",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "活用事例なので、情報の在り処としては、国内外問わず通信キャリアやゲーム制作会社における取り組みが多いことが予想されます",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：先進事例（国内外のベストプラクティス）の調査・分析",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：収集した情報と分析結果から、クライアントの課題に対する仮説を構築",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：LLMが分析結果からスライド構成案・本文のドラフトを自動生成",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：AIが過去プロジェクトや公開事例から関連するベストプラクティスを自動検索",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "収集した情報と分析結果から、クライアントの課題に対する解決策の仮説を立て、追加調査・分析で検証するプロセスです",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチの高速化（DeepResearch等）、定量モデルの自動構築、報告書ドラフトの自動生成、ベンチマーク事例の自動検索、議事録の自動作成などがAIで効率化できます",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "近頃の業務において、生成AIによる深掘り型リサーチ（Deepresearch）の精度とスピードには日々驚かされます",
+    "url": "https://note.com/tom_mba/n/n0ee295df2f32",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "労働集約型モデルが成立しなくなった場合、フィーベースの再設計が必要",
+    "url": "https://note.com/tom_mba/n/n0ee295df2f32",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "マネタイズ方法等の技術関連・ビジネス関連の情報も必要になります",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "商用、マネタイズ方法、使用技術、提供価値）",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査・リサーチの成果を最大化する方法｜現役コンサルタントが語るプロフェッショナルの極意(2)",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "落とし穴3：中国拠点コンサルAI×PIPL/大模型備案",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：3C、SWOT、バリューチェーン、5Forces等のフレームワークを活用した構造化分析",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フレームワークの使い分け判断（「この問題にはどのフレームワークが有効か」の判断力）",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：会議の結論とアクションアイテムを明確にし、次のステップを確定",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中国拠点コンサルティング活用では、個人情報保護法（PIPL 2021年11月施行）・データセキュリティ法（2021年9月施行）・データ越境規制（2024年3月公布・施行の「促進和規範数据跨境流动规定」）・網信弁「生成式人工智能服务管理暂行办法」（2023年8月15日施行）の大模型備案要件・反外国制裁法・技術輸出管理条例が論点化します",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対策として、中国拠点コンサルAIは現地完結型で中国国内データセンター完結、日本本社への情報共有は匿名化・集約化レポート、備案の対象となる場合はその状況をベンダーに確認する設計が有効とされています",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ペーパーレス化の進め方｜中小企業のための導入ステップとツール選定ガイド【2026年版】",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AI導入ROI測定とは？生成AIの投資対効果・PoC評価フレームワーク・企業のAI価値実証ガイド【2026年版】",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "renueは自社開発のAIツールを自社運用する「自社実証型」AIコンサルティングファームです",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場調査・情報収集、仮説構築・分析（イシューツリー・フレームワーク活用）、報告書・プレゼン資料の作成、ワークショップのファシリテーション、実行支援・チェンジマネジメントの5つが主要業務です",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "イシューツリーで問いを構造化し、フレームワークで分析を体系化します",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "主に、業界・機能横断のナレッジ基盤、AIによる支援を活用したリサーチ・モデリング・報告書ドラフト、SRE／プラットフォームエンジニアリングとの連携（ナレッジ基盤・LLMOps）、AIエージェントによる仮説検証・データ分析、AgentOps、ChatOpsによるクライアント連絡、データガバナンス（クライアント情報の守秘・利益相反）、外部AIパートナー（リサーチベンダー）との連携、社員教育（戦略フレームワーク・財務リテラシー・AIリテラシー）、案件品質管理、KPIモニタリング（プロジェクト価値・顧客満足度・実行率）、PDCAサイクル、です",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "renueのAI支援実績、コンサルティングの方針や進め方をご紹介します",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "● 2. 仮説構築の「たたき台」",
+    "url": "https://note.com/tom_mba/n/n0ee295df2f32",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして最終的には、**「仮説力」「判断力」「提案力」**こそが生き残る力になる",
+    "url": "https://note.com/tom_mba/n/n0ee295df2f32",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチ目的の確認においては、クライアントのニーズに正しく応えるためにも、リサーチを行う背景やリサーチの意味 （＝検証すべき論点）と、求められる情報の粒度を正しく理解する必要があります",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのため、プロジェクトを通して検証すべき論点や、その中で重要性の高い論点を特定し、適切な調査項目を設定することが重要です",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサルティングファームの戦略コンサルタントの業務内容｜市場調査から仮説構築・報告書作成まで徹底解説 | 株式会社renue",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサルティングファームの戦略コンサルタントの業務内容｜市場調査から仮説構築・報告書作成まで徹底解説",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサルティングファームの戦略コンサルタントの業務内容｜市場調査から仮説構築・報告書作成まで徹底解説【2026年版】",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業務2：仮説構築・分析",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クライアント企業の中長期経営戦略、新規事業立案、M&A戦略、コスト構造改革等のテーマについて、市場調査→仮説構築→検証→報告書作成→実行支援までのプロジェクトサイクルを数週間〜数ヶ月で回します",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、戦略コンサルタントの主要業務（市場調査・情報収集、仮説構築・分析、報告書・プレゼン資料の作成、クライアントワークショップ、実行支援・チェンジマネジメント）を具体的に解説します",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：収集した情報と分析結果から、クライアントの課題に対する仮説を構築",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：財務モデル、市場規模推計、感応度分析等の定量分析",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「筋の良い仮説」の構築（データの裏にある因果関係を見抜く洞察力は経験に依存）",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：AIが財務データから市場規模推計・感応度分析のモデルを自動構築",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサルティングファームの戦略コンサルタントは、市場調査・情報収集、仮説構築・分析、報告書作成、ワークショップ運営、実行支援の5つの業務で構成されています",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「筋の良い仮説」の構築、エキスパートインタビュー、ストーリーラインの構成、ワークショップのファシリテーション、チェンジマネジメントは、AIが材料整理などを補助しても、最終判断や対人調整で人の洞察力と対人力が中心となる領域",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場調査・情報収集、仮説構築・分析（イシューツリー・フレームワーク活用）、報告書・プレゼン資料の作成、ワークショップのファシリテーション、実行支援・チェンジマネジメントの5つが主要業務です",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "収集した情報と分析結果から、クライアントの課題に対する解決策の仮説を立て、追加調査・分析で検証するプロセスです",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説構築の最終判断やファシリテーションでの対人調整は、AIが材料整理を補助しても人が担う役割が大きい領域です",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "・有価証券報告書等を通して、「調査に必要な前提知識」をインプットすることが重要です",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索・文献検索・記事検索や公的・民間調査レポートを活用する際は、以下のようなことに留意することが有用です",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的調査や民間調査レポートは、素早く市場の全体像を把握する際に有用です",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：公開情報（業界レポート、統計データ、IR資料、ニュース記事等）を網羅的に収集・分析（出典：",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：業界有識者、元業界幹部等への電話・対面インタビューによる一次情報の収集",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：財務データ、市場規模データ、顧客データ等の統計分析",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/masakikono/n/n21d47d81468f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shoeisha_bizit/n/n431d1b79446f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/masakikono/n/n0f7faa03a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ryo_ai_career/n/ndb6cb07d13b9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tom_mba/n/n0ee295df2f32",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/stmn_hr/n/nde5155a98539",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/apple_ringo/n/n05969dd52c74",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/apple_ringo/n/n2b669aa8fa05",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consulnote.com/tags/%E4%BB%AE%E8%AA%AC%E6%A4%9C%E8%A8%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tsunobuchi/n/n14a67db1074a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.concord-career.com/dictionary/hypothesis-thinking/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ey.com/ja_jp/insights/consulting/how-experiment-led-strategy-leads-to-action",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sairu.co.jp/service/consulting/newbusiness/hypothesis-verification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proffit.jp/column/1/NDiCG2x5",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sevendex.com/post/16304/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachiconsulting.co.jp/solution/ai_robot/research/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consul-data-bank.com/insight/5868/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tiglon-partners.com/knowledge/a10bb00000055sdyaa/21453/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itmedia.co.jp/im/articles/0507/27/news116.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dear_rat4207/n/nca6faaa7ae68",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://constep.jp/column/2106",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consultant.reinforz.co.jp/4575",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theanalystacademy.com/strategy-hypothesis-driven-approach/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://betterhumans.pub/problem-solving-for-anyone-how-to-use-hypotheses-like-top-strategy-consultants-a2419fe60010",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/timvipond_hypothesis-based-strategy-development-the-activity-7300891104613122048-5E9-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.scribd.com/document/312590759/Using-Hypothesis-Driven-Thinking-in-Strategy-Consulting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axiomstrategic.com/blog/mckinsey-starts-with-a-hypothesis-should-you",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestar.io/definitions/hypothesis-driven",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "戦略コンサルのデスクリサーチと仮説検証の型 site:note.com",
+   "results": [
+    "https://note.com/masakikono/n/n21d47d81468f",
+    "https://note.com/shoeisha_bizit/n/n431d1b79446f",
+    "https://note.com/masakikono/n/n0f7faa03a113",
+    "https://note.com/ryo_ai_career/n/ndb6cb07d13b9",
+    "https://note.com/tom_mba/n/n0ee295df2f32",
+    "https://note.com/stmn_hr/n/nde5155a98539",
+    "https://note.com/olp2017/n/n579a85a2ff8b",
+    "https://note.com/umarketing/n/n0214659e65ec",
+    "https://note.com/holy_iguana5367/n/n05f14b6b649c",
+    "https://note.com/sukoburu_salad/n/ned74e695c056"
+   ]
+  },
+  {
+   "query": "戦略コンサルのデスクリサーチと仮説検証の型 note",
+   "results": [
+    "https://note.com/apple_ringo/n/n05969dd52c74",
+    "https://note.com/apple_ringo/n/n2b669aa8fa05",
+    "https://note.com/masakikono/n/n21d47d81468f",
+    "https://www.consulnote.com/tags/%E4%BB%AE%E8%AA%AC%E6%A4%9C%E8%A8%BC/",
+    "https://note.com/tsunobuchi/n/n14a67db1074a",
+    "https://www.concord-career.com/dictionary/hypothesis-thinking/",
+    "https://www.ey.com/ja_jp/insights/consulting/how-experiment-led-strategy-leads-to-action",
+    "https://note.com/brave_quince241/n/n90eb278dbec7",
+    "https://note.com/dear_rat4207/n/nca6faaa7ae68",
+    "https://note.com/pathfinders01/n/nddf629565473"
+   ]
+  },
+  {
+   "query": "戦略コンサルのデスクリサーチと仮説検証の型 やり方",
+   "results": [
+    "https://note.com/masakikono/n/n21d47d81468f",
+    "https://www.concord-career.com/dictionary/hypothesis-thinking/",
+    "https://sairu.co.jp/service/consulting/newbusiness/hypothesis-verification/",
+    "https://proffit.jp/column/1/NDiCG2x5",
+    "https://www.youtube.com/watch?v=f6W4d87TYLA",
+    "https://sevendex.com/post/16304/",
+    "https://www.ey.com/ja_jp/insights/consulting/how-experiment-led-strategy-leads-to-action",
+    "https://www.arts-crafts.co.jp/post-16243/",
+    "https://www.hitachiconsulting.co.jp/solution/ai_robot/research/index.html",
+    "https://consul-data-bank.com/insight/5868/"
+   ]
+  },
+  {
+   "query": "戦略コンサルのデスクリサーチと仮説検証の型 事例",
+   "results": [
+    "https://sairu.co.jp/service/consulting/newbusiness/hypothesis-verification/",
+    "https://www.ey.com/ja_jp/insights/consulting/how-experiment-led-strategy-leads-to-action",
+    "https://www.concord-career.com/dictionary/hypothesis-thinking/",
+    "https://proffit.jp/column/1/NDiCG2x5",
+    "https://www.hitachiconsulting.co.jp/solution/ai_robot/research/index.html",
+    "https://www.tiglon-partners.com/knowledge/a10bb00000055sdyaa/21453/",
+    "https://www.arts-crafts.co.jp/post-16243/",
+    "https://www.itmedia.co.jp/im/articles/0507/27/news116.html",
+    "https://sevendex.com/post/16304/",
+    "https://consul-data-bank.com/insight/5868/"
+   ]
+  },
+  {
+   "query": "strategy consultant desk research hypothesis method",
+   "results": [
+    "https://www.theanalystacademy.com/strategy-hypothesis-driven-approach/",
+    "https://betterhumans.pub/problem-solving-for-anyone-how-to-use-hypotheses-like-top-strategy-consultants-a2419fe60010",
+    "https://www.linkedin.com/posts/timvipond_hypothesis-based-strategy-development-the-activity-7300891104613122048-5E9-",
+    "https://www.scribd.com/document/312590759/Using-Hypothesis-Driven-Thinking-in-Strategy-Consulting",
+    "https://www.axiomstrategic.com/blog/mckinsey-starts-with-a-hypothesis-should-you",
+    "https://www.casestar.io/definitions/hypothesis-driven",
+    "https://www.preplounge.com/en/case-interview-basics/the-role-of-the-hypothesis-in-consulting",
+    "https://highbridgeacademy.com/what-is-hypothesis-driven-thinking-and-why-it-matters-at-work/",
+    "https://www.stratechi.com/hypotheses/",
+    "https://www.scribd.com/document/910728431/S1-1-Using-Hypothesis-driven-Thinking-in-Strategy-Consulting-SF-BP-0486"
+   ]
+  },
+  {
+   "query": "site:note.com 戦略コンサルのデスクリサーチと仮説検証の型",
+   "results": [
+    "https://note.com/masakikono/n/n21d47d81468f",
+    "https://note.com/shoeisha_bizit/n/n431d1b79446f",
+    "https://note.com/masakikono/n/n0f7faa03a113",
+    "https://note.com/ryo_ai_career/n/ndb6cb07d13b9",
+    "https://note.com/tom_mba/n/n0ee295df2f32",
+    "https://note.com/stmn_hr/n/nde5155a98539",
+    "https://note.com/olp2017/n/n579a85a2ff8b",
+    "https://note.com/umarketing/n/n0214659e65ec",
+    "https://note.com/holy_iguana5367/n/n05f14b6b649c",
+    "https://note.com/sukoburu_salad/n/ned74e695c056"
+   ]
+  },
+  {
+   "query": "site:x.com 戦略コンサルのデスクリサーチと仮説検証の型",
+   "results": [
+    "https://x.com/NewsPicksBDT",
+    "https://x.com/ai_jitan/status/2070615064831545515",
+    "https://x.com/note_ai_mousigo/article/2056343925393420757",
+    "https://x.com/LaboroAI",
+    "https://x.com/luigi_jpn/article/2053781063978344899",
+    "https://x.com/kansoukahi",
+    "https://x.com/hirokima2moto",
+    "https://x.com/245editor",
+    "https://x.com/cinamorollerxxx",
+    "https://x.com/taiiilichii"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 戦略コンサルのデスクリサーチと仮説検証の型",
+   "results": [
+    "https://jp.linkedin.com/in/%E5%8D%93%E4%B9%9F-%E5%B9%B3%E5%B2%A1-821156330",
+    "https://nl.linkedin.com/in/kaori-kato",
+    "https://jp.linkedin.com/in/rie-nakajima-9a7868370",
+    "https://jp.linkedin.com/in/baijyunhsiao",
+    "https://jp.linkedin.com/in/jumpei-nishinaka-730271274",
+    "https://jp.linkedin.com/in/377756aa",
+    "https://jp.linkedin.com/in/%E8%8F%AF%E4%BB%A3-%E7%8C%AA%E5%8F%A3-208263207",
+    "https://jp.linkedin.com/in/hirokuni-kanki/ja",
+    "https://jp.linkedin.com/in/%E6%86%B2%E5%A4%AA-%E5%85%90%E5%B6%8B-27145690",
+    "https://jp.linkedin.com/in/hwkmt"
+   ]
+  },
+  {
+   "query": "site:facebook.com 戦略コンサルのデスクリサーチと仮説検証の型",
+   "results": [
+    "https://www.facebook.com/pages/It%E3%83%97%E3%83%AD%E3%83%9E%E3%83%83%E3%83%81%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/987854894580882/",
+    "https://www.facebook.com/ArtsAndCraftsCompany/posts/コンサル流リサーチにおける考え方httpswwwarts-craftscojppost-16243目次リサーチの重要性リサーチ方法デスクリサーチの紹介-①リサー/522319403235838/",
+    "https://www.facebook.com/LinkersCorporation/posts/記事公開新規事業の立ち上げリスクを最小化仮説検証型経営で成功確率を高める実務手法この度新規事業の成功確率を高める仮説検証型経営の実務手法についてインテグラート株/1377960487455315/",
+    "https://www.facebook.com/jmcaav/videos/鈴木敏文の仮説と検証の経営社長のmimigakuミミガク耳学サンプル映像/945420594005716/",
+    "https://www.facebook.com/business.research.lab/posts/セミナーレポート公開組織サーベイ成否の鍵は仮説にある-効果的な仮説構築のポイント2023年5月に開催したオンラインセミナー組織サーベイ成否の鍵は仮説にある-効果/778583307606087/",
+    "https://www.facebook.com/visasq/posts/新規事業の検証がうまくいかない原因の多くは誰に聞くかの設計不足にあります30社の担当者が実践した検証プロセスを完全公開顧客ニーズの深掘りaiツールの仮説検証海外/1560998239363086/",
+    "https://www.facebook.com/sekigakusha/posts/1からのマーケティング分析代表的なリサーチデザインとは-本章ではリサーチデザインは探索的リサーチと検証的リサーチのふたつを仮説があるかどうかで区別したもう少し厳/550775231721721/",
+    "https://www.facebook.com/MeijiU.LIBERTY.ACADEMY/photos/世界的にも評価の高いスタンフォード大学が推奨するデザイン思考による顧客分析の手法を中心に仮説検証型のビジネスアプローチをご紹介します詳細お申し込みはこちらhtt/1280657057331296/"
+   ]
+  },
+  {
+   "query": "戦略コンサルのデスクリサーチと仮説検証の型 note 社長",
+   "results": [
+    "https://note.com/apple_ringo/n/n05969dd52c74",
+    "https://note.com/apple_ringo/n/n2b669aa8fa05",
+    "https://www.consulnote.com/tags/%E4%BB%AE%E8%AA%AC%E6%A4%9C%E8%A8%BC/",
+    "https://note.com/masakikono/n/n21d47d81468f",
+    "https://note.com/apple_ringo/n/n5c99f6cb4959",
+    "https://www.concord-career.com/dictionary/hypothesis-thinking/",
+    "https://note.rallygrowth.co.jp/recommend/consultant-research/",
+    "https://sairu.co.jp/service/consulting/newbusiness/hypothesis-verification/",
+    "https://note.com/dear_rat4207/n/nca6faaa7ae68",
+    "https://note.com/gomaengineer/n/nf0782f7d7838"
+   ]
+  },
+  {
+   "query": "戦略コンサルのデスクリサーチと仮説検証の型 X 投稿",
+   "results": [
+    "https://sevendex.com/post/16304/",
+    "https://sairu.co.jp/service/consulting/newbusiness/hypothesis-verification/",
+    "https://www.concord-career.com/dictionary/hypothesis-thinking/",
+    "https://www.ey.com/ja_jp/insights/consulting/how-experiment-led-strategy-leads-to-action",
+    "https://www.hitachiconsulting.co.jp/solution/ai_robot/research/index.html",
+    "https://www.tiglon-partners.com/knowledge/a10bb00000055sdyaa/21453/",
+    "https://www.itmedia.co.jp/im/articles/0507/27/news116.html",
+    "https://globis.jp/article/dic_0hy6sx1pz/",
+    "https://x.com/ai_research_jp",
+    "https://note.com/dear_rat4207/n/nca6faaa7ae68"
+   ]
+  },
+  {
+   "query": "strategy consultant desk research hypothesis method site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/deep-research-vs-mckinsey-balanced-view-andres-naranjo-villamizar-qbydc",
+    "https://ca.linkedin.com/jobs/view/associate-consultant-strategy-3-at-ipsos-in-canada-4467619676",
+    "https://www.linkedin.com/posts/khizer-abbas_rip-mckinsey-you-dont-need-a-300k-consultant-activity-7340729466823872513-gs-N",
+    "https://www.linkedin.com/in/lauramboyce",
+    "https://www.linkedin.com/posts/drnaureenaleem_how-to-develop-a-strong-research-hypothesis-activity-7371013597763710976-swoz",
+    "https://www.linkedin.com/pulse/problem-solving-approach-consulting-applied-part-3-saad-chaudhry",
+    "https://au.linkedin.com/in/abhiram-ashok",
+    "https://in.linkedin.com/jobs/view/primary-market-research-consultant-at-iqvia-4449148144",
+    "https://www.linkedin.com/in/ianapencina",
+    "https://www.linkedin.com/jobs/view/consultant-phd-campus-hire-at-kx-advisors-4436346276"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "失敗・落とし穴": [
+   {
+    "quote": "記事検索では、記載されるファクトと、それが語られている視点に注意する必要があります",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "設計観点の整理：戦略コンサルAI導入で陥りやすい3大落とし穴",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "落とし穴1：守秘義務×Engagement Letter×AIクライアント情報の処理",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "落とし穴2：グローバルコンサルAI×Big3/Big4×EU AI Act×越境データ",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "落とし穴3：中国拠点コンサルAI×PIPL/大模型備案",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは、守秘義務・グローバルAI×越境データ・中国拠点×PIPLの3観点で落とし穴を整理します",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AI活用の落とし穴は、",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "リサーチは経営戦略に近しい場に従事する戦略コンサルタントの主業務の一つであり、市場環境の調査・競合サービスの調査・最新事例の調査を行うことで、戦略策定に必要なファクトを整理しています",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なので、今回は、戦略コンサルタントが実施する「リサーチの基本やまとめ方」について、実例を交えて紹介しようと思います",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上記にも述べた通り、戦略策定のためには「市場環境の調査・競合サービスの調査・最新事例の調査」等を行います",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場レポートの検索）・エキスパートインタビュー・アンケート・現地調査などがありますが、今回は主にデスクリサーチに主軸にして、その基本的な考え方を実例交えて紹介します",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「中国の飲食店市場を調べて欲しい」というリサーチ依頼があった場合、中国市場に参入したい・中国市場にて新規取引先を見つけたい・中国市場における先進事例を知りたい等の意図が想定され、これらの目的によって調査項目が大きく変動します",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これが曖昧だとクライアントの納得感を失い、リサーチ結果を基にした討議が滞ってしまいます",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチの実施において、リサーチ結果の納得感は、「情報が多いほど良いわけではなく、提案内容の方針によっても大きく変わる」ことを意識する必要があります",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「電気自動車の市場規模」を調査する際は、「電気自動車・",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、リサーチ依頼者に対して、そのファクトがどう影響するのかをフラットに見る必要があります",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アウトプットの作成では、調査事例をまとめたサマリースライド、個別事例をまとめた個票を作成することが多いです",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "スライド作成術でも一つの記事が書ける程にノウハウがあるため割愛しますが、アウトプットイメージについては、後述する実例を参考にしてください",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは、調査項目やそのアウトプットの実例を紹介し、リサーチの流れを再確認したいと思います",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を活用したメディア・エンターテインメント領域における新規事業の創出を目指している」ものとし、その一端であるベンチマーク調査の事例を紹介します",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を活用したメディア・エンターテインメント領域における新規事業の創出」を狙う際に、有益となり得るベンチマーク事例を収集します",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "活用事例なので、情報の在り処としては、国内外問わず通信キャリアやゲーム制作会社における取り組みが多いことが予想されます",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：先進事例（国内外のベストプラクティス）の調査・分析",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：収集した情報と分析結果から、クライアントの課題に対する仮説を構築",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：LLMが分析結果からスライド構成案・本文のドラフトを自動生成",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：AIが過去プロジェクトや公開事例から関連するベストプラクティスを自動検索",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "収集した情報と分析結果から、クライアントの課題に対する解決策の仮説を立て、追加調査・分析で検証するプロセスです",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "デスクリサーチの高速化（DeepResearch等）、定量モデルの自動構築、報告書ドラフトの自動生成、ベンチマーク事例の自動検索、議事録の自動作成などがAIで効率化できます",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "近頃の業務において、生成AIによる深掘り型リサーチ（Deepresearch）の精度とスピードには日々驚かされます",
+    "url": "https://note.com/tom_mba/n/n0ee295df2f32",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "労働集約型モデルが成立しなくなった場合、フィーベースの再設計が必要",
+    "url": "https://note.com/tom_mba/n/n0ee295df2f32",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "マネタイズ方法等の技術関連・ビジネス関連の情報も必要になります",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "商用、マネタイズ方法、使用技術、提供価値）",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査・リサーチの成果を最大化する方法｜現役コンサルタントが語るプロフェッショナルの極意(2)",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "落とし穴3：中国拠点コンサルAI×PIPL/大模型備案",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：3C、SWOT、バリューチェーン、5Forces等のフレームワークを活用した構造化分析",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フレームワークの使い分け判断（「この問題にはどのフレームワークが有効か」の判断力）",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：会議の結論とアクションアイテムを明確にし、次のステップを確定",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中国拠点コンサルティング活用では、個人情報保護法（PIPL 2021年11月施行）・データセキュリティ法（2021年9月施行）・データ越境規制（2024年3月公布・施行の「促進和規範数据跨境流动规定」）・網信弁「生成式人工智能服务管理暂行办法」（2023年8月15日施行）の大模型備案要件・反外国制裁法・技術輸出管理条例が論点化します",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対策として、中国拠点コンサルAIは現地完結型で中国国内データセンター完結、日本本社への情報共有は匿名化・集約化レポート、備案の対象となる場合はその状況をベンダーに確認する設計が有効とされています",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ペーパーレス化の進め方｜中小企業のための導入ステップとツール選定ガイド【2026年版】",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AI導入ROI測定とは？生成AIの投資対効果・PoC評価フレームワーク・企業のAI価値実証ガイド【2026年版】",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "renueは自社開発のAIツールを自社運用する「自社実証型」AIコンサルティングファームです",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場調査・情報収集、仮説構築・分析（イシューツリー・フレームワーク活用）、報告書・プレゼン資料の作成、ワークショップのファシリテーション、実行支援・チェンジマネジメントの5つが主要業務です",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "イシューツリーで問いを構造化し、フレームワークで分析を体系化します",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "主に、業界・機能横断のナレッジ基盤、AIによる支援を活用したリサーチ・モデリング・報告書ドラフト、SRE／プラットフォームエンジニアリングとの連携（ナレッジ基盤・LLMOps）、AIエージェントによる仮説検証・データ分析、AgentOps、ChatOpsによるクライアント連絡、データガバナンス（クライアント情報の守秘・利益相反）、外部AIパートナー（リサーチベンダー）との連携、社員教育（戦略フレームワーク・財務リテラシー・AIリテラシー）、案件品質管理、KPIモニタリング（プロジェクト価値・顧客満足度・実行率）、PDCAサイクル、です",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "renueのAI支援実績、コンサルティングの方針や進め方をご紹介します",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "● 2. 仮説構築の「たたき台」",
+    "url": "https://note.com/tom_mba/n/n0ee295df2f32",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして最終的には、**「仮説力」「判断力」「提案力」**こそが生き残る力になる",
+    "url": "https://note.com/tom_mba/n/n0ee295df2f32",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "リサーチ目的の確認においては、クライアントのニーズに正しく応えるためにも、リサーチを行う背景やリサーチの意味 （＝検証すべき論点）と、求められる情報の粒度を正しく理解する必要があります",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのため、プロジェクトを通して検証すべき論点や、その中で重要性の高い論点を特定し、適切な調査項目を設定することが重要です",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサルティングファームの戦略コンサルタントの業務内容｜市場調査から仮説構築・報告書作成まで徹底解説 | 株式会社renue",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサルティングファームの戦略コンサルタントの業務内容｜市場調査から仮説構築・報告書作成まで徹底解説",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサルティングファームの戦略コンサルタントの業務内容｜市場調査から仮説構築・報告書作成まで徹底解説【2026年版】",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業務2：仮説構築・分析",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "クライアント企業の中長期経営戦略、新規事業立案、M&A戦略、コスト構造改革等のテーマについて、市場調査→仮説構築→検証→報告書作成→実行支援までのプロジェクトサイクルを数週間〜数ヶ月で回します",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、戦略コンサルタントの主要業務（市場調査・情報収集、仮説構築・分析、報告書・プレゼン資料の作成、クライアントワークショップ、実行支援・チェンジマネジメント）を具体的に解説します",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：収集した情報と分析結果から、クライアントの課題に対する仮説を構築",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：財務モデル、市場規模推計、感応度分析等の定量分析",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「筋の良い仮説」の構築（データの裏にある因果関係を見抜く洞察力は経験に依存）",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：AIが財務データから市場規模推計・感応度分析のモデルを自動構築",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コンサルティングファームの戦略コンサルタントは、市場調査・情報収集、仮説構築・分析、報告書作成、ワークショップ運営、実行支援の5つの業務で構成されています",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「筋の良い仮説」の構築、エキスパートインタビュー、ストーリーラインの構成、ワークショップのファシリテーション、チェンジマネジメントは、AIが材料整理などを補助しても、最終判断や対人調整で人の洞察力と対人力が中心となる領域",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "市場調査・情報収集、仮説構築・分析（イシューツリー・フレームワーク活用）、報告書・プレゼン資料の作成、ワークショップのファシリテーション、実行支援・チェンジマネジメントの5つが主要業務です",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "収集した情報と分析結果から、クライアントの課題に対する解決策の仮説を立て、追加調査・分析で検証するプロセスです",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説構築の最終判断やファシリテーションでの対人調整は、AIが材料整理を補助しても人が担う役割が大きい領域です",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "・有価証券報告書等を通して、「調査に必要な前提知識」をインプットすることが重要です",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索・文献検索・記事検索や公的・民間調査レポートを活用する際は、以下のようなことに留意することが有用です",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的調査や民間調査レポートは、素早く市場の全体像を把握する際に有用です",
+    "url": "https://www.arts-crafts.co.jp/post-16243/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：公開情報（業界レポート、統計データ、IR資料、ニュース記事等）を網羅的に収集・分析（出典：",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：業界有識者、元業界幹部等への電話・対面インタビューによる一次情報の収集",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：財務データ、市場規模データ、顧客データ等の統計分析",
+    "url": "https://renue.co.jp/posts/consulting-strategy-department-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-05T00:43:39.111430+00:00"
+}

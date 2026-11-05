@@ -1,0 +1,1391 @@
+{
+ "name": "テラル",
+ "aliases": [],
+ "context": "広島県福山市／出典:大学・高専の企業説明会;県・市の企業ガイド／求人媒体:Indeed;doda／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T01:06:54.065525+00:00",
+ "official_url": "https://www.teral.net/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "広島県福山市御幸町森脇230番地 [MAP]",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "広島県福山市御幸町大字森脇230番地",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：大正7年8月",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：昭和25年4月14日",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：1918年",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 菅田 博文",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "菅田博文",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "7,800万円",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "78百万円",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ポンプ 送風機 給水装置 ろ過装置 生ゴミ処理システム 全熱交換器 防災機器 環境関連機器 その他関連機器の製造・販売 環境関連設備工事",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "992名 ／ グループ全体2,100名",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "798名",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "422億円 (2025年度)",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "連結売上高",
+    "value": "595億円 (2025年度)",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/",
+    "pass": 1
+   },
+   {
+    "quote": "大規模商業施設、地下駐車場、地下鉄駅構内や工場の換気用の大型ファンから厨房用の小型ファン、また産業機器に組込むセットファンまで、さまざまなタイプを用意しています",
+    "url": "https://www.teral.net/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/product/",
+    "pass": 1
+   },
+   {
+    "quote": "大規模商業施設、地下駐車場、地下鉄駅構内や工場の換気用の大型ファンから厨房用の小型ファン、また産業機器に組込むセットファンまで、さまざまなタイプを用意しています",
+    "url": "https://www.teral.net/product/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点 ＆ 国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/products/search/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/product/maintenance_p1/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ventilation/",
+    "pass": 1
+   },
+   {
+    "quote": "化粧品原料製造工場の排水処理施設棟内の排ガス処理装置による臭気対策",
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ventilation/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工工場の全体換気による溶接ヒューム対策",
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ventilation/",
+    "pass": 1
+   },
+   {
+    "quote": "40℃以上の作業場の熱気を排出させながら、工場内に風の流れをつくり、体感温度を下げ涼感を得られた",
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ventilation/",
+    "pass": 1
+   },
+   {
+    "quote": "大型溶接工場の全体換気による溶接ヒューム対策",
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ventilation/",
+    "pass": 1
+   },
+   {
+    "quote": "大型溶接作業場で溶接ヒューム発生個所が広範囲の為、溶接ヒュームが工場内に広がってしまう問題を誘引ファンの気流を使った換気で解決した",
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ventilation/",
+    "pass": 1
+   },
+   {
+    "quote": "金属加工工場の暑熱対策として誘引ファンを設置",
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ventilation/",
+    "pass": 1
+   },
+   {
+    "quote": "多量の熱気や蒸気が発生し、熱が滞留するクリーニング工場",
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ventilation/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ac/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "422億円 (2025年度)",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "595億円 (2025年度)",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点 ＆ 国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "工場を福山市沖野上町（現光南町）に移転拡張",
+    "url": "https://www.teral.net/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中小企業庁より合理化モデル工場として指定を受ける",
+    "url": "https://www.teral.net/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "業界随一の規模と最新設備を誇る近代工場を完成",
+    "url": "https://www.teral.net/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "TERAL THAI CO,LTD、アユタヤ新工場完成",
+    "url": "https://www.teral.net/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "泰拉尓通用機械（上海）有限公司の新工場完成",
+    "url": "https://www.teral.net/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点 ＆ 国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/news_product/",
+    "pass": 1
+   },
+   {
+    "quote": "国内拠点・国内グループ会社・海外グループ会社",
+    "url": "https://www.teral.net/news_recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "※支店管轄内での異動転勤あり 【変更の範囲：会社の定める業務】 ＜お任せするお仕事＞ ▼取引先への定期訪問 約9割のお客様が既存のお客様です",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "納期が短い時も、納入が数か月後になる時もあるため、その案件の規模に寄り添った対応を行ないましょう",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "※支店管轄内での異動転勤ありhttps://www.teral.net/corporate/network_j/#net_8 【変更の範囲：会社の定める業務】 ＜お任せするお仕事＞ ▼取引先への定期訪問 約9割のお客様が既存のお客様です",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "※支店管轄内での異動転勤ありhttps://www.teral.net/corporate/network_j/#net_3 【変更の範囲：会社の定める業務】 ＜お任せするお仕事＞ ▼取引先への定期訪問 約9割のお客様が既存のお客様です",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "※支店管轄内での異動転勤ありhttps://www.teral.net/corporate/network_j/#net_10 【変更の範囲：会社の定める業務】 ＜お任せするお仕事＞ ▼取引先への定期訪問 約9割のお客様が既存のお客様です",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "※支店管轄内での異動転勤ありhttps://www.teral.net/corporate/network_j/#net_7 【変更の範囲：会社の定める業務】 ＜お任せするお仕事＞ ▼取引先への定期訪問 約9割のお客様が既存のお客様です",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "あなたには、工場やプラント、セットメーカーを中心に、客先の設備❨機械❩に組み込むポンプや送風機、工場やプラントに設置する大型製品の成約に向けた提案・交渉をお任せします",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "■顧客対応 ・製品のPRプレゼンテーション ・製品仕様の打ち合わせ ・製品の試運転 ・納入現場の現状確認 主には、製品仕様の打合せに出向きます",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "【技術】テラルクリタ（株式会社） 北本工場勤務／送風機の特注設計業務／年間休日123日／業界トップクラス",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "＜配属先の編成＞ ◎テラルクリタ 北本工場 技術部（計10名） 1.北本工場 └20代：女性1名/30代、男性：1名/40代：男性1名、女性3名/50代：男性2名、女性：1名60代:男性1名 本ポジションの魅力 ポンプや送風機はライフラインを支える大切な商品です",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "※担当エリア：関東圏 ※東京支社（東京都文京区）・関西支店（大阪市）での異動転勤あり 【変更の範囲：会社の定める業務】 ＜業務内容詳細＞ ・納入仕様書及び完成図書作成 ・工事実行予算書作成 ・注文書及び注文請書作成 ・施工計画書・施工要領書作成 ・施工図及び竣工図作成 ・申請書作成（ディスポーザ） ・業者及び機器手配 ・現場立会（安全管理、原価管理、工程管理、品質管理） ・検査立会（現場調査） ※上記に関する全ての打合業務 ※土曜日の出勤が2ヶ月に１～２日程度あります",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "（平日振休または代休） ※分業制としていますので、取引先の折衝や現地調査・工程計画・積算見積書の作成などは、社内の「技術営業」が担当します",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "仕事内容 福山本社工場内での送風機組立に使用する部品のピッキング作業をお任せします",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "【変更の範囲：会社の定める業務】 ＜入社後の流れ＞ まずは工場内のルールを学んでいただき、入社研修で必要なトレーニング（安全教育トレーニング、ISO品質及び環境システムトレーニング、各種社内認定資格トレーニング、配属先作業内容に関わる基礎知識～作業手順のトレーニングなど）を受けたあと、ライン作業教育に入っていただきOJTで実践的なスキルを習得していきます",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "＜配属先の編成＞ 福山本社工場のスタッフは200名以上",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "【品質管理】 ・不適合の未然防止活動 ⇒工場内監査、外注監査（国内・国外） ・不適合の再発防止活動 ⇒不適合の監視、分析、フィードバック、対策の支援、対策状況の維持確認 ・新規取引先の評価 ⇒品質監査 ・新製品開発時の工程評価 ⇒試作",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "■1名当たりの担当業務数 工場内監査では、製造部を対象に標準ドキュメントに基づいた監査を実施しています",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "・その後、工場内監査や外注監査に関するルール・ドキュメントを理解し、監査業務に必要な知識を習得していただきます",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "・工場内監査、外注監査などの各種監査 ・不適後の監視 ・分析資料の作成 など 入社後は、不適合品の内容をもとに、関係部署と連携しながら原因や発生状況を確認する業務から担当していただきます",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "その後は、OJTを通じて工場内監査や国内・海外のサプライヤー監査にも携わり、品質管理業務の幅を広げていただきます",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "＜業務内容＞ ・代表電話対応 ・カタログなどの印刷物管理、工場見学用備品の準備などの広報サポート ・個人車通勤管理・IDカード管理 ・社用車・複合機などの動産管理 ・所有・賃貸物件などの不動産管理・損害保険／火災保険等手続き業務（加入・解約・更新等） ・固定電話・携帯電話・放送設備の管理 ・健康診断の手配 ・社内行事・イベントの運営補助 ・年末調整など繁忙期の業務サポート ・その他総務／庶務業務 など ＼会社の「当たり前」を支え、社員が安心して仕事に取り組める環境をつくる仕事です／ ＜入社後の流れ＞ 経験に応じて業務をお任せします",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "メインの取引先は地元のカヤバ可児工場や川重各務原工場のほか、遠方だとボッシュ・レックスロス土浦工場やアマダ富士宮工場など、全国から大物部品の加工依頼が集まる",
+    "url": "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "pass": 3
+   },
+   {
+    "quote": "高田商会はこれまでにカネモトから12台の機械を仕入れ、宝光テクノ向けに納入した",
+    "url": "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "pass": 3
+   },
+   {
+    "quote": "宝光テクノに2016年に納入された横形マシニングセンタ H-500M 2nd Gen. は、同社にあるカネモト製の機械では唯一の横形のため、\"横\"と呼ばれている",
+    "url": "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "pass": 3
+   },
+   {
+    "quote": "宝光テクノに販売される際は、工具や治具、クーランドなどの消耗品のほか、高田商会のマージンが乗るので、消費税込みで1億円超になる",
+    "url": "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "pass": 3
+   },
+   {
+    "quote": "宝光テクノの会長はテラルへの忠誠心を表すため、同社に納入される工作機械のクーラントポンプは全てテラル製に取り替えている",
+    "url": "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "pass": 3
+   },
+   {
+    "quote": "いま工場で生産中の別のユーザー向けの受注残（納入前の機械）について、高田商会への請求を8万円マイナスするよう社内処理を行い、代わりに高田から8万円貰えば、最終的にはお客も高田も自分も損せずに済むからだ",
+    "url": "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "pass": 3
+   },
+   {
+    "quote": "通常は工場出荷時に 0.2MPa 前後になるよう設定されています",
+    "url": "https://note.com/tange0310/n/n3fb4af5952fd",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "7,800万円",
+    "url": "https://www.teral.net/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "【法人営業】中国エリア勤務／国内トップシェアメーカー／月給26万～／賞与年2回／完全週休2日",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "【法人営業】北陸エリア勤務／国内トップシェアメーカー／月給26万～／賞与年2回／完全週休2日",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "【法人営業】九州エリア勤務／国内トップシェアメーカー／月給26万～／賞与年2回／完全週休2日",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "東北エリア勤務／国内トップシェアメーカー／月給26万～／賞与年2回／完全週休2日",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "中部エリア勤務／国内トップシェアメーカー／月給26万～／賞与年2回／完全週休2日",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "【法人営業】東京エリア勤務（産業システム部）／国内トップシェアメーカー／月給26万～／賞与年2回／完全週休2日",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "中部エリア勤務（環境システム）／国内トップシェアメーカー／月給26万～／賞与年2回／完全週休2日",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "【法人営業】◆国内トップシェアメーカー◆/経験者大歓迎！／月給26万～／賞与年2回／完全週休2日",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "【開発設計】本社勤務／ポンプ製品の開発設計業務／賞与年2回／完全週休2日",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "【品質保証】本社勤務／自社製品の品質保証・検査業務／賞与年2回／完全週休2日",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "【品質管理】福山勤務／自社製品の品質保証・管理業務／賞与年2回／完全週休2日",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "【総務/福山】会社を支えるバックオフィス/年間休日123日/賞与年2回／完全週休2日",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "【品質保証】福山勤務／自社製品の品質保証・管理業務／賞与年2回／完全週休2日",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "テラルの年収・給与 平均年収 - エン カイシャの評判",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "テラル株式会社の正社員53人の回答によると平均年収は436万円、年収範囲は250～700万円です",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "カイシャの評判に掲載されている年収情報は、当該企業で就業経験のある方を対象としたアンケートを基に、有効な回答かつ、雇用形態が正社員の回答から算出しております",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトの年収情報は、ユーザーの皆様に投稿いただいた時点の回答に基づいているため、実際の年収とは異なる可能性があります",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "テラル株式会社の年収・給与についての口コミ",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給、賞与、手当などは事前説明通りだと思う",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:少額ではありましたが、毎年昇...",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "少額ではありましたが、毎年昇給はされていました",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は年間で４か月分くらいでした",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は、入社半年後は給料の1か月分以下ですが増える実績がないにしてはもらえる感覚です",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度：一定時間までの残業を含んだ給...",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "一定時間までの残業を含んだ給与となっており（いわゆる見なし残業）、超過分に対してのみ、追加の手当てが発生する（深夜残業・休日出勤は別途手当あり）",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "出張手当に関しては給与付与ではなく、旅費精算時に付与される",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度：昇給は年に1回で賞与は年に2...",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給は年に1回で賞与は年に2回",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:給与は普通、昇給も若いうちは...",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与は普通、昇給も若いうちは上がっていくようです",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年功序列もある程度ありますが、若くても実績があれば昇給昇進は望めます",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:年齢とグレードによって月収は...",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与は年に約4ヶ月分なのでその点は良い",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:営業などに比べると事務は基本...",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:昇給、賞与、家族手当評価制度...",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "昇給、賞与、家族手当",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:昇給は年に1回、賞与は年に2...",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "宝光テクノとは現在、新型の大型複合旋盤の商談の真っ最中で、高田商会への見積金額は8,000万円を超える",
+    "url": "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "pass": 3
+   },
+   {
+    "quote": "いま工場で生産中の別のユーザー向けの受注残（納入前の機械）について、高田商会への請求を8万円マイナスするよう社内処理を行い、代わりに高田から8万円貰えば、最終的にはお客も高田も自分も損せずに済むからだ",
+    "url": "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "採用情報 - 新着情報 - テラル株式会社",
+    "url": "https://www.teral.net/news_recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "【人事／新卒採用担当】学生と未来のテラルをつなぐ人事職！／東京勤務",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "仕事内容 新卒採用担当として、会社説明会やインターンシップの運営、学生との面談、選考フォローなどをお任せします",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "＜業務内容＞ ●採用イベントの企画・運営 L 外部主催の合同企業説明会への参加・学生対応 L 自社セミナー・会社説明会の企画・運営 L インターンシップ・オープンカンパニーの企画・運営 ●学生とのコミュニケーション（リクルーター業務） L 学生との面談・フォロー L 応募者への連絡・日程調整 L 内定者フォローや入社前イベントの運営 ●採用選考の運営 L 面接日程の調整 L 選考進捗の管理 L 採用管理システム（ATS）の運用 ●採用広報 L 求人原稿や採用ツールの作成・更新 L 採用サイトの運用サポート L 大学との関係構築（大学訪問など） ●採用企画・改善 L 採用データの集計・分析 L 採用施策の企画・改善提案 ＜入社後の流れ＞ 経験に応じて業務をお任せします",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "応募資格 ＜必須条件＞ ■新卒採用業務の経験（リクルーター可） ■社会人経験3年以上 ■大卒以上 ■35歳までの方（若年層の長期キャリア形成を図るため） ■PCスキル（Excel・Word・PPTの基本操作、Excel基本関数） ＜歓迎条件＞ ◎新卒採用の実務経験 募集背景 1918年の創業以来、100年以上、給水のためのポンプや建物の換気のための送風機の製造や販売を手掛けてきたテラル",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "Recruit 2028",
+    "url": "https://teral-saiyo.com/",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "＜配属先情報＞ ▼名古屋環境システム課 総人員現状名 9名 （20代:４名 30代:２名 50代:3名） 応募資格 ■募集人数：2名 ■大卒以上 ■35歳までの方（若年層の長期キャリア形成を図るため） ■営業経験をお持ちの方 ■自動車普通免許をお持ちの方（AT可） ＜活かせる経験スキル＞ ◎法人営業の経験、代理店営業などの経験 ◎建築業界・産業業界の知識 ◎新しいことを前向きに学べる姿勢 ＜このような方は活躍できます！＞ ◎法人営業・代理店営業などの経験をお持ちの方 ◎社会に貢献できる仕事がしたい方 ◎必要とされる商品に関わりたい方 ◎トップクラスシェアを誇る自社製品を扱いたい方 ◎インフラや機械に興味がある方 ◎コミュニケーションを大切にしながら仕事を進められる方 募集背景 1918年の創業以来、100年以上、給水のためのポンプや建物の換気のための送風機の製造や販売を手掛けてきたテラル",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "最初は電話応対から担当いただきますが、製品に対する問い合わせ・見積・図面依頼等の難しい問合せ内容は、先輩社員がフォローします",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "＜入社後の流れ＞ ▼1ヶ月目 先輩社員から業界・製品等のレクチャを行い、見積作成指導を行ないます",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "最初は電話応対（代理店、サブコン等）から担当いただきますが、製品に対する問い合わせ・見積・図面依頼等の難しい問合せ内容は、先輩社員がフォローに入れる環境で行います",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "＜入社後の流れ＞ ▼ 1ヶ月目 先輩社員から業界・製品等のレクチャを行い、見積作成指導を行ないます",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "＜入社後の流れ＞ ▼入社直後 先輩社員と共に、目下進行中のポンプ開発プロジェクトにご参加いただき、開発業務の補助をしていただきます",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "▼17:55 退社 ＼原則定時退社で ワークライフバランス を大切にできます／ ＜入社後の流れ＞ ・入社後は先輩社員に同行し、手順書をもとに現地作業を把握することから始めます",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "└入社1年目5件/年、入社2～4年目15件/年、入社5年目30件/年 ＜入社後の流れ＞ ・入社後は先輩社員に同行し、手順書をもとに現地作業の流れを理解するところからスタートします",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "先輩社員は、やさしく丁寧に教えてくれるなど気さくで面倒見のいいメンバーばかり",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "先輩社員のサポートを受けながら、担当できる業務の幅を少しずつ広げていくイメージです",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "＜入社後の流れ＞ 入社後は、会社や組織について理解を深めながら、先輩社員と一緒にOJTで業務を覚えていただきます",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "必ず先輩社員がサポートするため、一人で業務を任せることはありません",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "仕事内容 新卒採用担当として、会社説明会やインターンシップの運営、学生との面談、選考フォローなどをお任せします",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "＜業務内容＞ ●採用イベントの企画・運営 L 外部主催の合同企業説明会への参加・学生対応 L 自社セミナー・会社説明会の企画・運営 L インターンシップ・オープンカンパニーの企画・運営 ●学生とのコミュニケーション（リクルーター業務） L 学生との面談・フォロー L 応募者への連絡・日程調整 L 内定者フォローや入社前イベントの運営 ●採用選考の運営 L 面接日程の調整 L 選考進捗の管理 L 採用管理システム（ATS）の運用 ●採用広報 L 求人原稿や採用ツールの作成・更新 L 採用サイトの運用サポート L 大学との関係構築（大学訪問など） ●採用企画・改善 L 採用データの集計・分析 L 採用施策の企画・改善提案 ＜入社後の流れ＞ 経験に応じて業務をお任せします",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "▼慣れてきたら（イベント運営を担当） 自社セミナーや会社説明会の司会・進行を担当します",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "＜業務内容＞ ・代表電話対応 ・カタログなどの印刷物管理、工場見学用備品の準備などの広報サポート ・個人車通勤管理・IDカード管理 ・社用車・複合機などの動産管理 ・所有・賃貸物件などの不動産管理・損害保険／火災保険等手続き業務（加入・解約・更新等） ・固定電話・携帯電話・放送設備の管理 ・健康診断の手配 ・社内行事・イベントの運営補助 ・年末調整など繁忙期の業務サポート ・その他総務／庶務業務 など ＼会社の「当たり前」を支え、社員が安心して仕事に取り組める環境をつくる仕事です／ ＜入社後の流れ＞ 経験に応じて業務をお任せします",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "製品や試験に関する基礎知識を身につけたうえで、先輩社員と実際の試験案件を担当しながら、業務の進め方を習得していきます",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "【３～５か月目｜実際の試験を経験】 先輩社員とペアで実際の試験案件を担当し、試験の段取り、計測、データ整理などを経験します",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "配属先では若手～ベテラン迄4名のスタッフが働いています",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "元々は年功序列でしたが、現在は若手にも優遇制度を設けているように見受けられます",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年功序列が強い傾向で、若手の昇給が遅い印象でしたが、最近は実力主義に変わってきており、",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "ベテランほど大きな会社の担当みたいなのもあり、若手は小粒や、たまに大きい仕事がある感じ",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "テラル 株式会社の平均 年収 、年間給与所得情報 - doda — テラル 株式会社の平均 年収 、年間給与所得情報 - doda doda https://doda.jp > CompanyIncome > j_id__00008905067",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__00008905067/",
+    "pass": 3
+   },
+   {
+    "quote": "テラル 株式会社 - HRMOS — テラル 株式会社 - HRMOS HRMOS https://hrmos.co > pages > teral > jobs",
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "テラル の 年収 ・給与 平均 年収 - エン カイシャの評判 — テラル の 年収 ・給与 平均 年収 - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company > salary",
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "テラル 株式会社の中途採用・転職・ 求人 情報 - パソナキャリア — テラル 株式会社の中途採用・転職・ 求人 情報 - パソナキャリア パソナキャリア https://www.pasonacareer.jp > ... > 機械・精密機器",
+    "url": "https://www.pasonacareer.jp/company/80240678/",
+    "pass": 3
+   },
+   {
+    "quote": "テラル株式会社 の求人情報（78件） — テラル株式会社 の求人情報（78件） スタンバイ",
+    "url": "https://jp.stanby.com/search?cp_id=14938&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "テラル 新卒 高卒 の求人情報をすべて見る （136件） — テラル 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "採用 情報 - 新着情報 - テラル 株式会社 — 採用 情報 - 新着情報 - テラル 株式会社 テラル株式会社 https://www.teral.net > news_recruit",
+    "url": "https://www.teral.net/news_recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "採用 サイト｜ テラル 株式会社 — 採用 サイト｜ テラル 株式会社 teral-saiyo.com https://teral-saiyo.com",
+    "url": "https://teral-saiyo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "テラル の 新卒採用 ・就職・企業情報 - 就活会議 — テラル の 新卒採用 ・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > companies",
+    "url": "https://syukatsu-kaigi.jp/companies/10267",
+    "pass": 3
+   },
+   {
+    "quote": "テラル (株)の 新卒採用 ・会社概要 | マイナビ2027 — テラル (株)の 新卒採用 ・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp240968 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp240968/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "テラル のポンプ ― 工作機械短編小説｜古河悟 - note テラル のポンプ ― 工作機械短編小説｜古河悟 - note note https://note.com > ビジネス > 営業",
+    "url": "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "pass": 3
+   },
+   {
+    "quote": "テラル 製の加圧給水ポンプ（THP5-V400S）で水圧を上げる方法 テラル 製の加圧給水ポンプ（THP5-V400S）で水圧を上げる方法 note https://note.com > DIY > リフォーム・家",
+    "url": "https://note.com/tange0310/n/n3fb4af5952fd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "テラルのポンプ ― 工作機械短編小説｜古河悟",
+    "url": "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "pass": 3
+   },
+   {
+    "quote": "― さて、そろそろ事務所に戻って、見積依頼をやっつけるか。",
+    "url": "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社カネモト 岐阜営業所の堤は、営業車に乗り込んだ。",
+    "url": "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "pass": 3
+   },
+   {
+    "quote": "カネモトは岐阜県可児市に本社を置く、工作機械 － 鉄の塊を自由自在に削る馬鹿でかい機械 － の世界最大手メーカーである。数年前にはアメリカの大手工作機械メーカーを買収し、2位以下との差を更に拡げた。堂々たる業界の巨人である。",
+    "url": "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "pass": 3
+   },
+   {
+    "quote": "堤は2015年入社の6年目。担当エリアは可児市や関市や各務原市などの岐阜県中部、恵那市や多治見市などの岐阜県東部、更に江南市や小牧市などの愛知県北部。",
+    "url": "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "pass": 3
+   },
+   {
+    "quote": "堤が会社から支給された型落ちのヴィッツに乗り込んだ瞬間にタイミングよく、ワイシャツの胸ポケットからK-POPアイドル Red Velvetの『Russian Roulette』のイントロが鳴りだした。会社携帯の着信音である。",
+    "url": "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "pass": 3
+   },
+   {
+    "quote": "四隅が剥げて銀色になっているガラケーを勢いよく引っ張り出すと、待ち受け画面には「高田社長 高田商会」と表示されていた。",
+    "url": "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "pass": 3
+   },
+   {
+    "quote": "高田商会は岐阜県関市に事務所を構える、カネモトの代理店。カネモトのOBである高田の一人会社である。岐阜県南部から愛知県北部エリアにかけて、40社以上の顧客を持つ。",
+    "url": "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "pass": 3
+   },
+   {
+    "quote": "テラル製の加圧給水ポンプ（THP5-V400S）で水圧を上げる方法｜実際に0.2MPa→0.3MPaへ改善した体験談｜設備管理.com",
+    "url": "https://note.com/tange0310/n/n3fb4af5952fd",
+    "pass": 3
+   },
+   {
+    "quote": "テラル製の加圧給水ポンプ（THP5-V400S）で水圧を上げる方法｜実際に0.2MPa→0.3MPaへ改善した体験談",
+    "url": "https://note.com/tange0310/n/n3fb4af5952fd",
+    "pass": 3
+   },
+   {
+    "quote": "一般家庭の水圧は、地域や建物条件によって差がありますが、標準的には",
+    "url": "https://note.com/tange0310/n/n3fb4af5952fd",
+    "pass": 3
+   },
+   {
+    "quote": "しかし「シャワーの勢いが弱い」「食洗機や給湯器の性能を活かしきれない」といった声から、",
+    "url": "https://note.com/tange0310/n/n3fb4af5952fd",
+    "pass": 3
+   },
+   {
+    "quote": "テラル製の加圧給水ポンプ THP5-V400S",
+    "url": "https://note.com/tange0310/n/n3fb4af5952fd",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、その具体的な方法と、検討過程を体験談として紹介します。",
+    "url": "https://note.com/tange0310/n/n3fb4af5952fd",
+    "pass": 3
+   },
+   {
+    "quote": "まとめ テラルの加圧給水ポンプは「隠れた調整機能」が魅力",
+    "url": "https://note.com/tange0310/n/n3fb4af5952fd",
+    "pass": 3
+   },
+   {
+    "quote": "私の会社内に設置された加圧給水ポンプがありました。使用者からの要望はシンプルで、「0.2MPaでは水圧が弱い。」「0.3MPa程度まで水圧を上げられないか？」というものでした。",
+    "url": "https://note.com/tange0310/n/n3fb4af5952fd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "テラル 株式会社【公式】 (@TERAL_JAPAN) / X テラル 株式会社【公式】 (@TERAL_JAPAN) / X X https://x.com > TERAL_JAPAN",
+    "url": "https://x.com/TERAL_JAPAN",
+    "pass": 3
+   },
+   {
+    "quote": "テラル 株式会社【公式】 - X テラル 株式会社【公式】 - X X https://x.com > @TERAL_JAPAN",
+    "url": "https://x.com/TERAL_JAPAN/status/1104993769126940674",
+    "pass": 3
+   },
+   {
+    "quote": "テラル 株式会社【公式】 on X - @TERAL_JAPAN テラル 株式会社【公式】 on X - @TERAL_JAPAN X https://x.com > @TERAL_JAPAN",
+    "url": "https://x.com/TERAL_JAPAN/status/1343739876064169985",
+    "pass": 3
+   },
+   {
+    "quote": "テラル 株式会社【公式】 on X テラル 株式会社【公式】 on X X https://x.com > @TERAL_JAPAN",
+    "url": "https://x.com/TERAL_JAPAN/status/1132782579436834816",
+    "pass": 3
+   },
+   {
+    "quote": "テラル株式会社【公式】 (@TERAL_JAPAN) / X ポンプ・送風機・ディスポーザのメーカー、テラル株式会社の公式アカウントです。 創業以来107年に渡り、水と空気の流れを操るスペシャリストとして社会に貢献しています。 サンフレッチェ広島のクラブトップパートナーです⚽ #企業公式相互フォロー",
+    "url": "https://x.com/teral_japan",
+    "pass": 3
+   },
+   {
+    "quote": "テラル (@teral567) / X ウマ娘サポカガチャで恐らく4年ぶりぐらいに2天井での自引き0を味わった 覚悟を決めた3天井までにそこそこ来てくれたから、貯めてた結晶使ってなんとか両完凸いけたけど、2天井半ぐらいまでは自引き0のままだったんだよな… 流石にグロかったわ…",
+    "url": "https://x.com/teral567",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "テラル（株） | LinkedIn テラル（株） 機械製造業 福山市御幸町、広島県 12人のフォロワー",
+    "url": "https://jp.linkedin.com/company/テラル（株）",
+    "pass": 3
+   },
+   {
+    "quote": "堀田 耕治 - テラル株式会社 - 主席 | LinkedInLinkedIn: Log In or Sign UpHaruka Nagahashi - Founder, TEKA (Matcha & Coffee Studio ...Silvia Maican - Head of Business Administration and Marketing ...Ana Cristina Varga - Business & Marketing | Digital ...takashi yoshimura - テラル株式会社 - 主席 | LinkedIn テラル株式会社 - 主席 · 職歴: テラル株式会社 · 場所: 福山市。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで堀田 耕治さんのプロフィールを閲覧しましょう。 1 billion members",
+    "url": "https://jp.linkedin.com/in/耕治-堀田-88b0071b2",
+    "pass": 3
+   },
+   {
+    "quote": "Haruka Nagahashi - Founder, TEKA (Matcha & Coffee Studio ...Silvia Maican - Head of Business Administration and Marketing ...Ana Cristina Varga - Business & Marketing | Digital ...takashi yoshimura - テラル株式会社 - 主席 | LinkedIn Feb 4, 2026 · Founder, TEKA (Matcha & Coffee Studio) | D2C Matcha & Hojicha | Wholesale & Test Marketing in India | Japan–India New Business Development · Experience: Harukaze ",
+    "url": "https://in.linkedin.com/in/haruka-nagahashi",
+    "pass": 3
+   },
+   {
+    "quote": "takashi yoshimura - テラル株式会社 - 主席 | LinkedIn テラル株式会社 - 主席 · 職歴: テラル株式会社 · 学歴: 東京電機大学 · 場所: 広島県 · LinkedInのつながり6人。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでtakashi yoshimuraさんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/takashi-yoshimura-39912a153",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ディスポーザー選び、テラルとフロムどちらがいい？... - 一般社団法... Oct 21, 2025 · ディスポーザー選び、テラルとフロムどちらがいい？ ディスポーザーには複数の認定メーカーがありますが、 その中でも「テラル」と「フロム工業」は特に人気。 どちらも日本下水道協会の認定を受けた、安心して使えるブランドです。 ⸻ テラル株式会社 テラルのディスポーザーは、静音性 ...",
+    "url": "https://www.facebook.com/nihondky/posts/ディスポーザー選びテラルとフロムどちらがいいディスポーザーには複数の認定メーカーがありますがその中でもテラルとフロム工業は特に人気どちらも日本下水道協会の認定を/1661483318573164/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社管材屋 - 【テラル納期遅延の情報】 テラル (株)様よりご案内... Dec 15, 2021 · 【テラル納期遅延の情報】 テラル (株)様よりご案内です。 添付の資料の通り給水ユニット、井戸ポンプなど、幅広い製品において納期遅延が発生しております。納期は概ね3か月～5か月です。 また、2022年1月末まで《受注停止》です。ご注意ください。",
+    "url": "https://www.facebook.com/kanzaiya/posts/テラル納期遅延の情報-テラル株様よりご案内です-添付の資料の通り給水ユニット井戸ポンプなど幅広い製品において納期遅延が発生しております納期は概ね３か月５か月です/4895586937121085/",
+    "pass": 3
+   },
+   {
+    "quote": "テラ・スタイル東京 - Facebookテラ・ルネッサンス / Terra Renaissance | Kyoto-shi Kyoto喫茶 シダ [福山市御幸町] 084-955-3900 | Fukuyama-shi Hiroshima Aug 14, 2026 · テラ・ルネッサンスのアフリカ事業コーディネーター のトシャ・マギーさんが、6年ぶりに来日されます。 「紛争の悲惨さ」と「希望の大切さ」を力強く生きて 、自分の周りにひとつづつ、灯りをともしていく人で す。 6月11日 (火)19時から東京丸ノ内にて。 テラ・ルネッサンス / Terra Renaissance, Kyoto-shi. 9,949 followers · 153 talking about this. 認定NPO法人テラ・ルネッサンスの公式facebookページです。... 喫茶シダは森脇三差路そば、テラル株式",
+    "url": "https://www.facebook.com/terrastyletokyo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.teral.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/products/search/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/product/maintenance_p1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ventilation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/solution/exhaust/case/case-system-ac/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/corporate/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/news_product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teral.net/news_recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.teral.net/wp-content/themes/teral/img/common/gnavi05_04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.teral.net/wp-content/themes/teral/corporate/img/corporate_SP04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__00008905067/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://hrmos.co/pages/teral/jobs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/00008905067/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://teral-saiyo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tange0310/n/n3fb4af5952fd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TERAL_JAPAN",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TERAL_JAPAN/status/1104993769126940674",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TERAL_JAPAN/status/1343739876064169985",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TERAL_JAPAN/status/1132782579436834816",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/テラル（株）",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/耕治-堀田-88b0071b2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/haruka-nagahashi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/takashi-yoshimura-39912a153",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nihondky/posts/ディスポーザー選びテラルとフロムどちらがいいディスポーザーには複数の認定メーカーがありますがその中でもテラルとフロム工業は特に人気どちらも日本下水道協会の認定を/1661483318573164/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kanzaiya/posts/テラル納期遅延の情報-テラル株様よりご案内です-添付の資料の通り給水ユニット井戸ポンプなど幅広い製品において納期遅延が発生しております納期は概ね３か月５か月です/4895586937121085/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/terrastyletokyo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/teral_japan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/teral567",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "テラル 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__00008905067/",
+    "https://hrmos.co/pages/teral/jobs",
+    "https://en-hyouban.com/company/00008905067/salary/",
+    "https://www.pasonacareer.jp/company/80240678/",
+    "https://jp.stanby.com/search?cp_id=14938&sr_fr=job_review&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_companyquery_st",
+    "https://tenshoku.mynavi.jp/company/458389/",
+    "https://career-be.jp/companies/c-78f1726ea29ba37d/salary",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000G1el&q_no=2",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00008905067/",
+    "https://jp.indeed.com/cmp/%E3%83%86%E3%83%A9%E3%83%AB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries"
+   ]
+  },
+  {
+   "query": "テラル 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%83%86%E3%83%A9%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.teral.net/news_recruit/",
+    "https://teral-saiyo.com/",
+    "https://syukatsu-kaigi.jp/companies/10267",
+    "https://job.mynavi.jp/27/pc/search/corp240968/outline.html",
+    "https://hrmos.co/pages/teral/jobs/30000031",
+    "https://recruit.teraltechno.com/",
+    "https://www.r-agent.com/company/11582/",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015850943/",
+    "https://jp.indeed.com/q-%E6%AD%A3%E7%A4%BE%E5%93%A1-%E3%83%86%E3%83%A9%E3%83%AB-%E6%B1%82%E4%BA%BA.html"
+   ]
+  },
+  {
+   "query": "site:note.com テラル",
+   "results": [
+    "https://note.com/satoru_furukawa/n/n8d1ed65270f5",
+    "https://note.com/tange0310/n/n3fb4af5952fd",
+    "https://note.com/plantec/n/n10cc4dc12825",
+    "https://note.com/fast_chives2030/n/ndb0b217857b4",
+    "https://note.com/hideyuki_kato/n/n67ab9e62ebeb",
+    "https://note.com/vast_swan2686/n/n917bbe3f429b",
+    "https://note.com/amak31/n/ne0e17b09a2b0",
+    "https://note.com/chottu_lb/n/n8f915abb72e5",
+    "https://note.com/quirky_fennel692/n/n0adc5616cb03",
+    "https://note.com/kazuhiko_kawai/n/nda1f699de163"
+   ]
+  },
+  {
+   "query": "site:x.com テラル",
+   "results": [
+    "https://x.com/TERAL_JAPAN",
+    "https://x.com/TERAL_JAPAN/status/1104993769126940674",
+    "https://x.com/TERAL_JAPAN/status/1343739876064169985",
+    "https://x.com/TERAL_JAPAN/status/1132782579436834816",
+    "https://x.com/TERAL_JAPAN/status/1573980746850902016",
+    "https://x.com/TERAL_JAPAN/status/1262876251468951552",
+    "https://x.com/TERAL_JAPAN/status/1471247494814535682",
+    "https://x.com/TERAL_JAPAN/status/1162654083636838400?ref_src=twsrc%5Etfw",
+    "https://x.com/fukuyamacityFC/status/2067753106981756950",
+    "https://x.com/teral_japan"
+   ]
+  },
+  {
+   "query": "site:linkedin.com テラル",
+   "results": [
+    "https://jp.linkedin.com/company/テラル（株）",
+    "https://jp.linkedin.com/in/耕治-堀田-88b0071b2",
+    "https://in.linkedin.com/in/haruka-nagahashi",
+    "https://jp.linkedin.com/in/takashi-yoshimura-39912a153",
+    "https://www.linkedin.com/",
+    "https://ro.linkedin.com/in/silvia-maican-0989a117",
+    "https://ro.linkedin.com/in/ana-cristina-varga-0376257b"
+   ]
+  },
+  {
+   "query": "site:facebook.com テラル",
+   "results": [
+    "https://www.facebook.com/nihondky/posts/ディスポーザー選びテラルとフロムどちらがいいディスポーザーには複数の認定メーカーがありますがその中でもテラルとフロム工業は特に人気どちらも日本下水道協会の認定を/1661483318573164/",
+    "https://business.facebook.com/groups/189971721063058/",
+    "https://www.facebook.com/kanzaiya/posts/テラル納期遅延の情報-テラル株様よりご案内です-添付の資料の通り給水ユニット井戸ポンプなど幅広い製品において納期遅延が発生しております納期は概ね３か月５か月です/4895586937121085/",
+    "https://www.facebook.com/terrastyletokyo/",
+    "https://www.facebook.com/keizai.co.jp/posts/1075331904607577/",
+    "https://www.facebook.com/terra.ngo/",
+    "https://www.facebook.com/kissashida/"
+   ]
+  },
+  {
+   "query": "テラル note 社長",
+   "results": [
+    "https://www.teral.net/corporate/message/",
+    "https://podforum.org/テラルの菅田博文社長の魅力・評価-テラル-社長/",
+    "https://compalyze.co.jp/company/1240001031399",
+    "https://teral-saiyo.com/about/message/",
+    "https://jobtalk.jp/companies/34140/answers?question_codes=president",
+    "https://jobtalk.jp/companies/34140/answers/909399",
+    "https://www.teral.net/corporate/"
+   ]
+  },
+  {
+   "query": "テラル X 投稿",
+   "results": [
+    "https://x.com/teral_japan",
+    "https://www.instagram.com/teral_official/",
+    "https://www.teral.net/",
+    "https://x.com/teral567",
+    "https://x-sou.com/ja",
+    "https://teller.jp/ongoing_series",
+    "https://help.x.com/ja"
+   ]
+  }
+ ],
+ "missing": {
+  "主要取引先": "記載なし（3回確認済み：公式11頁／PDF・画像2件／外部20頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式11頁／PDF・画像2件／外部20頁・検索8回）"
+ }
+}

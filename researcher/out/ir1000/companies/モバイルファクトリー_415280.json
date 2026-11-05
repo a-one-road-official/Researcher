@@ -1,0 +1,1307 @@
+{
+ "name": "モバイルファクトリー",
+ "aliases": [],
+ "context": "証券コード3912／情報・通信業／スタンダード（内国株式）／2025.12期 売上高3,427百万円 営業利益率32.7%",
+ "researched_at": "2026-11-05T00:41:21.281201+00:00",
+ "official_url": "https://www.mobilefactory.jp/",
+ "identified_by": "search:yahoo_jp:モバイルファクトリー",
+ "profile": {
+  "株主": [
+   {
+    "label": "定時株主総会",
+    "value": "毎年3月",
+    "url": "https://www.mobilefactory.jp/ir/ir_stock_info/",
+    "pass": 1
+   },
+   {
+    "label": "株主名簿管理人",
+    "value": "東京都千代田区丸の内一丁目４番１号 三井住友信託銀行株式会社",
+    "url": "https://www.mobilefactory.jp/ir/ir_stock_info/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "2001年10月1日",
+    "url": "https://www.mobilefactory.jp/corporate/overview/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2001年10月",
+    "url": "https://gamebiz.jp/news/163136",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "モバイルゲーム事業（位置ゲーム）、コンテンツ事業",
+    "url": "https://www.mobilefactory.jp/corporate/overview/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数(正社員)",
+    "value": "78名（単体）",
+    "url": "https://www.mobilefactory.jp/corporate/overview/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "創業年度": [
+   {
+    "quote": "株式会社モバイルファクトリーは2026年10月1日で創業25周年を迎えました",
+    "url": "https://www.mobilefactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "モバイルファクトリーは2001年の創業から今日にいたるまで、「わたしたちが創造するモノを通じて世界の人々をハッピーにすること」というミッションを掲げ、モバイルインターネット業界で着メロ事業や広告事業を皮切りに、ソーシャルアプリ事業、そして近年ではブロックチェーン事業への挑戦など、時代の変化にあわせて多くのチャレンジをし、提供サービスを変化させてきました",
+    "url": "https://www.mobilefactory.jp/corporate/ceo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社エイチ・アイ・エスを発起人とした「地方創生・観光プロモーションコンソーシアム」の設立メンバーとして参加",
+    "url": "https://www.mobilefactory.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "モバイルファクトリー[3912]：株式会社モバイルファクトリーは2026年10月1日で創業25周年を迎えました 2026年10月1日(適時開示) ：日経会社情報DIGITAL：日本経済新聞",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261001544196/",
+    "pass": 3
+   },
+   {
+    "quote": "モバファク：株式会社モバイルファクトリーは2026年10月1日で創業25周年を迎えました",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261001544196/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "ユーザーに本当に楽しんでもらえるサービスをわたしたちと一緒に作っていきませんか？",
+    "url": "https://www.mobilefactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "旅行会社などとコンソーシアムを組みましたし、ユーザーの方々にもっと喜んでいただけるよう、そして、地域振興のお役に立てるような取り組みは引き続き行っていきたいと思います",
+    "url": "https://gamebiz.jp/news/163136",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ユーザーに本当に楽しんでもらえるサービスをわたしたちと一緒に作っていきませんか？",
+    "url": "https://www.mobilefactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "モバイルファクトリーは2001年の創業から今日にいたるまで、「わたしたちが創造するモノを通じて世界の人々をハッピーにすること」というミッションを掲げ、モバイルインターネット業界で着メロ事業や広告事業を皮切りに、ソーシャルアプリ事業、そして近年ではブロックチェーン事業への挑戦など、時代の変化にあわせて多くのチャレンジをし、提供サービスを変化させてきました",
+    "url": "https://www.mobilefactory.jp/corporate/ceo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は単なるサービス提供者としてではなく、皆様に感動をお届けする存在でありたいと考えています",
+    "url": "https://www.mobilefactory.jp/corporate/ceo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介動画 | 株式会社モバイルファクトリー",
+    "url": "https://www.mobilefactory.jp/ir/about/ir_movie/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社モバイルファクトリー（以下、「当社」という）は、金融商品取引法等の諸法令ならびに、東京証券取引所の定める適時開示規則に従い、正確、適時かつ公平に情報の開示を行います",
+    "url": "https://www.mobilefactory.jp/ir/ir_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では金融商品取引法および東京証券取引所の定める適時開示規則に従い、適時開示情報伝達システム(TDnet)を通じて、迅速かつ公平な情報開示に努めてまいります",
+    "url": "https://www.mobilefactory.jp/ir/ir_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "「melop♪」にアプリ・待受画像コンテンツサービス追加",
+    "url": "https://www.mobilefactory.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "べた付け商品コンテストで「メロプレ」が準大賞を受賞",
+    "url": "https://www.mobilefactory.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "着信メロディASP サービス「melop♪」リリース",
+    "url": "https://www.mobilefactory.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "主力ゲームである「ステーションメモリーズ！」は、駅や鉄道路線を巡って施設情報を収集し、収集数を競う陣取りゲームに参加したり、ライフログとして記録したりできる要素が魅力です",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "好きな決済サービスと交換できるので、もらって困ることのない優待ですね♪",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "またサイト上に掲載されているゲームやサービスの著作権やその他知的財産権はそれぞれ運営・配信しているゲーム会社・運営会社に帰属します",
+    "url": "https://gamebiz.jp/news/163136",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "DIME (ダイム) 2026年 5月号にて「駅メモ！」が紹介され、@DIMEにて特集記事が公開されました",
+    "url": "https://www.mobilefactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "8月26日(火)放送 テレビ東京系『開運！なんでも鑑定団』にて「駅メモ！」が紹介されました",
+    "url": "https://www.mobilefactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高精度な紹介がもたらした採用の手応え』が掲載されました",
+    "url": "https://www.mobilefactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介動画 | 株式会社モバイルファクトリー",
+    "url": "https://www.mobilefactory.jp/ir/about/ir_movie/",
+    "pass": 1
+   },
+   {
+    "quote": "モバイルファクトリー（3912）の株主優待紹介",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "【優待内容】「ダンダダン酒場」のほか、グループ店舗で使える優待食事割引券（10,000円相当～）など",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "本アプリから紹介するキャンペーンについて「Apple Inc .」、「Apple Japan Inc.（アップルジャパン株式会社）」は、スポンサーではなく一切関係ありません",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2024年11月26日(火)代表取締役の宮嶌が「 日野学園 ドリームジョブツアー in 五反田バレー2024」で講演しました",
+    "url": "https://www.mobilefactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期より6月末日を基準日とした中間配当を実施",
+    "url": "https://www.mobilefactory.jp/ir/ir_stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日 15:00",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期 機関投資家・アナリスト向けオンライン決算説明会",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日 13:00",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期 決算発表",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月24日～",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月24日 15:00",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第2四半期 機関投資家・アナリスト向けオンライン決算説明会",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月24日 13:00",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第2四半期 決算発表",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月24日～",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月24日 15:00",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第1四半期 機関投資家・アナリスト向けオンライン決算説明会",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月24日 13:00",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第1四半期 決算発表",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月25日～",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月29日 15:00",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期通期 機関投資家・アナリスト向けオンライン決算説明会",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月29日 13:00",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期通期 決算発表",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月25日～",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月24日 15:00",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期第3四半期 機関投資家・アナリスト向けオンライン決算説明会",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月24日 13:00",
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月18日",
+    "url": "https://www.mobilefactory.jp/ir/ir_data/ir_securities/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月9日",
+    "url": "https://www.mobilefactory.jp/ir/ir_data/ir_securities/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年2月20日",
+    "url": "https://www.mobilefactory.jp/ir/ir_data/ir_securities/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年04月26日",
+    "url": "https://www.mobilefactory.jp/ir/ir_e_pub_notifice/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年05月30日",
+    "url": "https://www.mobilefactory.jp/ir/ir_e_pub_notifice/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年10月1日",
+    "url": "https://www.mobilefactory.jp/corporate/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜会社案内｜株式会社モバイルファクトリー",
+    "url": "https://www.mobilefactory.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2024 年 4 月 26 日",
+    "url": "https://www.mobilefactory.jp/wp-content/uploads/2024/04/koukoku_20240426.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年４月１日から 2033 年 12 月 31 日までとする",
+    "url": "https://www.mobilefactory.jp/wp-content/uploads/2024/04/koukoku_20240426.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024 年 5 月 28 日",
+    "url": "https://www.mobilefactory.jp/wp-content/uploads/2024/04/koukoku_20240426.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024 年 5 月 13 日",
+    "url": "https://www.mobilefactory.jp/wp-content/uploads/2024/04/koukoku_20240426.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023 年 5 月 30 日",
+    "url": "https://www.mobilefactory.jp/wp-content/uploads/2023/05/koukoku_20230530.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年3月の優待権利確定日一覧",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月27日（木）",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月28日（金）",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月31日（月）",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月の優待権利確定日一覧",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月26日（金）",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月29日（月）",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月30日（火）",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月の優待権利確定日一覧",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月27日（金）",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月30日（月）",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月31日（火）",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月の優待権利確定日一覧",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月28日（月）",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月29日（火）",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月30日（水）",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月の優待権利確定日一覧",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月29日（月）",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月30日（火）",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月31日（水）",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年9月の優待権利確定日一覧",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "株主還元・株式情報 | 株式会社モバイルファクトリー",
+    "url": "https://www.mobilefactory.jp/ir/ir_stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、株主様に対する利益還元を重要な経営課題と認識すると共に、持続的な成長に必要な経営体質の強化及び設備投資等を行うことも経営上重要と捉えております",
+    "url": "https://www.mobilefactory.jp/ir/ir_stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、業績、財政状態及び株価水準等を総合的に勘案しながら、株主様に対する利益還元と持続的な成長のための内部留保をバランスよく実施していくことを方針としております",
+    "url": "https://www.mobilefactory.jp/ir/ir_stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "当社株式への投資魅力を高め、より多くの株主様に当社株式を保有していただくことを目的に、株主優待制度を導入しております",
+    "url": "https://www.mobilefactory.jp/ir/ir_stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "（1）対象株主様",
+    "url": "https://www.mobilefactory.jp/ir/ir_stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "初回基準日を2026年3月とし、以降は毎年3月末日、9月末日現在の株主名簿に記載または記録された、当社株式1,000株以上を１年以上継続保有されている株主様を対象といたします",
+    "url": "https://www.mobilefactory.jp/ir/ir_stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "1年以上継続保有とは、基準日（3月末日及び9月末日）の当社株主名簿に、1,000株以上の保有を同一株主番号で連続3回以上記載または記録されることをいいます",
+    "url": "https://www.mobilefactory.jp/ir/ir_stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "（2）株主優待の内容",
+    "url": "https://www.mobilefactory.jp/ir/ir_stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "対象株主様に対して、各10,000円（年間合計20,000円分）のデジタルギフトⓇを贈呈いたします",
+    "url": "https://www.mobilefactory.jp/ir/ir_stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "事業活動に直接影響しない非定常的な特殊要因により当期純損益が大きく変動する場合は、その影響を除いて株主還元金額を決定する予定",
+    "url": "https://www.mobilefactory.jp/ir/ir_stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "累進配当（減配無し）を前提とし、配当性向40％以上またはDOE（株主資本配当率）7％以上のいずれか高い水準での配当を実施",
+    "url": "https://www.mobilefactory.jp/ir/ir_stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "株主総会 | 株式会社モバイルファクトリー",
+    "url": "https://www.mobilefactory.jp/ir/ir_stock_info/ir_gene_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "適時開示規則が定める重要事実に該当しない情報であっても、株主・投資家の皆さまにとって有用であると判断されるものにつきましては、ホームページ等を通して積極的かつ公平な情報開示に努めます",
+    "url": "https://www.mobilefactory.jp/ir/ir_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社オプトホールディング（現・株式会社デジタルホールディングス）と資本提携終了",
+    "url": "https://www.mobilefactory.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "（２）新株予約権の行使に際して出資される財産の価額または算定方法",
+    "url": "https://www.mobilefactory.jp/wp-content/uploads/2024/04/koukoku_20240426.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本新株予約権の行使に際して出資される財産の価額は、１株あたりの払込金額",
+    "url": "https://www.mobilefactory.jp/wp-content/uploads/2024/04/koukoku_20240426.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "転計画について株主総会の承認（株主総会の承認を要しない場合には取締役会決議）",
+    "url": "https://www.mobilefactory.jp/wp-content/uploads/2024/04/koukoku_20240426.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（４）新株予約権の行使に際して出資される財産の価額",
+    "url": "https://www.mobilefactory.jp/wp-content/uploads/2024/04/koukoku_20240426.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "交付される各新株予約権の行使に際して出資される財産の価額は、組織再編行為",
+    "url": "https://www.mobilefactory.jp/wp-content/uploads/2024/04/koukoku_20240426.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株主総会の承認を得ずに行いますので、本株式交換に反対の株主様は、本公告掲載の日か",
+    "url": "https://www.mobilefactory.jp/wp-content/uploads/2023/05/koukoku_20230530.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "モバイルファクトリー（3912）の株主優待紹介",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルファクトリー（3912）の株主優待＆配当",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "が株主優待としてもらえる、スマートフォン向けゲームを開発する",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待は、",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待をもらうまでを、",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "優待がもらえるのは「長期株式保有株主」に限られる銘柄です",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "※ネット注文手数料です（電話注文は別手数料）",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "※SBI証券の手数料は「ゼロ革命対象者」の場合です",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "※楽天証券の手数料は「ゼロコース」を選んだ場合です",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株主 還元・株式情報 | 株式会社 モバイルファクトリー — 株主 還元・株式情報 | 株式会社 モバイルファクトリー 株式会社モバイルファクトリー https://www.mobilefactory.jp > IR",
+    "url": "https://www.mobilefactory.jp/ir/ir_stock_info/",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルファクトリー （3912）の 株主 優待紹介 — モバイルファクトリー （3912）の 株主 優待紹介 楽しい株主優待＆配当 https://www.kabuyutai.com > kobetu > mobilefactory",
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルファクトリー 【3912】の 大株主 情報 - 株探 — モバイルファクトリー 【3912】の 大株主 情報 - 株探 株探 https://kabutan.jp > stock > holder",
+    "url": "https://kabutan.jp/stock/holder?code=3912",
+    "pass": 3
+   },
+   {
+    "quote": "【 モバイルファクトリー 】[3912] 株主 優待情報 | 日経電子版 — 【 モバイルファクトリー 】[3912] 株主 優待情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > yutai",
+    "url": "https://www.nikkei.com/nkd/company/yutai/?scode=3912",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルファクトリー 【3912】の 大株主 - バフェット・コード — モバイルファクトリー 【3912】の 大株主 - バフェット・コード バフェット・コード https://www.buffett-code.com > mainshareholder",
+    "url": "https://www.buffett-code.com/company/3912/mainshareholder",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜会社案内 - 株式会社モバイルファクトリー — 会社概要｜会社案内 - 株式会社モバイルファクトリー 株式会社モバイルファクトリー https://www.mobilefactory.jp > corporate",
+    "url": "https://www.mobilefactory.jp/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 モバイルファクトリー は2026年10月1日で 創業 25 ... — 株式会社 モバイルファクトリー は2026年10月1日で 創業 25 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261001544196/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 モバイルファクトリー は 2026年10月1日で 創業 25 ... — 株式会社 モバイルファクトリー は 2026年10月1日で 創業 25 ... PR TIMES https://prtimes.jp > その他",
+    "url": "https://prtimes.jp/main/html/rd/p/000000195.000024306.html",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルファクトリー 【3912】のストーリー・沿革 — モバイルファクトリー 【3912】のストーリー・沿革 キタイシホン https://kitaishihon.com > company > story",
+    "url": "https://kitaishihon.com/company/3912/story",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルファクトリー の技術スタック — モバイルファクトリー の技術スタック what we use https://whatweuse.dev > company > mobilefactory",
+    "url": "https://whatweuse.dev/company/mobilefactory",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 モバイルファクトリー | ロール モデル 就活・転職 ... — 株式会社 モバイルファクトリー | ロール モデル 就活・転職 ... タレントブック・ストーリー https://www.talent-book.jp > mobilefactory",
+    "url": "https://www.talent-book.jp/mobilefactory",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 モバイルファクトリー 会社説明資料 - Speaker Deck — 株式会社 モバイルファクトリー 会社説明資料 - Speaker Deck Speaker Deck https://speakerdeck.com > mobilefactory > zhu-shi-hui-sh...",
+    "url": "https://speakerdeck.com/mobilefactory/zhu-shi-hui-she-mobairuhuakutori-hui-she-shuo-ming-zi-liao",
+    "pass": 3
+   },
+   {
+    "quote": "ネット業界で黒字を続けて18年。 モバイルファクトリー 代表が ... — ネット業界で黒字を続けて18年。 モバイルファクトリー 代表が ... fastgrow.jp https://www.fastgrow.jp > management-strategy-miyajima",
+    "url": "https://www.fastgrow.jp/articles/management-strategy-miyajima",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 - 株式会社モバイルファクトリー — 決算説明 会 資料 - 株式会社モバイルファクトリー 株式会社モバイルファクトリー https://www.mobilefactory.jp > IR > IR資料室",
+    "url": "https://www.mobilefactory.jp/ir/ir_data/ir_presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 - 株式会社モバイルファクトリー — IR 資料 室 - 株式会社モバイルファクトリー 株式会社モバイルファクトリー https://www.mobilefactory.jp > IR",
+    "url": "https://www.mobilefactory.jp/ir/ir_data/",
+    "pass": 3
+   },
+   {
+    "quote": "【 モバイルファクトリー 】[3912]IR情報 中期経営計画や 決算 短信 — 【 モバイルファクトリー 】[3912]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3912",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルファクトリー 【3912】の最新 決算 発表、業績修正 - 株探 — モバイルファクトリー 【3912】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > モバイルファクトリー (3912) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=3912",
+    "pass": 3
+   },
+   {
+    "quote": "IR - 株式会社 モバイルファクトリー — IR - 株式会社 モバイルファクトリー 株式会社モバイルファクトリー https://www.mobilefactory.jp > ...",
+    "url": "https://www.mobilefactory.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の 事業 について - 株式会社 モバイルファクトリー — 当社の 事業 について - 株式会社 モバイルファクトリー 株式会社モバイルファクトリー https://www.mobilefactory.jp > IR",
+    "url": "https://www.mobilefactory.jp/ir/about/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介動画 - 株式会社モバイルファクトリー — サービス紹介動画 - 株式会社モバイルファクトリー 株式会社モバイルファクトリー https://www.mobilefactory.jp > IR > 当社の事業について",
+    "url": "https://www.mobilefactory.jp/ir/about/ir_movie/",
+    "pass": 3
+   },
+   {
+    "quote": "【 モバイルファクトリー 】[3912]企業概要 社員数や役員報酬 ... — 【 モバイルファクトリー 】[3912]企業概要 社員数や役員報酬 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3912",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 モバイルファクトリー の インタビュー をRecGameに ... — 株式会社 モバイルファクトリー の インタビュー をRecGameに ... ランウェイ・エージェンシー株式会社 https://runwayagency.co.jp > メディア",
+    "url": "https://runwayagency.co.jp/news/4855/",
+    "pass": 3
+   },
+   {
+    "quote": "【 インタビュー 】宮嶌 社長 に聞く モバイルファクトリー の採用 ... — 【 インタビュー 】宮嶌 社長 に聞く モバイルファクトリー の採用 ... gamebiz【ゲームビズ】 https://gamebiz.jp > news",
+    "url": "https://gamebiz.jp/news/163136",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルファクトリー 担当者への インタビュー - RecGame — モバイルファクトリー 担当者への インタビュー - RecGame recgame.jp https://recgame.jp > インタビューリスト",
+    "url": "https://recgame.jp/interview/detail/1060",
+    "pass": 3
+   },
+   {
+    "quote": "CEOメッセージ｜会社案内 - 株式会社モバイルファクトリー — CEOメッセージ｜会社案内 - 株式会社モバイルファクトリー 株式会社モバイルファクトリー https://www.mobilefactory.jp > 会社案内",
+    "url": "https://www.mobilefactory.jp/corporate/ceo_message/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "モバイルファクトリー （3912）最新株価・配当情報と ... - note モバイルファクトリー （3912）最新株価・配当情報と ... - note note https://note.com > noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-3912",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルファクトリー の人気・新着記事まとめ - note モバイルファクトリー の人気・新着記事まとめ - note note https://note.com > tag > モバイルファクトリー",
+    "url": "https://note.com/tag/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "モバイルファクトリー（3912）株価・今後の見通し・予想｜noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-3912",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルファクトリーの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 モバイルファクトリー (@MobileFactoryJP) / X 株式会社 モバイルファクトリー (@MobileFactoryJP) / X X https://x.com > MobileFactoryJP",
+    "url": "https://x.com/MobileFactoryJP",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 モバイルファクトリー - X 株式会社 モバイルファクトリー - X X https://x.com > @MobileFactoryJP",
+    "url": "https://x.com/MobileFactoryJP/status/2105539889672642802?lang=bg",
+    "pass": 3
+   },
+   {
+    "quote": "# モバイルファクトリー - Search / X # モバイルファクトリー - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 モバイルファクトリー on X: \"【ブログ】モバファクの ... 株式会社 モバイルファクトリー on X: \"【ブログ】モバファクの ... X https://x.com > @MobileFactoryJP",
+    "url": "https://x.com/MobileFactoryJP/status/1326773106158014464",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 モバイルファクトリー - LinkedIn 株式会社 モバイルファクトリー - LinkedIn LinkedIn https://jp.linkedin.com > company > mobile-factory-inc-",
+    "url": "https://jp.linkedin.com/company/mobile-factory-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "鈴木 寛太郎 - 株式会社 モバイルファクトリー - LinkedIn 鈴木 寛太郎 - 株式会社 モバイルファクトリー - LinkedIn LinkedIn https://jp.linkedin.com > 寛太郎-鈴木-645462193",
+    "url": "https://jp.linkedin.com/in/%E5%AF%9B%E5%A4%AA%E9%83%8E-%E9%88%B4%E6%9C%A8-645462193",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 モバイルファクトリー (@MobileFactory.Inc) 株式会社 モバイルファクトリー (@MobileFactory.Inc) Facebook https://www.facebook.com > MobileFactory",
+    "url": "https://www.facebook.com/MobileFactory.Inc/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 モバイルファクトリー - Accueil | Facebook 株式会社 モバイルファクトリー - Accueil | Facebook Facebook https://fr-fr.facebook.com > 株式会社モバイルファクトリー",
+    "url": "https://fr-fr.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC/165715746955741",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 モバイルファクトリー - Halaman Utama | Facebook 株式会社 モバイルファクトリー - Halaman Utama | Facebook Facebook https://ms-my.facebook.com > pages > 株式会社モバイル...",
+    "url": "https://ms-my.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC/165715746955741",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mobilefactory.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/ir_stock_info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/ir_financials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/ir_calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/ir_news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/ir_data/ir_summary_of_accounts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/ir_data/ir_presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/ir_data/ir_disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/ir_data/ir_securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/ir_e_pub_notifice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/ir_stock_info/ir_gene_meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/corporate/ceo_message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/about/ir_movie/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/ir_news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/ir_data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/ir_financials/ir_fina_highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/ir_financials/ir_fina_condition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/ir_policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/ir_management_plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/corporate/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/ir/ir_data/ir_library/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mobilefactory.jp/wp-content/uploads/2024/04/koukoku_20240426.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mobilefactory.jp/wp-content/uploads/2023/05/koukoku_20230530.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.softbank/en/ir/stock/ownership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/SoftBank_Group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261001544196/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talent-book.jp/mobilefactory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runwayagency.co.jp/news/4855/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gamebiz.jp/news/163136",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-3912",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MobileFactoryJP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MobileFactoryJP/status/2105539889672642802?lang=bg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MobileFactoryJP/status/1326773106158014464",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/mobile-factory-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%AF%9B%E5%A4%AA%E9%83%8E-%E9%88%B4%E6%9C%A8-645462193",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MobileFactory.Inc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr-fr.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC/165715746955741",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ms-my.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC/165715746955741",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-3912",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MobileFactoryJP",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "モバイルファクトリー",
+   "results": [
+    "https://www.mobilefactory.jp/",
+    "https://x.com/MobileFactoryJP",
+    "https://kabutan.jp/stock/?code=3912",
+    "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC",
+    "https://www.linkedin.com/company/mobile-factory-inc-",
+    "https://ja.wikipedia.org/wiki/モバイルファクトリー",
+    "https://www.mobilefactory.jp/corporate/25th/",
+    "https://finance.yahoo.co.jp/quote/3912.T",
+    "https://en.mobilefactory.jp/corporate/",
+    "https://en.mobilefactory.jp/"
+   ]
+  },
+  {
+   "query": "モバイルファクトリー 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://www.mobilefactory.jp/ir/ir_stock_info/",
+    "https://www.kabuyutai.com/kobetu/mobilefactory.html",
+    "https://kabutan.jp/stock/holder?code=3912",
+    "https://www.nikkei.com/nkd/company/yutai/?scode=3912",
+    "https://www.buffett-code.com/company/3912/mainshareholder",
+    "https://diamond.jp/zai/articles/-/1040927",
+    "https://minkabu.jp/stock/3912",
+    "https://advance.quote.nomura.co.jp/meigara/nomura2/users/kabunushi/yutai_d.asp?RCODE=3912"
+   ]
+  },
+  {
+   "query": "モバイルファクトリー shareholders ownership investors parent company",
+   "results": [
+    "https://group.softbank/en/ir/stock/ownership",
+    "https://en.wikipedia.org/wiki/SoftBank_Group",
+    "https://www.smfg.co.jp/english/investor/stock/capital_shares.html",
+    "https://www.samsung.com/global/ir/stock-information/ownership-structure/",
+    "https://www.revenuememo.com/p/who-owns-t-mobile",
+    "https://www.softbank.jp/en/corp/ir/stock/info/",
+    "https://techysneews.com/who-owns-t-mobile/",
+    "https://ir.group.gmo/en/stock/major-stockholders/",
+    "https://www.tomendevices.co.jp/en/ir/faq.html",
+    "https://edinetdb.jp/company/E31331/shareholders"
+   ]
+  },
+  {
+   "query": "モバイルファクトリー 設立 OR 創業 OR founded",
+   "results": [
+    "https://www.mobilefactory.jp/corporate/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20261001544196/",
+    "https://prtimes.jp/main/html/rd/p/000000195.000024306.html",
+    "https://kitaishihon.com/company/3912/story",
+    "https://whatweuse.dev/company/mobilefactory",
+    "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC",
+    "https://x.com/MobileFactoryJP/status/2105539889672642802?lang=bg",
+    "https://www.shibukei.com/index.php/release/657292/",
+    "https://en.wikipedia.org/wiki/Oppo",
+    "https://ja.wikipedia.org/wiki/ファーウェイ"
+   ]
+  },
+  {
+   "query": "モバイルファクトリー ビジネスモデル",
+   "results": [
+    "https://www.mobilefactory.jp/corporate/",
+    "https://www.talent-book.jp/mobilefactory",
+    "https://zuuonline.com/archives/234845",
+    "https://speakerdeck.com/mobilefactory/zhu-shi-hui-she-mobairuhuakutori-hui-she-shuo-ming-zi-liao",
+    "https://www.fastgrow.jp/articles/management-strategy-miyajima",
+    "https://whatweuse.dev/company/mobilefactory",
+    "https://shikiho.toyokeizai.net/news/0/585383",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260311579701/",
+    "https://kitaishihon.com/company/3912/story",
+    "https://consovation.com/モバイルファクトリーのビジネスモデルを深掘り/"
+   ]
+  },
+  {
+   "query": "モバイルファクトリー 決算説明資料",
+   "results": [
+    "https://www.mobilefactory.jp/ir/ir_data/ir_presentation/",
+    "https://www.mobilefactory.jp/ir/ir_data/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3912",
+    "https://kabutan.jp/stock/finance?code=3912",
+    "https://www.mobilefactory.jp/ir/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120261022554528",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260129/20260128540436.pdf",
+    "https://www.buffett-code.com/company/3912/library",
+    "https://edinetdb.jp/company/E31331/presentations/",
+    "https://japanir.jp/company/company-3912/ir/3912-20261023-01_wp_financial_summary/"
+   ]
+  },
+  {
+   "query": "モバイルファクトリー 事業系統図",
+   "results": [
+    "https://www.mobilefactory.jp/ir/about/",
+    "https://www.mobilefactory.jp/ir/about/ir_movie/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3912",
+    "https://speakerdeck.com/mobilefactory/zhu-shi-hui-she-mobairuhuakutori-hui-she-shuo-ming-zi-liao",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260129/20260128540436.pdf",
+    "https://kitaishihon.com/company/3912/story",
+    "https://shikiho.toyokeizai.net/news/0/585383",
+    "https://irbank.net/E31331",
+    "https://ja.wikipedia.org/wiki/モバイルファクトリー",
+    "https://www.mobilefactory.jp/"
+   ]
+  },
+  {
+   "query": "モバイルファクトリー 社長 インタビュー",
+   "results": [
+    "https://runwayagency.co.jp/news/4855/",
+    "https://gamebiz.jp/news/163136",
+    "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B6%8C%E8%A3%95%E4%BA%8C",
+    "https://recgame.jp/interview/detail/1060",
+    "https://www.mobilefactory.jp/corporate/ceo_message/",
+    "https://garage.shiftinc.jp/dreamaga_net/companycontentsid20/",
+    "https://www.ceo-vnetj.com/taidan03/%EF%BD%96%EF%BD%83%E3%81%8B%E3%82%89%E3%81%AE%E8%B2%B7%E6%88%BB%E3%81%97%E3%82%92%E3%83%90%E3%83%8D%E3%81%AB-%E5%89%B5%E6%A5%AD%EF%BC%92%E5%B9%B4%E7%9B%AE%E3%81%8B%E3%82%8916%E6%9C%9F%E9%80%A3/",
+    "https://jonetu-ceo.com/2015/07/13751/",
+    "https://business.nikkei.com/atcl/gen/19/00342/071000196/",
+    "https://ja.wikipedia.org/wiki/宮嶌裕二"
+   ]
+  },
+  {
+   "query": "site:note.com モバイルファクトリー",
+   "results": [
+    "https://note.com/tag/vm/investment_money/company-3912",
+    "https://note.com/kabu_times/n/n8ebc08ffa836",
+    "https://note.com/tag/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC",
+    "https://note.com/taisuke_invest/n/n793c4815594a",
+    "https://note.com/startuplog/n/n96146dd5c4b3",
+    "https://note.com/retirererer/n/n47952f729532",
+    "https://note.com/pocoa_420/n/n99c9047dc0d3",
+    "https://note.com/glossy_lupine856/n/n6d83eca821d9",
+    "https://note.com/tag/vm/investment_money/company-3912?chart_period=one_year&mode=hot",
+    "https://note.com/apt_hebe8902/n/nd6351e367ad8"
+   ]
+  },
+  {
+   "query": "site:x.com モバイルファクトリー",
+   "results": [
+    "https://x.com/MobileFactoryJP",
+    "https://x.com/MobileFactoryJP/status/2105539889672642802?lang=bg",
+    "https://x.com/hashtag/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC",
+    "https://x.com/MobileFactoryJP/status/1326773106158014464",
+    "https://x.com/MobileFactoryJP/status/2108076274157756615?utm_source=yjrealtime&utm_medium=search",
+    "https://x.com/MobileFactoryJP/status/1685962717751095296?lang=ar",
+    "https://x.com/gamebiznews/article/2113509099707253219?lang=ar-x-fm",
+    "https://x.com/MobileFactoryJP/status/1928333202961142162",
+    "https://x.com/MobileFactoryJP/status/1978703631709765856",
+    "https://x.com/gamebiznews/status/2113484301828571322?lang=ar"
+   ]
+  },
+  {
+   "query": "site:linkedin.com モバイルファクトリー",
+   "results": [
+    "https://www.linkedin.com/company/mobile-factory-inc-",
+    "https://jp.linkedin.com/company/mobile-factory-inc-",
+    "https://jp.linkedin.com/pulse/ebs-global-mobile-factories-seyfi-tomar-beng-e-pro--qnmte?tl=ja",
+    "https://jp.linkedin.com/in/%E5%AF%9B%E5%A4%AA%E9%83%8E-%E9%88%B4%E6%9C%A8-645462193",
+    "https://www.linkedin.com/pub/dir/Hin/Szeto",
+    "https://jp.linkedin.com/in/%E5%95%93-%E9%B3%A5%E8%B0%B7%E9%83%A8-1841bba5",
+    "https://jp.linkedin.com/in/masahiko-makabe-95331853",
+    "https://jp.linkedin.com/in/kmhk-naka",
+    "https://jp.linkedin.com/in/mamiko-tsuda-7354764b",
+    "https://www.linkedin.com/pub/dir/%E5%85%AC%E5%BD%A6/+"
+   ]
+  },
+  {
+   "query": "site:facebook.com モバイルファクトリー",
+   "results": [
+    "https://www.facebook.com/MobileFactory.Inc/",
+    "https://fr-fr.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC/165715746955741",
+    "https://ms-my.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC/165715746955741",
+    "https://www.facebook.com/hyogo.pref.police/posts/%E9%98%B2%E7%8A%AF%E5%BF%9C%E6%8F%B4%E7%BD%B2%E9%95%B7%E7%99%BB%E5%A0%B4-%E7%A5%9E%E6%88%B8%E8%A5%BF%E7%BD%B2%E9%95%B7%E7%94%B0%E7%BD%B2%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E6%A7%98%E3%81%AE%E3%81%94%E5%8D%94%E5%8A%9B%E3%81%A7%E4%BD%8D%E7%BD%AE%E6%83%85%E5%A0%B1%E3%82%B2%E3%83%BC%E3%83%A0%E9%A7%85%E3%83%A1%E3%83%A2%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%81%A8%E5%85%B5%E5%BA%AB%E7%9C%8C%E8%AD%A6%E5%AF%9F%E3%81%8C%E3%82%B3%E3%83%A9%E3%83%9C%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF/1331633122327633/",
+    "https://zh-cn.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC/522398281180729",
+    "https://sv-se.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC/522398281180729",
+    "https://www.facebook.com/tips.smrj/posts/ai%E6%99%82%E4%BB%A3%E3%81%AE%E8%B5%B7%E6%A5%AD%E3%82%92%E8%80%83%E3%81%88%E3%82%8B%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97-%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%A7%E3%81%AE%E6%B4%BB%E8%BA%8D%E3%81%AE%E5%BE%8C%E3%81%AB%E9%A7%85%E3%83%A1%E3%83%A2%E3%81%A7%E6%9C%89%E5%90%8D%E3%81%AA%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%92%E5%89%B5%E6%A5%AD%E3%81%97%E4%B8%8A%E5%A0%B4%E3%81%AB%E5%B0%8E%E3%81%84%E3%81%9F%E7%B5%8C%E5%96%B6%E8%80%85%E3%81%8C%E5%8F%82%E5%8A%A0%E8%80%85%E3%81%A8%E5%85%B1%E3%81%AB%E6%9C%AA/950133747146436/",
+    "https://www.facebook.com/Kobe.Ensen.navi/posts/%E9%A7%85%E3%83%A1%E3%83%A2%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E7%A5%9E%E6%88%B8%E5%B8%82%E4%BA%A4%E9%80%9A%E5%B1%80%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%81%8C%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E4%BD%8D%E7%BD%AE%E6%83%85%E5%A0%B1%E9%80%A3%E5%8B%95%E5%9E%8B%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E9%A7%85%E3%83%A1%E3%83%A2-our-rails%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E7%A5%9E%E6%88%B8%E5%B8%82%E4%BA%A4%E9%80%9A%E5%B1%80%E3%81%A8%E3%81%AE%E3%82%B3%E3%83%A9/1315821920583634/",
+    "https://www.facebook.com/gamebiz/posts/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E9%A7%85%E3%83%A1%E3%83%A2%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%81%A7%E3%82%84%E3%81%AF%E3%82%8A%E4%BF%BA%E3%81%AE%E9%9D%92%E6%98%A5%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1%E3%81%AF%E3%81%BE%E3%81%A1%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E5%AE%8C%E3%81%A8%E3%81%AE%E3%82%B3%E3%83%A9%E3%83%9C%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%9212%E6%9C%884%E6%97%A5%E3%82%88%E3%82%8A%E9%96%8B%E5%82%AC-%E9%A7%85%E3%83%A1%E3%83%A2-oregairu/1730261209102513/",
+    "https://www.facebook.com/pages/モバイルファクトリー/264247120336682/"
+   ]
+  },
+  {
+   "query": "モバイルファクトリー note 社長",
+   "results": [
+    "https://note.com/tag/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC",
+    "https://note.com/tag/vm/investment_money/company-3912",
+    "https://www.mobilefactory.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3912",
+    "https://speakerdeck.com/mobilefactory/zhu-shi-hui-she-mobairuhuakutori-hui-she-shuo-ming-zi-liao",
+    "https://note.com/retirererer/n/n47952f729532",
+    "https://garage.shiftinc.jp/dreamaga_net/companycontentsid20/",
+    "https://paiza.jp/recruiters/266",
+    "https://qiita.com/organizations/mfac/profile",
+    "https://ja.wikipedia.org/wiki/宮嶌裕二"
+   ]
+  },
+  {
+   "query": "モバイルファクトリー X 投稿",
+   "results": [
+    "https://x.com/MobileFactoryJP",
+    "https://www.mobilefactory.jp/corporate/socialmedia/",
+    "https://s.kabutan.jp/stocks/3912/news/",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://play.google.com/store/apps/details?id=com.twitter.android&hl=ja",
+    "https://www.openwork.jp/company.php?m_id=a0C300000065sMm",
+    "https://x.com/PRTIMES_APP/status/1927607658095542593",
+    "https://news.denfaminicogamer.jp/news/231107b",
+    "https://syukatsu-kaigi.jp/companies/122926/screening_experiences",
+    "https://search.yahoo.co.jp/realtime/search/モバイルファクトリー/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式24頁／PDF・画像2件／外部21頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式24頁／PDF・画像2件／外部21頁・検索14回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式24頁／PDF・画像2件／外部21頁・検索14回）",
+  "売上構成": "記載なし（3回確認済み：公式24頁／PDF・画像2件／外部21頁・検索14回）",
+  "利益の源泉": "記載なし（3回確認済み：公式24頁／PDF・画像2件／外部21頁・検索14回）"
+ }
+}

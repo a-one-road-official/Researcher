@@ -1,0 +1,893 @@
+{
+ "name": "鋳造（銑鉄・非鉄）の受託",
+ "en": "foundry industry Japan statistics employees production",
+ "aliases": [
+  "日本鋳造協会 統計 生産量 従業者",
+  "銑鉄鋳物 生産額 推移",
+  "非鉄金属鋳物 事業所数"
+ ],
+ "context": "工法・鋳造",
+ "kind": "market",
+ "researched_at": "2026-11-05T00:41:07.712589+00:00",
+ "evidence": {
+  "受注金額・加工賃収入": [
+   {
+    "quote": "表 08-09-h「主要品目の生産量及び生産額 － 精密機械，武器，鍛工品及び鋳物の生産量及び生産額（昭和６０年～平成１６年）」",
+    "url": "https://the-shashi.com/market/precision/iron-castings/",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額は2023年実績、従業員数・事業所数は2024年6月1日現在",
+    "url": "https://www.sokeizai.or.jp/pages/58/",
+    "pass": 3
+   },
+   {
+    "quote": "日本鉄リサイクル工業会の表では、鉄スクラップは2025年10月から2026年6月に1tあたり約1.2万円上がりました",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "模型代を仮に30万円と60万円に置いて、個数ごとの負担を出しました",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "模型代30万円のとき",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "模型代60万円のとき",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば木型代50万円、発泡模型1個10万円なら、模型代は5個で同額です",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月から2026年6月までに、1tあたり約1.2万円上がりました",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "投資額は約10億円です",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は54億7,200万円、セグメント利益は1億100万円です",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "前年同期比では、売上高が3.8%減、利益が69.6%減でした",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "スクラップは約1.2万円/t上昇",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "4,500万円",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金は5,000万円、従業員は181名です（2022年10月）",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "5,600万円",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4〜6月のCasting Field事業は、売上高54億7,200万円でした",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "前年同期比3.8%減で、セグメント利益は1億100万円です",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "銑鉄鋳物の市場規模の推移 | 1985〜2024年",
+    "url": "https://the-shashi.com/market/precision/iron-castings/",
+    "pass": 3
+   },
+   {
+    "quote": "2005〜2024 年",
+    "url": "https://the-shashi.com/market/precision/iron-castings/",
+    "pass": 3
+   },
+   {
+    "quote": "出所：経済産業省 2024年経済構造実態調査",
+    "url": "https://www.sokeizai.or.jp/pages/58/",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額は2023年実績、従業員数・事業所数は2024年6月1日現在",
+    "url": "https://www.sokeizai.or.jp/pages/58/",
+    "pass": 3
+   },
+   {
+    "quote": "日本鉄リサイクル工業会の表では、鉄スクラップは2025年10月から2026年6月に1tあたり約1.2万円上がりました",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "公正取引委員会と中小企業庁は、2025年11月のリーフレットで、型の無償保管の勧告件数を示しました",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "公正取引委員会・中小企業庁「型の無償保管について、監視を強化しています」（2025年11月）",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "日本鉄リサイクル工業会の価格推移表で、鉄スクラップの価格を並べました",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "注 日本鉄リサイクル工業会の価格推移表（2026年10月13日更新）によります",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月から2026年6月までに、1tあたり約1.2万円上がりました",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "日本鋳鉄管は2025年6月、ダクタイル鋳鉄製品の10%以上の値上げを発表しました",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "対象は直管・異形管・付属品・鉄蓋類で、2025年8月1日受注分からです",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "前回の改定は2022年9月です",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "日本鉄リサイクル工業会 価格推移表（2026年10月13日更新）",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "日本鋳鉄管「ダクタイル鋳鉄製品価格改定のお願い」（2025年6月）",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "通期予想には、増産時の納期対応に伴う外注費の増加を見込んでいます",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "181名（2022年10月）",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "69名（2024年3月末）",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "60人（2024年9月）",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "大和重工は、2024年12月に株式会社Ｔコーポレーションの公開買付けの結果と親会社の異動を公表しました",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月には上場廃止のお知らせを出しています",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "出荷額は2023年実績、従業員数・事業所数は2024年6月1日現在",
+    "url": "https://www.sokeizai.or.jp/pages/58/",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "出荷額は2023年実績、従業員数・事業所数は2024年6月1日現在",
+    "url": "https://www.sokeizai.or.jp/pages/58/",
+    "pass": 3
+   },
+   {
+    "quote": "上場2社がそろって販売価格の改定を進めており、材料と人件費の上げ分は単価に乗るからです",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "130人・武蔵精密工業の子会社",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "60人（2024年9月）",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員は60人です（2024年9月）",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "選ぶ軸は3つで、見つけたいきず、判定する人の資格、出張か持ち込みかです",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "日本鉄リサイクル工業会の表では、鉄スクラップは2025年10月から2026年6月に1tあたり約1.2万円上がりました",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "模型代を仮に30万円と60万円に置いて、個数ごとの負担を出しました",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "模型代30万円のとき",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "模型代60万円のとき",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば木型代50万円、発泡模型1個10万円なら、模型代は5個で同額です",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月から2026年6月までに、1tあたり約1.2万円上がりました",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は54億7,200万円、セグメント利益は1億100万円です",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "スクラップは約1.2万円/t上昇",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "4,500万円",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金は5,000万円、従業員は181名です（2022年10月）",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "5,600万円",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4〜6月のCasting Field事業は、売上高54億7,200万円でした",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "前年同期比3.8%減で、セグメント利益は1億100万円です",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "20億271万円",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "高周波誘導炉5t×2・4t×2、生産能力は月1,600t",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "縦型の自動造型機2ラインで月600tの生産能力を持ちます",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "2007年に生産能力600tの新工場を動かしました",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "通期予想には、増産時の納期対応に伴う外注費の増加を見込んでいます",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "日本鋳造に新しく頼むなら、納期は長めに見込みます",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "増産に伴う納期対応の外注費を見込むと、会社自身が書いているからです",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "香川鋳造は、製品の仕様、素材、数量、納期を聞き取るとしています",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員12名の銑鉄鋳物の会社で、少量の注文、短納期、試作に対応すると書いています",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "小物の小ロット生産と、初期の試作を短納期で",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "受注の流れでは、製品の仕様、素材、数量、納期を聞き取ってから進めます",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月の決算短信では、増産に伴う納期対応の外注費増を見込んでいます",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "富山県高岡市で、0.1kg〜60kgの鋳鉄を多品種・少量・短納期で作る会社です",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の重さは0.1kg〜60kgで、多品種・少量・短納期に対応すると書いています",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ・マグネシウムの鋳造試作は、工法（石膏・砂型・簡易金型・ロストワックス・金属3Dプリント）で納期も精度も費用も変わります",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "2026年】鋳鉄・鋳鋼の砂型 鋳造の受託 おすすめ3選＋条件別の ... — 2026年】鋳鉄・鋳鋼の砂型 鋳造の受託 おすすめ3選＋条件別の ... hikaku-hub.com https://hikaku-hub.com > iron-casting-service",
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/cg2/%E9%8A%91%E9%89%84%E9%8B%B3%E7%89%A9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/file/06-Seisakujouhou-11800000-Shokugyounouryokukaihatsukyoku/0000171941.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://foundry.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imono-otasuke-110.com/newsdetail/%E6%BA%B6%E8%A7%A3%E6%99%82%E3%81%AB%E7%94%A8%E3%81%84%E3%82%89%E3%82%8C%E3%82%8B%E6%9D%90%E6%96%99%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kumeshouten.com/business02.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponsteel.com/product/catalog_download/__icsFiles/afieldfile/2025/09/10/B010je.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003191817",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je60/wp-je60bun-05-01z.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://the-shashi.com/market/precision/iron-castings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://castalloy.co.jp/handbook/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp010140006110108001/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kawaguchi-imono.jp/wp-content/uploads/ac7398f6f7b4e4b390706b207592e168.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kawaguchi-imono.jp/?p=5510",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji-tuki-tetu-27.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sokeizai.or.jp/files/libs/2516//20250619153636899.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/gaiyo/chosahyo/01_tekko.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&stat_infid=000012333102&layout=dataset&statdisp_id=0003145156",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/metal-casting-market/5133",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sokeizai.or.jp/pages/58/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tokei.pref.nagano.lg.jp/statist_list/24620.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/03/2251",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/nenkan/back60/08.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/products/foundry_solution/solution_detail/research_research01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digital.archives.go.jp/item/303887",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E9%8B%B3%E7%89%A9%E8%A3%BD%E9%80%A0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokai-sentetsu.co.jp/news/post_14.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hikaku-hub.com/iron-casting-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanmetaldaily.com/articles/-/109284",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daisensangyo.co.jp/service.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000311341.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sin-cast.com/kouchin.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jfs.or.jp/cs-shibu/fe-cast-impurities-003/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanmetal.com/news-t2014082251729.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jfs-tokai.jp/workshop/hitetsu_imono/hitetsu_imono_annai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_07_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://newscast.jp/news/0099933",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponsteel.com/ir/library/annual_report/pdf/nsc_jp_ir_2025_databook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.foundry-planet.com/d/japans-foundry-industry-an-early-indicator-of-structural-change-in-the-global-casting-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/series/JPNPEFANA",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/japan-semiconductor-foundry-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/japan-foundry-equipment-consumption-x5dye",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-foundry-casting-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vICEmvpTWHLNByFyvpZTylT9qrJ88117D2dLnz2UFpEJt3AJHvC",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "鋳造（銑鉄・非鉄）の受託",
+   "results": [
+    "https://mono.ipros.com/cg2/%E9%8A%91%E9%89%84%E9%8B%B3%E7%89%A9/",
+    "https://www.mhlw.go.jp/file/06-Seisakujouhou-11800000-Shokugyounouryokukaihatsukyoku/0000171941.pdf",
+    "https://foundry.jp/statistics/",
+    "https://www.imono-otasuke-110.com/newsdetail/%E6%BA%B6%E8%A7%A3%E6%99%82%E3%81%AB%E7%94%A8%E3%81%84%E3%82%89%E3%82%8C%E3%82%8B%E6%9D%90%E6%96%99%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "https://kumeshouten.com/business02.php",
+    "https://www.nipponsteel.com/product/catalog_download/__icsFiles/afieldfile/2025/09/10/B010je.pdf",
+    "https://www.k-tobei.co.jp/products/metal_material/",
+    "http://www.kawaguchi-imono.jp/wp-content/uploads/ac7398f6f7b4e4b390706b207592e168.pdf",
+    "https://www.daisensangyo.co.jp/service.html",
+    "https://k-nkt.co.jp/"
+   ]
+  },
+  {
+   "query": "鋳造（銑鉄・非鉄）の受託 推移",
+   "results": [
+    "https://foundry.jp/statistics/",
+    "https://www.e-stat.go.jp/dbview?sid=0003191817",
+    "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je60/wp-je60bun-05-01z.html",
+    "https://the-shashi.com/market/precision/iron-castings/",
+    "https://castalloy.co.jp/handbook/data/",
+    "https://jp.gdfreak.com/public/detail/jp010140006110108001/1",
+    "http://www.kawaguchi-imono.jp/wp-content/uploads/ac7398f6f7b4e4b390706b207592e168.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://service.xenobrain.jp/forecastresults/market-size/pig-iron-wholesale",
+    "https://monoscope-media.com/steel-nonferrous-market/"
+   ]
+  },
+  {
+   "query": "鋳造（銑鉄・非鉄）の受託 統計 PDF",
+   "results": [
+    "https://www.kawaguchi-imono.jp/?p=5510",
+    "https://foundry.jp/statistics/",
+    "http://www.etisa.or.jp/mokuji-tuki-tetu-27.pdf",
+    "https://www.sokeizai.or.jp/files/libs/2516//20250619153636899.pdf",
+    "https://www.meti.go.jp/statistics/tyo/seidou/gaiyo/chosahyo/01_tekko.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&stat_infid=000012333102&layout=dataset&statdisp_id=0003145156",
+    "https://www.mhlw.go.jp/file/06-Seisakujouhou-11800000-Shokugyounouryokukaihatsukyoku/0000171941.pdf",
+    "https://www.researchnester.com/ja/reports/metal-casting-market/5133",
+    "https://www.kentei.javada.or.jp/viewer/viewer.html?file=/pdf/R04%2D1%2DB04%2D9%2D%E3%82%A4%2D%E9%8B%B3%E9%80%A0%EF%BC%88%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E9%8B%B3%E7%89%A9%E9%8B%B3%E9%80%A0%E4%BD%9C%E6%A5%AD%EF%BC%89%2D1%E7%B4%9A%2D%E8%A8%88%E7%94%BB%E7%AB%8B%E6%A1%88%E7%AD%89%E4%BD%9C%E6%A5%AD%E8%A9%A6%E9%A8%93%2D%E5%95%8F%E9%A1%8C%2Epdf",
+    "https://www.meti.go.jp/statistics/tyo/seidou/gaiyo/chosahyo/pdf/2024/2530.pdf"
+   ]
+  },
+  {
+   "query": "鋳造（銑鉄・非鉄）の受託 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.sokeizai.or.jp/pages/58/",
+    "https://foundry.jp/statistics/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://tokei.pref.nagano.lg.jp/statist_list/24620.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.city.tsubame.niigata.jp/soshiki/somu/1/toukei/3336.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result1_2025_2.html"
+   ]
+  },
+  {
+   "query": "鋳造（銑鉄・非鉄）の受託 従業者規模別",
+   "results": [
+    "https://foundry.jp/statistics/",
+    "https://www.researchnester.com/ja/reports/metal-casting-market/5133",
+    "https://www.sokeizai.or.jp/pages/58/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "http://www.kawaguchi-imono.jp/wp-content/uploads/ac7398f6f7b4e4b390706b207592e168.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2251",
+    "https://www.stat.go.jp/data/nenkan/back60/08.html",
+    "https://www.fujielectric.co.jp/products/foundry_solution/solution_detail/research_research01.html",
+    "https://www.digital.archives.go.jp/item/303887",
+    "https://mono.ipros.com/cg2/鋳物製造サービス/"
+   ]
+  },
+  {
+   "query": "鋳造（銑鉄・非鉄）の受託 1人当たり 万円",
+   "results": [
+    "https://www.mhlw.go.jp/file/06-Seisakujouhou-11800000-Shokugyounouryokukaihatsukyoku/0000171941.pdf",
+    "https://www.tokai-sentetsu.co.jp/news/post_14.html",
+    "https://kumeshouten.com/business02.php",
+    "https://foundry.jp/statistics/",
+    "https://hikaku-hub.com/iron-casting-service/",
+    "https://www.japanmetaldaily.com/articles/-/109284",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.daisensangyo.co.jp/service.html",
+    "https://www.soumu.go.jp/main_content/000311341.pdf",
+    "https://www.sin-cast.com/kouchin.html"
+   ]
+  },
+  {
+   "query": "鋳造（銑鉄・非鉄）の受託 2015 2025",
+   "results": [
+    "https://foundry.jp/statistics/",
+    "https://www.mhlw.go.jp/file/06-Seisakujouhou-11800000-Shokugyounouryokukaihatsukyoku/0000171941.pdf",
+    "https://www.researchnester.com/ja/reports/metal-casting-market/5133",
+    "https://jfs.or.jp/cs-shibu/fe-cast-impurities-003/",
+    "http://www.kawaguchi-imono.jp/wp-content/uploads/ac7398f6f7b4e4b390706b207592e168.pdf",
+    "https://www.japanmetal.com/news-t2014082251729.html",
+    "https://jfs-tokai.jp/workshop/hitetsu_imono/hitetsu_imono_annai/",
+    "https://www.sokeizai.or.jp/files/libs/2516//20250619153636899.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_07_00.pdf",
+    "https://newscast.jp/news/0099933"
+   ]
+  },
+  {
+   "query": "foundry industry Japan statistics employees production Japan statistics",
+   "results": [
+    "https://www.foundry-planet.com/d/japans-foundry-industry-an-early-indicator-of-structural-change-in-the-global-casting-industry/",
+    "https://fred.stlouisfed.org/series/JPNPEFANA",
+    "https://www.mordorintelligence.com/industry-reports/japan-semiconductor-foundry-market",
+    "https://www.linkedin.com/pulse/japan-foundry-equipment-consumption-x5dye",
+    "https://www.imarcgroup.com/japan-foundry-casting-market",
+    "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vICEmvpTWHLNByFyvpZTylT9qrJ88117D2dLnz2UFpEJt3AJHvC",
+    "https://www.afsinc.org/industry-statistics",
+    "https://cetas.turing.ac.uk/publications/japans-chip-challenge-semiconductor-policy-data-centre-era",
+    "https://www.aceee.org/wp-content/uploads/proceedings-1980-2020/1995/SS95_Panel1_Paper11.pdf",
+    "https://www.meti.go.jp/english/statistics/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 鋳造（銑鉄・非鉄）の受託",
+   "results": [
+    "https://note.com/sqcd_aid/n/n8e70a2599159",
+    "https://note.com/qy_research/n/nc59e0918a0cd",
+    "https://note.com/brainy_iguana485/n/nb9c2ab50a68d",
+    "https://note.com/edge_creators/n/nb03f9bd9eac3",
+    "https://note.com/3n7no_tech_pr/n/nc8bee2088e9e",
+    "https://note.com/rm_sasaki/n/n85f77630f6f8",
+    "https://note.com/mohit_gupta/n/nc4f9ca95d83c"
+   ]
+  },
+  {
+   "query": "site:x.com 鋳造（銑鉄・非鉄）の受託",
+   "results": [
+    "https://x.com/jampt_official/status/1968861562887700836",
+    "https://x.com/morikatyuzou",
+    "https://x.com/sangyo_web/status/2082658736473358551",
+    "https://x.com/KimuraFoundry",
+    "https://x.com/sangyo_web",
+    "https://x.com/TEKKOSHIMBUN",
+    "https://x.com/Gribeauval1942/status/2087316743740100922"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 鋳造（銑鉄・非鉄）の受託",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 鋳造（銑鉄・非鉄）の受託",
+   "results": [
+    "https://www.facebook.com/sakaifoundry/",
+    "https://www.facebook.com/KimuraFoundry/",
+    "https://www.facebook.com/kawawachuzosyo/",
+    "https://www.facebook.com/victoriajustice/photos/",
+    "https://www.facebook.com/hicast1916/posts/1595293297233320/",
+    "https://www.facebook.com/kamechu1946/",
+    "https://www.facebook.com/oigen1852/"
+   ]
+  },
+  {
+   "query": "鋳造（銑鉄・非鉄）の受託 note 社長",
+   "results": [
+    "https://note.com/sqcd_aid/n/n8e70a2599159",
+    "https://note.com/mobio_osaka/n/ndf27d8663533",
+    "https://www.mhlw.go.jp/file/06-Seisakujouhou-11800000-Shokugyounouryokukaihatsukyoku/0000171941.pdf",
+    "https://note.com/hashtag/%E9%8B%B3%E7%89%A9",
+    "https://foundry.jp/publications/hitetsu-video/",
+    "https://note.com/keitafukui/n/nc45ac53ebee4",
+    "https://note.com/kuritasangyoh/n/nee94c93769d4",
+    "https://www.boring-processing.com/knowledge/casting-outsourcing.html",
+    "https://jms-support.jp/column/%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E9%8B%B3%E7%89%A9%E8%A3%BD%E9%80%A0%E6%A5%AD%E7%95%8C%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%EF%BD%8D%EF%BC%86%EF%BD%81%E6%88%90%E5%8A%9F%E3%81%AE%E3%83%9D%E3%82%A4/",
+    "https://gijutsu-keisho.com/adviser/detail/10255/"
+   ]
+  },
+  {
+   "query": "鋳造（銑鉄・非鉄）の受託 X 投稿",
+   "results": [
+    "https://foundry.jp/publications/hitetsu-video/",
+    "https://www.mhlw.go.jp/file/06-Seisakujouhou-11800000-Shokugyounouryokukaihatsukyoku/0000171941.pdf",
+    "https://www.nipponsteel.com/product/catalog_download/__icsFiles/afieldfile/2025/09/10/B010je.pdf",
+    "https://jfs.or.jp/cs-shibu/fe-cast-impurities-003/",
+    "http://www.kawaguchi-imono.jp/wp-content/uploads/ac7398f6f7b4e4b390706b207592e168.pdf",
+    "https://kentei.javada.or.jp/viewer/viewer.html?file=/pdf/R02%2DK03%E3%83%BB04%2D4%2D%E5%9F%BA%E7%A4%8E%E7%B4%9A%2D%E9%8B%B3%E9%80%A0%EF%BC%88%E9%8B%B3%E9%89%84%E9%8B%B3%E7%89%A9%E9%8B%B3%E9%80%A0%E4%BD%9C%E6%A5%AD%E3%83%BB%E9%9D%9E%E9%89%84%E9%87%91%E5%B1%9E%E9%8B%B3%E7%89%A9%E9%8B%B3%E9%80%A0%E4%BD%9C%E6%A5%AD%EF%BC%89%2D%E5%AE%9F%E6%8A%80%E8%A9%A6%E9%A8%93%E5%95%8F%E9%A1%8C%2Epdf",
+    "https://www.imono-otasuke-110.com/newsdetail/%E6%BA%B6%E8%A7%A3%E6%99%82%E3%81%AB%E7%94%A8%E3%81%84%E3%82%89%E3%82%8C%E3%82%8B%E6%9D%90%E6%96%99%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "https://patents.google.com/patent/JPH0533028A/ja",
+    "https://www.ipros.com/cg2/%E9%8A%91%E9%89%84%E9%8B%B3%E7%89%A9/",
+    "https://x.com/kotetsu20230308/status/2117420402100383911"
+   ]
+  },
+  {
+   "query": "foundry industry Japan statistics employees production site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/comprehensive-evaluation-sustainability-japan-foundry-hhlke",
+    "https://www.linkedin.com/company/kimura-foundry-america",
+    "https://uk.linkedin.com/company/foundryteam",
+    "https://www.linkedin.com/pulse/pure-play-semiconductor-foundry-market-us-japan-korea-europe-oqasf",
+    "https://www.linkedin.com/company/samsungsemiconductor",
+    "https://www.linkedin.com/pulse/mems-wafer-foundry-market-us-japan-korea-europe-global-cxwdf",
+    "https://www.linkedin.com/posts/colley-hwang-06a8205_22-semiconductor-and-asian-ict-supply-chain-activity-7435151246472175616-h8gA",
+    "https://www.linkedin.com/pulse/foundry-additives-market-global-outlook-us-japan-korea-europe-mzg7f",
+    "https://www.linkedin.com/pulse/foundry-revenue-growth-report-2026-2033-ohm-orbit-jyvoe",
+    "https://www.linkedin.com/in/doug-kurkul-iom-56691310"
+   ]
+  }
+ ],
+ "missing": {}
+}

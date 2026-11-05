@@ -1,0 +1,775 @@
+{
+ "name": "地方の製造業のUターン・移住採用",
+ "en": "regional manufacturing U-turn recruitment",
+ "aliases": [
+  "Uターン 採用 製造業",
+  "移住 就職 町工場",
+  "地方 製造業 人材確保"
+ ],
+ "context": "採用支援",
+ "kind": "market",
+ "researched_at": "2026-11-05T00:45:53.514860+00:00",
+ "evidence": {
+  "料金": [
+   {
+    "quote": "都会ではワンルームマンションでも月額7〜8万円ほどと言われています",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "対象地域に移住すると、単身の場合は1人60万円以内、夫婦の場合は100万円以内が交付されます",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "東京圏から移住すると、39歳以下の場合最大25万円がもらえる",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "就業目的で市貝町内へUターンした18歳以上30歳以下の人が、正職で就業した場合は1人あたり10万円が交付される",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "県外から移住して県内で林業に就業すると、最大100万円の支援金が受け取れる",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "東京圏、中京圏（愛知）、近畿圏（京都・大阪・兵庫）、広島県、福岡県から移住し、移住等に関する要件を満たしたうえで山口県内でテレワーク勤務を週20時間以上すると、30〜50万円の補助金が受け取れる",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "18歳未満の家族も帯同する場合は、18歳未満の方1人あたり50万円を加算",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "連続して1年以上、三大都市圏（東京圏・大阪圏・名古屋圏）ならびに福岡県に在住かつ通勤していた人が移住し、中小企業へ就職するなど要件を満たす29歳以下の方は、最大30万円が受け取れる",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "単身60万円・世帯100万円",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "平均年収は460万円（2023年）",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "単身60万円／世帯100万円が上限",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "移住支援金（最大100万円／単身60万円）や、",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "：館林市のUIターン10万円、益子町の雇用支援など―自治体の制度は“探せば見つかる”",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "【家賃0円】移住すると家がもらえる!?家(無料)＋補助金のある移住先を大公開！",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "東京圏からの移住者を対象に、最大100万円（単身者60万円）の補助金を支給しています",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "京都府内にUターンをする場合、最大100万円の補助金を申請できる",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "単身者30～50万円、世帯主60～100万円の支援",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "空き家購入者に最大100万円の補助（対象経費の1/3）",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "地方ではもう1本、経歴を登録して企業側からの連絡を待つ窓口も持っておくと動きやすくなります",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "無料プラン（スタンダードステージ）でできるのは次の2つです",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイトには「年収1,000万円以上の求人が5割以上」と書かれています（2026年8月30日確認）",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "市町村名で絞ると数件しか出ないエリアでも、自宅から通勤1時間の円を描き直して県庁所在地や近くの工業団地まで含めれば、同じ職種のまま候補が二桁に乗ることは珍しくありません",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "就業ではなく移住先での起業を選ぶ場合は、地域課題の解決に関わる社会的事業の起業で最大200万円まで支援を受けられます（同ページ「移住支援金とは」・2026年9月11日確認）",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「令和7年賃金構造基本統計調査」の都道府県別賃金（第8図）で、一般労働者の賃金が全国計（34万600円）を上回ったのは、東京都・神奈川県・愛知県・大阪府の4都府県だけでした（2026年8月16日確認）",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "額は世帯で最大100万円、単身で最大60万円です",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "国の地方創生移住支援事業では、東京23区在住または東京圏から23区へ通勤していた方が対象地域へ移住し、対象求人に就業した場合、世帯で最大100万円、単身で最大60万円が支給されます",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "18歳未満の子どもを帯同するときは1人あたり最大100万円が加算されます",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "北海道へ移住すると「最大100万円の移住支援金」",
+    "url": "https://nobels.co.jp/nobelswave/country_living/uij/",
+    "pass": 3
+   },
+   {
+    "quote": "【旅費最大6万円補助！帯広・十勝移住応援プラン】",
+    "url": "https://nobels.co.jp/nobelswave/country_living/uij/",
+    "pass": 3
+   }
+  ],
+  "効果": [
+   {
+    "quote": "これは、通常の転職にかかる期間の2倍以上となっています",
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "pass": 3
+   },
+   {
+    "quote": "を1人つけると、移住者の定着率が大きく向上します",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "1人採用すれば終わりではなく、",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（季節調整値）は全国1.22倍",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "宮崎県の2025年7月の有効求人倍率は1.22倍",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "例：香川県の職業別常用有効求人倍率（2025年7月）で「建設躯体工事の職業」",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "全国の求人倍率は1.22倍",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "年間700名採用を実現する日清医療食品が、 全国の支店を束ね...",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   }
+  ],
+  "売り手": [
+   {
+    "quote": "UIJターン採用を成功させる方法｜地方企業の人材戦略 | 株式会社Sei San Sei",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社として提供する移住支援メニューを具体的に明記",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社が物件情報を提供する、社宅を用意する、不動産会社と連携する",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "家族帯同なら学校情報の提供も重要になります",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Sei San Seiでは、地方企業向けに",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Sei San Sei 代表取締役CEO",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社i-plugが2026年卒の学生を対象に行った「希望する居住地に関する調査」によって、「大学進学時に地元を離れた」者の内、「いずれは地元に戻りたい」と回答した者は35.8％、「すぐにでも地元に戻りたい」と回答した者は10.7％と、4割を超える者が「地元に帰りたい」と答えたことが発表されました",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "「希望する居住地に関する調査」(株式会社i-plug)",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "４．自治体が提供する様々な支援",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "主にライフステージの変化に伴って地元に帰ることが多く、上記の、株式会社i-plugによる調査を参照すると、2026年卒で地元に戻ることを希望するライフステージの変化として最多となったのは、31.0％の「大学を卒業したらすぐに」という回答でした",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "自治体が提供する様々な支援内容を、具体例を挙げながら説明します",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "自治体が地元企業と連携し、企業情報を提供しています",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "また、空き店舗活用補助金や創業助成金も提供されています",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "辞退に至った背景を丁寧に把握したうえで、給与や福利厚生、勤務地などの条件を柔軟に再提示することで、候補者の懸念を解消し、再度の検討機会を提供することができます",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "４．スキル還元・成長機会の提供",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "これは、辞退経験者が再度応募し、現在企業内で活躍している姿を可視化・発信することで、候補者に対して安心感と希望を提供し、再チャレンジを促すものです",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "街ツク株式会社(本社 京都府京都市)は、内定辞退者に特化したタレントプールサービスMusePass(ミューズパス)を運営しております",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "応募書類の添削、面接対策、企業情報の提供まで相談できます",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "地元企業と直接つながっている民間の転職エージェント・求人サイトと、県や自治体、UIターン支援団体が運営する公的サイト",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "札幌を中心に北海道で30年以上サービスを運営しています",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "』は、青森県上北郡の株式会社Jサポートが運営する転職エージェントです",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "』は、ジョブカフェいわてが運営する岩手の求人に特化した求人サイトです",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "』は、山形県山形市の株式会社ジンジャーズが運営する転職エージェントです",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "http://ouencompany.com/",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "』は、福島県郡山市の株式会社みんなの味方が運営する、福島に特化した総合人材サービスです",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "』は、山梨県富士吉田市に本社がある日富士株式会社が運営する山梨専門の転職エージェントです",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "福井県で知名度のあるメディア「月刊URALA」の会社が運営しており、地元の企業とのつながりが強いことが特徴です",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "』は、石川県金沢市に本社がある株式会社カラフルカンパニーが運営する転職エージェントです",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "」は、名古屋に本社がある株式会社MUSUBUが運営する転職エージェントです",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "運営会社である株式会社アルバイトタイムス（東証スタンダード上場）は、求人事業を50年以上行っているため、静岡・愛知の地場企業とのグリップが強く、独自の求人も保有しています",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "』は、千葉県船橋市の株式会社千葉キャリが運営する千葉の求人に特化した転職サイトです",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "これまで約20年求人サイトを運営してきた実績があり、掲載企業は原則すべて訪問しているため、千葉の地元企業や転職事情に精通していることが特徴です",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "働き方の多様化は、「必ずしもオフィスで集まる必要はない」と企業運営の有り方も変えました",
+    "url": "https://nobels.co.jp/nobelswave/country_living/uij/",
+    "pass": 3
+   },
+   {
+    "quote": "3泊以上滞在する方に対し、民間事業者（ちょっと暮らしサポーター）と連携し、滞在施設が割安で提供されるほか、地域での生活などに関する情報提供を行う「ちょっと暮らし」施設を紹介しています",
+    "url": "https://nobels.co.jp/nobelswave/country_living/uij/",
+    "pass": 3
+   },
+   {
+    "quote": "「ノベルズウェーブ」ではそんな皆さんに役立つ情報を提供するほか、「ノベルズグループ採用サイト」では、現在募集中の求人情報を紹介していますので、併せてご参照ください",
+    "url": "https://nobels.co.jp/nobelswave/country_living/uij/",
+    "pass": 3
+   }
+  ],
+  "継続・規模": [
+   {
+    "quote": "2023年にSei San Seiを設立し、大手製造メーカーをはじめ累計30社以上の採用・業務改善支援を手掛ける",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "２．継続的な関係構築プログラム",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "30万件以上",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "1,769,000件以上",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   }
+  ],
+  "採用の困りごと": [
+   {
+    "quote": "人材確保等支援助成金、地域雇用開発助成金など、社労士に相談しながら活用すると採用コストを抑えられます",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の解決策｜地方企業が取り組むべき採用戦略と業務改革",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "著書に『仕事や将来に迷った時に、若手キャリア層のこれからの描き方』がある",
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "pass": 3
+   },
+   {
+    "quote": "構造的な人手不足が続き、地方ほど採用確度が高い分野です",
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "pass": 3
+   },
+   {
+    "quote": "企業にとって、こうしたUターン希望者との関係を再構築することは、採用コストを抑えながら地元に根付いた優秀な人材と再びつながる、大きなチャンスとなります",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "若手採用の強化に向けて――優秀な候補者と“辞退後”も良い関係...",
+    "url": "https://www.musepass.jp/info/research_8",
+    "pass": 3
+   },
+   {
+    "quote": "エリア版・都道府県版で若手や未経験の地方求人を探す",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "若手採用や未経験職種も見たい人は、勤務地だけで絞り込まず、職種や働き方の条件も変えながら確認してください",
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、求人件数は少ないですし、仕事の業種も限られますが、人手不足は都会よりも顕著なので、ご自身のこれまでの経験を棚卸しすれば、活躍できる業種はみつかります」",
+    "url": "https://nobels.co.jp/nobelswave/country_living/uij/",
+    "pass": 3
+   },
+   {
+    "quote": "「食」を支える農業と漁業は国の保護産業ですが、担い手や後継者不足による人手不足が最大の課題です",
+    "url": "https://nobels.co.jp/nobelswave/country_living/uij/",
+    "pass": 3
+   }
+  ],
+  "法的な区分": [
+   {
+    "quote": "すでに自治体への相談の中で仕事の話も出ているので、求人媒体や職業紹介を受けていると思います",
+    "url": "https://nobels.co.jp/nobelswave/country_living/uij/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.717450.net/special/knowledge/UIJturn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saiyo-commit.com/chihou/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/ui_turn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rework.nexly.co.jp/column/i-turn-rural-career-change/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://chihouand.jp/uiturn-hiring/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://one-group.jp/humanresource/use/career_reccomend.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-ad-performance-reward",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carryme.jp/agent/ad-for-job/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.onecareer.jp/blog/job_board_pay_per_hire",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://batonz.jp/learn/2568/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seedsjp.com/allcontents/career/3154/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scinex.co.jp/magazine/20250124/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/local-recruitment-examples/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tracom.co.jp/tralog/rural/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dym.asia/media/regional-recruitment-success-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unicell.co.jp/case/case_firstsystem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musepass.jp/info/research_8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.san-oh.co.jp/recruit/topics/577/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.lvn.co.jp/column/%E5%9C%B0%E6%96%B9%E8%BB%A2%E8%81%B7%E3%81%AE3%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%80%82u%E3%82%BF%E3%83%BC%E3%83%B3%E3%83%BBj%E3%82%BF%E3%83%BC%E3%83%B3%E3%83%BBi%E3%82%BF%E3%83%BC%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nobels.co.jp/nobelswave/country_living/uij/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.rikunabi.com/selection/job_search/kw/%E7%A7%BB%E4%BD%8F/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "地方の製造業のUターン・移住採用 料金 月額",
+   "results": [
+    "https://www.717450.net/special/knowledge/UIJturn/",
+    "https://saiyo-commit.com/chihou/",
+    "https://tenshoku.mynavi.jp/ui_turn/",
+    "https://rework.nexly.co.jp/column/i-turn-rural-career-change/",
+    "https://chihouand.jp/uiturn-hiring/",
+    "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "https://nagasaki-iju.jp/topics/topics-2086/",
+    "https://www.jobs-go.jp/knowhow/column/change-job/knowhow/u-turn-moving/",
+    "https://local-syukatsu.mhlw.go.jp/syukatsu/hojyokin_2026/"
+   ]
+  },
+  {
+   "query": "地方の製造業のUターン・移住採用 成果報酬 採用課金",
+   "results": [
+    "https://saiyo-commit.com/chihou/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/",
+    "https://one-group.jp/humanresource/use/career_reccomend.html",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-ad-performance-reward",
+    "https://carryme.jp/agent/ad-for-job/",
+    "https://service.onecareer.jp/blog/job_board_pay_per_hire",
+    "https://www.tracom.co.jp/tralog/performance-based-recruiting/",
+    "https://levtech.jp/partner/guide/article/detail/111/",
+    "https://www.n-lights.com/nlplus/oubokakin-kyujinbaitai/"
+   ]
+  },
+  {
+   "query": "地方の製造業のUターン・移住採用 導入実績 社",
+   "results": [
+    "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "https://batonz.jp/learn/2568/",
+    "https://tenshoku.mynavi.jp/ui_turn/",
+    "https://rework.nexly.co.jp/column/i-turn-rural-career-change/",
+    "https://chihouand.jp/uiturn-hiring/",
+    "https://www.717450.net/special/knowledge/UIJturn/",
+    "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "https://www.seedsjp.com/allcontents/career/3154/",
+    "https://www.scinex.co.jp/magazine/20250124/",
+    "https://kurashi-kenchiku.com/recruit/471/"
+   ]
+  },
+  {
+   "query": "地方の製造業のUターン・移住採用 事例 応募数 採用",
+   "results": [
+    "https://service.r-4.co.jp/knowhow/recruiting/local-recruitment-examples/",
+    "https://www.tracom.co.jp/tralog/rural/",
+    "https://dym.asia/media/regional-recruitment-success-guide/",
+    "https://unicell.co.jp/case/case_firstsystem",
+    "https://www.musepass.jp/info/research_8",
+    "https://thanks-gift.net/column/engagement/local-companies-cannot-hire/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tihoukigyou-saiyou-191122/",
+    "https://batonz.jp/learn/2568/",
+    "https://rs-lab.co.jp/blog_02212025/",
+    "https://kurashi-kenchiku.com/recruit/471/"
+   ]
+  },
+  {
+   "query": "地方の製造業のUターン・移住採用 会社 一覧 比較",
+   "results": [
+    "https://www.san-oh.co.jp/recruit/topics/577/",
+    "https://tenshoku.mynavi.jp/ui_turn/",
+    "https://dual-life-iju.com/magazine/category/emigration/tensyoku/",
+    "https://www.717450.net/special/knowledge/UIJturn/",
+    "https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area",
+    "https://recruit.lvn.co.jp/column/%E5%9C%B0%E6%96%B9%E8%BB%A2%E8%81%B7%E3%81%AE3%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%80%82u%E3%82%BF%E3%83%BC%E3%83%B3%E3%83%BBj%E3%82%BF%E3%83%BC%E3%83%B3%E3%83%BBi%E3%82%BF%E3%83%BC%E3%83%B3/",
+    "https://nobels.co.jp/nobelswave/country_living/uij/",
+    "https://job.rikunabi.com/selection/job_search/kw/%E7%A7%BB%E4%BD%8F/",
+    "https://cheercareer.jp/ip_blogs/696",
+    "https://ii-nippon.jp/industries/1"
+   ]
+  },
+  {
+   "query": "site:note.com 地方の製造業のUターン・移住採用",
+   "results": [
+    "https://note.com/node_biz/n/n43f582a8c3f2",
+    "https://note.com/jolly_stoat9381/n/n39fa70e4b783",
+    "https://note.com/sennominato/n/n8b13be05aebc",
+    "https://note.com/jinjibuouendan/n/n8d69253dd07b",
+    "https://note.com/dualijulife/n/nc94e45202c8e",
+    "https://note.com/iju_planner/n/n8b980aed9567",
+    "https://note.com/hidemaru1976/n/n45511396fd41",
+    "https://note.com/frank_pr/n/n9b635b966836",
+    "https://note.com/sharemachi/n/nf25386fc85bf",
+    "https://note.com/maruneko50/n/n0b1185b8a2d2"
+   ]
+  },
+  {
+   "query": "site:x.com 地方の製造業のUターン・移住採用",
+   "results": [
+    "https://x.com/hurex_hurex",
+    "https://x.com/Panasonic_IN_JP/status/2094258931455734183",
+    "https://x.com/youturn_jp",
+    "https://x.com/humanindex",
+    "https://x.com/Achieve_Career",
+    "https://x.com/dual_iju",
+    "https://x.com/shikokutenshoku",
+    "https://x.com/regions_miyagi",
+    "https://x.com/softopia_pr",
+    "https://x.com/Local_syukatsu"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 地方の製造業のUターン・移住採用",
+   "results": [
+    "https://jp.linkedin.com/company/regionalstyle",
+    "https://jp.linkedin.com/in/taiheik",
+    "https://id.linkedin.com/jobs/view/%EF%BC%9C%E5%A5%91%E7%B4%84%E7%A4%BE%E5%93%A1%EF%BC%9E%E4%BC%81%E7%94%BB%E9%81%8B%E5%96%B6%E8%81%B7%EF%BC%88%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%81%AE%E6%8E%A2%E6%9F%BB%E3%83%BB%E4%BA%8B%E6%A5%AD%E5%8C%96%E6%8E%A8%E9%80%B2%EF%BC%89%E5%8B%9F%E9%9B%86%21%21%E5%9C%9F%E6%97%A5%E7%A5%9D%E4%BC%91%E3%81%BF%EF%BC%86%E6%AE%8B%E6%A5%AD%E5%B0%91%E3%81%AA%E3%82%81%E2%97%8E-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%97%E3%81%94%E3%81%A8%E3%83%9E%E3%83%AB%E3%82%B7%E3%82%A7-4457743040",
+    "https://jp.linkedin.com/posts/satorushibata_%E6%B5%B7%E5%A4%96%E7%B5%8C%E9%A8%93%E8%B1%8A%E5%AF%8C%E3%81%AA%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%88%E5%95%86%E7%A4%BE%E3%83%9E%E3%83%B3%E3%81%8C%E5%8C%97%E6%B5%B7%E9%81%93%E3%81%AE%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AB%E5%86%8D%E5%B0%B1%E8%81%B7%E3%81%99%E3%82%8B%E3%81%BE%E3%81%A7-%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-activity-7443783571267489792-cQOm",
+    "https://jp.linkedin.com/in/yosei-yatani-56ba54ba",
+    "https://jp.linkedin.com/in/masakazuharada",
+    "https://jp.linkedin.com/in/%E6%8B%93%E7%A3%A8-%E5%BE%8C%E8%97%A4-99b9682b1",
+    "https://jp.linkedin.com/in/mami-morikawa-8745bb12a",
+    "https://jp.linkedin.com/in/%E9%82%A6%E9%9B%84-%E5%B7%9D%E7%95%91-412b01a8",
+    "https://jp.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%83%BB%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88"
+   ]
+  },
+  {
+   "query": "site:facebook.com 地方の製造業のUターン・移住採用",
+   "results": [
+    "https://www.facebook.com/furusato.osaka/posts/%E5%B1%B1%E5%8F%A3%E7%9C%8C%E3%81%95%E3%82%93%E3%82%88%E3%82%8A%E3%81%94%E6%A1%88%E5%86%85%E3%81%A7%E3%81%99%E9%96%A2%E8%A5%BF%E5%9C%B0%E6%96%B9%E3%81%AB%E3%81%8A%E4%BD%8F%E3%81%BE%E3%81%84%E3%81%AE%E6%96%B9%E5%BF%85%E8%A6%8B-12%E6%9C%8812%E6%97%A5%E5%9C%9F%E5%A4%A7%E9%98%AA%E6%A2%85%E7%94%B0%E9%96%8B%E5%82%AC%E5%B1%B1%E5%8F%A3%E7%9C%8C%E5%90%88%E5%90%8C%E4%BC%81%E6%A5%AD%E5%B0%B1%E8%81%B7%E8%AA%AC%E6%98%8E%E4%BC%9A%E5%B1%B1%E5%8F%A3%E7%9C%8C%E5%86%85%E4%BC%81%E6%A5%AD-%E7%B4%8420%E7%A4%BE%E3%81%8C%E5%8F%82%E5%8A%A0%E4%BC%81%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E6%8B%85%E5%BD%93%E8%80%85%E3%81%A8%E7%9B%B4%E6%8E%A5%E8%A9%B1%E3%81%97%E3%81%A6%E3%83%9B/1543861681107335/",
+    "https://www.facebook.com/hokuriku.jinzai.kaihatsu.support/videos/%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%88%E3%82%8A%E5%A4%B1%E7%A4%BC%E8%87%B4%E3%81%97%E3%81%BE%E3%81%99%E4%BA%BA%E8%B2%A1%E4%B8%8D%E8%B6%B3%E3%81%A3%E3%81%A6%E4%BD%95%E5%87%A6%E3%81%AE%E3%81%8A%E8%A9%B1%E3%81%A7%E3%81%99%E3%81%8B%E5%85%A8%E7%B7%A8%E5%8B%95%E7%94%BB%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89httpsyoutubetry3yocj1_4%E7%A4%BE%E9%95%B7%E3%81%AB%E4%BC%9A%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E7%AA%81%E6%92%83tops-%E9%A3%B2%E6%96%99%E5%8C%BB%E8%96%AC%E3%81%AE%E5%AE%89/1739357499443850/",
+    "https://www.facebook.com/mutsubi/posts/%E5%81%A5%E5%BA%B7%E9%A3%9F%E5%93%81%E3%81%AE%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A7%E5%96%B6%E6%A5%AD%E8%81%B7%E3%81%AE%E5%8B%9F%E9%9B%86%E3%81%A7%E3%81%99%E4%BA%BA%E3%81%A8%E6%8E%A5%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E5%96%B6%E6%A5%AD%E3%81%AE%E7%B5%8C%E9%A8%93%E3%82%84%E8%A3%BD%E8%96%AC%E9%96%A2%E4%BF%82%E3%81%AE%E7%9F%A5%E8%AD%98%E3%82%92%E6%B4%BB%E3%81%8B%E3%81%97%E3%81%A6%E5%BE%B3%E5%B3%B6%E3%81%A7%E3%81%9A%E3%81%A3%E3%81%A8%E5%83%8D%E3%81%8D%E3%81%9F%E3%81%84%E6%96%B9%E3%81%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E6%B1%82%E4%BA%BA%E3%81%A7%E3%81%99%E5%8B%A4%E5%8B%99%E5%9C%B0%E3%81%AF%E5%BE%B3%E5%B3%B6%E5%B8%82%E3%81%A7%E8%BB%A2/1568263665099471/",
+    "https://www.facebook.com/linkambition/?locale=ja_JP",
+    "https://www.facebook.com/marie.nimura.98/posts/2270368780362516/",
+    "https://www.facebook.com/syoukeijinzai/?locale=ja_JP",
+    "https://www.facebook.com/tcru.tokachi/posts/%E6%8E%A1%E7%94%A8%E3%81%A3%E3%81%A6%E3%81%BB%E3%82%93%E3%81%A8%E3%81%AB%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84%E3%82%B9%E3%82%AD%E3%83%AB%E3%81%8C%E3%81%82%E3%82%8B%E4%BA%BA%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%83%B3%E3%81%84%E3%81%8C%E3%81%82%E3%82%8B%E4%BA%BA%E3%81%A7%E3%82%82%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AB%E5%90%88%E3%81%86%E3%81%8B%E3%81%AF%E5%88%A5%E3%81%AE%E8%A9%B1%E3%81%A0%E3%81%A3%E3%81%9F%E3%82%8A%E3%82%84%E3%82%8B%E6%B0%97%E3%81%AF%E3%81%82%E3%82%8B%E3%81%91%E3%81%A9%E6%9C%AC%E5%BD%93%E3%81%AB%E6%B4%BB%E8%BA%8D%E3%81%A7%E3%81%8D%E3%82%8B%E7%B5%8C%E9%A8%93%E3%81%AF%E3%83%90%E3%83%83%E3%83%81%E3%83%AA%E3%81%A0%E3%81%91%E3%81%A9%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E3%82%AF%E3%82%BB%E3%81%8C%E5%BC%B7/122260725872204194/",
+    "https://www.facebook.com/naganojinji/posts/%E6%96%B0%E8%A6%8F%E6%B1%82%E4%BA%BA%E6%B1%82%E3%82%80%E3%83%81%E3%83%BC%E3%83%A0%E4%B8%89%E6%B3%B0%E3%81%AE%E4%B8%80%E5%93%A1%E3%81%A8%E3%81%97%E3%81%A6%E6%88%90%E9%95%B7%E3%81%AB%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E5%85%B1%E3%81%AB%E5%88%87%E7%A3%8B%E7%90%A2%E7%A3%A8%E3%81%99%E3%82%8B%E8%81%B7%E4%BA%BA%E5%80%99%E8%A3%9C-%E5%A1%A9%E5%B0%BB%E5%B8%82%E3%81%AEjr%E5%BA%83%E4%B8%98%E9%A7%85%E3%81%AE%E3%81%BB%E3%81%A9%E8%BF%91%E3%81%8F%E3%81%AB%E5%B7%A5%E5%A0%B4%E3%82%92%E6%A7%8B%E3%81%88%E3%82%8B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%B8%89%E6%B3%B0%E4%BB%A5%E4%B8%8B%E4%B8%89%E6%B3%B0%E3%81%AF%E4%BB%8A%E5%B9%B4%E3%81%A7%E5%89%B5%E6%A5%AD%E3%81%8B%E3%82%89/760483979884836/",
+    "https://www.facebook.com/sagakuraswitch/posts/%E5%85%A83%E5%9B%9E%E3%81%95%E3%81%8C%E7%A7%BB%E4%BD%8F%E8%BB%A2%E8%81%B7%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC2026%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E5%9C%B0%E6%96%B9%E3%81%A7%E5%83%8D%E3%81%8F%E3%81%93%E3%81%A8%E3%81%B8%E3%81%AE%E4%B8%8D%E5%AE%89%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%A7%E6%8A%B1%E3%81%88%E8%BE%BC%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%E7%A7%BB%E4%BD%8F%E3%82%92%E8%80%83%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E3%82%82%E3%81%AE%E3%81%AE%E7%A7%BB%E4%BD%8F%E3%81%97%E3%81%9F%E3%81%84%E6%B0%97%E6%8C%81%E3%81%A1%E3%81%AF%E3%81%82%E3%82%8B%E3%81%8C%E5%8F%8E%E5%85%A5%E3%82%84%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%81%AF%E5%A6%A5%E5%8D%94/1555490933047345/",
+    "https://www.facebook.com/mutsubi/posts/%E4%BC%81%E6%A5%AD%E3%82%82%E5%AE%B6%E5%BA%AD%E3%82%82%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E5%B0%8F1%E3%81%AE%E5%A3%81%E3%81%A3%E3%81%A6%E7%B5%90%E5%B1%80%E4%BD%95%E3%81%8C%E5%A4%A7%E5%A4%89%E3%81%AA%E3%81%AE%E5%B0%8F1%E3%81%AE%E5%A3%81%E3%81%A8%E3%81%84%E3%81%86%E8%A8%80%E8%91%89%E3%82%92%E8%80%B3%E3%81%AB%E3%81%99%E3%82%8B%E6%A9%9F%E4%BC%9A%E3%81%8C%E5%A2%97%E3%81%88%E3%81%BE%E3%81%97%E3%81%9F%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%AA%E3%81%A9%E3%81%A7%E3%81%AF%E4%BF%9D%E8%82%B2%E5%9C%92%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E6%9C%9D%E6%97%A9%E3%81%8F%E5%AD%90%E3%81%A9%E3%82%82%E3%82%92%E9%A0%90%E3%81%91%E3%82%89%E3%82%8C%E3%81%AA%E3%81%84%E5%AD%A6%E7%AB%A5%E3%81%AB/1561371269122044/"
+   ]
+  },
+  {
+   "query": "地方の製造業のUターン・移住採用 note 社長",
+   "results": [
+    "https://note.com/yurufuku_local/n/n526a302db2b9",
+    "https://note.com/aomori_itsupport/n/n40ae1524cd5d",
+    "https://note.com/addsugar_yohaku/n/n658ea64d030f",
+    "https://note.com/hashtag/%E7%A7%BB%E4%BD%8F%E8%BB%A2%E8%81%B7",
+    "https://note.com/jolly_stoat9381/n/n39fa70e4b783",
+    "https://note.jp/n/na4eb45c04405",
+    "https://note.com/motomutto/n/n608c27e4d4b1",
+    "https://jp.indeed.com/%E6%B1%82%E4%BA%BA%E5%BA%83%E5%91%8A/c/info/how-can-smbs-in-the-countryside-hire-the-right-i-turn-and-u-turn-candidate",
+    "https://www.musepass.jp/info/research_8",
+    "https://note.com/next_career_jp/n/n7fd5cd67ed2f"
+   ]
+  },
+  {
+   "query": "地方の製造業のUターン・移住採用 X 投稿",
+   "results": [
+    "https://locaru.jp/column/recruit-sns-miyazaki/",
+    "https://www.city.sapporo.jp/keizai/koyo/esk/snspolicy.html",
+    "https://azu-rite.co.jp/clumn/x-recruitment",
+    "https://www.717450.net/special/knowledge/UIJturn/",
+    "https://www.city.nagasaki.lg.jp/page/5345.html",
+    "https://www.sei-san-sei.com/blog/blog-0302.html",
+    "https://www.wantedly.com/hiringeek/recruit/twitter/",
+    "https://chihouand.jp/uiturn-hiring/",
+    "https://enregion.jp/blog-business/3539/",
+    "https://x.com/k_oshimoto/status/2110669258732540251"
+   ]
+  },
+  {
+   "query": "regional manufacturing U-turn recruitment site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/heather-turner-phr-47bb8a12_westrafo-activity-7488586015444570113-Rza3",
+    "https://www.linkedin.com/company/uturnhealth",
+    "https://www.linkedin.com/jobs",
+    "https://uk.linkedin.com/company/fleming-research-uk",
+    "https://www.linkedin.com/in/clayjohnsonpgh",
+    "https://in.linkedin.com/company/u-turn4nature",
+    "https://hu.linkedin.com/jobs/view/manager-regional-manufacturing-iot-and-smart-automation-at-harman-international-4433174644",
+    "https://be.linkedin.com/jobs/view/head-of-hr-manufacturing-at-lonza-4425882749",
+    "https://www.linkedin.com/posts/brent-znosko-43b74a10_bioscience-lifesciences-workforcedevelopment-activity-7494519714434445312-1b6J",
+    "https://www.linkedin.com/in/christina-urwand-talent"
+   ]
+  }
+ ],
+ "missing": {
+  "成果報酬・採用課金": "記載なし（読んだ25頁・検索12回）"
+ }
+}

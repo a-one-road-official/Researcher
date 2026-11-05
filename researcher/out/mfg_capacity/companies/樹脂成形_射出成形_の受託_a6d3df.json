@@ -1,0 +1,2245 @@
+{
+ "name": "樹脂成形（射出成形）の受託",
+ "en": "injection molding contract Japan statistics",
+ "aliases": [
+  "プラスチック成形 加工賃 推移",
+  "射出成形 事業所 従業者",
+  "日本プラスチック工業連盟 統計"
+ ],
+ "context": "工法・樹脂（参考）",
+ "kind": "market",
+ "researched_at": "2026-11-05T01:14:37.790343+00:00",
+ "evidence": {
+  "10年推移": [
+   {
+    "quote": "※2024年5月現在",
+    "url": "https://www.daiwa-grp.co.jp/biz/entrustment",
+    "pass": 3
+   },
+   {
+    "quote": "このページでは射出成形の原理、基本機構、成形工程、成形機の種類、プラスチック樹脂の種類など、プラスチック成形にまつわる2023年版の基礎知識をまとめました",
+    "url": "https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月頃から北米の石化メーカーのプラント停止や樹脂原材料不足により、樹脂不足が常態化しつつあります",
+    "url": "https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding",
+    "pass": 3
+   },
+   {
+    "quote": "クルマの軽量化に伴い、樹脂部品の採用が増加する中、アジア圏へ生産拠点を展開されているプラスチック射出成形加工業者様においては、コロナ禍においていかに成形工場を操業させるか、需要変動にいかに対処するか喫緊の課題といえます",
+    "url": "https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding",
+    "pass": 3
+   },
+   {
+    "quote": "特に、重量の嵩む金属部品から樹脂への代替は増加が見込まれ、CFRP・CFRTP等の新素材の開発は、シャーシへの金属代替樹脂としても採用が始まりつつあります",
+    "url": "https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding",
+    "pass": 3
+   },
+   {
+    "quote": "一方、EV化に伴う樹脂部品の採用増加は、今まで以上に製品形状の複雑さが予測され、３次元形状を求められたり、局所的偏肉成形製品を求められます",
+    "url": "https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding",
+    "pass": 3
+   },
+   {
+    "quote": "スライドコアの増加や、ゲート形状が複雑になる等、品質を保つために今まで以上複雑になることが予測されます",
+    "url": "https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding",
+    "pass": 3
+   },
+   {
+    "quote": "また、施行後は段階的に量が拡大され、6年後に15％、8年後に20％、10年後には25％が完全義務化になる予定です",
+    "url": "https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding",
+    "pass": 3
+   },
+   {
+    "quote": "また、ホンダは2025年に内燃機関製造の主力拠点の一つであり、エンジン部品を製造する栃木県真岡工場の閉鎖を決めています",
+    "url": "https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding",
+    "pass": 3
+   },
+   {
+    "quote": "『2018年版ものづくり白書「概要」』経済産業省／厚生労働省／文部科学省",
+    "url": "https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding",
+    "pass": 3
+   },
+   {
+    "quote": "また、マネジメントシステム認証ISO 9001:2015, ISO13485 認証も取得しております",
+    "url": "https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/",
+    "pass": 3
+   },
+   {
+    "quote": "複雑なキャビティ設計の型も製作が可能ですが、金型の設計変更が多くなるとプロセスがスローダウンするため、金型の設計が複雑になるほどコストが増加することになります",
+    "url": "https://formlabs.com/jp/blog/injection-molding-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "アンダーカットのある複雑な設計は、スライディングサイドアクションやコアを必要とし、型のコストを増加させます",
+    "url": "https://formlabs.com/jp/blog/injection-molding-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "プレス時間の増加は生産プロセスを遅らせ、結果として成形コストが上昇します",
+    "url": "https://formlabs.com/jp/blog/injection-molding-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "2024.07.2",
+    "url": "https://mfg-hack.com/injection-molding/9476/",
+    "pass": 3
+   },
+   {
+    "quote": "2024.10.22",
+    "url": "https://mfg-hack.com/injection-molding/9476/",
+    "pass": 3
+   },
+   {
+    "quote": "2023.07.21",
+    "url": "https://mfg-hack.com/injection-molding/9476/",
+    "pass": 3
+   },
+   {
+    "quote": "2021.08.6",
+    "url": "https://mfg-hack.com/injection-molding/9476/",
+    "pass": 3
+   },
+   {
+    "quote": "2024.05.9",
+    "url": "https://mfg-hack.com/injection-molding/9476/",
+    "pass": 3
+   },
+   {
+    "quote": "2021.03.26",
+    "url": "https://mfg-hack.com/injection-molding/9476/",
+    "pass": 3
+   },
+   {
+    "quote": "2021.07.22",
+    "url": "https://mfg-hack.com/injection-molding/9476/",
+    "pass": 3
+   },
+   {
+    "quote": "2024.05.29",
+    "url": "https://mfg-hack.com/injection-molding/9476/",
+    "pass": 3
+   },
+   {
+    "quote": "2025.10.21",
+    "url": "https://mfg-hack.com/injection-molding/9476/",
+    "pass": 3
+   },
+   {
+    "quote": "2025.07.17",
+    "url": "https://mfg-hack.com/injection-molding/9476/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年における日本の射出成形プラスチック市場規模",
+    "url": "https://www.imarcgroup.com/report/ja/japan-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車、航空宇宙、消費財などの産業で幅広い用途に利用される軽量で耐久性のある材料に対する需要の増加が、射出成形プラスチック市場の成長を促進しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2020-2025",
+    "url": "https://www.imarcgroup.com/report/ja/japan-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.imarcgroup.com/report/ja/japan-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の射出成形プラスチック市場はこれまでどのように推移し、今後どのように推移していくのでしょうか？",
+    "url": "https://www.imarcgroup.com/report/ja/japan-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "IMARC’の業界レポートは、2020年から2034年にかけての日本の射出成形プラスチック市場の様々な市場セグメント、過去と現在の市場動向、市場予測、ダイナミクスを包括的に定量分析します",
+    "url": "https://www.imarcgroup.com/report/ja/japan-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日: 2022年02月14日",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形プラスチック市場は、2022年から2029年の予測期間に4.7％の市場成長率を記録すると予想されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "包装、自動車、電気および電子、家電製品、医療機器など、いくつかの最終用途産業からのプラスチック部品の需要の増加により、射出成形プラスチック市場の成長が加速しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、新しい製造技術の採用の増加により、射出成形プラスチック市場の成長がさらに促進されると予想されます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、エネルギー効率の高い建物やスマートビルディング技術に対する政府規制の増加により、射出成形プラスチック市場の成長がさらに緩和されると予測されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、建設費の増加は、今後数年間の射出成形プラスチック市場の成長にさらなる潜在的な機会をもたらすでしょう",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、インフラ支出の増加により、射出成形プラスチック市場を支配しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、いくつかの国での自動車需要の増加により、予測期間中にこの地域の射出成形プラスチック市場の成長がさらに促進されます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパでは、化粧品やトイレタリー、医薬品、家庭用化学品などの非食品および飲料のパッケージングアプリケーションの増加により、射出成形プラスチック市場で大幅な成長が見込まれています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、ラップトップや携帯電話などの電子機器の需要の増加により、今後数年間でこの地域の射出成形プラスチック市場の成長がさらに促進されると予想されます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の射出成形プラスチック市場の市場規模は、2025年にUSD 351.70 Billionと評価されました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "て、10年後にあたる 2000年を一つのターゲットとして、技術革新の方向、地球環境問題への対応、",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3～5年、10年といった「中・長期」のスパンで見る",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア、ニュージーランド）の人口は現在の 12億人から 3800万人しか増加せず、開発途上地域（先進工",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業地域以外の国）が 56 億人から 79 億人に増加する（うち後発開発途上国も 8 億人から 16 億人に増",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1－世界人口の推移（2012年以降は推計値）",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "トル飲料をリターナブル容器にすることで容器の生産量が減少する、リサイクル率の高さや廃棄まで",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 2－原油輸入価格の推移",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有している状況の中、長期にわたる景気の低迷による可処分所得の減少から消費に慎重な傾向が続い",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このため、日本に残る中小規模の企業は仕事量が減少して業績の低迷に苦しんでおり、廃業する企",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、太陽光パネル、スマートメーター、蓄電池などの電力関連機器も増加していくと見られ、世界に",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 3－射出成形機の出荷台数推移",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "害を受けた射出成形機が復旧のために更新されるため、一時的には出荷台数が増加したが、２～３",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "近年、四輪自動車関連が急激に増加し",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "かる関税率 7.5％が段階的に下げられ、2016年 1月からは 0％になる予定である",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て海外からの輸入品も増加しているが、国内産業を育成するために、国内企業に対して比較的低金",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出所：日本銀行 時系列統計データ検索サイト",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 6－為替相場の推移（円対ドル、円対ユーロ）",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 7－日本メーカの射出成形機輸出台数推移と世界の動き",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "納期・品質・コストの面で市場からの信頼にお応えすることが可能です",
+    "url": "https://www.daiwa-grp.co.jp/biz/entrustment",
+    "pass": 3
+   },
+   {
+    "quote": "製品やコスト、納期についてご提案いたします",
+    "url": "https://www.daiwa-grp.co.jp/biz/entrustment",
+    "pass": 3
+   },
+   {
+    "quote": "> 最短納期を2週間で！180ton射出成…",
+    "url": "https://injection-lab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "軽量・高精度・短納期で、初期試作から量産試作まで",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/injection-molding/",
+    "pass": 3
+   },
+   {
+    "quote": "本金型で月産20万個の大量生産にも対応しており、納期や数量に応じた最適なソリューションを提供します",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/injection-molding/",
+    "pass": 3
+   },
+   {
+    "quote": "納期や数量に合わせた「最適な成形オプション」を選択可能",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/injection-molding/",
+    "pass": 3
+   },
+   {
+    "quote": "金額や納期（実働日数）が記載された見積書をメビーマーケットプレイスまたはWOS上で発行することができます",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/injection-molding/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足や不良改善、成形現場の自動化、CO2削減（カーボンニュートラル）や成形工場のスマートファクトリー化など、射出成形の課題解決にお役立てください",
+    "url": "https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding",
+    "pass": 3
+   },
+   {
+    "quote": "『製造業における人手不足の現状および外国人材の活用について』経済産業省製造産業局",
+    "url": "https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding",
+    "pass": 3
+   },
+   {
+    "quote": "高品質、低コストはもちろん、併せて超短納期化を実現する洗練された金型製作をお約束します！",
+    "url": "https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/",
+    "pass": 3
+   },
+   {
+    "quote": "■超短納期の金型製作を可能にする画期的な合理化プロセス",
+    "url": "https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/",
+    "pass": 3
+   },
+   {
+    "quote": "一貫生産体制だからこそ実現できる、品質、コスト、納期の最適化",
+    "url": "https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客ニーズ(必要数量/納期/精密性/予算等)によって、3Dプリンター、",
+    "url": "https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/",
+    "pass": 3
+   },
+   {
+    "quote": "■顧客ニーズ(必要数量/納期/精密性/予算等)によってご提案",
+    "url": "https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/",
+    "pass": 3
+   },
+   {
+    "quote": "当社THY精密工業は24時間自動無人稼動での生産体制も備わっており、コスト削減・納期短縮が可能となります",
+    "url": "https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/",
+    "pass": 3
+   },
+   {
+    "quote": "金型原価低減の有力な技術を用いて納期短縮を実現",
+    "url": "https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、射出成形による製造が自社の中核事業となっている企業を除き、ほとんどの企業は設備費がサービス費に含まれるサービスプロバイダーや受託メーカーに外注して大量生産を行っています",
+    "url": "https://formlabs.com/jp/blog/injection-molding-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "CNC機は熟練の人材と専用の作業場所を必要とする産業用機であるため、多くの企業は型製作をサービスプロバイダーに外注しています",
+    "url": "https://formlabs.com/jp/blog/injection-molding-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "CNC加工と同様に、EDMも多くの企業が機械加工業者に外注しています",
+    "url": "https://formlabs.com/jp/blog/injection-molding-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "より複雑な型の開発には技術的な専門知識が必要となるため、企業は型の設計や製作など、射出成形プロセスの特定の作業を外注することがよくあります",
+    "url": "https://formlabs.com/jp/blog/injection-molding-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "型の製作に必要なツールがすぐに利用できない場合は、外注することで型製作関連のコストを削減できます",
+    "url": "https://formlabs.com/jp/blog/injection-molding-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "企業が射出成形を外注する場合、人件費とサービスプロバイダーのマークアップがサービスコストに加算されます",
+    "url": "https://formlabs.com/jp/blog/injection-molding-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "> 最短納期を2週間で！180ton射出成形機用の簡易金型を、60万からご提供いたします",
+    "url": "https://mfg-hack.com/injection-molding/9476/",
+    "pass": 3
+   },
+   {
+    "quote": "上記4つの対策方法を紹介しましたが、どれを選択しても納期やコストに影響が出ます",
+    "url": "https://mfg-hack.com/injection-molding/9476/",
+    "pass": 3
+   },
+   {
+    "quote": "成形条件出しを行う成形技術者の腕次第で、納期や品質に大きな影響を与えます",
+    "url": "https://mfg-hack.com/injection-molding/9476/",
+    "pass": 3
+   },
+   {
+    "quote": "> 射出成形の基礎からコスト・納期対策への専門知識まで 射出成形をトータルに学ぶ",
+    "url": "https://mfg-hack.com/injection-molding/9476/",
+    "pass": 3
+   },
+   {
+    "quote": "られていたが、ベトナムがインフラ整備の遅れや生産拠点での人手不足などの要因で予想よりも伸",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の導入に慎重になることがあり、機会損失を招いている",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の主要OEMの売上高減少により、域内の受注残の回復が制約されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "同国メーカーは金額ベースで世界の射出成形機供給の43%超を占めており、輸出市場全体で設備価格、納期への期待、製品の入手可能性に対する影響力を強めている[4]",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は、グローバルな用途対応力、サービス、技術力を備えた大手サプライヤーと、主にコスト、納期の速さ、現地市場へのアクセスを競争軸とする多数の中小メーカーとの明確な二極化によって形作られている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "異なる樹脂成形に柔軟対応 納期と品質で日本のものづくり支える | 経済産業省 METI Journal ONLINE",
+    "url": "https://journal.meti.go.jp/future/11971/",
+    "pass": 3
+   },
+   {
+    "quote": "異なる樹脂成形に柔軟対応 納期と品質で日本のものづくり支える",
+    "url": "https://journal.meti.go.jp/future/11971/",
+    "pass": 3
+   },
+   {
+    "quote": "最短納期は当日という大和化学工業の製造現場",
+    "url": "https://journal.meti.go.jp/future/11971/",
+    "pass": 3
+   },
+   {
+    "quote": "一つの成形手法のみ手がける樹脂メーカーが多い中、大和化学工業はこれら3種の樹脂成形を実現する体制を徐々に構築し、短納期と高品質の両立を図ってきた",
+    "url": "https://journal.meti.go.jp/future/11971/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の受注後の最短納期は、当日という異例の早さだ",
+    "url": "https://journal.meti.go.jp/future/11971/",
+    "pass": 3
+   },
+   {
+    "quote": "社内で3種の樹脂成形ができることに加え、機械の稼働率を70％までに抑えることで、突発的な注文が入っても対応できる余力を残している",
+    "url": "https://journal.meti.go.jp/future/11971/",
+    "pass": 3
+   },
+   {
+    "quote": "部品が納期通りに供給されなければ、自動車生産ラインの工程はうまく流れない",
+    "url": "https://journal.meti.go.jp/future/11971/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし「けっこうな（仕事）量を頼んだつもりでも少ないと言われ、納期も遅かった」（東田社長）ため、東田社長が工場長だった1990年頃、研究開発を兼ねて射出成形機を1台導入した",
+    "url": "https://journal.meti.go.jp/future/11971/",
+    "pass": 3
+   },
+   {
+    "quote": "社内で射出成形品を手がけられるようになったことで納期の短縮につながったほか、社内で納期コントロールができ、決まった日に製品を求める顧客ニーズを満たせるようになった",
+    "url": "https://journal.meti.go.jp/future/11971/",
+    "pass": 3
+   },
+   {
+    "quote": "真空成形は材料であるシート材の在庫方法を工夫し、短納期を実現している",
+    "url": "https://journal.meti.go.jp/future/11971/",
+    "pass": 3
+   },
+   {
+    "quote": "判断に迷ったら、「この設備の時間を、もっと採算の良い仕事に使えないか」という機会損失の視点で考えます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5322",
+    "pass": 3
+   },
+   {
+    "quote": "成形機ごとの生産計画、納期管理",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5322",
+    "pass": 3
+   },
+   {
+    "quote": "外注していた金型製造を自社で行えることを目的にしております",
+    "url": "https://www.nihon-ma.co.jp/columns/2022/x20231124-94/",
+    "pass": 3
+   },
+   {
+    "quote": "金型製造の外注費が数千万から数億円になる場合もあるため、内製化を図られている企業が増えています",
+    "url": "https://www.nihon-ma.co.jp/columns/2022/x20231124-94/",
+    "pass": 3
+   },
+   {
+    "quote": "生産管理とは、お客さまからの注文を、納期に間に合うように製造・調整することである",
+    "url": "https://jp.misumi-ec.com/tech-info/categories/plastic_mold_design/pl06/j0042.html?srsltid=AYCX9vL-M1gDe14qnCkQOhu2DdWyqjUYf7Z3EWwSabZ-vK7I19lJIG_s",
+    "pass": 3
+   },
+   {
+    "quote": "製造中にトラブルが発生した場合には、合格品を必要個数、納期に間に合わせるために、材料の残り量や不良率を加味して生産しなくてはならない",
+    "url": "https://jp.misumi-ec.com/tech-info/categories/plastic_mold_design/pl06/j0042.html?srsltid=AYCX9vL-M1gDe14qnCkQOhu2DdWyqjUYf7Z3EWwSabZ-vK7I19lJIG_s",
+    "pass": 3
+   },
+   {
+    "quote": "また、他部門へのアナウンスや納期調整も必要となる",
+    "url": "https://jp.misumi-ec.com/tech-info/categories/plastic_mold_design/pl06/j0042.html?srsltid=AYCX9vL-M1gDe14qnCkQOhu2DdWyqjUYf7Z3EWwSabZ-vK7I19lJIG_s",
+    "pass": 3
+   },
+   {
+    "quote": "熱可塑性樹脂製品を短納期で製作 試作品での実験・評価から少量生産まで対応",
+    "url": "https://mono.ipros.com/cg2/%E6%A8%B9%E8%84%82%E6%88%90%E5%BD%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "少ロットから大ロットまで、短納期かつローコストのニーズにお応えします",
+    "url": "https://mono.ipros.com/cg2/%E6%A8%B9%E8%84%82%E6%88%90%E5%BD%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "■共用なので、加工数が減少し短納期も可能",
+    "url": "https://mono.ipros.com/cg2/%E6%A8%B9%E8%84%82%E6%88%90%E5%BD%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作から成形までの一貫生産対応！高品質／短納期の樹脂成形",
+    "url": "https://mono.ipros.com/cg2/%E6%A8%B9%E8%84%82%E6%88%90%E5%BD%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野で培われた量産技術と自動化技術で、安定供給／安定品質／短納期を実現",
+    "url": "https://mono.ipros.com/cg2/%E6%A8%B9%E8%84%82%E6%88%90%E5%BD%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "通常4〜5ヶ月、数百万円かかる「金型」での射出成形が、低価格、短納期で",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "簡易金型なら実物が撮れて、納期約1.5ヶ月＝企画・審査の期間と重なるので、",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれ何が違うのかを、材料・物性・費用・納期で整理しました",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "1回につき納期は2週間延びます",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "使いたい材料、製品の用途、想定数量、納期をお聞かせください",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "形状・材料・数量をもとに金額と納期をご提示します",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "修正を行う場合、修正設計の完了から2週間の納期を申し受けます",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "商品の特性としては、300mm角の樹脂パレットに左官職人がシラスを塗った製品で、左官工事不要で壁への脱着が容易にできる内装壁材です",
+    "url": "https://injection-lab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "関東製作所4つのメイン事業『金型製作』『部品加工・調達』『プラスチック成形』『省人化装置製作』",
+    "url": "https://injection-lab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足や不良改善、成形現場の自動化、CO2削減（カーボンニュートラル）や成形工場のスマートファクトリー化など、射出成形の課題解決にお役立てください",
+    "url": "https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding",
+    "pass": 3
+   },
+   {
+    "quote": "公益財団法人２１あおもり産業総合支援センター",
+    "url": "https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/",
+    "pass": 3
+   },
+   {
+    "quote": "当社THY精密工業は24時間自動無人稼動での生産体制も備わっており、コスト削減・納期短縮が可能となります",
+    "url": "https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/",
+    "pass": 3
+   },
+   {
+    "quote": "6. 人材の育成 ········································································································ 31",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今から 20 年前に、社団法人日本産業機械工業会が財団法人機械振興協会経済研究所より受託し",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "需要予測、国際協調の構築、人材の確保・育成等について研究を行い、21世紀に向けた将来像を示",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国連が 2011 年 5 月に発表した「世界人口推計」によると、",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "40年前には 36億人だった人口が 2011年には 70億人を超え、40年後の 2050年には 93億人に達す",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア、ニュージーランド）の人口は現在の 12億人から 3800万人しか増加せず、開発途上地域（先進工",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業地域以外の国）が 56 億人から 79 億人に増加する（うち後発開発途上国も 8 億人から 16 億人に増",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 1－世界人口の推移（2012年以降は推計値）",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシアは、人口が世界第４位で、政治も安定してきており、将来が有望な市場である",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インドは、世界第２位の人口を持ち、BRICs 諸国の中では中国に次ぐ水準で経済成長を続ける市",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "13億人の人口を有する中国は、世界の生産拠点であると共に、急速な経済成長に伴って大きな消",
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期の収入は177億3,320万人民元で、前年比10.0%の増加でした",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "中国の海天国際は2025年12月期の収入が177億3,320万人民元に達し、2025年1月から6月までの半年だけで29,400台を超える機械を売りました",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人日本産業機械工業会（以下、日本産業機械工業会）と一般社団法人日本プラスチック機械工業会（以下、日本プラスチック機械工業会）の調査による2025年の射出成形機受注統計では、合計11,103台のうち100トンから199トンの区分が4,831台と最も多く、20トンから99トンが3,006台、200トンから499トンが2,474台と続きました",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期の収入は177億3,320万人民元で前年比10.0%の増加、株主に帰属する利益は33億110万人民元で7.2%の増加でした",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形機の売上は168億9,730万人民元で9.7%増えています",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では国内が101億3,170万人民元でほぼ横ばい、海外が76億150万人民元で26.4%伸びました",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "グループの従業員は約7,000人で、据え付けた機械が125,000台を超えており、保守と部品の事業が下支えになっています",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "減収は4年続きで、従業員は3,700人から3,400人へ減っています",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月から6月までの収入は91億200万人民元で、前年同期比0.9%の増加にとどまりました",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "株主に帰属する利益は15億8,050万人民元で7.7%の減少、売上総利益率は31.1%と前年同期の32.8%から1.7ポイント下がっています",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "内訳を見ると、国内が60億2,130万人民元で15.8%の増加だったのに対し、海外は30億8,070万人民元で19.3%の減少でした",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州勢の市況はさらに厳しく、エンゲルは3年続けての減収で次期も減収を見込み、アーブルグは4年続けての減収で人員を300人減らしました",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の勢力図では、中国が生産額の32.8%（2024年、ドイツ機械工業連盟調べ）を占め、海天国際が2025年12月期に177億3,320万人民元の収入を上げました",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "企業単位では、中国の海天国際の2025年12月期の収入が177億3,320万人民元でした",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人日本産業機械工業会「2026年 射出成形機受注統計」プラスチック機械部会統計、",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人日本産業機械工業会「2025年 射出成形機受注統計」プラスチック機械部会統計、",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "新社会人必見 経済政策5つのキーワード",
+    "url": "https://journal.meti.go.jp/future/11971/",
+    "pass": 3
+   },
+   {
+    "quote": "人生100年時代 社会人のチカラ",
+    "url": "https://journal.meti.go.jp/future/11971/",
+    "pass": 3
+   },
+   {
+    "quote": "【富山発】東京進出30年の独立系SIer、顧客と対話する「人」の力でコツコツと全国区に",
+    "url": "https://journal.meti.go.jp/future/11971/",
+    "pass": 3
+   },
+   {
+    "quote": "我が国のプラスチック製品製造業の事業所は、平成９年度の工業統計表によると18,480事業所、従業者数は437,092人、製品出荷額は108,263億円である",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの全製造業に対する比率は、事業所数が5.2％、従業者数が4.4％、製品出荷額が3.4％をそれぞれ占めている",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、５年前（平成４年度）と比較した場合、プラスチック製品製造業では事業所数が93.83％、従業者数が97.70％、製品出荷額が96.45％、といずれも減少している",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、製造業全体も５年前と比較した場合、事業所数が86.30％、従業者数が89.10％、製品出荷額が98.04％の減少である",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプラスチック製造品出荷額を従業員１人当りで見ると、25.17（百万円）となり全国9位と高い水準に位置する",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "岐阜県プラスチック製品製造業の現状 平成９年（単位：人、百万円）",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "<4>従業員数で見た企業規模",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "県内の従業者規模別の事業所数の推移を見ると、５年前も現在も従業員９人以下の事業所が７割を超える一方、３０人以上の事業所は１割に満たず、ほとんど構造は変わっていない",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "既に見たように、プラスチック製品製造事業所の大半は従業員９人以下の零細事業所である",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "昨年夏、こういった従業員１０人以下の小企業を対象に岐阜県プラスチック工業組合が実施した「小企業経営動向調査」（対象４６社）によると、昨年度の売上加工額は一昨年同期に比べて７０％の企業が減少、同数量では７６％の企業が減少、５６％の企業が操業率の大幅低下と回答している",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、機械設備の面では、自動取出機による無人夜間稼動にも対応し、24時間体制での生産も可能にしています",
+    "url": "https://mono.ipros.com/cg2/%E6%A8%B9%E8%84%82%E6%88%90%E5%BD%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代に1台の無人運転から始まった無人工場への挑戦からカメラによる画像検査の導入の歴史を織り交ぜながら、夜間無人操業までの道のりをお伝えします",
+    "url": "https://mono.ipros.com/cg2/%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "当社が力を入れている2色成形技術は、組立工程を無くすことができ、人材不足と",
+    "url": "https://mono.ipros.com/cg2/%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "関東製作所は、金型の設計・製作から、樹脂成形、成形後の加工、さらには省人化のための装置製作まで、プラスチック製造に関わる工程を幅広く手がける企業です",
+    "url": "https://note.com/3n7no_tech_pr/n/n97578fd0789e",
+    "pass": 3
+   },
+   {
+    "quote": "4. 💡 実は知らないと損！求人票には書かれない「キャリアの強み」",
+    "url": "https://note.com/flat_official/n/n60656d58af3a",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代において価値が高まるのは、現場の「物理的なモノづくり」や「顧客の真のニーズ」を理解した上で、デジタルツールを乗りこなせるハイブリッド人材です",
+    "url": "https://note.com/flat_official/n/n60656d58af3a",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形のアレコレ-知らない人向け｜crow",
+    "url": "https://note.com/crow477/n/n970bb11925b9",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "【CAE解析】射出成形の不良を未然に防ぐ ― 5万円から始める流動解析サービス ―",
+    "url": "https://injection-lab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "全電動セグメントの2025年売上高は33億米ドル",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントのシェアは2035年までに世界売上高の44%に達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "油圧式機械の2025年の売上高は60.5億米ドルで、2035年には市場売上高の42%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド機械は2025年の市場売上高の15%を占め、2035年には24.3億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "手動機は2025年に市場売上高の10%を占め、2026年から2035年にかけて約−5.6%の年平均成長率（CAGR）を記録すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Below-500-tonne成形機は2025年に市場売上高の45%を占め、2035年までに72.5億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "500～1,000-tonneの成形機は2025年に38.5億米ドルを生み出し、2035年までに市場売上高の36%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "1,000 bar未満の成形機は2025年に市場売上高の35%を占め、2035年までに市場売上高の30%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "1,000～2,500 barの成形機は2025年に55.0億米ドルを生み出し、2035年までに市場売上高の52%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチックは2025年に市場売上高の75%を占め、2035年には市場売上高の73%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属射出成形機の市場規模は2035年までに12.1億米ドルに達すると予測される一方、金属は2025年の市場売上高の7%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック射出成形は2025年の市場売上高の3%を占め、2026年から2035年にかけて年平均成長率（CAGR）約8.0%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "直接販売は2025年の市場売上高の65%を占め、2035年までに市場売上高の68%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "間接販売は2025年に38.5億米ドルを生み出し、2035年までに市場売上高の32%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年の市場売上高の55%を占め、2035年までに91.5億米ドルを生み出すと予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国は2025年に41.8億米ドルを生み出し、2035年までに市場売上高の36%を占めると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ機械工業連盟（VDMA）が2025年6月に公表した年次レビューによると、2024年の世界のプラスチック・ゴム機械の生産額は415億1,000万ユーロで、前年比2.3%の減少でした",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ機械工業連盟（VDMA）が2025年6月に公表した年次レビューによると、2024年の世界のプラスチック・ゴム機械の生産額415億1,000万ユーロのうち、中国が32.8%を占めました",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形機の売上は168億9,730万人民元で9.7%増えています",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は生産額で世界の7.1%（2024年、ドイツ機械工業連盟調べ）という位置にあり、台数の規模では中国に大きく離されています",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期のロボマシン部門の売上高は1,296億円で5.8%の減少でした",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鋼所は成形機の売上高が2026年3月期で648億円、受注高が637億円でした",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期は成形機の売上を685億円と見込みました",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "住友重機械のプラスチック加工機械事業は、2025年12月期の受注高が1,013億円、売上高が1,024億円でした",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "芝浦機械の2026年3月期の成形機事業の売上高は988億5,400万円でした",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "このうち射出成形機は406億円で、内訳は国内81億円、海外325億円です",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "北米、東南アジア、欧州で売上が増えたと説明しており、2026年度は射出成形機の売上を456億円と見込んでいます",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "TOYOイノベックスは2026年3月期の連結売上高が288億2,100万円で、このうち射出成形機が212億4,200万円、ダイカストマシンが75億7,900万円でした",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形機の海外売上は157億8,800万円で海外比率は74.3%です",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期の売上高は474億9,300万円で、国内が124億6,500万円、海外が350億2,700万円、海外比率は73.8%でした",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期は4月から12月までの9カ月で売上高332億4,100万円、営業損失14億700万円と苦戦し、日本のセグメントが11.0%減って11億8,000万円の損失を計上しています",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は生産額で世界の4割強を占める一方、直近は逆風が続いています",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "▽所在地＝奈良県北葛城郡広陵町南郷986の1▽社長＝東田誠次氏▽創業＝1958年▽売上高＝3億円（2020年3月期）",
+    "url": "https://journal.meti.go.jp/future/11971/",
+    "pass": 3
+   },
+   {
+    "quote": "我が国のプラスチック製品製造業の事業所は、平成９年度の工業統計表によると18,480事業所、従業者数は437,092人、製品出荷額は108,263億円である",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの全製造業に対する比率は、事業所数が5.2％、従業者数が4.4％、製品出荷額が3.4％をそれぞれ占めている",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、５年前（平成４年度）と比較した場合、プラスチック製品製造業では事業所数が93.83％、従業者数が97.70％、製品出荷額が96.45％、といずれも減少している",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、製造業全体も５年前と比較した場合、事業所数が86.30％、従業者数が89.10％、製品出荷額が98.04％の減少である",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "岐阜県のプラスチック製造品出荷額は、平成９年度「工業統計表」ベースでは約3,160億円で県全体の製造品出荷額の5.8％を占める",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプラスチック製造品出荷額を従業員１人当りで見ると、25.17（百万円）となり全国9位と高い水準に位置する",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "注：出荷額の単位は百万円、平成９年で特化係数が１を超える県は１５あるが１．５を超える県のみ記載した",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "岐阜県プラスチック製品製造業の現状 平成９年（単位：人、百万円）",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "上表から岐阜県のプラスチック製品出荷額は「工業用プラスチック製品」、「プラスチックフィルム・シート等」、「その他のプラスチック製品」の３分野で７割を占め、主力製品であることがわかる",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらについて出荷額比率の全国ベースと岐阜県ベースとを比較し、岐阜県の方が全国より高い品目は以下の９品目となっており、これらが岐阜県として競争優位を持つ製品と考えられる",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "岐阜県と全国のプラスチック製品製造業の品目別出荷額と構成比（平成９年）",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "昨年夏、こういった従業員１０人以下の小企業を対象に岐阜県プラスチック工業組合が実施した「小企業経営動向調査」（対象４６社）によると、昨年度の売上加工額は一昨年同期に比べて７０％の企業が減少、同数量では７６％の企業が減少、５６％の企業が操業率の大幅低下と回答している",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "また平成１１年の見通しについても３３％の企業が売上額、単価、数量ともに低下すると予想するなど厳しい環境にある",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "今から2年ほど前にはコロナウイルスの感染拡大の影響で下がってしまった売上を戻すという動きが目立ちましたが、現在では",
+    "url": "https://www.nihon-ma.co.jp/columns/2022/x20231124-94/",
+    "pass": 3
+   },
+   {
+    "quote": "エマソン･エレクトリック（EmersonElectricCo.）という企業をご存知でしょうか？米国ミズーリ州セントルイスに本拠地を置き、グループ売上は2兆円を誇る、世界有数の事業規模を誇る電機メーカーです",
+    "url": "https://www.nihon-ma.co.jp/columns/2022/x20231124-94/",
+    "pass": 3
+   },
+   {
+    "quote": "計算式）売上（円/日）＝5,760（個/日）×15（円/個）＝86,400円となる",
+    "url": "https://jp.misumi-ec.com/tech-info/categories/plastic_mold_design/pl06/j0042.html?srsltid=AYCX9vL-M1gDe14qnCkQOhu2DdWyqjUYf7Z3EWwSabZ-vK7I19lJIG_s",
+    "pass": 3
+   },
+   {
+    "quote": "※成形加工費（時間チャージ）＝1時間あたりの売上から原料費を引いた金額",
+    "url": "https://jp.misumi-ec.com/tech-info/categories/plastic_mold_design/pl06/j0042.html?srsltid=AYCX9vL-M1gDe14qnCkQOhu2DdWyqjUYf7Z3EWwSabZ-vK7I19lJIG_s",
+    "pass": 3
+   },
+   {
+    "quote": "(1)1時間あたりの売上",
+    "url": "https://jp.misumi-ec.com/tech-info/categories/plastic_mold_design/pl06/j0042.html?srsltid=AYCX9vL-M1gDe14qnCkQOhu2DdWyqjUYf7Z3EWwSabZ-vK7I19lJIG_s",
+    "pass": 3
+   },
+   {
+    "quote": "1時間当たりの売上（円/時間）＝86,400（円/日）÷24＝3,600（円/時間）",
+    "url": "https://jp.misumi-ec.com/tech-info/categories/plastic_mold_design/pl06/j0042.html?srsltid=AYCX9vL-M1gDe14qnCkQOhu2DdWyqjUYf7Z3EWwSabZ-vK7I19lJIG_s",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 1時間あたりの売上－1 時間当たり原料費＝成形加工費（時間チャージ）",
+    "url": "https://jp.misumi-ec.com/tech-info/categories/plastic_mold_design/pl06/j0042.html?srsltid=AYCX9vL-M1gDe14qnCkQOhu2DdWyqjUYf7Z3EWwSabZ-vK7I19lJIG_s",
+    "pass": 3
+   },
+   {
+    "quote": "（1時間あたりの売上） （1 時間当たり原料費）＝ （成形加工費（時間チャージ））",
+    "url": "https://jp.misumi-ec.com/tech-info/categories/plastic_mold_design/pl06/j0042.html?srsltid=AYCX9vL-M1gDe14qnCkQOhu2DdWyqjUYf7Z3EWwSabZ-vK7I19lJIG_s",
+    "pass": 3
+   },
+   {
+    "quote": "試作のつづき｜簡易金型・射出成形 90万円から｜ODORIJI",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "通常4〜5ヶ月、数百万円かかる「金型」での射出成形が、低価格、短納期で",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "（90万円・約1.5ヶ月／表面仕上げは量産品と若干の差）",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "90万円で手に入るのは、試作品ではありません",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "▲96.7万円",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "【CAE解析】射出成形の不良を未然に防ぐ ― 5万円から始める流動解析サービス ―",
+    "url": "https://injection-lab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "芝浦機械の2026年3月期の成形機事業の売上高は988億5,400万円でした",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "TOYOイノベックスは2026年3月期の連結売上高が288億2,100万円で、このうち射出成形機が212億4,200万円、ダイカストマシンが75億7,900万円でした",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形機の海外売上は157億8,800万円で海外比率は74.3%です",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期の売上高は474億9,300万円で、国内が124億6,500万円、海外が350億2,700万円、海外比率は73.8%でした",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期は4月から12月までの9カ月で売上高332億4,100万円、営業損失14億700万円と苦戦し、日本のセグメントが11.0%減って11億8,000万円の損失を計上しています",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "ファナックのロボマシン部門は1,296億円で5.8%の減収、日本製鋼所の成形機は648億円で前期の669億円から減少、芝浦機械の成形機事業は988億5,400万円で27.9%の減収でした",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "日精樹脂工業は4月から12月までで営業損失14億700万円、経常損失8億3,000万円を計上しました",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "その中でTOYOイノベックスは売上高288億2,100万円と6.6%の増収、営業利益1億6,000万円で黒字に戻しています",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "このプラスチック製造品出荷額を従業員１人当りで見ると、25.17（百万円）となり全国9位と高い水準に位置する",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "注：出荷額の単位は百万円、平成９年で特化係数が１を超える県は１５あるが１．５を超える県のみ記載した",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "岐阜県プラスチック製品製造業の現状 平成９年（単位：人、百万円）",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作のつづき｜簡易金型・射出成形 90万円から｜ODORIJI",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "通常4〜5ヶ月、数百万円かかる「金型」での射出成形が、低価格、短納期で",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "（90万円・約1.5ヶ月／表面仕上げは量産品と若干の差）",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "90万円で手に入るのは、試作品ではありません",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "▲96.7万円",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "300.0万円",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "▲51.0万円",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "▲70.0万円",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "＋82.3万円",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "200万円〜",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "90万円を一度にご判断いただく必要はありません",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "図面支給プランは90万円（原料費別途）",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "20万円 / 日",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "（25万円/回・",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "ご負担は図面設計費＋出力費の30万円のみ",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "「①設計・モック確認 30万円」「②金型・成形 85万円」の2件に分けてご発注いただきます",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "合計115万円は変わらず、1回のお支払いは100万円未満に収まります",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "税抜100万円を超えると稟議の手続きが重くなる企業が多いためです",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "・金型費：19万円～",
+    "url": "https://mono.ipros.com/cg2/%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：1万円 ~ 10万円",
+    "url": "https://mono.ipros.com/cg2/%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：10万円 ~ 50万円",
+    "url": "https://mono.ipros.com/cg2/%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：~ 1万円",
+    "url": "https://mono.ipros.com/cg2/%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "エポモールド｜5万円～の金型製作！安価に小ロット試作",
+    "url": "https://kakounosusume.com/product/epomold/",
+    "pass": 3
+   },
+   {
+    "quote": "このユニークな製法により5万円～という破格に安価な金型費を実現しています",
+    "url": "https://kakounosusume.com/product/epomold/",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形機の購入には、小型機1台で数百万円、大型成形機では億単位もの設備投資費が必要になります",
+    "url": "https://mfg-hack.com/injection-molding/9390/",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形機1台あたりの導入コストは数百万〜数千万円に及ぶため、中小規模のメーカーにとって自社保有は現実的ではないケースがほとんどです",
+    "url": "https://oem-ems-partners.com/column/2863/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：~ 1万円",
+    "url": "https://mono.ipros.com/cg2/%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "平均年収：業界平均で約450万〜650万円程度（大手・上場精密成形メーカーや特定 niche 分野でトップシェアを持つ企業の総合職では700万円超の例も）",
+    "url": "https://note.com/flat_official/n/n60656d58af3a",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "射出成形 ラボ｜小物から 成形 機1,800tクラス、試作品や小 ... — 射出成形 ラボ｜小物から 成形 機1,800tクラス、試作品や小 ... 射出成形ラボ https://injection-lab.com",
+    "url": "https://injection-lab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック 射出成形 会社449社 - Metoree — プラスチック 射出成形 会社449社 - Metoree Metoree https://metoree.com > 加工サービス",
+    "url": "https://metoree.com/categories/8994/",
+    "pass": 3
+   },
+   {
+    "quote": "日本 射出成形 プラ市場規模・シェア予測2034 - IMARC Group — 日本 射出成形 プラ市場規模・シェア予測2034 - IMARC Group IMARC Group https://www.imarcgroup.com > Healthcare",
+    "url": "https://www.imarcgroup.com/report/ja/japan-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2029年までの 射出成形 プラスチック市場規模、シェア、企業 — 2029年までの 射出成形 プラスチック市場規模、シェア、企業 Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-injection-molded-plastics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年 射出成形 機 受注統計 - 日本産業機械工業会 — 2026年 射出成形 機 受注統計 - 日本産業機械工業会 一般社団法人 日本産業機械工業会 PDF https://www.jsim.or.jp > pdf > statistical-data",
+    "url": "https://www.jsim.or.jp/pdf/statistical-data/a-1-54-00-00-00-20260918.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形 機市場規模・予測レポート（2026～2035年） — 射出成形 機市場規模・予測レポート（2026～2035年） Global Market Insights Inc. https://www.gminsights.com > industry-analysis > injectio...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック 射出成形 市場 | 業界シェア 市場規模 成長性 2026 — プラスチック 射出成形 市場 | 業界シェア 市場規模 成長性 2026 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > 産業用機械 > 工作機械",
+    "url": "https://www.gii.co.jp/report/moi2124417-plastics-injection-molding-market-share-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック 成形 職種( 射出成形 作業) — プラスチック 成形 職種( 射出成形 作業) 厚生労働省 PDF https://www.mhlw.go.jp > file > 06-Seisakujouhou-1...",
+    "url": "https://www.mhlw.go.jp/file/06-Seisakujouhou-11800000-Shokugyounouryokukaihatsukyoku/0000184761.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形 ・ 樹脂成形 の生産管理システム活用と原価管理の実践 ... — 射出成形 ・ 樹脂成形 の生産管理システム活用と原価管理の実践 ... 船井総合研究所 https://smart-factory.funaisoken.co.jp > factorydx-5322",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5322",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形 プラスチック市場 規模 、シェア |成長 [2034] — 射出成形 プラスチック市場 規模 、シェア |成長 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 射出成形プラ...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4-101970",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形 機市場 規模 ・予測レポート（2026～2035年） — 射出成形 機市場 規模 ・予測レポート（2026～2035年） Global Market Insights Inc. https://www.gminsights.com > industry-analysis > injectio...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "試作のつづき｜簡易金型・ 射出成形 90 万円 から - ODORIJI — 試作のつづき｜簡易金型・ 射出成形 90 万円 から - ODORIJI odoriji.net https://odoriji.net > pages > mold",
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形 - メーカー・企業120社の業務用製品ランキング — 射出成形 - メーカー・企業120社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 射出成形",
+    "url": "https://mono.ipros.com/cg2/%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形サービス - メーカー・企業114社の業務用製品ランキング | イ... — Oct 21, 2026 · 射出成形サービスのメーカーや取扱い企業、製品情報、参考価格をまとめています。 技術資料のダウンロードも可能です。 イプロスものづくりでは射出成形サービスの製造業向けの情報を多数掲載。",
+    "url": "https://mono.ipros.com/cg2/射出成形サービス/",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック射出成形市場の規模、シェア、成長率、分析（2034年まで... — Oct 16, 2026 · プラスチック射出成形市場の規模は、2026年の137億3000万ドルから2034年には189億7000万ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.12%です。",
+    "url": "https://straitsresearch.com/jp/report/plastic-injection-molding-market",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック射出成形市場分析 | 業界レポート、規模・成長インサイト — プラスチック射出成形市場の規模は2026年に1億6,378万トンとなり、CAGR 4.23%で成長し、2031年までに2億147万トンに達する見込みです。 ALPLA、Amcor PLC、AptarGroup, Inc.、Magna International Inc.、Silgan Holdings Inc.が、この市場で事業を展開する主要企業です。",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/plastics-injection-molding-market",
+    "pass": 3
+   },
+   {
+    "quote": "【更新】生産動態統計／貿易統計 2025年06月分、射出成形機受注台数、... — Aug 19, 2025 · 以下を更新しました。 経済産業省 生産動態統計 2025年06月分 財務省 貿易統計 2025年06月分 射出成形機 受注台数 2025年07月分 JPMレポート No.417 統計ページはこちら JPMレポートはこちら",
+    "url": "https://www.a-jpm.jp/2025/08/19/更新情報_会員向け-49/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Injection Molding Machine Market Analysis | 2024-2030Current Survey of Production / METI Ministry of Economy ...Injection Molded Parts Market in Japan | Report - IndexBox ...Injection Mold Industry Statistics (2026): Latest ResearchOverview of Japan Injection Molding Products Market 2026-2033 ...Japan Injection Molded Plastics Market Size, Forecast 2034 — Japan Injection Molding Machine Mark",
+    "url": "https://www.nextmsc.com/report/japan-injection-molding-machine-market",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "2025年の設備投資凍結後にEVプログラムの受注が再開するにつれ、自動車セグメントの射出成形機（IMM）需要も回復する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "インダストリー4.0対応の後付け改修により、予測期間の中盤まで追加的な設備投資機会が続く",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内回帰を促すインセンティブと通商政策の明確化により、設備投資への慎重姿勢が和らぎ、北米では2026〜2027年に回復が見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鋼所はインドで自動車に加えて容器や雑貨の需要が伸びていると述べ、海天国際は2025年の海外売上の伸びの背景として東南アジアと南米の生産能力拡大を説明しています",
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に導入された米国の関税により、一部の樹脂グレードの着荷コストが10～15％上昇した一方、中国の供給過剰（追加生産能力500万トンと推定）がアジア地域の相場を押し下げ、地域間の裁定取引スプレッドを拡大させました",
+    "url": "https://www.gii.co.jp/report/moi2124417-plastics-injection-molding-market-share-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国の1兆4,000億米ドル規模の再産業化計画は、半導体、EV用バッテリー、医療機器の生産能力を支援しており、これにより国内の樹脂需要が拡大する見込みです",
+    "url": "https://www.gii.co.jp/report/moi2124417-plastics-injection-molding-market-share-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国の1兆4,000億米ドル規模の再産業化計画は、半導体、EV用バッテリー、医療機器の生産能力を支援しており、これにより国内の樹脂需要が拡大する見込みです",
+    "url": "https://newscast.jp/smart/news/6471931",
+    "pass": 3
+   },
+   {
+    "quote": "だが24時間稼働の工場に比べ、日勤だけでは単純計算で生産能力が3分の1になる",
+    "url": "https://journal.meti.go.jp/future/11971/",
+    "pass": 3
+   },
+   {
+    "quote": "社内で3種の樹脂成形ができることに加え、機械の稼働率を70％までに抑えることで、突発的な注文が入っても対応できる余力を残している",
+    "url": "https://journal.meti.go.jp/future/11971/",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形機の購入には、小型機1台で数百万円、大型成形機では億単位もの設備投資費が必要になります",
+    "url": "https://mfg-hack.com/injection-molding/9390/",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "これらの全製造業に対する比率は、事業所数が5.2％、従業者数が4.4％、製品出荷額が3.4％をそれぞれ占めている",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、５年前（平成４年度）と比較した場合、プラスチック製品製造業では事業所数が93.83％、従業者数が97.70％、製品出荷額が96.45％、といずれも減少している",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、製造業全体も５年前と比較した場合、事業所数が86.30％、従業者数が89.10％、製品出荷額が98.04％の減少である",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   },
+   {
+    "quote": "県内の従業者規模別の事業所数の推移を見ると、５年前も現在も従業員９人以下の事業所が７割を超える一方、３０人以上の事業所は１割に満たず、ほとんど構造は変わっていない",
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "射出成形のいま：基礎から最前線まで。原理・種類・用途と、その射程... Jun 19, 2026 · 射出成形の原理は、ひとことで言えば「溶かして、流して、固める」だけです。 加熱して液体状にした樹脂を金型へ押し込み、冷やして取り出す。 この単純さこそが、複雑な形を、速く、安く、大量に作れる強さの源になっています。",
+    "url": "https://note.com/3n7no_tech_pr/n/n97578fd0789e",
+    "pass": 3
+   },
+   {
+    "quote": "【5分でわかる】プラスチック射出成形業界って実際どう？データで見る... Aug 17, 2026 · データで見るプラスチック射出成形業界の「リアル」 ⚙️ 市場規模と業界の安定性 国内のプラスチック成形品出荷額は約3兆円規模を維持しており、医療機器・食品容器・デジタル家電から自動車の軽量化部材まで、あらゆる産業を支える不可欠な基盤産業 ...",
+    "url": "https://note.com/flat_official/n/n60656d58af3a",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形のアレコレ-知らない人向け｜crow Oct 16, 2025 · 自分が携わっている仕事です 射出成形は溶けたプラスチックを金属の金型に流し込み、それを取り出す加工技術です 自分は射出成形で用いる金型の設計・組立・トライ確認・測定などを行っています 射出成形ってどんな技術？",
+    "url": "https://note.com/crow477/n/n970bb11925b9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "射出成形のいま：基礎から最前線まで。原理・種類・用途と、その射程を広げる注目企業5社｜みんなの技術広報",
+    "url": "https://note.com/3n7no_tech_pr/n/n97578fd0789e",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形のいま：基礎から最前線まで。原理・種類・用途と、その射程を広げる注目企業5社",
+    "url": "https://note.com/3n7no_tech_pr/n/n97578fd0789e",
+    "pass": 3
+   },
+   {
+    "quote": "材料の話——汎用樹脂からスーパーエンプラまで",
+    "url": "https://note.com/3n7no_tech_pr/n/n97578fd0789e",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形の最前線を走る企業たち(注目5社)",
+    "url": "https://note.com/3n7no_tech_pr/n/n97578fd0789e",
+    "pass": 3
+   },
+   {
+    "quote": "設計・解析と一体のものづくりへ——関東製作所",
+    "url": "https://note.com/3n7no_tech_pr/n/n97578fd0789e",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォンの筐体、自動車のバンパーやコネクタ、家電のボタン、ペットボトルのキャップ、医療現場で使う使い捨ての器具。私たちの身の回りにあるプラスチック製品の多くは、「射出成形」というひとつの加工法から生まれています。それほど広く使われている技術でありながら、その中身がきちんと語られる機会は意外なほど多くありません。",
+    "url": "https://note.com/3n7no_tech_pr/n/n97578fd0789e",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形の原理は、ひとことで言えば「溶かして、流して、固める」だけです。加熱して液体状にした樹脂を金型へ押し込み、冷やして取り出す。この単純さこそが、複雑な形を、速く、安く、大量に作れる強さの源になっています。",
+    "url": "https://note.com/3n7no_tech_pr/n/n97578fd0789e",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、この記事でお伝えしたいのは、その単純な原理の「先」です。射出成形はしばしば「枯れた技術」と見なされますが、実際にはいまも射程を広げ続けています。肉眼では見えない歯車を成形する世界、金属と樹脂を接着剤なしで一体化する世界、成形と同時に絵柄やタッチセンサーを埋め込む世界。どれも、あの「溶かして流して固める」の延長線上で起きていることです。",
+    "url": "https://note.com/3n7no_tech_pr/n/n97578fd0789e",
+    "pass": 3
+   },
+   {
+    "quote": "【5分でわかる】プラスチック射出成形業界って実際どう？データで見る現状と「AI時代のキャリア戦略」｜FLAT-view",
+    "url": "https://note.com/flat_official/n/n60656d58af3a",
+    "pass": 3
+   },
+   {
+    "quote": "【5分でわかる】プラスチック射出成形業界って実際どう？データで見る現状と「AI時代のキャリア戦略」",
+    "url": "https://note.com/flat_official/n/n60656d58af3a",
+    "pass": 3
+   },
+   {
+    "quote": "「プラスチック射出成形」と聞くと、「専門的な技術の世界で難しそう」「文系・理系それぞれでどんな関わり方やキャリアがあるんだろう？」と思っていませんか？",
+    "url": "https://note.com/flat_official/n/n60656d58af3a",
+    "pass": 3
+   },
+   {
+    "quote": "説明会前の5分間で、最新のデータや現場のリアル（大変さ・やりがい）を客観的に押さえつつ、後半では「文系・理系問わず手にできるキャリアのメリット」も合わせて見極めていきましょう。",
+    "url": "https://note.com/flat_official/n/n60656d58af3a",
+    "pass": 3
+   },
+   {
+    "quote": "1. データで見るプラスチック射出成形業界の「リアル」",
+    "url": "https://note.com/flat_official/n/n60656d58af3a",
+    "pass": 3
+   },
+   {
+    "quote": "国内のプラスチック成形品出荷額は約3兆円規模を維持しており、医療機器・食品容器・デジタル家電から自動車の軽量化部材まで、あらゆる産業を支える",
+    "url": "https://note.com/flat_official/n/n60656d58af3a",
+    "pass": 3
+   },
+   {
+    "quote": "平均年収：業界平均で約450万〜650万円程度（大手・上場精密成形メーカーや特定 niche 分野でトップシェアを持つ企業の総合職では700万円超の例も）",
+    "url": "https://note.com/flat_official/n/n60656d58af3a",
+    "pass": 3
+   },
+   {
+    "quote": "出典：経済産業省「工業統計調査」/ 各社有価証券報告書データ等",
+    "url": "https://note.com/flat_official/n/n60656d58af3a",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形のアレコレ-知らない人向け｜crow",
+    "url": "https://note.com/crow477/n/n970bb11925b9",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形は溶けたプラスチックを金属の金型に流し込み、それを取り出す加工技術です",
+    "url": "https://note.com/crow477/n/n970bb11925b9",
+    "pass": 3
+   },
+   {
+    "quote": "自分は射出成形で用いる金型の設計・組立・トライ確認・測定などを行っています",
+    "url": "https://note.com/crow477/n/n970bb11925b9",
+    "pass": 3
+   },
+   {
+    "quote": "バンドヒーターで溶かすのか！⇒No？Yes？",
+    "url": "https://note.com/crow477/n/n970bb11925b9",
+    "pass": 3
+   },
+   {
+    "quote": "自分は以下の4つの工程から成り立っている技術だと思っています",
+    "url": "https://note.com/crow477/n/n970bb11925b9",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチックは金属などと比べて、強度が低く寸法安定性が悪かったりしますがそれらをして圧倒的なコストメリットを得られることが大きな特徴です",
+    "url": "https://note.com/crow477/n/n970bb11925b9",
+    "pass": 3
+   },
+   {
+    "quote": "大量生産を行う造形において、この方式を上回るのはなかなか難しいことですね",
+    "url": "https://note.com/crow477/n/n970bb11925b9",
+    "pass": 3
+   },
+   {
+    "quote": "）ではありますが、以下の動画が短くまとめられており大変分かりやすいです",
+    "url": "https://note.com/crow477/n/n970bb11925b9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "㈱坂本金型工作所 (@sakamotomold) / X 大阪府枚方市＆滋賀県多賀町でプラスチック射出成型用の金型を設計・製作しています。 ＃大阪 ＃多賀町 ＃金型 ＃プラスチック成形 ＃射出成形 ＃中空成形 ＃DSI射出成形 ＃スーパーエンプラ",
+    "url": "https://x.com/sakamotomold",
+    "pass": 3
+   },
+   {
+    "quote": "是松成形コンサル事務所 on X: \"成形品の寸法を評価するときは、成形... 成形品の寸法を評価するときは、成形から測定までの経過時間をそろえることをおすすめします。 樹脂や形状によっては成形後も寸法が変化します。 成形時刻・測定時刻・保管環境を記録すると、条件変更による差を比較しやすくなります。 #射出成形",
+    "url": "https://x.com/Korematsu_Cons/status/2117949998050492609",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジェイテクト on X: \"\\ ジェイテクト社員情報／ イノベーショ... \\📢ジェイテクト社員情報／ イノベーション本部 足立 智也さん、馬場 紀行さんが プラスチック成形加工学会第37回年次大会で講演🧑🏫 テーマ：樹脂射出成形における 放射温度計測の高度化 プラスチック成形の品質向上を叶えるソリューションを紹介 ...",
+    "url": "https://x.com/JTEKT_PR/status/2069329611859890418",
+    "pass": 3
+   },
+   {
+    "quote": "Takafumi Horiuchi｜Physical Design × AI on X: \"【時代背景】1970年... 【時代背景】1970年代、樹脂を型に流し込む射出成形の技術が成熟し、椅子を丸ごと一度につくれるようになりました。 フランスのマソネが1972年に発表した「Fauteuil 300」は、世界中に普及した「モノブロックチェア」の原型（元祖）とされています。",
+    "url": "https://x.com/t_kafumi_witter/status/2117450620802117782",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "マイクロプラスチック射出成形機メーカー比較と各社の強み 2 days ago · マイクロプラスチック射出成形機は、自動車産業では軽量化と高精度なセンサー部品やコネクタの大量生産に貢献し、供給者には極めて厳しい ...",
+    "url": "https://www.linkedin.com/pulse/マイクロプラスチック射出成形機メーカー比較と各社の強み-till-track-jrote/",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形インサート成形サービス市場トップ10企業 3 days ago · 主要10社の概要 射出成形インサート成形サービス市場で注目される企業には、Lomont Moldingがあり、高品質な射出成形部品の提供に特化している。 Proto Labs, Inc.は迅速なプロトタイピングサービスを提供し、デジタル製造に強みを持つ。",
+    "url": "https://jp.linkedin.com/pulse/射出成形インサート成形サービス市場トップ10企業-pariolytics-1s2ae",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形プロセスの完全ガイド:原材料から完成品まで May 6, 2025 · 現在、プラスチック生産の基盤を担い、家電の筐体から重要な医療機器部品まであらゆるものを可能にしています。 その人気は、他の製造方法には匹敵しない精度、スケール性、素材の多様性にあります。",
+    "url": "https://jp.linkedin.com/pulse/complete-guide-injection-moulding-process-from-raw-material-iyehe?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Cindy / Akane - ⊛つながり申請大歓迎~ /# 金型製造 #射出金型 #プラ... Oct 8, 2026 · 社内試作センターには、型締力 60～1000 トンの射出成形機（二色成形機 3 台含む）を設置し、PA6+GF、PPS、PEEK など各種高機能エンジニアリングプラスチックの加工に対応可能です。",
+    "url": "https://cn.linkedin.com/in/cindy-akane-a6b766433",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Goodway - 射出成形機-Injection Molding Machine 射出成型受託製造｜... Feb 17, 2025 · 🏭射出成形機-Injection Molding Machine 射出成型受託製造｜OEM 樹脂製の射出成型技術を用いて、樹脂パーツやスーツケースなど、多様なアイテムの受託製造を承ります。 お気軽にご相談ください。 Injection Molding Contract Manufacturing |...",
+    "url": "https://www.facebook.com/61571906354189/posts/射出成形機-injection-molding-machine射出成型受託製造oem樹脂製の射出成型技術を用いて樹脂パーツやスーツケースなど多様なアイテムの受託/122112946268730211/",
+    "pass": 3
+   },
+   {
+    "quote": "ファナック株式会社 - 【ファナックの射出成形機で見る、熱硬化性樹脂... Nov 11, 2025 · 【ファナックの射出成形機で見る、熱硬化性樹脂のインサート成形技術 】 電子基板の封止成形を、成形品取出ロボットとファナックロボットが仲良く連携作業🤝 バリ取り＆レーザ印字まで一貫対応 低圧でも封止可能な熱硬化性エポキシ樹脂を使用し ...",
+    "url": "https://www.facebook.com/FANUC.CORPORATION/posts/ファナックの射出成形機で見る熱硬化性樹脂のインサート成形技術電子基板の封止成形を成形品取出ロボットとファナックロボットが仲良く連携作業バリ取りレーザ印字まで一貫/806218418870280/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.daiwa-grp.co.jp/biz/entrustment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://injection-lab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/injection-molding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8994/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://injection-lab.com/study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/jp/blog/injection-molding-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/injection-molding/9476/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-injection-molded-plastics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-injection-molded-plastics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jsim.or.jp/pdf/statistical-data/a-1-54-00-00-00-20260918.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forwit.jp/column/injection-molding-machine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/moi2124417-plastics-injection-molding-market-share-analysis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/file/06-Seisakujouhou-11800000-Shokugyounouryokukaihatsukyoku/0000184761.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/6471931",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journal.meti.go.jp/future/11971/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5322",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihon-ma.co.jp/columns/2022/x20231124-94/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.misumi-ec.com/tech-info/categories/plastic_mold_design/pl06/j0042.html?srsltid=AYCX9vL-M1gDe14qnCkQOhu2DdWyqjUYf7Z3EWwSabZ-vK7I19lJIG_s",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-jpm.jp/2025/05/20/%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1_%E4%BC%9A%E5%93%A1%E5%90%91%E3%81%91-45/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E6%A8%B9%E8%84%82%E6%88%90%E5%BD%A2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4-101970",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/7429242",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/19",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://injection-lab.com/technology/1984-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kakounosusume.com/product/epomold/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/injection-molding/9390/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oem-ems-partners.com/column/2863/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/plastic-injection-molding-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E6%A8%B9%E8%84%82%E6%88%90%E5%BD%A2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/plastics-injection-molding-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://keenovis.com/ja/custom-fabrication/plastic-injection-molding/standard-injection-molding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-jpm.jp/2025/08/19/%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1_%E4%BC%9A%E5%93%A1%E5%90%91%E3%81%91-49/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.6wresearch.com/industry-report/japan-injection-molding-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nextmsc.com/report/japan-injection-molding-machine-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexbox.io/store/japan-injection-molded-parts-market-analysis-forecast-size-trends-and-insights/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldmetrics.org/injection-mold-industry-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/overview-japan-injection-molding-products-market-2026-2033-ybmse",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-injection-molded-plastics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/3n7no_tech_pr/n/n97578fd0789e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/flat_official/n/n60656d58af3a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/crow477/n/n970bb11925b9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sakamotomold",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Korematsu_Cons/status/2117949998050492609",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JTEKT_PR/status/2069329611859890418",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/t_kafumi_witter/status/2117450620802117782",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/マイクロプラスチック射出成形機メーカー比較と各社の強み-till-track-jrote/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/射出成形インサート成形サービス市場トップ10企業-pariolytics-1s2ae",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/complete-guide-injection-moulding-process-from-raw-material-iyehe?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/in/cindy-akane-a6b766433",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61571906354189/posts/射出成形機-injection-molding-machine射出成型受託製造oem樹脂製の射出成型技術を用いて樹脂パーツやスーツケースなど多様なアイテムの受託/122112946268730211/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FANUC.CORPORATION/posts/ファナックの射出成形機で見る熱硬化性樹脂のインサート成形技術電子基板の封止成形を成形品取出ロボットとファナックロボットが仲良く連携作業バリ取りレーザ印字まで一貫/806218418870280/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "樹脂成形（射出成形）の受託",
+   "results": [
+    "https://www.daiwa-grp.co.jp/biz/entrustment",
+    "https://injection-lab.com/",
+    "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/injection-molding/",
+    "https://metoree.com/categories/8994/",
+    "https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding",
+    "https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/",
+    "https://injection-lab.com/technology/64-2.html",
+    "https://www.slkco.jp/tech/inject",
+    "https://elastomer.kuraray.com/ja/blog/injection-molding/",
+    "https://mono.ipros.com/cg2/射出成形サービス/"
+   ]
+  },
+  {
+   "query": "樹脂成形（射出成形）の受託 推移",
+   "results": [
+    "https://injection-lab.com/study/",
+    "https://formlabs.com/jp/blog/injection-molding-cost/",
+    "https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding",
+    "https://mfg-hack.com/injection-molding/9476/",
+    "https://www.imarcgroup.com/report/ja/japan-injection-molded-plastics-market",
+    "https://www.databridgemarketresearch.com/jp/reports/global-injection-molded-plastics-market",
+    "https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf",
+    "https://firstmold.com/ja/tips/injection-molding-costs/",
+    "https://www.jstage.jst.go.jp/article/gomu1944/46/1/46_1_13/_pdf/-char/en",
+    "https://www.globalresearch.co.jp/plastic-contract-manufacturing-market/"
+   ]
+  },
+  {
+   "query": "樹脂成形（射出成形）の受託 統計 PDF",
+   "results": [
+    "https://www.jsim.or.jp/pdf/statistical-data/a-1-54-00-00-00-20260918.pdf",
+    "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "https://forwit.jp/column/injection-molding-machine/",
+    "https://www.gii.co.jp/report/moi2124417-plastics-injection-molding-market-share-analysis.html",
+    "https://www.mhlw.go.jp/file/06-Seisakujouhou-11800000-Shokugyounouryokukaihatsukyoku/0000184761.pdf",
+    "https://newscast.jp/smart/news/6471931",
+    "https://www.atpress.ne.jp/news/645236",
+    "https://www.furukawaelectric.com/jiho/fj133/fj133_05.pdf",
+    "https://www.a-jpm.jp/2025/11/19/%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1_%E4%BC%9A%E5%93%A1%E5%90%91%E3%81%91-53/",
+    "https://straitsresearch.com/jp/report/plastic-injection-molding-market"
+   ]
+  },
+  {
+   "query": "樹脂成形（射出成形）の受託 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://journal.meti.go.jp/future/11971/",
+    "https://www.mhlw.go.jp/file/06-Seisakujouhou-11800000-Shokugyounouryokukaihatsukyoku/0000184761.pdf",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5322",
+    "https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html",
+    "https://www.nihon-ma.co.jp/columns/2022/x20231124-94/",
+    "https://jp.misumi-ec.com/tech-info/categories/plastic_mold_design/pl06/j0042.html?srsltid=AYCX9vL-M1gDe14qnCkQOhu2DdWyqjUYf7Z3EWwSabZ-vK7I19lJIG_s",
+    "https://www.a-jpm.jp/2025/05/20/%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1_%E4%BC%9A%E5%93%A1%E5%90%91%E3%81%91-45/",
+    "https://www.jsim.or.jp/pdf/statistical-data/a-1-54-00-00-00-20251212.pdf",
+    "https://www.databridgemarketresearch.com/jp/reports/global-injection-molded-plastics-market",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ]
+  },
+  {
+   "query": "樹脂成形（射出成形）の受託 従業者規模別",
+   "results": [
+    "https://metoree.com/categories/8994/",
+    "https://formlabs.com/jp/blog/injection-molding-cost/",
+    "https://mono.ipros.com/cg2/%E6%A8%B9%E8%84%82%E6%88%90%E5%BD%A2/",
+    "https://www.fortunebusinessinsights.com/jp/%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4-101970",
+    "https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5322",
+    "https://www.atpress.ne.jp/news/7429242",
+    "https://www.databridgemarketresearch.com/jp/reports/global-injection-molded-plastics-market",
+    "https://shigoto.mhlw.go.jp/User/Occupation/Detail/19"
+   ]
+  },
+  {
+   "query": "樹脂成形（射出成形）の受託 1人当たり 万円",
+   "results": [
+    "https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c",
+    "https://injection-lab.com/technology/1984-2.html",
+    "https://formlabs.com/jp/blog/injection-molding-cost/",
+    "https://mono.ipros.com/cg2/%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2/",
+    "https://kakounosusume.com/product/epomold/",
+    "https://mfg-hack.com/injection-molding/9390/",
+    "https://oem-ems-partners.com/column/2863/",
+    "https://doudaseiko.com/product/",
+    "https://batonz.jp/sell_cases/bk_2400000/bk_2401011/",
+    "https://hikaku-hub.com/injection-molding-service/"
+   ]
+  },
+  {
+   "query": "樹脂成形（射出成形）の受託 2015 2025",
+   "results": [
+    "https://mono.ipros.com/cg2/射出成形サービス/",
+    "https://straitsresearch.com/jp/report/plastic-injection-molding-market",
+    "https://mono.ipros.com/cg2/樹脂成形/",
+    "https://www.mordorintelligence.com/ja/industry-reports/plastics-injection-molding-market",
+    "https://keenovis.com/ja/custom-fabrication/plastic-injection-molding/standard-injection-molding/",
+    "https://www.a-jpm.jp/2025/08/19/更新情報_会員向け-49/",
+    "https://www.jsim.or.jp/pdf/statistical-data/a-1-54-00-00-00-20250822.pdf"
+   ]
+  },
+  {
+   "query": "injection molding contract Japan statistics Japan statistics",
+   "results": [
+    "https://www.6wresearch.com/industry-report/japan-injection-molding-market",
+    "https://www.nextmsc.com/report/japan-injection-molding-machine-market",
+    "https://www.indexbox.io/store/japan-injection-molded-parts-market-analysis-forecast-size-trends-and-insights/",
+    "https://worldmetrics.org/injection-mold-industry-statistics/",
+    "https://www.linkedin.com/pulse/overview-japan-injection-molding-products-market-2026-2033-ybmse",
+    "https://www.imarcgroup.com/japan-injection-molded-plastics-market",
+    "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 樹脂成形（射出成形）の受託",
+   "results": [
+    "https://note.com/3n7no_tech_pr/n/n97578fd0789e",
+    "https://note.com/flat_official/n/n60656d58af3a",
+    "https://note.com/crow477/n/n970bb11925b9",
+    "https://note.com/morisonnote/n/n20f4945e7e16",
+    "https://note.com/moldtech/n/ne57fdc7ab2d7",
+    "https://note.com/crow477/n/n461ae106cc6c",
+    "https://note.com/yamanoji_ai/n/n720189cf1bc8"
+   ]
+  },
+  {
+   "query": "site:x.com 樹脂成形（射出成形）の受託",
+   "results": [
+    "https://x.com/sakamotomold",
+    "https://x.com/Korematsu_Cons/status/2117949998050492609",
+    "https://x.com/JTEKT_PR/status/2069329611859890418",
+    "https://x.com/t_kafumi_witter/status/2117450620802117782",
+    "https://x.com/S_and_K_info",
+    "https://x.com/hashtag/射出成型",
+    "https://x.com/fujinokuni_cnf/status/1841257115232715008"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 樹脂成形（射出成形）の受託",
+   "results": [
+    "https://www.linkedin.com/pulse/マイクロプラスチック射出成形機メーカー比較と各社の強み-till-track-jrote/",
+    "https://jp.linkedin.com/pulse/射出成形インサート成形サービス市場トップ10企業-pariolytics-1s2ae",
+    "https://jp.linkedin.com/pulse/complete-guide-injection-moulding-process-from-raw-material-iyehe?tl=ja",
+    "https://cn.linkedin.com/in/cindy-akane-a6b766433",
+    "https://www.linkedin.com/posts/hiroshi-iwasaki_技能実習生に役立つプラスチック成形用語と例文集シリーズ配信中-本シリーズ-activity-7373181291665727488-0WMR",
+    "https://th.linkedin.com/in/yoshiro-n-8476773b6",
+    "https://ca.linkedin.com/in/takanori-aono-555552192"
+   ]
+  },
+  {
+   "query": "site:facebook.com 樹脂成形（射出成形）の受託",
+   "results": [
+    "https://www.facebook.com/61571906354189/posts/射出成形機-injection-molding-machine射出成型受託製造oem樹脂製の射出成型技術を用いて樹脂パーツやスーツケースなど多様なアイテムの受託/122112946268730211/",
+    "https://www.facebook.com/FANUC.CORPORATION/posts/ファナックの射出成形機で見る熱硬化性樹脂のインサート成形技術電子基板の封止成形を成形品取出ロボットとファナックロボットが仲良く連携作業バリ取りレーザ印字まで一貫/806218418870280/",
+    "https://www.facebook.com/INTERMOLD/",
+    "https://www.facebook.com/INTERMOLD/photos/樹脂成形技術を案件につながる形でprしませんか特別出展企画プラスチック部品製造技術フェア-は金型成形材料を比較検討する来場者が多く具体的な相談や商談へ発展しやす/1384917153428375/",
+    "https://www.facebook.com/miyoshi.co.jp/videos/クジラの中身が光るクジラの中に入れるパーツも金型を作って卓上射出成形機inari-p35で成形しますハートさかなさかなの骨ヒトデ貝殻イカの6種類のパーツをプラモ/996658600173074/",
+    "https://www.facebook.com/INTERMOLD/posts/今なら出展料10off10月末までの出展申込でお得にprintermold-金型展-金属プレス加工技術展2027の出展申込を受付中2026年10月31日までのお/1660990895820998/",
+    "https://www.facebook.com/Wakakusa.Co.Ltd/"
+   ]
+  },
+  {
+   "query": "樹脂成形（射出成形）の受託 note 社長",
+   "results": [
+    "https://hikaku-hub.com/injection-molding-service/",
+    "https://mono.ipros.com/cg2/射出成形サービス/",
+    "https://www.shashutsuseikeikanagata.com/index/jutaku/",
+    "https://www.do-naito.jp/dms/plastic/",
+    "https://www.plasticmold.net/ja/プラスチック射出成形受託製造/",
+    "https://www.zeze.co.jp/service/oem",
+    "https://www.universe-kk.co.jp/extrusion/oem/"
+   ]
+  },
+  {
+   "query": "樹脂成形（射出成形）の受託 X 投稿",
+   "results": [
+    "https://hikaku-hub.com/injection-molding-service/",
+    "https://keenovis.com/ja/custom-fabrication/plastic-injection-molding/standard-injection-molding/",
+    "https://mono.ipros.com/cg2/射出成形サービス/",
+    "https://www.yamaken-kogyo.com/",
+    "https://connect.nissha.com/nii/",
+    "https://www.daiwa-grp.co.jp/biz/entrustment",
+    "https://www.nihon-gosei.co.jp/processing/"
+   ]
+  },
+  {
+   "query": "injection molding contract Japan statistics site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/japan-micro-injection-molding-market-research-statistics-rlwmf",
+    "https://www.linkedin.com/pulse/thorough-review-japan-precision-injection-molding-market-b9rde",
+    "https://pe.linkedin.com/pulse/japan-precision-injection-molding-market-trends-kmi6c",
+    "https://in.linkedin.com/in/senguttuvan-s-68a74027",
+    "https://www.linkedin.com/pulse/overview-japan-injection-molding-products-market-2026-2033-ybmse",
+    "https://www.linkedin.com/pulse/report-japan-precision-injection-molding-market-rapid-expansion-fzu4e",
+    "https://www.linkedin.com/pulse/japan-micro-injection-molding-market-growth-trends-share-zia0f"
+   ]
+  }
+ ],
+ "missing": {}
+}

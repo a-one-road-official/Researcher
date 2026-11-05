@@ -1,0 +1,1146 @@
+{
+ "name": "鍛造の受託",
+ "en": "forging industry Japan statistics",
+ "aliases": [
+  "日本鍛造協会 統計",
+  "鍛工品 生産額 推移",
+  "鍛造 事業所 従業者"
+ ],
+ "context": "工法・鍛造",
+ "kind": "market",
+ "researched_at": "2026-11-05T01:10:31.589663+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "300人・売上高38億円",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員は300人、売上高は38億円と書いています",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "国内15社の公式サイトを調べ、タレント中心・インフルエンサー中心・モデルやエキストラ中心の区分を付けたうえで、広告にタレントを起用したい場合、インフルエンサーを急いで少人数から探したい場合、モデルの肖像の使用範囲をきちんと決めたい場合の3つの用途別に、最初に相談したい3社を選びました",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "⑲ 個人（業種番号６２）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "別表（１）付表 独立行政法人の分類例",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・別表(１)付表「独立行政法人の分類例」を変更",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・Ⅲ．１．(１)(ロ)⑤（別段預金）に、法人等から預かった納税資金の取り扱いを明記",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・Ⅲ．１．(１)(ハ)に、個人および法人の複数名義が付されている預金について当該預",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・投資信託及び投資法人に関する法律第１３９条の１２第１項に規定する短期投資法人債",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "個人(住宅・消費・納税資金等) 05 Ｅ Ｉ",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "個人(住宅・消費・納税資金等) 13",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合 一 般 法 人 預 金 11 イ",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50 個 人 預 金 12 ニ",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成 11年度ものづくり人材支援基盤整備事業",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "さて、中小企業総合事業団では平成11年度「ものづくり人材支援基盤整備事業」におい",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で重要と考え、それらを必要とする業界を対象に、「平成11年度ものづく り人材支壊基",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大多数を占める、従業員数100 名以下の小規模企業では自動鍛造機の導入も容易ではない",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代人口は 1960 年代の約半分で推移する）は各企業の保持している技能者のスキル伝承の困難に直",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5)無人化操業",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１）「鍛造 -今日と未来」 社団法人全日本鍛造協会 1998年",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "相場産業の公開例では、3kg以下の小物の型と抜型で40〜70万円程度です",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "トン当たり1万円以上と1万円で、1kgあたり20円以上です",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "基準のロットを300〜5,000個、型の予算を40〜70万円程度と公開しています",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "型の予算は40〜70万円程度",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "型の予算40〜70万円程度",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "型と抜型で40〜70万円程度",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "試作用の型だけで30〜60万円",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "型代を相場産業の目安の40万円と70万円に置いて、差ごとの個数を出しました",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "型代40万円のとき",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "型代70万円のとき",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "差が1,000円なら、型代70万円でも700個で取り返せる計算になるからです",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "トン当たり1万円以上",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "トン当たり1万円",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "トン当たり1万円は、1kgあたり10円です",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "300人・売上高38億円",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "3,600万円",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "9,689万円",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "試作用の金型だけで30〜60万円",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "１）×百万円」以内とします",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "預金量 1000 億円の金融機関が、100 億円の預金を 4 月 16 日に譲り受けた場合、4 月",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中の預金平残は、次のとおり1050億円となります",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "預金平残 1050 億円＝(1000 億円×30 日＋100 億円×15 日)÷30 日",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "預金量 1200 億円の金融機関 A が、同 900 億円の金融機関 B と 4 月 11日に合併し、A",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "A：預金平残1800 億円＝（1200 億円×10 日＋2100 億円×20 日）÷30 日",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "B：預金平残300 億円＝900 億円×10 日÷30 日",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "目に一致します（「（支店のある都道府県数－１）×百万円」まで誤差を許容します）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＣＯＬ1＝Ｍ ＜国内店銀行勘定＞ （単位：百万円＜切り捨て＞）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＣＯＬ1 ＝ Ｍ （ 単位： 百万円＜切り 捨て ＞）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＣＯＬ1＝Ｍ （単位：百万円＜切り捨て＞）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（単位：百万円＜切り捨て＞） （６）Ｆ≧Ｊ",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３百万円 21 個 人 預 金 12",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３百万円 一 般 法 人 預 金 11 ＢＨ ち",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１千万円 公金預金･政府関係預り金 20",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "相場産業の公開例では、3kg以下の小物の型と抜型で40〜70万円程度です",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "トン当たり1万円以上と1万円で、1kgあたり20円以上です",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "基準のロットを300〜5,000個、型の予算を40〜70万円程度と公開しています",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "型の予算は40〜70万円程度",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "型の予算40〜70万円程度",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "型と抜型で40〜70万円程度",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "試作用の型だけで30〜60万円",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "型代を相場産業の目安の40万円と70万円に置いて、差ごとの個数を出しました",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "型代40万円のとき",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "型代70万円のとき",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "差が1,000円なら、型代70万円でも700個で取り返せる計算になるからです",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "トン当たり1万円以上",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "トン当たり1万円",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "トン当たり1万円は、1kgあたり10円です",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "3,600万円",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "9,689万円",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "試作用の金型だけで30〜60万円",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "鍛造型と抜型を合わせて40〜70万円程度の予算",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "１）×百万円」以内とします",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "目に一致します（「（支店のある都道府県数－１）×百万円」まで誤差を許容します）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＣＯＬ1＝Ｍ ＜国内店銀行勘定＞ （単位：百万円＜切り捨て＞）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＣＯＬ1 ＝ Ｍ （ 単位： 百万円＜切り 捨て ＞）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＣＯＬ1＝Ｍ （単位：百万円＜切り捨て＞）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（単位：百万円＜切り捨て＞） （６）Ｆ≧Ｊ",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３百万円 21 個 人 預 金 12",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３百万円 一 般 法 人 預 金 11 ＢＨ ち",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１千万円 公金預金･政府関係預り金 20",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１千万円 一 般 法 人 預 金 11 Ｃつ",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○○○○株式会社 繊 維 1,6 00 百万円",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金50百万円以下",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金50百万円超10",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "多品種・小ロットに対応、月間2,000tの生産能力",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員は73名、資本金は6,000万円で、生産能力は月1,000tと書いています",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "② 「設備資金」とは、耐用年数がおおむね１年以上の有形固定資産、すなわち土地、建",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2024年2月5日",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年2月契約分",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の同社の値上げの告知は、工具鋼の1件だけでした",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "大同特殊鋼 特殊鋼鋼材およびステンレス鋼の販売価格改定について（2024年2月5日）",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "大同特殊鋼 お知らせ 2025年",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "40名（2020年）",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "靜甲は2022年に東証スタンダード市場へ移った上場会社です",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "e-Statの2024年年報の表で確かめました",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省 生産動態統計 2024年年報 時系列表（2520 鍛工品月報、e-Stat）",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "鳥取工場に鍛造課があり、2023年に姫路工場を新設しました",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "包装機械と冷間鍛造の製品、電機機器の販売を手がけ、2022年に東京証券取引所スタンダード市場へ移りました",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "東証スタンダード上場（2022年に移行）",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "同ツール上の「前年比チェック」の機能を利用し、他項目と比べて変動幅が大きくなって",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "通産省機械統計）であり近年はほぼ横這いあるいは低下傾向で推移している",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自由鍛造により製造される製品種別は徐々に増加しつつあり、これを製造する事業者は長年にわ",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年現在）であり近年はやや減少する方向にある",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に代わる作業者のスキルにより技術水準を保持してきたが、今後の若年労働力の減少（今後の20歳",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代人口は 1960 年代の約半分で推移する）は各企業の保持している技能者のスキル伝承の困難に直",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が小さくなり、トータルの鍛造荷重が材料の重量に比べ大幅に減少し、そのため、自由鍛造は重量",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ことに止まらず、今後若年労働力の減少に伴う技術・技能伝承のために今後ますます重要となるで",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "などにより静水圧応力を圧縮側に増加させることができる",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "比較すると、鍛造面数が多くなるほど断面積減少率が高い",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、断面積減少率と断面内ひずみの最小値の関係を整理すると、同一断面積減少率（軸方",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高速鍛造の利点は、金型－材料接触時間の減少に伴う金型温度上昇の抑制と、材料温度低下の抑制",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "水圧応力の増加によるポロシティ圧下の促進（これは既に実用化されている）や、より低温で加工さ",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "熟練オペレーターの減少は確実であり、燃焼及び温度制御、搬送制御等計装の完全自動化",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "マンドレルリング直径方向の圧延力を与え、 肉厚を減少させると共に主ロール側へ移動する",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り円鋸形エッジングロールの回転は減少せねばならない",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅲ）この凹みは析料歩留まりの減少をもたらし、高級析の場合、価格増大に縦がる",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "焼戻しとは、焼入れした鋼の靭性を増加し、硬さと内部応力を一部減少させるためＡ1変態点以下",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020-2025",
+    "url": "https://www.imarcgroup.com/japan-forging-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2025",
+    "url": "https://www.imarcgroup.com/japan-forging-market",
+    "pass": 3
+   },
+   {
+    "quote": "In May 2025,",
+    "url": "https://www.imarcgroup.com/japan-forging-market",
+    "pass": 3
+   },
+   {
+    "quote": "IMARC’s industry report offers a comprehensive quantitative analysis of various market segments, historical and current market trends, market forecasts, and dynamics of the Japan forging market from 2020-2034.",
+    "url": "https://www.imarcgroup.com/japan-forging-market",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "自由鍛造を1個から短納期で受けます",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "自由鍛造は1個から短納期で受ける",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "型鍛造の理想のロットは数百〜数千個で、納期は注文から1.5〜2か月です",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の計画に合わせた小規模な製造と短納期をうたいますが、個数や日数は書いていません",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模な製造と短納期をうたう（個数の記載なし）",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ・マグネシウムの鋳造試作は、工法（石膏・砂型・簡易金型・ロストワックス・金属3Dプリント）で納期も精度も費用も変わります",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   },
+   {
+    "quote": "どれが最適な方法であるかについては、温度、材質、寸法等、被切断材の条件、歩留、納期(切断工",
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "迷ったらこれ。 鍛造の受託 の3選と、条件別の第一候補 — 迷ったらこれ。 鍛造の受託 の3選と、条件別の第一候補 hikaku-hub.com https://hikaku-hub.com > forging-service",
+    "url": "https://hikaku-hub.com/forging-service/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jfa-tanzo.jp/about/contract/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E9%8D%9B%E9%80%A0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evort.jp/article/eiwa-heartmake-melting-forging-rolling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichidai.jp/technology/development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hikaku-hub.com/forging-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kobelcokaken.co.jp/contract/cae/fabricated.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kintan-jp.com/documents/youtobetsu-seisanryou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/casting-and-forgings-wholesale",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/6799464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichidai.jp/ir/irlibrar/?act=file&key=6ae41e1b93278f393ba55a7fae51e39d",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/6799464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E9%8D%9B%E9%80%A0%E5%B8%82%E5%A0%B4-103175",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/002_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nichidai.jp/download/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokushuko.or.jp/publication/magazine/pdf/2024/magazine2405.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.monozukuri.org/techno/technote027.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.niigata.lg.jp/uploaded/attachment/345559.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-2.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osaka-ue.ac.jp/file/general/15272",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.marugame.lg.jp/uploaded/attachment/27940.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jftc.go.jp/file/toriteki_leaflet.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/seminar/jftc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gov-online.go.jp/article/202511/entry-9983.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tanishima.net/%E3%82%B3%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B9/kensetsugyo-tokutei-5000man-zairyohi-handan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jms-support.jp/column/%E5%BB%BA%E8%A8%AD%E7%94%A8%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81%E6%A5%AD%E7%95%8C%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%EF%BD%8D%EF%BC%86%EF%BD%81%E6%88%90%E5%8A%9F%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/jidosha/content/001980298.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E9%8D%9B%E9%80%A0%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uacj.co.jp/development/facility/forging.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/2504076",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamanaka-eng.co.jp/cate01/3622/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/7411011",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalresearch.co.jp/reports/japan-metal-forging-market-mrf/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/7755/it-industry-in-japan/?srsltid=AYCX9vL9iXSvCw17zn22i7LcNmHV4_RlmW1ha9pQxxJr0Vb_IIvPy9mj",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmtba.or.jp/english/category/machine-tool-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-forging-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://globaledge.msu.edu/countries/japan/statistics",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "鍛造の受託",
+   "results": [
+    "https://www.jfa-tanzo.jp/about/contract/",
+    "https://mono.ipros.com/cg1/%E9%8D%9B%E9%80%A0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://evort.jp/article/eiwa-heartmake-melting-forging-rolling",
+    "https://www.nichidai.jp/technology/development/",
+    "https://hikaku-hub.com/forging-service/",
+    "https://www.kobelcokaken.co.jp/contract/cae/fabricated.html",
+    "https://jinkouboeki.co.jp/pages/forging-oem",
+    "https://www.uacj.co.jp/development/facility/forging.html",
+    "https://endo-mfg.co.jp/business/forging/",
+    "https://mono.ipros.com/cg2/鍛造加工サービス/"
+   ]
+  },
+  {
+   "query": "鍛造の受託 推移",
+   "results": [
+    "https://kintan-jp.com/documents/youtobetsu-seisanryou/",
+    "https://service.xenobrain.jp/forecastresults/market-size/casting-and-forgings-wholesale",
+    "https://newscast.jp/smart/news/6799464",
+    "https://www.nichidai.jp/ir/irlibrar/?act=file&key=6ae41e1b93278f393ba55a7fae51e39d",
+    "https://www.atpress.ne.jp/news/6799464",
+    "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E9%8D%9B%E9%80%A0%E5%B8%82%E5%A0%B4-103175",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2024/magazine2405.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010308/2",
+    "https://www.imarcgroup.com/report/ja/japan-casting-forging-market",
+    "https://www.fortunebusinessinsights.com/jp/金属鍛造市場-103175"
+   ]
+  },
+  {
+   "query": "鍛造の受託 統計 PDF",
+   "results": [
+    "https://www.jfa-tanzo.jp/about/contract/",
+    "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/002_04_00.pdf",
+    "https://www.nichidai.jp/download/",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2024/magazine2405.pdf",
+    "http://www.monozukuri.org/techno/technote027.pdf",
+    "https://www.pref.niigata.lg.jp/uploaded/attachment/345559.pdf",
+    "https://j-fma.or.jp/orders-statistics",
+    "https://kintan-jp.com/documents/youtobetsu-seisanryou/",
+    "https://hikaku-hub.com/forging-service/"
+   ]
+  },
+  {
+   "query": "鍛造の受託 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://www.pref.niigata.lg.jp/site/tokei/keizaikouzou-r7.html"
+   ]
+  },
+  {
+   "query": "鍛造の受託 従業者規模別",
+   "results": [
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.city.marugame.lg.jp/uploaded/attachment/27940.pdf",
+    "https://www.jfa-tanzo.jp/about/contract/",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "https://www.city.komae.tokyo.jp/index.cfm/46,124876,c,html/124876/4-1.pdf",
+    "https://www.city.ayase.kanagawa.jp/material/files/group/7/R7toukeiyourann_kougyou.pdf",
+    "https://www.sokeizai.or.jp/pages/58/",
+    "https://hikaku-hub.com/forging-service/",
+    "https://www.e-stat.go.jp/dbview?sid=0003317797"
+   ]
+  },
+  {
+   "query": "鍛造の受託 1人当たり 万円",
+   "results": [
+    "https://www.jfa-tanzo.jp/about/contract/",
+    "https://www.jftc.go.jp/file/toriteki_leaflet.pdf",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/seminar/jftc.pdf",
+    "https://www.gov-online.go.jp/article/202511/entry-9983.html",
+    "https://tanishima.net/%E3%82%B3%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B9/kensetsugyo-tokutei-5000man-zairyohi-handan/",
+    "https://jms-support.jp/column/%E5%BB%BA%E8%A8%AD%E7%94%A8%E9%87%91%E5%B1%9E%E8%A3%BD%E5%93%81%E6%A5%AD%E7%95%8C%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%EF%BD%8D%EF%BC%86%EF%BD%81%E6%88%90%E5%8A%9F%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/",
+    "https://www.mlit.go.jp/jidosha/content/001980298.pdf",
+    "https://ueda-kensetsugyou.com/tokutei-5000man/",
+    "https://tsunagu-support.com/blog/shinmono_sinjigyoushinshutu/",
+    "https://hikaku-hub.com/forging-service/"
+   ]
+  },
+  {
+   "query": "鍛造の受託 2015 2025",
+   "results": [
+    "https://mono.ipros.com/cg1/%E9%8D%9B%E9%80%A0%E5%8A%A0%E5%B7%A5/",
+    "https://www.uacj.co.jp/development/facility/forging.html",
+    "https://www.jfa-tanzo.jp/about/contract/",
+    "https://www.nichidai.jp/technology/development/",
+    "https://www.atpress.ne.jp/news/2504076",
+    "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E9%8D%9B%E9%80%A0%E5%B8%82%E5%A0%B4-103175",
+    "https://www.yamanaka-eng.co.jp/cate01/3622/",
+    "https://kintan-jp.com/documents/youtobetsu-seisanryou/",
+    "https://newscast.jp/news/7411011",
+    "https://hikaku-hub.com/forging-service/"
+   ]
+  },
+  {
+   "query": "forging industry Japan statistics Japan statistics",
+   "results": [
+    "https://www.stat.go.jp/english/",
+    "https://www.statista.com/topics/7755/it-industry-in-japan/?srsltid=AYCX9vL9iXSvCw17zn22i7LcNmHV4_RlmW1ha9pQxxJr0Vb_IIvPy9mj",
+    "https://www.jmtba.or.jp/english/category/machine-tool-statistics/",
+    "https://www.imarcgroup.com/japan-forging-market",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://globaledge.msu.edu/countries/japan/statistics",
+    "https://www.seaj.or.jp/english/statistics/index.html",
+    "https://data.worldbank.org/country/japan",
+    "https://www.jetro.go.jp/en/reports/statistics.html",
+    "https://www.6wresearch.com/industry-report/japan-forging-market"
+   ]
+  },
+  {
+   "query": "site:note.com 鍛造の受託",
+   "results": [
+    "https://note.com/camploggears/n/n3b95429b7512",
+    "https://note.com/gworks_and_co/n/n9a1b9e4814e9",
+    "https://note.com/hikaru_96_1104/n/n23d0ea7bdc18",
+    "https://note.com/practical_read/n/n82c7296efcdb",
+    "https://note.com/manav_/n/n27905f6d8e87",
+    "https://note.com/ebisugao/n/n2db353cfff76",
+    "https://note.com/qy_research/n/n8b4e8b182a99",
+    "https://note.com/qy_research/n/nf19b18df99bc",
+    "https://note.com/utsu_taro/n/nf6b34f23ed8d",
+    "https://note.com/mysdg/n/n99ccf314f412"
+   ]
+  },
+  {
+   "query": "site:x.com 鍛造の受託",
+   "results": [
+    "https://x.com/seavac_jpn/status/1547405296045539328",
+    "https://x.com/eiwa1982",
+    "https://x.com/nikkei/status/2040015679596765518",
+    "https://x.com/EMIDASmag_WEB",
+    "https://x.com/nokogiriyane/status/2067422694694609221",
+    "https://x.com/intermold_jp",
+    "https://x.com/kan_takahiro",
+    "https://x.com/_HayabusaRacing",
+    "https://x.com/09091999_jam",
+    "https://x.com/Taskhub_JP"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 鍛造の受託",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E6%9C%80%E8%BF%91%E3%81%AE%E5%88%86%E6%9E%90%E8%AA%98%E5%B0%8E%E9%8D%9B%E9%80%A0%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%9D%E3%81%97%E3%81%A62026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AE%E9%96%93%E3%81%AB107%E3%81%AEcagr%E3%82%92%E4%BC%B4%E3%81%86%E5%A3%B2%E4%B8%8A%E6%88%90%E9%95%B7%E3%81%AB-7513064274643283970-iifqe",
+    "https://jp.linkedin.com/pulse/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%80%E3%82%A4%E9%8D%9B%E9%80%A0%E3%83%97%E3%83%AC%E3%82%B9%E5%B8%82%E5%A0%B4%E3%81%AE%E4%B8%BB%E8%A6%81%E5%B1%95%E6%9C%9B%E3%81%A8%E4%BA%88%E6%B8%AC2026-2033%E6%9C%9F%E5%BE%85%E3%81%95%E3%82%8C%E3%82%8B134-cagr%E3%81%A8%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%88%86%E6%9E%90-zaioe",
+    "https://jp.linkedin.com/pulse/%E8%87%AA%E5%8B%95%E8%BB%8A%E7%94%A8%E7%86%B1%E9%96%93%E9%8D%9B%E9%80%A0%E9%83%A8%E5%93%81%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%A8%E6%B5%B7%E5%A4%96%E5%8B%A2%E3%81%AE%E6%AF%94%E8%BC%83-eyrie-edge-v0hse",
+    "https://jp.linkedin.com/in/takeshi-ninomiya-9593a761",
+    "https://kr.linkedin.com/jobs/view/%E3%80%90%E6%9D%BE%E5%B1%B1%E5%B7%A5%E5%A0%B4%E3%80%91%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%81%AE%E8%A3%BD%E9%80%A0-%E5%8A%A0%E5%B7%A5%E3%83%BB%E7%B5%84%E7%AB%8B-%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86-at-pt-katolec-indonesia-4422280373?refId=uHEPK0%2B2nDxiiVjbTg24RQ%3D%3D&trackingId=FtrJyTmGxIPEQnmadBBpYA%3D%3D",
+    "https://jp.linkedin.com/in/koichi-hayashida-khid",
+    "https://jp.linkedin.com/pulse/%E9%AB%98%E5%BA%A6%E3%81%AAoem%E5%B8%82%E5%A0%B4%E3%81%AE%E9%9C%80%E8%A6%81%E3%81%A8%E5%8F%8E%E7%9B%8A%E6%88%90%E9%95%B72026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE96-cagr%E4%BA%88%E6%B8%AC-chainchartx-aj0ke",
+    "https://jp.linkedin.com/pulse/thirty-years-qorvalues-paul-fioravanti-mba-mpa-ctp-wg6bc?tl=ja",
+    "https://jp.linkedin.com/pulse/%E3%83%A1%E3%82%BF%E3%82%B1%E3%82%A4%E9%85%B8%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88cagr-97-%E3%81%AE-2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%B8%82%E5%A0%B4%E4%BA%88%E6%B8%AC%E3%81%A8%E6%88%90%E9%95%B7%E8%A6%8B%E9%80%9A%E3%81%97-attqe",
+    "https://jp.linkedin.com/pulse/transforming-connectivity-2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A665%E3%81%AEcagr%E3%81%A7%E6%88%90%E9%95%B7%E3%81%99%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%82%B9%E9%9B%BB%E5%8A%9B%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%E5%B8%82%E5%A0%B4%E3%82%92%E6%8E%A2%E3%82%8B-fvmpe"
+   ]
+  },
+  {
+   "query": "site:facebook.com 鍛造の受託",
+   "results": [
+    "https://www.facebook.com/eiwa.COBARION/",
+    "https://www.facebook.com/AiIiji/posts/made-to-order-forged-cherry-blossomsi-used-stainless-steel-for-petals%E9%8D%9B%E9%80%A0%E3%81%AE%E6%A1%9C%E3%82%92%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC%E9%A0%82%E3%81%8D/1793783561597457/",
+    "https://www.facebook.com/eiwa.COBARION/posts/%E3%82%A8%E3%82%A4%E3%83%AF%E9%87%91%E5%B1%9E%E4%BA%8B%E6%A5%AD%E9%83%A8%E3%81%A7%E3%81%AF%E3%81%8A%E5%AE%A2%E6%A7%98%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%AE%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E3%82%92%E5%8E%9F%E6%9D%90%E6%96%99%E3%81%AE%E9%85%8D%E5%90%88%E3%81%8B%E3%82%89%E7%B4%A0%E5%BD%A2%E6%9D%90%E3%81%AE%E6%88%90%E5%BD%A2%E3%81%BE%E3%81%A7%E4%B8%80%E8%B2%AB%E7%94%9F%E7%94%A3%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%A7%E3%81%9910%E6%9C%8829%E6%97%A531%E6%97%A5%E3%81%AB%E5%B9%95%E5%BC%B5%E3%83%A1%E3%83%83%E3%82%BB%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B%E3%82%B5%E3%82%B9%E3%83%86%E3%83%8A%E3%83%96%E3%83%AB%E3%83%9E%E3%83%86%E3%83%AA/1075550274580329/",
+    "https://www.facebook.com/eiwa.COBARION/posts/%E9%87%8D%E9%87%8F120kg%E3%81%AE%E9%89%84%E7%B3%BB%E3%82%A4%E3%83%B3%E3%82%B4%E3%83%83%E3%83%88%E9%8B%BC%E5%A1%8A%E3%81%AE%E5%86%99%E7%9C%9F%E3%81%A7%E3%81%99%E4%B8%8A%E9%83%A8%E3%81%AB%E3%83%92%E3%83%93%E3%81%8C%E8%A6%8B%E3%81%88%E3%81%BE%E3%81%99%E3%81%8C%E3%81%93%E3%82%8C%E3%81%AF%E4%B8%8D%E8%89%AF%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E6%8A%BC%E3%81%97%E6%B9%AF%E3%81%A8%E3%81%84%E3%81%86%E9%8B%B3%E9%80%A0%E5%93%81%E3%81%AB%E3%81%A8%E3%81%A3%E3%81%A6%E3%81%AF%E6%AC%A0%E3%81%8B%E3%81%9B%E3%81%AA%E3%81%84%E9%83%A8%E5%88%86%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%99%E3%82%A8%E3%82%A4%E3%83%AF%E9%87%91%E5%B1%9E%E4%BA%8B%E6%A5%AD%E9%83%A8%E3%81%A7%E3%81%AF%E3%81%8A%E5%AE%A2%E6%A7%98/1047207394081284/",
+    "https://www.facebook.com/INTERMOLD/posts/6%E6%9C%88%E9%96%8B%E5%82%AC%E3%81%AEintermold%E9%87%91%E5%9E%8B%E5%B1%95%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E6%8A%80%E8%A1%93%E5%B1%95%E3%81%9D%E3%81%97%E3%81%A6%E5%88%9D%E4%BD%B5%E5%82%AC%E3%81%AEam-expo%E5%90%8D%E5%8F%A4%E5%B1%8B%E3%81%AE%E4%BA%8B%E5%89%8D%E6%9D%A5%E5%A0%B4%E7%99%BB%E9%8C%B2%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%94%E6%9D%A5%E5%A0%B4%E5%89%8D%E3%81%AB%E7%99%BB%E9%8C%B2%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E6%9D%A5%E5%A0%B4%E8%80%85%E8%A8%BC%E3%82%92%E3%81%94%E6%8C%81%E5%8F%82%E3%81%8F%E3%81%A0/936386751614753/",
+    "https://www.facebook.com/unaginonedoko/posts/%E3%81%A4%E3%81%8F%E3%82%8A%E3%81%A6%E7%B4%B9%E4%BB%8B%E7%9B%9B%E5%BC%98%E9%8D%9B%E5%86%B6%E5%B7%A5%E5%A0%B4-%E9%8D%9B%E5%86%B6%E5%B1%8B-%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%85%AB%E5%A5%B3%E5%B8%82%E5%B8%B8%E3%81%AB%E6%95%B0%E3%83%B6%E6%9C%88%E5%BE%85%E3%81%A1%E7%A0%94%E3%81%8E%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%8C%E5%BE%97%E6%84%8F%E3%81%AA%E5%88%83%E7%89%A9%E5%B1%8B%E7%9B%9B%E5%BC%98%E9%8D%9B%E5%86%B6%E5%B7%A5%E5%A0%B4%E3%81%AF%E3%83%97%E3%83%AD%E7%94%A8%E3%81%AE%E5%92%8C%E5%8C%85%E4%B8%81%E3%82%92%E4%B8%AD%E5%BF%83%E3%81%AB%E5%AE%B6%E5%BA%AD%E7%94%A8%E3%81%AE%E5%8C%85%E4%B8%81%E3%82%82%E8%A3%BD%E9%80%A0%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E5%85%88%E4%BB%A3%E3%81%AF%E4%B8%BB%E3%81%AB%E8%BE%B2/1490823936424043/",
+    "https://www.facebook.com/61576602778975/?locale=eu_ES",
+    "https://www.facebook.com/tosahamonokurotori/",
+    "https://www.facebook.com/Mazda.Japan/videos/鉄を動かす匠の技に潜入取材珍しい工法にこだわる理由とは鍛造たんぞうという工法をご存知ですか鍛造は温めた鉄を圧縮して成型する金属加工工法で高い強度が特徴クルマでは/1039004862853961/",
+    "https://www.facebook.com/p/一般社団法人日本鍛造協会-100071017188707/"
+   ]
+  },
+  {
+   "query": "鍛造の受託 note 社長",
+   "results": [
+    "https://note.com/sinfonia_inc/n/n85c37ae97752",
+    "https://note.com/y_shiozaki/n/nd02b268f633c",
+    "https://www.wantedly.com/companies/tabian/post_articles/335948",
+    "https://note.com/inoue_industries",
+    "https://note.com/yamanaka_eng/n/n7acbbb40ebc0",
+    "https://www.taishotechno.co.jp/newsposting/%E5%92%8C%E6%B3%89%E5%B8%82%E5%B0%8F%E5%AD%A6%E7%94%9F%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%E3%83%8E%E3%83%BC%E3%83%882023%E5%B9%B4%E7%89%88%E3%81%AB/",
+    "https://www.nichidai.jp/technology/development/",
+    "https://note.com/3n7no_tech_pr/n/n2074f6d66b14",
+    "https://smbiz.asahi.com/article/14200961"
+   ]
+  },
+  {
+   "query": "鍛造の受託 X 投稿",
+   "results": [
+    "https://www.facebook.com/eiwa.COBARION/videos/cobarion%E5%8F%97%E8%A8%97%E5%8A%A0%E5%B7%A5%E9%8D%9B%E9%80%A0/432122703221723/",
+    "https://x.com/hashtag/%E9%8D%9B%E9%80%A0",
+    "https://evort.jp/article/eiwa-heartmake-melting-forging-rolling",
+    "https://www.jfa-tanzo.jp/",
+    "https://www.youtube.com/watch?v=XyNqY-2zDXw",
+    "https://www.haizol.com/ja/services/custom-metal-forging",
+    "https://www.youtube.com/watch?v=_CHxLAbCjJw",
+    "https://www.hakkokinzoku.co.jp/forging-order-manual/",
+    "https://www.toufuku-tankou.co.jp/",
+    "https://hikaku-hub.com/forging-service/"
+   ]
+  },
+  {
+   "query": "forging industry Japan statistics site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/isothermal-die-forging-hydraulic-press-market-us-japan-ay4df",
+    "https://www.linkedin.com/pulse/japan-expended-vitrified-ball-market-6ifcf",
+    "https://www.linkedin.com/posts/dr-vasant-khisty-sammy-consulting-940188a1_forging-cost-comparison-india-remains-activity-7374311971762032640-yoX1",
+    "https://www.linkedin.com/pulse/key-drivers-straight-forging-press-markets-projected-61-cagr-yedie",
+    "https://www.linkedin.com/pulse/leading-industrial-forging-companies-top-10-ranking-cognate-chart-xj4se",
+    "https://www.linkedin.com/pulse/understanding-99-cagr-forecast-steel-forging-lubricants-znxye",
+    "https://www.linkedin.com/pulse/global-precision-forging-gear-market-analysis-markets-size-growth-tzmje",
+    "https://www.linkedin.com/pulse/comprehensive-report-automotive-components-forging-market-xnsje",
+    "https://www.linkedin.com/pulse/global-multi-station-cold-forging-machine-market-67ige",
+    "https://www.linkedin.com/pulse/regulatory-landscape-its-influence-global-free-tuqde"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ48頁・検索15回）"
+ }
+}

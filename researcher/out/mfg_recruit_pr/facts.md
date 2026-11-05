@@ -228,33 +228,238 @@
 
 ## 町工場の採用動画制作（factory recruitment video production）
 - 文脈：採用広報
-- 売り手：記載なし（読んだ25頁・検索5回）
-- 料金：記載なし（読んだ25頁・検索5回）
-- 成果報酬・採用課金：記載なし（読んだ25頁・検索5回）
-- 継続・規模：記載なし（読んだ25頁・検索5回）
-- 効果：記載なし（読んだ25頁・検索5回）
-- 法的な区分：記載なし（読んだ25頁・検索5回）
-- 採用の困りごと：記載なし（読んだ25頁・検索5回）
+- 売り手：
+  - 「【インタビュー動画】センサの導入事例映像制作_ifm efector株式会社様」（https://www.jpc-ltd.co.jp/movie/works/factory-introduction/）
+  - 「【インタビュー動画】製品導入事例紹介の映像制作_株式会社サタケ様」（https://www.jpc-ltd.co.jp/movie/works/factory-introduction/）
+  - 「【工場紹介動画】ドローン空撮を活用した映像制作_前澤化成工業株式会社様」（https://www.jpc-ltd.co.jp/movie/works/factory-introduction/）
+  - 「【プロモーション・PR動画】センサ機器導入事例映像制作_ifm efector株式会社様」（https://www.jpc-ltd.co.jp/movie/works/factory-introduction/）
+  - 「【プロモーション・PR動画】新製品の映像制作_東リ株式会社様」（https://www.jpc-ltd.co.jp/movie/works/factory-introduction/）
+  - 「【採用・リクルート動画】電子機器メーカーの会社・工場紹介映像_NKE株式会社様」（https://www.jpc-ltd.co.jp/movie/works/factory-introduction/）
+  - 「【工場紹介動画】展示会用の工場見学映像制作_象印マホービン株式会社様」（https://www.jpc-ltd.co.jp/movie/works/factory-introduction/）
+  - 「【プロモーション・PR動画】計測製品や工場の紹介映像制作_株式会社イシダ様」（https://www.jpc-ltd.co.jp/movie/works/factory-introduction/）
+  - 「【工場紹介動画】化粧品メーカーの工場紹介映像制作_サンパルコ株式会社」（https://www.jpc-ltd.co.jp/movie/works/factory-introduction/）
+  - 「動画制作・映像制作サービス「CINEMATO」導入実績企業」（https://cine-mato.com/works/）
+  - 「また動画広告運用やマーケティング施策全般の支援実績もございます」（https://cine-mato.com/works/）
+  - 「【サービス紹介動画】株式会社SUPERSTUDIO様 ecforce紹介動画」（https://cine-mato.com/works/）
+  - 「アドフレックス・コミュニケーションズ株式会社様」（https://cine-mato.com/works/）
+  - 「医療情報分析・提供サービス「DATuM IDEA®」ブランディング動画」（https://cine-mato.com/works/）
+  - 「『CINEMATO』は、株式会社EXIDEAが提供する動画制作・映像制作サービス」（https://cine-mato.com/works/）
+- 料金：
+  - 「制作4,000本のmoovyが、応募が増えた成果数値とともに、費用相場・作り方のコツ・2026年最新トレンドまで解説します【2026年8月更新】」（https://company.moovy.jp/column/2249/）
+  - 「1本の動画にすべての情報を詰め込むのではなく、「会社紹介」「職種紹介」「1日の仕事」「社員インタビュー」など、役割を分けた複数の動画を用意することが重要です」（https://company.moovy.jp/column/2249/）
+  - 「動画は1本で全てを伝えようとするのではなく、役割ごとに複数本用意する」（https://company.moovy.jp/column/2249/）
+  - 「4,000本以上の動画制作・活用支援実績と、求職者・採用担当者を対象にした独自アンケート調査をもとに、採用動画の作り方、活用方法、費用相場、採用ブランディング、候補者体験の改善に関する情報を発信しています」（https://company.moovy.jp/column/2249/）
+  - 「重要なのは、この5つを1本にまとめないことです」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「10万〜30万円」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「20万〜150万円」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「50万〜200万円」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「150万〜300万円以上」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「1本目で完成させる必要はありません」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「〜70万円台」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「メーカー、サービス業、小売業、IT・エンタメ系企業の採用動画・会社紹介動画（約50万〜60万円）」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「100万〜150万円台」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「小売・サービス業、飲食業、商社系企業の採用動画（約100万〜150万円）」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「〜50万円未満」（https://service.onecareer.jp/blog/newgraduate_recruitment_video）
+- 成果報酬・採用課金：
+  - 「株式会社弘輝様 ― ショート動画で業界理解を促進し半年で募集ポジションの50％が採用決定した成功事例」（https://company.moovy.jp/column/2249/）
+- 継続・規模：
+  - 「なお、ものづくり企業が人材定着のために最も多く取り組んでいるのは「賃金水準の向上」で71.5%、技能継承では「再雇用や勤務延長などにより高年齢の従業員に継続勤務してもらう」が54.8%で最多となっています(いずれも複数回答/※1)」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「4. 経営者ビジョン型(会社がどこへ向かうかを語る)」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「当日は制作会社が進行を管理しますが、社内側で次の3つが用意されているかどうかで、撮れ高が大きく変わります」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「Sky株式会社が公開した若手社員の1日密着動画は、具体的な業務内容や仕事の流れをリアルに伝える構成となっています」（https://service.onecareer.jp/blog/newgraduate_recruitment_video）
+  - 「・2,000社10,000件以上の動画を制作」（https://company.moovy.jp/column/1543/）
+  - 「・5,000社以上の映像制作を手がける」（https://company.moovy.jp/column/1543/）
+  - 「1本の動画から複数のショート版を派生させれば、コストを抑えながら継続的に発信できます」（https://www.jpc-ltd.co.jp/movie/service/recruitment/）
+- 効果：
+  - 「製造業の採用動画事例5選！応募数を伸ばした成功事例と制作ポイント – 採用動画制作・採用マーケティングならmoovy」（https://company.moovy.jp/column/2249/）
+  - 「製造業の採用動画事例5選！応募数を伸ばした成功事例と制作ポイント」（https://company.moovy.jp/column/2249/）
+  - 「採用動画のかっこいい事例まとめ31選【2026年最新】応募が増えた成果数値つきで解説」（https://company.moovy.jp/column/2249/）
+  - 「制作4,000本のmoovyが、応募が増えた成果数値とともに、費用相場・作り方のコツ・2026年最新トレンドまで解説します【2026年8月更新】」（https://company.moovy.jp/column/2249/）
+  - 「製造業での採用動画成功事例｜応募者を惹きつけるポイント5選｜北麓」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「製造業での採用動画成功事例｜応募者を惹きつけるポイント5選」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「この記事では、公的統計で製造業の採用環境を確認したうえで、成果につながる採用動画の5つの型と、応募者を惹きつけるポイントを5つに整理します」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「厚生労働省の調査によれば、令和4年3月に卒業した新規大卒就職者の3年以内離職率は、調査産業計(全体)で33.8%でした(※2)」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「離職率が高い上位5産業を大卒基準で見ると、宿泊業・飲食サービス業(55.4%)、生活関連サービス業・娯楽業(54.7%)、教育・学習支援業(44.2%)、医療・福祉(40.8%)、小売業(40.4%)が並びます(※2)」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「同じ調査を事業所規模別に見ると、新規大卒就職者の3年以内離職率は事業所規模1,000人以上で27.0%、100〜499人で33.9%、30〜99人では41.9%となっています(※2)」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「なお、ものづくり企業が人材定着のために最も多く取り組んでいるのは「賃金水準の向上」で71.5%、技能継承では「再雇用や勤務延長などにより高年齢の従業員に継続勤務してもらう」が54.8%で最多となっています(いずれも複数回答/※1)」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「応募者を惹きつけるポイント5選」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「今後は納品後3〜6ヶ月の時点で、応募数の変化と視聴維持率をヒアリングさせていただく方針です」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「タイパ（タイムパフォーマンス）を重視するZ世代の就活生は、採用動画を「倍速（1.5倍〜2倍）」で視聴する人が多くなっています」（https://service.onecareer.jp/blog/newgraduate_recruitment_video）
+  - 「・応募数3倍や、スカウトメールの返信率が0％から7.1％に改善した事例あり」（https://company.moovy.jp/column/1543/）
+- 採用の困りごと：
+  - 「製造業界では慢性的な人手不足が続く一方で、仕事内容や職場環境が外部から見えにくく、求職者に魅力が正しく伝わっていないケースが多く見られます」（https://company.moovy.jp/column/2249/）
+  - 「製造業界では、就業者数の減少と高齢化が進み、若年層の採用が年々難しくなっています」（https://company.moovy.jp/column/2249/）
+  - 「特に若手〜中堅社員を起用することで、求職者の自分ごと化が進みやすくなります」（https://company.moovy.jp/column/2249/）
+  - 「人手不足の時代には、求職者は給与や条件だけでなく、「どんな人たちと働くのか」を重視して企業を選びます」（https://company.moovy.jp/column/2249/）
+  - 「たとえば、「未経験でもコツコツ作業できる人」「機械いじりが好きな若手」「地元で長く働きたい人」など、」（https://company.moovy.jp/column/2249/）
+  - 「製造業の採用が難しくなっている背景には、人口減少や若手人材の不足といった構造的な要因があります」（https://company.moovy.jp/column/2249/）
+  - 「中小企業における製造業の従業員数過不足DIも2025年はマイナス17.9で、新型コロナウイルス感染症の拡大前(2019年)に近い人手不足の水準に戻っています(※1)」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「なお、ものづくり企業が人材定着のために最も多く取り組んでいるのは「賃金水準の向上」で71.5%、技能継承では「再雇用や勤務延長などにより高年齢の従業員に継続勤務してもらう」が54.8%で最多となっています(いずれも複数回答/※1)」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「若手・中堅・ベテランを組み合わせ、それぞれの言葉で仕事を語ってもらう構成です」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「(同資料が引用する原典:就業者数・年齢構成は総務省「労働力調査」、従業員数過不足DIは中小企業庁「中小企業景況調査」、人材育成の問題点は厚生労働省「能力開発基本調査(事業所調査)」、人材定着・技能継承はJILPT「ものづくり産業における人材確保・定着と技能継承に関する調査」)」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+  - 「Sky株式会社が公開した若手社員の1日密着動画は、具体的な業務内容や仕事の流れをリアルに伝える構成となっています」（https://service.onecareer.jp/blog/newgraduate_recruitment_video）
+  - 「「20代の若手」といった広い括りではなく、具体的な年齢、趣味、性格、仕事選びで重視するポイントなどを詳細に設定します」（https://service.onecareer.jp/blog/newgraduate_recruitment_video）
+  - 「たとえば、風通しの良さが強みであれば「若手の意見が商品化された実例」を探したり、技術力の高さが強みであれば「独自の研修カリキュラム」に焦点を当てたりします」（https://service.onecareer.jp/blog/newgraduate_recruitment_video）
+  - 「社長インタビューと若手社員インタビュー、どちらが良いですか？」（https://service.onecareer.jp/blog/newgraduate_recruitment_video）
+  - 「若手社員のインタビューは、学生や第二新卒といった求職者にとって「自分に近い存在」であり、入社後の自分を投影させる効果があります」（https://service.onecareer.jp/blog/newgraduate_recruitment_video）
+- 検索結果の抜粋：
+  - 「製造業の 採用動画事例 5選！ 応募数 を伸ばした成功 事例 と 制作 ... — 製造業の 採用動画事例 5選！ 応募数 を伸ばした成功 事例 と 制作 ... 株式会社moovy https://company.moovy.jp > ホーム > 採用動画」（https://company.moovy.jp/column/2249/）
+  - 「製造業での 採用動画 成功 事例 ｜ 応募 者を惹きつけるポイント5選 — 製造業での 採用動画 成功 事例 ｜ 応募 者を惹きつけるポイント5選 有限会社北麓 https://hoku6.co.jp > コラム」（https://hoku6.co.jp/column/manufacturing-recruitment-video-cases/）
+- 法的な区分：記載なし（読んだ25頁・検索12回）
 
 ## 町工場の採用取材記事・社員インタビュー制作（recruitment interview article manufacturing）
 - 文脈：採用広報
-- 売り手：記載なし（読んだ25頁・検索5回）
-- 料金：記載なし（読んだ25頁・検索5回）
-- 成果報酬・採用課金：記載なし（読んだ25頁・検索5回）
-- 継続・規模：記載なし（読んだ25頁・検索5回）
-- 効果：記載なし（読んだ25頁・検索5回）
-- 法的な区分：記載なし（読んだ25頁・検索5回）
-- 採用の困りごと：記載なし（読んだ25頁・検索5回）
+- 売り手：
+  - 「株式会社balubo（バルボ）は、ものづくり企業を中心に、専門性の高い企業のブランディング・コンテンツマーケティングを支援します」（https://corp.balubo.jp/services/recruit-branding）
+  - 「地方企業の支援実績1,180社以上！」（https://local-saiyo.jp/blog/recruitment-site/design/job/p5232/）
+  - 「川本鋼材株式会社 様（製造業・金属・鉄鋼・金属製品）」（https://local-saiyo.jp/blog/recruitment-site/design/job/p5232/）
+  - 「株式会社ササキ 様（製造業・金属・鉄鋼・金属製品）」（https://local-saiyo.jp/blog/recruitment-site/design/job/p5232/）
+  - 「株式会社丸徳鉄工 様（製造業・金属・鉄鋼・金属製品）」（https://local-saiyo.jp/blog/recruitment-site/design/job/p5232/）
+  - 「株式会社協和精機 様（製造業・金属・鉄鋼・金属加工）」（https://local-saiyo.jp/blog/recruitment-site/design/job/p5232/）
+  - 「後藤木材株式会社 様（製造業・木材・木製品）」（https://local-saiyo.jp/blog/recruitment-site/design/job/p5232/）
+  - 「株式会社アイコットリョーワ 様（製造業・窯業）」（https://local-saiyo.jp/blog/recruitment-site/design/job/p5232/）
+  - 「岐阜ギヤー工業株式会社 様（製造業・金属・鉄鋼・金属加工）」（https://local-saiyo.jp/blog/recruitment-site/design/job/p5232/）
+  - 「株式会社クロップス・クルー 様（自動車開発支援）」（https://local-saiyo.jp/blog/recruitment-site/design/job/p5232/）
+  - 「「地方採用WORKS」は、地方企業に特化した採用支援とサイト制作を得意とする株式会社リーピーが運営しています」（https://local-saiyo.jp/blog/recruitment-site/design/job/p5232/）
+  - 「この状態に至るまでに培った採用ノウハウを提供いたします」（https://local-saiyo.jp/blog/recruitment-site/design/job/p5232/）
+  - 「岐阜県岐阜市にある製造業、株式会社アルミック様の採用サイトです」（https://local-saiyo.jp/blog/recruitment-site/design/job/p5232/）
+  - 「岐阜県岐阜市でシャワーヘッドの製造・販売や金属加工業を手がける、株式会社TKS様のサイトです」（https://local-saiyo.jp/blog/recruitment-site/design/job/p5232/）
+  - 「弊社で制作した、愛知県あま市にある川本鋼材株式会社様の採用サイトです」（https://local-saiyo.jp/blog/recruitment-site/design/job/p5232/）
+- 料金：
+  - 「インタビュー1本まで相談できます」（https://corp.balubo.jp/services/recruit-branding）
+  - 「1本だけでも依頼できますか？」（https://corp.balubo.jp/services/recruit-branding）
+  - 「採用コンセプト設計とのセット契約は必須ではなく、社員インタビュー記事1本から依頼できます」（https://corp.balubo.jp/services/recruit-branding）
+  - 「取材は1本につき60〜90分が目安です」（https://corp.balubo.jp/services/recruit-branding）
+  - 「記事1本はキックオフから約1か月が目安です」（https://corp.balubo.jp/services/recruit-branding）
+  - 「愛知県で採用サイトリニューアルにおすすめの会社13選！選び方・費用相場・進め方を解説｜プロベル」（https://probel.jp/promaga/b/11807/）
+  - 「愛知県で採用サイトリニューアルにおすすめの会社13選！選び方・費用相場・進め方を解説」（https://probel.jp/promaga/b/11807/）
+  - 「本記事では、愛知で相談できる13社の特徴と公式の料金例、依頼先の選び方、移行までの進め方を紹介します」（https://probel.jp/promaga/b/11807/）
+  - 「Jobギア採促：初期3万円（クイック）／24万円（スタンダード）／48万円（ミドル）／78万円～（カスタム）」（https://probel.jp/promaga/b/11807/）
+  - 「月額はクイック0円、他プランは6か月契約5.5万円／1年5万円／2年4.8万円（すべて税別）」（https://probel.jp/promaga/b/11807/）
+  - 「Jobギア採促は、テンプレートからオリジナル制作まで4プランがあり、求人情報の更新や求人検索エンジンとの連携を検討できます」（https://probel.jp/promaga/b/11807/）
+  - 「採用サイト制作パッケージ：初期120万円、月額1万円～（税別）」（https://probel.jp/promaga/b/11807/）
+  - 「採用サイト制作の公式価格分布：301〜400万円が35％で最多（固定プラン料金ではない」（https://probel.jp/promaga/b/11807/）
+  - 「フルサイト構築・リニューアル：222〜499万円、採用サイト構築：247〜311万円（税抜）」（https://probel.jp/promaga/b/11807/）
+  - 「いずれも同社見積実績の中央50％の範囲で、定額プランではない」（https://probel.jp/promaga/b/11807/）
+- 成果報酬・採用課金：
+  - 「動画制作費用が明示されていない場合でも、成果報酬型プランを導入することで効果が出た分だけ費用を支払う柔軟な契約が可能です」（https://emeao.jp/ikkatsu-column/recruit_video_success_cost_tips/）
+- 継続・規模：
+  - 「地方企業の支援実績1,180社以上！」（https://local-saiyo.jp/blog/recruitment-site/design/job/p5232/）
+  - 「弊社は全国の地方企業に1,430社以上のウェブサイト制作・マーケティング支援を行ってきました」（https://local-saiyo.jp/blog/recruitment-site/design/job/p5232/）
+  - 「700社以上の中小企業を支援」（https://probel.jp/promaga/b/11807/）
+  - 「4,500社以上の企業の採用を支援」（https://probel.jp/promaga/b/11807/）
+  - 「採用支援実績12,000社以上」（https://goworkship.com/magazine/hr-recruitment-site-production-company-recommend/）
+  - 「これまでに2,000社以上の採用サイトを分析してきた知見を活かし、企業ごとの課題に応じた戦略的なサイト構築を得意としています」（https://goworkship.com/magazine/hr-recruitment-site-production-company-recommend/）
+  - 「「0を1に」「1を100に」「価値を育てる」という独自の価値創出モデルを掲げ、採用ブランディングの構築から応募者動線の最適化、成果につなげる改善施策まで継続的に伴走する姿勢が特徴です」（https://goworkship.com/magazine/hr-recruitment-site-production-company-recommend/）
+  - 「採用分野では12,000社以上の支援実績を誇り、とくに中途採用支援において関西トップクラスの実績を持つ点が大きな強みです」（https://goworkship.com/magazine/hr-recruitment-site-production-company-recommend/）
+  - 「採用支援実績12,000社以上の豊富なノウハウ」（https://goworkship.com/magazine/hr-recruitment-site-production-company-recommend/）
+  - 「名古屋鉄道やCygames、バイク王、H.I.S.など大手企業を含む年間150社以上のWeb制作実績があり、累計3,000社超の経験に裏打ちされた提案力が評価されています」（https://goworkship.com/magazine/hr-recruitment-site-production-company-recommend/）
+  - 「「妥協なく最高峰を目指す」という社名の由来のもと、20年間で2,000社以上のWebサイトを制作してきた実績があります」（https://goworkship.com/magazine/hr-recruitment-site-production-company-recommend/）
+  - 「20年にわたる実績と300社以上のクライアントを有し、医療分野に精通したスタッフが病院やクリニックなど、医療機関特有の課題やニーズを踏まえた専門的な提案を行っています」（https://goworkship.com/magazine/hr-recruitment-site-production-company-recommend/）
+  - 「株式会社ビットセンスは、年間100本以上の採用動画制作実績を持ち、累計800社以上の企業と取引があります」（https://cloudhikaku.jp/category/column.php?category=videoproduction&column=videoproduction-specialize-recruitment）
+  - 「年間100本以上・累計800社以上の制作実績」（https://emeao.jp/ikkatsu-column/recruit_video_success_cost_tips/）
+  - 「株式会社ビットセンスは年間100本以上の動画制作を手掛け、累計800社以上の企業と取引した豊富な実績があります（※2022年3月時点）」（https://emeao.jp/ikkatsu-column/recruit_video_success_cost_tips/）
+- 効果：
+  - 「「0を1に」「1を100に」「価値を育てる」という独自の価値創出モデルを掲げ、採用ブランディングの構築から応募者動線の最適化、成果につなげる改善施策まで継続的に伴走する姿勢が特徴です」（https://goworkship.com/magazine/hr-recruitment-site-production-company-recommend/）
+  - 「2. 応募数を増やし母集団形成を強化するため」（https://goworkship.com/magazine/hr-recruitment-site-production-company-recommend/）
+  - 「これら圧倒的実績とノウハウに裏打ちされた支援により、「採用動画の反響を前年比3倍に高めた」といった成果も生み出しています」（https://emeao.jp/ikkatsu-column/recruit_video_success_cost_tips/）
+  - 「ネオキャリアの公式発表によれば、採用動画を視聴した求職者の6割以上が「企業への志望度が高まった」と回答しており（2022年3月時点）、動画活用が応募者の企業理解を深める効果があることが示されています」（https://emeao.jp/ikkatsu-column/recruit_video_success_cost_tips/）
+  - 「2つ目は、応募数の増加です」（https://emeao.jp/ikkatsu-column/recruit_video_success_cost_tips/）
+- 採用の困りごと：
+  - 「【事例11選】製造業のイメージを変える採用サイトデザイン｜若手にどう見せる？」（https://local-saiyo.jp/blog/recruitment-site/design/job/p5232/）
+  - 「なお、イメージを変える前の段階として「そもそも応募が来ない」「採用に割ける時間がない」といった構造的な課題を整理したい方は、こちらもあわせてご覧ください」（https://local-saiyo.jp/blog/recruitment-site/design/job/p5232/）
+  - 「特に20〜30代の若手求職者に向けた採用活動に強みを持ち、スタートアップや成長企業を中心に700本以上の採用動画を掲載しています」（https://cloudhikaku.jp/category/column.php?category=videoproduction&column=videoproduction-specialize-recruitment）
+  - 「– 若手社員の「私の入社理由」を紹介する採用動画」（https://emeao.jp/ikkatsu-column/recruit_video_success_cost_tips/）
+  - 「若手の働き方や成長を訴求したい場合は、実際に成長中の若手社員や新入社員」（https://emeao.jp/ikkatsu-column/recruit_video_success_cost_tips/）
+  - 「もしかしたら、応募者が集まらない、採用コストが増加している、といった悩みを抱えているかもしれません」（https://emeao.jp/ikkatsu-column/recruit_video_success_cost_tips/）
+- 法的な区分：記載なし（読んだ25頁・検索12回）
 
 ## 製造業の採用ブランディング支援（manufacturing employer branding）
 - 文脈：採用広報
-- 売り手：記載なし（読んだ25頁・検索5回）
-- 料金：記載なし（読んだ25頁・検索5回）
-- 成果報酬・採用課金：記載なし（読んだ25頁・検索5回）
-- 継続・規模：記載なし（読んだ25頁・検索5回）
-- 効果：記載なし（読んだ25頁・検索5回）
-- 法的な区分：記載なし（読んだ25頁・検索5回）
-- 採用の困りごと：記載なし（読んだ25頁・検索5回）
+- 売り手：
+  - 「製造業の採用ブランディング｜人材不足を解消する戦略と実践方法を解説 | まるごと人事｜成長企業向けの採用代行｜マルゴト株式会社」（https://marugotoinc.jp/blog/seizou_branding/）
+  - 「従来型の採用では、求人票や給与条件といった事務的な情報提供が中心となりがちです」（https://marugotoinc.jp/blog/seizou_branding/）
+  - 「継続的な情報提供によって企業への信頼感を蓄積」（https://marugotoinc.jp/blog/seizou_branding/）
+  - 「スタートアップから大手企業まで幅広く採用関連のプロジェクトに携わった後、2017年に月額制の採用代行”まるごと人事”の提供を開始」（https://marugotoinc.jp/blog/seizou_branding/）
+  - 「「理想のサービスと理想の職場を同時実現する」を経営理念に掲げ、全員がフルリモートで働くユニークな組織運営を行う」（https://marugotoinc.jp/blog/seizou_branding/）
+  - 「(C) 2022 まるごと人事｜成長企業向けの採用代行｜マルゴト株式会社 All rights reserved.」（https://marugotoinc.jp/blog/seizou_branding/）
+  - 「製造業向け採用ブランディング | 株式会社hypex」（https://hypex.jp/solution/maker-branding）
+  - 「入力された個人情報は、連絡を目的で収集するものであり、 原則として、ご本人の承諾なく第三者に開示・提供いたしません」（https://hypex.jp/solution/maker-branding）
+  - 「そこで重要なのが、国や自治体が提供する補助金や助成金制度の活用です」（https://www.paddledesign.co.jp/point/post-104.html）
+  - 「厚生労働省が提供する「人材開発支援助成金」は、社員研修の実施や職業能力開発に対して支援を行う制度です」（https://www.paddledesign.co.jp/point/post-104.html）
+  - 「都道府県別の補助金・助成金情報を提供しています」（https://www.paddledesign.co.jp/point/post-104.html）
+  - 「東京のブランディング会社ならpaddle design company」（https://www.paddledesign.co.jp/point/post-104.html）
+  - 「特に製造業・建設業など採用難易度の高い業界にも強く、大手企業の導入実績も多数あります」（https://okanechips.mei-kyu.com/knowledge/13680/）
+  - 「920社以上の支援実績があり、企業理念を軸にした採用コミュニケーション設計を得意としています」（https://okanechips.mei-kyu.com/knowledge/13680/）
+  - 「新卒・中途採用の双方に対応しており、採用サイトやパンフレット、動画制作など幅広い施策を提供しています」（https://okanechips.mei-kyu.com/knowledge/13680/）
+- 料金：
+  - 「スタートアップから大手企業まで幅広く採用関連のプロジェクトに携わった後、2017年に月額制の採用代行”まるごと人事”の提供を開始」（https://marugotoinc.jp/blog/seizou_branding/）
+  - 「2021年にバックオフィス代行”まるごと管理部”（労務プラン・経理プラン）も開始」（https://marugotoinc.jp/blog/seizou_branding/）
+  - 「IT導入補助金の交付対象となり、制作費用の3分の2を補助金でカバーしました」（https://www.paddledesign.co.jp/point/post-104.html）
+  - 「50万〜300万円」（https://okanechips.mei-kyu.com/knowledge/13680/）
+  - 「30万〜200万円」（https://okanechips.mei-kyu.com/knowledge/13680/）
+  - 「50万〜150万円」（https://okanechips.mei-kyu.com/knowledge/13680/）
+  - 「30万〜100万円/月」（https://okanechips.mei-kyu.com/knowledge/13680/）
+  - 「20万〜50万円/月」（https://okanechips.mei-kyu.com/knowledge/13680/）
+  - 「100万〜500万円以上」（https://okanechips.mei-kyu.com/knowledge/13680/）
+  - 「【2026年最新】LLMO対策会社おすすめ18選｜費用相場とAI検索で引用されるための選び方」（https://okanechips.mei-kyu.com/knowledge/13680/）
+  - 「【2026年最新】AI開発会社おすすめ18選｜受託開発の費用相場とフェーズ別の選び方」（https://okanechips.mei-kyu.com/knowledge/13680/）
+  - 「【2026年最新】AIエージェント開発会社おすすめ18選｜作るか買うかの判断軸と費用相場」（https://okanechips.mei-kyu.com/knowledge/13680/）
+  - 「月額30万円からのサービスも提供しており、」（https://allhero.co.jp/blog/hr-branding-recommend6/）
+  - 「採用ブランディングの戦略設計のみを依頼する場合、費用相場は100万〜300万円程度です」（https://allhero.co.jp/blog/hr-branding-recommend6/）
+  - 「戦略設計に加えて採用サイトの制作まで依頼する場合は、総額で200万〜500万円程度が目安になります」（https://allhero.co.jp/blog/hr-branding-recommend6/）
+- 成果報酬・採用課金：
+  - 「補助金は後払い（精算払い）が基本であり、事前申請が必要である点に注意が必要です」（https://www.paddledesign.co.jp/point/post-104.html）
+  - 「エージェントからの紹介数や採用決定数も増加傾向にあり、オウンドメディアが会社説明をスムーズにする効果も生まれています」（https://www.conmark.jp/column/employment-branding-casestudy）
+- 継続・規模：
+  - 「まるごと人事として650社以上の企業の採用支援」（https://marugotoinc.jp/blog/seizou_branding/）
+  - 「100社以上」（https://hypex.jp/solution/maker-branding）
+  - 「920社以上の支援実績があり、企業理念を軸にした採用コミュニケーション設計を得意としています」（https://okanechips.mei-kyu.com/knowledge/13680/）
+  - 「2016年の設立以降、500社以上の採用支援を手掛けた実績を持っています」（https://allhero.co.jp/blog/hr-branding-recommend6/）
+  - 「揚羽は、採用ブランディングの実績が500社以上ある老舗のブランディング支援会社です」（https://allhero.co.jp/blog/hr-branding-recommend6/）
+  - 「HRブランド戦略・HR戦略コンサルティングを中心に500社以上を支援するオールイン株式会社の代表取締役」（https://allhero.co.jp/blog/hr-branding-recommend6/）
+  - 「これまで100社以上の採用支援のある著者によって、ノウハウが解説されています」（https://sevendex.com/post/39249/）
+  - 「【外食業】年商10億でも採れなかった会社が変わった事例」（https://www.musubi-inc.co.jp/musubi-resonance-branding/blogs/recruitment-branding-success-cases）
+  - 「1000社以上の採用現場に立ち会ってきた経験から、私は採用の成功と失敗は、手法の優劣ではなく「自社の強みと求める人材の交差領域、私はこれをビクトリーゾーンと呼んでいますが、そこを定義できているか否か」で分かれると考えています」（https://www.musubi-inc.co.jp/musubi-resonance-branding/blogs/recruitment-branding-success-cases）
+  - 「次に、その言葉の中から、他社が使えない具体性を持った言い回しを3つ抽出する」（https://www.musubi-inc.co.jp/musubi-resonance-branding/blogs/recruitment-branding-success-cases）
+  - 「採用領域だけでこれまで1000社以上に関わる」（https://www.musubi-inc.co.jp/musubi-resonance-branding/blogs/recruitment-branding-success-cases）
+  - 「2026年「共鳴経済 社員が"推す"会社が伸びる」（サンクチュアリ出版）を刊行」（https://www.musubi-inc.co.jp/musubi-resonance-branding/blogs/recruitment-branding-success-cases）
+  - 「2代目社長は「このままでは会社が止まる」と危機感を持ち、人材の若返りと採用改革に本格着手する決断をします」（https://note.com/lucky_daphne262/n/n4e12f93129b9）
+  - 「・0→1だけではなく、リブランディングも得意な会社がいい」（https://sevendex.com/post/3098/）
+  - 「東証プライム上場企業をはじめ、25年間、700社以上の企業ブランディング支援を行っています」（https://sevendex.com/post/3098/）
+- 効果：
+  - 「その結果、動画公開後の説明会参加者が前年比150％に増加し、求人応募数の向上に直結しました」（https://www.paddledesign.co.jp/point/post-104.html）
+  - 「結果として、検索経由での応募が3倍に増加し、採用ターゲット層の質も向上しました」（https://www.paddledesign.co.jp/point/post-104.html）
+  - 「【中途採用の応募数10倍を実現！】SNS・ショート動画を活用した採用ブランディングサービス～Z世代からの応募が爆増する！これからの採用戦略～」（https://www.branding-t.co.jp/case/recruitment/16588/）
+  - 「SNSやショート動画を駆使して、Z世代を中心とした若手人材からの応募数を10倍に引き上げる採用ブランディングサービスです」（https://www.branding-t.co.jp/case/recruitment/16588/）
+  - 「【中途採用の応募数10倍を実現！】SNS・ショート動画を活用した採用ブランディングサービス～Z世代...」（https://www.branding-t.co.jp/case/recruitment/16588/）
+  - 「応募者数や応募者アンケート、そして内定承諾率など、1年間を通して採用活動におけるデータ収集を行います」（https://www.paddledesign.co.jp/point/post-77.html）
+  - 「上記の図は、2024年新卒における有効求人倍率など採用市場を表した図です」（https://sevendex.com/post/39249/）
+  - 「採用応募数は月間約200名から約700名へ増加し、エージェント経由の推薦数も3.6倍に増加」（https://sevendex.com/post/39249/）
+  - 「企業認知度と就職意向度がともに1.4倍に向上」（https://sevendex.com/post/39249/）
+  - 「サマーインターンシップのエントリーは前年比4倍のペースで推移」（https://sevendex.com/post/39249/）
+  - 「【IT業】35名採用のうち半数以上を応募で」（https://www.musubi-inc.co.jp/musubi-resonance-branding/blogs/recruitment-branding-success-cases）
+  - 「【医療・介護】半年で15名採用を達成、1400万円が浮いた事例」（https://www.musubi-inc.co.jp/musubi-resonance-branding/blogs/recruitment-branding-success-cases）
+  - 「結果、応募の質が上がり、内定承諾率と1年後の定着率が同時に上昇しました」（https://www.musubi-inc.co.jp/musubi-resonance-branding/blogs/recruitment-branding-success-cases）
+  - 「この会社はもともと即戦力のスキルで候補者を選別していましたが、入社1年以内の早期離職が多かったとともに、人材紹介での採用がほぼ100%でした」（https://www.musubi-inc.co.jp/musubi-resonance-branding/blogs/recruitment-branding-success-cases）
+  - 「採用ブランディング実行後、自社への共感度合いに高い人の応募が増え、選考工数が大幅減、35人の採用のうち半数以上を人材紹介以外での採用で行うことができました」（https://www.musubi-inc.co.jp/musubi-resonance-branding/blogs/recruitment-branding-success-cases）
+- 採用の困りごと：
+  - 「は人口減少や若手人材の敬遠などにより、慢性的な人材不足が深刻化しています」（https://marugotoinc.jp/blog/seizou_branding/）
+  - 「は人口減少や高齢化の影響を強く受けており、若い労働力を確保することが難しくなっています」（https://marugotoinc.jp/blog/seizou_branding/）
+  - 「は、人材不足や若手層の獲得難、高い離職率や業界特有のイメージの壁といった課題が存在します」（https://marugotoinc.jp/blog/seizou_branding/）
+  - 「歯科医院の専門職・事務職のRPO・採用代行とは｜採用難の理由や成功策、手法比較を解説」（https://marugotoinc.jp/blog/seizou_branding/）
+  - 「採用ブランディングの一環として「内定者研修」「若手育成プログラム」などを整備する場合、この助成金を活用できる可能性があります」（https://www.paddledesign.co.jp/point/post-104.html）
+  - 「採用市場の競争が激しくなる中、「求人を出しても応募が来ない」「応募数はあるが求める人材に出会えない」「入社後のミスマッチが多い」といった課題を抱える企業が増えています」（https://okanechips.mei-kyu.com/knowledge/13680/）
+  - 「特に製造業・建設業など採用難易度の高い業界にも強く、大手企業の導入実績も多数あります」（https://okanechips.mei-kyu.com/knowledge/13680/）
+  - 「例えば、若手人材を採用したい企業／即戦力人材を採用したい企業／エンジニア採用を強化したい企業では、伝えるべき内容が大きく変わります」（https://okanechips.mei-kyu.com/knowledge/13680/）
+  - 「深刻な人手不足が続く製造業界において、ブランディングは強力な採用武器となります」（https://sevendex.com/post/38679/）
+  - 「この結果、既存顧客からの信頼をより強固なものにしただけでなく、若手層からの認知度も向上しました」（https://sevendex.com/post/38679/）
+  - 「XやInstagram、TikTokなどのプラットフォームは、若手人材やエンジニア層へのリーチに効果的でしょう」（https://allhero.co.jp/blog/hr-branding-recommend6/）
+  - 「採用活動を「資産化」し、中長期的な採用コストを抑えられる」（https://allhero.co.jp/blog/hr-branding-recommend6/）
+  - 「特にXやInstagram、TikTokを活用した情報発信に強く、若手層やエンジニア層の採用に効果を発揮するでしょう」（https://allhero.co.jp/blog/hr-branding-recommend6/）
+  - 「採用ブランディングによって自社応募を増やせれば、年間の採用コストを大幅に削減できる可能性があるのです」（https://allhero.co.jp/blog/hr-branding-recommend6/）
+  - 「「応募が来ない」のか「採用しても定着しない」のかによって、必要な支援内容は大きく異なります」（https://allhero.co.jp/blog/hr-branding-recommend6/）
+- 法的な区分：記載なし（読んだ25頁・検索12回）
 
 ## 製造業の採用代行（RPO）（recruitment process outsourcing manufacturing）
 - 文脈：採用支援
@@ -490,23 +695,132 @@
 
 ## 町工場のインターン・職場体験受け入れ支援（manufacturing internship program small factory）
 - 文脈：採用支援
-- 売り手：記載なし（読んだ25頁・検索5回）
-- 料金：記載なし（読んだ25頁・検索5回）
-- 成果報酬・採用課金：記載なし（読んだ25頁・検索5回）
-- 継続・規模：記載なし（読んだ25頁・検索5回）
-- 効果：記載なし（読んだ25頁・検索5回）
-- 法的な区分：記載なし（読んだ25頁・検索5回）
-- 採用の困りごと：記載なし（読んだ25頁・検索5回）
+- 売り手：
+  - 「株式会社日立ハイテクマニファクチャ&サービス」（https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/）
+  - 「株式会社獺祭（2025年6月1日より社名変更 旧：旭酒造株式会社）」（https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/）
+  - 「株式会社キーレックス・ワイテック・インターナショナル」（https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/）
+  - 「航空運輸・空港運営、官公庁・行政・警察」（https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/）
+  - 「「本気でやる子を育てる」を理念に、生徒の未来を創る教育を提供」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「株式会社H4」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「マーケ志望必見｜最新トレンドを「仕掛ける側」に！SNS運営の長期有償インターン」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「株式会社ロジスティクス・ネットワーク（ニチレイロジグループ）」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「株式会社BREXA Advan（旧アドバンテック）」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「株式会社Ｄ２」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「私たちは、社員一人ひとりが自分らしく働ける環境を提供しています」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「【地域貢献/企業CSR活動】運営に参加してみよう！」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「株式会社ハイメディック シニアライフ事業【リゾートトラストグループ】」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「70年以上の技術を活かし、印刷や電子分野を支える独自の光化学材料を提供しています」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「社員一人一人が「オーナーシップマインド」を持ち、主体的に運営しています」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+- 料金：
+  - 「【王子グループ】プラントエンジニア職:1Day工場見学会」（https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/）
+  - 「【王子グループ】岐阜県/プラントエンジニア1Day工場見学」（https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/）
+  - 「9割自社技術の化学メーカー！化学プラントを身近に感じられる☆」（https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/）
+  - 「1day工場見学会|機械・電気|設備・プラントエンジニア」（https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/）
+  - 「10/30、11/6、11/13開催｜交通費全員1万円支給」（https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/）
+  - 「中小製造業が行う長期有償型インターンシップの受け入れ費用を支援 | 記事一覧 | J-Net21[中小企業ビジネス支援サイト]」（https://j-net21.smrj.go.jp/news/nskto6000001zdxf.html）
+  - 「・補助上限額 5万円」（https://j-net21.smrj.go.jp/news/nskto6000001zdxf.html）
+  - 「10億円未満」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「10～100億円未満」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「100～300億円未満」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「300～500億円未満」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「500～1000億円未満」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「1000億円以上」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「◆月給26万円◆休日120日以上◆私服勤務OK◆1日の所定労働時間7.5時間」（https://job.career-tasu.jp/intern-search/lst-isimpCont-30/）
+  - 「10億円未満」（https://job.career-tasu.jp/intern-search/lst-isimpCont-30/）
+- 継続・規模：
+  - 「607件以上」（https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/）
+  - 「1/607件以上」（https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/）
+  - 「当社は、コロナ禍でも黒字経営を継続するIT/DX企業です！EC市場で17年連続国内No.1！」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「同調査によれば、約4割の学生が5社以上のインターンシップに参加しています」（https://edenred.jp/article/hr-recruiting/241/）
+  - 「約4割が「5社以上」にインターン・OCに参加」（https://edenred.jp/article/hr-recruiting/241/）
+  - 「2267件以上」（https://job.rikunabi.com/job_search/kw/%E5%8B%9F%E9%9B%86+%E4%BC%81%E6%A5%AD/）
+  - 「100社以上の企業を取り上げました」（https://hrnote.jp/contents/contents-2177/）
+  - 「こちらのコースでは、和菓子の生産業務において、同社が力を入れて取り組んでいる5S活動や業務改善活動などの体験も実施」（https://hrnote.jp/contents/contents-2177/）
+- 効果：
+  - 「定着率100%・育休取得男女100%！長く働ける安定企業」（https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/）
+  - 「文理不問/自社製品前年比2倍の売上の会社ってどんな会社？？」（https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/）
+  - 「過去3年間の新卒採用者数の離職率 5％以下」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「過去3年間の新卒採用者数の離職率 5％以下」（https://job.career-tasu.jp/intern-search/lst-isimpCont-30/）
+  - 「2026年卒の採用見通しでは、採用数が「増える」企業が13.2%、「減る」企業が5.4%と、増加傾向が続いています」（https://edenred.jp/article/hr-recruiting/241/）
+  - 「調査によれば、就業体験を伴うインターンシップに参加した学生は、不参加学生と比較して「キャリア選択への納得感」が高い人の割合が約2倍以上（43.8%対19.4%）にのぼりました」（https://edenred.jp/article/hr-recruiting/241/）
+  - 「「入社後の勤続意向」が約1.6倍高い」（https://edenred.jp/article/hr-recruiting/241/）
+  - 「「心身の健康」状態が約1.6倍良好」（https://edenred.jp/article/hr-recruiting/241/）
+  - 「「組織コミットメント（目的・愛着）」が約1.5倍高い」（https://edenred.jp/article/hr-recruiting/241/）
+  - 「「適応感」が約1.4倍高い」（https://edenred.jp/article/hr-recruiting/241/）
+  - 「「キャリア自律」が約1.5倍高い」（https://edenred.jp/article/hr-recruiting/241/）
+  - 「「自律的・主体的な仕事」が約1.4倍高い」（https://edenred.jp/article/hr-recruiting/241/）
+  - 「2025年度卒からは、専門性の高い学生の評価と採用がより柔軟に行えるようになり、学生のキャリア選択における納得感の向上や、入社後の定着率アップにつながることが期待されています」（https://edenred.jp/article/hr-recruiting/241/）
+- 採用の困りごと：
+  - 「金沢開催 金沢で働く若手社員に聞ける営業職座談会&工場見学」（https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/）
+  - 「■営業って実際どう？若手社員に何でも聞ける説明会です■」（https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/）
+  - 「若手も主役！次世代ランプの提案舞台に同席して現場を味わう◎」（https://job.rikunabi.com/job_search/kw/%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6+%E4%BA%A4%E9%80%9A%E8%B2%BB%E6%94%AF%E7%B5%A6/）
+  - 「28卒～｜リアル 若手社員製品デモ：一部日程で社長参加！オフィス見学実施コース」（https://job.career-tasu.jp/intern-search/lst-special-50/）
+  - 「【Web開催】若手スタッフが登場!テレビ番組の裏側を大公開!」（https://job.rikunabi.com/job_search/kw/%E5%8B%9F%E9%9B%86+%E4%BC%81%E6%A5%AD/）
+  - 「試食販売マッチ開催：若手社員と一緒に、試食販売を体験していただきます」（https://hrnote.jp/contents/contents-2177/）
+  - 「高齢化社会・健康志向の高まりを背景に、現代人の健康作りに役立つ新たなお米加工ビジネスを展開しています」（https://hrnote.jp/contents/contents-2177/）
+  - 「新卒採用に長く携わってきたベテランスタッフや、若手先輩社員が、「ホテルマンとしての礼儀作法や身だしなみ」について アドバイスします」（https://hrnote.jp/contents/contents-2177/）
+  - 「番組収録・生放送を見学したり、実際に機材を使っての番組体験、また若手社員とのトークセッション、振り返りなどを行う予定です」（https://hrnote.jp/contents/contents-2177/）
+  - 「多くの企業が、定着率の低下や若手社員の伸び悩みに課題を感じています」（https://hrnote.jp/contents/contents-2177/）
+- 検索結果の抜粋：
+  - 「中小製造業が行う長期有償型 インターンシップ の 受け入れ 費用 ... — 中小製造業が行う長期有償型 インターンシップ の 受け入れ 費用 ... J-Net21[中小企業ビジネス支援サイト] https://j-net21.smrj.go.jp > news」（https://j-net21.smrj.go.jp/news/nskto6000001zdxf.html）
+- 成果報酬・採用課金：記載なし（読んだ25頁・検索12回）
+- 法的な区分：記載なし（読んだ25頁・検索12回）
 
 ## オープンファクトリーと採用（open factory recruitment）
 - 文脈：採用広報
-- 売り手：記載なし（読んだ25頁・検索5回）
-- 料金：記載なし（読んだ25頁・検索5回）
-- 成果報酬・採用課金：記載なし（読んだ25頁・検索5回）
-- 継続・規模：記載なし（読んだ25頁・検索5回）
-- 効果：記載なし（読んだ25頁・検索5回）
-- 法的な区分：記載なし（読んだ25頁・検索5回）
-- 採用の困りごと：記載なし（読んだ25頁・検索5回）
+- 売り手：
+  - 「オープンファクトリーとは？増加の背景や開催意義を解説 | 日本コンベンションサービス株式会社 - JCS」（https://www.convention.co.jp/news/detail/contents_type=16&id=1918）
+  - 「JCS 日本コンベンションサービス株式会社」（https://www.convention.co.jp/news/detail/contents_type=16&id=1918）
+  - 「運営や実行委員のメンバーとして企画や運営、集客などを行い、実践的に現場を学ぶ例も増えています」（https://www.convention.co.jp/news/detail/contents_type=16&id=1918）
+  - 「八王子市内にある伝統工芸や製造業などの工房・工場を、現地で見学・体験できるイベントを、八王子市と日本コンベンションサービス株式会社が共催しています」（https://www.convention.co.jp/news/detail/contents_type=16&id=1918）
+  - 「参加する企業間の交流・連携、来訪者との会話から生まれる商品開発等の気づき、地域の大学他研究機関との協働、その学生らによる運営サポートや地元就労のきっかけ作り、技術継承問題への対応など多岐に渡ります」（https://www.convention.co.jp/news/detail/contents_type=16&id=1918）
+  - 「日本コンベンションサービス（JCS）は、国際会議運営、自治体等と協働する中小企業の支援事業、まちづくり支援事業で培った実績を活用し、今後とも地域の方々と共に地域活性化に向けた取り組みを展開してまいります」（https://www.convention.co.jp/news/detail/contents_type=16&id=1918）
+  - 「大阪・関西万博 開幕１年前イベントの運営を担当」（https://www.convention.co.jp/news/detail/contents_type=16&id=1918）
+  - 「リアル開催「中小企業 新ものづくり・新サービス展」の運営全般を担当」（https://www.convention.co.jp/news/detail/contents_type=16&id=1918）
+  - 「TICAD 9運営の舞台裏― 国際会議を「共創の場」として形にするJCSの真価」（https://www.convention.co.jp/news/detail/contents_type=16&id=1918）
+  - 「DBJの2025年3月のレポートは、ヒアリングをもとに運営の資金不足を課題の一つに挙げた」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「入場料を取らない以上、運営費は参加費や協賛、補助金、他事業の収益といった入場料以外の財源で賄うことになる」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「静岡県の「共生 Shizuoka Craft Week」は、実行委員会のメンバーが「共生スポンサー」と呼ぶ協賛企業を回る仕組みで、補助金だけに頼らない運営を続けている」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「2022年7月に実行委員会を一般社団法人SOEに改め、通年の産業観光や宿泊施設の運営なども担っている」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「同じ事例集によると、年に一度のイベントにとどまらず、通年でワークショップや工場見学を提供するコミュニティに育った」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「特徴は、事例集が「補助金に依存しない運営体制」と書く運営資金の集め方にある」（https://kankobusiness.com/guides/experience/open-factory/）
+- 料金：
+  - 「観光体験「コト消費」の全体像 訪日4,236億円が映す「使い道」の変化」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「観光の政策文書では、観光立国推進閣僚会議が2023年5月に決めた「新時代のインバウンド拡大アクションプラン」が取り上げた」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「（販売5,769万円）」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「燕三条（販売5,769万円）・RENEW（新規店舗40社）」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「参加費は、燕三条地場産業振興センターの2026年の募集要項では、従業員20名以下の事業所が3万円、21名以上が5万円だ」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「三条市・燕市以外の事業所は、それぞれ1万円増しとなる」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「2025年の燕三条では、4日間の販売金額が5,769万円にのぼったと実行委員会が発表している」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「参加133社で割ると1社あたり約43万円になる（編集部算出の単純平均」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「燕三条 工場の祭典2026の参加費は、従業員20名以下の事業所が3万円、21名以上が5万円で、両市以外の事業所は1万円増しだった」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「地域おこし協力隊の550万円の意味 月給との違いと観光活用の条件」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「今では「フライパンジュウ」をはじめとする大ヒット商品を数多く生み出し、名だたる企業とのコラボ商品を多く展開していますが、４代目社長の盛一郎さんが入社した当時は、取引先からの値切りや新商品を出しても数ヶ月後には海外製の類似商品が安価で出されるなど、激しい価格競争にのまれて厳しい状況が続いていました」（https://www.projectdesign.jp/articles/news/d29b8f17-eb40-4e42-a0f0-49f17fa68095）
+  - 「防災庁 防災技術に5年で2.6兆円の官民投資、国際戦略も27年半ばに策...」（https://www.projectdesign.jp/articles/news/d29b8f17-eb40-4e42-a0f0-49f17fa68095）
+  - 「自治体のトレンドがわかる！「視察が多い事業2025」に見る最新注目テーマとShisalyおすすめプラン」（https://shisaly.com/magazine/85）
+- 継続・規模：
+  - 「近畿経済産業局の事例集によると、2025年は133社が参加し、来場者は6万2,060人と過去最高だった」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「関西では2023年に発表された「Tech Tours Kansai」が、問い合わせを一括で受け、連携する旅行会社が手配して手数料を得る形で有償化を図っている」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「会員制で、事例集によると会員の約3割は八尾市外の企業である」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「2025年は20社が参加し、来場者は約1,200人だった」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「3つ目は受入体制と外部支援の不足で、交通や宿泊といった地域のインフラが足りないことや、行政の担当者の異動などで継続的な支援を得にくいことが挙がった」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「DBJの2026年7月のレポートが継続を難しくする要因として挙げた3点が手がかりになる」（https://kankobusiness.com/guides/experience/open-factory/）
+  - 「年間1,000件以上にも及ぶ企業訪問を通じて発掘した、未来に向けて躍動する関西企業の挑戦（兆し）や、地域・企業に新たな価値を届けるキーパーソン、施策にかける職員の想いなどを「近畿経済産業局 公式note」として、とりまとめている」（https://www.projectdesign.jp/articles/news/d29b8f17-eb40-4e42-a0f0-49f17fa68095）
+  - 「その後、時代とともに工場が増え、昭和58年のピーク時には9000社以上と、都内一の工場地帯に」（https://story.nakagawa-masashichi.jp/106971）
+  - 「見学レポート Vol.15 2024年9月26日 中央女子大学会員御一行」（https://www.kawakamibankin.co.jp/initiatives/open-factory/）
+  - 「会社が向かう方向性――「社内外のファンづくり」――を後押しする取り組みです」（https://note.com/uno_oriental/n/n40c01f1fe153）
+- 効果：
+  - 「八王子市内の工場・工房など、初回の倍以上にのぼる事業者が参加し、のべ約2,500人の方が八王子ならではの産業を体験・見学し、地域の産業への理解を深めました」（https://www.convention.co.jp/news/detail/contents_type=16&id=1918）
+- 採用の困りごと：
+  - 「ものづくり産業を取り巻く環境変化、後継者不足」（https://www.convention.co.jp/news/detail/contents_type=16&id=1918）
+  - 「少子高齢化による労働者数の減少等により、ものづくりを始めとした企業の人材獲得はさらに困難になり、「人材不足」や「技術継承」の課題は深刻化しています」（https://www.convention.co.jp/news/detail/contents_type=16&id=1918）
+  - 「また人材が採用されることで、後継者育成や技術継承の課題解決にもつながると言えるでしょう」（https://www.convention.co.jp/news/detail/contents_type=16&id=1918）
+  - 「また世代や業種を超えたネットワークが構築できるため、若手クリエイターと商品を共同開発するなど、他社とのコラボレーションやイノベーションの機会創出にもつながります」（https://www.convention.co.jp/news/detail/contents_type=16&id=1918）
+  - 「若手スタッフが中心となり、採用に係る会社説明会やインターン、新人スタッフ研修、SNS運用などを企画・実施します」（https://topfactory.jp/open-factory/）
+  - 「若手スタッフの成長に繋がるのはもちろん、学生に響くフレッシュな採用活動が可能になります」（https://topfactory.jp/open-factory/）
+  - 「求職者や地元の学生が実際の働く現場や社員の姿を目にすることで、就職時のミスマッチを減らし、若手人材の確保に繋がります」（https://shisaly.com/magazine/85）
+- 成果報酬・採用課金：記載なし（読んだ26頁・検索12回）
+- 法的な区分：記載なし（読んだ26頁・検索12回）
 
 ## Wantedly型の共感採用（製造業）（Wantedly manufacturing companies）
 - 文脈：採用広報
@@ -749,13 +1063,66 @@
 
 ## 地方の製造業のUターン・移住採用（regional manufacturing U-turn recruitment）
 - 文脈：採用支援
-- 売り手：記載なし（読んだ25頁・検索5回）
-- 料金：記載なし（読んだ25頁・検索5回）
-- 成果報酬・採用課金：記載なし（読んだ25頁・検索5回）
-- 継続・規模：記載なし（読んだ25頁・検索5回）
-- 効果：記載なし（読んだ25頁・検索5回）
-- 法的な区分：記載なし（読んだ25頁・検索5回）
-- 採用の困りごと：記載なし（読んだ25頁・検索5回）
+- 売り手：
+  - 「UIJターン採用を成功させる方法｜地方企業の人材戦略 | 株式会社Sei San Sei」（https://www.sei-san-sei.com/blog/blog-0302.html）
+  - 「会社として提供する移住支援メニューを具体的に明記」（https://www.sei-san-sei.com/blog/blog-0302.html）
+  - 「会社が物件情報を提供する、社宅を用意する、不動産会社と連携する」（https://www.sei-san-sei.com/blog/blog-0302.html）
+  - 「家族帯同なら学校情報の提供も重要になります」（https://www.sei-san-sei.com/blog/blog-0302.html）
+  - 「株式会社Sei San Seiでは、地方企業向けに」（https://www.sei-san-sei.com/blog/blog-0302.html）
+  - 「株式会社Sei San Sei 代表取締役CEO」（https://www.sei-san-sei.com/blog/blog-0302.html）
+  - 「株式会社i-plugが2026年卒の学生を対象に行った「希望する居住地に関する調査」によって、「大学進学時に地元を離れた」者の内、「いずれは地元に戻りたい」と回答した者は35.8％、「すぐにでも地元に戻りたい」と回答した者は10.7％と、4割を超える者が「地元に帰りたい」と答えたことが発表されました」（https://www.musepass.jp/info/research_8）
+  - 「「希望する居住地に関する調査」(株式会社i-plug)」（https://www.musepass.jp/info/research_8）
+  - 「４．自治体が提供する様々な支援」（https://www.musepass.jp/info/research_8）
+  - 「主にライフステージの変化に伴って地元に帰ることが多く、上記の、株式会社i-plugによる調査を参照すると、2026年卒で地元に戻ることを希望するライフステージの変化として最多となったのは、31.0％の「大学を卒業したらすぐに」という回答でした」（https://www.musepass.jp/info/research_8）
+  - 「自治体が提供する様々な支援内容を、具体例を挙げながら説明します」（https://www.musepass.jp/info/research_8）
+  - 「自治体が地元企業と連携し、企業情報を提供しています」（https://www.musepass.jp/info/research_8）
+  - 「また、空き店舗活用補助金や創業助成金も提供されています」（https://www.musepass.jp/info/research_8）
+  - 「辞退に至った背景を丁寧に把握したうえで、給与や福利厚生、勤務地などの条件を柔軟に再提示することで、候補者の懸念を解消し、再度の検討機会を提供することができます」（https://www.musepass.jp/info/research_8）
+  - 「４．スキル還元・成長機会の提供」（https://www.musepass.jp/info/research_8）
+- 料金：
+  - 「都会ではワンルームマンションでも月額7〜8万円ほどと言われています」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「対象地域に移住すると、単身の場合は1人60万円以内、夫婦の場合は100万円以内が交付されます」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「東京圏から移住すると、39歳以下の場合最大25万円がもらえる」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「就業目的で市貝町内へUターンした18歳以上30歳以下の人が、正職で就業した場合は1人あたり10万円が交付される」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「県外から移住して県内で林業に就業すると、最大100万円の支援金が受け取れる」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「東京圏、中京圏（愛知）、近畿圏（京都・大阪・兵庫）、広島県、福岡県から移住し、移住等に関する要件を満たしたうえで山口県内でテレワーク勤務を週20時間以上すると、30〜50万円の補助金が受け取れる」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「18歳未満の家族も帯同する場合は、18歳未満の方1人あたり50万円を加算」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「連続して1年以上、三大都市圏（東京圏・大阪圏・名古屋圏）ならびに福岡県に在住かつ通勤していた人が移住し、中小企業へ就職するなど要件を満たす29歳以下の方は、最大30万円が受け取れる」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「単身60万円・世帯100万円」（https://www.sei-san-sei.com/blog/blog-0302.html）
+  - 「平均年収は460万円（2023年）」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「単身60万円／世帯100万円が上限」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「移住支援金（最大100万円／単身60万円）や、」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「：館林市のUIターン10万円、益子町の雇用支援など―自治体の制度は“探せば見つかる”」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「【家賃0円】移住すると家がもらえる!?家(無料)＋補助金のある移住先を大公開！」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「東京圏からの移住者を対象に、最大100万円（単身者60万円）の補助金を支給しています」（https://www.musepass.jp/info/research_8）
+- 継続・規模：
+  - 「2023年にSei San Seiを設立し、大手製造メーカーをはじめ累計30社以上の採用・業務改善支援を手掛ける」（https://www.sei-san-sei.com/blog/blog-0302.html）
+  - 「２．継続的な関係構築プログラム」（https://www.musepass.jp/info/research_8）
+  - 「30万件以上」（https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area）
+  - 「1,769,000件以上」（https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area）
+- 効果：
+  - 「これは、通常の転職にかかる期間の2倍以上となっています」（https://tenshoku.mynavi.jp/ui_turn/）
+  - 「を1人つけると、移住者の定着率が大きく向上します」（https://www.sei-san-sei.com/blog/blog-0302.html）
+  - 「1人採用すれば終わりではなく、」（https://www.sei-san-sei.com/blog/blog-0302.html）
+  - 「有効求人倍率（季節調整値）は全国1.22倍」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「宮崎県の2025年7月の有効求人倍率は1.22倍」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「例：香川県の職業別常用有効求人倍率（2025年7月）で「建設躯体工事の職業」」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「全国の求人倍率は1.22倍」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「年間700名採用を実現する日清医療食品が、 全国の支店を束ね...」（https://www.musepass.jp/info/research_8）
+- 法的な区分：
+  - 「すでに自治体への相談の中で仕事の話も出ているので、求人媒体や職業紹介を受けていると思います」（https://nobels.co.jp/nobelswave/country_living/uij/）
+- 採用の困りごと：
+  - 「人材確保等支援助成金、地域雇用開発助成金など、社労士に相談しながら活用すると採用コストを抑えられます」（https://www.sei-san-sei.com/blog/blog-0302.html）
+  - 「人手不足の解決策｜地方企業が取り組むべき採用戦略と業務改革」（https://www.sei-san-sei.com/blog/blog-0302.html）
+  - 「著書に『仕事や将来に迷った時に、若手キャリア層のこれからの描き方』がある」（https://www.sei-san-sei.com/blog/blog-0302.html）
+  - 「構造的な人手不足が続き、地方ほど採用確度が高い分野です」（https://dual-life-iju.com/magazine/category/emigration/tensyoku/）
+  - 「企業にとって、こうしたUターン希望者との関係を再構築することは、採用コストを抑えながら地元に根付いた優秀な人材と再びつながる、大きなチャンスとなります」（https://www.musepass.jp/info/research_8）
+  - 「若手採用の強化に向けて――優秀な候補者と“辞退後”も良い関係...」（https://www.musepass.jp/info/research_8）
+  - 「エリア版・都道府県版で若手や未経験の地方求人を探す」（https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area）
+  - 「若手採用や未経験職種も見たい人は、勤務地だけで絞り込まず、職種や働き方の条件も変えながら確認してください」（https://hired.co.jp/tenshoku-antenna/tenshokusite-osusume-area）
+  - 「もちろん、求人件数は少ないですし、仕事の業種も限られますが、人手不足は都会よりも顕著なので、ご自身のこれまでの経験を棚卸しすれば、活躍できる業種はみつかります」」（https://nobels.co.jp/nobelswave/country_living/uij/）
+  - 「「食」を支える農業と漁業は国の保護産業ですが、担い手や後継者不足による人手不足が最大の課題です」（https://nobels.co.jp/nobelswave/country_living/uij/）
+- 成果報酬・採用課金：記載なし（読んだ25頁・検索12回）
 
 ## 製造業の技能者・溶接工・機械オペレーター採用（welder machinist recruitment Japan）
 - 文脈：採用の困りごと

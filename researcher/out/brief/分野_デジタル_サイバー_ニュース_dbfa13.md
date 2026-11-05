@@ -1,57 +1,58 @@
 # 分野_デジタル・サイバー_ニュース（業界ニュース（毎日）・顧客起点の3C＋PEST・事実のみ）
 
 ### 業界ニュース（毎日）｜定置用蓄電池（stationary energy storage battery）
-- 取得：2026-11-04T00:36・調査1回目・読んだ頁37
-- 顧客（金を払う側）（60件）：
-  - ［一次］2026-11-04「導入見通し・収益性に関する検討」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「需要家側蓄電システムの国内導入見通し 5」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「用蓄電システムの 2040 年における導入量を推計した」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「及上の課題に対応するため、導入効果が高い需要家の条件を定量的に分析した」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「また、導入を検討す」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-- 顧客の顧客（発注元が求めること）（60件）：
-  - ［一次］2026-11-04「③停電補償（BCP）」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「レジリエンス価値単価[円/kWh/年]×BCP用容量[kWh]」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「（BCP）のメリットを定量化」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「パターン3 BCP対応」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「ヘッジとしてのBCP活用が重要」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-- 顧客の競合（奪いに来る側）（50件）：
-  - ［一次］2026-11-04「連市場の現状と将来展望 2025 」設置パターン別市場シェア及び上グラフ新築着工件数」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「Ｓ関連市場の現状と将来展望 2025 」設置パターン別市場シェア及び上グラフ前年末」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「新築向け蓄電池導入台数 2024まで 実績値 富士経済「エネルギー・大型二次電池・材料の将来展望」シリーズ、「定置用蓄電池・ＥＳＳ関連市場の現状と将来展望2025」設置パターン別市場シェア「新築・新設PV＋蓄電池セット」の導入台数実績を引用」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「電池システム導入台数割合 2024まで 実績値 富士経済「エネルギー・大型二次電池・材料の将来展望」シリーズ、「定置用蓄電池・ＥＳＳ関連市場の現状と将来展望2025」設置パターン別市場シェア「既築・新設PV＋蓄電池セット」の導入台数実績及び前年末時点PV未設置既築戸建て住宅数から算出」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「2024まで 実績値 富士経済「エネルギー・大型二次電池・材料の将来展望」シリーズ、「定置用蓄電池・ＥＳＳ関連市場の現状と将来展望2025」設置パターン別市場シェア「既築・蓄電池単独（既設PV あり）」の導入台数実績及び、前年末時点PV既設（PV単独）戸建て住宅数から算出」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-- 自社の競合（商社・代理店・仲介）（10件）：
-  - ［記事］2026-11-04「しかも第三者機関の試験書類だけでなく、メーカーや輸入代理店が自分で確認した結果でもよいとされた」https://bessnews.jp/institutional/standard/4629602102001/
-  - ［記事］2026-11-04「エネがえるは、官公庁・自治体、大手メーカー、商社、電力・ガス会社、住宅メーカー、有力販売施工店など、全国700社以上に導入されています」https://www.enegaeru.com/keitouyou-biz
-  - ［記事］2026-11-04「発電事業者、EPC、商社、小売電気事業者、投資家」https://www.enegaeru.com/keitouyou-biz
-  - ［記事］2026-11-04「託送・手数料・劣化で手取りは減る」https://www.enegaeru.com/keitouyou-biz
-  - ［記事］2026-11-04「託送料金・手数料・劣化・充放電の順序制約・予測誤差は含みません」https://www.enegaeru.com/keitouyou-biz
-- 政治（法・予算・規制）（60件）：
-  - ［一次］2026-11-04「基金事業実績等を参照」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「実績値：公開されている統計実績等からの引用情報、 予測値：公開されている将来予測値、 目標値：エネルギー基本計画等政府目標値」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「PV導入先の新築/既築割合 ～2019 実績値 JPEA補助金公表情報の2012年・2019年の値を引用」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「環境省, “再生可能エネルギー等導入推進基金”, 閲覧日：2025年12月5日,」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「⚫ 技術上の課題は小さい一方で、標準仕様や補助金制度の拡充による期待が高い」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-- 経済（規模・価格・為替）（60件）：
-  - ［一次］2026-11-04「出所）省エネプラス , “ 蓄電池の普及率は？今後の価格や動向について解説” , 閲覧日： 2025 年12 月12 日, https://syoueneplus.com/blog/kiso/penetration/」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「蓄電システムの導入量 2024まで 実績値 富士経済「エネルギー・大型二次電池・材料の将来展望」シリーズ、「定置用蓄電池・ＥＳＳ関連市場の現状と将来展望2025」蓄電デバイスの市場規模推移・予測の日本における導入容量実績を引用」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「※3 ：時間帯別料金メニューの価格差を利用したタイムシフトも従量料金削減のユースケースとして考えられるが、余剰電力活用と比較して収益に与える影響は軽微であるため、考慮していない」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「基本料金単価[円/kW/月]×ピーク削減量[kW]×12[月/年]」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［記事］2026-11-04「一般送配電9社のすべてで平均単価が上がります」https://bessnews.jp/institutional/standard/4629602102001/
-- 社会（人・担い手）（14件）：
-  - ［一次］2026-11-04「バルプレゼンスの確保、③次世代電池市場の獲得の目標を掲げて、人材・技術・サプライチェーン・エコシステ」https://www.meti.go.jp/files/000001097.pdf
-  - ［一次］2026-11-04「6. 人材育成・確保の強化」https://www.meti.go.jp/files/000001097.pdf
-  - ［一次］2026-11-04「スキルを見える化し人材を流動化」https://www.meti.go.jp/files/000001097.pdf
-  - ［一次］2026-11-04「とも連携しながら、設備・人材・インフラ・インテリジェンスを結集させることにより、蓄電池の世界的な基盤研究拠点とし」https://www.meti.go.jp/files/000001097.pdf
-  - ［一次］2026-11-04「ニーズを把握し、技術課題解決から生産性向上・人材確保まで幅広く支援し、産業競争力に影響する技術政策も積極的に提案」https://www.meti.go.jp/files/000001097.pdf
-- 技術（新しい技術・実証）（60件）：
-  - ［一次］2026-11-04「https://www.mhlw.go.jp/toukei/saikin/hw/iryosd/24/」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「産業用リチウムイオン電池開発・製造.com, “コンビニエンスストア向け業務用蓄電池”, 閲覧日：2025年12月5日,」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「• 仕様の類型化により、パッケージ製品・標準品の開発が必要」https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf
-  - ［一次］2026-11-04「出典：資源エネルギー庁「次世代の電気事業の在り方と電気事業を取り巻く状況」経済産業省 総合資源エネルギー調査会 電力・ガス事業」https://www.renewable-ei.org/pdfdownload/activities/00_REI_MKudo_GridScaleBatterySymposium_260702.pdf
-  - ［一次］2026-11-04「分科会 次世代電力・ガス事業基盤構築小委員会（第1回、2025年5月23日）資料5、p.48を基に自然エネルギー財団作成」https://www.renewable-ei.org/pdfdownload/activities/00_REI_MKudo_GridScaleBatterySymposium_260702.pdf
-- SNS・note（X・検索結果の抜粋）（1件）：
-  - ［SNS］2026-11-04「# 定置用 蓄電システム向け 蓄電池 - Vyhledávání / X # 定置用 蓄電システム向け 蓄電池 - Vyhledávání / X X https://x.com > Vyhledávání」https://x.com/hashtag/%E5%AE%9A%E7%BD%AE%E7%94%A8%E8%93%84%E9%9B%BB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%90%91%E3%81%91%E8%93%84%E9%9B%BB%E6%B1%A0?lang=cs
-- 検索結果の抜粋（2件）：
+- 取得：2026-11-05T01:01・調査2回目・読んだ頁37
+- 顧客（金を払う側）（94件）：
+  - ［一次］2026-11-05「⇒CEV補助金、充電インフラ導入促進補助金、定置用蓄電池の導入補助金、長期脱炭素電源オークション等により導入を促進」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「⇒蓄電池の導入加速化の中で、価格のみならず、高い性能・安全性・信頼性を有する蓄電池が評価される市場環境の整備を促進する」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「⇒全固体電池を始めとした次世代電池の実用化や量産の実現に向けた設備投資・技術開発等を加速し、次世代電池市場の獲得を促進する」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「⇒2030年代も見据えて、リチウム、ニッケル、マンガン、黒鉛について、鉱山権益確保、製錬・加工設備増強も含めて、企業による投資を後押しする」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「• 2026年2月17日に、蓄電池１件、部素材５件、製造装置２件の設備投資・技術開発の計画を認定」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+- 顧客の顧客（発注元が求めること）（85件）：
+  - ［一次］2026-11-05「⇒CEV補助金、充電インフラ導入促進補助金、定置用蓄電池の導入補助金、長期脱炭素電源オークション等により導入を促進」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「量産体制の構築に向けて、自動車OEMと材料メーカーの協業が進む」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「• 安全性規格に関する第三者認証の取得や耐類焼性の確保」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「長期脱炭素電源オークションの第３回入札の状況」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「• 蓄電池を含めた脱炭素電源への新規投資を促進する制度である長期脱炭素電源オークションの第３回入札は、」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+- 顧客の競合（奪いに来る側）（68件）：
+  - ［一次］2026-11-05「⇒欧州バッテリー規則も踏まえて、CFPや人権・環境DD等の取組に資するデータ連携基盤の整備、工程端材等のリサイクルの推進に向けた検討を進める」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「シェア２割の製造能力確保」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「2030年までに二次電池の世界シェアの19％（2024年時点）から25％への引き上げを目標に、①次世代バッテリーのリーダーシップ確」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「• 米国はEV導入支援策を撤廃・変更するとともに、特定国の事業体による事業への関与を規制」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「中国はリチウムイオン電池関連の輸出管理を拡大する動きあり」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+- 自社の競合（商社・代理店・仲介）（17件）：
+  - ［記事］2026-11-05「エネがえるは、官公庁・自治体、大手メーカー、商社、電力・ガス会社、住宅メーカー、有力販売施工店など、全国700社以上に導入されています」https://www.enegaeru.com/biz-lib-strategyidea
+  - ［記事］2026-11-05「するため、大手有名メーカー・商社・国内最大クラスのEPC事業者や施工事業者が続々と採用し営業生産性を飛躍的に向上させます」https://www.enegaeru.com/biz-lib-strategyidea
+  - ［記事］2026-11-05「【メーカー・商社経営層必見】産業用太陽光・蓄電池販売革命：エネがえるBizで実現する10分ROI診断と市場シェア拡大戦略」https://www.enegaeru.com/biz-lib-strategyidea
+  - ［記事］2026-11-05「エネがえるは、官公庁・自治体、大手メーカー、商社、電力・ガス会社、住宅メーカー、有力販売施工店など、全国700社以上に導入されています」https://www.enegaeru.com/completeguidetobatterypricesin2025
+  - ［記事］2026-11-05「運営: ブライト株式会社（LED照明器具・電源・電気設備の専門商社）」https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/
+- 政治（法・予算・規制）（98件）：
+  - ［一次］2026-11-05「⇒CEV補助金、充電インフラ導入促進補助金、定置用蓄電池の導入補助金、長期脱炭素電源オークション等により導入を促進」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「⇒GI基金、経済安保基金、経済安全保障重要技術育成プログラム（K Program）等による全固体電池を始めとした次世代電池の開発を支援」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「⇒2024年より、経済安保基金の支援対象に、製造装置を追加」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「2026年2月17日に経済安保基金（蓄電池：第６弾）で蓄電池１件、部素材５件、製造装置２」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「⇒JOGMECの支援措置を拡充し、経済安保基金（重要鉱物）により、電池関連4件の計画を認定」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+- 経済（規模・価格・為替）（82件）：
+  - ［一次］2026-11-05「• 8件合計で事業総額は1,167億円、うち助成額は最大444億円」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「件）となり、その事業総額は約1兆8,906億円、うち助成額は最大約6,711億円」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「⚫ 鉱物サプライチェーン多角化・安定化事業 令和７年度補正【937億円】」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「⚫ 重要鉱物供給源多角化のための出資事業 令和７年度予備費【390億円】」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「• 総額30百万ドル（45億円）を出資することで、権益15%を取得する計画」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+- 社会（人・担い手）（26件）：
+  - ［一次］2026-11-05「6. 人材育成・確保の強化」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「⇒関西蓄電池人材育成等コンソーシアムで、「バッテリー人材育成の方向性2025」を取りまとめるとともに、高校・高専等計41校でバッテリー教育プログラムを実施」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「⇒同コンソーシアムにおける取組が他の地域や大学等に自律的に展開されるように、 2025年10月14日にバッテリー先進人材普及ネットワーク(BATON)を発足」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「６．人材育成・確保の強化」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「• 必要な人材確保に向けた取組(例：継続的な賃上げ)」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+- 技術（新しい技術・実証）（88件）：
+  - ［一次］2026-11-05「4. 次世代技術の開発」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「⇒GI基金、経済安保基金、経済安全保障重要技術育成プログラム（K Program）等による全固体電池を始めとした次世代電池の開発を支援」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「⇒全固体電池を始めとした次世代電池の実用化や量産の実現に向けた設備投資・技術開発等を加速し、次世代電池市場の獲得を促進する」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「４．次世代技術の開発」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+  - ［一次］2026-11-05「• 2026年2月17日に、蓄電池１件、部素材５件、製造装置２件の設備投資・技術開発の計画を認定」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
+- 検索結果の抜粋（3件）：
+  - ［記事］2026-11-05「産業 用蓄電池 （ 定置 型蓄電システム）市場「10倍化」に向けた ... — 産業 用蓄電池 （ 定置 型蓄電システム）市場「10倍化」に向けた ... エネがえる https://www.enegaeru.com > 産業用太陽光・自家消費」https://www.enegaeru.com/biz-lib-strategyidea
   - ［記事］2026-11-04「2026年 9月の系統 用蓄電池ニュース 87件まとめ - BESS NEWS — 2026年 9月の系統 用蓄電池ニュース 87件まとめ - BESS NEWS bessnews.jp https://bessnews.jp > 制度・政策・審議会」https://bessnews.jp/institutional/standard/4629602102001/
   - ［記事］2026-11-04「2026年 9月の系統 用蓄電池 ニュース87件まとめ - BESS NEWS — 2026年 9月の系統 用蓄電池 ニュース87件まとめ - BESS NEWS bessnews.jp https://bessnews.jp > 制度・政策・審議会」https://bessnews.jp/institutional/standard/4629602102001/
+- SNS・note（X・検索結果の抜粋）（1件）：
+  - ［SNS］2026-11-04「# 定置用 蓄電システム向け 蓄電池 - Vyhledávání / X # 定置用 蓄電システム向け 蓄電池 - Vyhledávání / X X https://x.com > Vyhledávání」https://x.com/hashtag/%E5%AE%9A%E7%BD%AE%E7%94%A8%E8%93%84%E9%9B%BB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%90%91%E3%81%91%E8%93%84%E9%9B%BB%E6%B1%A0?lang=cs

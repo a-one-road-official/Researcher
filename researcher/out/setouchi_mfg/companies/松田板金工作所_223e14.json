@@ -1,0 +1,623 @@
+{
+ "name": "松田板金工作所",
+ "aliases": [],
+ "context": "山口県周南市／出典:タウンページ／求人媒体:見当たらず／想定年収:未取得／従業員:不明",
+ "researched_at": "2026-11-05T01:11:18.703398+00:00",
+ "official_url": "https://matsuda-bkk.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：1961年(昭和36年)",
+    "url": "https://matsuda-bkk.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "営業品目",
+    "value": "板金工事業、屋根工事業、建築工事業、その他",
+    "url": "https://matsuda-bkk.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "700万円",
+    "url": "https://matsuda-bkk.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "事業所所在地",
+    "value": "山口県周南市大字原243-1",
+    "url": "https://matsuda-bkk.jp/company.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取引先・規模": [
+   {
+    "quote": "当社は、1961年（昭和36年）に周南市（旧熊毛町）の地に創業し、工場、倉庫、住宅、テナントなど様々な用途の屋根、外壁、雨樋工事を中心に事業を展開してまいりました",
+    "url": "https://matsuda-bkk.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "「人の手で建物をつくり、守る」という誇りを大切に、工場や公共施設、一般住宅まで幅広い案件に対応しています",
+    "url": "https://job.sakumiru.jp/cw/1026422",
+    "pass": 3
+   },
+   {
+    "quote": "小学校や公民館、幼稚園などの公共施設から、地元の有名企業の工場・店舗まで、自分が手がけた建物が形として長く残り、地域に貢献している実感を味わえます",
+    "url": "https://job.sakumiru.jp/cw/1026422",
+    "pass": 3
+   },
+   {
+    "quote": "今いる先輩たちも全員が工場作業員や大工、",
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "pass": 3
+   },
+   {
+    "quote": "（工場作業員、プレハブ組立、自動車関係、プラント系など）",
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "pass": 3
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫は、商品が「つくられてから、お客様のもとへ届くまで」をつなぐ大切な物流拠点です",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用ページ": [
+   {
+    "quote": "エントリーフォーム｜有限会社 松田板金工作所",
+    "url": "https://matsuda-bkk.jp/recruit/entry.html",
+    "pass": 1
+   },
+   {
+    "quote": "をご確認のうえ履歴書を添付しエントリーフォームより送付ください",
+    "url": "https://matsuda-bkk.jp/recruit/entry.html",
+    "pass": 1
+   },
+   {
+    "quote": "エントリー希望の方は募集要項をご確認のうえ、下記のリンク先またはエントリーフォームより送付ください",
+    "url": "https://matsuda-bkk.jp/recruit/guideline.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご不明点などもエントリーフォームより承っております",
+    "url": "https://matsuda-bkk.jp/recruit/guideline.html",
+    "pass": 1
+   },
+   {
+    "quote": "STEP 01 エントリー",
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "月給 250,000円 ※手当含む",
+    "url": "https://matsuda-bkk.jp/recruit/guideline.html",
+    "pass": 1
+   },
+   {
+    "quote": "昇給(年1回)・通勤手当(規定による)",
+    "url": "https://matsuda-bkk.jp/recruit/guideline.html",
+    "pass": 1
+   },
+   {
+    "quote": "【給与詳細】月給＝基本給＋残業割増等＋各種手当",
+    "url": "https://matsuda-bkk.jp/recruit/guideline.html",
+    "pass": 1
+   },
+   {
+    "quote": "年収4,340,000円〜5,500,000円",
+    "url": "https://job.sakumiru.jp/cw/1026422",
+    "pass": 3
+   },
+   {
+    "quote": "・月給：250,000円〜270,000円",
+    "url": "https://job.sakumiru.jp/cw/1026422",
+    "pass": 3
+   },
+   {
+    "quote": "・昇給：年1回（4月、業績・能力による）",
+    "url": "https://job.sakumiru.jp/cw/1026422",
+    "pass": 3
+   },
+   {
+    "quote": "・賞与：年2回（8月・12月、業績による）",
+    "url": "https://job.sakumiru.jp/cw/1026422",
+    "pass": 3
+   },
+   {
+    "quote": "・決算賞与：年1回（10月、業績による）",
+    "url": "https://job.sakumiru.jp/cw/1026422",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社松田板金工作所の想定年収・給与はいくらですか？",
+    "url": "https://job.sakumiru.jp/cw/1026422",
+    "pass": 3
+   },
+   {
+    "quote": "【未経験月給19万円～】資格取得費0円の電気・通信設備工事スタッフ／資格取得支援・年間休日123日",
+    "url": "https://job.sakumiru.jp/cw/1026422",
+    "pass": 3
+   },
+   {
+    "quote": "月給 19万円 〜 25万円",
+    "url": "https://job.sakumiru.jp/cw/1026422",
+    "pass": 3
+   },
+   {
+    "quote": "月給 26万円 〜 47万円",
+    "url": "https://job.sakumiru.jp/cw/1026422",
+    "pass": 3
+   },
+   {
+    "quote": "【残業ほぼなし×夜勤・出張なし】月25万〜の土木作業員｜賞与年2回｜美祢市",
+    "url": "https://job.sakumiru.jp/cw/1026422",
+    "pass": 3
+   },
+   {
+    "quote": "月給 30万円 〜 45万円",
+    "url": "https://job.sakumiru.jp/cw/1026422",
+    "pass": 3
+   },
+   {
+    "quote": "月給 25万円 〜 35万円",
+    "url": "https://job.sakumiru.jp/cw/1026422",
+    "pass": 3
+   },
+   {
+    "quote": "月給 30万円 〜 42万円",
+    "url": "https://job.sakumiru.jp/cw/1026422",
+    "pass": 3
+   },
+   {
+    "quote": "【未経験者歓迎！】賞与年3回＆完全週休2日制（土日祝休み）年間休日120日！",
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "pass": 3
+   },
+   {
+    "quote": "賞与年2回＋業績賞与、資格手当など",
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "pass": 3
+   },
+   {
+    "quote": "✅ 賞与あり（最大年3回！）",
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "pass": 3
+   },
+   {
+    "quote": "※「昼で帰らされて給与が減る」といったことはありません！",
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "pass": 3
+   },
+   {
+    "quote": "切り替えるため、天候による給与カットはありません",
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "pass": 3
+   },
+   {
+    "quote": "月給250,000円～286,000円",
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "pass": 3
+   },
+   {
+    "quote": "月給 250,000円～286,000円",
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "pass": 3
+   },
+   {
+    "quote": "※雨天時も事務所で軽作業があるので給与が減る心配はありません",
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "pass": 3
+   },
+   {
+    "quote": "●賞与あり：年2回＋決算賞与",
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "pass": 3
+   },
+   {
+    "quote": "⇒過去実績で年間給与の2.3ヶ月分支給実績あり",
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "pass": 3
+   },
+   {
+    "quote": "経験1年目：380万円～",
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "pass": 3
+   },
+   {
+    "quote": "経験3年目：400万円～",
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "pass": 3
+   },
+   {
+    "quote": "経験5年目：450万円～",
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "pass": 3
+   },
+   {
+    "quote": "フルリモート 【月給30万円~】勤務時間7時間と短め!会計ソフト入力、決算書・税務申告書作成、将来的に決算説明も",
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給21.4万円〜22.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収214.8万円",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【2026年最新】有限会社 松田板金工作所 の 求人 （板金工事 ... — 【2026年最新】有限会社 松田板金工作所 の 求人 （板金工事 ... サクミルジョブ https://job.sakumiru.jp > 職人・現場作業員の求人 > 山口県",
+    "url": "https://job.sakumiru.jp/cw/1026422",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 松田板金工作所 の 求人 情報 - とらばーゆ — 有限会社 松田板金工作所 の 求人 情報 - とらばーゆ とらばーゆ https://toranet.jp > ... > 岩国市/周南市/防府市エリア",
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 松田板金工作所 ｜採用特設ページ — 有限会社 松田板金工作所 ｜採用特設ページ 有限会社 松田板金工作所 https://matsuda-bkk.jp > recruit",
+    "url": "https://matsuda-bkk.jp/recruit/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 松田板金工作所 採用サイト — 有限会社 松田板金工作所 採用サイト イツザイ（it'szai） https://clients.itszai.jp > ...",
+    "url": "https://clients.itszai.jp/4d6a41344d54493d",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 松田板金工作所 | くまげイエローページ - 熊毛町商工会 — 有限会社 松田板金工作所 | くまげイエローページ - 熊毛町商工会 熊毛町商工会 https://kumagechoushokokai.com > yellowpages",
+    "url": "https://kumagechoushokokai.com/yellowpages/?p=147",
+    "pass": 3
+   },
+   {
+    "quote": "松田板金工作所 新卒 高卒 の求人情報をすべて見る （136件） — 松田板金工作所 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 松田板金工作所 ｜ 採用 特設ページ — 有限会社 松田板金工作所 ｜ 採用 特設ページ 有限会社 松田板金工作所 https://matsuda-bkk.jp > recruit",
+    "url": "https://matsuda-bkk.jp/recruit/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 松田板金工作所 採用 サイト — 有限会社 松田板金工作所 採用 サイト イツザイ（it'szai） https://clients.itszai.jp > ...",
+    "url": "https://clients.itszai.jp/4d6a41344d54493d",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用の発信": [
+   {
+    "quote": "【主な仕事内容】 ・商品の入荷、検品 ・商品の仕分け、ピッキング ・商品の出荷準備 ・フォークリフトを使用した荷役作業 ・商品の在庫管理 ・倉庫内の商品整理、保管 ・入出庫に関するデータ入力、管理 ・トラックへの積み込み、荷下ろし ・その他、倉庫運営に関わる業務 入社後は、先輩社員と一緒に仕事をしながら、商品の扱い方や倉庫内のルールなどを一つひとつ覚えていきます",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://matsuda-bkk.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matsuda-bkk.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matsuda-bkk.jp/recruit/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matsuda-bkk.jp/recruit/entry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matsuda-bkk.jp/recruit/guideline.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://matsuda-bkk.jp/image/kasou_top_img.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://matsuda-bkk.jp/image/recruit_top_header.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://matsuda-bkk.jp/image/top_recruit_banner.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://job.sakumiru.jp/cw/1026422",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.sakumiru.jp/cw/1026422",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "松田板金工作所 求人 年収",
+   "results": [
+    "https://job.sakumiru.jp/cw/1026422",
+    "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "https://matsuda-bkk.jp/recruit/index.html",
+    "https://clients.itszai.jp/4d6a41344d54493d",
+    "https://kumagechoushokokai.com/yellowpages/?p=147",
+    "https://jp.indeed.com/viewjob?jk=350837d707fb31cf",
+    "https://xn--pckua2a7gp15o89zb.com/%E5%BB%BA%E7%AF%89%E6%9D%BF%E9%87%91%E3%81%AE%E4%BB%95%E4%BA%8B-%E5%B1%B1%E5%8F%A3%E7%9C%8C%E5%91%A8%E5%8D%97%E5%B8%82",
+    "https://www.e-lifetech.com/dealer/7062/",
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__00001873270/",
+    "https://www.gplace.com/350863"
+   ]
+  },
+  {
+   "query": "松田板金工作所 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E6%9D%BE%E7%94%B0%E6%9D%BF%E9%87%91%E5%B7%A5%E4%BD%9C%E6%89%80+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://job.sakumiru.jp/cw/1026422",
+    "https://matsuda-bkk.jp/recruit/index.html",
+    "https://toranet.jp/viewjob/350837d707fb31cf/",
+    "https://clients.itszai.jp/4d6a41344d54493d",
+    "https://matuda-bankin.com/recruit.html",
+    "https://kumagechoushokokai.com/yellowpages/?p=147",
+    "https://nakaguchi-bankin.co.jp/recruit/",
+    "https://www.matsuda-kk.co.jp/recruit/rookie.html",
+    "https://matsuda-bkk.jp/recruit/guideline.html"
+   ]
+  },
+  {
+   "query": "site:note.com 松田板金工作所",
+   "results": [
+    "https://note.com/company_scope/n/ndc9c26090b17",
+    "https://note.com/happy_hebe580/n/ncc5b60424ba9",
+    "https://note.com/happy_hebe580/n/n42713c069ee8",
+    "https://note.com/machipro_town/n/n6255857efc66",
+    "https://note.com/ego_station/n/n93593a83e14d",
+    "https://note.com/quiet_myrtle840/n/n0951906a4d3f",
+    "https://note.com/zumewigenfrieden/n/nb43cb2b83bed",
+    "https://note.com/clipcorporation/n/n265f7fe4f42f",
+    "https://note.com/vaaader/n/n02b949d549ba",
+    "https://note.com/ideal_lynx1277/n/ne45b5ae813ed"
+   ]
+  },
+  {
+   "query": "site:x.com 松田板金工作所",
+   "results": [
+    "https://x.com/koubano_yome/status/2099303183856369791",
+    "https://x.com/arakichi1969/status/1404634819506577409",
+    "https://x.com/tokyotamacenter",
+    "https://x.com/masters_magazin",
+    "https://x.com/shokoinspect",
+    "https://x.com/fuji762",
+    "https://x.com/silk046",
+    "https://x.com/BloodyMoonGate",
+    "https://note.com/gifted_hare694/n/n76cbda84697d",
+    "https://note.com/diparururun"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 松田板金工作所",
+   "results": [
+    "https://note.com/gifted_hare694/n/n76cbda84697d",
+    "https://note.com/diparururun",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/umaki11/n/nb5d74a2fe0c6",
+    "https://note.com/nagi_cpa_tax/n/n2da5d7bf2698",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/company_scope/n/n5989c5a28692",
+    "https://note.com/d_f",
+    "https://note.com/mobio_osaka/n/n9332dc6a99c7",
+    "https://note.com/kyotonokogei/n/n2ff940d1a545"
+   ]
+  },
+  {
+   "query": "site:facebook.com 松田板金工作所",
+   "results": [
+    "https://www.facebook.com/100077681043759/photos/%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E7%B4%99%E3%81%AB%E3%81%A6%E8%A4%87%E5%86%99%E9%8A%85%E6%9D%BF%E3%81%AB%E3%81%AF%E4%BB%98%E3%81%8D%E3%81%8C%E6%82%AA%E3%81%84%E3%81%A7%E3%81%99%E3%81%8C%E4%BD%95%E5%BA%A6%E3%82%82%E3%82%B4%E3%83%AA%E3%82%B4%E3%83%AA%E3%81%A8/434602393294186/",
+    "https://www.facebook.com/corp.kenchikudouraku/posts/2640742746031818/",
+    "https://www.facebook.com/shunanshakyo/posts/%E3%81%97%E3%82%85%E3%81%86%E3%81%AA%E3%82%93%E7%A4%BE%E5%8D%94%E3%81%A0%E3%82%88%E3%82%8A%EF%BC%93%E6%9C%88%E5%8F%B7%E3%82%92%E7%99%BA%E8%A1%8C%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%9C%E3%81%B2%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E7%A4%BE%E5%8D%94%E3%81%A0%E3%82%88%E3%82%8A-%E5%91%A8%E5%8D%97%E5%B8%82%E7%A4%BE%E4%BC%9A%E7%A6%8F%E7%A5%89%E5%8D%94%E8%AD%B0%E4%BC%9A-%E3%83%9E%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC-%E3%81%B5%E3%81%8F%E3%81%A1%E3%82%83%E3%82%93/887877297581302/",
+    "https://www.facebook.com/MITSUOKAyokohama/videos/m55-with-craftmanshipm55%E3%81%AB%E8%BE%BC%E3%82%81%E3%82%89%E3%82%8C%E3%81%9F%E8%81%B7%E4%BA%BA%E3%81%9F%E3%81%A1%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%A8%E3%81%93%E3%81%A0%E3%82%8F%E3%82%8A%E3%82%92%E3%81%9C%E3%81%B2%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%85%89%E5%B2%A1%E8%87%AA%E5%8B%95%E8%BB%8A-mitsuoka-%E3%83%9F%E3%83%84%E3%82%AA%E3%82%AB-m55/2262332344607761/",
+    "https://www.facebook.com/abits.jp/",
+    "https://www.facebook.com/media/set/?set=a.398477866901691.98162.164998713582942&type=3",
+    "https://www.facebook.com/ipexinc/videos/%EF%B8%8Fi-pex%E3%81%AE-%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6-%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF-%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%BE%E3%81%A7%E2%91%A2-%E7%B5%84%E3%81%BF%E7%AB%8B%E3%81%A6%E6%88%90%E5%BD%A2%E3%81%95%E3%82%8C%E3%81%9F%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E9%83%A8%E5%93%81%E3%81%A8%E3%83%A1%E3%83%83%E3%82%AD%E5%8A%A0%E5%B7%A5%E3%81%95%E3%82%8C%E3%81%9F%E7%AB%AF%E5%AD%90%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%81%8C%E5%AE%8C%E6%88%90%E3%81%97%E3%81%BE%E3%81%99i-pe/703157865805081/",
+    "https://www.facebook.com/ecrupublishing/posts/1095700653855915/",
+    "https://www.facebook.com/groups/flatout852/posts/28849593134650752/",
+    "https://note.com/gifted_hare694/n/n76cbda84697d"
+   ]
+  },
+  {
+   "query": "松田板金工作所 note 社長",
+   "results": [
+    "https://matsuda-bkk.jp/business.html",
+    "https://kumagechoushokokai.com/yellowpages/?p=147",
+    "https://note.com/uedabk_pr",
+    "https://note.com/standage/n/n21c90291d7f4",
+    "https://note.com/uedabk_pr/n/nc5791898f244",
+    "https://matsuda-bkk.jp/company.html",
+    "https://cnavi.g-search.or.jp/detail/2250002016802.html",
+    "https://note.com/synk_kenny/n/n9d975639d62b"
+   ]
+  },
+  {
+   "query": "松田板金工作所 X 投稿",
+   "results": [
+    "https://matsuda-bkk.jp/business.html",
+    "https://www.e-lifetech.com/dealer/7062/",
+    "https://kumagechoushokokai.com/yellowpages/?p=147",
+    "https://www.kensetumap.com/company/491893/profile.php",
+    "https://x.com/kyouhan1960/status/2116420134428701134",
+    "https://www.instagram.com/matsudabkk/",
+    "https://r.goope.jp/matudabankin/about",
+    "https://matsuda-bkk.jp/",
+    "https://kryss.jp/works/web/20240219-325/",
+    "https://note.com/gifted_hare694/n/n76cbda84697d"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部4頁・検索8回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部4頁・検索8回）",
+  "代表者": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部4頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部4頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部4頁・検索8回）"
+ }
+}

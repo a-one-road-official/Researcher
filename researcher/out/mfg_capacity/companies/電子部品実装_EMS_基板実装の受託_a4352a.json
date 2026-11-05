@@ -1,0 +1,2112 @@
+{
+ "name": "電子部品実装（EMS）・基板実装の受託",
+ "en": "EMS PCB assembly Japan statistics",
+ "aliases": [
+  "電子部品実装 受託 市場 推移",
+  "EMS 国内 売上 推移",
+  "基板実装 事業所 従業者"
+ ],
+ "context": "工法・実装",
+ "kind": "market",
+ "researched_at": "2026-11-05T00:51:54.771040+00:00",
+ "evidence": {
+  "人手と仕事の差": [
+   {
+    "quote": "設計は完了しており、実装～製造の工程だけ外注したい",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 3
+   },
+   {
+    "quote": "外注先が多く、管理コストや品質ばらつきに悩んでいる",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 3
+   },
+   {
+    "quote": "設計から製造まで一貫した対応により、ご希望の納期に間に合わせて試作基板を納品させていただきました",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 3
+   },
+   {
+    "quote": "製品企画や発注前に知っておきたい基本用語、製品化や外注を検討するときに出てくる専門用語を、図解と実務ポイントでやさしく解説します",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 3
+   },
+   {
+    "quote": "Q2．納期はどのくらいかかりますか？",
+    "url": "https://www.kuzumi-denshi.co.jp/media/column/a42a",
+    "pass": 3
+   },
+   {
+    "quote": "EMS企業は効率的な生産体制とサプライチェーンを構築しているため、短納期での製造が可能です",
+    "url": "https://www.kuzumi-denshi.co.jp/media/column/a42a",
+    "pass": 3
+   },
+   {
+    "quote": "まずはお客様の製品アイデア、具体的な仕様、数量、納期、予算などについてお問い合わせ・ご相談ください",
+    "url": "https://www.kuzumi-denshi.co.jp/media/column/a42a",
+    "pass": 3
+   },
+   {
+    "quote": "A2．納期は、基板の複雑さ、数量、部品調達の状況などによって大きく異なります",
+    "url": "https://www.kuzumi-denshi.co.jp/media/column/a42a",
+    "pass": 3
+   },
+   {
+    "quote": "お見積りの際に具体的な納期をご提示いたしますので、お気軽にお問い合わせください",
+    "url": "https://www.kuzumi-denshi.co.jp/media/column/a42a",
+    "pass": 3
+   },
+   {
+    "quote": "試作・設計・実装受託の最前線！国内外から多数出展！高品質・短納期・コスト最適化を実現するためのヒントを探せます！",
+    "url": "https://www.nepconjapan.jp/tokyo/ja-jp/visit/feature/04.html",
+    "pass": 3
+   },
+   {
+    "quote": "品質、コスト、納期という、いわゆるQCDのうち何を最も優先するのかを社内で言語化しておくことも欠かせません",
+    "url": "https://money.hb449.com/archives/4322",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの実績や得意とするロットサイズ、繁忙期・閑散期の対応可否まで踏み込んで質問することで、自社の発注パターンとの相性が見えてきます",
+    "url": "https://money.hb449.com/archives/4322",
+    "pass": 3
+   },
+   {
+    "quote": "試作・小ロット・短納期 (2)",
+    "url": "https://money.hb449.com/archives/4322",
+    "pass": 3
+   },
+   {
+    "quote": "基板実装を短納期で依頼する方法と業者の選び方",
+    "url": "https://www.lead-ems.com/knowledge/flow.html",
+    "pass": 3
+   },
+   {
+    "quote": "作りたい製品の概要、課題（コスト・納期・品質など）、数量や予算感を共有します",
+    "url": "https://www.lead-ems.com/knowledge/flow.html",
+    "pass": 3
+   },
+   {
+    "quote": "用途・ターゲット市場・想定ユーザーなどの基本情報に加え、解決したい課題（コスト削減、品質向上、短納期対応など）",
+    "url": "https://www.lead-ems.com/knowledge/flow.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、量産数量の目安や希望納期、予算感があると、EMS側が具体的な検討に進みやすくなります",
+    "url": "https://www.lead-ems.com/knowledge/flow.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、価格だけでなく、品質や納期を考慮して、クライアントのニーズに合った部品をスピーディーに用意したり、予算内で在庫を確保したりすることも求められます",
+    "url": "https://www.lead-ems.com/knowledge/flow.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売計画に基づいた初回ロット数や必要な納期、物流方法など",
+    "url": "https://www.lead-ems.com/knowledge/flow.html",
+    "pass": 3
+   },
+   {
+    "quote": "AW設計～PCB製造一貫受託による短納期対応が可能です",
+    "url": "https://www.oki.com/jp/Advanced-ems/service/others.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、EMS企業の効率的な生産体制を活用することで、納期短縮やリードタイム短縮を実現できます",
+    "url": "https://suns-emp.com/column/500",
+    "pass": 3
+   },
+   {
+    "quote": "基板実装（EMS事業） | 基板 実装なら電子技販｜試作・量産・短納期も対応",
+    "url": "https://www.denshi-gihan.co.jp/ems/",
+    "pass": 3
+   },
+   {
+    "quote": "1608／1005サイズのセラミックコンデンサ・抵抗・リード部品等、在庫部品の活用と短納期対応が可能",
+    "url": "https://www.denshi-gihan.co.jp/ems/",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発においては、単に回路設計を行うだけでなく、どのように電子部品を基板に実装するかが、品質やコスト、納期に直結します",
+    "url": "https://www.ps-t.co.jp/column/pcb-assembly-ems/",
+    "pass": 3
+   },
+   {
+    "quote": "✔ EMS活用と外注先選定のポイントが明確になる",
+    "url": "https://www.ps-t.co.jp/column/pcb-assembly-ems/",
+    "pass": 3
+   },
+   {
+    "quote": "設計段階で実装性まで考慮することで、品質・コスト・納期のすべてを最適化できます",
+    "url": "https://www.ps-t.co.jp/column/pcb-assembly-ems/",
+    "pass": 3
+   },
+   {
+    "quote": "といった短納期対応も可能であり、製品開発スピードの向上に貢献します",
+    "url": "https://www.ps-t.co.jp/column/pcb-assembly-ems/",
+    "pass": 3
+   },
+   {
+    "quote": "技術管理、品質管理、納期管理を完全サポートし高品質をお届けします",
+    "url": "https://mono.ipros.com/cg2/%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "多種多様な実装ニーズに対し短納期でのご提案はもちろん、",
+    "url": "https://mono.ipros.com/cg2/%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "流出不良の撲滅、安定した品質と短納期対応力を有しております",
+    "url": "https://mono.ipros.com/cg2/%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "ケイ・オールのEMSサービスでは、実装会社だからこそ出来る、実装・製造まで視野に入れたEMSでお客様にトータルでの品質・コスト・納期についてお客様へ満足していただける提案をさせていただきます",
+    "url": "https://mono.ipros.com/cg2/%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "○品質・コスト・納期、トータルサポート",
+    "url": "https://mono.ipros.com/cg2/%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "ハヤテの如く対応します！お客様満足のため力を合わせてご希望納期実現に取り組みます",
+    "url": "https://mono.ipros.com/cg2/%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "ケイ・オールではそれぞれの状況に応じて効率的な納期削減をお手伝いします",
+    "url": "https://mono.ipros.com/cg2/%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "いざという時は社員一丸となって希望納期を実現するべく対応します",
+    "url": "https://mono.ipros.com/cg2/%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "低不良率・短納期のプリント基板実装サービス",
+    "url": "https://mono.ipros.com/cg2/%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "低不良率・短納期のプリント基板実装ならお任せください！実装基板の防水・防塵対策に",
+    "url": "https://mono.ipros.com/cg2/%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "様々な分野、製品の試作や実装をおこなってきた経験を活かし、短納期を実現",
+    "url": "https://mono.ipros.com/cg2/%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "体制を構築し、高品質・短納期対応を常として、当社がお客様にとって",
+    "url": "https://mono.ipros.com/cg2/%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "レスポンスが早く短納期・小ロットにも対応する基板実装メーカー！ 1枚～の小規模生産を得意としており、年間348日間24時間稼働",
+    "url": "https://mono.ipros.com/cg2/%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、EMS工場を選ぶ際に「実績があるから」だけを根拠にすると、委託後に技術提案がない・納期がバラつく・コストが下がらないという問題が表面化します",
+    "url": "https://oem-ems-partners.com/column/2864/",
+    "pass": 3
+   },
+   {
+    "quote": "現場では「たった1点の部品欠品で量産ラインが止まった」「複数の外注先の納期がバラバラで最終組立が遅れた」という声が多く聞かれます",
+    "url": "https://oem-ems-partners.com/column/2864/",
+    "pass": 3
+   },
+   {
+    "quote": "基板・筐体・ケーブル・ハーネスとサプライヤーが分散するほど、見積・発注・納期管理の工数は指数関数的に増えます",
+    "url": "https://oem-ems-partners.com/column/2864/",
+    "pass": 3
+   },
+   {
+    "quote": "特に「基板と筐体を別々の会社に発注している」状態は、納期ズレと品質トラブルの温床になりやすいと言えます",
+    "url": "https://oem-ems-partners.com/column/2864/",
+    "pass": 3
+   },
+   {
+    "quote": "調達・製造の内製率——外注依存度はどのくらいか",
+    "url": "https://oem-ems-partners.com/column/2864/",
+    "pass": 3
+   },
+   {
+    "quote": "成形部品・ダイカスト部品・精密機械加工品を自社グループで内製できる工場は、外注依存型の工場と比べてリードタイムを短縮しやすく、品質トレーサビリティも確保しやすい構造にあります",
+    "url": "https://oem-ems-partners.com/column/2864/",
+    "pass": 3
+   },
+   {
+    "quote": "【ポイント】 工程を一社に集約することで、情報の伝達ロスと外注管理コストが同時に解消され、QCDの安定につながります",
+    "url": "https://oem-ems-partners.com/column/2864/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、その実態は「複数の外注先をまとめているだけ」のケースと、「グループ内の自社工場で内製している」ケースでは、リードタイム・品質管理・コスト構造がまったく異なります",
+    "url": "https://oem-ems-partners.com/column/2864/",
+    "pass": 3
+   },
+   {
+    "quote": "複数サプライヤーに分散していた発注・納期管理・品質確認の窓口が一本化されることで、購買・生産技術担当者の管理工数は大幅に削減されます",
+    "url": "https://oem-ems-partners.com/column/2864/",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品の調達難が長期化する中で、筐体や構造部品のリードタイムが安定していることは、最終製品の納期を守るうえで重要な要素です",
+    "url": "https://oem-ems-partners.com/column/2864/",
+    "pass": 3
+   },
+   {
+    "quote": "外注先への発注・回答待ち・輸送の工程が省かれるため、グループ内調達はリードタイムを短縮できます",
+    "url": "https://oem-ems-partners.com/column/2864/",
+    "pass": 3
+   },
+   {
+    "quote": "日東電気グループでは、プラスチック成形部品・FRP部品・ダイカスト鋳造部品・精密機械加工品をグループ内工場から調達しており、外注依存型の体制と比べてリードタイムの安定性が高い構造になっています",
+    "url": "https://oem-ems-partners.com/column/2864/",
+    "pass": 3
+   },
+   {
+    "quote": "：品質問題・納期遅延が発生した際の連絡フローと責任範囲を確認します",
+    "url": "https://oem-ems-partners.com/column/2864/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の開発・購買リソースをコア業務に集中させるためにも、まずは現在の外注構造を見直すところから始めてみてください",
+    "url": "https://oem-ems-partners.com/column/2864/",
+    "pass": 3
+   },
+   {
+    "quote": "肉厚1.5mmの薄肉品や高気密部品を、金型製作から組立まで一貫体制・短納期で対応いたします！",
+    "url": "https://oem-ems-partners.com/column/2864/",
+    "pass": 3
+   },
+   {
+    "quote": "この１冊でセンタレス研削加工について丸わかり！センタレス研削加工における基礎知識から、OEM・EMSパートナーズ.comを運営する日東電気グループが提供してきたセンタレス研削加工の事例などを紹介いたします！真円度0.002以内の高精度センタレス研削を、単品少量・短納期で対応いたします！",
+    "url": "https://oem-ems-partners.com/column/2864/",
+    "pass": 3
+   },
+   {
+    "quote": "多品種少量にも即応できる生産ラインを持ち、急な仕様変更に対しても短納期対応を実現しています",
+    "url": "https://www.allowtex.co.jp/service/ems",
+    "pass": 3
+   },
+   {
+    "quote": "部品不足・納期遅延に、代替調達で備える",
+    "url": "https://el-okamoto.com/",
+    "pass": 3
+   },
+   {
+    "quote": "部品が予定どおりに入荷しないと、量産計画や納期に影響が及びます",
+    "url": "https://el-okamoto.com/",
+    "pass": 3
+   },
+   {
+    "quote": "電子機器の製造委託・外注先として、お客様の仕様に基づく開発・設計受託から、部材調達、基板実装（SMT/PCBA）、組み立て、検査、出荷までを一社で完結し、複数業者への発注・調整の手間とコストを削減します",
+    "url": "https://el-okamoto.com/",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2025年 (12)",
+    "url": "https://www.kuzumi-denshi.co.jp/media/column/a42a",
+    "pass": 3
+   },
+   {
+    "quote": "2024年 (4)",
+    "url": "https://www.kuzumi-denshi.co.jp/media/column/a42a",
+    "pass": 3
+   },
+   {
+    "quote": "© 2018 KATOLEC CORPORATION. All Rights Reserved.",
+    "url": "https://www.katolec.com/EMS/",
+    "pass": 3
+   },
+   {
+    "quote": "このサイトは、2024年12月、2026年5月時点の調査をもとにZenken株式会社が作成・公開しています",
+    "url": "https://www.lead-ems.com/knowledge/flow.html",
+    "pass": 3
+   },
+   {
+    "quote": "年々増加する下面電極部品に対して、当社では全数・全ピン検査による保証で他にはない品質をお届けいたします",
+    "url": "https://www.oki.com/jp/Advanced-ems/service/others.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、従来の洗浄には一般的な代替フロンを使用していましたが、2020年以降の法律規制強化にも対応可能なように、新たな洗浄液の選定と評価（液剤の最適洗浄時間と乾燥時間）を行い、従来の溶剤と同等以上の洗浄性能を確保するとともに、JISや航空宇宙規格をクリアすることも可能です",
+    "url": "https://www.oki.com/jp/Advanced-ems/service/others.html",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright (C) 2023 SUN-S Co.,LTD. All Rights Reserved.",
+    "url": "https://suns-emp.com/column/500",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright(C) 2022 DENSHI-GIHAN CO., LTD. All Rights Reserved.",
+    "url": "https://www.denshi-gihan.co.jp/ems/",
+    "pass": 3
+   },
+   {
+    "quote": "©︎2023 NITTOCORP lnc.",
+    "url": "https://oem-ems-partners.com/column/2864/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年1月にオムロン社より外観検査の取組みが評価され、スマート工場がオムロン社のモデル工場に認定を受けています",
+    "url": "https://www.allowtex.co.jp/service/ems",
+    "pass": 3
+   },
+   {
+    "quote": "ISO9001:2015、ISO14001:2015に準じた管理体制",
+    "url": "https://faith-ltd.co.jp/ems/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、EMS やファウンドリーの実態、増加の要因、その優位性や",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "装工程を持つ製品を中心に増加すること、EMS は今後単なる製造工程に特化した受託だけ",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅰ―２ 日系企業の主要製品の世界および国内生産シェアの推移（95→97→2000 年）",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "近年、EMS を活用する企業は増加し､市場は急成長してきた(図表Ⅱ―2、3)",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "と大幅な減少､純損益は1 億 8600 万ドルの赤字となった（ただし前年同期比でみると売上",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "高では 9．3％増加している）",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "有力 EMS 企業による工場買収が増加すると見られるためである",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "自社製品への特殊投資のリスクが増大し、埋没費用が増加しやすい",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅱ―7 基本設計と量産設計での調整の減少",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅱ―8 3 次元 CAD 使用の増加（菱形：2000 年、四角：1998 年）",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "チップマウンターの仕向け先を見ると、輸出が増加しており､世界各地の工場にチップマ",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅵ―１ 増加する人件費割合（90 年→95 年→97 年）",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "ISO9001:2015",
+    "url": "https://www.nisoul.co.jp/column/ems-pwb-pcb-manufacture/",
+    "pass": 3
+   },
+   {
+    "quote": "2025.07.31",
+    "url": "https://jpcb.jp/news/?m=detail&nwid=346",
+    "pass": 3
+   },
+   {
+    "quote": "BBレシオは1.28に減少",
+    "url": "https://jpcb.jp/news/?m=detail&nwid=346",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額は前年同月比で3.0%増加、前月比で2.4%増加、年累計は前年比0.3%減少",
+    "url": "https://jpcb.jp/news/?m=detail&nwid=346",
+    "pass": 3
+   },
+   {
+    "quote": "受注額は前年同月比で8.9%減少、前月比で17.4%減少、年累計は前年比0.2%増加",
+    "url": "https://jpcb.jp/news/?m=detail&nwid=346",
+    "pass": 3
+   },
+   {
+    "quote": "2019年に電子メールからSNSに移行して、ニュース配信を拡大する",
+    "url": "https://jpcb.jp/news/?m=detail&nwid=346",
+    "pass": 3
+   },
+   {
+    "quote": "J-STDスペシャリスト1名をはじめとするコテ歴10年以上の作業者複数在籍！0201チップ対応の技術で1枚の試作から対応可能です",
+    "url": "https://mono.ipros.com/cg1/%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "をはじめとするリチウムポリマー採用電池は約１年程度でサイクル寿命をむかえ、バッテリー容量が約70％まで落ちますが、こちらの製品は毎日充電したとしても10年以上使用可能です",
+    "url": "https://mono.ipros.com/cg1/%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、労働力人口の減少という日本特有の事情も見逃せません",
+    "url": "https://money.hb449.com/archives/4501",
+    "pass": 3
+   },
+   {
+    "quote": "基板実装業界の生産動向をまとめた調査によると、2026年8月時点の国内EMS・基板実装業界は全国一律の繁忙状態ではないものの、生産数量は前年並みから小幅な増加にとどまる一方、金額ベースではそれ以上の伸びを示しており、AIサーバーやデータセンター、半導体製造装置、産業用ロボット向けの需要を中心に仕事量が上向いています",
+    "url": "https://money.hb449.com/archives/4501",
+    "pass": 3
+   },
+   {
+    "quote": "また、同社の採用サイトによると、2024年3月時点で公表された海外調査会社Manufacturing Market Insiderによる2023年世界EMSプロバイダーランキングにおいて、17位にランクインしたとされています",
+    "url": "https://money.hb449.com/archives/4501",
+    "pass": 3
+   },
+   {
+    "quote": "また、事業規模の関係で、急激な受注増加への対応力には限界がある場合もあるため、将来的な増産計画がある場合は、事前に生産キャパシティの余力について率直に相談しておくことをおすすめします",
+    "url": "https://money.hb449.com/archives/4501",
+    "pass": 3
+   },
+   {
+    "quote": "同社は2019年にパイオニアの製造子会社であった十和田パイオニアの株式を取得するなど、事業買収にも積極的な姿勢を見せてきました",
+    "url": "https://money.hb449.com/archives/4501",
+    "pass": 3
+   },
+   {
+    "quote": "Survey Reportsは、「電子機器製造受託サービス（EMS）市場分析、動向、機会および予測（2025年～2035年）」と題した市場調査レポートを発刊したことを発表しました",
+    "url": "https://www.dreamnews.jp/press/0000352784",
+    "pass": 3
+   },
+   {
+    "quote": "EMS産業は、電子機器需要の増加、急速な製品革新、そしてグローバルな製造柔軟性の向上によって牽引されている",
+    "url": "https://www.dreamnews.jp/press/0000352784",
+    "pass": 3
+   },
+   {
+    "quote": "Surveyreportsの専門家による分析によれば、2025年時点で電子機器製造サービス（EMS）市場の規模は6,496億ドルであった",
+    "url": "https://www.dreamnews.jp/press/0000352784",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間（2025～2035年）における年平均成長率（CAGR）は約6.9%で推移すると見込まれている",
+    "url": "https://www.dreamnews.jp/press/0000352784",
+    "pass": 3
+   },
+   {
+    "quote": "Surveyreportsのアナリストによる定性的な電子機器製造サービス（EMS）市場分析によれば、同市場の規模拡大は、OEMによるアウトソーシングの増加、民生用電子機器およびIoTデバイスの拡大、デバイスの複雑化に伴うOEMの外部委託、さらに民生用電子機器、自動車、IoT／5Gといった最終用途分野の成長によって促進されると考えられている",
+    "url": "https://www.dreamnews.jp/press/0000352784",
+    "pass": 3
+   },
+   {
+    "quote": "EMS（電子機器受託製造サービス）の市場規模は、2025年に6,628億760万米ドルと評価され、2026年から2033年にかけてCAGR 6.1％で拡大すると見込まれています",
+    "url": "https://www.gii.co.jp/report/anvi2073719-electronics-manufacturing-services-market-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "民生用電子機器、自動車、医療、産業機器、通信などの多くの分野において、製品に高度な電子システムが組み込まれるようになり、その結果、生産要件の増加や製造の複雑化が進んでいます",
+    "url": "https://www.gii.co.jp/report/anvi2073719-electronics-manufacturing-services-market-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "EMS（電子機器受託製造サービス）の市場シェア分析 (2025年)",
+    "url": "https://www.gii.co.jp/report/anvi2073719-electronics-manufacturing-services-market-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "M＆Aプラットフォーム市場におけるユーザー数・案件数・成約件数2021〜2025年度（見込値を含む） No.1",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "ミック経済研究所（2025年11月発刊）「国内ビジネスマッチングプラットフォーム市場の現状と展望【2025年版】」",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "公開：2025/11/17",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "公開：2025/10/15",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "公開：2025/09/05",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "更新：2025/09/05",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "公開：2025/08/28",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "更新：2025/08/28",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "公開：2024/09/05",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "更新：2025/06/02",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "公開：2023/09/19",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "更新：2024/04/05",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "公開：2025/05/09",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "公開：2024/10/21",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "公開：2025/01/06",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "公開：2024/07/25",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "出展社数は同時開催展合わせて 約1800社！",
+    "url": "https://www.nepconjapan.jp/tokyo/ja-jp/visit/feature/04.html",
+    "pass": 3
+   },
+   {
+    "quote": "すると、「612」という数字を、そのまま現在のEMS受託企業数として表示するのは適切ではないことが分かりました",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、今回の改訂で一番大きく変えたのは、ページ数でも企業数でもありません",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "「会社数を多く見せるためのデータベース」ではありません",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "現在の「公式確認済みEMS企業数」とは分けています",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "全国389法人の基板実装・EMS企業データを見る",
+    "url": "https://money.hb449.com/archives/4322",
+    "pass": 3
+   },
+   {
+    "quote": "全国389法人｜日本のEMS業界 中期展望白書2027–2030",
+    "url": "https://money.hb449.com/archives/4322",
+    "pass": 3
+   },
+   {
+    "quote": "・【2026年版・全国対応】基板実装会社が使える補助金・融資｜マウンター・AOI・MES・人材育成の完全実務ガイド【PDF＋Excel付】",
+    "url": "https://money.hb449.com/archives/4322",
+    "pass": 3
+   },
+   {
+    "quote": "基板実装会社が新しいマウンターを買う前に出る5つのサイン｜求人・補助金・増床から読む",
+    "url": "https://money.hb449.com/archives/4322",
+    "pass": 3
+   },
+   {
+    "quote": "【基礎・初心者向け】基板実装の基本を知りたい人向け（ (114)",
+    "url": "https://money.hb449.com/archives/4322",
+    "pass": 3
+   },
+   {
+    "quote": "基板実装の転職・求人情報 (16)",
+    "url": "https://money.hb449.com/archives/4322",
+    "pass": 3
+   },
+   {
+    "quote": "「お客様が楽できるモノづくり」を実現する為に、国内最大クラスの実装機98台12ライン、約1000名体制の人員を保有するEMS企業です",
+    "url": "https://www.allowtex.co.jp/service/ems",
+    "pass": 3
+   },
+   {
+    "quote": "すでに従業員の約1 割にあたる 8,000 人をリストラするなど",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "３．人件費割合と営業利益率との関係",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅲ－５ 人件費割合と営業利益率との関係",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "全国389法人の基板実装・EMS企業データを見る",
+    "url": "https://money.hb449.com/archives/3035",
+    "pass": 3
+   },
+   {
+    "quote": "全国389法人｜日本のEMS業界 中期展望白書2027–2030",
+    "url": "https://money.hb449.com/archives/3035",
+    "pass": 3
+   },
+   {
+    "quote": "・【2026年版・全国対応】基板実装会社が使える補助金・融資｜マウンター・AOI・MES・人材育成の完全実務ガイド【PDF＋Excel付】",
+    "url": "https://money.hb449.com/archives/3035",
+    "pass": 3
+   },
+   {
+    "quote": "基板実装会社が新しいマウンターを買う前に出る5つのサイン｜求人・補助金・増床から読む",
+    "url": "https://money.hb449.com/archives/3035",
+    "pass": 3
+   },
+   {
+    "quote": "【基礎・初心者向け】基板実装の基本を知りたい人向け（ (114)",
+    "url": "https://money.hb449.com/archives/3035",
+    "pass": 3
+   },
+   {
+    "quote": "基板実装の転職・求人情報 (16)",
+    "url": "https://money.hb449.com/archives/3035",
+    "pass": 3
+   },
+   {
+    "quote": "公益財団法人２１あおもり産業総合支援センター",
+    "url": "https://mono.ipros.com/cg1/%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "全国389法人の基板実装・EMS企業データを見る",
+    "url": "https://money.hb449.com/archives/4501",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査によると、2026年4月時点で人手不足を感じている企業の割合は正社員で50.6%、非正社員では28.3%となっており、正社員については4月として4年連続で半数を超えたと報告されています",
+    "url": "https://money.hb449.com/archives/4501",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足に対する企業の動向調査(2026年4月)」",
+    "url": "https://money.hb449.com/archives/4501",
+    "pass": 3
+   },
+   {
+    "quote": "全国389法人｜日本のEMS業界 中期展望白書2027–2030",
+    "url": "https://money.hb449.com/archives/4501",
+    "pass": 3
+   },
+   {
+    "quote": "・【2026年版・全国対応】基板実装会社が使える補助金・融資｜マウンター・AOI・MES・人材育成の完全実務ガイド【PDF＋Excel付】",
+    "url": "https://money.hb449.com/archives/4501",
+    "pass": 3
+   },
+   {
+    "quote": "基板実装会社が新しいマウンターを買う前に出る5つのサイン｜求人・補助金・増床から読む",
+    "url": "https://money.hb449.com/archives/4501",
+    "pass": 3
+   },
+   {
+    "quote": "【基礎・初心者向け】基板実装の基本を知りたい人向け（ (114)",
+    "url": "https://money.hb449.com/archives/4501",
+    "pass": 3
+   },
+   {
+    "quote": "基板実装の転職・求人情報 (16)",
+    "url": "https://money.hb449.com/archives/4501",
+    "pass": 3
+   },
+   {
+    "quote": "電動モビリティ、5Gネットワークの拡大、モノのインターネット（IoT）アプリケーション、ウェアラブル機器、人工知能（AI）を活用した製品といった新たな動向が、EMS市場に新たな機会を生み出しています",
+    "url": "https://www.gii.co.jp/report/anvi2073719-electronics-manufacturing-services-market-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "基板実装・EMSを公式情報で確認できた企業：389法人",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "さらに9件を追加調査し、法人重複、工場と法人の混在、関連業種、旧社名、誤URLなども整理しています",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "全国DBは基板実装・EMSを確認した389法人を中心に、関連企業・要確認・除外レコードを区分し、根拠URLも収録しています",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "「612社」という旧集計をそのまま販売する方式から、公式根拠を確認した389法人を本編とする方式へ変更しています",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "メインのEMS確認企業が389法人です",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "全国389法人の基板実装・EMS企業データを見る",
+    "url": "https://money.hb449.com/archives/1653",
+    "pass": 3
+   },
+   {
+    "quote": "全国389法人｜日本のEMS業界 中期展望白書2027–2030",
+    "url": "https://money.hb449.com/archives/1653",
+    "pass": 3
+   },
+   {
+    "quote": "・【2026年版・全国対応】基板実装会社が使える補助金・融資｜マウンター・AOI・MES・人材育成の完全実務ガイド【PDF＋Excel付】",
+    "url": "https://money.hb449.com/archives/1653",
+    "pass": 3
+   },
+   {
+    "quote": "基板実装会社が新しいマウンターを買う前に出る5つのサイン｜求人・補助金・増床から読む",
+    "url": "https://money.hb449.com/archives/1653",
+    "pass": 3
+   },
+   {
+    "quote": "【基礎・初心者向け】基板実装の基本を知りたい人向け（ (114)",
+    "url": "https://money.hb449.com/archives/1653",
+    "pass": 3
+   },
+   {
+    "quote": "基板実装の転職・求人情報 (16)",
+    "url": "https://money.hb449.com/archives/1653",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足・DX・M&Aは受注判断にどう影響する？",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "自社の限られた人員、設備、生産時間を、どの案件へ振り向けるかです",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁も、2026年版中小企業白書で人手不足の深刻化を指摘し、価格転嫁、成長投資、M&A、AI・デジタル化などによって生産性や付加価値を高める必要性を示しています",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足については、単純に採用人数を増やすだけで対応するのが難しくなっています",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "「日本のEMS業界 中期展望白書2027–2030」は、公式情報で基板実装・EMSを確認した389法人を整理し、121ページのPDFと企業データベース、企業・財務・市場分析Excelを収録しています",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "自社の限られた人員と設備を、どの案件へ使うかです",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足、成長投資、事業承継・M&A、AI・デジタル化等を整理",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "法人のお客様へ｜購入前に見積書を発行できます",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "法人のお客様へ｜購入前に見積書を発行できます",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "現在の法人名を確認し、",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "・【PDF48ページ＋Excel】半導体・電子部品の「これから設備を買う工場」47案件｜2026-2028年 設備投資・工場新設データ",
+    "url": "https://money.hb449.com/archives/4322",
+    "pass": 3
+   },
+   {
+    "quote": "なぜAI向けCCLが増えると普通のFR-4が足りなくなるのか｜生産能力配分から読む供給リスク",
+    "url": "https://money.hb449.com/archives/4322",
+    "pass": 3
+   },
+   {
+    "quote": "主要10社・国内19拠点・設備投資",
+    "url": "https://money.hb449.com/archives/4322",
+    "pass": 3
+   },
+   {
+    "quote": "・【PDF48ページ＋Excel】半導体・電子部品の「これから設備を買う工場」47案件｜2026-2028年 設備投資・工場新設データ",
+    "url": "https://money.hb449.com/archives/3035",
+    "pass": 3
+   },
+   {
+    "quote": "なぜAI向けCCLが増えると普通のFR-4が足りなくなるのか｜生産能力配分から読む供給リスク",
+    "url": "https://money.hb449.com/archives/3035",
+    "pass": 3
+   },
+   {
+    "quote": "主要10社・国内19拠点・設備投資",
+    "url": "https://money.hb449.com/archives/3035",
+    "pass": 3
+   },
+   {
+    "quote": "・【PDF48ページ＋Excel】半導体・電子部品の「これから設備を買う工場」47案件｜2026-2028年 設備投資・工場新設データ",
+    "url": "https://money.hb449.com/archives/4501",
+    "pass": 3
+   },
+   {
+    "quote": "なぜAI向けCCLが増えると普通のFR-4が足りなくなるのか｜生産能力配分から読む供給リスク",
+    "url": "https://money.hb449.com/archives/4501",
+    "pass": 3
+   },
+   {
+    "quote": "主要10社・国内19拠点・設備投資",
+    "url": "https://money.hb449.com/archives/4501",
+    "pass": 3
+   },
+   {
+    "quote": "プリント基板製造に要する装置も1ライン数千万から億単位の設備投資が必要となり、部品供給等自動化は進んでいるものの労働集約的な要素が比較的強いことから、量産ものは国内生産は成り立たなくなっているのが現状です",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "・【PDF48ページ＋Excel】半導体・電子部品の「これから設備を買う工場」47案件｜2026-2028年 設備投資・工場新設データ",
+    "url": "https://money.hb449.com/archives/1653",
+    "pass": 3
+   },
+   {
+    "quote": "なぜAI向けCCLが増えると普通のFR-4が足りなくなるのか｜生産能力配分から読む供給リスク",
+    "url": "https://money.hb449.com/archives/1653",
+    "pass": 3
+   },
+   {
+    "quote": "主要10社・国内19拠点・設備投資",
+    "url": "https://money.hb449.com/archives/1653",
+    "pass": 3
+   },
+   {
+    "quote": "SMTライン13本を有する高い生産能力と、約8,000品種の自社調達在庫で多品種に対応可能",
+    "url": "https://www.lead-ems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "理由は、生産能力に限りがあるからです",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "こうした案件であれば、生産能力をかなり消費する可能性があります",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "営業側は買収ニュースだけを見るのではなく、その後の工場配置、設備投資、調達方針、生産移管まで追う必要があります",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "製造業サプライチェーン研究所では、製造業の市場動向を、営業・調達・設備投資の判断まで落とし込んで発信しています",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "新設工場・設備投資・EMS・半導体・データセンターの営業リスト、企業データ、調査レポート、Excel実務ツールを販売",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "企業の統合、工場閉鎖、事業移管、認証変更、設備投資は今後も起きます",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "新設工場・設備投資・EMS・半導体・データセンターの営業リスト、企業データ、調査レポート、Excel実務ツールを販売",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "新設工場・設備投資・EMS・半導体・データセンターの営業リスト、企業データ、調査レポート、Excel実務ツールを販売",
+    "url": "https://note.com/wish11_11/n/n63147c2e764d",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "EMS ・ 受託 製造 特集（前回2026年） — EMS ・ 受託 製造 特集（前回2026年） ネプコン ジャパン https://www.nepconjapan.jp > ホーム > 来場のご案内",
+    "url": "https://www.nepconjapan.jp/tokyo/ja-jp/visit/feature/04.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の EMS 企業一覧｜ 基板実装 ・ 電子 機器 受託 製造会社の探し ... — 日本の EMS 企業一覧｜ 基板実装 ・ 電子 機器 受託 製造会社の探し ... 基板実装.com https://money.hb449.com > archives",
+    "url": "https://money.hb449.com/archives/4322",
+    "pass": 3
+   },
+   {
+    "quote": "業界レポート: SMT 実装 ・ EMS 製造 - バフェット・コード — 業界レポート: SMT 実装 ・ EMS 製造 - バフェット・コード バフェット・コード https://www.buffett-code.com > industry-report-2161002",
+    "url": "https://www.buffett-code.com/articles/industry-report-2161002",
+    "pass": 3
+   },
+   {
+    "quote": "北米 電子 機器 受託 生産( EMS )統計プログラムの6月分調査結果 ... — 北米 電子 機器 受託 生産( EMS )統計プログラムの6月分調査結果 ... 基板の窓口 https://jpcb.jp > ニュース",
+    "url": "https://jpcb.jp/news/?m=detail&nwid=346",
+    "pass": 3
+   },
+   {
+    "quote": "EMS受託製造がわかる！16社から選んだおすすめ3社を紹介 — EMS受託製造の基礎知識から、おすすめの製造会社まで徹底調査。 業界別に16社を比較し、自社に製品を推進させる製造パートナーを見つけられるよう厳選した3社を紹介します。",
+    "url": "https://www.lead-ems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan EMS Industry Annual White Paper 2026 | Data on 612 ... — Apr 27, 2026 · This document is an industry white paper that organizes the corporate distribution of 612 companies, 16 listed EMS-related companies, clusters by 47 prefectures, trends by industry, M&A and business succession, and market forecasts up to 2030 regarding the EMS and board assembly industry in Japan.",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Electronic Manufacturing Services Market (2025-2031 ... — With a strong focus on quality and precision, Japanese EMS companies offer a wide range of services including PCB assembly, box build assembly, testing and inspection, and supply chain management.",
+    "url": "https://www.6wresearch.com/industry-report/japan-electronic-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Electronics Manufacturing Services Market Size, Share ... — Feb 6, 2026 · This wave of restructuring is reallocating mid-volume, high-mix assemblies to qualified EMS vendors, sustaining growth for the Japan electronics manufacturing services market.",
+    "url": "https://www.mordorintelligence.com/industry-reports/japan-electronics-manufacturing-services-market",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "本の電気機械器具産業(資本金 10 億円以上)の財務状況を比較すると以下のようになる",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "は、年間受注額が 40 億円以下の規模では受注しないと言う EMS もあるとされた",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "例えば最大手のソレクトロン社の 2001 年３～５月期は、売上高が前の四半期と比べ26.5％",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "と大幅な減少､純損益は1 億 8600 万ドルの赤字となった（ただし前年同期比でみると売上",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅲ―１ 各製品の国内生産額",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "1970 年代 ﾃｸﾉﾛｼﾞｰ 米国 加工賃獲得",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額は前年同月比で3.0%増加、前月比で2.4%増加、年累計は前年比0.3%減少",
+    "url": "https://jpcb.jp/news/?m=detail&nwid=346",
+    "pass": 3
+   },
+   {
+    "quote": "受注額は前年同月比で8.9%減少、前月比で17.4%減少、年累計は前年比0.2%増加",
+    "url": "https://jpcb.jp/news/?m=detail&nwid=346",
+    "pass": 3
+   },
+   {
+    "quote": "「A社は100万円なのに、B社は150万円",
+    "url": "https://money.hb449.com/archives/3035",
+    "pass": 3
+   },
+   {
+    "quote": "この50万円の差は何なのか？」と疑問を持つのは当然のことです",
+    "url": "https://money.hb449.com/archives/3035",
+    "pass": 3
+   },
+   {
+    "quote": "価格：1万円 ~ 10万円",
+    "url": "https://mono.ipros.com/cg1/%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：10万円 ~ 50万円",
+    "url": "https://mono.ipros.com/cg1/%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "企業データベースのストレイナーが公開している国内EMS関連企業の売上高ランキングによると、1位は加賀電子で売上高6,589億円、2位はシークスで売上高2,895億円、3位はユー・エム・シー・エレクトロニクスで売上高1,127億円、4位はnmsホールディングスで売上高757億円となっています",
+    "url": "https://money.hb449.com/archives/4501",
+    "pass": 3
+   },
+   {
+    "quote": "シークスは公式サイトで自社を国内トップのEMS企業と位置づけており、海外拠点は14カ国に約50拠点、海外売上高比率は約80%に達しているとしています",
+    "url": "https://money.hb449.com/archives/4501",
+    "pass": 3
+   },
+   {
+    "quote": "EMSおよびODM―世界の市場シェアとランキング、2026年～2032年の総売上高および需要予測",
+    "url": "https://www.gii.co.jp/report/anvi2073719-electronics-manufacturing-services-market-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "2,500万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "1億円〜2億円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "3億円〜5億円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "4,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円〜5,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "2億円〜3億円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "2,200万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円〜1億円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "6,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円〜3,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "5億5,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "50億円以上",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "5億円〜10億円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "1億8,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "Q1：試作1枚だけ頼む場合、相場はどれくらいですか？ A1：基板サイズや部品数によりますが、イニシャル費用を含めて「5万円〜15万円」程度がひとつの目安です",
+    "url": "https://money.hb449.com/archives/1653",
+    "pass": 3
+   },
+   {
+    "quote": "では、市場が伸びれば国内の基板実装会社も同じように売上を伸ばせるのでしょうか",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、世界の半導体市場が伸びることと、日本国内のEMS・基板実装会社の売上が同じ割合で伸びることは別です",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "「売上の大きい案件＝良い案件」とは限りません",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "例えば売上金額は大きくても、",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "逆に売上額はそれほど大きくなくても、",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "2027年は売上高だけではなく、",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "売上や粗利だけでなく、ライン時間、技術者の対応時間、検査負荷まで含めて見る",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "この5項目で整理すると、案件を単純な売上順位とは違う形で見ることができます",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "売上上位の顧客や案件を並べ、その横に「工程時間」と「品質・技術対応の負荷」を書いてみてください",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "売上順位とは違う景色が見えてくる可能性があります",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "日本のすべての基板実装会社の売上が同じ割合で伸びる",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "「A社は100万円なのに、B社は150万円",
+    "url": "https://money.hb449.com/archives/3035",
+    "pass": 3
+   },
+   {
+    "quote": "この50万円の差は何なのか？」と疑問を持つのは当然のことです",
+    "url": "https://money.hb449.com/archives/3035",
+    "pass": 3
+   },
+   {
+    "quote": "価格：1万円 ~ 10万円",
+    "url": "https://mono.ipros.com/cg1/%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：10万円 ~ 50万円",
+    "url": "https://mono.ipros.com/cg1/%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "2,500万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "4,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円〜5,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "2,200万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円〜1億円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "6,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円〜3,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "5億5,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "1億8,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "2億5,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円未満",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円〜300万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "300万円〜500万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜750万円",
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "pass": 3
+   },
+   {
+    "quote": "Q1：試作1枚だけ頼む場合、相場はどれくらいですか？ A1：基板サイズや部品数によりますが、イニシャル費用を含めて「5万円〜15万円」程度がひとつの目安です",
+    "url": "https://money.hb449.com/archives/1653",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【2026年市場予測】国内EMS・基板実装業界の再編シナリオと生き残る企... Feb 21, 2026 · 国内のEMS（電子機器受託製造サービス）および基板実装業界は今、歴史的な転換点の真っ只中にあります。 長引く部材調達難や価格競争の波を乗り越えてきた企業であっても、これまでの成功体験が通用しない時代に突入しました。",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "日本EMS業界年次白書2026｜調達・営業・M&Aに使える612社データ／上場... Apr 28, 2026 · 本書は、単なる業界解説ではありません。 国内EMS・基板実装企業612社の分布、上場EMS関連16社の比較、47都道府県別の集積、業種別動向、M&A・事業承継、2030年までの市場予測を整理した、実務用の業界リファレンスです。 この1冊で、以下の用途に使えます。",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "基板実装・EMS企業612社データベース2026｜調達先選定・営業リスト作... Apr 27, 2026 · 製造業の営業・調達担当向けに、「どの会社に・いつ・何を売るか」を公開情報から調査しています。 新設工場・設備投資・EMS・半導体・データセンターの営業リスト、企業データ、調査レポート、Excel実務ツールを販売。 公式サイト https://the-supplier-jp.com/",
+    "url": "https://note.com/wish11_11/n/n63147c2e764d",
+    "pass": 3
+   },
+   {
+    "quote": "電子機器受託製造サービス（EMS）業界の企業別シェア：トップ10社の競... Apr 20, 2026 · 電子機器受託製造サービス（EMS） 電子機器受託製造サービス（EMS）は、設計・部品調達・実装・検査・物流までを一体化する統合型製造インフラとして進化しており、ボックスセミトレーラーのような高密度・高複雑度の製造および輸送連動型サプライ ...",
+    "url": "https://note.com/yhresearch_news/n/nbb4640fdb0cf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "2027年のEMS・基板実装は「市場予測」だけで決めない｜受注ポートフォリオを見直す5つの判断軸｜製造業サプライチェーン研究所",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "2027年のEMS・基板実装は「市場予測」だけで決めない｜受注ポートフォリオを見直す5つの判断軸",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "2027年の国内EMS・基板実装市場は伸びるのか？",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ2027年は「市場規模」より受注構成を見るべきなのか？",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "2027年の受注ポートフォリオで確認したい5項目",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足・DX・M&Aは受注判断にどう影響する？",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "2027年のEMS・基板実装業界を考えるとき、AI、データセンター、車載、ロボットなど、成長しそうな市場はいくつもあります。",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "では、市場が伸びれば国内の基板実装会社も同じように売上を伸ばせるのでしょうか。",
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "pass": 3
+   },
+   {
+    "quote": "日本のEMS業界 中期展望白書2027–2030｜全国389社DB＋121ページPDF＋Excelデータ付属｜製造業サプライチェーン研究所",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "日本のEMS業界 中期展望白書2027–2030｜全国389社DB＋121ページPDF＋Excelデータ付属",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "法人のお客様へ｜購入前に見積書を発行できます",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "社内稟議・購買申請などで見積書が必要な場合は、製造業サプライチェーン研究所の見積発行ページをご利用ください。",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "会社名・担当者名・メールアドレス・対象商品を入力するだけで、PDF形式の見積書をその場で発行できます。",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "https://the-supplier-jp.com/estimate/",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "見積書を発行しただけでは購入にはなりません。",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "社内確認用・購買申請用としてお気軽にご利用ください。",
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "pass": 3
+   },
+   {
+    "quote": "基板実装・EMS企業612社データベース2026｜調達先選定・営業リスト作成に使えるExcel＋CSV｜製造業サプライチェーン研究所",
+    "url": "https://note.com/wish11_11/n/n63147c2e764d",
+    "pass": 3
+   },
+   {
+    "quote": "基板実装・EMS企業612社データベース2026｜調達先選定・営業リスト作成に使えるExcel＋CSV",
+    "url": "https://note.com/wish11_11/n/n63147c2e764d",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の営業・調達担当向けに、「どの会社に・いつ・何を売るか」を公開情報から調査しています。新設工場・設備投資・EMS・半導体・データセンターの営業リスト、企業データ、調査レポート、Excel実務ツールを販売。",
+    "url": "https://note.com/wish11_11/n/n63147c2e764d",
+    "pass": 3
+   },
+   {
+    "quote": "https://the-supplier-jp.com/",
+    "url": "https://note.com/wish11_11/n/n63147c2e764d",
+    "pass": 3
+   },
+   {
+    "quote": "電子機器受託製造サービス（EMS）業界の企業別シェア：トップ10社の競争優位性分析2026｜YHResearch",
+    "url": "https://note.com/yhresearch_news/n/nbb4640fdb0cf",
+    "pass": 3
+   },
+   {
+    "quote": "電子機器受託製造サービス（EMS）業界の企業別シェア：トップ10社の競争優位性分析2026",
+    "url": "https://note.com/yhresearch_news/n/nbb4640fdb0cf",
+    "pass": 3
+   },
+   {
+    "quote": "電子機器受託製造サービス（EMS）は、設計・部品調達・実装・検査・物流までを一体化する統合型製造インフラとして進化しており、ボックスセミトレーラーのような高密度・高複雑度の製造および輸送連動型サプライチェーンにおいて、その戦略的重要性が急速に高まっている。特にEV、通信機器、産業電子分野では短納期・多品種・高信頼性が同時に求められ、EMSは単なる受託製造から「統合型製造ソリューション」へと構造転換している。",
+    "url": "https://note.com/yhresearch_news/n/nbb4640fdb0cf",
+    "pass": 3
+   },
+   {
+    "quote": "図. 電子機器受託製造サービス（EMS）の製品画像",
+    "url": "https://note.com/yhresearch_news/n/nbb4640fdb0cf",
+    "pass": 3
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「",
+    "url": "https://note.com/yhresearch_news/n/nbb4640fdb0cf",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル電子機器受託製造サービス（EMS）のトップ会社の市場シェアおよびランキング 2026",
+    "url": "https://note.com/yhresearch_news/n/nbb4640fdb0cf",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、世界の電子機器受託製造サービス（EMS）市場は2025年に588260百万米ドル規模に達すると予測され、2026年には614420百万米ドルに拡大する見込みです。2032年までに806440百万ドルに達すると予測されており、2026年から2032年までの期間における年平均成長率（CAGR）は4.6%と予想されています。",
+    "url": "https://note.com/yhresearch_news/n/nbb4640fdb0cf",
+    "pass": 3
+   },
+   {
+    "quote": "図. 電子機器受託製造サービス（EMS）世界総市場規模",
+    "url": "https://note.com/yhresearch_news/n/nbb4640fdb0cf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "設計・基板・EMSをつなぐ キョウデンです【公式】 (@kyoden_official)... キョウデンはワンストップソリューションのPCB／EMSメーカーです。 国内外5か所に製造拠点があるキョウデンの40年以上にわたる技術やサービスに関する情報のほか、キョウデンで働く仲間たちの日常をお伝えします。",
+    "url": "https://x.com/kyoden_official",
+    "pass": 3
+   },
+   {
+    "quote": "設計・基板・EMSをつなぐ キョウデンです【公式】 on X: \"8月20日ホテ... 「プリント基板って何？ 」 「EMSって、何をする工場？ 」 そんな疑問に、キョウデンがお答えします⚡️ ものづくりのリアルを知りたい学生のみなさん、ぜひブースへ！",
+    "url": "https://x.com/kyoden_official/status/2089938361616347311",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Fox EMS | LinkedIn Contract Manufacturing: PCB - PCBA - Electronic Components | Fox EMS is the Contract Manufacturer that provides peace of mind via a full turnkey solution. Our team of experienced engineers will...",
+    "url": "https://jp.linkedin.com/company/fox-ems",
+    "pass": 3
+   },
+   {
+    "quote": "Fab、Foundry、Fabless、OSAT、EMS：半導體及電子製造供應鏈一次看懂 ... Fab、Foundry、Fabless、OSAT、EMS：半導體及電子製造供應鏈一次看懂 https://lnkd.in/gKe4-6cK 在電子製造行業中，一般我們提到 Fab (Fabrication facility) 通常用來指稱晶圓代工廠或製造半導體晶片的專業工廠，負責將矽晶圓製成IC晶片。",
+    "url": "https://cn.linkedin.com/posts/researchmfg_fabfoundryfablessosatems半導體及電子製造供應鏈一次看懂-activity-7444535873045504000-v9Cq",
+    "pass": 3
+   },
+   {
+    "quote": "#ems受託製造 #pcbアセンブリ #pcb実装 | KEEP BEST PCBA #EMS受託製造 ＃PCBアセンブリ ＃PCB実装",
+    "url": "https://www.linkedin.com/posts/kfems_ems受託製造-pcbアセンブリ-pcb実装-activity-7133390566981046273-w0ae",
+    "pass": 3
+   },
+   {
+    "quote": "製造業におけるEMSとは何ですか? - LinkedIn 日本 Oct 14, 2025 · 現代のEMSプロバイダーは、基本的な組み立てをはるかに超えた包括的なソリューションを提供しています。 設計およびエンジニアリング支援 – 生産開始前に効率的な製造を実現し、コスト削減と品質向上を実現します。",
+    "url": "https://jp.linkedin.com/pulse/what-does-ems-stand-manufacturing-dynof?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Arijit Mondal - EMS & PCB Assembly Growth Leader ...Rita Chan - Electronics Manufacturing Services (EMS) | PCB ...Julio Macias Spamer - Engineering & Automation Manager ...Remote PCB | LinkedInJapan Pcb Pcba Market Research, Statistics & Forecast - LinkedIn Business Development for EMS solutions including PCB assembly and final box build products, achieving consistent year-over-year revenue growth",
+    "url": "https://in.linkedin.com/in/arijitmondaldelhi",
+    "pass": 3
+   },
+   {
+    "quote": "Rita Chan - Electronics Manufacturing Services (EMS) | PCB ...Julio Macias Spamer - Engineering & Automation Manager ...Remote PCB | LinkedInJapan Pcb Pcba Market Research, Statistics & Forecast - LinkedIn With over 15 years of hands-on experience in the Electronics Manufacturing Services (EMS) industry, I help OEMs, EMS providers, engineering companies, and product developers turn PCB designs... ",
+    "url": "https://cn.linkedin.com/in/008615875526820",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "北斗通信工業株式会社 | Daisen-shi Akita - Facebook基板実装 神奈川県平塚市【古賀電子】 | Hiratsuka-shi KanagawaTKRのものづくりは、世界とつながる。 日本からアメリカ、ベトナム、...JOHNAN株式会社 - ～JOHNAN DMSサイトの「プリント基板実装の海外拠点...OKI 【沖電気工業株式会社】 - 【9月12日“宇宙の日” OKI×宇宙 果てし... しっかりリフレッシュできたので、また大仙市の現場 から丁寧な仕事をお届けしていきます💪 🧑🏻💼ホームページ・お問い合わせはプロフィールからご 覧ください♪👨🏻🔧 北斗通信工業株式会社 / 有限会社ディーアンドエス ____________________________________________ #小岩井農場 #家族でお出かけ #夏の思い出#製造業の日常 #秋田の企業 M",
+    "url": "https://www.facebook.com/hokuto8724/",
+    "pass": 3
+   },
+   {
+    "quote": "基板実装 神奈川県平塚市【古賀電子】 | Hiratsuka-shi KanagawaTKRのものづくりは、世界とつながる。 日本からアメリカ、ベトナム、...JOHNAN株式会社 - ～JOHNAN DMSサイトの「プリント基板実装の海外拠点...OKI 【沖電気工業株式会社】 - 【9月12日“宇宙の日” OKI×宇宙 果てし... Mar 31, 2026 · 初日から多くの皆様にお立ち寄りいただき、誠にあり がとうございます。 プリント基板の実装・改造・改修など、現場でのお困 りごとや技術相談も直接承っております。 ご来場予定の皆様は、ぜひ会場にて弊社ブース【D3 7】へお立ち寄りください。 Oct 30, 2025 · 基板実装・組立・開発——あらゆる拠点が、 “ワンチーム”で動くグローバルEMS企業です。 #TKR #EMS #電子機器製造 #グローバル展開 #基板実装 #製造",
+    "url": "https://www.facebook.com/kogadenshi/",
+    "pass": 3
+   },
+   {
+    "quote": "TKRのものづくりは、世界とつながる。 日本からアメリカ、ベトナム、...JOHNAN株式会社 - ～JOHNAN DMSサイトの「プリント基板実装の海外拠点...OKI 【沖電気工業株式会社】 - 【9月12日“宇宙の日” OKI×宇宙 果てし... Oct 30, 2025 · 基板実装・組立・開発——あらゆる拠点が、 “ワンチーム”で動くグローバルEMS企業です。 #TKR #EMS #電子機器製造 #グローバル展開 #基板実装 #製造業 #ものづくりの力 🚀 TKRのものづくりは、世界とつながる。 日本からアメリカ、ベトナム、マレーシアまで。 Mar 24, 2025 · com/dms/mounting/pcb/overseas/ 同社は、電子部品・電子機器のEMSサービスを提供し 、日本のものづくり品質を基盤とした高品質な製品づ くりで、『Thailand 5S Award 2",
+    "url": "https://www.facebook.com/tkrcojp/videos/-tkrのものづくりは世界とつながる日本からアメリカベトナムマレーシアまで基板実装組立開発あらゆる拠点がワンチームで動くグローバルems企業ですtkr-ems-/1307379017742287/",
+    "pass": 3
+   },
+   {
+    "quote": "JOHNAN株式会社 - ～JOHNAN DMSサイトの「プリント基板実装の海外拠点... Mar 24, 2025 · com/dms/mounting/pcb/overseas/ 同社は、電子部品・電子機器のEMSサービスを提供し 、日本のものづくり品質を基盤とした高品質な製品づ くりで、『Thailand 5S Award 2023』銅賞を受賞しています。 タイでの製造委託（EMS）にご関心のある方は、ぜひ 動画をご覧ください。",
+    "url": "https://www.facebook.com/johnan.corporation/photos/johnan-dmsサイトのプリント基板実装の海外拠点ページにものづくりに関する動画を掲載当社グループ会社であるjohnan-dmsサイトにてjohnanグルー/1193527709445202/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kuzumi-denshi.co.jp/media/column/a42a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nepconjapan.jp/tokyo/ja-jp/visit/feature/04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://money.hb449.com/archives/4322",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katolec.com/EMS/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lead-ems.com/knowledge/flow.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.johnan.com/dms/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oki.com/jp/Advanced-ems/service/others.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suns-emp.com/column/500",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8309/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.denshi-gihan.co.jp/ems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ps-t.co.jp/column/pcb-assembly-ems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/04/2842",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oem-ems-partners.com/column/2864/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.allowtex.co.jp/service/ems",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://faith-ltd.co.jp/ems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://el-okamoto.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nisoul.co.jp/column/ems-pwb-pcb-manufacture/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/articles/industry-report-2161002",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jpcb.jp/news/?m=detail&nwid=346",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://money.hb449.com/archives/3035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/semiconnavi/n/n9fb6238ae950",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://money.hb449.com/archives/4501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/industries/2161002",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000352784",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/anvi2073719-electronics-manufacturing-services-market-by.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aobatec.co.jp/business/ems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tomcom.com/ems/mounting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toshin-et.co.jp/service_product/ems/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aobatec.co.jp/business/simulation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://money.hb449.com/archives/1653",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lead-ems.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kei-all.co.jp/rescue/ems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamaki-ec.co.jp/ems/pcb_assy.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.6wresearch.com/industry-report/japan-electronic-manufacturing-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/japan-electronic-manufacturing-services-market-57561",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/japan-pcb-assembly-market-analysis-trends-rr2ue",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/japan-electronics-manufacturing-services-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/japan-pcb-pcba-market-research-statistics-forecast-fabdc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/wish11_11/n/nd3e6b147f658",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wish11_11/n/n0c1dcca14584",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wish11_11/n/n63147c2e764d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yhresearch_news/n/nbb4640fdb0cf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kyoden_official",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kyoden_official/status/2089938361616347311",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/fox-ems",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/posts/researchmfg_fabfoundryfablessosatems半導體及電子製造供應鏈一次看懂-activity-7444535873045504000-v9Cq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/kfems_ems受託製造-pcbアセンブリ-pcb実装-activity-7133390566981046273-w0ae",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/what-does-ems-stand-manufacturing-dynof?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hokuto8724/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kogadenshi/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tkrcojp/videos/-tkrのものづくりは世界とつながる日本からアメリカベトナムマレーシアまで基板実装組立開発あらゆる拠点がワンチームで動くグローバルems企業ですtkr-ems-/1307379017742287/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/johnan.corporation/photos/johnan-dmsサイトのプリント基板実装の海外拠点ページにものづくりに関する動画を掲載当社グループ会社であるjohnan-dmsサイトにてjohnanグルー/1193527709445202/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/arijitmondaldelhi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/in/008615875526820",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "電子部品実装（EMS）・基板実装の受託",
+   "results": [
+    "https://www.radar.co.jp/services/service-ems/",
+    "https://www.kuzumi-denshi.co.jp/media/column/a42a",
+    "https://www.nepconjapan.jp/tokyo/ja-jp/visit/feature/04.html",
+    "https://money.hb449.com/archives/4322",
+    "https://www.katolec.com/EMS/",
+    "https://www.lead-ems.com/knowledge/flow.html",
+    "https://suns-emp.com/column/500",
+    "https://www.ps-t.co.jp/column/pcb-assembly-ems/",
+    "https://www.johnan.com/dms/product/",
+    "https://www.allowtex.co.jp/service/ems"
+   ]
+  },
+  {
+   "query": "電子部品実装（EMS）・基板実装の受託 推移",
+   "results": [
+    "https://www.radar.co.jp/services/service-ems/",
+    "https://www.johnan.com/dms/product/",
+    "https://www.oki.com/jp/Advanced-ems/service/others.html",
+    "https://suns-emp.com/column/500",
+    "https://www.kuzumi-denshi.co.jp/media/column/a42a",
+    "https://metoree.com/categories/8309/",
+    "https://www.denshi-gihan.co.jp/ems/",
+    "https://www.ps-t.co.jp/column/pcb-assembly-ems/",
+    "https://www.tomcom.com/ems/mounting/",
+    "https://www.allowtex.co.jp/service/ems"
+   ]
+  },
+  {
+   "query": "電子部品実装（EMS）・基板実装の受託 統計 PDF",
+   "results": [
+    "https://www.radar.co.jp/services/service-ems/",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2842",
+    "https://mono.ipros.com/cg2/%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.oki.com/jp/Advanced-ems/service/others.html",
+    "https://suns-emp.com/column/500",
+    "https://www.johnan.com/dms/product/",
+    "https://www.kuzumi-denshi.co.jp/media/column/a42a",
+    "https://oem-ems-partners.com/column/2864/",
+    "https://www.denshi-gihan.co.jp/ems/",
+    "https://www.allowtex.co.jp/service/ems"
+   ]
+  },
+  {
+   "query": "電子部品実装（EMS）・基板実装の受託 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.kuzumi-denshi.co.jp/media/column/a42a",
+    "https://www.johnan.com/dms/product/",
+    "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1",
+    "https://www.nisoul.co.jp/column/ems-pwb-pcb-manufacture/",
+    "https://www.buffett-code.com/articles/industry-report-2161002",
+    "https://jpcb.jp/news/?m=detail&nwid=346",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2842",
+    "https://money.hb449.com/archives/3035",
+    "https://note.com/semiconnavi/n/n9fb6238ae950"
+   ]
+  },
+  {
+   "query": "電子部品実装（EMS）・基板実装の受託 従業者規模別",
+   "results": [
+    "https://www.radar.co.jp/services/service-ems/",
+    "https://oem-ems-partners.com/column/2864/",
+    "https://mono.ipros.com/cg1/%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://suns-emp.com/column/500",
+    "https://www.kuzumi-denshi.co.jp/media/column/a42a",
+    "https://www.johnan.com/dms/product/",
+    "https://www.katolec.com/EMS/",
+    "https://www.oki.com/jp/Advanced-ems/service/others.html",
+    "https://www.denshi-gihan.co.jp/ems/",
+    "https://money.hb449.com/archives/4501"
+   ]
+  },
+  {
+   "query": "電子部品実装（EMS）・基板実装の受託 1人当たり 万円",
+   "results": [
+    "https://mono.ipros.com/cg1/%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.radar.co.jp/services/service-ems/",
+    "https://oem-ems-partners.com/column/2864/",
+    "https://batonz.jp/sell_cases/bk_2500000/bk_2501003/",
+    "https://www.johnan.com/dms/product/",
+    "https://www.aobatec.co.jp/business/ems/",
+    "https://www.kuzumi-denshi.co.jp/media/column/a42a",
+    "https://www.tomcom.com/ems/mounting/",
+    "https://suns-emp.com/column/500",
+    "https://www.toshin-et.co.jp/service_product/ems/index.php"
+   ]
+  },
+  {
+   "query": "電子部品実装（EMS）・基板実装の受託 2015 2025",
+   "results": [
+    "https://www.allowtex.co.jp/service/ems",
+    "https://www.toshin-et.co.jp/service_product/ems/index.php",
+    "https://www.radar.co.jp/services/service-ems/",
+    "https://www.lead-ems.com/",
+    "https://www.kei-all.co.jp/rescue/ems/",
+    "https://el-okamoto.com/",
+    "https://www.yamaki-ec.co.jp/ems/pcb_assy.php"
+   ]
+  },
+  {
+   "query": "EMS PCB assembly Japan statistics Japan statistics",
+   "results": [
+    "https://note.com/wish11_11/n/n0c1dcca14584?hl=en",
+    "https://www.6wresearch.com/industry-report/japan-electronic-manufacturing-services-market",
+    "https://www.marketresearchfuture.com/reports/japan-electronic-manufacturing-services-market-57561",
+    "https://www.linkedin.com/pulse/japan-pcb-assembly-market-analysis-trends-rr2ue",
+    "https://www.mordorintelligence.com/industry-reports/japan-electronics-manufacturing-services-market",
+    "https://www.linkedin.com/pulse/japan-pcb-pcba-market-research-statistics-forecast-fabdc",
+    "https://www.transpireinsight.com/report/japan-printed-circuit-board-assembly-market"
+   ]
+  },
+  {
+   "query": "site:note.com 電子部品実装（EMS）・基板実装の受託",
+   "results": [
+    "https://note.com/wish11_11/n/nd3e6b147f658",
+    "https://note.com/wish11_11/n/n0c1dcca14584",
+    "https://note.com/wish11_11/n/n63147c2e764d",
+    "https://note.com/yhresearch_news/n/nbb4640fdb0cf",
+    "https://note.com/wish11_11/m/m374de128147d",
+    "https://note.com/wish11_11/m/m769415b1aca8",
+    "https://note.com/wish11_11/n/n91118317bf03"
+   ]
+  },
+  {
+   "query": "site:x.com 電子部品実装（EMS）・基板実装の受託",
+   "results": [
+    "https://x.com/kyoden_official",
+    "https://jf.x.com/images/media-preview/2099471075599876239",
+    "https://jf.x.com/images/media-preview/2093409124897763658",
+    "https://x.com/kyoden_official/status/2089938361616347311",
+    "https://x.com/kyoden_official/status/2107983218729496792",
+    "https://x.com/zubo_semicon/status/2095607370139455522",
+    "https://x.com/semi_journal_jp/status/2085472245179420676"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 電子部品実装（EMS）・基板実装の受託",
+   "results": [
+    "https://jp.linkedin.com/company/fox-ems",
+    "https://cn.linkedin.com/posts/researchmfg_fabfoundryfablessosatems半導體及電子製造供應鏈一次看懂-activity-7444535873045504000-v9Cq",
+    "https://www.linkedin.com/posts/kfems_ems受託製造-pcbアセンブリ-pcb実装-activity-7133390566981046273-w0ae",
+    "https://jp.linkedin.com/pulse/what-does-ems-stand-manufacturing-dynof?tl=ja",
+    "https://www.linkedin.com/company/keep-best",
+    "https://www.linkedin.com/pulse/ワンストップemsサービス-shenzhen-kingford-technology",
+    "https://jp.linkedin.com/jobs/view/me695-基板実装工程-smt-の実装プログラム作成及び実装に関する全般の生産技術業務【茨城】（sdv）-at-astemo-ltd-4271002365"
+   ]
+  },
+  {
+   "query": "site:facebook.com 電子部品実装（EMS）・基板実装の受託",
+   "results": [
+    "https://www.facebook.com/hokuto8724/",
+    "https://www.facebook.com/kogadenshi/",
+    "https://www.facebook.com/tkrcojp/videos/-tkrのものづくりは世界とつながる日本からアメリカベトナムマレーシアまで基板実装組立開発あらゆる拠点がワンチームで動くグローバルems企業ですtkr-ems-/1307379017742287/",
+    "https://www.facebook.com/johnan.corporation/photos/johnan-dmsサイトのプリント基板実装の海外拠点ページにものづくりに関する動画を掲載当社グループ会社であるjohnan-dmsサイトにてjohnanグルー/1193527709445202/",
+    "https://www.facebook.com/oki.japan/posts/9月12日宇宙の日-oki宇宙-果てしない夢と技術の融合okiが宇宙分野に携わっていることをみなさんご存知ですかoki-emsでは基幹ロケットや人工衛星で使用さ/534919588929317/",
+    "https://www.facebook.com/p/株式会社イーエルオカモト電子機器製造受託サービス-100064251994187/",
+    "https://www.facebook.com/johnan.corporation/posts/商品設計受託サービスwebページに事例をご紹介このたび当社商品設計受託サービスのwebページに事例紹介を掲載しました当社では経験豊富なエンジニアが電子部品電子機/3038548966432441/"
+   ]
+  },
+  {
+   "query": "電子部品実装（EMS）・基板実装の受託 note 社長",
+   "results": [
+    "https://www.allowtex.co.jp/service/ems",
+    "https://www.radar.co.jp/services/service-ems/",
+    "https://faith-ltd.co.jp/ems/",
+    "https://www.kei-all.co.jp/rescue/ems/",
+    "https://el-okamoto.com/",
+    "https://www.siix.co.jp/business/ems/",
+    "https://www.yamaki-ec.co.jp/ems/pcb_assy.php"
+   ]
+  },
+  {
+   "query": "電子部品実装（EMS）・基板実装の受託 X 投稿",
+   "results": []
+  },
+  {
+   "query": "EMS PCB assembly Japan statistics site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/japan-pcb-assembly-market-trends-forecast-growth-opxhe",
+    "https://www.linkedin.com/pulse/japan-pcb-assembly-market-analysis-trends-rr2ue",
+    "https://in.linkedin.com/in/arijitmondaldelhi",
+    "https://cn.linkedin.com/in/008615875526820",
+    "https://ca.linkedin.com/in/julio-macias-spamer-55754495",
+    "https://in.linkedin.com/company/remote-pcb",
+    "https://www.linkedin.com/pulse/japan-pcb-pcba-market-research-statistics-forecast-fabdc"
+   ]
+  }
+ ],
+ "missing": {}
+}

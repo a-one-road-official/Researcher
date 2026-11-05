@@ -860,15 +860,48 @@
 
 ## Matmatch
 - 公式URL：https://matmatch.com（given）
-- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
-- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
-- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
-- 誰から払われるか：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
-- お金の形：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
-- 規模：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
-- 創業期の始め方：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
-- 集客：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
-- 資金調達・売却：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 株主構成：
+  - 「Ownership & Funding Information」（https://www.azom.com/suppliers.aspx?SupplierID=13425・3回目）
+- 創業年度：
+  - 「Can you tell us a bit about Matmatch, and how the company was founded?」（https://mmta.co.uk/interview-with-the-ceo-of-matmatch/・3回目）
+- 誰から払われるか：
+  - 「This makes our platform mutually beneficial for suppliers and design engineers, as it allows suppliers to reach engineers that are actively searching for products like theirs, while allowing engineers and procurement specialists to enter directly into conversations with suppliers once they find the right material.」（https://mmta.co.uk/interview-with-the-ceo-of-matmatch/・3回目）
+  - 「Since Matmatch was only launched in late 2017, the platform is still developing to better meet the needs of engineers around the world. Our aim is to continue increasing our database of materials and suppliers and complement this with an informative learning area to make Matmatch the one-stop resource for design engineers.」（https://mmta.co.uk/interview-with-the-ceo-of-matmatch/・3回目）
+  - 「Matmatch is the largest free materials database in the world. Founded by a family-owned metals manufacturer and incubated by Boston Consulting Group Digital Ventures, Matmatch is the most comprehensive knowledge base and material sourcing platform for engineers, researchers, and manufacturers.」（https://www.azom.com/suppliers.aspx?SupplierID=13425・3回目）
+  - 「Registered members can chat with Azthena, request quotations, download pdf's, brochures and subscribe to our related」（https://www.azom.com/suppliers.aspx?SupplierID=13425・3回目）
+  - 「Please confirm any data provided with the related suppliers or」（https://www.azom.com/suppliers.aspx?SupplierID=13425・3回目）
+- お金の形：
+  - 「Process Raman supports real-time oil and gas monitoring, from variable feedstocks to fuel quality and hydrogen.」（https://www.azom.com/suppliers.aspx?SupplierID=13425・3回目）
+- 規模：
+  - 「This makes our platform mutually beneficial for suppliers and design engineers, as it allows suppliers to reach engineers that are actively searching for products like theirs, while allowing engineers and procurement specialists to enter directly into conversations with suppliers once they find the right material.」（https://mmta.co.uk/interview-with-the-ceo-of-matmatch/・3回目）
+  - 「Since Matmatch was only launched in late 2017, the platform is still developing to better meet the needs of engineers around the world. Our aim is to continue increasing our database of materials and suppliers and complement this with an informative learning area to make Matmatch the one-stop resource for design engineers.」（https://mmta.co.uk/interview-with-the-ceo-of-matmatch/・3回目）
+  - 「Registered members can chat with Azthena, request quotations, download pdf's, brochures and subscribe to our related」（https://www.azom.com/suppliers.aspx?SupplierID=13425・3回目）
+  - 「Please confirm any data provided with the related suppliers or」（https://www.azom.com/suppliers.aspx?SupplierID=13425・3回目）
+- 創業期の始め方：
+  - 「To start a conversation, please log into your AZoProfile account first, or create a new account.」（https://www.azom.com/suppliers.aspx?SupplierID=13425・3回目）
+- 集客：
+  - 「Matmatch is a free-to-use, independent, online materials search engine that helps engineers and product designers to identify, evaluate and source the right materials for their projects. Our database currently has more than 80,000 materials for engineers to choose from.」（https://mmta.co.uk/interview-with-the-ceo-of-matmatch/・3回目）
+  - 「This makes our platform mutually beneficial for suppliers and design engineers, as it allows suppliers to reach engineers that are actively searching for products like theirs, while allowing engineers and procurement specialists to enter directly into conversations with suppliers once they find the right material.」（https://mmta.co.uk/interview-with-the-ceo-of-matmatch/・3回目）
+  - 「They can also use the application filter to find materials suitable for their needs if they don’t know which properties to search for. The ‘Aerospace engines & propulsion’ filter is just one example here.」（https://mmta.co.uk/interview-with-the-ceo-of-matmatch/・3回目）
+  - 「Why are China and the USA searching for high-quality nickel assets outside Indonesia?」（https://mmta.co.uk/interview-with-the-ceo-of-matmatch/・3回目）
+  - 「Matmatch is the largest free materials database in the world. Founded by a family-owned metals manufacturer and incubated by Boston Consulting Group Digital Ventures, Matmatch is the most comprehensive knowledge base and material sourcing platform for engineers, researchers, and manufacturers.」（https://www.azom.com/suppliers.aspx?SupplierID=13425・3回目）
+  - 「Engineers can also search by mechanical, thermal and chemical properties to discover more materials matching their requirements.」（https://www.azom.com/suppliers.aspx?SupplierID=13425・3回目）
+  - 「Content provided on any AZoNetwork sites are subject to the site」（https://www.azom.com/suppliers.aspx?SupplierID=13425・3回目）
+  - 「While we only use edited and approved content for Azthena」（https://www.azom.com/suppliers.aspx?SupplierID=13425・3回目）
+  - 「authors. We do not provide medical advice, if you search for」（https://www.azom.com/suppliers.aspx?SupplierID=13425・3回目）
+  - 「•Search and material selection」（https://www.hannovermesse.de/apollo/hannover_messe_2021/obs/Binary/A1085991/About%20Matmatch.pdf・3回目）
+- 資金調達・売却：
+  - 「Ownership & Funding Information」（https://www.azom.com/suppliers.aspx?SupplierID=13425・3回目）
+- 検索結果の抜粋：
+  - 「Interview with the CEO of Matmatch - MMTA — Interview with the CEO of Matmatch - MMTA MMTA - Minor Metals Trade Association https://mmta.co.uk > interview-with-t...」（https://mmta.co.uk/interview-with-the-ceo-of-matmatch/・3回目）
+  - 「Matmatch : Quotes, Address, Contact - AZoM — Matmatch : Quotes, Address, Contact - AZoM AZoM https://www.azom.com > suppliers」（https://www.azom.com/suppliers.aspx?SupplierID=13425・3回目）
+  - 「matmatch .com - HANNOVER MESSE — matmatch .com - HANNOVER MESSE HANNOVER MESSE PDF https://www.hannovermesse.de > About Matmatch」（https://www.hannovermesse.de/apollo/hannover_messe_2021/obs/Binary/A1085991/About%20Matmatch.pdf・3回目）
+  - 「MATMATCH - YouTube — MATMATCH - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=iMFQRy2-fMM・3回目）
+  - 「Matmatch | EU-Startups — Matmatch | EU-Startups EU-Startups https://www.eu-startups.com > directory」（https://www.eu-startups.com/directory/matmatch/・3回目）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索13回）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索13回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索13回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索13回）
 
 ## Metalshub
 - 公式URL：https://www.metals-hub.com（given）

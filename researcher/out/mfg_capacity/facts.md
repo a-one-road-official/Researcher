@@ -1,0 +1,1393 @@
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・17品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## 製造業の受託加工全体（加工賃収入額・事業所数・従業者数の時系列）（Japan manufacturing processing fee revenue contract work time series）
+- 文脈：全体・統計
+- 事業所数・社数：
+  - 「(1) 産業中分類別事業所数･････････････････････････････････････････････････1」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(1) 事業所数･････････････････････････････････････････････････････････････9」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「３．調査結果のうち、事業所数、産出事業所数、従業者数については、2025年6月1日現在の」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「（1） 産業中分類別事業所数」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「ア 事業所数を産業中分類別構成比でみると、「金属製品製造業」（2 万9549 事業所、構成」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「第 1 表 産業中分類別事業所数（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「注1：事業所数については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「2：事業所数の調査時点については、6月1日現在である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「第 1 図 産業中分類別事業所数の構成比（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「（1）事業所数 － 事業所数が最も多いのは大阪府 －」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「第 5 表 都道府県別 事業所数、従業者数、製造品出荷額等、付加価値額（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「2：事業所数、従業者数、製造品出荷額等及び付加価値額については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「3：事業所数及び従業者数の調査時点については、2025年6月1日現在である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「事業所数及び出荷金額」の産出率及び「品目別 第6表 産業別出荷における品目別の産出事業」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(1) 「品目別 第5表 品目別出荷における産業細分類別の産出事業所数及び出荷金額」は、生」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+- 社員数・平均社員数：
+  - 「(2) 産業中分類別従業者数･････････････････････････････････････････････････3」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(4) 産業中分類別付加価値額（従業者 29 人以下は粗付加価値額）･･････････････7」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(2) 従業者数･････････････････････････････････････････････････････････････9」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(4) 付加価値額（従業者 29 人以下は粗付加価値額）･･････････････････････････9」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「３．調査結果のうち、事業所数、産出事業所数、従業者数については、2025年6月1日現在の」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(1) 製造業事業所調査は、個人経営を除く全ての事業所を集計しているが、工業統計につ」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「いては、国に属する事業所以外の従業者4人以上の全ての事業所を調査対象として集計」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「注1：事業所数については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「（2） 産業中分類別従業者数」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「ア 従業者数を産業中分類別構成比でみると、 「食料品製造業」 （111万7773 人、 構成比14.7」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「％）が最も高く、次いで「輸送用機械器具製造業」（105万 5683 人、同13.9％）、「生産」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「用機械器具製造業」（63 万 9002 人、同 8.4％）、「金属製品製造業」（59 万 2653 人、」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「同 7.8％）、「電気機械器具製造業」（49万5568 人、同6.5％）の順となっている（第2」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「第 2 表 産業中分類別従業者数（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「注1：従業者数については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+- 受注金額・加工賃収入：
+  - 「(3) 産業中分類別製造品出荷額等･･･････････････････････････････････････････5」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(3) 製造品出荷額等･･･････････････････････････････････････････････････････9」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「造品出荷額等）総額の9割を達成する範囲に含まれる事業所を調査対象とし、その報告を」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「数値、製造品出荷額等、品目別出荷金額、付加価値額については、2024年1年間の数値で」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「４．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消費」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「じくする品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(2) 製造業事業所調査における「在庫額」については、「統計調査における売上高等の集」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「（3） 産業中分類別製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「ア 製造品出荷額等を産業中分類別構成比でみると、「輸送用機械器具製造業」（82 兆 1536」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「億円、構成比21.5％）が最も高く、次いで「食料品製造業」（35兆 107 億円、同9.2％）、」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「「化学工業」（34 兆3856億円、同9.0％）、「生産用機械器具製造業」（25 兆2999 億円、」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「同 6.6％）、「鉄鋼業」（22 兆8285 億円、同6.0％）の順となっている（第3表、第3 図）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「第 3 表 産業中分類別製造品出荷額等（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「注1：製造品出荷額等については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「（５）製造品出荷額等生産額及び付加価値額」（https://www.city.aizuwakamatsu.fukushima.jp/docs/2007080901348/file_contents/24-2.pdf）
+- 1人あたり・1社あたり金額：
+  - 「(4) 産業中分類別付加価値額（従業者 29 人以下は粗付加価値額）･･････････････7」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(4) 付加価値額（従業者 29 人以下は粗付加価値額）･･････････････････････････9」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「数値、製造品出荷額等、品目別出荷金額、付加価値額については、2024年1年間の数値で」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「（4） 産業中分類別付加価値額（従業者 29 人以下は粗付加価値額）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「ア 付加価値額を産業中分類別構成比でみると、「輸送用機械器具製造業」（22 兆 4152 億」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「第 4 表 産業中分類別付加価値額（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「注1：付加価値額について、従業者29人以下の事業所は、粗付加価値額である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「2：付加価値額については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「3：付加価値額の調査期間については、2023年及び2024年におけるそれぞれ1年間の数値である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「第 4 図 産業中分類別付加価値額の構成比（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「注1：付加価値額について、従業者 29 人以下の事業所は、粗付加価値額である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「（4）付加価値額（従業者29 人以下は粗付加価値額） － 付加価値額が最も多いのは愛知県 －」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「第 5 表 都道府県別 事業所数、従業者数、製造品出荷額等、付加価値額（全事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「2：事業所数、従業者数、製造品出荷額等及び付加価値額については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「4：製造品出荷額等及び付加価値額の調査期間については、2024年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+- 生産能力・設備：
+  - 「５．有形固定資産額（従業者30人以上の事業所）」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(1) 有形固定資産額の取得額等には、次の区分がある」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(3) 有形固定資産の除却・売却による減少額」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(5) 有形固定資産額の算式は以下のとおり」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「第７表 産業中分類別有形固定資産の取得額及び減価償却額等 ……………………………………………………………………………………………………………………………………… 27」（https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf）
+  - 「第８表 規模別有形固定資産の取得額及び減価償却額等 ……………………………………………………………………………………………………………………………………… 27」（https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf）
+  - 「６ 有形固定資産投資総額」（https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf）
+  - 「有形固定資産投資総額は、従業者30人以上の事業所が調査対象となります」（https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf）
+  - 「有形固定資産投資総額は、前年より81億2332万円減少（対前年増減率43.9％減）し、」（https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf）
+  - 「その内訳をみますと有形固定資産取得額 は89億5329万円で、そのうち「建物構築」（https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf）
+  - 「表６ 有形固定資産投資総額の推移 （従業者30人以上の事業所）」（https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf）
+  - 「注） 平成27年調査において、有形固定資産投資総額については、個人経営調査票に」（https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf）
+  - 「第8表 規模別有形固定資産の取得額及び減価償却額等 （従業者30人以上の事業所）」（https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf）
+  - 「第7表 産業中分類別有形固定資産の取得額及び減価償却額等 （従業者30人以上の事業所）」（https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf）
+  - 「12 設備投資の有無及び取得額」（https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf）
+- 10年推移：
+  - 「2025 年経済構造実態調査二次集計結果」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「１．「2025年経済構造実態調査製造業事業所調査」（以下「製造業事業所調査」という」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「３．調査結果のうち、事業所数、産出事業所数、従業者数については、2025年6月1日現在の」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「数値、製造品出荷額等、品目別出荷金額、付加価値額については、2024年1年間の数値で」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「10．2025年経済構造実態調査 製造業事業所調査（2024年実績）については令和6年経済セン」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「一方、本資料の過去時系列のうち 2024年経済構造実態調査 製造業事業所調査（以下」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「「2023年実績」という」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「）については、2025年8月に公表した数値であり2023年実績にお」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「【参考値】2024年経済構造実態調査 製造業事業所調査として今回、同時に公表した」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「3：2024年の数値は、2024年経済構造実態調査において既に掲載されている過去の時系列表との関係から、推計値となっ」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「ている非調査対象の事業所について、2025 年8 月に公表した数値で記載している」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「2024年 2025年」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「3：2024年の数値は、2024年経済構造実態調査において既に掲載されている過去の時系列表との関係から、」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「推計値となっている非調査対象の事業所について、2025年8月に公表した数値で記載している」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「2：製造品出荷額等の調査期間については、2023年及び2024年におけるそれぞれ1年間の数値である」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+- 人手と仕事の差：
+  - 「⑦ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「(5) 製造等に関連する外注費」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「ソフトウェアの開発など、事業所収入に直接関連する外注費用をいい、派遣、委託生産費など」（https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf）
+  - 「料使用額、電力使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額であ」（https://www.city.aizuwakamatsu.fukushima.jp/docs/2007080901348/file_contents/24-2.pdf）
+  - 「⑤ 製造品に関連する外注費とは、生産設備の補修・点検・修理、機械・装置の操作、製品に」（https://www.city.aizuwakamatsu.fukushima.jp/docs/2007080901348/file_contents/24-2.pdf）
+  - 「組みこまれるソフトウェアの開発など、事業所収入に直接関連する外注費用をいう」（https://www.city.aizuwakamatsu.fukushima.jp/docs/2007080901348/file_contents/24-2.pdf）
+  - 「費」 、 「製造等に関連する外注費」及び「転売した商品の仕入額」の合計である」（https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf）
+  - 「なお、 「製造等に関連する外注費」 、 「転売した商品の仕入額」 は、 製造業の実態を的確」（https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf）
+  - 「原材料使用額＋燃料使用額＋電力使用額＋委託生産費＋製造等に関連する外注費＋転」（https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H28kougyou.pdf）
+  - 「製造等に関連する外注費及び転売した商品の仕入額の 合計であり、消費税額を含」（https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf）
+  - 「総 額 原材料使用額 委託生産費燃料使用額 電力使用額 製造等外注費総 額」（https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf）
+  - 「⑨ 外注費 0,000」（https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf）
+  - 「18 原材料、 燃料、 電力の使用額、 委託生産費、 製造等に関連する外注費及び」（https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf）
+  - 「製造等に関連する外注費 （派遣、 委託生産費など」（https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf）
+  - 「費＋ 製造等に関連する外注費 ＋ 転売した商品の仕入額」（https://www.city.osaka.lg.jp/toshikeikaku/cmsfiles/contents/0000496/496755/H30_kougyou_gaikyou.pdf）
+
+## 受託加工の従業者規模別（4〜9人・10〜29人・30〜99人・100〜299人・300人以上）の1事業所当たり・1人当たり金額（contract manufacturing per employee value by establishment size Japan）
+- 文脈：全体・規模別
+- 事業所数・社数：
+  - 「２．事業所数・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 10」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「第４表 従業者規模別統計表・・・・・・・・・・・・・・・・・・・・・・・・・ 44」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(1) 事業所数 (平成29年6月1日現在) (1) 事業所数 (平成29年6月1日現在) (1) 事業所数 (平成29年6月1日現在) (1) 事業所数 (平成29年6月1日現在)」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(6) 平成28年経済 セ ン サ ス -活動 調査においては、「事業所数」、「従業者数」については、」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(2) 本報告 書 における主 要 4指標とは、「事業所数」、「従業者数」、「製造品出荷額等」及び」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(1)事業所数は1,923事業所で、 前回と比べて7.4％減少 (△154事業所)しました」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「主要4指標の過去10年間の推移をみると、事業所数と製造品出荷額等は、減少傾向にあります」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(1)事業所数の全国シェアは1.0%、全国順位は32位となっています」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「事業所数 32位、従業者数 36位、製造品出荷額等 37位、付加価値額 39位」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「２ 事業所数」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「平成29年の従業者4人以上の事業所数は1,923事業所です」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(2) 従業者規模別の状況」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「従業者規模別事業所数の構成比をみると、4～9人規模39.7％(764事業所)が最も多く約4割を」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「占め、次いで10～19人規模25.5％(491事業所)、30～99人規模15.9％(306事業所)の順 となって」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「＊事業所数は 1,923事業所で、前回と比べて 154事業所減少」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+- 社員数・平均社員数：
+  - 「Ⅰ 調査結果の概要（従業者４人以上の事業所）」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「３．従業者数・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 11」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「８．年末在庫額及び有形固定資産投資総額（従業者３０人以上の事業所）・・・・・・ 18」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「Ⅱ 統計表（従業者４人以上の事業所）」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「第３表 産業中分類別統計表（従業者３０人以上の事業所）・・・・・・・・・・・・ 34」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「第８表 市町村別統計表（従業者３０人以上の事業所）・・・・・・・・・・・・・・ 105」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「工業統計調査は、従業者30人以上の事業所（製造、加工又は修理を行っていない本社又は本店を」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「除く）については「工業調査票甲」、従業者29人以下の事業所（製造、加工又は修理を行っていな」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(5) 常用労働者毎月末現在数の合計（工業調査票甲）…………………… 廃止」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(1) 従業者数 ……………………………「統計調査における労働者の区分等に関するガイドライン」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理項目に」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(2) 従業者数 (平成29年6月1日現在) (2) 従業者数 (平成29年6月1日現在) (2) 従業者数 (平成29年6月1日現在) (2) 従業者数 (平成29年6月1日現在)」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「― 従業者４人以上の事業所に関する表 ―」（https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf）
+  - 「第１ 表 産業中分類 別事業所数・従業者数 および 製造品出荷額等の推移 ・・・・ 9」（https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf）
+  - 「第３ 表 平成２５ 年産業中分類別 １事業所当たり従業者数・製造品出荷額 等および」（https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf）
+- 受注金額・加工賃収入：
+  - 「６．製造品出荷額等・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 14」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(2) 出荷額等に係る消費税の取扱い… 従前の「税込に統一した記入」による報告を「原則税込み」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理項目に」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「品目の製造品出荷額等を そ れ ぞ れ合計し、 そ の額の 最 も 大 きいもので2桁番号を決定します」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(5) 製造品出荷額等 (平成28年1年間) (5) 製造品出荷額等 (平成28年1年間) (5) 製造品出荷額等 (平成28年1年間) (5) 製造品出荷額等 (平成28年1年間)」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「製造品出荷額等は、平成28年1年間における製造品出荷額、加工 賃収 入額及び そ の 他収 入額の」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(10) 生産額（従業者30人以上の事業所） (10) 生産額（従業者30人以上の事業所） (10) 生産額（従業者30人以上の事業所） (10) 生産額（従業者30人以上の事業所）」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(4) 平成19年調査から、製造以 外 の 活動 を 把握 する目的で、製造品出荷額等に「 そ の 他収 入」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(2) 本報告 書 における主 要 4指標とは、「事業所数」、「従業者数」、「製造品出荷額等」及び」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(3)製造品出荷額等は1兆8,193億円で、前回と比べて4.1％減少(△776億円)しました」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(4)付加価値額は6,526億円で、前回と比べて1.5％増加(97億円)しました」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「主要4指標の過去10年間の推移をみると、事業所数と製造品出荷額等は、減少傾向にあります」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「第１ 表 産業中分類 別事業所数・従業者数 および 製造品出荷額等の推移 ・・・・ 9」（https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf）
+  - 「製造品出荷額等ほか ・・・・・・・・・・・・・・・・・・・・・・・ 11」（https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf）
+  - 「第３ 表 平成２５ 年産業中分類別 １事業所当たり従業者数・製造品出荷額 等および」（https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf）
+- 1人あたり・1社あたり金額：
+  - 「７．付加価値額・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 16」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(11) 付加価値額・粗付加価値額 (平成28年1年間) (11) 付加価値額・粗付加価値額 (平成28年1年間) (11) 付加価値額・粗付加価値額 (平成28年1年間) (11) 付加価値額・粗付加価値額 (平成28年1年間)」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(4)付加価値額は6,526億円で、前回と比べて1.5％増加(97億円)しました」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「付加価値額は、平成20年・21年と減少した後、平成22年に一旦増加し、以降は緩やかな」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「製 造 品 出 荷 額 等 181,932,379 万 円 189,688,132 万円 △ 7 , 7 5 5 , 7 5 3 万 円 △ 4 . 1 ％」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「付 加 価 値 額 65,259,765 万 円 64,292,589 万円 9 6 7 , 1 7 6 万 円 1 . 5 ％」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(4)付加価値額の全国シェアは0.7%、全国順位は39位となっています」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「事業所数 32位、従業者数 36位、製造品出荷額等 37位、付加価値額 39位」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「＊ 1事業所当たり従業者数は 32人」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「第8図 産業中分類別の 1事業所当たり従業者数 （従業者 4人以上の事業所）（人）」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「従業者1人当たり現金給与総額は全産業平均で402万円です」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「品・デバイス・電子回路製造業(617万円)が最も多く、次いで業務用機械器具製造業(572万」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「円)、輸送用機械器具製造業(544万円)の順となっています」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「＊従業者１人当たり現金給与総額は 402万円」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「回路製造業 (617万円 )、業務用機械器具製造業 (572万円 )、輸送用機械器具製造業」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+- 生産能力・設備：
+  - 「８．年末在庫額及び有形固定資産投資総額（従業者３０人以上の事業所）・・・・・・ 18」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所）」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「８ 年末在庫額及び有形固定資産投資総額 （従業者30人以上の事業所）」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(2) 有形固定資産投資総額」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「平成28年の従業者30人以上の事業所についての有形固定資産投資総額は476億円で、前回と比」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「＊有形固定資産投資総額は、 476億円で、前 回と比べて 7.9％増加」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「＊有形固定資産投資総額では、化学工業 (89億円 )が多い」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「第４表 産業中分類別有形固定資産投資総額」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「第２表 有形固定資産投資総額の推移」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「有形固定資産投資総額 の推移 ・・・・・・・・・・・・・・・・・・・ 16」（https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf）
+  - 「（４）有形固定資産年末現在高＝年初現在高＋取得額－除却額－減価償却額」（https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf）
+  - 「（９）有形固定資産投資総額＝有形固定資産の取得額＋建設仮勘定の年間増減」（https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf）
+  - 「８．年末在庫額及び有形固定資産投資総額（従業者３０人以上の事業所）・・・・・・ 18」（https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf）
+  - 「(7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所）」（https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf）
+  - 「８ 年末在庫額及び有形固定資産投資総額 （従業者30人以上の事業所）」（https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf）
+- 10年推移：
+  - 「(1)事業所数は1,923事業所で、 前回と比べて7.4％減少 (△154事業所)しました」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(2)従業者数は62,251人で、前回と比べて1.1％増加(696人)しました」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(3)製造品出荷額等は1兆8,193億円で、前回と比べて4.1％減少(△776億円)しました」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(4)付加価値額は6,526億円で、前回と比べて1.5％増加(97億円)しました」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「主要4指標の過去10年間の推移をみると、事業所数と製造品出荷額等は、減少傾向にあります」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「従業者数は、平成20年から減少傾向が続いていましたが、平成29年では過去10年で初めて増加し」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「付加価値額は、平成20年・21年と減少した後、平成22年に一旦増加し、以降は緩やかな」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「減少傾向にありましたが、平成28年では増加しました」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「従業者数、付加価値額は増加」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「事業所数、製造品出荷額等は減少」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「第1図 主要 4指標の過去 10年の推移」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「前回と比べると、県全体で7.4％減少(△154事業所)となりました」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「減少率については、家具・装備品製造業(△18.2％、」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「＊事業所数は 1,923事業所で、前回と比べて 154事業所減少」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「前回と比べると、県全体で1.1％増加(696人)しました」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+- 人手と仕事の差：
+  - 「費、製造等に関 連 する 外注 費及び 転売 した商品の 仕 入額の合計で、消費税額を 含んだ 額です」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「⑤ 製造等に関 連 する 外注 費とは、 生 産設 備 の保 守 ・ 点検 ・修理、 機械 ・ 装 置の 操作 、製品に 組」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「み込まれる ソフトウェア の 開 発など、事業所 収 入に直 接 関 連 する 外注 費用をいい、派遣受入」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「者に係わる支払額、 委託生 産額などの 外注 費は 含 みませ ん」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「額」、原 材料使 用額等に「製造等に関 連 する 外注 費」、「 転売 した商品の 仕 入額」を調査」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「製造等に関連する外注費および転売した商品の仕入額であり，消費税額を含んだ額で」（https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf）
+  - 「99 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額 （年間） （消費税額を含む」（https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf）
+  - 「注費 （派遣、委託生産費などの外注費は除く）」（https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf）
+  - 「製造等に関連する外注費は、生産設備の保守・点検、機械の操作、梱包などを外注した際の費用を」（https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf）
+  - 「いい、派遣、（２）の委託生産費などの外注費を除いたものです」（https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf）
+  - 「８ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び」（https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf）
+  - 「委託生産費(外注加工費) 製造等に関連する外注費 転売した商品の仕入額」（https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf）
+  - 「委託生産費（外注加工費）の比率では、最も高いのは皮革で42.4％、最も低いのは」（https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf）
+  - 「⑤ 製造等に 関連 する 外注費 とは、 生 産 設備 の 保守 ・ 点検 ・修理、 機械 ・ 装 置の 操作 、製品に 組」（https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf）
+  - 「み 込 まれる ソ フトウ ェ アの 開発 など、事業所 収 入に直 接関連 する 外注費 用をいい、派遣受入」（https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf）
+
+## 金属切削・機械加工（部品加工）の受託（machining job shop Japan statistics employees revenue）
+- 文脈：工法・切削
+- 事業所数・社数：
+  - 「これらの分類の事業所数や製品出荷額等、付加価値額（従業者29人以下は粗付加価値額）を見ていきます」（https://inouemasashi.com/economic-indicator/keikidoukou2020012/）
+  - 「2015年の事業所数だけは集計方法が違うみたいなので、その点は考慮が必要です」（https://inouemasashi.com/economic-indicator/keikidoukou2020012/）
+  - 「2018年/2014年対比で事業所数は94.8%、製品出荷額が118.7%でした」（https://inouemasashi.com/economic-indicator/keikidoukou2020012/）
+  - 「4名以上の事業所では事業所数が減少トレンドにあります」（https://inouemasashi.com/economic-indicator/keikidoukou2020012/）
+  - 「30名以上の事業所の方が事業所数も伸び、製品出荷額等も伸長しています」（https://inouemasashi.com/economic-indicator/keikidoukou2020012/）
+  - 「4名〜30名未満の事業所では、事業所数が減っている中、製品出荷額は横ばい」（https://inouemasashi.com/economic-indicator/keikidoukou2020012/）
+  - 「事業所数は約75％が4名〜30名未満で、製品出荷額等は約8％以下」（https://inouemasashi.com/economic-indicator/keikidoukou2020012/）
+  - 「４名以上の事業所数全体では減少傾向で、30名以上規模に成長している企業もあり30名以上の事業所数は増えていますが、」（https://inouemasashi.com/economic-indicator/keikidoukou2020012/）
+  - 「4名〜30名未満の事業所数は大きく減少しています」（https://inouemasashi.com/economic-indicator/keikidoukou2020012/）
+  - 「経済産業省の「2022年経済構造実態調査（二次集計結果）」によると、金属製品製造業の製造品出荷額は約16兆9,199億円、事業所数は3万589か所で製造業全体のなかで最多となっており、従業員数は約60万8,000人に上ります」（https://batonz.jp/learn/expert_articles/7444）
+- 社員数・平均社員数：
+  - 「「MAKINO V33i」で切削し、磨き職人の「手」によって光の具合を検証！」（https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「「MAKINO V33i」で切削し、磨き職人の「手」によって光の具合を検証」（https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「【東京都／精密金属加工／航空宇宙・医療】高い加工技術を持つ会社、４０代従業員数名」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「国勢調査とは、日本に住んでいるすべての人および世帯を対象とする国の最も重要な統計調査で、国内の人口や世帯の実態を明らかにするため、5年ごとに行われています」（https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/）
+  - 「「10 就業上の地位(8区分), 職業(小分類), 男女別15歳以上就業者数 – 全国」の中に、「49d 金属工作機械作業従事者」という選択肢があり、こちらが生産工程で金属工作機械を使用する人」（https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/）
+  - 「平成27年（2015年）の人数が下記となります」（https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/）
+  - 「58,890,810人」（https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/）
+  - 「7,679,870人」（https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/）
+  - 「1,149,350人」（https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/）
+  - 「161,930人」（https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/）
+  - 「生産工程で金属工作機械を使用するオペレーターが約16万人」（https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/）
+  - 「「49d 金属工作機械作業従事者」約16万人から、マシニングセンタもしくはNC旋盤を使用するオペレーター数を推定するために、経済産業省 生産動態統計を利用しました」（https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/）
+  - 「「49d 金属工作機械作業従事者」約16万人のうち、67%がマシニングセンタもしくはNC旋盤を使用していると仮定して推定すると108,493人」（https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/）
+  - 「NC工作機械（マシニングセンタもしくはNC旋盤）で金属を切削加工しているオペレーターは約10万人」（https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/）
+  - 「マシニングセンタを使用するオペレーターが72,869人、NC旋盤を使用するオペレーターが35,624人」（https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/）
+- 受注金額・加工賃収入：
+  - 「6,000万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「1億円〜2億円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「2億円〜3億円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「3億円〜5億円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「8,000万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「9,000万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「5億円〜10億円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「2,300万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「3,000万円〜5,000万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「6,500万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「1,000万円〜3,000万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「5,000万円〜1億円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「1,100万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「3,000万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「4,000万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+- 1人あたり・1社あたり金額：
+  - 「6,000万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「8,000万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「9,000万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「2,300万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「3,000万円〜5,000万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「6,500万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「1,000万円〜3,000万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「5,000万円〜1億円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「1,100万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「3,000万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「4,000万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「5,000万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「2億5,000万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「5億5,000万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+  - 「9,400万円」（https://batonz.jp/sell_cases/bk_2400000/bk_2401002/）
+- 生産能力・設備：
+  - 「金属加工・機械部品業界のM&Aは、経営者の高齢化と後継者不在、脱炭素・DX対応のための設備投資負担、買い手側の旺盛な技術・人材獲得ニーズといった複数の要因が重なり、2025年以降いっそう活発化しています」（https://batonz.jp/learn/expert_articles/7444）
+- 10年推移：
+  - 「2025.09.08」（https://yoshida-seiko.jp/news/890/）
+  - 「ISO9001:2015 / ISO14001 取得企業」（https://yoshida-seiko.jp/news/890/）
+  - 「2025年11月」（https://yoshida-seiko.jp/news/890/）
+  - 「2025年10月」（https://yoshida-seiko.jp/news/890/）
+  - 「2025年9月」（https://yoshida-seiko.jp/news/890/）
+  - 「2025年7月」（https://yoshida-seiko.jp/news/890/）
+  - 「2025年2月」（https://yoshida-seiko.jp/news/890/）
+  - 「2024年11月」（https://yoshida-seiko.jp/news/890/）
+  - 「2024年8月」（https://yoshida-seiko.jp/news/890/）
+  - 「2024年5月」（https://yoshida-seiko.jp/news/890/）
+  - 「2022年6月」（https://yoshida-seiko.jp/news/890/）
+  - 「2022年5月」（https://yoshida-seiko.jp/news/890/）
+  - 「2022年3月」（https://yoshida-seiko.jp/news/890/）
+  - 「2020年12月」（https://yoshida-seiko.jp/news/890/）
+  - 「2020年11月」（https://yoshida-seiko.jp/news/890/）
+- 人手と仕事の差：
+  - 「短納期で高精度の金属加工は湯本電機にお任せください！【最短納期1.0日】【最短見積もり2時間以内】」（https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「最短納期1.0日 | 最短見積もり2時間以内」（https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「1週間以内の短納期の相談も可能」（https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「最短納期は1.0日」（https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「■最高級のパフォーマンス(見積り回答、納期回答など速さにもこだわり)」（https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「すべて手作業の柔軟性！短納期(1日より)相談可能です」（https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「複雑な形状にも対応！短納期、高品質、低コストでご提供します！」（https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「量産品、難削材、難形状を短納期、高品質で対応しております」（https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「【高品質切削加工技術で短納期＆コスト削減を実現！】小ロット～中ロット・Φ３０～２５０に特化！木山製作所の切削加工！」（https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「■短納期：精度とスピード、そしてコスト」（https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「■単品、小ロット対応、短納期、特急品対応」（https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「「少量・多品種・短納期対応」を得意とし、年間2,000～3,000種類の」（https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「加工製作、最低1点～ 500点程度、納期も1日～2週間対応で」（https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「研削など、切削、加工だけでなく工程が長い部品が多く、納期管理が」（https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「難しいものも納期を守って納入させていただいています」（https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+- 検索結果の抜粋：
+  - 「規模別の 金属部品 加工業の厳しい現実・現状と方向性（製品 ... — 規模別の 金属部品 加工業の厳しい現実・現状と方向性（製品 ... inouemasashi.com https://inouemasashi.com > keikidoukou2020012」（https://inouemasashi.com/economic-indicator/keikidoukou2020012/）
+  - 「コストダウン・ローコスト調達のための - 機械部品加工 見積りの — コストダウン・ローコスト調達のための - 機械部品加工 見積りの ultraprecision-nanomachining-center.com PDF https://ultraprecision-nanomachining-center.com > 2...」（https://ultraprecision-nanomachining-center.com/wp-content/uploads/2019/12/779f1f8d7026b713750a3b8f0ff720d1.pdf）
+
+## 金属プレス加工の受託（metal stamping industry Japan statistics）
+- 文脈：工法・プレス
+- 事業所数・社数：
+  - 「海外移転が進んでおり1、国内における事業所数、従業員数等金属プレス加」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「図表２．１－ ２ 「金属素形材製品製造業」従業者規模別統計」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「図表２．１－ ３ 金属プレス加工業の事業所数、従業員数の推移」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+- 社員数・平均社員数：
+  - 「3.4 万人から 9.3 万人（製造業の従業員総数に占める割合は 0.4～1.1％）、」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「１事業所あたりの従業員数 10 人未満の事業所が全体の約 75％を占めると」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「海外移転が進んでおり1、国内における事業所数、従業員数等金属プレス加」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「300～499人 9 3615 64812 29779 16961 28969 17.9 8.0 469.2」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「500～999人 6 3950 152268 76533 23820 62362 38.5 15.8 603.0」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「図表２．１－ ３ 金属プレス加工業の事業所数、従業員数の推移」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「１）コスト・人材」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+- 受注金額・加工賃収入：
+  - 「図表２．１－ ４ 需要部門別（単位：百万円）販売額（平成１６年）」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「図表２．１－ ９ 家電製品の生産額推移」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「図表２．１－ １０ 生産額に対する輸出比率の推移 図表２．１－ １１ 国内出荷額に対する輸入比率の推移」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「金型費(～500 万円／台)と金型開発期間(15 日～１ヶ月)を圧縮する」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「して算出）は約 433 万円であったのに対し、金属プレス製品製造業（アルミニウム・同合金を除く）のそれは約 369 万」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「円と約 64 万円（約 15％）の差があった」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+- 1人あたり・1社あたり金額：
+  - 「図表２．１－ ４ 需要部門別（単位：百万円）販売額（平成１６年）」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「金型費(～500 万円／台)と金型開発期間(15 日～１ヶ月)を圧縮する」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「して算出）は約 433 万円であったのに対し、金属プレス製品製造業（アルミニウム・同合金を除く）のそれは約 369 万」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「円と約 64 万円（約 15％）の差があった」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+- 10年推移：
+  - 「図表２．１－ ３ 金属プレス加工業の事業所数、従業員数の推移」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「販売額推移をみると、近年の自動車産業の好 調さから、自動車向けは上」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「向いているものの、その他の用途向けはほぼ横ばいで推移している」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「図表２．１－ ５ 需要部門別販売額推移」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「図表２．１－ ６ 需要部門別販売額推移（除く自動車、その他）」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「昨今、川下産業側技術者の現場業務に携わる 機会・経験が減少傾向にあ」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「り、現場のことが分かる技術者が減少していると言 われている」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「図表２．１－ ８ 自動車の生産台数推移」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「図表２．１－ ９ 家電製品の生産額推移」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「図表２．１－ １０ 生産額に対する輸出比率の推移 図表２．１－ １１ 国内出荷額に対する輸入比率の推移」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「図表２．１－ １２ 家電製品の輸出額の推移 図表２．１－ １３ 家電製品の輸入額の推移」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「レス機械の台数削減、さらに成形のための搬送工程 も減少し、加工時間と」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「待され、 在来材料に加え、 プレコート材料、 樹脂複合鋼板の適用も増加し、」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「増加が見込まれるサービスロボット（清掃、警備、 介護等に使用されるロ」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「る範囲で使い捨て製品が多く、今後も増加すると見 込まれている」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+- 人手と仕事の差：
+  - 「経営面について原価構成比でみると、直接材 料費・外注工賃・直接労務」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「外注工賃 9.6 16.8」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「セット製品の高度化と同時に短納期化及び低 コスト化が進展してい」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「納期などに関する厳しい要求につながり、これらへ の対応如何が今後の金」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「は、ユーザー企業からのコスト、精度、納期などに 関する厳しい要求への」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「対応及びユーザー企業の海外 生産の進展などから、「利益なき繁忙」「限ら」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「密機器等の高度化や低コスト化、短納期化の要求に 伴って、生産工程の高」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「同 時に、常に「高精度化」、「短納期化」、「低コ」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「では短納期、低コスト化が一層求められ ていることから、できる限りの工程削」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「ユーザー企業からのコスト、精度、納期 に対する厳しい要求に応え、同時に」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「なり、短納期化が実現しやすくなる」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「また、 金属プレス加工業において人に依存する部分を減らすことで、 短納期・」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「短納期、低コスト化、高精度化が求めら れていることから、できる限り起こ」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「程シミュレーションを行うことが可能と なれば、より一層の短納期や低コスト」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+  - 「現在、検査作業に時間・手間・コストが かかっており、短納期及び低コスト」（https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf）
+- 生産能力・設備：記載なし（読んだ46頁・検索15回）
+
+## 板金・製缶・溶接の受託（sheet metal fabrication welding Japan statistics）
+- 文脈：工法・板金溶接
+- 10年推移：
+  - 「Japan Metal Fabrication Equipment Market Size, Share & Forecast, By Product Type, End-Use Industry & Technology, 2025-2032」（https://www.kenresearch.com/japan-metal-fabrication-equipment-market）
+  - 「The Japan Metal Fabrication Equipment Market worth USD 4,671 million in 2025 is growing at a CAGR of 4.50% to reach USD 6,360 million by 2032. Yamazaki Mazak Corporation, AMADA Co., Ltd., DMG MORI CO., LTD., Okuma Corporation and Makino Milling Machine Co., Ltd. are the major companies operating in this market.」（https://www.kenresearch.com/japan-metal-fabrication-equipment-market）
+  - 「2025 estimate」（https://www.kenresearch.com/japan-metal-fabrication-equipment-market）
+  - 「2024 supplier-universe estimate」（https://www.kenresearch.com/japan-metal-fabrication-equipment-market）
+  - 「2020-2025」（https://www.kenresearch.com/japan-metal-fabrication-equipment-market）
+  - 「2025-2032」（https://www.kenresearch.com/japan-metal-fabrication-equipment-market）
+  - 「Historical CAGR (2020-2025)」（https://www.kenresearch.com/japan-metal-fabrication-equipment-market）
+  - 「This section evaluates the historical market size, analyzes year-over-year growth dynamics, and presents forecast projections supported by market performance indicators and demand-side drivers. The 2024 market assessment is retained as the authoritative historical anchor; the 2025 base-year and subsequent forecast values follow the supplied growth trajectory and its extension through 2032.」（https://www.kenresearch.com/japan-metal-fabrication-equipment-market）
+  - 「Historical Market Performance (2020-2025)」（https://www.kenresearch.com/japan-metal-fabrication-equipment-market）
+  - 「Forecast Market Outlook (2025-2032)」（https://www.kenresearch.com/japan-metal-fabrication-equipment-market）
+  - 「Historical Data (2020-2024) • Base Data (2025) • Forecast Data (2026-2032)」（https://www.kenresearch.com/japan-metal-fabrication-equipment-market）
+  - 「54,590 units (2025, Japan). Volume is a blended measure across different equipment categories and should be used primarily to analyze demand direction. Domestic machine tool orders remained an important industrial investment indicator during the 2024 reference year.」（https://www.kenresearch.com/japan-metal-fabrication-equipment-market）
+  - 「USD 85,565 per unit (2025, Japan). The blended price reflects the changing mix of precision machinery, automated cells and basic equipment. Product-level pricing may vary considerably, so procurement evaluation should use category-specific capital expenditure benchmarks.」（https://www.kenresearch.com/japan-metal-fabrication-equipment-market）
+  - 「64.3% (2025, Japan, modeled). CNC equipment remains the principal capital-intensive category. The supplied assessment places numerical-control machinery at the center of domestic metalworking equipment demand, supporting continued investment in application engineering and machine automation.」（https://www.kenresearch.com/japan-metal-fabrication-equipment-market）
+  - 「3rd of 5 countries (2025 model)」（https://www.kenresearch.com/japan-metal-fabrication-equipment-market）
+- 事業所数・社数：記載なし（読んだ45頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ45頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ45頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ45頁・検索15回）
+- 生産能力・設備：記載なし（読んだ45頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ45頁・検索15回）
+
+## 鋳造（銑鉄・非鉄）の受託（foundry industry Japan statistics employees production）
+- 文脈：工法・鋳造
+- 事業所数・社数：
+  - 「出荷額は2023年実績、従業員数・事業所数は2024年6月1日現在」（https://www.sokeizai.or.jp/pages/58/）
+- 社員数・平均社員数：
+  - 「出荷額は2023年実績、従業員数・事業所数は2024年6月1日現在」（https://www.sokeizai.or.jp/pages/58/）
+  - 「上場2社がそろって販売価格の改定を進めており、材料と人件費の上げ分は単価に乗るからです」（https://hikaku-hub.com/iron-casting-service/）
+  - 「130人・武蔵精密工業の子会社」（https://hikaku-hub.com/iron-casting-service/）
+  - 「60人（2024年9月）」（https://hikaku-hub.com/iron-casting-service/）
+  - 「従業員は60人です（2024年9月）」（https://hikaku-hub.com/iron-casting-service/）
+  - 「選ぶ軸は3つで、見つけたいきず、判定する人の資格、出張か持ち込みかです」（https://hikaku-hub.com/iron-casting-service/）
+- 受注金額・加工賃収入：
+  - 「表 08-09-h「主要品目の生産量及び生産額 － 精密機械，武器，鍛工品及び鋳物の生産量及び生産額（昭和６０年～平成１６年）」」（https://the-shashi.com/market/precision/iron-castings/）
+  - 「出荷額は2023年実績、従業員数・事業所数は2024年6月1日現在」（https://www.sokeizai.or.jp/pages/58/）
+  - 「日本鉄リサイクル工業会の表では、鉄スクラップは2025年10月から2026年6月に1tあたり約1.2万円上がりました」（https://hikaku-hub.com/iron-casting-service/）
+  - 「模型代を仮に30万円と60万円に置いて、個数ごとの負担を出しました」（https://hikaku-hub.com/iron-casting-service/）
+  - 「模型代30万円のとき」（https://hikaku-hub.com/iron-casting-service/）
+  - 「模型代60万円のとき」（https://hikaku-hub.com/iron-casting-service/）
+  - 「たとえば木型代50万円、発泡模型1個10万円なら、模型代は5個で同額です」（https://hikaku-hub.com/iron-casting-service/）
+  - 「2025年10月から2026年6月までに、1tあたり約1.2万円上がりました」（https://hikaku-hub.com/iron-casting-service/）
+  - 「投資額は約10億円です」（https://hikaku-hub.com/iron-casting-service/）
+  - 「売上高は54億7,200万円、セグメント利益は1億100万円です」（https://hikaku-hub.com/iron-casting-service/）
+  - 「前年同期比では、売上高が3.8%減、利益が69.6%減でした」（https://hikaku-hub.com/iron-casting-service/）
+  - 「スクラップは約1.2万円/t上昇」（https://hikaku-hub.com/iron-casting-service/）
+  - 「3,000万円」（https://hikaku-hub.com/iron-casting-service/）
+  - 「4,500万円」（https://hikaku-hub.com/iron-casting-service/）
+  - 「資本金は5,000万円、従業員は181名です（2022年10月）」（https://hikaku-hub.com/iron-casting-service/）
+- 1人あたり・1社あたり金額：
+  - 「日本鉄リサイクル工業会の表では、鉄スクラップは2025年10月から2026年6月に1tあたり約1.2万円上がりました」（https://hikaku-hub.com/iron-casting-service/）
+  - 「模型代を仮に30万円と60万円に置いて、個数ごとの負担を出しました」（https://hikaku-hub.com/iron-casting-service/）
+  - 「模型代30万円のとき」（https://hikaku-hub.com/iron-casting-service/）
+  - 「模型代60万円のとき」（https://hikaku-hub.com/iron-casting-service/）
+  - 「たとえば木型代50万円、発泡模型1個10万円なら、模型代は5個で同額です」（https://hikaku-hub.com/iron-casting-service/）
+  - 「2025年10月から2026年6月までに、1tあたり約1.2万円上がりました」（https://hikaku-hub.com/iron-casting-service/）
+  - 「売上高は54億7,200万円、セグメント利益は1億100万円です」（https://hikaku-hub.com/iron-casting-service/）
+  - 「スクラップは約1.2万円/t上昇」（https://hikaku-hub.com/iron-casting-service/）
+  - 「3,000万円」（https://hikaku-hub.com/iron-casting-service/）
+  - 「4,500万円」（https://hikaku-hub.com/iron-casting-service/）
+  - 「資本金は5,000万円、従業員は181名です（2022年10月）」（https://hikaku-hub.com/iron-casting-service/）
+  - 「5,000万円」（https://hikaku-hub.com/iron-casting-service/）
+  - 「2,000万円」（https://hikaku-hub.com/iron-casting-service/）
+  - 「5,600万円」（https://hikaku-hub.com/iron-casting-service/）
+  - 「2026年4〜6月のCasting Field事業は、売上高54億7,200万円でした」（https://hikaku-hub.com/iron-casting-service/）
+- 生産能力・設備：
+  - 「高周波誘導炉5t×2・4t×2、生産能力は月1,600t」（https://hikaku-hub.com/iron-casting-service/）
+  - 「縦型の自動造型機2ラインで月600tの生産能力を持ちます」（https://hikaku-hub.com/iron-casting-service/）
+  - 「2007年に生産能力600tの新工場を動かしました」（https://hikaku-hub.com/iron-casting-service/）
+- 10年推移：
+  - 「銑鉄鋳物の市場規模の推移 | 1985〜2024年」（https://the-shashi.com/market/precision/iron-castings/）
+  - 「2005〜2024 年」（https://the-shashi.com/market/precision/iron-castings/）
+  - 「出所：経済産業省 2024年経済構造実態調査」（https://www.sokeizai.or.jp/pages/58/）
+  - 「出荷額は2023年実績、従業員数・事業所数は2024年6月1日現在」（https://www.sokeizai.or.jp/pages/58/）
+  - 「日本鉄リサイクル工業会の表では、鉄スクラップは2025年10月から2026年6月に1tあたり約1.2万円上がりました」（https://hikaku-hub.com/iron-casting-service/）
+  - 「公正取引委員会と中小企業庁は、2025年11月のリーフレットで、型の無償保管の勧告件数を示しました」（https://hikaku-hub.com/iron-casting-service/）
+  - 「公正取引委員会・中小企業庁「型の無償保管について、監視を強化しています」（2025年11月）」（https://hikaku-hub.com/iron-casting-service/）
+  - 「日本鉄リサイクル工業会の価格推移表で、鉄スクラップの価格を並べました」（https://hikaku-hub.com/iron-casting-service/）
+  - 「2025年10月」（https://hikaku-hub.com/iron-casting-service/）
+  - 「注 日本鉄リサイクル工業会の価格推移表（2026年10月13日更新）によります」（https://hikaku-hub.com/iron-casting-service/）
+  - 「2025年10月から2026年6月までに、1tあたり約1.2万円上がりました」（https://hikaku-hub.com/iron-casting-service/）
+  - 「日本鋳鉄管は2025年6月、ダクタイル鋳鉄製品の10%以上の値上げを発表しました」（https://hikaku-hub.com/iron-casting-service/）
+  - 「対象は直管・異形管・付属品・鉄蓋類で、2025年8月1日受注分からです」（https://hikaku-hub.com/iron-casting-service/）
+  - 「前回の改定は2022年9月です」（https://hikaku-hub.com/iron-casting-service/）
+  - 「日本鉄リサイクル工業会 価格推移表（2026年10月13日更新）」（https://hikaku-hub.com/iron-casting-service/）
+- 人手と仕事の差：
+  - 「通期予想には、増産時の納期対応に伴う外注費の増加を見込んでいます」（https://hikaku-hub.com/iron-casting-service/）
+  - 「日本鋳造に新しく頼むなら、納期は長めに見込みます」（https://hikaku-hub.com/iron-casting-service/）
+  - 「増産に伴う納期対応の外注費を見込むと、会社自身が書いているからです」（https://hikaku-hub.com/iron-casting-service/）
+  - 「香川鋳造は、製品の仕様、素材、数量、納期を聞き取るとしています」（https://hikaku-hub.com/iron-casting-service/）
+  - 「従業員12名の銑鉄鋳物の会社で、少量の注文、短納期、試作に対応すると書いています」（https://hikaku-hub.com/iron-casting-service/）
+  - 「小物の小ロット生産と、初期の試作を短納期で」（https://hikaku-hub.com/iron-casting-service/）
+  - 「受注の流れでは、製品の仕様、素材、数量、納期を聞き取ってから進めます」（https://hikaku-hub.com/iron-casting-service/）
+  - 「2026年7月の決算短信では、増産に伴う納期対応の外注費増を見込んでいます」（https://hikaku-hub.com/iron-casting-service/）
+  - 「富山県高岡市で、0.1kg〜60kgの鋳鉄を多品種・少量・短納期で作る会社です」（https://hikaku-hub.com/iron-casting-service/）
+  - 「製品の重さは0.1kg〜60kgで、多品種・少量・短納期に対応すると書いています」（https://hikaku-hub.com/iron-casting-service/）
+  - 「アルミ・マグネシウムの鋳造試作は、工法（石膏・砂型・簡易金型・ロストワックス・金属3Dプリント）で納期も精度も費用も変わります」（https://hikaku-hub.com/iron-casting-service/）
+- 検索結果の抜粋：
+  - 「2026年】鋳鉄・鋳鋼の砂型 鋳造の受託 おすすめ3選＋条件別の ... — 2026年】鋳鉄・鋳鋼の砂型 鋳造の受託 おすすめ3選＋条件別の ... hikaku-hub.com https://hikaku-hub.com > iron-casting-service」（https://hikaku-hub.com/iron-casting-service/）
+
+## 鍛造の受託（forging industry Japan statistics）
+- 文脈：工法・鍛造
+- 社員数・平均社員数：
+  - 「300人・売上高38億円」（https://hikaku-hub.com/forging-service/）
+  - 「従業員は300人、売上高は38億円と書いています」（https://hikaku-hub.com/forging-service/）
+  - 「国内15社の公式サイトを調べ、タレント中心・インフルエンサー中心・モデルやエキストラ中心の区分を付けたうえで、広告にタレントを起用したい場合、インフルエンサーを急いで少人数から探したい場合、モデルの肖像の使用範囲をきちんと決めたい場合の3つの用途別に、最初に相談したい3社を選びました」（https://hikaku-hub.com/forging-service/）
+  - 「⑲ 個人（業種番号６２）」（https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf）
+  - 「別表（１）付表 独立行政法人の分類例」（https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf）
+  - 「・別表(１)付表「独立行政法人の分類例」を変更」（https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf）
+  - 「・Ⅲ．１．(１)(ロ)⑤（別段預金）に、法人等から預かった納税資金の取り扱いを明記」（https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf）
+  - 「・Ⅲ．１．(１)(ハ)に、個人および法人の複数名義が付されている預金について当該預」（https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf）
+  - 「・投資信託及び投資法人に関する法律第１３９条の１２第１項に規定する短期投資法人債」（https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf）
+  - 「個人(住宅・消費・納税資金等) 05 Ｅ Ｉ」（https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf）
+  - 「個人(住宅・消費・納税資金等) 13」（https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf）
+  - 「合 一 般 法 人 預 金 11 イ」（https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf）
+  - 「50 個 人 預 金 12 ニ」（https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf）
+  - 「平成 11年度ものづくり人材支援基盤整備事業」（http://www.monozukuri.org/techno/technote027.pdf）
+  - 「さて、中小企業総合事業団では平成11年度「ものづくり人材支援基盤整備事業」におい」（http://www.monozukuri.org/techno/technote027.pdf）
+- 受注金額・加工賃収入：
+  - 「相場産業の公開例では、3kg以下の小物の型と抜型で40〜70万円程度です」（https://hikaku-hub.com/forging-service/）
+  - 「トン当たり1万円以上と1万円で、1kgあたり20円以上です」（https://hikaku-hub.com/forging-service/）
+  - 「基準のロットを300〜5,000個、型の予算を40〜70万円程度と公開しています」（https://hikaku-hub.com/forging-service/）
+  - 「型の予算は40〜70万円程度」（https://hikaku-hub.com/forging-service/）
+  - 「型の予算40〜70万円程度」（https://hikaku-hub.com/forging-service/）
+  - 「型と抜型で40〜70万円程度」（https://hikaku-hub.com/forging-service/）
+  - 「試作用の型だけで30〜60万円」（https://hikaku-hub.com/forging-service/）
+  - 「型代を相場産業の目安の40万円と70万円に置いて、差ごとの個数を出しました」（https://hikaku-hub.com/forging-service/）
+  - 「型代40万円のとき」（https://hikaku-hub.com/forging-service/）
+  - 「型代70万円のとき」（https://hikaku-hub.com/forging-service/）
+  - 「差が1,000円なら、型代70万円でも700個で取り返せる計算になるからです」（https://hikaku-hub.com/forging-service/）
+  - 「トン当たり1万円以上」（https://hikaku-hub.com/forging-service/）
+  - 「トン当たり1万円」（https://hikaku-hub.com/forging-service/）
+  - 「トン当たり1万円は、1kgあたり10円です」（https://hikaku-hub.com/forging-service/）
+  - 「300人・売上高38億円」（https://hikaku-hub.com/forging-service/）
+- 1人あたり・1社あたり金額：
+  - 「相場産業の公開例では、3kg以下の小物の型と抜型で40〜70万円程度です」（https://hikaku-hub.com/forging-service/）
+  - 「トン当たり1万円以上と1万円で、1kgあたり20円以上です」（https://hikaku-hub.com/forging-service/）
+  - 「基準のロットを300〜5,000個、型の予算を40〜70万円程度と公開しています」（https://hikaku-hub.com/forging-service/）
+  - 「型の予算は40〜70万円程度」（https://hikaku-hub.com/forging-service/）
+  - 「型の予算40〜70万円程度」（https://hikaku-hub.com/forging-service/）
+  - 「型と抜型で40〜70万円程度」（https://hikaku-hub.com/forging-service/）
+  - 「試作用の型だけで30〜60万円」（https://hikaku-hub.com/forging-service/）
+  - 「型代を相場産業の目安の40万円と70万円に置いて、差ごとの個数を出しました」（https://hikaku-hub.com/forging-service/）
+  - 「型代40万円のとき」（https://hikaku-hub.com/forging-service/）
+  - 「型代70万円のとき」（https://hikaku-hub.com/forging-service/）
+  - 「差が1,000円なら、型代70万円でも700個で取り返せる計算になるからです」（https://hikaku-hub.com/forging-service/）
+  - 「トン当たり1万円以上」（https://hikaku-hub.com/forging-service/）
+  - 「トン当たり1万円」（https://hikaku-hub.com/forging-service/）
+  - 「トン当たり1万円は、1kgあたり10円です」（https://hikaku-hub.com/forging-service/）
+  - 「3,600万円」（https://hikaku-hub.com/forging-service/）
+- 生産能力・設備：
+  - 「多品種・小ロットに対応、月間2,000tの生産能力」（https://hikaku-hub.com/forging-service/）
+  - 「従業員は73名、資本金は6,000万円で、生産能力は月1,000tと書いています」（https://hikaku-hub.com/forging-service/）
+  - 「② 「設備資金」とは、耐用年数がおおむね１年以上の有形固定資産、すなわち土地、建」（https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf）
+- 10年推移：
+  - 「2024年2月5日」（https://hikaku-hub.com/forging-service/）
+  - 「2024年2月契約分」（https://hikaku-hub.com/forging-service/）
+  - 「2025年の同社の値上げの告知は、工具鋼の1件だけでした」（https://hikaku-hub.com/forging-service/）
+  - 「大同特殊鋼 特殊鋼鋼材およびステンレス鋼の販売価格改定について（2024年2月5日）」（https://hikaku-hub.com/forging-service/）
+  - 「大同特殊鋼 お知らせ 2025年」（https://hikaku-hub.com/forging-service/）
+  - 「40名（2020年）」（https://hikaku-hub.com/forging-service/）
+  - 「靜甲は2022年に東証スタンダード市場へ移った上場会社です」（https://hikaku-hub.com/forging-service/）
+  - 「e-Statの2024年年報の表で確かめました」（https://hikaku-hub.com/forging-service/）
+  - 「経済産業省 生産動態統計 2024年年報 時系列表（2520 鍛工品月報、e-Stat）」（https://hikaku-hub.com/forging-service/）
+  - 「鳥取工場に鍛造課があり、2023年に姫路工場を新設しました」（https://hikaku-hub.com/forging-service/）
+  - 「包装機械と冷間鍛造の製品、電機機器の販売を手がけ、2022年に東京証券取引所スタンダード市場へ移りました」（https://hikaku-hub.com/forging-service/）
+  - 「東証スタンダード上場（2022年に移行）」（https://hikaku-hub.com/forging-service/）
+  - 「同ツール上の「前年比チェック」の機能を利用し、他項目と比べて変動幅が大きくなって」（https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf）
+  - 「通産省機械統計）であり近年はほぼ横這いあるいは低下傾向で推移している」（http://www.monozukuri.org/techno/technote027.pdf）
+  - 「自由鍛造により製造される製品種別は徐々に増加しつつあり、これを製造する事業者は長年にわ」（http://www.monozukuri.org/techno/technote027.pdf）
+- 人手と仕事の差：
+  - 「自由鍛造を1個から短納期で受けます」（https://hikaku-hub.com/forging-service/）
+  - 「自由鍛造は1個から短納期で受ける」（https://hikaku-hub.com/forging-service/）
+  - 「型鍛造の理想のロットは数百〜数千個で、納期は注文から1.5〜2か月です」（https://hikaku-hub.com/forging-service/）
+  - 「お客様の計画に合わせた小規模な製造と短納期をうたいますが、個数や日数は書いていません」（https://hikaku-hub.com/forging-service/）
+  - 「小規模な製造と短納期をうたう（個数の記載なし）」（https://hikaku-hub.com/forging-service/）
+  - 「アルミ・マグネシウムの鋳造試作は、工法（石膏・砂型・簡易金型・ロストワックス・金属3Dプリント）で納期も精度も費用も変わります」（https://hikaku-hub.com/forging-service/）
+  - 「どれが最適な方法であるかについては、温度、材質、寸法等、被切断材の条件、歩留、納期(切断工」（http://www.monozukuri.org/techno/technote027.pdf）
+- 検索結果の抜粋：
+  - 「迷ったらこれ。 鍛造の受託 の3選と、条件別の第一候補 — 迷ったらこれ。 鍛造の受託 の3選と、条件別の第一候補 hikaku-hub.com https://hikaku-hub.com > forging-service」（https://hikaku-hub.com/forging-service/）
+- 事業所数・社数：記載なし（読んだ48頁・検索15回）
+
+## 金型製造（die and mold industry Japan statistics employees）
+- 文脈：工法・金型
+- 事業所数・社数：
+  - 「金型製造業の事業所数･従業員数推移（1986-2021）」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「金型製造業の事業所数 従業員規模（2021年）」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「金型製造業の事業所数 従業員規模 2021年・2019年・2002年比較」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「事業所数が64%減少、従業員数が27%減少」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「事業所数の減少が従業員数より大きい理由は、金型製造業は従業員数9名以下の企業が6割、19名以下の企業が8割を占めている」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「上記グラフは、金型製造業の事業所数 従業員規模（2021年）をまとめたものです」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「金型製造業の事業所数 従業員規模の変化（2021年・2019年・2002年）をまとめたものが下記です」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「金型製造業の事業所数合計について、2021年は2002年と比較して62%減少」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「上記グラフは、金型製造業の事業所数 従業員規模の変化（2021年・2019年・2002年）をまとめたものです」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「金型製造業の事業所・従業員数の推移（1986年～2021年）について、事業所数と従業員数はともに減少」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「2021年は1986年と比較して、事業所数が64%減少、従業員数が27%減少」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「金型製造業の事業所数 従業員規模（2021年）について、9人以下の事業所が60%を占めている」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「金型製造業の事業所数 従業員規模の変化（2021年・2019年・2002年）について、事業所数合計について、2021年は2002年と比較して62%減少」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「事業所数 約4,000事業所」（https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+- 社員数・平均社員数：
+  - 「一般社団法人日本金型工業会では、以下の3つの公的統計調査を金型製造業関連の統計調査として、金型製造業向けとして編集して使用しています」（https://www.jdmia.or.jp/toukei/）
+  - 「世界の金型生産高3位の日本は、金型生産高が2021年と1991年比較で28%減少、金型製造業所の事業所が2021年と1986年比較で64%減少、従業員数が27%減少」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「金型製造業の事業所数･従業員数推移（1986-2021）」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「労働人口と金型製造業の従業員数推移（1986-2021）」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「上記グラフは、金型製造業の事業所・従業員数の推移（1986年～2021年）をまとめたものです」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「事業所数が64%減少、従業員数が27%減少」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「事業所数の減少が従業員数より大きい理由は、金型製造業は従業員数9名以下の企業が6割、19名以下の企業が8割を占めている」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「上記グラフは、労働人口と金型製造業の従業員数の推移（1986年～2021年）をまとめたものです」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「労働力人口とは、15歳以上人口のうち、就業者と完全失業者を合わせた人口のことです」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「労働人口について、2021年は1986年と比較して15%増加」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「金型製造業の従業員数について、2021年は1986年と比較して27%減少」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「9人以下の金型製造業の事業所が60%」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「10人～19人」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「20人～29人」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「就労者12万人」（https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf）
+- 受注金額・加工賃収入：
+  - 「2019年における生産額は1兆3602億円です」（https://www.jmsltd.co.jp/media/airticle/a14）
+  - 「2008年9月に起きたリーマンショックで生産額は下落しましたが2010年以降回復しています」（https://www.jmsltd.co.jp/media/airticle/a14）
+  - 「経済産業省が発表している工業統計調査（品目別統計表）によると、2019年におけるプレス用金型、鍛造用金型、鋳造用金型（ダイカスト用を含む）、プラスチック用金型、ゴム・ガラス用金型、その他の金属用金型、同部分品・附属品などの合計生産額が最も多い都道府県は愛知県です」（https://www.jmsltd.co.jp/media/airticle/a14）
+  - 「価格：10万円 ~ 50万円」（https://mono.ipros.com/cg1/%E9%87%91%E5%9E%8B%E8%A3%BD%E4%BD%9C/）
+  - 「一方、品目別は総ての調査対象事業所の製造品及び加工品を品目別に集計したものであり、主力が金型以外の製造品であっても金型の生産がおこなわれていれば金型の生産額は金型の1事業所の生産額として集計されます」（https://www.jdmia.or.jp/toukei/）
+  - 「金型生産額の推移（1982-2021）」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「金型生産額・数量・単価の変化（2007-2022)」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「型種別の金型生産額（2022年）」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「型種別の金型生産額 2022年・2020年・2007年比較」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「都道府県別の金型生産額（2021年）」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「上記グラフは、金型生産額の推移（1982年～2021年）をまとめたものです」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「1991年が金型生産額のピークで、その後二度の下降と上昇を繰り返し、リーマンショックで大ダメージ」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「2011年以降、ゆっくりと金型生産額が回復し、横ばい状態」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「金型の生産額がピークだった1991年（平成3年）は1兆9,575億円で、2021年は1兆4,004億円であるため、生産額が28%減少」（https://takumi-senpai.com/blog/mold-industry-2024/）
+  - 「上記グラフは、金型生産額、数量、単価（金型生産額/数量）の変化（2007年～2022年）をまとめたものです」（https://takumi-senpai.com/blog/mold-industry-2024/）
+- 1人あたり・1社あたり金額：
+  - 「価格：10万円 ~ 50万円」（https://mono.ipros.com/cg1/%E9%87%91%E5%9E%8B%E8%A3%BD%E4%BD%9C/）
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2026年1月期の連結売上高は2,183億2,900万円、営業利益は126億5,100万円で、モーターコア製品などを手がける電機部品事業が1,546億4,900万円、金型・工作機械事業が102億4,700万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「工作機械受注の金型産業向けでも、2022年7月は前年同月比43%増の36億3000万円と19カ月連続で増加」（https://kanagata-shimbun.com/220910special-haikei/）
+  - 「1月から7月までの累計も224億9700万円と前年同期比で倍以上伸びており、設備投資への意欲が活発化している」（https://kanagata-shimbun.com/220910special-haikei/）
+  - 「従業者1人あたりに直すと、2024年の生産額は約2,092万円です（生産額と従業者数から算出）」（https://monoscope-media.com/die-press-machining-market/）
+  - 「さらに「60万円（税抜）」からの低価格、かつ発注から納品まで「最短2週間」で対応可能です」（https://injection-lab.com/technology/1454-2.html）
+  - 「60万円（税抜）～」（https://injection-lab.com/technology/1454-2.html）
+  - 「5万円（税抜）～」（https://injection-lab.com/technology/1454-2.html）
+- 生産能力・設備：
+  - 「日本政策金融公庫総合研究所のレポートでは、IoT関連の設備投資について金型製造業では7.2%がすでに実施、12.6%が予定ありと答え、製造業全体の4.5%と6.2%を上回っていました」（https://forwit.jp/column/die-and-mold/）
+  - 「1月から7月までの累計も224億9700万円と前年同期比で倍以上伸びており、設備投資への意欲が活発化している」（https://kanagata-shimbun.com/220910special-haikei/）
+- 10年推移：
+  - 「2021/07/30」（https://www.jmsltd.co.jp/media/airticle/a14）
+  - 「一般社団法人日本金型工業会が工業統計と機械統計などを参考にまとめた資料によると、日本の金型生産額は以下のように推移しています」（https://www.jmsltd.co.jp/media/airticle/a14）
+  - 「2019年における生産額は1兆3602億円です」（https://www.jmsltd.co.jp/media/airticle/a14）
+  - 「2008年9月に起きたリーマンショックで生産額は下落しましたが2010年以降回復しています」（https://www.jmsltd.co.jp/media/airticle/a14）
+  - 「経済産業省が発表している工業統計調査（品目別統計表）によると、2019年におけるプレス用金型、鍛造用金型、鋳造用金型（ダイカスト用を含む）、プラスチック用金型、ゴム・ガラス用金型、その他の金属用金型、同部分品・附属品などの合計生産額が最も多い都道府県は愛知県です」（https://www.jmsltd.co.jp/media/airticle/a14）
+  - 「2023/11/09」（https://www.jmsltd.co.jp/media/airticle/a14）
+  - 「2023/09/12」（https://www.jmsltd.co.jp/media/airticle/a14）
+  - 「2023年11月 (1)」（https://www.jmsltd.co.jp/media/airticle/a14）
+  - 「2023年09月 (1)」（https://www.jmsltd.co.jp/media/airticle/a14）
+  - 「2021年10月 (20)」（https://www.jmsltd.co.jp/media/airticle/a14）
+  - 「2021年07月 (19)」（https://www.jmsltd.co.jp/media/airticle/a14）
+  - 「2021年04月 (2)」（https://www.jmsltd.co.jp/media/airticle/a14）
+  - 「2020年12月 (1)」（https://www.jmsltd.co.jp/media/airticle/a14）
+  - 「2020年10月 (1)」（https://www.jmsltd.co.jp/media/airticle/a14）
+  - 「2019年08月 (1)」（https://www.jmsltd.co.jp/media/airticle/a14）
+- 人手と仕事の差：
+  - 「■納期：7日」（https://mono.ipros.com/cg1/%E9%87%91%E5%9E%8B%E8%A3%BD%E4%BD%9C/）
+  - 「○納期、費用、用途に応じて型材の選択可能」（https://mono.ipros.com/cg1/%E9%87%91%E5%9E%8B%E8%A3%BD%E4%BD%9C/）
+  - 「是非、短納期のものもご相談ください」（https://mono.ipros.com/cg1/%E9%87%91%E5%9E%8B%E8%A3%BD%E4%BD%9C/）
+  - 「品質保証部門は測定データをコンピューターにとり込み、解析することにより、製作金型の検証、製品の検証時間を短縮し、高品質、単納期の製品を提供します」（https://mono.ipros.com/cg1/%E9%87%91%E5%9E%8B%E8%A3%BD%E4%BD%9C/）
+  - 「※納期や無料サービスなどに関してはご気軽にお問い合わせください」（https://mono.ipros.com/cg1/%E9%87%91%E5%9E%8B%E8%A3%BD%E4%BD%9C/）
+  - 「確かな技術力によって高精度の金型を短納期・高品質で作り上げる！」（https://mono.ipros.com/cg1/%E9%87%91%E5%9E%8B%E8%A3%BD%E4%BD%9C/）
+  - 「によって高精度の金型を短納期・高品質で作り上げるため日々努力・研究」（https://mono.ipros.com/cg1/%E9%87%91%E5%9E%8B%E8%A3%BD%E4%BD%9C/）
+  - 「納期と原価の見通しが狂う原因の多くは、この修正の回数が読み切れないところにあります」（https://forwit.jp/column/die-and-mold/）
+  - 「内製と外注の線引きも産業の形を決めています」（https://forwit.jp/column/die-and-mold/）
+  - 「日本｜精度と納期で勝ち、量と価格で押される」（https://forwit.jp/column/die-and-mold/）
+  - 「金型に使うガイドピンやパンチ、ブッシュといった部品を規格化し、寸法をミクロン単位で指定できるようにしたうえで短納期で届ける仕組みを築きました」（https://forwit.jp/column/die-and-mold/）
+  - 「量産が読める型は安い国へ、立ち上げが難しい型や短納期が求められる型は日本へ、という棲み分けが統計の上にも表れています」（https://forwit.jp/column/die-and-mold/）
+  - 「精度と納期、そして立ち上げの速さです」（https://forwit.jp/column/die-and-mold/）
+  - 「生産性の向上、人手不足への対応、人を介さないことによる品質向上—」（https://kanagata-shimbun.com/220910special-haikei/）
+  - 「これまで金型や部品加工を依頼していた協力企業が減ったことで、外注していた加工を社内に取り込む企業が増加」（https://kanagata-shimbun.com/220910special-haikei/）
+
+## めっき・表面処理の受託（electroplating industry Japan statistics）
+- 文脈：工法・めっき
+- 事業所数・社数：
+  - 「国内の電気めっき業の事業所数は、この20年で減少が続いています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「経済産業省の2025年経済構造実態調査によると、各業種の規模は次のとおりです（事業所数・従業者数は2025年6月1日時点、製造品出荷額等は2024年の実績」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「電気めっき業の事業所数は、工業統計（従業者4人以上の事業所）で、2004年の1,489事業所から2014年に1,162事業所、2019年に1,070事業所へと減りました」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「全国鍍金工業組合連合会（全鍍連）の組合員は、2005年4月時点で1,878社・従業員29,999人、2026年4月時点で22組合・1,107事業所・従業員24,675人です（2005年は社数、2026年は事業所数による値で、統計の事業所の数え方とも異なります）」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「電気めっき業の事業所数（2025年6月時点）は、東京都155、大阪府142、愛知県106、埼玉県88、神奈川県46の順で、製造品出荷額等（2024年実績）は、愛知県573億円、大阪府457億円、埼玉県406億円、東京都400億円、長野県361億円の順です（」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+- 社員数・平均社員数：
+  - 「経済産業省の2025年経済構造実態調査によると、各業種の規模は次のとおりです（事業所数・従業者数は2025年6月1日時点、製造品出荷額等は2024年の実績」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「27,459人」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「31,487人」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「5,626人」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「22,229人」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「15,642人」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「電気めっき業の事業所数は、工業統計（従業者4人以上の事業所）で、2004年の1,489事業所から2014年に1,162事業所、2019年に1,070事業所へと減りました」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「2025年6月時点の1,016事業所は全規模の事業所を対象とする値で、4人以上を対象とする過去の値と比べると、減少の幅は実際より小さく見えます」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「全国鍍金工業組合連合会（全鍍連）の組合員は、2005年4月時点で1,878社・従業員29,999人、2026年4月時点で22組合・1,107事業所・従業員24,675人です（2005年は社数、2026年は事業所数による値で、統計の事業所の数え方とも異なります）」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「事業所の規模は小さく、2025年6月時点の電気めっき業1,016事業所のうち、従業者29人以下の事業所が779事業所（約77%）を占めます」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「100人以上の事業所は48事業所です」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「2026年には、大型のめっき設備を持ちながら人員不足から稼働率が下がっていた三鷹金属工業のめっき事業を、セイワHD傘下の冨士鍍金工業所が譲り受け、製造能力を約35%増やす見込みを示しました（事例②）」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「同社は取得の時点で、既存取引先以外の車載電装メーカー・自動車メーカーへの拡販、海外の自動車メーカーの新規開拓、金属加工と表面処理のパッケージでの提案、M&Aを含む生産拠点の拡充、自動化・省人化による生産性の向上の5点をシナジーとして想定していました」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「これらの案件は、（i）事業承継型の持株会社が、株式の取得と事業の譲受を組み合わせて、愛知県・岐阜県を中心に、関東も含めてめっき・表面処理の会社と設備を積み上げている、（ii）買い手が取得の評価の目安（EV/EBITDA5倍以内）を開示している、（iii）売り手側の事情として、後継者不在だけでなく、人員不足と設備投資の余力の制約が公表されている、という点を示しています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「従業者４人以上の事業所」（https://zentoren.or.jp/mekki/data.html）
+- 受注金額・加工賃収入：
+  - 「一方で製造品出荷額等は、この20年、4,000億円台で推移しています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「経済産業省の2025年経済構造実態調査によると、各業種の規模は次のとおりです（事業所数・従業者数は2025年6月1日時点、製造品出荷額等は2024年の実績」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「4,933億円」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「7,148億円」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「1,288億円」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「3,043億円」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「3,164億円」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「同じ各年の製造品出荷額等は、4,365億円、4,169億円、4,779億円です」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「JCUは、2026年3月期の国内の装飾向け薬品の売上がデザインの傾向の変化もあり横ばいと説明」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「JCUは、2026年3月期に台湾で半導体パッケージ基板向けのめっき薬品の売上が前年から大幅に増加したと説明」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「トーカロの半導体・FPD分野の売上高は248億円（2026年3月期、連結売上高の42.4%）」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「半導体関連の需要 — トーカロは、中期経営計画「TOCALO2030」（2027年3月期〜2031年3月期）で、半導体・FPD分野の売上高を248億円（2026年3月期）から450億円に伸ばす目標を掲げています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「1,382億円（2026年3月期）」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「加工事業の売上高は486億円」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「585億円（2026年3月期）」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+- 1人あたり・1社あたり金額：
+  - 「単体の売上高は、有償支給取引を控除した付加価値額ベースで100億円超と開示されています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「対象事業の売上高は2億6,400万円（2026年6月期）、譲受価額は非公開です」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「エムエフケイは硬質アルマイト、精密洗浄、電解・化学研磨等を手がけ、2023年9月期の売上高は5億1,500万円です」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「キザイの2019年3月期の売上高は13億4,700万円、営業利益は1億1,700万円、純資産は18億4,200万円です」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「2015年8月、残る株式を保有していたタイの上場会社Thai Stanley Electricから16.35%（170,040株）を2億9,000万バーツ（約10億2,300万円）で取得し、保有比率を83.65%から100%に引き上げました」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+- 生産能力・設備：
+  - 「2026年には、大型のめっき設備を持ちながら人員不足から稼働率が下がっていた三鷹金属工業のめっき事業を、セイワHD傘下の冨士鍍金工業所が譲り受け、製造能力を約35%増やす見込みを示しました（事例②）」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「これらの案件は、（i）事業承継型の持株会社が、株式の取得と事業の譲受を組み合わせて、愛知県・岐阜県を中心に、関東も含めてめっき・表面処理の会社と設備を積み上げている、（ii）買い手が取得の評価の目安（EV/EBITDA5倍以内）を開示している、（iii）売り手側の事情として、後継者不在だけでなく、人員不足と設備投資の余力の制約が公表されている、という点を示しています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「トーカロは、中期経営計画「TOCALO2030」で、東南アジアではタイ、インドネシア、マレーシア、シンガポールを中心に事業を広げ、米国ではアリゾナ州に2025年9月に設立したTOCALO USA-Arizonaなどで生産能力を強化するとしています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「時期については、六価クロム化合物の暫定排水基準が施行日（2024年4月1日）から3年間、亜鉛の暫定排水基準が2029年12月10日までとされていることも、設備投資の計画と合わせて検討の材料になります」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+- 10年推移：
+  - 「国内の電気めっき業の事業所数は、この20年で減少が続いています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「一方で製造品出荷額等は、この20年、4,000億円台で推移しています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「めっき薬品の分野では、2025年に米国の化学メーカーが国内のめっき薬品メーカーを取得しています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「1. めっき・表面処理業界の市場構造 — 事業所の減少と再編の要因」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「経済産業省の2025年経済構造実態調査によると、各業種の規模は次のとおりです（事業所数・従業者数は2025年6月1日時点、製造品出荷額等は2024年の実績」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「経済産業省 2025年経済構造実態調査 製造業事業所調査 産業別統計表」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「電気めっき業の事業所数は、工業統計（従業者4人以上の事業所）で、2004年の1,489事業所から2014年に1,162事業所、2019年に1,070事業所へと減りました」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「2025年6月時点の1,016事業所は全規模の事業所を対象とする値で、4人以上を対象とする過去の値と比べると、減少の幅は実際より小さく見えます」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「事業所の規模は小さく、2025年6月時点の電気めっき業1,016事業所のうち、従業者29人以下の事業所が779事業所（約77%）を占めます」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「JCUは、2026年3月期に台湾で半導体パッケージ基板向けのめっき薬品の売上が前年から大幅に増加したと説明」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「事業所数の減少と能力の集約 — 上記のとおり、電気めっき業の事業所数は減少が続く一方、出荷額等は維持されています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「暫定基準の対象は延長のたびに絞られ、2021年12月以降は電気めっき業だけが対象となり、値も4mg/Lに引き下げられています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「2024年12月の改正で、電気めっき業の暫定基準4mg/Lは2029年12月10日まで延長されました」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「六価クロム化合物の排水基準も、2024年4月1日に0.5mg/Lから0.2mg/Lに強化され、電気めっき業には施行日から3年間、暫定基準0.5mg/Lが適用されています（」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「環境省 報道発表（2024年11月、亜鉛の暫定排水基準）」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+- 人手と仕事の差：
+  - 「人員の確保と設備投資の余力 — 三鷹金属工業のめっき事業の譲渡では、人員不足と追加投資の余力の制約により設備の稼働率が下がっていたことが、背景として公表されています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「人員と投資の余力を持つ買い手のもとで設備を稼働させることが、この取引の目的の一つでした」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「三鷹金属工業は大型のめっき設備と多数の生産ラインを持つ一方、人員不足と追加投資の余力の制約から稼働率が下がっていました」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「これらの案件は、（i）事業承継型の持株会社が、株式の取得と事業の譲受を組み合わせて、愛知県・岐阜県を中心に、関東も含めてめっき・表面処理の会社と設備を積み上げている、（ii）買い手が取得の評価の目安（EV/EBITDA5倍以内）を開示している、（iii）売り手側の事情として、後継者不在だけでなく、人員不足と設備投資の余力の制約が公表されている、という点を示しています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「業績への影響については、売上高は変わらない一方、売上原価のうち外注加工費が減り、固定費が増える見込みとしています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「外注加工費が減るという説明からは、マルマエがこの事業に表面処理を委託していたことが読み取れます」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「目的は、精密部品事業における品質・コスト・納期の向上とサプライチェーンの強化です」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「事例④の買い手は一貫生産の強化を、事例⑤の買い手は品質・コスト・納期の向上とサプライチェーンの強化を目的としています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「取得の目的として、一貫生産の強化、品質・コスト・納期の向上、サプライチェーンの強化が挙げられています」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「三鷹金属工業では、人員不足と追加投資の余力の制約から、めっき設備の稼働率が下がっていました（事例②）」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+  - 「これらの公表からは、事例の売り手が、価格に加えて、譲渡後に設備を稼働させる人員と投資の余力、技術と雇用の承継、事業の継続を買い手に求めていたことがうかがえます」（https://syntaxpartners.com/plating-surface-treatment-ma-succession-japan/）
+
+## 熱処理の受託（heat treatment industry Japan statistics）
+- 文脈：工法・熱処理
+- 事業所数・社数：
+  - 「➢ 熱処理潜在顧客事業所数 51950」（https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/003_06_00.pdf）
+  - 「➢ 熱処理事業所数 500（熱処理専門）」（https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/003_06_00.pdf）
+  - 「2021年 製造業事業所数」（https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/003_06_00.pdf）
+- 社員数・平均社員数：
+  - 「未払法人税等 662 471」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「法人税、 住民税及び事業税 1,484 1,206」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「法人税等調整額 54 18」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「その他法人 13,817千株 30.9％」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「個人・その他 7,564千株 16.9％」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「外国法人等 7,513千株 16.8％」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「従業員数 連結 1,302名 個別 748名」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「中規模(従業員30~100人） 10%程度」（https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/003_06_00.pdf）
+  - 「小規模(従業員20人以下 ） 87%程度」（https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/003_06_00.pdf）
+  - 「熱処理企業は605社、従業員21,000人」（https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/003_06_00.pdf）
+  - 「500事業所、従業員17,000人」（https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/003_06_00.pdf）
+- 受注金額・加工賃収入：
+  - 「この結果、当連結会計年度の売上高は、469億97百万円（前年同期比5.1%増） 、営業利益」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「は、 36億86百万円 （前年同期比3.7%減） 、為替差益を計上したことなどにより、経常利益は、」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「44億49百万円（前年同期比2.0%増） 、海外子会社における補助金収入、当社の税額控除制」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「度の活用などにより、当期純利益は、29億39百万円（前年同期比21.4%増）となりました」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「この結果、 売上高は、 前年同期比5.1％増収の469億97百万」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「また、 海外売上高比率は、 前期 （2013年3月期）」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「営業利益は、 前年同期比3.7％減益の36億86百万円となりまし」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「フォークインナーチューブの売上高が5億円を超え、 順調に」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「売上高490億円、 営業利益36億円と、 増収減益を見込んでい」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「そのため、 同計画の目標数値である 「売上高540億円」」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「「営業利益50億円 （営業利益率9.5％以上） 」 の達成は、 厳しい」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「この結果、売上高は、235億30百万円（前年」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「熱処理市場は受託加工約3000億円」（https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/003_06_00.pdf）
+- 1人あたり・1社あたり金額：
+  - 「この結果、当連結会計年度の売上高は、469億97百万円（前年同期比5.1%増） 、営業利益」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「は、 36億86百万円 （前年同期比3.7%減） 、為替差益を計上したことなどにより、経常利益は、」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「44億49百万円（前年同期比2.0%増） 、海外子会社における補助金収入、当社の税額控除制」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「度の活用などにより、当期純利益は、29億39百万円（前年同期比21.4%増）となりました」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「営業利益は、 前年同期比3.7％減益の36億86百万円となりまし」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「この結果、売上高は、235億30百万円（前年」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「同期比1.9％増） 、営業利益は、19億57百万円」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「この結果、売上高は、1億35百万円（前年同」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「期比48.7％増） 、営業利益は、55百万円（前年」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「同期は9百万円の損失）となりました」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「この結果、売上高は、233億31百万円（前年」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「同期比8.3％増） 、営業利益は、 16億73百万円（前」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「製品事業部関連事業 50.1% 235億30百万円」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「IH事業部関連事業 49.6% 233億31百万円」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「その他 0.3% 1億35百万円」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+- 生産能力・設備：
+  - 「有形固定資産 27,815 30,884」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「設備台数は2機で、炉内寸法は高さ150×幅700mm、メッシュベルト寸法は」（https://mono.ipros.com/cg1/%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5/）
+- 10年推移：
+  - 「©2025 HIROCHIKU CO., LTD.」（https://thermal.hirochiku.co.jp/contract-service/）
+  - 「や通貨不安などの不安定要素を抱えて推移しました」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「設業界からの受注の減少が当社グループの業績に影響を与えました」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「今後のわが国経済は、景気は緩やかな回復基調で推移しておりますが、当社グループの」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「当社グループの2020年に目指す姿を策定した 「NETUREN」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「VISION 2020」 は、 こうした想いから生まれました」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「線 （ITW） の売上高が大幅に増加しました」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「の売上高は、 人手不足による建設工事の着工遅れから減少し、」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「連の売上高は増加したものの、 熱処理受託加工関連の売上高」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「当期から来期 （2015年3月期） にかけて、 海外事業の拡大に」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「前年同期と比較し減少いたしましたが、これは、」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「により、賃貸収入は増加いたしました」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「の連結子会社とも売上高は、増加いたしました」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「界からの受注の減少の影響を受けて、前年同期と」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「が比較的堅調に推移しており、売上高は、前年同」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+- 人手と仕事の差：
+  - 「当社主力製品である建設関連製品については、潜在的需要はあるものの、人手不足等によ」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「の売上高は、 人手不足による建設工事の着工遅れから減少し、」（https://www.k-neturen.co.jp/ja/ir/library/reports/main/09/teaserItems3/0/linkList/0/link/20140626neturenreport.pdf.pdf）
+  - 「その1つは、熱処理と塗装を社内で行い、幅広い外注加工も含めて」（https://mono.ipros.com/cg1/%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5/）
+  - 「■高周波焼入コイルの自社設計・製作による短納期と低コストの実現」（https://mono.ipros.com/cg1/%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5/）
+  - 「24時間稼働により、単発や短納期に対応！生産量UP」（https://mono.ipros.com/cg1/%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5/）
+  - 「24時間稼働全自動ラインにより大量生産、短納期を実現しております」（https://mono.ipros.com/cg1/%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5/）
+  - 「・納期目安＝受入日より2～3営業日目」（https://mono.ipros.com/cg1/%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5/）
+  - 「・納期目安＝受入日の翌日～2営業日目（硬度、歪取の有無により例外有り）」（https://mono.ipros.com/cg1/%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5/）
+  - 「当社は設計から精密加工、熱処理加工まで自社内完結の一貫生産(一部外注加工もあり)」（https://mono.ipros.com/cg1/%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5/）
+  - 「厳格な品質管理の元、確実な納期対応を確立しております」（https://mono.ipros.com/cg1/%E7%86%B1%E5%87%A6%E7%90%86%E5%8A%A0%E5%B7%A5/）
+  - 「標準納期の目安は真空焼入れ＋低温焼戻し2回が中1営業日、プラズマ窒化が中2営業日と処理ごとに公開」（https://hikaku-hub.com/heat-treatment-service/）
+  - 「1〜100,000ヶ/月、標準納期3営業日、ISO9001」（https://hikaku-hub.com/heat-treatment-service/）
+  - 「受託加工は対応ロット数1〜100,000ヶ/月、標準納期は高周波事業部3営業日、レーザ事業部2営業日」（https://hikaku-hub.com/heat-treatment-service/）
+  - 「標準納期 高周波3営業日・レーザ2営業日」（https://hikaku-hub.com/heat-treatment-service/）
+  - 「標準納期を処理ごとに公開しているのはアイキン熱処理工業（真空焼入れ中1営業日〜）と富士高周波工業（高周波3営業日）で、ファインテックはSKD11の真空焼入・焼戻を最短翌日出荷としています」（https://hikaku-hub.com/heat-treatment-service/）
+
+## 研削・研磨・仕上げの受託（grinding polishing job shop Japan）
+- 文脈：工法・研磨
+- 事業所数・社数：
+  - 「経済構造実態調査 品目編 01009 品目別の加工賃収入額及び産出事業所数（全事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+- 社員数・平均社員数：
+  - 「2023000000_2023_112292_ビスコース人絹・キュプラ・アセテート長繊維織物（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_114291_絹・人絹織物機械染色（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_116191_織物製成人男子・少年服（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_116291_織物製成人女子・少女服（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_218391_人工骨材（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_325291_人形（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「山形県山形市蔵王上野578-2 | 従業員 220人 | 資本金 6億円 | 1961年10月6日」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「福岡県北九州市八幡西区小嶺2-10-1 | 従業員 3547人 | 資本金 164億円 | 1957年(昭和32年)4月」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「新潟県長岡市西陵町221-35 | 従業員 281人 | 資本金 70億円 | 1986年3月14日」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「東京都千代田区大手町１丁目２−１ | 従業員 14000人 | 資本金 1683億円 | 1940年3月30日（創業1911年6月20日）」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「大阪府八尾市南植松町2丁目34番地 | 従業員 1283人」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「富山県富山市八尾町保内2-3-4 | 従業員 100人 | 資本金 9500万円 | 1979年7月1日」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「神奈川県横須賀市光の丘7-3 | 従業員 17人 | 資本金 1000万円 | 2020年3月16日」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「千葉県松戸市高塚新田563 | 従業員 673人 | 資本金 97億円 | 1937年(昭和12年)9月7日」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「東京都豊島区池袋4-33-3 | 従業員 38人 | 資本金 5000万円 | 1965年7月10日」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+- 受注金額・加工賃収入：
+  - 「経済構造実態調査 品目編 01009 品目別の加工賃収入額及び産出事業所数（全事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「時間軸_R7 製造品目（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091191_部分肉・冷凍肉（ブロイラーを除く）（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091291_肉加工品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091391_処理牛乳・乳飲料（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091491_乳製品（処理牛乳・乳飲料を除く）（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091991_その他の畜産食料品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092191_水産缶詰・瓶詰（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092291_海藻加工（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092391_水産練製品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092491_塩干・塩蔵品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092591_冷凍水産物（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092691_冷凍水産食品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092991_その他の水産食料品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_093191_野菜缶詰・果実缶詰・農産保存食料品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+- 1人あたり・1社あたり金額：
+  - 「富山県富山市八尾町保内2-3-4 | 従業員 100人 | 資本金 9500万円 | 1979年7月1日」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「神奈川県横須賀市光の丘7-3 | 従業員 17人 | 資本金 1000万円 | 2020年3月16日」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「東京都豊島区池袋4-33-3 | 従業員 38人 | 資本金 5000万円 | 1965年7月10日」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「三重県津市一身田中野8-1 | 従業員 80人 | 資本金 4000万円 | 1959年9月」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「大阪府大阪市西区靱本町3-10-15 | 従業員 70人 | 資本金 9800万円 | 1927年6月8日」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「福井県福井市円成寺町１-６ | 従業員 50人 | 資本金 6500万円 | 昭和39年5月」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「静岡県富士市吉原宝町1-1 | 従業員 95人 | 資本金 2200万円 | 1995年(平成７年)4月14日」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「東京都八王子市横山町21－12 横山町ビル2階 | 従業員 8人 | 資本金 1000万円 | 2008年8月」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「神奈川県高座郡寒川町岡田3－22－16 | 資本金 1000万円 | 2023年2月」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「大阪府堺市西区浜寺船尾町東２丁１２２番地 | 従業員 110人 | 資本金 3000万円 | 1934年10月」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「東京都中央区新富1-18-8 RBM築地スクエア8階 | 従業員 5300人 | 資本金 8000万円 | 2009年7月1日」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「東京都文京区春日二丁目４番１号 | 資本金 3600万円 | 1972年08月17日」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「愛知県豊橋市石巻西川町字大原12番地 | 従業員 140人 | 資本金 6000万円 | 大正13年」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「千葉県松戸市松飛台316-3 | 従業員 14人 | 資本金 3000万円 | 1976年7月」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「新潟県上越市三和区野５８２３－１ | 従業員 107人 | 資本金 9500万円 | 昭和33年8月」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+- 生産能力・設備：
+  - 「設備投資不要の消耗品科目にてCO2排出量を削減！防火対策コスト低減」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「設備投資不要の消耗品科目にてCO2削減が可能」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「■設備投資不要の消耗品科目にてCO2削減」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「設備投資不要の消耗品科目にてCO2を削減します」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+- 10年推移：
+  - 「経済構造実態調査 / 2024年経済構造実態調査（製造業事業所調査） / 二次集計」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「経済構造実態調査は、我が国の企業等の経済活動の状況を明らかにし、国民経済計算の精度向上等に資するとともに、企業等に関する施策の基礎資料を得ることを目的として、総務省・経済産業省の共管で令和元年（2019年）から実施しております」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2024年経済構造実態調査（製造業事業所調査）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2025-08-29 14:00」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_000000_合計」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_090000_食料品」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091191_部分肉・冷凍肉（ブロイラーを除く）（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091291_肉加工品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091391_処理牛乳・乳飲料（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091491_乳製品（処理牛乳・乳飲料を除く）（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_091991_その他の畜産食料品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092191_水産缶詰・瓶詰（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092291_海藻加工（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092391_水産練製品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+  - 「2023000000_2023_092491_塩干・塩蔵品（賃加工）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160）
+- 人手と仕事の差：
+  - 「・複合加工…自社内で丸・角の複合工程を行い加工効率向上、納期短縮にお応えします」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「社内使用PCDバイトの再研磨に適しています（再研磨費用の圧縮、納期の短縮、試作品への対応迅速化などのメリットが有ります）」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「動画の製品は、鋳物製品であり幾何公差1/100の製品と通常であれば苦労する製品ですが立型研削盤を用いることにより高精度を安定的に出し、納期も安定してお客様に出荷することができます」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「短納期対応や全工程を通してのコストダウンの提案が可能です」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「お客様のご要望の納期対応が出来るよう体制を整えました」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「・処理スピードが速いため、短納期に対応」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「複合加工 S45C 黒染め 工程集約 短納期」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「表面処理のお任せのワンストップサービスで短納期にお応えすることが可能です！」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「表面処理お任せのワンストップサービスで短納期にお応えします」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「工作物の物流による時間のロスをなくし、納期とコストを圧縮する事が可能」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「■工作物の物流による時間のロスをなくし、納期とコストを圧縮可能」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「水平分業による役割分担で人手不足の解消と、工場内の合理化を実現いたします」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「ZX ～チッパーと粉砕刃物の研削盤～【短納期】」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「「感謝をかたちに」をスローガンとした品質の保証と感度のよい納期の対応」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+  - 「円筒研削との違いを知らずに加工方法を選ぶと、コスト・精度・納期の」（https://mono.ipros.com/category/5925e393d39d5a52/index.html）
+
+## 粉末冶金・金属AM（3Dプリンター）の受託（powder metallurgy metal additive manufacturing service Japan statistics）
+- 文脈：工法・粉末AM
+- 社員数・平均社員数：
+  - 「従来工法では公差の許容水準を非常に追い込んでいるため、現状の3Dプリンターの加工精度が非常に甘いと感じる人が多いかもしれません」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「群馬県の就労支援施設「ONECODE」、3Dプリンターやプログラミングを活用したIT人材育成を推進」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「30日間で1.7万人以上のユーザー様に閲覧されました」（https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/）
+  - 「金属 3D プリントに関心のある人々が最もよく尋ねる質問は、「何をプリントすればよいですか」というものです」（https://3dprinter.co.jp/cms3d/wp-content/themes/3dprinter-wp_new/images/product/markforged/metal-x/Metal-3dprinter.pdf）
+  - 「法人番号：6010605002434」（https://www.iri-tokyo.jp/service/search/mech-h26-metal-am/）
+  - 「溶接前の「除去加工」→「レーザー溶接」→「切削仕上」が1台ワンチャッキングで行うため、段取り替え不要の無人化が可能になります」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html）
+  - 「住友ゴムが3Dプリント可能なゴム素材を開発｜柔軟素材3Dプリンティングの最前線と個人ユーザーへの影響」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026）
+  - 「3Dプリンターという言葉を聞くと、多くの人は、家庭の机の上に置く小さな機械を思い浮かべるかもしれない」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「一方には、個人やクリエイター向けの低価格・高性能なプラスチック3Dプリンター市場がある」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| Anycubic | 中国 | FDM、LCD樹脂 | 個人向けで高い知名度 |」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| Flashforge | 中国 | FDM、樹脂 | 教育・個人・業務用途 |」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「理由は、日本の金型技術、切削加工、職人技、品質管理が非常に強いからである」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「人間が思いつかない形状をAIが設計し、その形状はAMでしか作れない」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「ここで、多くの人が抱く疑問に答えたい」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「インクジェットの巨人たちの中で、ヘッド技術を最も素直に3Dへ転用しているのは、実はリコーである」（https://note.com/kagawatomo/n/nf65a446ed216）
+- 受注金額・加工賃収入：
+  - 「価格帯はPBF方式で3,000万円〜、DED方式で3,000万円以上、金属フィラメント方式なら数十万円から導入可能です」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「3,000万円～」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「3,000万円以上」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「金属3Dプリンター自体、レーザーなどの高額な部品を利用するため、装置価格が数千万円以上するケースも多く、まだ手軽に手を出せる装置ではないため、設計する側も、造形する側も試行錯誤をしながら取り組んでいるという反面、す早い段階から受託造形に取り組んでいる一部のサービスビューロはノウハウを蓄積し、世界的に知名度を上げているケースもあります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「2023年の3Dプリンタ材料の世界市場規模は前年比24.9％増の4,607億2,000万円」（https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vJ-Pvj-Xv6CkaNMlGeaBCKcKkQEKXjsLgfJZQ4J33FhyTrXLRi2）
+  - 「素材変更が必要な時は段取り費用6万円が追加」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「事例: 部品1個 従来90万円/13日 → 積層造形30万円/4日」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「事例では、ある部品1個を従来の90万円・13日から、積層造形で30万円・4日にした比較を載せています（税表記なし）」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「部品1個 従来90万円/13日 → 積層造形30万円/4日（税表記なし）」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「金属3Dプリンター本体は方式によって数千万円〜1億円を超えることもある高額な設備投資になるため、試作段階や小ロット生産では「導入」よりも「受託サービス（外注）」を選ぶ企業が多くなっています」（https://online.solize.com/blog/metal-outsourcing）
+  - 「なお、金属3Dプリンター本体の導入費用（数千万円規模）と、受託サービス（外注）で1部品を製作する費用はまったく別物です」（https://online.solize.com/blog/metal-outsourcing）
+- 1人あたり・1社あたり金額：
+  - 「価格帯はPBF方式で3,000万円〜、DED方式で3,000万円以上、金属フィラメント方式なら数十万円から導入可能です」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「3,000万円～」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「3,000万円以上」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「金属3Dプリンター自体、レーザーなどの高額な部品を利用するため、装置価格が数千万円以上するケースも多く、まだ手軽に手を出せる装置ではないため、設計する側も、造形する側も試行錯誤をしながら取り組んでいるという反面、す早い段階から受託造形に取り組んでいる一部のサービスビューロはノウハウを蓄積し、世界的に知名度を上げているケースもあります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「2023年の3Dプリンタ材料の世界市場規模は前年比24.9％増の4,607億2,000万円」（https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vJ-Pvj-Xv6CkaNMlGeaBCKcKkQEKXjsLgfJZQ4J33FhyTrXLRi2）
+  - 「素材変更が必要な時は段取り費用6万円が追加」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「事例: 部品1個 従来90万円/13日 → 積層造形30万円/4日」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「事例では、ある部品1個を従来の90万円・13日から、積層造形で30万円・4日にした比較を載せています（税表記なし）」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「部品1個 従来90万円/13日 → 積層造形30万円/4日（税表記なし）」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「金属3Dプリンター本体は方式によって数千万円〜1億円を超えることもある高額な設備投資になるため、試作段階や小ロット生産では「導入」よりも「受託サービス（外注）」を選ぶ企業が多くなっています」（https://online.solize.com/blog/metal-outsourcing）
+  - 「なお、金属3Dプリンター本体の導入費用（数千万円規模）と、受託サービス（外注）で1部品を製作する費用はまったく別物です」（https://online.solize.com/blog/metal-outsourcing）
+  - 「906億2700万円の減損損失」（https://note.com/kagawatomo/n/nf65a446ed216）
+  - 「| Nikon SLM Solutionsののれん | 約605億6800万円 |」（https://note.com/kagawatomo/n/nf65a446ed216）
+- 生産能力・設備：
+  - 「長きにわたり材料技術を進化させ、現在は年間約50万トンの生産能力を有し、世界15拠点から3,500種類以上の金属粉末をグローバルに供給しています」（https://pr.mono.ipros.com/hoganas/product/detail/2000894054/）
+  - 「金属3Dプリンター本体は方式によって数千万円〜1億円を超えることもある高額な設備投資になるため、試作段階や小ロット生産では「導入」よりも「受託サービス（外注）」を選ぶ企業が多くなっています」（https://online.solize.com/blog/metal-outsourcing）
+  - 「金属3Dプリントの受託造形は、設備投資をせずに金属部品特有のメリットを活用できる選択肢です」（https://online.solize.com/blog/metal-outsourcing）
+  - 「同社は国内最大級の3Dプリンター保有台数を誇り、樹脂・金属の両方に対応可能です」（https://note.com/umaki11/n/n3efcf73dffdc）
+  - 「機器メーカー（DMG森精機、ソディック、ニコン）は設備投資サイクルの影響を受けやすく、景気感応度が高い傾向にあります」（https://note.com/umaki11/n/n3efcf73dffdc）
+  - 「機器メーカーは顧客企業の設備投資意欲に業績が左右されます」（https://note.com/umaki11/n/n3efcf73dffdc）
+- 10年推移：
+  - 「2025年02月16日」（https://jampt.jp/）
+  - 「2025年01月10日」（https://jampt.jp/）
+  - 「世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「世界の金属3Dプリンター市場規模・予測グラフ（出典：JMAR、2021年）」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「2025年ごろの装置状況に期待したいところです」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「2025年1月24日」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「2025年1月23日」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「TCT Japan 2025主催者に聞く！3Dプリンター展示会来場のポイントとは？」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「【2023年12月版】小規模なモノづくりで活躍する手が届くおすすめ3Dプリンター」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「【2023年版】大型3Dプリンターの比較・選び方〜造形方式ごとの特徴や、導入時に気をつけたいこと」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「【2023年版】産業用3Dプリンターの造形準備ソフトウェア（スライサー）って何ができるの？どんな製品があるの？」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「2024年版 3Dプリンタ材料市場の現状と将来展望 | 市場調査とマーケティングの矢野経済研究所」（https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vJ-Pvj-Xv6CkaNMlGeaBCKcKkQEKXjsLgfJZQ4J33FhyTrXLRi2）
+  - 「2024年版 3Dプリンタ材料市場の現状と将来展望」（https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vJ-Pvj-Xv6CkaNMlGeaBCKcKkQEKXjsLgfJZQ4J33FhyTrXLRi2）
+  - 「2024/09/30」（https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vJ-Pvj-Xv6CkaNMlGeaBCKcKkQEKXjsLgfJZQ4J33FhyTrXLRi2）
+  - 「：2024年6月3日～2024年9月24日」（https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vJ-Pvj-Xv6CkaNMlGeaBCKcKkQEKXjsLgfJZQ4J33FhyTrXLRi2）
+- 人手と仕事の差：
+  - 「3Dデータと金属材料があればすぐに製作できるため、短納期での製造が可能」（https://www.jeol.co.jp/column/detail001.html）
+  - 「ロケット部品は、少量のオーダーメイド生産がなされ、製造コストを抑えることよりも、性能が高いこと、納期が短くできることが求められます」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「微弱な電波でも効率的に拾うことができるような複雑な構造を実現しようとすると、既存工法では加工点が多すぎてコストや納期を大きく膨らませてしまいます」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「航空宇宙分野の部品は実際に利用する際に、厳格な業界規格への適合をもとめられるため、部品の一体化造形には、大きなコスト削減、納期短縮効果が期待できます」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「金属3Dプリンターを活用した部品加工は、造形の自由度の高さや金型レスであるプロセスの自由度の高さから、既存の加工方法では実現できない納期短縮やコストダウンを実現できる可能性があります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「グローバル販売網により安定した価格・納期での供給を実現」（https://pr.mono.ipros.com/hoganas/product/detail/2000894054/）
+  - 「流動性が高く、サテライトの少ない高品質な金属粉末を短納期で提供可能」（https://pr.mono.ipros.com/hoganas/product/detail/2000894054/）
+  - 「日本積層造形株式会社 / JAMPT（ジャンプ）では材料開発や造形、品質評価まで一貫して対応し、短納期での粉末開発を実現します」（https://jampt.jp/service/am-material/）
+  - 「納期までにお客様で対応しきれない評価業務は全て、JTLが吸収します」（https://jtla.co.jp/service/measurement_product/metal-3d-printer.html）
+  - 「20社のうち1個からを明記していたのは5社、納期の数字を出していたのも一部でした」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「1個からの対応を明記していたのは20社のうち5社だけで、納期の数字を出していたのも一部でした」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「見積と納期の相談には3Dデータ（stlかigs）が必要」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「2026年10月1日時点で検索「金属3Dプリント 受託」「金属3Dプリンター 受託造形」「金属AM 受託造形」「金属積層造形 受託」等で表示された公式サイト20社（金属3Dプリンターの装置メーカー・販売代理店、造形のマッチング・見積サイトの運営会社、金属材料の商社、グループ会社の案内ページは除外）を調査し、①公式サイトに金属3Dプリンターによる受託造形の記載がある ②造形方式・材料・造形サイズのいずれかの記載がある ③後加工・最小ロット・納期・見積方法のいずれかの記載がある、の3点を満たす中から、PBFで1個の試作を後加工まで任せる・大型やDEDの肉盛り・チタンや耐熱合金の品質まで詰めるの用途別に3社を選定しています」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「最小ロットと納期の数字は公式に記載がありません」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「部品の材料・おおよその大きさ・必要な精度と表面粗さ、数量と希望納期、3Dデータの有無（3D CAD・2D図面・現物）、熱処理や切削仕上げの要否を送っていただくと、編集チームが条件に合う掲載会社を整理し、合う候補と、見積もりで確かめる点をお返しします」（https://hikaku-hub.com/metal-3d-printing/）
+- 検索結果の抜粋：
+  - 「金属3Dプリンター の基礎知識：各方式の違いと特徴を徹底解説 — 金属3Dプリンター の基礎知識：各方式の違いと特徴を徹底解説 日本電子株式会社 https://www.jeol.co.jp > column > detail001」（https://www.jeol.co.jp/column/detail001.html）
+  - 「日本積層造形株式会社: 金属3Dプリンター の AM 技術による ... — 日本積層造形株式会社: 金属3Dプリンター の AM 技術による ... 日本積層造形株式会社 https://jampt.jp」（https://jampt.jp/）
+  - 「金属 3Dプリンター ( 金属AM )と金属を用いた工法の可能性と今 ... — 金属 3Dプリンター ( 金属AM )と金属を用いた工法の可能性と今 ... 株式会社J・3D https://j3d.co.jp > コラム」（https://j3d.co.jp/column/b6a3bda7-c8da-4b12-b029-8695df4cd839）
+  - 「金属 3Dプリンター受託 造形｜ 金属AM ×精密切削加工｜ODEC — 金属 3Dプリンター受託 造形｜ 金属AM ×精密切削加工｜ODEC 3d.kinzoku-kakou-odec.com http://3d.kinzoku-kakou-odec.com」（http://3d.kinzoku-kakou-odec.com/）
+  - 「金属 3D プリンター 技術と業界の最新動向 - 特殊鋼倶楽部 — 金属 3D プリンター 技術と業界の最新動向 - 特殊鋼倶楽部 特殊鋼倶楽部 PDF https://www.tokushuko.or.jp > pdf > magazine2305」（https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf）
+  - 「【2026年版】 金属3Dプリンター 完全ガイド｜価格・造形方式 ... — 【2026年版】 金属3Dプリンター 完全ガイド｜価格・造形方式 ... ShareLab NEWS https://news.sharelab.jp > study」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「金属3Dプリンター 向け 金属粉末 材料＜紹介資料進呈 - イプロス — 金属3Dプリンター 向け 金属粉末 材料＜紹介資料進呈 - イプロス 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > ... > 3Dメタルプリンティング」（https://pr.mono.ipros.com/hoganas/product/detail/2000894054/）
+  - 「材料開発支援サービス | 金属3Dプリンター の AM 技術による ... — 材料開発支援サービス | 金属3Dプリンター の AM 技術による ... 日本積層造形株式会社 https://jampt.jp > サービス紹介」（https://jampt.jp/service/am-material/）
+  - 「金属3Dプリンター 造形 受託 サービス - 鋳造用金型 — 金属3Dプリンター 造形 受託 サービス - 鋳造用金型 fuji-mold.co.jp https://www.fuji-mold.co.jp > 設備紹介」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html）
+- 事業所数・社数：記載なし（読んだ46頁・検索15回）
+
+## 樹脂成形（射出成形）の受託（injection molding contract Japan statistics）
+- 文脈：工法・樹脂（参考）
+- 事業所数・社数：
+  - 「これらの全製造業に対する比率は、事業所数が5.2％、従業者数が4.4％、製品出荷額が3.4％をそれぞれ占めている」（https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html）
+  - 「また、５年前（平成４年度）と比較した場合、プラスチック製品製造業では事業所数が93.83％、従業者数が97.70％、製品出荷額が96.45％、といずれも減少している」（https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html）
+  - 「一方、製造業全体も５年前と比較した場合、事業所数が86.30％、従業者数が89.10％、製品出荷額が98.04％の減少である」（https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html）
+  - 「県内の従業者規模別の事業所数の推移を見ると、５年前も現在も従業員９人以下の事業所が７割を超える一方、３０人以上の事業所は１割に満たず、ほとんど構造は変わっていない」（https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html）
+- 社員数・平均社員数：
+  - 「商品の特性としては、300mm角の樹脂パレットに左官職人がシラスを塗った製品で、左官工事不要で壁への脱着が容易にできる内装壁材です」（https://injection-lab.com/）
+  - 「関東製作所4つのメイン事業『金型製作』『部品加工・調達』『プラスチック成形』『省人化装置製作』」（https://injection-lab.com/）
+  - 「人手不足や不良改善、成形現場の自動化、CO2削減（カーボンニュートラル）や成形工場のスマートファクトリー化など、射出成形の課題解決にお役立てください」（https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding）
+  - 「公益財団法人２１あおもり産業総合支援センター」（https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/）
+  - 「当社THY精密工業は24時間自動無人稼動での生産体制も備わっており、コスト削減・納期短縮が可能となります」（https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/）
+  - 「6. 人材の育成 ········································································································ 31」（https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf）
+  - 「今から 20 年前に、社団法人日本産業機械工業会が財団法人機械振興協会経済研究所より受託し」（https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf）
+  - 「需要予測、国際協調の構築、人材の確保・育成等について研究を行い、21世紀に向けた将来像を示」（https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf）
+  - 「国連が 2011 年 5 月に発表した「世界人口推計」によると、」（https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf）
+  - 「40年前には 36億人だった人口が 2011年には 70億人を超え、40年後の 2050年には 93億人に達す」（https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf）
+  - 「ア、ニュージーランド）の人口は現在の 12億人から 3800万人しか増加せず、開発途上地域（先進工」（https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf）
+  - 「業地域以外の国）が 56 億人から 79 億人に増加する（うち後発開発途上国も 8 億人から 16 億人に増」（https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf）
+  - 「図 1－世界人口の推移（2012年以降は推計値）」（https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf）
+  - 「インドネシアは、人口が世界第４位で、政治も安定してきており、将来が有望な市場である」（https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf）
+  - 「インドは、世界第２位の人口を持ち、BRICs 諸国の中では中国に次ぐ水準で経済成長を続ける市」（https://www.jsim.or.jp/pdf/publication/a-1-55-00-00-00-p09.pdf）
+- 受注金額・加工賃収入：
+  - 「【CAE解析】射出成形の不良を未然に防ぐ ― 5万円から始める流動解析サービス ―」（https://injection-lab.com/）
+  - 「全電動セグメントの2025年売上高は33億米ドル」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+  - 「セグメントのシェアは2035年までに世界売上高の44%に達すると予測される」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+  - 「油圧式機械の2025年の売上高は60.5億米ドルで、2035年には市場売上高の42%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+  - 「ハイブリッド機械は2025年の市場売上高の15%を占め、2035年には24.3億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+  - 「手動機は2025年に市場売上高の10%を占め、2026年から2035年にかけて約−5.6%の年平均成長率（CAGR）を記録すると予測される」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+  - 「Below-500-tonne成形機は2025年に市場売上高の45%を占め、2035年までに72.5億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+  - 「500～1,000-tonneの成形機は2025年に38.5億米ドルを生み出し、2035年までに市場売上高の36%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+  - 「1,000 bar未満の成形機は2025年に市場売上高の35%を占め、2035年までに市場売上高の30%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+  - 「1,000～2,500 barの成形機は2025年に55.0億米ドルを生み出し、2035年までに市場売上高の52%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+  - 「プラスチックは2025年に市場売上高の75%を占め、2035年には市場売上高の73%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+  - 「金属射出成形機の市場規模は2035年までに12.1億米ドルに達すると予測される一方、金属は2025年の市場売上高の7%を占めた」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+  - 「セラミック射出成形は2025年の市場売上高の3%を占め、2026年から2035年にかけて年平均成長率（CAGR）約8.0%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+  - 「直接販売は2025年の市場売上高の65%を占め、2035年までに市場売上高の68%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+  - 「間接販売は2025年に38.5億米ドルを生み出し、2035年までに市場売上高の32%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+- 1人あたり・1社あたり金額：
+  - 「【CAE解析】射出成形の不良を未然に防ぐ ― 5万円から始める流動解析サービス ―」（https://injection-lab.com/）
+  - 「芝浦機械の2026年3月期の成形機事業の売上高は988億5,400万円でした」（https://forwit.jp/column/injection-molding-machine/）
+  - 「TOYOイノベックスは2026年3月期の連結売上高が288億2,100万円で、このうち射出成形機が212億4,200万円、ダイカストマシンが75億7,900万円でした」（https://forwit.jp/column/injection-molding-machine/）
+  - 「射出成形機の海外売上は157億8,800万円で海外比率は74.3%です」（https://forwit.jp/column/injection-molding-machine/）
+  - 「2025年3月期の売上高は474億9,300万円で、国内が124億6,500万円、海外が350億2,700万円、海外比率は73.8%でした」（https://forwit.jp/column/injection-molding-machine/）
+  - 「2026年3月期は4月から12月までの9カ月で売上高332億4,100万円、営業損失14億700万円と苦戦し、日本のセグメントが11.0%減って11億8,000万円の損失を計上しています」（https://forwit.jp/column/injection-molding-machine/）
+  - 「ファナックのロボマシン部門は1,296億円で5.8%の減収、日本製鋼所の成形機は648億円で前期の669億円から減少、芝浦機械の成形機事業は988億5,400万円で27.9%の減収でした」（https://forwit.jp/column/injection-molding-machine/）
+  - 「日精樹脂工業は4月から12月までで営業損失14億700万円、経常損失8億3,000万円を計上しました」（https://forwit.jp/column/injection-molding-machine/）
+  - 「その中でTOYOイノベックスは売上高288億2,100万円と6.6%の増収、営業利益1億6,000万円で黒字に戻しています」（https://forwit.jp/column/injection-molding-machine/）
+  - 「このプラスチック製造品出荷額を従業員１人当りで見ると、25.17（百万円）となり全国9位と高い水準に位置する」（https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html）
+  - 「注：出荷額の単位は百万円、平成９年で特化係数が１を超える県は１５あるが１．５を超える県のみ記載した」（https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html）
+  - 「岐阜県プラスチック製品製造業の現状 平成９年（単位：人、百万円）」（https://www.gpc-gifu.or.jp/chousa/keikyou/h11/07_09/plastic.html）
+  - 「試作のつづき｜簡易金型・射出成形 90万円から｜ODORIJI」（https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c）
+  - 「通常4〜5ヶ月、数百万円かかる「金型」での射出成形が、低価格、短納期で」（https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c）
+  - 「（90万円・約1.5ヶ月／表面仕上げは量産品と若干の差）」（https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c）
+- 生産能力・設備：
+  - 「2025年の設備投資凍結後にEVプログラムの受注が再開するにつれ、自動車セグメントの射出成形機（IMM）需要も回復する」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+  - 「インダストリー4.0対応の後付け改修により、予測期間の中盤まで追加的な設備投資機会が続く」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+  - 「国内回帰を促すインセンティブと通商政策の明確化により、設備投資への慎重姿勢が和らぎ、北米では2026〜2027年に回復が見込まれる」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+  - 「日本製鋼所はインドで自動車に加えて容器や雑貨の需要が伸びていると述べ、海天国際は2025年の海外売上の伸びの背景として東南アジアと南米の生産能力拡大を説明しています」（https://forwit.jp/column/injection-molding-machine/）
+  - 「2025年に導入された米国の関税により、一部の樹脂グレードの着荷コストが10～15％上昇した一方、中国の供給過剰（追加生産能力500万トンと推定）がアジア地域の相場を押し下げ、地域間の裁定取引スプレッドを拡大させました」（https://www.gii.co.jp/report/moi2124417-plastics-injection-molding-market-share-analysis.html）
+  - 「米国の1兆4,000億米ドル規模の再産業化計画は、半導体、EV用バッテリー、医療機器の生産能力を支援しており、これにより国内の樹脂需要が拡大する見込みです」（https://www.gii.co.jp/report/moi2124417-plastics-injection-molding-market-share-analysis.html）
+  - 「米国の1兆4,000億米ドル規模の再産業化計画は、半導体、EV用バッテリー、医療機器の生産能力を支援しており、これにより国内の樹脂需要が拡大する見込みです」（https://newscast.jp/smart/news/6471931）
+  - 「だが24時間稼働の工場に比べ、日勤だけでは単純計算で生産能力が3分の1になる」（https://journal.meti.go.jp/future/11971/）
+  - 「社内で3種の樹脂成形ができることに加え、機械の稼働率を70％までに抑えることで、突発的な注文が入っても対応できる余力を残している」（https://journal.meti.go.jp/future/11971/）
+  - 「射出成形機の購入には、小型機1台で数百万円、大型成形機では億単位もの設備投資費が必要になります」（https://mfg-hack.com/injection-molding/9390/）
+- 10年推移：
+  - 「※2024年5月現在」（https://www.daiwa-grp.co.jp/biz/entrustment）
+  - 「このページでは射出成形の原理、基本機構、成形工程、成形機の種類、プラスチック樹脂の種類など、プラスチック成形にまつわる2023年版の基礎知識をまとめました」（https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding）
+  - 「2021年3月頃から北米の石化メーカーのプラント停止や樹脂原材料不足により、樹脂不足が常態化しつつあります」（https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding）
+  - 「クルマの軽量化に伴い、樹脂部品の採用が増加する中、アジア圏へ生産拠点を展開されているプラスチック射出成形加工業者様においては、コロナ禍においていかに成形工場を操業させるか、需要変動にいかに対処するか喫緊の課題といえます」（https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding）
+  - 「特に、重量の嵩む金属部品から樹脂への代替は増加が見込まれ、CFRP・CFRTP等の新素材の開発は、シャーシへの金属代替樹脂としても採用が始まりつつあります」（https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding）
+  - 「一方、EV化に伴う樹脂部品の採用増加は、今まで以上に製品形状の複雑さが予測され、３次元形状を求められたり、局所的偏肉成形製品を求められます」（https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding）
+  - 「スライドコアの増加や、ゲート形状が複雑になる等、品質を保つために今まで以上複雑になることが予測されます」（https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding）
+  - 「また、施行後は段階的に量が拡大され、6年後に15％、8年後に20％、10年後には25％が完全義務化になる予定です」（https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding）
+  - 「また、ホンダは2025年に内燃機関製造の主力拠点の一つであり、エンジン部品を製造する栃木県真岡工場の閉鎖を決めています」（https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding）
+  - 「『2018年版ものづくり白書「概要」』経済産業省／厚生労働省／文部科学省」（https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding）
+  - 「また、マネジメントシステム認証ISO 9001:2015, ISO13485 認証も取得しております」（https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/）
+  - 「複雑なキャビティ設計の型も製作が可能ですが、金型の設計変更が多くなるとプロセスがスローダウンするため、金型の設計が複雑になるほどコストが増加することになります」（https://formlabs.com/jp/blog/injection-molding-cost/）
+  - 「アンダーカットのある複雑な設計は、スライディングサイドアクションやコアを必要とし、型のコストを増加させます」（https://formlabs.com/jp/blog/injection-molding-cost/）
+  - 「プレス時間の増加は生産プロセスを遅らせ、結果として成形コストが上昇します」（https://formlabs.com/jp/blog/injection-molding-cost/）
+  - 「2024.07.2」（https://mfg-hack.com/injection-molding/9476/）
+- 人手と仕事の差：
+  - 「納期・品質・コストの面で市場からの信頼にお応えすることが可能です」（https://www.daiwa-grp.co.jp/biz/entrustment）
+  - 「製品やコスト、納期についてご提案いたします」（https://www.daiwa-grp.co.jp/biz/entrustment）
+  - 「> 最短納期を2週間で！180ton射出成…」（https://injection-lab.com/）
+  - 「軽量・高精度・短納期で、初期試作から量産試作まで」（https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/injection-molding/）
+  - 「本金型で月産20万個の大量生産にも対応しており、納期や数量に応じた最適なソリューションを提供します」（https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/injection-molding/）
+  - 「納期や数量に合わせた「最適な成形オプション」を選択可能」（https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/injection-molding/）
+  - 「金額や納期（実働日数）が記載された見積書をメビーマーケットプレイスまたはWOS上で発行することができます」（https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/injection-molding/）
+  - 「人手不足や不良改善、成形現場の自動化、CO2削減（カーボンニュートラル）や成形工場のスマートファクトリー化など、射出成形の課題解決にお役立てください」（https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding）
+  - 「『製造業における人手不足の現状および外国人材の活用について』経済産業省製造産業局」（https://www.injection-molding.jp/blog/plastic-resin-processing-by-injection-molding）
+  - 「高品質、低コストはもちろん、併せて超短納期化を実現する洗練された金型製作をお約束します！」（https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/）
+  - 「■超短納期の金型製作を可能にする画期的な合理化プロセス」（https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/）
+  - 「一貫生産体制だからこそ実現できる、品質、コスト、納期の最適化」（https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/）
+  - 「顧客ニーズ(必要数量/納期/精密性/予算等)によって、3Dプリンター、」（https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/）
+  - 「■顧客ニーズ(必要数量/納期/精密性/予算等)によってご提案」（https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/）
+  - 「当社THY精密工業は24時間自動無人稼動での生産体制も備わっており、コスト削減・納期短縮が可能となります」（https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%8F%97%E8%A8%97/）
+- 検索結果の抜粋：
+  - 「射出成形 ラボ｜小物から 成形 機1,800tクラス、試作品や小 ... — 射出成形 ラボ｜小物から 成形 機1,800tクラス、試作品や小 ... 射出成形ラボ https://injection-lab.com」（https://injection-lab.com/）
+  - 「プラスチック 射出成形 会社449社 - Metoree — プラスチック 射出成形 会社449社 - Metoree Metoree https://metoree.com > 加工サービス」（https://metoree.com/categories/8994/）
+  - 「日本 射出成形 プラ市場規模・シェア予測2034 - IMARC Group — 日本 射出成形 プラ市場規模・シェア予測2034 - IMARC Group IMARC Group https://www.imarcgroup.com > Healthcare」（https://www.imarcgroup.com/report/ja/japan-injection-molded-plastics-market）
+  - 「2029年までの 射出成形 プラスチック市場規模、シェア、企業 — 2029年までの 射出成形 プラスチック市場規模、シェア、企業 Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...」（https://www.databridgemarketresearch.com/jp/reports/global-injection-molded-plastics-market）
+  - 「2026年 射出成形 機 受注統計 - 日本産業機械工業会 — 2026年 射出成形 機 受注統計 - 日本産業機械工業会 一般社団法人 日本産業機械工業会 PDF https://www.jsim.or.jp > pdf > statistical-data」（https://www.jsim.or.jp/pdf/statistical-data/a-1-54-00-00-00-20260918.pdf）
+  - 「射出成形 機市場規模・予測レポート（2026～2035年） — 射出成形 機市場規模・予測レポート（2026～2035年） Global Market Insights Inc. https://www.gminsights.com > industry-analysis > injectio...」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+  - 「プラスチック 射出成形 市場 | 業界シェア 市場規模 成長性 2026 — プラスチック 射出成形 市場 | 業界シェア 市場規模 成長性 2026 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > 産業用機械 > 工作機械」（https://www.gii.co.jp/report/moi2124417-plastics-injection-molding-market-share-analysis.html）
+  - 「プラスチック 成形 職種( 射出成形 作業) — プラスチック 成形 職種( 射出成形 作業) 厚生労働省 PDF https://www.mhlw.go.jp > file > 06-Seisakujouhou-1...」（https://www.mhlw.go.jp/file/06-Seisakujouhou-11800000-Shokugyounouryokukaihatsukyoku/0000184761.pdf）
+  - 「射出成形 ・ 樹脂成形 の生産管理システム活用と原価管理の実践 ... — 射出成形 ・ 樹脂成形 の生産管理システム活用と原価管理の実践 ... 船井総合研究所 https://smart-factory.funaisoken.co.jp > factorydx-5322」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx-5322）
+  - 「射出成形 プラスチック市場 規模 、シェア |成長 [2034] — 射出成形 プラスチック市場 規模 、シェア |成長 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 射出成形プラ...」（https://www.fortunebusinessinsights.com/jp/%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4-101970）
+  - 「射出成形 機市場 規模 ・予測レポート（2026～2035年） — 射出成形 機市場 規模 ・予測レポート（2026～2035年） Global Market Insights Inc. https://www.gminsights.com > industry-analysis > injectio...」（https://www.gminsights.com/ja/industry-analysis/injection-molding-machine-market）
+  - 「試作のつづき｜簡易金型・ 射出成形 90 万円 から - ODORIJI — 試作のつづき｜簡易金型・ 射出成形 90 万円 から - ODORIJI odoriji.net https://odoriji.net > pages > mold」（https://odoriji.net/pages/mold?srsltid=AYCX9vJ1oaoapTXdYql-CEgzVkJFziHrcFYVmVCHwlY2nlH4K3EK3Y2c）
+  - 「射出成形 - メーカー・企業120社の業務用製品ランキング — 射出成形 - メーカー・企業120社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 射出成形」（https://mono.ipros.com/cg2/%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2/）
+  - 「射出成形サービス - メーカー・企業114社の業務用製品ランキング | イ... — Oct 21, 2026 · 射出成形サービスのメーカーや取扱い企業、製品情報、参考価格をまとめています。 技術資料のダウンロードも可能です。 イプロスものづくりでは射出成形サービスの製造業向けの情報を多数掲載。」（https://mono.ipros.com/cg2/射出成形サービス/）
+  - 「プラスチック射出成形市場の規模、シェア、成長率、分析（2034年まで... — Oct 16, 2026 · プラスチック射出成形市場の規模は、2026年の137億3000万ドルから2034年には189億7000万ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.12%です。」（https://straitsresearch.com/jp/report/plastic-injection-molding-market）
+
+## 電子部品実装（EMS）・基板実装の受託（EMS PCB assembly Japan statistics）
+- 文脈：工法・実装
+- 事業所数・社数：
+  - 「出展社数は同時開催展合わせて 約1800社！」（https://www.nepconjapan.jp/tokyo/ja-jp/visit/feature/04.html）
+  - 「すると、「612」という数字を、そのまま現在のEMS受託企業数として表示するのは適切ではないことが分かりました」（https://note.com/wish11_11/n/n0c1dcca14584）
+  - 「ただし、今回の改訂で一番大きく変えたのは、ページ数でも企業数でもありません」（https://note.com/wish11_11/n/n0c1dcca14584）
+  - 「「会社数を多く見せるためのデータベース」ではありません」（https://note.com/wish11_11/n/n0c1dcca14584）
+  - 「現在の「公式確認済みEMS企業数」とは分けています」（https://note.com/wish11_11/n/n0c1dcca14584）
+- 社員数・平均社員数：
+  - 「全国389法人の基板実装・EMS企業データを見る」（https://money.hb449.com/archives/4322）
+  - 「全国389法人｜日本のEMS業界 中期展望白書2027–2030」（https://money.hb449.com/archives/4322）
+  - 「・【2026年版・全国対応】基板実装会社が使える補助金・融資｜マウンター・AOI・MES・人材育成の完全実務ガイド【PDF＋Excel付】」（https://money.hb449.com/archives/4322）
+  - 「基板実装会社が新しいマウンターを買う前に出る5つのサイン｜求人・補助金・増床から読む」（https://money.hb449.com/archives/4322）
+  - 「【基礎・初心者向け】基板実装の基本を知りたい人向け（ (114)」（https://money.hb449.com/archives/4322）
+  - 「基板実装の転職・求人情報 (16)」（https://money.hb449.com/archives/4322）
+  - 「「お客様が楽できるモノづくり」を実現する為に、国内最大クラスの実装機98台12ライン、約1000名体制の人員を保有するEMS企業です」（https://www.allowtex.co.jp/service/ems）
+  - 「すでに従業員の約1 割にあたる 8,000 人をリストラするなど」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1）
+  - 「３．人件費割合と営業利益率との関係」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1）
+  - 「図表Ⅲ－５ 人件費割合と営業利益率との関係」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1）
+  - 「全国389法人の基板実装・EMS企業データを見る」（https://money.hb449.com/archives/3035）
+  - 「全国389法人｜日本のEMS業界 中期展望白書2027–2030」（https://money.hb449.com/archives/3035）
+  - 「・【2026年版・全国対応】基板実装会社が使える補助金・融資｜マウンター・AOI・MES・人材育成の完全実務ガイド【PDF＋Excel付】」（https://money.hb449.com/archives/3035）
+  - 「基板実装会社が新しいマウンターを買う前に出る5つのサイン｜求人・補助金・増床から読む」（https://money.hb449.com/archives/3035）
+  - 「【基礎・初心者向け】基板実装の基本を知りたい人向け（ (114)」（https://money.hb449.com/archives/3035）
+- 受注金額・加工賃収入：
+  - 「本の電気機械器具産業(資本金 10 億円以上)の財務状況を比較すると以下のようになる」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1）
+  - 「は、年間受注額が 40 億円以下の規模では受注しないと言う EMS もあるとされた」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1）
+  - 「例えば最大手のソレクトロン社の 2001 年３～５月期は、売上高が前の四半期と比べ26.5％」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1）
+  - 「と大幅な減少､純損益は1 億 8600 万ドルの赤字となった（ただし前年同期比でみると売上」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1）
+  - 「図表Ⅲ―１ 各製品の国内生産額」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1）
+  - 「1970 年代 ﾃｸﾉﾛｼﾞｰ 米国 加工賃獲得」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1）
+  - 「出荷額は前年同月比で3.0%増加、前月比で2.4%増加、年累計は前年比0.3%減少」（https://jpcb.jp/news/?m=detail&nwid=346）
+  - 「受注額は前年同月比で8.9%減少、前月比で17.4%減少、年累計は前年比0.2%増加」（https://jpcb.jp/news/?m=detail&nwid=346）
+  - 「「A社は100万円なのに、B社は150万円」（https://money.hb449.com/archives/3035）
+  - 「この50万円の差は何なのか？」と疑問を持つのは当然のことです」（https://money.hb449.com/archives/3035）
+  - 「価格：1万円 ~ 10万円」（https://mono.ipros.com/cg1/%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「価格：10万円 ~ 50万円」（https://mono.ipros.com/cg1/%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「企業データベースのストレイナーが公開している国内EMS関連企業の売上高ランキングによると、1位は加賀電子で売上高6,589億円、2位はシークスで売上高2,895億円、3位はユー・エム・シー・エレクトロニクスで売上高1,127億円、4位はnmsホールディングスで売上高757億円となっています」（https://money.hb449.com/archives/4501）
+  - 「シークスは公式サイトで自社を国内トップのEMS企業と位置づけており、海外拠点は14カ国に約50拠点、海外売上高比率は約80%に達しているとしています」（https://money.hb449.com/archives/4501）
+  - 「EMSおよびODM―世界の市場シェアとランキング、2026年～2032年の総売上高および需要予測」（https://www.gii.co.jp/report/anvi2073719-electronics-manufacturing-services-market-by.html）
+- 1人あたり・1社あたり金額：
+  - 「「A社は100万円なのに、B社は150万円」（https://money.hb449.com/archives/3035）
+  - 「この50万円の差は何なのか？」と疑問を持つのは当然のことです」（https://money.hb449.com/archives/3035）
+  - 「価格：1万円 ~ 10万円」（https://mono.ipros.com/cg1/%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「価格：10万円 ~ 50万円」（https://mono.ipros.com/cg1/%E5%AE%9F%E8%A3%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「2,500万円」（https://batonz.jp/sell_cases/bk_2500000/bk_2501003/）
+  - 「8,000万円」（https://batonz.jp/sell_cases/bk_2500000/bk_2501003/）
+  - 「4,000万円」（https://batonz.jp/sell_cases/bk_2500000/bk_2501003/）
+  - 「1,000万円」（https://batonz.jp/sell_cases/bk_2500000/bk_2501003/）
+  - 「3,000万円〜5,000万円」（https://batonz.jp/sell_cases/bk_2500000/bk_2501003/）
+  - 「2,200万円」（https://batonz.jp/sell_cases/bk_2500000/bk_2501003/）
+  - 「5,000万円〜1億円」（https://batonz.jp/sell_cases/bk_2500000/bk_2501003/）
+  - 「6,000万円」（https://batonz.jp/sell_cases/bk_2500000/bk_2501003/）
+  - 「2,000万円」（https://batonz.jp/sell_cases/bk_2500000/bk_2501003/）
+  - 「1,000万円〜3,000万円」（https://batonz.jp/sell_cases/bk_2500000/bk_2501003/）
+  - 「5億5,000万円」（https://batonz.jp/sell_cases/bk_2500000/bk_2501003/）
+- 生産能力・設備：
+  - 「・【PDF48ページ＋Excel】半導体・電子部品の「これから設備を買う工場」47案件｜2026-2028年 設備投資・工場新設データ」（https://money.hb449.com/archives/4322）
+  - 「なぜAI向けCCLが増えると普通のFR-4が足りなくなるのか｜生産能力配分から読む供給リスク」（https://money.hb449.com/archives/4322）
+  - 「主要10社・国内19拠点・設備投資」（https://money.hb449.com/archives/4322）
+  - 「・【PDF48ページ＋Excel】半導体・電子部品の「これから設備を買う工場」47案件｜2026-2028年 設備投資・工場新設データ」（https://money.hb449.com/archives/3035）
+  - 「なぜAI向けCCLが増えると普通のFR-4が足りなくなるのか｜生産能力配分から読む供給リスク」（https://money.hb449.com/archives/3035）
+  - 「主要10社・国内19拠点・設備投資」（https://money.hb449.com/archives/3035）
+  - 「・【PDF48ページ＋Excel】半導体・電子部品の「これから設備を買う工場」47案件｜2026-2028年 設備投資・工場新設データ」（https://money.hb449.com/archives/4501）
+  - 「なぜAI向けCCLが増えると普通のFR-4が足りなくなるのか｜生産能力配分から読む供給リスク」（https://money.hb449.com/archives/4501）
+  - 「主要10社・国内19拠点・設備投資」（https://money.hb449.com/archives/4501）
+  - 「プリント基板製造に要する装置も1ライン数千万から億単位の設備投資が必要となり、部品供給等自動化は進んでいるものの労働集約的な要素が比較的強いことから、量産ものは国内生産は成り立たなくなっているのが現状です」（https://batonz.jp/sell_cases/bk_2500000/bk_2501003/）
+  - 「・【PDF48ページ＋Excel】半導体・電子部品の「これから設備を買う工場」47案件｜2026-2028年 設備投資・工場新設データ」（https://money.hb449.com/archives/1653）
+  - 「なぜAI向けCCLが増えると普通のFR-4が足りなくなるのか｜生産能力配分から読む供給リスク」（https://money.hb449.com/archives/1653）
+  - 「主要10社・国内19拠点・設備投資」（https://money.hb449.com/archives/1653）
+  - 「SMTライン13本を有する高い生産能力と、約8,000品種の自社調達在庫で多品種に対応可能」（https://www.lead-ems.com/）
+  - 「理由は、生産能力に限りがあるからです」（https://note.com/wish11_11/n/nd3e6b147f658）
+- 10年推移：
+  - 「2025年 (12)」（https://www.kuzumi-denshi.co.jp/media/column/a42a）
+  - 「2024年 (4)」（https://www.kuzumi-denshi.co.jp/media/column/a42a）
+  - 「© 2018 KATOLEC CORPORATION. All Rights Reserved.」（https://www.katolec.com/EMS/）
+  - 「このサイトは、2024年12月、2026年5月時点の調査をもとにZenken株式会社が作成・公開しています」（https://www.lead-ems.com/knowledge/flow.html）
+  - 「年々増加する下面電極部品に対して、当社では全数・全ピン検査による保証で他にはない品質をお届けいたします」（https://www.oki.com/jp/Advanced-ems/service/others.html）
+  - 「さらに、従来の洗浄には一般的な代替フロンを使用していましたが、2020年以降の法律規制強化にも対応可能なように、新たな洗浄液の選定と評価（液剤の最適洗浄時間と乾燥時間）を行い、従来の溶剤と同等以上の洗浄性能を確保するとともに、JISや航空宇宙規格をクリアすることも可能です」（https://www.oki.com/jp/Advanced-ems/service/others.html）
+  - 「Copyright (C) 2023 SUN-S Co.,LTD. All Rights Reserved.」（https://suns-emp.com/column/500）
+  - 「Copyright(C) 2022 DENSHI-GIHAN CO., LTD. All Rights Reserved.」（https://www.denshi-gihan.co.jp/ems/）
+  - 「©︎2023 NITTOCORP lnc.」（https://oem-ems-partners.com/column/2864/）
+  - 「2024年1月にオムロン社より外観検査の取組みが評価され、スマート工場がオムロン社のモデル工場に認定を受けています」（https://www.allowtex.co.jp/service/ems）
+  - 「ISO9001:2015、ISO14001:2015に準じた管理体制」（https://faith-ltd.co.jp/ems/）
+  - 「そのため、EMS やファウンドリーの実態、増加の要因、その優位性や」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1）
+  - 「装工程を持つ製品を中心に増加すること、EMS は今後単なる製造工程に特化した受託だけ」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1）
+  - 「図表Ⅰ―２ 日系企業の主要製品の世界および国内生産シェアの推移（95→97→2000 年）」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1）
+  - 「近年、EMS を活用する企業は増加し､市場は急成長してきた(図表Ⅱ―2、3)」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8734760&contentNo=1）
+- 人手と仕事の差：
+  - 「設計は完了しており、実装～製造の工程だけ外注したい」（https://www.radar.co.jp/services/service-ems/）
+  - 「外注先が多く、管理コストや品質ばらつきに悩んでいる」（https://www.radar.co.jp/services/service-ems/）
+  - 「設計から製造まで一貫した対応により、ご希望の納期に間に合わせて試作基板を納品させていただきました」（https://www.radar.co.jp/services/service-ems/）
+  - 「製品企画や発注前に知っておきたい基本用語、製品化や外注を検討するときに出てくる専門用語を、図解と実務ポイントでやさしく解説します」（https://www.radar.co.jp/services/service-ems/）
+  - 「Q2．納期はどのくらいかかりますか？」（https://www.kuzumi-denshi.co.jp/media/column/a42a）
+  - 「EMS企業は効率的な生産体制とサプライチェーンを構築しているため、短納期での製造が可能です」（https://www.kuzumi-denshi.co.jp/media/column/a42a）
+  - 「まずはお客様の製品アイデア、具体的な仕様、数量、納期、予算などについてお問い合わせ・ご相談ください」（https://www.kuzumi-denshi.co.jp/media/column/a42a）
+  - 「A2．納期は、基板の複雑さ、数量、部品調達の状況などによって大きく異なります」（https://www.kuzumi-denshi.co.jp/media/column/a42a）
+  - 「お見積りの際に具体的な納期をご提示いたしますので、お気軽にお問い合わせください」（https://www.kuzumi-denshi.co.jp/media/column/a42a）
+  - 「試作・設計・実装受託の最前線！国内外から多数出展！高品質・短納期・コスト最適化を実現するためのヒントを探せます！」（https://www.nepconjapan.jp/tokyo/ja-jp/visit/feature/04.html）
+  - 「品質、コスト、納期という、いわゆるQCDのうち何を最も優先するのかを社内で言語化しておくことも欠かせません」（https://money.hb449.com/archives/4322）
+  - 「これまでの実績や得意とするロットサイズ、繁忙期・閑散期の対応可否まで踏み込んで質問することで、自社の発注パターンとの相性が見えてきます」（https://money.hb449.com/archives/4322）
+  - 「試作・小ロット・短納期 (2)」（https://money.hb449.com/archives/4322）
+  - 「基板実装を短納期で依頼する方法と業者の選び方」（https://www.lead-ems.com/knowledge/flow.html）
+  - 「作りたい製品の概要、課題（コスト・納期・品質など）、数量や予算感を共有します」（https://www.lead-ems.com/knowledge/flow.html）
+- 検索結果の抜粋：
+  - 「EMS ・ 受託 製造 特集（前回2026年） — EMS ・ 受託 製造 特集（前回2026年） ネプコン ジャパン https://www.nepconjapan.jp > ホーム > 来場のご案内」（https://www.nepconjapan.jp/tokyo/ja-jp/visit/feature/04.html）
+  - 「日本の EMS 企業一覧｜ 基板実装 ・ 電子 機器 受託 製造会社の探し ... — 日本の EMS 企業一覧｜ 基板実装 ・ 電子 機器 受託 製造会社の探し ... 基板実装.com https://money.hb449.com > archives」（https://money.hb449.com/archives/4322）
+  - 「業界レポート: SMT 実装 ・ EMS 製造 - バフェット・コード — 業界レポート: SMT 実装 ・ EMS 製造 - バフェット・コード バフェット・コード https://www.buffett-code.com > industry-report-2161002」（https://www.buffett-code.com/articles/industry-report-2161002）
+  - 「北米 電子 機器 受託 生産( EMS )統計プログラムの6月分調査結果 ... — 北米 電子 機器 受託 生産( EMS )統計プログラムの6月分調査結果 ... 基板の窓口 https://jpcb.jp > ニュース」（https://jpcb.jp/news/?m=detail&nwid=346）
+  - 「EMS受託製造がわかる！16社から選んだおすすめ3社を紹介 — EMS受託製造の基礎知識から、おすすめの製造会社まで徹底調査。 業界別に16社を比較し、自社に製品を推進させる製造パートナーを見つけられるよう厳選した3社を紹介します。」（https://www.lead-ems.com/）
+  - 「Japan EMS Industry Annual White Paper 2026 | Data on 612 ... — Apr 27, 2026 · This document is an industry white paper that organizes the corporate distribution of 612 companies, 16 listed EMS-related companies, clusters by 47 prefectures, trends by industry, M&A and business succession, and market forecasts up to 2030 regarding the EMS and board assembly industry in Japan.」（https://note.com/wish11_11/n/n0c1dcca14584?hl=en）
+  - 「Japan Electronic Manufacturing Services Market (2025-2031 ... — With a strong focus on quality and precision, Japanese EMS companies offer a wide range of services including PCB assembly, box build assembly, testing and inspection, and supply chain management.」（https://www.6wresearch.com/industry-report/japan-electronic-manufacturing-services-market）
+  - 「Japan Electronics Manufacturing Services Market Size, Share ... — Feb 6, 2026 · This wave of restructuring is reallocating mid-volume, high-mix assemblies to qualified EMS vendors, sustaining growth for the Japan electronics manufacturing services market.」（https://www.mordorintelligence.com/industry-reports/japan-electronics-manufacturing-services-market）
+
+## 塗装の受託（industrial painting contract Japan statistics）
+- 文脈：工法・塗装
+- 事業所数・社数：記載なし（読んだ48頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ48頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ48頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ48頁・検索15回）
+- 生産能力・設備：記載なし（読んだ48頁・検索15回）
+- 10年推移：記載なし（読んだ48頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ48頁・検索15回）
+
+## 受託加工の設備の稼働率・生産能力指数の推移（capacity utilization index Japan manufacturing time series）
+- 文脈：全体・能力
+- 事業所数・社数：
+  - 「（5）産業別の企業数」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「調査対象となっている事業所数は，約2万である」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「（1）被災地域の製造業事業所の事業所数は約31,000」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+- 社員数・平均社員数：
+  - 「生産年齢人口（15〜64歳・米国・月次）」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「16歳以上の民間人口（米国・月次）」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「第３次産業総合 広義対個人サービス 広義対事業所サービス(2019-2020年平均=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「る事業所（国に属する事業所および従業者3人以下の」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「※ただし，従業者3人以下の事業所を除く」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「全数調査が行われない年でも，中分類では3人以下」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「品目編 従業者4人以上の事業所について，それぞれの事業所の製造品および加工品を品目別に集計したもの」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「従業者4人以上の事業所について，日本標準産業分類に基」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「市区町村編 従業者4人以上の事業所について，主要な調査項目を市区町村別に集計したもの」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「工業地区編 従業者4人以上の事業所について，主要な調査項目を都道府県別，工業地区別に集計したもの」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「従業者30人以上の事業所について，工業用地・工業用水に」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「企業統計編 従業者4人以上の事業所について，事業所単位の調査結果を企業単位に組み替え集計したもの」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「注：有形固定資産投資総額は従業者30人以上の事業所」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「（従業者４人以上の事業所）」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「従業者30人以上の事業所については以下のように」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+- 受注金額・加工賃収入：
+  - 「（1）製造品出荷額」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「（2）製造品出荷額等」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「（3）生産額」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「（11）加工賃収入額」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+- 1人あたり・1社あたり金額：
+  - 「1人当たりGDP（名目USD）国際比較」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「1人当たり購買力平価GDP 国際比較」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「就業者1人当たりGDP（労働生産性）国際比較」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「1人当たりGNI（名目USD）国際比較」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「1人当たり購買力平価GNI 国際比較」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「1人当たり購買力平価GDP 国際比較（IMF）」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「1人当たりCO2排出量 国際比較」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「（6）付加価値額」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「表5 従業員規模別付加価値額算出方法」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「四半期別総合季節調整済指数：付加価値額生産（平成17年＝100.0）」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「1人当たりGDP（名目USD）国際比較」（https://keizai-marumie.com/fred_capacity_utilization/）
+  - 「1人当たり購買力平価GDP 国際比較」（https://keizai-marumie.com/fred_capacity_utilization/）
+  - 「就業者1人当たりGDP（労働生産性）国際比較」（https://keizai-marumie.com/fred_capacity_utilization/）
+  - 「1人当たりGNI（名目USD）国際比較」（https://keizai-marumie.com/fred_capacity_utilization/）
+  - 「1人当たり購買力平価GNI 国際比較」（https://keizai-marumie.com/fred_capacity_utilization/）
+- 生産能力・設備：
+  - 「【2026年最新】日本の製造工業生産能力・稼働率指数推移グラフ（月次）| 経済まるみえ」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「生産能力指数は保有設備の最大生産能力を、稼働率指数は実際の操業水準を2020年基準（=100）で示します」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「製造工業生産能力指数 2020年基準」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「製造工業稼働率指数 2020年基準」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「2026年7月: 94.7（製造工業生産能力指数 2020年基準）経済産業省「製造工業生産能力・稼働率指数」の最新公表値であり、詳しい内訳はページ上部のグラフ・データテーブルで確認できます」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「生産能力 -0.6」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「稼働率 2.3」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「稼働率 生産能力(右軸)(2020=100)」（http://www.etisa.or.jp/20250522seminar.pdf）
+  - 「この指標は、経済産業省が作成・公表する製造工業の稼働率指数で、生産量と生産能力の比を指数化したものです（季節調整済＝X-12-ARIMA）」（https://lanes.info/jp-mfg-capacity-util/）
+  - 「公表値は生産量と生産能力の比を指数化（季節調整済＝X-12-ARIMA）の動きを示し、単月値だけでなく数カ月の方向感を併せて読むことで実務判断に使いやすくなります」（https://lanes.info/jp-mfg-capacity-util/）
+  - 「生産量と生産能力の比を指数化（季節調整済＝X-12-ARIMA）」（https://lanes.info/jp-mfg-capacity-util/）
+  - 「なら、日本 製造業稼働率指数を含む 約 30 種類のサプライチェーン指標を一画面で追えます」（https://lanes.info/jp-mfg-capacity-util/）
+  - 「注：有形固定資産投資総額は従業者30人以上の事業所」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「（9）設備投資額（従業者30人以上の事業所）」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+  - 「（10）有形固定資産額の現在額」（https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf）
+- 10年推移：
+  - 「【2026年最新】日本の製造工業生産能力・稼働率指数推移グラフ（月次）| 経済まるみえ」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「長期金利（10年国債利回り）」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「10年ブレークイーブン・インフレ率（米国・日次）」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「10年期待インフレ率（クリーブランド連銀推計・米国・月次）」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「米国10年国債利回り（日次）」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「米国10年実質金利（TIPS利回り・日次）」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「10年実質金利（クリーブランド連銀推計・米国・月次）」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「10年タームプレミアム（キム・ライト・モデル・米国・日次）」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「米国10年-2年国債利回り差（イールドカーブ・日次）」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「米国10年-3ヶ月国債利回り差（日次）」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「米国10年国債利回り−FF金利（日次）」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「社債スプレッド（Baa格−10年国債・米国・日次）」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「日本の製造工業生産能力・稼働率指数推移グラフ」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「生産能力指数は保有設備の最大生産能力を、稼働率指数は実際の操業水準を2020年基準（=100）で示します」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「稼働率が高水準で推移している場合は設備投資拡大のシグナルとなり、逆に低下が続く場合は減産や設備廃棄による能力縮小を示します」（https://keizai-marumie.com/manufacturing_capacity_index/）
+- 人手と仕事の差：
+  - 「日銀短観 雇用人員判断DI（人手不足業種別）」（https://keizai-marumie.com/manufacturing_capacity_index/）
+  - 「生産・物流（工場の生産活動、海運、納期、在庫の流れ）」（https://lanes.info/jp-mfg-capacity-util/）
+  - 「製造業設備稼働率が上がっているときは、生産が設備能力に対して逼迫している（操業度が高い）状態で、需要の強さと供給余力の低下を示します」（https://lanes.info/jp-mfg-capacity-util/）
+  - 「製造業設備稼働率が下がっているときは、設備に稼働余力が生じている（操業度が低い）状態で、需要の鈍化や減産を示します」（https://lanes.info/jp-mfg-capacity-util/）
+  - 「A. 製造業設備稼働率が上がっているときは、生産が設備能力に対して逼迫している（操業度が高い）状態で、需要の強さと供給余力の低下を示します」（https://lanes.info/jp-mfg-capacity-util/）
+  - 「日銀短観 雇用人員判断DI（人手不足業種別）」（https://keizai-marumie.com/fred_capacity_utilization/）
+  - 「と合わせて確認することで、日米の生産設備の余力を比較できます」（https://keizai-marumie.com/fred_capacity_utilization/）
+  - 「数値が上昇すると生産設備がフル稼働に近づいている（需給が逼迫している）こと、低下すると設備に余力がある（需要が弱い）ことを意味します」（https://keizai-marumie.com/fred_capacity_utilization/）
+  - 「と比較して日米の生産余力の差を把握できます」（https://keizai-marumie.com/fred_capacity_utilization/）
+  - 「稼働率が高いほど生産設備に余力がなく、需給が逼迫していることを示します」（https://keizai-marumie.com/fred_capacity_utilization/）
+
+## 受託加工の人手不足と受注残・受注を断った割合（job shop labor shortage order backlog Japan）
+- 文脈：全体・人手と仕事
+- 社員数・平均社員数：
+  - 「図表１－７㻌 製造業の海外生産比率の推移（国内法人ベース）㻌」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「国内法人ベース＝現地法人（製造業）売上高 㻛国内法人（製造業）売上高×100㻌」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「図表１－８㻌 業種別にみた製造業の現地法人の地域別分布（㻞㻜㻝㻠 年度）㻌」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「（注）１ 湖北工業㈱と㻹㼕㼜㼛㼤㈱は、 日本本社でのインタビューを基本としつつ、 マレーシア現地法人へのイン」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「２ ㈱明輝は主にマレーシア現地法人を含む海外展開事業について日本本社でインタビューを実施した」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「４㻌㻌 従業員数は特に断りがない限り単体」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+- 受注金額・加工賃収入：
+  - 「図表１－１㻌 輸送機械、電気機械の国内生産額および輸出額の推移」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「図表１－３㻌 製造品出荷額等でみた機械工業の分析㻌」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「図表１－４㻌 㻞㻜㻝㻜～㻞㻜㻝㻠 年の製造品出荷額等でみた機械工業の分析㻌」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「図表１－５㻌 㻞㻜㻝㻜～㻞㻜㻝㻠 年の製造品出荷額等でみた機械工業の分析㻌」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「図表１－６㻌 㻞㻜㻝㻜～㻞㻜㻝㻠 年の製造品出荷額等でみた機械工業の分析㻌」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+- 10年推移：
+  - 「近年、日本企業を取り巻く環境が大きく変化するなかで、国内生産が大きく減少している産」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「人口減少や海外生産の進展、 さらには技術革新の進展等により、」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「今後、多くの産業が国内生産減少に直面する可能性があるなかで、すでにそうした状況に直面」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「そこで本レポートでは、過去に国内生産減少に直面した主に電気機械産業に連なる中小企業」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「機械産業のなかでも、とりわけ電気機械は、国内製造出荷額等を大きく減少させており、電」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「子部品・デバイスも、すでに国内生産減少の兆候が顕在化している」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「第２章国内生産減少に立ち向かう中小製造業の取り組み」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「第 㻝 章の分析を踏まえて、本調査では、電気機械など国内生産が減少している産業に属する」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「することで、国内生産減少への対応策の一つとして、海外展開の可能性について探った」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「１国内生産減少に直面する中小製造業」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「第２章 国内生産減少に立ち向かう中小製造業の取り組み㻌」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「１国内生産減少に直面する中小製造業」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「経済産業省 「生産動態統計」 によれば、機械工業の国内生産額は㻝㻥㻥㻜 年をピークに減少基調」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「そのうち例えば、電気機械㻞と輸送機械の推移をみると、電気機械が国内生産を減少さ」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「また輸出額の推移をみると、」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+- 人手と仕事の差：
+  - 「マレーシアでは順調に業容を拡大し、㻵㼀バブル崩壊の影響で余力の無かった本社」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「■顧客が驚くスピード納期で価格主導権を握る（三郷金属工業㈱）」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+  - 「㻵㼀 バブル崩壊直後で大月精工㈱本社の業況が思わしくない時も、 仕事の受注残をたくさん抱え」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf）
+- 事業所数・社数：記載なし（読んだ48頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ48頁・検索15回）
+- 生産能力・設備：記載なし（読んだ48頁・検索15回）

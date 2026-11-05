@@ -1,4 +1,4 @@
-# 金属AM受託の頭打ち金額 — 1件・1社年間・用途ごとの上限（事実のみ・12品目）
+# 金属AM受託の頭打ち金額 — 1件・1社年間・用途ごとの上限（事実のみ・15品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -180,9 +180,108 @@
   - 「医療・歯科分野ではTi64（生体適合）とCoCr合金（歯科クラウン）が中心で、生体適合性認証を持つ事業者への発注が必須です」（https://steelsale.jp/casestudy/3dp/a113）
   - 「認証（JIS Q 9100等）を持つ事業者は航空宇宙用途で信頼性が高く、量産採用を目指すなら認証取得事業者を選ぶべきです」（https://steelsale.jp/casestudy/3dp/a113）
 
-## 金属AM受託の大型案件・最大受注（国内）
-- 文脈：
-- エラー：ValueError: netloc '＃' contains invalid characters under NFKC normalization
+## 金属AM受託の大型案件・最大受注（国内）（large metal additive manufacturing contract Japan）
+- 文脈：国内・上限
+- 1件の単価：
+  - 「価格帯はPBF方式で3,000万円〜、DED方式で3,000万円以上、金属フィラメント方式なら数十万円から導入可能です」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「一度金型が完成して大量生産体制を確立した後には、部品1点あたりの生産速度、コスト共に鋳造や粉末冶金に軍配が上がります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「3,000万円～」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「3,000万円以上」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「金属3Dプリンター自体、レーザーなどの高額な部品を利用するため、装置価格が数千万円以上するケースも多く、まだ手軽に手を出せる装置ではないため、設計する側も、造形する側も試行錯誤をしながら取り組んでいるという反面、す早い段階から受託造形に取り組んでいる一部のサービスビューロはノウハウを蓄積し、世界的に知名度を上げているケースもあります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「【2026年版】金属3Dプリンタ受託造形の完全ガイド：費用相場・事業者比較・選び方コラム」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「【2026年版】金属3Dプリンタ受託造形の完全ガイド：費用相場・事業者比較・選び方」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「金属3Dプリンタ受託造形の費用相場はいくら?」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「見積もり金額を左右する4要素とは?」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「Q1. 金属3Dプリンタの受託造形は1個からでも依頼できますか?」（https://steelsale.jp/casestudy/3dp/a113）
+- 最大案件・上限：
+  - 「世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「500万円〜3億円*1」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「結論として、初期投資ゼロ、試作・小ロット対応、複雑形状の実現、リードタイム短縮という4点が受託造形の最大の価値であり、これらは自社導入では得にくい優位性です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「500万円〜3億円の装置投資、粉末材料の在庫リスク、専用オペレーターの人件費が一切かからず、必要な時に必要な分だけ発注できます」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「造形サイズは最大500mm角程度が一般的で、それを超える大型部品は後述するDED方式が選択肢になります」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「金属3Dプリンター本体は方式によって数千万円〜1億円を超えることもある高額な設備投資になるため、試作段階や小ロット生産では「導入」よりも「受託サービス（外注）」を選ぶ企業が多くなっています」（https://online.solize.com/blog/metal-outsourcing）
+  - 「金属3Dプリントは、金型不要で複雑形状を一体成形できる点が最大の強みです」（https://online.solize.com/blog/metal-outsourcing）
+  - 「国内最大級のキャパシティを誇る自社保有の樹脂3Dプリンターで製作対応」（https://online.solize.com/blog/metal-outsourcing）
+  - 「国内最大の情報量を誇る3Dプリント＆テクノロジー専門メディア 3DP id.arts」（https://idarts.co.jp/3dp/metal-3d-printing-investment-accelerates/?srsltid=AYCX9vK-JGDW8dr9l03S9te-WgENWP0nxUNVtRdUfRRKZJgwQl4E80qh）
+  - 「（GLB）は、約2億元（約47億円）のシリーズA資金調達を実施した」（https://idarts.co.jp/3dp/metal-3d-printing-investment-accelerates/?srsltid=AYCX9vK-JGDW8dr9l03S9te-WgENWP0nxUNVtRdUfRRKZJgwQl4E80qh）
+  - 「2011年開設、国内最大の情報量を誇る3Dプリント＆テクノロジー専門メディア3DP id.arts では、最先端の3Dプリント技術に関する情報を中心に、国内外の最新テクノロジーを紹介」（https://idarts.co.jp/3dp/metal-3d-printing-investment-accelerates/?srsltid=AYCX9vK-JGDW8dr9l03S9te-WgENWP0nxUNVtRdUfRRKZJgwQl4E80qh）
+  - 「最大級の金属3Dプリンターを保有し、試作・治工具製作に対応」（https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/）
+- 顧客1社の年間：
+  - 「この量産性という課題を克服するために、金属を混錬した樹脂材料をMEX方式やバインダージェット方式の3Dプリンターで造形し、脱脂や焼結することで金属部品を生み出す装置が市場に投入されはじめました」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「Q6. 金属3Dプリンタ受託造形は量産にも向いていますか?」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「「金属3Dプリンタで試作品を作りたいけれど、装置導入には数千万円もかかる」「小ロットだけ外注したいが、どの業者に頼めばいいのか分からない」——こうした悩みを抱える製造業の担当者は少なくありません」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「特に2024年以降はバインダージェット（BJT）方式の普及によって、これまで試作中心だった金属AMが量産領域にも進出し始めました」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「目安として、年間造形量が500cm³以下、かつ多品種少量の試作が中心であれば受託造形が圧倒的に優位です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「結論として、初期投資ゼロ、試作・小ロット対応、複雑形状の実現、リードタイム短縮という4点が受託造形の最大の価値であり、これらは自社導入では得にくい優位性です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「金型のコンフォーマルクーリングを採用すると、樹脂成形の冷却時間を20〜40%短縮できる事例も報告されており、量産金型分野でも活用が広がっています」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「金属3Dプリンター本体は方式によって数千万円〜1億円を超えることもある高額な設備投資になるため、試作段階や小ロット生産では「導入」よりも「受託サービス（外注）」を選ぶ企業が多くなっています」（https://online.solize.com/blog/metal-outsourcing）
+  - 「一方で、量産フェーズでは切削加工や鋳造・鍛造の方がコストを抑えやすいため、「試作・小ロットは3Dプリント受託サービス、量産は切削・鋳造・鍛造」といった使い分けも実務ではよく行われています」（https://online.solize.com/blog/metal-outsourcing）
+  - 「量産向けの大ロット対応が中心の業者だと、1〜数個の試作依頼を後回しにされたり、割高な設定になっていたりする場合があります」（https://online.solize.com/blog/metal-outsourcing）
+  - 「部品の形状・数量・後加工の有無によって異なりますが、試作程度の小ロットであれば数日〜1週間程度で対応できる受託先もあります」（https://online.solize.com/blog/metal-outsourcing）
+  - 「受託先を選ぶ際は、対応材料・工法の幅、精度・実績、後加工までの一貫対応、小ロット対応、技術サポート・事前レビュー体制、他工法への対応・提案力の6点を確認することが失敗しないポイントです」（https://online.solize.com/blog/metal-outsourcing）
+  - 「試作技術から本格的な量産技術へと成長する金属3Dプリンティングが、新たな拡大局面を迎えている」（https://idarts.co.jp/3dp/metal-3d-printing-investment-accelerates/?srsltid=AYCX9vK-JGDW8dr9l03S9te-WgENWP0nxUNVtRdUfRRKZJgwQl4E80qh）
+  - 「が新体制で再建を進めており、Rainshow Industries による事業取得後、BEAMITは大型量産向け金属3Dプリンター「EOS M4 ONYX」を導入し、航空宇宙、防衛、エネルギー分野への供給力を再強化した」（https://idarts.co.jp/3dp/metal-3d-printing-investment-accelerates/?srsltid=AYCX9vK-JGDW8dr9l03S9te-WgENWP0nxUNVtRdUfRRKZJgwQl4E80qh）
+- 受託会社の売上：
+  - 「ダイヘンが国内初のアーク溶接金属３Dプリンター開発、WAAMシステムと受託加工で売上100億円創出｜News｜工作機械のニュースはMono Que ＜モノクエ＞」（https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/）
+  - 「ダイヘンが国内初のアーク溶接金属３Dプリンター開発、WAAMシステムと受託加工で売上100億円創出」（https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/）
+  - 「また、同事業において国内市場の開拓を進めるとともに、次年度以降は欧米市場への参入も視野に入れ、2030年に売上高100億円を目指す」（https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html）
+  - 「表29. 金属AM受託造形専業メーカーの直近の売上高」（https://www.act-pr.co.jp/report_detail/id=113）
+  - 「第1章：金属受託製造市場の定義、調査範囲、世界および日本市場規模、販売量、売上高、平均価格、成長機会と課題の整理」（https://yhresearch.hatenablog.com/entry/2026/08/20/105930）
+  - 「第2章：世界金属受託製造市場における主要企業のシェア、売上、価格、ランキング分析（2021～2026年）」（https://yhresearch.hatenablog.com/entry/2026/08/20/105930）
+  - 「第7章：金属受託製造の用途別市場規模、売上、シェア、成長率分析（2021～2032年）」（https://yhresearch.hatenablog.com/entry/2026/08/20/105930）
+  - 「第8章：地域別金属受託製造市場データ（販売量、売上、価格、CAGR）分析（2021～2032年）」（https://yhresearch.hatenablog.com/entry/2026/08/20/105930）
+  - 「Chart: Additive Manufacturing With Metal Powders Market Revenue Share (%), By Application (2025)」（https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「Farsoon large-format metal additive manufacturing expansion (2025):- Farsoon reported more than 150 global sales of large-format metal additive manufacturing systems in 2025. The company also introduced the FS621M-Cu, a large-format copper-alloy additive manufacturing system designed for applications involving highly reflective copper materials.」（https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「How much revenue did the precious metal segment generate in 2025?」（https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market）
+  - 「How will sales of different printer types evolve from 2025 to 2035?」（https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097）
+  - 「Revenues from metal 3D printing hardware and materials will grow at a CAGR of 10.4% from 2025-2035.」（https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097）
+  - 「Metal additive manufacturing materials forecast 2025-2035 split by technology - revenue」（https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097）
+  - 「Metal additive manufacturing materials forecast 2025-2035 split by alloy - revenue」（https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097）
+- 用途別：
+  - 「自動車（80）」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「航空宇宙（74）」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「医療（168）」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「主な造形方式は、PBF（高精度・航空宇宙向け）、DED（大型部品・補修向け）、FDM/MEX（低コスト導入向け）、WAAM（超大型部品向け）の4種類」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「金型を用意し、融かした金属を流し込み、冷やし、固める工法」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「金型を用意し、金属粉末を型に入れて焼き固める工法」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「金属3Dプリンターは、金型が不要で部品形状の自由度が非常に高い点が特長です」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「鋳造や粉末冶金では、金型を作らなければなりません」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「専用の特殊合金で作られる金型は、少なくとも数週間の製作期間が必要です」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「対する3Dプリンターの場合、金型が必要ないため、発注からテスト部品製作までの期間を大幅に短縮することができます」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「イチから金型を作り直さなければならない鋳造や粉末冶金と違い、3Dデータの書き換えで済むためです」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「一度金型が完成して大量生産体制を確立した後には、部品1点あたりの生産速度、コスト共に鋳造や粉末冶金に軍配が上がります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「この点が大きな普及のネックになっており、最終部品に厳格な認証を通過する必要がある航空・宇宙・医療などの分野にとどまっている現状があります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「上記のような長所、短所を踏まえて、金属3Dプリンターの特徴を最も活かしている業界が、航空宇宙・医療分野だと言われています」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「ロケット部品は、少量のオーダーメイド生産がなされ、製造コストを抑えることよりも、性能が高いこと、納期が短くできることが求められます」（https://news.sharelab.jp/study/metal-3dprinter/）
+- 価格を決める要因：
+  - 「特に切削工法との比較では顕著なのですが、3Dプリンターによる造形では、材質によって造形時間が大きく変動しないと言われています」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「切削工法の場合、難削材とよばれる高硬度の材料を加工すると、加工時間が長くかかるため、マシンチャージが嵩み、コストも増大し工期も伸びてしまいます」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「この点が大きな普及のネックになっており、最終部品に厳格な認証を通過する必要がある航空・宇宙・医療などの分野にとどまっている現状があります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「導入効果２：規格認証を省力化できる部品の統合」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「もう一つのメリットが規格認証する部品点数の軽減です」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「航空宇宙分野の部品は、ISOやASTMなどで策定された厳格な規格認証プロセスを合格し、認証を得なければなりません」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「この認証を得るプロセスにはコストと時間がかかり、設計変更の度にやり直す必要があります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「宇宙にロケットを打ち上げる際の大きなコスト要因である重量を軽減し、コストも時間も手間もかかる認証プロセスを省力化できる3Dプリンター製部品は航空宇宙用の部品生産技術として一定の地位を確立しています」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「マルチレーザー機は従来の1台のレーザーではなく、複数のレーザーを同時稼働させることで造形時間を大幅に短縮できます」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「造形物の体積（cm³）に素材ごとの単価を掛けて算出され、これに造形時間、後加工費、検査費、装置セットアップ費が加算される構造です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「サイズは体積課金の基本要素で、造形時間にも直結します」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「特殊な後加工、厳しい公差要求、認証書類の発行などは自動見積もりに含まれないため、実務では専門事業者への直接問い合わせと併用するのが現実的です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「結論として、大手専門事業者（東レ・プレシジョン、J・3D、JAMPT、SOLIZE）は認証取得や特殊素材対応に強く、オンライン特化型（DMM.make、Kabuku Connect）は即時見積もりとスピードに強みがあり、用途と要件によって最適な選択が異なります」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「※各社の対応素材、造形サイズ、認証状況、標準納期の詳細は公開情報が限られるため「要確認」としています」（https://steelsale.jp/casestudy/3dp/a113）
+- 検索結果の抜粋：
+  - 「令和7年度産業関係調査等事業（ 国内 外における 金属 積層造形 ... — 令和7年度産業関係調査等事業（ 国内 外における 金属 積層造形 ... 経済産業省 PDF https://www.meti.go.jp > report_202608241049_0」（https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf）
+  - 「ダイヘンが 国内 初のアーク溶接 金属 3Dプリンター開発 — ダイヘンが 国内 初のアーク溶接 金属 3Dプリンター開発 Mono Que https://monoque.jp > news」（https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/）
+  - 「三菱重工工作機械、 国内最大 サイズの 金属 3Dプリンターが完成 — 三菱重工工作機械、 国内最大 サイズの 金属 3Dプリンターが完成 ShareLab NEWS https://news.sharelab.jp > 業界動向 > 金属3Dプリンター」（https://news.sharelab.jp/3dp-news/metal-3dprinter/metal3dprinter-210604/）
 
 ## 金属AM量産受託の年間取引額（metal AM serial production contract value）
 - 文脈：用途・量産
@@ -1009,3 +1108,197 @@
   - 「Some manufacturers, such as Rennscot MFG, have adopted advanced systems like the EOS M 300-4 to improve productivity and reduce part costs. Partnerships such as 3D Systems and Precision Resource also aim to integrate advanced technologies and machining systems for better efficiency. But even with these efforts, most companies still struggle to achieve a clear return on investment.」（https://www.persistencemarketresearch.com/market-research/additive-manufacturing-market.asp）
   - 「In the U.S. and Canada, adoption trends vary by user segment. Entry-level printer shipments grew during 2024, though the pace has slowed from previous years.」（https://www.persistencemarketresearch.com/market-research/additive-manufacturing-market.asp）
   - 「Stratasys focuses on polymer innovation and production efficiency, seen in its partnerships with 3E EOS and ArcelorMittal, and its acquisition of Covestro AG’s materials arm that strengthens its R&D pipeline.」（https://www.persistencemarketresearch.com/market-research/additive-manufacturing-market.asp）
+
+## 金属3Dプリンター受託造形の公式料金表（国内各社）（metal 3D printing service price list Japan official）
+- 文脈：料金・一次
+- 1件の単価：
+  - 「【2026年版】金属3Dプリンタ受託造形の完全ガイド：費用相場・事業者比較・選び方コラム」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「【2026年版】金属3Dプリンタ受託造形の完全ガイド：費用相場・事業者比較・選び方」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「金属3Dプリンタ受託造形の費用相場はいくら?」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「見積もり金額を左右する4要素とは?」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「Q1. 金属3Dプリンタの受託造形は1個からでも依頼できますか?」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「Q2. 金属3Dプリンタ受託造形の見積もりにはどのようなデータが必要ですか?」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「「金属3Dプリンタで試作品を作りたいけれど、装置導入には数千万円もかかる」「小ロットだけ外注したいが、どの業者に頼めばいいのか分からない」——こうした悩みを抱える製造業の担当者は少なくありません」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「本記事では、費用相場から主要9社の比較、素材選定、発注前チェックリストまでを2026年最新情報で網羅的に解説します」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「500万円〜3億円*1」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「500万円〜3億円の装置投資、粉末材料の在庫リスク、専用オペレーターの人件費が一切かからず、必要な時に必要な分だけ発注できます」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「金型を作らず1個から製造できるため、金型製作費（一般的に数十万〜数百万円）が不要になります」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「金属3Dプリンタは金型不要のため、1個からでも経済的に製造できます」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「多くの事業者が1個からの発注を受け付けており、DMM.makeやKabuku Connectはオンラインで即座に見積・発注が可能です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「このセクションでは、金属3Dプリンタ受託造形の費用相場を素材別に具体的に提示します」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「細かい形の部品を1個だけ試作したいのか、メートル級の大きな部品や補修の肉盛りなのか、チタンや耐熱合金を内部の品質まで詰めて使いたいのか」（https://hikaku-hub.com/metal-3d-printing/）
+- 最大案件・上限：
+  - 「500万円〜3億円*1」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「結論として、初期投資ゼロ、試作・小ロット対応、複雑形状の実現、リードタイム短縮という4点が受託造形の最大の価値であり、これらは自社導入では得にくい優位性です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「500万円〜3億円の装置投資、粉末材料の在庫リスク、専用オペレーターの人件費が一切かからず、必要な時に必要な分だけ発注できます」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「造形サイズは最大500mm角程度が一般的で、それを超える大型部品は後述するDED方式が選択肢になります」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「粉末DEDと五面加工機のハイブリッドで最大3000×1500×1100」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「粉末DEDと五面加工機のハイブリッド機は最大造形サイズ3000×1500×1100（高さ）で、切削主軸を積んで積層造形と切削を複合で行える」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「ハイブリッド機で最大3000×1500×1100、同時五軸DEDは200×200×200」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「造形エリアはレーザー機で最大275W×275L×420Hmm、Ti6Al4V専用機でΦ350×380Hmm」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「メートル級の大物や補修・肉盛りは、DED方式の明楽（最大3000×1500×1100）、JFEエンジニアリング鶴見製作所（φ1320×H1150）、フジ（φ500×400）が対象です」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「粉末DED方式と五面加工機のハイブリッド機: 最大造形サイズ3000×1500×1100（高さ）、積層造形と切削の複合加工が可能」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「最大造形サイズΦ750×高さ500、Φ640×高さ600」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「最大造形サイズ200×200×200」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「ハイブリッド機はLAMDA2000（レーザー最大6kW）」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「同時五軸機はLAMDA200（最大2kW）」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「最大3000×1500×1100」（https://hikaku-hub.com/metal-3d-printing/）
+- 顧客1社の年間：
+  - 「Q6. 金属3Dプリンタ受託造形は量産にも向いていますか?」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「「金属3Dプリンタで試作品を作りたいけれど、装置導入には数千万円もかかる」「小ロットだけ外注したいが、どの業者に頼めばいいのか分からない」——こうした悩みを抱える製造業の担当者は少なくありません」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「特に2024年以降はバインダージェット（BJT）方式の普及によって、これまで試作中心だった金属AMが量産領域にも進出し始めました」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「目安として、年間造形量が500cm³以下、かつ多品種少量の試作が中心であれば受託造形が圧倒的に優位です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「結論として、初期投資ゼロ、試作・小ロット対応、複雑形状の実現、リードタイム短縮という4点が受託造形の最大の価値であり、これらは自社導入では得にくい優位性です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「金型のコンフォーマルクーリングを採用すると、樹脂成形の冷却時間を20〜40%短縮できる事例も報告されており、量産金型分野でも活用が広がっています」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「1個から試作し、量産品にも対応すると記載している」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「2026年10月1日時点で検索「金属3Dプリント 受託」「金属3Dプリンター 受託造形」「金属AM 受託造形」「金属積層造形 受託」等で表示された公式サイト20社（金属3Dプリンターの装置メーカー・販売代理店、造形のマッチング・見積サイトの運営会社、金属材料の商社、グループ会社の案内ページは除外）を調査し、①公式サイトに金属3Dプリンターによる受託造形の記載がある ②造形方式・材料・造形サイズのいずれかの記載がある ③後加工・最小ロット・納期・見積方法のいずれかの記載がある、の3点を満たす中から、PBFで1個の試作を後加工まで任せる・大型やDEDの肉盛り・チタンや耐熱合金の品質まで詰めるの用途別に3社を選定しています」（https://hikaku-hub.com/metal-3d-printing/）
+  - 「量産と同じダイカスト材で評価したいのか、大物や複雑形状を砂型で作りたいのか、まず1個を数日で見たいのか」（https://hikaku-hub.com/metal-3d-printing/）
+- 用途別：
+  - 「DED（指向性エネルギー堆積）方式の特徴と適用領域」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「金型分野でのコンフォーマルクーリング活用事例」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「市場動向としては、航空宇宙・医療・金型・自動車分野を中心に採用が急速に広がっています」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「金型を作らず1個から製造できるため、金型製作費（一般的に数十万〜数百万円）が不要になります」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「第三に、コンフォーマルクーリング金型や中空構造、ラティス構造など従来工法では作れない複雑形状を実現できます」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「金属3Dプリンタは金型不要のため、1個からでも経済的に製造できます」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「多品種少量の産業機械部品、医療機器の患者ごとにカスタマイズされたインプラント、モータースポーツ用の特殊部品など、少量高付加価値の分野と特に相性が良いのが特徴です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「金属3Dプリンタは粉末や金属ワイヤーを一層ずつ積み上げていく方式のため、金型内部を自由な曲線で走る冷却水路（コンフォーマルクーリング）や、内部に空洞を持つ軽量化部品、格子状のラティス構造などを一体成形できます」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「金型のコンフォーマルクーリングを採用すると、樹脂成形の冷却時間を20〜40%短縮できる事例も報告されており、量産金型分野でも活用が広がっています」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「一般産業、医療」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「軽量化部品、自動車」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「航空、医療インプラント」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「航空エンジン、高温部品」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「金型、高強度部品」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「地域別に見ると、近畿地方には東レ・プレシジョン（滋賀）やJ・3D（愛知）など製造業集積地に近い事業者が多く、自動車・産業機械の試作需要に応えています」（https://steelsale.jp/casestudy/3dp/a113）
+- 価格を決める要因：
+  - 「マルチレーザー機は従来の1台のレーザーではなく、複数のレーザーを同時稼働させることで造形時間を大幅に短縮できます」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「造形物の体積（cm³）に素材ごとの単価を掛けて算出され、これに造形時間、後加工費、検査費、装置セットアップ費が加算される構造です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「サイズは体積課金の基本要素で、造形時間にも直結します」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「特殊な後加工、厳しい公差要求、認証書類の発行などは自動見積もりに含まれないため、実務では専門事業者への直接問い合わせと併用するのが現実的です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「結論として、大手専門事業者（東レ・プレシジョン、J・3D、JAMPT、SOLIZE）は認証取得や特殊素材対応に強く、オンライン特化型（DMM.make、Kabuku Connect）は即時見積もりとスピードに強みがあり、用途と要件によって最適な選択が異なります」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「※各社の対応素材、造形サイズ、認証状況、標準納期の詳細は公開情報が限られるため「要確認」としています」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「医療・歯科分野ではTi64（生体適合）とCoCr合金（歯科クラウン）が中心で、生体適合性認証を持つ事業者への発注が必須です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「認証（JIS Q 9100等）を持つ事業者は航空宇宙用途で信頼性が高く、量産採用を目指すなら認証取得事業者を選ぶべきです」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「結論として、業種ごとに求められる認証、精度、素材、後加工が異なるため、業種特化の実績を持つ事業者を選ぶことが成功の鍵です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「航空宇宙分野ではJIS Q 9100やAS9100といった品質マネジメントシステム認証の取得が発注要件になるケースが多く、認証を持つ事業者を選ぶことが第一条件です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「ISO 13485の認証状況や医療機器製造業の登録状況、材料・工程の管理体制などを確認し、用途に必要な要件を満たす事業者を選定することが重要です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「発注前に整理すべき情報は、素材の指定（またはグレード要求）、要求寸法精度と表面粗さ、必要数量、希望納期、後加工の範囲、検査要件、そして用途と使用環境の7点です」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「品質保証書、材料証明書、検査成績書などの書類が必要な場合も、事前に伝えておく必要があります」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「航空・医療分野では認証書類が必須になるため、認証取得事業者を選ぶ前提で相談を進めましょう」（https://steelsale.jp/casestudy/3dp/a113）
+  - 「結論として、金属3Dプリンタ受託造形は「問い合わせ→見積→データ入稿→造形→後加工→検査→納品」の7ステップで進み、標準的な納期は2〜4週間、短納期対応可能な事業者では最短3〜5営業日で納品されます」（https://steelsale.jp/casestudy/3dp/a113）
+- 受託会社の売上：記載なし（読んだ45頁・検索16回）
+
+## 海外上場の金属AM受託会社の決算（受託売上）（listed metal additive manufacturing service company annual report revenue）
+- 文脈：海外・決算
+- 1件の単価：
+  - 「AM services overall revenue (USD M) 2023-2033. Source: VoxelMatters Research」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「AM services polymer revenue (USD M) 2023-2033. Source: VoxelMatters Research」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「AM services metal revenue (USD M) 2023-2033. Source: VoxelMatters Research」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「AM services technical ceramic revenue (USD M) 2023-2033. Source: VoxelMatters Research」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「and South America (“Americas”), Europe and the Middle East (“EMEA”) and Asia Pacific and Oceania (“APAC”). We provide comprehensive 3D printing and」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「• Level 1 - Inputs are based on quoted prices in active markets for identical assets and liabilities.」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「• Level 2 - Inputs are based on observable inputs other than quoted prices in active markets for identical or similar assets and liabilities.」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「The estimated fair value of the 2026 Notes and the 2030 Notes were determined using quoted market price in a market with limited activity and is therefore」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「20 Triadic patent families are defined at the OECD as a set of patents taken at the European Patent Office,」（https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf）
+  - 「Material cost per part 2.59 € 25.81 €」（https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf）
+  - 「Mould cost per part 21 000 €/N -」（https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf）
+  - 「Pre-processing cost per part - 8.00 €」（https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf）
+  - 「Processing cost per part 0.26 € 472.50 €」（https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf）
+  - 「Post-processing cost per part 17.90 € 20.00 €」（https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf）
+- 最大案件・上限：
+  - 「The finalists of the Formnext Awards 2026 have been announced. Now all that's missing is your vote. Because the decision is not only up to the jury – but also up to you! Vote for your favorites before you start your」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「Taxes paid related to net-share settlement of equity awards (11) (285)」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「Shares withheld related to net-share settlement of equity awards (6) — (11) — — (11)」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「Shares withheld related to net-share settlement of equity awards (96) — (285) — — (285)」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「As of March 31, 2026, there was $6.0 million of unrecognized stock-based compensation expense related to all unvested share-based payment awards that the」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+- 顧客1社の年間：
+  - 「financial statements and should be read in conjunction with the audited financial statements included in our Annual Report on Form 10-K for the year ended」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「December 31, 2025 (the “2025 Annual Report on Form 10-K”). The Company believes that the disclosures included in this Form 10-Q are adequate to make」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「Our annual reporting period is the calendar year. The Company's results of operations for the three months ended March 31, 2026 are not necessarily indicative」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「There have been no significant changes to our accounting policies since those disclosed in the Company's 2025 Annual Report on Form 10-K.」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「significant development uncertainty. This update is effective for annual periods beginning after December 15, 2027, with early adoption permitted. The」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「annual periods beginning after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027, with early adoption permitted.」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「The 2030 Notes are senior secured obligations, guaranteed by certain U.S. subsidiaries of the Company (the "Note Parties"), and bear interest semiannually at a」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「The 2026 Notes have an annual effective interest rate of 0.594%, reflecting original issue discounts, commissions, and offering expenses. The 2026 Notes are」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「$10.0 million suspended penalty must be approved by the DTCC, which approval will be sought on an annual basis in accordance with the terms of the」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「10-K for the fiscal year ended December 31, 2025 (the "2025 Annual Report on Form 10-K") and our Condensed Consolidated Financial Statements as of and」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「Figure 2.3: Manufacturing Value Added Compound Annual Growth, 1985-2010 (UNSD)」（https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf）
+  - 「Data from the Annual Survey of Manufactures and methods developed by Thomas5 are」（https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf）
+  - 「exceeds China (see Figure 2.2). However, the U.S. compound annual growth rate」（https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf）
+  - 「Turkey, Greece, and Mexico. Compound annual growth in manufacturing between 1985」（https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf）
+  - 「other industries or imported).”29 The primary difference is that the Annual Survey of」（https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf）
+- 受託会社の売上：
+  - 「The top 10 metal AM companies by revenue | VoxelMatters - The heart of additive manufacturing」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/）
+  - 「https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue.md」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/）
+  - 「The top 10 metal AM companies by revenue」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/）
+  - 「If we combine revenues from all core AM segments (hardware, materials, and services), all of the top 10 metal AM companies by revenue in 2023 are hardware manufacturers. This is one of the key findings from」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/）
+  - 「Xometry posts record Q3 revenue of $252 million and raises 2026 outlook」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/）
+  - 「AM services overall revenue (USD M) 2023-2033. Source: VoxelMatters Research」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「AM services polymer revenue (USD M) 2023-2033. Source: VoxelMatters Research」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「AM services metal revenue (USD M) 2023-2033. Source: VoxelMatters Research」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「AM services technical ceramic revenue (USD M) 2023-2033. Source: VoxelMatters Research」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「The following charts leverage preliminary data* from VoxelMatters' core AM database to assess the top 10 largest companies from each segment—polymers, metals, and ceramics—by yearly AM-specific revenues.」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 31」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「Customer deposits and deferred revenue 20,020 17,423」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「Total revenue 95,538 94,540」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「Total cost of sales 61,195 61,851」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「Deferred revenue and customer deposits 4,759 5,745」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+- 用途別：
+  - 「KLS Martin adds Lithoz LithaBone TCP implants to its IPS Gate ordering platform」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/）
+  - 「A subsidiary of Stratasys, Stratasys Direct has been a significant player in polymer AM services for many years (it used to be called Red Eye). Leveraging the parent company’s advanced hardware, as well as other technologies including SLS, they cater to multiple verticals, including automotive and aerospace, with a focus on high-quality parts production.」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「Fathom is one of the largest on-demand digital manufacturing platforms in North America, serving low- to mid-volume manufacturing needs. With nearly 450,000 square feet of manufacturing capacity across 12 facilities, Fathom blends in-house capabilities across plastic and metal AM and other technologies, serving clients in the defense, aerospace, medical, automotive and IOT sectors.」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「A leading provider of polymer AM services in Scandinavia (with branches in the UK and Italy), Prototal specializes in producing functional parts for a range of industries, including medical devices, industrial applications, and consumer products.」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「Based in China, BLT has grown to become the leading metal AM service provider globally, focusing heavily on aerospace and medical applications, using its own metal L-PBF technology. Their capabilities in large-format metal parts production give them an edge in industries with high-performance requirements.」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「An American leader in metal AM, Sintavia focuses primarily on the aerospace and defense sectors, providing highly specialized, certified metal parts that meet stringent industry standards.」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「Falcontech is a key player in China's metal AM services, particularly for aerospace and automotive industries. The company partners with Farsoon to power it Super AM Factory, known for producing high-quality, lightweight metal parts. The company is now expanding its presence globally.」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「ADDMAN focuses on producing precision metal parts for demanding industries like aerospace and defense. Their rapid expansion through acquisitions and investment in cutting-edge technologies make them one of the top metal AM service providers in the U.S.」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「FIT AG’s metal AM services complement their polymer offerings, with a focus on high-performance metal parts for aerospace and automotive sectors. Their expertise in engineering and manufacturing solutions is widely recognized across Europe.」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「A Germany-based AM service provider (via the AMbitious program), Toolcraft is known for its expertise in precision metal parts for industrial sectors like aerospace, automotive, and energy. Their quality control and high-level certification processes are key differentiators.」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「Oerlikon is a global leader in surface solutions and additive manufacturing, offering extensive metal AM services. Their strong focus on industrial applications like aerospace, automotive, and energy ensures they remain a top player.」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「Nano Dimension, with its subsidiaries Formatec and ExOne, is now the leading service provider in the ceramics AM market. They specialize in producing high-performance ceramic parts for industries like healthcare, electronics, and aerospace.」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「A major user of Lithoz technology, Steinbach is a well-established German provider of technical ceramic solutions, offering AM services to sectors requiring high-precision and durability in extreme conditions, such as aerospace and energy.」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「Schunk is a global leader in silicon carbide 3D printing via the IntrinSiC program The company serves industries that require highly durable ceramic parts, particularly for electrical, thermal and semiconductor manufacturing applications.」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「CERHUM is a Belgian service provider specializing in technical ceramics for medical and industrial uses via 3DCeram and Prodways machines. Their focus on biocompatible ceramic implants makes them a standout in the healthcare sector.」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+- 価格を決める要因：
+  - 「restor3d moves its 3D printed Velora hip cup into full commercial release」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/）
+  - 「A Germany-based AM service provider (via the AMbitious program), Toolcraft is known for its expertise in precision metal parts for industrial sectors like aerospace, automotive, and energy. Their quality control and high-level certification processes are key differentiators.」（https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html）
+  - 「consolidated revenue. We expect to maintain our relationships with these customers.」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「investor, which diluted our ownership share to 34.3% of the joint ventures common stock as of March 31, 2026. The Company recognized a gain on the」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「printers in any particular period, a shift in the timing and concentration of orders and shipments from one period to another can materially affect reported」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「ownership share in the three months ended March 31, 2026.」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「31.1† Certification of Principal Executive Officer filed pursuant to Section 302 of the Sarbanes-Oxley Act of 2002」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「31.2† Certification of Principal Financial Officer filed pursuant to Section 302 of the Sarbanes-Oxley Act of 2002」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「32.1† Certification of Principal Executive Officer filed pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「32.2† Certification of Principal Financial Officer filed pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「CERTIFICATION PURSUANT TO」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「This certification is provided pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and accompanies the Quarterly Report on Form 10-Q (the “Form 10-」（https://s23.q4cdn.com/369160497/files/doc_financials/2026/q1/90fd07d7-1ac5-49be-8462-026b8278766e.pdf）
+  - 「Figure 5.4: Forecasts of U.S. Additive Manufacturing Shipments, by Varying Market」（https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf）
+  - 「Table 4.1: Additive Manufacturing Shipments ................................................................. 18」（https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf）
+  - 「Table 5.1: Forecasts of U.S. Additive Manufacturing Shipments by Varying Market」（https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf）
+
+## 防衛省の金属積層造形の契約実績（Japan Ministry of Defense additive manufacturing contract）
+- 文脈：防衛・一次
+- 1件の単価：
+  - 「（別紙参照） ５ 入 札 方 法 落札決定に当たっては、入札書に記載された金額に当該金額の１０パーセントに相当する額を加算した金額をもって落札価格とするので、各入札者は、消費税及び地方消費税に係る課税事業者であるか免税事業者であるかを問わず、見積もった契約金額の１００」（https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK）
+  - 「札 方 法 落札決定に当たっては、入札書に記載された金額に当該金額の１０パーセントに相当する額を加算した金額をもって落札価格とするので、各入札者は、消費税及び地方消費税に係る課税事業者であるか免税事業者であるかを問わず、見積もった契約金額の１００／１１０に相当する金額を入札書に記載すること」（https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK）
+  - 「' ② 端 数 処 理 入札書に記載された金額の１１０／１００に相当する金額に１円未満の端数があるときは、その端数金額を切り捨てるものとし、当該端数金額を切り捨てた後に得られる金額をもって、申し込みがあったものとする」（https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK）
+- 顧客1社の年間：
+  - 「６ 保 証 金 ①入札保証金免 除 ②契約保証金免 除 ７ 入 札 の 無 効 ４の参加資格のない者のした入札、入札に関する条件に反した入札又は入札後契約を締結するまでの間に、都道府県警察から暴力団関係業者として排除するよう要請があり、当該状態が継続している有資格業者のし」（https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK）
+  - 「札 の 無 効 ４の参加資格のない者のした入札、入札に関する条件に反した入札又は入札後契約を締結するまでの間に、都道府県警察から暴力団関係業者として排除するよう要請があり、当該状態が継続している有資格業者のした入札は無効とする」（https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK）
+- 用途別：
+  - 「積層造形装置の整備（防衛省） ｜ 天羅AI」（https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK）
+  - 「③令和７・８・９防衛省競争参加資格（全省庁統一資格）「役務の提供等」の「A」、「B」、「C」又は「D」の等級に格付けされ関東・甲信越地域の競争参加資格を有する者であること」（https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK）
+  - 「④大臣官房衛生監、防衛政策局長、防衛装備庁長官又は防衛装備庁長官官房会計官から「装備品等の役務の調達に係る指名停止の要領」に基づく指名停止の措置を受けている期間中の者でないこと」（https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK）
+  - 「指名停止を受けている者と資本関係又は人的関係のある者であって、当該者と同種の物品の売買又は製造若しくは役務請負について防衛省又は防衛装備庁と契約を行おうとする者でないこと」（https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK）
+  - 「公告第５０号 令和８年８月３日 分任支出負担行為担当官 防衛装備庁艦艇装備研究所 総務課長 北村 優子 公 告 下記により入札を実施するので、入札及び契約心得（地方調達）（平成３１年４月１日）を熟知の上、参加されたい」（https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK）
+  - 「件 名 規 格 数 量納 地 納 期摘 要 積層造形装置の整備 仕様書のとおり １件'防衛装備庁艦艇装備研究所（目黒地区）' 令和8年10月23日」（https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK）
+  - 「）） ②場 所 防衛装備庁艦艇装備研究所（目黒地区）入札室（庁舎２階） （東京都目黒区中目黒２－２－１）」（https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK）
+  - 「⑤前号により、現に指名停止を受けている者と資本関係又は人的関係のある者であって、当該者と同種の物品の売買又は製造若しくは役務請負について防衛省又は防衛装備庁と契約を行おうとする者でないこと」（https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK）
+  - 「ただし、真にやむを得ない事由を大臣官房衛生監、防衛政策局長、防衛装備庁長官又は防衛装備庁長官官房会計官が認めた場合には、この限りではない」（https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK）
+  - 「(１) 防衛省競争参加資格の資格審査結果通知書の写しを入札日の前日までに提出するものとする」（https://tenra.jp/radar/opp/kkj%3Ac2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY5NzQK）
+  - 「Byron Kennedy, SPEE3D CEO (left) next to: Ground Staff Office Ministry of Defense Major General Mr. Shirakawa (right).」（https://www.spee3d.com/bridging-innovation-and-defence-spee3ds-3d-printers-to-transform-japans-military-operations/）
+  - 「Credit: Japanese Ground Self Defense Force Facebook Page」（https://www.spee3d.com/bridging-innovation-and-defence-spee3ds-3d-printers-to-transform-japans-military-operations/）
+- 価格を決める要因：
+  - 「As part of our partnership, we will provide the JGSDF comprehensive training, support, and maintenance for both WarpSPEE3D and XSPEE3D. This includes field exercise programs with the XSPEE3D, ensuring that Japan’s forces are well-equipped to fully utilize the potential of this technology when in the field and on base.」（https://www.spee3d.com/bridging-innovation-and-defence-spee3ds-3d-printers-to-transform-japans-military-operations/）
+  - 「This partnership with the JGDSF signifies how SPEE3D technology continues to offer Defence a reliable metal manufacturing capability to further strengthen existing supply chains in the field, or on base. The most recent example of this is that just last month, the」（https://www.spee3d.com/bridging-innovation-and-defence-spee3ds-3d-printers-to-transform-japans-military-operations/）
+- 最大案件・上限：記載なし（読んだ45頁・検索16回）
+- 受託会社の売上：記載なし（読んだ45頁・検索16回）

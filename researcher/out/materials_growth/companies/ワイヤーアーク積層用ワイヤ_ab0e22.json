@@ -1,0 +1,1281 @@
+{
+ "name": "ワイヤーアーク積層用ワイヤ",
+ "en": "WAAM wire",
+ "aliases": [
+  "wire arc additive manufacturing wire",
+  "WAAMワイヤ"
+ ],
+ "context": "金属AM",
+ "kind": "market",
+ "researched_at": "2026-11-05T00:41:19.446452+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "ワイヤアーク積層造形ソリューションの世界市場（2026年～2032年）、市場規模（ガス金属アーク溶接、ガスタンタルムアーク溶接、その他）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤアーク積層造形ソリューションの世界市場（2026年～2032年）、市場規模（ガス金属アーク溶接、ガスタンタルムアーク溶接、その他）・分析レポートを発表",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "世界のワイヤアーク積層造形ソリューション市場規模は、2025年の3億1,100万米ドルから2032年には5億1,600万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.1%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第2章には、エグゼクティブサマリーとして、世界のワイヤアーク積層造形ソリューション市場の概要（市場規模、地域別CAGR、国・地域別分析）、タイプ別（ガスメタルアーク溶接、ガスタングステンアーク溶接、その他）、材料別（鉄鋼・ステンレス、アルミニウム合金、チタン合金、その他）、シーン別（工具・治具、修理・再製造、その他）、アプリケーション別（航空宇宙産業、エネルギー産業、その他）の市場セグメントに関する詳細な要約が収録されており、それぞれの市場規模、CAGR、市場シェアのデータが含まれています",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、ワイヤアーク積層造形ソリューション市場における主要プレーヤーの市場規模と市場シェア（収益、市場シェアの推移）、主要プレーヤーの拠点と提供製品、市場集中度分析（競争状況、CR3, CR5, CR10）、新規参入企業、M&Aや事業拡大に関する詳細な分析が示されています",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第4章には、地域別のワイヤアーク積層造形ソリューション市場規模（収益）、各地域（南北アメリカ、APAC、ヨーロッパ、中東・アフリカ）の市場成長に関する詳細な分析が提供されています",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第5章には、南北アメリカ地域のワイヤアーク積層造形ソリューション市場について、国別（米国、カナダ、メキシコ、ブラジル）、タイプ別、アプリケーション別の市場規模と成長が詳述されています",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第6章には、APAC地域のワイヤアーク積層造形ソリューション市場について、国別（中国、日本、韓国、東南アジア、インド、オーストラリア）、タイプ別、アプリケーション別の市場規模と成長が詳述されています",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第7章には、ヨーロッパ地域のワイヤアーク積層造形ソリューション市場について、国別（ドイツ、フランス、英国、イタリア、ロシア）、タイプ別、アプリケーション別の市場規模と成長が詳述されています",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第8章には、中東・アフリカ地域のワイヤアーク積層造形ソリューション市場について、国別（エジプト、南アフリカ、イスラエル、トルコ、GCC諸国）、タイプ別、アプリケーション別の市場規模と成長が詳述されています",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤアーク積層造形ソリューションの世界市場（2026年～2032年）、市場規模（ガス金属アーク溶接、ガスタンタルムアーク溶接、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤアーク積層造形ソリューションの世界市場（2026年～2032年）、市場規模（ガス金属アーク溶接、ガスタンタルムアーク溶接、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "世界のワイヤアーク積層造形ソリューション市場規模は、2025年の3億1,100万米ドルから2032年には5億1,600万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.1%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第2章には、エグゼクティブサマリーとして、世界のワイヤアーク積層造形ソリューション市場の概要（市場規模、地域別CAGR、国・地域別分析）、タイプ別（ガスメタルアーク溶接、ガスタングステンアーク溶接、その他）、材料別（鉄鋼・ステンレス、アルミニウム合金、チタン合金、その他）、シーン別（工具・治具、修理・再製造、その他）、アプリケーション別（航空宇宙産業、エネルギー産業、その他）の市場セグメントに関する詳細な要約が収録されており、それぞれの市場規模、CAGR、市場シェアのデータが含まれています",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、ワイヤアーク積層造形ソリューション市場における主要プレーヤーの市場規模と市場シェア（収益、市場シェアの推移）、主要プレーヤーの拠点と提供製品、市場集中度分析（競争状況、CR3, CR5, CR10）、新規参入企業、M&Aや事業拡大に関する詳細な分析が示されています",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第4章には、地域別のワイヤアーク積層造形ソリューション市場規模（収益）、各地域（南北アメリカ、APAC、ヨーロッパ、中東・アフリカ）の市場成長に関する詳細な分析が提供されています",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第5章には、南北アメリカ地域のワイヤアーク積層造形ソリューション市場について、国別（米国、カナダ、メキシコ、ブラジル）、タイプ別、アプリケーション別の市場規模と成長が詳述されています",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第6章には、APAC地域のワイヤアーク積層造形ソリューション市場について、国別（中国、日本、韓国、東南アジア、インド、オーストラリア）、タイプ別、アプリケーション別の市場規模と成長が詳述されています",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第7章には、ヨーロッパ地域のワイヤアーク積層造形ソリューション市場について、国別（ドイツ、フランス、英国、イタリア、ロシア）、タイプ別、アプリケーション別の市場規模と成長が詳述されています",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第8章には、中東・アフリカ地域のワイヤアーク積層造形ソリューション市場について、国別（エジプト、南アフリカ、イスラエル、トルコ、GCC諸国）、タイプ別、アプリケーション別の市場規模と成長が詳述されています",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "鉄道計測システムの世界市場（2026年～2032年）、市場規模（軌道形状測定システム、軌道表面測定システム、軌道変位測定システム、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "病院用ガイダンスロボットの世界市場（2026年～2032年）、市場規模（可動式、固定式）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "ステム曲げ強度試験機の世界市場（2026年～2032年）、市場規模（基本型曲げ強度測定範囲（0～100N）、標準型曲げ強度測定範囲（0～200N）、高精度型曲げ強度測定範囲（0～500N））・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "Wire Arc Additive Manufacturing Market Size, Share & Forecast Report 2025 to 2034 | Dataintelo",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Wire Arc Additive Manufacturing Market Size, Share and Forecast Report 2025 to 2034",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size 2025",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 160 Million",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 608 Million",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Wire Arc Additive Manufacturing Market size, 2019 to 2034 (USD Million)",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "$160 million",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "$608.47 million",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "$448.47 million",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Base year 2025, historical data from 2019, forecast to 2034. Market values are established by Dataintelo research in USD Million, built from",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "a year. DAIHEN showed the ArcBuilder 3D at Robot Technology Japan 2026 at USD 450,000 to 500,000, a price that puts a turnkey cell within reach of fabricators already running DAIHEN welding robots. In February 2026 WAAM3D signed a memorandum with National Aerospace Industry Corporation Malaysia to set up WAAM at the MyAERO Centre, tying the technology to regional",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": ". Contract part printing is the largest service line: AML3D signed a $2.6 million (AUD) contract in FY2026 to supply high demand, non-safety critical replacement components for US Navy submarines, and Lincoln Electric Additive Solutions sells printed parts alongside its SculptPrint cells. RAMLAB applies the same model to repair and remanufacturing, and buyers of",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "a year, driven by nickel aluminium bronze for submarine valves, fittings and propulsion parts; in March 2026 AML3D won an AUD 2.61 million US Navy contract for such components. Nickel alloys grow at",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "FY2026 revenue AUD 12.5 million, up 70%; AUD 9.9 million order for four ARCEMY X systems, March 2026",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 revenue and other income USD 4.1 million; RPD titanium accepted into MMPDS, December 2025",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cored Wire Market Size, Growth, Forecast Till 2032",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "Global Cored Wire Market Size was USD 2.78 Billion in 2025, this report covers Market growth, trend, opportunity and forecast from 2026-2032",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2.78 Billion",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4.15 Billion",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2025",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "2.78 Billion",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "Projected Market Size in 2026",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "2.97 Billion",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "Projected Market Size in 2032",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "4.43 Billion",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "Europe is on track to expand its cored wire market from around USD 0.64 billion in 2025 to nearly USD 0.87 billion by 2031, registering a steady 6.10% CAGR and absolute growth of roughly USD 0.23 billion. Decarbonisation drives, including stricter CO₂ regulations and funding for green steel pilots, are nudging producers toward higher-purity alloying solutions, significantly lifting wire uptake.",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Masterbatch Market Report 2024 - Additive Masterbatch Market Size, Shar …",
+    "url": "https://www.openpr.com/news/4654183/growth-of-the-wire-arc-additive-manufacturing-cell-market-driven",
+    "pass": 3
+   },
+   {
+    "quote": "Non-GMO Corn Seed Market Size, Trends & Forecast 2033",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "FCC Refinery Catalysts Market Size, Trends & Forecast 2033",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "Worm Graphite Market Size, Share & Forecast to 2033",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "Food Oil Packaging Market Size, Trends & Forecast 2026-2035",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "Stevia Market Size, Share, CAGR & Forecast to 2033",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "Aquaculture Nets Market Size, CAGR & 2034 Forecast",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "Paper Printing and Packaging Market Size & Forecast 2026-2035",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "Animal Feed Protein Market Size, Share & Growth 2025-2034",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Nitride Ceramics Market Size, Growth & Forecast 2034",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "Fermentation Enhancer Market to Hit USD 12.6B by 2034",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界のワイヤアーク積層造形ソリューション市場規模は、2025年の3億1,100万米ドルから2032年には5億1,600万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.1%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第2章には、エグゼクティブサマリーとして、世界のワイヤアーク積層造形ソリューション市場の概要（市場規模、地域別CAGR、国・地域別分析）、タイプ別（ガスメタルアーク溶接、ガスタングステンアーク溶接、その他）、材料別（鉄鋼・ステンレス、アルミニウム合金、チタン合金、その他）、シーン別（工具・治具、修理・再製造、その他）、アプリケーション別（航空宇宙産業、エネルギー産業、その他）の市場セグメントに関する詳細な要約が収録されており、それぞれの市場規模、CAGR、市場シェアのデータが含まれています",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、ワイヤアーク積層造形ソリューション市場における主要プレーヤーの市場規模と市場シェア（収益、市場シェアの推移）、主要プレーヤーの拠点と提供製品、市場集中度分析（競争状況、CR3, CR5, CR10）、新規参入企業、M&Aや事業拡大に関する詳細な分析が示されています",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "世界のワイヤアーク積層造形ソリューション市場規模は、2025年の3億1,100万米ドルから2032年には5億1,600万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.1%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第2章には、エグゼクティブサマリーとして、世界のワイヤアーク積層造形ソリューション市場の概要（市場規模、地域別CAGR、国・地域別分析）、タイプ別（ガスメタルアーク溶接、ガスタングステンアーク溶接、その他）、材料別（鉄鋼・ステンレス、アルミニウム合金、チタン合金、その他）、シーン別（工具・治具、修理・再製造、その他）、アプリケーション別（航空宇宙産業、エネルギー産業、その他）の市場セグメントに関する詳細な要約が収録されており、それぞれの市場規模、CAGR、市場シェアのデータが含まれています",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、ワイヤアーク積層造形ソリューション市場における主要プレーヤーの市場規模と市場シェア（収益、市場シェアの推移）、主要プレーヤーの拠点と提供製品、市場集中度分析（競争状況、CR3, CR5, CR10）、新規参入企業、M&Aや事業拡大に関する詳細な分析が示されています",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2025 to 2034",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, a CAGR of",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, a compound annual growth rate of",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "of wire arc additive manufacturing value in 2025 and grow at",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "a year, driven by nickel aluminium bronze for submarine valves, fittings and propulsion parts; in March 2026 AML3D won an AUD 2.61 million US Navy contract for such components. Nickel alloys grow at",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2034)",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR to 2034",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global wire arc additive manufacturing market was worth $160 million in 2025 and reaches $608.47 million by 2034, growing at a CAGR of 16.0%. The value covers WAAM systems, path planning and monitoring software, and contract part printing, repair and qualification services. It excludes laser and electron beam wire deposition, powder processes and wire feedstock sold separately.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "6.90% CAGR",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "Europe is on track to expand its cored wire market from around USD 0.64 billion in 2025 to nearly USD 0.87 billion by 2031, registering a steady 6.10% CAGR and absolute growth of roughly USD 0.23 billion. Decarbonisation drives, including stricter CO₂ regulations and funding for green steel pilots, are nudging producers toward higher-purity alloying solutions, significantly lifting wire uptake.",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s cored wire revenues are poised to edge up from roughly USD 0.17 billion in 2025 to USD 0.21 billion by 2031, translating into a 4.30% CAGR and USD 0.04 billion of incremental value. Automotive lightweighting programs and the nation’s concerted shift to hydrogen-based steelmaking are fostering demand for precise alloying feeds that minimise impurities.",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "Korea is forecast to grow its cored wire market from about USD 0.11 billion in 2025 to almost USD 0.20 billion by 2031, enjoying a 6.50% CAGR and roughly USD 0.08 billion absolute gain. Ambitious expansions in shipbuilding, offshore wind fabrication and high-strength steel grades encourage wire suppliers to innovate with tailored calcium and rare-earth formulations.",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "China’s cored wire segment will leap from approximately USD 0.42 billion in 2025 to near USD 0.73 billion in 2031, delivering an impressive 8.50% CAGR and about USD 0.31 billion in new revenue. Intensifying efforts to upgrade blast furnaces, elevate steel quality and phase out polluting induction routes drive aggressive adoption of alloy-laden wire feeding systems.",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "Within the broader North American bloc, the USA alone is set to advance from USD 0.14 billion in 2025 to roughly USD 0.17 billion by 2031, implying a 5.20% CAGR and nearly USD 0.03 billion additional sales. Federal infrastructure bills, re-shoring of manufacturing and rising oil-and-gas well interventions are sharpening focus on specialty cored wires for weld overlay and alloy control.",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "Cored Wire market will grow at CAGR of 6.90% from 2026 to 2032.",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "India Wire Livestock Panel Market 2029: Size, CAGR & Outlook",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "Stevia Market Size, Share, CAGR & Forecast to 2033",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "Aquaculture Nets Market Size, CAGR & 2034 Forecast",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "by 2030, exhibiting a compelling Compound Annual Growth Rate (CAGR) of",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 13.1% from 2020-2034",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "また本レポートでは、ワイヤアーク積層造形ソリューションのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的なワイヤアーク積層造形ソリューション市場の加速する動向の中で、主要グローバル企業の独自の立場をより深く理解できるよう、各社の戦略を分析しています",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要企業、主要地域および国別に、ワイヤアーク積層造形ソリューション市場の包括的な概要、市場シェア、成長機会を提示しています",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、ワイヤアーク積層造形ソリューション市場における主要プレーヤーの市場規模と市場シェア（収益、市場シェアの推移）、主要プレーヤーの拠点と提供製品、市場集中度分析（競争状況、CR3, CR5, CR10）、新規参入企業、M&Aや事業拡大に関する詳細な分析が示されています",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "また本レポートでは、ワイヤアーク積層造形ソリューションのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的なワイヤアーク積層造形ソリューション市場の加速する動向の中で、主要グローバル企業の独自の立場をより深く理解できるよう、各社の戦略を分析しています",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要企業、主要地域および国別に、ワイヤアーク積層造形ソリューション市場の包括的な概要、市場シェア、成長機会を提示しています",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、ワイヤアーク積層造形ソリューション市場における主要プレーヤーの市場規模と市場シェア（収益、市場シェアの推移）、主要プレーヤーの拠点と提供製品、市場集中度分析（競争状況、CR3, CR5, CR10）、新規参入企業、M&Aや事業拡大に関する詳細な分析が示されています",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "Wire Arc Additive Manufacturing Market: Competitive Landscape",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Covered",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing using wire arc technology is gaining significant attention due to its efficiency in producing large metal components. This report explores the recent growth, key players, emerging trends, and segmentation of the wire arc additive manufacturing cell market to provide a comprehensive understanding of its future trajectory.",
+    "url": "https://www.openpr.com/news/4654183/growth-of-the-wire-arc-additive-manufacturing-cell-market-driven",
+    "pass": 3
+   },
+   {
+    "quote": "The demand for wireless monitoring and surveillance solutions has surged dramatically as security needs evolve and technology advances. This market is experiencing dynamic growth fueled by more widespread adoption of wireless communication and monitoring systems. Let's explore the current market size, key players, technological innovations, and the segments driving this sector forward.",
+    "url": "https://www.openpr.com/news/4654183/growth-of-the-wire-arc-additive-manufacturing-cell-market-driven",
+    "pass": 3
+   },
+   {
+    "quote": "We offer personalized report customization at no extra cost, including the option to purchase individual sections or country-specific reports. Plus, we provide special discounts for startups and universities. Get in touch with us today!",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "Customized Evaluation of Competitive Landscape to Meet Your Needs",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "Key players like GE Additive, Lincoln Electric, and Sciaky Inc. are continuously innovating, introducing new hardware and software solutions to enhance WAAM capabilities. Cranfield University and TWI Ltd. also contribute significantly through research and development, often leading to commercialization by industry partners.",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "第6章には、APAC地域のワイヤアーク積層造形ソリューション市場について、国別（中国、日本、韓国、東南アジア、インド、オーストラリア）、タイプ別、アプリケーション別の市場規模と成長が詳述されています",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：ワイヤアーク積層造形ソリューションの世界市場2026年～2032年",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第6章には、APAC地域のワイヤアーク積層造形ソリューション市場について、国別（中国、日本、韓国、東南アジア、インド、オーストラリア）、タイプ別、アプリケーション別の市場規模と成長が詳述されています",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：ワイヤアーク積層造形ソリューションの世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形用ワイヤの建設利用のための技術実証を開始〜竹中工務店・シモダフランジとともにWAAM方式金属3Dプリンターの評価試験を実施〜 | プレスリリース | 企業情報 | 大同特殊鋼",
+    "url": "https://www.daido.co.jp/about/release/2026/260127_waam.html",
+    "pass": 3
+   },
+   {
+    "quote": "大同特殊鋼株式会社（社長：清水哲也）は、株式会社竹中工務店（社長：佐々木正人）、株式会社シモダフランジ（社長：下田信治）と共同で、積層造形用ワイヤを利用した金属3Dプリンターの建設分野での利用促進を目的とした技術実証プロジェクトを開始しました",
+    "url": "https://www.daido.co.jp/about/release/2026/260127_waam.html",
+    "pass": 3
+   },
+   {
+    "quote": "大同特殊鋼： 積層造形用ワイヤの開発と提供、建設金属廃材の再生プロセスの確立",
+    "url": "https://www.daido.co.jp/about/release/2026/260127_waam.html",
+    "pass": 3
+   },
+   {
+    "quote": "大同特殊鋼株式会社 技術開発研究所 企画室",
+    "url": "https://www.daido.co.jp/about/release/2026/260127_waam.html",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright The Japan Welding Engineering Society, 2011-2021 All Rights Reserved.",
+    "url": "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "a year. DAIHEN showed the ArcBuilder 3D at Robot Technology Japan 2026 at USD 450,000 to 500,000, a price that puts a turnkey cell within reach of fabricators already running DAIHEN welding robots. In February 2026 WAAM3D signed a memorandum with National Aerospace Industry Corporation Malaysia to set up WAAM at the MyAERO Centre, tying the technology to regional",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Osaka, Japan",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ArcBuilder 3D launched at Robot Technology Japan 2026, priced USD 450,000 to 500,000",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "DAIHEN entered the WAAM market with the ArcBuilder 3D at Robot Technology Japan 2026, priced at USD 450,000 to 500,000.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "United States, Canada, United Kingdom, Germany, Netherlands, Norway, Spain, Australia, China, Japan, Singapore, Malaysia, Brazil, Mexico, Saudi Arabia, United Arab Emirates",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "14.2.2 Japan",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America leads with 40.0% of 2025 value and grows at 16.2% a year, driven by US Navy and shipyard demand including six ARCEMY X systems ordered by Newport News Shipbuilding. Asia Pacific is the fastest growing region at 18.2% a year, supported by the DAIHEN launch in Japan, the WAAM3D agreement in Malaysia and Vallourec printing in Singapore.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "underline demand clusters: North America, Europe and Asia-Pacific lead, with Japan, Korea, China and the USA each contributing distinct metallurgical standards, capacity expansions and environmental directives. An",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s cored wire revenues are poised to edge up from roughly USD 0.17 billion in 2025 to USD 0.21 billion by 2031, translating into a 4.30% CAGR and USD 0.04 billion of incremental value. Automotive lightweighting programs and the nation’s concerted shift to hydrogen-based steelmaking are fostering demand for precise alloying feeds that minimise impurities.",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "5.3. Japan",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Wire Arc Additive Manufacturing System Market Revenue (million) Forecast, by Application 2020 & 2034",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "第2章には、エグゼクティブサマリーとして、世界のワイヤアーク積層造形ソリューション市場の概要（市場規模、地域別CAGR、国・地域別分析）、タイプ別（ガスメタルアーク溶接、ガスタングステンアーク溶接、その他）、材料別（鉄鋼・ステンレス、アルミニウム合金、チタン合金、その他）、シーン別（工具・治具、修理・再製造、その他）、アプリケーション別（航空宇宙産業、エネルギー産業、その他）の市場セグメントに関する詳細な要約が収録されており、それぞれの市場規模、CAGR、市場シェアのデータが含まれています",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、ワイヤアーク積層造形ソリューション市場における主要プレーヤーの市場規模と市場シェア（収益、市場シェアの推移）、主要プレーヤーの拠点と提供製品、市場集中度分析（競争状況、CR3, CR5, CR10）、新規参入企業、M&Aや事業拡大に関する詳細な分析が示されています",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第11章には、WAAM3D、Gefertec、ModuleWorks、MX3D、RAMLAB、FasTech、AML3D、Lincoln Electric、Voestalpine Böhler Welding、Keepsake Automation、Fronius、Addilan、SBI GmbH、Valk Weldingといった主要プレーヤー各社の企業情報、提供製品、収益、粗利益、市場シェア、主要事業概要、最新の動向に関する詳細な分析が提供されています",
+    "url": "https://newscast.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第2章には、エグゼクティブサマリーとして、世界のワイヤアーク積層造形ソリューション市場の概要（市場規模、地域別CAGR、国・地域別分析）、タイプ別（ガスメタルアーク溶接、ガスタングステンアーク溶接、その他）、材料別（鉄鋼・ステンレス、アルミニウム合金、チタン合金、その他）、シーン別（工具・治具、修理・再製造、その他）、アプリケーション別（航空宇宙産業、エネルギー産業、その他）の市場セグメントに関する詳細な要約が収録されており、それぞれの市場規模、CAGR、市場シェアのデータが含まれています",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、ワイヤアーク積層造形ソリューション市場における主要プレーヤーの市場規模と市場シェア（収益、市場シェアの推移）、主要プレーヤーの拠点と提供製品、市場集中度分析（競争状況、CR3, CR5, CR10）、新規参入企業、M&Aや事業拡大に関する詳細な分析が示されています",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "第11章には、WAAM3D、Gefertec、ModuleWorks、MX3D、RAMLAB、FasTech、AML3D、Lincoln Electric、Voestalpine Böhler Welding、Keepsake Automation、Fronius、Addilan、SBI GmbH、Valk Weldingといった主要プレーヤー各社の企業情報、提供製品、収益、粗利益、市場シェア、主要事業概要、最新の動向に関する詳細な分析が提供されています",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (2025)",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Share of 2025 revenue",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive chapter profiles 14 companies with business overview, product portfolio, recent developments and strategy, and ranks them by market share. Shares are in the report.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "17.2 Global Wire Arc Additive Manufacturing Market: Market Share Analysis, 2025",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top regions by 2024 market share:",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.1 Global Cored Wire Sales Market Share by Type (2017-2025)",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.2 Global Cored Wire Revenue and Market Share by Type (2017-2025)",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "2.5.1 Global Cored Wire Sale Market Share by Application (2020-2025)",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "2.5.2 Global Cored Wire Revenue and Market Share by Application (2017-2025)",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "3. Which companies are leading the Cored Wire Market in terms of market share and revenue?",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "Investment in WAAM systems is driven by the potential for cost-effective large-scale component production, particularly in aerospace and automotive applications. Companies such as AML3D and Rosotics Inc. are attracting capital for R&D and scaling operations, aiming to expand market share from the current $786.04 million valuation.",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "Company Market Share Analysis, 2026",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 Companies Market Share Analysis",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "Top 3 Companies Market Share Analysis",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   },
+   {
+    "quote": "As modern manufacturing continues to develop rapidly, manufacturers need to fight for every percent of market share, and when revolutionary innovations and production volumes keep setting conditions, DED 3D printing appears to be a profitable and efficient solution.",
+    "url": "https://www.waam3d.com/resources/blog",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "Investment from Valk Welding to expand MaxQ systems, 2025",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Invested in RAMLAB, 2025",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The US Navy, Electric Boat and Lincoln Electric announced funding for four SculptPrint 1500 WAAM cells in Cleveland.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Dataintelo research set the growth rate from AML3D revenue growth and order intake, US Navy Maritime Industrial Base funding, MMPDS acceptance of plasma arc titanium and new system launches, balanced against supplier losses and post-processing constraints.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The growth rate was validated through Dataintelo primary research with market participants and cross-checked against AML3D order intake, US Navy program funding and Norsk Titanium guidance changes.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe is on track to expand its cored wire market from around USD 0.64 billion in 2025 to nearly USD 0.87 billion by 2031, registering a steady 6.10% CAGR and absolute growth of roughly USD 0.23 billion. Decarbonisation drives, including stricter CO₂ regulations and funding for green steel pilots, are nudging producers toward higher-purity alloying solutions, significantly lifting wire uptake.",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "pass": 3
+   },
+   {
+    "quote": "As the demand for complex, lightweight components surges in sectors like aerospace, defense, and energy, the broader 3D printing materials market is seeing rapid investments in highly refined powders and polymers. However, feedstock economics often dictate the viability of an AM process for truly large parts.",
+    "url": "https://mx3d.com/why-waam-matters/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment in WAAM systems is driven by the potential for cost-effective large-scale component production, particularly in aerospace and automotive applications. Companies such as AML3D and Rosotics Inc. are attracting capital for R&D and scaling operations, aiming to expand market share from the current $786.04 million valuation.",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Why WAAM Matters: The Industrial Advantages of Wire Arc ... — Why WAAM Matters: The Industrial Advantages of Wire Arc ... MX3D https://mx3d.com > why-waam-matters",
+    "url": "https://mx3d.com/why-waam-matters/",
+    "pass": 3
+   },
+   {
+    "quote": "WAAM 101 - Wire Arc Additive Manufacturing - RAMLAB — WAAM 101 - Wire Arc Additive Manufacturing - RAMLAB RAMLAB https://www.ramlab.com > waam-101",
+    "url": "https://www.ramlab.com/resources/waam-101/",
+    "pass": 3
+   },
+   {
+    "quote": "WAAM3D secures funding to commercialise Wire -based ... — WAAM3D secures funding to commercialise Wire -based ... TCT Magazine https://www.tctmagazine.com > waam...",
+    "url": "https://www.tctmagazine.com/waam3d-funding-wire-based-additive-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "愛知産業 英WAAM3D社製RoboWAAM Advance導入と アーク ... 愛知産業 英WAAM3D社製RoboWAAM Advance導入と アーク ... Facebook https://www.facebook.com > kyodonewsprwire > posts",
+    "url": "https://www.facebook.com/kyodonewsprwire/posts/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD-%E8%8B%B1waam3d%E7%A4%BE%E8%A3%BDrobowaam-advance%E5%B0%8E%E5%85%A5%E3%81%A8%E3%82%A2%E3%83%BC%E3%82%AF%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%E9%87%91%E5%B1%9E3d-3d%E9%80%A0%E5%BD%A2-%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-%E6%BA%B6%E6%8E%A5-waam-%E3%82%A2%E3%83%BC%E3%82%AF%E9%80%A0%E5%BD%A2-%E3%82%A4%E3%82%AE%E3%83%AA/768494511987349/?locale=ja_JP",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Using Wire Arc Additive Manufacturing ( WAAM ) for 3D printing ... Using Wire Arc Additive Manufacturing ( WAAM ) for 3D printing ... LinkedIn https://www.linkedin.com > posts > mohammed-ibrahim-a...",
+    "url": "https://www.linkedin.com/posts/mohammed-ibrahim-awad-a1b84918_using-wire-arc-additive-manufacturing-waam-activity-7208166156744986624-nmvh",
+    "pass": 3
+   },
+   {
+    "quote": "WAAM Process: Wire Arc Additive Manufacturing - LinkedIn WAAM Process: Wire Arc Additive Manufacturing - LinkedIn LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/amir-sanatkar-32b8923a_manufacturing-technology-industry-activity-7487220593399070720-E5pG",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "7.1",
+    "url": "https://newscast.jp/news/4594187",
+    "quote": "世界のワイヤアーク積層造形ソリューション市場規模は、2025年の3億1,100万米ドルから2032年には5億1,600万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.1%で成長すると見込まれています"
+   },
+   {
+    "value": "7.1",
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "quote": "世界のワイヤアーク積層造形ソリューション市場規模は、2025年の3億1,100万米ドルから2032年には5億1,600万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.1%で成長すると見込まれています"
+   },
+   {
+    "value": "16.0",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "quote": "The global wire arc additive manufacturing market was worth $160 million in 2025 and reaches $608.47 million by 2034, growing at a CAGR of 16.0%. The value covers WAAM systems, path planning and monitoring software, and contract part printing, repair and qualification services. It excludes laser and"
+   },
+   {
+    "value": "6.90",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "quote": "Cored Wire market will grow at CAGR of 6.90% from 2026 to 2032."
+   },
+   {
+    "value": "13.1",
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "quote": "CAGR of 13.1% from 2020-2034"
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "160",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "quote": "USD 160 Million"
+   },
+   {
+    "value": "608",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "quote": "USD 608 Million"
+   },
+   {
+    "value": "608.47",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "quote": "$608.47 million"
+   },
+   {
+    "value": "448.47",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "quote": "$448.47 million"
+   },
+   {
+    "value": "2.6",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "quote": ". Contract part printing is the largest service line: AML3D signed a $2.6 million (AUD) contract in FY2026 to supply high demand, non-safety critical replacement components for US Navy submarines, and Lincoln Electric Additive Solutions sells printed parts alongside its SculptPrint cells. RAMLAB app"
+   },
+   {
+    "value": "4.1",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "quote": "2025 revenue and other income USD 4.1 million; RPD titanium accepted into MMPDS, December 2025"
+   },
+   {
+    "value": "2.78",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "quote": "Global Cored Wire Market Size was USD 2.78 Billion in 2025, this report covers Market growth, trend, opportunity and forecast from 2026-2032"
+   },
+   {
+    "value": "4.15",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "quote": "USD 4.15 Billion"
+   },
+   {
+    "value": "0.64",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "quote": "Europe is on track to expand its cored wire market from around USD 0.64 billion in 2025 to nearly USD 0.87 billion by 2031, registering a steady 6.10% CAGR and absolute growth of roughly USD 0.23 billion. Decarbonisation drives, including stricter CO₂ regulations and funding for green steel pilots, "
+   },
+   {
+    "value": "0.87",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "quote": "Europe is on track to expand its cored wire market from around USD 0.64 billion in 2025 to nearly USD 0.87 billion by 2031, registering a steady 6.10% CAGR and absolute growth of roughly USD 0.23 billion. Decarbonisation drives, including stricter CO₂ regulations and funding for green steel pilots, "
+   },
+   {
+    "value": "0.23",
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "quote": "Europe is on track to expand its cored wire market from around USD 0.64 billion in 2025 to nearly USD 0.87 billion by 2031, registering a steady 6.10% CAGR and absolute growth of roughly USD 0.23 billion. Decarbonisation drives, including stricter CO₂ regulations and funding for green steel pilots, "
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://newscast.jp/news/4594187",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/ja/reports/welding-wires-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/%E3%83%AF%E3%82%A4%E3%83%A4%E3%82%A2%E3%83%BC%E3%82%AF%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E6%8A%80%E8%A1%93/7014353",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%9B%BA%E4%BD%93%E6%BA%B6%E6%8E%A5%E3%83%AF%E3%82%A4%E3%83%A4%E5%B8%82%E5%A0%B4-113477",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mrctechforum.inkrich.com/posts/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E6%BA%B6%E6%8E%A5%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.lib.kyushu-u.ac.jp/opac_download_md/7429161/7429161.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www-it.jwes.or.jp/we-com/bn/vol_47/sec_2/2-2/1-1.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/release/2026/260127_waam.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E6%96%B9%E5%BC%8F%E3%81%AE%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%81%E3%83%AF%E3%82%A4%E3%83%A4%E3%82%A2%E3%83%BC%E3%82%AF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/why-waam-matters/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.frontiersin.org/journals/manufacturing-technology/articles/10.3389/fmtec.2025.1676365/full",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openpr.com/news/4654183/growth-of-the-wire-arc-additive-manufacturing-cell-market-driven",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insidemetaladditivemanufacturing.com/2024/11/18/wire-arc-additive-manufacturing-waam-a-snapshot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waam3d.com/resources/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ramlab.com/resources/waam-101/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waam3d.com/project/hpwaam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctmagazine.com/waam3d-funding-wire-based-additive-manufacturing/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nature.com/articles/s41598-025-15250-y",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.global.weir/newsroom/global-news/HPWAAM-breakthrough/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/gefertec-marks-10-years-with-40-waam-systems-installed/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/kyodonewsprwire/posts/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD-%E8%8B%B1waam3d%E7%A4%BE%E8%A3%BDrobowaam-advance%E5%B0%8E%E5%85%A5%E3%81%A8%E3%82%A2%E3%83%BC%E3%82%AF%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%E9%87%91%E5%B1%9E3d-3d%E9%80%A0%E5%BD%A2-%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-%E6%BA%B6%E6%8E%A5-waam-%E3%82%A2%E3%83%BC%E3%82%AF%E9%80%A0%E5%BD%A2-%E3%82%A4%E3%82%AE%E3%83%AA/768494511987349/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/mohammed-ibrahim-awad-a1b84918_using-wire-arc-additive-manufacturing-waam-activity-7208166156744986624-nmvh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/amir-sanatkar-32b8923a_manufacturing-technology-industry-activity-7487220593399070720-E5pG",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ワイヤーアーク積層用ワイヤ 市場規模 年平均成長率",
+   "results": [
+    "https://newscast.jp/news/4594187",
+    "https://www.atpress.ne.jp/news/4594187",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "https://www.theinsightpartners.com/ja/reports/welding-wires-market",
+    "https://www.imarcgroup.com/report/ja/japan-metal-additive-manufacturing-market",
+    "https://www.coherentmarketinsights.com/ja/%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E5%B8%82%E5%A0%B4",
+    "https://www.mordorintelligence.com/ja/industry-reports/additive-manufacturing-in-semiconductor-industry-market",
+    "https://mrctechforum.inkrich.com/posts/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E6%BA%B6%E6%8E%A5%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1",
+    "https://www.datainsightsreports.com/ja/reports/waiyku-55647"
+   ]
+  },
+  {
+   "query": "ワイヤーアーク積層用ワイヤ 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://newscast.jp/news/4594187",
+    "https://www.atpress.ne.jp/news/4594187",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.theinsightpartners.com/ja/reports/welding-wires-market",
+    "https://baike.baidu.com/ja/item/%E3%83%AF%E3%82%A4%E3%83%A4%E3%82%A2%E3%83%BC%E3%82%AF%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E6%8A%80%E8%A1%93/7014353",
+    "https://www.fortunebusinessinsights.com/jp/%E5%9B%BA%E4%BD%93%E6%BA%B6%E6%8E%A5%E3%83%AF%E3%82%A4%E3%83%A4%E5%B8%82%E5%A0%B4-113477",
+    "https://mrctechforum.inkrich.com/posts/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E6%BA%B6%E6%8E%A5%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1",
+    "https://catalog.lib.kyushu-u.ac.jp/opac_download_md/7429161/7429161.pdf",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_47/sec_2/2-2/1-1.jsp"
+   ]
+  },
+  {
+   "query": "ワイヤーアーク積層用ワイヤ 参入 企業 国内",
+   "results": [
+    "https://www.daido.co.jp/about/release/2026/260127_waam.html",
+    "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "https://hdc3d.com/ja/portfolio-item/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E6%96%B9%E5%BC%8F%E3%81%AE%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%81%E3%83%AF%E3%82%A4%E3%83%A4%E3%82%A2%E3%83%BC%E3%82%AF/",
+    "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "https://www.aichi-sangyo.co.jp/products/waam3d/index.html",
+    "https://www.youtube.com/watch?v=2yBL1banI8s",
+    "https://newscast.jp/news/4594187",
+    "https://baike.baidu.com/ja/item/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E6%BA%B6%E6%8E%A5%E3%83%AF%E3%82%A4%E3%83%A4/4973325"
+   ]
+  },
+  {
+   "query": "WAAM wire market size CAGR 2025",
+   "results": [
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://www.reportprime.com/cored-wire-r160",
+    "https://mx3d.com/why-waam-matters/",
+    "https://www.frontiersin.org/journals/manufacturing-technology/articles/10.3389/fmtec.2025.1676365/full",
+    "https://www.openpr.com/news/4654183/growth-of-the-wire-arc-additive-manufacturing-cell-market-driven",
+    "https://www.mordorintelligence.com/industry-reports/united-states-wires-and-cables-market",
+    "https://www.fortunebusinessinsights.com/wire-and-cable-compounds-market-115486",
+    "https://www.linkedin.com/posts/market-research-growth-analysis_globalwaammarket-wirearcadditivemanufacturing-activity-7521951548277669888-B3Lc",
+    "https://www.mdpi.com/2072-666x/16/7/749",
+    "https://growthmarketreports.com/report/wire-arc-additive-manufacturing-system-market"
+   ]
+  },
+  {
+   "query": "WAAM wire market key players competitive landscape",
+   "results": [
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "https://insidemetaladditivemanufacturing.com/2024/11/18/wire-arc-additive-manufacturing-waam-a-snapshot/",
+    "https://www.waam3d.com/resources/blog",
+    "https://www.ramlab.com/resources/waam-101/",
+    "https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/",
+    "https://www.linkedin.com/pulse/wire-arc-additive-manufacturing-solution-market-reach-jctlf",
+    "https://www.mordorintelligence.com/industry-reports/united-states-additive-manufacturing-market",
+    "https://www.acsa-arch.org/proceedings/Annual%20Meeting%20Proceedings/ACSA.AM.111/ACSA.AM.111.8.pdf",
+    "https://www.einpresswire.com/article/908996058/wire-arc-additive-manufacturing-cell-market-competitive-landscape-across-leading-and-emerging-players"
+   ]
+  },
+  {
+   "query": "WAAM wire startup funding 2025",
+   "results": [
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://www.waam3d.com/project/hpwaam",
+    "https://www.tctmagazine.com/waam3d-funding-wire-based-additive-manufacturing/",
+    "https://www.nature.com/articles/s41598-025-15250-y",
+    "https://mx3d.com/why-waam-matters/",
+    "https://www.frontiersin.org/journals/manufacturing-technology/articles/10.3389/fmtec.2025.1676365/full",
+    "https://www.global.weir/newsroom/global-news/HPWAAM-breakthrough/",
+    "https://www.voxelmatters.com/gefertec-marks-10-years-with-40-waam-systems-installed/",
+    "https://gtr.ukri.org/projects?ref=53610"
+   ]
+  },
+  {
+   "query": "site:note.com ワイヤーアーク積層用ワイヤ",
+   "results": [
+    "https://note.com/good_dill292/n/n4b2d00b9c432",
+    "https://note.com/hmjrd/n/n629f01c61897",
+    "https://note.com/castem/n/n3cc017de79ab",
+    "https://note.com/monojirei/n/n76214073f482",
+    "https://note.com/hensyuosuke/n/nacb84b37a2ee",
+    "https://note.com/mar810/n/n2fb28a04b6f3/comments?hl=en-US",
+    "https://note.com/tech_nomad/n/n5eefb5eda986",
+    "https://note.com/copkbd/n/n7063aaa7e778",
+    "https://note.com/jtccm5/n/na13d46d7ca65",
+    "https://note.com/kenjiusui/n/n2911caa40373"
+   ]
+  },
+  {
+   "query": "site:x.com ワイヤーアーク積層用ワイヤ",
+   "results": [
+    "https://x.com/nb_shinbun",
+    "https://x.com/sdsl_tcu",
+    "https://x.com/hirasawalab",
+    "https://x.com/PC980186",
+    "https://x.com/natacoco",
+    "https://x.com/hirasawalab/status/2099629448157188290",
+    "https://x.com/industryJapan/status/2063035773985955913",
+    "https://x.com/Mazak_Japan/status/1847161730805518599",
+    "https://x.com/nikkiso_jp/status/2033737718812053826",
+    "https://x.com/industryJapan/status/2062152131273236946"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ワイヤーアーク積層用ワイヤ",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E6%BA%B6%E6%8E%A5%E3%83%AD%E3%83%83%E3%83%89%E7%94%A8%E3%81%AE%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90%E8%A6%8F%E6%A8%A1%E3%82%B7%E3%82%A7%E3%82%A2%E5%8F%8E%E7%9B%8A%E3%81%8A%E3%82%88%E3%81%B32026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%AC136%E3%81%AEcag-7518925413553897472-7bgte",
+    "https://jp.linkedin.com/in/kharevivekkumar/ja",
+    "https://jp.linkedin.com/pulse/%E3%83%95%E3%82%A7%E3%83%A9%E3%82%A4%E3%83%88%E7%A9%8D%E5%B1%A4%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A4%E3%83%B3%E3%83%80%E3%82%AF%E3%82%BF%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90%E5%B8%82%E5%A0%B4%E3%81%AE%E8%B2%A1%E5%8B%99%E7%8A%B6%E6%B3%81%E5%B8%82%E5%A0%B4-7506799347234377729-m9jze",
+    "https://jp.linkedin.com/in/thomas-h-pang-ph-d-%EF%BC%88%E3%83%88%E3%83%BC%E3%83%9E%E3%82%B9%E3%83%BB%E3%83%91%E3%83%B3%EF%BC%89ceo-additivejapancorp-and-adjprof-nagaokauoftech",
+    "https://jp.linkedin.com/pulse/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%8F%E3%83%80%E3%82%A4%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%86%E3%83%BC%E3%83%97%E5%B8%82%E5%A0%B4%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr124%E3%81%A7-7514108409307275264-78b6e",
+    "https://sg.linkedin.com/in/hsiao-piau-ng-739aba430",
+    "https://www.linkedin.com/posts/norihito-takiguchi-1bb5632a3_jaxa-業界初産学官連携でワイヤーレーザー金属3dプリンターによるマグネシウム-activity-7206846892666736641-xIza",
+    "https://pk.linkedin.com/jobs/view/sparkship-2026-–-summer-internship-program-telenor-shared-services-pakistan-at-telenor-4407761600",
+    "https://jp.linkedin.com/pulse/wire-arc-additive-manufacturing-benefits-designers-filomeno-martina?tl=ja",
+    "https://jp.linkedin.com/pulse/グローバル溶接ロッド用のスチール市場分析規模シェア収益および2026年から2033年までの予測136のcag-7518925413553897472-7bgte"
+   ]
+  },
+  {
+   "query": "site:facebook.com ワイヤーアーク積層用ワイヤ",
+   "results": [
+    "https://www.facebook.com/sakaetan/posts/%E5%8D%98%E7%B5%90%E6%99%B6%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91%E3%81%AE%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E3%81%8C%E3%82%82%E3%81%9F%E3%82%89%E3%81%99%E6%AC%A1%E4%B8%96%E4%BB%A3%E6%95%B4%E5%BD%A2%E5%A4%96%E7%A7%91%E3%82%A4%E3%83%B3%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7%E4%BA%BA%E5%B7%A5%E9%96%A2%E7%AF%80%E3%82%84%E9%AA%A8%E6%8A%98%E6%B2%BB%E7%99%82%E7%94%A8%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%81%AA%E3%81%A9%E3%81%AE%E9%87%91%E5%B1%9E%E7%94%9F%E4%BD%93%E6%9D%90%E6%96%99%E3%81%AF%E6%95%B4%E5%BD%A2%E5%A4%96%E7%A7%91%E6%89%8B%E8%A1%93%E3%81%AB%E4%B8%8D%E5%8F%AF%E6%AC%A0%E3%81%A7%E3%81%82%E3%82%8B%E4%B8%80%E6%96%B9%E4%BD%93%E5%86%85%E3%81%A7%E3%81%AE%E9%95%B7%E6%9C%9F/29555503090723718/",
+    "https://www.facebook.com/kyodonewsprwire/posts/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD-%E8%8B%B1waam3d%E7%A4%BE%E8%A3%BDrobowaam-advance%E5%B0%8E%E5%85%A5%E3%81%A8%E3%82%A2%E3%83%BC%E3%82%AF%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%E9%87%91%E5%B1%9E3d-3d%E9%80%A0%E5%BD%A2-%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-%E6%BA%B6%E6%8E%A5-waam-%E3%82%A2%E3%83%BC%E3%82%AF%E9%80%A0%E5%BD%A2-%E3%82%A4%E3%82%AE%E3%83%AA/768494511987349/?locale=ja_JP",
+    "https://www.facebook.com/manabu.masuda.52/videos/%E3%81%93%E3%81%AE%E4%BD%9C%E5%93%81%E3%82%82%E3%83%9D%E3%83%AB%E3%83%88%E3%82%AC%E3%83%AB%E3%81%B8%E6%8C%81%E3%81%A3%E3%81%A6%E8%A1%8C%E3%81%8F%E4%BA%88%E5%AE%9A%E3%81%A7%E3%81%99%E7%AC%AC%E4%B8%80%E5%BC%BE%E3%82%92%E8%BF%91%E3%80%85%E7%99%BA%E9%80%81%E3%81%99%E3%82%8B%E3%81%A4%E3%82%82%E3%82%8A%E3%81%82%E3%81%A8%E4%B8%80%E3%82%AB%E6%9C%88%E5%BC%B7%E3%81%BE%E3%81%A0%E3%81%BE%E3%81%A0%E5%89%B5%E4%BD%9C%E3%82%92%E7%B6%9A%E3%81%91%E3%81%BE%E3%81%99%E5%8D%87%E7%94%B0%E5%AD%A6%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%89%E3%83%AD%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%E3%82%A2%E3%83%BC%E3%83%88life-in-the-fl/2091174284852891/",
+    "https://www.facebook.com/groups/steel.frame.study/posts/1263156144964199/",
+    "https://www.facebook.com/mazak.jp/videos/variaxis-j-6005x-am/535517392746573/",
+    "https://www.facebook.com/mazak.jp/photos/ワイヤアーク式金属積層造形技術を採用したハイブリッド複合加工機variaxis-j-600-am-を第28回日本国際工作機械見本市jimtof-2016に出展し/1209898332422333/",
+    "https://www.facebook.com/mazak.jp/photos/variaxis-j-6005x-amはワイヤアーク式金属積層造形技術を採用したハイブリッド加工機です市販のワイヤアーク溶接装置をamadditive-manu/1705587619520066/",
+    "https://www.facebook.com/toryouhahoriuchi/videos/hirane-tm215-インバーターパルスミグcusi-ブレイジングワイヤーカッパーシリコン低温溶接ワイヤーアルゴンガスを使用したショートアーク溶接ygw16/799002410186337/",
+    "https://www.facebook.com/lincolnelectricjapan/photos/高溶着溶接ツインワイヤソリューションhyperfill-ハイパーフィルと読みますをご紹介します➀-従来のシングルワイヤと同じ技術で高溶着のツインワイヤ溶接が可能/529998316674522/",
+    "https://www.facebook.com/lincolnelectricjapan/photos/もうワイヤのもつれに悩まされることはありませんもう無駄な時間を費やす必要もありませんgem-pak-バルク包装に内蔵されたガラス製ジェムがワイヤにやさしく均一な/745982265076125/"
+   ]
+  },
+  {
+   "query": "ワイヤーアーク積層用ワイヤ note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=2yBL1banI8s",
+    "https://hdc3d.com/ja/portfolio-item/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E6%96%B9%E5%BC%8F%E3%81%AE%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%81%E3%83%AF%E3%82%A4%E3%83%A4%E3%82%A2%E3%83%BC%E3%82%AF/",
+    "https://www.daido.co.jp/about/release/2026/260127_waam.html",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "https://gsalloy.com/ja/c-103-niobium-alloy-wire-for-additive-manufacturing-am-diameter-selection-guide/",
+    "https://www.arl.tcu.ac.jp/research/siam-ru.html",
+    "https://baike.baidu.com/ja/item/%E3%83%AF%E3%82%A4%E3%83%A4%E3%82%A2%E3%83%BC%E3%82%AF%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E6%8A%80%E8%A1%93/7014353",
+    "https://www.aichi-sangyo.co.jp/products/waam3d/index.html",
+    "https://catalog.lib.kyushu-u.ac.jp/opac_download_md/7429161/7429161.pdf",
+    "https://www.newaymachining.com/ja/knowledge-hub/what-is-wire-arc-additive-manufacturing-waam-3d-printing"
+   ]
+  },
+  {
+   "query": "ワイヤーアーク積層用ワイヤ X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=2yBL1banI8s",
+    "https://hdc3d.com/ja/portfolio-item/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E6%96%B9%E5%BC%8F%E3%81%AE%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%81%E3%83%AF%E3%82%A4%E3%83%A4%E3%82%A2%E3%83%BC%E3%82%AF/",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "https://www.daido.co.jp/about/release/2026/260127_waam.html",
+    "https://baike.baidu.com/ja/item/%E3%83%AF%E3%82%A4%E3%83%A4%E3%82%A2%E3%83%BC%E3%82%AF%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E6%8A%80%E8%A1%93/7014353",
+    "https://www.aichi-sangyo.co.jp/products/waam3d/index.html",
+    "https://www.arl.tcu.ac.jp/research/siam-ru.html",
+    "https://www.youtube.com/watch?v=zaHJcuyCXLg",
+    "https://gsalloy.com/ja/c-103-niobium-alloy-wire-for-additive-manufacturing-am-diameter-selection-guide/",
+    "https://x.com/hirasawalab/status/2099629448157188290"
+   ]
+  },
+  {
+   "query": "WAAM wire site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/mohammed-ibrahim-awad-a1b84918_using-wire-arc-additive-manufacturing-waam-activity-7208166156744986624-nmvh",
+    "https://www.linkedin.com/posts/3dprintingsarah_someone-asked-me-if-we-could-use-waam-wire-activity-7519423696894283776-siW5",
+    "https://www.linkedin.com/posts/amir-sanatkar-32b8923a_manufacturing-technology-industry-activity-7487220593399070720-E5pG",
+    "https://www.linkedin.com/posts/elyas-ghafoori-28214b100_wire-arc-directed-energy-deposition-ded-activity-7087026871678193664-R-4H",
+    "https://www.linkedin.com/posts/philipp-kozin_waam-additivemanufacturing-3dprinting-activity-7493013242211110912-sjPy",
+    "https://www.linkedin.com/posts/mining-com-au_our-next-gen-al-sc-welding-wires-for-waam-activity-7449941813001486336-aygH",
+    "https://www.linkedin.com/posts/alloy-additive_waam-powderded-directedenergydeposition-activity-7493268400710844416-LNwS",
+    "https://www.linkedin.com/posts/gefertec_advanced-process-control-in-additive-manufacturing-activity-7391490159248187392-Ide8",
+    "https://www.linkedin.com/videos/ttranpham_3dprinting-additivemanufacturing-activity-7413558225955864576-nhEg",
+    "https://www.linkedin.com/pulse/wire-arc-additive-manufacturing-waam-reshaping-future-asim-ihsan-r-nwzmc"
+   ]
+  }
+ ],
+ "missing": {}
+}

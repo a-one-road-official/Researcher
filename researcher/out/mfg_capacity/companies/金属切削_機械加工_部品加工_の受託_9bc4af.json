@@ -1,0 +1,1816 @@
+{
+ "name": "金属切削・機械加工（部品加工）の受託",
+ "en": "machining job shop Japan statistics employees revenue",
+ "aliases": [
+  "機械加工 賃加工 事業所",
+  "金属加工機械部分品 加工賃",
+  "切削加工 町工場 1人当たり売上"
+ ],
+ "context": "工法・切削",
+ "kind": "market",
+ "researched_at": "2026-11-05T00:41:19.360508+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "「MAKINO V33i」で切削し、磨き職人の「手」によって光の具合を検証！",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "「MAKINO V33i」で切削し、磨き職人の「手」によって光の具合を検証",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "【東京都／精密金属加工／航空宇宙・医療】高い加工技術を持つ会社、４０代従業員数名",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "国勢調査とは、日本に住んでいるすべての人および世帯を対象とする国の最も重要な統計調査で、国内の人口や世帯の実態を明らかにするため、5年ごとに行われています",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "「10 就業上の地位(8区分), 職業(小分類), 男女別15歳以上就業者数 – 全国」の中に、「49d 金属工作機械作業従事者」という選択肢があり、こちらが生産工程で金属工作機械を使用する人",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "平成27年（2015年）の人数が下記となります",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "58,890,810人",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "7,679,870人",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "1,149,350人",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "161,930人",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "生産工程で金属工作機械を使用するオペレーターが約16万人",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "「49d 金属工作機械作業従事者」約16万人から、マシニングセンタもしくはNC旋盤を使用するオペレーター数を推定するために、経済産業省 生産動態統計を利用しました",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "「49d 金属工作機械作業従事者」約16万人のうち、67%がマシニングセンタもしくはNC旋盤を使用していると仮定して推定すると108,493人",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "NC工作機械（マシニングセンタもしくはNC旋盤）で金属を切削加工しているオペレーターは約10万人",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "マシニングセンタを使用するオペレーターが72,869人、NC旋盤を使用するオペレーターが35,624人",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの分類の事業所数や製品出荷額等、付加価値額（従業者29人以下は粗付加価値額）を見ていきます",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "・従業者4人以上の製造事業所であること",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「2022年経済構造実態調査（二次集計結果）」によると、金属製品製造業の製造品出荷額は約16兆9,199億円、事業所数は3万589か所で製造業全体のなかで最多となっており、従業員数は約60万8,000人に上ります",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工・機械部品業界のM&Aは、経営者の高齢化と後継者不在、脱炭素・DX対応のための設備投資負担、買い手側の旺盛な技術・人材獲得ニーズといった複数の要因が重なり、2025年以降いっそう活発化しています",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フジタイトは、1976年個人創業以来、精密金属切削加工一筋で",
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "また、町工場が古き良き職人の腕を先進の5軸複合加工機で",
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "「1個だけだから納期は早いでしょ」と考える人も多いかもしれません",
+    "url": "https://fi-real.com/blog/kinzoku-1kokara/",
+    "pass": 3
+   },
+   {
+    "quote": "にて弊社必達試作人が5名受賞！",
+    "url": "https://www.askk.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "10年以上にわたり、高度な設備と熟練した人材への継続的な投資により、同社は",
+    "url": "https://tirapid.com/ja/cnc-machining-usa/",
+    "pass": 3
+   },
+   {
+    "quote": "・1/1000mmの調整は職人の手で仕上げ、機械だけでは難しい領域を再現",
+    "url": "https://mono.ipros.com/cg2/%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "10～30人以下",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "31～50人以下",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "51人～100人以下",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "101人から300人以下",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "301人以上",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "短納期で高精度の金属加工は湯本電機にお任せください！【最短納期1.0日】【最短見積もり2時間以内】",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "最短納期1.0日 | 最短見積もり2時間以内",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "1週間以内の短納期の相談も可能",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "最短納期は1.0日",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "■最高級のパフォーマンス(見積り回答、納期回答など速さにもこだわり)",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "すべて手作業の柔軟性！短納期(1日より)相談可能です",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "複雑な形状にも対応！短納期、高品質、低コストでご提供します！",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "量産品、難削材、難形状を短納期、高品質で対応しております",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "【高品質切削加工技術で短納期＆コスト削減を実現！】小ロット～中ロット・Φ３０～２５０に特化！木山製作所の切削加工！",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "■短納期：精度とスピード、そしてコスト",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "■単品、小ロット対応、短納期、特急品対応",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "「少量・多品種・短納期対応」を得意とし、年間2,000～3,000種類の",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "加工製作、最低1点～ 500点程度、納期も1日～2週間対応で",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "研削など、切削、加工だけでなく工程が長い部品が多く、納期管理が",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "難しいものも納期を守って納入させていただいています",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "■最短で3日の短納期にも対応",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "品質・納期・精度にご満足いただける製品とサービスのご提供が可能です",
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "金属部品加工の外注・相談・依頼 | 小ロットから量産対応を探す方へ – 株式会社ヨシダセイコー",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "金属部品加工の外注・相談・依頼 | 小ロットから量産対応を探す方へ",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "金属部品加工の外注先選び | 小ロット・多品種対応の5つの基準",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "旋盤加工・金属部品の加工を外注したいけれど、どこに頼めばいいか分からない――そんな悩みを抱えていませんか？ 精度、納期、対応力、そして技術力",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工の外注先を比較しながらの加工業者選びは、製品の品質やプロジェクトの成功に直結する重要な判断です",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで今回は、NC旋盤やフライス盤（マシニングセンタ）による金属加工を外注する際に、押さえておきたい5つのポイントをご紹介します",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "旋盤加工・フライス盤加工の相談・依頼・外注｜試作・小ロット・量産まで対応",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "▶ 加えて、建設機械部品、農業機械部品、自動車・二輪車部品、油圧・空圧機器部品、繊維機械部品、工作機械部品、医療機器部品、半導体製造装置部品、産業機械部品など、多業種に対応した金属部品の外注先をお探しの方には、ヨシダセイコーが最適なパートナーです",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "対応可否・納期などを相談してみる（無料相談）➤➤➤",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "対応可否・価格・納期を相談してみる（無料相談）➤➤➤",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "金属部品加工の外注先選びは、製品の品質や納期に大きく影響します",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "精密切削加工の依頼を1個から | 短納期対応の切削加工サービス | YUMO PARTS",
+    "url": "https://yumoparts.com/services/machining",
+    "pass": 3
+   },
+   {
+    "quote": "1週間以内の短納期のご相談もお任せください",
+    "url": "https://yumoparts.com/services/machining",
+    "pass": 3
+   },
+   {
+    "quote": "はい、工場の空き状況と材料の入荷時期にもよりますが、最短で1日納期での出荷が可能です",
+    "url": "https://yumoparts.com/services/machining",
+    "pass": 3
+   },
+   {
+    "quote": "1週間以内の短納期相談はお任せください",
+    "url": "https://yumoparts.com/services/machining",
+    "pass": 3
+   },
+   {
+    "quote": "製作費用は形状、材質、納期、その他の条件によって大きく変動します",
+    "url": "https://yumoparts.com/services/machining",
+    "pass": 3
+   },
+   {
+    "quote": "少ロットの多品種の部品に対し、短納期、高品質の受注要求に対応している",
+    "url": "https://suwa.monozukuri.or.jp/list/process/1/",
+    "pass": 3
+   },
+   {
+    "quote": "設計から加工、組立まで一貫生産短納期でお応えします",
+    "url": "https://suwa.monozukuri.or.jp/list/process/1/",
+    "pass": 3
+   },
+   {
+    "quote": "小物から超大型ワークまで対応した多面・5軸制御マシニングセンターを導入し、高速・高精度な三次元加工を行っております！複雑な形状や球面の加工に威力を発揮！短納期品もご相談ください！",
+    "url": "https://suwa.monozukuri.or.jp/list/process/1/",
+    "pass": 3
+   },
+   {
+    "quote": "各種精密、高精度金型を短納期、低コスト...",
+    "url": "https://suwa.monozukuri.or.jp/list/process/1/",
+    "pass": 3
+   },
+   {
+    "quote": "よって常に新規の商談を獲得し続けていく経営努力が必要となりますが、生産量が少なく短納期なので価格決定権を握りやすいという特徴があります",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "す事ができ、妥当な価格帯で、取り決めた納期",
+    "url": "https://www.obda.or.jp/wp-content/uploads/2022/07/%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E7%99%BA%E6%B3%A8%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7%E8%A1%A8%E5%AE%8C%E6%88%90-PDF%E7%94%A8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "又、品質面、納期面におい",
+    "url": "https://www.obda.or.jp/wp-content/uploads/2022/07/%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E7%99%BA%E6%B3%A8%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7%E8%A1%A8%E5%AE%8C%E6%88%90-PDF%E7%94%A8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "方企業様ですと品質不具合時の納期含め、物",
+    "url": "https://www.obda.or.jp/wp-content/uploads/2022/07/%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E7%99%BA%E6%B3%A8%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7%E8%A1%A8%E5%AE%8C%E6%88%90-PDF%E7%94%A8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品質、コスト、納期汎用旋盤、フライス、NC旋盤、マシニング",
+    "url": "https://www.obda.or.jp/wp-content/uploads/2022/07/%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E7%99%BA%E6%B3%A8%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7%E8%A1%A8%E5%AE%8C%E6%88%90-PDF%E7%94%A8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・適正な品質、納期、価格",
+    "url": "https://www.obda.or.jp/wp-content/uploads/2022/07/%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E7%99%BA%E6%B3%A8%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7%E8%A1%A8%E5%AE%8C%E6%88%90-PDF%E7%94%A8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品質重視(出荷前検査は絶対条件)、納期重視",
+    "url": "https://www.obda.or.jp/wp-content/uploads/2022/07/%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E7%99%BA%E6%B3%A8%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7%E8%A1%A8%E5%AE%8C%E6%88%90-PDF%E7%94%A8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品質管理、納期管理が出来るところが",
+    "url": "https://www.obda.or.jp/wp-content/uploads/2022/07/%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E7%99%BA%E6%B3%A8%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7%E8%A1%A8%E5%AE%8C%E6%88%90-PDF%E7%94%A8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・品質と納期の管理、生産性向上に積極的",
+    "url": "https://www.obda.or.jp/wp-content/uploads/2022/07/%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E7%99%BA%E6%B3%A8%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7%E8%A1%A8%E5%AE%8C%E6%88%90-PDF%E7%94%A8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "迅速な見積対応、品質管理、納期管理",
+    "url": "https://www.obda.or.jp/wp-content/uploads/2022/07/%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E7%99%BA%E6%B3%A8%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7%E8%A1%A8%E5%AE%8C%E6%88%90-PDF%E7%94%A8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "投資余力がある会社は、自社の生産性をあげ収益性を高め、ある一定の適正規模に持っていく必要があります",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "•サプライチェーンの強化・垂直統合：自社の仕入先や加工委託先を内製化することで、コスト削減、納期短縮、品質管理の一元化が実現できます",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "飲食業のM&A・事業承継は、人手不足・原材料費の高騰・経営者の高齢化という三重の構造課題を背景に、過去最多のペースで増加しています",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "段取り替えを最小限に抑えることで、高精度かつ短納期での製作を実現します",
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "少しでも短納期、低コストに合わせるよう、分割（駒分け）し作業効率化を図っております",
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は少しでも短納期、低コストに合わせるよう、このような製品を",
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "試作1個から量産まで特急納期対応いたします",
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作から量産品同等の試作品の成形まで超短納期で",
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "短納期や小ロットのご発注も可能ですので、他社で断られたお客様も、",
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "可能な限り短納期対応！柔軟な対応と独自の加工ノウハウを活かします",
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "社内に生産管理部を設けており、徹底した品質管理と納期管理に、",
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工を1個から依頼するときは「納期」を確認する",
+    "url": "https://fi-real.com/blog/kinzoku-1kokara/",
+    "pass": 3
+   },
+   {
+    "quote": "「1個だけだから納期は早いでしょ」と考える人も多いかもしれません",
+    "url": "https://fi-real.com/blog/kinzoku-1kokara/",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2025.09.08",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO9001:2015 / ISO14001 取得企業",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年8月",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年6月",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年5月",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年12月",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年11月",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年10月",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年9月",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年12月",
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 9001:2015",
+    "url": "https://yumoparts.com/services/machining",
+    "pass": 3
+   },
+   {
+    "quote": "© 2020 YUMO PARTS All Rights Reserved.",
+    "url": "https://yumoparts.com/services/machining",
+    "pass": 3
+   },
+   {
+    "quote": "2021/5/25",
+    "url": "https://machining-costdown-center.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【機械技術】2021年5月号 【特集】 5G関連製品・部品の最新動向と加工技術",
+    "url": "https://machining-costdown-center.com/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年1月1日付社名変更⇒株式会社 ＭＯＬＥ’Ｓ ＡＣＴ",
+    "url": "https://suwa.monozukuri.or.jp/list/process/1/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年11月01日より社名を「荻原製作所 岡谷工場」から",
+    "url": "https://suwa.monozukuri.or.jp/list/process/1/",
+    "pass": 3
+   },
+   {
+    "quote": "M＆Aプラットフォーム市場におけるユーザー数・案件数・成約件数2021〜2025年度（見込値を含む） No.1",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "ミック経済研究所（2025年11月発刊）「国内ビジネスマッチングプラットフォーム市場の現状と展望【2025年版】」",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "公開：2025/09/02",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "公開：2025/11/04",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "これは逆の見方をすると、あるメーカーの製品がヒットし生産数が増加すると、メーカーはコストダウンのために次のモデルチェンジ等でプレス加工やプラスチック加工の部品に置き換えられることも多くなってしまいます",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright 2018 株式会社バトンズ",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "2021/07/13",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事を書いた私は工具メーカーでの営業・マーケティングの経験を活かし、切削工具と切削加工業界に特化した専門サイト「タクミセンパイ」を2020年から運営しています",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "（2015年）」を利用しました",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "記事作成時点では、令和2年（2020年）の結果がまだ公表されていなかったため、平成27年（2015年）のデータを使っています",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "平成27年（2015年）の人数が下記となります",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "2016～2020年 5年間の生産台数の平均から、金属工作機械全体でマシニングセンタとNC旋盤が占める割合が下記の数値です",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の労働力人口のうち15～64歳は5,946万人でした",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "労働力調査（基本集計）2020年",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の日本の総人口が1億2,622万7,000人であるため、労働力人口（15～64歳）は全体の約50%です",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "使用したのはJIMTOF2018の来場者データです",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "JIMTOF2018は2018年11月1日（木）～11月6日（火）の6日間開催され、国内・海外合算の来場者数は188,955人と公表されています",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "JIMTOF2018に参加した",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "JIMTOF2018にNC工作機械（マシニングセンタもしくはNC旋盤）で金属を切削加工しているオペレーターの約4人に1人が来場",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "平成27年国勢調査（2015年）のデータから、生産工程で金属工作機械を使用するオペレーターが約16万人いることがわかった",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "」を2020年から運営しています",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © 2020 タクミセンパイ. All Rights Reserved.",
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "企画・コンテンツ制作・SEOは、過去10年間の実績で200サイト以上",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "2022/03/03",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "2021/01/03",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "結論からいうと、金属製品工業のトータルの市場規模は減少傾向にあります",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "（平成27年（2015年）における数値は、「平成28年経済センサス-活動調査 製造業（総務省・経済産業省）」の調査結果のうち、工業統計調査の調査範囲に合わせるため、以下の全てに該当する製造事業所について集計したものであり、斜体で表章してある",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年の事業所数だけは集計方法が違うみたいなので、その点は考慮が必要です",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年/2014年対比で事業所数は94.8%、製品出荷額が118.7%でした",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ2018年の機械や装置の生産は鉱工業生産指数で見ても、高水準にあった年だったので少し考慮が必要です",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "4名以上の事業所では事業所数が減少トレンドにあります",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "４名以上の事業所数全体では減少傾向で、30名以上規模に成長している企業もあり30名以上の事業所数は増えていますが、",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "4名〜30名未満の事業所数は大きく減少しています",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "結論として、規模が大きい方が収益性が高まり、事業所の淘汰も規模が小さい方が激しい（減少が多い）といえます",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "鉱工業生産指数は、2015年＝100であるので、見え方は違って見える",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "｜鉱工業生産指数 – 半導体製造装置・FPD製造装置 2020年11月",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "6,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "1億円〜2億円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "2億円〜3億円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "3億円〜5億円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "9,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "5億円〜10億円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "2,300万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円〜5,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "6,500万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円〜3,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円〜1億円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "1,100万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "4,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "2億5,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "2億円〜5億円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの分類の事業所数や製品出荷額等、付加価値額（従業者29人以下は粗付加価値額）を見ていきます",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年/2014年対比で事業所数は94.8%、製品出荷額が118.7%でした",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "製品出荷額等を、4名以上30名未満と30名以上の事業所別の上記のグラフを見ると一目瞭然ですが、",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "30名以上の事業所の方が事業所数も伸び、製品出荷額等も伸長しています",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "4名〜30名未満の事業所では、事業所数が減っている中、製品出荷額は横ばい",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は約75％が4名〜30名未満で、製品出荷額等は約8％以下",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "金属部品加工業の４名以上の事業所別の製品出荷額等や付加価値額の傾向を見てきました",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「2022年経済構造実態調査（二次集計結果）」によると、金属製品製造業の製造品出荷額は約16兆9,199億円、事業所数は3万589か所で製造業全体のなかで最多となっており、従業員数は約60万8,000人に上ります",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、時価純資産が1億円、直近3年の平均営業利益が3,000万円の金属加工会社で、営業権を3年分とした場合、売却価格の目安は「1億円 ＋ 3,000万円 × 3年 ＝ 1億9,000万円」となります",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "直近3期で売上高は年間約5億円規模を維持",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "•背景・目的：ニデックが掲げる2030年までに売上高約10兆円という成長戦略の柱として工作機械事業を位置付け、旋盤分野の最大手であるTAKISAWAを取り込むことで製品分野と地理的カバー範囲を拡大",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "100万円未満",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "100万円〜300万円",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "300万円〜500万円",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜750万円",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "750万円〜1,000万円",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円〜2,000万円",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円〜3,000万円",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円〜5,000万円",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円〜7,500万円",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "7,500万円〜1億円",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "当社保有約5000万円の5軸マシニングセンタで、えんぴつを製作！",
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：1万円 ~ 10万円",
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "500万円未満",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "500～1000万円以下",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "1001～2000万円以下",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "2001～3000万円以下",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "3001万円以上",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "500 万円",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "1,310 万円",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "8,500 万円",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "2,250 万円",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "300 万円",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "1,000 万円",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "3,000 万円",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "9,000 万円",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "6,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "8,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "9,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "2,300万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円〜5,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "6,500万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円〜3,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円〜1億円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "1,100万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "4,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "2億5,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "5億5,000万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "9,400万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円未満",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円〜300万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "300万円〜500万円",
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの分類の事業所数や製品出荷額等、付加価値額（従業者29人以下は粗付加価値額）を見ていきます",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "金属部品加工業の４名以上の事業所別の製品出荷額等や付加価値額の傾向を見てきました",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、時価純資産が1億円、直近3年の平均営業利益が3,000万円の金属加工会社で、営業権を3年分とした場合、売却価格の目安は「1億円 ＋ 3,000万円 × 3年 ＝ 1億9,000万円」となります",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "100万円未満",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "100万円〜300万円",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "300万円〜500万円",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "500万円〜750万円",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "750万円〜1,000万円",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円〜2,000万円",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円〜3,000万円",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円〜5,000万円",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円〜7,500万円",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "7,500万円〜1億円",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   },
+   {
+    "quote": "当社保有約5000万円の5軸マシニングセンタで、えんぴつを製作！",
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：1万円 ~ 10万円",
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "500万円未満",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "500～1000万円以下",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "1001～2000万円以下",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "2001～3000万円以下",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "3001万円以上",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "500 万円",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "1,310 万円",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "8,500 万円",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "2,250 万円",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "300 万円",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "1,000 万円",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "3,000 万円",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   },
+   {
+    "quote": "9,000 万円",
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "これらの分類の事業所数や製品出荷額等、付加価値額（従業者29人以下は粗付加価値額）を見ていきます",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年の事業所数だけは集計方法が違うみたいなので、その点は考慮が必要です",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年/2014年対比で事業所数は94.8%、製品出荷額が118.7%でした",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "4名以上の事業所では事業所数が減少トレンドにあります",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "30名以上の事業所の方が事業所数も伸び、製品出荷額等も伸長しています",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "4名〜30名未満の事業所では、事業所数が減っている中、製品出荷額は横ばい",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は約75％が4名〜30名未満で、製品出荷額等は約8％以下",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "４名以上の事業所数全体では減少傾向で、30名以上規模に成長している企業もあり30名以上の事業所数は増えていますが、",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "4名〜30名未満の事業所数は大きく減少しています",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「2022年経済構造実態調査（二次集計結果）」によると、金属製品製造業の製造品出荷額は約16兆9,199億円、事業所数は3万589か所で製造業全体のなかで最多となっており、従業員数は約60万8,000人に上ります",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "金属加工・機械部品業界のM&Aは、経営者の高齢化と後継者不在、脱炭素・DX対応のための設備投資負担、買い手側の旺盛な技術・人材獲得ニーズといった複数の要因が重なり、2025年以降いっそう活発化しています",
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "規模別の 金属部品 加工業の厳しい現実・現状と方向性（製品 ... — 規模別の 金属部品 加工業の厳しい現実・現状と方向性（製品 ... inouemasashi.com https://inouemasashi.com > keikidoukou2020012",
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "pass": 3
+   },
+   {
+    "quote": "コストダウン・ローコスト調達のための - 機械部品加工 見積りの — コストダウン・ローコスト調達のための - 機械部品加工 見積りの ultraprecision-nanomachining-center.com PDF https://ultraprecision-nanomachining-center.com > 2...",
+    "url": "https://ultraprecision-nanomachining-center.com/wp-content/uploads/2019/12/779f1f8d7026b713750a3b8f0ff720d1.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshida-seiko.jp/news/890/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5698/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://yumoparts.com/services/machining",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://machining-costdown-center.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suwa.monozukuri.or.jp/list/process/1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000282.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/machine-tools-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/global-metal-fabrication-equipment-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://nozakipress.jp/column/detail/20251107100802/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmtba.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2026/2603kishu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.obda.or.jp/wp-content/uploads/2022/07/%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E7%99%BA%E6%B3%A8%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7%E8%A1%A8%E5%AE%8C%E6%88%90-PDF%E7%94%A8.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nico.or.jp/wp-content/uploads/2019/10/2sessaku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jmaa.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cuttingbooklist.sarashi.com/statistics.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/sei/kinzoku/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://batonz.jp/learn/expert_articles/7444",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/7259/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sokeizai.or.jp/pages/59/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/6404713",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recof.co.jp/column/useful/detail/62.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ultraprecision-nanomachining-center.com/wp-content/uploads/2019/12/779f1f8d7026b713750a3b8f0ff720d1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://fi-real.com/blog/kinzoku-1kokara/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-kst.jp/repo903.html?srsltid=AYCX9vKc-Uz3lDGX4POboZ5okBC6Bi54CPiLycUL2XNpgXlwtgsI9I2_",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-kmt.com/business-details/made-to-order-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.askk.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://raytech-mec.jp/servise_machine_work/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tirapid.com/ja/cnc-machining-usa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sagamihara-cci.or.jp/wp3/wp-content/uploads/2025/01/R6%E7%99%BA%E6%B3%A8%E4%BC%81%E6%A5%AD%E4%B8%80%E8%A6%A7-1.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agency-assist.co.jp/column/593/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gpc-gifu.or.jp/torihiki/monodukuri_guidebook/01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ibisworld.com/united-states/industry/machine-shop-services/645/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/machine-tools-market/Japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/tags/series?t=employment%3Bjapan%3Bmanufacturing",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jmtba.or.jp/english/category/machine-tool-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seisanzai-japan.com/article/p5763/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://verticaliq.com/product/machine-shops/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属切削・機械加工（部品加工）の受託",
+   "results": [
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://yoshida-seiko.jp/news/890/",
+    "https://metoree.com/categories/5698/",
+    "https://yumoparts.com/services/machining",
+    "https://machining-costdown-center.com/",
+    "https://suwa.monozukuri.or.jp/list/process/1/",
+    "https://www.fukasawa.co.jp/column/2553/",
+    "https://www.st-k.jp/accession/",
+    "https://monoto.co.jp/",
+    "https://raytech-mec.jp/servise_machine_work/"
+   ]
+  },
+  {
+   "query": "金属切削・機械加工（部品加工）の受託 推移",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000282.pdf",
+    "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "https://straitsresearch.com/jp/report/machine-tools-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/global-metal-fabrication-equipment-market",
+    "https://nozakipress.jp/column/detail/20251107100802/",
+    "https://eigyo-mfg.com/blog/8869/",
+    "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A9%9F%E5%99%A8%E5%B8%82%E5%A0%B4-111062",
+    "https://takumi-senpai.com/blog/cutting-industry-2025/",
+    "https://yoshida-seiko.jp/news/890/"
+   ]
+  },
+  {
+   "query": "金属切削・機械加工（部品加工）の受託 統計 PDF",
+   "results": [
+    "https://www.jmtba.or.jp/",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/2026/2603kishu.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000282.pdf",
+    "https://www.obda.or.jp/wp-content/uploads/2022/07/%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E7%99%BA%E6%B3%A8%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7%E8%A1%A8%E5%AE%8C%E6%88%90-PDF%E7%94%A8.pdf",
+    "https://www.nico.or.jp/wp-content/uploads/2019/10/2sessaku.pdf",
+    "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "https://jmaa.or.jp/",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2663",
+    "https://www.kankyo-u.ac.jp/f/introduction/research/innovation/field/103.pdf",
+    "https://raytech-mec.jp/servise_machine_work/"
+   ]
+  },
+  {
+   "query": "金属切削・機械加工（部品加工）の受託 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://cuttingbooklist.sarashi.com/statistics.html",
+    "https://www.meti.go.jp/statistics/sei/kinzoku/index.html",
+    "https://batonz.jp/learn/expert_articles/7444",
+    "https://note.com/meijihatsumeikai/n/n7e1a01596144",
+    "https://takumi-senpai.com/blog/cutting-industry-2025/",
+    "https://nozakipress.jp/column/detail/20251107100802/"
+   ]
+  },
+  {
+   "query": "金属切削・機械加工（部品加工）の受託 従業者規模別",
+   "results": [
+    "https://metoree.com/categories/7259/",
+    "https://takumi-senpai.com/blog/nc-machinetool-number-of-operators/",
+    "https://yoshida-seiko.jp/news/890/",
+    "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "https://www.sokeizai.or.jp/pages/59/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://newscast.jp/news/6404713",
+    "https://www.recof.co.jp/column/useful/detail/62.html",
+    "https://mono.ipros.com/cg2/金属切削加工/"
+   ]
+  },
+  {
+   "query": "金属切削・機械加工（部品加工）の受託 1人当たり 万円",
+   "results": [
+    "https://batonz.jp/sell_cases/bk_2400000/bk_2401002/",
+    "https://yoshida-seiko.jp/news/890/",
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://ultraprecision-nanomachining-center.com/wp-content/uploads/2019/12/779f1f8d7026b713750a3b8f0ff720d1.pdf",
+    "https://fi-real.com/blog/kinzoku-1kokara/",
+    "https://www.obda.or.jp/wp-content/uploads/2022/07/%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E7%99%BA%E6%B3%A8%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7%E8%A1%A8%E5%AE%8C%E6%88%90-PDF%E7%94%A8.pdf",
+    "https://www.tokyo-kst.jp/repo903.html?srsltid=AYCX9vKc-Uz3lDGX4POboZ5okBC6Bi54CPiLycUL2XNpgXlwtgsI9I2_",
+    "https://www.e-kmt.com/business-details/made-to-order-business/",
+    "https://www.askk.co.jp/",
+    "https://raytech-mec.jp/servise_machine_work/"
+   ]
+  },
+  {
+   "query": "金属切削・機械加工（部品加工）の受託 2015 2025",
+   "results": [
+    "https://yoshida-seiko.jp/news/890/",
+    "https://tirapid.com/ja/cnc-machining-usa/",
+    "https://metoree.com/categories/5698/",
+    "https://mono.ipros.com/cg2/%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.sagamihara-cci.or.jp/wp3/wp-content/uploads/2025/01/R6%E7%99%BA%E6%B3%A8%E4%BC%81%E6%A5%AD%E4%B8%80%E8%A6%A7-1.pdf",
+    "https://www.shigaplaza.or.jp/lims/industries/%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5/page/11",
+    "https://www.nico.or.jp/wp-content/uploads/2019/10/2sessaku.pdf",
+    "https://www.agency-assist.co.jp/column/593/",
+    "https://www.gpc-gifu.or.jp/torihiki/monodukuri_guidebook/01.pdf"
+   ]
+  },
+  {
+   "query": "machining job shop Japan statistics employees revenue Japan statistics",
+   "results": [
+    "https://www.ibisworld.com/united-states/industry/machine-shop-services/645/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/machine-tools-market/Japan",
+    "https://fred.stlouisfed.org/tags/series?t=employment%3Bjapan%3Bmanufacturing",
+    "https://www.jmtba.or.jp/english/category/machine-tool-statistics/",
+    "https://seisanzai-japan.com/article/p5763/",
+    "https://verticaliq.com/product/machine-shops/",
+    "https://www.amtonline.org/article/job-shops-by-the-numbers",
+    "https://www.trade.gov/country-commercial-guides/japan-industrial-machine-tools",
+    "https://www.linkedin.com/pulse/japan-cnc-machine-monitoring-software-market-size-adxse",
+    "https://www.statista.com/topics/7931/machinery-industry-in-japan/"
+   ]
+  },
+  {
+   "query": "site:note.com 金属切削・機械加工（部品加工）の受託",
+   "results": [
+    "https://note.com/niigata_nbk/n/nc5dc22c3e1b6",
+    "https://note.com/mitashojiro/n/nd7b5d56faa26",
+    "https://note.com/takuya_murakami/n/n2b00e468535b",
+    "https://note.com/niigata_nbk/n/n8c9b84798a8c",
+    "https://note.com/tatsuya_sabato/n/n3d3f8c469e26",
+    "https://note.com/kagawatomo/n/ndb06a6b0c405",
+    "https://note.com/takuya_murakami/n/n64a7b4e2daec",
+    "https://note.com/tatsuya_sabato/n/n5c786907541c",
+    "https://note.com/asmedia/n/nc1b429916585",
+    "https://note.com/ebisugao/n/n2db353cfff76"
+   ]
+  },
+  {
+   "query": "site:x.com 金属切削・機械加工（部品加工）の受託",
+   "results": [
+    "https://x.com/YOSHIDA_SEIKO",
+    "https://x.com/realix1967",
+    "https://x.com/realix1967/status/1742018800143442300",
+    "https://x.com/nidec_mt",
+    "https://x.com/mitsuri_net",
+    "https://x.com/pecofficial1974",
+    "https://x.com/5axis_machine",
+    "https://x.com/TWMachineTools",
+    "https://x.com/norion_tech",
+    "https://jf.x.com/images/media-preview/2114190219608236221"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金属切削・機械加工（部品加工）の受託",
+   "results": [
+    "https://jp.linkedin.com/in/mizutaniyasuhisa19730922",
+    "https://jp.linkedin.com/in/takeshi-ninomiya-9593a761",
+    "https://jp.linkedin.com/company/top-seiko-co-ltd",
+    "https://jp.linkedin.com/in/jun-tokuyoshi-22a711101",
+    "https://jp.linkedin.com/jobs/nexbirlik%2Bscam%2Bbar%C9%99d%C9%99%2B%C9%99trafl%C4%B1%2Bm%C9%99qal%C9%99.dof-jobs",
+    "https://jp.linkedin.com/pulse/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%88%87%E6%96%AD%E6%A9%9F%E5%B8%82%E5%A0%B42026%E5%B9%B42033%E5%B9%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E8%A7%A3%E6%98%8Ecagr-7515204437569593344-jgwie",
+    "https://jp.linkedin.com/pulse/%E3%83%9C%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB-market-expected-grow-impressive-cagr-114-from-2026-elaxe",
+    "https://jp.linkedin.com/pulse/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E5%90%91%E3%81%913d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-market-segmentation-%E5%95%86%E7%94%A8%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E9%98%B2%E8%A1%9B%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%81%9D%E3%81%AE%E4%BB%96%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E8%A9%B3%E7%B4%B0%E5%88%86%E6%9E%902026%E5%B9%B42033%E5%B9%B4-2w7se",
+    "https://jp.linkedin.com/pulse/%E3%83%9B%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%B9%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AE%E7%82%AD%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%88%A6%E7%95%A5%E3%81%AE%E4%B8%80%E8%87%B42026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A615%E3%81%AE%E6%88%90%E9%95%B7%E3%81%8C%E8%A6%8B%E8%BE%BC%E3%81%BE%E3%82%8C%E3%82%8B-7521322901908742145-jaave",
+    "https://jp.linkedin.com/in/satoshi-yamamoto-515596174"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金属切削・機械加工（部品加工）の受託",
+   "results": [
+    "https://www.facebook.com/yoshidaseiko.osaka/",
+    "https://www.facebook.com/DMGMORI.CO/posts/dmgmori%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BFcircular-economy-further-advancing-sustainable-manufacturing%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%BC%E3%82%A8%E3%82%B3/1186244060176096/",
+    "https://www.facebook.com/yoshidaseiko.osaka/photos/opposed-twin-spindle-twin-turret-cnc-lathewith-upper-lower-turret-construction4-/1058416557512287/",
+    "https://www.facebook.com/yoshidaseiko/posts/%E5%A4%8F%E5%AD%A3%E4%BC%91%E6%A5%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5-%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A-%E7%8F%BE%E5%A0%B4-%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5-%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5-%E8%A3%BD%E9%80%A0%E6%A5%AD-%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5-%E7%94%BA%E5%B7%A5%E5%A0%B4-%E5%B7%A5%E5%A0%B4-%E7%9F%B3%E5%B7%9D%E7%9C%8C-%E9%87%91%E6%B2%A2-mc-%E5%88%87%E5%89%8A-%E8%81%B7%E4%BA%BA-%E6%B1%82%E4%BA%BA-%E6%B1%82%E4%BA%BA%E5%8B%9F%E9%9B%86-%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E5%8B%9F%E9%9B%86/1003688838121838/",
+    "https://www.facebook.com/INTERMOLD/posts/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E8%87%AA%E5%8B%95%E5%8C%96%E9%AB%98%E5%8A%B9%E7%8E%87%E5%8C%96%E3%81%B8%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF%E3%82%92%E7%9F%A5%E3%82%8D%E3%81%86%E9%87%91%E5%9E%8B%E5%8A%A0%E5%B7%A5%E3%81%AE%E8%8A%B1%E5%BD%A2%E6%A9%9F%E5%99%A8%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%AF%E7%9B%AE%E8%A6%9A%E3%81%BE%E3%81%97%E3%81%84%E6%98%A8%E4%BB%8A%E3%81%AE%E5%8E%B3%E3%81%97%E3%81%84%E7%8A%B6%E6%B3%81%E3%81%AE%E4%B8%AD%E3%81%A7%E3%82%82%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%AB%E3%82%88%E3%82%8B%E4%BA%BA%E5%93%A1%E5%89%8A%E6%B8%9B%E3%82%84%E5%8A%A0%E5%B7%A5%E6%99%82%E9%96%93%E3%81%AE%E5%BB%B6%E9%95%B7%E9%AB%98%E7%B2%BE%E5%BA%A6%E9%AB%98%E5%8A%B9%E7%8E%87%E5%8C%96/1170009681585791/",
+    "https://www.facebook.com/yoshidaseiko/photos/752559463234778/",
+    "https://www.facebook.com/yoshidaseiko/posts/%E3%82%A8%E3%83%AB%E3%83%9C-nc-%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%97%8B%E5%89%8A%E5%8A%A0%E5%B7%A5%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5%E6%B2%B9%E5%9C%A7%E9%85%8D%E7%AE%A1%E9%83%A8%E5%93%81%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%95%E3%83%A9%E3%82%A4%E3%82%B9%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E8%A3%BD%E9%80%A0%E6%A5%AD%E9%89%84%E5%B7%A5%E6%89%80lathemcprecisonmachinery/2846910608745386/",
+    "https://www.facebook.com/yoshidaseiko/",
+    "https://www.facebook.com/okayama.tec/",
+    "https://www.facebook.com/sumidams/"
+   ]
+  },
+  {
+   "query": "金属切削・機械加工（部品加工）の受託 note 社長",
+   "results": [
+    "https://note.com/monoto_kai/n/n5301636bd717",
+    "https://note.com/3n7no_tech_pr/n/n05b965a96cda",
+    "https://yoshida-seiko.jp/news/890/",
+    "https://note.com/meijihatsumeikai/n/n7e1a01596144",
+    "https://monoto.co.jp/",
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.sakakibara-kouki.co.jp/blog2/how-to-order/",
+    "https://caddi.com/ja-jp/news/press/20190527/",
+    "https://www.techno-mizuno.co.jp/service/",
+    "https://raytech-mec.jp/servise_machine_work/"
+   ]
+  },
+  {
+   "query": "金属切削・機械加工（部品加工）の受託 X 投稿",
+   "results": [
+    "https://yoshida-seiko.jp/news/890/",
+    "https://www.youtube.com/watch?v=qij4OaFwITI",
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://metoree.com/categories/5698/",
+    "https://www.obda.or.jp/wp-content/uploads/2022/07/%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E7%99%BA%E6%B3%A8%E6%A1%88%E4%BB%B6%E4%B8%80%E8%A6%A7%E8%A1%A8%E5%AE%8C%E6%88%90-PDF%E7%94%A8.pdf",
+    "https://takumi-senpai.com/blog/cutting-industry-x-usage/",
+    "https://caddi.com/ja-jp/news/press/20190527/",
+    "https://www.e-kmt.com/business-details/made-to-order-business/",
+    "https://x.com/yuto_matsuura/status/2115968461646201008",
+    "https://raytech-mec.jp/servise_machine_work/"
+   ]
+  },
+  {
+   "query": "machining job shop Japan statistics employees revenue site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/japan-vertical-knee-mill-market-revenue-projections-4ejzf",
+    "https://www.linkedin.com/pulse/japan-laser-job-shop-services-professional-pii9c",
+    "https://www.linkedin.com/pulse/revenue-analysis-demand-forecast-manual-knee-mill-107-cagr-from-rgpje",
+    "https://www.linkedin.com/pulse/revenue-forecast-cnc-horizontal-boring-milling-machine-market-bhlne",
+    "https://www.linkedin.com/pulse/examining-global-japan-cnc-cutting-machines-markets-123-cagr-7qqce",
+    "https://www.linkedin.com/pulse/analytics-driven-insights-graphite-machining-services-market-revenue-wt6ze",
+    "https://in.linkedin.com/company/indian-machine-tools-manufacturers-association",
+    "https://www.linkedin.com/pulse/revenue-growth-forecast-united-states-metal-folding-machine-wixje",
+    "https://www.linkedin.com/company/sight-machine",
+    "https://www.linkedin.com/pulse/5-axis-cnc-machine-aerospace-market-size-revenue-growth-tdobe"
+   ]
+  }
+ ],
+ "missing": {}
+}

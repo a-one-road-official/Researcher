@@ -1,0 +1,928 @@
+{
+ "name": "ジェーイーエル",
+ "aliases": [],
+ "context": "広島県福山市／出典:大学・高専の企業説明会;県・市の企業ガイド／求人媒体:Indeed;マイナビ転職／想定年収:700〜700万円／従業員:不明",
+ "researched_at": "2026-11-05T01:22:19.392910+00:00",
+ "official_url": "https://www.jel-robot.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "製品情報",
+    "value": "Products",
+    "url": "https://www.jel-robot.co.jp/",
+    "pass": 1
+   },
+   {
+    "label": "製品に関する トラブルについて",
+    "value": "よくあるお問い合わせを掲載しています｡",
+    "url": "https://www.jel-robot.co.jp/",
+    "pass": 1
+   },
+   {
+    "label": "製品量産終了と変更管理連絡停止ご案内",
+    "value": "最終出荷日から5年経過の製品について",
+    "url": "https://www.jel-robot.co.jp/",
+    "pass": 1
+   },
+   {
+    "label": "他社製品に 関するご注意",
+    "value": "弊社製品と類似した他社製品について",
+    "url": "https://www.jel-robot.co.jp/",
+    "pass": 1
+   },
+   {
+    "label": "製品情報",
+    "value": "半導体用ロボット",
+    "url": "https://www.jel-robot.co.jp/",
+    "pass": 1
+   },
+   {
+    "label": "製品情報",
+    "value": "半導体用ロボット",
+    "url": "https://www.jel-robot.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "label": "製品情報",
+    "value": "半導体用ロボット",
+    "url": "https://www.jel-robot.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "製品情報",
+    "value": "半導体用ロボット",
+    "url": "https://www.jel-robot.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "label": "製品情報",
+    "value": "半導体用ロボット",
+    "url": "https://www.jel-robot.co.jp/company/onomichi.html",
+    "pass": 1
+   },
+   {
+    "label": "製品情報",
+    "value": "半導体用ロボット",
+    "url": "https://www.jel-robot.co.jp/company/fukuyama.html",
+    "pass": 1
+   },
+   {
+    "label": "製品情報",
+    "value": "半導体用ロボット",
+    "url": "https://www.jel-robot.co.jp/company/tokyo.html",
+    "pass": 1
+   },
+   {
+    "label": "製品情報",
+    "value": "半導体用ロボット",
+    "url": "https://www.jel-robot.co.jp/company/saba.html",
+    "pass": 1
+   },
+   {
+    "label": "製品情報",
+    "value": "半導体用ロボット",
+    "url": "https://www.jel-robot.co.jp/recruit/recinfo_new.html",
+    "pass": 1
+   },
+   {
+    "label": "製品情報",
+    "value": "半導体用ロボット",
+    "url": "https://www.jel-robot.co.jp/recruit/recinfo_sen.html",
+    "pass": 1
+   },
+   {
+    "label": "製品情報",
+    "value": "半導体用ロボット",
+    "url": "https://www.jel-robot.co.jp/products/prd_result0.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本 社 Head Office",
+    "value": "Tel. 084-932-6500",
+    "url": "https://www.jel-robot.co.jp/",
+    "pass": 1
+   },
+   {
+    "label": "本 社 Head Office",
+    "value": "Tel. 084-932-6500",
+    "url": "https://www.jel-robot.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "label": "本 社 Head Office",
+    "value": "Tel. 084-932-6500",
+    "url": "https://www.jel-robot.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本 社 Head Office",
+    "value": "Tel. 084-932-6500",
+    "url": "https://www.jel-robot.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒722-0344　広島県尾道市御調町丸門田1265‐4",
+    "url": "https://www.jel-robot.co.jp/company/onomichi.html",
+    "pass": 1
+   },
+   {
+    "label": "本 社 Head Office",
+    "value": "Tel. 084-932-6500",
+    "url": "https://www.jel-robot.co.jp/company/onomichi.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒720-0831　広島県福山市草戸町2-8-20",
+    "url": "https://www.jel-robot.co.jp/company/fukuyama.html",
+    "pass": 1
+   },
+   {
+    "label": "本 社 Head Office",
+    "value": "Tel. 084-932-6500",
+    "url": "https://www.jel-robot.co.jp/company/fukuyama.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒101-0025　東京都千代田区神田佐久間町4-18 神田分銅ビル 2F （1Fにショールーム「Jテクセンター」があります）",
+    "url": "https://www.jel-robot.co.jp/company/tokyo.html",
+    "pass": 1
+   },
+   {
+    "label": "本 社 Head Office",
+    "value": "Tel. 084-932-6500",
+    "url": "https://www.jel-robot.co.jp/company/tokyo.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒720-0835　広島県福山市佐波町245-1",
+    "url": "https://www.jel-robot.co.jp/company/saba.html",
+    "pass": 1
+   },
+   {
+    "label": "本 社 Head Office",
+    "value": "Tel. 084-932-6500",
+    "url": "https://www.jel-robot.co.jp/company/saba.html",
+    "pass": 1
+   },
+   {
+    "label": "本 社 Head Office",
+    "value": "Tel. 084-932-6500",
+    "url": "https://www.jel-robot.co.jp/recruit/recinfo_new.html",
+    "pass": 1
+   },
+   {
+    "label": "本 社 Head Office",
+    "value": "Tel. 084-932-6500",
+    "url": "https://www.jel-robot.co.jp/recruit/recinfo_sen.html",
+    "pass": 1
+   },
+   {
+    "label": "本 社 Head Office",
+    "value": "Tel. 084-932-6500",
+    "url": "https://www.jel-robot.co.jp/products/prd_result0.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "広島県福山市草戸町2丁目8番20号",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "広島県福山市草戸町2-8-20",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000teHcC",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "130名",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "label": "社員数",
+    "value": "100〜499人",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000teHcC",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立年",
+    "value": "設立年：1993年",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "75百万円",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "崎谷信夫",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 崎谷 春夫",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000teHcC",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用ページ": [
+   {
+    "quote": "リクルート動画 2026",
+    "url": "https://www.jel-robot.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "エントリーされる方は、まずは履歴書を送ってください",
+    "url": "https://www.jel-robot.co.jp/recruit/onomichi/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "新卒や既卒など関係なくエントリーできる環境を整えていますので、卒業する時期にとらわれず、いつでもご応募ください",
+    "url": "https://www.jel-robot.co.jp/recruit/recinfo_new.html",
+    "pass": 1
+   },
+   {
+    "quote": "［27新卒／高卒対象］ 未経験から国家資格を目指せる！ 車のキズ・ヘコミを直す技術職デビュー 2027年度新卒採用スタート！ 有限会社アイビーオートで［鈑金・塗装スタッフ（正社員）］を大募集！ ◆未経験から国家資格を目指せる！ ◆資格取得費用は会社負担！ ◆残業ほぼなし＆日勤のみ！ ◆社員・家族も使えるお得な社割あり！ 未経験からプロを目指せる 入社後は先輩スタッフが工具の使い方や作業の流れから丁寧に指導します",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "［27新卒］土日休み＆残業少なめ◎ 安定企業で\"手に職\"を！ミシン糸などの製造スタッフ募集 2027年度新卒採用！ グンゼ株式会社で製造職を大募集！ \"安定企業で、ゼロから技術を身につける\"お仕事です ◆ グンゼ株式会社ってどんな会社 私たちは、衣料用ミシン糸をはじめ、自動車関連・産業資材向けなど、 幅広い分野で使用される糸を製造している会社です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備設計／「新卒採用・高卒」CADの基礎から学べる／建築設備設計・CADオペレーター",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "建築設備の知識やCADの実務経験がなくても、 基礎から学び、設計者を目指せる新卒採用です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "OpenWorkでは、新卒採用と中途採用それぞれの求人掲載が可能です",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000teHcC",
+    "pass": 3
+   }
+  ],
+  "取引先・規模": [
+   {
+    "quote": "株式会社ジェーイーエルでは、今後予測される生成AI（人工知能）などによる急速な需要増に対応するため、2026年10月に広島県尾道市御調町へ尾道工場を開設いたしました",
+    "url": "https://www.jel-robot.co.jp/company/onomichi.html",
+    "pass": 1
+   },
+   {
+    "quote": "当工場での大きな取り組みとして、次の2つのプロジェクトを新規構築しました",
+    "url": "https://www.jel-robot.co.jp/company/onomichi.html",
+    "pass": 1
+   },
+   {
+    "quote": "もう一つは、無人化による自動倉庫システムを導入した、尾道工場自動倉庫システム構築プロジェクト「OASYSプロジェクト」です",
+    "url": "https://www.jel-robot.co.jp/company/onomichi.html",
+    "pass": 1
+   },
+   {
+    "quote": "尾道工場の開設により、皆様にさらにご満足いただける高品質な製品とサービスをご提供してまいります",
+    "url": "https://www.jel-robot.co.jp/company/onomichi.html",
+    "pass": 1
+   },
+   {
+    "quote": "尾道市御調町に最新の自動化設備を導入した新工場",
+    "url": "https://www.jel-robot.co.jp/recruit/onomichi/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "工場で完成した製品を､お客様のもとへ安全に届けるために､検品して､箱に詰め､伝票を貼って出荷準備をする仕事です｡",
+    "url": "https://www.jel-robot.co.jp/recruit/onomichi/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "最初は｢ロボット工場＝力仕事｣というイメージがあり不安でしたが､実際は治具や補助装置が整っていて女性でも無理なく働けます｡細かな調整や組立精度が求められる工程では､集中力や丁寧さが強みになります｡ものづくりの現場で､自分の仕事が社会を支えている実感を得られるのがやりがいです｡",
+    "url": "https://www.jel-robot.co.jp/recruit/onomichi/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "尾道工場では､木目調のカフェ風リフレッシュスペースを設置します｡休憩時に寛げる場を利用することで､仕事のオンとオフを切り替えて､従業員同士でのリラックスタイムに活用いただけます｡",
+    "url": "https://www.jel-robot.co.jp/recruit/onomichi/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "基本的に､パートの方の外部への出張はございません｡但し業務内容により､まれに当社の拠点間の行き来が発生する場合もあります｡",
+    "url": "https://www.jel-robot.co.jp/recruit/onomichi/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "研修期間は約3ヶ月を予定しています｡研修中は､福山市佐波町にある佐波工場の現場で作業を教わります（2026年12月以降は尾道工場にて）｡先輩が横につきながら作業を一から丁寧に教えますので､未経験の方も安心して始められます｡",
+    "url": "https://www.jel-robot.co.jp/recruit/onomichi/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "工場勤務は｢立ち仕事できつい｣と一般にいわれていますが､当社では基本的には座った体制でロボットを組んでいます｡もちろん場所を移動したり､体制を変えて立っての作業もありますが､一定時間長く立って作業をするということはございません｡",
+    "url": "https://www.jel-robot.co.jp/recruit/onomichi/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "基本的に､力仕事や危険な作業はありません｡体への負担が少なく､安心して働いていただけます｡工場勤務が初めての方でも､安心して始められます｡",
+    "url": "https://www.jel-robot.co.jp/recruit/onomichi/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "制服､作業着を支給します｡工場内はクリーンな環境の為､出勤後と退社時に着替えていただく決まりになっています｡",
+    "url": "https://www.jel-robot.co.jp/recruit/onomichi/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年6月に、福山市佐波町に佐波工場を開設いたしました",
+    "url": "https://www.jel-robot.co.jp/company/saba.html",
+    "pass": 1
+   },
+   {
+    "quote": "佐波工場の開設により、製品開発や製品量産化のスピードアップを図り、",
+    "url": "https://www.jel-robot.co.jp/company/saba.html",
+    "pass": 1
+   },
+   {
+    "quote": "専務の中島は、三菱UFJ銀行で約10",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "想定年収・給与": [
+   {
+    "quote": "賞与年3回（前年実績）",
+    "url": "https://www.jel-robot.co.jp/recruit/onomichi/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "業績に応じ､年3回（夏季､冬季､決算）賞与を支給します｡",
+    "url": "https://www.jel-robot.co.jp/recruit/onomichi/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "昇給年1回 賞与：夏季、冬季、決算賞与（業績に応じ）",
+    "url": "https://www.jel-robot.co.jp/recruit/onomichi/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ジェーイーエルの年収・給与 平均年収 - エン カイシャの評判",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジェーイーエルの年収・給与の口コミページです",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジェーイーエルで働く社員や元社員が投稿した、年収・給与に関する口コミを4件掲載中",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジェーイーエルの年収・給与についての口コミ",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の給与制度（昇給・賞与・各種手当など）には、どのような特徴がありますか？",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業としては優秀で、賞与夏季冬季合わせて5~7ヶ月分程支給される",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "基本的に年功序列であり、会社の業績が悪くない限りは、年1回5000~1万円程度の昇給が保証されている",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、パートも同程度の昇給が見込まれる",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:会社の業績や個人の能力が従業...",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "基本給や年3回の賞与（パート2.5ヶ月分、社員7ヶ月分）に加えて、過去最高売上を更新した月に臨時で支給される5,000円の大入袋（派遣・パート・社員の全従業員対象）やインフレ手当（入社6ヶ月以上のパート・社員対象で100,000円支給）、財形貯蓄、iDeCoへの加入（入社1年以上のパート・社員対象、従業員の個人負担は月1,000円、会社負担は月22,000円）など支給面は福山市の中小企業の中でも、とても恵まれています",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "パートは年1回5〜15円の昇給があり、それに伴い賞与も増額がありますが、会社の業績に伴う臨時給や賞与の増額が大きいです",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "作業効率や担当業務の進捗、勤務態度などがA B Cで評価され、賞与額に反映されるので、実力主義に近い会社だと思います",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:パートの給料は部署によって多...",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "福山市内では時給、賞与は高い方だと思う",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "給与制度:パートは1000円から支給で...",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":給与制度については、基本給をベースに各種手当や賞与が支給され...",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":正社員と契約社員とでは給与体系は雲泥の差でしたし、仕事も契約...",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "TDKエレクトロニクスファクトリーズ株式会社の年収・給与",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": ":毎年水準が上がっている、給与は7パーセントほど毎年上がってい...",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "東京エレクトロンテクノロジーソリューションズ株式会社の年収・給与",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "年収251.2万円〜",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収303.6万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収316万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19.2万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "型枠大工／「型枠大工／新卒高卒」完全週休二日制／年間休日120日以上／月給25万円以上",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収325万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "■求人ＰＯＩＮＴ■ ・年間休日120日以上（年間休日115日＋有休5日以上） ・完全週休二日制 ・月給25万円以上 ・希望すれば土曜日の休日出勤も可能です",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜20.9万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収425.6万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給206万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収240万円〜840万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収295万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収326万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収276.9万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収258万円",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収 500万〜600万円",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000teHcC",
+    "pass": 3
+   },
+   {
+    "quote": "年収 500万〜800万円",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000teHcC",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 ジェーイーエル の平均 年収 、年間給与所得情報 - doda — 株式会社 ジェーイーエル の平均 年収 、年間給与所得情報 - doda doda https://doda.jp > CompanyIncome > j_id__00003687607",
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__00003687607/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ジェーイーエル の 年収 ・給与 - エン カイシャの評判 — 株式会社 ジェーイーエル の 年収 ・給与 - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company > salary",
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "pass": 3
+   },
+   {
+    "quote": "広島県 福山市の株式会社 ジェーイーエル の 求人 — 広島県 福山市の株式会社 ジェーイーエル の 求人 Indeed https://jp.indeed.com > q-株式会社ジェーイーエル-l-広島...",
+    "url": "https://jp.indeed.com/q-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB-l-%E5%BA%83%E5%B3%B6%E7%9C%8C-%E7%A6%8F%E5%B1%B1%E5%B8%82-%E6%B1%82%E4%BA%BA.html",
+    "pass": 3
+   },
+   {
+    "quote": "ジェーイーエル 新卒 高卒 の求人情報をすべて見る （136件） — ジェーイーエル 新卒 高卒 の求人情報をすべて見る （136件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 情報 募集内容 - 搬送ロボットはジェーイーエル — 新卒採用 情報 募集内容 - 搬送ロボットはジェーイーエル 株式会社ジェーイーエル https://www.jel-robot.co.jp > recruit > recinfo_new",
+    "url": "https://www.jel-robot.co.jp/recruit/recinfo_new.html",
+    "pass": 3
+   },
+   {
+    "quote": "ジェーイーエル 「社員クチコミ」 就職・転職の 採用 企業 ... — ジェーイーエル 「社員クチコミ」 就職・転職の 採用 企業 ... OpenWork https://www.openwork.jp > 半導体、電子、精密機器",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000teHcC",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ジェーイーエル採用 情報 (@jelrobot1993) - Instagram — 株式会社 ジェーイーエル採用 情報 (@jelrobot1993) - Instagram Instagram https://www.instagram.com > jelrobot1993",
+    "url": "https://www.instagram.com/jelrobot1993/",
+    "pass": 3
+   }
+  ],
+  "採用人数": [
+   {
+    "quote": "【SORECA HAIR＆BEAUTY】 ★この求人の魅力★ ☆サロン見学大歓迎 ☆離職率2.5％の好環境 ☆月1回の日曜休みあり ☆週休2日制（月・火曜） ☆最短1年半でスタイリストへ ☆営業時間内練習OK ☆高卒・新卒の採用実績多数 ☆美容学校通学中も給与支給 ☆美容学校日は有給扱い ☆客単価10,000円以上 ☆営業トーク不要のメニュー ☆社会保険完備で安心 ☆産休・育休取得実績あり ☆19:00前に営業終了 アシスタント業務全般",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "人手不足の発言": [
+   {
+    "quote": "建物を支える設備工事のプロフェッショナルとして、成長を続ける当社で、一緒に未来をつくりませんか？ 若手社員も多く活躍する環境で、先輩から学びながら着実にスキルを身につけられます",
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 ジェーイーエル 採用情報 (@jelrobot1993) / X 株式会社 ジェーイーエル 採用情報 (@jelrobot1993) / X X https://x.com > jelrobot1993",
+    "url": "https://x.com/jelrobot1993",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジェーイーエル採用情報 on X: \"現在予定をしている #就職セ... 現在予定をしている #就職セミナー 一覧になります。 詳細は #ジェーイーエル のサイトでご確認ください。 jel-robot.co.jp/recruit/guide_… 12:57 AM · Oct 5, 2026 · 6 Views",
+    "url": "https://x.com/jelrobot1993/status/2106911507737202853",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "林 和利 - 株式会社 ジェーイーエル - 電算グループ リーダー 林 和利 - 株式会社 ジェーイーエル - 電算グループ リーダー LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/kazutoshi-hayashi-27a123156/ja",
+    "pass": 3
+   },
+   {
+    "quote": "市塚 裕之 - 株式 ジェーイーエル - 一般社員 - LinkedIn 市塚 裕之 - 株式 ジェーイーエル - 一般社員 - LinkedIn LinkedIn https://jp.linkedin.com > 裕之-市塚-1a0802223",
+    "url": "https://jp.linkedin.com/in/%E8%A3%95%E4%B9%8B-%E5%B8%82%E5%A1%9A-1a0802223",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ジェーイーエル が御調に新工場計画 電子機器製造 ... - Facebook ジェーイーエル が御調に新工場計画 電子機器製造 ... - Facebook Facebook https://www.facebook.com > binrepo > posts > ジェーイー...",
+    "url": "https://www.facebook.com/binrepo/posts/%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB%E3%81%8C%E5%BE%A1%E8%AA%BF%E3%81%AB%E6%96%B0%E5%B7%A5%E5%A0%B4%E8%A8%88%E7%94%BB%E9%9B%BB%E5%AD%90%E6%A9%9F%E5%99%A8%E8%A3%BD%E9%80%A0%E8%B2%A9%E5%A3%B2%E3%81%AE%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB%E7%A6%8F%E5%B1%B1%E5%B8%82%E8%8D%89%E6%88%B8%E7%94%BA%EF%BC%92%EF%BC%9820%E8%B3%87%E6%9C%AC%E9%87%91%EF%BC%97%EF%BC%94%EF%BC%95%EF%BC%97%E4%B8%87%E5%86%86%E5%B4%8E%E8%B0%B7%E4%BF%A1%E5%A4%AB%E7%A4%BE%E9%95%B7%E3%81%AF%E5%B0%BE%E9%81%93%E5%B8%82%E5%BE%A1%E8%AA%BF%E7%94%BA%E4%B8%B8%E9%96%80%E7%94%B0%E3%81%AB%E9%80%A0%E6%88%90%E3%81%99%E3%82%8B%E6%95%B7%E5%9C%B0%E3%81%AB%E6%96%B0%E5%B7%A5%E5%A0%B4%E3%82%92%E5%BB%BA/899387952028459/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jel-robot.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jel-robot.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jel-robot.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jel-robot.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jel-robot.co.jp/company/onomichi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jel-robot.co.jp/recruit/onomichi/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jel-robot.co.jp/company/fukuyama.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jel-robot.co.jp/company/tokyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jel-robot.co.jp/company/saba.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jel-robot.co.jp/recruit/recinfo_new.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jel-robot.co.jp/recruit/recinfo_sen.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jel-robot.co.jp/products/prd_result0.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.jel-robot.co.jp/recruit/img/p_recsen_1.jpg?V=20240229",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyIncome/j_id__00003687607/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/00003687607/salary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://next.rikunabi.com/session/destroy/?type=webSso",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000teHcC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/jelrobot1993",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/jelrobot1993/status/2106911507737202853",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/kazutoshi-hayashi-27a123156/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E8%A3%95%E4%B9%8B-%E5%B8%82%E5%A1%9A-1a0802223",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/binrepo/posts/%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB%E3%81%8C%E5%BE%A1%E8%AA%BF%E3%81%AB%E6%96%B0%E5%B7%A5%E5%A0%B4%E8%A8%88%E7%94%BB%E9%9B%BB%E5%AD%90%E6%A9%9F%E5%99%A8%E8%A3%BD%E9%80%A0%E8%B2%A9%E5%A3%B2%E3%81%AE%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB%E7%A6%8F%E5%B1%B1%E5%B8%82%E8%8D%89%E6%88%B8%E7%94%BA%EF%BC%92%EF%BC%9820%E8%B3%87%E6%9C%AC%E9%87%91%EF%BC%97%EF%BC%94%EF%BC%95%EF%BC%97%E4%B8%87%E5%86%86%E5%B4%8E%E8%B0%B7%E4%BF%A1%E5%A4%AB%E7%A4%BE%E9%95%B7%E3%81%AF%E5%B0%BE%E9%81%93%E5%B8%82%E5%BE%A1%E8%AA%BF%E7%94%BA%E4%B8%B8%E9%96%80%E7%94%B0%E3%81%AB%E9%80%A0%E6%88%90%E3%81%99%E3%82%8B%E6%95%B7%E5%9C%B0%E3%81%AB%E6%96%B0%E5%B7%A5%E5%A0%B4%E3%82%92%E5%BB%BA/899387952028459/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ジェーイーエル 求人 年収",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyIncome/j_id__00003687607/",
+    "https://en-hyouban.com/company/00003687607/salary/",
+    "https://next.rikunabi.com/viewjob/jk26c1524551023b43/",
+    "https://www.r-agent.com/viewjob/jk6c178004ddc601d2/",
+    "https://jp.indeed.com/q-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB-l-%E5%BA%83%E5%B3%B6%E7%9C%8C-%E7%A6%8F%E5%B1%B1%E5%B8%82-%E6%B1%82%E4%BA%BA.html",
+    "https://tenshoku.mynavi.jp/jobinfo-396660-5-19-1/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00003687607/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000teHcC&q_no=2",
+    "https://jp.indeed.com/cmp/株式会社ジェーイーエル/salaries",
+    "https://jp.indeed.com/cmp/株式会社ジェーイーエル/salaries?job_category=manufacturing"
+   ]
+  },
+  {
+   "query": "ジェーイーエル 採用 新卒 高卒",
+   "results": [
+    "https://jp.stanby.com/search?q=%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB+%E6%96%B0%E5%8D%92+%E9%AB%98%E5%8D%92&et=NWGR&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.jel-robot.co.jp/recruit/recinfo_new.html",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000teHcC",
+    "https://www.instagram.com/jelrobot1993/",
+    "https://jp.indeed.com/q-jel-%E6%B1%82%E4%BA%BA.html",
+    "https://www.jel-robot.co.jp/recruit/",
+    "https://next.rikunabi.com/job_search/kw/%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB/",
+    "https://tenshoku.mynavi.jp/jobinfo-396660-5-14-1/",
+    "https://xn--pckua2a7gp15o89zb.com/cmp/3381-0769",
+    "https://www.r-agent.com/company/86464/"
+   ]
+  },
+  {
+   "query": "site:note.com ジェーイーエル",
+   "results": [
+    "https://note.com/chihouto/n/n78be8e817a0e",
+    "https://note.com/kiyo_ai_note/n/n06d10d16b882",
+    "https://note.com/jmac/n/naa1ce66b9614",
+    "https://note.com/zubo_semicon/n/n39e3bc69426a",
+    "https://note.com/clipcorporation/n/n6ab14eba9f24",
+    "https://note.com/clipcorporation/n/n80cf524f6213",
+    "https://note.com/clipcorporation/n/nd76fc846b538",
+    "https://note.com/clipcorporation/n/ndf38f2b2fb8e",
+    "https://note.com/clipcorporation/n/ne675e0936c23",
+    "https://note.com/jier_webmaga"
+   ]
+  },
+  {
+   "query": "site:x.com ジェーイーエル",
+   "results": [
+    "https://x.com/jelrobot1993",
+    "https://x.com/hashtag/%E5%B0%B1%E8%81%B7%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC",
+    "https://x.com/HojikuriRotei/status/2099405366085947871",
+    "https://x.com/jelrobot1993/status/2106911507737202853",
+    "https://x.com/jelrobot1993/status/2004074308776403120",
+    "https://x.com/shukatsufuku/status/1177002868630421504",
+    "https://x.com/jelrobot1993/status/2092463584643371037",
+    "https://x.com/jelrobot1993/status/2089977005278380388",
+    "https://x.com/jelrobot1993/status/2031917919085760829"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ジェーイーエル",
+   "results": [
+    "https://jp.linkedin.com/in/kazutoshi-hayashi-27a123156/ja",
+    "https://jp.linkedin.com/in/%E8%A3%95%E4%B9%8B-%E5%B8%82%E5%A1%9A-1a0802223",
+    "https://jp.linkedin.com/pub/dir/Kazutoshi/Hayashi/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/pub/dir/%E5%88%A9/%E6%9E%97/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/pub/dir/Shinichiro/Matsuoka/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/in/%E3%81%A8%E3%81%97-%E6%9E%97-1a3378200",
+    "https://www.linkedin.com/pub/dir/Tsuneyuki/+",
+    "https://jp.linkedin.com/pulse/2026%E5%B9%B4%E6%B3%A8%E7%9B%AE%E3%82%A2%E3%82%A4%E3%82%A8%E3%83%8C%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%A8%E3%83%BC%E3%83%93%E3%83%BC%E3%82%A8%E3%83%AB%E3%82%A4%E3%83%BC%E5%8C%BB%E8%96%AC%E5%93%81%E3%83%87%E3%82%A3%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%96%E3%82%A4%E3%82%A4%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%AB%E3%83%AF-7516275269771374593-kcznf",
+    "https://www.linkedin.com/pulse/2026%E5%B9%B4%E6%B3%A8%E7%9B%AE%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB%E3%82%A8%E3%83%BC%E3%82%A8%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%BC%E3%82%B8%E3%83%BC%E3%82%A8%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%A4%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%A8%E3%82%B9%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%80%E6%96%B0%E5%8B%95%E5%90%91%E4%B8%BB%E8%A6%81%E4%BC%81%E6%A5%AD%E7%94%A8-7516439588299689984-sybgf/",
+    "https://www.linkedin.com/pulse/2026%E5%B9%B4%E6%B3%A8%E7%9B%AE%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AF%E3%82%A4%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%A2%E3%82%A4%E3%82%A8%E3%83%8C%E3%82%A4%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%A2%E3%82%A4%E3%82%A8%E3%83%8C%E3%82%A8%E3%83%BC%E3%82%A8-7516341693227360256-0au5f/"
+   ]
+  },
+  {
+   "query": "site:facebook.com ジェーイーエル",
+   "results": [
+    "https://www.facebook.com/rapyutaroboticsja/posts/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%83%A9%E3%83%94%E3%83%A5%E3%82%BF%E3%83%AD%E3%83%9C%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%E3%81%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB%E6%A7%98%E3%81%AE%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%B0%BE%E9%81%93%E5%B8%82%E3%81%AE%E5%BE%A1%E8%AA%BF%E3%81%BF%E3%81%A4%E3%81%8E%E5%B7%A5%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E8%87%AA%E5%9C%A8%E5%9E%8B%E8%87%AA%E5%8B%95%E5%80%89%E5%BA%AB%E3%83%A9%E3%83%94%E3%83%A5%E3%82%BFasrs%E3%81%AE%E6%8E%A1%E7%94%A8%E3%81%8C%E6%B1%BA%E5%AE%9A%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8%E3%82%92/994422509159555/",
+    "https://www.facebook.com/binrepo/posts/%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB%E3%81%8C%E5%BE%A1%E8%AA%BF%E3%81%AB%E6%96%B0%E5%B7%A5%E5%A0%B4%E8%A8%88%E7%94%BB%E9%9B%BB%E5%AD%90%E6%A9%9F%E5%99%A8%E8%A3%BD%E9%80%A0%E8%B2%A9%E5%A3%B2%E3%81%AE%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB%E7%A6%8F%E5%B1%B1%E5%B8%82%E8%8D%89%E6%88%B8%E7%94%BA%EF%BC%92%EF%BC%9820%E8%B3%87%E6%9C%AC%E9%87%91%EF%BC%97%EF%BC%94%EF%BC%95%EF%BC%97%E4%B8%87%E5%86%86%E5%B4%8E%E8%B0%B7%E4%BF%A1%E5%A4%AB%E7%A4%BE%E9%95%B7%E3%81%AF%E5%B0%BE%E9%81%93%E5%B8%82%E5%BE%A1%E8%AA%BF%E7%94%BA%E4%B8%B8%E9%96%80%E7%94%B0%E3%81%AB%E9%80%A0%E6%88%90%E3%81%99%E3%82%8B%E6%95%B7%E5%9C%B0%E3%81%AB%E6%96%B0%E5%B7%A5%E5%A0%B4%E3%82%92%E5%BB%BA/899387952028459/",
+    "https://www.facebook.com/keizai.co.jp/posts/%E7%84%A1%E6%96%99%E8%A8%98%E4%BA%8B-%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB%E3%81%AF%E5%B0%BE%E9%81%93%E5%B8%82%E5%BE%A1%E8%AA%BF%E7%94%BA%E3%81%AB%E6%96%B0%E5%B7%A5%E5%A0%B4%E3%82%92%E5%BB%BA%E8%A8%AD%E3%81%97%E3%81%BE%E3%81%99%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB%E3%81%AE%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8-%E7%B5%8C%E6%B8%88%E3%83%AA%E3%83%9D%E3%83%BC%E3%83%88%E5%85%AC%E5%BC%8F%EF%BD%86%EF%BD%81%EF%BD%83%EF%BD%85%EF%BD%82%EF%BD%8F%EF%BD%8F%EF%BD%8B%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AB%E6%98%AF%E9%9D%9E%E3%81%84%E3%81%84%E3%81%AD%E3%82%92%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99-%E3%82%B8%E3%82%A7%E3%83%BC/808916137915823/",
+    "https://www.facebook.com/keizai.co.jp/posts/%E7%B5%8C%E6%B8%88%E3%83%AA%E3%83%9D%E3%83%BC%E3%83%88web-%E6%9C%80%E6%96%B0%E5%8F%B7%E3%81%A7%E3%81%AF%E7%A6%8F%E5%B1%B1%E5%B8%82%E3%81%AE%E5%8D%8A%E5%B0%8E%E4%BD%93%E9%96%A2%E9%80%A3%E7%94%A3%E6%A5%AD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E7%89%B9%E9%9B%86%E8%A8%98%E4%BA%8B%E3%82%92%E6%8E%B2%E8%BC%89%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB%E3%82%A8%E3%83%8C%E3%83%86%E3%83%83%E3%82%AF%E6%88%A6%E7%95%A5%E7%94%A3%E6%A5%AD%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC%E7%B5%8C%E6%B8%88%E3%83%AA%E3%83%9D%E3%83%BC%E3%83%88%E7%A6%8F%E5%B1%B1/1597542715719824/",
+    "https://www.facebook.com/pref.hiroshima/posts/%E5%8D%8A%E5%B0%8E%E4%BD%93%E7%94%A3%E6%A5%AD%E3%81%AF%E5%BA%83%E5%B3%B6%E7%9C%8C%E3%81%8C%E3%82%A2%E3%83%84%E3%82%A4%E5%BA%83%E5%B3%B6%E7%9C%8C%E3%81%AE%E5%8D%8A%E5%B0%8E%E4%BD%93%E7%94%A3%E6%A5%AD%E3%81%AE%E7%9A%86%E3%81%95%E3%81%BE%E3%81%AB%E3%81%94%E5%8D%94%E5%8A%9B%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E5%8D%8A%E5%B0%8E%E4%BD%93%E7%94%A3%E6%A5%AD%E3%81%AEpr%E5%8B%95%E7%94%BB%E3%82%92%E5%88%B6%E4%BD%9C-%E4%B8%96%E7%95%8C%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99%E5%8D%8A%E5%B0%8E%E4%BD%93%E6%8A%80%E8%A1%93-%E6%AC%A1%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AF%E5%BA%83%E5%B3%B6%E3%81%A0%E8%A9%B3%E7%B4%B0-%E5%85%83%E6%B0%97%E3%81%AA%E5%BA%83%E5%B3%B6/1354049850091545/",
+    "https://www.facebook.com/keizai.co.jp/posts/%E7%B5%8C%E6%B8%88%E3%83%AA%E3%83%9D%E3%83%BC%E3%83%88web-%E3%82%BF%E3%82%AB%E3%82%AA%E7%A6%8F%E5%B1%B1%E5%B8%82%E5%BE%A1%E5%B9%B8%E7%94%BA%E4%B8%AD%E6%B4%A5%E5%8E%9F%E3%81%AF10%E6%9C%88%EF%BC%99%E6%97%A5%E9%87%9110%E5%9C%9F%E3%81%AE%E4%B8%A1%E6%97%A5%E6%9D%B1%E4%BA%AC%E9%A7%85%E4%B8%B8%E3%81%AE%E5%86%85%E5%8F%A3%E8%A1%8C%E5%B9%B8%E9%80%9A%E3%82%8A%E3%81%A8%E4%B8%B8%E3%83%93%E3%83%AB%EF%BC%91%E9%9A%8E%E3%83%9E%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%A8%E3%82%82%E3%81%A8%E3%82%82%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%96/1598552452285517/",
+    "https://www.facebook.com/westniigatashop/posts/%E4%BF%9D%E5%86%B7%E5%8A%9B%E5%AE%9F%E9%A8%93%E4%B8%AD%E3%81%84%E3%81%A3%E3%81%9F%E3%81%84%E3%81%A9%E3%82%8C%E3%81%8C%E6%9C%80%E5%BC%B7%E3%81%AA%E3%81%AE%E5%85%88%E6%97%A5%E3%81%AE%E9%95%B7%E5%B2%A1%E5%BA%97%E3%81%AB%E5%BC%95%E3%81%8D%E7%B6%9A%E3%81%8D%E6%96%B0%E6%BD%9F%E5%BA%97%E3%81%A7%E3%82%82%E7%9C%9F%E7%A9%BA%E3%83%91%E3%83%8D%E3%83%AB%E6%90%AD%E8%BC%89%E3%82%AF%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E4%BF%9D%E5%86%B7%E5%8A%9B%E5%AF%BE%E6%B1%BA%E3%81%8C%E9%96%8B%E5%82%AC%E3%81%A7%E3%81%99%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%81%AF%E4%BB%A5%E4%B8%8B%E3%81%AE%EF%BC%93%E9%81%B8%E6%89%8B%E3%81%A7%E3%81%99no1-shi/1461227386021419/",
+    "https://www.facebook.com/hiroshimatokyooffice/?locale=ja_JP",
+    "https://www.facebook.com/shukatsufukuyama/posts/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E6%83%85%E5%A0%B1%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8%E5%90%91%E3%81%91%E5%90%88%E5%90%8C%E4%BC%81%E6%A5%AD%E8%AA%AC%E6%98%8E%E4%BC%9A%E5%B0%B1%E8%81%B7%E3%82%92%E5%B8%8C%E6%9C%9B%E3%81%99%E3%82%8B%E6%B1%82%E8%81%B7%E8%80%85%E5%90%91%E3%81%91%E3%81%AE%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8%E5%90%91%E3%81%91%E5%90%88%E5%90%8C%E4%BC%81%E6%A5%AD%E8%AA%AC%E6%98%8E%E4%BC%9A%E3%81%AE%E5%8F%82%E5%8A%A0%E8%80%85%E3%82%92%E5%8B%9F%E9%9B%86%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E6%96%B0%E5%8D%92%E3%81%AE%E4%BA%BA%E3%81%AF%E5%AF%BE%E8%B1%A1%E5%A4%96%E5%B8%82%E5%86%85%E3%81%AE%E4%BA%8B%E6%A5%AD%E6%89%80/622153480060504/",
+    "https://www.facebook.com/groups/797104363091043/posts/888010500667095/"
+   ]
+  },
+  {
+   "query": "ジェーイーエル note 社長",
+   "results": [
+    "https://www.jel-robot.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB",
+    "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-0157.html",
+    "https://www.youtube.com/watch?v=N5S3RvS52YY",
+    "https://speakerdeck.com/jelrobot/kabushikigaisha-kaisha-annai-kaniban-202608",
+    "https://syukatsu-kaigi.jp/companies/16179/post_items/11/word_mouths",
+    "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB/",
+    "https://www.youtube.com/channel/UCjMqbjP-1jHsQj6LgeJ8GgA"
+   ]
+  },
+  {
+   "query": "ジェーイーエル X 投稿",
+   "results": [
+    "https://www.jel-robot.co.jp/",
+    "https://www.youtube.com/watch?v=N5S3RvS52YY",
+    "https://www.youtube.com/channel/UCjMqbjP-1jHsQj6LgeJ8GgA",
+    "https://www.pref.hiroshima.lg.jp/dayori/202610/web5.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000teHcC&q_no=8",
+    "https://www.youtube.com/watch?v=VaaDQcSpNPE",
+    "https://syukatsu-kaigi.jp/companies/16179/word_mouths",
+    "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%82%A7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%A8%E3%83%AB/",
+    "https://x.com/jelrobot1993",
+    "https://www.instagram.com/jelrobot1993/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部10頁・検索8回）",
+  "主要取引先": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部10頁・検索8回）",
+  "求人媒体": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部10頁・検索8回）",
+  "採用の発信": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部10頁・検索8回）"
+ }
+}

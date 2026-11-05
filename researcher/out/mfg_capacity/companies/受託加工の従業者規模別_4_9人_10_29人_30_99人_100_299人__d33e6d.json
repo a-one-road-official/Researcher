@@ -1,0 +1,2134 @@
+{
+ "name": "受託加工の従業者規模別（4〜9人・10〜29人・30〜99人・100〜299人・300人以上）の1事業所当たり・1人当たり金額",
+ "en": "contract manufacturing per employee value by establishment size Japan",
+ "aliases": [
+  "工業統計 従業者規模別 1事業所当たり 製造品出荷額",
+  "従業者1人当たり 付加価値額 規模別 製造業",
+  "中小企業実態基本調査 1人当たり 売上高 製造業"
+ ],
+ "context": "全体・規模別",
+ "kind": "market",
+ "researched_at": "2026-11-05T00:41:20.883168+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "２．事業所数・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 10",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 従業者規模別統計表・・・・・・・・・・・・・・・・・・・・・・・・・ 44",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 事業所数 (平成29年6月1日現在) (1) 事業所数 (平成29年6月1日現在) (1) 事業所数 (平成29年6月1日現在) (1) 事業所数 (平成29年6月1日現在)",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(6) 平成28年経済 セ ン サ ス -活動 調査においては、「事業所数」、「従業者数」については、",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 本報告 書 における主 要 4指標とは、「事業所数」、「従業者数」、「製造品出荷額等」及び",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)事業所数は1,923事業所で、 前回と比べて7.4％減少 (△154事業所)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要4指標の過去10年間の推移をみると、事業所数と製造品出荷額等は、減少傾向にあります",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)事業所数の全国シェアは1.0%、全国順位は32位となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 32位、従業者数 36位、製造品出荷額等 37位、付加価値額 39位",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 事業所数",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成29年の従業者4人以上の事業所数は1,923事業所です",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者規模別の状況",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別事業所数の構成比をみると、4～9人規模39.7％(764事業所)が最も多く約4割を",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "占め、次いで10～19人規模25.5％(491事業所)、30～99人規模15.9％(306事業所)の順 となって",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊事業所数は 1,923事業所で、前回と比べて 154事業所減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊従業者 4～9人規模の事業所が約 4割を占める",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第5図 従業者規模別事業所数の構成比（％） （従業者 4人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１ 表 産業中分類 別事業所数・従業者数 および 製造品出荷額等の推移 ・・・・ 9",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４ 表 平成２５ 年産業中分類別従業者規模別事業所数・従業者数・",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第５ 表 事業所数・従業者数・製造品出荷額等の全道，道南，函館圏の状況 ・・ 15",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１ ０ 表 東部４支所 の事業所数・従業者数・製造 品出荷額等",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "値ですが，事業所数および従業者数は平成２４年２月１日現在の数値です",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 事業所数",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 事業所数，従業者数および製造品出荷額等",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は２９２事業所（前年比2.3％減） ，従業者数は８，１３５人（前年比3.2％減），",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 事業所数",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１表 産業中分類別事業所数、従業者数および製造品出荷額等の推移",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 平成２５年産業中分類別従業者規模別事業所数・従業者数・製造品出荷額等",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第５表 事業所数・従業者数・製造品出荷額等の全道，道南，函館圏の状況",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１０表 東部４支所の事業所数・従業者数・製造品出荷額等の推移",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 従業者規模別の構成比",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は、4～9人規模が41.2％と最も高く、次いで10～19人規模が24.4％、20～29人規模",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数は、300人以上規模が27.7％と最も高く、次いで100～199人規模が15.6％、50～99",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は、300人以上規模が38.4％と最も高く、次いで50～99人規模が20.4％、100",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は、京都市域が51.6％と最も高く全体の約半数を占め、次いで山城中部地域が",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は、繊維が14.4％と最も高く、次いで生産用機械が11.6%、食料品が11.1％の順と",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 事業所数及び従業者数について、平成24年は平成24年２月１日現在、平成28年以降の年次は同じ年の６月１日現在､その他の",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 事業所数及び従業者数について、令和３年は個人経営調査票の調査分を含まない集計結果です",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300人以上 52 64 63 64 61 56 1.4",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は、3,952事業所となりました",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図１ 規模別事業所数の推移",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表１ 規模別事業所数",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "規模別の構成比をみると、４～９人規模、10～19人規模及び20～29人規模の３区分で77.6％と全体の８",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表２ 組織別事業所数",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図２ 規模別事業所数の構成比",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300人以上",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図３ 地域別事業所数の構成比 図４ 産業中分類別事業所数の構成比",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表３ 地域別事業所数",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．事業所数・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 10",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 従業者規模別統計表・・・・・・・・・・・・・・・・・・・・・・・・・ 43",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、調査日が平成30年6月1日となっていることから、事業所数、従業者数については平成30年",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 事業所数 (平成30年6月1日現在) (1) 事業所数 (平成30年6月1日現在) (1) 事業所数 (平成30年6月1日現在) (1) 事業所数 (平成30年6月1日現在)",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 本報告書における主 要4 指 標 とは、「事業所数」、「従業者数」、「製造品出荷額等」及び",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(6) 平成28年経済 セ ン サ ス -活動 調査においては、「事業所数」、「従業者数」については、",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)事業所数は1,881事業所で、 前年と比べて2.2％減少 (△42事業所)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要4指標の過去10年間の推移をみると、事業所数と従業者数は、減少傾向にあります",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)事業所数の全国シェアは1.0%、全国順位は32位となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 32位、従業者数 37位、製造品出荷額等 36位、付加価値額 39位",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 事業所数",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者規模別の状況",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "Ⅰ 調査結果の概要（従業者４人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．従業者数・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 11",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．年末在庫額及び有形固定資産投資総額（従業者３０人以上の事業所）・・・・・・ 18",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅱ 統計表（従業者４人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３表 産業中分類別統計表（従業者３０人以上の事業所）・・・・・・・・・・・・ 34",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第８表 市町村別統計表（従業者３０人以上の事業所）・・・・・・・・・・・・・・ 105",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査は、従業者30人以上の事業所（製造、加工又は修理を行っていない本社又は本店を",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "除く）については「工業調査票甲」、従業者29人以下の事業所（製造、加工又は修理を行っていな",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 常用労働者毎月末現在数の合計（工業調査票甲）…………………… 廃止",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 従業者数 ……………………………「統計調査における労働者の区分等に関するガイドライン",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理項目に",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者数 (平成29年6月1日現在) (2) 従業者数 (平成29年6月1日現在) (2) 従業者数 (平成29年6月1日現在) (2) 従業者数 (平成29年6月1日現在)",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "― 従業者４人以上の事業所に関する表 ―",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１ 表 産業中分類 別事業所数・従業者数 および 製造品出荷額等の推移 ・・・・ 9",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３ 表 平成２５ 年産業中分類別 １事業所当たり従業者数・製造品出荷額 等および",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者１人当たり製造品出荷額等 ・・・・・・・・・・・・・・・・・ 12",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４ 表 平成２５ 年産業中分類別従業者規模別事業所数・従業者数・",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第５ 表 事業所数・従業者数・製造品出荷額等の全道，道南，函館圏の状況 ・・ 15",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "― 従業者３０人以上の事業所に関する表 ―",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１ ０ 表 東部４支所 の事業所数・従業者数・製造 品出荷額等",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の推移（従業者数４人以上） ・・・・・・・・・・・・・・・・・・ 17",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "［付］ 調査票様式 甲 従業者数３０人以上の事業所用",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "乙 従業者数２９人以下の事業所用",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本標準産業分類に掲げる「大分類Ｅ－製造業」に属する従業者４人以上の事業所",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者３０人以上の事業所については「工業調査票甲」，従業者２９人以下の事業",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 調査の結果における従業者数の取扱いが，秘匿を解除することができることとなっ",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たため，平成１６年調査結果から従業者数は秘匿しておりません",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "値ですが，事業所数および従業者数は平成２４年２月１日現在の数値です",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 従業者数",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者４人以上の事業所）の調査結果の概要は、以下のとおりです",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者 数 １３万９，６１５人 １４万５，２１１人",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 参考までに前年数値を表示していますが、令和３年活動調査（令和2年）は個人経営を含",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は、4～9人規模が41.2％と最も高く、次いで10～19人規模が24.4％、20～29人規模",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が12.0％の順となり30人未満の事業所が全体の77.6％を占めています",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数は、300人以上規模が27.7％と最も高く、次いで100～199人規模が15.6％、50～99",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人規模が13.4％の順となっており、50人以上規模で全体の65.7％を占めています",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は、300人以上規模が38.4％と最も高く、次いで50～99人規模が20.4％、100",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～199人規模が15.3％の順となっており、50人以上規模で全体の82.1％を占めています",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額は、300 人以上規模が34.7％と最も高く、次いで50～99 人規模が24.7％、100～",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "199 人規模が14.2％の順となっており、50人以上規模で全体の80.7％を占めています",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数は、京都市域が44.1％と最も高く、次いで山城中部地域が24.6％、中丹地域が",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数は、食料品が14.9％と最も高く、生産用機械が10.4％、電気機械が9.7％の順とな",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（％） =100 （人） （％） =100 （億円） （％） =100 （億円） （％） =100",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 事業所数及び従業者数について、平成24年は平成24年２月１日現在、平成28年以降の年次は同じ年の６月１日現在､その他の",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 事業所数及び従業者数について、令和３年は個人経営調査票の調査分を含まない集計結果です",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 製造品出荷額等及び付加価値額について、平成２７年と令和２年は個人経営調査票の調査分を含まない集計結果です",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要項目の移り変わり（従業者４人以上）",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ 調査結果の概要（従業者４人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．従業者数・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 11",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．年末在庫額及び有形固定資産投資総額（従業者３０人以上の事業所）・・・・・・ 18",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅱ 統計表（従業者４人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３表 産業中分類別統計表（従業者３０人以上の事業所）・・・・・・・・・・・・ 33",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第８表 市町村別統計表（従業者３０人以上の事業所）・・・・・・・・・・・・・・ 104",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、調査日が平成30年6月1日となっていることから、事業所数、従業者数については平成30年",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査は、従業者30人以上の事業所（製造、加工又は修理を行っていない本社又は本店を",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "除く）については「工業調査票甲」、従業者29人以下の事業所（製造、加工又は修理を行っていな",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者数 (平成30年6月1日現在) (2) 従業者数 (平成30年6月1日現在) (2) 従業者数 (平成30年6月1日現在) (2) 従業者数 (平成30年6月1日現在)",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "６．製造品出荷額等・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 14",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 出荷額等に係る消費税の取扱い… 従前の「税込に統一した記入」による報告を「原則税込み",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理項目に",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品目の製造品出荷額等を そ れ ぞ れ合計し、 そ の額の 最 も 大 きいもので2桁番号を決定します",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 製造品出荷額等 (平成28年1年間) (5) 製造品出荷額等 (平成28年1年間) (5) 製造品出荷額等 (平成28年1年間) (5) 製造品出荷額等 (平成28年1年間)",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は、平成28年1年間における製造品出荷額、加工 賃収 入額及び そ の 他収 入額の",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(10) 生産額（従業者30人以上の事業所） (10) 生産額（従業者30人以上の事業所） (10) 生産額（従業者30人以上の事業所） (10) 生産額（従業者30人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4) 平成19年調査から、製造以 外 の 活動 を 把握 する目的で、製造品出荷額等に「 そ の 他収 入",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 本報告 書 における主 要 4指標とは、「事業所数」、「従業者数」、「製造品出荷額等」及び",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)製造品出荷額等は1兆8,193億円で、前回と比べて4.1％減少(△776億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額は6,526億円で、前回と比べて1.5％増加(97億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要4指標の過去10年間の推移をみると、事業所数と製造品出荷額等は、減少傾向にあります",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１ 表 産業中分類 別事業所数・従業者数 および 製造品出荷額等の推移 ・・・・ 9",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等ほか ・・・・・・・・・・・・・・・・・・・・・・・ 11",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３ 表 平成２５ 年産業中分類別 １事業所当たり従業者数・製造品出荷額 等および",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者１人当たり製造品出荷額等 ・・・・・・・・・・・・・・・・・ 12",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等 ・・・・・・・・・・・・・・・・・・・・・・・ ・・ 13",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第５ 表 事業所数・従業者数・製造品出荷額等の全道，道南，函館圏の状況 ・・ 15",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第６ 表 生産額および付加価値額の推移 ・・・・・・・・・・・・・・・・・・ 16",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１ ０ 表 東部４支所 の事業所数・従業者数・製造 品出荷額等",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお，「製造品出荷額等」などの経理事項は平成２３年 1 年間の数",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 製造品出荷額等",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成２５年１年間における製造品出荷額，加工賃収入額およびその他収入額の合計",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７ 生産額および付加価値額等の算定式",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）生産額＝製造品出荷額＋加工賃収入額",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）粗付加価値額＝製造品出荷額等",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "／(生産額－(消費税を除く内国消費税額＋推計消費税額))×100",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 事業所数，従業者数および製造品出荷額等",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等 ５兆２，７０４億円 ５兆６，５８８億円",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値 額 ２兆１，６７１億円 ２兆２，１２０億円",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は、300人以上規模が38.4％と最も高く、次いで50～99人規模が20.4％、100",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は、京都市域が40.7％と最も高く、次いで山城中部地域が30.4％、中丹地域",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は、飲料・たばこ・飼料が14.2％と最も高く、次いでその他が11.5％、食料",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（％） =100 （人） （％） =100 （億円） （％） =100 （億円） （％） =100",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 製造品出荷額等及び付加価値額について、平成19年調査において調査項目を変更したことにより、平成18年以前の数値とは",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 製造品出荷額等及び付加価値額について、平成２７年と令和２年は個人経営調査票の調査分を含まない集計結果です",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 製造品出荷額等",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（億円） 対前年増減額 増減率（％） 平成27年=100 （万円） 増減率（％） 平成27年=100 （万円） 増減率（％） 平成27年=100",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は、５兆2,704億円となり、１事業所当たりでみると、11億9,679万円となりました",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者１人当たりでみると、3,388万円となりました",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表11－1 製造品出荷額等の推移（1）",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表11－2 製造品出荷額等の内訳推移（2）",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、１事業所当たりでみると、300人以上規模が291億2,657万円、200～299人規模が76",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億9,352万円の順となっています",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "万円、300人以上規模が4,212万円の順となっています",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図11 規模別製造品出荷額等の構成比の推移",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６．製造品出荷額等・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 14",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6月1日現在、現金給与総額、製造品出荷額等などの経理項目については平成29年1月～12月の実績",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品目の製造品出荷額等をそれ ぞ れ合計し、その額の 最 も 大き いもので2 桁番 号を決定します",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 製造品出荷額等 (平成29年1年間) (5) 製造品出荷額等 (平成29年1年間) (5) 製造品出荷額等 (平成29年1年間) (5) 製造品出荷額等 (平成29年1年間)",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は、平成29年1年間における製造品出荷額、加工賃 収 入額及びその他 収 入額の",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 加工賃 収 入額とは、平成29年 中 に他企業の所有に属する主 要原 材 料 によって製造し、あるい",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(10) 生産額（従業者30人以上の事業所） (10) 生産額（従業者30人以上の事業所） (10) 生産額（従業者30人以上の事業所） (10) 生産額（従業者30人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 本報告書における主 要4 指 標 とは、「事業所数」、「従業者数」、「製造品出荷額等」及び",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "( 4 ) 平成19年調査から、製造以 外 の 活動 を 把握 する目的で、製造品出荷額等に「その他 収 入",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)製造品出荷額等は2兆917億円で、前年と比べて15.0％増加(2,724億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額は6,826億円で、前年と比べて4.6％増加(300億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額等は、平成27年・28年と減少傾向にありましたが、平成29年では増加に転じ、過去10年の",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "７．付加価値額・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 16",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(11) 付加価値額・粗付加価値額 (平成28年1年間) (11) 付加価値額・粗付加価値額 (平成28年1年間) (11) 付加価値額・粗付加価値額 (平成28年1年間) (11) 付加価値額・粗付加価値額 (平成28年1年間)",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額は6,526億円で、前回と比べて1.5％増加(97億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額は、平成20年・21年と減少した後、平成22年に一旦増加し、以降は緩やかな",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製 造 品 出 荷 額 等 181,932,379 万 円 189,688,132 万円 △ 7 , 7 5 5 , 7 5 3 万 円 △ 4 . 1 ％",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付 加 価 値 額 65,259,765 万 円 64,292,589 万円 9 6 7 , 1 7 6 万 円 1 . 5 ％",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額の全国シェアは0.7%、全国順位は39位となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 32位、従業者数 36位、製造品出荷額等 37位、付加価値額 39位",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊ 1事業所当たり従業者数は 32人",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第8図 産業中分類別の 1事業所当たり従業者数 （従業者 4人以上の事業所）（人）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人当たり現金給与総額は全産業平均で402万円です",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品・デバイス・電子回路製造業(617万円)が最も多く、次いで業務用機械器具製造業(572万",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円)、輸送用機械器具製造業(544万円)の順となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊従業者１人当たり現金給与総額は 402万円",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "回路製造業 (617万円 )、業務用機械器具製造業 (572万円 )、輸送用機械器具製造業",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(544万円 )が多い",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第12図 産業中分類別の従業者 1人当たり現金給与総額 （従業者 4人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第６ 表 生産額および付加価値額の推移 ・・・・・・・・・・・・・・・・・・ 16",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７ 生産額および付加価値額等の算定式",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）付加価値額（従業者３０人以上の事業所）",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）粗付加価値額＝製造品出荷額等",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（５）付加価値率＝付加価値額",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（８）労働分配率＝現金給与総額／付加価値額×100",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は１，７０２億４，８２４万円（前年比4.2％減）であった",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(万円) 平成25年 増 減 率(％) 4.0 △ 5.8 △ 9.4 △ 4.2",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(万円) 増 減 率(％) △ 2.1 △ 44.8",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第６表 生産額および付加価値額の推移",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額は、300 人以上規模が34.7％と最も高く、次いで50～99 人規模が24.7％、100～",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額は、京都市域が39.3％と最も高く、次いで山城中部地域が34.0％、中丹地域が",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額は、その他が15.9％と最も高く、次いで食料品が10.2％、生産用機械が8.9％の",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 製造品出荷額等及び付加価値額について、平成19年調査において調査項目を変更したことにより、平成18年以前の数値とは",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 製造品出荷額等及び付加価値額について、平成２７年と令和２年は個人経営調査票の調査分を含まない集計結果です",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（億円） 対前年増減額 増減率（％） 平成27年=100 （万円） 増減率（％） 平成27年=100 （万円） 増減率（％） 平成27年=100",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は、５兆2,704億円となり、１事業所当たりでみると、11億9,679万円となりました",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者１人当たりでみると、3,388万円となりました",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、１事業所当たりでみると、300人以上規模が291億2,657万円、200～299人規模が76",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億9,352万円の順となっています",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "万円、300人以上規模が4,212万円の順となっています",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、１事業所当たりでみると、乙訓地域が29億110万円、中丹地域が19億1,255万円の順となっていま",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者１人当たりでみると、山城中部地域が4,539万円、乙訓地域が3,774万円の順となっています",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（億円） （百万円）１事業所当たりの製造品出荷額等",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、１事業所当たりでみると、情報通信が42億1,834万円と最も多く、次いでその他が40億",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20万円、輸送用機械が35億3,177万円の順となっています",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が２億3,401万円と最も多く、次いで飲料･たばこ･飼料が9,129万円、石油・石炭が5,219万円の",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 付加価値額",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７．付加価値額・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 16",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(11) 付加価値額・粗付加価値額 (平成29年1年間) (11) 付加価値額・粗付加価値額 (平成29年1年間) (11) 付加価値額・粗付加価値額 (平成29年1年間) (11) 付加価値額・粗付加価値額 (平成29年1年間)",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額は6,826億円で、前年と比べて4.6％増加(300億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額は、平成20年・21年と減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製 造 品 出 荷 額 等 209,168,958 万円 181,932,379 万円 2 7 , 2 3 6 , 5 7 9 万 円 1 5 . 0 ％",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付 加 価 値 額 68,263,347 万円 65,259,765 万円 3 , 0 0 3 , 5 8 2 万 円 4 . 6 ％",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額の全国シェアは0.7%、全国順位は39位となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 32位、従業者数 37位、製造品出荷額等 36位、付加価値額 39位",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊ 1事業所当たり従業者数は 33人",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第8図 産業中分類別の 1事業所当たり従業者数 （従業者 4人以上の事業所）（人）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人当たり現金給与総額は全産業平均で414万円です",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "機械器具製造業(688万円)が最も多く、次いで電気機械器具製造業(576万円)、電子部品・デバ",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イス・電子回路製造業(569万円)の順となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信機械器具製造業(△15.3％、△6,000万円)が最も大きく、食料品製造業(△11.6％、△",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊従業者１人当たり現金給与総額は 414万円",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "８．年末在庫額及び有形固定資産投資総額（従業者３０人以上の事業所）・・・・・・ 18",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８ 年末在庫額及び有形固定資産投資総額 （従業者30人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 有形固定資産投資総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年の従業者30人以上の事業所についての有形固定資産投資総額は476億円で、前回と比",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊有形固定資産投資総額は、 476億円で、前 回と比べて 7.9％増加",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊有形固定資産投資総額では、化学工業 (89億円 )が多い",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 産業中分類別有形固定資産投資総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 有形固定資産投資総額の推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産投資総額 の推移 ・・・・・・・・・・・・・・・・・・・ 16",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（４）有形固定資産年末現在高＝年初現在高＋取得額－除却額－減価償却額",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（９）有形固定資産投資総額＝有形固定資産の取得額＋建設仮勘定の年間増減",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．年末在庫額及び有形固定資産投資総額（従業者３０人以上の事業所）・・・・・・ 18",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８ 年末在庫額及び有形固定資産投資総額 （従業者30人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 有形固定資産投資総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者30人以上の事業所についての有形固定資産投資総額は501億円で、前年と比べて5.1％",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊有形固定資産投資総額は、 501億円で、前 年と比べて 5.1％増加",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊有形固定資産投資総額では、食料品製造業 (68億円 )が多い",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 産業中分類別有形固定資産投資総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 有形固定資産投資総額の推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "(1)事業所数は1,923事業所で、 前回と比べて7.4％減少 (△154事業所)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)従業者数は62,251人で、前回と比べて1.1％増加(696人)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)製造品出荷額等は1兆8,193億円で、前回と比べて4.1％減少(△776億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額は6,526億円で、前回と比べて1.5％増加(97億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要4指標の過去10年間の推移をみると、事業所数と製造品出荷額等は、減少傾向にあります",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数は、平成20年から減少傾向が続いていましたが、平成29年では過去10年で初めて増加し",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額は、平成20年・21年と減少した後、平成22年に一旦増加し、以降は緩やかな",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "減少傾向にありましたが、平成28年では増加しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数、付加価値額は増加",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、製造品出荷額等は減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第1図 主要 4指標の過去 10年の推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前回と比べると、県全体で7.4％減少(△154事業所)となりました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "減少率については、家具・装備品製造業(△18.2％、",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊事業所数は 1,923事業所で、前回と比べて 154事業所減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前回と比べると、県全体で1.1％増加(696人)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別の増加率については、",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊ 従業者数は 62,251人で、前回と比べて 1.1％増加",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前回と比べると、県全体で0.8％増加(19億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１ 表 産業中分類 別事業所数・従業者数 および 製造品出荷額等の推移 ・・・・ 9",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第６ 表 生産額および付加価値額の推移 ・・・・・・・・・・・・・・・・・・ 16",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産投資総額 の推移 ・・・・・・・・・・・・・・・・・・・ 16",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 ８ 表 製造品在庫額等 の推移 ・・・・・・・・・・・・・・・・・・・・・ 16",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 ９ 表 工業用水１日当たり水源別 用水量 の推移 ・・・・・・・・・・・・・ 17",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の推移（従業者数４人以上） ・・・・・・・・・・・・・・・・・・ 17",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は２９２事業所（前年比2.3％減） ，従業者数は８，１３５人（前年比3.2％減），",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は１，７０２億４，８２４万円（前年比4.2％減）であった",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所図１ 事業所・従業者数の推移人",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図２ 製造品出荷額等の推移億円",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１表 産業中分類別事業所数、従業者数および製造品出荷額等の推移",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第６表 生産額および付加価値額の推移",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働所得分配率および有形固定資産投資総額の推移",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第８表 製造品在庫額等の推移",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第９表 工業用水１日当たり水源別用水量の推移",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１０表 東部４支所の事業所数・従業者数・製造品出荷額等の推移",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年） （参考）2020年（令和２年）",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年（令和２年） （参考）2019年（令和元年）",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図１ 規模別事業所数の推移",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組織別を前年と比べると、会社組織が159事業所（4.3％）増加し、組合・その他法人が22事業所",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(19.1％)減少しています",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表６ 従業者数の推移",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図５ 従業者数の推移",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図６ 規模別従業者数の構成比の推移",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図７ 地域別従業者数の構成比の推移",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表11－1 製造品出荷額等の推移（1）",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表11－2 製造品出荷額等の内訳推移（2）",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図11 規模別製造品出荷額等の構成比の推移",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図12 地域別製造品出荷額等の構成比の推移",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人材派遣会社への支払額（現金給与総額）の推移",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社への支払額（現金給与総額）の推移 （従業者30人以上）",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人材派遣会社への支払額(現金給与総額)の推移（従業者４人以上）",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "支払額(現金給与総額)の推移（従業者30人以上）",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設仮勘 定の 増 加額とは、この 勘 定の 借 方に加 え られた額をいい、 建設仮勘 定の 減少 額と",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)事業所数は1,881事業所で、 前年と比べて2.2％減少 (△42事業所)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)従業者数は61,556人で、前年と比べて1.1％減少(△695人)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)製造品出荷額等は2兆917億円で、前年と比べて15.0％増加(2,724億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額は6,826億円で、前年と比べて4.6％増加(300億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要4指標の過去10年間の推移をみると、事業所数と従業者数は、減少傾向にあります",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額等は、平成27年・28年と減少傾向にありましたが、平成29年では増加に転じ、過去10年の",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "推移で平成20年に次ぐ2番目に大きな数値となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額は、平成20年・21年と減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "費、製造等に関 連 する 外注 費及び 転売 した商品の 仕 入額の合計で、消費税額を 含んだ 額です",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ 製造等に関 連 する 外注 費とは、 生 産設 備 の保 守 ・ 点検 ・修理、 機械 ・ 装 置の 操作 、製品に 組",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "み込まれる ソフトウェア の 開 発など、事業所 収 入に直 接 関 連 する 外注 費用をいい、派遣受入",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "者に係わる支払額、 委託生 産額などの 外注 費は 含 みませ ん",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "額」、原 材料使 用額等に「製造等に関 連 する 外注 費」、「 転売 した商品の 仕 入額」を調査",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造等に関連する外注費および転売した商品の仕入額であり，消費税額を含んだ額で",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "99 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額 （年間） （消費税額を含む",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注費 （派遣、委託生産費などの外注費は除く）",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造等に関連する外注費は、生産設備の保守・点検、機械の操作、梱包などを外注した際の費用を",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いい、派遣、（２）の委託生産費などの外注費を除いたものです",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び",
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "委託生産費(外注加工費) 製造等に関連する外注費 転売した商品の仕入額",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "委託生産費（外注加工費）の比率では、最も高いのは皮革で42.4％、最も低いのは",
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ 製造等に 関連 する 外注費 とは、 生 産 設備 の 保守 ・ 点検 ・修理、 機械 ・ 装 置の 操作 、製品に 組",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "み 込 まれる ソ フトウ ェ アの 開発 など、事業所 収 入に直 接関連 する 外注費 用をいい、派遣受入",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "者に 係わ る支払額、 委 託 生 産額などの 外注費 は含みません",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "費 、製造等に 関連 する 外注費 及び 転売 した商品の 仕 入額の合計で、 消費税 額を含んだ額です",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "額」、 原 材 料使 用額等に「製造等に 関連 する 外注費 」、「 転売 した商品の 仕 入額」を調査",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/content/11910500/001512805.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hojyokin-portal.jp/columns/career-up_summary",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.b-z.jp/main/service/%E5%8A%A9%E6%88%90%E9%87%91%E3%83%BB%E5%A5%A8%E5%8A%B1%E9%87%91/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%A2%E3%83%83%E3%83%97%E5%8A%A9%E6%88%90%E9%87%91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hmd-office.com/joseikin/carrier-up/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sogyotecho.jp/careerup-jyoseikin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sr-kinka.or.jp/career_advancement_grant_payment_amount/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.obc.co.jp/360/list/post246",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shacho-no-komon.net/column/career-up-grant-summary",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntt.com/bizon/career-advancement.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&stat_infid=000040197150",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/yzocpp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prdurbanosichapp1.blob.core.windows.net/common-article/609b3fb85f1bbf69b91741a6/%E7%AC%AC13~23%E8%A1%A8.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www4.city.kanazawa.lg.jp/material/files/group/3/kougyou42004.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/otsu/2019/pdf/2019report01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/finance/keiei/support-plus/detail/materials.html?id=200",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://officeyui.or.jp/joseikin-kobe/career_up_permanentstaff/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.pref.yamanashi.jp/toukei_2/HP/DATA/H25Kougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.miyagi.jp/documents/31330/864422.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_outline.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/k_outline.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://u-ks.jp/column/subsidy/careerup-fulltime",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/nihon/07.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://search.ckan.jp/datasets/catalog.data.metro.tokyo.lg.jp__dataset:t132195d0000000148",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tai-gen.com/column/finance/2025-career-advancement-grant-eligibility-conditions-application-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/roudouyoran.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiego.org/wp-content/uploads/2019/09/Chatani_non-regular_employment_statistics_Japan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nam.org/mfgdata/facts-about-manufacturing-expanded/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/tags/series?t=employment%3Bjapan%3Bmanufacturing",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nber.org/system/files/chapters/c8452/c8452.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/publications/dp/25e100.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託加工の従業者規模別（4〜9人・10〜29人・30〜99人・100〜299人・300人以上）の1事業所当たり・1人当たり金額",
+   "results": [
+    "https://www.mhlw.go.jp/content/11910500/001512805.pdf",
+    "https://hojyokin-portal.jp/columns/career-up_summary",
+    "https://www.b-z.jp/main/service/%E5%8A%A9%E6%88%90%E9%87%91%E3%83%BB%E5%A5%A8%E5%8A%B1%E9%87%91/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%A2%E3%83%83%E3%83%97%E5%8A%A9%E6%88%90%E9%87%91/",
+    "https://hmd-office.com/joseikin/carrier-up/",
+    "https://sogyotecho.jp/careerup-jyoseikin/",
+    "https://sr-kinka.or.jp/career_advancement_grant_payment_amount/",
+    "https://www.ntt.com/bizon/career-advancement.html",
+    "https://shacho-no-komon.net/column/career-up-grant-summary",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/263450.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ]
+  },
+  {
+   "query": "受託加工の従業者規模別（4〜9人・10〜29人・30〜99人・100〜299人・300人以上）の1事業所当たり・1人当たり金額 推移",
+   "results": [
+    "https://www.mhlw.go.jp/content/11910500/001512805.pdf",
+    "https://hojyokin-portal.jp/columns/career-up_summary",
+    "https://hmd-office.com/joseikin/carrier-up/",
+    "https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf",
+    "https://sogyotecho.jp/careerup-jyoseikin/",
+    "https://sr-kinka.or.jp/career_advancement_grant_payment_amount/",
+    "https://www.obc.co.jp/360/list/post246",
+    "https://shacho-no-komon.net/column/career-up-grant-summary",
+    "https://www.ntt.com/bizon/career-advancement.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&stat_infid=000040197150"
+   ]
+  },
+  {
+   "query": "受託加工の従業者規模別（4〜9人・10〜29人・30〜99人・100〜299人・300人以上）の1事業所当たり・1人当たり金額 統計 PDF",
+   "results": [
+    "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/yzocpp.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "https://www.city.hakodate.hokkaido.jp/docs/2015021000036/file_contents/2015021000036_hk_docs_2015021000036_files_H25kougyou.pdf",
+    "https://www.pref.kyoto.jp/tokei/cycle/keicen/documents/kogyo2021gaiyou.pdf",
+    "https://prdurbanosichapp1.blob.core.windows.net/common-article/609b3fb85f1bbf69b91741a6/%E7%AC%AC13~23%E8%A1%A8.pdf",
+    "https://www4.city.kanazawa.lg.jp/material/files/group/3/kougyou42004.pdf",
+    "https://www.city.amagasaki.hyogo.jp/_res/projects/default_project/_page_/001/002/173/kogyo23_24sg.pdf",
+    "https://www.city.yokosuka.kanagawa.jp/0830/data/kekkakouhyou/documents/28keisenseizougyou.pdf",
+    "https://www.city.sakata.lg.jp/shisei/toukei/toukeichosakekka/toukei_kougyou.files/H22kougyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966"
+   ]
+  },
+  {
+   "query": "受託加工の従業者規模別（4〜9人・10〜29人・30〜99人・100〜299人・300人以上）の1事業所当たり・1人当たり金額 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.mhlw.go.jp/content/11910500/001512805.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/otsu/2019/pdf/2019report01.pdf",
+    "https://hojyokin-portal.jp/columns/career-up_summary",
+    "https://sogyotecho.jp/careerup-jyoseikin/",
+    "https://www.jfc.go.jp/n/finance/keiei/support-plus/detail/materials.html?id=200",
+    "https://sr-kinka.or.jp/career_advancement_grant_payment_amount/",
+    "https://officeyui.or.jp/joseikin-kobe/career_up_permanentstaff/",
+    "https://www.obc.co.jp/360/list/post246"
+   ]
+  },
+  {
+   "query": "受託加工の従業者規模別（4〜9人・10〜29人・30〜99人・100〜299人・300人以上）の1事業所当たり・1人当たり金額 従業者規模別",
+   "results": [
+    "https://www.mhlw.go.jp/content/11910500/001512805.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "http://www.pref.yamanashi.jp/toukei_2/HP/DATA/H25Kougyou.pdf",
+    "https://hojyokin-portal.jp/columns/career-up_summary",
+    "https://www.pref.miyagi.jp/documents/31330/864422.pdf",
+    "https://sogyotecho.jp/careerup-jyoseikin/",
+    "https://officeyui.or.jp/joseikin-kobe/career_up_permanentstaff/",
+    "https://sr-kinka.or.jp/career_advancement_grant_payment_amount/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&stat_infid=000040197150",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966"
+   ]
+  },
+  {
+   "query": "受託加工の従業者規模別（4〜9人・10〜29人・30〜99人・100〜299人・300人以上）の1事業所当たり・1人当たり金額 1人当たり 万円",
+   "results": [
+    "https://www.mhlw.go.jp/content/11910500/001512805.pdf",
+    "https://www.b-z.jp/main/service/%E5%8A%A9%E6%88%90%E9%87%91%E3%83%BB%E5%A5%A8%E5%8A%B1%E9%87%91/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%A2%E3%83%83%E3%83%97%E5%8A%A9%E6%88%90%E9%87%91/",
+    "https://hojyokin-portal.jp/columns/career-up_summary",
+    "https://sogyotecho.jp/careerup-jyoseikin/",
+    "https://officeyui.or.jp/joseikin-kobe/career_up_permanentstaff/",
+    "https://sr-kinka.or.jp/career_advancement_grant_payment_amount/",
+    "https://u-ks.jp/column/subsidy/careerup-fulltime",
+    "https://www.obc.co.jp/360/list/post246",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
+   ]
+  },
+  {
+   "query": "受託加工の従業者規模別（4〜9人・10〜29人・30〜99人・100〜299人・300人以上）の1事業所当たり・1人当たり金額 2015 2025",
+   "results": [
+    "https://www.mhlw.go.jp/content/11910500/001512805.pdf",
+    "https://hojyokin-portal.jp/columns/career-up_summary",
+    "https://www.ntt.com/bizon/career-advancement.html",
+    "https://sogyotecho.jp/careerup-jyoseikin/",
+    "https://sr-kinka.or.jp/career_advancement_grant_payment_amount/",
+    "https://shacho-no-komon.net/column/career-up-grant-summary",
+    "https://www.obc.co.jp/360/list/post246",
+    "https://tai-gen.com/column/finance/2025-career-advancement-grant-eligibility-conditions-application-guide/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&stat_infid=000040197150",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966"
+   ]
+  },
+  {
+   "query": "contract manufacturing per employee value by establishment size Japan Japan statistics",
+   "results": [
+    "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "https://www.wiego.org/wp-content/uploads/2019/09/Chatani_non-regular_employment_statistics_Japan.pdf",
+    "https://nam.org/mfgdata/facts-about-manufacturing-expanded/",
+    "https://fred.stlouisfed.org/tags/series?t=employment%3Bjapan%3Bmanufacturing",
+    "https://www.nber.org/system/files/chapters/c8452/c8452.pdf",
+    "https://www.rieti.go.jp/jp/publications/dp/25e100.pdf",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.e-stat.go.jp/en/ranking-frequency/Employed+persons+by+industry%2C+occupation+%28employed+persons%29",
+    "https://www.statista.com/statistics/629448/japan-persons-engaged-in-economic-sectors/?srsltid=AYCX9vLUhVh8Mby6tN3Pa7yuZltpQ01tHFc_HpmW0WZLzsrTC-O_8otP",
+    "https://www.stat.go.jp/english/data/nenkan/74nenkan/1431-07.html"
+   ]
+  },
+  {
+   "query": "site:note.com 受託加工の従業者規模別（4〜9人・10〜29人・30〜99人・100〜299人・300人以上）の1事業所当たり・1人当たり金額",
+   "results": [
+    "https://note.com/autosubsidy/n/na9e5ae748ff2",
+    "https://note.com/tyari/n/naa1a8194f84e",
+    "https://note.com/satoruhiguchi/n/neda5094ed898",
+    "https://note.com/takeshiito/n/n7f8de9b00631",
+    "https://note.com/jafcogroup8595/n/nd482e1d6f51b",
+    "https://note.com/quiet_myrtle840/n/n64125b5c27a8",
+    "https://note.com/chic_deer1160/n/n7f7e5648a408",
+    "https://note.com/finanscope/n/na51f8cdef74e",
+    "https://note.com/newbizcreate_777/n/nb4e8f23ec2af",
+    "https://note.com/kagawatomo/n/ndb06a6b0c405"
+   ]
+  },
+  {
+   "query": "site:x.com 受託加工の従業者規模別（4〜9人・10〜29人・30〜99人・100〜299人・300人以上）の1事業所当たり・1人当たり金額",
+   "results": [
+    "https://x.com/NNAASIA",
+    "https://x.com/meti_chusho",
+    "https://x.com/simane_jakunen",
+    "https://x.com/yri_healthtech",
+    "https://x.com/KagawaTomo/article/2113066175089508431?lang=ar-x-fm",
+    "https://x.com/jnet21_smrj",
+    "https://x.com/jafco_intern",
+    "https://x.com/tochigikyoku",
+    "https://x.com/0808_rocky",
+    "https://x.com/luigi_jpn/article/2076457347531354220"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 受託加工の従業者規模別（4〜9人・10〜29人・30〜99人・100〜299人・300人以上）の1事業所当たり・1人当たり金額",
+   "results": [
+    "https://jp.linkedin.com/in/norimasa-noguchi",
+    "https://jp.linkedin.com/in/takatsugu-suzuki-87b99b40",
+    "https://jp.linkedin.com/in/%E5%84%AA%E4%BB%8B-%E9%AB%98%E6%A9%8B-a6ab43292",
+    "https://jp.linkedin.com/in/kazuhiro-sakata-48750952",
+    "https://jp.linkedin.com/in/toshihiro-okada",
+    "https://jp.linkedin.com/in/fajoa",
+    "https://jp.linkedin.com/in/koichi-hayashida-khid/en",
+    "https://jp.linkedin.com/in/%E5%93%B2%E4%B9%9F-%E9%AB%98%E9%87%8E-410aa51b2",
+    "https://jp.linkedin.com/in/tomohiro-murakami-tom",
+    "https://jp.linkedin.com/in/shin-yamamoto-3b09786"
+   ]
+  },
+  {
+   "query": "site:facebook.com 受託加工の従業者規模別（4〜9人・10〜29人・30〜99人・100〜299人・300人以上）の1事業所当たり・1人当たり金額",
+   "results": [
+    "https://www.facebook.com/groups/627324771859424/",
+    "https://www.facebook.com/jichiken.jp/",
+    "https://www.facebook.com/groups/627324771859424/posts/1132688597989703/",
+    "https://www.facebook.com/toshihito.kumagai/posts/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E5%85%90%E7%AB%A5%E7%9B%B8%E8%AB%87%E6%89%80%E3%81%A3%E3%81%A6%E8%99%90%E5%BE%85%E3%81%95%E3%82%8C%E3%81%9F%E5%85%90%E7%AB%A5%E3%82%92%E4%BF%9D%E8%AD%B7%E3%81%99%E3%82%8B%E6%89%80%E3%81%AA%E3%82%93%E3%81%A7%E3%81%97%E3%82%87%E3%81%A8%E6%80%9D%E3%82%8F%E3%82%8C%E3%81%8C%E3%81%A1%E3%81%A7%E3%81%99%E3%81%8C%E5%AE%9F%E3%81%AF%E3%81%9D%E3%81%86%E3%81%A7%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E5%85%90%E7%AB%A5%E7%9B%B8%E8%AB%87%E6%89%80%E3%81%8C%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9F%E4%BB%B6%E6%95%B0%E3%81%AE%E3%81%86%E3%81%A1%E4%B8%80%E6%99%82%E4%BF%9D%E8%AD%B7%E3%81%95%E3%82%8C%E3%81%9F%E5%85%90%E7%AB%A5%E3%81%AE%E5%89%B2/26865150439794443/",
+    "https://www.facebook.com/2525ikeda/?locale=ja_JP",
+    "https://www.facebook.com/komura.kaori/posts/%E3%81%93%E3%81%AE3%E4%BA%BA%E3%81%A7%E3%82%84%E3%82%8B%E3%81%AE%E3%81%AF3%E5%9B%9E%E7%9B%AE%E3%81%8B%E3%81%AA%E5%85%A8%E5%93%A1%E6%B0%91%E6%97%8F%E6%A5%BD%E5%99%A8%E3%81%A7%E5%8F%82%E6%88%A6%E3%81%99%E3%82%8B%E5%8D%B3%E8%88%88%E6%BC%94%E5%A5%8F%E8%A5%BF%E6%B4%8B%E6%A5%BD%E5%99%A8%E3%81%AB%E6%85%A3%E3%82%8C%E3%81%9F%E8%80%B3%E3%81%AB%E3%81%AF%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E9%9F%B3%E3%81%AB%E8%81%9E%E3%81%93%E3%81%88%E3%82%8B%E3%81%8B%E3%82%82%E3%81%97%E3%82%8C%E3%81%BE%E3%81%9B%E3%82%932026%E5%B9%B410%E6%9C%8829%E6%97%A5%E6%9C%A8ten-chaos%E9%98%BF%E4%BD%90/28873577005628220/",
+    "https://www.facebook.com/honjocci/posts/%E5%9F%BC%E7%8E%89%E7%9C%8C%E6%B0%91%E9%96%93%E4%BA%8B%E6%A5%AD%E8%80%85%EF%BD%83%EF%BD%8F2%E6%8E%92%E5%87%BA%E5%89%8A%E6%B8%9B%E8%A8%AD%E5%82%99%E5%B0%8E%E5%85%A5%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%E3%81%A7%E3%81%99%E8%A9%B3%E7%B4%B0%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89-%E6%9C%AC%E5%BA%84%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80-%E6%9C%AC%E5%BA%84%E5%B8%82-%E6%9C%AC%E5%BA%84-%E5%9F%BC%E7%8E%89%E7%9C%8C-%E5%9F%BC%E7%8E%89-%E8%A3%9C%E5%8A%A9%E9%87%91-%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD-%E8%A8%AD%E5%82%99%E5%B0%8E%E5%85%A5-%E8%A8%AD%E5%82%99%E6%9B%B4%E6%96%B0-%E9%AB%98%E5%8A%B9%E7%8E%87%E8%A8%AD/996297949634633/",
+    "https://www.facebook.com/yorozu.hokkaido.jp/posts/%E4%BB%8A%E5%B9%B4%E5%BA%A6%E3%81%AE%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%81%A7%E3%81%99%E6%A7%98%E3%80%85%E3%81%AA%E3%81%94%E7%9B%B8%E8%AB%87%E3%81%AB%E5%8C%97%E6%B5%B7%E9%81%93%E3%82%88%E3%82%8D%E3%81%9A%E6%94%AF%E6%8F%B4%E6%8B%A0%E7%82%B9%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%8C%E5%AF%84%E3%82%8A%E6%B7%BB%E3%81%A3%E3%81%A6%E5%BF%9C%E6%8F%B4%E3%81%97%E3%81%BE%E3%81%99%E7%9A%86%E6%A7%98%E3%81%AE%E7%9B%B8%E8%AB%87%E3%82%92%E3%81%8A%E5%BE%85%E3%81%A1%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E3%81%94%E4%BA%88%E7%B4%84%E3%81%AF%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E7%9B%B8%E8%AB%87%E3%83%95%E3%82%A9%E3%83%BC/1531024625092236/",
+    "https://www.facebook.com/kidera.yoshi/",
+    "https://www.facebook.com/eguchishintaro/"
+   ]
+  },
+  {
+   "query": "受託加工の従業者規模別（4〜9人・10〜29人・30〜99人・100〜299人・300人以上）の1事業所当たり・1人当たり金額 note 社長",
+   "results": [
+    "https://www.mhlw.go.jp/content/11910500/001512805.pdf",
+    "https://sogyotecho.jp/careerup-jyoseikin/",
+    "https://www.pref.shiga.lg.jp/documents/11062/5380986.pdf",
+    "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/157837.pdf",
+    "https://note.com/keigoman/n/n9840b78886b1",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "https://canon.jp/biz/solution/smb/list/theme/subsidy/gyomujoseikin",
+    "https://hamauzu-sharoushi.jp/careerup-seishainka2025/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&stat_infid=000040197150",
+    "https://www.e-stat.go.jp/stat-search/database?layout=dataset&statdisp_id=0004003966"
+   ]
+  },
+  {
+   "query": "受託加工の従業者規模別（4〜9人・10〜29人・30〜99人・100〜299人・300人以上）の1事業所当たり・1人当たり金額 X 投稿",
+   "results": [
+    "https://www.mhlw.go.jp/content/11910500/001512805.pdf",
+    "https://hojyokin-portal.jp/columns/career-up_summary",
+    "https://sogyotecho.jp/careerup-jyoseikin/",
+    "https://sr-kinka.or.jp/career_advancement_grant_payment_amount/",
+    "https://www.obc.co.jp/360/list/post246",
+    "https://japan-ai.co.jp/media/8265/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://mag.smarthr.jp/hr/procedure/careerup_joseikin/",
+    "https://www.chukidan.jp/navi/column/grants/11602/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00553010&stat_infid=000040197150"
+   ]
+  },
+  {
+   "query": "contract manufacturing per employee value by establishment size Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/procter-and-gamble",
+    "https://www.linkedin.com/company/flexintl",
+    "https://www.linkedin.com/company/medtronic",
+    "https://www.linkedin.com/company/3m",
+    "https://www.linkedin.com/company/eli-lilly-and-company",
+    "https://www.linkedin.com/company/dcma",
+    "https://www.linkedin.com/company/dupont",
+    "https://www.linkedin.com/company/honeywell",
+    "https://www.linkedin.com/company/texas-instruments",
+    "https://www.linkedin.com/company/ingersoll-rand"
+   ]
+  }
+ ],
+ "missing": {}
+}

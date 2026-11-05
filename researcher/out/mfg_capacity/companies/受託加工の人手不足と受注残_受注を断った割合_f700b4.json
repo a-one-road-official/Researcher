@@ -1,0 +1,639 @@
+{
+ "name": "受託加工の人手不足と受注残・受注を断った割合",
+ "en": "job shop labor shortage order backlog Japan",
+ "aliases": [
+  "中小製造業 受注を断った 割合 人手不足",
+  "受注残 中小製造業 推移",
+  "町工場 人手不足 受注 機会損失"
+ ],
+ "context": "全体・人手と仕事",
+ "kind": "market",
+ "researched_at": "2026-11-05T00:51:31.183742+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "図表１－７㻌 製造業の海外生産比率の推移（国内法人ベース）㻌",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0003\u0003\u0003国内法人ベース＝現地法人（製造業）売上高 㻛国内法人（製造業）売上高×100㻌",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表１－８㻌 業種別にみた製造業の現地法人の地域別分布（㻞㻜㻝㻠 年度）㻌",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１\u0003 湖北工業㈱と㻹㼕㼜㼛㼤㈱は、 日本本社でのインタビューを基本としつつ、 マレーシア現地法人へのイン",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２\u0003 ㈱明輝は主にマレーシア現地法人を含む海外展開事業について日本本社でインタビューを実施した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４㻌㻌 従業員数は特に断りがない限り単体",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "図表１－１㻌 輸送機械、電気機械の国内生産額および輸出額の推移\u0003",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表１－３㻌 製造品出荷額等でみた機械工業の分析㻌",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表１－４㻌 㻞㻜㻝㻜～㻞㻜㻝㻠 年の製造品出荷額等でみた機械工業の分析㻌",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表１－５㻌 㻞㻜㻝㻜～㻞㻜㻝㻠 年の製造品出荷額等でみた機械工業の分析㻌",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表１－６㻌 㻞㻜㻝㻜～㻞㻜㻝㻠 年の製造品出荷額等でみた機械工業の分析㻌",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "近年、日本企業を取り巻く環境が大きく変化するなかで、国内生産が大きく減少している産",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人口減少や海外生産の進展、 さらには技術革新の進展等により、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後、多くの産業が国内生産減少に直面する可能性があるなかで、すでにそうした状況に直面",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そこで本レポートでは、過去に国内生産減少に直面した主に電気機械産業に連なる中小企業",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "機械産業のなかでも、とりわけ電気機械は、国内製造出荷額等を大きく減少させており、電",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "子部品・デバイスも、すでに国内生産減少の兆候が顕在化している",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２章\u0003国内生産減少に立ち向かう中小製造業の取り組み\u0003",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 㻝 章の分析を踏まえて、本調査では、電気機械など国内生産が減少している産業に属する",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "することで、国内生産減少への対応策の一つとして、海外展開の可能性について探った",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１\u0003国内生産減少に直面する中小製造業\u0003\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0003\u0014\u0003",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２章\u0003 国内生産減少に立ち向かう中小製造業の取り組み\u0003\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0011\u0003\u0014\u0015㻌",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１\u0003国内生産減少に直面する中小製造業\u0003",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省 「生産動態統計」 によれば、機械工業の国内生産額は㻝㻥㻥㻜 年をピークに減少基調",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そのうち例えば、電気機械㻞と輸送機械の推移をみると、電気機械が国内生産を減少さ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また輸出額の推移をみると、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、電気機械は、㻞㻜㻜㻜 年代後半から減少している",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表１－１㻌 輸送機械、電気機械の国内生産額および輸出額の推移\u0003",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表１－２㻌 電気機械の品目別にみた輸出額の推移㻌",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "マレーシアでは順調に業容を拡大し、㻵㼀バブル崩壊の影響で余力の無かった本社",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■\u0003顧客が驚くスピード納期で価格主導権を握る（三郷金属工業㈱）\u0003",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "㻵㼀 バブル崩壊直後で大月精工㈱本社の業況が思わしくない時も、 仕事の受注残をたくさん抱え",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000055.000058841.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/smartsuit/n/n16e498638ebb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://built.itmedia.co.jp/bt/articles/2602/25/news108.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.raksul.com/news/press/260527_raksul_survey3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20251117-laborshortage202510/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wauw.world/blog_detail/id=329",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://netshop.impress.co.jp/node/11806",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/03Hakusyo_part1_chap1_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1201982_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.riaj.or.jp/release/2007/pdf/071225.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nidec.com/files/user/www-nidec-com/corporate/news/2026/0303-01/260303-01jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1808.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOFL1865DTY5A210C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/mov-jutaku20261019",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lead-ems.com/assignment/laborshortage.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/388959",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murc.jp/wp-content/uploads/2023/05/report_230508_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/93940",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1201768_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC056G00V01C26A0000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/soukai/043/dl/s002.pdf?o=6896&o=6896/",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sbbit.jp/article/st/171148",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://webtan.impress.co.jp/n/2026/08/19/53115",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kenchikuma.com/hitodebusoku/kensetsu-juchu-eikyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenko-media.com/health_idst/archives/21810",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001017809",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?layout=datalist&toukei=00100401",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/24-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://research.nicoxz.com/articles/defense-semiconductor-subcontractor-growth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/13699/labor-shortage-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makerstations.io/employment-in-japan-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.economy.com/japan/labor-force",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/roudou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/english/estatis/eshuyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newsonjapan.com/article/147706.php",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託加工の人手不足と受注残・受注を断った割合",
+   "results": [
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://prtimes.jp/main/html/rd/p/000000055.000058841.html",
+    "https://note.com/smartsuit/n/n16e498638ebb",
+    "https://built.itmedia.co.jp/bt/articles/2602/25/news108.html",
+    "https://corp.raksul.com/news/press/260527_raksul_survey3/",
+    "https://www.tdb.co.jp/report/economic/20251117-laborshortage202510/",
+    "https://www.nikkei.com/article/DGXZQOFL1865DTY5A210C2000000/",
+    "https://diamond.jp/articles/-/388959",
+    "https://engineering-technology.brexa.com/blog/technavi/labor-shortage-bankruptcy/",
+    "https://built.itmedia.co.jp/bt/articles/2603/25/news070.html"
+   ]
+  },
+  {
+   "query": "受託加工の人手不足と受注残・受注を断った割合 推移",
+   "results": [
+    "https://corp.raksul.com/news/press/260527_raksul_survey3/",
+    "https://wauw.world/blog_detail/id=329",
+    "https://netshop.impress.co.jp/node/11806",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/03Hakusyo_part1_chap1_web.pdf",
+    "https://www.tsr-net.co.jp/data/detail/1201982_1527.html",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.nidec.com/files/user/www-nidec-com/corporate/news/2026/0303-01/260303-01jp.pdf",
+    "https://media.emuniinc.jp/2025/02/14/labor-shortage-manufacturing/",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/24-1.html"
+   ]
+  },
+  {
+   "query": "受託加工の人手不足と受注残・受注を断った割合 統計 PDF",
+   "results": [
+    "https://www.jftc.go.jp/toriteki/r7text.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "http://www.riaj.or.jp/release/2007/pdf/071225.pdf",
+    "https://www.nidec.com/files/user/www-nidec-com/corporate/news/2026/0303-01/260303-01jp.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1808.pdf",
+    "https://www.mlit.go.jp/totikensangyo/const/content/001979929.pdf",
+    "https://nira.or.jp/paper/report0810.pdf"
+   ]
+  },
+  {
+   "query": "受託加工の人手不足と受注残・受注を断った割合 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOFL1865DTY5A210C2000000/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/mov-jutaku20261019",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.lead-ems.com/assignment/laborshortage.html",
+    "https://shokosoken.or.jp/paper/theme/2017/201706.html",
+    "https://www.e-stat.go.jp/dbview?sid=0004028803"
+   ]
+  },
+  {
+   "query": "受託加工の人手不足と受注残・受注を断った割合 従業者規模別",
+   "results": [
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://diamond.jp/articles/-/388959",
+    "https://corp.raksul.com/news/press/260527_raksul_survey3/",
+    "https://wauw.world/blog_detail/id=329",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.murc.jp/wp-content/uploads/2023/05/report_230508_01.pdf",
+    "https://forbesjapan.com/articles/detail/93940",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/"
+   ]
+  },
+  {
+   "query": "受託加工の人手不足と受注残・受注を断った割合 1人当たり 万円",
+   "results": [
+    "https://corp.raksul.com/news/press/260527_raksul_survey3/",
+    "https://diamond.jp/articles/-/388959",
+    "https://www.tsr-net.co.jp/data/detail/1201768_1527.html",
+    "https://www.nikkei.com/article/DGXZQOUC056G00V01C26A0000000/",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/soukai/043/dl/s002.pdf?o=6896&o=6896/",
+    "https://www.sbbit.jp/article/st/171148",
+    "https://webtan.impress.co.jp/n/2026/08/19/53115",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://kenchikuma.com/hitodebusoku/kensetsu-juchu-eikyou.html",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/mov-jutaku20261019"
+   ]
+  },
+  {
+   "query": "受託加工の人手不足と受注残・受注を断った割合 2015 2025",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20251117-laborshortage202510/",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.kenko-media.com/health_idst/archives/21810",
+    "https://www.e-stat.go.jp/stat-search/files?tstat=000001017809",
+    "https://www.e-stat.go.jp/stat-search/database?layout=datalist&toukei=00100401",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/24-1.html",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/mov-jutaku20261019",
+    "https://research.nicoxz.com/articles/defense-semiconductor-subcontractor-growth",
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://www.willtecgroup-ems.jp/column/manufacturing-shortage/"
+   ]
+  },
+  {
+   "query": "job shop labor shortage order backlog Japan Japan statistics",
+   "results": [
+    "https://www.statista.com/topics/13699/labor-shortage-in-japan/",
+    "https://www.makerstations.io/employment-in-japan-statistics/",
+    "https://www.economy.com/japan/labor-force",
+    "https://www.stat.go.jp/english/data/roudou/index.html",
+    "https://www.jil.go.jp/english/estatis/eshuyo/index.html",
+    "https://newsonjapan.com/article/147706.php",
+    "https://eastasiaforum.org/2024/07/08/japans-economic-comeback-as-labour-shortages-nudge-productivity-up/",
+    "https://www.statista.com/topics/7451/employment-in-japan/",
+    "https://www.oecd.org/en/publications/oecd-employment-outlook-2024-country-notes_d6c84475-en/japan_ba997ec7-en.html",
+    "https://www.boj.or.jp/en/mopo/outlook/box/2410box2a.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 受託加工の人手不足と受注残・受注を断った割合",
+   "results": [
+    "https://note.com/bright_dog6230/n/n29f11c7f99c4",
+    "https://note.com/saiyo_classy/n/nc5c7932d34bb",
+    "https://note.com/seizou_chiba/n/nf253e076c58c",
+    "https://note.com/mino11293/n/n2d01366b20c6",
+    "https://note.com/nakagawasann/n/n534f168f4335",
+    "https://note.com/rich_quokka6298/n/n0ae840fa5c5c",
+    "https://note.com/lucky_cosmos2026/n/n5b2d476e653c"
+   ]
+  },
+  {
+   "query": "site:x.com 受託加工の人手不足と受注残・受注を断った割合",
+   "results": [
+    "https://x.com/i/trending/2036945766753948135",
+    "https://x.com/akionionio/status/2056263677725094240",
+    "https://x.com/Stoneman_ISHIO/status/2035853014142230604",
+    "https://x.com/i/status/2012091055274168728",
+    "https://x.com/forbesjapan/status/2035842715288756403",
+    "https://x.com/nikkei/status/2012284135990071345",
+    "https://x.com/grok/status/2043905419349823856"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 受託加工の人手不足と受注残・受注を断った割合",
+   "results": [
+    "https://www.linkedin.com/news/story/人手不足中小企業の6割-4983345/",
+    "https://jp.linkedin.com/posts/shuheikotobuki_大型工事26年度受注できず建設会社の7割成長投資阻む人手不足-日本経済新聞-activity-7418159617349799936-VN1y",
+    "https://jp.linkedin.com/posts/motoyasu-yamada_受託開発ソフトウェア業の人手不足による倒産が前年同期の2件から8件と4倍に増加したと-activity-7513713138496823296-tock",
+    "https://www.linkedin.com/pulse/何人呼ぶかではなくどんな国になるか日本の人手不足とこれからの30年-adil-driouech-rimpc/",
+    "https://jp.linkedin.com/posts/健次-髙木-66992543_2026年建設業界動向予測-毎年の人気コンテンツ2026年建設業界動向予測を-activity-7410180936383983616-ak47",
+    "https://jp.linkedin.com/pulse/足りないのは人手ではなく判断できる人でした-jvit-holdings-gcm0e",
+    "https://www.linkedin.com/posts/聰-宮越-092126147_建設業運送業の倒産危機人手不足が売上に直結する現実tdb最新データ-activity-7303193039806570497-SIrF"
+   ]
+  },
+  {
+   "query": "site:facebook.com 受託加工の人手不足と受注残・受注を断った割合",
+   "results": [
+    "https://www.facebook.com/photo/?fbid=1415684716569593",
+    "https://www.facebook.com/mokutaikyo/posts/業界動向レポート建設業界の8割が人手不足により受注を断念httpsforbesjapancomarticlesdetail93940現在私たちの足元で起きている/1333662895528113/",
+    "https://www.facebook.com/mokutaikyo/photos/業界動向レポート建設業界の8割が人手不足により受注を断念httpsforbesjapancomarticlesdetail93940現在私たちの足元で起きている/1333662825528120/",
+    "https://www.facebook.com/forbesjapan/posts/建設業界で8割が人手不足により受注を見送るという調査結果-dx-採用-都市開発-サプライチェーン-人手不足-物流物流産業-働き方-建設建築-インフラストラクチャ/1477469841056751/",
+    "https://www.facebook.com/nikkei/posts/大型工事2026年度受注できず建設会社の7割-4割弱は契約済みの工事で工期が遅れる可能性があると回答しました東京都の中野サンプラザの再開発が白紙になるなど全国で/1415684729902925/",
+    "https://www.facebook.com/shiba.total.planning/posts/建設会社の7割が大型工事受注できない工事費の高騰は続く大手中堅の建設会社の約7割が2026年度内は大型工事を新規受注できないとみていることが日本経済新聞の調査で/1395700319022086/",
+    "https://www.facebook.com/chiyodadenshi/posts/先週の気になるニュース１月１７日日本経済新聞朝刊-大型工事縮む受注余力大手中堅の建設会社の約７割が２０２６年度内は大型工事を新規受注できないとみていることがわか/1383339563586465/"
+   ]
+  },
+  {
+   "query": "受託加工の人手不足と受注残・受注を断った割合 note 社長",
+   "results": [
+    "https://note.com/bright_dog6230/n/n29f11c7f99c4",
+    "https://note.com/nakagawasann/n/n534f168f4335",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/mov-jutaku20261019",
+    "https://kenchikuma.com/hitodebusoku/kensetsu-juchu-eikyou.html",
+    "https://research.nicoxz.com/articles/defense-semiconductor-subcontractor-growth",
+    "https://knowfa.jp/tips/003/",
+    "https://diamond.jp/articles/-/388959"
+   ]
+  },
+  {
+   "query": "受託加工の人手不足と受注残・受注を断った割合 X 投稿",
+   "results": [
+    "https://kenchikuma.com/hitodebusoku/kensetsu-juchu-eikyou.html",
+    "https://prtimes.jp/main/html/rd/p/000000538.000010550.html",
+    "https://built.itmedia.co.jp/bt/articles/2603/25/news070.html",
+    "https://prtimes.jp/main/html/rd/p/000000007.000180562.html",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/mov-jutaku20261019",
+    "https://www.seikohd.com/research-construction-labor-shortage-2026/",
+    "https://newspicks.com/news/16286137/"
+   ]
+  },
+  {
+   "query": "job shop labor shortage order backlog Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/addressing-labor-shortages-japanese-store-operations-systems-nagao-31rvc",
+    "https://www.linkedin.com/pulse/japans-labor-shortage-real-its-also-wildly-asymmetrical-yan-sen-lu-du8ic",
+    "https://sg.linkedin.com/posts/jellyfish_japan_percentage-of-labor-shortages-in-japan-activity-6982581837353140224-trJG",
+    "https://pe.linkedin.com/posts/arun-kumar-kasinathan-8b40019b_sappp-sapmrp-materialplanning-activity-7319397677702549504-Szr1",
+    "https://ca.linkedin.com/in/stephanie-chiu-630a7155",
+    "https://www.linkedin.com/top-content/recruitment-hr/addressing-labor-shortages/japan-workforce-shortage-trends/",
+    "https://www.linkedin.com/pulse/japan-labor-shortage-how-innovative-solutions-game-rancap-jerota-vxqtc",
+    "https://www.linkedin.com/pulse/japanese-job-market-snapshot-sudhakar-paul-pfuxc/",
+    "https://in.linkedin.com/in/darshan0212",
+    "https://jp.linkedin.com/in/jesse-lemaster"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ48頁・検索15回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ48頁・検索15回）",
+  "生産能力・設備": "記載なし（読んだ48頁・検索15回）"
+ }
+}

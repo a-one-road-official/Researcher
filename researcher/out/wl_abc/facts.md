@@ -284,10 +284,69 @@
 
 ## wl-C 3D CAD（組込み用CADエンジン・ブラウザCAD）（embeddable browser CAD SDK）
 - 文脈：wl-C 3D CAD
-- 提供企業：記載なし（読んだ55頁・検索11回）
-- 自社名で出せる条件：記載なし（読んだ55頁・検索11回）
-- 再販制度：記載なし（読んだ55頁・検索11回）
-- 黒字・収益性：記載なし（読んだ55頁・検索11回）
-- 売上：記載なし（読んだ55頁・検索11回）
-- 価格：記載なし（読んだ55頁・検索11回）
-- 日本対応：記載なし（読んだ55頁・検索11回）
+- 提供企業：
+  - 「Different vendors achieve this to varying degrees and with different techniques, as we’ll explore in a moment. Some basic solutions only hide their logo, while advanced ones allow you extensive rebranding and even embedding analytics」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「on top of the vendor’s engine.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「top embedded analytics tools that support white labeling」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「. Essentially, if you have specific UI needs, you are free to implement them on top of Embeddable’s data/query backbone.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「These advanced solutions (Embeddable, Sisense Compose, etc.) are ideal if your top priority is a」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「is the top self-hosted/hosted tier (around $15k+/year) which includes all Pro features like interactive embedding and white-label customization.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「To remove that watermark entirely, you need to be on a higher-tier plan (their “Professional” or “Elite” plans). The top-tier (Elite) also lets you white-label email notifications and alerts with your branding.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「is an end-to-end AI-powered analytics platform with native SQL, NoSQL and document support and embedded analytics. It stands out for its ability to connect directly to a wide range of SQL, NoSQL, API, and document data sources without ETL. It supports teams with internal BI while giving SaaS vendors and enterprises white-labeling and OEM capabilities.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「Tableau is a leading BI platform known for rich visuals. It」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「Tableau’s reliability and scalability for analytics workloads are proven, and it provides features like row-level security which are important for multi-tenant scenarios (though configuring that in an embed context is non-trivial). If your use case needs top-notch analytics and you’re willing to settle for a “good enough” UI integration, Tableau could serve.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「Use a standard white-label platform (e.g., GoodData, Yellowfin, Qrvey, or Luzmo)」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「Embeddable and Sisense Compose SDK are top choices for advanced scenarios. Both let you build analytics directly into your app’s DOM with full styling control. These options are ideal when you want analytics to look and behave as if your team built them entirely in-house.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「https://www.investopedia.com/terms/w/white-label-product.asp」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「Top embedded analytics tools」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「GoodData Cloud supports dashboard embedding through iframe as well as the GoodData.UI React SDK. Its React framework lets developers embed existing visualizations or create custom analytical components on top of the GoodData backend.」（https://www.luzmo.com/blog/white-label-embedded-analytics-platforms）
+- 自社名で出せる条件：
+  - 「The Best White Label Embedded Analytics Tools for 2026」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「Embedded Analytics Solution of the Year」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「List of White-Label Embedded Analytics Tools for Customer-Facing Analytics」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「The best white label embedded analytics tools, sorted according to the level of customization they provide.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「What is white-labeling, and why does it matter?」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「Levels of white-labeling in analytics tools」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「Standard white-labeling」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「Advanced (full) white-labeling:」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「How to evaluate white label embedded analytics tools」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「Domain white labeling (custom hostnames)」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「Advanced (full) white-labeling embedded analytics tools」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「Standard white labeling tools」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「Basic white-labeling tools」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「Microsoft Power BI Embedded」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「Tableau Embedded Analytics」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+- 再販制度：
+  - 「Different vendors achieve this to varying degrees and with different techniques, as we’ll explore in a moment. Some basic solutions only hide their logo, while advanced ones allow you extensive rebranding and even embedding analytics」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「(e.g., style individual widget chrome, button shapes, iconography to match your app). Some platforms explicitly let you inject custom CSS or override style variables, which can be very useful for a close match.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「The recently added embedding SDK (available in Enterprise too) gives more control by letting you embed individual components and tweak styling via CSS variables, which moves it toward advanced territory.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「and has modules that let you embed content in various ways.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「This SDK (available on Pro/Enterprise) gives much finer control – you can embed individual charts or even their full query builder as native elements, apply CSS variables to restyle components, and override certain interactions. This moves Metabase closer to the “standard” category for customization, but using the SDK requires a React front-end and coding.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「That makes Toucan particularly interesting for ISVs, reseller models or products where one analytics deployment may need to support multiple customer brands.」（https://www.luzmo.com/blog/white-label-embedded-analytics-platforms）
+  - 「It varies by vendor and it is the most common procurement surprise. Sisense puts white-labeling on its Grow and Scale tiers rather than Launch, and several of Metabase's deeper theming and authenticated modular embedding features sit in Pro or Enterprise. Confirm the specific surfaces you need, including custom domains, branded email and self-service, against the plan actually being quoted.」（https://www.luzmo.com/blog/white-label-embedded-analytics-platforms）
+  - 「. You can also experiment with a variety of examples and use cases in the」（https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html）
+  - 「Subscribe to various events fired within Sisense」（https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html）
+  - 「Additionally, timing your code execution correctly is enabled by using not just the promises of actions, but also various events that indicate a change in the iFrame's state, such as」（https://developer.sisense.com/guides/embeddingDashboards/embed-sdk.html）
+  - 「APRYSE PARTNER PROGRAM」（https://apryse.com/partners）
+  - 「As the global leader in document processing technology, Apryse provides developers, enterprise customers and small businesses the right SDK for any platform so they can reach their document goals faster. Our partner program is designed for those looking to extend these benefits to their clients.」（https://apryse.com/partners）
+  - 「Whether you are looking to resell, integrate or innovate. We have something for everyone.」（https://apryse.com/partners）
+  - 「Become the connection point between Apryse and Resellers, creating an expanded approach to giving customers Best in Class Document Management.」（https://apryse.com/partners）
+  - 「Join the Partner Program Today」（https://apryse.com/partners）
+- 黒字・収益性：
+  - 「DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS, LOSS OF PROFITS, OR THE LIKE), WHETHER」（https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf）
+- 売上：
+  - 「Cloud-Native CAD 2025 Wins: Revenue Growth, Real-Time Collaboration, Unified CAD-CAM」（https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam）
+  - 「delivered some remarkable results in 2025. Companies switching to online 3D CAD design posted some dramatic outcomes: Revenue growth year-over-year, faster collaboration, complete elimination of IT overhead, and a more integrated workflow between engineering and manufacturing.」（https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam）
+  - 「AE Inc. grew revenue by eliminating constraints. K2 cut feedback cycles through real-time collaboration. CAM Studio unified workflows that had been split for decades.」（https://www.onshape.com/en/blog/cloud-native-cad-wins-revenue-growth-real-time-collaboration-unified-cad-cam）
+  - 「Integrate the latest 3D model visualization capabilities into your applications economically and quickly with flexible licensing arrangements and comprehensive support services.」（https://www.siemens.com/en-us/products/plm-components/3d-visualization-sdk/）
+  - 「To add switching 3D views, you only need to create an array of views names (their order is important)」（https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf）
+  - 「4.DISCLAIMER OF WARRANTY」（https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf）
+- 価格：
+  - 「$2,000/month」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「– you must budget for at least $500/month Pro plan (plus $10 per viewer per month) to remove logos and get interactive embedding.」（https://embeddable.com/blog/white-label-embedded-analytics-tools）
+  - 「, starting from €1,995 per month billed annually, combining a platform fee with adoption-based usage. White-labeling, self-service analytics, AI and APIs are included in the product from day one rather than unlocked through a higher feature tier.」（https://www.luzmo.com/blog/white-label-embedded-analytics-platforms）
+  - 「Since integrating IMG.LY’s editor, we now deliver 30,000+ ad creatives per month, dramatically shorten time-to-launch, and help our clients cut design spend by up to $10,000 per month.」（https://img.ly/capabilities/embeddable-editor/）
+  - 「Low-volume molding up to 100,000+ parts with volume pricing available—no MOQ required」（https://www.protolabs.com/）
+- 検索結果の抜粋：
+  - 「web- cad - sdk -reference.pdf - ComponentSource CDN — web- cad - sdk -reference.pdf - ComponentSource CDN ComponentSource PDF https://origin2.cdn.componentsource.com > resources」（https://origin2.cdn.componentsource.com/sites/default/files/resources/cadsofttools/560211/web-cad-sdk-reference.pdf）
+- 日本対応：記載なし（読んだ56頁・検索18回）

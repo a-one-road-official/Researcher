@@ -1,0 +1,1118 @@
+{
+ "name": "受託加工の設備の稼働率・生産能力指数の推移",
+ "en": "capacity utilization index Japan manufacturing time series",
+ "aliases": [
+  "鉱工業指数 稼働率指数 推移",
+  "生産能力指数 推移 金属製品",
+  "設備稼働率 中小製造業 推移"
+ ],
+ "context": "全体・能力",
+ "kind": "market",
+ "researched_at": "2026-11-05T00:52:29.496761+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "生産年齢人口（15〜64歳・米国・月次）",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "16歳以上の民間人口（米国・月次）",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "第３次産業総合 広義対個人サービス 広義対事業所サービス(2019-2020年平均=100)",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る事業所（国に属する事業所および従業者3人以下の",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ただし，従業者3人以下の事業所を除く",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全数調査が行われない年でも，中分類では3人以下",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品目編 従業者4人以上の事業所について，それぞれの事業所の製造品および加工品を品目別に集計したもの",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者4人以上の事業所について，日本標準産業分類に基",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "市区町村編 従業者4人以上の事業所について，主要な調査項目を市区町村別に集計したもの",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業地区編 従業者4人以上の事業所について，主要な調査項目を都道府県別，工業地区別に集計したもの",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者30人以上の事業所について，工業用地・工業用水に",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業統計編 従業者4人以上の事業所について，事業所単位の調査結果を企業単位に組み替え集計したもの",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：有形固定資産投資総額は従業者30人以上の事業所",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（従業者４人以上の事業所）",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者30人以上の事業所については以下のように",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者10 ～ 29人の事業所については， 特定年次 （西",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者9人以下の事業所については，在庫の調査を",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（4）法人企業，個人企業，組合・その他別の製造品",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産年齢人口（15〜64歳・米国・月次）",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "16歳以上の民間人口（米国・月次）",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "1人当たりGDP（名目USD）国際比較",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たり購買力平価GDP 国際比較",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "就業者1人当たりGDP（労働生産性）国際比較",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たりGNI（名目USD）国際比較",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たり購買力平価GNI 国際比較",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たり購買力平価GDP 国際比較（IMF）",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たりCO2排出量 国際比較",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "（6）付加価値額",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表5 従業員規模別付加価値額算出方法",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "四半期別総合季節調整済指数：付加価値額生産（平成17年＝100.0）",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たりGDP（名目USD）国際比較",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たり購買力平価GDP 国際比較",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "就業者1人当たりGDP（労働生産性）国際比較",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たりGNI（名目USD）国際比較",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たり購買力平価GNI 国際比較",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たり購買力平価GDP 国際比較（IMF）",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たりCO2排出量 国際比較",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "【2026年最新】日本の製造工業生産能力・稼働率指数推移グラフ（月次）| 経済まるみえ",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "生産能力指数は保有設備の最大生産能力を、稼働率指数は実際の操業水準を2020年基準（=100）で示します",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "製造工業生産能力指数 2020年基準",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "製造工業稼働率指数 2020年基準",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月: 94.7（製造工業生産能力指数 2020年基準）経済産業省「製造工業生産能力・稼働率指数」の最新公表値であり、詳しい内訳はページ上部のグラフ・データテーブルで確認できます",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "生産能力 -0.6",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "稼働率 2.3",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "稼働率 生産能力(右軸)(2020=100)",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この指標は、経済産業省が作成・公表する製造工業の稼働率指数で、生産量と生産能力の比を指数化したものです（季節調整済＝X-12-ARIMA）",
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "pass": 3
+   },
+   {
+    "quote": "公表値は生産量と生産能力の比を指数化（季節調整済＝X-12-ARIMA）の動きを示し、単月値だけでなく数カ月の方向感を併せて読むことで実務判断に使いやすくなります",
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "pass": 3
+   },
+   {
+    "quote": "生産量と生産能力の比を指数化（季節調整済＝X-12-ARIMA）",
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "pass": 3
+   },
+   {
+    "quote": "なら、日本 製造業稼働率指数を含む 約 30 種類のサプライチェーン指標を一画面で追えます",
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "pass": 3
+   },
+   {
+    "quote": "注：有形固定資産投資総額は従業者30人以上の事業所",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（9）設備投資額（従業者30人以上の事業所）",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（10）有形固定資産額の現在額",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "状況，各種設備の生産能力の動向，生産の先行き2か",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（5）稼働率指数",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（6）生産能力指数",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】設備稼働率（米国）推移グラフ（月次・FREDデータ）| 経済まるみえ",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "FRBが鉱工業生産指数と、業界調査などから推計した生産能力指数をもとに算出し、毎月中旬に「G.17」レポートで公表します",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "2026-09の設備稼働率（米国）は76.9%（季節調整済み）です",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "例1．汎用・業務用機械工業の稼働率指数の推移",
+    "url": "https://jp.gdfreak.com/meta/jp/iip_ipcor.html",
+    "pass": 3
+   },
+   {
+    "quote": "例2．化学工業の生産能力指数の推移",
+    "url": "https://jp.gdfreak.com/meta/jp/iip_ipcor.html",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "【2026年最新】日本の製造工業生産能力・稼働率指数推移グラフ（月次）| 経済まるみえ",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "長期金利（10年国債利回り）",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "10年ブレークイーブン・インフレ率（米国・日次）",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "10年期待インフレ率（クリーブランド連銀推計・米国・月次）",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "米国10年国債利回り（日次）",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "米国10年実質金利（TIPS利回り・日次）",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "10年実質金利（クリーブランド連銀推計・米国・月次）",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "10年タームプレミアム（キム・ライト・モデル・米国・日次）",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "米国10年-2年国債利回り差（イールドカーブ・日次）",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "米国10年-3ヶ月国債利回り差（日次）",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "米国10年国債利回り−FF金利（日次）",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "社債スプレッド（Baa格−10年国債・米国・日次）",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造工業生産能力・稼働率指数推移グラフ",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "生産能力指数は保有設備の最大生産能力を、稼働率指数は実際の操業水準を2020年基準（=100）で示します",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "稼働率が高水準で推移している場合は設備投資拡大のシグナルとなり、逆に低下が続く場合は減産や設備廃棄による能力縮小を示します",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年=100",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "製造工業生産能力指数 2020年基準",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "製造工業稼働率指数 2020年基準",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月21日",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1-3月期",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【鉱工業生産・出荷・在庫・在庫率指数の推移】",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2018 2019 2020 2021 2022 2023 2024 2025",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産 出荷 在庫 在庫率(2020=100)",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023 2024 2023 2024 2025",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(前年比寄与度／前期比寄与度、%p)",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1-3月期 上昇／低下に寄与した業種",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20222023 2023 2024",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "稼働率 生産能力(右軸)(2020=100)",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2020=100)",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【輸出／国内向け鉱工業出荷指数の推移】 【鉱工業出荷の変動要因分解】",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出荷 輸出 国内(2020=100)",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20232024 2023 2024 2025",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【鉱工業総供給指数の推移】 【鉱工業総供給の変動要因分解】",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総供給 輸入 国産(2020=100)",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【第３次産業活動指数の推移】",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３次産業総合 広義対個人サービス 広義対事業所サービス(2019-2020年平均=100)",
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2018 年 10 月: 取得期間内の最高値（月次） 121.4 Index",
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "pass": 3
+   },
+   {
+    "quote": "2020 年 5 月: 取得期間内の最低値（月次） 81.5 Index",
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "pass": 3
+   },
+   {
+    "quote": "81.5 〜 121.4 Index（取得期間: 2018 年 1 月〜2026 年 4 月）",
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "pass": 3
+   },
+   {
+    "quote": "観測期間では81.5〜121.4 Indexの範囲で推移しています",
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "pass": 3
+   },
+   {
+    "quote": "この指標の「今の値」と推移をダッシュボードで確認する",
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "pass": 3
+   },
+   {
+    "quote": "記事で解説した指標は、Supply Chain Intelligence の指標ダッシュボードで最新値と推移を確認できます",
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "pass": 3
+   },
+   {
+    "quote": "2025-06-28",
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "pass": 3
+   },
+   {
+    "quote": "2025-04-07",
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年4月2日発令】トランプ関税の総まとめ（関税率,各国との貿易収…",
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "pass": 3
+   },
+   {
+    "quote": "【2022年版】海運企業上場7社 企業の特徴を徹底比較",
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "pass": 3
+   },
+   {
+    "quote": "実 数 前年比 実 数 前年比 金 額 前年比 金 額 前年比",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金 額 前年比 金 額 前年比 金 額 前年比",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表4 「工業統計調査」時系列データ表4 「工業統計調査」時系列データ",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表7 「生産動態統計」時系列表",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新たに生産数量が増加しているという数値は業界団",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "鉱工業生産活動の全体的な水準の推移を示すもの",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "在庫とその出荷の比率の推移を見ることにより，",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】設備稼働率（米国）推移グラフ（月次・FREDデータ）| 経済まるみえ",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "長期金利（10年国債利回り）",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "10年ブレークイーブン・インフレ率（米国・日次）",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "10年期待インフレ率（クリーブランド連銀推計・米国・月次）",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "米国10年国債利回り（日次）",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "米国10年実質金利（TIPS利回り・日次）",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "10年実質金利（クリーブランド連銀推計・米国・月次）",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "日銀短観 雇用人員判断DI（人手不足業種別）",
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "pass": 3
+   },
+   {
+    "quote": "生産・物流（工場の生産活動、海運、納期、在庫の流れ）",
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業設備稼働率が上がっているときは、生産が設備能力に対して逼迫している（操業度が高い）状態で、需要の強さと供給余力の低下を示します",
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業設備稼働率が下がっているときは、設備に稼働余力が生じている（操業度が低い）状態で、需要の鈍化や減産を示します",
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "pass": 3
+   },
+   {
+    "quote": "A. 製造業設備稼働率が上がっているときは、生産が設備能力に対して逼迫している（操業度が高い）状態で、需要の強さと供給余力の低下を示します",
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "pass": 3
+   },
+   {
+    "quote": "日銀短観 雇用人員判断DI（人手不足業種別）",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "と合わせて確認することで、日米の生産設備の余力を比較できます",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "数値が上昇すると生産設備がフル稼働に近づいている（需給が逼迫している）こと、低下すると設備に余力がある（需要が弱い）ことを意味します",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "と比較して日米の生産余力の差を把握できます",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   },
+   {
+    "quote": "稼働率が高いほど生産設備に余力がなく、需給が逼迫していることを示します",
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "（5）産業別の企業数",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象となっている事業所数は，約2万である",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1）被災地域の製造業事業所の事業所数は約31,000",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "（1）製造品出荷額",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2）製造品出荷額等",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（3）生産額",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（11）加工賃収入額",
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00550320",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi-solutions-east.co.jp/owndmedia/dataanalytics_col/column1/column01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/toppage/report/minikeizai/kako/20161024zu.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.tradingeconomics.com/united-states/capacity-utilization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brains-tech.co.jp/impulse/blog/equipment-utilization-rate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murc.jp/library/economyresearch/periodicals/graph_month/watch_2412/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujifilm.com/fb/ja/solutions/columns/monozukuri-3523",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://research.konicaminolta.com/jp/column/uptime/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hirosho.com/column/p942/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550320",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00550320&tstat=000001022885&tclass1=000001205861",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/result/b2020_202412kj.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/20250522seminar.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://data-seisaku.com/00550-meti-00550320/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/getsurei/2018/12shihyou/shihyou1-7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lanes.info/jp-mfg-capacity-util/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550320&tstat=000001022885",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.tradingeconomics.com/japan/capacity-utilization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fa-products.jp/column/factory-operating-rate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiko-xtech.co.jp/daiko-plus/production-control/visualization-of-operating-status/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsme.or.jp/kikainenkan2023/chap01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keizai-marumie.com/fred_capacity_utilization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaizen-base.com/column/31500",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/meta/jp/iip_ipcor.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/result/pdf/press/b2020_202405nj.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/result/pdf/press/b2020_202507nj.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/nihon/g1908.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nichidaifilter.co.jp/column/column-2841/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00550320&tstat=000001022885&page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dashboard.e-stat.go.jp/graph?screenCode=00120",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/categories/33090?t=japan",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/series/BSCURT02JPQ160S",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tradingeconomics.com/japan/capacity-utilization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/iip/index.html",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託加工の設備の稼働率・生産能力指数の推移",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search?toukei=00550320",
+    "https://www.hitachi-solutions-east.co.jp/owndmedia/dataanalytics_col/column1/column01/",
+    "https://www.meti.go.jp/statistics/toppage/report/minikeizai/kako/20161024zu.html",
+    "https://jp.tradingeconomics.com/united-states/capacity-utilization",
+    "https://www.brains-tech.co.jp/impulse/blog/equipment-utilization-rate/",
+    "https://www.murc.jp/library/economyresearch/periodicals/graph_month/watch_2412/",
+    "https://hirosho.com/column/p942/",
+    "https://research.konicaminolta.com/jp/column/uptime/",
+    "https://www.fujifilm.com/fb/ja/solutions/columns/monozukuri-3523",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550320"
+   ]
+  },
+  {
+   "query": "受託加工の設備の稼働率・生産能力指数の推移 推移",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search?toukei=00550320",
+    "https://www.hitachi-solutions-east.co.jp/owndmedia/dataanalytics_col/column1/column01/",
+    "https://www.meti.go.jp/statistics/toppage/report/minikeizai/kako/20161024zu.html",
+    "https://jp.tradingeconomics.com/united-states/capacity-utilization",
+    "https://www.murc.jp/library/economyresearch/periodicals/graph_month/watch_2412/",
+    "https://www.brains-tech.co.jp/impulse/blog/equipment-utilization-rate/",
+    "https://www.fujifilm.com/fb/ja/solutions/columns/monozukuri-3523",
+    "https://research.konicaminolta.com/jp/column/uptime/",
+    "https://hirosho.com/column/p942/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550320"
+   ]
+  },
+  {
+   "query": "受託加工の設備の稼働率・生産能力指数の推移 統計 PDF",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search?toukei=00550320",
+    "https://www.meti.go.jp/statistics/tyo/iip/result/b2020_202412kj.html",
+    "https://www.hitachi-solutions-east.co.jp/owndmedia/dataanalytics_col/column1/column01/",
+    "http://www.etisa.or.jp/20250522seminar.pdf",
+    "https://data-seisaku.com/00550-meti-00550320/",
+    "https://www5.cao.go.jp/keizai3/getsurei/2018/12shihyou/shihyou1-7.pdf",
+    "https://www.brains-tech.co.jp/impulse/blog/equipment-utilization-rate/",
+    "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "https://lanes.info/jp-mfg-capacity-util/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550320"
+   ]
+  },
+  {
+   "query": "受託加工の設備の稼働率・生産能力指数の推移 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search?toukei=00550320",
+    "https://www.hitachi-solutions-east.co.jp/owndmedia/dataanalytics_col/column1/column01/",
+    "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "https://www.jstage.jst.go.jp/article/johokanri/54/12/54_12_836/_pdf",
+    "https://jp.tradingeconomics.com/japan/capacity-utilization",
+    "https://fa-products.jp/column/factory-operating-rate/",
+    "https://www.daiko-xtech.co.jp/daiko-plus/production-control/visualization-of-operating-status/",
+    "https://data-seisaku.com/00550-meti-00550320/",
+    "https://www.jsme.or.jp/kikainenkan2023/chap01/"
+   ]
+  },
+  {
+   "query": "受託加工の設備の稼働率・生産能力指数の推移 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search?toukei=00550320",
+    "https://www.hitachi-solutions-east.co.jp/owndmedia/dataanalytics_col/column1/column01/",
+    "https://www.meti.go.jp/statistics/tyo/iip/result/b2020_202412kj.html",
+    "https://www.murc.jp/library/economyresearch/periodicals/graph_month/watch_2412/",
+    "https://jp.tradingeconomics.com/united-states/capacity-utilization",
+    "https://www.brains-tech.co.jp/impulse/blog/equipment-utilization-rate/",
+    "https://keizai-marumie.com/fred_capacity_utilization/",
+    "https://www.fujifilm.com/fb/ja/solutions/columns/monozukuri-3523",
+    "https://kaizen-base.com/column/31500",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550320"
+   ]
+  },
+  {
+   "query": "受託加工の設備の稼働率・生産能力指数の推移 1人当たり 万円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search?toukei=00550320",
+    "https://www.hitachi-solutions-east.co.jp/owndmedia/dataanalytics_col/column1/column01/",
+    "https://kaizen-base.com/column/31500",
+    "https://www.meti.go.jp/statistics/tyo/iip/result/b2020_202412kj.html",
+    "https://nichidaifilter.co.jp/column/column-2841/",
+    "https://www.brains-tech.co.jp/impulse/blog/equipment-utilization-rate/",
+    "https://research.konicaminolta.com/jp/column/uptime/",
+    "https://fa-products.jp/column/factory-operating-rate/",
+    "https://www.fujifilm.com/fb/ja/solutions/columns/monozukuri-3523",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550320"
+   ]
+  },
+  {
+   "query": "受託加工の設備の稼働率・生産能力指数の推移 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/iip/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550320",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550320&tstat=000001022885",
+    "https://jp.gdfreak.com/meta/jp/iip_ipcor.html",
+    "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "https://dashboard.e-stat.go.jp/graph?screenCode=00120",
+    "https://www.stat.go.jp/data/nihon/g1908.html"
+   ]
+  },
+  {
+   "query": "capacity utilization index Japan manufacturing time series Japan statistics",
+   "results": [
+    "https://fred.stlouisfed.org/categories/33090?t=japan",
+    "https://fred.stlouisfed.org/series/BSCURT02JPQ160S",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://tradingeconomics.com/japan/capacity-utilization",
+    "https://www.e-stat.go.jp/en",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?toukei=00550320&tstat=000001022885&page=1"
+   ]
+  },
+  {
+   "query": "site:note.com 受託加工の設備の稼働率・生産能力指数の推移",
+   "results": [
+    "https://note.com/mieruka_system/n/n9d41a92833ab",
+    "https://note.com/ever_jobs/n/nedfe9df98783",
+    "https://note.com/deft_agapan1214/n/nb76a8a330634",
+    "https://note.com/chic_deer1160/n/n8f57bbf70a7e",
+    "https://note.com/chic_deer1160/n/ndc2894e53904",
+    "https://note.com/trendsworld24/n/n0eff991f15c5",
+    "https://note.com/muratamasashi/n/nbc074944c754"
+   ]
+  },
+  {
+   "query": "site:x.com 受託加工の設備の稼働率・生産能力指数の推移",
+   "results": [
+    "https://x.com/Sankei_news/status/2062367658574803271",
+    "https://x.com/Sankei_news/status/2047232437424635990",
+    "https://x.com/amc_corporation/status/2076955921079755143",
+    "https://x.com/nikkei_4451/status/2080186940490764759",
+    "https://x.com/hakoo_observer_/status/2091916365594849753",
+    "https://x.com/Sankei_news/status/2059548447301386523",
+    "https://x.com/stock_unknown/status/2077536674155016409"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 受託加工の設備の稼働率・生産能力指数の推移",
+   "results": [
+    "https://jp.linkedin.com/pulse/オペレーション戦略-孝明-倉澤",
+    "https://jp.linkedin.com/pulse/設備保全におけるkpiとは-tomoto-takahashi-huo1c",
+    "https://jp.linkedin.com/posts/哲郎-池田-aa7a042a_製造工業生産能力指数-947-前月比00-横ばい-製造工業稼働率指数-1077-activity-7506865900789272576-cLic",
+    "https://www.linkedin.com/posts/kyamauchi1989_今月のグラフ2024年12月縮小する日本メーカーの国内生産能力-三菱ufj-activity-7290142041831878656-spbP",
+    "https://jp.linkedin.com/pulse/電子機器受託製造サービス-marketの現状分析と将来の成長可能性2026年から2033年にかけて年平均成長率cagr124が予測されています-dlsxe",
+    "https://jp.linkedin.com/posts/美徳-鈴木-376180160_oeeは設備の数字ではなく経営の数字である-稼働率だけでは見えない設備-activity-7509023366662496257-8FWz",
+    "https://jp.linkedin.com/pulse/digitizing-planning-production-contract-manufacturers-thomas-mba-diodc?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 受託加工の設備の稼働率・生産能力指数の推移",
+   "results": [
+    "https://www.facebook.com/keizaikaiseki/posts/1501287923459631/",
+    "https://www.facebook.com/shikihojp/posts/アルプス技研4641稼働率推移更新のお知らせ-最新の月次実績をチェック-会社四季報オンライン/1547218526650972/",
+    "https://www.facebook.com/japanese.cri/videos/工業情報化部-パワーショベル指数が経済の原動力を示す/638062374506435/",
+    "https://www.facebook.com/amd.jp/videos/生産性を高めるためにはやはり加工機の稼働率を上げることが重要ですね段取り安定加工を支援する最先端の支援機能レーザインテグレーションシステムlisは経験やスキルに/994920222093261/",
+    "https://www.facebook.com/KeizaiDoyukaiOfficial/photos/経済同友会は-経営者-を対象とした2026年3月第156回景気定点観測アンケート調査の結果を発表️-中東情勢-悪化後初の調査で景気判断指数見通しは2021年9月/1492183279614264/",
+    "https://www.facebook.com/MitsubishiElectric.LAS/photos/事例紹介iq-care-remote4u活用による業務改善稼働率向上-三和株式会社様では稼働率向上の目標を達成するためのツールとして当社リモートサービスのiq-/445209783646317/",
+    "https://www.facebook.com/kabushiki104/posts/乃村工藝社受注高９１９億円受注残高８８８億円で過去最高２７年２月期は営業増益年間４４円配当を計画決算分析-万博関連案件の反動で中間期は減益もホテル改装大型店舗の/1567271885200113/"
+   ]
+  },
+  {
+   "query": "受託加工の設備の稼働率・生産能力指数の推移 note 社長",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550320",
+    "https://www.e-stat.go.jp/stat-search/files?toukei=00550320&tstat=000001022885&page=1",
+    "https://note.com/mieruka_system/n/n9d41a92833ab",
+    "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "https://note.com/ever_jobs/n/nedfe9df98783",
+    "https://jp.gdfreak.com/meta/jp/iip_ipcor.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/result/pdf/press/b2020_202406nj.pdf"
+   ]
+  },
+  {
+   "query": "受託加工の設備の稼働率・生産能力指数の推移 X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550320",
+    "https://www.e-stat.go.jp/stat-search/files?toukei=00550320&tstat=000001022885&page=1",
+    "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "https://jp.gdfreak.com/meta/jp/iip_ipcor.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/result/pdf/press/b2020_202607nj.pdf",
+    "https://www.meti.go.jp/statistics/tyo/iip/",
+    "https://data-seisaku.com/00550-meti-00550320/"
+   ]
+  },
+  {
+   "query": "capacity utilization index Japan manufacturing time series site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/beginners-guide-japan-capacity-management-analytics-qsy1c",
+    "https://www.linkedin.com/pulse/capacity-utilization-rate-fakhar-ghayur-awxvf",
+    "https://vn.linkedin.com/in/tinnv",
+    "https://ph.linkedin.com/in/marrodcruz",
+    "https://au.linkedin.com/company/login-nl",
+    "https://id.linkedin.com/in/ifaalifk",
+    "https://pt.linkedin.com/pulse/week-ai-openai-goes-operational-pentagon-tests-anthropic-djon-kleine-wt77f?tl=pt"
+   ]
+  }
+ ],
+ "missing": {}
+}

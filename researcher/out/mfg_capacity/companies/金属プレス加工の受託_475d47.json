@@ -1,0 +1,949 @@
+{
+ "name": "金属プレス加工の受託",
+ "en": "metal stamping industry Japan statistics",
+ "aliases": [
+  "日本金属プレス工業協会 統計",
+  "金属プレス製品製造業 事業所数 従業者",
+  "金属プレス 加工賃 推移"
+ ],
+ "context": "工法・プレス",
+ "kind": "market",
+ "researched_at": "2026-11-05T00:41:15.507577+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "海外移転が進んでおり1、国内における事業所数、従業員数等金属プレス加",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ ２ 「金属素形材製品製造業」従業者規模別統計",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ ３ 金属プレス加工業の事業所数、従業員数の推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "3.4 万人から 9.3 万人（製造業の従業員総数に占める割合は 0.4～1.1％）、",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１事業所あたりの従業員数 10 人未満の事業所が全体の約 75％を占めると",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "海外移転が進んでおり1、国内における事業所数、従業員数等金属プレス加",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300～499人 9 3615 64812 29779 16961 28969 17.9 8.0 469.2",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "500～999人 6 3950 152268 76533 23820 62362 38.5 15.8 603.0",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ ３ 金属プレス加工業の事業所数、従業員数の推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１）コスト・人材",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "図表２．１－ ４ 需要部門別（単位：百万円）販売額（平成１６年）",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ ９ 家電製品の生産額推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ １０ 生産額に対する輸出比率の推移 図表２．１－ １１ 国内出荷額に対する輸入比率の推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金型費(～500 万円／台)と金型開発期間(15 日～１ヶ月)を圧縮する",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "して算出）は約 433 万円であったのに対し、金属プレス製品製造業（アルミニウム・同合金を除く）のそれは約 369 万",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円と約 64 万円（約 15％）の差があった",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "図表２．１－ ４ 需要部門別（単位：百万円）販売額（平成１６年）",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金型費(～500 万円／台)と金型開発期間(15 日～１ヶ月)を圧縮する",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "して算出）は約 433 万円であったのに対し、金属プレス製品製造業（アルミニウム・同合金を除く）のそれは約 369 万",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円と約 64 万円（約 15％）の差があった",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "図表２．１－ ３ 金属プレス加工業の事業所数、従業員数の推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "販売額推移をみると、近年の自動車産業の好 調さから、自動車向けは上",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "向いているものの、その他の用途向けはほぼ横ばいで推移している",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ ５ 需要部門別販売額推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ ６ 需要部門別販売額推移（除く自動車、その他）",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "昨今、川下産業側技術者の現場業務に携わる 機会・経験が減少傾向にあ",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、現場のことが分かる技術者が減少していると言 われている",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ ８ 自動車の生産台数推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ ９ 家電製品の生産額推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ １０ 生産額に対する輸出比率の推移 図表２．１－ １１ 国内出荷額に対する輸入比率の推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表２．１－ １２ 家電製品の輸出額の推移 図表２．１－ １３ 家電製品の輸入額の推移",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "レス機械の台数削減、さらに成形のための搬送工程 も減少し、加工時間と",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "待され、 在来材料に加え、 プレコート材料、 樹脂複合鋼板の適用も増加し、",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "増加が見込まれるサービスロボット（清掃、警備、 介護等に使用されるロ",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る範囲で使い捨て製品が多く、今後も増加すると見 込まれている",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "載した使い捨てセンサーチップ形態が増加すると見 られ、人体に優しい高",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、ハイテン材やアルミ合金などの 難加工材の使用も増加しており、曲",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "短納期への対応としてトライ回数を減少 させるためにも、データベースを構築",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan metal stamping market generated a revenue of USD 8.5 billion in 2025 and is expected to reach USD 12.4 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of segment, blanking was the largest revenue generating process in 2025.",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Market revenue in 2025",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "2021 - 2024",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of revenue, Japan accounted for 3.3% of the global metal stamping market in 2025.",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Dec 09, 2025",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Blanking was the largest segment with a revenue share of 38.82% in 2025.",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Horizon Databook has segmented the Japan metal stamping market based on blanking, embossing, bending, coining, flanging, others process covering the revenue growth of each sub-segment from 2021 to 2033.",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Metal Stamping Market Process Outlook (Revenue, USD Billion , 2021-2033)",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Metal Stamping Market Application Outlook (Revenue, USD Billion , 2021-2033)",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Metal Stamping Market Thickness Outlook (Revenue, USD Billion , 2021-2033)",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Metal Stamping Market Press Type Outlook (Revenue, USD Billion , 2021-2033)",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Metal Stamping Market, 2021-2033 (US$B)",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan metal stamping market statistics, by process, 2021-2033 (USD Billion)",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Global Diamond Market Outlook, 2024-2030",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Global Kaolin Market Outlook, 2023-2030",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Global Stainless Steel Market Outlook, 2024-2030",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Mechanical Engineering & Heavy Industries - Stainless Steel Market Statistics, 2024 - 2030 (US$M)",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Mar 11, 2025",
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in the iron and steel production industry in Japan 2019-2024",
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in the fabricated metal products manufacturing industry in Japan 2019-2024",
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in the non-ferrous metal and products manufacturing industry Japan 2019-2024",
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "pass": 3
+   },
+   {
+    "quote": "Gross output of the basic metal producing industry in Japan 2014-2023",
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "pass": 3
+   },
+   {
+    "quote": "Iron and steel PPI in Japan 2015-2024",
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "pass": 3
+   },
+   {
+    "quote": "Export volume and value of nonferrous metals from Japan 2021-2025",
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "pass": 3
+   },
+   {
+    "quote": "Gross output of the fabricated metal producing industry in Japan 2014-2023",
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "pass": 3
+   },
+   {
+    "quote": "Number of companies in the metal manufacturing industry in Japan 2024, by segment",
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "pass": 3
+   },
+   {
+    "quote": "Major Japanese iron and steel companies 2024, by total assets",
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "pass": 3
+   },
+   {
+    "quote": "Gross output (GO) of the basic metal producing industry in Japan from 2014 to 2023 (in trillion Japanese yen)",
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "pass": 3
+   },
+   {
+    "quote": "Gross output (GO) of the fabricated metal producing industry in Japan from 2014 to 2023 (in trillion Japanese yen)",
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "pass": 3
+   },
+   {
+    "quote": "Producer price index (PPI) of iron and steel in Japan from 2015 to 2024",
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "pass": 3
+   },
+   {
+    "quote": "Number of businesses operating in the metal manufacturing industry in Japan in 2024, by segment (in 1,000s)",
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "pass": 3
+   },
+   {
+    "quote": "Leading companies in the iron and steel industry of Japan as of March 2024, by total assets (in billion Japanese yen)",
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in the iron and steel production industry in Japan 2024, by segment",
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in the fabricated metal products manufacturing industry Japan 2024 by segment",
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in the non-ferrous metal manufacturing industry in Japan 2024, by segment",
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "経営面について原価構成比でみると、直接材 料費・外注工賃・直接労務",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外注工賃 9.6 16.8",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セット製品の高度化と同時に短納期化及び低 コスト化が進展してい",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "納期などに関する厳しい要求につながり、これらへ の対応如何が今後の金",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、ユーザー企業からのコスト、精度、納期などに 関する厳しい要求への",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対応及びユーザー企業の海外 生産の進展などから、「利益なき繁忙」「限ら",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "密機器等の高度化や低コスト化、短納期化の要求に 伴って、生産工程の高",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同 時に、常に「高精度化」、「短納期化」、「低コ",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "では短納期、低コスト化が一層求められ ていることから、できる限りの工程削",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー企業からのコスト、精度、納期 に対する厳しい要求に応え、同時に",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なり、短納期化が実現しやすくなる",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、 金属プレス加工業において人に依存する部分を減らすことで、 短納期・",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "短納期、低コスト化、高精度化が求めら れていることから、できる限り起こ",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "程シミュレーションを行うことが可能と なれば、より一層の短納期や低コスト",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現在、検査作業に時間・手間・コストが かかっており、短納期及び低コスト",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "短納期への対応としてトライ回数を減少 させるためにも、データベースを構築",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産活動全体を効率化することにより短 納期・低コスト化を図るために、設",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "短納期や低コストへの要求対応から、２ ４時間プレス加工を行い、プレス機",
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.satnusa.com/ja/business/metal-stamping/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E8%A3%BD%E5%93%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/7270/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jmsa1964.com/%E5%8F%97%E8%A8%97%E3%83%BB%E8%A3%9C%E5%8A%A9%E4%BA%8B%E6%A5%AD/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stc-m.co.jp/oem.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_08_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/automotive-metal-stamping-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/automotive-metal-stamping-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/3679024",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalresearch.co.jp/reports/%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%80%81%E3%82%B7%E3%82%A7%E3%82%A2%E3%80%81%E5%8B%95%E5%90%91%E5%88%86%E6%9E%90%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/7037431",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&toukei=00550630&tstat=000001023741&tclass1=000001080196&stat_infid=000031373936",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/sei/kinzoku/result-5.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/file/06-Seisakujouhou-11800000-Shokugyounouryokukaihatsukyoku/0000171944.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/sei/kinzoku/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/2008910news-toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.tsubame.niigata.jp/soshiki/somu/1/toukei/3336.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/299047.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ma-succeed.jp/content/knowledge/post-12706",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/industries/2351301",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://baseconnect.in/companies/keyword/b8bef29f-f62f-4de1-ade5-e4da493477e3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recof.co.jp/column/useful/detail/62.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://samuraisteel.net/wp-content/uploads/2017/03/SamuraiSteel-MetalPress-Sales-170228.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ichidokiri.co.jp/column/metal-processing-subsidy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tai-gen.com/shoryokuka/press/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-kst.jp/repo903.html?srsltid=AYCX9vIF9jtiyhe2HMGG6bv3xgf9SHJOMgHeQqkgn_iXIrZOlJH3WmJ8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/yosan/r7/r6_mono.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://metalprocessing.net/contents/049",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://batonz.jp/sell_cases/bk_2400000/bk_2401004/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/1884810",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rhythm-precision.jp/media/uncategorized/a6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/japan-metal-stamping-products-consumption-vfjhf/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://japanmetalstampingequipmentmarket.docs.apiary.io/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/metal-stamping-market-112842",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属プレス加工の受託",
+   "results": [
+    "https://www.satnusa.com/ja/business/metal-stamping/",
+    "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E8%A3%BD%E5%93%81/",
+    "https://metoree.com/categories/7270/",
+    "https://jmsa1964.com/%E5%8F%97%E8%A8%97%E3%83%BB%E8%A3%9C%E5%8A%A9%E4%BA%8B%E6%A5%AD/",
+    "https://www.stc-m.co.jp/oem.html",
+    "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "https://baseconnect.in/companies/keyword/b8bef29f-f62f-4de1-ade5-e4da493477e3",
+    "https://www.kawada-ss.co.jp/entry-649/",
+    "https://www.ikeda-stamping.com/column/885",
+    "https://ts-taisei.co.jp/jigmatch/press"
+   ]
+  },
+  {
+   "query": "金属プレス加工の受託 推移",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_08_00.pdf",
+    "https://www.mordorintelligence.com/ja/industry-reports/automotive-metal-stamping-market",
+    "https://straitsresearch.com/jp/report/automotive-metal-stamping-market",
+    "https://newscast.jp/news/3679024",
+    "https://www.globalresearch.co.jp/reports/%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%80%81%E3%82%B7%E3%82%A7%E3%82%A2%E3%80%81%E5%8B%95%E5%90%91%E5%88%86%E6%9E%90%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/",
+    "https://www.atpress.ne.jp/news/7037431",
+    "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "https://www.databridgemarketresearch.com/jp/reports/global-metal-stamping-market",
+    "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "https://www.e-stat.go.jp/stat-search?toukei=00550630"
+   ]
+  },
+  {
+   "query": "金属プレス加工の受託 統計 PDF",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&toukei=00550630&tstat=000001023741&tclass1=000001080196&stat_infid=000031373936",
+    "https://www.meti.go.jp/statistics/sei/kinzoku/result-5.html",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://jmsa1964.com/%E5%8F%97%E8%A8%97%E3%83%BB%E8%A3%9C%E5%8A%A9%E4%BA%8B%E6%A5%AD/",
+    "https://www.mhlw.go.jp/file/06-Seisakujouhou-11800000-Shokugyounouryokukaihatsukyoku/0000171944.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "https://newscast.jp/news/3679024",
+    "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "https://www.e-stat.go.jp/stat-search?toukei=00550630"
+   ]
+  },
+  {
+   "query": "金属プレス加工の受託 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.meti.go.jp/statistics/sei/kinzoku/index.html",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.tsubame.niigata.jp/soshiki/somu/1/toukei/3336.html",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/299047.pdf",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.ibaraki.jp/kikaku/tokei/fukyu/tokei/sugata/jiman/seizohin.html"
+   ]
+  },
+  {
+   "query": "金属プレス加工の受託 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://ma-succeed.jp/content/knowledge/post-12706",
+    "https://www.buffett-code.com/industries/2351301",
+    "https://baseconnect.in/companies/keyword/b8bef29f-f62f-4de1-ade5-e4da493477e3",
+    "https://www.recof.co.jp/column/useful/detail/62.html",
+    "https://www.imarcgroup.com/report/ja/japan-metal-fabrication-market",
+    "https://www.tetras.uitec.jeed.go.jp/files/kankoubutu/a-130-2-03.pdf",
+    "https://www.sokeizai.or.jp/files/libs/458/202110111728118389.pdf",
+    "https://www.e-stat.go.jp/stat-search?toukei=00550630"
+   ]
+  },
+  {
+   "query": "金属プレス加工の受託 1人当たり 万円",
+   "results": [
+    "http://samuraisteel.net/wp-content/uploads/2017/03/SamuraiSteel-MetalPress-Sales-170228.pdf",
+    "https://ichidokiri.co.jp/column/metal-processing-subsidy/",
+    "https://tai-gen.com/shoryokuka/press/",
+    "https://www.tokyo-kst.jp/repo903.html?srsltid=AYCX9vIF9jtiyhe2HMGG6bv3xgf9SHJOMgHeQqkgn_iXIrZOlJH3WmJ8",
+    "https://www.mhlw.go.jp/file/06-Seisakujouhou-11800000-Shokugyounouryokukaihatsukyoku/0000171944.pdf",
+    "https://www.chusho.meti.go.jp/koukai/yosan/r7/r6_mono.pdf",
+    "https://metalprocessing.net/contents/049",
+    "https://it-hojokin.info/industry/metal/",
+    "https://mono.ipros.com/product/detail/2000210138/",
+    "https://www.agency-assist.co.jp/column/13768/"
+   ]
+  },
+  {
+   "query": "金属プレス加工の受託 2015 2025",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/automotive-metal-stamping-market",
+    "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E8%A3%BD%E5%93%81/",
+    "https://www.atpress.ne.jp/news/7037431",
+    "https://jmsa1964.com/%E5%8F%97%E8%A8%97%E3%83%BB%E8%A3%9C%E5%8A%A9%E4%BA%8B%E6%A5%AD/",
+    "https://www.coherentmarketinsights.com/ja/%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "https://batonz.jp/sell_cases/bk_2400000/bk_2401004/",
+    "https://straitsresearch.com/jp/report/automotive-metal-stamping-market",
+    "https://newscast.jp/smart/news/1884810",
+    "https://www.rhythm-precision.jp/media/uncategorized/a6"
+   ]
+  },
+  {
+   "query": "metal stamping industry Japan statistics Japan statistics",
+   "results": [
+    "https://www.grandviewresearch.com/horizon/outlook/metal-stamping-market/japan",
+    "https://www.linkedin.com/pulse/japan-metal-stamping-products-consumption-vfjhf/",
+    "https://japanmetalstampingequipmentmarket.docs.apiary.io/",
+    "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vJ94DB_CmHRK9VKrTszSXbs1Wq8S2Z_BtKTdHD7wyE0jzmL0T0D",
+    "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html",
+    "https://www.fortunebusinessinsights.com/metal-stamping-market-112842",
+    "https://www.databridgemarketresearch.com/reports/global-metal-stamping-market",
+    "https://www.jisf.or.jp/en/statistics/",
+    "https://www.imarcgroup.com/japan-metal-fabrication-market",
+    "https://www.statista.com/topics/13258/metals-industry-in-japan/"
+   ]
+  },
+  {
+   "query": "site:note.com 金属プレス加工の受託",
+   "results": [
+    "https://note.com/word_giken/n/n4ae868fe1c23",
+    "https://note.com/kigyokakushin/n/n1d77ee29a520",
+    "https://note.com/serendip_hd7318/n/ndeceb745f263",
+    "https://note.com/good_dill292/n/n86189dd3e2c7",
+    "https://note.com/niigata_nbk/n/nc5dc22c3e1b6",
+    "https://note.com/shnakan1sh1/n/n6b8df94bfdb5",
+    "https://note.com/shnakan1sh1/n/nb6a26f9ace06",
+    "https://note.com/meijihatsumeikai/n/ne52949c824f8",
+    "https://note.com/shnakan1sh1/n/n1109b8de9eb5",
+    "https://note.com/mobio_osaka/n/n4cdb311604e0"
+   ]
+  },
+  {
+   "query": "site:x.com 金属プレス加工の受託",
+   "results": [
+    "https://x.com/intermold_jp/status/2109797706755637579",
+    "https://x.com/intermold_jp/status/2115594469118812513",
+    "https://x.com/intermold_jp",
+    "https://x.com/intermold_jp/status/2113057747331953121",
+    "https://x.com/YOSHIDA_SEIKO",
+    "https://x.com/KANAGATAYA_JP",
+    "https://x.com/seavac_jpn/status/1547405296045539328",
+    "https://x.com/YOSHIDA_SEIKO/status/1887640272538116228",
+    "https://x.com/mitsuri_net",
+    "https://x.com/sangyo_web/status/2082658736473358551"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金属プレス加工の受託",
+   "results": [
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E4%BC%8A%E8%B1%86%E3%81%AE%E5%9B%BD%E5%B8%82%EF%BC%9E%E9%87%91%E5%B1%9E%E9%83%A8%E5%93%81%E3%81%AE%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5-%E6%97%A5%E6%89%95%E3%81%84ok%E3%80%90%E6%9C%AA%E7%B5%8C%E9%A8%93ok%EF%BC%81%E3%80%91%E3%82%A6%E3%83%AC%E3%82%B7%E3%82%A4%E2%98%86%E5%9C%9F%E6%97%A5%E7%A5%9D%E4%BC%91%E2%99%AA1h%E7%A8%8B%E5%BA%A6-%E6%97%A5%E3%81%AE%E6%AE%8B%E6%A5%AD%E3%81%A7%E3%81%A1%E3%82%87%E3%81%84%E7%A8%BC%E3%81%8E%EF%BC%81-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%B6%9C%E5%90%88%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-4478745964",
+    "https://jp.linkedin.com/jobs/%EC%9E%85%EC%B6%9C%EA%B8%88%EA%B1%B0%EB%9E%98%EB%82%B4%EC%97%AD%EC%84%9C%EC%9C%84%EC%A1%B0%20%E2%99%97%20%E3%89%B8%ED%86%A1%20:%20F999%20%E2%99%98%20%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EC%9E%90%EA%B2%A9%EB%93%9D%EC%8B%A4%ED%99%95%EC%9D%B8%EC%84%9C%EC%A0%9C%EC%9E%91%20%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%EC%A1%B8%EC%97%85%EC%A6%9D%EB%AA%85%EC%84%9C%EC%9C%84%EC%A1%B0,.xjw-jobs",
+    "https://jp.linkedin.com/jobs/%EC%9E%91%EC%97%85%EB%8C%80%EC%B6%9Cdb%ED%8C%90%EB%A7%A4-%EC%8B%A4%EA%B2%B0%EC%A0%9C%EB%94%94%EB%B9%84-%E2%9F%AA%ED%85%94%EB%9E%A8kr119119%E2%9F%AB-%EA%B0%9C%EC%9D%B8%EB%8F%88%EC%A0%84%EB%82%A0db-%EC%A0%95%EB%B0%80%ED%95%84%ED%84%B0%EB%A7%81.hes-jobs",
+    "https://www.linkedin.com/posts/%E4%B8%89%E8%8F%B1%E5%95%86%E4%BA%8B%E3%83%86%E3%82%AF%E3%83%8E%E3%82%B9%E3%80%80%E6%9D%B1%E4%BA%AC%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%83%BC%E3%83%BB%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9A%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC_photonix2026-photonix-additivemanufacturing-activity-7510487393712529408-56Iz",
+    "https://jp.linkedin.com/company/%E3%83%9B%E3%83%83%E3%83%86%E3%82%A3%E3%83%BC%E3%83%9D%E3%83%AA%E3%83%9E%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "https://jp.linkedin.com/jobs/%EC%84%B1%EC%A0%81%EC%A6%9D%EB%AA%85%EC%84%9C%EC%A0%9C%EC%9E%91-%EB%8C%80%EC%A0%84-%EC%95%88%EB%82%B4-%28%EC%B9%B4%ED%86%A1-f999-%ED%85%94%EB%A0%88-vcd777%29.djr-jobs",
+    "https://jp.linkedin.com/jobs/%EC%86%8C%EB%93%9D%EA%B8%88%EC%95%A1%EC%A6%9D%EB%AA%85%EC%9B%90%EC%9C%84%EC%A1%B0%20%F0%9F%92%B2%20%E3%89%B8%ED%86%A1%20:%20Z333%20%ED%85%94%EB%A0%88%20:%20VCD777%20%EF%BF%A1%20%ED%86%B5%ED%99%94%EB%82%B4%EC%97%AD%EC%84%9C%EC%9C%84%EC%A1%B0%20%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%EC%A1%B8%EC%97%85%EC%A6%9D%EB%AA%85%EC%84%9C%EC%9C%84%EC%A1%B0,.bmp-jobs",
+    "https://jp.linkedin.com/jobs/%EA%B5%AD%EB%AF%BC%EC%97%B0%EA%B8%88%EA%B0%80%EC%9E%85%EC%9E%90%EA%B0%80%EC%9E%85%EC%A6%9D%EB%AA%85%EC%9C%84%EC%A1%B0%20%EB%B9%84%EC%9A%A9%20752%20(%E3%89%B8%ED%86%A1ID%20:%20F999%20%ED%85%94%EB%A0%88%20:%20VCD777).crl-jobs",
+    "https://jp.linkedin.com/jobs/%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%A6%9D%EC%9C%84%EC%A1%B0%20%E2%96%B3%20%EC%B9%B4%ED%86%A1%20:%20F999%20%20%ED%85%94%EB%A0%88%EA%B7%B8%EB%9E%A8:%20VCD777%20%E2%96%B2%20%EC%97%B0%EA%B8%88%EB%B3%B4%ED%97%98%EB%A3%8C%EB%82%A9%EB%B6%80%ED%99%95%EC%9D%B8%EC%84%9C%EC%9C%84%EC%A1%B0%20%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%EC%A1%B8%EC%97%85%EC%A6%9D%EB%AA%85%EC%84%9C%EC%9C%84%EC%A1%B0,.akq-jobs",
+    "https://jp.linkedin.com/pulse/cnc%E9%9B%BB%E5%8B%95%E3%83%97%E3%83%AC%E3%82%B9%E3%83%96%E3%83%AC%E3%83%BC%E3%82%AD%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8F%8E%E7%9B%8A%E4%BA%88%E6%B8%AC%E3%81%A8%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC7%E3%81%AEcagr%E3%81%A72026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7-dynexax-rhxue"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金属プレス加工の受託",
+   "results": [
+    "https://www.facebook.com/INTERMOLD/posts/%E4%BB%8A%E9%80%B1%E6%9C%AB%E7%B5%82%E4%BA%86%E3%81%82%E3%81%A83%E6%97%A5%E6%97%A9%E6%9C%9F%E7%94%B3%E8%BE%BC%E5%89%B2%E5%BC%95%E3%81%A7%E5%87%BA%E5%B1%95%E6%96%99%E3%81%8C%E6%9C%80%E5%A4%A715offintermold-%E9%87%91%E5%9E%8B%E5%B1%95-%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E6%8A%80%E8%A1%93%E5%B1%95-2027%E3%81%AE%E5%87%BA%E5%B1%95%E6%96%9910off%E6%97%A9%E6%9C%9F%E7%94%B3%E8%BE%BC%E5%89%B2%E5%BC%95%E3%81%AF10%E6%9C%8831%E6%97%A5%E5%9C%9F%E3%81%A7/1722200803033340/",
+    "https://www.facebook.com/INTERMOLD/posts/6%E6%9C%88%E9%96%8B%E5%82%AC%E3%81%AEintermold%E9%87%91%E5%9E%8B%E5%B1%95%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E6%8A%80%E8%A1%93%E5%B1%95%E3%81%9D%E3%81%97%E3%81%A6%E5%88%9D%E4%BD%B5%E5%82%AC%E3%81%AEam-expo%E5%90%8D%E5%8F%A4%E5%B1%8B%E3%81%AE%E4%BA%8B%E5%89%8D%E6%9D%A5%E5%A0%B4%E7%99%BB%E9%8C%B2%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%94%E6%9D%A5%E5%A0%B4%E5%89%8D%E3%81%AB%E7%99%BB%E9%8C%B2%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E6%9D%A5%E5%A0%B4%E8%80%85%E8%A8%BC%E3%82%92%E3%81%94%E6%8C%81%E5%8F%82%E3%81%8F%E3%81%A0/936386751614753/",
+    "https://www.facebook.com/INTERMOLD/",
+    "https://www.facebook.com/INTERMOLD/posts/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E6%8A%80%E8%A1%93pr%E3%81%A7%E4%BA%8B%E6%A5%AD%E8%B2%A9%E8%B7%AF%E6%8B%A1%E5%A4%A7%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99am-expo%E6%9D%B1%E4%BA%AC%E5%87%BA%E5%B1%95%E7%94%B3%E8%BE%BC%E5%8F%97%E4%BB%98%E4%B8%AD%E6%97%A2%E5%AD%98%E3%81%AE%E5%8A%A0%E5%B7%A5%E5%B7%A5%E7%A8%8B%E3%82%92%E7%BD%AE%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%8A%A0%E5%B7%A5%E9%80%9F%E5%BA%A6%E3%82%A2%E3%83%83%E3%83%97%E3%82%84%E7%9C%81%E5%8A%9B%E5%8C%96%E3%81%AA%E3%81%A9%E6%A7%98%E3%80%85%E3%81%AA%E5%8A%B9%E6%9E%9C%E3%81%8C%E8%A6%8B%E8%BE%BC%E3%81%BE%E3%82%8C%E3%82%8B%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2a/1702050691715018/",
+    "https://www.facebook.com/INTERMOLD/posts/%E3%81%84%E3%82%88%E3%81%84%E3%82%88%E6%98%8E%E6%97%A5%E3%81%8B%E3%82%89%E9%96%8B%E5%82%AC%E6%9C%80%E5%AF%84%E3%82%8A%E9%A7%85%E3%81%AE%E9%87%91%E5%9F%8E%E3%81%B5%E9%A0%AD%E9%A7%85%E3%82%92%E9%99%8D%E3%82%8A%E3%82%8C%E3%81%B0%E3%81%93%E3%81%AE%E7%9C%8B%E6%9D%BF%E3%81%8C%E3%81%8A%E5%87%BA%E8%BF%8E%E3%81%88%E9%87%8F%E7%94%A3%E3%81%8B%E3%82%89%E8%A9%A6%E4%BD%9C%E9%87%91%E5%B1%9E%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%81%AA%E3%81%A9%E3%81%82%E3%82%89%E3%82%86%E3%82%8B%E5%8A%A0%E5%B7%A5%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%8C%E9%9B%86%E3%81%BE%E3%82%8Bintermold%E9%87%91%E5%9E%8B%E5%B1%95%E9%87%91/1536608011592621/",
+    "https://www.facebook.com/INTERMOLD/photos/intermold%E7%89%B9%E5%88%A5%E5%87%BA%E5%B1%95%E4%BC%81%E7%94%BB%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E6%88%90%E5%BD%A2%E8%87%AA%E5%8B%95%E8%BB%8A%E8%A3%BD%E9%80%A0%E3%81%AE%E5%B0%82%E9%96%80%E6%8A%80%E8%A1%93%E3%82%92%E5%BC%B7%E5%8A%9Bprintermold%E3%81%AE%E6%9D%A5%E5%A0%B4%E8%80%85%E3%81%AE%E7%B4%84%E5%8D%8A%E6%95%B0%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B%E8%87%AA%E5%8B%95%E8%BB%8A%E5%88%86%E9%87%8E%E9%96%A2%E4%BF%82%E8%80%85%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6%E8%87%AA%E7%A4%BE%E6%8A%80%E8%A1%93%E3%82%92%E3%82%A2%E3%83%94%E3%83%BC%E3%83%AB/1713277057259048/",
+    "https://www.facebook.com/INTERMOLD/posts/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%80%E3%82%A4%E3%82%AB%E3%82%B9%E3%83%88%E3%81%AE%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%E3%82%92%E7%99%BA%E4%BF%A14%E6%9C%88%E3%81%AB%E6%9D%B1%E4%BA%AC%E3%83%93%E3%83%83%E3%82%B0%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%99%E3%82%8Bintermold%E9%87%91%E5%9E%8B%E5%B1%95%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E6%8A%80%E8%A1%93%E5%B1%95am-expo%E3%81%A7%E3%81%AF%E9%87%91%E5%9E%8B%E3%82%84%E9%96%A2%E9%80%A3%E6%B7%B1%E3%81%84%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AE%E7%89%B9%E5%88%A5%E8%AC%9B%E6%BC%94%E3%82%92%E9%80%A3/1114386360481457/",
+    "https://www.facebook.com/INTERMOLD/posts/intermold2019%E9%87%91%E5%9E%8B%E5%B1%952019%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E6%8A%80%E8%A1%93%E5%B1%952019%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89%E3%81%A7%E3%81%99%E5%8F%97%E8%AC%9B%E3%81%AF%E7%84%A1%E6%96%99%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8C%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%E5%88%B6%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%E3%81%AE%E5%8F%97%E4%BB%98%E9%96%8B%E5%A7%8B/2242455692465950/",
+    "https://www.facebook.com/INTERMOLD/posts/%EF%B8%8F%E5%90%8C%E6%99%82%E9%96%8B%E5%82%AC%E5%B1%95%E7%B4%B9%E4%BB%8B%E7%8C%9B%E6%9A%91%E3%81%AF%E7%81%BD%E5%AE%B3%E4%BB%8A%E3%81%93%E3%81%9D%E5%AF%BE%E7%AD%96%E3%82%92intermold-%E9%87%91%E5%9E%8B%E5%B1%95-%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E6%8A%80%E8%A1%93%E5%B1%952026%E5%A4%A7%E9%98%AA%E5%B1%95%E3%81%A7%E3%81%AF%E6%9A%91%E3%81%95%E5%AF%BE%E7%AD%96%E3%81%AE%E5%B0%82%E9%96%80%E5%B1%95-%E7%86%B1%E4%B8%AD%E7%97%87%E5%AF%BE%E7%AD%96%E5%B1%95-%E3%82%92%E5%90%8C%E6%99%82%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E5%B9%B4%E3%80%85%E5%8E%B3%E3%81%97/1472171951369561/",
+    "https://www.facebook.com/INTERMOLD/posts/intermold%E7%89%B9%E5%88%A5%E5%87%BA%E5%B1%95%E4%BC%81%E7%94%BB%E9%80%9A%E4%BF%A1%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%82%84%E5%8D%8A%E5%B0%8E%E4%BD%93%E9%83%A8%E5%93%81%E3%81%AA%E3%81%A9%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%81%AB%E7%89%B9%E5%8C%96%E3%81%97%E3%81%A6pr%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%84%E5%8D%8A%E5%B0%8E%E4%BD%93%E9%9C%80%E8%A6%81%E3%81%AE%E9%AB%98%E3%81%BE%E3%82%8A%E3%82%92%E5%8F%97%E3%81%91%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E8%A3%BD%E9%80%A0%E6%8A%80%E8%A1%93%E3%83%95%E3%82%A7%E3%82%A2%E3%81%AE%E5%87%BA%E5%B1%95/1693760975877323/"
+   ]
+  },
+  {
+   "query": "金属プレス加工の受託 note 社長",
+   "results": [
+    "https://note.com/miyazaki_mir/n/n8523846cafb9",
+    "https://www.youtube.com/watch?v=4TY6mMS8ZsU",
+    "https://note.com/akmy/n/nfa147d40652a",
+    "https://www.satokk.com/value-not-parts/",
+    "https://www.rhythm-precision.jp/media/uncategorized/a6",
+    "https://note.com/sugi_recruit4522/n/n43c8ef6cadb7",
+    "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5/",
+    "https://jmsa1964.com/%E5%8F%97%E8%A8%97%E3%83%BB%E8%A3%9C%E5%8A%A9%E4%BA%8B%E6%A5%AD/",
+    "https://kinzoku-kakou-lab.com/articles/002-press-kakou/",
+    "https://note.com/eyar/n/neb530068b283"
+   ]
+  },
+  {
+   "query": "金属プレス加工の受託 X 投稿",
+   "results": [
+    "https://jmsa1964.com/%E5%8F%97%E8%A8%97%E3%83%BB%E8%A3%9C%E5%8A%A9%E4%BA%8B%E6%A5%AD/",
+    "https://www.youtube.com/watch?v=4LMkTfhCYVk",
+    "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E9%87%91%E5%9E%8B/",
+    "https://metoree.com/categories/7270/area/kanagawa/",
+    "https://kinzoku-kakou-lab.com/articles/002-press-kakou/",
+    "https://www.press-giken.co.jp/casestudy/",
+    "https://www.zenformerlab.com/trusting/",
+    "https://www.youtube.com/watch?v=_RGEJX4hWbE",
+    "https://www.instagram.com/reel/DNmFgVmJRXU/?hl=ja",
+    "https://www.ipros.com/cg1/受託/加工/"
+   ]
+  },
+  {
+   "query": "metal stamping industry Japan statistics site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/global-precision-metal-stamping-services-market-q55lf",
+    "https://www.linkedin.com/pulse/precision-metal-stamping-parts-market-regional-nc5jf",
+    "https://www.linkedin.com/pulse/united-states-sheet-metal-stamping-part-market-trends-vlnif",
+    "https://www.linkedin.com/pulse/metal-stamping-service-market-report-driving-growth-industry-3g1ke",
+    "https://www.linkedin.com/pulse/metal-parts-stamping-market-global-analysis-size-growth-imhse",
+    "https://www.linkedin.com/pulse/how-automation-transforming-metal-stamping-wgftf",
+    "https://www.linkedin.com/pulse/precision-cold-stamping-die-steel-market-us-dr0if",
+    "https://www.linkedin.com/pulse/europe-metal-stamping-equipment-mosaic-piecing-fib8e",
+    "https://www.linkedin.com/pulse/hot-stamper-market-us-japan-korea-europe-analysis-hkhhf",
+    "https://www.linkedin.com/pulse/metal-packaging-machinery-market-us-japan-korea-europe-wct7f"
+   ]
+  }
+ ],
+ "missing": {
+  "生産能力・設備": "記載なし（読んだ46頁・検索15回）"
+ }
+}

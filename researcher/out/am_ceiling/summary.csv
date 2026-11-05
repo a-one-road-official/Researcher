@@ -1,7 +1,7 @@
 ﻿品目,英語名,文脈,1件の単価_引用数,最大案件・上限_引用数,顧客1社の年間_引用数,受託会社の売上_引用数,用途別_引用数,価格を決める要因_引用数,読んだ頁数,記載なし項目,エラー
 金属3Dプリンター受託造形の1個単価（国内）,metal 3D printing service price per part Japan,国内・1件,60,44,51,0,60,60,45,受託会社の売上,
 金属3Dプリンター受託造形の見積・料金表（国内各社）,metal AM service bureau price list Japan,国内・1件,60,28,29,10,60,60,45,,
-金属AM受託の大型案件・最大受注（国内）,,,0,0,0,0,0,0,0,,ValueError: netloc '＃' contains invalid characters under NFKC normalization
+金属AM受託の大型案件・最大受注（国内）,large metal additive manufacturing contract Japan,国内・上限,60,60,53,54,60,60,45,,
 金属AM量産受託の年間取引額,metal AM serial production contract value,用途・量産,60,35,41,34,60,60,45,,
 航空宇宙向け金属AM部品の受託・契約額,aerospace metal additive manufacturing contract value,用途・航空宇宙,60,21,26,12,60,60,46,,
 防衛向け金属AM部品の契約額,defense metal additive manufacturing contract award,用途・防衛,43,60,19,29,60,60,45,,
@@ -11,3 +11,6 @@
 WAAM・DEDの大型受託造形,wire arc additive manufacturing service large parts price,方式・大型,60,28,17,23,60,60,48,,
 海外の金属AM受託会社の売上規模,metal additive manufacturing service bureau revenue,海外・売上上限,43,3,16,35,60,43,45,,
 金属AM受託サービス市場の規模と上位シェア,metal additive manufacturing services market size share,市場・上限,60,8,14,33,60,51,45,,
+金属3Dプリンター受託造形の公式料金表（国内各社）,metal 3D printing service price list Japan official,料金・一次,38,22,9,0,33,33,45,受託会社の売上,
+海外上場の金属AM受託会社の決算（受託売上）,listed metal additive manufacturing service company annual report revenue,海外・決算,14,5,19,23,38,27,45,,
+防衛省の金属積層造形の契約実績,Japan Ministry of Defense additive manufacturing contract,防衛・一次,3,0,2,0,12,2,45,最大案件・上限／受託会社の売上,
