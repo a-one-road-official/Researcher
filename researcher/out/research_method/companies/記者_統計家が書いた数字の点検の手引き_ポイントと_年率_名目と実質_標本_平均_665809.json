@@ -8,7 +8,7 @@
  ],
  "context": "",
  "kind": "market",
- "researched_at": "2026-11-05T18:27:00.752373+00:00",
+ "researched_at": "2026-11-05T20:26:15.664173+00:00",
  "evidence": {
   "突き合わせ・推定": [
    {
@@ -144,6 +144,284 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "実例": [
+   {
+    "quote": "These briefings, by Full Facts researcher Dr Dora-Olivia Vicol, explore two topics relevant to any communicators – especially journalists. These concise briefings, which use case studies and introduce psychological concepts, conclude with several recommendations for fact-checkers and journalists.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The articles in this series present various examples of contemporary online misinformation. But it is each article’s accompanying “recipe” for digital investigation that makes this resource uniquely useful. Each method uses free software.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This article by Deepak Adhikari, editor of South Asia Check, explains the basics of fact-checking. It is part of The Kit, a collection of short guides by Exposing the Invisible. It includes definitions of terms, uses examples, and provides additional resources. Adhikari emphasises the importance of fact-checking stories which are in the public interest.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "# NHS waiting times example — why median matters",
+    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A percentage change is impressive but the base number is tiny (e.g. 200% increase from 1 to 3 cases).",
+    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "<p>But what about cases where there's less clarity in the data -- how do we weigh significance and make close calls? Below is a simple example of data journalism with a few straightforward statistical techniques that can help reporters and editors make more accurate decisions when there is some ambiguity -- and a borderline “call” -- inherent in the numbers.</p>",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "<li>4) In cell N275, type \"Standard Error\" and in P275, \"=(P274)/(SQRT(P272))\". Here we're dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it's 0.111.</li>",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "<li>5) In cell N276, type \"Confidence Int.\" and in P276, \"=CONFIDENCE(0.05,P274,P272)\". Another built-in function, with the level of significance we're choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.</li>",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "<p>What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let's find out how far around the average of 2.686 the 95 percent confidence interval extends -- what's the range of \"average\" in our sample.</p>",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "But what about cases where there’s less clarity in the data — how do we weigh significance and make close calls? Below is a simple example of data journalism with a few straightforward statistical techniques that can help reporters and editors make more accurate decisions when there is some ambiguity — and a borderline “call” — inherent in the numbers.",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", so rules of thumb can be helpful, keeping in mind that they’re only that. In this case, what’s the percentage difference between crime rates for Oakland and the cities lower on the list? Here’s how to calculate:",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4) In cell N275, type “Standard Error” and in P275, “=(P274)/(SQRT(P272))”. Here we’re dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it’s 0.111.",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5) In cell N276, type “Confidence Int.” and in P276, “=CONFIDENCE(0.05,P274,P272)”. Another built-in function, with the level of significance we’re choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let’s find out how far around the average of 2.686 the 95 percent confidence interval extends — what’s the range of “average” in our sample.",
+    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This is pure cultural critique, and we could take it many different ways. We could read this sentence as a rant, a plea, an affirmation, a provocation, a list of examples, or any other type of expression. Maybe it’s art. But journalism is traditionally understood as “nonfiction,” so let’s take this at face value and ask whether it’s true.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The range of values plus or minus the margin of error, in this case 20% to 60%, is called the 85-percent",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It may well be that several explanations remain, in which case one tries test after test until one or other of them has a convincing amount of support.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This doesn’t mean there’s a single right answer in every case. All data analysis is really data",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "= 0.4 × 0.4 = 0.16. The definition of probability divides out the total number of cases so that probabilities are always between 0 and 1, which lets us avoid the tedious bookkeeping of counting cases directly when all we want is the final proportion. Multiplication is how you work out the probability that event A",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "We can use the logic of counting cases to work out the probability of an unlikely event happening by chance. In the winter of 1976 the United States embarked on a nationwide flu vaccination program, responding to fears of an H1N1 virus epidemic (a.k.a. swine flu). Millions of people lined up across the country to get vaccinated. But some of them got sick after, or even died.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A known genuine and two possibly forged signatures in the Howland will case. From Meier and Zabell, 1980.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "We’ll work through a small example that has the same shape as our assaults versus closing time policy question. Suppose there is a dangerous intersection in your city. Not long ago there were nine accidents in one year! But that was before the city installed a traffic light. Since the stoplight was installed there have been many fewer accidents.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "But the fundamental logic of comparing how often different possibilities would produce your observed data carries through to the most complex analyses. I hope this example gives the flavor of how a single unifying framework has been used to solve problems in medicine, cryptography, ballistics, insurance, and just about every other human activity.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Cause cannot usually be read directly from the data, no matter how much we might wish this were the case. Consider this graph of mortality versus smoking rate across different occupations:",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Here’s a more ambiguous case:",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, X causes Y and Y causes X appear the same in the data. We have to use other information to figure out the correct causal structure.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It could also be the case that some other factor Z causes both X and Y. For example, there could be something that causes a man to write about a woman’s appearance",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "of the variables you see as related. For example, overall economic growth could both reduce unemployment and increase investment. A rich country might both import a lot of chocolate—a luxury good—and fund advanced research. The reduction in crime rates after the bar’s closing time changed could be because the police began patrolling to enforce the earlier closing time.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "for a variable. For example, you could investigate the relationship between smoking and cancer while controlling for the stress of different professions. This only works if your causal model is otherwise accurate. Again, it’s a way to ask about a counterfactual: What would be the relationship between employment and investment",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In both cases, the mindset is the same: treat every claim as something to be tested, not simply repeated. Good fact-checkers are not cynical; they are methodical. They ask where a claim came from, who benefits from it, and whether the evidence actually supports it.",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Visual content spreads quickly and persuades powerfully, so it deserves its own checks. A few steps help in most cases:",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2 Office for Statistics Regulation, Misleadingness: A follow-up thinkpiece, Annex: Case examples, 2021",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Examples of administrative data that are collected anyway and then used to answer questions of public interest include",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "One example of selective quotation is the claim by then-Prime Minister Boris Johnson3 that more people were in work at the start",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "and test enough relationships, you will find some significant findings by chance (false positives). You can see an example of this in",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3 OSR, Annual Review of UK Statistics Authority Casework 2021/22, Case study – Use of employment figures, 2022",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "An example of completely unrelated data correlating by chance is illustrated on",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "changes in both of the things you are measuring. For example, a politician’s time",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "‘superfood’, it’s actually another factor (exercise, for example) that is leading to",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "example, many media outlets reported that eating processed meat every day increases the risk of bowel cancer",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "processed meat daily, an 18% increase would only mean a rise from 6 cases in 100 to 7 in 100.7,8 A change from 6 to 7 cases out of",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "familiar and known quantities can be helpful. Knowing how many electric cars there are in the UK, for example, does not tell you",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "underlying data. For example, the plots shown here all have",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "of people, for example young men in one area of the country, is also unlikely to be representative",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "As an example, 1 in 3 female surgeons who participated in a survey reported sexual assault by a colleague . However, as",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "An example of how a question’s wording or understanding could impact results comes from the most recent England and Wales",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "Consider unemployment again. A survey asks a few questions of many people, so that we can count how many people are unemployed. We can also find patterns of connection between employment status and location, education, age, and so on. To see these patterns truly, without bias, we must either count every single person or take a random sample. That is, a random sample is a",
@@ -190,56 +468,6 @@
    {
     "quote": "• Ed Humpherson for Real World Data Science, ‘Pseudo data science’ and other pitfalls: lessons from the UK’s Stats",
     "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "website URL, upload a file or enter text directly. So far the tool can read PDF, Word, Excel, HTML and TXT files. The tool can also process images in multiple formats and extract information via Optical Character Recognition.",
-    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "PDFs and printed copies of this report are available on the",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Denise Schmandt-Besserat, “Tokens and Writing: The Cognitive Development,”SCRIPTA (2009): 145–154, https://sites.utexas.edu/dsb/files/2014/01/TokensWriting_the_Cognitive_Development.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Brian Gratton and Myron P. Guttman, “Hispanics in the United States 1850–1990,” Historical Methods, 3 (2000), https://www.latinamericanstudies.org/immigration/Hispanics-US-1850-1990.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "“Sixteenth Decennial Census of the United States, Instructions to Enumerators,Population and Agriculture,” U.S. Census Bureau, 1940, https://www.census.gov/history/pdf/1940instructions.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Steven Raphael and Jens Ludwig, Evaluating Gun Policy: Effects on Crime and Violence (Chicago: Brookings Institution Press, 2003), 251–277, https://home.uchicago.edu/ludwigj/papers/Exile_chapter_2003.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Andrew Gelman, “Statistics for Cigarette Sellers,” Chance, 3 (2012), https://www.stat.columbia.edu/~gelman/research/published/ChanceEthics4.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Bikaramjit Mann and Evan Wood, “Confounding in Observational Studies Explained,” The Open Epidemiology Journal (2012), https://benthamopen.com/contents/pdf/TOEPIJ/TOEPIJ-5-18.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -552,681 +780,13 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "実例": [
-   {
-    "quote": "These briefings, by Full Facts researcher Dr Dora-Olivia Vicol, explore two topics relevant to any communicators – especially journalists. These concise briefings, which use case studies and introduce psychological concepts, conclude with several recommendations for fact-checkers and journalists.",
-    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The articles in this series present various examples of contemporary online misinformation. But it is each article’s accompanying “recipe” for digital investigation that makes this resource uniquely useful. Each method uses free software.",
-    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This article by Deepak Adhikari, editor of South Asia Check, explains the basics of fact-checking. It is part of The Kit, a collection of short guides by Exposing the Invisible. It includes definitions of terms, uses examples, and provides additional resources. Adhikari emphasises the importance of fact-checking stories which are in the public interest.",
-    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "# NHS waiting times example — why median matters",
-    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A percentage change is impressive but the base number is tiny (e.g. 200% increase from 1 to 3 cases).",
-    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "<p>But what about cases where there's less clarity in the data -- how do we weigh significance and make close calls? Below is a simple example of data journalism with a few straightforward statistical techniques that can help reporters and editors make more accurate decisions when there is some ambiguity -- and a borderline “call” -- inherent in the numbers.</p>",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "<li>4) In cell N275, type \"Standard Error\" and in P275, \"=(P274)/(SQRT(P272))\". Here we're dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it's 0.111.</li>",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "<li>5) In cell N276, type \"Confidence Int.\" and in P276, \"=CONFIDENCE(0.05,P274,P272)\". Another built-in function, with the level of significance we're choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.</li>",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "<p>What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let's find out how far around the average of 2.686 the 95 percent confidence interval extends -- what's the range of \"average\" in our sample.</p>",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "But what about cases where there’s less clarity in the data — how do we weigh significance and make close calls? Below is a simple example of data journalism with a few straightforward statistical techniques that can help reporters and editors make more accurate decisions when there is some ambiguity — and a borderline “call” — inherent in the numbers.",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", so rules of thumb can be helpful, keeping in mind that they’re only that. In this case, what’s the percentage difference between crime rates for Oakland and the cities lower on the list? Here’s how to calculate:",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "4) In cell N275, type “Standard Error” and in P275, “=(P274)/(SQRT(P272))”. Here we’re dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it’s 0.111.",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "5) In cell N276, type “Confidence Int.” and in P276, “=CONFIDENCE(0.05,P274,P272)”. Another built-in function, with the level of significance we’re choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let’s find out how far around the average of 2.686 the 95 percent confidence interval extends — what’s the range of “average” in our sample.",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This is pure cultural critique, and we could take it many different ways. We could read this sentence as a rant, a plea, an affirmation, a provocation, a list of examples, or any other type of expression. Maybe it’s art. But journalism is traditionally understood as “nonfiction,” so let’s take this at face value and ask whether it’s true.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The range of values plus or minus the margin of error, in this case 20% to 60%, is called the 85-percent",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "It may well be that several explanations remain, in which case one tries test after test until one or other of them has a convincing amount of support.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This doesn’t mean there’s a single right answer in every case. All data analysis is really data",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "= 0.4 × 0.4 = 0.16. The definition of probability divides out the total number of cases so that probabilities are always between 0 and 1, which lets us avoid the tedious bookkeeping of counting cases directly when all we want is the final proportion. Multiplication is how you work out the probability that event A",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "We can use the logic of counting cases to work out the probability of an unlikely event happening by chance. In the winter of 1976 the United States embarked on a nationwide flu vaccination program, responding to fears of an H1N1 virus epidemic (a.k.a. swine flu). Millions of people lined up across the country to get vaccinated. But some of them got sick after, or even died.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A known genuine and two possibly forged signatures in the Howland will case. From Meier and Zabell, 1980.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "We’ll work through a small example that has the same shape as our assaults versus closing time policy question. Suppose there is a dangerous intersection in your city. Not long ago there were nine accidents in one year! But that was before the city installed a traffic light. Since the stoplight was installed there have been many fewer accidents.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "But the fundamental logic of comparing how often different possibilities would produce your observed data carries through to the most complex analyses. I hope this example gives the flavor of how a single unifying framework has been used to solve problems in medicine, cryptography, ballistics, insurance, and just about every other human activity.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Cause cannot usually be read directly from the data, no matter how much we might wish this were the case. Consider this graph of mortality versus smoking rate across different occupations:",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Here’s a more ambiguous case:",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, X causes Y and Y causes X appear the same in the data. We have to use other information to figure out the correct causal structure.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "It could also be the case that some other factor Z causes both X and Y. For example, there could be something that causes a man to write about a woman’s appearance",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "of the variables you see as related. For example, overall economic growth could both reduce unemployment and increase investment. A rich country might both import a lot of chocolate—a luxury good—and fund advanced research. The reduction in crime rates after the bar’s closing time changed could be because the police began patrolling to enforce the earlier closing time.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "for a variable. For example, you could investigate the relationship between smoking and cancer while controlling for the stress of different professions. This only works if your causal model is otherwise accurate. Again, it’s a way to ask about a counterfactual: What would be the relationship between employment and investment",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In both cases, the mindset is the same: treat every claim as something to be tested, not simply repeated. Good fact-checkers are not cynical; they are methodical. They ask where a claim came from, who benefits from it, and whether the evidence actually supports it.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Visual content spreads quickly and persuades powerfully, so it deserves its own checks. A few steps help in most cases:",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2 Office for Statistics Regulation, Misleadingness: A follow-up thinkpiece, Annex: Case examples, 2021",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Examples of administrative data that are collected anyway and then used to answer questions of public interest include",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "One example of selective quotation is the claim by then-Prime Minister Boris Johnson3 that more people were in work at the start",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "and test enough relationships, you will find some significant findings by chance (false positives). You can see an example of this in",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3 OSR, Annual Review of UK Statistics Authority Casework 2021/22, Case study – Use of employment figures, 2022",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "An example of completely unrelated data correlating by chance is illustrated on",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "changes in both of the things you are measuring. For example, a politician’s time",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "‘superfood’, it’s actually another factor (exercise, for example) that is leading to",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "example, many media outlets reported that eating processed meat every day increases the risk of bowel cancer",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "processed meat daily, an 18% increase would only mean a rise from 6 cases in 100 to 7 in 100.7,8 A change from 6 to 7 cases out of",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "familiar and known quantities can be helpful. Knowing how many electric cars there are in the UK, for example, does not tell you",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "underlying data. For example, the plots shown here all have",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "of people, for example young men in one area of the country, is also unlikely to be representative",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "As an example, 1 in 3 female surgeons who participated in a survey reported sexual assault by a colleague . However, as",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "An example of how a question’s wording or understanding could impact results comes from the most recent England and Wales",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ]
- },
- "figures": {},
- "checked": {
-  "pass3": [
-   {
-    "url": "https://note.com/artemis35/n/n034b05481578",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/juicy_flea4475/n/n2035a68af2b4",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kinoppxxxx/n/n4ebd6ab2bdb9",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/mahaseg/n/n75990fd3b329",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/cat_eye/n/nd707824ea87f",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/biostat_lab/n/na4d52855b4ad",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://elib.maruzen.co.jp/elib/html/GuestLogin?1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "http://kateiscientist.com/data/nissi-hiroba/howto/saien201512.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://researchguides.journalism.cuny.edu/factchecking-verification/fact-check-your-work",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "status": "ok",
-    "method": "pdf"
-   }
-  ]
- },
- "search_log": [
-  {
-   "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） site:note.com",
-   "results": [
-    "https://note.com/artemis35/n/n034b05481578",
-    "https://note.com/juicy_flea4475/n/n2035a68af2b4",
-    "https://note.com/kinoppxxxx/n/n4ebd6ab2bdb9",
-    "https://note.com/mahaseg/n/n75990fd3b329",
-    "https://note.com/cat_eye/n/nd707824ea87f",
-    "https://note.com/biostat_lab/n/na4d52855b4ad",
-    "https://note.com/aimediaoperator/n/n54ea9e09e10c",
-    "https://note.com/honest_poppy8830/n/nb919cc871b0e",
-    "https://note.com/jitsumu_drill/n/nb44c86e9f598",
-    "https://note.com/vivid_lupine4435/n/nea84418cf8c3"
-   ]
-  },
-  {
-   "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） note",
-   "results": [
-    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt"
-   ]
-  },
-  {
-   "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） やり方",
-   "results": [
-    "https://elib.maruzen.co.jp/elib/html/BookDetail/Id/3000002669",
-    "http://kateiscientist.com/data/nissi-hiroba/howto/saien201512.pdf",
-    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt"
-   ]
-  },
-  {
-   "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） 事例",
-   "results": [
-    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt"
-   ]
-  },
-  {
-   "query": "journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS",
-   "results": [
-    "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
-    "https://researchguides.journalism.cuny.edu/factchecking-verification/fact-check-your-work",
-    "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php/",
-    "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "https://ksjhandbook.org/fact-checking-science-journalism-how-to-make-sure-your-stories-are-true/the-three-models-of-fact-checking/",
-    "https://healthjournalism.org/blog/2016/11/fact-checking-101-step-by-step-tips-to-check-for-errors-annotating-your-stories/",
-    "https://fullfact.org/training/fact-checking/",
-    "https://journaliststoolbox.ai/writing-with-numbers/"
-   ]
-  },
-  {
-   "query": "site:note.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
-   "results": [
-    "https://note.com/juicy_flea4475/n/n2035a68af2b4",
-    "https://note.com/kinoppxxxx/n/n4ebd6ab2bdb9",
-    "https://note.com/kind_rail6975/n/n2233faa496ec",
-    "https://note.com/honest_poppy8830/n/nb919cc871b0e",
-    "https://note.com/aimediaoperator/n/n54ea9e09e10c",
-    "https://note.com/vivid_lupine4435/n/nea84418cf8c3",
-    "https://note.com/cat_eye/n/nd707824ea87f",
-    "https://note.com/mahaseg/n/n75990fd3b329",
-    "https://note.com/biostat_lab/n/na4d52855b4ad",
-    "https://note.com/fancy_shrew2220/n/n2eb04bc4fcd5"
-   ]
-  },
-  {
-   "query": "site:x.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
-   "results": [
-    "https://x.com/st_data_science",
-    "https://x.com/biostat0718",
-    "https://x.com/kanautechjp/status/2113472984295862644",
-    "https://x.com/zg1300z/status/2105924511195598926",
-    "https://x.com/nuribaon/status/2056225194776400163",
-    "https://x.com/bg_takken/status/2100179516509638748",
-    "https://x.com/lawkus/status/2026830703527342124"
-   ]
-  },
-  {
-   "query": "site:linkedin.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
-   "results": [
-    "https://jp.linkedin.com/pulse/how-fake-numbers-were-spotted-using-basic-statistical-jeric-lam?tl=ja",
-    "https://jp.linkedin.com/pulse/essential-statistics-concepts-every-data-professional-samuel-oyedele-c9sef?tl=ja",
-    "https://jp.linkedin.com/pulse/from-numbers-narratives-biostatisticians-guide-yogita-kolekar-thoke-bwiif?tl=ja",
-    "https://jp.linkedin.com/pulse/valuation-meets-statistics-secret-sauce-behind-numbers-sayantan-das-vru9f?tl=ja",
-    "https://jp.linkedin.com/posts/katsushi-tamagawa_国はなぜ数えるのか-戸籍度量衡統計で読む数字の出所-activity-7505103851054886912-NW7k",
-    "https://jp.linkedin.com/pulse/cenote-32-making-numbers-count-how-avoid-boring-yoga-samsugiharja?tl=ja",
-    "https://jp.linkedin.com/pulse/statistical-revolution-how-numbers-changed-everything-jeff-kortis-vn9he?tl=ja"
-   ]
-  },
-  {
-   "query": "site:facebook.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
-   "results": [
-    "https://www.facebook.com/hashtag/媒體識讀/",
-    "https://www.facebook.com/gekkanjushoku/",
-    "https://www.facebook.com/NumberWeb/posts/この時の読売新聞の記者は記事を書いてから俺の前から消えた顔を見たらぶん殴ってやろうかと今でも思っているがあれ以来一度も姿を現わさない/1502078081934405/",
-    "https://www.facebook.com/karen0v0no1/videos/999の真実今回はheaveneseアンバサダーとしてドラマ風のショート動画を制作してみました-テーマは-数字をどう受け取るか-ニュースやsnsで流れてくる情報/4257958724471356/",
-    "https://www.facebook.com/裏首相官邸-402169233201221/photos/1946323588785770/",
-    "https://www.facebook.com/personalbrains/photos/本日6月27日はメディアリテラシーの日ですtoppointではこれまでにニュースの数字をどう読むか-統計にだまされないための22章やナンバーセンス-ビッグデータ/756043043436748/",
-    "https://www.facebook.com/ueharafund/posts/昨日読売新聞の北浦記者がブックレットを読んだうえ上原さんの写真入りの記事を書いてくださいました/1999845913589473/"
-   ]
-  },
-  {
-   "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） note 社長",
-   "results": [
-    "https://elib.maruzen.co.jp/elib/html/BookDetail/Id/3000002669",
-    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt"
-   ]
-  },
-  {
-   "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） X 投稿",
-   "results": [
-    "https://elib.maruzen.co.jp/elib/html/BookDetail/Id/3000002669",
-    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt"
-   ]
-  },
-  {
-   "query": "journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/posts/omnicalculator_making-it-count-the-journalists-guide-to-activity-6989181706452824064-OngX",
-    "https://www.linkedin.com/posts/reina-sagnip_the-journalists-guide-to-numbers-is-here-activity-6994245007498964992-IExZ",
-    "https://pe.linkedin.com/pulse/3-things-inflation-fact-checking-state-tax-rates-cupo-cfp-",
-    "https://www.linkedin.com/posts/robbin-dagle-9ab17a140_the-journalists-guide-to-numbers-is-here-activity-6988091186909519872-5juT",
-    "https://www.linkedin.com/advice/0/what-latest-fact-checking-investigative-reporting-techniques-ebhpc",
-    "https://www.linkedin.com/pulse/complete-fact-checking-process-modern-newsroom-guide-editors-singh-bxlwc",
-    "https://www.linkedin.com/posts/ereleases_prtips-datastorytelling-journalismbasics-activity-7434694381917507585-LvzJ"
-   ]
-  }
- ],
- "missing": {},
- "new_this_run": {
-  "突き合わせ・推定": [
-   {
-    "quote": "You should be skeptical of any headline that says the number of jobs in the United States has changed by fewer than about 105,000 since last month. That’s because the monthly jobs growth estimate has a",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "It couldn’t have been long before someone thought of counting by letting each of the chosen stand for 10, but millennia passed before anyone was able to estimate the accuracy of this process.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This formula makes it possible to tally the number of ways to get a sample with any particular number of unemployed people. Dividing the number of possible samples for each level of unemployment by the total of 2,118,760 possible samples gives the probability of seeing each possible unemployment estimate.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Estimated Unemployment",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". Because this interval covers a 40% range, and our best estimate is right in the middle, we say that the estimate has a margin of error of 20%. The",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "And that’s it. We’ve now calculated the margin of error on our unemployment estimate. There many different ways of phrasing our result, which all mean the same thing.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This is how we know the error in our monthly unemployment estimates. The Current Population Survey samples 150,000 people out of 300,000,000. The Bureau of Labor statistics has run the math and worked out that it’ll get within 300,000 of the true unemployment rate 90 percent of the time, which corresponds to 0.2% difference in the national unemployment rate.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Large counts are usually estimates, which differ from the true value by some amount.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "it’s very tempting to interpret something as meaningful when it could just as easily be a coincidence—especially if it makes a good story. But dumb luck is always in the running as an explanation for your data. To try to untangle chance from other factors, we can estimate the probability of sheer coincidence.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "But is it really “extremely improbable?” Nate Silver has estimated the odds:",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "your data. This comes out in the mathematical derivation of the method, which says we need to multiply our Bayes factor of 2.3 to 1 by the prior odds to get a final estimate.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "There is a lot more to say about this method of comparing the likelihood that different models generated your data. The method here only applies to multiple-choice questions, whereas real work often estimates a parameter: how",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". Thus, dying in a terrorist attack can seem just as probable as being struck by lightning even though a conservative estimate puts lighting at least ten times more likely. Telling people the actual numbers does not change this perception, because their perception is not based on numbers!",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Lifetime odds of being struck by lightning estimated at 1 in 12,000 by NOAA, based on 2004–2013 averages.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Estimated reading time: 6 minutes",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Cross-check with independent sources.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Fact-checking is a discipline built on curiosity, patience, and clear method: define the claim, find the source, cross-check, consider context, and document your work. Whether you aspire to be a reporter or simply a more informed reader, these habits matter. To keep building your skills, explore the journalism and communication courses available on Cursa.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "general population, and so there will be uncertainty in our estimate of what the population thinks about a particular issue. We",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Uncertainty can be communicated in a range of ways.10 It could be wording about a lack of data (‘this estimate is based on a small",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(‘the figure is estimated to be between 190 and 210’ instead of just ‘ 200’) or providing a range of possible scenarios that could",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "an estimated rise of 38,000 people out of work over three months. However, this figure was provided with uncertainty of ± 87,000.",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This uncertainty is over twice the size of the estimate itself, telling us to treat the estimate with caution. The range provided",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Consider unemployment again. A survey asks a few questions of many people, so that we can count how many people are unemployed. We can also find patterns of connection between employment status and location, education, age, and so on. To see these patterns truly, without bias, we must either count every single person or take a random sample. That is, a random sample is a",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The crimes that get reported are always the most serious. Content analysis has shown that coverage is biased toward victims who are young, female, white, and famous, as well as crimes which are particularly gruesome or sexual. Yet these examples are the stuff from which our perceptions are formed. it’s enough to make a media researcher weep:",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Not only is crime reporting biased in a statistical sense, but the psychological dominance of examples means that readers end up believing almost the opposite of the truth. This is a type of media bias that is seldom discussed or criticized.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Not everyone is on Twitter, not everyone is Tweeting, and even fewer are speaking on the topic of your story. This data has a bias toward certain types of people, and you don’t really know which kind of people those are. There is surely useful information to be got from social media, but it is not the same kind of information you can get from a random sample.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Ruth Hamill, Timothy DeCamp Wilson, and Richard E. Nisbett, “Insensitivity to Sample Bias: Generalizing From Atypical Cases,” Journal of Personality and Social Psychology, 4 (1980).",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Even careful professionals make mistakes. What distinguishes trustworthy journalism is how errors are handled. Correct them promptly, state clearly what was wrong, and explain what the accurate information is. Hiding or quietly deleting mistakes damages trust far more than an honest correction does.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• Beware emotional biases and confirmation bias – statistics may be shared to evoke particular emotions, and people",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• Ed Humpherson for Real World Data Science, ‘Pseudo data science’ and other pitfalls: lessons from the UK’s Stats",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "一次情報の探し方": [
+   {
+    "quote": "website URL, upload a file or enter text directly. So far the tool can read PDF, Word, Excel, HTML and TXT files. The tool can also process images in multiple formats and extract information via Optical Character Recognition.",
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
    {
     "quote": "PDFs and printed copies of this report are available on the",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
@@ -1269,546 +829,308 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "手順・やり方": [
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
    {
-    "quote": "Treating all official statistics as unimpeachably accurate — methodology notes exist for a reason.",
-    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://note.com/kinoppxxxx/n/n4ebd6ab2bdb9",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "How to read ONS and other official statistical bulletins.",
-    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://note.com/mahaseg/n/n75990fd3b329",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "How to write about numbers without misleading readers.",
-    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://note.com/biostat_lab/n/na4d52855b4ad",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "ONS — statistical concepts and methodology",
-    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://note.com/juicy_flea4475/n/n2035a68af2b4",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": ", so rules of thumb can be helpful, keeping in mind that they’re only that. In this case, what’s the percentage difference between crime rates for Oakland and the cities lower on the list? Here’s how to calculate:",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://note.com/honest_poppy8830/n/nb919cc871b0e",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://note.com/biostat_lab/n/n2441861383b3",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "How to interrogate AI regulations",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://www.altmetric.com/details/doi/10.1113/JP290572",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
-    "quote": "How to make a donation to The Journalist’s Resource",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://www.worldoftest.com/ja/print/pdf/node/6768",
+    "status": "http_403",
+    "method": "http"
    },
    {
-    "quote": "This is a book about the principles behind data journalism. Not what visualization software to use and how to scrape a website, but the fundamental ideas that underlie the human use of data. This isn’t “how to use data” but “how data works.”",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "Sometimes this is not a simple thing to do. It seems clear enough how to quantify the number of cars sold or the amount of grain exported, where counting has the feel of something objective and definite. But journalists are interested in many other things where the proper relationship between the words, the numbers, and the world is much less clear.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://www.tsukuba.ac.jp/about/disclosure-statistics/",
+    "status": "ok",
+    "method": "pdf"
    },
    {
-    "quote": "It’s not clear how census-takers were supposed to determine someone’s ancestry going back generations, or how they applied this rule in practice, or if they even read the instructions—meaning that we don’t know quite how to interpret the racial categories of the early twentieth-century census. If the collection method is obscure, so is the data.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://www.zentsuken.net/journal/file/144_5.html",
+    "status": "ok",
+    "method": "browser"
    },
    {
-    "quote": "Anyone working with friction has to choose how to quantify it.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
-    "quote": "Usually there is some end goal, some purpose to collecting data, and you can ask whether any particular quantification method serves that purpose. And you can ask about the end purpose, too, the frame of the entire thing. Different quantification methods serve different stories.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://lit.fpark.tmu.ac.jp/lit/contents/office2019/statistics/01/index.html",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "My goal is to give you the higher-level logic of the whole process of statistical analysis. For any particular problem you will need specific technical tools, but those choices must be guided by a larger framework.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://www.zentsuken.net/journal/file/173_1.html",
+    "status": "ok",
+    "method": "browser"
    },
    {
-    "quote": "The first step in data analysis is seeing the frame: the assumptions about how the data was collected and what it means.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
-    "quote": "Second, correlation. The decrease could be related to the earlier closing time without being caused by it. Perhaps the police stepped up patrols to enforce the new law, and it’s this increased presence that is reducing crime, not the new closing time itself.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
-    "quote": "There is a completely general method of accounting for chance which forms the basis of modern statistical reasoning.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
-    "quote": "Instead I’m going to walk through a specific Bayesian method, a general way to answer multiple-choice questions when the answer is obscured by randomness. My purpose is to show the basic logic of the process, and to show that this logic is commonsensical and understandable. Don’t let statistics be mysterious to you!",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://ai.laiseclair.com/learn/ai-statistics-literacy/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
    },
    {
-    "quote": "your data. This comes out in the mathematical derivation of the method, which says we need to multiply our Bayes factor of 2.3 to 1 by the prior odds to get a final estimate.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://researcherslinks.com/base/livestatistics.php?jid=20%E7%B5%85%E5%B8%91%EF%BD%A8%E3%82%86%E8%90%A9%EF%BE%8Feditorial-workflow&acid=1&aid=12675",
+    "status": "http_404",
+    "method": "http"
    },
    {
-    "quote": "There is a lot more to say about this method of comparing the likelihood that different models generated your data. The method here only applies to multiple-choice questions, whereas real work often estimates a parameter: how",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2303.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
-    "quote": "But the fundamental logic of comparing how often different possibilities would produce your observed data carries through to the most complex analyses. I hope this example gives the flavor of how a single unifying framework has been used to solve problems in medicine, cryptography, ballistics, insurance, and just about every other human activity.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://thetijproject.ca/guide/introduction/",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "Bayesian statistics is something remarkable, and I find its wide success incredible, unlikely, and almost shockingly too good to be true. You can always start from the general framework and work your way toward the details of your problem. This road demands more of the student, but it is the antidote to staring at equations and wondering if they apply.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://researchguides.journalism.cuny.edu/factchecking-verification/fact-check-your-work",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "Any claim of cause is implicitly a claim about data from a world we don’t ever get to see: a world where the cause never happened. it’s worth thinking about how to approximate this world through comparisons or modeling. Just looking for increases or decreases is not enough. As the Project Exile researchers put it:",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "Fact-checking has two related meanings. Inside a newsroom, it is the editorial step in which every checkable detail in a story, such as names, dates, titles, numbers, and quotes, is confirmed against a reliable source. Outside the newsroom, it also refers to examining public claims made by politicians, companies, or viral posts and rating how accurate they are.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://fullfact.org/about/",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "In both cases, the mindset is the same: treat every claim as something to be tested, not simply repeated. Good fact-checkers are not cynical; they are methodical. They ask where a claim came from, who benefits from it, and whether the evidence actually supports it.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "quote": "Watch for common traps: confusing percentages with percentage points, mixing totals with rates, ignoring population size, or presenting a short-term change as a long-term trend. When possible, go to the primary data from a statistics office, a research institution, or a published study, and read the methodology rather than only the headline.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Visual content spreads quickly and persuades powerfully, so it deserves its own checks. A few steps help in most cases:",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Fact-checking is a discipline built on curiosity, patience, and clear method: define the claim, find the source, cross-check, consider context, and document your work. Whether you aspire to be a reporter or simply a more informed reader, these habits matter. To keep building your skills, explore the journalism and communication courses available on Cursa.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "DC, Servo or Stepper? How to Choose the Right Motor for Your Robot",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Handle an Angry Customer: A Practical Framework for Frontline Staff",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Anger in customer service is almost never about you. Learn a five-step framework to calm the situation, solve the problem and protect yourself.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Learn what an emulsion is, why oil and water can be forced to mix, which ingredients act as emulsifiers, and how to fix a broken sauce in the kitchen.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Read a Floor Plan: A Beginner’s Guide to Construction Drawings",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Learn what the lines, symbols, scales and dimensions on a floor plan mean, and how to read construction drawings with confidence.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Master the basics of knife work: how to hold a knife safely, the essential cuts, and tips for faster, safer cooking.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Explore the most common smartphone problems, the tools technicians use, and the basic steps behind safe device repairs.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "deceiving ways. Stats can mislead — intentionally or unintentionally. It is important to know how to tell when the",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "be misleading. This is where the UK Statistics Authority steps in to promote good practice. Full Fact also independently checks",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "As well as the underlying data, the methods chosen to analyse and present statistics are also important – as we cover",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "might not be sure how good our method of measurement is (eg an instrument to measure blood pressure). If we are using data",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "10 Full Fact, How to communicate uncertainty, 2020",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "13 MRS Evidence Matters, What are opinion polls? MRS guidance on how to read opinion polls. 2020",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• Approach statistics and data with a ‘detective’ mindset – be prepared to interrogate the source, aim, methods and",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• Statistics How To, Misleading Graphs: Real Life Examples",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• Tim Harford, How to Make the World Add Up: Ten Rules for Thinking Differently about Numbers (book and",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• House of Commons Library, How to spot spin and inappropriate use of statistics, 2023",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "# NHS waiting times example — why median matters",
-    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A percentage change is impressive but the base number is tiny (e.g. 200% increase from 1 to 3 cases).",
-    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "<p>But what about cases where there's less clarity in the data -- how do we weigh significance and make close calls? Below is a simple example of data journalism with a few straightforward statistical techniques that can help reporters and editors make more accurate decisions when there is some ambiguity -- and a borderline “call” -- inherent in the numbers.</p>",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "<li>4) In cell N275, type \"Standard Error\" and in P275, \"=(P274)/(SQRT(P272))\". Here we're dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it's 0.111.</li>",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "<li>5) In cell N276, type \"Confidence Int.\" and in P276, \"=CONFIDENCE(0.05,P274,P272)\". Another built-in function, with the level of significance we're choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.</li>",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "<p>What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let's find out how far around the average of 2.686 the 95 percent confidence interval extends -- what's the range of \"average\" in our sample.</p>",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "But what about cases where there’s less clarity in the data — how do we weigh significance and make close calls? Below is a simple example of data journalism with a few straightforward statistical techniques that can help reporters and editors make more accurate decisions when there is some ambiguity — and a borderline “call” — inherent in the numbers.",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", so rules of thumb can be helpful, keeping in mind that they’re only that. In this case, what’s the percentage difference between crime rates for Oakland and the cities lower on the list? Here’s how to calculate:",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "4) In cell N275, type “Standard Error” and in P275, “=(P274)/(SQRT(P272))”. Here we’re dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it’s 0.111.",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "5) In cell N276, type “Confidence Int.” and in P276, “=CONFIDENCE(0.05,P274,P272)”. Another built-in function, with the level of significance we’re choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let’s find out how far around the average of 2.686 the 95 percent confidence interval extends — what’s the range of “average” in our sample.",
-    "url": "https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This is pure cultural critique, and we could take it many different ways. We could read this sentence as a rant, a plea, an affirmation, a provocation, a list of examples, or any other type of expression. Maybe it’s art. But journalism is traditionally understood as “nonfiction,” so let’s take this at face value and ask whether it’s true.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The range of values plus or minus the margin of error, in this case 20% to 60%, is called the 85-percent",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "It may well be that several explanations remain, in which case one tries test after test until one or other of them has a convincing amount of support.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This doesn’t mean there’s a single right answer in every case. All data analysis is really data",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "= 0.4 × 0.4 = 0.16. The definition of probability divides out the total number of cases so that probabilities are always between 0 and 1, which lets us avoid the tedious bookkeeping of counting cases directly when all we want is the final proportion. Multiplication is how you work out the probability that event A",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "We can use the logic of counting cases to work out the probability of an unlikely event happening by chance. In the winter of 1976 the United States embarked on a nationwide flu vaccination program, responding to fears of an H1N1 virus epidemic (a.k.a. swine flu). Millions of people lined up across the country to get vaccinated. But some of them got sick after, or even died.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A known genuine and two possibly forged signatures in the Howland will case. From Meier and Zabell, 1980.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "We’ll work through a small example that has the same shape as our assaults versus closing time policy question. Suppose there is a dangerous intersection in your city. Not long ago there were nine accidents in one year! But that was before the city installed a traffic light. Since the stoplight was installed there have been many fewer accidents.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "But the fundamental logic of comparing how often different possibilities would produce your observed data carries through to the most complex analyses. I hope this example gives the flavor of how a single unifying framework has been used to solve problems in medicine, cryptography, ballistics, insurance, and just about every other human activity.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Cause cannot usually be read directly from the data, no matter how much we might wish this were the case. Consider this graph of mortality versus smoking rate across different occupations:",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Here’s a more ambiguous case:",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, X causes Y and Y causes X appear the same in the data. We have to use other information to figure out the correct causal structure.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "It could also be the case that some other factor Z causes both X and Y. For example, there could be something that causes a man to write about a woman’s appearance",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "of the variables you see as related. For example, overall economic growth could both reduce unemployment and increase investment. A rich country might both import a lot of chocolate—a luxury good—and fund advanced research. The reduction in crime rates after the bar’s closing time changed could be because the police began patrolling to enforce the earlier closing time.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "for a variable. For example, you could investigate the relationship between smoking and cancer while controlling for the stress of different professions. This only works if your causal model is otherwise accurate. Again, it’s a way to ask about a counterfactual: What would be the relationship between employment and investment",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In both cases, the mindset is the same: treat every claim as something to be tested, not simply repeated. Good fact-checkers are not cynical; they are methodical. They ask where a claim came from, who benefits from it, and whether the evidence actually supports it.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Visual content spreads quickly and persuades powerfully, so it deserves its own checks. A few steps help in most cases:",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2 Office for Statistics Regulation, Misleadingness: A follow-up thinkpiece, Annex: Case examples, 2021",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Examples of administrative data that are collected anyway and then used to answer questions of public interest include",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "One example of selective quotation is the claim by then-Prime Minister Boris Johnson3 that more people were in work at the start",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "and test enough relationships, you will find some significant findings by chance (false positives). You can see an example of this in",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3 OSR, Annual Review of UK Statistics Authority Casework 2021/22, Case study – Use of employment figures, 2022",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "An example of completely unrelated data correlating by chance is illustrated on",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "changes in both of the things you are measuring. For example, a politician’s time",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "‘superfood’, it’s actually another factor (exercise, for example) that is leading to",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "example, many media outlets reported that eating processed meat every day increases the risk of bowel cancer",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "processed meat daily, an 18% increase would only mean a rise from 6 cases in 100 to 7 in 100.7,8 A change from 6 to 7 cases out of",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "familiar and known quantities can be helpful. Knowing how many electric cars there are in the UK, for example, does not tell you",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "underlying data. For example, the plots shown here all have",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "of people, for example young men in one area of the country, is also unlikely to be representative",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "As an example, 1 in 3 female surgeons who participated in a survey reported sexual assault by a colleague . However, as",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "An example of how a question’s wording or understanding could impact results comes from the most recent England and Wales",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "url": "https://libguides.calstatela.edu/c.php?g=1339340&p=9871561",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
- "runs": 3,
+ "search_log": [
+  {
+   "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） site:note.com",
+   "results": [
+    "https://note.com/kinoppxxxx/n/n4ebd6ab2bdb9",
+    "https://note.com/mahaseg/n/n75990fd3b329",
+    "https://note.com/biostat_lab/n/na4d52855b4ad",
+    "https://note.com/juicy_flea4475/n/n2035a68af2b4",
+    "https://note.com/honest_poppy8830/n/nb919cc871b0e",
+    "https://note.com/biostat_lab/n/n2441861383b3",
+    "https://note.com/blue_destiny27/n/n9b8e00d06f2b"
+   ]
+  },
+  {
+   "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） note",
+   "results": [
+    "https://www.altmetric.com/details/doi/10.1113/JP290572",
+    "https://www.worldoftest.com/ja/print/pdf/node/6768",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
+    "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
+    "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
+    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf"
+   ]
+  },
+  {
+   "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） やり方",
+   "results": [
+    "https://www.worldoftest.com/ja/print/pdf/node/6768",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://lit.fpark.tmu.ac.jp/lit/contents/office2019/statistics/01/index.html",
+    "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
+    "https://www.zentsuken.net/journal/file/173_1.html",
+    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
+    "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
+    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
+    "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
+    "https://www.amazon.co.jp/データ分析ってこうやるんだ-実況講義―――身近な統計数字の読み方・使い方-吉本-佳生/dp/4478026173"
+   ]
+  },
+  {
+   "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） 事例",
+   "results": [
+    "https://researcherslinks.com/base/livestatistics.php?jid=20%E7%B5%85%E5%B8%91%EF%BD%A8%E3%82%86%E8%90%A9%EF%BE%8Feditorial-workflow&acid=1&aid=12675",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
+    "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
+    "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
+    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2303.pdf"
+   ]
+  },
+  {
+   "query": "journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS",
+   "results": [
+    "https://thetijproject.ca/guide/introduction/",
+    "https://researchguides.journalism.cuny.edu/factchecking-verification/fact-check-your-work",
+    "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "https://fullfact.org/about/",
+    "https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/",
+    "https://libguides.calstatela.edu/c.php?g=1339340&p=9871561",
+    "https://ksjhandbook.org/fact-checking-science-journalism-how-to-make-sure-your-stories-are-true/the-fact-checking-process/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "https://ksjfactcheck.org/fact-checking-101-module/when-and-how-to-fact-check/",
+    "https://journaliststoolbox.ai/writing-with-numbers/"
+   ]
+  },
+  {
+   "query": "site:note.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
+   "results": [
+    "https://note.com/kinoppxxxx/n/n4ebd6ab2bdb9",
+    "https://note.com/juicy_flea4475/n/n2035a68af2b4",
+    "https://note.com/honest_poppy8830/n/nb919cc871b0e",
+    "https://note.com/kind_rail6975/n/n2233faa496ec",
+    "https://note.com/cat_eye/n/nd707824ea87f",
+    "https://note.com/aimediaoperator/n/n54ea9e09e10c",
+    "https://note.com/mahaseg/n/n75990fd3b329"
+   ]
+  },
+  {
+   "query": "site:x.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
+   "results": [
+    "https://x.com/st_data_science",
+    "https://x.com/biostat0718",
+    "https://x.com/kanautechjp/status/2113472984295862644",
+    "https://x.com/zg1300z/status/2105924511195598926",
+    "https://x.com/nuribaon/status/2056225194776400163",
+    "https://x.com/bg_takken/status/2100179516509638748",
+    "https://x.com/shiho_toushi/status/2091714724794945737"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
+   "results": [
+    "https://jp.linkedin.com/pulse/how-fake-numbers-were-spotted-using-basic-statistical-jeric-lam?tl=ja",
+    "https://jp.linkedin.com/pulse/essential-statistics-concepts-every-data-professional-samuel-oyedele-c9sef?tl=ja",
+    "https://jp.linkedin.com/pulse/from-numbers-narratives-biostatisticians-guide-yogita-kolekar-thoke-bwiif?tl=ja",
+    "https://jp.linkedin.com/posts/katsushi-tamagawa_国はなぜ数えるのか-戸籍度量衡統計で読む数字の出所-activity-7505103851054886912-NW7k",
+    "https://jp.linkedin.com/pulse/valuation-meets-statistics-secret-sauce-behind-numbers-sayantan-das-vru9f?tl=ja",
+    "https://jp.linkedin.com/pulse/statistical-revolution-how-numbers-changed-everything-jeff-kortis-vn9he?tl=ja",
+    "https://jp.linkedin.com/pulse/cenote-32-making-numbers-count-how-avoid-boring-yoga-samsugiharja?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
+   "results": [
+    "https://www.facebook.com/hashtag/媒體識讀/",
+    "https://www.facebook.com/ueharafund/posts/昨日読売新聞の北浦記者がブックレットを読んだうえ上原さんの写真入りの記事を書いてくださいました/1999845913589473/",
+    "https://www.facebook.com/NumberWeb/posts/この時の読売新聞の記者は記事を書いてから俺の前から消えた顔を見たらぶん殴ってやろうかと今でも思っているがあれ以来一度も姿を現わさない/1502078081934405/",
+    "https://www.facebook.com/karen0v0no1/videos/999の真実今回はheaveneseアンバサダーとしてドラマ風のショート動画を制作してみました-テーマは-数字をどう受け取るか-ニュースやsnsで流れてくる情報/4257958724471356/",
+    "https://www.facebook.com/裏首相官邸-402169233201221/photos/1946323588785770/",
+    "https://www.facebook.com/personalbrains/photos/本日6月27日はメディアリテラシーの日ですtoppointではこれまでにニュースの数字をどう読むか-統計にだまされないための22章やナンバーセンス-ビッグデータ/756043043436748/",
+    "https://www.facebook.com/naokowatanabe8848/posts/今日は北村節子さんからインタビューの依頼があり8000m峰の話や私の人生について等お話しました2007年私が田部井淳子さんからもらったメールの内容も見せましたと/1127250276071467/"
+   ]
+  },
+  {
+   "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） note 社長",
+   "results": [
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
+    "https://uketuke.eiken.or.jp/mis/M2A001",
+    "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
+    "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
+    "https://www.toukei-kentei.jp/preparation/books/",
+    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf"
+   ]
+  },
+  {
+   "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） X 投稿",
+   "results": [
+    "https://researcherslinks.com/base/livestatistics.php?jid=20%E7%B5%85%E5%B8%91%EF%BD%A8%E3%82%86%E8%90%A9%EF%BE%8Feditorial-workflow&acid=1&aid=12675",
+    "https://www.worldoftest.com/ja/print/pdf/node/6768",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
+    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
+    "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
+    "https://www.imperialpublications.com/image/catalog/testing.pdf"
+   ]
+  },
+  {
+   "query": "journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/sbailly2",
+    "https://in.linkedin.com/in/navya-asopa-ab44091b4",
+    "https://in.linkedin.com/in/nalin-mehta-06068424",
+    "https://uk.linkedin.com/in/peteraven",
+    "https://www.linkedin.com/in/andymedici",
+    "https://uk.linkedin.com/in/alan-smith-obe-37385935",
+    "https://www.linkedin.com/in/jeffrey-ptak-cfa-5977978",
+    "https://in.linkedin.com/in/makepeace-sitlhou",
+    "https://in.linkedin.com/in/shwkothari",
+    "https://www.linkedin.com/in/hilary-till"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {},
+ "runs": 4,
  "first_researched_at": "2026-11-05T13:07:35.513856+00:00"
 }

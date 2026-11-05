@@ -8,15 +8,9 @@
  ],
  "context": "分析の型",
  "kind": "market",
- "researched_at": "2026-11-05T18:32:03.190539+00:00",
+ "researched_at": "2026-11-05T20:32:23.212515+00:00",
  "evidence": {
-  "一次情報の探し方": [
-   {
-    "quote": "公的記録で企業情報を確認する方法 — 商業登記・裁判記録・官報の読み方",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
+  "突き合わせ・推定": [
    {
     "quote": "登記簿・判決検索・官報といった公的記録を使って、ネット上の企業情報を自分で裏取りする方法を、手順と限界の両面から整理しました",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
@@ -24,7 +18,7 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "その作業の中で、商業登記や裁判記録の取り寄せは定型業務だった",
+    "quote": "危機管理と情報検証の実務で、情報の真偽を判定する作業に長く関わってきた",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -36,67 +30,119 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "本記事では、誰でもアクセスできる主要な公的記録の使い方を、料金や画面遷移のレベルまで具体的に整理し、最後に公的記録では分からない領域についても触れておく",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公的記録を読む技術は、専門家でなくても身につけられる",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、公的記録に書かれていない事実は「存在しない」のではなく「公的記録には載らない種類の情報」であることが多い、という制度上の特徴も併せて意識しておきたい",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公的記録とは何か — 誰でも独立して確認できる一次情報",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "商業登記簿の読み方 — 役員・本店所在地・履歴",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "官報の読み方 — 公告から企業の動きを読む",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公的記録の限界 — 公開情報で「分からないこと」",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公的記録とは、法令に基づいて国や公的機関が作成・保有・公示する記録のことだ",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
     "quote": "商業登記・裁判記録・官報がその代表で、ネット上の主張を一次情報で裏取りする際の中核になる",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "制度の枠組みとしては、公文書管理法が公的文書の作成・整理・保存の統一ルールを定め、情報公開法が行政機関の保有する文書に対する開示請求制度を定めている",
+    "quote": "ただし、企業の裏取りで実際に使う記録の多くは、いちいち情報公開請求を出さなくても、法定の公示制度として最初から閲覧可能になっている",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "商業登記、裁判記録、官報、国税庁の法人番号公表サイトがそれにあたる",
+    "quote": "役員の就任日・退任日と本店所在地の履歴を時系列で追うことが、登記簿を企業情報の裏取りに使う基本になる",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、「履歴事項全部証明書」は現在事項に加えて過去の変更履歴も追えるので、企業の裏取りには「現在事項証明書」よりこちらを取り寄せた方がよい",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「本店所在地＝営業実態の所在地」と短絡しないことが、裏取り記事では重要だ",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際にこの方法で買取大吉と株式会社エンパワーの2社の商業登記を取り寄せ、両社の関係を独立検証した事例として",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同じ手法で、アクセスジャーナルが報じた株式会社エンパワーをめぐる9つの個別主張を項目別に登記と照合した事例として",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "いずれも、第三者が同じ手順で登記を取れば再現できる検証だ",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業の裏取りで実務上よく使うのは、まず民事・刑事・行政という事件の性質を頭で分けたうえで、画面上は統合検索または行政事件タブを使い分ける、というやり方だ",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "判決理由のどこに着目すれば、現代のネット告発の検証に橋を架けられるかを、フレームごとに示している",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的記録は強力な裏取り手段だが、設計上の限界がある",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的記録を使えば、ネット上に流通している企業情報の多くは、第三者が独立に裏取りできる",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "実際にこの方法で買取大吉と株式会社エンパワーの2社の商業登記を取り寄せ、両社の関係を独立検証した事例として",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同じ手法で、アクセスジャーナルが報じた株式会社エンパワーをめぐる9つの個別主張を項目別に登記と照合した事例として",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第3章でも、実務で取り扱った企業案件の事例とあわせて詳しく解説している",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "したがって、「登記簿に株主が出ていない」のは隠蔽ではなく、制度上の分離の結果だ",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "検索を使うときの最大の注意点は、収録範囲だ",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注意点として、2025年3月15日にサービスの提供内容が変更されており、旧A・B・Cコース（日付検索のみ1,672円、日付＋記事検索2,200円など）は同年3月31日に終了している",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「公的記録に載っていない」という事実を、その主張が事実ではないことの証明として使うのは、論理的には誤りだ",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -194,7 +240,13 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "突き合わせ・推定": [
+  "一次情報の探し方": [
+   {
+    "quote": "公的記録で企業情報を確認する方法 — 商業登記・裁判記録・官報の読み方",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
    {
     "quote": "登記簿・判決検索・官報といった公的記録を使って、ネット上の企業情報を自分で裏取りする方法を、手順と限界の両面から整理しました",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
@@ -202,7 +254,7 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "危機管理と情報検証の実務で、情報の真偽を判定する作業に長く関わってきた",
+    "quote": "その作業の中で、商業登記や裁判記録の取り寄せは定型業務だった",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -214,119 +266,67 @@
     "first_seen": "2026-11-05"
    },
    {
+    "quote": "本記事では、誰でもアクセスできる主要な公的記録の使い方を、料金や画面遷移のレベルまで具体的に整理し、最後に公的記録では分からない領域についても触れておく",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的記録を読む技術は、専門家でなくても身につけられる",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、公的記録に書かれていない事実は「存在しない」のではなく「公的記録には載らない種類の情報」であることが多い、という制度上の特徴も併せて意識しておきたい",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的記録とは何か — 誰でも独立して確認できる一次情報",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "商業登記簿の読み方 — 役員・本店所在地・履歴",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "官報の読み方 — 公告から企業の動きを読む",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的記録の限界 — 公開情報で「分からないこと」",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的記録とは、法令に基づいて国や公的機関が作成・保有・公示する記録のことだ",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
     "quote": "商業登記・裁判記録・官報がその代表で、ネット上の主張を一次情報で裏取りする際の中核になる",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ただし、企業の裏取りで実際に使う記録の多くは、いちいち情報公開請求を出さなくても、法定の公示制度として最初から閲覧可能になっている",
+    "quote": "制度の枠組みとしては、公文書管理法が公的文書の作成・整理・保存の統一ルールを定め、情報公開法が行政機関の保有する文書に対する開示請求制度を定めている",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "役員の就任日・退任日と本店所在地の履歴を時系列で追うことが、登記簿を企業情報の裏取りに使う基本になる",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なお、「履歴事項全部証明書」は現在事項に加えて過去の変更履歴も追えるので、企業の裏取りには「現在事項証明書」よりこちらを取り寄せた方がよい",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「本店所在地＝営業実態の所在地」と短絡しないことが、裏取り記事では重要だ",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際にこの方法で買取大吉と株式会社エンパワーの2社の商業登記を取り寄せ、両社の関係を独立検証した事例として",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同じ手法で、アクセスジャーナルが報じた株式会社エンパワーをめぐる9つの個別主張を項目別に登記と照合した事例として",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "いずれも、第三者が同じ手順で登記を取れば再現できる検証だ",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業の裏取りで実務上よく使うのは、まず民事・刑事・行政という事件の性質を頭で分けたうえで、画面上は統合検索または行政事件タブを使い分ける、というやり方だ",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "判決理由のどこに着目すれば、現代のネット告発の検証に橋を架けられるかを、フレームごとに示している",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公的記録は強力な裏取り手段だが、設計上の限界がある",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公的記録を使えば、ネット上に流通している企業情報の多くは、第三者が独立に裏取りできる",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "検索を使うときの最大の注意点は、収録範囲だ",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注意点として、2025年3月15日にサービスの提供内容が変更されており、旧A・B・Cコース（日付検索のみ1,672円、日付＋記事検索2,200円など）は同年3月31日に終了している",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「公的記録に載っていない」という事実を、その主張が事実ではないことの証明として使うのは、論理的には誤りだ",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "実際にこの方法で買取大吉と株式会社エンパワーの2社の商業登記を取り寄せ、両社の関係を独立検証した事例として",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同じ手法で、アクセスジャーナルが報じた株式会社エンパワーをめぐる9つの個別主張を項目別に登記と照合した事例として",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第3章でも、実務で取り扱った企業案件の事例とあわせて詳しく解説している",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "したがって、「登記簿に株主が出ていない」のは隠蔽ではなく、制度上の分離の結果だ",
+    "quote": "商業登記、裁判記録、官報、国税庁の法人番号公表サイトがそれにあたる",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -337,17 +337,17 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://biz.note.com/n/nf88c9d4782ad",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://note.com/everprogress/n/nde8351a93d60",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
     "status": "ok",
     "method": "http"
    },
@@ -367,64 +367,49 @@
     "method": "http"
    },
    {
-    "url": "https://www.jp-rc.jp/wp-content/uploads/2023/05/Arep-Vol.2-230427.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://ousar.lib.okayama-u.ac.jp/files/public/6/61670/20210402112321517878/olj_70_3_4_629_648.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.jstage.jst.go.jp/article/jcl/55/3/55_410/_pdf/-char/ja",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.yomiuri.co.jp/politics/20260607-GYT1T00009/",
+    "url": "https://www.tokucho.co.jp/kigyo-chosa-method/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.iiajapan.com/pdf/kenkyu/0160001.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://cir.nii.ac.jp/crid/1040000781997065728",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.rand.org/pubs/external_publications/EP70610.html",
+    "url": "https://blog.roborobo.co.jp/compliance/%E5%A4%B1%E6%95%97%E3%81%97%E3%81%AA%E3%81%84%E4%BC%81%E6%A5%AD%E8%AA%BF%E6%9F%BB%E3%81%A8%E3%81%AF%EF%BC%9F%E9%87%8D%E8%A6%81%E6%80%A7%E3%82%84%E8%AA%BF%E6%9F%BB%E9%A0%85%E7%9B%AE%E3%80%81%E8%87%AA/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://nhimg.org/glossary/intelligence-tradecraft/",
+    "url": "https://catalog.monex.co.jp/article/?p=55830",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishimura.com/ja/knowledge/newsletters/corporate_crisis_management_261030",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "status": "ok",
-    "method": "pdf"
+    "url": "https://sj-west.com/column/corporate-research/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
    },
    {
-    "url": "https://neo4j.com/blog/government/intelligence-tradecraft-the-analysis-room/",
+    "url": "https://www.ipsj.or.jp/ipsjcode-jirei.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://css.ethz.ch/en/center/CSS-news/2026/08/nachrichtendienstliche-dynamiken-handwerk-technologie-und-vertrauen.html",
+    "url": "https://www.moj.go.jp/content/001415311.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amed.go.jp/kenkyu_kousei/kiyouzai_houkoku.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.lw.com/admin/upload/SiteAttachments/Alert%202589%20-%20final.pdf",
+    "url": "https://www.ieice.org/jpn_r/about/rinrikoryo/code6.html",
     "status": "ok",
-    "method": "pdf"
+    "method": "browser"
    }
   ]
  },
@@ -432,9 +417,9 @@
   {
    "query": "情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note） site:note.com",
    "results": [
-    "https://note.com/everprogress/n/n28fc53b2c5cc",
     "https://biz.note.com/n/nf88c9d4782ad",
     "https://note.com/everprogress/n/nde8351a93d60",
+    "https://note.com/everprogress/n/n28fc53b2c5cc",
     "https://note.com/everprogress/n/ndfc934686a89",
     "https://note.com/everprogress/n/n55b1219142c0",
     "https://note.com/itta_usa/n/nd300923856e1",
@@ -443,71 +428,58 @@
   },
   {
    "query": "情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note） note",
-   "results": [
-    "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "https://note.com/everprogress/n/nde8351a93d60",
-    "https://www.jp-rc.jp/wp-content/uploads/2023/05/Arep-Vol.2-230427.pdf",
-    "https://ousar.lib.okayama-u.ac.jp/files/public/6/61670/20210402112321517878/olj_70_3_4_629_648.pdf",
-    "https://www.jstage.jst.go.jp/article/jcl/55/3/55_410/_pdf/-char/ja",
-    "https://www.yomiuri.co.jp/politics/20260607-GYT1T00009/",
-    "https://www.iiajapan.com/pdf/kenkyu/0160001.pdf",
-    "https://cir.nii.ac.jp/crid/1040000781997065728",
-    "https://evidence-pro.com/article/202507221335/",
-    "https://www.econ.kyoto-u.ac.jp/~wakaba/lecture/note+dat/GRORS07a.pdf"
-   ]
+   "results": []
   },
   {
    "query": "情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note） やり方",
    "results": [
-    "https://note.com/everprogress/n/n28fc53b2c5cc"
+    "https://www.tokucho.co.jp/kigyo-chosa-method/",
+    "https://blog.roborobo.co.jp/compliance/失敗しない企業調査とは？重要性や調査項目、自/",
+    "https://catalog.monex.co.jp/article/?p=55830",
+    "https://note.com/everprogress/n/nde8351a93d60",
+    "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "https://www.nishimura.com/ja/knowledge/newsletters/corporate_crisis_management_261030",
+    "https://sj-west.com/column/corporate-research/"
    ]
   },
   {
    "query": "情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note） 事例",
    "results": [
-    "https://note.com/everprogress/n/n28fc53b2c5cc"
+    "https://note.com/everprogress/n/nde8351a93d60",
+    "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "https://www.ipsj.or.jp/ipsjcode-jirei.html",
+    "https://www.moj.go.jp/content/001415311.pdf",
+    "https://www.amed.go.jp/kenkyu_kousei/kiyouzai_houkoku.html",
+    "https://www.ieice.org/jpn_r/about/rinrikoryo/code6.html",
+    "https://www.nishimura.com/ja/knowledge/newsletters/corporate_crisis_management_261030"
    ]
   },
   {
    "query": "intelligence tradecraft applied to business research alternative data proxy observation ethics",
-   "results": [
-    "https://www.rand.org/pubs/external_publications/EP70610.html",
-    "https://nhimg.org/glossary/intelligence-tradecraft/",
-    "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "https://neo4j.com/blog/government/intelligence-tradecraft-the-analysis-room/",
-    "https://css.ethz.ch/en/center/CSS-news/2026/08/nachrichtendienstliche-dynamiken-handwerk-technologie-und-vertrauen.html",
-    "https://www.lw.com/en/insights/2020/03/lw-alternative-data-regulatory-and-ethical-issues-for-financial-services-firms-to-consider",
-    "https://corpgov.law.harvard.edu/2024/04/23/alternative-data-a-coso-perspective/",
-    "https://www.thecipherbrief.com/case-for-analytic-tradecraft-reform",
-    "https://scholarworks.waldenu.edu/dissertations/3978/",
-    "https://www.tandfonline.com/doi/full/10.1080/08850607.2024.2381999"
-   ]
+   "results": []
   },
   {
    "query": "site:note.com 情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note）",
    "results": [
+    "https://biz.note.com/n/nf88c9d4782ad",
+    "https://note.com/everprogress/n/nde8351a93d60",
     "https://note.com/everprogress/n/n28fc53b2c5cc",
     "https://note.com/everprogress/n/ndfc934686a89",
-    "https://note.com/steamrc/n/n076140be94f2",
-    "https://note.com/kumaro/n/n3efed43289e5",
-    "https://note.com/everprogress/n/nde8351a93d60",
-    "https://note.com/itta_usa/n/nd300923856e1",
     "https://note.com/everprogress/n/n55b1219142c0",
-    "https://note.com/akaglass/n/nc309c12a2665",
-    "https://note.com/mg185/n/n57f5244923fa",
-    "https://note.com/kandapropaganda/n/nf7082b04e3fa"
+    "https://note.com/itta_usa/n/nd300923856e1",
+    "https://note.com/steamrc/n/n076140be94f2"
    ]
   },
   {
    "query": "site:x.com 情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note）",
    "results": [
     "https://jf.x.com/images/media-preview/2114237916939760057",
-    "https://x.com/takehikohayashi/status/2093468060003045541",
     "https://x.com/chiheisha/status/2026823720401252656",
+    "https://x.com/takehikohayashi/status/2093468060003045541",
     "https://help.x.com/ja/rules-and-policies/x-law-enforcement-support",
-    "https://x.com/AandS_KSB1983/status/2070681804173165000",
     "https://x.com/osakabegoshi/status/2047518834635289003",
-    "https://x.com/TTFa9FXevRbj7HT/status/2085534348066050544"
+    "https://x.com/AandS_KSB1983/status/2070681804173165000",
+    "https://x.com/kwansei_up/status/2041709633665167662"
    ]
   },
   {
@@ -515,36 +487,35 @@
    "results": [
     "https://www.linkedin.com/posts/atsushi-nozaki_aiを活用した特許調査分析の考え方と留意点野崎篤志-イーパテント知財情報-activity-6980389870531735553-J2KR",
     "https://www.linkedin.com/pulse/日本のバイオベンチャーの企業価値評価ー評価手法と主要概念ー-takuya-kano-e7dnc",
+    "https://in.linkedin.com/in/vikasmittal",
     "https://jp.linkedin.com/pulse/balancing-ethical-lines-osint-investigations-perspective-a-nico-pugh-demcc?tl=ja",
     "https://jp.linkedin.com/pulse/intersection-points-ai-ip-how-companies-can-innovate-ethically-olena-sciqf?tl=ja",
     "https://jp.linkedin.com/pulse/what-business-research-methods-comprehensive-guide-primary-gxeqf?tl=ja",
-    "https://jp.linkedin.com/learning/cert-prep-business-strategy-for-it-passport-29483241/8207093",
-    "https://jp.linkedin.com/learning/cert-prep-information-technology-engineer-exam-business-and-legal-affairs/4086183"
+    "https://jp.linkedin.com/learning/cert-prep-business-strategy-for-it-passport-29483241/8207093"
    ]
   },
   {
    "query": "site:facebook.com 情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note）",
    "results": [
-    "https://www.facebook.com/kigyou.cyousa/",
     "https://www.facebook.com/groups/rintomo/",
+    "https://www.facebook.com/kigyou.cyousa/",
     "https://graph.facebook.com/v2.8/139196875281858/picture/",
     "https://www.facebook.com/hikari0819/",
-    "https://www.facebook.com/chizaijuku/posts/侵害予防調査ゼミ開講演習課題の製品について侵害予防調査を行い調査報告書の作成までをフレームワークに基づいて行います調査対象を特定し漏れのない検索式を作成してスク/802689235678793/",
+    "https://www.facebook.com/nikkeibusiness/posts/ビジネス倫理学が専門の慶応義塾大学准教授の杉本俊介氏は学生時代にたとえ正義のためであっても企業などで内部告発すべきなんて言えないという主張を読んで驚いたが今では/1202827878555141/",
     "https://www.facebook.com/yousuke.nishi.web/videos/裁判の傍聴に伺ってきました市政にも関連する事件等を通じて丁寧な調査研究を行い提言していければと考えています西-洋介公式lineアカウント-httpnavcxif/1022436296845812/",
-    "https://www.facebook.com/nikkeibusiness/posts/ビジネス倫理学が専門の慶応義塾大学准教授の杉本俊介氏は学生時代にたとえ正義のためであっても企業などで内部告発すべきなんて言えないという主張を読んで驚いたが今では/1202827878555141/"
+    "https://www.facebook.com/anozaki/posts/モリッち企業知財-c27_gzahc-さんのj-platpat簡易分析ツール早速利用させていただきましたcsvをアップロードするだけですぐに出願動向を核ににでき/27402923219325529/"
    ]
   },
   {
    "query": "情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note） note 社長",
    "results": [
-    "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "https://note.com/everprogress/all",
     "https://ja.wikipedia.org/wiki/加藤貞顕",
     "https://note.com/everprogress/n/nde8351a93d60",
+    "https://note.com/everprogress/n/n28fc53b2c5cc",
     "https://www.yomiuri.co.jp/politics/20260607-GYT1T00009/",
     "https://sj-west.com/column/corporate-research/",
     "https://faportal.deloitte.jp/crisis/articles/1013",
-    "https://www.consortium.or.jp/wp-content/uploads/fd/148756/db208c8969cfc049b3cffd56b3d5e8c0.pdf"
+    "https://www.mod.go.jp/gsdf/tercom/img/file74.pdf"
    ]
   },
   {
@@ -554,21 +525,18 @@
   {
    "query": "intelligence tradecraft applied to business research alternative data proxy observation ethics site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/top-content/technology/cybersecurity-risks/how-nation-state-actors-exploit-human-trust/",
-    "https://www.linkedin.com/posts/ggospodinov_cybersecurity-infosec-threatintel-activity-7512233033144647680--lES",
-    "https://www.linkedin.com/in/tanner-od",
-    "https://no.linkedin.com/in/harrison-sand",
-    "https://www.linkedin.com/posts/vandeleurjeroen_nvisoxredamon-activity-7518677359034519552-Tj7F",
-    "https://www.linkedin.com/in/strykernostriking",
-    "https://www.linkedin.com/top-content/technology/cybersecurity-exploit-techniques/tactics-used-by-cybercriminals-today/",
-    "https://www.linkedin.com/in/johnconors",
-    "https://www.linkedin.com/in/tiffany-saade",
-    "https://www.linkedin.com/top-content/soft-skills-emotional-intelligence/threat-intelligence-insights/threat-actor-profiling/"
+    "https://www.linkedin.com/pulse/from-data-defensible-judgment-integrating-formal-tradecraft-gobin-obdoe",
+    "https://www.linkedin.com/pulse/accountability-mandate-why-corporate-intelligence-requires-gobin-0flse",
+    "https://no.linkedin.com/company/intel-tradecraft",
+    "https://pe.linkedin.com/posts/blackcube1_intelligence-tradecraft-strategicthinking-activity-7321134300878323714-8Mxu",
+    "https://www.linkedin.com/posts/ccatuogno_tradecraft-intelligence-espionage-activity-7375966930198904832-kuiY",
+    "https://www.linkedin.com/pulse/tradecraft-optional-missing-foundation-intelligence-randall-stickley-td8ke",
+    "https://www.linkedin.com/company/sapinover"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 8,
+ "runs": 9,
  "first_researched_at": "2026-11-05T04:41:12.403629+00:00"
 }
