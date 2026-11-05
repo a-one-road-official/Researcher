@@ -1,4 +1,4 @@
-# ベストベンチャー100 選出企業（2016〜2026）— 事業内容・資本金・設立・株主（産業分類の材料）（事実のみ・79社）
+# ベストベンチャー100 選出企業（2016〜2026）— 事業内容・資本金・設立・株主（産業分類の材料）（事実のみ・127社）
 
 ## ALBONA
 - 公式URL：https://al-bo.io/（given）
@@ -3425,6 +3425,3699 @@
 - 所在地：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部26頁・検索11回）
 - 代表者：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部26頁・検索11回）
 - 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部26頁・検索11回）
+
+## ZenGroup
+- 公式URL：https://zen.group/（given）
+- 事業内容：・ZenMarket：メルカリ、ヤフオク、Yahooショッピングなどの主要な日本のECサイトの商品を、海外ユーザーが自国の言語で購入できる代理購入サービスです。 ・ZenPlus：3,000社以上の中小企業と世界中のユーザーをつなぐ越境EC型のマーケットプレイスです。 ・ZenPromo：日本企業の海外マーケティング戦略の改善や、グローバルなブランド認知の向上を支援するプロモーションサービスです。 ・ZenLink：日本のEC事業者が自社商品をZenMarket上で販売できるようにする、HTMLタグベースの集客支援ツールです。 ・ZenStudio：ウェブデザインや映像制作に特化したクリエイティブエージェンシーで、企業のデジタルメディア展開やEC強化を支援します。（https://tenshoku.mynavi.jp/company/404933/・3回目）
+- 事業内容：■購入代行サービス『ZenMarket』■越境ECモール『ZenPlus』
+■越境ECプロモーション『ZenPromo』　■集客支援ツール『ZenLink』
+■クリエイティブ制作支援『ZenStudio』（https://www.r-agent.com/company/d5834/・3回目）
+- 資本金：8,000万円（https://tenshoku.mynavi.jp/company/404933/・3回目）
+- 資本金：8,000万円（https://www.bizreach.jp/companies/21766/・3回目）
+- 資本金：1億円（https://www.bizreach.jp/companies/21766/・3回目）
+- 創業年度：設立：2014年4月（https://tenshoku.mynavi.jp/company/404933/・3回目）
+- 創業年度：設立：2014/04（https://initial.inc/companies/A-31058・3回目）
+- 創業年度：設立：2014年04月（https://prtimes.jp/main/html/rd/p/000000339.000023616.html・3回目）
+- 従業員数：439名（https://tenshoku.mynavi.jp/company/404933/・3回目）
+- 従業員数：326人（https://www.r-agent.com/company/d5834/・3回目）
+- 株主：VCなし（https://initial.inc/companies/A-31058・3回目）
+- 所在地：大阪府大阪市中央区瓦町1-7-7 大阪堺筋Lタワー10F（https://tenshoku.mynavi.jp/company/404933/・3回目）
+- 所在地：大阪府大阪市中央区瓦町1丁目7-7 大阪堺筋Lタワー 10F（https://www.bizreach.jp/companies/21766/・3回目）
+- 所在地：東京都豊島区南池袋2-26-4南池袋平成ビル3F（https://www.bizreach.jp/companies/21766/・3回目）
+- 代表者：スロヴェイ ヴィヤチェスラヴ（https://tenshoku.mynavi.jp/company/404933/・3回目）
+- 代表者：スロヴェイ・ヴィヤチェスラヴ、オレクサンドル・コーピル、ナウモヴ・アンドリイ、ソン・マルガリータ（https://www.bizreach.jp/companies/21766/・3回目）
+- 代表者：コーピル・オレクサンドル、　ナウモヴ・アンドリイ、　スロヴィイ・ヴィヤチェスラブ、　ソン・マルガリータ（https://initial.inc/companies/A-31058・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「私たちが展開する事業やサービスについてご紹介します」（https://zen.group/・1回目）
+  - 「世界の越境EC販売額の20％を、日本に」（https://zen.group/・1回目）
+  - 「世界への販売を、ワンストップで」（https://zen.group/・1回目）
+  - 「世界への販売を、」（https://zen.group/・1回目）
+  - 「ZenGroup は、販売・物流・マーケティング・クリエイティブまで、」（https://zen.group/・1回目）
+  - 「ZenGroupを支える人と組織についてご紹介します」（https://zen.group/・1回目）
+  - 「私たちが展開する事業やサービスについてご紹介します」（https://zen.group/company/・1回目）
+  - 「私たちは、海外販売の戦略立案からマーケティング、プロモーション、物流、カスタマーサポートに至るまで、企業やブランドの越境ECをワンストップで支援しています」（https://zen.group/company/・1回目）
+  - 「販売から物流、プロモーションまで、越境ECに必要な機能を一括で提供」（https://zen.group/company/・1回目）
+  - 「「世界の越境EC販売額の20％を日本に」というビジョンの実現を目指すZenGroup」（https://zen.group/company/・1回目）
+  - 「私たちが目指す未来や大切にする価値観、ロゴに込めた想いをご紹介します」（https://zen.group/company/・1回目）
+  - 「エントリーした企業の中から、厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://zen.group/company/・1回目）
+- 客は誰か：
+  - 「「ベストベンチャー100」は、イシン株式会社が提供する法人向け有料会員制サービスです」（https://zen.group/company/・1回目）
+  - 「海外展開を支える、法人向けポータルサイト」（https://zen.group/business/・1回目）
+  - 「ZenOneは、ZenGroupの海外展開支援サービスをご紹介する国内法人向けポータルサイトです」（https://zen.group/business/・1回目）
+  - 「・ZenPlus：3,000社以上の中小企業と世界中のユーザーをつなぐ越境EC型のマーケットプレイスです」（https://tenshoku.mynavi.jp/company/404933/・3回目）
+  - 「ZenGroup、modeと業務提携 中小企業の海外販売と市場成長を支援」（https://initial.inc/companies/A-31058・3回目）
+  - 「ゼンマーケット、鎌倉商工会議所と業務提携 地域活性化および質の高い日本商品を海外へ発信することを目的に、中小企業や小規模事業者への海外販路拡大支援を行う」（https://initial.inc/companies/A-31058・3回目）
+  - 「加えて、BtoB新規開拓営業のためのノウハウやリソース等も社内に持ち合わせていなかったため、開拓営業のプロフェッショナルである外部の会社に営業支援をお願いしようと考え、複数社から営業支援のご提案をいただいて、検討しました」（https://scalehack.co.jp/case-studies/detail/zengroup・3回目）
+  - 「このように、今後も「日本から海外へ」をキーワードに多種多様なサービスを展開するつもりでいますので、ますますBtoB営業の必要性は高まります」（https://scalehack.co.jp/case-studies/detail/zengroup・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「ZenGroup は、販売・物流・マーケティング・クリエイティブまで、」（https://zen.group/・1回目）
+  - 「航空貨物業界で高まる越境EC小口貨物への関心、BIACがZenGroup物流センターを視察」（https://zen.group/・1回目）
+  - 「創業以来、言語・決済・物流といった越境ECの障壁を取り払い、“日本の商品を、世界の誰もが安心して手に取れる社会”の実現を目指して取り組んでいます」（https://zen.group/company/・1回目）
+  - 「私たちは、海外販売の戦略立案からマーケティング、プロモーション、物流、カスタマーサポートに至るまで、企業やブランドの越境ECをワンストップで支援しています」（https://zen.group/company/・1回目）
+  - 「グローバルなメンバーが持つ現地ならではの視点と、自社で構築した物流ネットワーク」（https://zen.group/company/・1回目）
+  - 「販売から物流、プロモーションまで、越境ECに必要な機能を一括で提供」（https://zen.group/company/・1回目）
+  - 「ZenGroupは、IATA（国際航空運送協会）の公認貨物代理店資格を取得しています」（https://zen.group/company/・1回目）
+  - 「世界中のお客様へ商品を安定して届ける物流基盤の強化に取り組んでいます」（https://zen.group/company/・1回目）
+  - 「越境EC事業、海外向け物流事業、海外向けプロモーション事業」（https://zen.group/company/about/・1回目）
+  - 「日本企業が言語、支払い、物流の壁を乗り越えてグローバル市場で成功するための越境ECソリューションを提供する代表的な存在となります」（https://zen.group/company/mission-vision-value/・1回目）
+  - 「ZenGroupは、顧客のニーズを最優先に考えています」（https://zen.group/company/mission-vision-value/・1回目）
+  - 「私たちは、顧客の声を聴き、そのニーズに応えるために、優れたサービスを提供し、柔軟に対応するよう努めています」（https://zen.group/company/mission-vision-value/・1回目）
+- 資本金・株主：
+  - 「【資本金】8,000万円」（https://www.bizreach.jp/companies/21766/・3回目）
+  - 「資本金：80,000,000円」（https://prtimes.jp/main/html/rd/p/000000339.000023616.html・3回目）
+- 選出の記録：
+  - 「英国の経済紙『Financial Times』と調査会社Statistaが共同で実施する「High-Growth Companies Asia-Pacific」に、2021年から2024年まで4年連続で選出されました」（https://zen.group/company/・1回目）
+  - 「ZenGroupは、5年連続で「ベストベンチャー100」に選ばれました」（https://zen.group/company/・1回目）
+  - 「「ベストベンチャー100」は、イシン株式会社が提供する法人向け有料会員制サービスです」（https://zen.group/company/・1回目）
+  - 「エントリーした企業の中から、厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://zen.group/company/・1回目）
+  - 「大阪府ベンチャー企業成長プロジェクト「Booming!2.0」に選出」（https://zen.group/company/about/・1回目）
+  - 「「注目の西日本ベンチャー100」に選出」（https://zen.group/company/about/・1回目）
+  - 「2022年版「ベストベンチャー100」に初選出」（https://zen.group/company/about/・1回目）
+  - 「2023年版「ベストベンチャー100」に選出」（https://zen.group/company/about/・1回目）
+  - 「2024年版「ベストベンチャー100」に選出」（https://zen.group/company/about/・1回目）
+  - 「2025年版「ベストベンチャー100」に選出」（https://zen.group/company/about/・1回目）
+  - 「2026年版「ベストベンチャー100」に選出」（https://zen.group/company/about/・1回目）
+  - 「ZenMarketが大阪府の「Booming!2.0」ベンチャー成長支援プロジェクトに選出」（https://careers.zen.group/ja/aboutus/overview/・3回目）
+- 検索結果の抜粋：
+  - 「History & Company Overview - ZenGroup Careers — History & Company Overview - ZenGroup Careers ZenGroup株式会社 https://careers.zen.group > Home > About Us」（https://careers.zen.group/ja/aboutus/overview/・3回目）
+  - 「ZenGroup 株式会社の 会社概要 - マイナビ転職 — ZenGroup 株式会社の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/404933/・3回目）
+  - 「ZenGroup 株式 会社 の求人・採用情報 - ビズリーチ — ZenGroup 株式 会社 の求人・採用情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies」（https://www.bizreach.jp/companies/21766/・3回目）
+  - 「ZenGroup 株式 会社 - ミドルの転職 — ZenGroup 株式 会社 - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧」（https://mid-tenshoku.com/agency/a-5218/・3回目）
+  - 「ZenGroup 株式 会社 - キャリアクロス — ZenGroup 株式 会社 - キャリアクロス キャリアクロス https://www.careercross.com > company > detail-338355」（https://www.careercross.com/company/detail-338355・3回目）
+  - 「ZenGroup 株式会社: Home — ZenGroup 株式会社: Home ZenGroup株式会社 https://zen.group」（https://zen.group/・3回目）
+  - 「ZenGroup 株式会社 - スピーダ スタートアップ情報リサーチ — ZenGroup 株式会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-31058・3回目）
+  - 「ZenGroup 、創業10周年を迎えました - PR TIMES — ZenGroup 、創業10周年を迎えました - PR TIMES PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000339.000023616.html・3回目）
+  - 「ZenGroup 株式会社代表 スロヴェイ・ヴィヤチェスラヴ氏 — ZenGroup 株式会社代表 スロヴェイ・ヴィヤチェスラヴ氏 社長の履歴書 https://donzoko-ceo.com > 記事一覧 > 仕事」（https://donzoko-ceo.com/zen-group/・3回目）
+  - 「ZenGroup株式 会社 - スピーダ スタートアップ情報リサーチ — ZenGroup株式 会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-31058・3回目）
+  - 「ZenGroup ｜STARTUP DB（スタートアップデータベース） — ZenGroup ｜STARTUP DB（スタートアップデータベース） STARTUP DB｜スタートアップデータベース https://startup-db.com > スタートアップ一覧」（https://startup-db.com/companies/BXP5J5rUzYkGqo6L・3回目）
+  - 「ZenGroup株式 会社: Home — ZenGroup株式 会社: Home ZenGroup株式会社 https://zen.group」（https://zen.group/・3回目）
+- 売上高：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部25頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部25頁・検索11回）
+
+## freemova
+- 公式URL：https://freemova.com/（given）
+- 事業内容：人材紹介事業 人材派遣事業 求人広告代理店事業（https://freemova.com/company/・1回目）
+- 事業内容：人材紹介事業 人材派遣事業 求人広告代理店事業（https://mid-tenshoku.com/agency/a-8134/・3回目）
+- 資本金：1,250万円（https://freemova.com/company/・1回目）
+- 資本金：1250万円（https://mid-tenshoku.com/agency/a-8134/・3回目）
+- 資本金：1250万円（https://type.jp/job-company/39335/・3回目）
+- 創業年度：会社設立日：2019年8月（https://freemova.com/company/・1回目）
+- 創業年度：設立：2019年8月（https://mid-tenshoku.com/agency/a-8134/・3回目）
+- 創業年度：設立：2019年8月（https://type.jp/job-company/39335/・3回目）
+- 従業員数：800名（https://freemova.com/company/・1回目）
+- 従業員数：35名（https://freemova.com/service/250/・1回目）
+- 従業員数：3,000名（https://freemova.com/service/247/・1回目）
+- 所在地：〒150-0043 東京都渋谷区 道玄坂2-25-12 道玄坂通3階3-1a（https://freemova.com/company/・1回目）
+- 所在地：〒060-0004 北海道札幌市中央区北4条西4丁目1-7 MMS札幌駅前ビル 324 〒980-0811 宮城県仙台市青葉区一番町3-3-1 クラックス仙台4F 〒370-0841 群馬県高崎市栄町3-11 高崎バナーズビル 512 〒450-0002 愛知県名古屋市中村区名駅3-28-12 大名古屋ビルヂング11F 〒530-0052 大阪府大阪市北区南扇町7-17 MF梅田ビル3F 〒730-0016 広島県広島市中区幟町13−15 リージャス新広島 232 〒810-0001 福岡県福岡市中央区天神4-3-8 Zero-Ten Parkミーナ天神8F 〒900-0015 沖縄県那覇市久茂地2-2-2 タイムスビル2F（https://freemova.com/company/・1回目）
+- 代表者：廣瀬暁己（https://mid-tenshoku.com/agency/a-8134/・3回目）
+- 代表者：代表取締役　廣瀬 暁己（https://type.jp/job-company/39335/・3回目）
+- 主要取引先：ソフトバンク株式会社／合同会社DMM.com／株式会社リクルートホールディングス／株式会社マイナビ／パーソルホールディングス株式会社／株式会社夢テクノロジー／株式会社DYM／株式会社ネオキャリア（https://type.jp/job-company/39335/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「株式会社freemova | 東京都渋谷区にある20代の若手人材に特化した人材紹介会社」（https://freemova.com/・1回目）
+  - 「新卒人材紹介 | Service | 株式会社freemova」（https://freemova.com/service/250/・1回目）
+  - 「若手に特化した人材紹介を得意としているfree mova」（https://freemova.com/service/250/・1回目）
+  - 「これまでは中途採用の支援に特化していたのですが、学生の集客が増えていることを背景に、新卒の人材紹介をスタートさせました」（https://freemova.com/service/250/・1回目）
+  - 「求人票やPRポイント、紹介料などのさまざまな面における見直しをご提案しました」（https://freemova.com/service/250/・1回目）
+  - 「紹介数に関しても、他社平均の3倍となる月間7名を実現」（https://freemova.com/service/250/・1回目）
+  - 「現在では採用イベントの企画・運営にも関わっているように、紹介という枠を超えて採用活動を支援しています」（https://freemova.com/service/250/・1回目）
+  - 「文系学生1名紹介につき：80万円〜」（https://freemova.com/service/250/・1回目）
+  - 「理系学生1名紹介につき：100万円〜」（https://freemova.com/service/250/・1回目）
+  - 「中途人材紹介 | Service | 株式会社freemova」（https://freemova.com/service/247/・1回目）
+  - 「その背景にあるのが、候補者様に対して10時間以上の面談を行うというきめ細かさと、ご紹介から入社までの期間が平均30日以内というスピード感」（https://freemova.com/service/247/・1回目）
+  - 「求人を紹介する前に個々の本音を深層から引き出すことによって、就業後のミスマッチを防止」（https://freemova.com/service/247/・1回目）
+- 客は誰か：
+  - 「イシン(株)が提供する法人向け有料会員制サービスです」（https://type.jp/job-company/39335/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「【掲載のお知らせ】ジョブリー建設に求人情報を掲載しました」（https://freemova.com/・1回目）
+  - 「クライアント、ユーザー、メンバー」（https://freemova.com/company/・1回目）
+  - 「提案があっても、クライアントが求めている「営業マインドの高さ」を備えた人材ではなく、ミスマッチが続いていました」（https://freemova.com/service/250/・1回目）
+  - 「さらには、求人情報・エントリー時・内定後と、各フェーズに応じたショート動画・資料を制作することで、クライアントの魅力をより効果的に伝えていきました」（https://freemova.com/service/247/・1回目）
+  - 「介護・看護・保育などのヘルスケア領域は、人材業界の中で特に難易度が高いとされています」（https://freemova.com/service/246/・1回目）
+  - 「加えて、日勤を希望する候補者が多いため、クライアントが求めていた「夜勤ができる」という条件にマッチする人材の採用は困難を極めていました」（https://freemova.com/service/246/・1回目）
+  - 「「採用資料」もしっかりと作り込み、クライアントの魅力を最大限に伝えていくことで承諾率を上げていきました」（https://freemova.com/service/246/・1回目）
+  - 「即日稼働できる即戦力と同時に、free mova内で教育した未経験者も併せてご提案しました」（https://freemova.com/service/245/・1回目）
+  - 「自社社員の採用エリアを拡大させることで、クライアントの課題を解決していきました」（https://freemova.com/service/244/・1回目）
+  - 「店舗に派遣された際にはすでに基礎知識を備えている状態にすることで、クライアント側の負担を軽減しました」（https://freemova.com/service/244/・1回目）
+  - 「相性が良い社員に関しては、ゆくゆくはクライアント側に雇用を切り替えるという戦略を立てました」（https://freemova.com/service/243/・1回目）
+  - 「クライアントと求職者の双方に対してニーズを深掘りしたことで、1ヶ月目から5名の配属を実現」（https://freemova.com/service/243/・1回目）
+- 資本金・株主：
+  - 「free movaの子会社として「株式会社Lervan」を設立」（https://job.mynavi.jp/27/pc/search/corp269303/outline.html・3回目）
+  - 「(株)GENOVA【東証プライム上場】・セールスコミュニケーションコース」（https://job.mynavi.jp/27/pc/search/corp269303/outline.html・3回目）
+  - 「(株)GENOVA【東証プライム上場】・ダイレクトマーケティングコース」（https://job.mynavi.jp/27/pc/search/corp269303/outline.html・3回目）
+  - 「(株)GENOVA【東証プライム上場】・カスタマーアカウントコース」（https://job.mynavi.jp/27/pc/search/corp269303/outline.html・3回目）
+  - 「JFEシステムズ(株)【東証スタンダード市場上場】」（https://job.mynavi.jp/27/pc/search/corp269303/outline.html・3回目）
+- 選出の記録：
+  - 「平均年齢28歳 / ホワイト企業認定 / ジョブローテーション制度 / ベストベンチャー100」（https://job.mynavi.jp/27/pc/search/corp269303/outline.html・3回目）
+  - 「ベストベンチャー100、ホワイト企業認定ゴールドランク選出」（https://job.mynavi.jp/27/pc/search/corp269303/outline.html・3回目）
+  - 「2024・2026年にはベストベンチャー100にも選出され急成長を遂げています」（https://type.jp/job-company/39335/・3回目）
+  - 「＃ベストベンチャー100選出＆ホワイト企業認定の成長企業」（https://type.jp/job-company/39335/・3回目）
+  - 「※「ベストベンチャー100」」（https://type.jp/job-company/39335/・3回目）
+  - 「厳正な審査のもと選出したベンチャー企業100社が」（https://type.jp/job-company/39335/・3回目）
+  - 「「ベストベンチャー100」として紹介されます」（https://type.jp/job-company/39335/・3回目）
+  - 「今後も全国に新拠点が開設予定！ベストベンチャー100にも選定された急成長企業です」（https://type.jp/job-company/39335/・3回目）
+- 検索結果の抜粋：
+  - 「About Us | 株式 会社freemova — About Us | 株式 会社freemova freemova https://freemova.com > company」（https://freemova.com/company/・3回目）
+  - 「(株)free movaの新卒採用・ 会社概要 | マイナビ2027 — (株)free movaの新卒採用・ 会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp269303 > outline」（https://job.mynavi.jp/27/pc/search/corp269303/outline.html・3回目）
+  - 「株式 会社 free mova - ミドルの転職 — 株式 会社 free mova - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧」（https://mid-tenshoku.com/agency/a-8134/・3回目）
+  - 「株式 会社 free movaの転職・求人情報 - AMBI — 株式 会社 free movaの転職・求人情報 - AMBI アンビ（AMBI） https://en-ambi.com > agency」（https://en-ambi.com/agency/a-8134/・3回目）
+  - 「株式 会社 free movaの求人・採用情報 - ビズリーチ — 株式 会社 free movaの求人・採用情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies」（https://www.bizreach.jp/companies/44080/・3回目）
+  - 「(株)free movaの新卒採用・会社概要 | マイナビ2027 — (株)free movaの新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp269303 > outline」（https://job.mynavi.jp/27/pc/search/corp269303/outline.html・3回目）
+  - 「株式会社 freemova | 東京都渋谷区にある20代の若手人材に特化 ... — 株式会社 freemova | 東京都渋谷区にある20代の若手人材に特化 ... freemova https://freemova.com > お知らせ」（https://freemova.com/・3回目）
+  - 「株式会社free movaの転職・企業概要 - doda — 株式会社free movaの転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10195206777」（https://doda.jp/DodaFront/View/Company/j_id__10195206777/・3回目）
+  - 「株式会社 freemova の会社情報 - Wantedly — 株式会社 freemova の会社情報 - Wantedly Wantedly https://www.wantedly.com > company_9265603」（https://www.wantedly.com/companies/company_9265603・3回目）
+  - 「株式会社 freemova 廣瀬 暁己 - ベストベンチャー100 — 株式会社 freemova 廣瀬 暁己 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > freemova」（https://best100.v-tsushin.jp/company/freemova/・3回目）
+  - 「企業ステージをワンランク上げる、5年越しのブランディング — 企業ステージをワンランク上げる、5年越しのブランディング オールイン株式会社 https://allhero.co.jp > works > freemova-rebranding」（https://allhero.co.jp/works/freemova-rebranding/・3回目）
+  - 「freemova 業務紹介    人事 - Wantedly — freemova 業務紹介    人事 - Wantedly Wantedly https://www.wantedly.com > ... > ストーリー」（https://www.wantedly.com/companies/company_9265603/post_articles/980565・3回目）
+- 売上高：記載なし（3回確認済み：公式13頁／PDF・画像0件／外部24頁・検索11回）
+- 株主：記載なし（3回確認済み：公式13頁／PDF・画像0件／外部24頁・検索11回）
+
+## key
+- 公式URL：https://master-key.co.jp/（given）
+- 事業内容：【人材紹介事業部】有料職業紹介　ライセンス 許可番号　27-ユ-303128 【RPO事業部】採用コンサルティング事業、求人総合代理店　indeed silver partner 【IT/SES事業部】-システムエンジニアリングサービス 【マーケティング事業部】SNS／WEB集客施策、ITに関するコンサルティング（https://master-key.co.jp/about/・1回目）
+- 資本金：5,000,000円（https://master-key.co.jp/about/・1回目）
+- 所在地：大阪市中央区北浜3-1-15 北浜高田ビル7階 Osaka Metro御堂筋線「淀屋橋駅」／京阪本線「淀屋橋駅」から徒歩1分（https://master-key.co.jp/about/・1回目）
+- 代表者：中野 仁貴（https://master-key.co.jp/about/・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「プレイヤーから事業部長へ 人材紹介事業部長・土井が語る、MASTER keyの未来と“自走する組織”づくり」（https://master-key.co.jp/・1回目）
+  - 「10の質問に答えてみた/人材紹介事業部 須谷編」（https://master-key.co.jp/・1回目）
+  - 「立ち上げ3ヶ月のCSから見えた「人材紹介事業部」～求職者に本気で向き合い、未来をつくる“温かいプロ集団”～」（https://master-key.co.jp/・1回目）
+  - 「10の質問に答えてみた｜人材紹介事業部 柴田編」（https://master-key.co.jp/・1回目）
+  - 「【人材紹介事業部】有料職業紹介 ライセンス 許可番号 27-ユ-303128」（https://master-key.co.jp/about/・1回目）
+  - 「有料職業紹介ライセンス 許可番号 27-ユ-303128」（https://master-key.co.jp/about/・1回目）
+  - 「私たちの紹介先は、東証プライム上場、従業員数数千名～数万名にわたる企業様がメインとなります」（https://master-key.co.jp/gaibujinji/・1回目）
+  - 「製造業（30代男性） 自分の可能性を信じてあげられるようになりました」（https://master-key.co.jp/youreal/・1回目）
+  - 「キーコーヒー【2594】の事業内容 - キタイシホン」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「※セグメントの売上や利益は、企業毎にその定義が異なる場合があります」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「当社が営んでいる事業で、コーヒー製品等を消費者、飲食店及び食品問屋、飲料メーカー等に販売しております」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「株式会社イタリアントマトは、飲食店事業及び洋菓子等の販売を国内外に展開しております」（https://kitaishihon.com/company/2594/business・3回目）
+- 客は誰か：
+  - 「店舗運営に必要な商材の一括調達や動画レシピの提供により、利便性向上とBtoB販路の拡大を図りました」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「工事不要で取り付けられる法人向けスマートロック入退室管理システム「bitlock PRO（ビットロックプロ）」の提供」（https://initial.inc/companies/A-31779・3回目）
+  - 「高度なロボット技術を活用した160,000平方メートルのこの施設は、国内南東部地域向けの商品の保管・管理を担っており、地元の小規模・中規模企業（中小企業）の製品に焦点を当てています」（https://www.keycafe.com/s/ja/studies/facilities-and-logistics/amazon・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「直感で突き進め！元美容部員が、なぜ転職エージェントになったのか？」（https://master-key.co.jp/・1回目）
+  - 「ES（社員満足）の先に、CS（顧客満足）がある」（https://master-key.co.jp/・1回目）
+  - 「それを叶えるために、クライアント（社会）にとっての「キー」パーソンでありたい」（https://master-key.co.jp/・1回目）
+  - 「自分らしく活き活きと仕事に打ち込んだその先には、クライアントの満足と幸せの鍵があると信じています」（https://master-key.co.jp/・1回目）
+  - 「顧客の事業成長におけるKey Personとなる」（https://master-key.co.jp/about/・1回目）
+  - 「製造業（30代男性） 自分の可能性を信じてあげられるようになりました」（https://master-key.co.jp/youreal/・1回目）
+  - 「当社が営んでいる事業で、コーヒー製品等を消費者、飲食店及び食品問屋、飲料メーカー等に販売しております」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「株式会社イタリアントマトは、飲食店事業及び洋菓子等の販売を国内外に展開しております」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「同社は、飲食店事業及び洋菓子等の販売を営んでおります」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「株式会社アマンドは、飲食店事業及び洋菓子等の販売を営んでおります」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「株式会社キョーエイコーポレーションは、運送物流事業を営んでおります」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「キーアソシエイツ株式会社は、当社グループの保険代理店事業を営んでおります」（https://kitaishihon.com/company/2594/business・3回目）
+- 資本金・株主：
+  - 「私たちの紹介先は、東証プライム上場、従業員数数千名～数万名にわたる企業様がメインとなります」（https://master-key.co.jp/gaibujinji/・1回目）
+  - 「当社グループは、連結子会社14社、関連会社３社により構成されております」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「2025年７月の株式会社イノダコーヒの株式取得に伴い、同社を連結子会社にしています」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「なお、インドネシア共和国におけるコーヒー農園経営及びコーヒー生豆の集買・精選は、スラウェシ興産株式会社の連結子会社であるPT.TOARCO JAYAが行っております」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「当連結会計年度における当社グループ（当社、連結子会社及び持分法適用会社）の財政状態、経営成績及びキャッシュ・フロー（以下、「経営成績等」という」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「情報発信におきましても、2025年８月に個人投資家向けのＩＲ情報ページを開設して業績報告や株主還元に関する情報開示を強化したほか、同年９月には「キーコーヒー サステナビリティレポート 2025」を公表し、サステナビリティに関する方針や具体的な取り組みを紹介しました」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「親会社株主に帰属する当期純利益９億88百万円」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「新たに連結子会社となった株式会社イノダコーヒでは、京都発祥の老舗喫茶店としての伝統を活かした魅力ある店舗運営に注力しました」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「この結果、上記以外の連結子会社も含めた当連結会計年度における飲食関連事業の業績は、売上高」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「その他の区分は、コーヒー関連事業及び飲食関連事業に含まれていない事業セグメントであり、連結子会社が営んでいる飲料製品製造事業、通販事業等を含んでおります」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「この結果、上記以外の連結子会社も含めた当連結会計年度におけるその他事業の業績は、売上高」（https://kitaishihon.com/company/2594/business・3回目）
+  - 「、連結の範囲の変更を伴う子会社株式の取得による支出」（https://kitaishihon.com/company/2594/business・3回目）
+- 選出の記録：
+  - 「弊社がベストベンチャー100に選出されました」（https://master-key.co.jp/・1回目）
+  - 「弊社がベストベンチャー100に選出されました」（https://master-key.co.jp/about/・1回目）
+  - 「弊社がベストベンチャー100に選出されました」（https://master-key.co.jp/service/・1回目）
+  - 「弊社がベストベンチャー100に選出されました」（https://master-key.co.jp/gaibujinji/・1回目）
+- 検索結果の抜粋：
+  - 「会社概要 - 株式会社 key — 会社概要 - 株式会社 key 株式会社key https://key-co.net > kaisyagaiyou」（https://key-co.net/kaisyagaiyou/・3回目）
+  - 「会社概要 ・役員一覧 | 企業・IR情報 - キーコーヒー — 会社概要 ・役員一覧 | 企業・IR情報 - キーコーヒー キーコーヒー株式会社 https://www.keycoffee.co.jp > company > outline」（https://www.keycoffee.co.jp/company/outline・3回目）
+  - 「会社概要 - 株式会社 KEY クリエーション — 会社概要 - 株式会社 KEY クリエーション 株式会社KEYクリエーション https://www.key-cre.co.jp > company」（https://www.key-cre.co.jp/company/・3回目）
+  - 「(株) KEY クリエーションの2027年度 会社概要 | マイナビ2028 — (株) KEY クリエーションの2027年度 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp206629 > outline」（https://job.mynavi.jp/28/pc/search/corp206629/outline.html・3回目）
+  - 「株式会社 KEY ．（石川県）の 会社概要 ・役員 | Compalyze — 株式会社 KEY ．（石川県）の 会社概要 ・役員 | Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 医療・ヘルスケア」（https://compalyze.co.jp/company/3220001020047・3回目）
+  - 「業績推移 | IR | 企業・IR情報 | キー コーヒー株式会社 — 業績推移 | IR | 企業・IR情報 | キー コーヒー株式会社 キーコーヒー株式会社 https://www.keycoffee.co.jp > company > financial01」（https://www.keycoffee.co.jp/company/ir/financial01/・3回目）
+  - 「Key Figures | 企業情報 | Shiseido Company — Key Figures | 企業情報 | Shiseido Company 資生堂 企業情報 https://corp.shiseido.com > company > glance」（https://corp.shiseido.com/jp/company/glance/・3回目）
+  - 「ビット キー 、政府系ファンド「JIC VGI」から追加 資金調達 ... — ビット キー 、政府系ファンド「JIC VGI」から追加 資金調達 ... bitkey.co.jp https://bitkey.co.jp > Newsroom > PRESS RELEASE」（https://bitkey.co.jp/newsroom/20260701/・3回目）
+  - 「ビット キー 、政府系ファンド「JIC VGI」から 資金調達 累計 ... — ビット キー 、政府系ファンド「JIC VGI」から 資金調達 累計 ... bitkey.co.jp https://bitkey.co.jp > Newsroom > PRESS RELEASE」（https://bitkey.co.jp/newsroom/20241101/・3回目）
+  - 「ID認証・認可プラットフォーム展開のビット キー 、政府系 ... — ID認証・認可プラットフォーム展開のビット キー 、政府系 ... BRIDGE（ブリッジ） https://thebridge.jp > 2024/11 > bitkey-provider-of-id-aut...」（https://thebridge.jp/2024/11/bitkey-provider-of-id-authentication-and-authorization-platform-secures-funding-from-jic・3回目）
+  - 「クラウド型セキュリティサービス - SPLATS(スプラッツ) — クラウド型セキュリティサービス - SPLATS(スプラッツ) SPLATS https://splats.jp > splatskey > case_knt001」（https://splats.jp/splatskey/case_knt001/・3回目）
+  - 「導入 コストほぼ“0円”でマンションの価値を上げる。オート ... — 導入 コストほぼ“0円”でマンションの価値を上げる。オート ... ［三井の賃貸］レジデントファースト https://insights.mitsui-chintai.co.jp > articles > amazon-key」（https://insights.mitsui-chintai.co.jp/articles/amazon-key/・3回目）
+- 創業年度：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索11回）
+- 株主：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索11回）
+
+## madoguchi
+- 公式URL：https://madoguchi.inc/（given）
+- 事業内容：WEBメディア事業 アプリ事業 CRM事業（https://madoguchi.inc/about/・1回目）
+- 事業内容：メンバーも増え、年商は10億円を超え、会社としての信頼度や資金も安定した今だからこそ、アプリ事業への挑戦を決意しました。 madoguchi株式会社は、 事業づくり・営業力・仕組み化を強みに、複数の自社サービスを展開する事業会社です。 私たちは「盲点を価値に。」というMissionのもと、 まだ整備されきっていない市場に対して、 “IT×売れる仕組み”をつくり、事業としてスケールさせることを得意としています。 単なる広告運用や受託ではなく、 企画・営業・マーケティング・プロダクト開発までを自社で一貫して担うことで、再現性のある事業成長を実現しています。 【サービス内容】 ◆ WEBメディア事業 ユーザーの課題と企業のニーズをつなぐ、自社Webメディアの企画・運営・営業を行っています。 ・新規メディアの立ち上げ ・営業戦略の設計、法人営業 ・広告運用、SEOなどのWebマーケティング ・データ分析をもとにした改善施策の実行 などを通じて、 「どうすれば売れるか」「どうすれば事業が伸びるか」を考え続ける力が身につく事業領域です。 ◆ アプリ事業 Webメディアで培った集客・営業ノウハウを活（https://job.mynavi.jp/28/pc/search/corp283679/outline.html・3回目）
+- 事業内容：・WEBメディア事業：暮らしの盲点を可視化し、専門業者とマッチング ・アプリ事業：即時対応の駆けつけサービス「オヨビー」 ・CRM事業：業者の集客・業務効率をテクノロジーで支援（https://best100.v-tsushin.jp/company/madoguchi/・3回目）
+- 資本金：300万円（https://madoguchi.inc/about/・1回目）
+- 資本金：300万円（https://job.mynavi.jp/28/pc/search/corp283679/outline.html・3回目）
+- 資本金：300万円（https://best100.v-tsushin.jp/company/madoguchi/・3回目）
+- 創業年度：設立：2016年1月15日（https://madoguchi.inc/about/・1回目）
+- 創業年度：設立：2016年1月15日（https://job.mynavi.jp/28/pc/search/corp283679/outline.html・3回目）
+- 創業年度：設立：2016年1月15日（https://morejob.co.jp/mirai/madoguchi/・3回目）
+- 従業員数：63名（2026年6月時点）（https://madoguchi.inc/about/・1回目）
+- 従業員数：63人（https://job.mynavi.jp/28/pc/search/corp283679/outline.html・3回目）
+- 売上高：10億円 ※2024年3月31日時点（https://job.mynavi.jp/28/pc/search/corp283679/outline.html・3回目）
+- 売上高：10億円
+※2024年3月31日時点（https://job.mynavi.jp/28/pc/search/corp283679/outline.html・3回目）
+- 所在地：〒108-0073 東京都港区三田3丁目5-27住友不動産東京三田サウスタワー2階（https://madoguchi.inc/about/・1回目）
+- 所在地：108-0073（https://job.mynavi.jp/28/pc/search/corp283679/outline.html・3回目）
+- 所在地：東京都港区三田3丁目5-27 住友不動産東京三田サウスタワー2階（https://job.mynavi.jp/28/pc/search/corp283679/outline.html・3回目）
+- 代表者：安岡 尚和（https://madoguchi.inc/about/・1回目）
+- 主要取引先：株式会社BuySell Technologies、株式会社いーふらん、株式会社オリバー、三和ペイント株式会社、バリュエンスホールディングス株式会社、株式会社アールケイエンタープライズ、株式会社アステックペイント、HITOWAライフパートナー株式会社、株式会社未来ガ驚喜研究所、株式会社REGATE、株式会社 ベストバイ、他2000社以上　※順不同（https://madoguchi.inc/about/・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「専門業者様を24時間ご紹介する、WEBメディアやアプリを運営しています」（https://madoguchi.inc/・1回目）
+  - 「なぜmadoguchiは、競争の激しい専門領域で業者様の売上を上げられるのか」（https://madoguchi.inc/・1回目）
+  - 「WEBサービスを運営する中で手にしてきたノウハウをご紹介します」（https://madoguchi.inc/・1回目）
+  - 「導入3ヶ月で受注率9割・紹介案件の連鎖を生んだ「信頼営業」の全貌」（https://madoguchi.inc/・1回目）
+  - 「独立初年度で、投資額の約10倍の売上を創出」（https://madoguchi.inc/・1回目）
+  - 「加盟1週間で軌道に乗り、月間売上目標を達成」（https://madoguchi.inc/・1回目）
+  - 「専門業者様と向き合い仕事を支える営業担当やサービスの運営に尽力する」（https://madoguchi.inc/・1回目）
+  - 「力を発揮するプロフェッショナルをご紹介します」（https://madoguchi.inc/・1回目）
+  - 「運営メディア一覧 - madoguchi株式会社」（https://madoguchi.inc/service/・1回目）
+  - 「業界特化型のWEB比較サービスやアプリを運営しています」（https://madoguchi.inc/service/・1回目）
+  - 「一定の月額料金をお支払いいただくことで、」（https://madoguchi.inc/service/osouji_support/・1回目）
+  - 「ご希望条件に沿ったお客様を上限なしでご紹介」（https://madoguchi.inc/service/osouji_support/・1回目）
+- 客は誰か：
+  - 「業界特化型のWEB比較サービスやアプリを運営しています」（https://madoguchi.inc/service/・1回目）
+- 客の産業（導入事例・取引先）：
+  - 「自力では届かなかった一般顧客の受注を「おそうじ合衆国」で安定させた営業術とは」（https://madoguchi.inc/・1回目）
+  - 「営業のレクチャー、見込み顧客の見える化ツール提供など、売上づくりまで踏み込む支援を強みとしています」（https://madoguchi.inc/service/gekitai/・1回目）
+  - 「「自社案件で新規顧客を安定して獲得し続けたい」」（https://madoguchi.inc/service/kaitai/・1回目）
+  - 「余計なリスクを抱えることなく、新規顧客獲得の新しいルートを手に入れられます」（https://madoguchi.inc/service/kaitai/・1回目）
+  - 「「解体するなら複数社を比較したい」というユーザーのニーズに応えるために広告費を投資しているため、業者様に届くのは金額規模の大きい、受注意欲の高い見込み顧客だけです」（https://madoguchi.inc/service/kaitai/・1回目）
+  - 「解体工事の需要が高まりやすいのは、不動産の動きが活発な春先や年度末」（https://madoguchi.inc/service/kaitai/・1回目）
+  - 「解体業界特有の商習慣や顧客心理を熟知した担当者が、業者様の受注率向上を一緒に考えます」（https://madoguchi.inc/service/kaitai/・1回目）
+  - 「他サービスで培った広告運用やサイト改善のノウハウをすべて注ぎ込み、質の高い見込み顧客だけをおつなぎする仕組みを追求しています」（https://madoguchi.inc/service/kaitai/・1回目）
+  - 「自力では届かなかった一般顧客の受注を「おそうじ合衆国」で安定させた営業術とは」（https://madoguchi.inc/achievement/・1回目）
+  - 「〒108-0073 東京都港区三田3丁目5-27住友不動産東京三田サウスタワー2階」（https://madoguchi.inc/about/・1回目）
+  - 「東京都港区三田3丁目5-27住友不動産東京三田サウスタワー2階」（https://madoguchi.inc/about/・1回目）
+  - 「東京都港区三田3丁目5-27 住友不動産東京三田サウスタワー2階」（https://job.mynavi.jp/28/pc/search/corp283679/outline.html・3回目）
+- 資本金・株主：
+  - 「時価総額300億円での上場、そして日本を牽引する企業を目指します」（https://best100.v-tsushin.jp/company/madoguchi/・3回目）
+  - 「３年以内に上場予定」（https://best100.v-tsushin.jp/company/madoguchi/・3回目）
+  - 「これを達成するための通過点の1つとして、【3年後までの時価総額300億円上場】を見据え、現在は準備を進めております」（https://best100.v-tsushin.jp/company/madoguchi/・3回目）
+  - 「上場に向けて爆速で成長するmadoguchi株式会社の「競争＆信頼」のカルチャー ｜ミライのお仕事」（https://morejob.co.jp/mirai/madoguchi/・3回目）
+  - 「上場に向けて爆速で成長するmadoguchi株式会社の「競争＆信頼」のカルチャー」（https://morejob.co.jp/mirai/madoguchi/・3回目）
+  - 「madoguchiは資金調達やマーケティング戦略などに頼らず、社員一人ひとりが本当に地道に営業活動を続けることでクライアントを獲得してきました」（https://morejob.co.jp/mirai/madoguchi/・3回目）
+  - 「「上場・時価総額300億円」会社の目標を社員全員が共有」（https://morejob.co.jp/mirai/madoguchi/・3回目）
+  - 「2027年に時価総額300億円で上場」（https://morejob.co.jp/mirai/madoguchi/・3回目）
+  - 「上場や時価総額1,000億円の達成によって会社の価値を高めていくことは、madoguchiで働く社員全員の誇りになるでしょう」（https://morejob.co.jp/mirai/madoguchi/・3回目）
+  - 「私自身、実は最初は上場や時価総額300億円という目標がいまいちピンと来ていませんでした（笑）」（https://morejob.co.jp/mirai/madoguchi/・3回目）
+  - 「その中でmadoguchiの思いに触れ、一緒に上場を目指す仲間として頑張っていきたいと思い入社しました」（https://morejob.co.jp/mirai/madoguchi/・3回目）
+  - 「「みんなで会社をつくっていく」というイメージを持って、ぜひ一緒に上場を目指していきましょう！」（https://morejob.co.jp/mirai/madoguchi/・3回目）
+- 選出の記録：
+  - 「2024・2025・2026年：ベストベンチャー100 選出（3年連続）」（https://madoguchi.inc/about/・1回目）
+  - 「「熱狂ベンチャー100」選出（2025年）」（https://madoguchi.inc/about/・1回目）
+  - 「Great Place To Work Japan2025 選出」（https://madoguchi.inc/about/・1回目）
+  - 「ベストベンチャー100選出」（https://madoguchi.inc/about/・1回目）
+  - 「業界から注目される急成長企業として、2026年1月には3年連続でベストベンチャー100に選ばれました」（https://job.mynavi.jp/28/pc/search/corp283679/outline.html・3回目）
+  - 「madoguchi株式会社 安岡 尚和 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/madoguchi/・3回目）
+- 検索結果の抜粋：
+  - 「madoguchi について - madoguchi 株式 会社 — madoguchi について - madoguchi 株式 会社 madoguchi株式会社 https://madoguchi.inc > about」（https://madoguchi.inc/about/・3回目）
+  - 「madoguchi (株)の2027年度 会社概要 | マイナビ2028 — madoguchi (株)の2027年度 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp283679 > outline」（https://job.mynavi.jp/28/pc/search/corp283679/outline.html・3回目）
+  - 「madoguchi 株式 会社 安岡 尚和 - ベストベンチャー100 — madoguchi 株式 会社 安岡 尚和 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > madoguchi」（https://best100.v-tsushin.jp/company/madoguchi/・3回目）
+  - 「madoguchi 株式会社の 会社情報 - Wantedly — madoguchi 株式会社の 会社情報 - Wantedly Wantedly https://www.wantedly.com > companies > madoguchi」（https://www.wantedly.com/companies/madoguchi・3回目）
+  - 「madoguchi 株式 会社 | 【本社】営業本部 法人営業の求人 - Green — madoguchi 株式 会社 | 【本社】営業本部 法人営業の求人 - Green 転職サイトGreen https://www.green-japan.com > company > job」（https://www.green-japan.com/company/8966/job/332295・3回目）
+  - 「madoguchi (株)の2027年度会社概要 | マイナビ2028 — madoguchi (株)の2027年度会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp283679 > outline」（https://job.mynavi.jp/28/pc/search/corp283679/outline.html・3回目）
+  - 「madoguchi 株式会社 安岡 尚和 - ベストベンチャー100 — madoguchi 株式会社 安岡 尚和 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > madoguchi」（https://best100.v-tsushin.jp/company/madoguchi/・3回目）
+  - 「上場に向けて爆速で成長する madoguchi 株式会社の「競争 ... — 上場に向けて爆速で成長する madoguchi 株式会社の「競争 ... MoreJob株式会社 https://morejob.co.jp > ミライのお仕事 by MoreJob」（https://morejob.co.jp/mirai/madoguchi/・3回目）
+  - 「madoguchi 株式会社 | くらしの専門業者の集客を支援するWEB ... — madoguchi 株式会社 | くらしの専門業者の集客を支援するWEB ... madoguchi株式会社 https://madoguchi.inc」（https://madoguchi.inc/・3回目）
+  - 「madoguchi (株)の新卒採用・会社概要 | マイナビ2027 — madoguchi (株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp283679 > outline」（https://job.mynavi.jp/27/pc/search/corp283679/outline.html・3回目）
+  - 「成果 事例 - madoguchi 株式会社 — 成果 事例 - madoguchi 株式会社 madoguchi株式会社 https://madoguchi.inc > achievement」（https://madoguchi.inc/achievement/・3回目）
+  - 「madoguchi 株式会社｜多様性が交わり、シナジーが育つオフィス — madoguchi 株式会社｜多様性が交わり、シナジーが育つオフィス 株式会社ヴィス https://vis-produce.com > branding > workplace-design」（https://vis-produce.com/projects/branding/workplace-design/1401・3回目）
+- 株主：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部25頁・検索11回）
+
+## miraism
+- 公式URL：https://miraism.biz/（given）
+- 事業内容：■HR支援事業 ・理美容業界における人事関連サービス ・建設業界における人事関連サービス ・自動車整備士の人材紹介サービス ・ドライバーの人材紹介サービス ・飲食業界における人材紹介サービス ・製造業界における人材紹介サービス ・若手人材・プロフェッショナル人材の人材紹介サービス ・新卒人材の人材紹介サービス ■各種コンサルティング事業 ■各種営業支援事業（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+- 事業内容：①各種コンサルティング事業 ②HR支援事業(主に国家資格が必要な業種を中心とした特化型人材紹介事業) ③営業支援事業（https://best100.v-tsushin.jp/company/miraism/・3回目）
+- 事業内容：■HR支援事業 ・理美容業界における人事関連サービス ・建設業界における人事関連サービス ・自動車整備士の人材紹介サービス ・飲食業界における人材紹介サービス ・若手人材・プロフェッショナル人材の人材紹介サービス ・新卒人材の人材紹介サービス ■各種コンサルティング事業 ■各種営業支援事業 有料職業紹介事業許可：11-ユ-301357（https://tenshoku.mynavi.jp/company/388361/・3回目）
+- 資本金：9,000千円（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+- 資本金：900万円（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+- 資本金：900万円（https://best100.v-tsushin.jp/company/miraism/・3回目）
+- 創業年度：設立年月：2020年1月（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+- 創業年度：設立：2019年01月（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+- 創業年度：設立：2020年1月（https://tenshoku.mynavi.jp/company/388361/・3回目）
+- 従業員数：145名（https://tenshoku.mynavi.jp/company/388361/・3回目）
+- 所在地：(東京本社)　　東京都渋谷区円山町 (大阪支社)　　大阪府大阪市北区梅田 (本店所在地)　埼玉県さいたま市大宮区桜木町1丁目195番1号 大宮ソラミチKOZ 4F（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+- 所在地：埼玉県さいたま市大宮区桜木町1-195-1
+大宮ソラミチKOZ 4階（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+- 所在地：東京本社 ：東京都渋谷区円山町 大阪支社 ：大阪府大阪市北区梅田 (本店所在地：埼玉県さいたま市大宮区桜木町1丁目195番1号 大宮ソラミチKOZ 4F)（https://best100.v-tsushin.jp/company/miraism/・3回目）
+- 代表者：川野 洋平（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+- 代表者：代表取締役 川野 洋平（https://tenshoku.mynavi.jp/company/388361/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「製造工員特化型の人材紹介サービス「クラフトミライエージェント」を開始 | 株式会社miraismのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+  - 「製造工員特化型の人材紹介サービス「クラフトミライエージェント」を開始」（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+  - 「製造業における工員不足の解消に貢献するサービスとして、miraismが展開する人材紹介サービス「ミライエージェント」のラインナップに新たに追加」（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+  - 「株式会社miraism（東京本社：東京都渋谷区、代表取締役：川野 洋平、以下「当社」）は、2025年8月1日より、製造工員に特化した人材紹介サービス「クラフトミライエージェント」を開始いたしましたのでお知らせいたします」（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+  - 「製造業は日本の経済を支える基幹産業であり、その国際競争力の維持・強化は喫緊の課題です」（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+  - 「しかしながら、近年、国内の製造現場では人手不足が常態化しており、経済産業省の「2024年版ものづくり白書」によると、製造業における労働者数は減少傾向で、特に若年層で顕著です」（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+  - 「この製造工員不足は、少子高齢化による労働力人口の減少に加え、製造業に対するイメージの問題や他産業との人材獲得競争の激化など、複数の要因が絡み合って生じていると考えられます」（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+  - 「このままでは、国内製造業の生産基盤が揺らぎかねません」（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+  - 「本サービスは、人材採用ニーズを持つ製造現場とものづくりに意欲を持つ人材を最適にマッチングすることで、製造現場の安定稼働と成長を支援し、ひいては日本の製造業全体の活性化に貢献することを目指します」（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+  - 「・若手人材・プロフェッショナル人材の人材紹介サービス」（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+  - 「②HR支援事業(主に国家資格が必要な業種を中心とした特化型人材紹介事業)」（https://best100.v-tsushin.jp/company/miraism/・3回目）
+  - 「その中でも一番大きな事業はHR支援事業で、主に美容師や自動車整備士など、国家資格を必要とする業種を中心とした特化型人材紹介サービスがその柱です」（https://best100.v-tsushin.jp/company/miraism/・3回目）
+- 客は誰か：
+  - 「※「ベストベンチャー100」は、イシン(株)が提供する法人向け有料会員制サービスです」（https://www.wantedly.com/companies/company_3105777/about・3回目）
+  - 「日本の「食のインフラ」を守る、精肉・鮮魚加工の人材不足に挑む、業界特化型の人材紹介サービス「ミールミライエージェント」をサービスイン」（https://prtimes.jp/main/html/searchrlp/company_id/154599・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「製造業における工員不足の解消に貢献するサービスとして、miraismが展開する人材紹介サービス「ミライエージェント」のラインナップに新たに追加」（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+  - 「製造業は日本の経済を支える基幹産業であり、その国際競争力の維持・強化は喫緊の課題です」（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+  - 「しかしながら、近年、国内の製造現場では人手不足が常態化しており、経済産業省の「2024年版ものづくり白書」によると、製造業における労働者数は減少傾向で、特に若年層で顕著です」（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+  - 「この製造工員不足は、少子高齢化による労働力人口の減少に加え、製造業に対するイメージの問題や他産業との人材獲得競争の激化など、複数の要因が絡み合って生じていると考えられます」（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+  - 「このままでは、国内製造業の生産基盤が揺らぎかねません」（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+  - 「本サービスは、人材採用ニーズを持つ製造現場とものづくりに意欲を持つ人材を最適にマッチングすることで、製造現場の安定稼働と成長を支援し、ひいては日本の製造業全体の活性化に貢献することを目指します」（https://prtimes.jp/main/html/rd/p/000000010.000154599.html・3回目）
+  - 「10年後も100年後も、社員に、そして顧客に愛され、社会に貢献し続ける」（https://best100.v-tsushin.jp/company/miraism/・3回目）
+  - 「その中でも一番大きな事業はHR支援事業で、主に美容師や自動車整備士など、国家資格を必要とする業種を中心とした特化型人材紹介サービスがその柱です」（https://best100.v-tsushin.jp/company/miraism/・3回目）
+  - 「理美容・若手・建設・製造・物流・飲食など、多様な業界に向け、人材紹介・採用支援・組織改善を行っています」（https://www.wantedly.com/companies/company_3105777/about・3回目）
+  - 「また、クライアントと共に伴走する“ハンズオン型支援”を中心としており、机上の空論ではなく、現場に入り込みながら事業の成長を実現していきます」（https://www.wantedly.com/companies/company_3105777/about・3回目）
+  - 「理美容業界での転職や就職を希望する求職者様と、人材を募集している企業様をマッチングする業務を担当しています」（https://www.wantedly.com/companies/company_3105777/stories・3回目）
+  - 「企業様には、理美容師人材の推薦、採用したい人材像のヒアリング、求職者への訴求ポイントをまとめた求人票の作成を行います」（https://www.wantedly.com/companies/company_3105777/stories・3回目）
+- 資本金・株主：
+  - 「株式会社miraism、子会社「株式会社miravion」を設立 ― 共立ドクターズラボよりスキンケアブランド「KUJIME」を事業譲受」（https://prtimes.jp/main/html/searchrlp/company_id/154599・3回目）
+  - 「子会社の社名・本社所在地変更と代表取締役交代に関するお知らせ」（https://prtimes.jp/main/html/searchrlp/company_id/154599・3回目）
+  - 「株式会社miraismによるトントン株式会社の株式取得（子会社化）に関するお知らせ」（https://prtimes.jp/main/html/searchrlp/company_id/154599・3回目）
+  - 「株式会社miraismによる株式会社SONOSAKIの株式取得（子会社化）に関するお知らせ」（https://prtimes.jp/main/html/searchrlp/company_id/154599・3回目）
+- 選出の記録：
+  - 「株式会社miraism 川野洋平 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/miraism/・3回目）
+  - 「2025年度には「ベストベンチャー100」に2年連続で選出され、外部からの評価も拡大しています」（https://www.wantedly.com/companies/company_3105777/about・3回目）
+  - 「※「ベストベンチャー100」は、イシン(株)が提供する法人向け有料会員制サービスです」（https://www.wantedly.com/companies/company_3105777/about・3回目）
+  - 「エントリーした企業の中から、厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://www.wantedly.com/companies/company_3105777/about・3回目）
+- 検索結果の抜粋：
+  - 「株式会社 miraism ｜ 会社概要 — 株式会社 miraism ｜ 会社概要 株式会社miraism https://miraism.biz > company」（https://miraism.biz/company/・3回目）
+  - 「株式 会社miraism 川野洋平 - ベストベンチャー100 — 株式 会社miraism 川野洋平 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > miraism」（https://best100.v-tsushin.jp/company/miraism/・3回目）
+  - 「株式会社 miraism の 会社概要 - マイナビ転職 — 株式会社 miraism の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/388361/・3回目）
+  - 「株式 会社miraism の 会社 情報 - Wantedly — 株式 会社miraism の 会社 情報 - Wantedly Wantedly https://www.wantedly.com > company_3105777」（https://www.wantedly.com/companies/company_3105777・3回目）
+  - 「株式会社 miraism ｜会社概要 — 株式会社 miraism ｜会社概要 株式会社miraism https://miraism.biz > company」（https://miraism.biz/company/・3回目）
+  - 「株式会社 miraism 川野洋平 - ベストベンチャー100 — 株式会社 miraism 川野洋平 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > miraism」（https://best100.v-tsushin.jp/company/miraism/・3回目）
+  - 「株式会社 miraism の 事業 とカルチャー - Wantedly — 株式会社 miraism の 事業 とカルチャー - Wantedly Wantedly https://www.wantedly.com > Wantedly > 株式会社miraism」（https://www.wantedly.com/companies/company_3105777/about・3回目）
+  - 「株式会社 miraism の会社概要 - マイナビ転職 — 株式会社 miraism の会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/388361/・3回目）
+  - 「株式会社 miraism 、子会社「株式会社miravion」を設立 ― 共立 ... — 株式会社 miraism 、子会社「株式会社miravion」を設立 ― 共立 ... PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000019.000154599.html・3回目）
+  - 「株式会社 miraism | 理容師・美容師・施工管理技士・電気工事 ... — 株式会社 miraism | 理容師・美容師・施工管理技士・電気工事 ... 株式会社miraism https://miraism.biz」（https://miraism.biz/・3回目）
+  - 「株式会社 miraism の働き方とストーリー - Wantedly — 株式会社 miraism の働き方とストーリー - Wantedly Wantedly https://www.wantedly.com > Wantedly > 株式会社miraism」（https://www.wantedly.com/companies/company_3105777/stories・3回目）
+  - 「株式会社 miraism のプレスリリース - PR TIMES — 株式会社 miraism のプレスリリース - PR TIMES PR TIMES https://prtimes.jp > main > html > searchrlp > company_id」（https://prtimes.jp/main/html/searchrlp/company_id/154599・3回目）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索11回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索11回）
+
+## このめホールディングス
+- 公式URL：https://konome.co.jp/（given）
+- 事業内容：・新規事業の開発、投資、M&A、以下事業を行うグループ会社の経営支援 及びPMI ・アイドル事務所運営 ・ライバー事務所運営 ・SaaS×インサイドセールス特化の営業代行事業運営（https://best100.v-tsushin.jp/company/konome/・3回目）
+- 事業内容：グループ会社の経営指導や、事業買収(M&A)など（https://prtimes.jp/main/html/rd/p/000000007.000082536.html・3回目）
+- 資本金：500万円（https://best100.v-tsushin.jp/company/konome/・3回目）
+- 資本金：3,000,000円（https://konome-music.com/about/・3回目）
+- 資本金：500万円（https://prtimes.jp/main/html/rd/p/000000007.000082536.html・3回目）
+- 創業年度：設立：2023年4月（https://konome-music.com/about/・3回目）
+- 創業年度：設立：2021/04（https://initial.inc/companies/A-GHHFO・3回目）
+- 創業年度：設立：2024年4月1日（https://prtimes.jp/main/html/rd/p/000000007.000082536.html・3回目）
+- 株主：VC不明（https://initial.inc/companies/A-GHHFO・3回目）
+- 所在地：東京都台東区柳橋1-4-3 ツイントラスⅡビル7階（https://best100.v-tsushin.jp/company/konome/・3回目）
+- 所在地：東京都台東区柳橋1-4-3 ツイントラスⅡビル 7階 Googleマップで見る（https://konome-music.com/about/・3回目）
+- 所在地：東京都台東区柳橋1-4-3 ツイントラスⅡビル 7階（https://initial.inc/companies/A-GHHFO・3回目）
+- 代表者：百田 遼太郎（https://konome-music.com/about/・3回目）
+- 代表者：根岸　賢伍（https://initial.inc/companies/A-GHHFO・3回目）
+- 代表者：根岸賢伍（https://prtimes.jp/main/html/rd/p/000000007.000082536.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「ライバー事務所を私が運営することで業界の課題を解決していき、受け取った愛情をライブ配信に関わる皆様に恩返しとしてお返ししたいという想いで事業に励んでいます」（https://konome.co.jp/・1回目）
+  - 「ライバー事務所を運営し、ライバーの皆さまと連絡を取るうちに、副業としてライバーをしている皆さまから本業の転職相談を受けることが多いことに気づきました」（https://konome.co.jp/・1回目）
+  - 「そのような方々のお役に立てるならばと考え、職業紹介免許を取得し、弊社所属ライバーさんを始め、世の中の皆さまに対して、適職をご紹介できるよう日々励んでおります」（https://konome.co.jp/・1回目）
+  - 「└DSD（DX support desk）の運営」（https://konome.co.jp/・1回目）
+  - 「└ライバーメディア「SHIP!!magazine」の運営」（https://konome.co.jp/・1回目）
+  - 「└アイドルオーディション「OUR PLACE TO BE...」の運営」（https://konome.co.jp/・1回目）
+  - 「・SaaS×インサイドセールス特化の営業代行事業運営」（https://best100.v-tsushin.jp/company/konome/・3回目）
+  - 「2026年1月時点ではアイドル/ライバー/営業の会社を主要ポートフォリオとしており、特にアイドル事業運営会社は前年比約300%の売上成長率かつ、全社を活気づけるユニークなものとなっています」（https://best100.v-tsushin.jp/company/konome/・3回目）
+  - 「」という想いをキャッチすることができ、アイドル事業運営会社の社内起業に至りました」（https://best100.v-tsushin.jp/company/konome/・3回目）
+  - 「ライバー事業・法人営業事業・アイドル事業・人材紹介事業を展開」（https://initial.inc/companies/A-GHHFO・3回目）
+  - 「公式ライバー事務所「SHIP!!」等の運営」（https://initial.inc/companies/A-GHHFO・3回目）
+  - 「3年間で運営してきた複数の事業を、会社分割等を通して1事業毎に分け、この度の株式移転によってグループ経営体制に移行しました」（https://prtimes.jp/main/html/rd/p/000000007.000082536.html・3回目）
+- 客は誰か：
+  - 「上場企業やシリーズB以上の企業を主なお取引先として、BtoBインサイドセールスに特化した営業代理店を運営しており、SaaSやDX、クラウド商材を専門にお取り扱いしています」（https://prtimes.jp/main/html/rd/p/000000007.000082536.html・3回目）
+- 資本金・株主：
+  - 「株式会社このめ ベトナム上場企業子会社PGT SOLUTIONS JSCと資本業務提携」（https://initial.inc/companies/A-GHHFO・3回目）
+  - 「上場企業やシリーズB以上の企業を主なお取引先として、BtoBインサイドセールスに特化した営業代理店を運営しており、SaaSやDX、クラウド商材を専門にお取り扱いしています」（https://prtimes.jp/main/html/rd/p/000000007.000082536.html・3回目）
+  - 「ハノイ証券取引所に上場しているPGTホールディングス（証券コード：PGT）の子会社」（https://prtimes.jp/main/html/rd/p/000000007.000082536.html・3回目）
+  - 「その他：京都府と愛知県にサテライトオフィス及び提携スタジオ有 / ベトナムに出資先有」（https://prtimes.jp/main/html/rd/p/000000007.000082536.html・3回目）
+- 選出の記録：
+  - 「2026年度ベストベンチャー100に選出されました」（https://konome.co.jp/・1回目）
+  - 「株式会社このめホールディングス 根岸 賢伍 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/konome/・3回目）
+  - 「株式会社このめミュージックは、「ベストベンチャー100」に選出された株式会社このめホールディングスのグループ会社です」（https://konome-music.com/about/・3回目）
+- 検索結果の抜粋：
+  - 「株式 会社このめホールディングス 根岸 賢伍 — 株式 会社このめホールディングス 根岸 賢伍 ベストベンチャー100 https://best100.v-tsushin.jp > company > konome」（https://best100.v-tsushin.jp/company/konome/・3回目）
+  - 「株式 会社 このめ — 株式 会社 このめ 株式会社 このめ https://konome.co.jp」（https://konome.co.jp/・3回目）
+  - 「ABOUT - 株式 会社このめ ミュージック — ABOUT - 株式 会社このめ ミュージック 株式会社このめミュージック https://konome-music.com > about」（https://konome-music.com/about/・3回目）
+  - 「株式会社 このめホールディングス 根岸 賢伍 — 株式会社 このめホールディングス 根岸 賢伍 ベストベンチャー100 https://best100.v-tsushin.jp > company > konome」（https://best100.v-tsushin.jp/company/konome/・3回目）
+  - 「ねぎ | このめホールディングス CEO (@negineginegisi) / X — ねぎ | このめホールディングス CEO (@negineginegisi) / X X https://x.com > negineginegisi」（https://x.com/negineginegisi・3回目）
+  - 「株式 会社 このめホールディングス 根岸 賢伍 — 株式 会社 このめホールディングス 根岸 賢伍 ベストベンチャー100 https://best100.v-tsushin.jp > company > konome」（https://best100.v-tsushin.jp/company/konome/・3回目）
+  - 「M&Aにより 株式 会社コマテンのアイドル事業を譲受いたしまし ... — M&Aにより 株式 会社コマテンのアイドル事業を譲受いたしまし ... 株式会社 このめ https://konome.co.jp > maにより株式会社コマテンのアイ...」（https://konome.co.jp/ma%E3%81%AB%E3%82%88%E3%82%8A%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%83%9E%E3%83%86%E3%83%B3%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E4%BA%8B%E6%A5%AD%E3%82%92%E8%AD%B2%E5%8F%97/・3回目）
+  - 「2026年度「ベストベンチャー100」に選出されました！ — 2026年度「ベストベンチャー100」に選出されました！ 株式会社このめミュージック https://konome-music.com > NEWS」（https://konome-music.com/2026/01/10/best-venture-100/・3回目）
+  - 「株式会社 このめ — 株式会社 このめ 株式会社 このめ https://konome.co.jp」（https://konome.co.jp/・3回目）
+  - 「株式会社 このめ の会社情報 - Wantedly — 株式会社 このめ の会社情報 - Wantedly Wantedly https://www.wantedly.com > companies > konome」（https://www.wantedly.com/companies/konome・3回目）
+  - 「ABOUT - 株式会社 このめ ミュージック — ABOUT - 株式会社 このめ ミュージック 株式会社このめミュージック https://konome-music.com > about」（https://konome-music.com/about/・3回目）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索11回）
+- 客の産業（導入事例・取引先）：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索11回）
+
+## アイ・ディ・エイチ
+- 公式URL：https://www.idh-net.co.jp（given）
+- 事業内容：システムエンジニアリングサービス（SES）事業 受託開発事業 各種ソフトウェア、Webサービス開発事業 フリーランスエンジニア向け案件紹介事業 オンラインプログラミングスクール事業 労働者派遣事業（派11-301834） マージン率 有料職業紹介事業（11-ユ-301469）（https://idh-net.co.jp/company/overview/・1回目）
+- 資本金：8,000万円（資本準備金含む）（https://idh-net.co.jp/company/overview/・1回目）
+- 創業年度：設立：2014年7月8日（https://idh-net.co.jp/company/overview/・1回目）
+- 創業年度：設立：2014年7月8日（https://type.jp/job-company/20878/・3回目）
+- 従業員数：475名　※2026年6月時点（https://idh-net.co.jp/company/overview/・1回目）
+- 従業員数：475名 平均年齢／39歳（https://type.jp/job-company/20878/・3回目）
+- 売上高：36億円（https://type.jp/job-company/20878/・3回目）
+- 所在地：本社 〒340-0023 埼玉県草加市谷塚町580-1 エスワンプラザ3F-1 東京営業所 〒110-0015 東京都台東区東上野3-8-7 矢口ビル4階C（https://idh-net.co.jp/company/overview/・1回目）
+- 代表者：伊藤貞治（https://idh-net.co.jp/company/overview/・1回目）
+- 代表者：代表取締役社長　伊藤貞治（https://type.jp/job-company/20878/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「どんな課題にも一括対応する請負開発サービス」（https://idh-net.co.jp/・1回目）
+  - 「労働者派遣事業（派11-301834）」（https://idh-net.co.jp/company/overview/・1回目）
+  - 「有料職業紹介事業（11-ユ-301469）」（https://idh-net.co.jp/company/overview/・1回目）
+  - 「SES・受託開発事業から一歩進み、プロエンジニア集団による創造的自社開発企業へと成長しています」（https://idh-net.co.jp/company/history/・1回目）
+  - 「IDHの人材派遣・紹介は、20代・30代の若手に特化した独自の人材支援サービスです」（https://idh-net.co.jp/services/staffing/・1回目）
+  - 「「派遣」「紹介」の両方のニーズに対応し、柔軟かつ最適な人材活用を実現します」（https://idh-net.co.jp/services/staffing/・1回目）
+  - 「その知見を活かし、派遣・紹介においても「ミスマッチを防ぐ確かな選定力」でご期待にお応えします」（https://idh-net.co.jp/services/staffing/・1回目）
+  - 「そのスキルは今すぐマネタイズ（収益化）できる！多忙なエンジニアが最短10分、スキマ時間で稼げます」（https://idh-net.co.jp/reviewmarkets/・1回目）
+  - 「運営会社である株式会社アイ・ディ・エイチでは、2014年の創業当時からエンジニアの技術力向上の一手段として副業を認めています」（https://idh-net.co.jp/reviewmarkets/・1回目）
+  - 「一方、IT企業として事業を進める中、お客様から「レガシーとなったVBAを改修したい」「自分で作ったプログラムを見て欲しい」「ソースコードのレビューだけを依頼したい」といったご依頼が多く、クラウドソーシングサービスでよく見かけるタスク案件のような負担の少ない請負業務の需要の高さを実感してきました」（https://idh-net.co.jp/reviewmarkets/・1回目）
+  - 「ReviewMarkets（レビュマ）運営会社」（https://idh-net.co.jp/reviewmarkets/・1回目）
+  - 「IDHの受託開発は、刷新から運用定着まで一貫対応」（https://idh-net.co.jp/contract/lpba/・1回目）
+- 客は誰か：
+  - 「プログラミングのコードレビューサービス「ReviewMarkets（レビュマ）」をリリース（個人向け）」（https://idh-net.co.jp/company/history/・1回目）
+  - 「システム開発をサポートする法人向けコードレビューサービス「レビュマビジネス」をリリース」（https://idh-net.co.jp/company/history/・1回目）
+  - 「※「ベストベンチャー100」は、イシン(株)が提供する法人向け有料会員制サービスです」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「キャリアアップが出来るIT企業 No.1」（https://idh-net.co.jp/company/overview/・1回目）
+  - 「一方、IT企業として事業を進める中、お客様から「レガシーとなったVBAを改修したい」「自分で作ったプログラムを見て欲しい」「ソースコードのレビューだけを依頼したい」といったご依頼が多く、クラウドソーシングサービスでよく見かけるタスク案件のような負担の少ない請負業務の需要の高さを実感してきました」（https://idh-net.co.jp/reviewmarkets/・1回目）
+  - 「ユーザー行動の詳細分析に基づいたカスタマイズ技術で、顧客満足度を高めます」（https://idh-net.co.jp/contract/lpba/・1回目）
+  - 「350名を超えるエンジニアの豊富な経験を活かし、画期的で操作性に優れたスマホアプリを提供し、クライアントの市場競争力向上を後押しします」（https://idh-net.co.jp/contract/lpba/・1回目）
+  - 「クラウドまたはオンプレミスで、顧客の要求に即した最適なインフラを構築します」（https://idh-net.co.jp/contract/lpba/・1回目）
+  - 「競合他社と差別化を図り、ターゲット顧客の心に響く魅力的なデザインを通じて、企業の価値を最大限に引き出し、強力な共感を生み出すソリューションを実現します」（https://idh-net.co.jp/contract/lpba/・1回目）
+  - 「これらの取り組みにより、クライアント企業の売上を大幅に増加させ、業界内での評価を向上させることが可能です」（https://idh-net.co.jp/contract/lpba/・1回目）
+  - 「IDH受託開発は、高度な技術力と柔軟な対応で、顧客から厚い信頼と評価を得ています」（https://idh-net.co.jp/contract/lpba/・1回目）
+  - 「直感的な操作性と拡張された機能により、顧客満足度を高めることができました」（https://idh-net.co.jp/contract/lpba/・1回目）
+  - 「【ホワイト企業ランキングTOP100ランクイン】「やりたいことをやろう」をモットーに、創業11年で1000倍以上成長しているIT企業 ＃残業月平均4.47時間＃有給消化率100％」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+  - 「設立から11年で社員数466名、売上高32億円と急成長のIT企業です」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+  - 「採用と教育に特化した企業として「人財100」に選出」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+- 資本金・株主：
+  - 「設立以来11期連続増収＆売上32億円を突破！数年以内の上場を見据える成長企業です」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+  - 「2014年に伊藤貞治社長が資本金10万円を元手に1人で創業したアイ・ディ・エイチ」（https://net.keizaikai.co.jp/archives/1440・3回目）
+  - 「資本金 500万円」（https://net.keizaikai.co.jp/archives/1440・3回目）
+  - 「(株)サンクゼール 【東証グロース上場／久世福商店】」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+  - 「日本プロセス(株)【東証スタンダード上場】」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+  - 「(株)シーイーシー【東証プライム市場上場】」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+  - 「(株)フォーカスシステムズ【東証プライム市場上場】」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+  - 「数年以内の株式上場も目標としており、更なる成長が見込まれている」（https://type.jp/job-company/20878/・3回目）
+  - 「また、現在は上場を視野に入れて活動中」（https://jinjibu.jp/hr-conference/report/r202405/report.php?sid=3561・3回目）
+  - 「(株)オービックビジネスコンサルタント【東証プライム市場上場】」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+- 選出の記録：
+  - 「人財採用と育成に力を入れている企業として「人財100」に選出」（https://idh-net.co.jp/company/history/・1回目）
+  - 「「ベストベンチャー100」に選出」（https://idh-net.co.jp/company/history/・1回目）
+  - 「ホワイト企業総合研究所監修のランキングに2025～2027年度の3年連続で選出されました」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+  - 「＜ベストベンチャー100選出＞」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+  - 「こちらは5年連続で選出されています」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+  - 「※「ベストベンチャー100」は、イシン(株)が提供する法人向け有料会員制サービスです」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+  - 「エントリーした企業の中から、厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+  - 「採用と教育に特化した企業として「人財100」に選出」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+  - 「勢いのあるベンチャー企業として「ベストベンチャー100」に選出」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+  - 「勢いのあるベンチャー企業として「ベストベンチャー100」に再選」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+  - 「勢いのあるベンチャー企業として「ベストベンチャー100」に2年連続で選出」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+  - 「勢いのあるベンチャー企業として「ベストベンチャー100」に3年連続で選出」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+- 検索結果の抜粋：
+  - 「(株) アイ ・ ディ ・ エイチ の 会社概要 | マイナビ2028 — (株) アイ ・ ディ ・ エイチ の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp269836 > outline」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+  - 「会社概要 - 株式会社 アイ ・ ディ ・ エイチ — 会社概要 - 株式会社 アイ ・ ディ ・ エイチ 株式会社アイ・ディ・エイチ https://idh-net.co.jp > company > overview」（https://idh-net.co.jp/company/overview/・3回目）
+  - 「株式 会社アイ ・ ディ ・ エイチ の求人・中途採用 - Type — 株式 会社アイ ・ ディ ・ エイチ の求人・中途採用 - Type type転職サイト https://type.jp > 掲載企業一覧」（https://type.jp/job-company/20878/・3回目）
+  - 「株式 会社アイ ・ ディ ・ エイチ の転職・企業 概要 - doda — 株式 会社アイ ・ ディ ・ エイチ の転職・企業 概要 - doda doda https://doda.jp > View > Company > j_id__10151103619」（https://doda.jp/DodaFront/View/Company/j_id__10151103619/・3回目）
+  - 「(株) アイ ・ ディ ・ エイチ の会社概要 | マイナビ2028 — (株) アイ ・ ディ ・ エイチ の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp269836 > outline」（https://job.mynavi.jp/28/pc/search/corp269836/outline.html・3回目）
+  - 「株式会社 アイ ・ ディ ・ エイチ の求人・中途採用 - Type — 株式会社 アイ ・ ディ ・ エイチ の求人・中途採用 - Type type転職サイト https://type.jp > 掲載企業一覧」（https://type.jp/job-company/20878/・3回目）
+  - 「ITエンジニアの転職はIDH｜もっと自由にキャリアを楽しむ。 — ITエンジニアの転職はIDH｜もっと自由にキャリアを楽しむ。 株式会社アイ・ディ・エイチ https://idh-net.co.jp > recruit > lpr001」（https://idh-net.co.jp/recruit/lpr001/・3回目）
+  - 「株式会社 アイ ・ ディ ・ エイチ (@idh4all) - Facebook — 株式会社 アイ ・ ディ ・ エイチ (@idh4all) - Facebook Facebook https://www.facebook.com > ...」（https://www.facebook.com/idh4all/・3回目）
+  - 「株式会社 アイ ・ ディ ・ エイチ の会社情報 - Wantedly — 株式会社 アイ ・ ディ ・ エイチ の会社情報 - Wantedly Wantedly https://www.wantedly.com > company_8351772」（https://www.wantedly.com/companies/company_8351772・3回目）
+  - 「株式会社 アイ ・ ディ ・ エイチ - YouTube — 株式会社 アイ ・ ディ ・ エイチ - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=7EGia56Mf4Y・3回目）
+  - 「SES サービス概要 株式会社 アイ ・ ディ ・ エイチ — SES サービス概要 株式会社 アイ ・ ディ ・ エイチ 株式会社アイ・ディ・エイチ https://idh-net.co.jp > services > ses」（https://idh-net.co.jp/services/ses/・3回目）
+  - 「株式会社 アイ ・ ディ ・ エイチ — 株式会社 アイ ・ ディ ・ エイチ 株式会社アイ・ディ・エイチ https://idh-net.co.jp」（https://idh-net.co.jp/・3回目）
+- 株主：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部20頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部20頁・検索11回）
+
+## アドキャスト
+- 公式URL：https://www.ad-cast.info/（given）
+- 事業内容：グループ事業会社の経営管理（https://www.ad-cast.co.jp/company.php・3回目）
+- 事業内容：不動産購入売却に関するコンサルティングサービス業／不動産有効活用に関するコンサルティング業／不動産仲介業（https://best100.v-tsushin.jp/company/ad-cast/・3回目）
+- 資本金：8000万円（https://www.ad-cast.info/outline/・1回目）
+- 資本金：1億円（https://www.ad-cast.co.jp/company.php・3回目）
+- 資本金：8000万円（https://ad-cast.work/company/・3回目）
+- 創業年度：設立年月日：2006年8月（https://www.ad-cast.info/outline/・1回目）
+- 創業年度：設立：2024年4月（https://www.ad-cast.co.jp/company.php・3回目）
+- 創業年度：設立年月日：2006年8月（https://ad-cast.work/company/・3回目）
+- 従業員数：287名（2026年10月1日現在）（https://www.ad-cast.info/outline/・1回目）
+- 従業員数：グループ全体：392人（2026年10月1日現在）（https://www.ad-cast.co.jp/company.php・3回目）
+- 従業員数：従業員数：287名（2026.10月時点）（https://ad-cast.work/company/・3回目）
+- 売上高：11億円（https://syukatsu-kaigi.jp/companies/86479/post_items/6/word_mouths・3回目）
+- 所在地：〒150-0022 東京都渋谷区恵比寿南1-25-1 恵比寿プラックスビル 5F 電話番号 03-5773-4111 FAX番号     03-5773-4114（https://www.ad-cast.info/outline/・1回目）
+- 所在地：〒150-0022 東京都渋谷区恵比寿南1-25-1 恵比寿プラックスビル 5F 電話番号 03-5773-4111 FAX番号 03-5773-4114 恵比寿店ホームページはこちら（https://www.ad-cast.info/outline/・1回目）
+- 所在地：〒113-0021 東京都文京区本駒込6-25-6 イトービル駒込 1F 電話番号 03-5940-8555 FAX番号 03-5940-8551 駒込店ホームページはこちら（https://www.ad-cast.info/outline/・1回目）
+- 代表者：藤森 哲也（https://www.ad-cast.info/outline/・1回目）
+- 代表者：藤森哲也（https://www.ad-cast.co.jp/company.php・3回目）
+- 代表者：藤森　哲也（https://ad-cast.work/company/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「仲介での売却期間中、内覧希望者へのご対応などのご協力をお願いする場合がございます」（https://www.ad-cast.info/purchase-guarantee/・1回目）
+  - 「仲介での売却の場合は仲介手数料が発生いたします」（https://www.ad-cast.info/purchase-guarantee/・1回目）
+  - 「買取の場合、仲介手数料は必要ございません」（https://www.ad-cast.info/purchase-guarantee/・1回目）
+  - 「とても満足のいく物件をご紹介いただき、本当に感謝しております」（https://www.ad-cast.info/voice/?page_num=3&emp_cd=&flg=・1回目）
+  - 「とても満足のいく物件をご紹介いただき、本当に感謝しております」（https://www.ad-cast.info/voice/?page_num=3&emp_cd=&flg=1・1回目）
+  - 「不動産仲介、コンサルティング」（https://www.bizreach.jp/companies/14565/・3回目）
+  - 「【売上】54億円（2026年3月）」（https://www.bizreach.jp/companies/14565/・3回目）
+  - 「高校卒業後、大手自動車販売会社に入社」（https://best100.v-tsushin.jp/company/ad-cast/・3回目）
+  - 「不動産購入売却に関するコンサルティングサービス業／不動産有効活用に関するコンサルティング業／不動産仲介業」（https://best100.v-tsushin.jp/company/ad-cast/・3回目）
+  - 「東京都23区を中心に、不動産売買仲介事業及び不動産コンサルティング業を展開しています」（https://best100.v-tsushin.jp/company/ad-cast/・3回目）
+  - 「「顧客利益を考えず売るだけ」、「テクニックに走るか、ごり押しの仕事スタイル」という不動産仲介業のあり方に疑念を抱き、顧客から頂く高額の仲介手数料に見合った、顧客の期待を超える売買仲介サービスを提供する会社を作ろうと思い、起業しました」（https://best100.v-tsushin.jp/company/ad-cast/・3回目）
+  - 「マイホームは、人生において一番大きな買い物といわれていますが、そのマイホームを販売している、不動産営業マンや業界に対するイメージは良くありません」（https://best100.v-tsushin.jp/company/ad-cast/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「東京都内全域の不動産なら株式会社アドキャスト」（https://www.ad-cast.info/・1回目）
+  - 「住宅購入に必要な情報を不動産のプロが毎月多彩なテーマでお伝えします！」（https://www.ad-cast.info/・1回目）
+  - 「不動産の相続で注意すべき７つのポイント」（https://www.ad-cast.info/・1回目）
+  - 「渋谷区の住みやすさは？理想の子育てライフ完全ガイド！充実の教育環境と都市機能で安心子育て」（https://www.ad-cast.info/・1回目）
+  - 「売却事例マップ｜東京都内全域の不動産なら株式会社アドキャスト」（https://www.ad-cast.info/contract/・1回目）
+  - 「買取保証サービス｜東京都内全域の不動産なら株式会社アドキャスト」（https://www.ad-cast.info/purchase-guarantee/・1回目）
+  - 「買取額をあらかじめ不動産会社と決めておくために、」（https://www.ad-cast.info/purchase-guarantee/・1回目）
+  - 「①アドキャストの媒介により自己所有の不動産を売却される個人のお客様」（https://www.ad-cast.info/purchase-guarantee/・1回目）
+  - 「お客様の声｜東京都内全域の不動産なら株式会社アドキャスト」（https://www.ad-cast.info/voice/・1回目）
+  - 「アドキャストとは？｜東京都内全域の不動産なら株式会社アドキャスト」（https://www.ad-cast.info/company/・1回目）
+  - 「新しいビジネスモデルを提案し不動産業界を健全化させ変革」（https://www.ad-cast.info/company/・1回目）
+  - 「常に一歩先を行き不動産業界をリードし業界のブランディングカンパニーを構築する」（https://www.ad-cast.info/company/・1回目）
+- 資本金・株主：
+  - 「【資本金】8,000万円」（https://www.bizreach.jp/companies/14565/・3回目）
+  - 「2030年に上場予定」（https://best100.v-tsushin.jp/company/ad-cast/・3回目）
+  - 「アドキャストグループとしては、現在グループ売上170億円ですが、来期から、売買仲介事業成長のためにホールディングス化し、M&AやIPOにより資金調達を行い、2035年には、売買仲介事業100億、アドキャストグループ1,000億企業を目指しています」（https://best100.v-tsushin.jp/company/ad-cast/・3回目）
+- 選出の記録：
+  - 「株式会社アドキャスト 藤森 哲也 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/ad-cast/・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 ・沿革 company - アドキャスト — 会社概要 ・沿革 company - アドキャスト ad-cast.co.jp https://www.ad-cast.co.jp > company」（https://www.ad-cast.co.jp/company.php・3回目）
+  - 「会社概要 ・募集要項 - 株式会社アドキャスト — 会社概要 ・募集要項 - 株式会社アドキャスト ad-cast.work https://ad-cast.work > company」（https://ad-cast.work/company/・3回目）
+  - 「株式 会社アドキャスト の求人・採用 情報 - ビズリーチ — 株式 会社アドキャスト の求人・採用 情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies」（https://www.bizreach.jp/companies/14565/・3回目）
+  - 「株式 会社アドキャスト 藤森 哲也 | ベストベンチャー100 — 株式 会社アドキャスト 藤森 哲也 | ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > ad-cast」（https://best100.v-tsushin.jp/company/ad-cast/・3回目）
+  - 「株式会社 アドキャスト の 会社概要 - マイナビ転職 — 株式会社 アドキャスト の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/445916/・3回目）
+  - 「株式会社 アドキャスト 藤森 哲也 | ベストベンチャー100 — 株式会社 アドキャスト 藤森 哲也 | ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > ad-cast」（https://best100.v-tsushin.jp/company/ad-cast/・3回目）
+  - 「DATA 数字で見るADCAST - 株式会社アドキャスト — DATA 数字で見るADCAST - 株式会社アドキャスト ad-cast.work https://ad-cast.work > job」（https://ad-cast.work/job/・3回目）
+  - 「アドキャスト の将来性・業績・ 売上 に関する評判・口コミ一覧 ... — アドキャスト の将来性・業績・ 売上 に関する評判・口コミ一覧 ... 就活会議 https://syukatsu-kaigi.jp > post_items > word_mouths」（https://syukatsu-kaigi.jp/companies/86479/post_items/6/word_mouths・3回目）
+  - 「アドキャスト の業績・将来性・強み・弱み - エン カイシャの評判 — アドキャスト の業績・将来性・強み・弱み - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company」（https://en-hyouban.com/company/10094891366/23/・3回目）
+  - 「【2024年最新】 アドキャスト で年収1000万円は可能？不動産 ... — 【2024年最新】 アドキャスト で年収1000万円は可能？不動産 ... リアルエステートWORKS https://realestateworks.jp > posts」（https://realestateworks.jp/posts/585・3回目）
+  - 「購入の流れ｜東京都内全域の不動産なら株式会社 アドキャスト — 購入の流れ｜東京都内全域の不動産なら株式会社 アドキャスト 株式会社アドキャスト https://www.ad-cast.info > purchase-flow」（https://www.ad-cast.info/purchase-flow/・3回目）
+  - 「会社概要・募集要項 - 株式会社アドキャスト — 会社概要・募集要項 - 株式会社アドキャスト ad-cast.work https://ad-cast.work > company」（https://ad-cast.work/company/・3回目）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索11回）
+
+## アドバンスジャパン
+- 公式URL：https://advance-jp.co.jp/company/（given）
+- 事業内容：人材紹介事業 人材派遣事業 セールスプロモーション事業 カスタマーサポート事業 イベント事業 テルル事業 求人広告代理店事業（https://advance-jp.co.jp/company/・1回目）
+- 事業内容：・通信業界に特化した人材アウトソーシング事業 ・大手キャリアなどを複数取り扱う携帯ショップ「テルル」を代理店として7店舗運営 ・各求人広告代理店・採用支援(BPO)（https://best100.v-tsushin.jp/company/advance-japan/・3回目）
+- 事業内容：◆セールスプロモーション事業 クライアント様から多く寄せられるご相談は「人手不足」です。 当事業部では、各勤務地での人材不足にお困りの企業様に対し、スタッフのご紹介から現場管理まで一貫して対応し、課題解決を行っています。 販売経験が豊富なプロフェッショナル人材が在籍しており、売上向上や現場改善に貢献しています。 ◆イベント事業 週末のショッピングモールなどで、携帯販売やPRイベントの運営を代行しています。 イベントの企画補助、集客、販売支援まで幅広く対応し、クライアント様の販売促進をサポートしています。 ◆代理店事業 携帯ショップ『テルル』を運営し、docomo・au・SoftBankなどの大手キャリアから格安SIMまで幅広く取り扱っています。 スマートフォンの操作案内や料金相談など、お客様一人ひとりに合った最適なプランをご提案し、契約手続きまで丁寧に対応しています。 【自社運営店舗】 ◎テルル大宮店 ◎テルル高円寺店 ◎テルル蒲田店 ◎テルルMEGAドン・キホーテ 三郷店 ◎テルルイトーヨーカドー横浜別所店 ◎テルルそよら横浜高田店 ◎テルルアリオ鷲宮店 --------------（https://job.mynavi.jp/28/pc/search/corp278205/outline.html・3回目）
+- 資本金：7,000万円（https://advance-jp.co.jp/company/・1回目）
+- 資本金：5,000万円（https://best100.v-tsushin.jp/company/advance-japan/・3回目）
+- 資本金：7,000万円（https://job.mynavi.jp/28/pc/search/corp278205/outline.html・3回目）
+- 創業年度：設立：2018年11月2日（https://advance-jp.co.jp/company/・1回目）
+- 創業年度：設立：2018年 11月2日（https://job.mynavi.jp/28/pc/search/corp278205/outline.html・3回目）
+- 従業員数：500名(正社員410名・委託社員,アルバイト90名) ※2026年10月時点（https://advance-jp.co.jp/company/・1回目）
+- 従業員数：500名(社員410名アルバイトスタッフ90名) ※2026年10月時点（https://job.mynavi.jp/28/pc/search/corp278205/outline.html・3回目）
+- 従業員数：500名(社員410名アルバイトスタッフ90名)
+※2026年10月時点（https://job.mynavi.jp/28/pc/search/corp278205/outline.html・3回目）
+- 売上高：30億円(2026年見込み) 21億円(2025年実績) 13億円(2024年実績) 7億円(2023年実績)（https://advance-jp.co.jp/company/・1回目）
+- 売上高：30億円(2026年見込み) 21億円(2025年実績) 13億円(2024年実績) 7億円(2023年実績)（https://job.mynavi.jp/28/pc/search/corp278205/outline.html・3回目）
+- 売上高：30億円(2026年見込み)
+21億円(2025年実績)
+13億円(2024年実績)
+7億円(2023年実績)（https://job.mynavi.jp/28/pc/search/corp278205/outline.html・3回目）
+- 所在地：(本社) 〒170-0013 東京都豊島区東池袋1-25-6 PMO池袋8階 アドバンスジャパン株式会社 【アクセス】 JR線・東京メトロ丸ノ内線・有楽町線・副都心線　池袋駅35番出口から徒歩5分 東京メトロ有楽町線　東池袋駅2番出口から徒歩3分 Google map（https://advance-jp.co.jp/company/・1回目）
+- 所在地：東京都豊島区東池袋1-25-6 PMO池袋8階（https://best100.v-tsushin.jp/company/advance-japan/・3回目）
+- 所在地：170-0013（https://job.mynavi.jp/28/pc/search/corp278205/outline.html・3回目）
+- 主要取引先：アルティウスリンク株式会社 SBモバイルサービス株式会社 株式会社NTTドコモ 株式会社エフ・オー・プランニング 兼松コミュニケーションズ株式会社 KDDI Sonic-Falcon株式会社 KDDIプリシード株式会社 株式会社新通エスピー ソフトバンク株式会社 株式会社ティーガイア 株式会社ドコモCS ビッグローブ株式会社 株式会社ピアズ 株式会社ピーアップ 株式会社ラネット 株式会社レジェンドプロモーション （五十音順）（https://advance-jp.co.jp/company/・1回目）
+- 主要取引先：アルティウスリンク株式会社 SBモバイルサービス株式会社 株式会社NTTドコモ 株式会社エフ・オー・プランニング 兼松コミュニケーションズ株式会社 KDDI Sonic-Falcon株式会社 KDDIプリシード株式会社 株式会社新通エスピー ソフトバンク株式会社 株式会社ティーガイア 株式会社ドコモCS ビッグローブ株式会社 株式会社ピアズ 株式会社ピーアップ 株式会社ラネット 株式会社レジェンドプロモーション （五十音順）（https://job.mynavi.jp/28/pc/search/corp278205/outline.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「→ 労働者派遣法に基づく情報公開について（PDFダウンロード）」（https://advance-jp.co.jp/company/・1回目）
+  - 「一般労働者派遣事業許可番号 （派）13-315309」（https://advance-jp.co.jp/company/・1回目）
+  - 「有料職業紹介事業許可番号 13-ユ-312972」（https://advance-jp.co.jp/company/・1回目）
+  - 「販売代理店届出番号 C2201649」（https://advance-jp.co.jp/company/・1回目）
+  - 「一般派遣免許取得（許可番号／派13-315309）」（https://advance-jp.co.jp/company/・1回目）
+  - 「有料職業紹介取得（許可番号／13-ユ-312972）」（https://advance-jp.co.jp/company/・1回目）
+  - 「アドバンスジャパンは、セールスプロモーション・人材派遣・イベント運営をはじめ、採用支援や広告、代理店運営まで、多岐にわたる分野で事業を展開しています」（https://advance-jp.co.jp/about/・1回目）
+  - 「創業より通信業界のクライアント様へ業務委託・人材派遣、更に携帯ショップの運営（テルル）を生業とし、今日に至ります」（https://advance-jp.co.jp/about/・1回目）
+  - 「アドバンスジャパンは、セールスプロモーション・人材派遣・イベント運営をはじめ、採用支援や広告、代理店運営まで、多岐にわたる分野で事業を展開しています」（https://advance-jp.co.jp/business/・1回目）
+  - 「アドバンスジャパンのセールスプロモーション事業は、店頭や商業施設、イベント会場などリアルな現場での販売促進活動を支援しています」（https://advance-jp.co.jp/business/・1回目）
+  - 「商品やサービスの魅力を最大限に引き出す企画・人材・運営体制を構築し、消費者の購買意欲を喚起」（https://advance-jp.co.jp/business/・1回目）
+  - 「クライアントの商品が「売れる」環境を現場から作り出し、売上アップに貢献しています」（https://advance-jp.co.jp/business/・1回目）
+- 客は誰か：
+  - 「法人向け携帯電話や固定回線をはじめ、タスク管理システム、ITセキュリティサービス、AI関連サービスなど、多様な商材を通じてお客様の課題解決と業務効率化を支援」（https://advance-jp.co.jp/business/・1回目）
+  - 「【新規領域・BtoB営業（求人広告など）】」（https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「先へ進もうとするすべての人に、前向きなエネルギーを届けるシンボルとなっています」（https://advance-jp.co.jp/company/・1回目）
+  - 「各事業部が専門性を高めながら連携し、クライアントや社会のニーズに柔軟かつ迅速に応える体制を構築しています」（https://advance-jp.co.jp/about/・1回目）
+  - 「クライアント一社一社の課題に対して、最適なチームとソリューションを編成し、“一歩先の成果”をともに創り上げていきます」（https://advance-jp.co.jp/about/・1回目）
+  - 「創業より通信業界のクライアント様へ業務委託・人材派遣、更に携帯ショップの運営（テルル）を生業とし、今日に至ります」（https://advance-jp.co.jp/about/・1回目）
+  - 「私は設立時、大学4年生の若者でしたが、たくさんのクライアント様やスタッフの皆様、」（https://advance-jp.co.jp/about/・1回目）
+  - 「アドバンスジャパンで私が築き上げたいのは当社のM.V.V（ミッション・ビジョン・バリュー）の中にある、アドバンスジャパンを通じて人生を豊かに、共存共栄、1人でも多くの社員が入社して良かった、1社でも多くのクライアント様にアドバンスジャパンにお仕事を依頼して良かったと心から思ってもらえる会社になる事です」（https://advance-jp.co.jp/about/・1回目）
+  - 「クライアントの皆様、スタッフの皆様、そしてアドバンスジャパンに関わった全ての皆様」（https://advance-jp.co.jp/about/・1回目）
+  - 「各事業部が専門性を高めながら連携し、クライアントや社会のニーズに柔軟かつ迅速に応える体制を構築しています」（https://advance-jp.co.jp/business/・1回目）
+  - 「クライアント一社一社の課題に対して、最適なチームとソリューションを編成し、“一歩先の成果”をともに創り上げていきます」（https://advance-jp.co.jp/business/・1回目）
+  - 「クライアントの商品が「売れる」環境を現場から作り出し、売上アップに貢献しています」（https://advance-jp.co.jp/business/・1回目）
+  - 「カスタマーサポート事業部では、事務スタッフおよびコールセンタースタッフの人材派遣を通じて、企業の業務効率化と顧客対応品質の向上を支援しています」（https://advance-jp.co.jp/business/・1回目）
+  - 「クライアントのニーズに合わせた最適な人材提案と迅速な人員確保により、安定した業務運営をサポートいたします」（https://advance-jp.co.jp/business/・1回目）
+- 資本金・株主：
+  - 「資本金を2001万円に増資」（https://advance-jp.co.jp/company/・1回目）
+  - 「資本金を3000万円に増資」（https://advance-jp.co.jp/company/・1回目）
+  - 「資本金を4000万円に増資」（https://advance-jp.co.jp/company/・1回目）
+  - 「資本金を5000万円に増資」（https://advance-jp.co.jp/company/・1回目）
+  - 「資本金を7000万円に増資」（https://advance-jp.co.jp/company/・1回目）
+  - 「東京都清瀬市に「(株)AdvanCE Japan」を設立（資本金300万円）」（https://job.mynavi.jp/27/pc/search/corp207768/outline.html・3回目）
+  - 「資本金を1,000万円に増額」（https://job.mynavi.jp/27/pc/search/corp207768/outline.html・3回目）
+  - 「資本金を2,001万円に増資」（https://job.mynavi.jp/28/pc/search/corp278205/outline.html・3回目）
+  - 「資本金を3000万円に増資」（https://job.mynavi.jp/28/pc/search/corp278205/outline.html・3回目）
+  - 「資本金を4,000万円に増資」（https://job.mynavi.jp/28/pc/search/corp278205/outline.html・3回目）
+  - 「資本金を5000万円に増資」（https://job.mynavi.jp/28/pc/search/corp278205/outline.html・3回目）
+  - 「上場していたり、規模が大きければもらえた仕事だったのに、と感じる時は正直きついです」（https://note.com/the100voices/n/n2116d64c2572・3回目）
+- 選出の記録：
+  - 「2025年ベストベンチャー100に選出」（https://advance-jp.co.jp/company/・1回目）
+  - 「2026年ベストベンチャー100に選出」（https://advance-jp.co.jp/company/・1回目）
+  - 「社員一人ひとりが自分らしく前進しているからこそ組織も前進！成長が期待されるベンチャー企業100社にも選出された、勢いに乗る企業です」（https://job.mynavi.jp/28/pc/search/corp278205/outline.html・3回目）
+  - 「2025年ベストベンチャー100に選出」（https://job.mynavi.jp/28/pc/search/corp278205/outline.html・3回目）
+  - 「2026年ベストベンチャー100に選出」（https://job.mynavi.jp/28/pc/search/corp278205/outline.html・3回目）
+  - 「アドバンスジャパン株式会社 須貝 浩紀 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/advance-japan/・3回目）
+  - 「「ベストベンチャー100」にも選出され、成長フェーズにある企業」（https://recruit.advance-jp.co.jp/recruit/service/・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 | アドバンスジャパン 株式会社 — 会社概要 | アドバンスジャパン 株式会社 アドバンスジャパン株式会社 https://advance-jp.co.jp > company」（https://advance-jp.co.jp/company/・3回目）
+  - 「(株) AdvanCE Japan （ アドバンスジャパン ） - マイナビ — (株) AdvanCE Japan （ アドバンスジャパン ） - マイナビ マイナビ https://job.mynavi.jp > search > corp207768 > outline」（https://job.mynavi.jp/27/pc/search/corp207768/outline.html・3回目）
+  - 「アドバンスジャパン 株式 会社 須貝 浩紀 - ベストベンチャー100 — アドバンスジャパン 株式 会社 須貝 浩紀 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > advance-japan」（https://best100.v-tsushin.jp/company/advance-japan/・3回目）
+  - 「事業 紹介 | アドバンスジャパン 株式会社 — 事業 紹介 | アドバンスジャパン 株式会社 アドバンスジャパン株式会社 https://advance-jp.co.jp > business」（https://advance-jp.co.jp/business/・3回目）
+  - 「アドバンスジャパン (株)の会社概要 | マイナビ2028 — アドバンスジャパン (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp278205 > outline」（https://job.mynavi.jp/28/pc/search/corp278205/outline.html・3回目）
+  - 「アドバンスジャパン 株式会社 須貝 浩紀 - ベストベンチャー100 — アドバンスジャパン 株式会社 須貝 浩紀 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > advance-japan」（https://best100.v-tsushin.jp/company/advance-japan/・3回目）
+  - 「アドバンスジャパン株式 会社 須貝 浩紀 - ベストベンチャー100 — アドバンスジャパン株式 会社 須貝 浩紀 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > advance-japan」（https://best100.v-tsushin.jp/company/advance-japan/・3回目）
+  - 「会社概要 | アドバンスジャパン株式 会社 — 会社概要 | アドバンスジャパン株式 会社 アドバンスジャパン株式会社 https://advance-jp.co.jp > company」（https://advance-jp.co.jp/company/・3回目）
+  - 「アドバンスジャパン (株)の採用データ | マイナビ2027 — アドバンスジャパン (株)の採用データ | マイナビ2027 マイナビ https://job.mynavi.jp > corp278205 > recruiting_course」（https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html・3回目）
+  - 「販売職 - アドバンスジャパン採用サイト — 販売職 - アドバンスジャパン採用サイト アドバンスジャパン株式会社 https://recruit.advance-jp.co.jp > 募集職種 > 中途」（https://recruit.advance-jp.co.jp/recruit/service/・3回目）
+  - 「株式会社エコ アドバンスジャパン の独立開業プラン - アントレ — 株式会社エコ アドバンスジャパン の独立開業プラン - アントレ アントレ https://entrenet.jp > 代理店 > 各種サービス > その他」（https://entrenet.jp/dplan/0000655/・3回目）
+  - 「企業理念 | アドバンスジャパン 株式会社 — 企業理念 | アドバンスジャパン 株式会社 アドバンスジャパン株式会社 https://advance-jp.co.jp > philosophy」（https://advance-jp.co.jp/philosophy/・3回目）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部23頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部23頁・検索11回）
+
+## アドレクス
+- 公式URL：https://ishin1853.co.jp/aboutus.html（given）
+- 資本金：165百万円 (2026年6月末時点)（https://ishin1853.co.jp/company・1回目）
+- 従業員数：107名 (連結/2026年6月末時点)（https://ishin1853.co.jp/company・1回目）
+- 所在地：〒108-0075 東京都港区港南1-6-41　芝浦クリスタル品川 9F (TEL：03-5291-1580 FAX：03-5291-1581)（https://ishin1853.co.jp/company・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「有料職業紹介事業許可番号 13-ユ-311238 ※業務運営に関する規定は」（https://ishin1853.co.jp/company・1回目）
+  - 「HR事業（有料職業紹介事業）を新規事業として開始」（https://ishin1853.co.jp/company・1回目）
+  - 「売上成長率 約4,000%を達成」（https://ad-rex.com/company/・3回目）
+  - 「売上⾼100億円実現の⽬標と課題」（https://growth-100-oku.smrj.go.jp/companies/pdf/02110-00.pdf・3回目）
+  - 「売上⾼100億円実現に向けた具体的措置」（https://growth-100-oku.smrj.go.jp/companies/pdf/02110-00.pdf・3回目）
+  - 「※本宣⾔は企業⾃⾝がその責任において売上⾼１００億円を⽬指して、⾃社の取組を進める旨を宣⾔するものです」（https://growth-100-oku.smrj.go.jp/companies/pdf/02110-00.pdf・3回目）
+  - 「・AIを活⽤した業務効率化・新規事業⽀援といった“売上が伸び続ける仕組みづくり”を提供してきました」（https://growth-100-oku.smrj.go.jp/companies/pdf/02110-00.pdf・3回目）
+  - 「2028年に売上⾼100億円の達成を⽬標とし、年率40％程度の成⻑を」（https://growth-100-oku.smrj.go.jp/companies/pdf/02110-00.pdf・3回目）
+  - 「100億円達成後は、2033年に売上⾼300億円を最終⽬標とする」（https://growth-100-oku.smrj.go.jp/companies/pdf/02110-00.pdf・3回目）
+  - 「・ストック型収益の⽐率が低く、売上構成に偏りがある」（https://growth-100-oku.smrj.go.jp/companies/pdf/02110-00.pdf・3回目）
+  - 「〇現在の売上⾼︓10億円」（https://growth-100-oku.smrj.go.jp/companies/pdf/02110-00.pdf・3回目）
+  - 「あわせて、⾃社ツールの開発・活⽤による継続型収益モデルの強化、」（https://growth-100-oku.smrj.go.jp/companies/pdf/02110-00.pdf・3回目）
+- 客は誰か：
+  - 「また、2020年より個人向けにWebマーケターとして活躍するためのノウハウを提供する『ADREX MARKETING ACADEMY』という講座を主催しており、マーケティング業界を盛り立てるべく人材育成にも注力しています」（https://jo-katsu.com/campus/7497/・3回目）
+  - 「同業界における大手企業としては『電通グループ』『博報堂』『サイバーエージェント』『セプテーニ』などが挙げられます」（https://jo-katsu.com/campus/7497/・3回目）
+  - 「大手企業・アドレクスのようなスタートアップにはそれぞれに異なる魅力があります」（https://jo-katsu.com/campus/7497/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「1999年、​慶應義塾大学在学中に​『ベンチャー通信』を​創刊」（https://ishin1853.co.jp/company・1回目）
+  - 「2011年に​三井住友銀行入行」（https://ishin1853.co.jp/company・1回目）
+  - 「​2017年に​自治体領域事業部​事業部長に​就任」（https://ishin1853.co.jp/company・1回目）
+  - 「自治体の"経営力"を上げる情報メディア「自治体通信」を創刊」（https://ishin1853.co.jp/company・1回目）
+  - 「自治体向けテレマーケティング事業の提供を開始」（https://ishin1853.co.jp/company・1回目）
+  - 「自治体・民間企業向け情報配信プラットフォーム「RABAN」の提供を開始」（https://ishin1853.co.jp/company・1回目）
+  - 「〒541-0053 大阪市中央区本町4丁目2番12号 野村不動産御堂筋本町ビル8階 (シェアオフィスbillage OSAKA内)」（https://ishin1853.co.jp/company・1回目）
+  - 「本計画により、新規市場の開拓と既存顧客の深耕を両⽴させ、持続的な企業成⻑を実現する」（https://growth-100-oku.smrj.go.jp/companies/pdf/02110-00.pdf・3回目）
+  - 「クライアントファーストで挑む広告運用と効果分析」（https://www.firstcvc.jp/company/ad-rex.com・3回目）
+  - 「医療AI・創薬AI開発向け医用画像データ基盤を提供する企業」（https://www.firstcvc.jp/company/ad-rex.com・3回目）
+  - 「製造業の変革に伴走する実践型コンサルティングファーム」（https://www.firstcvc.jp/company/ad-rex.com・3回目）
+  - 「広告効果測定ツール「ADREX」の導入事例や特徴、口コミ・評判、費用について徹底リサーチ！ - 集客・広告戦略メディア「キャククル」」（https://www.shopowner-support.net/glossary/webmarketing-strategy/ad-rex/・3回目）
+- 資本金・株主：
+  - 「GMOインターネット株式会社・GMOベンチャーパートナーズ株式会社と共同出資により、GMOペンチャー通信スタートアップ支援株式会社を設立」（https://ishin1853.co.jp/company・1回目）
+  - 「【無料閲覧可】株式会社アドレクス / CLIENT FIRSTの資金調達推移・投資家情報 | FIRST CVC」（https://www.firstcvc.jp/company/ad-rex.com・3回目）
+  - 「資金調達は最新の1回分を無料で公開しています」（https://www.firstcvc.jp/company/ad-rex.com・3回目）
+  - 「資金調達（2021-06）」（https://www.firstcvc.jp/company/ad-rex.com・3回目）
+  - 「資金調達の全履歴と投資家を見る（無料登録）」（https://www.firstcvc.jp/company/ad-rex.com・3回目）
+  - 「2021年には1億円を超える資金調達を実現しており、22年にはニューヨークに支店を出店するなど、他のWebマーケティングビジネスを手掛けるスタートアップの比較しても、その勢いは際立っています」（https://jo-katsu.com/campus/7497/・3回目）
+  - 「こちらは2010年に設立され、2023年7月に東証グロース市場に上場しました」（https://jo-katsu.com/campus/7497/・3回目）
+- 選出の記録：
+  - 「成長が見込まれるベンチャー企業向け有料会員制サービス「ベストベンチャー100」の提供を開始」（https://ishin1853.co.jp/company・1回目）
+  - 「ベストベンチャー100選出」（https://ad-rex.com/company/・3回目）
+  - 「ベストベンチャー100に5年連続選出（2021〜2025年）、Forbes全世界版に掲載、紺綬褒章受章などの経歴を持」（https://growth-100-oku.smrj.go.jp/companies/pdf/02110-00.pdf・3回目）
+  - 「Amazonジャンル別ランキング１位獲得！！ 3年連続「ベストベンチャー100」に選出されたアドレクス代表、田代隼人による書き下ろし書籍『最短最速で成功にたどりつく異次元成功思考』！」（https://initial.inc/companies/A-43218・3回目）
+  - 「3年連続「ベストベンチャー100」に選出されたアドレクス代表、田代隼人による書き下ろし書籍『最短最速で成功にたどりつく異次元成功思考』がAmazon POD書籍、電子書籍で販売開始！」（https://initial.inc/companies/A-43218・3回目）
+  - 「株式会社アドレクス、2年連続で『ベストベンチャー100』に選出！」（https://prtimes.jp/main/html/searchrlp/company_id/63395・3回目）
+  - 「アドレクスは2021年度の『ベストベンチャー100』に選出されました！」（https://prtimes.jp/main/html/searchrlp/company_id/63395・3回目）
+  - 「2021年にはベストベンチャー100に選出され、以降は現在に至るまで毎年同賞に選出され続けています」（https://jo-katsu.com/campus/7497/・3回目）
+  - 「2021年から現在までベストベンチャー100に3年連続で選出されていることからも、業界内外で注目を浴びている企業です」（https://jo-katsu.com/campus/7497/・3回目）
+- 検索結果の抜粋：
+  - 「COMPANY - アドレクス — COMPANY - アドレクス 株式会社アドレクス https://ad-rex.com > company」（https://ad-rex.com/company/・3回目）
+  - 「株式会社 アドレクス （東京都）の 会社概要 ・役員 - Compalyze — 株式会社 アドレクス （東京都）の 会社概要 ・役員 - Compalyze Compalyze https://compalyze.co.jp > 企業検索」（https://compalyze.co.jp/company/7010401141815・3回目）
+  - 「【ADREX初の海外拠点を米ニューヨークに 設立 いたしました ... — 【ADREX初の海外拠点を米ニューヨークに 設立 いたしました ... Instagram https://www.instagram.com > CkfJmbuuwtt」（https://www.instagram.com/p/CkfJmbuuwtt/・3回目）
+  - 「ADREX、初の海外拠点を米ニューヨークに 設立 - PR TIMES — ADREX、初の海外拠点を米ニューヨークに 設立 - PR TIMES PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000018.000063395.html・3回目）
+  - 「2023年3月17日放送前半（株式 会社 ADREX代表取締役社長 ... — 2023年3月17日放送前半（株式 会社 ADREX代表取締役社長 ... ラジオNIKKEI https://www.radionikkei.jp > ... > 大人のラヂオ」（https://www.radionikkei.jp/otona/2023217_1.html・3回目）
+  - 「株式会社 アドレクス （インターネット広告業） - 100億宣言 — 株式会社 アドレクス （インターネット広告業） - 100億宣言 １００億企業成長ポータル PDF https://growth-100-oku.smrj.go.jp > companies > pdf」（https://growth-100-oku.smrj.go.jp/companies/pdf/02110-00.pdf・3回目）
+  - 「アドレクス の「企業分析［強み・弱み・展望］」 OpenWork — アドレクス の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > ... > アドレクス」（https://www.openwork.jp/company_answer.php?m_id=a0C2x000008ydvD&q_no=9・3回目）
+  - 「WEB広告スタートアップの アドレクス が4桁の 売上 高成長率を ... — WEB広告スタートアップの アドレクス が4桁の 売上 高成長率を ... PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000001.000063395.html・3回目）
+  - 「株式会社 アドレクス | ファンタビュー - Fanterview — 株式会社 アドレクス | ファンタビュー - Fanterview ファンタビュー https://www.fanterview.net > 通常インタビュー」（https://www.fanterview.net/interview/3583/・3回目）
+  - 「株式会社 アドレクス - FIRST CVC — 株式会社 アドレクス - FIRST CVC FIRST CVC https://www.firstcvc.jp > company > ad-rex」（https://www.firstcvc.jp/company/ad-rex.com・3回目）
+  - 「株式会社 アドレクス - スピーダ スタートアップ情報リサーチ — 株式会社 アドレクス - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-43218・3回目）
+  - 「株式会社 アドレクス （東京都）の会社概要・役員 - Compalyze — 株式会社 アドレクス （東京都）の会社概要・役員 - Compalyze Compalyze https://compalyze.co.jp > 企業検索」（https://compalyze.co.jp/company/7010401141815・3回目）
+- 事業内容：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部23頁・検索11回）
+- 創業年度：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部23頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部23頁・検索11回）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部23頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部23頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部23頁・検索11回）
+
+## アルトワイズ
+- 公式URL：https://artwize.co.jp/（given）
+- 事業内容：◆システムインテグレーション事業 ◆エンターテインメント事業 ◆自社サービス開発 ◆受託開発（https://tenshoku.mynavi.jp/company/321187/・3回目）
+- 事業内容：【開発事業】 委託開発、受託開発 プロジェクトに応じて柔軟に対応し、システム開発を行っています。（https://paiza.jp/recruiters/3416・3回目）
+- 事業内容：・システムインテグレーション事業 ・メディア事業 ・自社サービス開発・受託開発（https://saponet.mynavi.jp/service_career/case/detail/20260521184103.html・3回目）
+- 資本金：1,000万円（https://tenshoku.mynavi.jp/company/321187/・3回目）
+- 資本金：1,000万円（https://paiza.jp/recruiters/3416・3回目）
+- 創業年度：設立：2014年7月7日（https://tenshoku.mynavi.jp/company/321187/・3回目）
+- 創業年度：設立年月：2014年07月07日（https://paiza.jp/recruiters/3416・3回目）
+- 創業年度：設立：2014年（https://saponet.mynavi.jp/service_career/case/detail/20260521184103.html・3回目）
+- 従業員数：150名（https://tenshoku.mynavi.jp/company/321187/・3回目）
+- 従業員数：150名（2026/09現在）（https://paiza.jp/recruiters/3416・3回目）
+- 従業員数：138名 ※2026年4月現在（https://saponet.mynavi.jp/service_career/case/detail/20260521184103.html・3回目）
+- 株主：プロジェクトホールディングス（100%）（https://paiza.jp/recruiters/3416・3回目）
+- 所在地：〒106-6039
+東京都港区麻布台1-3-1 麻布台ヒルズ森JPタワー24階（https://tenshoku.mynavi.jp/company/321187/・3回目）
+- 所在地：東京都東京都港区麻布台1-3-1 麻布台ヒルズ森JPタワー24階（https://paiza.jp/recruiters/3416・3回目）
+- 所在地：〒106-0041東京都港区麻布台一丁目3-1 麻布台ヒルズ森JPタワー24F（https://phd.co.jp/artwize_bestventure_202601/・3回目）
+- 代表者：向井 崇泰（https://tenshoku.mynavi.jp/company/321187/・3回目）
+- 代表者：代表取締役社長　向井 崇泰（https://paiza.jp/recruiters/3416・3回目）
+- 代表者：代表取締役 向井 崇泰（https://phd.co.jp/artwize_bestventure_202601/・3回目）
+- 主要取引先：大企業の案件が多く、例えば大手ネットオークションサービス関連やキャリア向けクラウドサービスの開発、鉄道関連のシステム開発やエンタメ業界のシステム開発を行なっています。 その他も、大手通信会社のインフラ開発やソーシャルゲーム会社の次世代技術の研究開発、大手自動車メーカーの生産管理パッケージのコンサルティング業務、スマホ用のアプリ開発、ビッグデータ関連のシステム開発など多岐にわたっています。（https://paiza.jp/recruiters/3416・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「事業内容 ／ システムインテグレーション事業、メディア事業、自社サービス開発、受託開発」（https://artwize.co.jp/company.html・1回目）
+  - 「労働者派遣事業許可番号：派 13-314247、」（https://artwize.co.jp/company.html・1回目）
+  - 「有料職業紹介事業許可番号：13-ユ-311120、」（https://artwize.co.jp/company.html・1回目）
+  - 「株式会社マイナビが運営する人事・採用に関する情報サイト『サポネット』にて、弊社の採用ブランディングに関するインタビュー記事が掲載されました」（https://artwize.co.jp/media.html・1回目）
+  - 「2026年1月1日、弊社は「ベストベンチャー100」（運営：イシン株式会社）に選出されました」（https://artwize.co.jp/media.html・1回目）
+  - 「freee株式会社が刊行する経営者向け冊子『IT経営Voice vol.3』において、弊社の取り組みを紹介するインタビュー記事が掲載されました」（https://artwize.co.jp/media.html・1回目）
+  - 「本インタビューでは、小規模ステージ企業として直面した高い離職率やコミュニケーション不足、「30名の壁」といった創業期の課題をどのように乗り越え、心理的安全性を基調とした組織改革によって定着率向上とコミュニケーションの活性化と事業成長を実現してきたプロセスについて紹介されています」（https://artwize.co.jp/media.html・1回目）
+  - 「また、本号では弊社の取り組みが1社特集として紹介されています」（https://artwize.co.jp/media.html・1回目）
+  - 「2025年1月14日、株式会社マイナビが運営する総合転職情報サイト『マイナビ転職』主催、厚生労働省 後援の「マイナビ転職BEST VALUE AWARD」において「働きかた優良企業賞」を受賞しました」（https://artwize.co.jp/media.html・1回目）
+  - 「2024年11月28日放送のBSテレ東『NIKKEI NEWS NEXT』において、弊社の活動が紹介されました」（https://artwize.co.jp/media.html・1回目）
+  - 「番組では、弊社の独自の福利厚生制度である「趣味休暇」が取り上げられ、社員一人ひとりが趣味を楽しむことでリフレッシュし、より良い働き方を実現している事例として紹介されました」（https://artwize.co.jp/media.html・1回目）
+  - 「2024年11月26日付の日本経済新聞 朝刊ビジネス面および電子版において、「小さくても勝てる」というテーマ特集で弊社の活動が紹介されました」（https://artwize.co.jp/media.html・1回目）
+- 客は誰か：
+  - 「クライアントは大手企業からメガベンチャー、自治体・官公庁など幅広く、取り扱う案件も基幹系システム、Webシステム、スマホアプリ、ライブ配信システム、カフェチェーンの店舗システムなど多様で、プライム案件(※)も多いです」（https://v-tsushin.jp/interview/vt94_artwize/・3回目）
+  - 「また、「エンジニアファースト」の取り組みは社内だけにとどまらず、企業ブランディングにもつながっており、有名メディアに取りあげられたほか、大手企業にいてもおかしくない優秀なエンジニアの採用に成功するなどの効果も生まれています」（https://v-tsushin.jp/interview/vt94_artwize/・3回目）
+  - 「特徴｜１）大手企業を中心とする強固な顧客基盤」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20241114523758/140120241114523758.pdf・3回目）
+  - 「◼ クライアント全体の約60%は売上規模1,000億円以上の大手企業」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20241114523758/140120241114523758.pdf・3回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります」（https://phd.co.jp/artwize_bestventure_202601/・3回目）
+  - 「Follow 【人材・HR業界特化】就活 / 転職 / 起業 / スタートアップ・ベンチャー投資 / M＆A支援」（https://allinone-hr.com/m-and-a/1389/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「私たちのミッションは顧客と一緒に「全てのエンジニアをプロフェッショナルに」すること」（https://artwize.co.jp/company.html・1回目）
+  - 「顧客と一緒にプロジェクトを最後まで責任もって取り組むことで、このミッションを実現させます」（https://artwize.co.jp/company.html・1回目）
+  - 「取引先銀行 ／ みずほ銀行、りそな銀行」（https://artwize.co.jp/company.html・1回目）
+  - 「住民記録、税務、福祉、保険、選挙など、地方自治体が担う多岐にわたる行政業務を支援するシステム群の品質管理を行う」（https://artwize.co.jp/works.html・1回目）
+  - 「顧客のマーケティングを行い、DX化を含めた業務プロセス改善提案（BPRを含む）」（https://artwize.co.jp/works.html・1回目）
+  - 「顧客とデザインについて対話し、ビジュアルにも注力」（https://artwize.co.jp/works.html・1回目）
+  - 「顧客の質問に対して適切に回答、内容によっては上長にエスカレーションを実施」（https://artwize.co.jp/works.html・1回目）
+  - 「2025年7月1日、弊社は全国健康保険協会に健康企業宣言を行い、従業員の健康推進を目的とした取り組みが評価され、健康優良企業「銀の認定」を取得しました」（https://artwize.co.jp/media.html・1回目）
+  - 「一定の成果を上げたことにより「健康優良企業」として健康保険組合から認められたことを証する認定制度です」（https://artwize.co.jp/media.html・1回目）
+  - 「健康保険組合連合会東京連合会（健康企業宣言 参加企業一覧）」（https://artwize.co.jp/media.html・1回目）
+  - 「■各種保険完備（健康保険・厚生年金・雇用保険・労災保険）」（https://tenshoku.mynavi.jp/company/321187/・3回目）
+  - 「その後、教育・人事業務にキャリアチェンジし、組織をグロースさせる業務を担当」（https://v-tsushin.jp/interview/vt94_artwize/・3回目）
+- 資本金・株主：
+  - 「資本金 ／ 10,000,000円」（https://artwize.co.jp/company.html・1回目）
+  - 「記事には、上場企業グループとして成長スピードを追求しながらも、弊社の核である「カルチャーフィット」をいかに両立させているのか、その舞台裏を詳しくご掲載いただきました」（https://artwize.co.jp/media.html・1回目）
+  - 「【資本金】1,000万円」（https://www.bizreach.jp/companies/42513/・3回目）
+  - 「東証マザーズ（現・グロース）市場へ上場 10億円」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20241114523758/140120241114523758.pdf・3回目）
+  - 「（株）SBIデジタルハブ 1.43%出資」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20241114523758/140120241114523758.pdf・3回目）
+  - 「・資本金 50百万円」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20241114523758/140120241114523758.pdf・3回目）
+  - 「株主に関する個人情報 ★自社で保有している個人情報です」（https://www.artwize.co.jp/wanted/sales.html・3回目）
+  - 「・株主としての地位に関し、当社から各種便宜を供与するため」（https://www.artwize.co.jp/wanted/sales.html・3回目）
+  - 「・各種法令に基づく所定の基準による株主のデータを作成する等、株主管理のため」（https://www.artwize.co.jp/wanted/sales.html・3回目）
+  - 「弊社は2023年4月にグロース市場に上場しているProjectHoldingsにJoinしました」（https://paiza.jp/recruiters/3416・3回目）
+  - 「当社子会社アルトワイズ、成長ベンチャー「ベストベンチャー100」選出のお知らせ – 株式会社プロジェクトホールディングス」（https://phd.co.jp/artwize_bestventure_202601/・3回目）
+  - 「当社子会社アルトワイズ、成長ベンチャー「ベストベンチャー100」選出のお知らせ」（https://phd.co.jp/artwize_bestventure_202601/・3回目）
+- 選出の記録：
+  - 「「ベストベンチャー100」に選出されました」（https://artwize.co.jp/media.html・1回目）
+  - 「2026年1月1日、弊社は「ベストベンチャー100」（運営：イシン株式会社）に選出されました」（https://artwize.co.jp/media.html・1回目）
+  - 「ベストベンチャー100」（https://artwize.co.jp/media.html・1回目）
+  - 「当社子会社アルトワイズ、成長ベンチャー「ベストベンチャー100」選出のお知らせ – 株式会社プロジェクトホールディングス」（https://phd.co.jp/artwize_bestventure_202601/・3回目）
+  - 「当社子会社アルトワイズ、成長ベンチャー「ベストベンチャー100」選出のお知らせ」（https://phd.co.jp/artwize_bestventure_202601/・3回目）
+  - 「株式会社プロジェクトホールディングス（本社：東京都港区、代表取締役執行役員 CEO：土井 悠之介）は、当社子会社アルトワイズが、2026年「ベストベンチャー100」（運営：イシン株式会社）に選出されましたのでお知らせいたします」（https://phd.co.jp/artwize_bestventure_202601/・3回目）
+  - 「当社子会社アルトワイズは、これからの成長が特に期待されるベンチャー企業として「ベストベンチャー100」（運営：イシン株式会社）に選出されました」（https://phd.co.jp/artwize_bestventure_202601/・3回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります」（https://phd.co.jp/artwize_bestventure_202601/・3回目）
+  - 「イシン株式会社にエントリーした企業の中から、イシン株式会社が厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://phd.co.jp/artwize_bestventure_202601/・3回目）
+  - 「ベストベンチャー100について：」（https://phd.co.jp/artwize_bestventure_202601/・3回目）
+  - 「エンジニアの「やりたい」「なりたい」「身につけたい」 を実現できる環境づくりや組織設計が評価され、ベストベンチャー100 やマイナビのBEST VALUE AWARDにも選ばれている、株式会社アルトワイズの代表取締役 向井崇泰氏に話を聞いた」（https://saponet.mynavi.jp/service_career/case/detail/20260521184103.html・3回目）
+- 検索結果の抜粋：
+  - 「株式 会社アルトワイズ の求人・採用情報 - ビズリーチ — 株式 会社アルトワイズ の求人・採用情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies」（https://www.bizreach.jp/companies/42513/・3回目）
+  - 「会社概要 - artwize.inc | 株式会社アルトワイズ — 会社概要 - artwize.inc | 株式会社アルトワイズ Artwize https://artwize.co.jp > company」（https://artwize.co.jp/company.html・3回目）
+  - 「株式会社 アルトワイズ の 会社概要 - マイナビ転職 — 株式会社 アルトワイズ の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/321187/・3回目）
+  - 「株式 会社アルトワイズ 向井 崇泰 | ベストベンチャー100 — 株式 会社アルトワイズ 向井 崇泰 | ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > artwize」（https://best100.v-tsushin.jp/company/artwize/・3回目）
+  - 「株式 会社アルトワイズ の企業情報・エンジニア採用情報 - paiza — 株式 会社アルトワイズ の企業情報・エンジニア採用情報 - paiza paiza https://paiza.jp > 企業検索」（https://paiza.jp/recruiters/3416・3回目）
+  - 「株式会社 アルトワイズ 代表取締役 / MBA / 認定心理的安全性 ... — 株式会社 アルトワイズ 代表取締役 / MBA / 認定心理的安全性 ... ベンチャー通信Online https://v-tsushin.jp > interview > vt94_artwize」（https://v-tsushin.jp/interview/vt94_artwize/・3回目）
+  - 「営業職 - artwize.inc | 株式会社アルトワイズ 採用サイト — 営業職 - artwize.inc | 株式会社アルトワイズ 採用サイト Artwize https://www.artwize.co.jp > wanted > sales」（https://www.artwize.co.jp/wanted/sales.html・3回目）
+  - 「アルトワイズ の業績/ 売上 / 事業 の将来性と成長性(全1件)【転職 ... — アルトワイズ の業績/ 売上 / 事業 の将来性と成長性(全1件)【転職 ... 転職会議 https://jobtalk.jp > companies > answers」（https://jobtalk.jp/companies/3528622/answers?question_codes=sales&sort=recommend・3回目）
+  - 「株式会社 アルトワイズ の中途採用・求人一覧 - Green — 株式会社 アルトワイズ の中途採用・求人一覧 - Green 転職サイトGreen https://www.green-japan.com > company」（https://www.green-japan.com/company/6582・3回目）
+  - 「株式 会社 アルトワイズ の企業情報・エンジニア採用情報 - paiza — 株式 会社 アルトワイズ の企業情報・エンジニア採用情報 - paiza paiza https://paiza.jp > 企業検索」（https://paiza.jp/recruiters/3416・3回目）
+  - 「成長ベンチャー「ベストベンチャー100」選出のお知らせ — 成長ベンチャー「ベストベンチャー100」選出のお知らせ 株式会社プロジェクトホールディングス https://phd.co.jp > artwize_bestventure_202601」（https://phd.co.jp/artwize_bestventure_202601/・3回目）
+  - 「急成長IT企業 アルトワイズ の採用を変えた企業ブランディング ... — 急成長IT企業 アルトワイズ の採用を変えた企業ブランディング ... サポネット https://saponet.mynavi.jp > 中途採用 > 事例のご紹介」（https://saponet.mynavi.jp/service_career/case/detail/20260521184103.html・3回目）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索11回）
+
+## アワバリュー
+- 公式URL：https://ourvalue.jp/（given）
+- 事業内容：CtoC動産取引アプリ「PREMIER VALUE」サービス、「PREMIER VALUE 一括査定」紹介プラットフォームサービスの運営（https://mid-tenshoku.com/agency/a-7146/・3回目）
+- 事業内容：買取サービス「PREMIER VALUE一括査定」・ショッピングサイト「PREMIER VALUE SHOP」・フリマアプリ「スPREMIER VALUE」・女性向けラグジュアリーブランドショップ「LUXARIA」の運営（https://best100.v-tsushin.jp/company/ourvalue/・3回目）
+- 事業内容：高級動産（時計・バッグ等）のグローバルプラットフォーム運営（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+- 資本金：100,000,000円（https://ourvalue.jp/about/・1回目）
+- 資本金：1億円（https://www.bizreach.jp/companies/31372/・3回目）
+- 資本金：5,000万円（https://www.bizreach.jp/companies/31372/・3回目）
+- 創業年度：設立：2020年11月（https://ourvalue.jp/about/・1回目）
+- 創業年度：設立：2020年11月（https://mid-tenshoku.com/agency/a-7146/・3回目）
+- 創業年度：設立：2020年（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+- 従業員数：60名（https://ourvalue.jp/about/・1回目）
+- 従業員数：40名（https://mid-tenshoku.com/agency/a-7146/・3回目）
+- 株主：VCあり, 事業会社あり（https://initial.inc/companies/A-42137・3回目）
+- 株主：株式会社アワバリュー（https://united.jp/news/release/20240412_inv.html・3回目）
+- 所在地：〒104-0061 東京都中央区銀座8丁目6-25 河北新報ビル8F（https://ourvalue.jp/about/・1回目）
+- 所在地：03-6274-6560（https://ourvalue.jp/about/・1回目）
+- 所在地：買取店舗情報はこちら（https://ourvalue.jp/about/・1回目）
+- 代表者：荒津 友生（https://ourvalue.jp/about/・1回目）
+- 代表者：荒津 友生（https://www.bizreach.jp/companies/31372/・3回目）
+- 代表者：荒津 友生（https://mid-tenshoku.com/agency/a-7146/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「買取相場確認・仕入販売・在庫管理を一つのプラットフォームで実現」（https://ourvalue.jp/・1回目）
+  - 「安心安全と引き換えに中間業者に多くの手数料を払っている、フリマなどの個人間ではグレーな取引が発生している、相続税の圧縮に使われている」（https://ourvalue.jp/about/・1回目）
+  - 「2021年4月1日にはサブビジネスとして1つの「PREMIER VALUE 一括査定」紹介プラットフォームサービスを、そして8月にメインビジネスとなる一つのCtoC動産取引アプリ「PREMIER VALUE」サービスをリリースしました」（https://ourvalue.jp/about/・1回目）
+  - 「一括査定」紹介プラットフォームサービスの運営」（https://mid-tenshoku.com/agency/a-7146/・3回目）
+  - 「買取サービス「PREMIER VALUE一括査定」・ショッピングサイト「PREMIER VALUE SHOP」・フリマアプリ「スPREMIER VALUE」・女性向けラグジュアリーブランドショップ「LUXARIA」の運営」（https://best100.v-tsushin.jp/company/ourvalue/・3回目）
+  - 「高級時計・バッグを中心とした査定・買取サービスの「PREMIER VALUE一括査定」を中心に、自社のECの「PREMIER VALUE SHOP」、ブランド品の個人間のフリマサービス「PREMIER VALUE」、完全女性向けのラグジュアリーショップ「LUXARIA」を運営しています」（https://best100.v-tsushin.jp/company/ourvalue/・3回目）
+  - 「創業2年目から売上50億円弱を達成し、大きく黒字化を達成」（https://best100.v-tsushin.jp/company/ourvalue/・3回目）
+  - 「その後も順調に売上を拡大し、今期は100億円超えを目指しています」（https://best100.v-tsushin.jp/company/ourvalue/・3回目）
+  - 「しかし、その一方で、偽造品の巧妙化や不透明な査定プロセス、高額な仲介手数料といった課題は、依然としてユーザーの安心を阻害する大きな壁となっています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「同社は、プロの鑑定を介在させたCtoCアプリ「PREMIER VALUE」を核に、一括査定からリアル店舗での買取・販売までを一気通貫で提供する独自のプラットフォームを構築しています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「今回公開された第5期決算公告は、設立からわずか数年で15億円を超える資産規模にまで成長し、収益化のフェーズに着実に入ったことを示す極めて興味深い内容となっています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「事業内容: 高級動産（時計・バッグ等）のグローバルプラットフォーム運営」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+- 客は誰か：
+  - 「✔BtoC/CtoBコマース事業（PREMIER VALUE SHOP / 一括査定）」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「自社が培った「動産の可視化」ノウハウをBtoB向けにパッケージ化することで、業界全体のDX（デジタルトランスフォーメーション）を牽引し、より広範なエコシステムを創出しようとしています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「特に、買取相場を確認し仕入販売を一気通貫で行うプラットフォームを自社開発している点は、業務効率化のみならず、将来的なBtoB外販を見据えた強力な知的財産となっています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「BtoB向け統合CRMの外販によるストック収益の創出」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「専任コンシェルジュが間に入り丁寧な顧客対応を実施」（https://ourvalue.jp/・1回目）
+  - 「インターネットサービス、流通、小売」（https://www.bizreach.jp/companies/31372/・3回目）
+  - 「自社サービス・製品あり、ベンチャー企業、20代管理職実績あり、2年連続売り上げ10％以上UP、年間休日120日以上、産休・育休取得実績あり、ストックオプション制度あり、教育・研修制度充実、資格支援制度充実」（https://www.bizreach.jp/companies/31372/・3回目）
+  - 「#11327 決算分析 : 株式会社アワバリュー 第5期決算 当期純利益 56百万円 - 決算公告データ倉庫」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「二次流通業者向けの統合CRM（顧客関係管理）や、在庫管理・買取相場確認プラットフォームの構築を進めています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「世界的な金融不安や通貨価値の変動が懸念される中、ロレックス、パテック・フィリップ、エルメスといったブランドは、もはやファッションの範疇を超え、ゴールド（金）に近い安全資産としての地位を確立しました」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「また、従業員60名という規模で、一括査定から自社EC、フリマアプリ、リアル店舗までを多角的に運営できているのは、各事業部間で「相場データ」や「顧客資産」を完全に共有しているシナジー効果の結果です」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「資産合計1,595,154千円に対し、純資産（株主資本）が614,467千円となっており、自己資本比率は約38.5%と、製造設備を持たないテック企業・卸売業としては極めて健全な水準にあります」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「負債側では、固定負債344,714千円が計上されており、これは将来の店舗拡大やシステム開発に向けた長期的な資金調達（銀行借入等）を計画的に行っている証左です」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「これは単なるECサイトを超え、動産の権利移転や鑑定書をブロックチェーン上で管理する「RWA（リアルワールドアセット）のトークン化」といった最先端金融技術との融合も視野に入っているはずです」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「動産を「単なるモノ」から「流動性の高い資産」へと完全に定義し直すことで、100年後の未来においても不可欠な金融・動産インフラとしての地位を確立することが、同社の王道であると論理的に提示できます」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「※上記のほか金融機関含め計６社よりシリーズBとして資金調達を実施」（https://prtimes.jp/main/html/rd/p/000000009.000101094.html・3回目）
+- 資本金・株主：
+  - 「【資本金】1億円」（https://www.bizreach.jp/companies/31372/・3回目）
+  - 「【カスタマーサクセス/累計13.3億円資金調達済】営業経験を活かして買い付け業務をお任せいたします」（https://mid-tenshoku.com/agency/a-7146/・3回目）
+  - 「東証グロース上場企業、100 億円企業、そしてその先日本発の二次流通グローバルプラットフォームを実現します！」（https://best100.v-tsushin.jp/company/ourvalue/・3回目）
+  - 「3年以内に上場予定」（https://best100.v-tsushin.jp/company/ourvalue/・3回目）
+  - 「今後は、上場を果たし、その後世界へ進出していきます」（https://best100.v-tsushin.jp/company/ourvalue/・3回目）
+  - 「代表の荒津氏が上場企業（鎌倉新書）の執行役員として事業をグロースさせてきた経験が、同社の「スピード感」と「ガバナンス」のバランスに大きく寄与しています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「資産合計1,595,154千円に対し、純資産（株主資本）が614,467千円となっており、自己資本比率は約38.5%と、製造設備を持たないテック企業・卸売業としては極めて健全な水準にあります」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「第5期という成長フェーズにおいて、資本剰余金416,150千円を保持していることは、過去の外部資金調達に成功しつつ、それを無闇に食いつぶすことなく、本業での収益化が進んでいることを示しています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「負債側では、固定負債344,714千円が計上されており、これは将来の店舗拡大やシステム開発に向けた長期的な資金調達（銀行借入等）を計画的に行っている証左です」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「上場企業出身の経営陣によるガバナンスとスピード」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「財務面では、この第5期の好決算を足掛かりに、IPO（新規株式公開）を通じた大規模な資金調達を実施し、グローバル拠点の設置や、世界最強の画像鑑定AIの開発、さらには動産を担保にしたファイナンス（融資）事業への進出といった、リブランディングとリポジショニングを同時に行う壮大な成長曲線を描くと推察されます」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「資本金: 105,000,000円」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+- 選出の記録：
+  - 「2年連続で「ベストベンチャー100」に選出されました」（https://ourvalue.jp/・1回目）
+  - 「株式会社アワバリュー 荒津友生 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/ourvalue/・3回目）
+- 検索結果の抜粋：
+  - 「株式 会社アワバリュー の求人・採用 情報 - ビズリーチ — 株式 会社アワバリュー の求人・採用 情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies」（https://www.bizreach.jp/companies/31372/・3回目）
+  - 「株式 会社アワバリュー - ミドルの転職 — 株式 会社アワバリュー - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧」（https://mid-tenshoku.com/agency/a-7146/・3回目）
+  - 「株式 会社アワバリュー 荒津友生 - ベストベンチャー100 — 株式 会社アワバリュー 荒津友生 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > ourvalue」（https://best100.v-tsushin.jp/company/ourvalue/・3回目）
+  - 「アワバリュー の新卒採用・就職・ 会社概要 とクチコミ — アワバリュー の新卒採用・就職・ 会社概要 とクチコミ ワンキャリア https://www.onecareer.jp > companies」（https://www.onecareer.jp/companies/96000・3回目）
+  - 「株式会社 アワバリュー の 会社概要 - マイナビ転職 — 株式会社 アワバリュー の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/350807/・3回目）
+  - 「株式会社 アワバリュー 荒津友生 - ベストベンチャー100 — 株式会社 アワバリュー 荒津友生 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > ourvalue」（https://best100.v-tsushin.jp/company/ourvalue/・3回目）
+  - 「Ourvalue 株式会社 アワバリュー — Ourvalue 株式会社 アワバリュー 株式会社アワバリュー https://ourvalue.jp > news」（https://ourvalue.jp/news/359/・3回目）
+  - 「#11327 決算分析 : 株式会社 アワバリュー 第5期決算 当期純 ... — #11327 決算分析 : 株式会社 アワバリュー 第5期決算 当期純 ... 決算公告データ倉庫 https://ryo-nakamura1.hatenablog.jp > entry > 2026/02/26」（https://ryo-nakamura1.hatenablog.jp/entry/2026/02/26/150000_1・3回目）
+  - 「3期目に突入！私たちが目指すもの〜数字で見る アワバリュー — 3期目に突入！私たちが目指すもの〜数字で見る アワバリュー note https://note.com > ビジネス > スタートアップ・VC」（https://note.com/ourvalue/n/n0a718946ec99・3回目）
+  - 「株式 会社 アワバリュー - スピーダ スタートアップ情報リサーチ — 株式 会社 アワバリュー - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-42137・3回目）
+  - 「株式 会社 アワバリュー が高級動産二次流通DB ... - PR TIMES — 株式 会社 アワバリュー が高級動産二次流通DB ... - PR TIMES PR TIMES https://prtimes.jp > その他」（https://prtimes.jp/main/html/rd/p/000000009.000101094.html・3回目）
+  - 「株式 会社 アワバリュー 、i-nest capitalを引受先とする 資金調達 ... — 株式 会社 アワバリュー 、i-nest capitalを引受先とする 資金調達 ... PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000010.000101094.html・3回目）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部16頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部16頁・検索11回）
+
+## アンカー
+- 公式URL：https://anchor-ltd.com/（given）
+- 事業内容：グロースマーケティング事業（https://anchor-ltd.com/company/・1回目）
+- 事業内容：マーケティング分析・市場調査 競合分析・自社分析 商品理解・ポジショニング設計 施策設計・中間目標や最終目標の設定 ファイナンス支援 オペレーション設計・改善（https://anchor-ltd.com/service/・1回目）
+- 事業内容：【デジタル広告】 予算型広告運用 （リスティング/ディスプレイ/動画/ショッピング広告等） 成果報酬型広告運用（アフィリエイト広告） ASP一元管理 クローズドASP運営（ Ad Bridge ） 【オフライン施策】 折込チラシ、ポスティング、デジタルサイネージ、TVCM デジタルとオフラインを組み合わせ、クライアントの事業フェーズに合わせた最適な広告戦略で成果を最大化します。（https://anchor-ltd.com/service/・1回目）
+- 資本金：5,000,000円（https://anchor-ltd.com/company/・1回目）
+- 創業年度：設立：2016年7月11日（https://anchor-ltd.com/company/・1回目）
+- 所在地：〒530-0012 大阪市北区芝田1-14-8 梅田北プレイス2F・9F（https://anchor-ltd.com/company/・1回目）
+- 所在地：〒105-7510 東京都港区海岸1-7-1 東京ポートシティ竹芝10F（https://anchor-ltd.com/company/・1回目）
+- 代表者：Senno Shota（https://anchor-ltd.com/company/・1回目）
+- 代表者：代表取締役　千野 奨太（https://anchor-ltd.com/company/・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「【ネットオリパ売上No.1達成の裏側】“最後の頼みの綱”だった」（https://anchor-ltd.com/・1回目）
+  - 「【立上げ3ヶ月平均売上前月比157%成長】事業立案、出資、マーケティングまで一貫支援」（https://anchor-ltd.com/・1回目）
+  - 「クライアントの事業成長を第一に考え、2つのアプローチで収益最大化を実現します」（https://anchor-ltd.com/・1回目）
+  - 「2016年の創業から今日に至るまで、毎年着実に売上を拡大しつづけることができました」（https://anchor-ltd.com/company/・1回目）
+  - 「は、完全招待・紹介制のクローズドASPです」（https://anchor-ltd.com/service/・1回目）
+  - 「【ネットオリパ売上No.1達成の裏側】“最後の頼みの綱”だった」（https://anchor-ltd.com/works/・1回目）
+  - 「【立上げ3ヶ月平均売上前月比157%成長】事業立案、出資、マーケティングまで一貫支援」（https://anchor-ltd.com/works/・1回目）
+  - 「城之内さん：うちの自社チームには、子会社の国家資格人材紹介など」（https://anchor-ltd.com/works/mitsukaru-works/・1回目）
+  - 「僕らは結論として事業が伸びて売上と利益が出れば、そのプロセス（Meta広告なのかGoogle広告なのか等）は正直どうでもいいんです」（https://anchor-ltd.com/works/mitsukaru-works/・1回目）
+  - 「【ネットオリパ売上No.1達成の裏側】“最後の頼みの綱”だった」（https://anchor-ltd.com/works/japantoreca-works/・1回目）
+  - 「わずか1年で売上No.1を達成」（https://anchor-ltd.com/works/japantoreca-works/・1回目）
+  - 「当時はトレーディングカードの実店舗を運営していて、わたし自身が店舗に立って、オリパ（販売者が独自に作成したトレーディングカードのオリジナルパック）を作ったり、ネットオリパの立ち上げを担当したりしていました」（https://anchor-ltd.com/works/japantoreca-works/・1回目）
+- 客は誰か：
+  - 「でも、ミツカル本体で展開するBtoBの融資や資金調達といった難易度の高い領域は、今の自社体制ではまだ成果を出しにくいため、あえて社内では抱え込まずにいます」（https://anchor-ltd.com/works/mitsukaru-works/・1回目）
+  - 「税理士先生との強固な信頼関係をベースに、中小企業が抱える採用や財務といったリアルな経営課題に寄り添い、人材・AI・M&A・金融・Webマーケティングなど、あらゆる解決策をワンストップでマッチングする総合BtoBプラットフォームを構築していきます」（https://anchor-ltd.com/works/mitsukaru-works/・1回目）
+  - 「日本のBtoB取引額1,500兆円という巨大市場」（https://anchor-ltd.com/works/mitsukaru-works/・1回目）
+- 客の産業（導入事例・取引先）：
+  - 「クライアントの事業成長を第一に考え、2つのアプローチで収益最大化を実現します」（https://anchor-ltd.com/・1回目）
+  - 「「いま本当に必要な一手は何か？」を共に考え、新規顧客獲得からリピート・ファン化まで一気通貫で伴走します」（https://anchor-ltd.com/・1回目）
+  - 「事業の本質課題に向き合い、成果向上・コスト最適化・顧客との長期的な関係構築を支援」（https://anchor-ltd.com/・1回目）
+  - 「その背景には、さまざまな市場でクライアントと共に市場No.1に挑戦し、実現してきた軌跡があります」（https://anchor-ltd.com/company/・1回目）
+  - 「当たり前の基準を上げつづけることで「No.1」を創り出しつづけ、顧客・取引先・従業員・株主・その他あらゆる関係者を含む全てのステークホルダーへの提供価値を高めつづける会社であることを目指します」（https://anchor-ltd.com/company/・1回目）
+  - 「新規顧客の獲得だけでなく、」（https://anchor-ltd.com/service/・1回目）
+  - 「顧客単価の向上やリピート促進など、」（https://anchor-ltd.com/service/・1回目）
+  - 「を繰り返して、コンバージョン数UP・顧客獲得単価の改善・LTV最大化を実現」（https://anchor-ltd.com/service/・1回目）
+  - 「クライアントとともに市場で勝ち続けるために1社あたりのクリエイティブ検証数を重視しております」（https://anchor-ltd.com/service/・1回目）
+  - 「市場・顧客・競合・自社を分析し、WHO-WHAT-HOWを設定」（https://anchor-ltd.com/service/・1回目）
+  - 「デジタルとオフラインを組み合わせ、クライアントの事業フェーズに合わせた最適な広告戦略で成果を最大化します」（https://anchor-ltd.com/service/・1回目）
+  - 「国内有数のメディアと提携し、新規顧客獲得からCV拡大まで、スピード感のある施策実施で事業成長を加速させます」（https://anchor-ltd.com/service/・1回目）
+- 資本金・株主：
+  - 「【立上げ3ヶ月平均売上前月比157%成長】事業立案、出資、マーケティングまで一貫支援」（https://anchor-ltd.com/・1回目）
+  - 「当たり前の基準を上げつづけることで「No.1」を創り出しつづけ、顧客・取引先・従業員・株主・その他あらゆる関係者を含む全てのステークホルダーへの提供価値を高めつづける会社であることを目指します」（https://anchor-ltd.com/company/・1回目）
+  - 「【立上げ3ヶ月平均売上前月比157%成長】事業立案、出資、マーケティングまで一貫支援」（https://anchor-ltd.com/works/・1回目）
+  - 「城之内さん：うちの自社チームには、子会社の国家資格人材紹介など」（https://anchor-ltd.com/works/mitsukaru-works/・1回目）
+  - 「でも、ミツカル本体で展開するBtoBの融資や資金調達といった難易度の高い領域は、今の自社体制ではまだ成果を出しにくいため、あえて社内では抱え込まずにいます」（https://anchor-ltd.com/works/mitsukaru-works/・1回目）
+  - 「資金調達プロのLP（ランディングページ）制作のときも、アンカーの制作ディレクターの方がスピーディに進捗を上げてくれて、思わず僕も絵文字付きで「もう上がったんですか！？」ってリアクションしちゃったくらい（笑）」（https://anchor-ltd.com/works/mitsukaru-works/・1回目）
+  - 「「資金調達プロ」の案件では、初動1ヶ月の検証後に一旦ペンディングにするという判断も、こちらからご提案させていただきました」（https://anchor-ltd.com/works/mitsukaru-works/・1回目）
+  - 「【立上げ3ヶ月平均売上前月比157%成長】事業立案、出資、マーケティングまで一貫支援」（https://anchor-ltd.com/works/uruuru-works/・1回目）
+  - 「その一歩として、以前より構想していたリユース市場において事業を立案し、2023年10月より買取専門店uruuruへの出資、マーケティングまで一貫した支援を行っています」（https://anchor-ltd.com/works/uruuru-works/・1回目）
+  - 「そもそも、なぜ代理店でありながら事業立案、出資、マーケティング支援に踏み切ったのでしょうか？」（https://anchor-ltd.com/works/uruuru-works/・1回目）
+  - 「アンカーさんには出資からマーケティングまで支えてもらっているので、運命共同体」（https://anchor-ltd.com/works/uruuru-works/・1回目）
+  - 「日本で事業拡大の推進と財政基盤の強化のため、2017年12月22日付で資本金等を1,600万円から1億6,000万に増資した」（https://ja.wikipedia.org/wiki/Anker・3回目）
+- 選出の記録：
+  - 「ベストベンチャー100」（https://anchor-ltd.com/・1回目）
+  - 「6年連続 選出」（https://anchor-ltd.com/・1回目）
+  - 「ベストベンチャー100会員」（https://anchor-ltd.com/・1回目）
+  - 「2年連続 選出」（https://anchor-ltd.com/・1回目）
+- 検索結果の抜粋：
+  - 「会社情報 - アンカー・ジャパン株式会社 - Anker — 会社情報 - アンカー・ジャパン株式会社 - Anker アンカー・ジャパン株式会社 https://corp.ankerjapan.com > company」（https://corp.ankerjapan.com/company・3回目）
+  - 「日本市場での展開強化に向け、 資本 を20倍に増資 — 日本市場での展開強化に向け、 資本 を20倍に増資 アンカー・ジャパン株式会社 https://corp.ankerjapan.com > news」（https://corp.ankerjapan.com/news/29・3回目）
+  - 「アンカー ・ジャパン株式 会社 の求人・採用 情報 - ビズリーチ — アンカー ・ジャパン株式 会社 の求人・採用 情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies」（https://www.bizreach.jp/companies/2759/・3回目）
+  - 「アンカー ・ジャパン株式 会社 の求人 - ReDesigner — アンカー ・ジャパン株式 会社 の求人 - ReDesigner ReDesigner https://redesigner.jp > companies」（https://redesigner.jp/companies/Ccd9a3f8e8c971a0c5f0526f95123a00a・3回目）
+  - 「2023年度の 売上 494億円を達成 前年比で41%成長 — 2023年度の 売上 494億円を達成 前年比で41%成長 アンカー・ジャパン株式会社 https://corp.ankerjapan.com > news」（https://corp.ankerjapan.com/news/468・3回目）
+  - 「急成長中の アンカー ・ジャパン、新オフィスに込めた成長の哲学 — 急成長中の アンカー ・ジャパン、新オフィスに込めた成長の哲学 HOWHERE https://howhere.jp > articles > ankerjapan」（https://howhere.jp/articles/ankerjapan・3回目）
+  - 「【 売上 782億円】 アンカー ・ジャパンが1年で300億 ... - YouTube — 【 売上 782億円】 アンカー ・ジャパンが1年で300億 ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=TFr1NVFv09s・3回目）
+  - 「アンカー 投資家 読み - 証券用語解説集 - 野村證券 — アンカー 投資家 読み - 証券用語解説集 - 野村證券 野村證券 https://www.nomura.co.jp > ... > 証券用語解説集 - あ行 -」（https://www.nomura.co.jp/terms/japan/a/A03459.html・3回目）
+  - 「Anker グループ 本社「Anker Innovations」が香港証券取引所 ... — Anker グループ 本社「Anker Innovations」が香港証券取引所 ... アンカー・ジャパン株式会社 https://corp.ankerjapan.com > news」（https://corp.ankerjapan.com/news/630・3回目）
+  - 「Ankerグループの本社Anker Innovationsが深圳証券取引所の ... — Ankerグループの本社Anker Innovationsが深圳証券取引所の ... アンカー・ジャパン株式会社 https://corp.ankerjapan.com > news > アンカー-ジャパン-a...」（https://corp.ankerjapan.com/news/%E3%82%A2%E3%83%B3%E3%82%AB%E3%83%BC-%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3-anker%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E6%9C%AC%E7%A4%BEanker-innovations%E3%81%8C%E6%B7%B1%E5%9C%B3%E8%A8%BC%E5%88%B8%E5%8F%96%E5%BC%95%E6%89%80%E3%81%AE%E6%96%B0%E8%88%88%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E5%B8%82%E5%A0%B4-%E5%89%B5%E6%A5%AD%E6%9D%BF-chinext-%E3%81%B8%E6%96%B0%E8%A6%8F%E4%B8%8A%E5%A0%B4・3回目）
+  - 「アンカー インベスター DX用語辞典 DX-link（ディークロス ... — アンカー インベスター DX用語辞典 DX-link（ディークロス ... 三井住友フィナンシャルグループ https://www.smfg.co.jp > DX-link > DX用語辞典」（https://www.smfg.co.jp/dx_link/dictionary/0112.html・3回目）
+  - 「HubSpot 導入事例 | アンカー ・ジャパン株式会社 — HubSpot 導入事例 | アンカー ・ジャパン株式会社 HubSpot（ハブスポット） https://www.hubspot.jp > case-studies > anker」（https://www.hubspot.jp/case-studies/anker・3回目）
+- 従業員数：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部23頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部23頁・検索11回）
+- 株主：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部23頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部23頁・検索11回）
+
+## アークウィズコンサルティング
+- 公式URL：https://awc-jp.com/（given）
+- 事業内容：・ITコンサルティング事業 ・システムエンジニアリングサービス事業 ・人材紹介事業 ・採用コンサルティング・採用代行事業 ・人材派遣事業 ・AI事業（https://best100.v-tsushin.jp/company/awc-jp/・3回目）
+- 事業内容：DX コンサルティング事業全般 DX 戦略、IT システム導入/業務改革、IT ビジネス投資・戦略実行支援、PMO 新規事業立ち上げ 人材派遣業 RPO（https://en-ambi.com/agency/a-8960/・3回目）
+- 事業内容：経営コンサルティング、DX/ITコンサルティング、新規事業立ち上げ支援（https://recruit.awc-jp.com/・3回目）
+- 資本金：900万円（https://best100.v-tsushin.jp/company/awc-jp/・3回目）
+- 資本金：900 万円（https://en-ambi.com/agency/a-8960/・3回目）
+- 創業年度：設立：2022 年 8 月 1 日（https://en-ambi.com/agency/a-8960/・3回目）
+- 創業年度：設立：2022年8月1日（https://recruit.awc-jp.com/・3回目）
+- 従業員数：単体：298名 　連結：372名（https://en-ambi.com/agency/a-8960/・3回目）
+- 所在地：東京都千代田区麹町4丁目8-1 麴町クリスタルシティ東館 2階（https://best100.v-tsushin.jp/company/awc-jp/・3回目）
+- 所在地：〒102-0083 東京都千代田区麹町4丁目8−1 麴町クリスタルシティ東館 2階（https://recruit.awc-jp.com/・3回目）
+- 代表者：三木 涼賀（https://en-ambi.com/agency/a-8960/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「製造業におけるSAP S/4HANA導入プロジェクトに複数名が参画し支援」（https://awc-jp.com/・1回目）
+  - 「顧客の物流・販売戦略におけるピークタイムの出荷時間に合わせ、最適かつ迅速なタイミングで倉庫内の人員供給を提供し人員不足の解決に貢献」（https://awc-jp.com/・1回目）
+  - 「大手製造業向けのSAP S/4HANA導入プロジェクトにてユーザーサイドのPMOとして参画し、検証推進、計画管理、検証作業者への指示管理、課題管理、マネジメント報告等を実施」（https://awc-jp.com/・1回目）
+  - 「物流業務の最適化及び請負化を目指した人材供給」（https://awc-jp.com/・1回目）
+  - 「クライアントの出荷調整と慢性的な欠員不足であるコアタイムに対し、作業効率化を図れるシフトを考案し、将来的に請負化を目指した人材供給を実施」（https://awc-jp.com/・1回目）
+  - 「クライアントの業務課題やニーズに応じたシステムの受託開発を行い、現場の課題を的確に捉えた柔軟な開発体制で業務効率化や競争力向上を実現します」（https://awc-jp.com/・1回目）
+  - 「各事業で得たIT人材を中心とする人的ネットワークを活用し、スキルや経験、年収などクライアントのニーズに合わせて高品質な人材を紹介します」（https://awc-jp.com/・1回目）
+  - 「エンジニアを派遣し、長期的な技術支援を行います」（https://awc-jp.com/・1回目）
+  - 「創業3期目で売上20億を達成」（https://best100.v-tsushin.jp/company/awc-jp/・3回目）
+  - 「売上20億円・社員数150名を達成」（https://best100.v-tsushin.jp/company/awc-jp/・3回目）
+  - 「5年以内に売上100億円の達成と、新規事業の創出」（https://best100.v-tsushin.jp/company/awc-jp/・3回目）
+  - 「加えて、SESや受託開発も行い幅広い技術支援を提供しています」（https://best100.v-tsushin.jp/company/awc-jp/・3回目）
+- 客は誰か：
+  - 「弊社は、DX支援を中心としたIT・経営コンサルティングを主軸に、国内大手企業を中心とした各種プロジェクト支援を行っております」（https://best100.v-tsushin.jp/company/awc-jp/・3回目）
+  - 「現在大手企業にお勤めでベンチャーへの転職ってどうかな、、と思われてる方の参考になればと思います！」（https://note.com/cheaps/n/n00570a7a9c78・3回目）
+  - 「前述の通り、今回の必須条件はリモートワーク可能なこと、だったんですが、最近大手企業ほど在宅勤務取りやめてるんですよね」（https://note.com/cheaps/n/n00570a7a9c78・3回目）
+  - 「その後とあるエージェントから、むしろ中小企業の方が柔軟に対応してるところが多いというアドバイスをいただいて、はっとしました」（https://note.com/cheaps/n/n00570a7a9c78・3回目）
+  - 「そんなこんなで大方針転換をして、活動後半は中小企業中心に面接を受けていくことになります」（https://note.com/cheaps/n/n00570a7a9c78・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「大手通信会社における金融サービス関連システムのクラウド環境への移行プロジェクトにPMOとして参画し、構想策定や要件定義等の上流工程、プロジェクト管理等を支援」（https://awc-jp.com/・1回目）
+  - 「製造業におけるSAP S/4HANA導入プロジェクトに複数名が参画し支援」（https://awc-jp.com/・1回目）
+  - 「顧客満足度の向上に向けたWebサービス刷新プロジェクトのマネジメント及びシステム開発、社内／外データの利活用にかかる方針検討など上流から実行までを一貫して支援」（https://awc-jp.com/・1回目）
+  - 「国内外向けECセンターの物流コンサルティング」（https://awc-jp.com/・1回目）
+  - 「顧客の物流・販売戦略におけるピークタイムの出荷時間に合わせ、最適かつ迅速なタイミングで倉庫内の人員供給を提供し人員不足の解決に貢献」（https://awc-jp.com/・1回目）
+  - 「大手総合商社におけるSAP S/4HANA導入プロジェクトにPMOとして参画し、プロジェクト計画の策定やプロジェクトの状況の見える化、マネジメント層の意思決定を支援」（https://awc-jp.com/・1回目）
+  - 「クライアントの業務要件のヒアリングおよび業務プロセス分析 ・システム設計等を支援」（https://awc-jp.com/・1回目）
+  - 「大手製造業向けのSAP S/4HANA導入プロジェクトにてユーザーサイドのPMOとして参画し、検証推進、計画管理、検証作業者への指示管理、課題管理、マネジメント報告等を実施」（https://awc-jp.com/・1回目）
+  - 「運用コスト削減や可用性の向上に向けた顧客の基幹システム・デジタル基盤の刷新プロジェクトにて、構想策定・要件定義などの上流工程を支援」（https://awc-jp.com/・1回目）
+  - 「金融機関のレガシーシステム刷新の要件定義から開発までのフェーズにおいて、複数名が参画し、上流から下流までを一気通貫で支援」（https://awc-jp.com/・1回目）
+  - 「物流業務の最適化及び請負化を目指した人材供給」（https://awc-jp.com/・1回目）
+  - 「クライアントの出荷調整と慢性的な欠員不足であるコアタイムに対し、作業効率化を図れるシフトを考案し、将来的に請負化を目指した人材供給を実施」（https://awc-jp.com/・1回目）
+- 資本金・株主：
+  - 「成果次第では子会社の社長をお任せするケースもあります」（https://www.wantedly.com/companies/awc202208・3回目）
+- 選出の記録：
+  - 「株式会社アークウィズコンサルティング 三木 涼賀 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/awc-jp/・3回目）
+- 検索結果の抜粋：
+  - 「株式 会社アークウィズコンサルティング 三木 涼賀 — 株式 会社アークウィズコンサルティング 三木 涼賀 ベストベンチャー100 https://best100.v-tsushin.jp > company > awc-jp」（https://best100.v-tsushin.jp/company/awc-jp/・3回目）
+  - 「株式 会社アークウィズコンサルティング の転職・求人 情報 — 株式 会社アークウィズコンサルティング の転職・求人 情報 アンビ（AMBI） https://en-ambi.com > agency」（https://en-ambi.com/agency/a-8960/・3回目）
+  - 「株式会社 アークウィズコンサルティング の 会社情報 - Wantedly — 株式会社 アークウィズコンサルティング の 会社情報 - Wantedly Wantedly https://www.wantedly.com > companies > awc202208」（https://www.wantedly.com/companies/awc202208・3回目）
+  - 「アークウィズコンサルティング の「 会社 紹介」 OpenWork — アークウィズコンサルティング の「 会社 紹介」 OpenWork OpenWork https://www.openwork.jp > ... > 採用情報」（https://www.openwork.jp/a0C2x00000ZAqlP/pr/・3回目）
+  - 「株式 会社アークウィズコンサルティング — 株式 会社アークウィズコンサルティング 株式会社アークウィズコンサルティング https://recruit.awc-jp.com」（https://recruit.awc-jp.com/・3回目）
+  - 「株式会社 アークウィズコンサルティング 三木 涼賀 — 株式会社 アークウィズコンサルティング 三木 涼賀 ベストベンチャー100 https://best100.v-tsushin.jp > company > awc-jp」（https://best100.v-tsushin.jp/company/awc-jp/・3回目）
+  - 「株式会社 アークウィズコンサルティング — 株式会社 アークウィズコンサルティング 株式会社アークウィズコンサルティング https://recruit.awc-jp.com」（https://recruit.awc-jp.com/・3回目）
+  - 「アークウィズコンサルティング の「会社紹介」 OpenWork — アークウィズコンサルティング の「会社紹介」 OpenWork OpenWork https://www.openwork.jp > ... > 採用情報」（https://www.openwork.jp/a0C2x00000ZAqlP/pr/・3回目）
+  - 「株式会社 アークウィズコンサルティング の求人情報 — 株式会社 アークウィズコンサルティング の求人情報 マイナビ転職 https://tenshoku.mynavi.jp > jobinfo-438050-1-1-1」（https://tenshoku.mynavi.jp/jobinfo-438050-1-1-1/・3回目）
+  - 「株式会社 アークウィズコンサルティング | 広報部 - note — 株式会社 アークウィズコンサルティング | 広報部 - note note https://note.com > awc_recruit」（https://note.com/awc_recruit・3回目）
+  - 「株式 会社 アークウィズコンサルティング 三木 涼賀 — 株式 会社 アークウィズコンサルティング 三木 涼賀 ベストベンチャー100 https://best100.v-tsushin.jp > company > awc-jp」（https://best100.v-tsushin.jp/company/awc-jp/・3回目）
+  - 「株式 会社 アークウィズコンサルティング — 株式 会社 アークウィズコンサルティング 株式会社アークウィズコンサルティング https://awc-jp.com」（https://awc-jp.com/・3回目）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索11回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索11回）
+
+## イデアル
+- 公式URL：https://ideal-h.co.jp/（given）
+- 事業内容：商業用不動産関連サービス業（https://ideal-h.co.jp/about・1回目）
+- 事業内容：《皆さんも目にしているカフェやサロンにイデアルが関係しているかも!?》 ▼ビルオーナー様とテナント様の架け橋となる ビルオーナー様に対して、ビルの収益性と永続性を追求し、 資産価値を維持・向上させるため、店舗サブリースを柱とした 総合的なプロパティマネジメントサービスを提供致します。 また、借主である法人に対して、出店支援サービスや、 双方に対して工事やレンタルスペースといった 幅広いサービス提供をしています。 ■不動産ソリューション事業 ・店舗サブリース ・店舗仲介 ・オフィス仲介 ・店舗リーシングマネジメント ・賃貸管理、工事施工 ・ビルメンテナンス ・不動産売買 ・レンタルスペース しっかりとした信頼関係を築き、ビルオーナー様や店舗経営陣、双方にとって最高の形を提供するために、一人ひとりが主体性を持って日々挑んでいます。（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+- 資本金：6,363万円（https://ideal-h.co.jp/about・1回目）
+- 資本金：6,363万円（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+- 創業年度：設立：2007年10月10日（https://ideal-h.co.jp/about・1回目）
+- 創業年度：設立：2007年10月10日（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+- 従業員数：37名（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+- 売上高：34.5億円（18期2025年6月時点）（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+- 売上高：［決算期］　　　［売上］　　　　［対前年比］ ――――――――――――――――――― 第 1期　　　　1億1,000万円 第 2期　　　　2億円　　　　　 181％ 第 3期　　　　3億円　　　　　 150％ 第 4期　　　　3億5,000万円　 116％ 第 5期　　　　4億円　　　　　 114％ 第 6期　　　　5億円　　　　　 125％ 第 7期　　　　6億6,000万円　 132％ 第 8期　　　　10億円　　　　  151％ 第 9期　　　　14億円　　　　  140％ 第10期　　　　16億円　　　　  114％ 第11期　　　　19億円　　　　  118％ 第12期　　　　21億円　　　　  103％ 第13期　　　　23億1,600万円　110.1％ 第14期　　　　24億1,000万円　104.6％ 第15期　　　　24億6,146万円　101.8％ 第16期　　　　27億9,200万円　113.5％ 第17期　　　　30億5,000万円　109.2％ 第18期　　　　34億5,000万円　113.1％（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+- 所在地：〒 151-0053東京都渋谷区代々木2-4-9 野村不動産新宿南口ビル2F (TEL) 03-5785-1701 (FAX) 03-5785-1702 (MAIL) info@ideal-h.co.jp（https://ideal-h.co.jp/about・1回目）
+- 所在地：151-0053（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+- 所在地：東京都渋谷区代々木2-4-9 野村不動産新宿南口ビル2F（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+- 代表者：代表取締役　濱　恵介 2007年10月の株式会社イデアル設立のタイミングから創業メンバーとして営業部門の第一線で同社ビジネスモデルの確立に貢献。 2014年に取締役に就任（当時34歳）以降も、プレイングマネージャーとして経営から若手育成と会社の増収増益のみならず組織としての会社成長に注力する。 2020年に代表取締役に就任（40歳）。 創業から参画し、現場及び会社の全てを知る立場で同社の2ndステージへの成長を牽引していく。（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+- 主要取引先：ビルオーナー、デベロッパー、一般企業、チェーン店、FC企業、等（https://ideal-h.co.jp/about・1回目）
+- 主要取引先：《皆さんが街中で目にしている企業やお店も！》 ・ビルオーナー ・デベロッパー ・一般企業 ・チェーン店 ・FC企業　等（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「ビルオーナー様に対して、ビルの収益性と永続性を追求し、資産価値を維持・向上させるため、」（https://ideal-h.co.jp/・1回目）
+  - 「ビルオーナー様に対して、ビルの収益性と永続性を追求し、資産価値を維持・向上させるため、店舗サブリースを柱とした総合的なプロパティマネジメントサービスを提供いたします」（https://ideal-h.co.jp/service・1回目）
+  - 「また、借主であるお客様に対して、出店支援サービスや、オフィスを利用の企業へはオフィス移転・新設のためのオフィス仲介サービスを提供いたします」（https://ideal-h.co.jp/service・1回目）
+  - 「ビルオーナー様のご要望に沿ったテナント企業を紹介し、店舗専門不動産会社ならではの豊富な実績、ノウハウをもとに、仲介業務を完遂いたします」（https://ideal-h.co.jp/service・1回目）
+  - 「当社の店舗サブリースでは、ビルオーナー様から借り受けた不動産を賃貸借契約当事者として、運営できるというメリットがあります」（https://ideal-h.co.jp/service/sablease・1回目）
+  - 「イデアルは、店舗仲介のプロとして、約数千社以上の膨大なデータベースを活かし、効率的なテナント誘致を行っています」（https://ideal-h.co.jp/service/mediation・1回目）
+  - 「※リーシングとは、賃貸物件に対しテナント誘致を行い、仲介業務を行うことを意味します」（https://ideal-h.co.jp/service/mediation・1回目）
+  - 「主に、「インターネットの情報提供サイトを活用する」、「直接出店候補地周辺にある不動産会社へ来店して条件に合った店舗物件を紹介してもらう」等の方法があります」（https://ideal-h.co.jp/service/mediation・1回目）
+  - 「かりて屋は、会議やセミナー、イベント、展示会、スタジオなど、様々な用途に使えるレンタルスペースを探して頂ける弊社運営のポータルサイトです」（https://ideal-h.co.jp/service/rentalspace・1回目）
+  - 「希望エリア、面積（坪or㎡）、賃料（月額でも坪単価でも）、入居時期など物件に関する希望条件のヒアリング」（https://ideal-h.co.jp/service/officemediation・1回目）
+  - 「紹介した物件情報のうち気に入った（興味ある）物件があれば、内見して頂きます」（https://ideal-h.co.jp/service/officemediation・1回目）
+  - 「このタイミングで初めて費用が発生します（敷金、保証金、家賃保証会社との契約金、仲介手数料、等）」（https://ideal-h.co.jp/service/officemediation・1回目）
+- 客は誰か：
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります」（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「イデアルは業務領域を商業用不動産に特化し、商業用不動産の所有者（貸主）と使用者（借主）」（https://ideal-h.co.jp/・1回目）
+  - 「店舗不動産に関わるサービスを通じて、」（https://ideal-h.co.jp/・1回目）
+  - 「イデアルは商業用不動産のリーディングカンパニーを目指す不動産ベンチャーです」（https://ideal-h.co.jp/・1回目）
+  - 「野村不動産新宿南口ビル2F」（https://ideal-h.co.jp/・1回目）
+  - 「イデアルは業務領域を商業用不動産に特化し、商業用不動産の所有者（貸主）と使用者（借主）双方のお客様にサービスを提供しています」（https://ideal-h.co.jp/service・1回目）
+  - 「サブリースとは、ビルオーナー様から不動産を借り受け、第三者へ転貸することです」（https://ideal-h.co.jp/service・1回目）
+  - 「ビルオーナー様のご要望に沿ったテナント企業を紹介し、店舗専門不動産会社ならではの豊富な実績、ノウハウをもとに、仲介業務を完遂いたします」（https://ideal-h.co.jp/service・1回目）
+  - 「イデアルでは、商業用不動産の売買に関して、売却・取得をお考えのお客様をフルサポートいたします」（https://ideal-h.co.jp/service・1回目）
+  - 「野村不動産新宿南口ビル2F」（https://ideal-h.co.jp/service・1回目）
+  - 「〒 151-0053東京都渋谷区代々木2-4-9 野村不動産新宿南口ビル2F」（https://ideal-h.co.jp/about・1回目）
+  - 「野村不動産新宿南口ビル2F」（https://ideal-h.co.jp/about・1回目）
+  - 「我々はビルオーナー様から不動産を借り受け、貸主となり、第三者へ転貸し、ビル経営を代行します」（https://ideal-h.co.jp/service/sablease・1回目）
+- 資本金・株主：
+  - 「資本金4,500万円に増資」（https://ideal-h.co.jp/about・1回目）
+  - 「資本金6,080万円に増資」（https://ideal-h.co.jp/about・1回目）
+  - 「資本金6,363万円に増資」（https://ideal-h.co.jp/about・1回目）
+  - 「顧客・従業員・株主・取引先・地域の方々・イデアルに関わるすべての人にとっての「理想」を実現する」（https://ideal-h.co.jp/about/vision・1回目）
+  - 「「(株)イデア」(資本金1,000万円)を設立」（https://job.mynavi.jp/28/pc/search/corp68002/outline.html・3回目）
+  - 「顧客、従業員、株主、イデアルにかかわる人が幸せに、やり甲斐をもって生活する為に「理想の会社」を追求し続け、世の中に貢献したい」（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+  - 「資本金4,500万円に増資」（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+  - 「資本金6,080万円に増資」（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+  - 「資本金6,363万円に増資」（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+  - 「ディーエムソリューションズ(株)【東証スタンダード上場】」（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+  - 「(株)アンビションDXホールディングス【旧社名：(株)AMBITION】【東証グロース上場】」（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+- 選出の記録：
+  - 「イデアルはこれからの成長が期待されるベンチャー企業100社限定の「ベストベンチャー100」に選出されています」（https://ideal-h.co.jp/・1回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります」（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+  - 「イシン株式会社にエントリーした企業の中から、イシン株式会社が厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 - 株式会社イデアル — 会社概要 - 株式会社イデアル ideal-ltd.jp https://www.ideal-ltd.jp > 会社情報」（https://www.ideal-ltd.jp/company/summary・3回目）
+  - 「株式会社 イデアル ｜ 会社概要 — 株式会社 イデアル ｜ 会社概要 ideal-hp.com https://www.ideal-hp.com > イデアルについて」（https://www.ideal-hp.com/about/company/・3回目）
+  - 「(株) イデアル の 会社概要 | マイナビ2028 — (株) イデアル の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp68002 > outline」（https://job.mynavi.jp/28/pc/search/corp68002/outline.html・3回目）
+  - 「企業 情報 ｜有限 会社イデアル 情報 通信 インフラ 設計 名古屋 — 企業 情報 ｜有限 会社イデアル 情報 通信 インフラ 設計 名古屋 有限会社イデアル https://y-ideal.jp > company」（https://y-ideal.jp/company/・3回目）
+  - 「事業内容 | 株式会社 イデアル — 事業内容 | 株式会社 イデアル 株式会社イデアル https://ideal-h.co.jp > service」（https://ideal-h.co.jp/service・3回目）
+  - 「(株) イデアル の新卒採用・会社概要 | マイナビ2027 — (株) イデアル の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp89312 > outline」（https://job.mynavi.jp/27/pc/search/corp89312/outline.html・3回目）
+  - 「株式会社 イデアル ｜会社概要 — 株式会社 イデアル ｜会社概要 ideal-hp.com https://www.ideal-hp.com > イデアルについて」（https://www.ideal-hp.com/about/company/・3回目）
+  - 「株式会社 イデアル 濱 恵介 - ベストベンチャー100 — 株式会社 イデアル 濱 恵介 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > ideal-h」（https://best100.v-tsushin.jp/company/ideal-h/・3回目）
+  - 「Ideal Investments Japan Co., Ltd. | 株式 会社 イデアル ... — Ideal Investments Japan Co., Ltd. | 株式 会社 イデアル ... ideal-inv.co.jp https://ideal-inv.co.jp > 未分類」（https://ideal-inv.co.jp/・3回目）
+  - 「導入事例 - 「ITインフラ本舗」イデアルネットワークス — 導入事例 - 「ITインフラ本舗」イデアルネットワークス idealnetworks.jp https://www.idealnetworks.jp > case」（https://www.idealnetworks.jp/case/・3回目）
+  - 「【株式会社 イデアル 】社内ツールのDX化を推進！Nextcloud ... — 【株式会社 イデアル 】社内ツールのDX化を推進！Nextcloud ... PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000003.000150715.html・3回目）
+  - 「導入事例 | イデアル シーズ株式会社 - サイボウズ Office — 導入事例 | イデアル シーズ株式会社 - サイボウズ Office サイボウズ Office https://office.cybozu.co.jp > cases > idealseeds」（https://office.cybozu.co.jp/cases/idealseeds/index.html・3回目）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部24頁・検索11回）
+
+## イノベーション・ゼロ
+- 公式URL：https://www.innovation-zero.co.jp（given）
+- 事業内容：インフルエンサーさんの支援事業も行う当社。あのインフルエンサーブレイクの影にはイノゼロが！？ 【狙って「数字」を作るSNSマーケティング】 「なぜ、その動画で商品が売れたのか？」 私たちはTikTokやInstagram、YouTubeなどのSNS広告において、その理由を徹底的に科学するプロ集団です。 データを分析し「確実に成果が出る勝ちパターン」を見つけ出し、クライアントの売上を最大化させます。 ■主な事業展開 広告代理事業：最適な配信のご提案や、他社代理店様との協業も可能です。 広告メディア事業：幅広いジャンルで10媒体以上を運用しています。 インフルエンサー支援：知名度アップや収益化をサポートします。 TikTok広告運用：クリエイター選出からPR動画の作成・運用まで一貫してプロデュースします。 動画作成サービス：ターゲット層に響く動画をキャスティングから撮影まで対応します。 漫画LP制作：物語の力で販売促進を支援するサービスです。 クローズドASP「Aiz」： 金融系を中心とした多数の案件を取り扱っています。（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+- 事業内容：ターゲット層に響く動画をキャスティングから撮影まで対応します（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+- 事業内容：① 金融特化型ショート動画広告運用 TikTok / YouTube Shorts / Instagram Reels広告運用 金融商材(証券・FX・暗号資産・保険・カード等)特化クリエイティブ制作 LTV最大化設計 ② クリエイティブ制作 ショート動画制作 UGC風広告制作 インフルエンサー連携型広告制作 ③ マーケティングコンサルティング 金融広告レギュレーション対応支援 CVR改善コンサル 広告KPI設計 ④ データ分析・広告テクノロジー 広告データ分析基盤構築 AIクリエイティブ最適化 LTV予測モデル構築（https://best100.v-tsushin.jp/company/innovation-zero/・3回目）
+- 資本金：1,000万円（https://best100.v-tsushin.jp/company/innovation-zero/・3回目）
+- 資本金：1,000万円（https://01intern.com/corporation/3013・3回目）
+- 創業年度：設立：2015年5月（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+- 創業年度：設立：2015年10月（https://01intern.com/corporation/3013・3回目）
+- 創業年度：設立：2015年5月（https://job.mynavi.jp/27/pc/search/corp283559/outline.html・3回目）
+- 従業員数：13人(2025年度実績)（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+- 従業員数：6人〜10人（https://01intern.com/corporation/3013・3回目）
+- 従業員数：13人(2025年度実績)（https://job.mynavi.jp/27/pc/search/corp283559/outline.html・3回目）
+- 所在地：〒160-0023　東京都新宿区西新宿3-7-30 フロンティアグラン西新宿　11F（https://www.innovation-zero.co.jp/・1回目）
+- 所在地：160-0023（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+- 所在地：東京都新宿区西新宿3丁目7-30フロンティアグラン西新宿1103（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+- 代表者：代表取締役　熊谷 元哉（https://01intern.com/corporation/3013・3回目）
+- 主要取引先：■株式会社ByteDance様 ■LINE株式会社様 ■ヤフー株式会社様 ■Google合同会社様（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+- 主要取引先：■株式会社ByteDance様 ■LINE株式会社様 ■ヤフー株式会社様 ■Google合同会社様（https://job.mynavi.jp/27/pc/search/corp283559/outline.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「金融をはじめとした複数ジャンルで自社メディアを企画・運営」（https://www.innovation-zero.co.jp/・1回目）
+  - 「１）入社1年目から「主力選手」として活躍」（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+  - 「データを分析し「確実に成果が出る勝ちパターン」を見つけ出し、クライアントの売上を最大化させます」（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+  - 「インフルエンサー支援：知名度アップや収益化をサポートします」（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+  - 「漫画LP制作：物語の力で販売促進を支援するサービスです」（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+  - 「SNSでの商品紹介だけではなく、動画広告への出演で知名度アップも可能」（https://01intern.com/corporation/3013・3回目）
+  - 「「物語で見せる」漫画LPを活用した販売促進支援サービス」（https://01intern.com/corporation/3013・3回目）
+  - 「金融系を中心とした多数の案件を取り扱うクローズドASP Aizの運営事業」（https://01intern.com/corporation/3013・3回目）
+  - 「１）入社1年目から「主力選手」として活躍」（https://job.mynavi.jp/27/pc/search/corp283559/outline.html・3回目）
+  - 「クライアントから「あなたのおかげで過去最高の売上が出ました！」と感謝される瞬間」（https://job.mynavi.jp/27/pc/search/corp283559/outline.html・3回目）
+  - 「データを分析し「確実に成果が出る勝ちパターン」を見つけ出し、クライアントの売上を最大化させます」（https://job.mynavi.jp/27/pc/search/corp283559/outline.html・3回目）
+  - 「インフルエンサー支援：知名度アップや収益化をサポートします」（https://job.mynavi.jp/27/pc/search/corp283559/outline.html・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「蓄積した運用データと独自のノウハウをもとに、クライアントの事業成長につながる広告成果を追求します」（https://www.innovation-zero.co.jp/・1回目）
+  - 「成果から逆算した広告戦略で、クライアントの事業成長を支援します」（https://www.innovation-zero.co.jp/・1回目）
+  - 「金融をはじめとした複数ジャンルで自社メディアを企画・運営」（https://www.innovation-zero.co.jp/・1回目）
+  - 「弊社は、TikTokでの注目を集めるための戦略を日々研究し、深い顧客理解に基づくマーケティングを得意とします」（https://www.innovation-zero.co.jp/・1回目）
+  - 「＜広告運用にイノベーションを＞クライアントにまだ見ぬ広告運用のソリューションを」（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+  - 「データを分析し「確実に成果が出る勝ちパターン」を見つけ出し、クライアントの売上を最大化させます」（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+  - 「クローズドASP「Aiz」： 金融系を中心とした多数の案件を取り扱っています」（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+  - 「従業員のキャリア形成のために入社年次や階層別の教育研修プログラムを準備しています」（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+  - 「金融業界に、成果主義の広告を」（https://best100.v-tsushin.jp/company/innovation-zero/・3回目）
+  - 「金融マーケティングの常識を変え、“成果型”で業界を前進させる」（https://best100.v-tsushin.jp/company/innovation-zero/・3回目）
+  - 「金融特化型動画広告代理店として、国内トップクラスのポジション確立」（https://best100.v-tsushin.jp/company/innovation-zero/・3回目）
+  - 「金融商材(証券・FX・暗号資産・保険・カード等)特化クリエイティブ制作」（https://best100.v-tsushin.jp/company/innovation-zero/・3回目）
+- 資本金・株主：
+  - 「3年以内に上場予定」（https://best100.v-tsushin.jp/company/innovation-zero/・3回目）
+- 選出の記録：
+  - 「プロダクトやサービスの魅力を最大限に引き出すために、適切なTikTokクリエイターを選出し、購買欲を刺激するPR動画の制作を手掛けます」（https://www.innovation-zero.co.jp/・1回目）
+  - 「ベストベンチャー100に選出されました」（https://www.innovation-zero.co.jp/・1回目）
+  - 「TikTok広告運用：クリエイター選出からPR動画の作成・運用まで一貫してプロデュースします」（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+  - 「・ベストベンチャー100（これから成長が期待されるベンチャー企業100社限定のサイト）:https://best100.v-tsushin.jp/company/innovation-zero/」（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+  - 「株式会社イノベーション・ゼロ 熊谷 元哉 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/innovation-zero/・3回目）
+  - 「消費者ニーズを刺激するために、ベストなTikTokクリエイターの選出からPR動画の作成をプロデュース」（https://01intern.com/corporation/3013・3回目）
+  - 「ベストベンチャー100選出・TikTok受賞企業で広告出演/撮影」（https://01intern.com/corporation/3013・3回目）
+  - 「TikTok広告運用：クリエイター選出からPR動画の作成・運用まで一貫してプロデュースします」（https://job.mynavi.jp/27/pc/search/corp283559/outline.html・3回目）
+  - 「・ベストベンチャー100（これから成長が期待されるベンチャー企業100社限定のサイト）:https://best100.v-tsushin.jp/company/innovation-zero/」（https://job.mynavi.jp/27/pc/search/corp283559/outline.html・3回目）
+- 検索結果の抜粋：
+  - 「(株) イノベーション ・ ゼロ の2027年度 会社概要 | マイナビ2028 — (株) イノベーション ・ ゼロ の2027年度 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp283559 > outline」（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+  - 「株式 会社イノベーション ・ ゼロ 熊谷 元哉 - ベストベンチャー100 — 株式 会社イノベーション ・ ゼロ 熊谷 元哉 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > innovation-zero」（https://best100.v-tsushin.jp/company/innovation-zero/・3回目）
+  - 「株式 会社イノベーション ・ ゼロ の長期インターン・求人採用 情報 — 株式 会社イノベーション ・ ゼロ の長期インターン・求人採用 情報 ゼロワンインターン https://01intern.com > corporation」（https://01intern.com/corporation/3013・3回目）
+  - 「株式 会社イノベーション ・ ゼロ — 株式 会社イノベーション ・ ゼロ 株式会社イノベーション・ゼロ https://www.innovation-zero.co.jp」（https://www.innovation-zero.co.jp/・3回目）
+  - 「株式会社 イノベーション ・ ゼロ （東京都）の 会社概要 ・役員 — 株式会社 イノベーション ・ ゼロ （東京都）の 会社概要 ・役員 Compalyze https://compalyze.co.jp > 企業検索 > デジタル広告・運用」（https://compalyze.co.jp/company/4010601047922・3回目）
+  - 「(株) イノベーション ・ ゼロ の新卒採用・会社概要 | マイナビ2027 — (株) イノベーション ・ ゼロ の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp283559 > outline」（https://job.mynavi.jp/27/pc/search/corp283559/outline.html・3回目）
+  - 「株式会社 イノベーション ・ ゼロ - BIZMAPS（ビズマップ） — 株式会社 イノベーション ・ ゼロ - BIZMAPS（ビズマップ） BIZMAPS（ビズマップ） https://biz-maps.com > item」（https://biz-maps.com/item/L4loXE29Zv・3回目）
+  - 「株式会社 イノベーション ・ ゼロ — 株式会社 イノベーション ・ ゼロ 株式会社イノベーション・ゼロ https://www.innovation-zero.co.jp」（https://www.innovation-zero.co.jp/・3回目）
+  - 「(株) イノベーション ・ ゼロ の2027年度会社概要 | マイナビ2028 — (株) イノベーション ・ ゼロ の2027年度会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp283559 > outline」（https://job.mynavi.jp/28/pc/search/corp283559/outline.html・3回目）
+  - 「株式会社 イノベーション ・ ゼロ 熊谷 元哉 - ベストベンチャー100 — 株式会社 イノベーション ・ ゼロ 熊谷 元哉 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > innovation-zero」（https://best100.v-tsushin.jp/company/innovation-zero/・3回目）
+  - 「株式 会社 イノベーション ・ ゼロ 熊谷 元哉 - ベストベンチャー100 — 株式 会社 イノベーション ・ ゼロ 熊谷 元哉 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > innovation-zero」（https://best100.v-tsushin.jp/company/innovation-zero/・3回目）
+  - 「株式 会社 イノベーション ・ ゼロ — 株式 会社 イノベーション ・ ゼロ 株式会社イノベーション・ゼロ https://www.innovation-zero.co.jp」（https://www.innovation-zero.co.jp/・3回目）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索11回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索11回）
+
+## イルマティッククルー
+- 公式URL：https://illmatic-crew.co.jp/（given）
+- 事業内容：WEB広告代理業 / コンサルティング事業 / クリエイティブUI事業 / 営業代行事業 /マーケティング育成スクール事業 / 人材紹介事業（https://en-ambi.com/agency/a-12479/・3回目）
+- 事業内容：・コンサルティング事業 ・広告代理事業 ・SNS運用代行事業 ・ASP事業（https://best100.v-tsushin.jp/company/illmatic-crew/・3回目）
+- 事業内容：WEB広告代理業 / コンサルティング事業 / クリエイティブUI事業 / 営業代行事業 /マーケティング育成スクール事業 / 人材紹介事業（https://mid-tenshoku.com/agency/a-12479/・3回目）
+- 資本金：300万円（https://en-ambi.com/agency/a-12479/・3回目）
+- 資本金：300万円（https://best100.v-tsushin.jp/company/illmatic-crew/・3回目）
+- 資本金：300万円（https://mid-tenshoku.com/agency/a-12479/・3回目）
+- 創業年度：設立：2024 年 4 月 3 日（https://en-ambi.com/agency/a-12479/・3回目）
+- 創業年度：設立：2024 年 4 月 3 日（https://mid-tenshoku.com/agency/a-12479/・3回目）
+- 従業員数：21名（https://en-ambi.com/agency/a-12479/・3回目）
+- 従業員数：21名（https://mid-tenshoku.com/agency/a-12479/・3回目）
+- 所在地：東京都新宿区高田馬場1丁目29-8 いちご高田馬場ビル701（https://best100.v-tsushin.jp/company/illmatic-crew/・3回目）
+- 代表者：市川和磨（https://en-ambi.com/agency/a-12479/・3回目）
+- 代表者：市川和磨（https://mid-tenshoku.com/agency/a-12479/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「事業内容 | 株式会社イルマティッククルー｜illmatic crew」（https://illmatic-crew.co.jp/service/・1回目）
+  - 「他広告代理店様比で獲得単価(CPA)を約34%程改善し、売上最大化に大きく貢献する事ができました」（https://illmatic-crew.co.jp/case-studies/00001/・1回目）
+  - 「計2つのプロモーションをお任せ頂き、集客、及び売上の最大化のサポートを致しました」（https://illmatic-crew.co.jp/case-studies/%E3%83%80%E3%83%9F%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB-2/・1回目）
+  - 「WEB広告代理業 / コンサルティング事業 / クリエイティブUI事業 / 営業代行事業 /マーケティング育成スクール事業 / 人材紹介事業」（https://en-ambi.com/agency/a-12479/・3回目）
+  - 「2029年度、売上100億円」（https://best100.v-tsushin.jp/company/illmatic-crew/・3回目）
+  - 「広告代理業を基盤としつつ、今後は事業会社として店舗運営など複数領域へ展開予定です」（https://best100.v-tsushin.jp/company/illmatic-crew/・3回目）
+  - 「WEB広告代理業 / コンサルティング事業 / クリエイティブUI事業 / 営業代行事業 /マーケティング育成スクール事業 / 人材紹介事業」（https://mid-tenshoku.com/agency/a-12479/・3回目）
+  - 「お客様の売上・利益を最大化！WEBを専門とした広告代理サービスを提供している会社」（https://readycrew.jp/media/company/illmatic-crew・3回目）
+  - 「単純な広告代理作業を行うのではなく、お客様の売上・利益最大化の為のコンサルティング及び広告運用を行っています」（https://readycrew.jp/media/company/illmatic-crew・3回目）
+  - 「Webコンサルティングとは、企業のWebサイトやオウンドメディアの運営に対するアドバイスや、Webマーケティ...」（https://readycrew.jp/media/company/illmatic-crew・3回目）
+  - 「広告運用とコンサルティングを組み合わせた独自のアプローチで、クライアントの売上・利益の最大化を実現しています」（https://www.wantedly.com/companies/illmatic_crew・3回目）
+  - 「株式会社イルマティッククルーはWEB広告代理業を展開し、WEBマーケティングを通じて企業の売上・利益の最大化を支援する企業です」（https://criacao.co.jp/information/post-14855/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「社名非公開（大手食品メーカー）｜Web広告運用」（https://illmatic-crew.co.jp/・1回目）
+  - 「社名非公開（美容クリニック）｜コンサルティング」（https://illmatic-crew.co.jp/・1回目）
+  - 「社名非公開（大手食品メーカー）｜Web広告運用 | 株式会社イルマティッククルー｜illmatic crew」（https://illmatic-crew.co.jp/cases/・1回目）
+  - 「社名非公開（大手食品メーカー）｜Web広告運用」（https://illmatic-crew.co.jp/cases/・1回目）
+  - 「社名非公開（美容クリニック）｜コンサルティング」（https://illmatic-crew.co.jp/cases/・1回目）
+  - 「社名非公開（大手食品メーカー）｜Web広告運用 | 株式会社イルマティッククルー｜illmatic crew」（https://illmatic-crew.co.jp/case-studies/00001/・1回目）
+  - 「社名非公開（大手食品メーカー）｜Web広告運用」（https://illmatic-crew.co.jp/case-studies/00001/・1回目）
+  - 「大手食品メーカー様の「睡眠サポートサプリ」において、Web広告をお任せ頂きました」（https://illmatic-crew.co.jp/case-studies/00001/・1回目）
+  - 「社名非公開（美容クリニック）｜コンサルティング | 株式会社イルマティッククルー｜illmatic crew」（https://illmatic-crew.co.jp/case-studies/%E4%BA%8B%E4%BE%8B%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB-4/・1回目）
+  - 「社名非公開（美容クリニック）｜コンサルティング」（https://illmatic-crew.co.jp/case-studies/%E4%BA%8B%E4%BE%8B%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB-4/・1回目）
+  - 「クライアント名4」（https://illmatic-crew.co.jp/case-studies/%E4%BA%8B%E4%BE%8B%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB-4/・1回目）
+  - 「全国展開されている美容クリニック様において、コンサルティング、及びWeb広告をお任せ頂きました」（https://illmatic-crew.co.jp/case-studies/%E4%BA%8B%E4%BE%8B%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB-4/・1回目）
+- 資本金・株主：
+  - 「地方銀行の子会社にあたる転職支援コンサルタント様において、Web広告をお任せ頂きました」（https://illmatic-crew.co.jp/case-studies/%E4%BA%8B%E4%BE%8B%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB-3/・1回目）
+  - 「上場グループ会社様の子会社にあたる美容サロン様において、Web広告をお任せ頂きました」（https://illmatic-crew.co.jp/case-studies/%E3%83%80%E3%83%9F%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB-2/・1回目）
+- 選出の記録：
+  - 「【web広告/セールス】ベストベンチャー100/創業3期・広告取扱高50億/現年収保証 広告営業」（https://en-ambi.com/agency/a-12479/・3回目）
+  - 「【経理】経理経験者優遇/現年収保証/ベストベンチャー100/服装自由」（https://en-ambi.com/agency/a-12479/・3回目）
+  - 「【広報】広報経験者優遇/現年収保証/ベストベンチャー100/服装自由」（https://en-ambi.com/agency/a-12479/・3回目）
+  - 「【人事】人事経験者優遇/現年収保証/ベストベンチャー100/服装自由」（https://en-ambi.com/agency/a-12479/・3回目）
+  - 「広告運用MGR候補｜創業3期・広告取扱高60億円｜ベストベンチャー100｜賞与あり」（https://en-ambi.com/agency/a-12479/・3回目）
+  - 「株式会社イルマティッククルー 市川 和磨 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/illmatic-crew/・3回目）
+- 検索結果の抜粋：
+  - 「株式 会社イルマティッククルー の転職・求人 情報 - AMBI — 株式 会社イルマティッククルー の転職・求人 情報 - AMBI アンビ（AMBI） https://en-ambi.com > agency」（https://en-ambi.com/agency/a-12479/・3回目）
+  - 「株式 会社イルマティッククルー 市川 和磨 - ベストベンチャー100 — 株式 会社イルマティッククルー 市川 和磨 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > illmatic-crew」（https://best100.v-tsushin.jp/company/illmatic-crew/・3回目）
+  - 「株式 会社イルマティッククルー - ミドルの転職 — 株式 会社イルマティッククルー - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧」（https://mid-tenshoku.com/agency/a-12479/・3回目）
+  - 「会社概要 | 株式会社 イルマティッククルー - illmatic crew — 会社概要 | 株式会社 イルマティッククルー - illmatic crew illmatic crew https://illmatic-crew.co.jp > company」（https://illmatic-crew.co.jp/company/・3回目）
+  - 「株式 会社イルマティッククルー の転職・企業 概要 - doda — 株式 会社イルマティッククルー の転職・企業 概要 - doda doda https://doda.jp > View > Company > j_id__10240875832」（https://doda.jp/DodaFront/View/Company/j_id__10240875832/・3回目）
+  - 「株式会社 イルマティッククルー 市川 和磨 - ベストベンチャー100 — 株式会社 イルマティッククルー 市川 和磨 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > illmatic-crew」（https://best100.v-tsushin.jp/company/illmatic-crew/・3回目）
+  - 「株式会社 イルマティッククルー ｜ illmatic crew — 株式会社 イルマティッククルー ｜ illmatic crew illmatic crew https://illmatic-crew.co.jp」（https://illmatic-crew.co.jp/・3回目）
+  - 「株式会社 イルマティッククルー | Crews Media — 株式会社 イルマティッククルー | Crews Media Ready Crew（レディクル） https://readycrew.jp > トップページ > を探す」（https://readycrew.jp/media/company/illmatic-crew・3回目）
+  - 「株式会社 イルマティッククルー の会社情報 - Wantedly — 株式会社 イルマティッククルー の会社情報 - Wantedly Wantedly https://www.wantedly.com > companies > illmatic_crew」（https://www.wantedly.com/companies/illmatic_crew・3回目）
+  - 「株式会社 イルマティッククルー の転職・求人情報 - AMBI — 株式会社 イルマティッククルー の転職・求人情報 - AMBI アンビ（AMBI） https://en-ambi.com > agency」（https://en-ambi.com/agency/a-12479/・3回目）
+  - 「株式 会社 イルマティッククルー 市川 和磨 - ベストベンチャー100 — 株式 会社 イルマティッククルー 市川 和磨 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > illmatic-crew」（https://best100.v-tsushin.jp/company/illmatic-crew/・3回目）
+  - 「株式会社 イルマティッククルー とパートナー契約を締結 — 株式会社 イルマティッククルー とパートナー契約を締結 criacao.co.jp https://criacao.co.jp > お知らせ」（https://criacao.co.jp/information/post-14855/・3回目）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部14頁・検索11回）
+- 株主：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部14頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部14頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部14頁・検索11回）
+
+## インフィニティエージェント
+- 公式URL：https://infinity-agent.co.jp/（given）
+- 事業内容：デジタルマーケティング事業 「戦略×運用×クリエイティブ」を 一気通貫で提供するデジタルマーケティング支援 広告運用者向けにデジタル広告に関する 最新情報をまとめたメディア 「 Infnity-Agent Lab 」の運営 広告戦略の見直しポイントを徹底分析する Youtubeチャンネル 「 マーケティング診断チャンネル 」の運営 DX事業 デジタルマーケティングの知見を活かし 業界を変革するためのソリューションを開発・提供 不動産DX 「 リノベステーション 」の運営 金融DX 「 住宅ローンステーション 」の運営（https://infinity-agent.co.jp/company/・1回目）
+- 事業内容：◆デジタルマーケティング事業 運用型広告を得意とし、デジタルマーケティングに関する総合的なコンサルティングサービスを戦略的にご提案しています。レッドオーシャンのデジタルマーケティング業界で後発ながら3年でTOP1％となり、東証プライム上場企業から成長ベンチャー企業まで累計150億円以上、300社以上の企業の支援実績があります。 ＜主なサービス＞ ・AI時代におけるデジタルマーケティングの“原理原則”メソッド「InifinityMarketing」 ・デジタルマーケティングの運用ツール「InfinityScope」 ・デジタルマーケティング×インサイドセールスの一気通貫サービス「InfinitySales」 ・YouTubeチャンネル「マーケティング診断チャンネル」の運営 ・Web広告に関する最新情報をまとめたメディア「Infnity-Agent Lab.」の運営 ◆新規事業（DX事業） 世の中のデジタル化が進む中、すでに市場が成熟しているものの、さらなる成長が期待できない業界や衰退傾向にあり革新的な変化を起こしづらいといったレガシー産業は、未だにアナログな部分が多く、非効率な面やお客様（https://job.mynavi.jp/28/pc/search/corp214387/outline.html・3回目）
+- 事業内容：◆デジタルマーケティング事業 運用型広告を得意とし、デジタルマーケティングに関する総合的なコンサルティングサービスを戦略的にご提案しています。レッドオーシャンのデジタルマーケティング業界で後発ながら3年でTOP1％となり、東証プライム上場企業から成長ベンチャー企業まで累計150億円以上、300社以上の企業の支援実績があります。 ＜主なサービス＞ ・AI時代におけるデジタルマーケティングの“原理原則”メソッド「InifinityMarketing」 ・デジタルマーケティングの運用ツール「InfinityScope」 ・デジタルマーケティング×インサイドセールスの一気通貫サービス「InfinitySales」 ・YouTubeチャンネル「マーケティング診断チャンネル」の運営 ・Web広告に関する最新情報をまとめたメディア「Infnity-Agent Lab.」の運営 ◆新規事業（DX事業） 世の中のデジタル化が進む中、すでに市場が成熟しているものの、さらなる成長が期待できない業界や衰退傾向にあり革新的な変化を起こしづらいといったレガシー産業は、未だにアナログな部分が多く、非効率な面やお客様（https://job.mynavi.jp/27/pc/search/corp214387/outline.html・3回目）
+- 資本金：6,000万円（https://infinity-agent.co.jp/company/・1回目）
+- 資本金：6,000万円（https://www.bizreach.jp/companies/9141/・3回目）
+- 資本金：26億3,500万円（https://www.bizreach.jp/companies/9141/・3回目）
+- 創業年度：設立：2015年5月15日（https://infinity-agent.co.jp/company/・1回目）
+- 創業年度：創業：2013年9月1日（https://job.mynavi.jp/28/pc/search/corp214387/outline.html・3回目）
+- 創業年度：設立：2015年5月15日（https://job.mynavi.jp/28/pc/search/corp214387/outline.html・3回目）
+- 従業員数：97名（2026年4月時点）（https://infinity-agent.co.jp/company/・1回目）
+- 従業員数：100名（2026年4月時点）（https://job.mynavi.jp/28/pc/search/corp214387/outline.html・3回目）
+- 従業員数：100名（2026年4月時点）（https://job.mynavi.jp/27/pc/search/corp214387/outline.html・3回目）
+- 売上高：4,121百万円（2025年3月期）（https://infinity-agent.co.jp/company/・1回目）
+- 売上高：2025年3月期　41億1700万円（https://job.mynavi.jp/28/pc/search/corp214387/outline.html・3回目）
+- 売上高：2019年3月期　 8億4,000万円 2020年3月期　14億円 2021年3月期　21億9000万円 2022年3月期　28億700万円 2023年3月期　27億100万円 2024年3月期　33億2600万円 2025年3月期　41億1700万円（https://job.mynavi.jp/28/pc/search/corp214387/outline.html・3回目）
+- 株主：代表取締役　岡田裕平（100％）（https://infinity-agent.co.jp/company/・1回目）
+- 株主：VC不明（https://initial.inc/companies/A-31204・3回目）
+- 所在地：〒102-0071 東京都千代田区富士見1丁目8-19 住友不動産千代田富士見ビル2F Sumitomo Fudosan Chiyoda Fujimi Building 2F, 1-8-19 Fujimi, Chiyoda-ku, Tokyo 102-0071, Japan [ ACCESS ] 中央･総武線「飯田橋駅」西口より徒歩4分 南北線 有楽町線 東西線 都営大江戸線「飯田橋駅」B2a出口より徒歩4分 半蔵門線 東西線 都営新宿線「九段下駅」1番出口より徒歩7分（https://infinity-agent.co.jp/company/・1回目）
+- 所在地：東京都千代田区富士見1-8-19住友不動産千代田富士見ビル2F（https://www.bizreach.jp/companies/9141/・3回目）
+- 所在地：東京都渋谷区渋谷3-11-11IVYイーストビル（https://www.bizreach.jp/companies/9141/・3回目）
+- 代表者：代表取締役　岡田裕平（https://infinity-agent.co.jp/company/・1回目）
+- 代表者：1989年、東京都出身。2012年大学在学中にベンチャー企業にインターンとして入社、新規事業責任者としてインターネットメディア事業の立ち上げを行う。2013年11月トランスコスモス株式会社へ入社し、デジタルマーケティングにおけるプランニング、オペレーション業務に従事。「セールスとデジタルを駆使し無限の可能性を引き起こす」を経営理念に、2015年5月、当社を創業。代表取締役に就任。（https://infinity-agent.co.jp/company/member/・1回目）
+- 代表者：代表取締役 岡田 裕平（https://www.bizreach.jp/companies/9141/・3回目）
+- 主要取引先：Google Japan Inc Meta Platforms, Inc LINEヤフー(株)（https://job.mynavi.jp/28/pc/search/corp214387/outline.html・3回目）
+- 主要取引先：Google Japan Inc Meta Platforms, Inc LINEヤフー(株)（https://job.mynavi.jp/27/pc/search/corp214387/outline.html・3回目）
+- 主要取引先：Google Japan Inc Meta Platforms, Inc LINEヤフー株式会社（https://paiza.jp/recruiters/7430・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「売上が上がった、課題が解決した」（https://infinity-agent.co.jp/・1回目）
+  - 「お客様の「無限の可能性を広げる請負人」となるべく、」（https://infinity-agent.co.jp/・1回目）
+  - 「有料職業紹介事業許可番号 13-ユ-319998」（https://infinity-agent.co.jp/company/・1回目）
+  - 「事業内容 - 株式会社インフィニティエージェント｜デジタルマーケティング＆DX支援」（https://infinity-agent.co.jp/service/・1回目）
+  - 「いまや開発から販売、アフターサービスに至るまでワンストップで提供できるバリューチェーンを構築しています」（https://infinity-agent.co.jp/about/message/・1回目）
+  - 「Metaビジネスパートナーバッジは、パフォーマンスとサービスに対して最高レベルの基準を満たし、広告の掲載から商品の販売、顧客との交流まで、ビジネスの成長を支援するための専門知識を備えていると認定された企業に付与されます」（https://infinity-agent.co.jp/company/performance/・1回目）
+  - 「エントリーした企業の中から、厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://infinity-agent.co.jp/company/performance/・1回目）
+  - 「経営陣・役員紹介｜インフィニティエージェント」（https://infinity-agent.co.jp/company/member/・1回目）
+  - 「2007年株式会社スウェーデンハウス入社後、戸建て住宅販売の営業職を経験」（https://infinity-agent.co.jp/company/member/・1回目）
+  - 「中小企業に対し経営改善支援や経営計画・経営戦略の策定支援、経営管理・組織運営に関する助言などの支援を行う」（https://infinity-agent.co.jp/company/member/・1回目）
+  - 「以下より、それぞれの取り組みについてご紹介していきます」（https://infinity-agent.co.jp/service/quality/・1回目）
+  - 「プランニングDiv.にて、トップクラスの売上を誇る企業様の広告運用を成功に導いている」（https://infinity-agent.co.jp/service/quality/・1回目）
+- 客は誰か：
+  - 「「ベストベンチャー100」は、イシン（株）が提供する法人向け優良会員制サービスです」（https://infinity-agent.co.jp/company/performance/・1回目）
+  - 「中小企業の成長発展を支援することを目的として、経営革新や経営基盤の強化に取り組んでいる企業を表彰する賞です」（https://infinity-agent.co.jp/company/performance/・1回目）
+  - 「2017年中小企業診断士に登録し、2021年独立」（https://infinity-agent.co.jp/company/member/・1回目）
+  - 「中小企業に対し経営改善支援や経営計画・経営戦略の策定支援、経営管理・組織運営に関する助言などの支援を行う」（https://infinity-agent.co.jp/company/member/・1回目）
+  - 「中小企業診断士、事業再生士、」（https://infinity-agent.co.jp/service/quality/・1回目）
+  - 「※「ベストベンチャー100」は、イシン（株）が提供する法人向け優良会員制サービスです」（https://job.mynavi.jp/28/pc/search/corp214387/outline.html・3回目）
+  - 「#デジタルマーケティング #マーケティング #Web広告 #広告 #IT #マーケター #Webコンサル #コンサルティング #成長 #挑戦 #新規営業 #法人営業 #BtoB #分析提案 #無形商材 #プランニング #広告運用 #広告戦略 #戦略立案 #データ分析 #一気通貫 #クリエイティブ #運用型広告 #SNS広告 #Google #Yahoo! #YouTube #Meta #Instagram #LINE #TikTok #新規事業 #DX #デジタルトランスフォーメーション #社長直下 #少数精鋭 #不動産 #リフォーム #業界のDX化 #営業 #理念経営 #裁量権 #顧客貢献 #成長率120％超 #平均年齢28歳 #ベンチャー #理念共感型採用 #早期選考 #年間休日120日 #福利厚生充実 #転勤なし #インターン #文理不問 #未経験 #選考直結」（https://job.mynavi.jp/28/pc/search/corp214387/outline.html・3回目）
+  - 「現管理職メンバーでノウハウが蓄積された大手企業等におけるマネジメント経験を持つメンバーは多くなく、課題となっていた「マネジメント力の向上」に向けてマネジメント業務に関わるメンバーを対象に毎月実施しています」（https://job.mynavi.jp/28/pc/search/corp214387/outline.html・3回目）
+  - 「※「ベストベンチャー100」は、イシン（株）が提供する法人向け優良会員制サービスです」（https://job.mynavi.jp/27/pc/search/corp214387/outline.html・3回目）
+  - 「#デジタルマーケティング #マーケティング #Web広告 #広告 #IT #マーケター #Webコンサル #コンサルティング #成長 #挑戦 #新規営業 #法人営業 #BtoB #分析提案 #無形商材 #プランニング #広告運用 #広告戦略 #戦略立案 #データ分析 #一気通貫 #クリエイティブ #運用型広告 #SNS広告 #Google #Yahoo! #YouTube #Meta #Instagram #LINE #TikTok #新規事業 #DX #デジタルトランスフォーメーション #社長直下 #少数精鋭 #不動産 #リフォーム #業界のDX化 #営業 #理念経営 #裁量権 #顧客貢献 #成長率120％超 #平均年齢28歳 #ベンチャー #理念共感型採用 #早期選考 #年間休日120日 #福利厚生充実 #転勤なし #インターン #文理不問 #未経験 #選考直結」（https://job.mynavi.jp/27/pc/search/corp214387/outline.html・3回目）
+  - 「現管理職メンバーでノウハウが蓄積された大手企業等におけるマネジメント経験を持つメンバーは多くなく、課題となっていた「マネジメント力の向上」に向けてマネジメント業務に関わるメンバーを対象に毎月実施しています」（https://job.mynavi.jp/27/pc/search/corp214387/outline.html・3回目）
+  - 「インフィニティエージェント独自のノウハウを多く持っていることからWebマーケティングの知識を習得することができ、取引先企業様も多様な業種の大手企業からベンチャー企業まで幅広いため、さまざまな知見を得ることが可能です」（https://paiza.jp/recruiters/7430・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「社会保険労務士法人ソーシャルブライトマネジメント」（https://infinity-agent.co.jp/company/・1回目）
+  - 「住友不動産千代田富士見ビル2F」（https://infinity-agent.co.jp/company/・1回目）
+  - 「不動産投資ローン借り換えサービス「不動産投資ローンステーション」を開始」（https://infinity-agent.co.jp/company/history/・1回目）
+  - 「株式会社SBJ銀行とANY住宅ローンパートナー契約を締結し、業務提携を開始」（https://infinity-agent.co.jp/company/history/・1回目）
+  - 「不動産業界を革新するためのソリューションを開発・提供しています」（https://infinity-agent.co.jp/service/・1回目）
+  - 「お客様の声 - 株式会社インフィニティエージェント｜デジタルマーケティング＆DX支援」（https://infinity-agent.co.jp/service/dm/voice/・1回目）
+  - 「不動産領域への専門性と、週次レポートによる」（https://infinity-agent.co.jp/service/dm/voice/・1回目）
+  - 「不動産売却バナー（bn0086）」（https://infinity-agent.co.jp/service/dm/bannerdesign/・1回目）
+  - 「不動産売却バナー（bn0087）」（https://infinity-agent.co.jp/service/dm/bannerdesign/・1回目）
+  - 「不動産売却バナー（bn0088）」（https://infinity-agent.co.jp/service/dm/bannerdesign/・1回目）
+  - 「住友不動産千代田富士見ビル2F」（https://infinity-agent.co.jp/service/dm/bannerdesign/・1回目）
+  - 「不動産査定LP（lp0037）」（https://infinity-agent.co.jp/service/dm/lpdesign/・1回目）
+- 資本金・株主：
+  - 「2006年新日本監査法人（現EY新日本有限責任監査法人）入所し、上場会社への会計監査業務、株式公開準備会社への支援業務、内部統制支援業務などに従事」（https://infinity-agent.co.jp/company/member/・1回目）
+  - 「2018年より株式公開準備業務に従事、2021年に管理部門管掌取締役としてマザーズ（現グロース）市場上場を果たす」（https://infinity-agent.co.jp/company/member/・1回目）
+  - 「広告設定や提出資料は、第三者チェックや上長の承認を義務化」（https://infinity-agent.co.jp/service/quality/・1回目）
+  - 「【資本金】6,000万円」（https://www.bizreach.jp/companies/9141/・3回目）
+  - 「レッドオーシャンのデジタルマーケティング業界で後発ながら3年でTOP1％となり、東証プライム上場企業から成長ベンチャー企業まで累計150億円以上、300社以上の企業の支援実績があります」（https://job.mynavi.jp/28/pc/search/corp214387/outline.html・3回目）
+  - 「レッドオーシャンのデジタルマーケティング業界で後発ながら3年でTOP1％となり、東証プライム上場企業から成長ベンチャー企業まで累計150億円以上、300社以上の企業の支援実績があります」（https://job.mynavi.jp/27/pc/search/corp214387/outline.html・3回目）
+  - 「インフィニティエージェント、資本金を6000万円に増資 | 株式会社インフィニティエージェントのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000029.000022391.html・3回目）
+  - 「インフィニティエージェント、資本金を6000万円に増資」（https://prtimes.jp/main/html/rd/p/000000029.000022391.html・3回目）
+  - 「株式会社インフィニティエージェント（本社：東京都千代田区、代表取締役：岡田 裕平、以下「当社」）は、2020年8月7日付にて資本金を増資致しました」（https://prtimes.jp/main/html/rd/p/000000029.000022391.html・3回目）
+  - 「この度、株式会社インフィニティエージェントは2020年8月7日付にて増資を行い、資本金を6000万円としましたのでここにお知らせいたします」（https://prtimes.jp/main/html/rd/p/000000029.000022391.html・3回目）
+  - 「・増資後の資本金 6000万円」（https://prtimes.jp/main/html/rd/p/000000029.000022391.html・3回目）
+  - 「レッドオーシャンのデジタルマーケティング業界で後発ながら3年でTOP1％となり、東証プライム上場企業から成長ベンチャー企業まで累計100億円以上、250社以上の企業の支援実績があります」（https://shogakukinbank.jp/companies/849/・3回目）
+- 選出の記録：
+  - 「「2019年度ベストベンチャー100」選出」（https://infinity-agent.co.jp/company/history/・1回目）
+  - 「「働きがいのある会社」ランキングにてベストカンパニーに選出」（https://infinity-agent.co.jp/company/history/・1回目）
+  - 「「2020年度ベストベンチャー100」選出」（https://infinity-agent.co.jp/company/history/・1回目）
+  - 「「2021年度ベストベンチャー100」選出」（https://infinity-agent.co.jp/company/history/・1回目）
+  - 「「2024年度 ベストベンチャー100」選出」（https://infinity-agent.co.jp/company/history/・1回目）
+  - 「「2025年度 ベストベンチャー100」選出」（https://infinity-agent.co.jp/company/history/・1回目）
+  - 「「ベストベンチャー100」に選出（2019年,2020年,2021年,2024年,2025年,2026年）」（https://infinity-agent.co.jp/company/performance/・1回目）
+  - 「「ベストベンチャー100」は、イシン（株）が提供する法人向け優良会員制サービスです」（https://infinity-agent.co.jp/company/performance/・1回目）
+  - 「エントリーした企業の中から、厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://infinity-agent.co.jp/company/performance/・1回目）
+  - 「／ベストベンチャー100選出企業」（https://job.mynavi.jp/28/pc/search/corp214387/outline.html・3回目）
+  - 「◎ベストベンチャー100 選出（2019・2020・2021・2024・2025・2026）」（https://job.mynavi.jp/28/pc/search/corp214387/outline.html・3回目）
+  - 「※「ベストベンチャー100」は、イシン（株）が提供する法人向け優良会員制サービスです」（https://job.mynavi.jp/28/pc/search/corp214387/outline.html・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 ・アクセス｜ インフィニティエージェント — 会社概要 ・アクセス｜ インフィニティエージェント 株式会社インフィニティエージェント https://infinity-agent.co.jp > company」（https://infinity-agent.co.jp/company/・3回目）
+  - 「株式 会社インフィニティエージェント の求人・採用 情報 — 株式 会社インフィニティエージェント の求人・採用 情報 ビズリーチ https://www.bizreach.jp > companies」（https://www.bizreach.jp/companies/9141/・3回目）
+  - 「(株) インフィニティエージェント の 会社概要 | マイナビ2028 — (株) インフィニティエージェント の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp214387 > outline」（https://job.mynavi.jp/28/pc/search/corp214387/outline.html・3回目）
+  - 「インフィニティエージェント の新卒採用・就職・ 会社概要 と ... — インフィニティエージェント の新卒採用・就職・ 会社概要 と ... ワンキャリア https://www.onecareer.jp > companies」（https://www.onecareer.jp/companies/87054・3回目）
+  - 「株式 会社インフィニティエージェント 岡田 裕平 — 株式 会社インフィニティエージェント 岡田 裕平 ベストベンチャー100 https://best100.v-tsushin.jp > company > infinity-agent」（https://best100.v-tsushin.jp/company/infinity-agent/・3回目）
+  - 「(株) インフィニティエージェント の会社概要 | マイナビ2027 — (株) インフィニティエージェント の会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp214387 > outline」（https://job.mynavi.jp/27/pc/search/corp214387/outline.html・3回目）
+  - 「業績ハイライトと成長推移｜ インフィニティエージェント — 業績ハイライトと成長推移｜ インフィニティエージェント 株式会社インフィニティエージェント https://infinity-agent.co.jp > 会社概要」（https://infinity-agent.co.jp/company/performance/・3回目）
+  - 「株式会社 インフィニティエージェント の企業情報・エンジニア ... — 株式会社 インフィニティエージェント の企業情報・エンジニア ... paiza https://paiza.jp > 企業検索」（https://paiza.jp/recruiters/7430・3回目）
+  - 「株式会社 インフィニティエージェント （広告業） - 100億宣言 — 株式会社 インフィニティエージェント （広告業） - 100億宣言 １００億企業成長ポータル PDF https://growth-100-oku.smrj.go.jp > companies > pdf」（https://growth-100-oku.smrj.go.jp/companies/pdf/03568-00.pdf・3回目）
+  - 「インフィニティエージェント の新卒採用・就職・会社概要と ... — インフィニティエージェント の新卒採用・就職・会社概要と ... ワンキャリア https://www.onecareer.jp > companies」（https://www.onecareer.jp/companies/87054・3回目）
+  - 「株式会社 インフィニティエージェント — 株式会社 インフィニティエージェント スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-31204・3回目）
+  - 「インフィニティエージェント 、資本金を6000万円に増資 — インフィニティエージェント 、資本金を6000万円に増資 PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000000029.000022391.html・3回目）
+
+## エイトビット
+- 公式URL：https://eightbit.co.jp/（given）
+- 事業内容：・IT人材特化型の人材紹介・派遣事業 ・女性のキャリア支援事業 ・建設業界向け施工管理サービス ・人材育成事業 ・AI活用推進事業（https://best100.v-tsushin.jp/company/eightbit/・3回目）
+- 事業内容：■Tech academia 良質な教育プラットフォームとして、質の高い教育を提供 テクノロジーがありふれているからこそ、必要な技術を 身につけ、学びを日常に 2,000人以上のエンジニアを排出した教育カリキュラムを持ち、未経験から上流工程、 先端技術における教育制度を実現 未経験向け基礎レベルの教育事業 経験者向けリスキル講座などの先端技 術カリキュラム エンジニア向けコミュニティの運営 ■HR solution エンジニアの技術力を顧客に提供しIT課題の解決に取り組む 国内最大手のクライアント ITエンジニアのフォ ローを行い、市場価値が上がるためのキャリアプランを考え伴走する ■&Her Works すべての女性が「自分らしさ」を大切にしながら、 学び、働き、何度でも挑戦できる社会の実現を目指します。 年齢や環境に縛られず、変化を恐れず、その人の人生そのものが輝き続けられるように。 私たちは、女性一人 ひとりの“やってみたい”に寄り添い、キャリアを通じた自己実現の場を届けていきます。 ■CONST-X 再び、国土強靭化への貢献。 建設・インフラ業界の人材不足を解消し、日本の国土強（https://job.mynavi.jp/27/pc/search/corp269054/outline.html・3回目）
+- 事業内容：■Tech academia 良質な教育プラットフォームとして、質の高い教育を提供 テクノロジーがありふれているからこそ、必要な技術を身につけ、学びを日常に 2,000人以上のエンジニアを排出した教育カリキュラムを持ち、未経験から上流工程、先端技術における教育制度を実現 未経験向け基礎レベルの教育事業 経験者向けリスキル講座などの先端技術カリキュラム エンジニア向けコミュニティの運営 ■IT solution エンジニアの技術力を顧客に提供しIT課題の解決に取り組む 国内最大手のクライアント ITエンジニアのフォローを行い、市場価値が上がるためのキャリアプランを考え伴走する ■&Her Works すべての女性が「自分らしさ」を大切にしながら、 学び、働き、何度でも挑戦できる社会の実現を目指します。 年齢や環境に縛られず、変化を恐れず、その人の人生そのものが輝き続けられるように。 私たちは、女性一人ひとりの“やってみたい”に寄り添い、キャリアを通じた自己実現の場を届けていきます。（https://paiza.jp/recruiters/6042・3回目）
+- 資本金：440,145,645円(資本剰余金含む)（https://best100.v-tsushin.jp/company/eightbit/・3回目）
+- 資本金：440,145,645円（資本剰余金含む）（https://job.mynavi.jp/27/pc/search/corp269054/outline.html・3回目）
+- 資本金：4億4,014万円（https://paiza.jp/recruiters/6042・3回目）
+- 創業年度：設立：2022年8月（https://job.mynavi.jp/27/pc/search/corp269054/outline.html・3回目）
+- 創業年度：設立：2022/08（https://initial.inc/companies/A-PGGUX・3回目）
+- 創業年度：設立年月：2022年08月08日（https://paiza.jp/recruiters/6042・3回目）
+- 従業員数：1100名（2026年2月1日時点）（https://job.mynavi.jp/27/pc/search/corp269054/outline.html・3回目）
+- 従業員数：1074名（2026/03現在）（https://paiza.jp/recruiters/6042・3回目）
+- 売上高：2026年3月期　6,000百万円（見込み） 2025年3月期　4,600百万円 2024年3月期　3,300百万円（https://paiza.jp/recruiters/6042・3回目）
+- 株主：VC不明（https://initial.inc/companies/A-PGGUX・3回目）
+- 所在地：東京都豊島区東池袋1-18-1 Hareza Tower 20F（https://best100.v-tsushin.jp/company/eightbit/・3回目）
+- 所在地：170-0013（https://job.mynavi.jp/27/pc/search/corp269054/outline.html・3回目）
+- 所在地：東京都豊島区東池袋１－１8－１ Hareza Tower 20F（https://job.mynavi.jp/27/pc/search/corp269054/outline.html・3回目）
+- 代表者：深澤　弘樹（https://initial.inc/companies/A-PGGUX・3回目）
+- 代表者：代表取締役　深澤　弘樹（https://paiza.jp/recruiters/6042・3回目）
+- 代表者：深澤 弘樹（https://paiza.jp/recruiters/6042・3回目）
+- 主要取引先：【クライアント一覧】 リクルート、セガサミーホールディングス、セガ、DeNA、ポケトーク、 伊藤忠、インターネットイニシアティブ、日鉄ソリューションズ、SCSK、など（https://paiza.jp/recruiters/6042・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「シンヨー株式会社 施工管理派遣事業の取得について」（https://eightbit.co.jp/・1回目）
+  - 「派遣期間に関係なく雇用関係継続するため、安定した働き方が実現できる」（https://eightbit.co.jp/service/her-works/・1回目）
+  - 「建設‧インフラ業界の⼈材不⾜を解消し、⽇本の国⼟強靭化に貢献するため、⾼品質な施⼯管理エンジニアを育成‧派遣」（https://eightbit.co.jp/service/const-x/・1回目）
+  - 「派遣、教育、配属の一本化」（https://eightbit.co.jp/service/const-x/・1回目）
+  - 「右肩上がりで成長中！2025年3月期の売上高は46億円の規模！設立5年で100億円の売り上げが射程圏内です」（https://job.mynavi.jp/28/pc/search/corp269054/outline.html・3回目）
+  - 「過去に売上高8,000億円超を達成し、業界No.1の地位を確立した起業家が再創業」（https://job.mynavi.jp/28/pc/search/corp269054/outline.html・3回目）
+  - 「設立わずか4年で、売上46億円・社員数1100名を突破したのが当社です」（https://job.mynavi.jp/28/pc/search/corp269054/outline.html・3回目）
+  - 「また、定期健康診断やエンジニア紹介手当、資格取得支援などでもあります」（https://job.mynavi.jp/28/pc/search/corp269054/outline.html・3回目）
+  - 「術カリキュラム エンジニア向けコミュニティの運営」（https://job.mynavi.jp/28/pc/search/corp269054/outline.html・3回目）
+  - 「建設・インフラ業界の人材不足を解消し、日本の国土強靭化に貢献するため、高品質な施工管理エンジニアを育成・派遣」（https://job.mynavi.jp/28/pc/search/corp269054/outline.html・3回目）
+  - 「主力のIT人材派遣事業では、独自の育成プログラムで企業の人材不足解決に貢献しています」（https://best100.v-tsushin.jp/company/eightbit/・3回目）
+  - 「加えて、女性のキャリア支援を行う&Her Works、施工管理者派遣のCONST-Xなど、「教育×人」で社会課題に向き合う事業を展開中です」（https://best100.v-tsushin.jp/company/eightbit/・3回目）
+- 客は誰か：
+  - 「このような会社と社員が一体となって働きやすく、成長できる環境をつくることで、やりがいを求めて大手企業から当社へと転職した社員もいるほどです」（https://job.mynavi.jp/28/pc/search/corp269054/outline.html・3回目）
+  - 「このような会社と社員が一体となって働きやすく、成長できる環境をつくることで、やりがいを求めて大手企業から当社へと転職した社員もいるほどです」（https://job.mynavi.jp/27/pc/search/corp269054/outline.html・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「Learn（教育）× Work（配属）× Well-being（継続）を同⼀OSで実装」（https://eightbit.co.jp/about/・1回目）
+  - 「自社教育の強みを生かした継続的リスキル環境を作ることで、組織の成長も促します」（https://eightbit.co.jp/about/・1回目）
+  - 「私たちは教育と実践を連動させ、未経験からでも成長し続けられるキャリアの循環を構築しています」（https://eightbit.co.jp/about/・1回目）
+  - 「大学を卒業後、通信機器商社へ入社」（https://eightbit.co.jp/about/・1回目）
+  - 「帰国後は人材育成、教育事業を立ち上げ、若手の育成に取り組む」（https://eightbit.co.jp/about/・1回目）
+  - 「営業、教育のコンサルタントを経て、5月バディットコンサルティングを設立」（https://eightbit.co.jp/about/・1回目）
+  - 「有効求⼈倍率の構造的⾼⽌まりが続き、IT技術者は3.8倍、建設技術者は3.2倍と全職種平均を⼤きく上回る」（https://eightbit.co.jp/about/・1回目）
+  - 「良質な教育プラットフォームとして、質の高い教育を提供する」（https://eightbit.co.jp/service/・1回目）
+  - 「私たちは基礎教育から現場配属、継続フォローまで一貫した育成体制を整え、未経験からでも活躍できる施工管理技士を安定的に輩出」（https://eightbit.co.jp/service/・1回目）
+  - 「1,000社を超える優良クライアントからのさまざまな要望を頂き、必要とするスキル、体制、納期、その他たくさんのニーズに応えるため、顧客が求める最適な形で提供します」（https://eightbit.co.jp/service/it-solution/・1回目）
+  - 「エイトビットの優良クライアントに直接雇用チャンスを作ることができます」（https://eightbit.co.jp/service/it-solution/・1回目）
+  - 「社員にとっても、クライアントにとってもミスマッチを防ぐことが可能な仕組みです」（https://eightbit.co.jp/service/it-solution/・1回目）
+- 資本金・株主：
+  - 「(株)フォーカスシステムズ【東証プライム市場上場】」（https://job.mynavi.jp/28/pc/search/corp269054/outline.html・3回目）
+  - 「前職では上場企業として成長を追い続けましたが、その中で本質を見失っていく経験をしました」（https://best100.v-tsushin.jp/company/eightbit/・3回目）
+  - 「上場企業を経営し、一兆円手前まで到達しましたが、本質を見失いました」（https://best100.v-tsushin.jp/company/eightbit/・3回目）
+  - 「★設立1年目から上場企業との直接取引ができていること」（https://job.mynavi.jp/27/pc/search/corp269054/outline.html・3回目）
+  - 「【無料閲覧可】エイトビット株式会社 / &HerWorksの資金調達推移・投資家情報 | FIRST CVC」（https://www.firstcvc.jp/company/eightbit.co.jp・3回目）
+  - 「資金調達は最新の1回分を無料で公開しています」（https://www.firstcvc.jp/company/eightbit.co.jp・3回目）
+  - 「資金調達（2024-12）」（https://www.firstcvc.jp/company/eightbit.co.jp・3回目）
+  - 「資金調達の全履歴と投資家を見る（無料登録）」（https://www.firstcvc.jp/company/eightbit.co.jp・3回目）
+  - 「【エンジニアに寄り添うサポート体制あり】BUDDYがキャリアアップを実現◎取引先は上場企業を含む100社以上！常に1000件ほどの依頼があります」（https://paiza.jp/recruiters/6042・3回目）
+- 選出の記録：
+  - 「2026年度 ベストベンチャー100 選出のお知らせ」（https://eightbit.co.jp/・1回目）
+  - 「エイトビット株式会社 茂手木 雅樹 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/eightbit/・3回目）
+- 検索結果の抜粋：
+  - 「エイトビット (株)の2027年度 会社概要 | マイナビ2028 — エイトビット (株)の2027年度 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp269054 > outline」（https://job.mynavi.jp/28/pc/search/corp269054/outline.html・3回目）
+  - 「エイトビット 株式 会社 茂手木 雅樹 - ベストベンチャー100 — エイトビット 株式 会社 茂手木 雅樹 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > eightbit」（https://best100.v-tsushin.jp/company/eightbit/・3回目）
+  - 「Company | EIGHTBIT Co., Ltd. | Harmonize with the world — Company | EIGHTBIT Co., Ltd. | Harmonize with the world EIGHTBIT Co., Ltd. https://eightbit.co.jp > company」（https://eightbit.co.jp/company/・3回目）
+  - 「株式会社 エイトビット （東京都）の 会社概要 ・役員 | Compalyze — 株式会社 エイトビット （東京都）の 会社概要 ・役員 | Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 映像・音楽制作」（https://compalyze.co.jp/company/8011301015141・3回目）
+  - 「エイトビット 株式 会社 の転職・企業 概要 - doda — エイトビット 株式 会社 の転職・企業 概要 - doda doda https://doda.jp > View > Company > j_id__10222624750」（https://doda.jp/DodaFront/View/Company/j_id__10222624750/・3回目）
+  - 「エイトビット (株)の新卒採用・会社概要 | マイナビ2027 — エイトビット (株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp269054 > outline」（https://job.mynavi.jp/27/pc/search/corp269054/outline.html・3回目）
+  - 「エイトビット 株式会社の 事業 とカルチャー - Wantedly — エイトビット 株式会社の 事業 とカルチャー - Wantedly Wantedly https://www.wantedly.com > ... > エイトビット株式会社」（https://www.wantedly.com/companies/eightbit/about・3回目）
+  - 「エイトビット 株式会社 茂手木 雅樹 - ベストベンチャー100 — エイトビット 株式会社 茂手木 雅樹 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > eightbit」（https://best100.v-tsushin.jp/company/eightbit/・3回目）
+  - 「エイトビット 株式会社の会社情報/転職・求人情報 — エイトビット 株式会社の会社情報/転職・求人情報 Geekly https://www.geekly.co.jp > companys > data」（https://www.geekly.co.jp/companys/data/2970/・3回目）
+  - 「エイトビット (株)の2027年度会社概要 | マイナビ2028 — エイトビット (株)の2027年度会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp269054 > outline」（https://job.mynavi.jp/28/pc/search/corp269054/outline.html・3回目）
+  - 「エイトビット 株式会社 - スピーダ スタートアップ情報リサーチ — エイトビット 株式会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies > A-PGGUX」（https://initial.inc/companies/A-PGGUX・3回目）
+  - 「エイトビット ｜STARTUP DB（スタートアップデータベース） — エイトビット ｜STARTUP DB（スタートアップデータベース） STARTUP DB｜スタートアップデータベース https://startup-db.com > スタートアップ一覧」（https://startup-db.com/companies/qe98pm6UlVwZm51L・3回目）
+
+## エンライズホールディングス
+- 公式URL：https://enrise-holdings.co.jp/（given）
+- 事業内容：グループ経営マネジメント ＩＴ事業（Information Technology） ＣＰ事業（Community Platform） ＥＣ事業（Electronic Commerce） 2026年6月1日 IT事業、HR事業、コミュニティ事業、グローバル事業、WEB事業から変更（https://enrise-holdings.co.jp/corporate/overview/・1回目）
+- 事業内容：IT人材ソリューション事業（https://encareer.co.jp/company/overview/・3回目）
+- 事業内容：ITインフラソリューション（https://enrise-sol.co.jp/company/overview/・3回目）
+- 資本金：6,500万円（資本準備金含む）（https://enrise-holdings.co.jp/corporate/overview/・1回目）
+- 資本金：30,000,000円（https://encareer.co.jp/company/overview/・3回目）
+- 資本金：20,000,000円（https://enrise-sol.co.jp/company/overview/・3回目）
+- 創業年度：設立：2012年8月22日（https://enrise-holdings.co.jp/corporate/overview/・1回目）
+- 創業年度：創業・設立：2015年04月01日 株式会社エンライズコーポレーションにおける人材事業として創業 －－－－－ 2022年04月01日 エンライズホールディング株式会社への商号変更にともなう分社化により設立（https://encareer.co.jp/company/overview/・3回目）
+- 創業年度：創業：2012年8月22日（https://enrise-sol.co.jp/company/overview/・3回目）
+- 従業員数：273人（https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf・3回目）
+- 売上高：25億円（https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf・3回目）
+- 株主：エンライズホールディングス株式会社（https://encareer.co.jp/company/overview/・3回目）
+- 所在地：〒151-0053 東京都渋谷区代々木1-43-7 SKビル（https://enrise-holdings.co.jp/corporate/overview/・1回目）
+- 所在地：〒151-0053 東京都渋谷区代々木1-43-7 SKビル Google Map（https://encareer.co.jp/company/overview/・3回目）
+- 所在地：[ 本社 ] 〒151-0053 東京都渋谷区代々木1-43-7 SKビル [ 新潟オフィス ] 〒950-0087 新潟県新潟市中央区東大通1-3−1 INPEX新潟ビルディング（https://enrise-sol.co.jp/company/overview/・3回目）
+- 代表者：代表取締役グループCEO　吾郷 克洋（https://enrise-holdings.co.jp/corporate/overview/・1回目）
+- 代表者：代表取締役CEO　吾郷 克洋（https://encareer.co.jp/company/overview/・3回目）
+- 代表者：代表取締役会長　吾郷克洋 代表取締役社長　沖世聖太（https://enrise-relations.co.jp/company/overview/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります」（https://enrise-holdings.co.jp/corporate/award/・1回目）
+  - 「イシン株式会社にエントリーした企業の中から、イシン株式会社が厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://enrise-holdings.co.jp/corporate/award/・1回目）
+  - 「100億宣言の「100億」は売上高を示しており、「売上高100億円」をめざす中小企業や経営者を支援するための制度として2025年2月に発表され、エンライズホールディングスは宣言企業として認定されました」（https://enrise-holdings.co.jp/corporate/award/・1回目）
+  - 「ビジネスに関するイベント・交流会の開催だけでなく自治体と連携をとったイベントなど地域に根差した運営を通して、地方から、日本全国・世界へと活躍する領域を広げたい企業や個人を応援する「場」を提供しています」（https://enrise-holdings.co.jp/corporate/group/・1回目）
+  - 「「enspaceCebu」（シェアオフィス・コワーキングスペース）を運営しています」（https://enrise-holdings.co.jp/corporate/group/・1回目）
+  - 「改正派遣法に基づくマージン率の公開について」（https://enrise-holdings.co.jp/corporate/sustinability/governance/・1回目）
+  - 「改正派遣法に基づくマージン率の公開について - エンライズホールディングス株式会社」（https://enrise-holdings.co.jp/corporate/sustinability/margin/・1回目）
+  - 「改正派遣法に基づくマージン率の公開について」（https://enrise-holdings.co.jp/corporate/sustinability/margin/・1回目）
+  - 「平成24年10月1日施行の「労働者派遣法改正法」により、派遣元事業者（当社）は、毎事業年度終了後、派遣先から受け取る派遣料金に占める派遣料金を派遣労働者に支払う賃金の差額の割合（マージン率といいます）を公開することが義務付けられました」（https://enrise-holdings.co.jp/corporate/sustinability/margin/・1回目）
+  - 「（1）派遣労働者の総数：4名」（https://enrise-holdings.co.jp/corporate/sustinability/margin/・1回目）
+  - 「（2）派遣先の数：2社」（https://enrise-holdings.co.jp/corporate/sustinability/margin/・1回目）
+  - 「（3）派遣料金の平均額（8h平均）：15,000円」（https://enrise-holdings.co.jp/corporate/sustinability/margin/・1回目）
+- 客は誰か：
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります」（https://enrise-holdings.co.jp/corporate/award/・1回目）
+  - 「100億宣言の「100億」は売上高を示しており、「売上高100億円」をめざす中小企業や経営者を支援するための制度として2025年2月に発表され、エンライズホールディングスは宣言企業として認定されました」（https://enrise-holdings.co.jp/corporate/award/・1回目）
+  - 「中小企業向けDX導入支援を中心に、エンジニアだけでなく非エンジニアに係る領域まで、PCを扱う業務のトータルサポートを実施」（https://enrise-holdings.co.jp/corporate/group/・1回目）
+  - 「新規事業立ち上げなどのコンサルティング業務から、情報システム部門におけるプラットフォーム開発やエンジニアのタイムシェアリングなどITに知見のある人材が不足している中小企業をサポートします」（https://enrise-holdings.co.jp/corporate/group/・1回目）
+  - 「フィリピンセブ島にてICTを軸にした中小企業の海外展開支援事業を展開」（https://enrise-holdings.co.jp/corporate/group/・1回目）
+  - 「⚫ 営業体制の強化を図り、大手企業及び中小企業の開拓と深耕」（https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「ITインフラストラクチャー技術の専門会社として、未経験の若手人財を育成・輩出しながら、ITエンジニアの技術支援をおこなうシステムエンジニアリング部門とクラウドの技術支援をおこなうシステムインテグレーション部門の2つを柱に、コンサルティングから保守運用まで高度な顧客ニーズに答えるサービスと技術を提供しています」（https://enrise-holdings.co.jp/corporate/group/・1回目）
+  - 「ビジネスに関するイベント・交流会の開催だけでなく自治体と連携をとったイベントなど地域に根差した運営を通して、地方から、日本全国・世界へと活躍する領域を広げたい企業や個人を応援する「場」を提供しています」（https://enrise-holdings.co.jp/corporate/group/・1回目）
+  - 「ライフイベントを迎える社員において、出産や育児・介護をしながらキャリア形成していくイメージが薄い」（https://enrise-holdings.co.jp/corporate/sustinability/employee/・1回目）
+  - 「対象者に仕事と介護の両立支援研修を実施する」（https://enrise-holdings.co.jp/corporate/sustinability/employee/・1回目）
+  - 「当室が主導し、グループ各社におけるコンプライアンス教育の実施と促進に取組んでいます」（https://enrise-holdings.co.jp/corporate/sustinability/compliance/・1回目）
+  - 「2.私たちは、常に顧客第一主義の姿勢で、お客様に信頼され期待されるベストパートナーを目指します」（https://enrise-holdings.co.jp/corporate/sustinability/governance/・1回目）
+  - 「※マージンには、派遣元事業者として会社負担する健康保険・厚生年金・雇用保険・労働保険の費用となる社会保険料、事業運営費として営業担当者の人件費や営業活動諸費用・オフィス賃貸料、福利厚生費、研修費等が含まれています」（https://enrise-holdings.co.jp/corporate/sustinability/margin/・1回目）
+  - 「（6）教育訓練に関する事項：情報セキュリティ研修、インフラエンジニア基礎研修、マネジメント研修など」（https://enrise-holdings.co.jp/corporate/sustinability/margin/・1回目）
+  - 「労務：社会保険労務士法人大槻経営労務管理事務所」（https://enrise-relations.co.jp/company/overview/・3回目）
+- 選出の記録：
+  - 「「人財力100」「成長できる企業」に選出」（https://enrise-holdings.co.jp/corporate/history/・1回目）
+  - 「「ベストベンチャー100」に選出」（https://enrise-holdings.co.jp/corporate/history/・1回目）
+  - 「アジアの急成長企業1000社「FT 1000:High-Growth Companies Asia-Pacific」に選出」（https://enrise-holdings.co.jp/corporate/history/・1回目）
+  - 「ベストベンチャー100」（https://enrise-holdings.co.jp/corporate/award/・1回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります」（https://enrise-holdings.co.jp/corporate/award/・1回目）
+  - 「イシン株式会社にエントリーした企業の中から、イシン株式会社が厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://enrise-holdings.co.jp/corporate/award/・1回目）
+  - 「ベストベンチャー100について」（https://enrise-holdings.co.jp/corporate/award/・1回目）
+  - 「」にて、エンライズホールディングス（旧：エンライズコーポレーション）がアジアの急成長企業1000社に選出されました」（https://enrise-holdings.co.jp/corporate/award/・1回目）
+  - 「人材採用と育成に力を入れている人財力のある100社にエンライズホールディングス（旧：エンライズコーポレーション）が選出されました」（https://enrise-holdings.co.jp/corporate/award/・1回目）
+  - 「社長チップス（ESSPRISE社）とForbes Japan主催の「Charming Chairman’s Club CHAMPIONSHIP 2019」におきまして、学生を惹きつけるチャーミングさを持つ社長を決める「2019 Charming Chairman 100」に弊社代表の吾郷が選出されました」（https://enrise-holdings.co.jp/corporate/award/・1回目）
+- 検索結果の抜粋：
+  - 「企業 概要 - エンライズホールディングス 株式 会社 — 企業 概要 - エンライズホールディングス 株式 会社 エンライズホールディングス株式会社 https://enrise-holdings.co.jp > 企業情報」（https://enrise-holdings.co.jp/corporate/overview/・3回目）
+  - 「エンライズホールディングス 株式 会社 吾郷 克洋 — エンライズホールディングス 株式 会社 吾郷 克洋 ベストベンチャー100 https://best100.v-tsushin.jp > company > enrise-holdings」（https://best100.v-tsushin.jp/company/enrise-holdings/・3回目）
+  - 「エンライズホールディングス 株式会社（情報通信業） — エンライズホールディングス 株式会社（情報通信業） １００億企業成長ポータル PDF https://growth-100-oku.smrj.go.jp > companies > pdf」（https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf・3回目）
+  - 「受賞歴 - エンライズホールディングス 株式会社 — 受賞歴 - エンライズホールディングス 株式会社 エンライズホールディングス株式会社 https://enrise-holdings.co.jp > 企業情報」（https://enrise-holdings.co.jp/corporate/award/・3回目）
+  - 「エンライズホールディングス 株式会社 の企業情報 — エンライズホールディングス 株式会社 の企業情報 バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/3icxnr4bi2/・3回目）
+  - 「エンライズホールディングス 株式会社 吾郷 克洋 — エンライズホールディングス 株式会社 吾郷 克洋 ベストベンチャー100 https://best100.v-tsushin.jp > company > enrise-holdings」（https://best100.v-tsushin.jp/company/enrise-holdings/・3回目）
+  - 「「 エンライズホールディングス 株式会社」へ商号変更 — 「 エンライズホールディングス 株式会社」へ商号変更 エンライズホールディングス株式会社 https://enrise-holdings.co.jp > trade-name-change」（https://enrise-holdings.co.jp/newsrelease/trade-name-change/・3回目）
+  - 「エンライズホールディングス 株式会社 — エンライズホールディングス 株式会社 エンライズホールディングス株式会社 https://enrise-holdings.co.jp」（https://enrise-holdings.co.jp/・3回目）
+  - 「エンライズホールディングス 株式会社 | Shibuya-ku Tokyo — エンライズホールディングス 株式会社 | Shibuya-ku Tokyo Facebook https://www.facebook.com > ... > Internet company」（https://www.facebook.com/enriseholdings/・3回目）
+  - 「中小企業向けDX 導入 支援 - エンライズホールディングス 株式 ... — 中小企業向けDX 導入 支援 - エンライズホールディングス 株式 ... エンライズホールディングス株式会社 https://enrise-holdings.co.jp > dx-introduction-support」（https://enrise-holdings.co.jp/dx-introduction-support/・3回目）
+  - 「エンライズホールディングス 株式会社 | Shibuya-ku Tokyo — エンライズホールディングス 株式会社 | Shibuya-ku Tokyo Facebook https://www.facebook.com > ... > インターネット関連企業」（https://www.facebook.com/enriseholdings/?locale=ja_JP・3回目）
+  - 「企業概要 - エンライズホールディングス 株式会社 — 企業概要 - エンライズホールディングス 株式会社 エンライズホールディングス株式会社 https://enrise-holdings.co.jp > 企業情報」（https://enrise-holdings.co.jp/corporate/overview/・3回目）
+- 主要取引先：記載なし（3回確認済み：公式13頁／PDF・画像0件／外部16頁・検索11回）
+- 資本金・株主：記載なし（3回確認済み：公式13頁／PDF・画像0件／外部16頁・検索11回）
+
+## オンリーストーリー
+- 公式URL：https://onlystory.co.jp/（given）
+- 事業内容：・決裁者マッチングプラットフォーム～ONLY STORY～の運営 ・ONLY STORY有料版　決裁者マッチング支援サービス～チラCEO～の運営（https://best100.v-tsushin.jp/company/onlystory/・3回目）
+- 事業内容：決裁者マッチングプラットフォーム「チラCEO」「ONLY STORY」の運営（https://prtimes.jp/main/html/rd/p/000000324.000015335.html・3回目）
+- 事業内容：製品を探す（https://it-trend.jp/business-matching-service/24472・3回目）
+- 資本金：1億円（https://onlystory.co.jp/pages/company_new・1回目）
+- 資本金：1億円（https://best100.v-tsushin.jp/company/onlystory/・3回目）
+- 創業年度：設立：2014年02月（https://prtimes.jp/main/html/rd/p/000000324.000015335.html・3回目）
+- 創業年度：設立：2014/02（https://initial.inc/companies/A-16068・3回目）
+- 株主：VCあり, 事業会社あり（https://initial.inc/companies/A-16068・3回目）
+- 所在地：東京都港区赤坂一丁目14番14号 第35興和ビル515（https://onlystory.co.jp/pages/company_new・1回目）
+- 所在地：東京都港区赤坂1-14-14 第35興和ビル515（https://best100.v-tsushin.jp/company/onlystory/・3回目）
+- 所在地：東京都渋谷区恵比寿南3-9-3（https://prtimes.jp/main/html/rd/p/000000324.000015335.html・3回目）
+- 代表者：平野哲也 取締役COO:川角健太 社外取締役:塩見拓己（https://onlystory.co.jp/pages/company_new・1回目）
+- 代表者：平野哲也（https://prtimes.jp/main/html/rd/p/000000324.000015335.html・3回目）
+- 代表者：代表取締役社長 平野哲也（https://prtimes.jp/main/html/rd/p/000000324.000015335.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「従業員規模101〜300人の企業が【製造業】新しい切り口やユニークな手法を持つ採用サービスの提案募集...」（https://onlystory.co.jp/・1回目）
+  - 「従業員規模6～10人の企業が【完全在宅・地方可】コールセンタースタッフの人材紹介会社様募集」（https://onlystory.co.jp/・1回目）
+  - 「従業員規模11〜30人の企業が【未経験可】営業職複数名採用の紹介パートナー募集」（https://onlystory.co.jp/・1回目）
+  - 「『国内最大規模の決裁者マッチングプラットフォームの運営』」（https://onlystory.co.jp/・1回目）
+  - 「国内最大規模の、決裁者マッチングプラットフォームを運営」（https://onlystory.co.jp/・1回目）
+  - 「経営者BAR"や経営層向けのイベント等、オフライン会を週一以上のペースで運営」（https://onlystory.co.jp/・1回目）
+  - 「従業員数50名以上or売上5億円以上の会社様の場合、担当が直接つかせて頂き、御社の経営課題を聞き、それを解決しうるサービスや決裁者を直接紹介しております」（https://onlystory.co.jp/・1回目）
+  - 「大手を狙いたい方や、特定業界向けの商材を運営する会社等におすすめです」（https://onlystory.co.jp/・1回目）
+  - 「経験豊富なCXOクラスの人材を、企業の課題や成長フェーズに応じてご紹介します」（https://onlystory.co.jp/・1回目）
+  - 「大企業の決裁者に連絡を届ける方法｜手紙の宛先と紹介を12年の実績から解説」（https://onlystory.co.jp/・1回目）
+  - 「半年間成約ゼロから10ヶ月で2,000万円売上」（https://onlystory.co.jp/・1回目）
+  - 「導入後わずか5ヶ月で売上2,000万円」（https://onlystory.co.jp/・1回目）
+- 客は誰か：
+  - 「『決裁者向けマーケティングを基軸としたBtoB営業の総合支援』」（https://onlystory.co.jp/・1回目）
+  - 「"BtoB営業の総合商社"として、多数マーケティング施策を保有」（https://onlystory.co.jp/・1回目）
+  - 「採用で困っている会社、BtoC企業の決裁者などにもおすすめ」（https://onlystory.co.jp/・1回目）
+  - 「BtoB営業の総合商社として、顧客が狙いたいアポ先の規模と、アポ単価ニーズに応じた、事業ポートフォリオを構築」（https://onlystory.co.jp/・1回目）
+  - 「大手を狙いたい方や、特定業界向けの商材を運営する会社等におすすめです」（https://onlystory.co.jp/・1回目）
+  - 「大手企業や上場企業向けに、1社数分×複数社がプレゼンをする会です」（https://onlystory.co.jp/・1回目）
+  - 「BtoB決裁者限定交流会 2026.11.10(火)」（https://onlystory.co.jp/・1回目）
+  - 「BtoB決裁者限定交流会 2026.11.24(火)」（https://onlystory.co.jp/・1回目）
+  - 「代表平野が、社長の裏側~シャチョウラ~として、経営やBtoB営業、個人的な関心事についてぶっちゃけて伝えています！」（https://onlystory.co.jp/・1回目）
+  - 「BtoB営業と決裁者マッチングの領域に12年間携わり、決裁者同士をつなぐマッチングサービスを運営」（https://onlystory.co.jp/service/column/advisor-service-types/・1回目）
+  - 「BtoB営業における「集客の課題」と真剣に向き合ってきました」（https://onlystory.co.jp/service/column/advisor-service-types/・1回目）
+  - 「もしBtoB集客でお悩みの決裁者の方がいらっしゃいましたら、」（https://onlystory.co.jp/service/column/advisor-service-types/・1回目）
+- 客の産業（導入事例・取引先）：
+  - 「従業員規模101〜300人の企業が【製造業】新しい切り口やユニークな手法を持つ採用サービスの提案募集...」（https://onlystory.co.jp/・1回目）
+  - 「"BtoB営業の総合商社"として、多数マーケティング施策を保有」（https://onlystory.co.jp/・1回目）
+  - 「BtoB営業の総合商社として、顧客が狙いたいアポ先の規模と、アポ単価ニーズに応じた、事業ポートフォリオを構築」（https://onlystory.co.jp/・1回目）
+  - 「月額の目安は、士業で1万〜5万円、営業顧問で10万〜50万円程度です」（https://onlystory.co.jp/service/column/advisor-service-types/・1回目）
+  - 「士業は法務・税務、経営顧問は意思決定、営業顧問は紹介、技術顧問は開発の助言が中心です」（https://onlystory.co.jp/service/column/advisor-service-types/・1回目）
+  - 「士業は月1万〜5万円、営業顧問は月10万〜50万円程度が目安です」（https://onlystory.co.jp/service/column/advisor-service-types/・1回目）
+  - 「「売上を伸ばしたい」では広く、「製造業の部長に会いたい」なら領域が決まります」（https://onlystory.co.jp/service/column/advisor-service-types/・1回目）
+  - 「種類は、士業・経営・営業・技術の領域と、月額・成果報酬・スポットの契約で整理できます」（https://onlystory.co.jp/service/column/advisor-service-types/・1回目）
+  - 「領域は、士業、経営、営業、技術などに分かれます」（https://onlystory.co.jp/service/column/advisor-service-types/・1回目）
+  - 「A. 月額の目安は、士業で1万〜5万円、営業顧問で10万〜50万円程度です」（https://onlystory.co.jp/service/column/advisor-service-types/・1回目）
+  - 「見込み顧客の数が少なく、リード獲得に伸び悩んでいた」（https://onlystory.co.jp/service/case/mark-n/・1回目）
+  - 「しかし、そもそも見込み顧客の母数が少なく、リードの「量」に課題を感じていました」（https://onlystory.co.jp/service/case/mark-n/・1回目）
+- 資本金・株主：
+  - 「大手企業や上場企業向けに、1社数分×複数社がプレゼンをする会です」（https://onlystory.co.jp/・1回目）
+  - 「満足度9割超で、釣り好き経営者、上場準備中経営者会など、テーマを決めた会を開催しています」（https://onlystory.co.jp/・1回目）
+  - 「コンサルティング会社は、助言中心の顧問契約で、中小・ベンチャー月5万円、上場・中堅月10万円」（https://onlystory.co.jp/service/column/advisor-service-types/・1回目）
+  - 「累計26億円の資金調達を実施し、「ベストベンチャー100」にも選出されている」（https://onlystory.co.jp/service/column/advisor-service-types/・1回目）
+  - 「一部上場企業の役員との商談も獲得しています」（https://onlystory.co.jp/service/column/enterprise-executive-access/・1回目）
+  - 「累計26億円の資金調達を実施し、「ベストベンチャー100」にも選出されている」（https://onlystory.co.jp/service/column/enterprise-executive-access/・1回目）
+  - 「累計26億円の資金調達を実施し、「ベストベンチャー100」にも選出されている」（https://onlystory.co.jp/service/column/price-revision-notice/・1回目）
+  - 「既存事業をさらに伸ばしたい／新規事業を開発したい／出資・M&A先を見つけたい／次期幹部・責任者を育成したい」（https://onlystory.co.jp/service/case/・1回目）
+  - 「他サービスでは難しかった企業と繋がれることが魅力 規模のある企業や上場企業の決裁者・役員クラスの方とも！」（https://onlystory.co.jp/service/case/・1回目）
+  - 「資金調達後の営業活動、サービス導入検討双方の効率化を実現」（https://onlystory.co.jp/service/case/・1回目）
+  - 「決裁者との商談が年間で200件以上増加した新施策！一部上場企業役員の商談も獲得できたKBMとは？」（https://onlystory.co.jp/service/case/・1回目）
+  - 「設立2年目のスタートアップ企業が、上場企業と資本・業務提携に発展！出会いのストーリーを聞いてきました」（https://onlystory.co.jp/service/case/・1回目）
+- 選出の記録：
+  - 「累計26億円の資金調達を実施し、「ベストベンチャー100」にも選出されている」（https://onlystory.co.jp/service/column/advisor-service-types/・1回目）
+  - 「2024年度 ベストベンチャー100選出」（https://onlystory.co.jp/pages/company_new・1回目）
+  - 「25位に選出」（https://onlystory.co.jp/pages/company_new・1回目）
+  - 「累計26億円の資金調達を実施し、「ベストベンチャー100」にも選出されている」（https://onlystory.co.jp/service/column/enterprise-executive-access/・1回目）
+  - 「累計26億円の資金調達を実施し、「ベストベンチャー100」にも選出されている」（https://onlystory.co.jp/service/column/price-revision-notice/・1回目）
+  - 「株式会社オンリーストーリー 平野 哲也 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/onlystory/・3回目）
+  - 「■すごいベンチャー100選出 (東洋経済)」（https://best100.v-tsushin.jp/company/onlystory/・3回目）
+  - 「2021年働きがいのある会社ランキング5位に選出などの実績がある」（https://prtimes.jp/main/html/rd/p/000000324.000015335.html・3回目）
+  - 「東洋経済『すごいベンチャー100』選出」（https://prtimes.jp/main/html/rd/p/000000324.000015335.html・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 ～ オンリーストーリー ～ — 会社概要 ～ オンリーストーリー ～ ONLYSTORY https://onlystory.co.jp > pages > company_new」（https://onlystory.co.jp/pages/company_new・3回目）
+  - 「株式 会社オンリーストーリー 平野 哲也 - ベストベンチャー100 — 株式 会社オンリーストーリー 平野 哲也 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > onlystory」（https://best100.v-tsushin.jp/company/onlystory/・3回目）
+  - 「| （株） オンリーストーリー 平野 哲也 | The INDEPENDENTS — | （株） オンリーストーリー 平野 哲也 | The INDEPENDENTS インデペンデンツクラブ https://www.independents.jp > article」（https://www.independents.jp/article/1414・3回目）
+  - 「採用情報 | 株式 会社オンリーストーリー — 採用情報 | 株式 会社オンリーストーリー ジョブカン採用管理 https://recruit.jobcan.jp > only-story」（https://recruit.jobcan.jp/only-story・3回目）
+  - 「株式 会社オンリーストーリー の資金調達・出資した投資家（2 ... — 株式 会社オンリーストーリー の資金調達・出資した投資家（2 ... finance.protocol.ooo https://finance.protocol.ooo > ... > 投資家・調達先図鑑」（https://finance.protocol.ooo/equity/company/c-709eeba8/・3回目）
+  - 「会社概要～ オンリーストーリー ～ — 会社概要～ オンリーストーリー ～ ONLYSTORY https://onlystory.co.jp > pages > company_new」（https://onlystory.co.jp/pages/company_new・3回目）
+  - 「株式会社 オンリーストーリー 平野 哲也 - ベストベンチャー100 — 株式会社 オンリーストーリー 平野 哲也 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > onlystory」（https://best100.v-tsushin.jp/company/onlystory/・3回目）
+  - 「株式会社 オンリーストーリー — 株式会社 オンリーストーリー スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-16068・3回目）
+  - 「株式会社 オンリーストーリー の情報 - 官報決算データベース — 株式会社 オンリーストーリー の情報 - 官報決算データベース 官報決算データベース https://catr.jp > companies」（https://catr.jp/companies/9e61b/148426・3回目）
+  - 「資金調達 実施のお知らせ - 決裁者同士が繋がる審査制 ... — 資金調達 実施のお知らせ - 決裁者同士が繋がる審査制 ... ONLYSTORY https://onlystory.co.jp > Home > 最新情報 > ニュース」（https://onlystory.co.jp/service/information/2022-08-10-1/・3回目）
+  - 「株式 会社 オンリーストーリー — 株式 会社 オンリーストーリー スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-16068・3回目）
+  - 「株式 会社 オンリーストーリー 平野 哲也 - ベストベンチャー100 — 株式 会社 オンリーストーリー 平野 哲也 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > onlystory」（https://best100.v-tsushin.jp/company/onlystory/・3回目）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部21頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部21頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部21頁・検索11回）
+
+## キャリアスタート
+- 公式URL：https://careerstart.co.jp/（given）
+- 事業内容：キャリアスタート（https://hired.co.jp/tenshoku-antenna/careerstart-reputation・3回目）
+- 事業内容：第二新卒・既卒人材紹介事業／新卒紹介事業／労働者派遣事業（https://hired.co.jp/tenshoku-antenna/careerstart-reputation・3回目）
+- 事業内容：■第二新卒・既卒人材紹介事業 ■新卒紹介事業 有料職業紹介事業許可　13-ユ-305582（https://tenshoku.mynavi.jp/company/320402/・3回目）
+- 資本金：700万円（https://hired.co.jp/tenshoku-antenna/careerstart-reputation・3回目）
+- 資本金：700万円（https://tenshoku.mynavi.jp/company/320402/・3回目）
+- 資本金：700万円（https://mid-tenshoku.com/agency/a-1556/・3回目）
+- 創業年度：設立：2012年4月11日（https://hired.co.jp/tenshoku-antenna/careerstart-reputation・3回目）
+- 創業年度：設立：2012年4月（https://tenshoku.mynavi.jp/company/320402/・3回目）
+- 創業年度：設立：2012年4月（https://mid-tenshoku.com/agency/a-1556/・3回目）
+- 従業員数：130名（https://hired.co.jp/tenshoku-antenna/careerstart-reputation・3回目）
+- 従業員数：85名（https://tenshoku.mynavi.jp/company/320402/・3回目）
+- 従業員数：法人全体：130名／人材紹介部門：89名（https://mid-tenshoku.com/agency/a-1556/・3回目）
+- 所在地：港区新橋（新橋駅から徒歩2分）（https://hired.co.jp/tenshoku-antenna/careerstart-reputation・3回目）
+- 所在地：東京都港区新橋二丁目6番2号 新橋アイマークビル3階（https://hired.co.jp/tenshoku-antenna/careerstart-reputation・3回目）
+- 所在地：東京都港区新橋2-6-2　新橋アイマークビル8階（https://tenshoku.mynavi.jp/company/320402/・3回目）
+- 代表者：代表取締役社長　下山 慶一郎（https://tenshoku.mynavi.jp/company/320402/・3回目）
+- 代表者：下山 慶一郎（https://mid-tenshoku.com/agency/a-1556/・3回目）
+- 代表者：下山 慶一郎（https://morejob.co.jp/mirai/career-start/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「「アルク ジョブチェンジ」にて、キャリアスタートをご紹介頂きました！」（https://careerstart.co.jp/・1回目）
+  - 「「コエテコキャリア」にて、キャリアスタートをご紹介頂きました！」（https://careerstart.co.jp/・1回目）
+  - 「「じぶんぽっく」にて、キャリアスタートをご紹介頂きました！」（https://careerstart.co.jp/・1回目）
+  - 「就職・転職活動で、周りと差がつく面接マナー、見落としがちなポイントなどを1分未満のショート動画で気軽に楽しくご紹介します」（https://careerstart.co.jp/・1回目）
+  - 「有料職業紹介事業許可番号 13-ﾕ-305582」（https://careerstart.co.jp/company・1回目）
+  - 「労働者派遣事業許可番号 派13-318095」（https://careerstart.co.jp/company・1回目）
+  - 「「アルク ジョブチェンジ」にて、キャリアスタートをご紹介頂きました！」（https://careerstart.co.jp/service・1回目）
+  - 「「コエテコキャリア」にて、キャリアスタートをご紹介頂きました！」（https://careerstart.co.jp/service・1回目）
+  - 「「じぶんぽっく」にて、キャリアスタートをご紹介頂きました！」（https://careerstart.co.jp/service・1回目）
+  - 「就職・転職活動で、周りと差がつく面接マナー、見落としがちなポイントなどを1分未満のショート動画で気軽に楽しくご紹介します」（https://careerstart.co.jp/service・1回目）
+  - 「マッチング分析に尽力し、入社後の定着率は92％以上！当人の希望だけでなく、性格やスキル、特性を見極めながら求人の紹介を進め、企業へのインタビューや調査を徹底することで入社前後のギャップを除去しています」（https://careerstart.co.jp/service/already-graduated・1回目）
+  - 「マッチング分析に尽力し、入社後の定着率は92％以上！当人の希望だけでなく、性格やスキル、特性を見極めながら求人の紹介を進め、企業へのインタビューや調査を徹底することで入社前後のギャップを除去しています」（https://careerstart.co.jp/service/new-graduate・1回目）
+- 客は誰か：
+  - 「BtoB営業における「集客の課題」と真剣に向き合ってきました」（https://onlystory.co.jp/stories/1723・3回目）
+  - 「もしBtoB集客でお悩みの決裁者の方がいらっしゃいましたら、」（https://onlystory.co.jp/stories/1723・3回目）
+  - 「他の大手企業に比べると利用者数が少ないためか、一つ一つの作業を丁寧に行っている印象でした」（https://morejob.co.jp/mirai/career-start/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「学校などへの【法人営業】＊学生登録者を募るのがミッション！」（https://tenshoku.mynavi.jp/company/320402/・3回目）
+  - 「IT・不動産・広告・医療の案件を多く扱っています」（https://mid-tenshoku.com/agency/a-1556/・3回目）
+  - 「■求職者一人ひとりの人生に向き合い、キャリア教育要素を取り入れたマッチングにより高い定着率を実現」（https://best100.v-tsushin.jp/company/careerstart/・3回目）
+  - 「理念に基づく事業、目的に基づく目標、風土を重視した組織づくりを重要視してきた結果、求職者やクライアント企業の方々、そして社員たちと、多くの方々とビジョンを共有することができ、成長につながったと考えています」（https://best100.v-tsushin.jp/company/careerstart/・3回目）
+  - 「また新規事業では、メーカー・ゼネコンを中心としたクライアントに対し、派遣人材がキャリアアップに向けた派遣先への転籍を推奨する「転籍推奨型派遣事業」の立ち上げを進めています」（https://best100.v-tsushin.jp/company/careerstart/・3回目）
+  - 「また、社員教育に力を入れている点もひとつの強みだと考えております」（https://onlystory.co.jp/stories/1723・3回目）
+  - 「–社員教育に注力されているとのことですが、内容や大切にされていることについて教えていただけますか」（https://onlystory.co.jp/stories/1723・3回目）
+  - 「社員教育との相乗効果で、社員のモチベーションが高いんですよね」（https://onlystory.co.jp/stories/1723・3回目）
+  - 「社員教育についてはスクラップ・アンド・ビルドを心がけています」（https://onlystory.co.jp/stories/1723・3回目）
+  - 「教育内容は私が骨格を作ったものをベースに、優秀なパートナーに加わってもらって、さらにブラッシュアップを行っています」（https://onlystory.co.jp/stories/1723・3回目）
+  - 「明確にそのような教育を受けたわけではないのですが、母はお金よりも人を優先して考える人でした」（https://onlystory.co.jp/stories/1723・3回目）
+  - 「サッカーを約22年間続けてきて、小学校から社会人まで、それぞれの年代でキャプテンなどを経験しました」（https://www.wantedly.com/companies/careerstart/stories・3回目）
+- 資本金・株主：
+  - 「一部上場のグループ会社に入社する事ができました!」（https://careerstart.co.jp/service/new-graduate・1回目）
+  - 「副業でmoto株式会社を起業し、上場企業へM＆A」（https://hired.co.jp/tenshoku-antenna/careerstart-reputation・3回目）
+- 選出の記録：
+  - 「キャリアスタート株式会社 下山 慶一郎 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/careerstart/・3回目）
+- 検索結果の抜粋：
+  - 「【評判】 キャリアスタート は実際どうなのか？口コミの傾向と ... — 【評判】 キャリアスタート は実際どうなのか？口コミの傾向と ... HIRED株式会社 https://hired.co.jp > 転職アンテナ > おすすめ転職サイト」（https://hired.co.jp/tenshoku-antenna/careerstart-reputation・3回目）
+  - 「キャリアスタート 株式会社の 会社概要 - マイナビ転職 — キャリアスタート 株式会社の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/320402/・3回目）
+  - 「キャリアスタート 株式 会社 - ミドルの転職 — キャリアスタート 株式 会社 - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 転職エージェントTOP」（https://mid-tenshoku.com/agency/a-1556/・3回目）
+  - 「キャリアスタート 株式 会社 下山 慶一郎 - ベストベンチャー100 — キャリアスタート 株式 会社 下山 慶一郎 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > careerstart」（https://best100.v-tsushin.jp/company/careerstart/・3回目）
+  - 「会社概要 - キャリアスタート — 会社概要 - キャリアスタート キャリアスタート https://careerstart.co.jp > company」（https://careerstart.co.jp/company・3回目）
+  - 「キャリアスタート 株式会社 下山 慶一郎 - ベストベンチャー100 — キャリアスタート 株式会社 下山 慶一郎 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > careerstart」（https://best100.v-tsushin.jp/company/careerstart/・3回目）
+  - 「下山 慶一郎 - キャリアスタート 株式会社 - オンリーストーリー — 下山 慶一郎 - キャリアスタート 株式会社 - オンリーストーリー ONLYSTORY https://onlystory.co.jp > 人材業界」（https://onlystory.co.jp/stories/1723・3回目）
+  - 「若手に特化した就職・転職支援サービスを行う キャリアスタート — 若手に特化した就職・転職支援サービスを行う キャリアスタート PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000008.000079713.html・3回目）
+  - 「キャリアスタート 株式会社の求人情報 - 人材コーディネーター — キャリアスタート 株式会社の求人情報 - 人材コーディネーター マイナビ転職 https://tenshoku.mynavi.jp > ... > キャリアスタート株式会社」（https://tenshoku.mynavi.jp/jobinfo-320402-4-1-1/・3回目）
+  - 「キャリアスタート 株式会社の事業とカルチャー - Wantedly — キャリアスタート 株式会社の事業とカルチャー - Wantedly Wantedly https://www.wantedly.com > ... > キャリアスタート株式会社」（https://www.wantedly.com/companies/careerstart/about・3回目）
+  - 「キャリアスタート 株式会社の働き方とストーリー - Wantedly — キャリアスタート 株式会社の働き方とストーリー - Wantedly Wantedly https://www.wantedly.com > ... > キャリアスタート株式会社」（https://www.wantedly.com/companies/careerstart/stories・3回目）
+  - 「若手転職エージェント キャリアスタート — 若手転職エージェント キャリアスタート キャリアスタート https://careerstart.co.jp > ...」（https://careerstart.co.jp/lp/001a/・3回目）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部29頁・検索11回）
+- 株主：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部29頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部29頁・検索11回）
+
+## キーウォーカー
+- 公式URL：https://www.keywalker.co.jp/（given）
+- 事業内容：株式会社キーウォーカー（https://www.keywalker.co.jp/ai_dev/ai_development_support_service.html・1回目）
+- 事業内容：ビッグデータの収集・整理・蓄積・可視化・分析ソリューションの提供 自然言語処理エンジンの研究開発 ルーチン業務の自動処理システムの提供（https://www.keywalker.co.jp/company/outline.html・1回目）
+- 事業内容：株式会社キーウォーカー（https://www.keywalker.co.jp/ai_dev/ai_human_resource_development.html・1回目）
+- 資本金：6,700万円（https://www.keywalker.co.jp/company/outline.html・1回目）
+- 資本金：6700万円（https://prtimes.jp/main/html/rd/p/000000033.000013637.html・3回目）
+- 創業年度：設立：2000年11月22日（https://www.keywalker.co.jp/company/outline.html・1回目）
+- 創業年度：設立：2000/11（https://initial.inc/companies/A-02517・3回目）
+- 創業年度：設立：2000年11月（https://prtimes.jp/main/html/rd/p/000000033.000013637.html・3回目）
+- 従業員数：82名（2026年4月1日現在）（https://www.keywalker.co.jp/company/outline.html・1回目）
+- 株主：共同ピーアール株式会社 三菱UFJキャピタル8号投資事業有限責任組合 中国電力株式会社 NVCC9号投資事業有限責任組合 合同会社プライムロック・インベストメント（https://www.keywalker.co.jp/company/outline.html・1回目）
+- 株主：VCあり, 事業会社あり（https://initial.inc/companies/A-02517・3回目）
+- 所在地：東京都港区西新橋１丁目８−１ REVZO虎ノ門4F アクセスはこちら 電話番号：03-6384-5911（https://www.keywalker.co.jp/company/outline.html・1回目）
+- 所在地：〒105-0003
+東京都港区西新橋１丁目８−１
+REVZO虎ノ門4F Google Map（https://www.keywalker.co.jp/company/outline.html・1回目）
+- 所在地：東京都港区西新橋1-8-1 REVZO虎ノ門 4F（https://initial.inc/companies/A-02517・3回目）
+- 代表者：小林　一登（https://initial.inc/companies/A-02517・3回目）
+- 代表者：小林 一登（https://prtimes.jp/main/html/rd/p/000000033.000013637.html・3回目）
+- 代表者：沼崎 弘（https://prtimes.jp/main/html/rd/p/000000033.000013637.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「キーウォーカーの11月の注目イベント・ブログの紹介」（https://www.keywalker.co.jp/tag/case・1回目）
+  - 「キーウォーカーの10月の注目イベント・ブログの紹介」（https://www.keywalker.co.jp/tag/case・1回目）
+  - 「【9/29開催】大手製造業向け AI活用の「バラバラ」→「一元化」への進め方 拠点・事業部の壁を越える3つの視点」（https://www.keywalker.co.jp/tag/case・1回目）
+  - 「Dataiku導入・運用支援サービスのご紹介」（https://www.keywalker.co.jp/dataiku/dataiku_support_service.html・1回目）
+  - 「顕在化している課題だけではなく、潜在的な課題に対するディスカッションや活用されていない機能の紹介、別のアプローチの提案などが可能です」（https://www.keywalker.co.jp/dataiku/dataiku_support_service.html・1回目）
+  - 「弊社ブログには機能紹介やオープンデータを用いた分析手順の説明などのコンテンツが充実しています」（https://www.keywalker.co.jp/dataiku/dataiku_support_service.html・1回目）
+  - 「具体的な事例や活用方法については、業種や課題に応じて最適なご紹介が可能です」（https://www.keywalker.co.jp/dataiku/dataiku_support_service.html・1回目）
+  - 「在庫管理コストと機会損失の低減を目的として製造量の最適化を目指し、3ヶ月先の販売量を予測するモデルを開発」（https://www.keywalker.co.jp/ai_dev/ai_development_support_service.html・1回目）
+  - 「「ShtockData」、「直近1年の新規導入社数」および「（当該）年間売上金額」の2つの調査でNo.1」（https://www.keywalker.co.jp/company/outline.html・1回目）
+  - 「「CERVN」、「直近1年の新規導入社数」および「（当該）年間売上金額」の2つの調査でNo.1」（https://www.keywalker.co.jp/company/outline.html・1回目）
+  - 「キーウォーカーの11月の注目イベント・ブログの紹介」（https://www.keywalker.co.jp/company/corporate-philosophy.html・1回目）
+  - 「【9/29開催】大手製造業向け AI活用の「バラバラ」→「一元化」への進め方 拠点・事業部の壁を越える3つの視点」（https://www.keywalker.co.jp/company/corporate-philosophy.html・1回目）
+- 客は誰か：
+  - 「中堅・中小企業に対して経営に関するあらゆるコンサルティングを提...」（https://www.keywalker.co.jp/tag/case・1回目）
+  - 「中堅・中小企業に対して経営に関するあらゆるコンサルティングを提...」（https://www.keywalker.co.jp/tableau/case_study・1回目）
+  - 「※「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります」（https://compass.labbase.jp/company/681・3回目）
+  - 「Webスクレイピングサービスは、官公庁、大手企業様を中心に企業調査、競合価格調査、レビュー調査等に継続利用いただいており、キーウォーカーの主力事業に成長している他、Tableau, A Salesforce Companyが展開するBI（Buisiness Intelligence）ツール「Tableau」のパートナーとして、ダッシュボード開発事業が急成長しております」（https://prtimes.jp/main/html/rd/p/000000033.000013637.html・3回目）
+  - 「競合調査、取引先企業調査、入札情報入手、国内外のレギュレーション変化を自動でお知らせする CERVN（サーブン）の利用社数が官公庁、大手企業中心に30社を超え、より多くのお客様にお役立ていただけるサービスとして、マーケティング活動を強化し事業拡大してまいります」（https://prtimes.jp/main/html/rd/p/000000033.000013637.html・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「シティネットホールディングス株式会社 様 導入事例」（https://www.keywalker.co.jp/tag/case・1回目）
+  - 「導入事例：シティネットホールディングス株式会社 様」（https://www.keywalker.co.jp/tag/case・1回目）
+  - 「SBCメディカルグループ株式会社 様 導入事例」（https://www.keywalker.co.jp/tag/case・1回目）
+  - 「導入事例：SBCメディカルグループ株式会社 様」（https://www.keywalker.co.jp/tag/case・1回目）
+  - 「横浜市医療局 衛生研究所、医療政策課様 導入事例」（https://www.keywalker.co.jp/tag/case・1回目）
+  - 「導入事例：横浜市医療局 衛生研究所、医療政策課 様」（https://www.keywalker.co.jp/tag/case・1回目）
+  - 「ソニーネットワークコミュニケーションズコネクト株式会社様 導入事例」（https://www.keywalker.co.jp/tag/case・1回目）
+  - 「導入事例：ソニーネットワークコミュニケーションズコネクト株式会社様」（https://www.keywalker.co.jp/tag/case・1回目）
+  - 「社会医療法人 愛仁会 金谷 甲輝様、田中 信吾...」（https://www.keywalker.co.jp/tag/case・1回目）
+  - 「株式会社ビーイングホールディングス様 導入事例」（https://www.keywalker.co.jp/tag/case・1回目）
+  - 「導入事例：株式会社ビーイングホールディングス様」（https://www.keywalker.co.jp/tag/case・1回目）
+  - 「GEM Partners株式会社様 導入事例」（https://www.keywalker.co.jp/tag/case・1回目）
+- 資本金・株主：
+  - 「資本金2500万円 新組織として事業開始」（https://www.keywalker.co.jp/company/outline.html・1回目）
+  - 「株式会社へ組織変更 (株式会社きゃむネット 資本金1000万円)」（https://www.keywalker.co.jp/company/outline.html・1回目）
+  - 「(有限会社きゃむネット 資本金300万円)」（https://www.keywalker.co.jp/company/outline.html・1回目）
+  - 「中国電力株式会社 / 日本ベンチャーキャピタル株式会社 / 三菱UFJキャピタル株式会社 / 共同ピーアール株式会社 / 株式会社オウケイウェイヴ」（https://initial.inc/companies/A-02517・3回目）
+  - 「キーウォーカー、資金調達を実施(調達額は非公開)」（https://initial.inc/companies/A-02517・3回目）
+  - 「キーウォーカー、共同ピーアールの子会社化」（https://initial.inc/companies/A-02517・3回目）
+  - 「2022年5月末に親会社となった共同ピーアール株式会社に加え、三菱UFJキャピタル8号投資事業有限責任組合、NVCC9号投資事業有限責任組合、中国電力株式会社が新たな株主として参画」（https://prtimes.jp/main/html/rd/p/000000033.000013637.html・3回目）
+  - 「事業会社およびベンチャーキャピタルを新たな主力株主に迎えました」（https://prtimes.jp/main/html/rd/p/000000033.000013637.html・3回目）
+  - 「2005年～2007年にキャピタリストとして担当していた経緯もあり、15年の時を超えて再び株主となり支援させていただくことに”縁”を感じております」（https://prtimes.jp/main/html/rd/p/000000033.000013637.html・3回目）
+  - 「日本ベンチャーキャピタル株式会社 代表取締役社長 多賀谷実様」（https://prtimes.jp/main/html/rd/p/000000033.000013637.html・3回目）
+  - 「当社としましては、今回の出資を機に、当社グループでの活用や、中国地方の法人のみなさまへのご紹介も進めていきたいと考えています」（https://prtimes.jp/main/html/rd/p/000000033.000013637.html・3回目）
+  - 「上場している会社はIR等で会社の情報が開示されているが非上場はそうはいかない」（https://note.com/tameikeshacho/n/n0e788f90c2c1・3回目）
+- 選出の記録：
+  - 「「2026 Tableau Ambassadors」にキーウォーカー社員2名が選出」（https://www.keywalker.co.jp/tag/case・1回目）
+  - 「ベストベンチャー100に認定」（https://www.keywalker.co.jp/company/outline.html・1回目）
+  - 「2026年度『ベストベンチャー100』」（https://www.keywalker.co.jp/company/outline.html・1回目）
+  - 「「2026 Tableau Ambassadors」にキーウォーカー社員2名が選出」（https://www.keywalker.co.jp/company/corporate-philosophy.html・1回目）
+  - 「「2026 Tableau Ambassadors」にキーウォーカー社員2名が選出」（https://www.keywalker.co.jp/tableau/case_study・1回目）
+  - 「【世界が認めるデータ活用支援】キーウォーカーの社員5名が、Tableauグローバルコミュニティ「DataFam Rising Stars 2026」に同時選出」（https://initial.inc/companies/A-02517・3回目）
+  - 「キーウォーカー、2026年度『ベストベンチャー100』に選出」（https://initial.inc/companies/A-02517・3回目）
+  - 「キーウォーカーは、直近4年間で売上約3倍、従業員数約3.5倍へ成長し、「ベストベンチャー100（2026）」にも選出されました」（https://compass.labbase.jp/company/681・3回目）
+  - 「※「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります」（https://compass.labbase.jp/company/681・3回目）
+  - 「イシン株式会社にエントリーした企業の中から、イシン株式会社が厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://compass.labbase.jp/company/681・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 - 株式会社 キーウォーカー — 会社概要 - 株式会社 キーウォーカー keywalker.co.jp https://www.keywalker.co.jp > 会社案内」（https://www.keywalker.co.jp/company/outline.html・3回目）
+  - 「株式会社 キーウォーカー （東京都）の 会社概要 ・役員 — 株式会社 キーウォーカー （東京都）の 会社概要 ・役員 Compalyze https://compalyze.co.jp > 企業検索 > AI・データ分析」（https://compalyze.co.jp/company/6010401058119・3回目）
+  - 「株式 会社キーウォーカー 採用情報 - HRMOS — 株式 会社キーウォーカー 採用情報 - HRMOS HRMOS https://hrmos.co > pages > keywalker」（https://hrmos.co/pages/keywalker・3回目）
+  - 「株式 会社キーウォーカー - ミドルの転職 — 株式 会社キーウォーカー - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧」（https://mid-tenshoku.com/agency/a-4243/・3回目）
+  - 「株式 会社キーウォーカー 小林 一登 - ベストベンチャー100 — 株式 会社キーウォーカー 小林 一登 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > keywalker」（https://best100.v-tsushin.jp/company/keywalker/・3回目）
+  - 「株式会社 キーウォーカー - スピーダ スタートアップ情報リサーチ — 株式会社 キーウォーカー - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-02517・3回目）
+  - 「株式会社 キーウォーカー の会社情報 - LabBase就職 — 株式会社 キーウォーカー の会社情報 - LabBase就職 LabBase就職 https://compass.labbase.jp > company」（https://compass.labbase.jp/company/681・3回目）
+  - 「株式会社 キーウォーカー - Profile - Tableau Public — 株式会社 キーウォーカー - Profile - Tableau Public Tableau Public https://public.tableau.com > app > profile > keywalker」（https://public.tableau.com/app/profile/keywalker・3回目）
+  - 「株式会社 キーウォーカー 小林 一登 - ベストベンチャー100 — 株式会社 キーウォーカー 小林 一登 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > keywalker」（https://best100.v-tsushin.jp/company/keywalker/・3回目）
+  - 「株式会社 キーウォーカー 、MBO完了のお知らせ - PR TIMES — 株式会社 キーウォーカー 、MBO完了のお知らせ - PR TIMES PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000033.000013637.html・3回目）
+  - 「株式会社 キーウォーカー - FIRST CVC — 株式会社 キーウォーカー - FIRST CVC FIRST CVC https://www.firstcvc.jp > company > keywalker.co.jp」（https://www.firstcvc.jp/company/keywalker.co.jp・3回目）
+  - 「SaaS型クローリングサービス国内No.1の キーウォーカー を ... — SaaS型クローリングサービス国内No.1の キーウォーカー を ... 共同ピーアール株式会社 https://www.kyodo-pr.co.jp > topics」（https://www.kyodo-pr.co.jp/topics/7294/・3回目）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部22頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部22頁・検索11回）
+
+## グローバルマーケティング
+- 公式URL：https://gl-marketing.co.jp/（given）
+- 事業内容：デジタルマーケティングコンサルティング、 DSP「lnfo'zDSP」の運営・販売（https://gl-marketing.co.jp/about/・1回目）
+- 事業内容：デジタルマーケティングコンサルティング、DSP「Info’z DSP」の運営・販売（https://gl-marketing.co.jp/zuuads/・1回目）
+- 事業内容：デジタルマーケティングコンサルティング、DSP「Info’z DSP」の運営・販売（https://gl-marketing.co.jp/chatgptads/・1回目）
+- 資本金：3,000,000円（https://gl-marketing.co.jp/about/・1回目）
+- 資本金：3,000,000円（https://gl-marketing.co.jp/zuuads/・1回目）
+- 資本金：3,000,000円（https://gl-marketing.co.jp/chatgptads/・1回目）
+- 創業年度：設立日：2020年3月19日（https://gl-marketing.co.jp/about/・1回目）
+- 創業年度：設立：2020年3月19日（https://gl-marketing.co.jp/zuuads/・1回目）
+- 創業年度：設立：2020年3月19日（https://gl-marketing.co.jp/chatgptads/・1回目）
+- 従業員数：21人（2025年5月）（https://shachomeikan.jp/industry_article/5492・3回目）
+- 所在地：〒151-0051 東京都渋谷区千駄ヶ谷5-32-6 グリーンスクエア新宿6階（https://gl-marketing.co.jp/about/・1回目）
+- 所在地：東京都渋谷区千駄ヶ谷5-32-6 グリーンスクエア新宿6階（https://gl-marketing.co.jp/zuuads/・1回目）
+- 所在地：東京都渋谷区千駄ヶ谷5-32-6 グリーンスクエア新宿6階（https://gl-marketing.co.jp/chatgptads/・1回目）
+- 代表者：左子 義則（https://gl-marketing.co.jp/about/・1回目）
+- 代表者：代表取締役社長 左子 義則（https://gl-marketing.co.jp/zuuads/・1回目）
+- 代表者：代表取締役社長 左子 義則（https://gl-marketing.co.jp/chatgptads/・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「効果的なWeb広告提案と運用成果で、クライアントのECサイトの売上拡大を共に支援」（https://gl-marketing.co.jp/・1回目）
+  - 「そんなSNS広告のご紹介と攻略法をお伝えします」（https://gl-marketing.co.jp/・1回目）
+  - 「競合ひしめく中で勝ち残る私たちの運用代行についてご紹介します」（https://gl-marketing.co.jp/・1回目）
+  - 「当社は2020年3月に創業し、デジタルマーケティングコンサルティングと自社DSP「Info’z DSP」の運営・販売を行い、社名のとおり、日本国内だけでなくアジアや世界に向けた広告提案も行っております」（https://gl-marketing.co.jp/about/・1回目）
+  - 「「LiLi Airy rich night bra」販売終了」（https://gl-marketing.co.jp/about/・1回目）
+  - 「エントリーした企業の中から、厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://gl-marketing.co.jp/about/・1回目）
+  - 「**2023年4月1日より、新規ご契約で広告出稿金額300,000円以下の場合、WEB広告手数料は25％になります」（https://gl-marketing.co.jp/service/listing/・1回目）
+  - 「**2023年4月1日より、新規ご契約で広告出稿金額300,000円以下の場合、WEB広告手数料は25％になります」（https://gl-marketing.co.jp/service/sns/・1回目）
+  - 「他社よりも圧倒的に低い手数料で広告配信費の割合を増やし、クリック数を増やすことが可能に」（https://gl-marketing.co.jp/service/dsp/・1回目）
+  - 「2023年4月1日から開始された「SmartNews Ads パートナープログラム」は、スマートニュースの広告商品・サービスを取り扱い、スマートニュース社との直接的な取引を行う広告会社を対象に審査を行い、認定された販売代理店を『SmartNews Ads パートナー』とする制度です」（https://gl-marketing.co.jp/service/dsp/・1回目）
+  - 「2023年7月13日に初となる認定パートナー136社が発表され、認定された販売代理店は、スマートニュース社との連携強化として、営業活動の支援、人材育成支援を目的としたサポートが用意されます」（https://gl-marketing.co.jp/service/dsp/・1回目）
+  - 「また広告主には、スマートニュース社が認定した実績ある販売代理店を一覧で確認することができ、より効果的なマーケティング活動の支援を目的としています」（https://gl-marketing.co.jp/service/dsp/・1回目）
+- 客は誰か：
+  - 「2018年には法政大学大学院イノベーション・マネジメント研究科を修了MBA・中小企業診断士を取得」（https://gl-marketing.co.jp/about/・1回目）
+  - 「※「ベストベンチャー100」は、イシン(株)が提供する法人向け有料会員制サービスです」（https://gl-marketing.co.jp/about/・1回目）
+  - 「人材（転職エージェント・転職サイト）、不動産、学校、金融、またBtoB業界のお客様が多いですが、クライアント実績は多種多様な業界にわたり、大学や官公庁などの行政・自治体ともお取引がございます」（https://gl-marketing.co.jp/service/listing/・1回目）
+  - 「人材（転職エージェント・転職サイト）、不動産、学校、金融、またBtoB業界のお客様が多いですが、クライアント実績は多種多様な業界にわたり、大学や官公庁などの行政・自治体ともお取引がございます」（https://gl-marketing.co.jp/service/sns/・1回目）
+  - 「BtoBマーケティングにおける「経営者・意思決定者」へのアプローチや、BtoCにおける「富裕層・個人資産保有者」へのアプローチは、従来のデジタル広告ではターゲティングの精度が課題となるケースが多くありました」（https://gl-marketing.co.jp/zuuads/・1回目）
+  - 「特に、我々のような業界特化型の人材紹介会社様とは親和性が高いと思います」（https://gl-marketing.co.jp/successstory/organization-of-human-resource-development-in-education/・1回目）
+  - 「MBA・中小企業診断士取得、(株)フルスピード入社」（https://best100.v-tsushin.jp/company/global-marketing/・3回目）
+  - 「大学時に「20代で起業」を目標に掲げ、当初中小企業診断士のコンサルティングでの独立を目指し、金融、中小企業支援団体、また個人事業主としてWebメディア事業などの経験を経て、MBAと中小企業診断士の資格を取得しました」（https://best100.v-tsushin.jp/company/global-marketing/・3回目）
+  - 「入社後も中小企業診断士としての独立を目指していましたが、上司であった取締役の岡田と共にプロジェクトを成功させ実績を積み上げた経験から、2人であれば『組織』としてビジネスができると確信し、ネット広告事業を展開する当社を20代最後の歳に創業しました」（https://best100.v-tsushin.jp/company/global-marketing/・3回目）
+  - 「MBAと中小企業診断士の知見を武器に、着実な成長を続ける同社を率いる代表取締役の左子義則氏」（https://shachomeikan.jp/industry_article/5492・3回目）
+  - 「学生時代から「起業」を自由な生き方の手段として志しており、まずは経営の基礎体力をつけるべく、中小企業診断士の資格取得を目指しました」（https://shachomeikan.jp/industry_article/5492・3回目）
+  - 「2018年には法政大学大学院イノベーション・マネジメント研究科を修了、MBA・中小企業診断士を取得」（https://shachomeikan.jp/industry_article/5492・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「不動産投資家・資産保有層へアプローチ可能なデジタル広告「Residence Ads」の提供を開始」（https://gl-marketing.co.jp/・1回目）
+  - 「効果的なWeb広告提案と運用成果で、クライアントのECサイトの売上拡大を共に支援」（https://gl-marketing.co.jp/・1回目）
+  - 「ブランドセーフティを意識するクライアント様にもおすすめです」（https://gl-marketing.co.jp/・1回目）
+  - 「Google Adsに代表されるリスティング広告だけでなく、SNS広告やディスプレイ広告、動画広告など、弊社が保有する数百に及ぶWEB広告媒体の知見から、クライアントの事業に最適な広告展開をご提案いたします」（https://gl-marketing.co.jp/service/・1回目）
+  - 「Webコンサルタントと広告運用担当者を分業化し、クライアント企業に最適な専用体制を整えることで、期待値を超えたサービス提供を実現します」（https://gl-marketing.co.jp/service/・1回目）
+  - 「自由の中で「自分のため」「クライアントのため」に結果を出す」（https://gl-marketing.co.jp/about/・1回目）
+  - 「お客様の広告成果を上げる運用力と、スピード感のある顧客対応を強みに、大企業からベンチャー企業、官公庁など、幅広い規模・業種のお客さまとの取引をさせていただくまでになりました」（https://gl-marketing.co.jp/about/・1回目）
+  - 「銀行員の頃より、個人事業主としてWEBメディア事業を展開していた経験から、SEO領域を得意としつつ、主に管理領域を担当」（https://gl-marketing.co.jp/about/・1回目）
+  - 「銀行員のころより、個人事業主としてWEBメディア事業を展開していた経験から、SEO領域を得意としつつ、主に管理領域を担当」（https://gl-marketing.co.jp/about/・1回目）
+  - 「投資・金融業界を得意分野としてWebプロモーションだけでなく、商品企画から参画した経験も豊富」（https://gl-marketing.co.jp/about/・1回目）
+  - 「人材（転職エージェント・転職サイト）、不動産、学校、金融、またBtoB業界のお客様が多いですが、クライアント実績は多種多様な業界にわたり、大学や官公庁などの行政・自治体ともお取引がございます」（https://gl-marketing.co.jp/service/listing/・1回目）
+  - 「人材（転職エージェント・転職サイト）、不動産、学校、金融、またBtoB業界のお客様が多いですが、クライアント実績は多種多様な業界にわたり、大学や官公庁などの行政・自治体ともお取引がございます」（https://gl-marketing.co.jp/service/sns/・1回目）
+- 資本金・株主：
+  - 「新卒で求人広告代理店に就職し、2012年Web業界（東証一部上場企業）へ転職」（https://gl-marketing.co.jp/about/・1回目）
+  - 「資本金を300万円に増資」（https://gl-marketing.co.jp/about/・1回目）
+  - 「当社は2026年4月1日付でZUU社の連結子会社となりました」（https://gl-marketing.co.jp/zuuads/・1回目）
+  - 「資本金 ：3,000,000円」（https://gl-marketing.co.jp/zuuads/・1回目）
+  - 「資本金 ：3,000,000円」（https://gl-marketing.co.jp/chatgptads/・1回目）
+  - 「また、昨年から子会社YOUTORIOでD2C事業を展開し、ヘアケアブランド「SpaniQ」の提供を開始しました」（https://best100.v-tsushin.jp/company/global-marketing/・3回目）
+  - 「創業190年を超える「髙島屋」を中心に、国内外に22のグループ商業施設を展開するプライム上場企業」（https://shachomeikan.jp/industry_article/5492・3回目）
+  - 「自動車から人工衛星まで、幅広い分野の製品を支えるプライム上場企業」（https://shachomeikan.jp/industry_article/5492・3回目）
+  - 「店舗数で仏具業界トップのスタンダード上場企業」（https://shachomeikan.jp/industry_article/5492・3回目）
+  - 「上場企業をはじめ、多くの企業の成長を「価値ある情報提供力」でサポートしている」（https://axiamark.com/knowledge/3362/・3回目）
+- 選出の記録：
+  - 「※「ベストベンチャー100」は、イシン(株)が提供する法人向け有料会員制サービスです」（https://gl-marketing.co.jp/about/・1回目）
+  - 「エントリーした企業の中から、厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://gl-marketing.co.jp/about/・1回目）
+  - 「株式会社グローバルマーケティング 左子 義則 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/global-marketing/・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 ｜株式会社 グローバルマーケティング — 会社概要 ｜株式会社 グローバルマーケティング 株式会社グローバルマーケティング https://gl-marketing.co.jp > about」（https://gl-marketing.co.jp/about/・3回目）
+  - 「株式会社 グローバルマーケティング （東京都）の 会社概要 ・役員 — 株式会社 グローバルマーケティング （東京都）の 会社概要 ・役員 Compalyze https://compalyze.co.jp > 企業検索 > デジタル広告・運用」（https://compalyze.co.jp/company/8011001133037・3回目）
+  - 「株式 会社グローバルマーケティング 左子 義則 — 株式 会社グローバルマーケティング 左子 義則 ベストベンチャー100 https://best100.v-tsushin.jp > company > global-marketing」（https://best100.v-tsushin.jp/company/global-marketing/・3回目）
+  - 「株式 会社グローバルマーケティング の企業 情報 - 社長名鑑 — 株式 会社グローバルマーケティング の企業 情報 - 社長名鑑 社長名鑑 https://shachomeikan.jp > corporations」（https://shachomeikan.jp/corporations/25647・3回目）
+  - 「株式 会社グローバルマーケティング ｜Global Marketing, Inc. — 株式 会社グローバルマーケティング ｜Global Marketing, Inc. globalmarketing.co.jp https://globalmarketing.co.jp」（https://globalmarketing.co.jp/・3回目）
+  - 「株式会社 グローバルマーケティング 左子 義則 — 株式会社 グローバルマーケティング 左子 義則 ベストベンチャー100 https://best100.v-tsushin.jp > company > global-marketing」（https://best100.v-tsushin.jp/company/global-marketing/・3回目）
+  - 「株式会社 グローバルマーケティング 代表取締役 左子 義則 — 株式会社 グローバルマーケティング 代表取締役 左子 義則 社長名鑑 https://shachomeikan.jp > industry_article」（https://shachomeikan.jp/industry_article/5492・3回目）
+  - 「2023年度『ベストベンチャー100』に選出｜株式会社 ... — 2023年度『ベストベンチャー100』に選出｜株式会社 ... 株式会社グローバルマーケティング https://gl-marketing.co.jp > ...」（https://gl-marketing.co.jp/2023%E5%B9%B4%E5%BA%A6%E3%80%8E%E3%83%99%E3%82%B9%E3%83%88%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC100%E3%80%8F%E3%81%AB%E9%81%B8%E5%87%BA/・3回目）
+  - 「グローバルマーケティング と販売：国際的な成功に向けた戦略 — グローバルマーケティング と販売：国際的な成功に向けた戦略 bhms.ch https://www.bhms.ch > ニュースの詳細 > article > グロー...」（https://www.bhms.ch/jp/bhms%E3%81%AE%E6%9C%80%E6%96%B0%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%AE%E8%A9%B3%E7%B4%B0/article/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A8%E5%96%B6%E6%A5%AD%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F・3回目）
+  - 「グローバルマーケティング 推進に必要な3つのステップと5つの ... — グローバルマーケティング 推進に必要な3つのステップと5つの ... MarketOne https://japan.marketone.com > Articles」（https://japan.marketone.com/articles/global-marketing-three-steps・3回目）
+  - 「株式会社 グローバルマーケティング — 株式会社 グローバルマーケティング スピーダ スタートアップ情報リサーチ https://initial.inc > companies > A-ZIRMA」（https://initial.inc/companies/A-ZIRMA・3回目）
+  - 「グローバルマーケティング 成功の鍵は統合的アプローチ — グローバルマーケティング 成功の鍵は統合的アプローチ cloud-for-all.com https://www.cloud-for-all.com > blog > key-to-success-in-...」（https://www.cloud-for-all.com/customer-data-cloud/blog/key-to-success-in-global-marketing・3回目）
+- 売上高：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部23頁・検索11回）
+- 株主：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部23頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部23頁・検索11回）
+
+## ココロザシ
+- 公式URL：https://kokorozashi-japan.co.jp/（given）
+- 事業内容：ITコンサルティング、システムインテグレーション等（https://kokorozashi-japan.co.jp/company/・1回目）
+- 事業内容：システム開発 AWS総合支援 ラボ開発（https://jws-japan.or.jp/whitecareer/white_company/3583・3回目）
+- 事業内容：■System Development（システム開発） モダンな技術×Web領域に特化。 業界を問わずさまざまなお客様の課題解決に向き合うシステム開発を行っています。 ■AWS Support（AWS総合支援） AWSの設計構築から運用～改善まで一貫しての支援を行い、コスト最適化やセキュリティ対策など幅広い課題に対応しています。 ■Lab Development（ラボ開発） お客様のビジネス課題を解決するための 専門エンジニアチームを編成しています。（https://herp.careers/v1/kokorozashi/5OzgZ9qcRZmP・3回目）
+- 資本金：5,000,000円（https://kokorozashi-japan.co.jp/company/・1回目）
+- 資本金：500万円（https://www.bizreach.jp/companies/36452/・3回目）
+- 資本金：1億2,200万円（https://www.bizreach.jp/companies/36452/・3回目）
+- 創業年度：創業：2019年7月（https://kokorozashi-japan.co.jp/company/・1回目）
+- 創業年度：設立：2019年7月（https://jws-japan.or.jp/whitecareer/white_company/3583・3回目）
+- 創業年度：設立年月：2019年7月（https://herp.careers/v1/kokorozashi/5OzgZ9qcRZmP・3回目）
+- 従業員数：100名〜999名以下（https://jws-japan.or.jp/whitecareer/white_company/3583・3回目）
+- 従業員数：143名（2026年8月時点）（https://herp.careers/v1/kokorozashi/5OzgZ9qcRZmP・3回目）
+- 所在地：東京都港区南青山3-8-40青山センタービル2F（https://www.bizreach.jp/companies/36452/・3回目）
+- 所在地：東京都港区北青山二丁目１４番４号 WeWork the ARGYLE aoyama（ジ アーガイル アオヤマ）（https://www.bizreach.jp/companies/36452/・3回目）
+- 所在地：東京都新宿区西新宿2丁目3-1新宿モノリス 28階（https://www.bizreach.jp/companies/36452/・3回目）
+- 代表者：木村 多可志（https://kokorozashi-japan.co.jp/company/・1回目）
+- 代表者：木村 多可志（https://www.bizreach.jp/companies/36452/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「個性にあふれた社員が組織運営に参画し、イノベーション（変革）や新たな発想・価値の創造を実現します」（https://kokorozashi-japan.co.jp/company/・1回目）
+  - 「【事業内容】ITコンサルティング、システムインテグレーション等」（https://www.bizreach.jp/companies/36452/・3回目）
+  - 「IT領域の受託開発を手がけるテクノロジーカンパニーです」（https://readycrew.jp/media/company/kokorozashi-japan・3回目）
+  - 「会社案内パンフレットを制作する目的、制作時のポイントやおすすめ制作会社も紹介」（https://readycrew.jp/media/company/kokorozashi-japan・3回目）
+  - 「ココロザシの営業スタイルは、売上や営業数字よりも、」（https://herp.careers/v1/kokorozashi/5OzgZ9qcRZmP・3回目）
+  - 「伊藤忠テクノソリューションズ株式会社は卸売・金融・製造・通信など、幅広い業界に対しシステム構築から保守、運用までを提供するIT企業です」（https://b-pos.jp/srv/kokorozashi-japan/system-development/・3回目）
+  - 「24時間365日稼働し続ける大規模な金融機関システムの構築・保守・運用や、1日に数十万人規模のアクセスを処理する航空券販売システムなどの提供実績があります」（https://b-pos.jp/srv/kokorozashi-japan/system-development/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「ベンチャー企業、女性管理職実績あり、年間休日120日以上、産休・育休取得実績あり、教育・研修制度充実、資格支援制度充実」（https://www.bizreach.jp/companies/36452/・3回目）
+  - 「（労務監査責任者：社会保険労務士法人 労務サービス 高橋）」（https://jws-japan.or.jp/whitecareer/white_company/3583・3回目）
+  - 「雇用保険／社会保険を加入要件を把握しており、法定基準を満たした運用がされている」（https://jws-japan.or.jp/whitecareer/white_company/3583・3回目）
+  - 「職場におけるハラスメント（妊娠・出産・育児休業・介護休業等に関するハラスメントやセクシュアルハラスメント、パワーハラスメント）の防止措置を実際に講じている」（https://jws-japan.or.jp/whitecareer/white_company/3583・3回目）
+  - 「業務システムやサービスアプリなどを開発する時は、一部のIT企業を除けば、専門的な技術を持ったソフトウェ...」（https://readycrew.jp/media/company/kokorozashi-japan・3回目）
+  - 「「ココロザシ システム開発サービス」の口コミ・評判、料金・プラン、導入事例 | b-pos（ビーポス）」（https://b-pos.jp/srv/kokorozashi-japan/system-development/・3回目）
+  - 「「ココロザシ システム開発サービス」の口コミ・評判、料金・プラン、導入事例」（https://b-pos.jp/srv/kokorozashi-japan/system-development/・3回目）
+  - 「株式会社ココロザシは、顧客のビジネス課題を解決するための専門エンジニアチームを組成し、一定期間エンジニアの稼働を確保できるラボ開発を提供しています」（https://b-pos.jp/srv/kokorozashi-japan/system-development/・3回目）
+  - 「伊藤忠テクノソリューションズ株式会社は卸売・金融・製造・通信など、幅広い業界に対しシステム構築から保守、運用までを提供するIT企業です」（https://b-pos.jp/srv/kokorozashi-japan/system-development/・3回目）
+  - 「24時間365日稼働し続ける大規模な金融機関システムの構築・保守・運用や、1日に数十万人規模のアクセスを処理する航空券販売システムなどの提供実績があります」（https://b-pos.jp/srv/kokorozashi-japan/system-development/・3回目）
+  - 「Sky株式会社は、30年以上にわたり業務系システムの開発に携わってきたIT企業です」（https://b-pos.jp/srv/kokorozashi-japan/system-development/・3回目）
+  - 「金融・保険・医療業界をはじめとする、多様な業界の顧客の要望に応えてきた実績があります」（https://b-pos.jp/srv/kokorozashi-japan/system-development/・3回目）
+- 資本金・株主：
+  - 「【資本金】500万円」（https://www.bizreach.jp/companies/36452/・3回目）
+- 選出の記録：
+  - 「GPTWジャパン「働きがいのある会社」若手ランキングでココロザシが6位に選出」（https://kokorozashi-japan.co.jp/・1回目）
+  - 「2026年度 Great Place To Work Institute Japan（GPTW Japan）が発表した「働きがいのある会社」ランキングベスト100に選出されました」（https://kokorozashi-japan.co.jp/・1回目）
+  - 「2年連続「ベストベンチャー100」に選出中の成長著しいSIer」（https://readycrew.jp/media/company/kokorozashi-japan・3回目）
+  - 「Pick up記事（このサービスが選出されている記事）」（https://b-pos.jp/srv/kokorozashi-japan/system-development/・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 ｜株式会社 ココロザシ - kokorozashi-company — 会社概要 ｜株式会社 ココロザシ - kokorozashi-company 株式会社ココロザシ https://kokorozashi-japan.co.jp > company」（https://kokorozashi-japan.co.jp/company/・3回目）
+  - 「株式 会社ココロザシ の求人・採用情報 - ビズリーチ — 株式 会社ココロザシ の求人・採用情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies」（https://www.bizreach.jp/companies/36452/・3回目）
+  - 「株式会社 ココロザシ の 会社概要 ｜【ビートライブフィット ... — 株式会社 ココロザシ の 会社概要 ｜【ビートライブフィット ... beatribes.com https://beatribes.com > WEBサービス開発」（https://beatribes.com/fit/company/kokorozashi・3回目）
+  - 「株式 会社ココロザシ ｜ホワイト企業認定に認定されました — 株式 会社ココロザシ ｜ホワイト企業認定に認定されました jws-japan.or.jp https://jws-japan.or.jp > ホーム > ホワイト企業」（https://jws-japan.or.jp/whitecareer/white_company/3583・3回目）
+  - 「株式 会社ココロザシ 木村 多可志 - ベストベンチャー100 — 株式 会社ココロザシ 木村 多可志 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > kokorozashi」（https://best100.v-tsushin.jp/company/kokorozashi/・3回目）
+  - 「株式会社 ココロザシ ｜ホワイト企業認定に認定されました — 株式会社 ココロザシ ｜ホワイト企業認定に認定されました jws-japan.or.jp https://jws-japan.or.jp > ホーム > ホワイト企業」（https://jws-japan.or.jp/whitecareer/white_company/3583・3回目）
+  - 「株式会社 ココロザシ | Crews Media — 株式会社 ココロザシ | Crews Media Ready Crew（レディクル） https://readycrew.jp > トップページ > を探す」（https://readycrew.jp/media/company/kokorozashi-japan・3回目）
+  - 「04.IT営業 - 株式会社 ココロザシ - HERP Career — 04.IT営業 - 株式会社 ココロザシ - HERP Career herp.careers https://herp.careers > kokorozashi」（https://herp.careers/v1/kokorozashi/5OzgZ9qcRZmP・3回目）
+  - 「株式会社 ココロザシ の働き方とストーリー - Wantedly — 株式会社 ココロザシ の働き方とストーリー - Wantedly Wantedly https://www.wantedly.com > ... > 株式会社ココロザシ」（https://www.wantedly.com/companies/company_299137/stories・3回目）
+  - 「株式会社 ココロザシ ｜kokorozashi Co.,Ltd — 株式会社 ココロザシ ｜kokorozashi Co.,Ltd 株式会社ココロザシ https://kokorozashi-japan.co.jp」（https://kokorozashi-japan.co.jp/・3回目）
+  - 「「ココロザシ システム開発サービス」の口コミ・評判、料金・プラン、... — BPOサービス一覧 システム開発会社 株式会社ココロザシ 「ココロザシ システム開発サービス」の口コミ・評判、料金・プラン、導入事例 企業トップ サービス概要 料金・プラン 口コミ・評判」（https://b-pos.jp/srv/kokorozashi-japan/system-development/・3回目）
+  - 「株式会社ココロザシ｜kokorozashi Co.,Ltd — News View More 2026/07/29 広報 GPTWジャパン「働きがいのある会社」若手ランキングでココロザシが6位に選出 2026/05/23 広報 「ストレスフリーカンパニー2026」に表彰されました 2026/02/07 広報」（https://kokorozashi-japan.co.jp/・3回目）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）
+
+## コスモバンク
+- 公式URL：https://cosmobank.co.jp/（given）
+- 事業内容：＜事業＞ ■不動産事業 ・「富裕層」の方々の資産運用のコンサルティングをしております。 商材は、不動産(中古の1棟アパート・マンション)となります。 ・収益用不動産の購入・再生・売却・管理をワンストップでトータルサポート。 【HPリンク】https://cosmobank.co.jp/ ■スポーツ事業 ・ パーソナルトレーニングジム(3店舗)を展開中。 ・インドアゴルフ場(8店舗)展開中。 ＜具体的な仕事内容＞ ・主にパーソナルトレーニングジム(複数店舗)+インドアゴルフ場(複数店舗) の管理業務。(販促企画立案および実行etc) ・インドアゴルフ場の簡単な受付業務。(店舗間の移動あり) 【HPリンク】https://miracre.jp/ 【HPリンク】https://swing24-7.jp/ ----------------------------------------------------------------------------------- ■サウナ事業 ・横浜エリアに2027年3月開業予定。 -----------------------------------（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+- 事業内容：・不動産業(収益用不動産のコンサルティング/売買・リフォーム・仲介・賃貸管理) ・建設業 ・スポーツ業 ・農業（https://best100.v-tsushin.jp/company/cosmobank/・3回目）
+- 事業内容：■27卒、全国より積極採用中■ 2025年10月現在、8名採用！！ ＜事業＞ ■不動産事業 ・「富裕層」の方々の資産運用のコンサルティングをしております。 商材は、不動産(中古の1棟アパート・マンション)となります。 ・収益用不動産の購入・再生・売却・管理をワンストップでトータルサポート。 【HPリンク】https://cosmobank.co.jp/ ■スポーツ事業 ・ パーソナルトレーニングジム(3店舗)を展開中。 ・インドアゴルフ場(7店舗)展開中。 ※トレーナー出身者、ゴルフプロ、ゴルフ好きな方が活躍中。 ＜具体的な仕事内容＞ ・主にパーソナルトレーニングジム(3店舗)+インドアゴルフ場(7店舗) の管理業務。(販促企画立案および実行etc) ・インドアゴルフ場の簡単な受付業務。(店舗間の移動あり) 【HPリンク】https://miracre.jp/ ----------------------------------------------------------------------------------- ■農業 ・新潟県十日町市で魚沼産コシヒカリを栽培中。 SDG（https://job.mynavi.jp/27/pc/search/corp271840/outline.html・3回目）
+- 資本金：1億円（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+- 資本金：1億円（https://cosmobank.jp/company/・3回目）
+- 資本金：1億円（https://best100.v-tsushin.jp/company/cosmobank/・3回目）
+- 創業年度：設立：2018年8月1日（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+- 創業年度：設立：2018年8月1日（https://cosmobank.jp/company/・3回目）
+- 創業年度：設立：2018年8月1日（https://job.mynavi.jp/27/pc/search/corp271840/outline.html・3回目）
+- 従業員数：150名(2026年9月時点)（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+- 従業員数：120名(2025年10月時点) ※グループ会社含む（https://job.mynavi.jp/27/pc/search/corp271840/outline.html・3回目）
+- 従業員数：120名(2025年10月時点)
+※グループ会社含む（https://job.mynavi.jp/27/pc/search/corp271840/outline.html・3回目）
+- 売上高：190億2,000万円(2026年7月期実績/単体) 132億3,000万円(2025年7月期実績/単体) 94億1,200万円(2024年7月期実績/単体)（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+- 売上高：190億2,000万円(2026年7月期実績/単体)
+132億3,000万円(2025年7月期実績/単体)
+  94億1,200万円(2024年7月期実績/単体)（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+- 売上高：132億3,000万円(2025年7月期実績/単体) 94億1,200万円(2024年7月期実績/単体) 83億6,000万円(2023年7月期実績/単体)（https://job.mynavi.jp/27/pc/search/corp271840/outline.html・3回目）
+- 所在地：220-8109（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+- 所在地：神奈川県横浜市西区みなとみらい2-2-1 横浜ランドマークタワー9F（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+- 所在地：045-900-3442（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+- 代表者：穴澤 勇人（https://cosmobank.jp/company/・3回目）
+- 代表者：穴澤 勇人（https://shachomeikan.jp/industry_article/3781・3回目）
+- 代表者：植松 隆（https://prtimes.jp/main/html/rd/p/000000393.000014691.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「コスモバンク株式会社｜収益不動産のリフォーム・販売・管理・買取専門」（https://cosmobank.jp/・1回目）
+  - 「物件の取得から再生、運営、売却までを一貫して手がけてきました」（https://cosmobank.jp/・1回目）
+  - 「長年の経験をもとに、収益性と将来性を見極めた不動産戦略をご提案します」（https://cosmobank.jp/・1回目）
+  - 「建物の状態と市場性を捉え、収益力を取り戻す再生プランを描きます」（https://cosmobank.jp/・1回目）
+  - 「取得・再生・運営・売却までを一つの視点で捉え、物件ごとの可能性を最大限に引き出してきました」（https://cosmobank.jp/・1回目）
+  - 「立地や建物の特性、地域のニーズを丁寧に読み解き、収益性だけでなく、長く選ばれ続ける価値をかたちにしたプロジェクトをご紹介します」（https://cosmobank.jp/・1回目）
+  - 「収益用物件の要点を押さえ、高稼働・高収益率を実現しました」（https://cosmobank.jp/・1回目）
+  - 「コスモバンクが長年培ってきた目利き力で、収益性と将来性を見極めた物件をご提案します」（https://cosmobank.jp/・1回目）
+  - 「築年数を重ねた物件も、適切なリノベーションで再び競争力のある収益資産へと再生させます」（https://cosmobank.jp/・1回目）
+  - 「買う・建てる、運営する、リフォーム、そして次の投資へ」（https://cosmobank.jp/・1回目）
+  - 「【設立9期目、売上190億円超！個性を活かす!】収益用不動産事業を柱にスポーツ事業等、他事業も展開中！年間休日122日！（2026年実績）」（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+  - 「【少数精鋭】コンサルティング(収益用不動産)/転勤なし」（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+- 客は誰か：
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります」（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+  - 「業務量は多いですが、大手企業とは違い、スピード感あふれる職場環境となっております」（https://job.mynavi.jp/27/pc/search/corp271840/outline.html・3回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります」（https://job.mynavi.jp/27/pc/search/corp271840/outline.html・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「コスモバンク株式会社｜収益不動産のリフォーム・販売・管理・買取専門」（https://cosmobank.jp/・1回目）
+  - 「長年の経験をもとに、収益性と将来性を見極めた不動産戦略をご提案します」（https://cosmobank.jp/・1回目）
+  - 「長期保有アパートの余剰地を活用し、グループの建設会社が施工」（https://cosmobank.jp/・1回目）
+  - 「不動産投資の枠を超え、サウナ事業をはじめとした体験価値型ビジネスにも挑戦しています」（https://cosmobank.jp/・1回目）
+  - 「不動産の価値を、未来へつなぐ」（https://cosmobank.jp/・1回目）
+  - 「コスモバンクは不動産経営のあらゆる段階に寄り添い、資産価値を育てるサービスを提供します」（https://cosmobank.jp/・1回目）
+  - 「【設立9期目、売上190億円超！個性を活かす!】収益用不動産事業を柱にスポーツ事業等、他事業も展開中！年間休日122日！（2026年実績）」（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+  - 「【少数精鋭】コンサルティング(収益用不動産)/転勤なし」（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+  - 「不動産投資を検討されているお客様に対してのコンサルティング」（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+  - 「お客様のニーズに合った収益用不動産(アパート・マンション等)を提案し販売」（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+  - 「建設業、スポーツ事業も展開中です！」（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+  - 「今後もサウナ事業、宿泊事業も展開予定です」（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+- 資本金・株主：
+  - 「今後は若い職人を増やしながら、子会社の矢島建設工業を強化していく必要があるでしょう」（https://shachomeikan.jp/industry_article/3781・3回目）
+  - 「『白猫プロジェクト』『ドラゴンクエストウォーク』 など、数多くのヒットタイトルを手掛けるプライム上場企業」（https://shachomeikan.jp/industry_article/3781・3回目）
+  - 「日本スターティング・システム(株)【日本中央競馬会（JRA）100％子会社】」（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+  - 「当社のお客さまは、弁護士や医師といった士師業、東証プライム上場企業の経営層、活躍中のプロスポーツ選手など「一流」と呼ばれるような方々です」（https://v-tsushin.jp/interview/vt92_cosmobank/・3回目）
+  - 「資金調達手段の多様化の観点から、不動産特定共同事業法に」（https://growth-100-oku.smrj.go.jp/companies/pdf/01606-00.pdf・3回目）
+  - 「以上コンスタントに募集を行い、年間資金調達額10億円を目」（https://growth-100-oku.smrj.go.jp/companies/pdf/01606-00.pdf・3回目）
+  - 「強化・資金調達手段の更なる開拓が課題としてある」（https://growth-100-oku.smrj.go.jp/companies/pdf/01606-00.pdf・3回目）
+- 選出の記録：
+  - 「★2026年ベストベンチャー100に2年連続選出！！★」（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+  - 「★2026年ベストベンチャー100に2年連続当社が選出！★」（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります」（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+  - 「イシン株式会社にエントリーした企業の中から、イシン株式会社が厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+  - 「コスモバンク株式会社 穴澤 勇人 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/cosmobank/・3回目）
+  - 「★2025年ベストベンチャー100に選出！！★」（https://job.mynavi.jp/27/pc/search/corp271840/outline.html・3回目）
+  - 「■2025年ベストベンチャー100に選出！！」（https://job.mynavi.jp/27/pc/search/corp271840/outline.html・3回目）
+  - 「★2025年ベストベンチャー100に当社が選出！★」（https://job.mynavi.jp/27/pc/search/corp271840/outline.html・3回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります」（https://job.mynavi.jp/27/pc/search/corp271840/outline.html・3回目）
+  - 「イシン株式会社にエントリーした企業の中から、イシン株式会社が厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://job.mynavi.jp/27/pc/search/corp271840/outline.html・3回目）
+- 検索結果の抜粋：
+  - 「コスモバンク (株)の 会社概要 | マイナビ2028 — コスモバンク (株)の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp271840 > outline」（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+  - 「会社概要 | COSMOBANK - コスモバンク 株式会社 — 会社概要 | COSMOBANK - コスモバンク 株式会社 コスモバンク株式会社 https://cosmobank.jp > company」（https://cosmobank.jp/company/・3回目）
+  - 「コスモバンク 株式 会社 穴澤 勇人 - ベストベンチャー100 — コスモバンク 株式 会社 穴澤 勇人 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > cosmobank」（https://best100.v-tsushin.jp/company/cosmobank/・3回目）
+  - 「コスモバンク の新卒採用・就職・ 会社概要 とクチコミ — コスモバンク の新卒採用・就職・ 会社概要 とクチコミ ワンキャリア https://www.onecareer.jp > companies」（https://www.onecareer.jp/companies/94333・3回目）
+  - 「コスモバンク (株) インターネットエラベル企業 情報 — コスモバンク (株) インターネットエラベル企業 情報 東京商工リサーチ https://www.tsr-net.co.jp > alevel > detail」（https://www.tsr-net.co.jp/alevel/detail/1200564_2071.html・3回目）
+  - 「コスモバンク (株)の会社概要 | マイナビ2028 — コスモバンク (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp271840 > outline」（https://job.mynavi.jp/28/pc/search/corp271840/outline.html・3回目）
+  - 「コスモバンク 株式会社 穴澤 勇人 - ベストベンチャー100 — コスモバンク 株式会社 穴澤 勇人 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > cosmobank」（https://best100.v-tsushin.jp/company/cosmobank/・3回目）
+  - 「コスモバンク (株)の新卒採用・会社概要 | マイナビ2027 — コスモバンク (株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp271840 > outline」（https://job.mynavi.jp/27/pc/search/corp271840/outline.html・3回目）
+  - 「コスモバンク (株) インターネットエラベル企業情報 — コスモバンク (株) インターネットエラベル企業情報 東京商工リサーチ https://www.tsr-net.co.jp > alevel > detail」（https://www.tsr-net.co.jp/alevel/detail/1200564_2071.html・3回目）
+  - 「コスモバンク 株式会社 の企業情報 | バフェット・コード — コスモバンク 株式会社 の企業情報 | バフェット・コード バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/9l2acnt5fh/・3回目）
+  - 「業界毎特集記事－ コスモバンク 株式会社 代表取締役 穴澤 勇人 — 業界毎特集記事－ コスモバンク 株式会社 代表取締役 穴澤 勇人 社長名鑑 https://shachomeikan.jp > industry_article」（https://shachomeikan.jp/industry_article/3781・3回目）
+  - 「コスモバンク 株式会社 穴澤 勇人｜ベンチャー通信Online — コスモバンク 株式会社 穴澤 勇人｜ベンチャー通信Online ベンチャー通信Online https://v-tsushin.jp > interview > vt92_cosmobank」（https://v-tsushin.jp/interview/vt92_cosmobank/・3回目）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索11回）
+
+## ジェネリー
+- 公式URL：https://www.genery.co.jp（given）
+- 事業内容：IP・ブランド事業、アパレル・雑貨企画販売、EC・店舗運営（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+- 事業内容：IP・ブランド事業、アパレル・雑貨企画販売、EC・店舗運営（https://www.genery.co.jp/news/cVKYt3tm・1回目）
+- 事業内容：雑貨ブランド「LAFARY」の運営 アパレルブランド「MELSICK」の運営 オリジナルキャラクター制作事業 広告代理事業（https://www.lafary.shop/pages/company?srsltid=AYCX9vJ4psUvGI-_AzZJ1QANhPJwh8w5pQUFEtNF-k3azknuIDvMVrAL・3回目）
+- 資本金：4,200万円(資本準備金を含む)（https://www.lafary.shop/pages/company?srsltid=AYCX9vJ4psUvGI-_AzZJ1QANhPJwh8w5pQUFEtNF-k3azknuIDvMVrAL・3回目）
+- 資本金：42,000,000円（https://companydata.tsujigawa.com/company/7180001115979/・3回目）
+- 資本金：2,350万円（https://best100.v-tsushin.jp/company/genery/・3回目）
+- 創業年度：設立：2014年（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+- 創業年度：設立：2014年（https://www.genery.co.jp/news/cVKYt3tm・1回目）
+- 創業年度：設立：2014年10月1日（https://www.lafary.shop/pages/company?srsltid=AYCX9vJ4psUvGI-_AzZJ1QANhPJwh8w5pQUFEtNF-k3azknuIDvMVrAL・3回目）
+- 従業員数：36名（https://www.lafary.shop/pages/company?srsltid=AYCX9vJ4psUvGI-_AzZJ1QANhPJwh8w5pQUFEtNF-k3azknuIDvMVrAL・3回目）
+- 従業員数：35名（https://companydata.tsujigawa.com/company/7180001115979/・3回目）
+- 従業員数：36名（https://www.lafary.shop/pages/company・3回目）
+- 株主：榊原 洵（代表取締役） 曽我 健（公認会計士） グリー株式会社（東証第一部） 佐々木 俊介（株式会社ポケラボ創業者） 庄村 一哉（司法書士） その他 2名（https://www.lafary.shop/pages/company?srsltid=AYCX9vJ4psUvGI-_AzZJ1QANhPJwh8w5pQUFEtNF-k3azknuIDvMVrAL・3回目）
+- 株主：VC不明, 事業会社あり（https://initial.inc/companies/A-26732・3回目）
+- 株主：榊原 洵（代表取締役） 曽我 健（公認会計士） グリー株式会社（東証第一部） 佐々木 俊介（株式会社ポケラボ創業者） 庄村 一哉（司法書士） その他 2名（https://www.lafary.shop/pages/company・3回目）
+- 所在地：東京都渋谷区、代表取締役社長：榊原 洵）は、イシン株式会社（本社：東京都新宿区、代表取締役社長：西中大史）が主催する、2026年度『ベストベンチャー100（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+- 所在地：東京都渋谷区（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+- 所在地：東京都渋谷区、代表取締役社長：榊原 洵）は、ファッションECモールZOZOTOWN（https://www.genery.co.jp/news/cVKYt3tm・1回目）
+- 代表者：代表取締役社長 榊原 洵（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+- 代表者：代表取締役社長 榊原 洵（https://www.genery.co.jp/news/cVKYt3tm・1回目）
+- 代表者：代表取締役　榊原 洵（https://companydata.tsujigawa.com/company/7180001115979/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「株式会社ジェネリーでは、アパレル雑貨ブランド「LAFARY」をはじめとする複数のブランド運営と、キャラクタービジネスの展開を事業の柱とし、プロダクト開発からコンテンツ制作、販路開拓、プロモーションまで、各プロジェクトをワンストップで手がけています」（https://www.genery.co.jp/・1回目）
+  - 「ガーリーな世界観をコンセプトに、オリジナルアクセサリーや人気キャラクターとのコラボアイテムを販売」（https://www.genery.co.jp/・1回目）
+  - 「私自身、新卒時代に携わったメイド喫茶の運営を通じて、若い女の子が持つ“かわいい”という感性が、その人の“自信”になる瞬間を何度も見てきました」（https://www.genery.co.jp/company・1回目）
+  - 「衣料・雑貨等の企画・販売、ECサイト・店舗の運営、キャラクタービジネス」（https://www.genery.co.jp/company・1回目）
+  - 「特にファッションブランドの運営とキャラクタービジネスの展開を事業の柱とし、プロダクト開発からコンテンツ制作、販路開拓、プロモーションまで、各プロジェクトをワンストップで手がけています」（https://www.genery.co.jp/service・1回目）
+  - 「”特別な日常”をまとう、ホビーアカウント向けのアパレルを販売」（https://www.genery.co.jp/service・1回目）
+  - 「SNS投稿に加えて、ガーリーで可愛いファッション雑貨も販売中です」（https://www.genery.co.jp/service・1回目）
+  - 「「ベストベンチャー100」は、今後の高い成長が期待されるベンチャー企業100社を紹介するサイトで、イシン株式会社が運営する法人向け有料会員制サービスです」（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+  - 「・中長期視点で事業を成長させ、売上・事業規模が継続的に拡大している」（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+  - 「オリジナルブランド・IPの開発から、商品企画、EC・実店舗運営、国内外展開までを一気通貫で手がけ、」（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+  - 「事業内容：IP・ブランド事業、アパレル・雑貨企画販売、EC・店舗運営」（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+  - 「ZOZOTOWN限定企画・先行販売（予定）」（https://www.genery.co.jp/news/cVKYt3tm・1回目）
+- 客は誰か：
+  - 「「ベストベンチャー100」は、今後の高い成長が期待されるベンチャー企業100社を紹介するサイトで、イシン株式会社が運営する法人向け有料会員制サービスです」（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+- 客の産業（導入事例・取引先）：
+  - 「みずほ銀行、りそな銀行、東京シティ信用金庫、第一勧業信用組合組合、楽天銀行」（https://www.genery.co.jp/company・1回目）
+  - 「従業員数(被保険者数)：35名」（https://companydata.tsujigawa.com/company/7180001115979/・3回目）
+  - 「補助金・官公庁採択：0件」（https://companydata.tsujigawa.com/company/7180001115979/・3回目）
+  - 「沿革・資本金の開示充実、採択実績の獲得と掲載、主要導入事例の明文化を推奨します」（https://companydata.tsujigawa.com/company/7180001115979/・3回目）
+  - 「LAFARY事業を起点とし、顧客データ・販売ノウハウ・生産体制それぞれのリソースを活用した、自社IPおよびアパレルブランド事業の展開を進めております」（https://www.wantedly.com/companies/genery/about・3回目）
+  - 「クリエイティブ×データマーケティングを強みに、顧客が"本当に欲しい"商品の提供を実現しています」（https://www.wantedly.com/companies/genery/about・3回目）
+  - 「また、プロダクト愛がありビジネスパーソンとしても優秀なメンバーに対して、代表・榊原が現場で培った教育スキルを発揮することで、平均年齢が若いながらも高いビジネス力を備えた組織を構築しています」（https://www.wantedly.com/companies/genery/about・3回目）
+  - 「また、社員に対して美容手当の支給を行い、髪やネイルなど美容にまつわるメンテナンスに活用いただいています」（https://www.wantedly.com/companies/genery/about・3回目）
+  - 「アクセサリー雑貨を中心に、オリジナル商品及びブランド直卸商品を展開するD2C通販サイト「LafaryShop」の運営」（https://initial.inc/companies/A-26732・3回目）
+  - 「今後、Lafaryはユーザーに情報を発信するプラットフォームとしての機能を強化し、実現したい世界観に共感いただけるメーカー様やシナジーを期待できるライセンスホルダー、他ブランドを巻き込む形でのオリジナル商品の開発、および親和性の高い商品を扱うメーカー様の商品をプラットフォーム上で販売するなど、ユーザーへの接点と販路を提供することによってメーカー様やライセンスホルダー様のマーケティングを効率化することにより、企業の成長を目指します」（https://www.atpress.ne.jp/news/216910・3回目）
+  - 「医学書院、NTT、NTTドコモビジネス、医療現場での「信頼できるAI」の」（https://www.atpress.ne.jp/news/216910・3回目）
+  - 「実現に向け、Ubieと医療AI情報プラットフォームの共同実証を開始」（https://www.atpress.ne.jp/news/216910・3回目）
+- 資本金・株主：
+  - 「設立年の明示、資本金水準の開示、外部採択実績の取得・掲載を進めましょう」（https://companydata.tsujigawa.com/company/7180001115979/・3回目）
+  - 「資本金：42,000,000円」（https://companydata.tsujigawa.com/company/7180001115979/・3回目）
+  - 「沿革・資本金の開示充実、採択実績の獲得と掲載、主要導入事例の明文化を推奨します」（https://companydata.tsujigawa.com/company/7180001115979/・3回目）
+  - 「5年以内に上場予定」（https://best100.v-tsushin.jp/company/genery/・3回目）
+  - 「上場を見据え、Z世代が世界で輝ける「日本発カルチャー」を創造し続けます」（https://best100.v-tsushin.jp/company/genery/・3回目）
+  - 「当社は今回の資金調達により資本力の充実を図り、事業の成長に繋げます」（https://www.atpress.ne.jp/news/216910・3回目）
+  - 「また、グリー株式会社やクルーズ株式会社などから出資を受けている点も強みになります」（https://www.atpress.ne.jp/news/216910・3回目）
+  - 「資金調達のニュースはまだ見つかっていません」（https://www.firstcvc.jp/company/genery.co.jp・3回目）
+  - 「資金調達の全履歴と投資家を見る（無料登録）」（https://www.firstcvc.jp/company/genery.co.jp・3回目）
+- 選出の記録：
+  - 「ベストベンチャー2026に選出されました」（https://www.genery.co.jp/・1回目）
+  - 「ベストベンチャー2026に選出されました」（https://www.genery.co.jp/service・1回目）
+  - 「ベストベンチャー2026に選出されました | GENERY」（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+  - 「ベストベンチャー2026に選出されました | GENERY 読み込まれました」（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+  - 「ベストベンチャー2026に選出されました」（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+  - 「株式会社ジェネリー（本社：東京都渋谷区、代表取締役社長：榊原 洵）は、イシン株式会社（本社：東京都新宿区、代表取締役社長：西中大史）が主催する、2026年度『ベストベンチャー100」（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+  - 「2年連続の選出」（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+  - 「■『ベストベンチャー100』について」（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+  - 「「ベストベンチャー100」は、今後の高い成長が期待されるベンチャー企業100社を紹介するサイトで、イシン株式会社が運営する法人向け有料会員制サービスです」（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+  - 「エントリー企業の中から、厳正な審査を経て選出された100社が「ベストベンチャー100」として掲載されます」（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+  - 「このたび、昨年に続き2年連続で『ベストベンチャー100』に選出いただき、大変光栄に思います」（https://www.genery.co.jp/news/ejCPdMBs・1回目）
+  - 「株式会社ジェネリー 榊原 洵 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/genery/・3回目）
+- 検索結果の抜粋：
+  - 「株式会社 ジェネリー の 会社概要 ｜READY TO FASHION — 株式会社 ジェネリー の 会社概要 ｜READY TO FASHION READY TO FASHION https://www.readytofashion.jp > companies」（https://www.readytofashion.jp/companies/1820878127・3回目）
+  - 「株式会社 ジェネリー の 会社概要 とプレスリリース — 株式会社 ジェネリー の 会社概要 とプレスリリース 全国企業データベース https://companydata.tsujigawa.com > company」（https://companydata.tsujigawa.com/company/7180001115979/・3回目）
+  - 「株式 会社ジェネリー 榊原 洵 - ベストベンチャー100 — 株式 会社ジェネリー 榊原 洵 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > genery」（https://best100.v-tsushin.jp/company/genery/・3回目）
+  - 「GENERY/企業情報 - 株式 会社ジェネリー — GENERY/企業情報 - 株式 会社ジェネリー genery.co.jp https://www.genery.co.jp > company」（https://www.genery.co.jp/company・3回目）
+  - 「株式会社 ジェネリー 榊原 洵 - ベストベンチャー100 — 株式会社 ジェネリー 榊原 洵 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > genery」（https://best100.v-tsushin.jp/company/genery/・3回目）
+  - 「株式会社 ジェネリー の 事業 とカルチャー - Wantedly — 株式会社 ジェネリー の 事業 とカルチャー - Wantedly Wantedly https://www.wantedly.com > ... > 株式会社ジェネリー」（https://www.wantedly.com/companies/genery/about・3回目）
+  - 「株式会社 ジェネリー - スピーダ スタートアップ情報リサーチ — 株式会社 ジェネリー - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-26732・3回目）
+  - 「株式会社 ジェネリー - 長期インターン — 株式会社 ジェネリー - 長期インターン Infraインターン https://www.in-fra.jp > long-internships > companies」（https://www.in-fra.jp/long-internships/companies/4942・3回目）
+  - 「株式会社 ジェネリー （122339）の転職・求人情報 — 株式会社 ジェネリー （122339）の転職・求人情報 エン転職 https://employment.en-japan.com > comp-122339」（https://employment.en-japan.com/comp-122339/・3回目）
+  - 「株式 会社 ジェネリー - スピーダ スタートアップ情報リサーチ — 株式 会社 ジェネリー - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-26732・3回目）
+  - 「株式 会社 ジェネリー - アットプレス — 株式 会社 ジェネリー - アットプレス アットプレス https://www.atpress.ne.jp > ... > 株式会社ジェネリー」（https://www.atpress.ne.jp/news/216910・3回目）
+  - 「株式 会社 ジェネリー の 資金調達 の推移 - FIRST CVC — 株式 会社 ジェネリー の 資金調達 の推移 - FIRST CVC FIRST CVC https://www.firstcvc.jp > company > genery.co.jp」（https://www.firstcvc.jp/company/genery.co.jp・3回目）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部20頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部20頁・検索11回）
+
+## ジーンステイト
+- 公式URL：https://genestate.co.jp（given）
+- 事業内容：IT事業 HR事業（https://genestate.co.jp/company/about/・1回目）
+- 事業内容：■労働者派遣事業 ■有料職業紹介事業／無料職業紹介事業 ■人材の採用、教育、研修及び育成並びに職業能力の開発に関する事業 ■コンピュータシステム・ソフトウェアの企画、開発、販売、保守、運用及び管理 ■情報処理・情報提供サービス ■通信機器・情報通信機器（周辺機器含む）の販売、賃貸、保守及び輸出入 ■通信販売並びに電子商取引（ECサイト）の企画、開発、運営及び管理 ■コンサルティング事業（https://tenshoku.mynavi.jp/company/416755/・3回目）
+- 事業内容：・受託開発事業 ・SES事業 ・人材派遣事業 ・プログラミングスクール事業 ・e-sports事業（https://best100.v-tsushin.jp/company/genestate/・3回目）
+- 資本金：2300万円（https://genestate.co.jp/company/about/・1回目）
+- 資本金：2300万円（https://tenshoku.mynavi.jp/company/416755/・3回目）
+- 資本金：23,000,000円（https://best100.v-tsushin.jp/company/genestate/・3回目）
+- 創業年度：設立：2016年9月（https://genestate.co.jp/company/about/・1回目）
+- 創業年度：設立：2016年9月（https://tenshoku.mynavi.jp/company/416755/・3回目）
+- 創業年度：設立 年月日：2016年9月1日（https://seeker-vision.com/companies/732・3回目）
+- 従業員数：150名（2026年9月現在）（https://genestate.co.jp/company/about/・1回目）
+- 従業員数：120名（2025年12月現在）（https://tenshoku.mynavi.jp/company/416755/・3回目）
+- 従業員数：74名 (2024年7月1日時点)（https://seeker-vision.com/companies/732・3回目）
+- 所在地：〒163-0539 東京都新宿区西新宿1-26-2 新宿野村ビル39階 Google Map（https://genestate.co.jp/company/about/・1回目）
+- 所在地：名古屋支店 〒450-0002 愛知県名古屋市中村区名駅1-1-1 JPタワー名古屋21階 大阪支店 〒532-0003 大阪府大阪市淀川区宮原1-1-1 新大阪阪急ビル3階 福岡支店 〒812-0012 福岡県福岡市博多区博多駅中央街8-1 JRJP博多ビル3階（https://genestate.co.jp/company/about/・1回目）
+- 所在地：東京都新宿区西新宿1-26-2 新宿野村ビル39階（https://tenshoku.mynavi.jp/company/416755/・3回目）
+- 代表者：代表取締役 小島 大知（https://genestate.co.jp/company/about/・1回目）
+- 代表者：代表取締役　小島大知（https://tenshoku.mynavi.jp/company/416755/・3回目）
+- 代表者：代表取締役 小島 大知（https://seeker-vision.com/companies/732・3回目）
+- 主要取引先：株式会社ABI SCSKサービスリンクス株式会社 SBモバイルサービス株式会社 株式会社エディオン 株式会社NTTドコモ NTT東日本株式会社 キヤノン電子テクノロジー株式会社 コネクシオ株式会社 株式会社Sun terras シーキューブ株式会社 株式会社SHIFT 株式会社JTB Sky株式会社 ソフトバンク株式会社 株式会社ティーガイア（T-GAIA） 株式会社ドコモCS 株式会社ヒト・コミュニケーションズ VIPソフトウェア株式会社 株式会社ラネット（https://genestate.co.jp/company/about/・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「私たちは、ITエンジニアを企業様に派遣する「IT事業」と、企業様の業務多様な業界に人材を派遣する「HR事業」を展開しています」（https://genestate.co.jp/・1回目）
+  - 「その軸となる3つの強みをご紹介します」（https://genestate.co.jp/・1回目）
+  - 「今回は【ITエンジニアの1日】をご紹介」（https://genestate.co.jp/・1回目）
+  - 「人材派遣事業（許可番号 13-314700）」（https://genestate.co.jp/company/about/・1回目）
+  - 「有料職業紹介事業（許可番号 13 – ユ – 311923）」（https://genestate.co.jp/company/about/・1回目）
+  - 「多様な業界に合わせ、手厚いサポート体制で質の高い人材を迅速にご紹介」（https://genestate.co.jp/service/・1回目）
+  - 「こちらでは私たちの事業の軸となる3つの強みや、これまでの実績を具体的な数字を交えてご紹介します」（https://genestate.co.jp/about/・1回目）
+  - 「その軸となる3つの強みをご紹介します」（https://genestate.co.jp/about/・1回目）
+  - 「HR事業 | 事業内容 | 株式会社ジーンステイト」（https://genestate.co.jp/service/hr/・1回目）
+  - 「企業様の事業内容、現在の状況、課題、求める人材像や業務範囲などを詳しくお伺いします」（https://genestate.co.jp/service/hr/・1回目）
+  - 「契約形態（業務委託・派遣など）は、柔軟に対応いたします」（https://genestate.co.jp/service/hr/・1回目）
+  - 「■コンピュータシステム・ソフトウェアの企画、開発、販売、保守、運用及び管理」（https://tenshoku.mynavi.jp/company/416755/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「IT事業では〈開発・運用保守／インフラ／PMO〉、HR事業は〈顧客対応／営業支援／バックオフィス〉まで対応し、ニーズに沿った最適な人材をアサインし、企業様の事業成長をご支援いたします」（https://genestate.co.jp/service/・1回目）
+  - 「社員、求職者のみなさま、そしてクライアント企業様」（https://genestate.co.jp/company/message/・1回目）
+  - 「全社員に対して定期的に情報セキュリティ教育とコンプライアンス研修を実施しております」（https://genestate.co.jp/service/it/・1回目）
+  - 「全社員への定期的な教育も徹底しておりますので、安心してお任せください」（https://genestate.co.jp/service/hr/・1回目）
+  - 「■人材の採用、教育、研修及び育成並びに職業能力の開発に関する事業」（https://tenshoku.mynavi.jp/company/416755/・3回目）
+  - 「◆社会保険完備（雇用・労災・健康・厚生年金）」（https://tenshoku.mynavi.jp/company/416755/・3回目）
+  - 「人の可能性を未来へつなぐ“次世代IT企業”」（https://best100.v-tsushin.jp/company/genestate/・3回目）
+  - 「大学卒業後、大手食品メーカーに就職」（https://best100.v-tsushin.jp/company/genestate/・3回目）
+  - 「大学卒業後、私は食品メーカーで大手スーパーチェーンの営業を担当しました」（https://best100.v-tsushin.jp/company/genestate/・3回目）
+  - 「創業当初は広告・不動産・卸売など幅広い事業に挑戦しましたが、人材事業に関わったときに確信が生まれました」（https://best100.v-tsushin.jp/company/genestate/・3回目）
+  - 「オシャレ手当（美容室・仕事用衣類等に利用可）やマッサージ手当（月4,500円まで）などユニークな制度があります」（https://seeker-vision.com/companies/732・3回目）
+  - 「競技シーンの支援に加え、ITやゲーム業界へのキャリア教育プログラムを共同で提供」（https://prtimes.jp/main/html/rd/p/000000004.000165881.html・3回目）
+- 選出の記録：
+  - 「「ベストベンチャー100」2026年版への選出について」（https://genestate.co.jp/・1回目）
+  - 「株式会社ジーンステイト 小島 大知 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/genestate/・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 | 会社情報 | 株式会社 ジーンステイト — 会社概要 | 会社情報 | 株式会社 ジーンステイト 株式会社ジーンステイト https://genestate.co.jp > 会社情報」（https://genestate.co.jp/company/about/・3回目）
+  - 「株式会社 ジーンステイト の 会社概要 - マイナビ転職 — 株式会社 ジーンステイト の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/416755/・3回目）
+  - 「株式 会社ジーンステイト 小島 大知 | ベストベンチャー100 — 株式 会社ジーンステイト 小島 大知 | ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > genestate」（https://best100.v-tsushin.jp/company/genestate/・3回目）
+  - 「株式 会社ジーンステイト （125065）の転職・求人情報 — 株式 会社ジーンステイト （125065）の転職・求人情報 エン転職 https://employment.en-japan.com > comp-125065」（https://employment.en-japan.com/comp-125065/・3回目）
+  - 「会社概要 | 会社情報 | genestateHP_test - ジーンステイト — 会社概要 | 会社情報 | genestateHP_test - ジーンステイト test1.fun https://test1.fun > 会社情報」（https://test1.fun/company/about/・3回目）
+  - 「株式会社 ジーンステイト 小島 大知 | ベストベンチャー100 — 株式会社 ジーンステイト 小島 大知 | ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > genestate」（https://best100.v-tsushin.jp/company/genestate/・3回目）
+  - 「ジーンステイト について | 株式会社 ジーンステイト — ジーンステイト について | 株式会社 ジーンステイト 株式会社ジーンステイト https://genestate.co.jp > about」（https://genestate.co.jp/about/・3回目）
+  - 「企業詳細: 株式会社 ジーンステイト | SEEKER VISION — 企業詳細: 株式会社 ジーンステイト | SEEKER VISION SEEKER VISION https://seeker-vision.com > 企業一覧」（https://seeker-vision.com/companies/732・3回目）
+  - 「株式会社 ジーンステイト の会社情報/転職・求人情報 — 株式会社 ジーンステイト の会社情報/転職・求人情報 Geekly https://www.geekly.co.jp > companys > data」（https://www.geekly.co.jp/companys/data/5481/・3回目）
+  - 「株式会社 ジーンステイト の求人・中途採用－転職ならtype — 株式会社 ジーンステイト の求人・中途採用－転職ならtype type転職サイト https://type.jp > 掲載企業一覧」（https://type.jp/job-company/44912/・3回目）
+  - 「トップページ | 株式会社ジーンステイト — Instagram Wantedly 事業内容 会社情報 採用情報 ジーンステイトについて ニュース お問い合わせ ©2025 genestate Inc. 個人情報保護方針 tap」（https://genestate.co.jp/・3回目）
+  - 「IT事業 | 株式会社ジーンステイト — システム開発・DX推進ならジーンステイトのIT事業へ。確かな技術力で、ビジネスを加速させる最適なITソリューションを ...」（https://genestate.co.jp/service/it/・3回目）
+- 売上高：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部16頁・検索11回）
+- 株主：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部16頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部16頁・検索11回）
+- 資本金・株主：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部16頁・検索11回）
+
+## スマートセクション
+- 公式URL：https://www.smart-section.com/（given）
+- 事業内容：・SNS縦長ショート動画マーケティング事業 ・インバウンドマーケティング事業 ・インフルエンサーマーケティング事業 ・クリエイティブ制作事業 ・ASEAN販売代理事業（https://best100.v-tsushin.jp/company/smart-section/・3回目）
+- 資本金：3,000万円（https://best100.v-tsushin.jp/company/smart-section/・3回目）
+- 所在地：東京都渋谷区渋谷2-3-5 コエル渋谷二丁目5階（https://best100.v-tsushin.jp/company/smart-section/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「私たちはクライアント支援だけでなく、独自のマーケティングで培ったノウハウを活かし、自社ブランドの企画・開発・販売までを一貫して手がけています」（https://www.smart-section.com/・1回目）
+  - 「ライバーの育成からライブ配信の運営、ライブコマースまでを一貫して支援しています」（https://www.smart-section.com/・1回目）
+  - 「SNS縦長ショート動画マーケティング事業、インバウンドマーケティング事業、広告代理事業、クリエイティブ制作事業、販売代理事業」（https://www.smart-section.com/about・1回目）
+  - 「台湾におけるSNS縦長ショート動画マーケティング、広告代理事業、販売代理事業、モール支援事業」（https://www.smart-section.com/about・1回目）
+  - 「シンガポールおけるSNS縦長ショート動画マーケティング、広告代理事業、販売代理事業、モール支援事業」（https://www.smart-section.com/about・1回目）
+  - 「マレーシアにおけるSNS縦長ショート動画マーケティング、広告代理事業、販売代理事業、モール支援事業」（https://www.smart-section.com/about・1回目）
+  - 「香港におけるSNS縦長ショート動画マーケティング、広告代理事業、販売代理事業、モール支援事業」（https://www.smart-section.com/about・1回目）
+  - 「ベトナムにおけるSNS縦長ショート動画マーケティング、広告代理事業、販売代理事業、モール支援事業」（https://www.smart-section.com/about・1回目）
+  - 「韓国におけるSNS縦長ショート動画マーケティング、広告代理事業、販売代理事業、モール支援事業」（https://www.smart-section.com/about・1回目）
+  - 「2023年からはPR・リテール部門責任者として、ECモールやドラッグストアを活用したマルチチャネル戦略を推進し、多数のブランドの売上拡大に貢献」（https://www.smart-section.com/about・1回目）
+  - 「智科駭浪股份有限公司（Smart Section TW）| 広告代理店事業・販売代理事業」（https://www.smart-section.com/about・1回目）
+  - 「Smart Section SG Pte. Ltd. | 広告代理店事業・販売代理事業」（https://www.smart-section.com/about・1回目）
+- 客は誰か：
+  - 「「ベストベンチャー100」は、イシン(株)が提供する法人向け有料会員制サービスです」（https://www.smart-section.com/ss/company・1回目）
+  - 「Smart Hackは、中小企業向けに短期で成果を出すために開発された、」（https://www.smart-section.com/ss/service/tiktok・1回目）
+  - 「大手～中小企業に至るまで幅広い運用実績を持ったデジタル運用者がサポートさせていただきます」（https://www.smart-section.com/ss/service/ad・1回目）
+  - 「株式会社 スマートセクション｜BtoBプラットフォーム 業界チャネル」（https://b2b-ch.infomart.co.jp/company/detail.page?IMCOMPANY=24960325・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「私たちはクライアント支援だけでなく、独自のマーケティングで培ったノウハウを活かし、自社ブランドの企画・開発・販売までを一貫して手がけています」（https://www.smart-section.com/・1回目）
+  - 「ライブ配信ならではの熱量と双方向のコミュニケーションを活かし、視聴者をファンへ、ファンをブランドの支持者にする、共感を軸とした新しい顧客接点を創出しています」（https://www.smart-section.com/・1回目）
+  - 「顧客の成長にコミットし続けることが、我々の成長」（https://www.smart-section.com/about・1回目）
+  - 「小売・ECの分野で13年以上のキャリアを持ち、香港・シンガポールを含む多国籍企業にて地域統括職を歴任」（https://www.smart-section.com/about・1回目）
+  - 「私たちはクライアント支援だけでなく、自社ブランドの企画・開発・販売までを一貫して手がけています」（https://www.smart-section.com/service・1回目）
+  - 「人とブランドをつなぎながら、新たな市場や顧客との接点を広げ、その可能性を国境の先へと届けています」（https://www.smart-section.com/service・1回目）
+  - 「我々は、顧客ニーズをフルファネルで支援するEC戦略コンサルティング会社です」（https://www.smart-section.com/ss・1回目）
+  - 「弊社独自の柔軟なアプローチで顧客に対して、前例のない価値を創造いたします」（https://www.smart-section.com/ss・1回目）
+  - 「数多の競合を抑え、Amazon美容液ランキング1位に！」（https://www.smart-section.com/ss・1回目）
+  - 「我々は、顧客ニーズをフルファネルで支援するEC戦略コンサルティング会社です」（https://www.smart-section.com/ss/about・1回目）
+  - 「弊社独自の柔軟なアプローチで顧客に対して、前例のない価値を創造いたします」（https://www.smart-section.com/ss/about・1回目）
+  - 「株式会社スマートセクション100%子会社のビューティーメーカーで美容関連商品の製造及び販売を行います」（https://www.smart-section.com/ss/about・1回目）
+- 資本金・株主：
+  - 「90名（子会社、アルバイト、インターン、業務委託含む）」（https://www.smart-section.com/about・1回目）
+  - 「株式会社スマートセクション100%子会社のビューティーメーカーで美容関連商品の製造及び販売を行います」（https://www.smart-section.com/ss/about・1回目）
+  - 「80名(子会社、アルバイト、インターン、業務委託含む)」（https://www.smart-section.com/ss/company・1回目）
+  - 「5年以内に上場予定」（https://best100.v-tsushin.jp/company/smart-section/・3回目）
+  - 「第三者割当により発行される第1回無担保転換社債型新株予約権付社債の募集に関するお知らせ」（https://note.com/microad_ir/n/ne838783e00c6・3回目）
+  - 「上記資金調達の目的およびAIファクトリー構想の詳細については、」（https://note.com/microad_ir/n/ne838783e00c6・3回目）
+- 選出の記録：
+  - 「- 「ベストベンチャー100 2026」に2年連続で選出」（https://www.smart-section.com/about・1回目）
+  - 「- 「ベストベンチャー100 2025」に初選出」（https://www.smart-section.com/about・1回目）
+  - 「ベストベンチャー100 2026選出」（https://www.smart-section.com/ss/company・1回目）
+  - 「「ベストベンチャー100」は、イシン(株)が提供する法人向け有料会員制サービスです」（https://www.smart-section.com/ss/company・1回目）
+  - 「エントリーした企業の中から、厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://www.smart-section.com/ss/company・1回目）
+  - 「ベストベンチャー100 2026に2年連続で選出」（https://www.smart-section.com/ss/company・1回目）
+  - 「ベストベンチャー100 2025に初選出」（https://www.smart-section.com/ss/company・1回目）
+  - 「株式会社スマートセクション 梅本 祥平 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/smart-section/・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 - スマートセクション — 会社概要 - スマートセクション Smart Section Group https://www.smart-section.com > company」（https://www.smart-section.com/ss/company・3回目）
+  - 「株式会社 スマートセクション （東京都）の 会社概要 ・役員 — 株式会社 スマートセクション （東京都）の 会社概要 ・役員 Compalyze https://compalyze.co.jp > 企業検索 > デジタル広告・運用」（https://compalyze.co.jp/company/6011001152955・3回目）
+  - 「株式 会社スマートセクション 梅本 祥平 - ベストベンチャー100 — 株式 会社スマートセクション 梅本 祥平 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > smart-section」（https://best100.v-tsushin.jp/company/smart-section/・3回目）
+  - 「本質だけを追う。 スマートセクション が描く未来戦略 - Wantedly — 本質だけを追う。 スマートセクション が描く未来戦略 - Wantedly Wantedly https://www.wantedly.com > ... > ストーリー」（https://www.wantedly.com/companies/company_8327141/post_articles/972295・3回目）
+  - 「株式 会社スマートセクション が新世代クリエイター集団の事務 ... — 株式 会社スマートセクション が新世代クリエイター集団の事務 ... PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000000002.000139424.html・3回目）
+  - 「About 丨 スマートセクション グループ丨 Smart Section Group — About 丨 スマートセクション グループ丨 Smart Section Group Smart Section Group https://www.smart-section.com > about」（https://www.smart-section.com/about・3回目）
+  - 「スマートセクション の企業情報 - バフェット・コード — スマートセクション の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/colx8swxwe/・3回目）
+  - 「株式会社 スマートセクション の概要・採用情報 - YOUTRUST — 株式会社 スマートセクション の概要・採用情報 - YOUTRUST YOUTRUST https://youtrust.jp > companies」（https://youtrust.jp/companies/800e6a6f30700472468c0eb822b7e178・3回目）
+  - 「本質だけを追う。 スマートセクション が描く未来戦略 — 本質だけを追う。 スマートセクション が描く未来戦略 Smart Section Group https://www.smart-section.com > News > タイトル」（https://www.smart-section.com/topics/1・3回目）
+  - 「スマートセクショングループ | Smart Section Group — スマートセクショングループは国内外でグループ合計8社を展開するD2C領域特化のマーケティング＆グロースカンパニーです。日本発で世界に挑み続ける広告代理店事業、メーカー事業、ライブ配信事務所事業、海外販売代理店事業を展開する実行集団です。」（https://www.smart-section.com/・3回目）
+  - 「About 丨スマートセクショングループ丨Smart Section Group — 2023年に27歳で株式会社スマートセクションを設立。 SNS×D2C×LIVEコマース領域を軸に、日本・台湾・香港・マレーシア・シンガポールへ事業展開。ショート動画マーケティングと化粧品事業を強みに、創業3年でグループ7法人・海外5拠点・60名規模まで成長。独自の“バズマーケティング”を強み ...」（https://www.smart-section.com/about・3回目）
+  - 「株式会社 スマートセクション｜BtoBプラットフォーム 業界チャネル — 株式会社 スマートセクションの企業情報。取引先／取引先見込／競合リストに登録することができます。」（https://b2b-ch.infomart.co.jp/company/detail.page?IMCOMPANY=24960325・3回目）
+- 創業年度：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部16頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部16頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部16頁・検索11回）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部16頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部16頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部16頁・検索11回）
+
+## ディグロス
+- 公式URL：https://dgloss.co.jp/（given）
+- 事業内容：リスト販売：初期費用100,000円＋月額費用40,000円～ ※6ヶ月以上の契約で初期費用無料（https://dgloss.co.jp/column/57/・1回目）
+- 事業内容：リスト作成・市場分析：月額150,000円～（https://dgloss.co.jp/column/57/・1回目）
+- 事業内容：既存リスト販売：12,000～220,000円（https://dgloss.co.jp/column/57/・1回目）
+- 資本金：1000万円（https://mid-tenshoku.com/agency/a-3506/・3回目）
+- 資本金：1,000万円（2023年6月現在）（https://tenshoku.mynavi.jp/company/407653/・3回目）
+- 資本金：1000万円（https://prtimes.jp/main/html/rd/p/000000006.000137600.html・3回目）
+- 創業年度：設立：2009年（https://mid-tenshoku.com/agency/a-3506/・3回目）
+- 創業年度：設立：2009年6月（https://tenshoku.mynavi.jp/company/407653/・3回目）
+- 創業年度：設立：2009年06月（https://prtimes.jp/main/html/rd/p/000000006.000137600.html・3回目）
+- 従業員数：150名（https://mid-tenshoku.com/agency/a-3506/・3回目）
+- 従業員数：244名（https://growth-100-oku.smrj.go.jp/companies/pdf/01853-00.pdf・3回目）
+- 従業員数：121人（https://baseconnect.in/companies/35271ed2-6b5a-4e4a-b817-0b5956b43513・3回目）
+- 売上高：17.6億円（https://growth-100-oku.smrj.go.jp/companies/pdf/01853-00.pdf・3回目）
+- 売上高：687 百万円 494 百万円（https://finance.biggo.jp/news/jpx_tdnet_140120260928541296・3回目）
+- 所在地：東京都港区（https://dgloss.co.jp/company/・1回目）
+- 所在地：東京都港区（https://dgloss.co.jp/service-crm/・1回目）
+- 所在地：東京都港区（https://dgloss.co.jp/tele-appointment/・1回目）
+- 代表者：大村　剛（https://mid-tenshoku.com/agency/a-3506/・3回目）
+- 代表者：代表取締役 大村 剛（https://tenshoku.mynavi.jp/company/407653/・3回目）
+- 代表者：大村剛（https://prtimes.jp/main/html/rd/p/000000006.000137600.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「ディグロス、CRM事業をイメージ情報開発へ譲渡経営資源を主力の営業支援事業に集中し、さらなる成長へ」（https://dgloss.co.jp/・1回目）
+  - 「派遣会社と求人企業をつなぐマッチングサービス、営業支援開始しました」（https://dgloss.co.jp/・1回目）
+  - 「顧客企業の求める成果報酬型の営業支援代行の仕組みを独自に確立し、現在では成果報酬型営業代行業として業界1 位（年間プロジェクト数、年間アポイント獲得数：東京商工リサーチ調べ、2023 年）を達成するなど、ディグロスの毎年2 割、3 割の売上増を牽引している」（https://dgloss.co.jp/company/・1回目）
+  - 「有料職業紹介事業 （13-ユ-313233）」（https://dgloss.co.jp/company/・1回目）
+  - 「労働者派遣事業 （13-316567）」（https://dgloss.co.jp/company/・1回目）
+  - 「ですまた、固定報酬型に比べて初期費用、月額費用が安いといったメリットも」（https://dgloss.co.jp/tele-appointment/・1回目）
+  - 「アポイントメント獲得ごとに課金していきますので、初期費用や月額利用料金などの固定費は一切掛かりません」（https://dgloss.co.jp/tele-appointment/・1回目）
+  - 「EC運営、店舗運営事業者様への新規開拓営業アポイントメント獲得業務」（https://dgloss.co.jp/tele-appointment/・1回目）
+  - 「テレアポリストは購入できる？おすすめサービスを紹介」（https://dgloss.co.jp/tele-appointment/・1回目）
+  - 「在宅テレアポは稼げるのか？特徴や案件の取り方を紹介！」（https://dgloss.co.jp/tele-appointment/・1回目）
+  - 「2,000万円の売上を達成」（https://dgloss.co.jp/dealpro/・1回目）
+  - 「導入済みシステムの手数料比較検討を通じ、契約率の大幅な向上をサポートしました」（https://dgloss.co.jp/dealpro/・1回目）
+- 客は誰か：
+  - 「リーマンショックによる金融危機で多くの企業が経営破綻していく中、企業の営業成果に貢献すべく、BtoB に特化した営業代行業として株式会社ディグロスを立ち上げた」（https://dgloss.co.jp/company/・1回目）
+  - 「全国の中小企業様を中心に営業アポイントメント獲得業務」（https://dgloss.co.jp/tele-appointment/・1回目）
+  - 「テレアポは時代遅れ？今でも使えるテレアポの手法【BtoB営業向け】」（https://dgloss.co.jp/tele-appointment/・1回目）
+  - 「業界別！テレアポ代行全10社を徹底比較！ITやWeb制作、BtoB、BtoCなどに関する記事はこちら」（https://dgloss.co.jp/column/57/・1回目）
+  - 「に対して実施する中小企業向けのポジティブ・インパクト・ファイナンス（PIF）について、」（https://jcr.co.jp/download/929e1bedb2bb3e2eb49b2a88b41d2b9d14c3914114446b98b0/23d1629.pdf・3回目）
+  - 「商工中金は、中小企業向けの PIFの実施体制整備に際し、」（https://jcr.co.jp/download/929e1bedb2bb3e2eb49b2a88b41d2b9d14c3914114446b98b0/23d1629.pdf・3回目）
+  - 「ながら、中小企業の包括分析・評価においては省略すべき事項を特定し、商工中金及び商工」（https://jcr.co.jp/download/929e1bedb2bb3e2eb49b2a88b41d2b9d14c3914114446b98b0/23d1629.pdf・3回目）
+  - 「小企業の定義を、中小企業基本法の定義する中小企業等(会社法の定義する大会社以外の企」（https://jcr.co.jp/download/929e1bedb2bb3e2eb49b2a88b41d2b9d14c3914114446b98b0/23d1629.pdf・3回目）
+  - 「JCR は、中小企業のインパクト評価に際しては、以下の特性を考慮したうえで PIF 原則」（https://jcr.co.jp/download/929e1bedb2bb3e2eb49b2a88b41d2b9d14c3914114446b98b0/23d1629.pdf・3回目）
+  - 「た中小企業向けファイナンスそのものが社会的便益を有すると定義されている」（https://jcr.co.jp/download/929e1bedb2bb3e2eb49b2a88b41d2b9d14c3914114446b98b0/23d1629.pdf・3回目）
+  - 「52.9％にとどまることからもわかるとおり、個別の中小企業のインパクトの発現の仕」（https://jcr.co.jp/download/929e1bedb2bb3e2eb49b2a88b41d2b9d14c3914114446b98b0/23d1629.pdf・3回目）
+  - 「中小企業の定義は、中小企業基本法上の定義」（https://jcr.co.jp/download/929e1bedb2bb3e2eb49b2a88b41d2b9d14c3914114446b98b0/23d1629.pdf・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「顧客対応をAIで自動化できる？おすすめのツールやメリット・選び方を解説」（https://dgloss.co.jp/・1回目）
+  - 「リーマンショックによる金融危機で多くの企業が経営破綻していく中、企業の営業成果に貢献すべく、BtoB に特化した営業代行業として株式会社ディグロスを立ち上げた」（https://dgloss.co.jp/company/・1回目）
+  - 「顧客企業の求める成果報酬型の営業支援代行の仕組みを独自に確立し、現在では成果報酬型営業代行業として業界1 位（年間プロジェクト数、年間アポイント獲得数：東京商工リサーチ調べ、2023 年）を達成するなど、ディグロスの毎年2 割、3 割の売上増を牽引している」（https://dgloss.co.jp/company/・1回目）
+  - 「2020 年に大手通信キャリアなどの既存顧客に対するCRM 事業を新たに構築」（https://dgloss.co.jp/company/・1回目）
+  - 「創業から15年3ヶ月で取引実績2,000社突破」（https://dgloss.co.jp/company/・1回目）
+  - 「きらぼし銀行 渋谷支店/三井住友銀行 東京中央支店/りそな銀行 新都心営業部（50音順・敬称略）」（https://dgloss.co.jp/company/・1回目）
+  - 「ビジネスチャンスの拡大と新規顧客獲得を提供いたします」（https://dgloss.co.jp/service-crm/・1回目）
+  - 「CRMマーケティングとは、企業と顧客の間に良好な関係を構築し、顧客に応じたサービスやセールスプロモーションを行うことをいいます」（https://dgloss.co.jp/service-crm/・1回目）
+  - 「弊社では、専用のCRMシステムを用いて、顧客の様々なニーズを分析、蓄積されたデータを元に、最適なアプローチ方法・トークを導き出しています」（https://dgloss.co.jp/service-crm/・1回目）
+  - 「Pmarkの水準以上のクライアント様のセキュリティポリシーに準じたセンター構築を実現しております」（https://dgloss.co.jp/service-crm/・1回目）
+  - 「週次、月次等でクライアント様との定例会を実施」（https://dgloss.co.jp/service-crm/・1回目）
+  - 「既存顧客の掘り起こしプロジェクトとしてアップセル提案のアポイントメント獲得業務」（https://dgloss.co.jp/tele-appointment/・1回目）
+- 資本金・株主：
+  - 「また、光通信をはじめとする複数の上場企業にて、事業成長、新規事業の立ち上げ、グループ会社のターンアラウンドやM&A の責任者を務め、戦略立案からハンズオンでの事業推進まで一貫して実施し、構造的な事業成長を牽引」（https://dgloss.co.jp/company/・1回目）
+  - 「資本金1,000万円に増資」（https://dgloss.co.jp/company/・1回目）
+  - 「資本金1億円に増資」（https://dgloss.co.jp/company/・1回目）
+  - 「100%子会社」（https://dgloss.co.jp/company/・1回目）
+  - 「100%子会社」（https://dgloss.co.jp/service-crm/・1回目）
+  - 「スタートアップから上場企業まで 年間3,400プロジェクト以上の実績による ノウハウを持って、 お客様一社一社に合わせたご提案が 結果に結びついています」（https://dgloss.co.jp/tele-appointment/・1回目）
+  - 「100%子会社」（https://dgloss.co.jp/tele-appointment/・1回目）
+  - 「100%子会社」（https://dgloss.co.jp/dealpro/・1回目）
+  - 「なお、当社は、相手先、その役員及び主要株主が反社会的勢力とは一切関係がないことを確認しております」（https://finance.biggo.jp/news/jpx_tdnet_140120260928541296・3回目）
+  - 「ディグロス、商工中金からポジティブ・インパクト・ファイナンスによる1億円の資金調達 | 株式会社ディグロスのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000006.000137600.html・3回目）
+  - 「株式会社ディグロス（本社：東京都港区、代表：大村剛、以下「当社」）は、事業展開の加速とサービス向上のため、株式会社商工組合中央金庫（本社：東京都中央区、代表：関根正裕、以下「商工中金」）よりポジティブ・インパクト・ファイナンスによる1億円の資金調達を行いました」（https://prtimes.jp/main/html/rd/p/000000006.000137600.html・3回目）
+  - 「1. 資金調達の目的」（https://prtimes.jp/main/html/rd/p/000000006.000137600.html・3回目）
+- 選出の記録：
+  - 「ディグロス、2026年「ベストベンチャー100」に選出されました」（https://dgloss.co.jp/・1回目）
+  - 「ディグロス、企業成長率の高い企業として「成長企業セレクション2025」に選出されました」（https://dgloss.co.jp/・1回目）
+  - 「ディグロスが「ベストベンチャー100」2026年度企業に選出」（https://baseconnect.in/companies/35271ed2-6b5a-4e4a-b817-0b5956b43513・3回目）
+  - 「株式会社ディグロス、2026年度「ベストベンチャー100」に選出」（https://baseconnect.in/companies/35271ed2-6b5a-4e4a-b817-0b5956b43513・3回目）
+- 検索結果の抜粋：
+  - 「会社 情報 | 株式 会社ディグロス — 会社 情報 | 株式 会社ディグロス 株式会社ディグロス https://dgloss.co.jp > アポプロ」（https://dgloss.co.jp/company/・3回目）
+  - 「株式 会社ディグロス - ミドルの転職 — 株式 会社ディグロス - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧」（https://mid-tenshoku.com/agency/a-3506/・3回目）
+  - 「株式会社 ディグロス の 会社概要 - マイナビ転職 — 株式会社 ディグロス の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/407653/・3回目）
+  - 「株式 会社ディグロス 大村 剛 - ベストベンチャー100 — 株式 会社ディグロス 大村 剛 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > dgloss」（https://best100.v-tsushin.jp/company/dgloss/・3回目）
+  - 「株式 会社ディグロス （営業支援業） - 100億宣言 — 株式 会社ディグロス （営業支援業） - 100億宣言 １００億企業成長ポータル PDF https://growth-100-oku.smrj.go.jp > companies > pdf」（https://growth-100-oku.smrj.go.jp/companies/pdf/01853-00.pdf・3回目）
+  - 「株式会社 ディグロス （営業支援業） - 100億宣言 — 株式会社 ディグロス （営業支援業） - 100億宣言 １００億企業成長ポータル PDF https://growth-100-oku.smrj.go.jp > companies > pdf」（https://growth-100-oku.smrj.go.jp/companies/pdf/01853-00.pdf・3回目）
+  - 「会社情報 | 株式会社 ディグロス — 会社情報 | 株式会社 ディグロス 株式会社ディグロス https://dgloss.co.jp > アポプロ」（https://dgloss.co.jp/company/・3回目）
+  - 「[G－イメージ情 3803.T] 株式会社 ディグロス CRM 事業 の 事業 ... — [G－イメージ情 3803.T] 株式会社 ディグロス CRM 事業 の 事業 ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260928541296」（https://finance.biggo.jp/news/jpx_tdnet_140120260928541296・3回目）
+  - 「株式会社 ディグロス の評判・料金・特徴 — 株式会社 ディグロス の評判・料金・特徴 eigyoudaikou-insidesales.com https://www.eigyoudaikou-insidesales.com > dgloss」（https://www.eigyoudaikou-insidesales.com/dgloss・3回目）
+  - 「ディグロス 、商工中金からポジティブ・インパクト ... — ディグロス 、商工中金からポジティブ・インパクト ... PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000006.000137600.html・3回目）
+  - 「ポジティブ・インパクト・ファイナンス - ディグロス — ポジティブ・インパクト・ファイナンス - ディグロス 株式会社ディグロス https://dgloss.co.jp > アポプロ > プレスリリース」（https://dgloss.co.jp/press/%E3%83%87%E3%82%A3%E3%82%B0%E3%83%AD%E3%82%B9%E3%80%81%E5%95%86%E5%B7%A5%E4%B8%AD%E9%87%91%E3%81%8B%E3%82%89%E3%83%9D%E3%82%B8%E3%83%86%E3%82%A3%E3%83%96%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF/・3回目）
+  - 「商工組合中央金庫が ディグロス に対して実施するポジティブ ... — 商工組合中央金庫が ディグロス に対して実施するポジティブ ... 日本格付研究所 - JCR PDF https://jcr.co.jp > download」（https://jcr.co.jp/download/929e1bedb2bb3e2eb49b2a88b41d2b9d14c3914114446b98b0/23d1629.pdf・3回目）
+- 株主：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部27頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部27頁・検索11回）
+
+## デザイン
+- 公式URL：http://www.design-inc.jp/（given）
+- 売上の柱（何で稼ぐか）：
+  - 「そのあたりは事業体や今後の売上予定と相談で」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「いずれも今後法人設立後にサービスを利用する契約をすることで、手数料などが割引になりますのでそちらも視野にいれて検討をすると良いでしょう」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「事業内容：それっぽいものを適当に入れました」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「とはいえ手数料が高いですし審査も厳しい上に開設まで時間がかかります」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「とはいえなにかのときに使えるかもしれないので、月額料金が無料ですむ三井住友銀行を今は検討しています」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「上記（最新版かをご確認ください）からおすまいの都道府県を選択し、それぞれのPDFから設定した報酬月額の行を見つけ下記項目を参照し数字を控えます」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「その上で国税庁の税額表（最新版かをご確認ください）から月額表を選択して同様に「その月の社会保 険料等控除後の 給与等の金額」の列で算出した控除後の給与額が当てはまる行を見つけ、「甲」> 「扶養親族等の数」から源泉徴収税額を見つけます」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「また、法人であれば一定程度の売上があるのだろうということで、急に廃業してしまうことはないだろうという考えになり、取引先も安心してくれるかもしてません」（https://www.100years-partners.jp/14486821176147・3回目）
+  - 「売上向上の一つのきっかけとなることがあるのですね」（https://www.100years-partners.jp/14486821176147・3回目）
+  - 「ところが、もしも、自らもそのデザインしたものを販売することがあったり、製造に携わることがあるのであれば、デザインという文言に加えて、販売や製造の文言も入れることを忘れないようにしていただければと思います」（https://www.100years-partners.jp/14486821176147・3回目）
+  - 「（運営:Century Partners）」（https://www.100years-partners.jp/14486821176147・3回目）
+  - 「念願の売上高5,000万円超え！」（https://wacca-design.com/2021/12/29/%E3%83%AF%E3%83%83%E3%82%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE2021%E5%B9%B4/・3回目）
+- 客は誰か：
+  - 「これまでずっと止めていたビジネスマッチングを復活してもいいような気もしますし（ただ、狙いはBtoBにした方が良いかもですが）、久しぶりに積極的に営業かけてみようかなと思っています」（https://wacca-design.com/2021/12/29/%E3%83%AF%E3%83%83%E3%82%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE2021%E5%B9%B4/・3回目）
+  - 「業種を問わず、どんな会社でもロゴや会社案内、パンフレットやチラシ、パッケージやウェブサイトなど「デザインされたもの」が身の回りにあります」（https://s-modern.com/column/1037/・3回目）
+  - 「BtoB購買担当者が導入事例を見るとき、無意識に行っているのは」（https://architecture.co.jp/service/contents/case-study-design-reference/・3回目）
+  - 「BtoBの最終決裁は、現場担当者ではなく上位の役員・経営層が下します」（https://architecture.co.jp/service/contents/case-study-design-reference/・3回目）
+  - 「：商談相手に応じて、製造業向け・IT業界向け・金融業界向けなど即座に出し分けられる構成にする」（https://architecture.co.jp/service/contents/case-study-design-reference/・3回目）
+  - 「導入事例は、BtoB企業にとって最も信頼される」（https://architecture.co.jp/service/contents/case-study-design-reference/・3回目）
+  - 「のハイブリッド型がBtoBでは最も実務的です」（https://architecture.co.jp/service/contents/case-study-design-reference/・3回目）
+  - 「特にBtoBビジネスにとって重要度が高い導入事例ですが、制作が難しく「どのように作ればよいかわからない」「成果につながらない」とお困りの企業は多いかもしれません」（https://www.conmark.jp/column/introduction-example-reference・3回目）
+  - 「は、法人向けの健康管理システムを提供している企業です」（https://www.conmark.jp/column/introduction-example-reference・3回目）
+  - 「BtoCサービスの導入事例なので、親しみを感じられるようなフランクな語り口のコンテンツに仕上がっています」（https://www.conmark.jp/column/introduction-example-reference・3回目）
+  - 「BtoB企業に重要な導入事例とは？作り方や成果を出すポイントを紹介」（https://www.conmark.jp/column/introduction-example-reference・3回目）
+  - 「特にBtoBビジネスの場合、結論ファーストな構成にすることは非常に重要です」（https://www.conmark.jp/column/introduction-example-reference・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「新規のクライアント契約や法人口座の開設、法人でのオフィス契約などのときに一つの判断材料となることがあるようです」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「（自治体により発行できるかは異なるようです）」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「一般的に法人印は実印／銀行印／認印の3本がセットです」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「役員報酬を決めたら年金事務所で保険と厚生年金の手続きに行きます」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「僕はクライアントからの振り込みが設立翌月末だったので、登記の翌月を初回の給与支払日としました」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「僕のように二社に所属し扶養家族がいる場合、どちらの社会保険で扶養をするか選択をすることになります」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「（この章に追記しましたが、GMOあおぞらネット銀行は現時点ではおすすめしません）」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「（2024/4/1に追記をしましたが、Pay-easyと口座自動振替に対応したのでGMOあおぞらネット銀行で今は統一しています）」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「現状のクライアントさんの場合銀行口座は請求書をお送りする時点で初めてわかるものなので、ネットバンクでも特に懸念はありません」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「とはいえなにかのときに使えるかもしれないので、月額料金が無料ですむ三井住友銀行を今は検討しています」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「取引先リスト：個人事業のときのクライアントを引き継ぐので、個人事業時代の契約書なども含めて用意」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「GMOあおぞらネット銀行が国税／社会保険料の口座自動振替に対応しました🎉」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+- 資本金・株主：
+  - 「なので極端な話資本金は1円でも問題ありません」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「今後上場や売却を視野に入れる場合は株式譲渡を柔軟に行うために発行株式を多くすることもあるようですが、僕はそのような予定が無かったので1株1,000円にしました」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「出資金入金証明：振り込みの記録ではなく着金の記録が必要なので注意」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「入金証明のコピー：資本金を入金した証明が必要なのですが、これは振り込む側ではなく振り込まれた口座側の証明です（考えてみれば当然」（https://note.com/saladdays/n/nfdf4029aa98a・3回目）
+  - 「いわゆる経営者も株主も同一の方が担っているオーナー会社ということですね」（https://www.100years-partners.jp/14486821176147・3回目）
+  - 「株式会社の場合は任期を設けて、人気が満了すると、株主が再び役員（株式会社では取締役言います）を株主総会で選出します」（https://www.100years-partners.jp/14486821176147・3回目）
+  - 「一人会社では、自分で自分を選ぶわけですから誰か他の株主に自分を社長として選んでもらう必要がないので、任期が短くても長くても何も変わらないので、税金のみに焦点を当てて１０年とすればよいのです」（https://www.100years-partners.jp/14486821176147・3回目）
+  - 「取引先が自社について調べたときに、極端に低い資本金額（」（https://www.100years-partners.jp/14486821176147・3回目）
+  - 「）ですとマイナスの印象となりますので、ある程度の資本金だけ入れれば良いでしょう（できれば１００万円、少なくとも５０万円以上がおすすめです）」（https://www.100years-partners.jp/14486821176147・3回目）
+  - 「この場合は、資本金額が大きいほど、融資の審査で有利になりますし、」（https://www.100years-partners.jp/14486821176147・3回目）
+  - 「です（ただし、1,000万円超など、極端に資本金額が大きいと、」（https://www.100years-partners.jp/14486821176147・3回目）
+  - 「AIR Designのガラパゴス、シリーズBで約11億円の資金調達 | 株式会社ガラパゴス」（https://glpgs.com/news/notification/air-design%E3%81%AE%E3%82%AC%E3%83%A9%E3%83%91%E3%82%B4%E3%82%B9%E3%80%81%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BAb%E3%81%A7%E7%B4%8411%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94/・3回目）
+- 選出の記録：
+  - 「株式会社の場合は任期を設けて、人気が満了すると、株主が再び役員（株式会社では取締役言います）を株主総会で選出します」（https://www.100years-partners.jp/14486821176147・3回目）
+  - 「この選出には税金が実はかかるため、任期は１０年と設定して節約しましょう」（https://www.100years-partners.jp/14486821176147・3回目）
+- 検索結果の抜粋：
+  - 「株式 会社デザイン - 東京 - デザイングループ — 株式 会社デザイン - 東京 - デザイングループ デザイングループ https://www.design-inc.jp > company > design-group」（https://www.design-inc.jp/contents/company/design-group/・3回目）
+  - 「デザイン会社 を 設立 するには？資格の要否や個人事業主 ... - 弥生 — デザイン会社 を 設立 するには？資格の要否や個人事業主 ... - 弥生 弥生株式会社 https://www.yayoi-kk.co.jp > ... > 会社設立の基礎知識」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kaishasetsuritsu-design/・3回目）
+  - 「事業の成功を デザイン する 会社設立 — 事業の成功を デザイン する 会社設立 yoyo-tax.com https://yoyo-tax.com > company-formation」（https://yoyo-tax.com/company-formation/・3回目）
+  - 「ワッカ デザイン の2021年 | 池袋の デザイン ・Web制作会社 — ワッカ デザイン の2021年 | 池袋の デザイン ・Web制作会社 ワッカデザイン https://wacca-design.com > デザイナー社長手記」（https://wacca-design.com/2021/12/29/%E3%83%AF%E3%83%83%E3%82%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE2021%E5%B9%B4/・3回目）
+  - 「急に案件が減った？ デザイン 制作会社の 売上 が下がった理由とは — 急に案件が減った？ デザイン 制作会社の 売上 が下がった理由とは 株式会社レイゼクス https://reizx.com > archives」（https://reizx.com/archives/18019/・3回目）
+  - 「デザイン と 売上 の関連性｜見た目の良さだけでは成果は生まれ ... — デザイン と 売上 の関連性｜見た目の良さだけでは成果は生まれ ... スズキモダン https://s-modern.com > デザインと売上の関連性」（https://s-modern.com/column/1037/・3回目）
+  - 「デザイン 白書2024｜6. 資料 — デザイン 白書2024｜6. 資料 公益財団法人日本デザイン振興会 PDF https://archive.jidp.or.jp > wpd2024 > wpd2024_6_a3」（https://archive.jidp.or.jp/wpd2024/wpd2024_6_a3.pdf・3回目）
+  - 「デザイン 事務所って年間の1人当たりの目標 売り上げ って — デザイン 事務所って年間の1人当たりの目標 売り上げ って Threads https://www.threads.com > @sanowataru」（https://www.threads.com/@sanowataru/post/DDeOr64ztrk?hl=ja・3回目）
+  - 「株式会社お金の デザイン - スピーダ スタートアップ情報リサーチ — 株式会社お金の デザイン - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-15892・3回目）
+  - 「導入事例のデザイン参考10選＆Web・紙・パワポで成果を出すレイアウト... — そんな方のために、25年・年間150本以上の制作現場から、 参考になる導入事例のデザイン10選と、Web・紙・パワポ3媒体それぞれのレイアウト原則 を解説します。」（https://architecture.co.jp/service/contents/case-study-design-reference/・3回目）
+  - 「導入事例が参考になる企業サイト10選！デザイン・コンテンツのポイン... — Aug 21, 2024 · 特にBtoBビジネスにとって重要度が高い導入事例ですが、制作が難しく「どのように作ればよいかわからない」「成果につながらない」とお困りの企業は多いかもしれません。 この記事では、導入事例が参考になる企業を10社紹介します。」（https://www.conmark.jp/column/introduction-example-reference・3回目）
+  - 「「導入事例」のデザイン一覧 - Parts. — SaaS/コーポレートサイトなどの「導入事例」部分のWebデザインを集めた一覧です。」（https://partsdesign.net/casestudy・3回目）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索11回）
+- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索11回）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索11回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索11回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索11回）
+
+## ネクサス・プラウド・インベストメント
+- 公式URL：https://nexas-proud-investment.com/（given）
+- 事業内容：・働く30代の資産形成に役立つ情報発信メディア「マニマニくん」の運営 ・自社ブランドREGOLITHシリーズの開発 ・不動産コンサルティング（https://best100.v-tsushin.jp/company/nexas-proud-investment/・3回目）
+- 事業内容：・不動産売買、賃貸仲介、賃貸管理業務 ・不動産投資コンサルティング事業 ・リノベーション事業 ・キャリア形成支援事業（https://tenshoku.mynavi.jp/jobinfo-423151-2-7-1/・3回目）
+- 資本金：1億円（https://best100.v-tsushin.jp/company/nexas-proud-investment/・3回目）
+- 資本金：1億円（https://tenshoku.mynavi.jp/jobinfo-423151-2-7-1/・3回目）
+- 創業年度：設立：2017年10月（https://tenshoku.mynavi.jp/jobinfo-423151-2-7-1/・3回目）
+- 所在地：東京都渋谷区広尾1-1-39 恵比寿プライムスクエアタワー20F（https://best100.v-tsushin.jp/company/nexas-proud-investment/・3回目）
+- 所在地：東京都渋谷区広尾1-1-39 恵比寿プライムスクエアタワー20F（https://tenshoku.mynavi.jp/jobinfo-423151-2-7-1/・3回目）
+- 代表者：石井　瑠宝（https://tenshoku.mynavi.jp/jobinfo-423151-2-7-1/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「「REGOLITH YOKOHAMA-YOSHINOCHO」販売開始！」（https://nexas-proud-investment.com/・1回目）
+  - 「私たちは、人と人とがつながり、未来へと受け継がれる価値を生み出すために、自社ブランド「レゴリス」の開発、資産形成メディアの運営、不動産投資アドバイザリー、グローバル・インベストメント事業に取り組んでいます」（https://nexas-proud-investment.com/・1回目）
+  - 「第9期終了・売上高137億円（速報値）達成のお知らせ」（https://nexas-proud-investment.com/・1回目）
+  - 「働く30代の資産形成に役立つ情報発信メディア『マニマニくん』の運営」（https://nexas-proud-investment.com/about/・1回目）
+  - 「有料職業紹介事業 13‐ユ‐316797」（https://nexas-proud-investment.com/about/・1回目）
+  - 「現在は売上高・経常利益ともに毎年着実に業績を伸ばしており、売買・賃貸・管理・仲介とワンストップでお客様にサービスを提供しております」（https://nexas-proud-investment.com/about/・1回目）
+  - 「【売上高】81億6,000万円（2024年9月実績）」（https://www.bizreach.jp/companies/27507/・3回目）
+  - 「■不動産売買、賃貸仲介、賃貸管理業務」（https://www.bizreach.jp/companies/27507/・3回目）
+  - 「建設・建築・土木、デベロッパー、不動産仲介、不動産管理」（https://www.bizreach.jp/companies/27507/・3回目）
+  - 「今期売上目標130億円、NPI 1,000！信頼され愛される企業を目指します」（https://best100.v-tsushin.jp/company/nexas-proud-investment/・3回目）
+  - 「・働く30代の資産形成に役立つ情報発信メディア「マニマニくん」の運営」（https://best100.v-tsushin.jp/company/nexas-proud-investment/・3回目）
+  - 「■自社ブランドREGOLITHシリーズをはじめとした収益性の高い商品」（https://best100.v-tsushin.jp/company/nexas-proud-investment/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「都市型投資物件「レゴリス」の開発、グローバル・インベストメント事業、そして働く30代に向けた情報発信、不動産投資を軸とした資産形成サポートに取り組んでいます」（https://nexas-proud-investment.com/・1回目）
+  - 「私たちは、人と人とがつながり、未来へと受け継がれる価値を生み出すために、自社ブランド「レゴリス」の開発、資産形成メディアの運営、不動産投資アドバイザリー、グローバル・インベストメント事業に取り組んでいます」（https://nexas-proud-investment.com/・1回目）
+  - 「都市型投資物件ブランド「レゴリス」、資産形成に役立つ情報メディア、不動産投資の総合アドバイザリー、グローバル・インベストメント事業」（https://nexas-proud-investment.com/・1回目）
+  - 「創業期は金融危機や、新型感染症の影響から来る厳しい金融情勢が続きました」（https://nexas-proud-investment.com/about/・1回目）
+  - 「『人と人とが繋がる』をテーマにより良い不動産業界を目指し、日本中のすべての方々に豊かさをお届けします」（https://nexas-proud-investment.com/about/・1回目）
+  - 「自社サービス・製品あり、ベンチャー企業、20代管理職実績あり、2年連続売り上げ10％以上UP、年間休日120日以上、社内ベンチャー制度あり、教育・研修制度充実、資格支援制度充実」（https://www.bizreach.jp/companies/27507/・3回目）
+  - 「■不動産売買、賃貸仲介、賃貸管理業務」（https://www.bizreach.jp/companies/27507/・3回目）
+  - 「建設・建築・土木、デベロッパー、不動産仲介、不動産管理」（https://www.bizreach.jp/companies/27507/・3回目）
+  - 「住宅設備・ハウスメーカー、その他」（https://www.bizreach.jp/companies/27507/・3回目）
+  - 「弊社は、ワンルームマンションの投資用不動産販売を行っております」（https://best100.v-tsushin.jp/company/nexas-proud-investment/・3回目）
+  - 「主に鉄筋鉄骨コンクリート造り・駅徒歩10分以内・都心近くといった高い付加価値を持った物件を取り扱っており、不動産を初めて持つお客様に対しても非常に満足していただける商品であると自負しております」（https://best100.v-tsushin.jp/company/nexas-proud-investment/・3回目）
+  - 「そんな中、大きな金額が動くビックなビジネスに携わりたいと思ったことがきっかけで不動産業界に足を踏み入れました」（https://best100.v-tsushin.jp/company/nexas-proud-investment/・3回目）
+- 資本金・株主：
+  - 「【資本金】5,000万円」（https://www.bizreach.jp/companies/27507/・3回目）
+  - 「株式会社ネクサス・プラウド・インベストメントが開発する分譲マンション「REGOLITH KITAAYASE annex」は、長期的な稼働率と資産価値の維持を見据え、意匠や住戸プランに加え、入退館・入退室時の体験価値を高める設備が検討される中、既存物件との差別化を図る手段として、ミガロホールディングスの子会社DXYZが開発提供する顔認証IDプラットフォーム「FreeiD(フリード)」をエントランス・駐輪場といった共用部に加え、各住戸の玄関まで導入した「オール顔認証マンション®」となります」（https://www.migalo.co.jp/case/case-7332/・3回目）
+- 選出の記録：
+  - 「株式会社ネクサス・プラウド・インベストメント 石井 瑠宝 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/nexas-proud-investment/・3回目）
+  - 「【株式会社ネクサス・プラウド・インベストメント】2026年度「ベストベンチャー100」に選出」（https://prtimes.jp/main/html/searchrlp/company_id/158733・3回目）
+- 検索結果の抜粋：
+  - 「私たちについて｜株式 会社ネクサス ・ プラウド ... — 私たちについて｜株式 会社ネクサス ・ プラウド ... 株式会社ネクサス・プラウド・インベストメント https://nexas-proud-investment.com > about」（https://nexas-proud-investment.com/about/・3回目）
+  - 「株式 会社ネクサス ・ プラウド ・ インベストメント - ビズリーチ — 株式 会社ネクサス ・ プラウド ・ インベストメント - ビズリーチ ビズリーチ https://www.bizreach.jp > companies」（https://www.bizreach.jp/companies/27507/・3回目）
+  - 「株式 会社ネクサス ・ プラウド ・ インベストメント 石井 瑠宝 — 株式 会社ネクサス ・ プラウド ・ インベストメント 石井 瑠宝 ベストベンチャー100 https://best100.v-tsushin.jp > nexas-proud-investment」（https://best100.v-tsushin.jp/company/nexas-proud-investment/・3回目）
+  - 「株式 会社ネクサス ・ プラウド ・ インベストメント - マイナビ転職 — 株式 会社ネクサス ・ プラウド ・ インベストメント - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/423151/・3回目）
+  - 「株式 会社ネクサス ・ プラウド ・ インベストメント の求人・中途 ... — 株式 会社ネクサス ・ プラウド ・ インベストメント の求人・中途 ... 不動産キャリア https://fudosan-career.net > 東京都 > 渋谷区」（https://fudosan-career.net/company/3151・3回目）
+  - 「株式会社 ネクサス ・ プラウド ・ インベストメント ｜明日の ... — 株式会社 ネクサス ・ プラウド ・ インベストメント ｜明日の ... 株式会社ネクサス・プラウド・インベストメント https://nexas-proud-investment.com」（https://nexas-proud-investment.com/・3回目）
+  - 「株式会社 ネクサス ・ プラウド ・ インベストメント 石井 瑠宝 — 株式会社 ネクサス ・ プラウド ・ インベストメント 石井 瑠宝 ベストベンチャー100 https://best100.v-tsushin.jp > nexas-proud-investment」（https://best100.v-tsushin.jp/company/nexas-proud-investment/・3回目）
+  - 「株式会社 ネクサス ・ プラウド ・ インベストメント の求人情報 — 株式会社 ネクサス ・ プラウド ・ インベストメント の求人情報 マイナビ転職 https://tenshoku.mynavi.jp > jobinfo-423151-2-7-1」（https://tenshoku.mynavi.jp/jobinfo-423151-2-7-1/・3回目）
+  - 「株式 会社 ネクサス ・ プラウド ・ インベストメント - PR TIMES — 株式 会社 ネクサス ・ プラウド ・ インベストメント - PR TIMES PR TIMES https://prtimes.jp > main > html > searchrlp > company_id」（https://prtimes.jp/main/html/searchrlp/company_id/158733・3回目）
+  - 「株式 会社 ネクサス ・ プラウド ・ インベストメント ｜明日の ... — 株式 会社 ネクサス ・ プラウド ・ インベストメント ｜明日の ... 株式会社ネクサス・プラウド・インベストメント https://nexas-proud-investment.com」（https://nexas-proud-investment.com/・3回目）
+  - 「株式 会社 ネクサス ・ プラウド ・ インベストメント 石井 瑠宝 — 株式 会社 ネクサス ・ プラウド ・ インベストメント 石井 瑠宝 ベストベンチャー100 https://best100.v-tsushin.jp > nexas-proud-investment」（https://best100.v-tsushin.jp/company/nexas-proud-investment/・3回目）
+  - 「（ 株 ） ネクサス ・ プラウド ・ インベストメント — （ 株 ） ネクサス ・ プラウド ・ インベストメント ラビーネット不動産 https://rabbynet.zennichi.or.jp > agency > print」（https://rabbynet.zennichi.or.jp/agency/00093421/print・3回目）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部11頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部11頁・検索11回）
+- 株主：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部11頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部11頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部11頁・検索11回）
+
+## ハウスリンクホーム
+- 公式URL：https://houselink.co.jp/（given）
+- 事業内容：・建築請負 ・不動産売買、仲介（https://houselink.co.jp/about/company/・1回目）
+- 資本金：20,000,000円（https://houselink.co.jp/about/company/・1回目）
+- 資本金：10,000千円（https://www.kensetumap.com/company/577657/profile.php・3回目）
+- 資本金：2,000万円（https://baseconnect.in/companies/a5f5b400-ee81-4fc1-8451-656ba9708eff・3回目）
+- 創業年度：設立：昭和55年5月21日（https://houselink.co.jp/about/company/・1回目）
+- 創業年度：設立年月：1980年5月（https://baseconnect.in/companies/a5f5b400-ee81-4fc1-8451-656ba9708eff・3回目）
+- 従業員数：32人（https://baseconnect.in/companies/a5f5b400-ee81-4fc1-8451-656ba9708eff・3回目）
+- 従業員数：31人（https://baseconnect.in/companies/a5f5b400-ee81-4fc1-8451-656ba9708eff・3回目）
+- 従業員数：33人（https://baseconnect.in/companies/a5f5b400-ee81-4fc1-8451-656ba9708eff・3回目）
+- 所在地：春日部市下蛭田（https://houselink.co.jp/・1回目）
+- 所在地：埼玉県川口市川口五丁目（https://houselink.co.jp/・1回目）
+- 所在地：東京都足立区中央本町3（https://houselink.co.jp/・1回目）
+- 代表者：菅谷太一（https://houselink.co.jp/about/company/・1回目）
+- 代表者：菅谷　太一（スガヤ　タイチ）（https://www.kensetumap.com/company/577657/profile.php・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「・不動産売買、仲介」（https://houselink.co.jp/about/company/・1回目）
+  - 「自社再生物件や弊社が建てる新築物件を先行紹介いたします」（https://houselink.co.jp/about/company/・1回目）
+  - 「※仲介の場合は正規の仲介手数料をいただいております」（https://houselink.co.jp/about/company/・1回目）
+  - 「自社再生物件や弊社が建てる新築物件を先行紹介いたします」（https://houselink.co.jp/about/・1回目）
+  - 「※仲介の場合は正規の仲介手数料をいただいております」（https://houselink.co.jp/about/・1回目）
+  - 「設計・販売・管理・独自の融資アレンジ・資産形成のための不動産コンサルティングで」（https://houselink.co.jp/about/commitment/・1回目）
+  - 「テレビCMなどに多額のコストをかけているハウスメーカーとは異なり、当社では、お問い合わせをいただいたお客様やご紹介いただいたお客様への販売を行っております」（https://houselink.co.jp/about/commitment/・1回目）
+  - 「当社にて最大限にバリューアップさせた物件のご提供をさせていただくため、販売・建築スピードを管理し、限られた数のお客様のみに販売をさせていただいております」（https://houselink.co.jp/about/commitment/・1回目）
+  - 「単純に世帯数を多くして収益性が高いだけのアパートは提案いたしません」（https://houselink.co.jp/about/commitment/・1回目）
+  - 「自社再生物件や弊社が建てる新築物件を先行紹介いたします」（https://houselink.co.jp/about/commitment/・1回目）
+  - 「※仲介の場合は正規の仲介手数料をいただいております」（https://houselink.co.jp/about/commitment/・1回目）
+  - 「一戸建ての耐震補強工事にかかる平均費用、具体的な施工例などを紹介します」（https://www.kensetumap.com/company/577657/profile.php・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「なぜ融資額に届かないのか？ 不動産鑑定士が教える「積算価値が落ちにくい土地」の選び方」（https://houselink.co.jp/・1回目）
+  - 「・不動産売買、仲介」（https://houselink.co.jp/about/company/・1回目）
+  - 「・建設業の許可 東京都知事許可(特-6)第65442号」（https://houselink.co.jp/about/company/・1回目）
+  - 「なぜ融資額に届かないのか？ 不動産鑑定士が教える「積算価値が落ちにくい土地」の選び方」（https://houselink.co.jp/about/・1回目）
+  - 「設計・販売・管理・独自の融資アレンジ・資産形成のための不動産コンサルティングで」（https://houselink.co.jp/about/commitment/・1回目）
+  - 「テレビCMなどに多額のコストをかけているハウスメーカーとは異なり、当社では、お問い合わせをいただいたお客様やご紹介いただいたお客様への販売を行っております」（https://houselink.co.jp/about/commitment/・1回目）
+  - 「費用削減と価値向上を両立させ、お客様の資産形成を効率的にサポートできるような不動産を提供し続けます」（https://houselink.co.jp/about/commitment/・1回目）
+  - 「国や自治体の補助金・助成金制度が増えたためか、一戸建ての耐震補強工事の施工例が増加しています」（https://www.kensetumap.com/company/577657/profile.php・3回目）
+  - 「不動産業，物品賃貸業」（https://catr.jp/companies/89556/297125・3回目）
+  - 「法人番号に紐づく現存する事業所の被保険者数を合計しています」（https://catr.jp/companies/89556/297125・3回目）
+  - 「新築木造アパートの企画・建設・販売および不動産投資事業を手掛ける」（https://baseconnect.in/companies/a5f5b400-ee81-4fc1-8451-656ba9708eff・3回目）
+  - 「ハウスリンクホーム、不動産投資で安定資産形成支援へ」（https://baseconnect.in/companies/a5f5b400-ee81-4fc1-8451-656ba9708eff・3回目）
+- 選出の記録：
+  - 「ハウスリンクホーム、2年連続で「ベストベンチャー100」に選出」（https://baseconnect.in/companies/a5f5b400-ee81-4fc1-8451-656ba9708eff・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 - ハウスリンクホーム株式会社 - 物件情報サイト — 〒180-0006 東京都武蔵野市中町1-15-5 三鷹Renolikeビル7階 アクセス 連絡先 本社 TEL：03-6228-6912 FAX：03-6228-6913 新横浜支店 TEL：045-534-5150 三鷹支店 TEL：0422-22-9595 FAX：0422-22-9596 資本金 20,000,000円 設立 昭和55年5月21日 決算期 11月 事業内容 ・建築請負 ・不動産売買、仲介」（https://houselink.co.jp/about/company/・3回目）
+  - 「会社概要｜ハウスリンクホーム株式会社ハウスリンクホーム株式会社 - 物件情報サイト -会社概要｜ハウスリンクホーム株式会社会社概要 - ハウスリンクハウスリンクホーム株式会社 (東京都中央区)の企業詳細 (旧:株式会社...会社概要 | ハウスリンクマネジメント株式会社 — 国や自治体の補助金・助成金制度が増えたためか、一戸建ての耐震補強工事の施工例が増加しています。 地震の多い日本では重要度の高い建築工事ともいえるでしょう。 一戸建ての耐震補強工事にかかる平均費用、具体的な施工例などを紹介します。 〒104-0031 東京都中央区京橋1丁目13番1号 WORK VILLA KYOBASHI701 アクセス 電話でのお問い合わせ 受付時間 10:00～18:00 水曜・日曜定休 03-6228-6912 ホーム 弊社について ハウスリンクホームのこだわり 会社概要 物件種類 国や自治体の補」（https://www.kensetumap.com/company/577657/profile.php・3回目）
+  - 「ハウスリンクホーム株式会社 - 物件情報サイト - — 〒104-0031 東京都中央区京橋1丁目13番1号 WORK VILLA KYOBASHI701 アクセス 電話でのお問い合わせ 受付時間 10:00～18:00 水曜・日曜定休 03-6228-6912 ホーム 弊社について ハウスリンクホームのこだわり 会社概要 物件種類」（https://houselink.co.jp/・3回目）
+  - 「会社概要 - ハウスリンクハウスリンクホーム株式会社 (東京都中央区)の企業詳細 (旧:株式会社...会社概要 | ハウスリンクマネジメント株式会社 — 当社にお任せ頂ければ、空室対策はもちろん建物や設備のメンテナンス・税金・相続・法律の豊富な知識と経験により専門会社として手数料以上の収益増加及び安心を、オーナー様に自信を持ってご提供できると思っております。 Feb 9, 2024 · 丸山義光が社長/代表を務める法人番号6012401002881のハウスリンクホーム株式会社の住所/地図、業種、売上/利益/資本金、電話番号、サイト情報、求人を始め、全国法人リストでは全国500万件の様々な企業/法人の情報を掲載。 起業の目的は、まず自分の力で食べていけること、次に会社に頼らず本当の意味での自立をすること、お客様と取引先と当社で信頼感のある3方良しの商いをすることを目的としました。」（https://hslink.co.jp/company/・3回目）
+  - 「ハウスリンクホーム株式会社 (東京都中央区)の企業詳細 (旧:株式会社... — Feb 9, 2024 · 丸山義光が社長/代表を務める法人番号6012401002881のハウスリンクホーム株式会社の住所/地図、業種、売上/利益/資本金、電話番号、サイト情報、求人を始め、全国法人リストでは全国500万件の様々な企業/法人の情報を掲載。」（https://houjin.jp/c/6012401002881・3回目）
+  - 「ハウスリンクホーム株式会社 の企業情報 | バフェット・コードハウスリンクマネジメント、24年度グループ売上73億円会社概要 - ハウスリンクホーム株式会社 - 物件情報サイトハウスリンクマネジメント(株)の会社概要 | マイナビ2027ハウスリンクホーム株式会社の会社情報・決算公告 | 官報決算データベ... — 【強み】 関連会社と連携し、企画・建築、販売、管理、出口戦略、さらにはガス事業や売電事業までをワンストップで提供できることが強み。 きめ細かいコンサルティングとサービスにより、多くのリピート顧客を獲得しています。 Apr 7, 2025 · こうした現状を踏まえ、各部署の業務内容を可視化し、マニュアルに落とし込むことで情報伝達の無駄を削減。 効率化により捻出した時間で、業務の回転率を高めてきた。 その成果が24年度に表れた格好だ。 会社概要 会社名 ハウスリンクホーム株式会社 」（https://www.buffett-code.com/company/7uefaue2xe/・3回目）
+  - 「会社概要 - ハウスリンクホーム株式会社 - 物件情報サイト — 会社概要 会社名 ハウスリンクホーム株式会社 代表者 菅谷太一 所在地 京橋本社 〒104-0031 東京都中央区京橋1丁目13番1号 WORK VILLA KYOBASHI701 アクセス 新横浜支店 〒222-0033 神奈川県横浜市港北区新横浜3-8-11 メットライフ新横浜ビル3階C1号室 アクセス 三鷹支店 ...」（https://houselink.co.jp/about/company/・3回目）
+  - 「ハウスリンクホーム株式会社の会社情報・決算公告 | 官報決算データベ... — 会社基本情報 ハウスリンクホーム株式会社の情報 ハウスリンクホーム 住所 東京都中央区京橋1丁目13番1号WОRKVILLAKYОBASHI七〇一 同じ住所の会社を検索 業種 不動産業，物品賃貸業」（https://catr.jp/companies/89556/297125・3回目）
+  - 「ハウスリンクホーム株式会社 の企業情報 | バフェット・コードハウスリンクホーム株式会社（東京都）の会社概要・役員 | Compalyzeハウスリンクホーム株式会社 (東京都中央区 建設業・不動産業)の企業... — 【概要・特徴】 収益不動産に特化した不動産会社「ハウスリンクマネジメント（株）」からアパートの建築を請け負う企業です。ハウスリンクマネジメント（株）は、土地やアパートを買い取り、建築・修繕を行い、満室にした状態で販売するビジネスモデルを展開。主に東京と神奈川で ... 事業概要 ハウスリンクホーム株式会社は、建築請負を第一の事業とし、不動産売買・仲介を併せて手掛ける不動産会社である。 同社は一都三県を中心に、投資用の新築・中古アパートや建築条件付き土地を取り扱う。 ハウスリンクホーム株式会社の決算情報を調べたい（上場企業・一部の大企業のみ対応） 金融庁が公開する「EDINET」（https://www.buffett-code.com/company/7uefaue2xe/・3回目）
+  - 「ハウスリンクホーム株式会社（東京都）の会社概要・役員 | Compalyze — 事業概要 ハウスリンクホーム株式会社は、建築請負を第一の事業とし、不動産売買・仲介を併せて手掛ける不動産会社である。 同社は一都三県を中心に、投資用の新築・中古アパートや建築条件付き土地を取り扱う。」（https://compalyze.co.jp/company/6012401002881・3回目）
+  - 「新築木造利回り20%実現 家賃保証で安定収入！ - ハウスリンクホーム株... — その中で相見積もりを取った某S水ハウスの値段が自分の事業計画と比較して倍であり、収益性の違いを痛感しました。 新築アパートは中間マージンをコントロールすることでもっと値段を下げることが可能です。」（https://houselink.co.jp/lowcost-ap/・3回目）
+  - 「ハウスリンクホーム株式会社 - 物件情報サイト - — 受付時間 10:00～18:00 水曜・日曜定休 03-6228-6912 ホーム 弊社について ハウスリンクホームのこだわり 会社概要 物件種類 販売中物件一覧 カインドネスシリーズ 採用情報 お問い合わせ 個人情報の取扱について 勧誘方針 カスタマーハラスメント防止方針」（https://houselink.co.jp/・3回目）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部17頁・検索11回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部17頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部17頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部17頁・検索11回）
+- 資本金・株主：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部17頁・検索11回）
+
+## ハエモリ企画
+- 公式URL：https://www.haemorikikaku.com/（given）
+- 事業内容：WEBサイトの企画・制作・保守・運用 システム開発・運用 デジタルマーケティング施策の提供 ビジネスインキュベーション事業 スタートアップ（新規事業）アクセラレーション事業（https://www.haemorikikaku.com/company/・1回目）
+- 事業内容：WEBサイトの企画・制作・保守・運用 システム開発・運用 デジタルマーケティング施策の提供 ビジネスインキュベーション事業 スタートアップ（新規事業）アクセラレーション事業（https://ashigaru.biz/company/・3回目）
+- 事業内容：顧客の新規事業におけるPMF(プロダクト・マーケット・フィット)を達成するための、BtoBビジネス一括コンサルティング事業（https://best100.v-tsushin.jp/company/haemorikikaku/・3回目）
+- 創業年度：創業：2012年1月13日（https://www.haemorikikaku.com/company/・1回目）
+- 創業年度：創業：2012年1月13日（https://ashigaru.biz/company/・3回目）
+- 従業員数：（業務委託・パート含む）37名（https://www.haemorikikaku.com/company/・1回目）
+- 従業員数：（業務委託・パート含む）27名（https://ashigaru.biz/company/・3回目）
+- 所在地：〒105-0022 東京都港区海岸1-2-3 汐留芝離宮ビルディング21階（https://www.haemorikikaku.com/company/・1回目）
+- 所在地：〒105-0022 東京都港区海岸1-2-3 汐留芝離宮ビルディング21階（https://ashigaru.biz/company/・3回目）
+- 所在地：東京都港区海岸1-2-3 汐留芝離宮ビルディング21階（https://c-ree.com/partners/haemorikikaku-com・3回目）
+- 代表者：南風盛　一郎（https://www.haemorikikaku.com/company/・1回目）
+- 代表者：南風盛　一郎（https://ashigaru.biz/company/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「営業の型化による脱属人化と商談代行で、売れる商材と売上の両方をつくる」（https://www.haemorikikaku.com/・1回目）
+  - 「掲載許可を頂いた、ハエモリ企画のプロジェクトの一例をご紹介します」（https://www.haemorikikaku.com/・1回目）
+  - 「PMFクリエイティブ・UI/UXAI・SEOカスタマーサクセス株式会社PR TIMES様 が運営している、有料導入社数2,600社、利用ユーザー数40万人を超えるタスク・プロジェクト管理ツール「Jooto」は、誰でも、簡単に、直観的に使えるツールとして、」（https://www.haemorikikaku.com/・1回目）
+  - 「PMFクリエイティブ・UI/UXインサイドセールスカスタマーサクセスDesignFuture Japan株式会社様が運営している、米国で10万人以上のデザイナーが利用する世界最大の建材サンプルマーケットプレイス「Material Bank」が初の海外展開」（https://www.haemorikikaku.com/・1回目）
+  - 「PMFクリエイティブ・UI/UXインサイドセールスカスタマーサクセス株式会社デイドリーム様が運営する、飲食店に特化した人事評価システム「ニュートン」は、採用から教育、評価、給与設計といった様々な人事業務を一括管理することで人材育成や店舗拡大、経営安定を支」（https://www.haemorikikaku.com/・1回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営する イシン株式会社が提供する法人向け有料会員制サービスになります」（https://www.haemorikikaku.com/・1回目）
+  - 「イシン株式会社にエントリーした企業の中から、イシン 株式会社が厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://www.haemorikikaku.com/・1回目）
+  - 「営業の型化による脱属人化と商談代行で、売れる商材と売上の両方をつくる」（https://www.haemorikikaku.com/service-concept/・1回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営する イシン株式会社が提供する法人向け有料会員制サービスになります」（https://www.haemorikikaku.com/service-concept/・1回目）
+  - 「イシン株式会社にエントリーした企業の中から、イシン 株式会社が厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://www.haemorikikaku.com/service-concept/・1回目）
+  - 「営業の型化による脱属人化と商談代行で、売れる商材と売上の両方をつくる」（https://www.haemorikikaku.com/company/・1回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営する イシン株式会社が提供する法人向け有料会員制サービスになります」（https://www.haemorikikaku.com/company/・1回目）
+- 客は誰か：
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営する イシン株式会社が提供する法人向け有料会員制サービスになります」（https://www.haemorikikaku.com/・1回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営する イシン株式会社が提供する法人向け有料会員制サービスになります」（https://www.haemorikikaku.com/service-concept/・1回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営する イシン株式会社が提供する法人向け有料会員制サービスになります」（https://www.haemorikikaku.com/company/・1回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営する イシン株式会社が提供する法人向け有料会員制サービスになります」（https://www.haemorikikaku.com/service/・1回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営する イシン株式会社が提供する法人向け有料会員制サービスになります」（https://www.haemorikikaku.com/project/・1回目）
+  - 「しかしながら、現在の日本のBtoBビジネスシーンでは、一人で全領域に精通するCOOまたはCMOが圧倒的に少なく、また、自社に不足する専門性を補うため、施策ごとに「縦割り」で外部委託することが多く、全体最適が失われる「サイロ化」を食い止めるのが難しい状況です」（https://www.haemorikikaku.com/service/pmf/・1回目）
+  - 「「SEO（上位表示）のためのSEO」の先の、「ビジネスインパクトをもたらすためのSEO」へのこだわっている点も、スタートアップから大手企業様まで幅広くご支持をいただいております」（https://www.haemorikikaku.com/service/in-flow/・1回目）
+  - 「当社は、SEO対策について中小企業から、上場企業、ナショナルクライアント（日本を代表する企業様）に至るまで、幅広い制作実績がございます」（https://www.haemorikikaku.com/service/in-flow/・1回目）
+  - 「当社は小規模な組織ながら、中小企業から上場企業やナショナルクライアント（日本を代表する企業様）まで、幅広い制作実績があり、パートナーも上場企業クラスを揃えている安心の制作体制を敷いています」（https://www.haemorikikaku.com/service/web-dev/・1回目）
+  - 「顧客の新規事業におけるPMF(プロダクト・マーケット・フィット)を達成するための、BtoBビジネス一括コンサルティング事業」（https://best100.v-tsushin.jp/company/haemorikikaku/・3回目）
+  - 「顧客の新規事業におけるPMF(プロダクト・マーケット・フィット)を達成するための、BtoBビジネス一括コンサルティング事業を行っています」（https://best100.v-tsushin.jp/company/haemorikikaku/・3回目）
+  - 「真にPMFが必要な中小企業やシード期のスタートアップなどにも安価で、PMFのためのコンサルティングを提供して、日本の新規事業成功率を上げていきたいと考えています」（https://best100.v-tsushin.jp/company/haemorikikaku/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「クライアント・パートナー・メンバーシップ実績」（https://www.haemorikikaku.com/・1回目）
+  - 「圧倒的な現場の経験値で、孤独なCEOの右腕となり、顧客事業のPMF（プロダクト・マーケット・フィット）を達成します」（https://www.haemorikikaku.com/・1回目）
+  - 「インサイドセールスは広告を熟知・・・すべてのセクションで、隣の領域を熟知した人材教育を徹底し、当社ならではの連動性を実現します」（https://www.haemorikikaku.com/・1回目）
+  - 「当社では、中長期で例えば我々がいなくなっても良いように、施策実行と並行してベースのノウハウの共有を丁寧に行い、顧客担当者のリテラシーを高めていきます」（https://www.haemorikikaku.com/・1回目）
+  - 「顧客事業のPMFを達成するために、ビジネスプロセスの全領域を一気通貫でサポート」（https://www.haemorikikaku.com/・1回目）
+  - 「顧客ごとに異なるPMFまでの最適な道のりをリードします」（https://www.haemorikikaku.com/・1回目）
+  - 「三井不動産株式会社 様「ワークスタイリング」」（https://www.haemorikikaku.com/・1回目）
+  - 「PMFデジタル広告運用AI・SEOインサイドセールス三井不動産株式会社様は、東京都中央区日本橋室町に本社を置く総合デベロッパーであり、オフィスビル、商業施設、住宅（2006年から三井不動産レジデンシャルに分社化）を中心にホテルやロジスティクス、ベンチャー」（https://www.haemorikikaku.com/・1回目）
+  - 「仙台大原簿記情報公務員専門学校様「オープンキャンパス」」（https://www.haemorikikaku.com/・1回目）
+  - 「UIUXデジタル広告運用仙台大原様は、宮城県仙台市の専門学校であり、公務員・税理士・会計士・事務職・ビジネスなど幅広い分野の人材育成を行っています」（https://www.haemorikikaku.com/・1回目）
+  - 「PMFクリエイティブ・UI/UXインサイドセールスカスタマーサクセス株式会社デイドリーム様が運営する、飲食店に特化した人事評価システム「ニュートン」は、採用から教育、評価、給与設計といった様々な人事業務を一括管理することで人材育成や店舗拡大、経営安定を支」（https://www.haemorikikaku.com/・1回目）
+  - 「顧客のPMFを達成する、日本唯一の「統合型」ビジネスグロースパートナー」（https://www.haemorikikaku.com/service-concept/・1回目）
+- 資本金・株主：
+  - 「当社は、SEO対策について中小企業から、上場企業、ナショナルクライアント（日本を代表する企業様）に至るまで、幅広い制作実績がございます」（https://www.haemorikikaku.com/service/in-flow/・1回目）
+  - 「当社は小規模な組織ながら、中小企業から上場企業やナショナルクライアント（日本を代表する企業様）まで、幅広い制作実績があり、パートナーも上場企業クラスを揃えている安心の制作体制を敷いています」（https://www.haemorikikaku.com/service/web-dev/・1回目）
+  - 「株式会社ハエモリ企画の決算情報を調べたい（上場企業・一部の大企業のみ対応）」（https://kaisharesearch.com/company/detail/3010401116085/・3回目）
+  - 「現在は大企業の新規事業や資金調達済みのスタートアップの新規事業のご支援が中心となっていますが、その経験、ノウハウを学習したハエモリ企画AIの提供準備を進めています」（https://best100.v-tsushin.jp/company/haemorikikaku/・3回目）
+  - 「ハエモリ企画の広告運用サービスは、上場企業やベンチャー、大手広告代理店で役員を務めてきた人間すなわち「ビジネスリテラシーが高い人間」だけが広告ディレクターを務め、「ロジカルなクリエイティブ」で顧客のCPAとCVの壁を大きく打開します」（https://b-pos.jp/srv/haemorikikaku/ads/・3回目）
+- 選出の記録：
+  - 「米経済誌『FORTUNE』アジア版「JAPAN’S CHANGE MAKERS」に選出・特集されました」（https://www.haemorikikaku.com/・1回目）
+  - 「毎日新聞出版 刊 週間エコノミスト「2026年を牽引する34人の経営者」に選出されました」（https://www.haemorikikaku.com/・1回目）
+  - 「2年連続選出！「2026年度ベストベンチャー100会員」として当社が選出されました！」（https://www.haemorikikaku.com/・1回目）
+  - 「ベストベンチャー100について」（https://www.haemorikikaku.com/・1回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営する イシン株式会社が提供する法人向け有料会員制サービスになります」（https://www.haemorikikaku.com/・1回目）
+  - 「イシン株式会社にエントリーした企業の中から、イシン 株式会社が厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://www.haemorikikaku.com/・1回目）
+  - 「ベストベンチャー100について」（https://www.haemorikikaku.com/service-concept/・1回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営する イシン株式会社が提供する法人向け有料会員制サービスになります」（https://www.haemorikikaku.com/service-concept/・1回目）
+  - 「イシン株式会社にエントリーした企業の中から、イシン 株式会社が厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://www.haemorikikaku.com/service-concept/・1回目）
+  - 「ベストベンチャー100について」（https://www.haemorikikaku.com/company/・1回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営する イシン株式会社が提供する法人向け有料会員制サービスになります」（https://www.haemorikikaku.com/company/・1回目）
+  - 「イシン株式会社にエントリーした企業の中から、イシン 株式会社が厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://www.haemorikikaku.com/company/・1回目）
+- 検索結果の抜粋：
+  - 「企業情報 | 株式会社ハエモリ企画 │ PMF支援・CMO/COO代行・デジタル...株式会社ハエモリ企画 │ PMF・広告運用・SEO対策・インサイドセールス株式会社ハエモリ企画 (東京都練馬区)の企業情報|カイシャリサーチ会社案内 - ハエモリ企画のプレミアム・セールスソリューション「ASHI...株式会社ハエモリ企画（東京都）の会社概要・役員 | Compalyze株式会社ハエモリ企画 南風盛 一郎 | ベストベンチャー100株式会社ハエモリ企画|HelloBoss – 全国最大550万社の企業データベー... — Jan 13, 2012 · イシン株式会社にエントリーした企業の中から、イシン 株式会社が厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます。 サービス概要や審査内容については下記をご参照ください。 ベストベンチャー100につい」（https://www.haemorikikaku.com/company/・3回目）
+  - 「株式会社ハエモリ企画 (東京都練馬区)の企業情報|カイシャリサーチ — 法人概要 株式会社ハエモリ企画の本店所在地、業種、社員数、連絡先などに関する情報です。 登記上の本店住所 〒177-0034 東京都練馬区富士見台4丁目5番20号 本店所在地の地図 上場区分 非上場 法人区分 株式会社」（https://kaisharesearch.com/company/detail/3010401116085/・3回目）
+  - 「会社案内 - ハエモリ企画のプレミアム・セールスソリューション「ASHI...株式会社ハエモリ企画（東京都）の会社概要・役員 | Compalyze株式会社ハエモリ企画 南風盛 一郎 | ベストベンチャー100株式会社ハエモリ企画|HelloBoss – 全国最大550万社の企業データベー... — 会社案内 ... アクセスマップ ASHIGARUは、株式会社ハエモリ企画が運営しています。 「ASHIGARU」はPMF (プロダクト・マーケット・フィット)のコンサルティングファーム、ハエモリ企画が提供するあたらしいインサイドセールス、フィールドセールスのサービス ... 株式会社ハエモリ企画は2025年10月、TIME誌「CEO HORIZON」にCEOの南風盛一郎氏のインタビュー記事が掲載されたと発表しています。 続く2026年1月には、2026年度『ベストベンチャー100』に選出され」（https://ashigaru.biz/company/・3回目）
+  - 「株式会社ハエモリ企画（東京都）の会社概要・役員 | Compalyze — 株式会社ハエモリ企画は2025年10月、TIME誌「CEO HORIZON」にCEOの南風盛一郎氏のインタビュー記事が掲載されたと発表しています。 続く2026年1月には、2026年度『ベストベンチャー100』に選出され、2025年度からの連続選出となったと公表しています。」（https://compalyze.co.jp/company/3010401116085・3回目）
+  - 「株式会社ハエモリ企画|HelloBoss – 全国最大550万社の企業データベー... — 本店所在地 東京都練馬区富士見台4丁目5番20号 国内所在地の変更2016-09-30 商号 株式会社ハエモリ企画 本店所在地 東京都港区東新橋1丁目10番2号 新規2015-10-05 商号 株式会社ハエモリ企画 本店所在地 東京都港区東新橋2丁目18番4号 設立」（https://helloboss.com/corp/3010401116085・3回目）
+  - 「企業情報 | 株式会社ハエモリ企画 │ PMF支援・CMO/COO代行・デジタル...株式会社ハエモリ企画 南風盛 一郎 | ベストベンチャー100会社案内 - ハエモリ企画のプレミアム・セールスソリューション「ASHI...株式会社ハエモリ企画（東京都港区）｜掲載会社 - クリートーク株式会社ハエモリ企画の会社概要・従業員7名【2026年最新】| SalesNow...株式会社ハエモリ企画（東京都）の会社概要・役員 | Compalyze — Jan 13, 2012 · サービス概要や審査内容については下記をご参照ください。 ベストベンチャー100について エントリーについて サービス PMFコンサルティング デジタル広告開発・運用 クリエイティブ・UI/UX SEO・AIO・LLMO対策 セールスイネーブルメント カスタマーサクセス構築 真にPMFが必要な中小企業やシード期のスタート」（https://www.haemorikikaku.com/company/・3回目）
+  - 「会社案内 - ハエモリ企画のプレミアム・セールスソリューション「ASHI...株式会社ハエモリ企画（東京都港区）｜掲載会社 - クリートーク株式会社ハエモリ企画の会社概要・従業員7名【2026年最新】| SalesNow...株式会社ハエモリ企画（東京都）の会社概要・役員 | Compalyze — 会社案内 ... アクセスマップ ASHIGARUは、株式会社ハエモリ企画が運営しています。 「ASHIGARU」はPMF (プロダクト・マーケット・フィット)のコンサルティングファーム、ハエモリ企画が提供するあたらしいインサイドセールス、フィールドセールスのサービス ... Oct 7, 2026 · 東京都港区のWeb制作会社「株式会社ハエモリ企画」の強み・料金の目安・実績。 WEBサイト企画・制作・保守・デジタル広告運用・SEO・AIO・LLMO対策に対応。 自社に合うか、クリートークが」（https://ashigaru.biz/company/・3回目）
+  - 「株式会社ハエモリ企画（東京都港区）｜掲載会社 - クリートーク — Oct 7, 2026 · 東京都港区のWeb制作会社「株式会社ハエモリ企画」の強み・料金の目安・実績。 WEBサイト企画・制作・保守・デジタル広告運用・SEO・AIO・LLMO対策に対応。 自社に合うか、クリートークが中立の立場で無料で相談・比較できます。」（https://c-ree.com/partners/haemorikikaku-com・3回目）
+  - 「株式会社ハエモリ企画の会社概要・従業員7名【2026年最新】| SalesNow... — Dec 14, 2024 · 株式会社ハエモリ企画 を含む企業リスト 51,538社がヒット 東京都で従業員数5人以上〜10人未満の企業リスト 有料版で全て見る 16,288社がヒット システム開発の企業リスト」（https://salesnow.jp/db/companies/jcbw3wpcfhfdaurm・3回目）
+  - 「株式会社ハエモリ企画 南風盛 一郎 | ベストベンチャー100 — ─ 今後のビジョンをお願いいたします。 現在は大企業の新規事業や資金調達済みのスタートアップの新規事業のご支援が中心となっていますが、その経験、ノウハウを学習したハエモリ企画AIの提供準備を進めています。」（https://best100.v-tsushin.jp/company/haemorikikaku/・3回目）
+  - 「株式会社ハエモリ企画 (東京都練馬区)の企業情報|カイシャリサーチ — 株式会社ハエモリ企画の決算情報を調べたい（上場企業・一部の大企業のみ対応） 金融庁が公開する「EDINET」から検索することができます。 検索方法 書類検索 > 書類詳細検索 から 提出者法人番号の欄に「3010401116085」を入力して検索してください。」（https://kaisharesearch.com/company/detail/3010401116085/・3回目）
+  - 「企業情報 | 株式会社ハエモリ企画 │ PMF支援・CMO/COO代行・デジタル...株式会社ハエモリ企画（東京都）の会社概要・役員 | Compalyze株式会社ハエモリ企画 (東京都練馬区)の評判・口コミ・インボイス登録... — Jan 13, 2012 · 商号 株式会社ハエモリ企画 代表取締役 南風盛 一郎 所在地 〒105-0022東京都港区海岸1-2-3 汐留芝離宮ビルディング21階 従業員数 （業務委託・パート含む）37名 創業 2012年1月13日 企業理念 V […] 株式会社ハエモリ企画は2025年10月、TIME誌「CEO HORIZON」にCEOの南風盛一郎氏のインタビュー記事が掲載されたと発表しています。 続く2026年1月には、2026年度『ベストベンチャー100』に選出され、2025年度からの連続選出となったと公表しています。 Aug 25, 2026 · 」（https://www.haemorikikaku.com/company/・3回目）
+- 資本金：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部21頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部21頁・検索11回）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部21頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部21頁・検索11回）
+
+## パートナーズ
+- 公式URL：https://partners-re.co.jp/（given）
+- 事業内容：資産運用コンサルティング ・相続 ・資産形成 不動産コンサルティング ・売買 ・仲介 ・賃貸管理 ・リノベーション ・クラウドファンディング 保険コンサルティング ・生命保険 ・損害保険 セミナー・イベント等の企画及び開催（https://partners-re.co.jp/company/profile/・1回目）
+- 資本金：1億円（https://partners-re.co.jp/company/profile/・1回目）
+- 売上高：16億100万円 前年比 ▲9.1%（https://catr.jp/companies/ea024/137506・3回目）
+- 所在地：【Head Office / 本店】 〒106-6290 東京都港区六本木3-2-1 住友不動産六本木グランドタワー 34F 【Osaka Branch /大阪支社】 〒530-0001 大阪府大阪市北区梅田2-4-9 ブリーゼタワー 12F（https://partners-re.co.jp/company/profile/・1回目）
+- 所在地：東京都港区六本木3丁目2番1号 同じ住所の会社を検索（https://catr.jp/companies/ea024/137506・3回目）
+- 所在地：東京都 港区 六本木 3-2-1 住友不動産六本木グランドタワー 34階 トウキヨウト ミナトク ロツポンギ 3-2-1 スミトモフドウサンロツポンギグランドタワー 34カイ（https://catr.jp/companies/ea024/137506・3回目）
+- 代表者：廣部 正太郎（https://partners-re.co.jp/company/profile/・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「当社独自の情報網で、あなたの大切な資産を、大切に運用くださる買主さまをご紹介します」（https://partners-re.co.jp/・1回目）
+  - 「私たちの想いや企業情報についてご紹介します」（https://partners-re.co.jp/・1回目）
+  - 「売上高前年比120%を牽引する「意志起点の組織づくり」」（https://partners-re.co.jp/・1回目）
+  - 「当社独自の情報網で、あなたの大切な資産を、大切に運用くださる買主さまをご紹介します」（https://partners-re.co.jp/service/・1回目）
+  - 「※RENOSYは、株式会社GA technologiesが運営しています」（https://partners-re.co.jp/service/forselling/・1回目）
+  - 「販売 NO.1」（https://partners-re.co.jp/service/forselling/・1回目）
+  - 「不動産投資の売上実績で業界NO.1を誇る「RENOSY」」（https://partners-re.co.jp/service/forselling/・1回目）
+  - 「※1 投資用新築・中古マンション、投資用新築・中古アパートの合計販売戸数および売上高を比較」（https://partners-re.co.jp/service/forselling/・1回目）
+  - 「※2 東京商工リサーチによる不動産投資における物件売上実績（2026年3月調べ）」（https://partners-re.co.jp/service/forselling/・1回目）
+  - 「物件を購入したい法人500社以上に加え、個人の買主さまとの間に築いた豊富な販売ネットワークを有するため、スピーディかつ高額で売却できます」（https://partners-re.co.jp/service/forselling/・1回目）
+  - 「グループ会社が運営する「神居秒算」は、⽇本の不動産仲介会社と中華圏の投資家を結ぶ、独自のプラットフォームです」（https://partners-re.co.jp/service/forselling/・1回目）
+  - 「投資用不動産販売事業 | サービス | 株式会社パートナーズ」（https://partners-re.co.jp/service/forinvestors/・1回目）
+- 客は誰か：
+  - 「Infinity Fincorp Solutionsは、インドの中小企業向けノンバンク金融会社（ノンバンク型貸付事業者）です」（https://note.com/better_equation/n/n9fec3ede234a・3回目）
+  - 「インドでは経済成長や金融サービスのデジタル化、政府の中小企業支援策などを背景に、このMSME向け融資分野が大きな追い風を受けています」（https://note.com/better_equation/n/n9fec3ede234a・3回目）
+  - 「これにより、中小企業への融資拡大と事業基盤強化を図り、インドの地方企業の成長に一層貢献していく方針です」（https://note.com/better_equation/n/n9fec3ede234a・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「パートナーズは、テクノロジーの力をフルに活かし、不動産領域における資産運用から、各種保険による資産形成のアドバイスなど、不動産領域外までを」（https://partners-re.co.jp/service/・1回目）
+  - 「不動産売却DXも、そのひとつ」（https://partners-re.co.jp/company/・1回目）
+  - 「私たちは不動産をはじめ、保険、少額投資など、さまざまなサービスに「愛」とも呼べる圧倒的な熱量と革新的な「テクノロジー」をつぎつぎと掛け合わせ、成長を遂げてきました」（https://partners-re.co.jp/company/profile/・1回目）
+  - 「住友不動産六本木グランドタワー 34F」（https://partners-re.co.jp/company/profile/・1回目）
+  - 「不動産特定共同事業許可番号 東京都知事第126号」（https://partners-re.co.jp/company/profile/・1回目）
+  - 「住宅宿泊管理業者登録 国土交通大臣（01）第F04095号」（https://partners-re.co.jp/company/profile/・1回目）
+  - 「株式会社三菱UFJ銀行 株式会社りそな銀行」（https://partners-re.co.jp/company/profile/・1回目）
+  - 「株式会社ジャックス オリックス銀行株式会社」（https://partners-re.co.jp/company/profile/・1回目）
+  - 「不動産特定共同事業許認可 東京都知事第126号」（https://partners-re.co.jp/company/history/・1回目）
+  - 「オンライン完結型クラウドファンディング型不動産投資」（https://partners-re.co.jp/company/history/・1回目）
+  - 「投資用不動産売却事業 | サービス | 株式会社パートナーズ」（https://partners-re.co.jp/service/forselling/・1回目）
+  - 「投資用不動産のスペシャリストとして多くのお客さまからご支持をいただいてきたパートナーズでは、不動産売却のDXを業界他社に先駆けて推進」（https://partners-re.co.jp/service/forselling/・1回目）
+- 資本金・株主：
+  - 「資本金500万円」（https://partners-re.co.jp/company/history/・1回目）
+  - 「資本金を1,000万円に増資」（https://partners-re.co.jp/company/history/・1回目）
+  - 「資本金を5,000万円に増資」（https://partners-re.co.jp/company/history/・1回目）
+  - 「資本金を1億円に増資」（https://partners-re.co.jp/company/history/・1回目）
+  - 「当社は、上場企業グループとして求められるセキュリティ水準を維持し、個人情報保護方針の実効性を高めることを目的に、経営層の認識のもと情報セキュリティ専任部門を設置し、年1回以上の定期的なセキュリティ監査を実施しています」（https://partners-re.co.jp/company/dx/・1回目）
+  - 「医療機器の販売を行う子会社を束ねる持株会社で、事業は子会社が営む」（https://zukaikeizai.com/kaisha/3183/・3回目）
+  - 「2026年3月期の売上高は904億円、営業利益は30億円、親会社株主に帰属する当期純利益は21億円」（https://zukaikeizai.com/kaisha/3183/・3回目）
+  - 「凡例の純利益は親会社株主に帰属する当期純利益」（https://zukaikeizai.com/kaisha/3183/・3回目）
+  - 「そこから税金や利子などを払った後の親会社株主に帰属する当期純利益が2円」（https://zukaikeizai.com/kaisha/3183/・3回目）
+  - 「株式会社パートナーズの決算公告・子会社・関連会社情報 | 官報決算データベース」（https://catr.jp/companies/ea024/137506・3回目）
+  - 「株式会社GA technologiesの子会社・関連会社一覧」（https://catr.jp/companies/ea024/137506・3回目）
+  - 「子会社・関連会社一覧を見る(全16社)」（https://catr.jp/companies/ea024/137506・3回目）
+- 選出の記録：
+  - 「経済界2018年【注目企業44選出】に選出」（https://partners-re.co.jp/company/history/・1回目）
+- 検索結果の抜粋：
+  - 「ウイン・パートナーズ（3183）の事業内容・業績｜平均年収670万円（卸... — ウイン・パートナーズ（3183）は卸売業の会社。2026年3月期は売上904億円・営業利益30億円、平均年収670万円（卸売業277社の中で144位）。事業内容と業績を有価証券報告書の数字で図解。」（https://zukaikeizai.com/kaisha/3183/・3回目）
+  - 「株式会社パートナーズの決算公告・子会社・関連会社情報 | 官報決算デ... — 株式会社パートナーズの会社情報を掲載しています。最新の2021年6月期決算は純利益2億472万6874円、利益剰余金4億5609万8861円、総資産9億9407万6425円です。社会保険被保険者数は214人です。株式会社パートナーズの子会社・関連会社2社の情報も掲載しています。親会社は株式会社GA technologiesで ...」（https://catr.jp/companies/ea024/137506・3回目）
+  - 「企業情報｜株式会社パートナーズ企業情報 | 株式会社パートナーズ株式会社パートナーズ の企業情報 | バフェット・コード会社概要 | 企業情報 | 株式会社パートナーズ大手プライベート・マーケット - Partners Group — PARTNERSの企業理念である「笑顔の創造」 中核事業であるプロダクトに関わる全てのクリエイティブを表す「ものづくり」 そして、一番大切な「パートナー（ステークホルダー）との協力」 「笑顔をつくる ものをつくる 一緒につくる」 この3つの思いを胸にパートナーズは歩み続けます 企業 ... 会社概要 事業内容や所在地などの 会社概要をご案内します。 代表挨拶 パートナーズ代表 廣部 正太郎からのご挨拶です。 沿革 パートナーズのこれまでの あゆみをご紹介します。 当社DX推進の 姿勢 当社のDXを推進する背景と 想いをご紹介します。 株式会社パートナーズは、」（https://www.ptns-sp.com/company/・3回目）
+  - 「企業情報 | 株式会社パートナーズ — 会社概要 事業内容や所在地などの 会社概要をご案内します。 代表挨拶 パートナーズ代表 廣部 正太郎からのご挨拶です。 沿革 パートナーズのこれまでの あゆみをご紹介します。 当社DX推進の 姿勢 当社のDXを推進する背景と 想いをご紹介します。」（https://partners-re.co.jp/company/・3回目）
+  - 「株式会社パートナーズ の企業情報 | バフェット・コード — 株式会社パートナーズは、企業向けの販促グッズやOEM商品の企画・設計・開発・生産をワンストップで提供するメーカー兼サービス事業者です。法人顧客向けにはノベルティやプレミアムグッズのプロモーション開発を、年間1000アイテム規模のものづくりの実績で支援し、流通加工では加工 ...」（https://www.buffett-code.com/company/bo635rqlvj・3回目）
+  - 「資金調達サービス - RSM汐留パートナーズ — RSM汐留パートナーズの資金調達サービスの特徴 1 認定経営革新等支援機関であり資金調達コンサルタントが多数在籍 2 IPO準備会社の支援実績が豊富でありVCやエンジェルからの調達支援も可能 3」（https://shiodome.co.jp/services/solutions/business-financing/・3回目）
+  - 「トップページ - グロースパートナーズ株式会社 — Sep 10, 2026 · 「資金」と「ハンズオン支援」を提供 【資金】 上場企業：資金調達・非公開化/MBO 未上場企業：事業承継・売却・IPO 実現・資本構成変更 【ハンズオン支援】 提供サービス：事業・財務・法務など多面的な側面でアドバイスを提供」（https://www.growthpartner.co.jp/・3回目）
+  - 「株式会社CMRパートナーズ — 〇戦略的資本政策の策定支援 資金調達に関するストラテジック・アドバイザリー支援 1.エクイティ（資本）調達 2.デット（負債）調達 3.戦略的アドバイザリー 資金調達の目的や必要性を明確化し最適な手段を選定致します。 市場環境や企業の成長段階を考慮した包括的な戦略策定致します。」（https://cmr-partners.co.jp/・3回目）
+  - 「導入事例 | 株式会社いえらぶパートナーズ | グループウェア サイボウ... — Jun 12, 2025 · 賃貸保証事業や住生活関連総合アウトソーシング事業を行う、いえらぶパートナーズ。創業からわずか8年で、累計保証契約数50万件を突破するほどの急成長を見せる同社は、お客様の真のニーズに応える幅広いサービス展開を強みとしている。このスタイルを実現するために、重要な役割を ...」（https://office.cybozu.co.jp/cases/ielovepartners/index.html・3回目）
+  - 「導入事例 - 家賃保証・賃貸保証会社なら - いえらぶパートナーズ — 導入事例 2025.05.22 「いえらぶ保証 Web申込用QRコード｣を活用し、業務軽減に成功 導入事例 2024.12.5 事業用テナント保証と開業支援サービス利用で、家主様の信頼も収益もアップ！ 導入事例 2024.11.18 いえらぶ安心保証の「電子署名契約」で、業務の簡素化に ...」（https://ielove-partners.co.jp/media/category/case_study/・3回目）
+  - 「導入事例・活用事例一覧｜人材派遣・BPO・技術者派遣｜パーソルエクセ... — 人材派遣・BPO・技術者派遣・採用代行の導入事例を業種別にご紹介。貴社の参考になる成功事例をご覧いただけます。パーソルエクセルHRパートナーズの事例集です。」（https://client.persol-hrpartners.co.jp/case・3回目）
+  - 「会計システム導入事例│OPEN21導入事例│株式会社ICSパートナーズ — OPEN21シリーズは、確かな実績で評価される、完成度の高いパッケージシステム。数々の成功事例がその質の高さを証明しています。導入企業様やインタビュー形式の成功事例及び業種・課題・売上規模でさがせる成功事例概要を一挙公開しております。是非ご参考にして下さい。」（https://www.ics-p.net/case/tabid/128/Default.aspx・3回目）
+- 創業年度：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部24頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部24頁・検索11回）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部24頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部24頁・検索11回）
+
+## フクダ・アンド・パートナーズ
+- 公式URL：https://www.fandp.co.jp/（given）
+- 事業内容：ヤンゴン市における物流不動産、オフィス、商業の開発/施設運営/不動産開発/不動産（https://www.fandp.co.jp/globalservice/asia・1回目）
+- 事業内容：ミャンマーにおけるサービスアパートメントの不動産開発と不動産運営（https://www.fandp.co.jp/globalservice/asia・1回目）
+- 事業内容：F&P Myanmar のパートナー企業、BIM デザイン設計会社（https://www.fandp.co.jp/globalservice/asia・1回目）
+- 資本金：50百万円（https://www.fandp.co.jp/company/profile・1回目）
+- 創業年度：設立年月日：2018年6月26日（https://www.fandp.co.jp/globalservice/asia・1回目）
+- 創業年度：設立年月日：2015年11月2日（https://www.fandp.co.jp/globalservice/asia・1回目）
+- 創業年度：設立年月日：2020年2月5日（https://www.fandp.co.jp/globalservice/asia・1回目）
+- 売上高：11,839百万円（2026年10月期）（https://www.fandp.co.jp/company/profile・1回目）
+- 所在地：L.L.Town Building B 4F, No.53/62 Myanma Gon Yi St Tharkayta Industrial Zone, Tharkayta Township, Yangon, Myanmar Telephone: +95-9-4081-72356（https://www.fandp.co.jp/globalservice/asia・1回目）
+- 所在地：Reiwa Residence No.138(B), New University Avenue Road, Bahan Township, Yangon, Myanmar（https://www.fandp.co.jp/globalservice/asia・1回目）
+- 所在地：Myanma Gon Yi Street, No.53/62 Room B4-e ,4th Floor, FLP Tharkayta Bldg B, Tharkayta Industrial Zone, Tharkayta Township,, Yangon, Myanmar（https://www.fandp.co.jp/globalservice/asia・1回目）
+- 代表者：非表示中（https://houjin.goo.to/corporations/5010001086900・3回目）
+- 主要取引先：【ア行】 ㈱アインファーマシーズ／㈱赤福及びグループ会社（㈱日乃本米菓製造／㈱マスヤ)／アサガミ㈱／アサヒロジスティクス㈱／味の素㈱／東鋼業㈱／㈱アドバンテッジパートナーズ／アマゾンジャパン合同会社／㈱あらた／アラマークユニフォームサービスジャパン㈱／㈱アルプス物流／アルフレッサ㈱／イオン㈱及びグループ会社／イズミ物流㈱／伊藤忠商事㈱及びグループ会社／インベスコ・グローバル・リアルエステート・アジアパシフィック・インク／㈱ウラタ／エア・ウォーターグループ／SGホールディングス㈱及びグループ会社（佐川急便㈱／SGリアルティ㈱）／エスビー食品㈱／エスプールグループ／NTTグループ／NVデバイス㈱／ENEOS㈱／F-LINE㈱／王子グループ（王子製紙㈱／王子物流㈱）／大阪紙共同倉庫㈱／オザックス㈱／小田急電鉄㈱／講談社グループ（音羽建物㈱）／オリックス㈱及びグループ会社 【カ行】 カインズ商配㈱／花王㈱／KAKEHASHI Real Estate Group Co., Ltd.／㈱ガスター／加藤産業㈱／㈱カネサ藤原屋／㈱カワタキコーポレーション／㈱カワチ薬品／関電不動産開発㈱／キッコーマン食（https://www.fandp.co.jp/company/profile・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「「福島郡山LLタウン」開発について紹介する特集記事（後編）がL-NEWS「物流最前線」に公開されました」（https://www.fandp.co.jp/・1回目）
+  - 「機能支援やプロジェクトマネジメント業務を主力サービスとして」（https://www.fandp.co.jp/service/business-area・1回目）
+  - 「また、Ｆ＆Ｐの機動力を生かし、一括して推進するプロジェクトマネジメント業務の受託も可能です」（https://www.fandp.co.jp/service/business-area・1回目）
+  - 「物流・商業施設のテナントリーシング、土地売買仲介、土地有効利用事業構築 等」（https://www.fandp.co.jp/service/business-area・1回目）
+  - 「WEBサイトを利用した倉庫の仲介支援（掲載無料 家主側のみ仲介料が発生致します）」（https://www.fandp.co.jp/service/business-area・1回目）
+  - 「また、Ｆ＆Ｐの強みや機動力を活かし、一括して推進するプロジェクトマネジメント業務の受託も可能です」（https://www.fandp.co.jp/service/business-area・1回目）
+  - 「ここでは「プロジェクトの事例」を基に業務の流れを紹介します」（https://www.fandp.co.jp/service/fp-flow・1回目）
+  - 「ヤンゴン市における物流不動産、オフィス、商業の開発/施設運営/不動産開発/不動産」（https://www.fandp.co.jp/globalservice/asia・1回目）
+  - 「ミャンマーにおけるサービスアパートメントの不動産開発と不動産運営」（https://www.fandp.co.jp/globalservice/asia・1回目）
+  - 「【事業内容】60歳以上のシニアで構成された、建築・不動産の専門サービス会社」（https://www.fandp.co.jp/company/profile・1回目）
+  - 「【事業内容】ほぼ紙トイレの製造販売事業、BCP支援事業」（https://www.fandp.co.jp/company/profile・1回目）
+  - 「【事業内容】「郡山中央スマートIC」隣接地における防災機能併設の「環境配慮型物流施設」のある街作り」（https://www.fandp.co.jp/company/profile・1回目）
+- 客は誰か：
+  - 「今回『福島郡山LLタウン棟』に開設した、法人向けにコントラクトロジスティクスサービスを提供する郡山ロジセンターに加え、『プロロジスパーク郡山1』に福島県下の宅急便の全国仕分け・輸配送機能や管理・営業機能を移転させる」（https://www.lnews.jp/2026/02/s0219101.html・3回目）
+  - 「2021年12月 経済産業省「はばたく中小企業・小規模事業者300社」に選定」（https://www.lnews.jp/2026/02/s0219101.html・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「フクダ・アンド・パートナーズ（F&P）は、物流施設・商業施設作りに特化した建設と不動産の専門パートナーとして、」（https://www.fandp.co.jp/・1回目）
+  - 「総合物流会社のみなさま「仙台長町未来共創センター」を見学されました」（https://www.fandp.co.jp/・1回目）
+  - 「当社代表のインタビュー記事が4/28発行の物流ニッポンに掲載されました」（https://www.fandp.co.jp/・1回目）
+  - 「「福島郡山LLタウン」開発について紹介する特集記事（後編）がL-NEWS「物流最前線」に公開されました」（https://www.fandp.co.jp/・1回目）
+  - 「倉庫、物流施設を所有・管理しているオーナー様に、テナント企業様がお探しの倉庫情報を公開しています」（https://www.fandp.co.jp/・1回目）
+  - 「メンバー平均72歳、最高齢81歳！アクティブシニア世代を代表する「建築と不動産のプロ集団」です」（https://www.fandp.co.jp/・1回目）
+  - 「LNEWSは、物流・ロジスティクス・ＳＣＭ分野の最新ニュース・情報を発信しています」（https://www.fandp.co.jp/・1回目）
+  - 「深松組ミャンマーへ10％出資し、ミャンマーで初の不動産事業へ参画」（https://www.fandp.co.jp/company/changes・1回目）
+  - 「FLP Tharkayta Co., Ltd. (ミャンマー、タケタ）設立、ミャンマーで初の物流不動産開発」（https://www.fandp.co.jp/company/changes・1回目）
+  - 「1.年間契約：「建設部」や「不動産部」の機能支援業務」（https://www.fandp.co.jp/service/business-area・1回目）
+  - 「「建設部」や「不動産部」「開発部」など専門部署がないお客様のパートナーとなり、機能支援を行います」（https://www.fandp.co.jp/service/business-area・1回目）
+  - 「物流施設・商業施設・オフィスビルのプロパティマネジメント及びビルマネジメント」（https://www.fandp.co.jp/service/business-area・1回目）
+- 資本金・株主：
+  - 「資本金を3,000万円に増資」（https://www.fandp.co.jp/company/changes・1回目）
+  - 「資本金を5,000万円に増資」（https://www.fandp.co.jp/company/changes・1回目）
+  - 「深松組ミャンマーへ10％出資し、ミャンマーで初の不動産事業へ参画」（https://www.fandp.co.jp/company/changes・1回目）
+  - 「株式会社フクダ・アンド・パートナーズ(東京都中央区/未上場)の評判・口コミ・インボイス番号・会社概要 | 全国法人検索」（https://houjin.goo.to/corporations/5010001086900・3回目）
+  - 「建設計画支援業務（コンサルタント、ＰＭ・ＣＭ業務・マーケット調査、工事監理他） 営業支援業務（顧客開拓、営業代行、販売チャンネル開拓、企業ニーズ調査、土地、倉庫紹介）株式会社フクダ・アンド・パートナーズの資本金は、5000万円 です」（https://houjin.goo.to/corporations/5010001086900・3回目）
+- 検索結果の抜粋：
+  - 「企業概要 | 株式会社フクダ・アンド・パートナーズ — 2026年10月更新 商号 株式会社 フクダ・アンド・パートナーズ （英語表記: Fukuda and Partners Co., Ltd.） 本社所在地 〒103-0016 東京都中央区日本橋小網町7-2 ぺんてるビル8F (総合受付） T」（https://www.fandp.co.jp/company/profile・3回目）
+  - 「株式会社フクダ・アンド・パートナーズ (東京都中央区/未上場)の評判...会社概要｜株式会社フクダ・アンド・パートナーズ株式会社フクダ・アンド・パートナーズ (東京都中央区)の評判・口コミ...株式会社フクダ・アンド・パートナーズ (東京都中央区)の企業詳細 - ...株式会社フクダ・アンド・パートナーズの会社概要とプレスリリース — 株式会社フクダ・アンド・パートナーズ（本社東京都中央区・未上場・資本金5,000万円・従業員205名）の会社概要・住所・電話番号・業種・資本金を掲載。法人番号5010001086900のインボイス登録番号、役員、グループ会社、決算公告まで無料で確認できる全国法人検索。 株式会社フクダ・アンド・パートナーズ 東京都中央区日本橋小網町7-2 TEL：03-5623-5788 Oct 9, 2026 · 株式会社フクダ・アンド・パートナーズ (フクダアンドパートナ」（https://houjin.goo.to/corporations/5010001086900・3回目）
+  - 「会社概要｜株式会社フクダ・アンド・パートナーズ株式会社フクダ・アンド・パートナーズ (東京都中央区)の評判・口コミ...株式会社フクダ・アンド・パートナーズ (東京都中央区)の企業詳細 - ...株式会社フクダ・アンド・パートナーズの会社概要とプレスリリース — 株式会社フクダ・アンド・パートナーズ 東京都中央区日本橋小網町7-2 TEL：03-5623-5788 Oct 9, 2026 · 株式会社フクダ・アンド・パートナーズ (フクダアンドパートナーズ)の本店住所は東京都中央区日本橋小網町7番2号にあり、法人番号は5010001086900で、設立日は2001年12月です。 最新の登記情報では、2016年3月に住所の変更をしました。 2001年12月に設立され、福田哲也が社長/代表を務める法人番号5010001086900の株式会社フクダ・アンド・パートナーズの住所/地図、業種、売上/」（https://www.kensetumap.com/company/193162/profile.php・3回目）
+  - 「株式会社フクダ・アンド・パートナーズ (東京都中央区)の評判・口コミ...株式会社フクダ・アンド・パートナーズ (東京都中央区)の企業詳細 - ...株式会社フクダ・アンド・パートナーズの会社概要とプレスリリース — Oct 9, 2026 · 株式会社フクダ・アンド・パートナーズ (フクダアンドパートナーズ)の本店住所は東京都中央区日本橋小網町7番2号にあり、法人番号は5010001086900で、設立日は2001年12月です。 最新の登記情報では、2016年3月に住所の変更をしました。 2001年12月に設立され、福田哲也が社長/代表を務める法人番号5010001086900の株式会社フクダ・アンド・パートナーズの住所/地図、業種、売上/利益/資本金、電話番号、サイト情報、求人を始め、全国法人リストでは全国500万件の様々な企業/法人の情報を掲載。 法人概要 株式会社フクダ・アンド・パ」（https://alarmbox.jp/companyinfo/entities/5010001086900・3回目）
+  - 「株式会社フクダ・アンド・パートナーズ (東京都中央区)の企業詳細 - ... — 2001年12月に設立され、福田哲也が社長/代表を務める法人番号5010001086900の株式会社フクダ・アンド・パートナーズの住所/地図、業種、売上/利益/資本金、電話番号、サイト情報、求人を始め、全国法人リストでは全国500万件の様々な企業/法人の情報を掲載。」（https://houjin.jp/c/5010001086900・3回目）
+  - 「株式会社フクダ・アンド・パートナーズの会社情報・決算公告 | 官報決... — Jul 6, 2026 · 株式会社フクダ・アンド・パートナーズの会社情報を掲載しています。社会保険被保険者数は187人です。所在地は東京都中央区日本橋小網町7番2号です。」（https://catr.jp/companies/54ad4/205655・3回目）
+  - 「株式会社フクダ・アンド・パートナーズ (東京都中央区)の評判・口コミ...フクダ・アンド・パートナーズの企業概要・売上・業績など｜Yahoo!し...株式会社フクダ・アンド・パートナーズってどんな会社？事業内容、仕... — Oct 9, 2026 · 株式会社フクダ・アンド・パートナーズ (フクダアンドパートナーズ)の本店住所は東京都中央区日本橋小網町7番2号にあり、法人番号は5010001086900で、設立日は2001年12月です。最新の登記情報では、2016年3月に住所の変更をしました。また、株式会社フクダ・アンド・パートナーズの住所の変更 ... 株式会社フクダ・アンド・パートナーズ 【東京】建築施工監理 完全週休2日 年間休日125日 【仕事内容】 【東京】建築施工監理 完全週休2日 年間休日125日 【具体的な仕事内容】 ＜創業以来、増収増益の安定した経営基盤／商業と物流のト」（https://alarmbox.jp/companyinfo/entities/5010001086900・3回目）
+  - 「フクダ・アンド・パートナーズの企業概要・売上・業績など｜Yahoo!し... — 株式会社フクダ・アンド・パートナーズ 【東京】建築施工監理 完全週休2日 年間休日125日 【仕事内容】 【東京】建築施工監理 完全週休2日 年間休日125日 【具体的な仕事内容】 ＜創業以来、増収増益の安定した経営基盤／商業と物流のトータル ...」（https://jobcatalog.yahoo.co.jp/company/2001762507/information/・3回目）
+  - 「株式会社フクダ・アンド・パートナーズってどんな会社？事業内容、仕... — May 7, 2024 · 株式会社フクダ・アンド・パートナーズってどんな会社？ 株式会社フクダ・アンド・パートナーズの主な事業内容について教えてください。 株式会社フクダ・アンド・パートナーズは、建設計画支援業務、営業支援業務、そしてPM／BM業務などを行ってい ...」（https://jobhakase.com/archives/12058・3回目）
+  - 「株式会社フクダ・アンド・パートナーズ — フクダ・アンド・パートナーズ（F&P）は、物流施設・商業施設作りに特化した建設と不動産の専門パートナーとして、 お客様の最適な施設作りに貢献する「コ・ソーシングサービス」を提供いたします。」（https://www.fandp.co.jp/・3回目）
+  - 「株式会社フクダ・アンド・パートナーズ の企業情報 | バフェット・コ... — 株式会社フクダ・アンド・パートナーズは、物流施設や商業施設の用地探索から施設計画・設計監理、プロジェクトマネジメント、施工支援、竣工後のリーシングやプロパティマネジメントまでを一貫提供する建設・不動産の実務サービスを展開しています。年間契約による機能支援やPJM業務を ...」（https://www.buffett-code.com/company/8rc63txifc/・3回目）
+  - 「株式会社フクダ・アンド・パートナーズの役員経歴 | IRBANK — ホーム 株式会社フクダ・アンド・パートナーズ 株式会社フクダ・アンド・パートナーズの役員経歴 株式会社フクダ・アンド・パートナーズ 法人番号 5010001086900 AIに相談する IRBANK AIに無料相談 IRBANKをAIにつなぐ 普段使っているAIに聞く」（https://irbank.net/株式会社フクダ・アンド・パートナーズ・3回目）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部17頁・検索11回）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部17頁・検索11回）
+- 選出の記録：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部17頁・検索11回）
+
+## ブロックバリュー
+- 公式URL：https://blockvalue.ai/（given）
+- 資本金：1億円（https://blockvalue.ai/company/information/・1回目）
+- 資本金：10,000,000円（https://blockvaluemanagement.co.jp/about/・3回目）
+- 創業年度：設立：2022年8月31日（https://blockvalue.ai/company/information/・1回目）
+- 創業年度：設立：2023年8月28日（https://blockvaluemanagement.co.jp/about/・3回目）
+- 創業年度：設立：2022/08（https://initial.inc/companies/A-MCEJW・3回目）
+- 株主：VC不明（https://initial.inc/companies/A-MCEJW・3回目）
+- 所在地：〒105-0001 東京都港区虎ノ門5丁目11番1号オランダヒルズ森タワーRoP7F-07（https://blockvalue.ai/company/information/・1回目）
+- 所在地：石川県志賀町（https://blockvalue.ai/company/factory/・1回目）
+- 所在地：〒105-0001 東京都港区虎ノ門5丁目11番1号 オランダヒルズ森タワーRoP 7F-07（https://blockvaluemanagement.co.jp/about/・3回目）
+- 代表者：柿谷義彦（https://blockvalue.ai/company/information/・1回目）
+- 代表者：柿谷 義彦（https://blockvaluemanagement.co.jp/about/・3回目）
+- 代表者：柿谷　義彦（https://initial.inc/companies/A-MCEJW・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「ブロックバリューは、ハイスピードコンピューティングを提供するGPU搭載AIサーバー（テラフロップス）「Win Supreme G11」の製造および販売事業を行う国産メーカーです」（https://blockvalue.ai/company/・1回目）
+  - 「ぷらっとホーム株式会社（東証スタンダード）の取締役COOとしての業務執行とともに、IT企業をはじめ製造業、建設業、小売業など幅広い企業の社外役員や顧問弁護士として活動している」（https://blockvalue.ai/company/member/・1回目）
+  - 「データセンターは、かつて精密機械の製造に用いられていたため、計算機稼働に十分な容量の受電設備が備わっており、加えて敷地面積が約 24,000 ㎡、建物内面積が約 7,000 ㎡あり、将来に備えた高い設備拡張性があります」（https://blockvalue.ai/company/factory/・1回目）
+  - 「私たちが目指すのは、国産のAIサーバーの製造メーカーとして自社で演算処理出力を高められる稀有なサービスを磨き抜き、現場で成果を出す“実装力”で評価されることです」（https://blockvalue.ai/company/ceo-message/・1回目）
+  - 「2.株式会社ブロックバリューマネジメント：会社概要/保守管理及び計算力販売代行について」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「運営開始 2023年9月」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「たり32円×60％＝19.2円という電気料金でサーバー運営を行うことを可」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「*1 発電の用に供する設備にあっては、主として電気の販売を行うために取得又は製作をするもの（経営力向上計画の」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「実施時期のうちで発電した電気の販売を行う期間中の発電量のうち、販売を行うことが見込まれる電気の量が占め」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「気の販売を行うために取得又は建設をするものを除く」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「*4 複写して販売するための原本、開発研究用のもの、サーバー用OS のうち一定のものなどは」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「へのアクセスに対して月額または年額の固定料」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+- 客は誰か：
+  - 「Win Supreme G11は、中小企業庁の推進する「中小企業等経営強化法」に基づく税制特例措置（中小企業経営強化税制）における対象設備（生産性向上設備（A類型））として認定されています」（https://blockvalue.ai/service/・1回目）
+  - 「」というスローガンには、地域・中堅中小企業・研究機関・行政の潜在力を、データと計算力でつなぎ直し、確かな成果へ変えていくという決意を込めました」（https://blockvalue.ai/company/ceo-message/・1回目）
+  - 「1.株式会社ブロックバリュー：会社概要/中小企業強化税制を活用したGPUサーバーについて」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「100%の中小企業経営強化税制認定率」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「中小企業強化税制の利用による100％即時償却メリット」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「当社の製品を購入する際に、「中小企業等経営強化法」に基く、中小企業・小規模事業者・中堅企業等の「経営力向上計画」の認定を受けることで「中小企業経営強化税制」が適応」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「中小企業者等が、指定期間内に中小企業等経営強化法の認定を受けた経営力向上計画に基づいて一定の設備を新規取得し、 指定された事業に利用した」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「※ 中小企業等経営強化法第 2 条第 6 項に規定する「特定事業者等」に該当するものに限ります」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「の間に当該大法人に よ る完全支配関係がある法人等をいい、独立行政法人中小企業基盤整備機構（中小企」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「※ 内容は更新される可能性がありますので、中小企業庁のホームページ（https://www.chusho.meti.go.jp/keiei/kyoka/）に掲載の最新の情報も併せてご確認ください」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「中小企業等経営強化法に基く、中小企業・小規模事業者・中堅企業等の「経営力向上計画」申請を行う際に、GビズIDが必要になります」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「経営力強化プラットフォームにおいて、中小企業強化税制を活用する場合は購入した決算内にGPUサーバー決算内に納品とサー」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「三井住友銀行 / みなと銀行 / GMOあおぞらネット銀行」（https://blockvalue.ai/company/information/・1回目）
+  - 「電力および冷却性能は、350Wアクセラレータを想定して設計されており、安定した信号品質よるパフォーマンスと信頼性の高い運用を実現しています」（https://blockvalue.ai/service/・1回目）
+  - 「ブロックバリューは、ハイスピードコンピューティングを提供するGPU搭載AIサーバー（テラフロップス）「Win Supreme G11」の製造および販売事業を行う国産メーカーです」（https://blockvalue.ai/company/・1回目）
+  - 「ぷらっとホーム株式会社（東証スタンダード）の取締役COOとしての業務執行とともに、IT企業をはじめ製造業、建設業、小売業など幅広い企業の社外役員や顧問弁護士として活動している」（https://blockvalue.ai/company/member/・1回目）
+  - 「企業法務のほか、労働事件、交通事故等の一般民事事件、相続や離婚などの家事事件も取り扱うほか地方自治体の業務に従事している」（https://blockvalue.ai/company/member/・1回目）
+  - 「両者の融合は、ヘルスケア・ライフサイエンス、金融、サプライチェーンなど、多様な分野で新しい意思決定の標準を生み出します」（https://blockvalue.ai/company/ceo-message/・1回目）
+  - 「私たちが目指すのは、国産のAIサーバーの製造メーカーとして自社で演算処理出力を高められる稀有なサービスを磨き抜き、現場で成果を出す“実装力”で評価されることです」（https://blockvalue.ai/company/ceo-message/・1回目）
+  - 「備、東日本大震災等の災害救助支援、および教育訓練、」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「200社以上の法人顧客契約」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「電力を削減し、脱炭素を推進」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「第一データセンターの管轄となる北陸電力の場合、通常1kwあたり32円の」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「しかし、当社では、志賀町から40％の電力補助を受けているため1kwあ」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+- 資本金・株主：
+  - 「株式会社ブロックバリューマネジメント子会社化のお知らせ」（https://blockvalue.ai/・1回目）
+  - 「資本金 100,000,000円」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「● 資本金の額または出資金の額が1億円以下」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「次の法人は、資本金又は出資金の額が 1 億円以下でも本税制措置の対象とはなりません」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「・同一の大規模法人* から 2 分の 1 以上の出資を受ける法人」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「・2 以上の大規模法人* から 3 分の 2 以上の出資を受ける法人」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「* 大規模法人とは、資本金又は出資金の額が 1 億円超の法人、資本金又は出資金を有しない法人のうち常時」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「使用する従 業員数が1,000 人超の法人又は大法人（ 資本金又は出資金の額が 5 億円以上である法人等）と」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「資本金 10,000,000円」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「東証スタンダード上場企業のCOOを務めた経歴を持つ、企業法務を専門とする弁護士が社外取締役に就任」（https://chikara-5.com/partner/blockvalue・3回目）
+  - 「新役員の就任は2025 年３月 28 日開催予定の定時株主総会にて承認可決をもって正式に決定する予定だそうです」（https://note.com/gay_pika8766/n/n4a10af58ef0b・3回目）
+  - 「子会社antzの株式譲渡実行日が2025 年３月 31 日予定となっていますから４月からの新生フォーサイドとなります」（https://note.com/gay_pika8766/n/n4a10af58ef0b・3回目）
+- 選出の記録：
+  - 「2026年度『ベストベンチャー100』に選出されました」（https://blockvalue.ai/・1回目）
+  - 「ベストベンチャー100 受賞」（https://chikara-5.com/partner/blockvalue・3回目）
+  - 「2022年設立、2025年・2026年と「ベストベンチャー100」に選出されています」（https://chikara-5.com/partner/blockvalue・3回目）
+- 検索結果の抜粋：
+  - 「INFORMATION | 株式会社ブロックバリュー株式会社ブロックバリューABOUT – 株式会社ブロックバリューマネジメント株式会社ブロックバリュー（東京都）の会社概要・役員 | Compalyze株式会社ブロックバリューの企業情報｜KnockList（ノックリスト）株式会社ブロックバリュー｜スピーダ スタートアップ情報リサーチ株式会社ブロックバリューマネジメント – 株式会社ブロックバリューマ... — Aug 31, 2022 · 会社名 株式会社ブロックバリュー 英文名 Blockvalue Inc. 本社 〒105-0001東京都港区虎ノ門5丁目11番1号オランダヒルズ森タワーRoP7F-07 志賀町第一データセンター 石川県志賀町 設立 20 […] ブロックバリューは、ハイスピードコンピューティングを提供するGPU搭載AIサーバー「Win Supreme G11」の製造およ」（https://blockvalue.ai/company/information/・3回目）
+  - 「株式会社ブロックバリュー — ブロックバリューは、ハイスピードコンピューティングを提供するGPU搭載AIサーバー「Win Supreme G11」の製造および販売事業を行う国産メーカーです。世界中でAIの需要が急増している中で、ブロックバリューは超高速計算力及び人材育成で日本企業の活躍を強力に後押しするとともに ...」（https://blockvalue.ai/・3回目）
+  - 「ABOUT – 株式会社ブロックバリューマネジメント株式会社ブロックバリュー（東京都）の会社概要・役員 | Compalyze株式会社ブロックバリューの企業情報｜KnockList（ノックリスト）株式会社ブロックバリュー｜スピーダ スタートアップ情報リサーチ株式会社ブロックバリューマネジメント – 株式会社ブロックバリューマ... — Aug 28, 2023 · 会社概要 会社名株式会社ブロックバリューマネジメント所在地〒105-0001東京都港区虎ノ門5丁目11番1号オランダヒルズ森タワーRoP 7F-07設立2023年8... 〒105-0001 東京都港区に本社を置く株式会社ブロックバリューの企業情報。株式会社ブロックバリューは、日本発の高性能計算インフラを提供し。MFG (MFG-07)、2022年設立、社会保険被保険者数21名。代表者 柿谷義彦。役員1名・登記5件。 株式会社ブ」（https://blockvaluemanagement.co.jp/about/・3回目）
+  - 「株式会社ブロックバリュー（東京都）の会社概要・役員 | Compalyze — 〒105-0001 東京都港区に本社を置く株式会社ブロックバリューの企業情報。株式会社ブロックバリューは、日本発の高性能計算インフラを提供し。MFG (MFG-07)、2022年設立、社会保険被保険者数21名。代表者 柿谷義彦。役員1名・登記5件。」（https://compalyze.co.jp/company/4011001149573・3回目）
+  - 「株式会社ブロックバリューの企業情報｜KnockList（ノックリスト） — 株式会社ブロックバリュー／東京都港区虎ノ門5丁目11番1号／設立2022年の企業情報。所在地・業種・設立年・資本金・従業員数などを掲載しています（電話番号・FAX・メールは非掲載）。」（https://www.knocklist.jp/company/EZ5xOPwwALRl・3回目）
+  - 「COMPANY | 株式会社ブロックバリュー — COMPANY ブロックバリューは、ハイスピードコンピューティングを提供するGPU搭載AIサーバー（テラフロップス）「Win Supreme G11」の製造および販売事業を行う国産メーカーです。」（https://blockvalue.ai/company/・3回目）
+  - 「株式会社ブロックバリュー GPUサーバー事業について — 株式会社ブロックバリュー GPUサーバー事業について テラフロップス(計算力)を生成し、テラフロップスを供給をする 最先端技術で事業収益を得られます」（https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf・3回目）
+  - 「株式会社ブロックバリューってどんな会社？事業内容、仕事内容、働き... — Mar 28, 2024 · 株式会社ブロックバリューってどんな会社？ 株式会社ブロックバリューはどんな会社ですか？ 株式会社ブロックバリューは、大量のデータ解析に必要な、高い計算力を提供するGPUサーバーの製造・販売を行っている企業です。」（https://jobhakase.com/archives/9722・3回目）
+  - 「株式会社ブロックバリュー 柿谷 義彦 | ベストベンチャー100 — ─ 御社の事業内容を教えて下さい。 ブロックバリューは、ハイスピードコンピューティングを提供するGPU搭載AIサーバー (テラフロップス)「Win Supreme G11」の製造および販売を行う国産メーカーです。」（https://best100.v-tsushin.jp/company/blockvalue/・3回目）
+  - 「株式会社ブロックバリュー｜スピーダ スタートアップ情報リサーチ — Aug 6, 2025 · ニュース 資金調達・提携ニュース 事業提携 2025/08/05 ブロックバリュー、みなと銀行と業務提携 国境に関係なく利用可能な拠点を増やし、分散処理によって次世代AI開発のサポートを目指す 事業提携 2024/04/30」（https://initial.inc/companies/A-MCEJW・3回目）
+  - 「INFORMATION | 株式会社ブロックバリュー【ERTH Group】新株予約権を活用した資金調達とバリュー投資事業の展...株式会社ブロックバリューERTHがS高カイ気配、新株予約権で資金調達しバリュー投資事業開始へ |...ERTHがS高カイ気配、新株予約権で資金調達しバリュー投資事業開始へER...株式会社ブロックバリュー | 4011001149573 | Gビズインフォ — Aug 31, 2022 · 会社名 株式会社ブロックバリュー 英文名 Blockvalue Inc. 本社 〒105-0001東京都港区虎ノ門5丁目11番1号オランダヒルズ森タワーRoP7F-07 志賀町第一データセンター 石川県志賀町 設立 20 […] 6 days ago · ERTH Group Co.,Ltd. 新株予約権の発行・無償割当てを通じた約207.5億円の資金調達を実施。バリュー投」（https://blockvalue.ai/company/information/・3回目）
+  - 「SERVICE | 株式会社ブロックバリュー — GPUインテンシブなワークロードにおける パフォーマンスの向上 ディープラーニングやハイパフォーマンスコンピューティングのワークロードパフォーマンスを向上させるために、Win Supreme G11はトップクラスのアクセラレータテクノロジーを採用しています。このテクノロジーにより、GPU間で ...」（https://blockvalue.ai/service/・3回目）
+- 事業内容：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部16頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部16頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部16頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部16頁・検索11回）
+
+## ヘイフィールド
+- 公式URL：https://hayfield.jp/（given）
+- 事業内容：人材サービス事業 インターネットメディア事業（https://hayfield.jp/company/・1回目）
+- 所在地：〒150-0013 東京都渋谷区恵比寿１‐23‐23 恵比寿スクエア５F（https://hayfield.jp/company/・1回目）
+- 所在地：東京都品川区西五反田七丁目1番10号 同じ住所の会社を検索（https://catr.jp/companies/b3f30/162268/settlements/a3557/395855・3回目）
+- 所在地：東京都渋谷区恵比寿1丁目23番23号 同じ住所の会社を検索（https://catr.jp/companies/b3f30/162268・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「不動産業界専門の人材紹介サービス「宅建Jobエージェント」」（https://hayfield.jp/・1回目）
+  - 「「建設ワークキャリア」は建設業界専門の人材紹介サービスです」（https://hayfield.jp/・1回目）
+  - 「「宅建Jobスタッフィング」は不動産業界専門の人材派遣サービスです」（https://hayfield.jp/・1回目）
+  - 「不動産業界専門の人材紹介サービス「宅建Jobエージェント」」（https://hayfield.jp/service/・1回目）
+  - 「最適な求人を紹介し、二人三脚で内定までをサポートします」（https://hayfield.jp/service/・1回目）
+  - 「求職者の希望にあった最適な求人を精査して紹介しています」（https://hayfield.jp/service/・1回目）
+  - 「登録から求人紹介、書類添削、面接対策など、全サポートを無料で利用することができます」（https://hayfield.jp/service/・1回目）
+  - 「「セールスJobエージェント」は営業職に特化した人材紹介サービスです」（https://hayfield.jp/service/・1回目）
+  - 「営業職への転職を目指す方には、希望や強みに合った求人のご紹介から選考対策まで伴走」（https://hayfield.jp/service/・1回目）
+  - 「営業人材を採用したい企業には、求める人物像に合った人材をご紹介し、採用を支援しています」（https://hayfield.jp/service/・1回目）
+  - 「「建設ワークキャリア」は建設業界専門の人材紹介サービスです」（https://hayfield.jp/service/・1回目）
+  - 「「宅建Jobスタッフィング」は不動産業界専門の人材派遣サービスです」（https://hayfield.jp/service/・1回目）
+- 客は誰か：
+  - 「地域密着の中小企業から、全国展開の大企業まで幅広く求人を取り揃えています」（https://hayfield.jp/service/・1回目）
+  - 「施工管理、設計などのお仕事を探している方々の転職支援を行うと共に、地場〜中小企業から大手企業まで幅広い企業の採用をサポートしています」（https://hayfield.jp/service/・1回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります」（https://hayfield.jp/company/・1回目）
+  - 「不動産業界特化型の転職エージェントとして利用者数・転職支援実績（累計）No.1*の当社が、これまで培ってきたノウハウと企業ネットワークを活かします」（https://hayfield.jp/news/3118/・1回目）
+  - 「小林氏：PORTERS Agent導入前は、スプレッドシートや幅広い業界向けの業務管理クラウドサービスを使っていました」（https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story・3回目）
+  - 「小林氏：階層の分かれ方やフェーズ管理が人材業界向けになっているので、データ分析や履歴確認の操作がしやすいです」（https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story・3回目）
+  - 「以前は医療・福祉業界特化のキャリアアドバイザーをしておりました」（https://www.wantedly.com/companies/company_38863/members・3回目）
+  - 「【不動産業界特化の転職支援とは？】キャリアアドバイザーのやりがいと魅力」（https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89・3回目）
+  - 「【社員紹介】ブライダル業界から人材業界へ！苦労を乗り越え、大手企業から「紹介実績全国1位」を2度受賞」（https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89・3回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、法人向け有料会員制サービスになります」（https://note.com/ideal_honest4397/n/naf4d4eca70ab・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「このミッションを実現するために、現在は不動産・建設業界を対象に、」（https://hayfield.jp/・1回目）
+  - 「不動産業界専門の人材紹介サービス「宅建Jobエージェント」」（https://hayfield.jp/・1回目）
+  - 「不動産業界最大級の求人情報サイト「不動産ジョブ」」（https://hayfield.jp/・1回目）
+  - 「不動産業界専門の求人・転職情報を掲載しています」（https://hayfield.jp/・1回目）
+  - 「「建設ワークキャリア」は建設業界専門の人材紹介サービスです」（https://hayfield.jp/・1回目）
+  - 「「宅建Jobスタッフィング」は不動産業界専門の人材派遣サービスです」（https://hayfield.jp/・1回目）
+  - 「私たちは「社会の幸せ」に向けて、目の前の顧客や共に働く社員を幸せにするために、これからも価値のあるサービスをつくり続けます」（https://hayfield.jp/・1回目）
+  - 「このミッションを実現するために、現在は不動産・建設業界を対象に、」（https://hayfield.jp/about/・1回目）
+  - 「私たちは「社会の幸せ」に向けて、目の前の顧客や共に働く社員を幸せにするために、これからも価値のあるサービスをつくり続けます」（https://hayfield.jp/about/・1回目）
+  - 「不動産業界専門の人材紹介サービス「宅建Jobエージェント」」（https://hayfield.jp/service/・1回目）
+  - 「宅建Jobエージェントは、キャリアアドバイザーが「転職希望者」と「採用企業」の間に入り求人のご提案、書類添削、内定、入社後フォローまでを一貫してお手伝いさせていただく不動産業界専門の「転職支援サービス」です」（https://hayfield.jp/service/・1回目）
+  - 「不動産業界に詳しいキャリアアドバイザーが、求職者の希望条件を個別にヒアリング」（https://hayfield.jp/service/・1回目）
+- 資本金・株主：
+  - 「また、東証一部上場企業や大手フランチャイズを筆頭に1,500社以上の企業の採用をサポートしています」（https://hayfield.jp/・1回目）
+  - 「また、東証一部上場企業や大手フランチャイズを筆頭に1,500社以上の企業の採用をサポートしています」（https://hayfield.jp/service/・1回目）
+  - 「ヘイフィールドの決算・売上・資本金｜官報決算公告データ | Firmnavi」（https://firmnavi.com/companies/g76-013・3回目）
+  - 「株式会社フルキャストホールディングスの子会社・関連会社一覧」（https://catr.jp/companies/b3f30/162268/settlements/a3557/395855・3回目）
+  - 「子会社・関連会社一覧を見る(全37社)」（https://catr.jp/companies/b3f30/162268/settlements/a3557/395855・3回目）
+  - 「株式会社フルキャストホールディングスの子会社・関連会社一覧」（https://catr.jp/companies/b3f30/162268・3回目）
+  - 「子会社・関連会社一覧を見る(全37社)」（https://catr.jp/companies/b3f30/162268・3回目）
+- 選出の記録：
+  - 「2026年度『ベストベンチャー100』に」（https://hayfield.jp/company/・1回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります」（https://hayfield.jp/company/・1回目）
+  - 「イシン株式会社にエントリーした企業の中から、イシン株式会社が厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://hayfield.jp/company/・1回目）
+  - 「ベストベンチャー100について」（https://hayfield.jp/company/・1回目）
+  - 「【お知らせ】2026年『ベストベンチャー100』にヘイフィールドが選出されました！｜株式会社ヘイフィールド 採用チーム」（https://note.com/ideal_honest4397/n/naf4d4eca70ab・3回目）
+  - 「【お知らせ】2026年『ベストベンチャー100』にヘイフィールドが選出されました！」（https://note.com/ideal_honest4397/n/naf4d4eca70ab・3回目）
+  - 「ベストベンチャー100」（https://note.com/ideal_honest4397/n/naf4d4eca70ab・3回目）
+  - 「▼弊社紹介ページ｜ベストベンチャー100」（https://note.com/ideal_honest4397/n/naf4d4eca70ab・3回目）
+  - 「ベストベンチャー100とは？」（https://note.com/ideal_honest4397/n/naf4d4eca70ab・3回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、法人向け有料会員制サービスになります」（https://note.com/ideal_honest4397/n/naf4d4eca70ab・3回目）
+  - 「エントリーいただいた企業に対して厳正な審査を行い、選出されたベンチャー企業を「ベストベンチャー100」として紹介しています」（https://note.com/ideal_honest4397/n/naf4d4eca70ab・3回目）
+  - 「ベストベンチャー100について」（https://note.com/ideal_honest4397/n/naf4d4eca70ab・3回目）
+- 検索結果の抜粋：
+  - 「会社情報 | 株式会社ヘイフィールド | Hayfield Inc. — ヘイフィールドが選出されました。 「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります。」（https://hayfield.jp/company/・3回目）
+  - 「ヘイフィールドの決算・売上・資本金｜官報決算公告データ | Firmnavi — ヘイフィールド ヘイフィールド 株式会社ヘイフィールド 基本情報 ... 決算情報 ... 自己資本比率: 76.0% 出典: 2026年3月31日 官報号外第76号・貸借対照表の要旨（千円単位・内閣府官報発行サイト 公共データ利用規約第1.0版に基づき加工） 2025年度 官報 決算 ...」（https://firmnavi.com/companies/g76-013・3回目）
+  - 「株式会社ヘイフィールド（東京都）の会社概要・役員 | Compalyze — 株式会社ヘイフィールドは、2025年11月に不動産業界に特化した人材派遣サービス「宅建Jobスタッフィング」の営業を開始しました。 2026年6月には「宅建Jobエージェント」を運営する同社がサカイ引越センターと業務提携を行っています。」（https://compalyze.co.jp/company/3010001199729・3回目）
+  - 「株式会社ヘイフィールド | OpenBizGraph — 会社名 株式会社ヘイフィールド サイト https://hayfield.jp/ 開始日 2019-04-01 終了日 銘柄コード 上場市場 国 Japan 事業内容 人材サービス事業 インターネットメディア事業 所在地 東京都渋谷区恵比寿1‐23‐23 恵比寿スクエア5F 社長 黒川 一徳 資本金 従業員数 (単独)」（https://openbizgraph.com/detail/19537・3回目）
+  - 「株式会社ヘイフィールド (東京都渋谷区)の評判・口コミ・インボイス登... — Aug 25, 2026 · ヘイフィールド 株式会社ヘイフィールド 株式会社ヘイフィールド (ヘイフィールド)の本店住所は東京都渋谷区恵比寿1丁目23番23号にあり、法人番号は3010001199729で、設立日は2019年4月です。 最新の登記情報では、2025年2月に住所の変更をしました。」（https://alarmbox.jp/companyinfo/entities/3010001199729・3回目）
+  - 「株式会社ヘイフィールド 第6期決算公告（2024年12月期）・親会社・グ... — Dec 31, 2024 · 2025年3月31日に発表された株式会社ヘイフィールドの第6期決算公告は、純利益5億5327万3000円、利益剰余金13億5921万4000円、総資産17億1351万5000円。 親会社は株式会社フルキャストホールディングスで、グループ内の子会社37社も確認できます。」（https://catr.jp/companies/b3f30/162268/settlements/a3557/395855・3回目）
+  - 「株式会社ヘイフィールドの会社情報・決算公告 | 官報決算データベース — 株式会社ヘイフィールドの会社情報を掲載しています。 最新の2025年12月期決算は純利益4億2508万円、利益剰余金8億8429万4000円、総資産11億6942万7000円です。 親会社は株式会社フルキャストホールディングスで、グループ内の子会社37社も確認できます。」（https://catr.jp/companies/b3f30/162268・3回目）
+  - 「事業部紹介 | 株式会社ヘイフィールド | Hayfield Inc. — ヘイフィールドは、転職支援を行なっている「人材サービス事業部」、WEB集客・マーケティング領域を担う「IT事業部」、採用人事や経理・総務の「管理部」の3事業部で成り立っています。事業部ごとの組織体制と仕事内容についてご紹介します。」（https://hayfield.jp/recruit/division/・3回目）
+  - 「株式会社ヘイフィールド | 決算公告 (2024年3月29日掲載) | 開示ワイ... — Mar 29, 2024 · 株式会社ヘイフィールドの決算公告 (2023年12月期・第5期)。 純利益4.5億円、総資産11.6億円、純資産8.1億円。 株式会社フルキャストホールディングスの子会社。 東京都。 出典: 官報 (PDL1.0)」（https://kaijiwire.jp/kokoku/01a0c26a-e7f7-7b1d-a67a-1f132a889b49・3回目）
+  - 「株式会社ヘイフィールドの官報公開記録 | 官報AI — 株式会社ヘイフィールドに関する官報の会社公告・政府調達公開記録。 決算公告（第6期）: 総資産2億3,949万円、純資産8,961万円、資本金5,000万円。 法人番号 3010001199729 を基準に掲載日、公告種別、官報詳細ページへのリンクを確認できます。」（https://kanpou.ai/company/3010001199729・3回目）
+  - 「ヘイフィールド: Financials, Revenue & Company Profile | Firmnavi — Financial data, revenue, capital and company profile for ヘイフィールド, compiled from Japan's Official Gazette (Kanpō) filings. Multilingual.」（https://firmnavi.com/en/companies/g76-013・3回目）
+  - 「株式会社ヘイフィールドの導入事例【PORTERS】人材紹介・人材派遣管理... — 株式会社ヘイフィールドの導入事例【PORTERS】人材紹介・人材派遣ビジネス支援システムを導入いただいた人材派遣や人材紹介会社様からの評価や活用方法などリアルなお客様の声をご紹介します。」（https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story・3回目）
+- 資本金：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部22頁・検索11回）
+- 創業年度：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部22頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部22頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部22頁・検索11回）
+- 株主：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部22頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部22頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部22頁・検索11回）
+
+## ユニソンプラネット
+- 公式URL：https://www.ienakama.com/（given）
+- 売上の柱（何で稼ぐか）：
+  - 「株式会社エスキュービズムより「あかもん CMS」の開発及び販売事業を譲受」（https://unison-planet.jp/company・3回目）
+  - 「A-BiSU（エビス）がサービス業向け国内CMS売上３年連続シェアNo.1を獲得」（https://unison-planet.jp/company・3回目）
+  - 「A-BiSU（エビス）がサービス業向け国内CMS売上4年連続シェアNo.1を獲得」（https://unison-planet.jp/company・3回目）
+  - 「比較サイトを運営する株式会社サフタを100%子会社化」（https://unison-planet.jp/company・3回目）
+  - 「A-BiSUが5年連続国内サービス業向け並びに従業員100人以下企業向け国内CMS売上シェアNo1を獲得」（https://unison-planet.jp/company・3回目）
+  - 「A-BiSUが従業員100人以下企業向け国内CMS売上シェアNo.1を獲得」（https://unison-planet.jp/company・3回目）
+  - 「A-BiSUが国内サービス業向け並びに従業員100人以下企業向け国内CMS売上シェアNo.1を獲得」（https://unison-planet.jp/company・3回目）
+  - 「家仲間コムを運営する株式会社マッチングジャパンを100％子会社化」（https://unison-planet.jp/company・3回目）
+  - 「当社の主力商品「A-BiSU」は優れたユーザビリティとマーケティング機能を併せ持った、新感覚次世代型CMS（コンテンツマネジメントシステム）です」（https://unison-planet.jp/about・3回目）
+  - 「専属のWeb担当者を配置できない小規模サービス業を中心としたお客様に絶大なる支持を得ており、また、導入コストも月額払いで低価格に抑えられるため、投資効果を最大限に引き出すことができます」（https://unison-planet.jp/about・3回目）
+  - 「CMS市場－サービス業：ベンダー別売上金額推移およびシェア（2023～2025年度予測）」（https://unison-planet.jp/about・3回目）
+  - 「第一期から売上CAGR（年平均成長率）は41.7％と着実に成長を続けております」（https://unison-planet.jp/about・3回目）
+- 客は誰か：
+  - 「経済産業省「はばたく中小企業・小規模事業者300社」に選出」（https://unison-planet.jp/company・3回目）
+  - 「本サイトへの掲載は、法人向けに提供している有料会員サービスの1つです」（https://www.nishinihon-venture.com/company/unison-planet/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「私がまだ小学校だった頃、モデム回線を通じてコンピュータがインターネットにつながり、キーワード検索から情報が表示されるのを見て、衝撃を受けました」（https://unison-planet.jp/company・3回目）
+  - 「どのような手法を取れば、見込み顧客からのアクセスを最も効率良く集められるのか？」（https://unison-planet.jp/company・3回目）
+  - 「情熱とビジョンをもったリーダーを輩出し、時代に応じた社会の課題や問題を次世代の技術を駆使して解決するソリューション・サービスを開発・提供しつづける文化をつくり、「持続可能な社会の実現」に向け顧客ひいては地域社会に貢献し続ける企業を⽬指して参ります」（https://unison-planet.jp/company・3回目）
+  - 「池田泉州銀行、みずほ銀行、三菱 UFJ 銀行、りそな銀行」（https://unison-planet.jp/company・3回目）
+  - 「「総合医療展 2019 ～医療とヘルスケア産業をつなぐ展示会＆セミナー～」へ出典」（https://unison-planet.jp/company・3回目）
+  - 「次世代技術を駆使した製品開発を通じて、常に顧客期待値を超える新製品・サービスを創造し提供し続けます」（https://unison-planet.jp/about・3回目）
+  - 「各社員がいかなる環境下でも自ら付加価値を創出し活躍し続けられる人物になるための教育制度と、最大限の能力を発揮して長期間働き続けられる環境を構築し続けます」（https://unison-planet.jp/about・3回目）
+  - 「明確な差別化と顧客期待値を超えるサービス・商品を提供開発しつづけられる体制を確立すること」（https://unison-planet.jp/about・3回目）
+  - 「2020年11月に株式会社サフタ、2023年10月に株式会社マッチングジャパンのグループ化を行い、総クライアント数は8000社を突破しました」（https://unison-planet.jp/about・3回目）
+  - 「京都府城陽市のおくむら歯科医院｜ワンランク上の治療をご提案様」（https://unison-planet.jp/about・3回目）
+  - 「A-BiSUは「AI（人工知能）搭載型CMS/CXMツール」で、ノーコードでの編集更新等のCMS機能に加え、レコメンドエンジン・SEO対策・A/Bテスト・顧客対応管理・アクセス解析などの機能を備える」（https://kaijiwire.jp/companies/2120001171017・3回目）
+  - 「医療業界専門 ホームページ制作、美容業界専門 ホームページ制作、教育業界専門 ホームページ制作も手がける」（https://kaijiwire.jp/companies/2120001171017・3回目）
+- 資本金・株主：
+  - 「大阪市西区北堀江において株式会社ユニソンプラネット（資本金 800 千円）を設立」（https://unison-planet.jp/company・3回目）
+  - 「比較サイトを運営する株式会社サフタを100%子会社化」（https://unison-planet.jp/company・3回目）
+  - 「家仲間コムを運営する株式会社マッチングジャパンを100％子会社化」（https://unison-planet.jp/company・3回目）
+  - 「子会社の株式会社マッチングジャパンは、リフォーム業者検索マッチングサイトの家仲間コムを運営する」（https://kaijiwire.jp/companies/2120001171017・3回目）
+  - 「2020年11月に比較サイトを運営する株式会社サフタを100%子会社化し、2023年10月に株式会社マッチングジャパンを100％子会社化した」（https://kaijiwire.jp/companies/2120001171017・3回目）
+  - 「資本金80万円、3名でのスタートでした」（https://www.nishinihon-venture.com/company/unison-planet/・3回目）
+- 選出の記録：
+  - 「経済産業省「はばたく中小企業・小規模事業者300社」に選出」（https://unison-planet.jp/company・3回目）
+- 検索結果の抜粋：
+  - 「会社概要｜株式会社ユニソンプラネット - UNISONPLANET — 株式会社ユニソンプラネットのオフィシャルサイトにご訪問頂き、誠に有難うございます。 当社は日々のビジネス活動を、IT視点で応援している企業でございます。 現代社会は、情報ビックバン・情報革命の真っ只中にあります。」（https://unison-planet.jp/company・3回目）
+  - 「会社概要｜SNS投稿・消費者レビューの活用ならUGC-PLUS — SNSマーケティング支援ツール『UGC-PLUS』を提供する、株式会社ユニソンプラネットの会社概要はこちら。 当社は、AIを駆使した Web マーケティングツールの開発・提供、Webコンサルティング、メディア運用も展開しております。」（https://www.ugc-plus.com/company・3回目）
+  - 「株式会社ユニソンプラネット（大阪府）の会社概要・役員 | Compalyze — 株式会社ユニソンプラネットは、「次世代技術を駆使して企業のWeb活用を劇的に変える」をミッションに掲げ。 IT・ソフトウェア (SaaS)、2012年設立、社会保険被保険者数50名。 純利益9,706万円。 代表者 金本相揮。」（https://compalyze.co.jp/company/2120001171017・3回目）
+  - 「株式会社ユニソンプラネット - ベストベンチャーWEST100株式会社ユニソンプラネット – 全国企業データベース-プレスリリース...株式会社ユニソンプラネットの企業情報・データ分析 | Aqsh Works — その甲斐もあり独立する時には、単月成績で1位を獲得するまでに営業成績を伸ばすことができました。 そこで、自分自身の得意分野【営業】と、急成長業界の【IT】を掛け合わせて事業を始めたのが現在の同社です。 資本金80万円、3名でのスタートでした。 法人概要 株式会社ユニソンプラネット（ユニソンプラネット）は、2015年設立の大阪府大阪市阿倍野区阿倍野筋1丁目1－43あべのハルカスに所在する法人です（法人番号: 2120001171017）。 インターネット通信業。 株式会社ユニソンプラネット（法人番号: 2120001171017）の企業情報・データ分析・求人情報。 大阪府大阪市阿」（https://www.nishinihon-venture.com/company/unison-planet/・3回目）
+  - 「株式会社ユニソンプラネット – 全国企業データベース-プレスリリース... — 法人概要 株式会社ユニソンプラネット（ユニソンプラネット）は、2015年設立の大阪府大阪市阿倍野区阿倍野筋1丁目1－43あべのハルカスに所在する法人です（法人番号: 2120001171017）。 インターネット通信業。」（https://companydata.tsujigawa.com/company2/2120001171017/・3回目）
+  - 「ユニソンプラネットについて｜株式会社ユニソンプラネット - UNISONPL... — 1,300件を超える制作実績、サービス業向け国内CMS売上連続シェア No.1など、ユニソンプラネットのA-BiSUはお客様に絶大なご支持をいただいております。」（https://unison-planet.jp/about・3回目）
+  - 「株式会社ユニソンプラネット | 決算公告(2025年10月27日掲載) | 開示... — Oct 27, 2025 · 株式会社ユニソンプラネットの決算公告 (2025年6月期・第14期決算公告)。 純利益9705万円、総資産16.8億円、純資産6.1億円。 インターネット通信業の会社。 大阪府・情報通信業。 出典: 官報 (PDL1.0)」（https://kaijiwire.jp/kokoku/01a0830c-e98d-7554-9e56-5256a75e8a9c・3回目）
+  - 「株式会社ユニソンプラネットの決算公告・財務情報 | 開示ワイヤー — 株式会社ユニソンプラネットの官報公告・決算公告・財務データ。 インターネット通信業。 2025年6月期: 純利益9705万円、純資産6.1億円、自己資本比率36.3%。 大阪府・情報・通信業・従業員35人。 公告・開示・ニュース2件 (官報公告2件)。 出典: 官報 (PDL1.0)/ EDINET」（https://kaijiwire.jp/companies/2120001171017・3回目）
+  - 「株式会社ユニソンプラネット 金本 相揮 | ベストベンチャー1003分でわかるユニソンプラネット｜ (株)ユニソンプラネット株式会社ユニソンプラネット 第13期決算公告（2025年3月期）・会社情... — その甲斐もあり独立する時には、単月成績で1位を獲得するまでに営業成績を伸ばすことができました。 そこで、自分自身の得意分野【営業】と、急成長業界の【IT】を掛け合わせて事業を始めたのが現在の同社です。 資本金80万円、3名でのスタートでした。 大阪あべのハルカスに本社を構える (株)ユニソンプラネットの企業理念や事業内容、数字で見るデータなどを掲載しております。 弊社ではAIを活用した独自CMSを使用してホームページ制作をおこなっております。 Mar 31, 2025 · 2025年10月20日に発表された株式会社ユニソンプラネットの第13期決算公告は、純利益3億930万1000円、利」（https://best100.v-tsushin.jp/company/unison-planet/・3回目）
+  - 「3分でわかるユニソンプラネット｜ (株)ユニソンプラネット — 大阪あべのハルカスに本社を構える (株)ユニソンプラネットの企業理念や事業内容、数字で見るデータなどを掲載しております。 弊社ではAIを活用した独自CMSを使用してホームページ制作をおこなっております。」（https://recruit.unison-planet.com/creative/about・3回目）
+  - 「株式会社ユニソンプラネットの決算公告・財務情報 | 開示ワイヤー — 株式会社ユニソンプラネット (法人番号 2120001171017)はどんな会社ですか。 公告・開示から分かることを教えてください。 参考: https://kaijiwire.jp/companies/2120001171017 https://kaijiwire.jp/llms.txt」（https://kaijiwire.jp/companies/2120001171017・3回目）
+  - 「株式会社ユニソンプラネット 第13期決算公告（2025年3月期）・会社情... — Mar 31, 2025 · 2025年10月20日に発表された株式会社ユニソンプラネットの第13期決算公告は、純利益3億930万1000円、利益剰余金5億332万4000円、総資産17億1135万8000円。 所在地は大阪市阿倍野区阿倍野筋1丁目1-43あべのハルカスで、代表者は金本 相揮さんです。」（https://catr.jp/companies/8b128/61235/settlements/819ae/434306・3回目）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索11回）
+- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索11回）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索11回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索11回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索11回）
+
+## ユニゾン・テクノロジー
+- 公式URL：https://www.unison-tech.jp/（given）
+- 事業内容：情報システム、アプリケーション設計・開発事業 情報インフラストラクチャーの設計・開発事業 IT領域における人材紹介事業（https://www.unison-tech.jp/company/・1回目）
+- 事業内容：ITを専門にした転職・就職支援、インフラ領域のシステムインテグレーション事業、フリーランスエンジニア支援を展開。企業の持続的な成長をサポートしています。（https://best100.v-tsushin.jp/company/unison-tech/・3回目）
+- 資本金：1000万円（https://www.unison-tech.jp/company/・1回目）
+- 資本金：1,000万円（https://best100.v-tsushin.jp/company/unison-tech/・3回目）
+- 創業年度：設立：2021年1月6日（https://www.unison-tech.jp/company/・1回目）
+- 従業員数：112名（アルバイト、契約社員含む）（https://www.unison-tech.jp/company/・1回目）
+- 所在地：〒150-0002 東京都渋谷区渋谷3-15-6 並木橋ビル4F（https://www.unison-tech.jp/company/・1回目）
+- 所在地：東京都渋谷区渋谷3-15-6 並木橋ビル4F（https://best100.v-tsushin.jp/company/unison-tech/・3回目）
+- 所在地：東京都渋谷区渋谷3丁目15番6号並木橋ビル4階 同じ住所の会社を検索（https://catr.jp/companies/a7256/194496・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「有料職業紹介番号：13-ユ-313348」（https://www.unison-tech.jp/company/・1回目）
+  - 「労働者派遣事業番号：派13-316491」（https://www.unison-tech.jp/company/・1回目）
+  - 「週3日〜稼働可能な案件が多く、実現したいライフスタイルに合わせて、案件のご紹介をさせていただきます」（https://www.unison-tech.jp/freelancer/・1回目）
+  - 「案件紹介〜案件参画まですべて無料でご利用いただけます」（https://www.unison-tech.jp/freelancer/・1回目）
+  - 「2032年度までに売上100億円達成、AI領域で新事業を創出」（https://best100.v-tsushin.jp/company/unison-tech/・3回目）
+  - 「主力事業として、ITエンジニアに特化した転職・就職支援サービスを展開し、求職者と企業のマッチングを実現しています」（https://best100.v-tsushin.jp/company/unison-tech/・3回目）
+  - 「さらに、フリーランスエンジニアの案件紹介や支援も行い、多様な働き方を実現する人材プラットフォームとして成長を続けています」（https://best100.v-tsushin.jp/company/unison-tech/・3回目）
+  - 「2032年度までに売上100億円を達成し、IT業界を代表する企業へと成長することを目指しています」（https://best100.v-tsushin.jp/company/unison-tech/・3回目）
+  - 「AIエンジニアの育成・派遣事業や、AI技術を活用した新サービスの開発により、事業ポートフォリオを拡充していきます」（https://best100.v-tsushin.jp/company/unison-tech/・3回目）
+  - 「SUUMOやHOME'Sといったサービスで物件情報が透明化し、それまで仲介業者の価値を支えていた「情報の非対称性」が崩れ始めていました」（https://note.com/dandy_eagle1856/n/n6b8e23013c85・3回目）
+  - 「「ネットで全部見られるなら、仲介手数料という中間マージンは要らなくなるのでは」」（https://note.com/dandy_eagle1856/n/n6b8e23013c85・3回目）
+  - 「誰を、どの企業へ、どのような基準でご紹介するのか」（https://note.com/dandy_eagle1856/n/n6b8e23013c85・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「社員の成長が質を高め、顧客の発展が社会を前進させる」（https://www.unison-tech.jp/company/・1回目）
+  - 「顧客と共に社会を成長させ、」（https://www.unison-tech.jp/company/message/・1回目）
+  - 「私たちは事業を通じて、顧客の潜在的な力を引き出し、長期的な価値創出を支援してきました」（https://www.unison-tech.jp/company/message/・1回目）
+  - 「大学卒業後、不動産会社に就職し、その後エンジニアにキャリアチェンジ」（https://www.unison-tech.jp/company/message/・1回目）
+  - 「私は大阪府出身で、不動産営業からキャリアをスタートしました」（https://best100.v-tsushin.jp/company/unison-tech/・3回目）
+  - 「また、人材サービスとシステムインテグレーションという2つの事業を連携させることで、顧客企業に対してワンストップでソリューションを提供できる体制を構築しています」（https://best100.v-tsushin.jp/company/unison-tech/・3回目）
+  - 「法人番号に紐づく現存する事業所の被保険者数を合計しています」（https://catr.jp/companies/a7256/194496・3回目）
+  - 「私の経歴は、不動産営業職 → エンジニア職 → ITインフラのソリューション営業、そして創業、という少し変わった道のりです」（https://note.com/dandy_eagle1856/n/n6b8e23013c85・3回目）
+  - 「なぜ不動産営業からエンジニアへ転身したのか」（https://note.com/dandy_eagle1856/n/n6b8e23013c85・3回目）
+  - 「10年以上前、不動産の営業職時代に、私は小さな支店を任せていただいていました」（https://note.com/dandy_eagle1856/n/n6b8e23013c85・3回目）
+  - 「金融緩和と低金利で投資はブーム、東京五輪に向けた再開発もあり、目の前の数字は確かに良かった」（https://note.com/dandy_eagle1856/n/n6b8e23013c85・3回目）
+  - 「いわゆる不動産テックが、業界を破壊する側として語られ始めた頃です」（https://note.com/dandy_eagle1856/n/n6b8e23013c85・3回目）
+- 選出の記録：
+  - 「【2025年ベストセールス】なぜ、ベストセールスに選出されたのか？」（https://www.unison-tech.jp/・1回目）
+  - 「ベストベンチャー100に選出」（https://www.unison-tech.jp/・1回目）
+  - 「株式会社ユニゾン・テクノロジー 土肥 将司 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/unison-tech/・3回目）
+- 検索結果の抜粋：
+  - 「COMPANY｜UNISON TECHNOLOGY - 株式会社ユニゾン・テクノロジー — Jan 6, 2021 · COMPANY PROFILE 会社概要 株式会社ユニゾン・テクノロジー 設立 2021年1月6日 資本金 1000万円 役員 代表取締役 土肥 将司 社員数 112名（アルバイト、契約社員含む）」（https://www.unison-tech.jp/company/・3回目）
+  - 「UNISON TECHNOLOGY - 株式会社ユニゾン・テクノロジー — ユニゾン・テクノロジー｜IT人材紹介・DX推進・インフラ構築まで一気通貫で対応。高度な人材ソリューションと技術力を武器に、深刻なIT人材の量と質における課題を解決します。ビジネスの成長を加速させる最適なパートナーとして、企業の未来を支えます。」（https://www.unison-tech.jp/・3回目）
+  - 「株式会社ユニゾン・テクノロジー（東京都）の会社概要・役員 | Compal... — 〒150-0002 東京都渋谷区に本社を置く株式会社ユニゾン・テクノロジーの企業情報。株式会社ユニゾン・テクノロジーは、情報技術を軸に多角的な事業を展開し。IT (IT-03)、2021年設立、社会保険被保険者数96名。純利益-189万円。代表者 土肥将司。役員1名・登記3件・決算1期。」（https://compalyze.co.jp/company/3010001215015・3回目）
+  - 「株式会社ユニゾン・テクノロジーの会社概要|転職・求人・中途採用情報...企業概要 | 株式会社ユニゾンテック企業情報｜株式会社ユニゾン・代表挨拶・会社概要・アクセス｜UNISON株式会社ユニゾン・テクノロジー 土肥 将司 | ベストベンチャー100 — Jan 6, 2021 · 「株式会社ユニゾン・テクノロジー」の企業情報ページです。株式会社ユニゾン・テクノロジーで募集中の求人（4件）や会社概要などの企業情報を掲載しています。マイナビ転職の企業情報ページでは、さまざまな業種・職種で求人を募集している企業の情報を探せます。 社名 株式会社ユニゾンテック 代表者 浦上 正行 本社所在地 〒150-0002 東京都渋谷区渋谷2－19－15 宮益坂ビルディング609 TEL. 050-3126-5492 資本金 100万円 設立 2023年 取引銀行 みずほ銀行、三井住友銀行、GMOあおぞらネッ」（https://tenshoku.mynavi.jp/company/331968/・3回目）
+  - 「株式会社ユニゾン・テクノロジー 土肥 将司 | ベストベンチャー100UNISON TECHNOLOGY - 株式会社ユニゾン・テクノロジーCOMPANY｜UNISON TECHNOLOGY - 株式会社ユニゾン・テクノロジー株式会社ユニゾン・テクノロジーの会社情報・決算公告 | 官報決算デー...株式会社ユニゾン・テクノロジーってどんな会社？事業内容、仕事内容...株式会社ユニゾン・テクノロジー（東京都）の会社概要・役員 | Compal...株式会社ユニゾン・テクノロジーの会社概要|転職・求人・中途採用情報... — ─ 今後のビジョンをお願いいたします。 2032年度までに売上100億円を達成し、IT業界を代表する企業へと成長することを目指しています。 具体的には、現在の人材サービスとインフラ事業を基盤としながら、AI領域への本格参入を計画しています。 ユニゾン・テクノロジー｜IT人」（https://best100.v-tsushin.jp/company/unison-tech/・3回目）
+  - 「COMPANY｜UNISON TECHNOLOGY - 株式会社ユニゾン・テクノロジー — Jan 6, 2021 · ユニゾン・テクノロジーは、創業以来の黒字経営を継続。IT領域を軸とした多角的なサービス展開により、強固な事業基盤を築いてまいりました。確かな実績と技術力を背景に、お客様のビジネス成長を長期的に支え続けます。」（https://www.unison-tech.jp/company/・3回目）
+  - 「株式会社ユニゾン・テクノロジーの会社情報・決算公告 | 官報決算デー... — Jul 6, 2026 · 株式会社ユニゾン・テクノロジーの会社情報を掲載しています。最新の2021年12月期決算は純利益 188万5000円、利益剰余金 188万5000円、総資産3223万7000円です。社会保険被保険者数は87人です。所在地は東京都渋谷区渋谷三丁目11番7号第2ミネギシビル9階で、代表者は土肥 将司さんです。」（https://catr.jp/companies/a7256/194496・3回目）
+  - 「株式会社ユニゾン・テクノロジーってどんな会社？事業内容、仕事内容... — Sep 28, 2024 · 株式会社ユニゾン・テクノロジーは、日本のIT社会を支える企業です。 自社サービスを通じてIT人材の育成および人材活用に力を入れており、急速に成長しています。 設立以来、毎月10％以上の売上アップを実現しているグロース企業です。」（https://jobhakase.com/archives/71853・3回目）
+  - 「株式会社ユニゾン・テクノロジー（東京都）の会社概要・役員 | Compal... — 株式会社ユニゾン・テクノロジーは、情報技術を軸に多角的な事業を展開し、社会全体の課題解決と顧客・社員・事業の成長を追求する企業です。 同社の主要事業は、システムインテグレーション事業、IT人材支援事業、IT教育事業の3本柱で構成されてい ...」（https://compalyze.co.jp/company/3010001215015・3回目）
+  - 「株式会社ユニゾン・テクノロジー の企業情報 | バフェット・コード — 株式会社ユニゾン・テクノロジーの財務情報はバフェット・コードでCHECK!!」（https://www.buffett-code.com/company/a4ja3ffvg7/・3回目）
+  - 「株式会社ユニゾン・テクノロジー (東京都渋谷区)の企業情報|カイシャ... — 株式会社ユニゾン・テクノロジーの決算情報を調べたい（上場企業・一部の大企業のみ対応） 金融庁が公開する「EDINET」から検索することができます。 検索方法 書類検索 > 書類詳細検索 から 提出者法人番号の欄に「3010001215015」を入力して検索して ...」（https://kaisharesearch.com/company/detail/3010001215015/・3回目）
+  - 「SERVICE｜UNISON TECHNOLOGY - 株式会社ユニゾン・テクノロジー — 株式会社ユニゾン・テクノロジーは、企業の持続的な成長にコミットする「総合ITパートナー」です。形骸化したサービスを押し付けるのではなく、お客様の課題に真摯に向き合い、高付加価値な解決策をオーダーメイドで導き出します。クラウド・インフラの基盤構築からDX推進、そしてIT人材 ...」（https://www.unison-tech.jp/service/・3回目）
+- 売上高：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部14頁・検索11回）
+- 株主：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部14頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部14頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部14頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部14頁・検索11回）
+- 資本金・株主：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部14頁・検索11回）
+
+## リソースクリエイション
+- 公式URL：https://rc-group.co.jp/（given）
+- 事業内容：人材ソリューション事業、SNS事業「エアリク」、マーケティング事業、クリエイティブ事業 [ 2 ]（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+- 事業内容：■人材ソリューション事業 ■SNS事業 ■クリエイティブ事業 ■マーケティング事業 【入社前から即戦力へ！"働く"を体感できる内定者インターン】 「入社後、どんな仕事をするんだろう？」そんな不安を解消！ 当社の内定者インターンでは、実際の業務に携わりながらスキルを磨けます。 ＜26卒 先輩社員の実例＞ 2024年10月 → 内定 2025年3月   → 内定者インターン開始 2025年10月 → 初契約獲得 現在までに14件契約、1,000万円～2,000万円売上 受注金額は先輩同席ありで648万円、単独では480万円 ※同席案件あり、インターン期間含む ※給与＋インセン支給 入社前から実践経験を積み、即戦力として活躍！ あなたも一歩先の社会人デビューを目指しませんか？ 採用に関する事業だけでなく、社会のインフラとなるサービスを創り出す。そんな仕事を私たちと一緒に手掛け、共に成長していきませんか？（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+- 資本金：1,000万円 [ 1 ] [ 3 ]（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+- 資本金：1,000万円（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+- 創業年度：設立：2015年4月 [ 1 ]（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+- 創業年度：設立：2015年4月（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+- 創業年度：創立年：2015年4月（https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/・3回目）
+- 従業員数：120名（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+- 従業員数：120名（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+- 売上高：20億円（2026年3月） [ 4 ]（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+- 売上高：20億円（グループ全体2026年3月）（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+- 所在地：日本 〒 106-0047 東京都 港区 南麻布2-8-21 SNUG MINAMI-AZABU 1階、3階、4階、5階（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+- 所在地：106-0047（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+- 所在地：東京都港区南麻布2-8-21 SNUG MINAMI-AZABU 1階、3階、4階、5階（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+- 代表者：髙田桂太郎 （ 代表取締役 ） [ 1 ]（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+- 主要取引先：・国立研究開発法人 理化学研究所 ・農林水産省 ・学校法人桜美林学園 ・合同会社DMM.com ・山崎製パン(株) ・(株)リンガーハット ・ペッツファースト(株) ・日本交通(株)（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「売上を拡大したい、採用力を高めたい」（https://rc-group.co.jp/・1回目）
+  - 「【メディア掲載】TOKYO MX「堀潤 Live Junction」にて紹介されました」（https://rc-group.co.jp/・1回目）
+  - 「売上を拡大したい、採用力を高めたい」（https://rc-group.co.jp/business/・1回目）
+  - 「すべての企業が売上を上げたいと思っている中、本当に上げるために必要な取り組みを大胆に実行していきます」（https://rc-group.co.jp/business/・1回目）
+  - 「弊社は、暴力団、暴力団員、暴力団準構成員、暴力団関係者、総会屋、その他、反社会勢力のいずれでもなく、また反社会勢力が経営・運営に関与している法人ではないことを表明し、かつ将来にわたっても該当しないことを確約します」（https://rc-group.co.jp/company/・1回目）
+  - 「採用に特化したSNS運用代行サービス「エアリク」を運営するなどユニークな」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+  - 「2026年3月期の売上高は20億円に達した」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+  - 「」（1面）で「オヤオシ」による入社事例が紹介」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+  - 「『挑戦が世界を変える！』平均年齢25歳・週休3日制・【残業無し勤務可能】選択制勤務体系・美容手当・嬉しい自動販売機無料社員に優しい福利厚生が多数あります！」（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+  - 「エントリーした企業の中から、厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+  - 「現在までに14件契約、1,000万円～2,000万円売上」（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+  - 「★会社紹介動画をYoutubeでUPしています！」（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+- 客は誰か：
+  - 「9月8日 - 代表取締役の髙田桂太郎が、深刻化する人手不足を背景とした中小企業の採用戦略や、SNS広告を活用した新たな採用手法についてITmedia ビジネスオンラインに寄稿」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+  - 「11月5日 - HRog 「中小企業の採用を支える新戦略」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+  - 「深刻な人手不足、中小企業はどう生き残る？ SNS採用の最前線をプロが解説」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+  - 「＊「ベストベンチャー100」は、イシン(株)が提供する法人向け有料会員制サービスです」（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+  - 「O!Product（オープロダクト）は、日本最大級の法人向けITツール・DXサービス比較メディア」（https://oproduct.jp/products/6904715・3回目）
+  - 「9月8日 - 深刻化する人手不足を背景とした中小企業の採用戦略や、SNS広告を活用した新たな採用手法についてITmedia ビジネスオンラインに寄稿」（https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E・3回目）
+  - 「深刻な人手不足、中小企業はどう生き残る？ SNS採用の最前線をプロが解説」（https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E・3回目）
+  - 「そして現在「エアリク」は、100社以上の中小企業から大手企業まで、多くのお客様にご利用いただき、今では会社の主軸サービスとなっています」（https://note.com/keitaro_takada/n/nb3031af7de05・3回目）
+  - 「資金力のある大手企業ではこのような研修は一般的かもしれませんが、ベンチャー企業でここまで整えている企業は少ないと自負しています」（https://note.com/keitaro_takada/n/nafc911d17e21・3回目）
+  - 「実は今、様々な企業がショートドラマを導入し始めており、現在すでに大手企業様からも相談をいただいている状態です」（https://note.com/keitaro_takada/n/nafc911d17e21・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「2024年7月には、同社にSNS投稿を委託している大阪の運送会社が、2023年7月に動画投稿アプリ」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+  - 「9月26日 - Web東奥「弘前の運送会社TikTok バズって万垢 」」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+  - 「『挑戦が世界を変える！』平均年齢25歳・週休3日制・【残業無し勤務可能】選択制勤務体系・美容手当・嬉しい自動販売機無料社員に優しい福利厚生が多数あります！」（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+  - 「社員の声に耳を傾け、美容手当（最大20万円）や育休復帰支援、残業無し勤務も選べる新制度を導入！」（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+  - 「「稼働時間外で専門学校に通っている社員の学費を会社が半額負担」」（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+  - 「また「自発的にカンボジア支援に行った社員の渡航費、宿泊費（一週間分）を会社で全額負担」などの実績あり」（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+  - 「志戸平温泉(株)【ホテル志戸平/游泉志だて】」（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+  - 「ルーチェのwantedly運用代行「トモニ採用」の導入事例…」（https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/・3回目）
+  - 「本記事では、導入事例や口コミ評判、...」（https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/・3回目）
+  - 「リクファンの導入事例や口コミ評判、費用について調査」（https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/・3回目）
+  - 「OTOGIのWantedly運用代行について、支援内容、料金の確認方法、導入事例、会社概要を整理」（https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/・3回目）
+  - 「口コミ評判や導入事例の見方、費用相場、募集記事作成、ストーリー投稿、スカウト代行、採用広報...」（https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/・3回目）
+- 選出の記録：
+  - 「4年連続ベストベンチャー100選出」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+  - 「1月5日、2年連続ベストベンチャー100選出」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+  - 「1月8日、3年連続で「ベストベンチャー100」に選出」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+  - 「1月、4年連続で「ベストベンチャー100」に選出」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+  - 「3月、「High-Growth Companies Asia-Pacific 2026（アジア太平洋地域における「急成長企業ランキングTOP500」）に5年連続選出」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+  - 「ベストベンチャー100.」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+  - 「【アジア急成長企業ランキングTOP500】に4年連続選出されて、英国紙「Financial Times」に掲載されました✨リソースクリエイションは、日本国内63位、アジア353位でした」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+  - 「リソースクリエイション、3年連続で「ベストベンチャー100」に選出」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+  - 「ベストベンチャー100」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+  - 「リソースクリエイションが、アジア太平洋地域における「急成長企業ランキングTOP500」に5年連続選出」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3・3回目）
+  - 「☆《急成長企業ランキングTOP500》5年連続選出 日本国内24位 アジア太平洋地域206位」（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+  - 「☆《ベストベンチャー100》4年連続選出」（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+- 検索結果の抜粋：
+  - 「リソースクリエイション - Wikipedia — 株式会社リソースクリエイション は 東京都 に本拠を置く、人材ソリューション事業、 SNS 事業、 マーケティング 事業、クリエイティブ事業などを行う 日本 の 企業。 採用に特化したSNS運用代行サービス「エアリク」 の運営会社である。」（https://ja.wikipedia.org/wiki/リソースクリエイション・3回目）
+  - 「会社案内 | 株式会社リソースクリエイションリソースクリエイション - Wikipedia(株)リソースクリエイションの会社概要 | マイナビ2028(株)リソースクリエイションの新卒採用・会社概要 | マイナビ2027運営会社｜新卒・中途の採用を一括サポート｜リソースクリエイション株式会社リソースクリエイション（東京都）の会社概要 | Compalyzeリソースクリエイション、3年連続で「ベストベンチャー100」に選出 | ... — 会社名 株式会社リソースクリエイション 英語名 Resource Creation Inc. 設立 2015年4月 資本金 1,000万円 代表者 代表取締役 髙田 桂太郎 所在地 〒106-0047 東京都港区南麻布2-8-21 SNUG MINAMI-AZABU 1階、3階、4階、5階（受付4階） 株式会社リソースクリエイション は 東京都 に本拠を置」（https://rc-group.co.jp/company/・3回目）
+  - 「(株)リソースクリエイションの会社概要 | マイナビ2028(株)リソースクリエイションの新卒採用・会社概要 | マイナビ2027運営会社｜新卒・中途の採用を一括サポート｜リソースクリエイション株式会社リソースクリエイション（東京都）の会社概要 | Compalyzeリソースクリエイション、3年連続で「ベストベンチャー100」に選出 | ... — (株)リソースクリエイションの会社概要ページです。 マイナビ2028は、インターンシップ＆キャリア、前年の採用データ、エントリー情報を公開しており、自己分析や企業研究、皆さんの就職活動をサポートします。 そして、当社は今年度「働きがいのある会社」の認定も受けました。 また、リスキリング制度や海外留学制度など、 新しい制度を続々導入し、社員のスキルアップを全面的に支援。 "社員の成長＝会社の成長"この考えは、今後もずっと変わりません。 会社名 株」（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+  - 「(株)リソースクリエイションの新卒採用・会社概要 | マイナビ2027運営会社｜新卒・中途の採用を一括サポート｜リソースクリエイション株式会社リソースクリエイション（東京都）の会社概要 | Compalyzeリソースクリエイション、3年連続で「ベストベンチャー100」に選出 | ... — そして、当社は今年度「働きがいのある会社」の認定も受けました。 また、リスキリング制度や海外留学制度など、 新しい制度を続々導入し、社員のスキルアップを全面的に支援。 "社員の成長＝会社の成長"この考えは、今後もずっと変わりません。 会社名 株式会社リソースクリエイション 英語名 Resource Creation Inc. 設立 2015年4月 資本金 1,000万円 代表者 代表取締役 髙田 桂太郎 所在地 〒106-0047 東京都港区南麻布2-8-21 SNUG MINAMI-AZABU 1階、」（https://job.mynavi.jp/27/pc/search/corp237417/outline.html・3回目）
+  - 「運営会社｜新卒・中途の採用を一括サポート｜リソースクリエイション — 会社名 株式会社リソースクリエイション 英語名 Resource Creation Inc. 設立 2015年4月 資本金 1,000万円 代表者 代表取締役 髙田 桂太郎 所在地 〒106-0047 東京都港区南麻布2-8-21 SNUG MINAMI-AZABU 1階、3階、4階、5階 連絡先 TEL：03-4446-2666」（https://sns-agency.rc-group.co.jp/company/・3回目）
+  - 「株式会社リソースクリエイション | 求人広告代理店 | SNS運用代行 — リソースクリエイションでは、営業・インサイドセールス・事務・Webデザイナーなど幅広い職種を募集しています。 詳細は採用サイトやInstagramなどをご確認下さい。」（https://rc-group.co.jp/・3回目）
+  - 「(株)リソースクリエイションの会社概要 | マイナビ2028(株)リソースクリエイションの新卒採用・会社概要 | マイナビ2027株式会社リソースクリエイションの会社情報・決算公告 | 官報決算デー...社員数100名超え、売上10億円を実現｜リソースクリエイション代表取締... — (株)リソースクリエイションの会社概要ページです。 マイナビ2028は、インターンシップ＆キャリア、前年の採用データ、エントリー情報を公開しており、自己分析や企業研究、皆さんの就職活動をサポートします。 【新規事業立ち上げの責任者に抜擢】 これらは、当社で活躍している社員の実例。 頑張り・成果を正当に評価し、成長と挑戦の機会を提供し続ける── そんなマンネリとは無縁の環境だからこそ、 自身をアップデートし続け、仕事の楽しさを見出せるん ... Jul 6, 2026 · 法人番号に紐づく現存する事業所の被保険」（https://job.mynavi.jp/28/pc/search/corp237417/outline.html・3回目）
+  - 「(株)リソースクリエイションの新卒採用・会社概要 | マイナビ2027株式会社リソースクリエイションの会社情報・決算公告 | 官報決算デー...社員数100名超え、売上10億円を実現｜リソースクリエイション代表取締... — 【新規事業立ち上げの責任者に抜擢】 これらは、当社で活躍している社員の実例。 頑張り・成果を正当に評価し、成長と挑戦の機会を提供し続ける── そんなマンネリとは無縁の環境だからこそ、 自身をアップデートし続け、仕事の楽しさを見出せるん ... Jul 6, 2026 · 法人番号に紐づく現存する事業所の被保険者数を合計しています。 従業員総数やグループ全体の人数とは異なります。 出典の取得日は、人数の基準日を示すものではありません。 Feb 11, 2025 · こんにちは。 会社のSNS総フォロワー100万人超え、個人SNS総フォロワー15万人超えの、株式会社リソー」（https://job.mynavi.jp/27/pc/search/corp237417/outline.html・3回目）
+  - 「社員数100名超え、売上10億円を実現｜リソースクリエイション代表取締... — Feb 11, 2025 · こんにちは。 会社のSNS総フォロワー100万人超え、個人SNS総フォロワー15万人超えの、株式会社リソースクリエイション 代表取締役の髙田 桂太郎です。 この3月で会社を設立して10年となり、会社規模も従業員は100名を超え、売上も10億円を突破しました。」（https://note.com/keitaro_takada/n/nb3031af7de05・3回目）
+  - 「株式会社リソースクリエイションの施策事例や口コミ評判、費用につい...株式会社リソースクリエイション | 求人広告代理店 | SNS運用代行VOiCEで採用ミスマッチを減らす！ 全力で走れるチームが新しいサービ...【物流業界の導入事例を紹介！】SNSを導入して、本当に採用がうまくい...採用SNSの成功事例！自社SNSを代行依頼したら「いいね」が6倍超に人手不足の運輸業界 SNS導入で若年層の採用に成功 | 株式会社リソース...「エアリク 」by「株式会社リソースクリエイション」とは？特徴・料金... — Jun 8, 2026 · 株式会社リソースクリエイションは、採用力向上を目指す企業に特化した求人広告代理店です。 SNS運用代行を活用した独自の採用施策で、効率的な母集団形成を実現します。 本記事では、導入事例や料金プラン、運営会社概要を詳しく紹介します。 リソースクリエイションで」（https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/・3回目）
+  - 「「エアリク 」by「株式会社リソースクリエイション」とは？特徴・料金... — Jul 30, 2026 · エアリク（株式会社リソースクリエイション）とは？ 採用に特化したSNS運用一括代行サービス「エアリク」。 オンリーワンの配信で他社との差別化を図り求職者をファン化させ、貴社の社風に合致した優秀な人材だけを採用可能！」（https://oproduct.jp/products/6904715・3回目）
+  - 「VOiCEで採用ミスマッチを減らす！ 全力で走れるチームが新しいサービ... — May 24, 2024 · 現職社員の「今この会社で働き続ける理由」を発信できるVOiCEを活用し、採用時のミスマッチを減らすことに役立ててくださっている株式会社リソースクリエイション様に、導入の決め手や活用方法、効果実感についてお話頂きました。」（https://www.shain-voice.com/case/rc・3回目）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部25頁・検索11回）
+- 資本金・株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部25頁・検索11回）
+
+## リッチリンク
+- 公式URL：https://richlink.jp/（given）
+- 事業内容：当社は、深い専門知識を持つインフルエンサーと共同でブランドを立ち上げ、商品の企画・製造・販売までを一気通貫でプロデュースする P2C ブランド企業です。 私たちは、インフルエンサーを「広告塔」ではなく「ブランドの共同創業者」として位置づける独自のモデルを構築しています。 インフルエンサーは在庫リスクゼロで自身のブランドを持ち、売上に連動した報酬を得ます。 当社は商品企画から OEM 製造・マーケティング・CRM・販売チャネル構築まで全工程を担い、インフルエンサーが専門知識の発信とブランドの顔としての活動に集中できる体制を整えます。 現在はペットウェルネス領域を中心に展開し、今後はグローバル展開、ヘアケア等へのカテゴリ拡張を進めていきます。 本当に良いものを、本当に届けたい専門家が、本当に必要な人へ届ける。それが、私たちの仕事です。（https://mid-tenshoku.com/agency/a-5636/・3回目）
+- 事業内容：インフルエンサーと共に商品を共同開発する「P2Cブランド事業」（https://best100.v-tsushin.jp/company/richlink/・3回目）
+- 資本金：90,000,000 円（https://mid-tenshoku.com/agency/a-5636/・3回目）
+- 資本金：9,000万円（https://best100.v-tsushin.jp/company/richlink/・3回目）
+- 資本金：9,000万円（https://jobhakase.com/archives/301896・3回目）
+- 創業年度：設立：2019/6/3（https://mid-tenshoku.com/agency/a-5636/・3回目）
+- 創業年度：設立年月：2019年6月（https://baseconnect.in/companies/4e88a91c-cb87-4981-ab1b-53792981a312・3回目）
+- 従業員数：10人（https://baseconnect.in/companies/4e88a91c-cb87-4981-ab1b-53792981a312・3回目）
+- 所在地：東京都渋谷区桜丘町4-17 PORTAL Apartment & Art POINT 1002（https://best100.v-tsushin.jp/company/richlink/・3回目）
+- 所在地：東京都渋谷区桜丘町4-17 Portal Apartment & Art Point, 1002（https://jobhakase.com/archives/301896・3回目）
+- 所在地：〒150-0031 東京都渋谷区桜丘町4-17 PORTAL Apartment & Art POINT 1002（https://baseconnect.in/companies/4e88a91c-cb87-4981-ab1b-53792981a312・3回目）
+- 代表者：井上貴裕（https://mid-tenshoku.com/agency/a-5636/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「巻き込み、ビジネスアイデアの企画から、生産、デリバリー、マーケティング、継続的事業運営まで」（https://richlink.jp/・1回目）
+  - 「デリバリー、マーケティング、継続的事業運営まで」（https://richlink.jp/・1回目）
+  - 「我々は、インフルエンサーとメーカーと連携して事業開発を行うP2Cスタジオ事業を運営しており、SNSを主戦場として」（https://richlink.jp/about-us/・1回目）
+  - 「事業開発を行うP2Cスタジオ事業を運営しており、」（https://richlink.jp/about-us/・1回目）
+  - 「当社は、深い専門知識を持つインフルエンサーと共同でブランドを立ち上げ、商品の企画・製造・販売までを一気通貫でプロデュースする P2C ブランド企業です」（https://mid-tenshoku.com/agency/a-5636/・3回目）
+  - 「インフルエンサーは在庫リスクゼロで自身のブランドを持ち、売上に連動した報酬を得ます」（https://mid-tenshoku.com/agency/a-5636/・3回目）
+  - 「当社は商品企画から OEM 製造・マーケティング・CRM・販売チャネル構築まで全工程を担い、インフルエンサーが専門知識の発信とブランドの顔としての活動に集中できる体制を整えます」（https://mid-tenshoku.com/agency/a-5636/・3回目）
+  - 「2027年度売上80億円」（https://best100.v-tsushin.jp/company/richlink/・3回目）
+  - 「当社は、個人の持つ深い専門性や知見を、企画から製造・物流までを一気通貫で管理する体制により、高品質なプロダクトとして具現化する「P2Cブランド企業」です」（https://best100.v-tsushin.jp/company/richlink/・3回目）
+  - 「単なる販売代行ではなく、製品化の全工程に責任を持つ事業主体として、永続的な価値を生むブランドを構築し、消費者の生活の質(QOL)向上に資する「本質的な価値」の提供を追求しています」（https://best100.v-tsushin.jp/company/richlink/・3回目）
+  - 「位置取りについては、インフルエンサー個人の力が大きくなり、インフルエンサーが商品を販売する「クリエイターエコノミー」がマクロで伸びている事が大きいです」（https://best100.v-tsushin.jp/company/richlink/・3回目）
+  - 「組織能力としては、祖業のWEB広告代理事業の強みを活かし、販売成果を最大化する為の商品企画力やマーケティング能力に強みがあると考えております」（https://best100.v-tsushin.jp/company/richlink/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「クライアント企業のKPIを最大化する為に、集客施策のプランニング及び実行、クリエイティブ制作、」（https://richlink.jp/・1回目）
+  - 「クライアント企業のKPIを最大化する為に、集客施策」（https://richlink.jp/・1回目）
+  - 「専門知識や高い発信力を持つSNSインフルエンサーと、優れた商品開発力を備えたメーカーを」（https://richlink.jp/・1回目）
+  - 「と、優れた商品開発力を備えたメーカーを」（https://richlink.jp/・1回目）
+  - 「我々は、インフルエンサーとメーカーと連携して事業開発を行うP2Cスタジオ事業を運営しており、SNSを主戦場として」（https://richlink.jp/about-us/・1回目）
+  - 「我々は、インフルエンサーとメーカーと連携して」（https://richlink.jp/about-us/・1回目）
+  - 「P2Cスタジオとは、インフルエンサーとメーカーを巻き込んで事業開発を行うビジネスモデルです」（https://richlink.jp/about-us/・1回目）
+  - 「メーカーには、「いいモノを作れる」にふさわしい販路の拡大を」（https://richlink.jp/about-us/・1回目）
+  - 「P2Cスタジオとは、インフルエンサーとメーカー」（https://richlink.jp/about-us/・1回目）
+  - 「メーカーには、」（https://richlink.jp/about-us/・1回目）
+  - 「当社は、顧客に最もビジネスインパクトを供与出来るマーケティングエージェンシーを志向しております」（https://www.wantedly.com/companies/company_4636647・3回目）
+  - 「当社は、個人の持つ深い専門性や知見を、企画から製造・物流までを一気通貫で管理する体制により、高品質なプロダクトとして具現化する「P2Cブランド企業」です」（https://best100.v-tsushin.jp/company/richlink/・3回目）
+- 資本金・株主：
+  - 「資本金:9,000万円」（https://jobhakase.com/archives/301896・3回目）
+- 選出の記録：
+  - 「株式会社リッチリンク 井上 貴裕 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/richlink/・3回目）
+- 検索結果の抜粋：
+  - 「株式会社リッチリンク（東京都）の会社概要・売上・役員 | Compalyze — 〒150-0031 東京都渋谷区に本社を置く株式会社リッチリンクの企業情報。 株式会社リッチリンクは、デジタル領域を基軸にしたマーケティング支援と。 広告・マーケティング (デジタル広告・運用)、2019年設立、社会保険被保険者数10名。」（https://compalyze.co.jp/company/5010001201434・3回目）
+  - 「株式会社リッチリンクの会社概要｜30代・40代・50代のハイクラス転職... — 転職成功者続出！ 株式会社リッチリンクなどの人材紹介会社が保有する転職・求人情報が満載。 800万円以上の高年収、管理職・スペシャリストの求人、株式会社リッチリンクが保有する非公開求人スカウトも多数。」（https://mid-tenshoku.com/agency/a-5636/・3回目）
+  - 「株式会社リッチリンクの会社情報 - Wantedly株式会社リッチリンク（東京都渋谷区）| 全国法人検索株式会社リッチリンクの求人・採用情報、会社概要｜転職ならビズリー... — 株式会社リッチリンクの魅力を伝えるコンテンツと、住所や代表・従業員などの会社情報です。 マーケティングとは何の為にあるのか？ それは、本来もっと流通すべきサービスやモノを広げる為の課題解決の手段であると考えております。 株式会社リッチリンクの資本金と従業員数は？ 資本金は9,000万円です。 株式会社リッチリンクの設立はいつですか？ 2019年の設立です。 株式会社リッチリンクのインボイス登録番号は？ 登録済みで、登録番号はT5010001201434です。 【代表プロフィール】 2012年サイバーエージェント入社、広告事業本部に配属、同年度最優秀新人賞受賞。 同社マネージャーを経て、2016年営業局長に就任。 」（https://www.wantedly.com/companies/company_4636647・3回目）
+  - 「株式会社リッチリンク（東京都渋谷区）| 全国法人検索 — 株式会社リッチリンクの資本金と従業員数は？ 資本金は9,000万円です。 株式会社リッチリンクの設立はいつですか？ 2019年の設立です。 株式会社リッチリンクのインボイス登録番号は？ 登録済みで、登録番号はT5010001201434です。」（https://houjin.goo.to/corporations/sp5010001201434・3回目）
+  - 「株式会社リッチリンクの求人・採用情報、会社概要｜転職ならビズリー... — 【代表プロフィール】 2012年サイバーエージェント入社、広告事業本部に配属、同年度最優秀新人賞受賞。 同社マネージャーを経て、2016年営業局長に就任。 2019年6月、株式会社リッチリンクを創業し、代表取締役に就任。」（https://www.bizreach.jp/companies/21239/・3回目）
+  - 「株式会社リッチリンク（東京都）の会社概要・売上・役員 | Compalyze — 事業概要 株式会社リッチリンクは、デジタル領域を基軸にしたマーケティング支援と、インフルエンサーを起点にブランド・商品を開発するP2Cスタジオ事業を主軸に置く企業である。」（https://compalyze.co.jp/company/5010001201434・3回目）
+  - 「株式会社リッチリンク 井上 貴裕 | ベストベンチャー100株式会社リッチリンクってどんな会社？事業内容、仕事内容、働き方は...株式会社リッチリンク - 販売促進コンサルティング業界の会社の企業情...1分でわかるリッチリンク - 次世代を代表するマーケティングカンパニ... — ─ 御社の事業内容を教えて下さい。 当社は、個人の持つ深い専門性や知見を、企画から製造・物流までを一気通貫で管理する体制により、高品質なプロダクトとして具現化する「P2Cブランド企業」です。 Aug 27, 2025 · 株式会社リッチリンクはどのような事業を行っていますか？ 同社はインフルエンサーとメーカーを巻き込み、共同で商品開発及び販売を行うP2Cスタジオ事業を運営しています。 株式会社リッチリンクの企業情報ページ。販売促進コンサルティング業界の会社・従業員数10名。事業内容・役員・連絡先をBasecon」（https://best100.v-tsushin.jp/company/richlink/・3回目）
+  - 「株式会社リッチリンクってどんな会社？事業内容、仕事内容、働き方は... — Aug 27, 2025 · 株式会社リッチリンクはどのような事業を行っていますか？ 同社はインフルエンサーとメーカーを巻き込み、共同で商品開発及び販売を行うP2Cスタジオ事業を運営しています。」（https://jobhakase.com/archives/301896・3回目）
+  - 「株式会社リッチリンク - 販売促進コンサルティング業界の会社の企業情... — 株式会社リッチリンクの企業情報ページ。販売促進コンサルティング業界の会社・従業員数10名。事業内容・役員・連絡先をBaseconnectで確認できます。」（https://baseconnect.in/companies/4e88a91c-cb87-4981-ab1b-53792981a312・3回目）
+  - 「株式会社リッチリンクの会社概要｜30代・40代・50代のハイクラス転職... — 私たちは、インフルエンサーを「広告塔」ではなく「ブランドの共同創業者」として位置づける独自のモデルを構築しています。 インフルエンサーは在庫リスクゼロで自身のブランドを持ち、売上に連動した報酬を得ます。」（https://mid-tenshoku.com/agency/a-5636/・3回目）
+  - 「株式会社リッチリンク の企業情報 | バフェット・コード — 事業内容 株式会社リッチリンクは、SNSを主戦場にインフルエンサーとメーカーをつなぐP2Cスタジオ事業とデジタル領域に特化したAD Agency事業を展開しています。」（https://www.buffett-code.com/company/19zcktxifc/・3回目）
+  - 「株式会社リッチリンク — 「日本一のP2Cスタジオ」というVisionを成し遂げ、次世代を代表するマーケティングカンパニーを創り上げます。」（https://richlink.jp/・3回目）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部21頁・検索11回）
+- 株主：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部21頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部21頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部21頁・検索11回）
+
+## レスタンダード
+- 公式URL：https://restandard.co.jp/（given）
+- 事業内容：店舗不動産の仲介、店舗資産の仲介、店舗出店支援（https://inuki-ichiba.jp/company・3回目）
+- 事業内容：店舗不動産のサブリース、店舗不動産の管理、店舗資産の売買（https://inuki-ichiba.jp/company・3回目）
+- 事業内容：・店舗不動産の仲介 ・店舗不動産のサブリース ・店舗不動産の管理 ・店舗資産譲渡の仲介 ・飲食店出店サポート（https://best100.v-tsushin.jp/company/restandard/・3回目）
+- 資本金：9,900万円（https://best100.v-tsushin.jp/company/restandard/・3回目）
+- 資本金：9,900万円（https://jobcatalog.yahoo.co.jp/company/1000031801/information/・3回目）
+- 従業員数：40人（https://jobcatalog.yahoo.co.jp/company/1000031801/information/・3回目）
+- 所在地：東京都渋谷区桜丘町4-23　渋谷桜丘ビル5階（https://best100.v-tsushin.jp/company/restandard/・3回目）
+- 所在地：東京都渋谷区桜丘町４番２３号（https://jobcatalog.yahoo.co.jp/company/1000031801/information/・3回目）
+- 代表者：岡本和宏（https://jobcatalog.yahoo.co.jp/company/1000031801/information/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「豊富な店舗物件管理の実績と圧倒的な集客力をもとにした優良店舗の誘致・仲介で不動産会社様の物件管理業務、」（https://restandard.co.jp/・1回目）
+  - 「美容室、エステの居抜きでの出店・増店・独立開業、開業後の店舗運営の支援などのお手伝いをしています」（https://restandard.co.jp/・1回目）
+  - 「店舗資産譲渡契約や賃貸借契約などの物件取得に関することだけではなく、出店、増店、独立開業、開業後の店舗運営に必要な業者の紹介や支援をしております」（https://restandard.co.jp/・1回目）
+  - 「そのメリットや手順など分かりやすくご紹介しております」（https://restandard.co.jp/・1回目）
+  - 「それを扱う仲介業者は事業用に特化した深い知識が求められます」（https://restandard.co.jp/・1回目）
+  - 「不動産会社様へ｜テナント誘致・仲介や店舗専門サブリースならレスタンダード株式会社」（https://restandard.co.jp/work-trade/・1回目）
+  - 「豊富な店舗物件管理の実績と圧倒的な集客力をもとにした優良店舗の誘致・仲介で不動産会社様の物件管理業務、」（https://restandard.co.jp/work-trade/・1回目）
+  - 「都度、手数料をお支払い」（https://restandard.co.jp/work-trade/・1回目）
+  - 「転借人退去により転借人が入れ替わった際はその都度、不動産会社様に対し、事務手数料をお支払しております」（https://restandard.co.jp/work-trade/・1回目）
+  - 「居抜き市場(いちば)業界トップクラスの顧客数と成約率を高める独自の方法により募集することで、短期間でのテナント誘致・仲介が可能となります」（https://restandard.co.jp/work-trade/・1回目）
+  - 「トップクラスの店舗物件取扱数を誇る弊社運営サイト「居抜き市場（いちば）」」（https://restandard.co.jp/work-trade/・1回目）
+  - 「出店希望者へのスピーディーかつダイレクトな物件紹介」（https://restandard.co.jp/work-trade/・1回目）
+- 客の産業（導入事例・取引先）：
+  - 「レスタンダード株式会社｜店舗専門不動産会社」（https://restandard.co.jp/・1回目）
+  - 「店舗不動産は、店舗専門不動産会社のレスタンダードに」（https://restandard.co.jp/・1回目）
+  - 「豊富な店舗物件管理の実績と圧倒的な集客力をもとにした優良店舗の誘致・仲介で不動産会社様の物件管理業務、」（https://restandard.co.jp/・1回目）
+  - 「店舗物件の煩わしい部分は店舗専門不動産会社のレスタンダードにお任せください」（https://restandard.co.jp/・1回目）
+  - 「ラーメン店、焼肉店、イタリアン、カフェなどの飲食店、」（https://restandard.co.jp/・1回目）
+  - 「美容室、エステの居抜きでの出店・増店・独立開業、開業後の店舗運営の支援などのお手伝いをしています」（https://restandard.co.jp/・1回目）
+  - 「飲食店開業応援マガジン 「RESTA（レスタ）」 は、これから飲食店開業を目指す方やお店をもっと繁栄させたい方に役立つ情報を集めたWEBマガジンです」（https://restandard.co.jp/・1回目）
+  - 「レスタンダードは飲食店を専門に扱っており、不動産の知識だけではなく、これまでに培った経験・知識を元に、立地検討から、設備面、開業に必要な手続きや契約面、経営面まで読み込んでサポートさせて頂き、繁栄店を作るノウハウをご提供させていただいております」（https://restandard.co.jp/・1回目）
+  - 「レスタンダードは飲食店を中心に店舗不動産を専門的に扱っています」（https://restandard.co.jp/・1回目）
+  - 「取引先は起業家や経営者、不動産所有者等でありビジネスレベルの高い方々です」（https://restandard.co.jp/・1回目）
+  - 「企業情報｜店舗専門不動産のレスタンダード株式会社」（https://restandard.co.jp/corp/・1回目）
+  - 「日本の店舗不動産・店舗ビジネスに新たな基準を」（https://restandard.co.jp/corp/・1回目）
+- 資本金・株主：
+  - 「5年以内に上場予定」（https://best100.v-tsushin.jp/company/restandard/・3回目）
+- 選出の記録：
+  - 「レスタンダード株式会社 岡本 和宏 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/restandard/・3回目）
+- 検索結果の抜粋：
+  - 「企業情報｜店舗専門不動産のレスタンダード株式会社 — COMPANY 会社概要 レスタンダード株式会社 9900万円 〒150-0031 東京都渋谷区桜丘町4-23 渋谷桜丘ビル 5階 03-5468-3550 / 03-5468-3553」（https://restandard.co.jp/corp/・3回目）
+  - 「会社案内|【居抜き市場】を運営するレスタンダード株式会社 — COMPANY 会社概要 会社名 レスタンダード株式会社 資本金 9900万円 住所 〒150-0031 東京都渋谷区桜丘町4-23 渋谷桜丘ビル 5階 TEL 03-5468-3550 FAX 03-5468-3553 URL https://restandard.co.jp/ 代表者 岡本 和宏 事業案内 店舗不動産の仲介 店舗内装資産の仲介 出店支援事業」（https://inuki-ichiba.jp/company・3回目）
+  - 「レスタンダード株式会社の求人・中途採用情報|不動産専門の求人・転職... — 【事業内容】 店舗不動産の仲介 店舗内装資産の仲介・売買 出店支援事業 店舗不動産のサブリース 店舗不動産の管理 会社名 レスタンダード株式会社 設立年 2011年 代表者名 岡本 和宏 代表者名（カナ） オカモト カズヒロ 代表者役職 代表取締役 資本金 9900万円 従業員数 44名 住所 東京都渋谷区 ...」（https://fudosan-career.net/company/1314・3回目）
+  - 「レスタンダード株式会社の会社概要|転職・求人・中途採用情報サイトの...レスタンダード株式会社 | HelloBoss – 全国最大550万社の企業データ...レスタンダード株式会社の会社概要｜ミドルの転職レスタンダード株式会社｜店舗専門不動産会社 — 「レスタンダード株式会社」の企業情報ページです。レスタンダード株式会社で募集中の求人（0件）や会社概要などの企業情報を掲載しています。マイナビ転職の企業情報ページでは、さまざまな業種・職種で求人を募集している企業の情報を探せます。 基本情報 法人番号2011001068494 郵便番号1500031 住所東京都 渋谷区 桜丘町4番23号 企業概要店舗不動産の仲介 店舗内装資産の仲介 出店支援事業 資本金99000000 正社員数44 設立年月日設立10年以上 企業サイト https://restandard.co.jp/ 現在 国内所在地の」（https://tenshoku.mynavi.jp/company/376063/・3回目）
+  - 「レスタンダード株式会社 | HelloBoss – 全国最大550万社の企業データ... — 基本情報 法人番号2011001068494 郵便番号1500031 住所東京都 渋谷区 桜丘町4番23号 企業概要店舗不動産の仲介 店舗内装資産の仲介 出店支援事業 資本金99000000 正社員数44 設立年月日設立10年以上 企業サイト https://restandard.co.jp/ 現在 国内所在地の変更2015-11-09 商号 レスタンダード株式会社 本店所在地 ...」（https://helloboss.com/corp/2011001068494・3回目）
+  - 「レスタンダード株式会社｜店舗専門不動産会社 — RECRUIT レスタンダードを担う貴方たちが 日本の店舗ビジネスの未来を 担っていく レスタンダードは飲食店を中心に店舗不動産を専門的に扱っています。 取引先は起業家や経営者、不動産所有者等でありビジネスレベルの高い方々です。」（https://restandard.co.jp/・3回目）
+  - 「レスタンダード株式会社 岡本 和宏 | ベストベンチャー100レスタンダードの企業概要・売上・業績など｜Yahoo!しごとカタログレスタンダードの業績/売上/事業の将来性と成長性(全6件)「【良い点】...レスタンダード 「企業分析」 OpenWork会社案内|【居抜き市場】を運営するレスタンダード株式会社 — 岡本： 店舗専門の不動産に特化した不動産業務を行っており、居抜き市場（いちば）と居抜き売却市場（いちば）というサイト運営をしております。主に飲食店や美容室などの店舗ビジネスを展開する方と、ビルオーナーとをつなぐ橋渡し役として、サイト上からの物件検索、現地へのご案内 ... 【職種】人事＞採用 【業種】不動産＞不動産仲介 ※会員属性などに応じ、当該求人をビズリーチ上で閲覧された際に内容が異なる場合があります 募集背景 設立から15期連続で黒字経営を続けるレスタンダード。 Jan 16」（https://best100.v-tsushin.jp/company/restandard/・3回目）
+  - 「レスタンダードの企業概要・売上・業績など｜Yahoo!しごとカタログ — 【職種】人事＞採用 【業種】不動産＞不動産仲介 ※会員属性などに応じ、当該求人をビズリーチ上で閲覧された際に内容が異なる場合があります 募集背景 設立から15期連続で黒字経営を続けるレスタンダード。」（https://jobcatalog.yahoo.co.jp/company/1000031801/information/・3回目）
+  - 「レスタンダードの業績/売上/事業の将来性と成長性(全6件)「【良い点】...レスタンダード 「企業分析」 OpenWork会社案内|【居抜き市場】を運営するレスタンダード株式会社 — Jan 16, 2025 · 【良い点】 店舗専門のサブリース事業は、住宅のサブリースとは異なり、成長性や将来性があると感じます。 ストック型のビジネスモデルであり、安定性もあります。 人口減少、景気の悪... 続きを読む (全148文字) レスタンダード株式会社の「企業データ」と「社員クチコミ」を分析。OpenWorkでは、就職・転職前に採用企業「レスタンダード」をリサーチするために企業の売上高、平均給与等の業績データと在籍社員による会社評価スコアを分析しています。 会社名 レスタンダード株式会社 資本金 9900万円 住所 〒150-0031 東京都渋谷区桜丘町4-23 渋谷桜丘ビル 5階 TEL 03-」（https://jobtalk.jp/companies/353316/answers/7502589・3回目）
+  - 「レスタンダード 「企業分析」 OpenWork — レスタンダード株式会社の「企業データ」と「社員クチコミ」を分析。OpenWorkでは、就職・転職前に採用企業「レスタンダード」をリサーチするために企業の売上高、平均給与等の業績データと在籍社員による会社評価スコアを分析しています。」（https://www.openwork.jp/a0C1000000q8p63/analysis/・3回目）
+  - 「レスタンダード株式会社 | 企業・投資家情報 — 調達情報 補助金交付 法人情報 商号変更 住所変更 登記閉鎖 登記復活 吸収合併 企業統計 売上統計 利益統計 株主資本 CF統計 時価総額 従業員 報告書 適時開示 有価証券 5%ルール 検索 カテゴリ 銘柄一覧 ランキング 企業ランキング 監査法人ランキング 株価 ...」（https://irbank.net/レスタンダード株式会社・3回目）
+  - 「企業情報｜店舗専門不動産のレスタンダード株式会社 — 〒150-0031 東京都渋谷区桜丘町4-23 渋谷桜丘ビル 5階」（https://restandard.co.jp/corp/・3回目）
+- 創業年度：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部13頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部13頁・検索11回）
+- 株主：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部13頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部13頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部13頁・検索11回）
+
+## ロットネスト
+- 公式URL：https://lottnest.com/（given）
+- 事業内容：LTV向上支援 広告運用（https://lottnest.com/・1回目）
+- 事業内容：LTV向上支援 売上投資対効果の可視化支援 広告運用（https://lottnest.com/・1回目）
+- 事業内容：広告運用（https://lottnest.com/・1回目）
+- 資本金：10,000,000円（https://lottnest.com/company/overview-access/・1回目）
+- 創業年度：設立年月日：2022年4月1日（https://lottnest.com/company/overview-access/・1回目）
+- 所在地：〒141-0031 東京都品川区西五反田7丁目1-10 U's-1ビル 9階（https://lottnest.com/company/overview-access/・1回目）
+- 代表者：代表取締役 豊嶋 玲（https://lottnest.com/company/overview-access/・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「常駐支援により、お客様の売上成長を妨げている本当の要因や課題を発掘することで、売上に直結する広告運用支援を実現します」（https://lottnest.com/・1回目）
+  - 「「広告代理店を変えても売上につながらない」」（https://lottnest.com/・1回目）
+  - 「ロットネストの常駐支援はこのずれをなくし、お客様と同じ目線・同じ熱量で、売上の最大化を実現します」（https://lottnest.com/・1回目）
+  - 「広告データとCRM/SFA、店舗の基幹システム内の顧客データを連携し、施策別の売上貢献度を可視化します」（https://lottnest.com/・1回目）
+  - 「のべ50社以上の業種の売上向上を支援してきました」（https://lottnest.com/・1回目）
+  - 「売上と質の可視化により成約率25%を維持」（https://lottnest.com/・1回目）
+  - 「驚異の売上600%成長」（https://lottnest.com/・1回目）
+  - 「常駐支援により、お客様の売上成長を妨げている本当の要因や課題を発掘することで、売上に直結する広告運用支援を実現します」（https://lottnest.com/service/・1回目）
+  - 「「広告代理店を変えても売上につながらない」」（https://lottnest.com/service/・1回目）
+  - 「ロットネストの常駐支援はこのずれをなくし、お客様と同じ目線・同じ熱量で、売上の最大化を実現します」（https://lottnest.com/service/・1回目）
+  - 「広告データとCRM/SFA、店舗の基幹システム内の顧客データを連携し、施策別の売上貢献度を可視化します」（https://lottnest.com/service/・1回目）
+  - 「売上と質の可視化により成約率25%を維持」（https://lottnest.com/casestudy/・1回目）
+- 客の産業（導入事例・取引先）：
+  - 「広告データとCRM/SFA、店舗の基幹システム内の顧客データを連携し、施策別の売上貢献度を可視化します」（https://lottnest.com/・1回目）
+  - 「美容医療、音楽スクール、探偵事務所など」（https://lottnest.com/・1回目）
+  - 「医療美容クリニック（メンズアートメイク等）」（https://lottnest.com/・1回目）
+  - 「代理店を替えて、顧客層が変わった」（https://lottnest.com/・1回目）
+  - 「広告データとCRM/SFA、店舗の基幹システム内の顧客データを連携し、施策別の売上貢献度を可視化します」（https://lottnest.com/service/・1回目）
+  - 「医療美容クリニック（メンズアートメイク等）」（https://lottnest.com/casestudy/・1回目）
+  - 「代理店を替えて、顧客層が変わった」（https://lottnest.com/casestudy/・1回目）
+  - 「医療美容クリニック（メンズアートメイク等）」（https://lottnest.com/case_study/sheermusic/・1回目）
+  - 「店舗や営業拠点のスタッフから「広告経由の顧客は質が悪い」と言われてしまう」（https://lottnest.com/service/advertising/・1回目）
+  - 「同社のデータ連携ノウハウを活かすことで、顧客データを基にした定量・定性の両観点からの施策立案が可能です」（https://lottnest.com/service/advertising/・1回目）
+  - 「単なるCPAやCVではなく、最終的な成約率や顧客単価を加味した投資対効果を指標に広告成果をウォッチしています」（https://lottnest.com/service/advertising/・1回目）
+  - 「これにより、広告から予約した顧客の「流入元」「契約プラン」「購入商品」「購入単価」といった細かな数値を分析します」（https://lottnest.com/service/advertising/・1回目）
+- 資本金・株主：
+  - 「株式会社ロットネストの資金調達・求人・転職情報を掲載 - ANGEL PORT」（https://angl.jp/companies/lottnest・3回目）
+- 検索結果の抜粋：
+  - 「会社情報 | 株式会社ロットネスト — 会社概要・アクセス 会社の基本情報や五反田の本社オフィス所在地、アクセス、各種SNS情報を掲載しています。」（https://lottnest.com/company/・3回目）
+  - 「1ページでわかるロットネスト | 採用情報 | 株式会社ロットネスト — Lottnest on one page. 1ページでわかる ロットネスト ロットネストの基本情報や「社員の挑戦を支える風土・体制」について、分かりやすくまとめました。」（https://lottnest.com/recruitment/one-overview/・3回目）
+  - 「株式会社ロットネスト | Compalyze — 〒141-0031 東京都品川区に本社を置く株式会社ロットネストの企業情報。株式会社ロットネストは、「常駐する」広告代理店として。MKT (MKT-02)、2022年設立、従業員（被保険者）25名。代表者 豊嶋玲。役員1名・登記6件。」（https://compalyze.co.jp/company/5010401166616・3回目）
+  - 「株式会社ロットネストの求人・採用情報、会社概要｜転職ならビズリー... — 株式会社ロットネストの求人・採用情報、会社概要を掲載しています。ビズリーチの採用企業別ページでは、所在地や事業内容などの企業情報や、次世代リーダー・年収800万円以上・リモートワーク可などの他では出会えない希少な求人情報を閲覧することができます。」（https://www.bizreach.jp/companies/26318/・3回目）
+  - 「株式会社ロットネストの会社概要｜30代、40代のハイクラス転職サイト... — 転職成功者続出！株式会社ロットネストなどの人材紹介会社が保有する転職・求人情報が満載。800万円以上の高年収、管理職・スペシャリストの求人、株式会社ロットネストが保有する非公開求人スカウトも多数。」（https://mid-tenshoku.com/agency/a-8349/・3回目）
+  - 「株式会社ロットネスト｜“事業成長”に向き合う常駐型広告代理店 — その要因は、お客様と広告代理店の間で追いかける目標にずれが生じるからです。 ロットネストの常駐支援はこのずれをなくし、お客様と同じ目線・同じ熱量で、売上の最大化を実現します。 詳しく見る Service03 売上投資対効果の可視化支援」（https://lottnest.com/・3回目）
+  - 「【企業分析】株式会社ロットネスト｜事業内容・強み・カルチャーを全... — Sep 7, 2026 · 株式会社ロットネストは、2022年設立のインターネット広告代理店です。最大の特徴は、クライアントを外から支援するのではなく、社内の一員に近い立場で入り込み、広告成果だけでなく「最終的な売上・事業成長」まで追いかける“常駐型”の支援スタイルにあります。 この記事では、公式 ...」（https://note.com/cute_beetle7690/n/n5c9d0669e065・3回目）
+  - 「会社情報 | 株式会社ロットネスト — メンバー紹介 ロットネストで働く社員の紹介です。ポジションや得意分野、仕事に対する考え、SNSアカウント情報などを ...」（https://lottnest.com/company/・3回目）
+  - 「株式会社ロットネスト 豊嶋 玲 | ベストベンチャー100株式会社ロットネスト | Compalyze株式会社ロットネスト - 広告業界の会社の企業情報 | Baseconnect童心溢れる挑戦で、次の事業とリーダーを生み出す──代表豊嶋玲が語る... — ─ 起業の経緯を教えて下さい。 「次の100年を創る」というパーパスだけ決めて、日本経済を支えるリーダーと事業が連続的に生まれていく会社を創ろうと思い、起業しました。 事業概要 株式会社ロットネストは、「常駐する」広告代理店として、顧客企業の事業成長に深く伴走するデジタルマーケティング支援を提供しています。同社は、一般的な広告代理店が広告運用に限定されるのに対し、顧客の社内に入り込む「常駐支援」を最大の特徴とし、情報格差の軽減 ... 株式会社ロットネストの企業情報ページ。広告業界の会社・従業員数25名。事業内容・役員・連絡先をBase」（https://best100.v-tsushin.jp/company/lottnest/・3回目）
+  - 「株式会社ロットネスト | Compalyze — 事業概要 株式会社ロットネストは、「常駐する」広告代理店として、顧客企業の事業成長に深く伴走するデジタルマーケティング支援を提供しています。同社は、一般的な広告代理店が広告運用に限定されるのに対し、顧客の社内に入り込む「常駐支援」を最大の特徴とし、情報格差の軽減 ...」（https://compalyze.co.jp/company/5010401166616・3回目）
+  - 「株式会社ロットネストの資金調達・求人・転職情報を掲載 - ANGEL PORT — 株式会社ロットネストのエンジェル投資家・ベンチャーキャピタル (VC)からの資金調達・求人情報を掲載中。スタートアップの資金調達、転職・新卒採用・インターンシップ情報を調べることができる。起業家とエンジェル投資家のマッチングサイトです。」（https://angl.jp/companies/lottnest・3回目）
+  - 「株式会社ロットネスト - ベンチャー.jp — 【#262】広告代理店事業で次の100年に挑戦。 「チャレンジ→成長→次世代への還元」の循環を生みたい 2024.10.02 1,343 views 起業 経営者 人事 VC 資金調達」（https://venture.jp/business/株式会社ロットネスト/・3回目）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部19頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部19頁・検索11回）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部19頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部19頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部19頁・検索11回）
+- 選出の記録：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部19頁・検索11回）
+
+## ロンバード
+- 公式URL：https://www.lombard.co.jp/（given）
+- 事業内容：・アフィリエイト広告事業 ・マーケティング活動におけるコンサルティング及び、情報提供サービス ・広告代理業 ・インターネット等を利用した通信販売業及び、情報提供の仲介 ・国内及び海外における、各種インターネットサービスに関する調査及び情報販売（https://www.lombard.co.jp/about/・1回目）
+- 事業内容：アフィリエイト広告事業 マーケティング活動におけるコンサルティング及び、情報提供サービス 広告代理業 インターネット等を利用した通信販売業及び、情報提供の仲介 国内及び海外における、各種インターネットサービスに関する調査及び情報販売（https://www.felmat.net/service/inc・3回目）
+- 資本金：5,000万円（https://www.lombard.co.jp/about/・1回目）
+- 資本金：5,000万円（https://www.felmat.net/service/inc・3回目）
+- 資本金：5,000万円（https://jobhakase.com/archives/304781・3回目）
+- 創業年度：設立：2012年4月26日（https://www.lombard.co.jp/about/・1回目）
+- 創業年度：設立：2012年4月26日（https://www.felmat.net/service/inc・3回目）
+- 創業年度：設立：2012年04月（https://jobhakase.com/archives/304781・3回目）
+- 所在地：〒141-0031　東京都品川区西五反田1丁目5-1 A-PLACE五反田駅前8F TEL：03-3779-7700（https://www.lombard.co.jp/about/・1回目）
+- 所在地：〒141-0031 東京都品川区西五反田1-5-1 A-PLACE五反田駅前8階（https://www.felmat.net/service/inc・3回目）
+- 所在地：〒141-0031（https://jobhakase.com/archives/304781・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「クローズドアフィリエイトサービス「フェルマ（felmat）」を中心とした広告代理事業を運営」（https://www.lombard.co.jp/・1回目）
+  - 「felmat(フェルマ)は、株式会社ロンバードが2012年から運営する完全招待制の非公開型アフィリエイト・サービスです」（https://www.lombard.co.jp/download_felmat_client/・1回目）
+  - 「・インターネット等を利用した通信販売業及び、情報提供の仲介」（https://www.lombard.co.jp/about/・1回目）
+  - 「・国内及び海外における、各種インターネットサービスに関する調査及び情報販売」（https://www.lombard.co.jp/about/・1回目）
+  - 「また、近年では膨大なマーケティングデータの分析・活用にも力を入れており、機械学習・AIエンジニア向けのオンラインスクール「codexa」の運営や、多種多様な消費者行動に対するマーケティングニーズに対してアプローチを行う、LINE公式アカウントのマーケティングツール「winut」の提供を行なっています」（https://www.lombard.co.jp/service/・1回目）
+  - 「2012年から運営する非公開型アフィリエイト・サービスです」（https://www.lombard.co.jp/service/・1回目）
+  - 「コースの一部コンテンツは「現場で使える!pandasデータ前処理入門 機械学習・データサイエンスで役立つ前処理手法」（出版 翔泳社）で書籍として販売もされています」（https://www.lombard.co.jp/service/・1回目）
+  - 「インターネット等を利用した通信販売業及び、情報提供の仲介」（https://www.felmat.net/service/inc・3回目）
+  - 「国内及び海外における、各種インターネットサービスに関する調査及び情報販売」（https://www.felmat.net/service/inc・3回目）
+  - 「東京都品川区周辺の正社員、派遣、アルバイト募集情報を検索」（https://data-link-plus.com/jp/corporation/6011001073433・3回目）
+  - 「事業内容、組織沿革、役員名簿、売上高等につきましては、当該法人の公式ウェブサイト等をご確認下さい」（https://data-link-plus.com/jp/corporation/6011001073433・3回目）
+  - 「株式会社ロンバードってどんな会社？事業内容、仕事内容、働き方は？ - 仕事博士」（https://jobhakase.com/archives/304781・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「顧客に喜ばれるインターネット広告のサービスを提供」（https://www.lombard.co.jp/・1回目）
+  - 「大手クライアントから信頼を得て、業績は順調に伸びており、安定した事業基盤を築いています」（https://www.lombard.co.jp/・1回目）
+  - 「価値ある顧客を獲得するアフィリエイトサービス「felmat」」（https://www.lombard.co.jp/download_felmat_client/・1回目）
+  - 「三井住友銀行（渋谷駅前支店）/ みずほ銀行（渋谷中央支店）」（https://www.lombard.co.jp/about/・1回目）
+  - 「WEB広告プロモーションの運用で培った10,000以上のクライアントのニーズに応えました」（https://www.lombard.co.jp/service/・1回目）
+  - 「クライアントの多種多様なマーケティング課題に対してのアプローチの一環として、株式会社ロンバードでは予算型・成果報酬型のリスティング広告、ディスプレイ広告、SNS広告、動画広告の運用を行なっています」（https://www.lombard.co.jp/service/・1回目）
+  - 「主力サービスである「felmat」はアフィリエイトプログラムを提供し、クライアントのニーズに基づいた課題解決を行っていますね」（https://jobhakase.com/archives/304781・3回目）
+  - 「顧客からの信頼を得るために、迅速なサポートやニーズに応じた提案を行い、利用者満足度でも常に高い評価を得ている点が挙げられます」（https://jobhakase.com/archives/304781・3回目）
+  - 「クライアントは金融業から通信販売業まで多種多様な業界にわたりますね」（https://jobhakase.com/archives/304781・3回目）
+  - 「各クライアントの特性に応じた最適なソリューションを提供する必要があり、幅広いニーズに対応しています」（https://jobhakase.com/archives/304781・3回目）
+  - 「この記事では、海外金融と国際資産管理を研究・発信している」（https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/・3回目）
+  - 「いずれも、金融資産を担保にして資金を借りる仕組みです」（https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/・3回目）
+- 資本金・株主：
+  - 「資本金:5,000万円」（https://jobhakase.com/archives/304781・3回目）
+  - 「便利な資金調達手段ですが、「売らなくてよい」ことと「損失が出ない」ことはまったく別です」（https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/・3回目）
+  - 「担保として認められるのは、現金、国債・社債、上場株式、ファンドなどが中心ですが、何が対象になるか、どの程度の掛目が付くかは金融機関と資産ごとに異なります」（https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/・3回目）
+  - 「有名取引所や金融機関から出資を受けていて、既に1万枚以上のLBTCが発行されているんだとか」（https://note.com/nft_labo2100/n/n508e25d91263・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 | 株式会社ロンバード（lombard）株式会社ロンバード（lombard） - ユーザーの心を掴むインターネット...felmat - 会社概要株式会社ロンバード（東京都品川区） 概要 - 企業情報株式会社ロンバード（東京都）の企業情報 | Compalyze株式会社ロンバードってどんな会社？事業内容、仕事内容、働き方は？株式会社ロンバード (東京都品川区)の企業情報|カイシャリサーチ — 株式会社ロンバードは、東京と大阪の2拠点で完全招待制/紹介生の独自のクローズドアフィリエイト・サービス felmat（フェルマ）を運営、他にもAI時代を見据え機械学習のオンラインスクールやグローバル市場への進出支援など幅広い事業展開を行っています。 株式会社メルカリと共同でウェビナー「mercari Ads 最新アップデート徹底解説」を開催 2027年度新卒採用 エントリー受付中 ChatG」（https://www.lombard.co.jp/about/・3回目）
+  - 「felmat - 会社概要株式会社ロンバード（東京都品川区） 概要 - 企業情報株式会社ロンバード（東京都）の企業情報 | Compalyze株式会社ロンバードってどんな会社？事業内容、仕事内容、働き方は？株式会社ロンバード (東京都品川区)の企業情報|カイシャリサーチ — TOP パートナー利用規約 プライバシーポリシー © 2012 - 2026 lombard inc. All rights reserved. 概要 株式会社ロンバード は東京都品川区にある企業です。法人番号は6011001073433、住所は東京都品川区西五反田1丁目5番1号です。本店（主たる事務所）の所在地は変更されたことがあります。この法人は2015年（平成27年）10月5日に法人番号が指定されました。 〒141-0031 東京都品川区に本社を置く株式会社ロンバードの企業情報。株式会社ロンバードは、「ファンづく」（https://www.felmat.net/service/inc・3回目）
+  - 「株式会社ロンバード（東京都品川区） 概要 - 企業情報 — 概要 株式会社ロンバード は東京都品川区にある企業です。法人番号は6011001073433、住所は東京都品川区西五反田1丁目5番1号です。本店（主たる事務所）の所在地は変更されたことがあります。この法人は2015年（平成27年）10月5日に法人番号が指定されました。」（https://data-link-plus.com/jp/corporation/6011001073433・3回目）
+  - 「株式会社ロンバード（東京都）の企業情報 | Compalyze — 〒141-0031 東京都品川区に本社を置く株式会社ロンバードの企業情報。株式会社ロンバードは、「ファンづくり」をポリシーに。MKT (MKT-02)、2012年設立、従業員（被保険者）63名。登記1件。」（https://compalyze.co.jp/company/6011001073433・3回目）
+  - 「株式会社ロンバードってどんな会社？事業内容、仕事内容、働き方は？ — Aug 28, 2025 · 株式会社ロンバードはどんな会社ですか？ 株式会社ロンバードは、クローズドアフィリエイトサービス「felmat」を運営し、インターネット広告代理事業を展開している企業ですね。 設立は2012年で、現在は東京、大阪、福岡の3拠点に offices を構えています。」（https://jobhakase.com/archives/304781・3回目）
+  - 「会社概要 | 株式会社ロンバード（lombard）株式会社ロンバードってどんな会社？事業内容、仕事内容、働き方は？ ...株式会社ロンバードホールディングスの企業情報 | Baseconnectロンバード｜STARTUP DB（スタートアップデータベース）株式会社ロンバード（lombard） - ユーザーの心を掴むインターネット...株式会社ロンバード｜スピーダ スタートアップ情報リサーチ株式会社ロンバード の企業情報 | バフェット・コード — 株式会社ロンバードは、東京と大阪の2拠点で完全招待制/紹介生の独自のクローズドアフィリエイト・サービス felmat（フェルマ）を運営、他にもAI時代を見据え機械学習のオンラインスクールやグローバル市場への進出支援など幅広い事業展開を行っています。 Aug 28, 2025 · 株式会社ロンバードは、クローズドアフィリエイトサービス「felmat」（https://www.lombard.co.jp/about/・3回目）
+  - 「株式会社ロンバードってどんな会社？事業内容、仕事内容、働き方は？ ... — Aug 28, 2025 · 株式会社ロンバードは、クローズドアフィリエイトサービス「felmat」を運営し、インターネット広告代理事業を展開している企業ですね。設立は2012年で、現在は東京、大阪、福岡の3拠点に offices を構えています。主に“Fan Making”をポリシーに掲げて、ユーザーサービスの向上に努めている ...」（https://jobhakase.com/archives/304781・3回目）
+  - 「株式会社ロンバードホールディングスの企業情報 | Baseconnect — 株式会社ロンバードホールディングスの企業情報ページ。事業内容・役員・連絡先をBaseconnectで確認できます。」（https://baseconnect.in/companies/2b8ce093-17d7-414c-ad6e-5b1b864e6a72・3回目）
+  - 「ロンバード｜STARTUP DB（スタートアップデータベース） — サービス サービス名 felmat ロンバード 有力アフィリエイターに特化したクローズドアフィリエイトサービス ローンチ日 - IT・通信 ビジネスサポート メディア マーケティング コンサルティング B2B」（https://startup-db.com/investment-companies/vNOKZXOUrgqp185L・3回目）
+  - 「株式会社ロンバード（lombard） - ユーザーの心を掴むインターネット... — 株式会社ロンバード 本社所在地 〒141-0031 東京都品川区西五反田1丁目5-1 A-PLACE五反田駅前8F TEL：03-3779-7700 大阪営業所 〒530-0001 大阪府大阪市北区梅田1-11-4大阪駅前第四ビル24F TEL：06-4708-5245 COMPANY 会社概要 事業内容 個人情報保護方針 情報セキュリティ基本方針」（https://go.lombard.co.jp/・3回目）
+  - 「証券担保ローンとロンバードローンを比較｜売らずに資金を作る方法 — Sep 21, 2026 · 証券を売らずに資金を調達する証券担保ローンと海外PBのロンバードローンを比較。金利、LTV、通貨、マージンコール、強制売却まで判断軸を整理します。」（https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/・3回目）
+  - 「ロンバード / 投資ポートフォリオ一覧｜STARTUP DB（スタートアップデ... — ロンバードの投資ポートフォリオ一覧ページです。 資金調達金額推移 金額単位：百万円 有料会員限定 社名 ロンバード ...」（https://startup-db.com/companies/vNOKZXOUrgqp185L/portfolios・3回目）
+- 従業員数：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部28頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部28頁・検索11回）
+- 株主：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部28頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部28頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部28頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部28頁・検索11回）
+- 選出の記録：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部28頁・検索11回）
+
+## 三木森
+- 公式URL：https://miki-mori.co.jp/（given）
+- 事業内容：事業一覧 流通事業 AIロボティクスソリューション事業 EC事業 電子決済導入事業 不動産賃貸およびデベロップメント事業 系統用蓄電所開発事業（https://group.miki-mori.co.jp/・1回目）
+- 事業内容：電化製品、高級時計、健康食品の流通事業 AIロボティクスソリューション事業 (Gausium 一次代理店 / Authorized GS Dealer) EC 事業 Alipay、WechatPay、QR 決済、電子決済導入事業 不動産賃貸及びデベロップメント事業 系統用蓄電所開発事業（https://robotics.miki-mori.co.jp/company/・3回目）
+- 事業内容：・電化製品、高級時計の流通事業 ・電子決済導入事業 ・不動産売買およびデベロップメント事業 ・系統用蓄電所開発事業（https://best100.v-tsushin.jp/company/miki-mori/・3回目）
+- 資本金：9,900万円（https://robotics.miki-mori.co.jp/company/・3回目）
+- 資本金：9,900万円（https://best100.v-tsushin.jp/company/miki-mori/・3回目）
+- 資本金：5,000万円（https://jobcatalog.yahoo.co.jp/company/1500115061/information/・3回目）
+- 創業年度：設立：平成26年4月（https://robotics.miki-mori.co.jp/company/・3回目）
+- 創業年度：設立：2014年4月（https://jobcatalog.yahoo.co.jp/company/1500115061/information/・3回目）
+- 創業年度：設立年月日：平成 26 年 4 月（https://prtimes.jp/main/html/rd/p/000000027.000099599.html・3回目）
+- 従業員数：3人（https://jobcatalog.yahoo.co.jp/company/1500115061/information/・3回目）
+- 所在地：〒102-0073 東京都千代田区九段北1丁目13-12 北の丸スクエア2F（https://robotics.miki-mori.co.jp/company/・3回目）
+- 所在地：東京都千代田区九段北1丁目13-12 北の丸スクエア2F（https://best100.v-tsushin.jp/company/miki-mori/・3回目）
+- 所在地：東京都千代田区九段北１丁目１３－１２（https://jobcatalog.yahoo.co.jp/company/1500115061/information/・3回目）
+- 代表者：代表取締役 安 龍洙 (アン・リュウシュ)（https://robotics.miki-mori.co.jp/company/・3回目）
+- 代表者：安竜洙（https://jobcatalog.yahoo.co.jp/company/1500115061/information/・3回目）
+- 代表者：代表取締役　室塚 博史 代表取締役　神武 弘徳（https://voix.jp/money/factoring-funding/28563/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「良質な1棟収益物件および新築区分マンションを取得し、希少性の高い物件を、当社シリーズの開発物件ではマイホーム賃貸で新しい価値をご提供します」（https://group.miki-mori.co.jp/・1回目）
+  - 「当グループは消費者ニーズの高い商品の卸販売事業をメインに」（https://group.miki-mori.co.jp/・1回目）
+  - 「1.系統用蓄電池（BESS）の開発、建設、運営」（https://group.miki-mori.co.jp/company/profile.html・3回目）
+  - 「4.集団投資スキーム（ファンド）の組成、管理、運営」（https://group.miki-mori.co.jp/company/profile.html・3回目）
+  - 「当グループは消費者ニーズの高い商品の卸販売事業をメインに」（https://group.miki-mori.co.jp/company/profile.html・3回目）
+  - 「当社は Gausium Robotics Holdings Limited (香港) より Authorized GS Dealer の指定を受け、Gausium 社製の業務用清掃ロボットの日本国内販売・保守を行っています」（https://robotics.miki-mori.co.jp/company/・3回目）
+  - 「高級時計・ブランドバッグ、不動産、再生エネルギー、アニメグッズ、商社、通信販売分野における」（https://best100.v-tsushin.jp/company/miki-mori/・3回目）
+  - 「主軸となる流通事業では、電化製品や高級時計、ブランドバッグ等の輸出入販売に加え、海外メーカーの総代理店として独創的な製品を国内量販店へ広く展開してまいりました」（https://best100.v-tsushin.jp/company/miki-mori/・3回目）
+  - 「近年は事業領域を拡大し、2023年より不動産開発事業へ参入し、自社ブランドマンションの着工を積極的に行い、売買・仲介まで一貫して手掛けております」（https://best100.v-tsushin.jp/company/miki-mori/・3回目）
+  - 「さらに2025年からは系統用蓄電所開発事業に参入し、再生可能エネルギーの普及を支えるインフラを自社保有・販売することで、持続可能な社会の実現と、年商1兆円規模の企業体を目指した多角的な成長を追求していく所存です」（https://best100.v-tsushin.jp/company/miki-mori/・3回目）
+  - 「三木森の企業概要・売上・業績など｜Yahoo!しごとカタログ」（https://jobcatalog.yahoo.co.jp/company/1500115061/information/・3回目）
+  - 「Web履歴書を登録すると、プロがあなたにぴったりのお仕事を紹介してくれます」（https://jobcatalog.yahoo.co.jp/company/1500115061/information/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「みずほ銀行および三菱UFJ銀行と総額30億円の当座貸越枠を締結」（https://group.miki-mori.co.jp/・1回目）
+  - 「業務用AI清掃ロボット市場で、世界シェア1位・70カ国以上で6500社を超える導入実績を持つGausiumと提携し、日本一次代理店としてAI清掃ロボット事業を展開」（https://group.miki-mori.co.jp/・1回目）
+  - 「再生可能エネルギーの導入拡大に伴う電力の不安定化に対し、当社は投資家の皆様と共に、用地開発・設備施工・運用管理まで一貫した蓄電池事業を展開」（https://group.miki-mori.co.jp/・1回目）
+  - 「当グループは消費者ニーズの高い商品の卸販売事業をメインに」（https://group.miki-mori.co.jp/・1回目）
+  - 「5. 不動産賃貸及びデベロップメント事業」（https://group.miki-mori.co.jp/company/profile.html・3回目）
+  - 「1.系統用蓄電池（BESS）の開発、建設、運営」（https://group.miki-mori.co.jp/company/profile.html・3回目）
+  - 「3.電力アグリゲーションおよびエネルギーマネジメント事業」（https://group.miki-mori.co.jp/company/profile.html・3回目）
+  - 「当グループは消費者ニーズの高い商品の卸販売事業をメインに」（https://group.miki-mori.co.jp/company/profile.html・3回目）
+  - 「三井住友銀行、みずほ銀行、三菱UFJ銀行 ほか」（https://robotics.miki-mori.co.jp/company/・3回目）
+  - 「清掃・物流・接客等の業務用ロボットの導入支援を通じて、日本の労働力不足問題の解決に取り組んでいます」（https://robotics.miki-mori.co.jp/company/・3回目）
+  - 「高級時計・ブランドバッグ、不動産、再生エネルギー、アニメグッズ、商社、通信販売分野における」（https://best100.v-tsushin.jp/company/miki-mori/・3回目）
+  - 「最先端AIとDXを核とした「ITを駆使する次世代商社」」（https://best100.v-tsushin.jp/company/miki-mori/・3回目）
+- 資本金・株主：
+  - 「5年以内に上場予定」（https://best100.v-tsushin.jp/company/miki-mori/・3回目）
+  - 「当社にとって上場はゴールではなく、真のグローバル企業へと飛躍するための通過点に過ぎません」（https://best100.v-tsushin.jp/company/miki-mori/・3回目）
+  - 「この記事は、企業の資金調達や成長戦略に興味がある方におすすめです」（https://voix.jp/money/factoring-funding/28563/・3回目）
+  - 「読者は、株式会社三木森の最新の資金調達についての情報を得ることで、企業の成長戦略や市場動向についての理解を深めることができます」（https://voix.jp/money/factoring-funding/28563/・3回目）
+  - 「今回の資金調達において、以下の主要な使途が計画されています」（https://voix.jp/money/factoring-funding/28563/・3回目）
+  - 「今後、株式会社三木森は、資金調達を通じてさらなる成長を遂げ、持続可能な社会の実現に寄与することが期待されています」（https://voix.jp/money/factoring-funding/28563/・3回目）
+  - 「メガバンクが非上場企業に枠を出した日に知っておくべき、お金の読み方」（https://note.com/glad_auklet4142/n/n29b5df88c894・3回目）
+  - 「#リユース #買取DX #三木森 #メガバンク融資 #当座貸越 #みずほ銀行 #三菱UFJ銀行 #資金調達 #次世代商社 #ポス鳥」（https://note.com/glad_auklet4142/n/n29b5df88c894・3回目）
+  - 「資本金は9,900万円で、上場もしていません」（https://note.com/glad_auklet4142/n/n29b5df88c894・3回目）
+  - 「非上場で資本金1億円未満の企業」（https://note.com/glad_auklet4142/n/n29b5df88c894・3回目）
+  - 「「なんで銀行は、上場もしていない会社に30億円も枠を出せるの？」」（https://note.com/glad_auklet4142/n/n29b5df88c894・3回目）
+  - 「「資金調達の種類」や「銀行が融資を決める時に何を見ているか」」（https://note.com/glad_auklet4142/n/n29b5df88c894・3回目）
+- 選出の記録：
+  - 「株式会社三木森 安 竜洙 | ベストベンチャー100」（https://best100.v-tsushin.jp/company/miki-mori/・3回目）
+  - 「▼PRTIMES ベストベンチャー100受賞」（https://prtimes.jp/main/html/rd/p/000000030.000099599.html・3回目）
+- 検索結果の抜粋：
+  - 「三木森グループ - 株式会社 三木森 — 三木森グループは、日本ブランドの電化製品・高級時計・日用品・健康食品を中心とした流通事業を中心に、リユース買取販売事業、EC事業、電子決済導入事業、不動産賃貸およびデベロップメント事業、系統用蓄電所開発事業を展開しております。」（https://group.miki-mori.co.jp/company/profile.html・3回目）
+  - 「会社概要 | Gausium 日本一次代理店 株式会社三木森 — 会社概要 株式会社三木森 会社情報 会社情報 ... グループ会社・関連事業 株式会社三木森は、AI ロボティクス事業を展開しています。 清掃・物流・接客等の業務用ロボットの導入支援を通じて、日本の労働力不足問題の解決に取り組んでいます。」（https://robotics.miki-mori.co.jp/company/・3回目）
+  - 「株式会社三木森（東京都）の会社概要・役員 | Compalyze — 株式会社三木森は、「毎日イノベーション」を掲げ、多角的な事業展開を通じて社会に新たな価値を創造するグローバル・トレーディ。 小売・EC (ECモール・通販)、2014年設立、社会保険被保険者数58名。 代表者 安竜洙。 役員1名・登記3件。」（https://compalyze.co.jp/company/7030001102570・3回目）
+  - 「株式会社三木森（東京都千代田区 / 未上場）の会社概要｜Baseconnect — 基本情報 設立年月 2014年4月 資本金 9900万円 従業員数 情報あり 従業員増加率 情報あり 店舗数 0〜3箇所 事業所数 4〜10箇所 工場数 0〜5箇所 上場市場 未上場 企業情報を購入する」（https://baseconnect.in/companies/21859166-4e2a-4533-825e-f94720d4119f・3回目）
+  - 「株式会社三木森ってどんな会社？事業内容、仕事内容、働き方は？ — Mar 3, 2025 · 株式会社三木森では、新しいことにどん欲にチャレンジする姿勢が求められています。 特に、自らの手で新サービスを育て、ヒット商品を生み出す企画やマーケティングに関心がある方にとっては、やりがいのある職場環境です。」（https://jobhakase.com/archives/199993・3回目）
+  - 「株式会社 三木森 - 三木森グループ — 三木森グループは、日本ブランドの電化製品・高級時計・日用品・健康食品を中心とした流通事業を中心に、リユース買取販売事業、EC事業、電子決済導入事業、不動産賃貸およびデベロップメント事業、系統用蓄電所開発事業を展開しております。」（https://group.miki-mori.co.jp/・3回目）
+  - 「株式会社三木森 安 竜洙 | ベストベンチャー100三木森の企業概要・売上・業績など｜Yahoo!しごとカタログ株式会社三木森 の企業情報 | バフェット・コード三木森、ホールディングス体制への移行を完了。本年度内に23拠点の運...株式会社三木森ホールディングス - 小売業界の会社の企業情報 | Basec... — 主軸となる流通事業では、電化製品や高級時計、ブランドバッグ等の輸出入販売に加え、海外メーカーの総代理店として独創的な製品を国内量販店へ広く展開してまいりました。 三木森の会社概要や売上・業績などを詳細に掲載。 他にも評判・クチコミ・年収・求人・売上などの情報も。 しごとカタログでは様々な角度で企業の評判を知ることができます。 小売業者やEC事業者、一般消費者に対しては安定した商品調達と直販チャネルを提供し、測定器・計測器・試験機・電子機器・切削工具といった産業向け商材も取り」（https://best100.v-tsushin.jp/company/miki-mori/・3回目）
+  - 「三木森の企業概要・売上・業績など｜Yahoo!しごとカタログ — 三木森の会社概要や売上・業績などを詳細に掲載。 他にも評判・クチコミ・年収・求人・売上などの情報も。 しごとカタログでは様々な角度で企業の評判を知ることができます。」（https://jobcatalog.yahoo.co.jp/company/1500115061/information/・3回目）
+  - 「三木森グループ — 主な事業は、電化製品・高級時計・日用品・健康食品を中心とした流通事業、リユース買取販売事業、EC事業、電子決済導入事業、不動産賃貸およびデベロップメント事業、系統用蓄電所開発事業を展開しております。」（https://group.miki-mori.co.jp/about/・3回目）
+  - 「株式会社三木森 の企業情報 | バフェット・コード三木森、ホールディングス体制への移行を完了。本年度内に23拠点の運...株式会社三木森ホールディングス - 小売業界の会社の企業情報 | Basec... — 小売業者やEC事業者、一般消費者に対しては安定した商品調達と直販チャネルを提供し、測定器・計測器・試験機・電子機器・切削工具といった産業向け商材も取り扱っているためメーカーや産業ユーザーの調達ニーズにも対応します。 May 21, 2026 · さらに、データセンター開発や日本製蓄電池の導入を通じ、エネルギーを『蓄える』から『価値へ変える』インフラへと進化させ、売上高1兆円を ... 中古品の買取販売、楽天市場等でのEC事業、アジア圏のインバウンド決済サービス導入、収益物件や新築マンションの不動産賃貸・開発、再生可能エネルギーに伴う蓄電所開発、業務用AI清掃ロボット（Gausium社」（https://www.buffett-code.com/company/3h5i2kryfh/・3回目）
+  - 「株式会社三木森、みずほ銀行との提携で45億円の仕入資金枠を確保し事... — Feb 12, 2026 · この記事の要約 株式会社三木森がみずほ銀行と45億円の仕入資金枠契約を締結。 資金は流通網強化やM&A、新規事業に活用される。 持続可能な社会の実現と企業価値最大化を目指す。」（https://voix.jp/money/factoring-funding/28563/・3回目）
+  - 「株式会社三木森、みずほ銀行を単独アレンジャーとして極度45億円の仕...株式会社 三木森 - 三木森グループ株式会社三木森がみずほ銀行と45億円の資金枠契約を締結 - サードニュ...株式会社三木森、みずほ銀行と極度45億円の資金枠契約を締結し事業拡... — Feb 12, 2026 · 株式会社三木森ホールディングスのプレスリリース（2026年2月12日 13時00分）株式会社三木森、みずほ銀行を単独アレンジャーとして極度45億円の ... 三木森グループは、日本ブランドの電化製品・高級時計・日用品・健康食品を中心とした流通事業を中心に、リユース買取販売事業、EC事業、電子決済導入事業、不動産賃貸およびデベロップメント事業、系統用蓄電所開発事業を展開しております。 Feb 12, 2026 · 株式会社三木森がみずほ銀行と45億円の資金枠契約を締結 株式会社三木森が新たな資金調達を実施」（https://prtimes.jp/main/html/rd/p/000000027.000099599.html・3回目）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索11回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索11回）
+
+## 匠Lauren
+- 公式URL：https://takumi-lauren.co.jp/（given）
+- 事業内容：■Webサイトの企画、制作 ■Webソリューション、マーケティング ■インターネット広告事業 ■SNS広告運用 ■SNS動画広告サービス ■各種システム開発 ■総合広告代理事業 ■新規事業の企画・開発 #20代活躍　#地方出身者歓迎　#同期入社　#即日内定　#家賃補助 #交通費全額支給　#未経験歓迎　#達成感　#昇進が早い　#人生を変える仕事 #社長と距離が近い　#フットワーク　#学歴不問　#若手活躍　＃都内勤務 #渋谷　#成果主義の会社　#成長できる環境　#挑戦できる　#達成会 #研修制度あり　#チーム営業　#営業で人生変えた　#秋採用　#誰でも挑戦 #社員旅行あり　#数字にこだわれる　#福利厚生充実　#部活経験 #サークル経験　#自分らしく働く　#成長企業　#夏採用　#営業職 #熱くなれる仕事　#教育制度がしっかり　#社内イベントあり　#若手が主役 #安定より挑戦　#新卒採用　#将来独立も視野　#行動力　#幹部候補 #社会人デビュー　#自己成長　#体育会系　#成長志向　#一人暮らし応援 #福利厚生　#目標達成　#人物重視採用　#素直な人歓迎　#人柄重視 #稼げる　#新卒入社　#勢い（https://job.mynavi.jp/27/pc/search/corp250636/outline.html・3回目）
+- 事業内容：完全成功報酬型のSEO対策、SNS動画広告、WEB上で出来る予約管理システムなど、自社開発商材を展開中です！ ■Webサイトの企画、制作 ■Webソリューション、マーケティング ■インターネット広告事業 ■SNS広告運用 ■SNS動画広告サービス ■各種システム開発 ■総合広告代理事業 ■新規事業の企画・開発 #20代活躍　#地方出身者歓迎　#同期入社　#即日内定　#家賃補助 #交通費全額支給　#未経験歓迎　#達成感　#昇進が早い　#人生を変える仕事 #社長と距離が近い　#フットワーク　#学歴不問　#若手活躍　＃都内勤務 #渋谷　#成果主義の会社　#成長できる環境　#挑戦できる　#達成会 #研修制度あり　#チーム営業　#営業で人生変えた　#秋採用　#誰でも挑戦 #社員旅行あり　#数字にこだわれる　#福利厚生充実　#部活経験 #サークル経験　#自分らしく働く　#成長企業　#夏採用　#営業職 #熱くなれる仕事　#教育制度がしっかり　#社内イベントあり　#若手が主役 #安定より挑戦　#新卒採用　#将来独立も視野　#行動力　#幹部候補 #社会人デビュー　#自己成長　#体育会系　#成長志向　#一（https://job.mynavi.jp/28/pc/search/corp250636/outline.html・3回目）
+- 資本金：1000万円（https://job.mynavi.jp/27/pc/search/corp250636/outline.html・3回目）
+- 資本金：1000万円（https://job.mynavi.jp/28/pc/search/corp250636/outline.html・3回目）
+- 資本金：1,000万円 （2025年3月期の官報決算公告）（https://kaijiwire.jp/companies/8011001130216・3回目）
+- 創業年度：設立：2019年（令和元年）10月1日（https://job.mynavi.jp/27/pc/search/corp250636/outline.html・3回目）
+- 創業年度：設立：2019年（令和元年）10月1日（https://job.mynavi.jp/28/pc/search/corp250636/outline.html・3回目）
+- 従業員数：140名（https://job.mynavi.jp/27/pc/search/corp250636/outline.html・3回目）
+- 従業員数：140名（https://job.mynavi.jp/28/pc/search/corp250636/outline.html・3回目）
+- 売上高：15億円（2025年度実績）（https://job.mynavi.jp/27/pc/search/corp250636/outline.html・3回目）
+- 売上高：15億円（2025年度実績）（https://job.mynavi.jp/28/pc/search/corp250636/outline.html・3回目）
+- 所在地：03-5962-7042（https://takumi-lauren.co.jp/company/・1回目）
+- 所在地：151-0053（https://job.mynavi.jp/27/pc/search/corp250636/outline.html・3回目）
+- 所在地：東京都渋谷区代々木3-22-7 新宿文化クイントビル13階（https://job.mynavi.jp/27/pc/search/corp250636/outline.html・3回目）
+- 代表者：金井匠 （2026年4月の官報決算公告）（https://kaijiwire.jp/companies/8011001130216・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「【大阪支店】営業を支えるCSメンバーをご紹介！移転から半年のオフィスの様子も✨」（https://takumi-lauren.co.jp/・1回目）
+  - 「こんにちは！広報の黒川です！ 本日は、大阪支店のメンバーから素敵な写真が届いたので、ご紹介したいと思います！📸✨ 普段は東京本社にいる私ですが、大阪・福岡支店の様子も皆様にお届けできるよう、各拠点の社員にも写真撮影などに […]」（https://takumi-lauren.co.jp/・1回目）
+  - 「AI対策とは、ChatGPTやGoogleのAI検索で、自社を正しく理解・紹介してもらうための対策です」（https://takumi-lauren.co.jp/service/・1回目）
+  - 「成果報酬SEO対策と比較されるSEO対策としては、「月額固定型SEO対策」があります」（https://takumi-lauren.co.jp/service/seo/・1回目）
+  - 「月額固定型SEO対策とは、SEO対策費用を月額固定料金で支払うサービスで、成果報酬SEO対策とは異なり、上位表示されてもされなくても、料金を支払う契約形態になります」（https://takumi-lauren.co.jp/service/seo/・1回目）
+  - 「上位表示されてもされなくても月額費用が発生する」（https://takumi-lauren.co.jp/service/seo/・1回目）
+  - 「対策キーワードの難易度によって月額費用は上下する」（https://takumi-lauren.co.jp/service/seo/・1回目）
+  - 「そのため、最近では、成果報酬SEO対策を提供する会社は減り、月額固定型SEO対策しか提供しないSEO対策会社が増えています」（https://takumi-lauren.co.jp/service/seo/・1回目）
+  - 「そのため、多くの成果報酬SEO対策の会社は、対策サイトの順位が下がり、料金をもらえなくなったため、成果報酬SEO対策の提供を中止し、月額固定型SEO対策の提供にシフトせざるを得なくなりました」（https://takumi-lauren.co.jp/service/seo/・1回目）
+  - 「匠SEOでは、もともとメディア運営を行い、数千ページのコンテンツを作成し、数万キーワードの対策を行ってきた専門家がコンテンツマーケティングの体制を整えることで、成果報酬SEOにも関わらず、手間がかかるコンテンツマーケティングを提供することが可能になりました」（https://takumi-lauren.co.jp/service/seo/・1回目）
+  - 「確かに、限られた時間の中で効率良く売上を上げようとしたら、成果が発生しにくい案件を後回しにするのも一理あります」（https://takumi-lauren.co.jp/service/seo/・1回目）
+  - 「初期費用、月額費用は1ページ目に上位表示されるまで一切かかりません」（https://takumi-lauren.co.jp/service/seo/・1回目）
+- 客は誰か：
+  - 「匠Lauren株式会社｜中小企業・店舗の集客を支援するWebマーケティング会社（東京・大阪・福岡）」（https://takumi-lauren.co.jp/・1回目）
+  - 「匠Lauren株式会社は、東京・大阪・福岡を拠点に、中小企業・個人事業主・店舗の集客を支援するWebマーケティング会社です」（https://takumi-lauren.co.jp/・1回目）
+  - 「これまでに約8,000社の中小企業・店舗を支援してきました」（https://takumi-lauren.co.jp/・1回目）
+  - 「個人事業主、中小企業のみなさまをWEBの力で支援する」（https://takumi-lauren.co.jp/・1回目）
+  - 「匠Lauren株式会社は、そんな死にものぐるいのビジネス社会で「勝つ」ために、中小企業のみなさまを全力で支援する会社です」（https://takumi-lauren.co.jp/company/・1回目）
+  - 「Q.建設業やコンサルなどなどBtoB企業、BtoC企業でも効果はありますか？」（https://takumi-lauren.co.jp/service/buzz/・1回目）
+  - 「ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります」（https://takumi-lauren.co.jp/voice/・1回目）
+  - 「ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります」（https://takumi-lauren.co.jp/voice/%E5%8C%A0%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3%E3%81%AE%E5%96%B6%E6%A5%AD%E3%81%95%E3%82%93%E3%82%84%E5%88%B6%E4%BD%9C%E6%8B%85%E5%BD%93%E3%81%95%E3%82%93%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E3%80%81/・1回目）
+  - 「ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります」（https://takumi-lauren.co.jp/voice_service/buzz/・1回目）
+  - 「#中小企業向けマーケティング #SNSマーケティング #YouTube広告」（https://job.mynavi.jp/27/pc/search/corp250636/outline.html・3回目）
+  - 「「Webのことがよく分からない」といった中小企業を中心に、」（https://job.mynavi.jp/27/pc/search/corp250636/outline.html・3回目）
+  - 「「ベストベンチャー100」は、イシン(株)が提供する法人向け有料会員制サービスです」（https://job.mynavi.jp/27/pc/search/corp250636/outline.html・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「Google口コミ投稿を増やし、新規顧客を増やすための対策を実現します」（https://takumi-lauren.co.jp/・1回目）
+  - 「Google口コミ投稿を増やし、新規顧客を増やすための対策を実現します」（https://takumi-lauren.co.jp/service/・1回目）
+  - 「900を超える顧客様の広告を制作しております」（https://takumi-lauren.co.jp/service/buzz/・1回目）
+  - 「Q.建設業やコンサルなどなどBtoB企業、BtoC企業でも効果はありますか？」（https://takumi-lauren.co.jp/service/buzz/・1回目）
+  - 「当社の「匠BUZZ」では、建設・リフォーム、学習塾、美容サロンなど900社以上の実績があり、業界ごとの」（https://takumi-lauren.co.jp/service/buzz/・1回目）
+  - 「対策するキーワードはクライアントとSEO会社で協議して決定する」（https://takumi-lauren.co.jp/service/seo/・1回目）
+  - 「また、必須ではありませんが、コンテンツを作成する際に、独自性のあるコンテンツがあるとSEOに効果的ですので、お客様の声や施工実績などの情報がございましたら、共有いただけると幸いです」（https://takumi-lauren.co.jp/service/seo/・1回目）
+  - 「新規来店顧客は必ず屋号名で検索し、「料金」「営業時間」「所在地」などを調べます」（https://takumi-lauren.co.jp/service/review/・1回目）
+  - 「せっかく来店の直前まで見込み顧客を連れてきても、」（https://takumi-lauren.co.jp/service/review/・1回目）
+  - 「新規顧客/集患をアップするためにGoogle口コミ対策ご相談したい方は、ぜひ当社にご相談ください」（https://takumi-lauren.co.jp/service/review/・1回目）
+  - 「需要拡大傾向にある業種として、ヘアサロン・美術館・整体院・エステサロン・ライブハウス・医療分野等が挙げられます」（https://takumi-lauren.co.jp/service/assist/・1回目）
+  - 「学習塾・ヨガ等のレッスン事業・相談やカウンセリングを実施している業界においてはオンライン化が急速に進んでいます」（https://takumi-lauren.co.jp/service/assist/・1回目）
+- 資本金・株主：
+  - 「経験ゼロから這い上がり、上場企業の営業部長へ」（https://job.mynavi.jp/27/pc/search/corp250636/outline.html・3回目）
+  - 「匠Lauren株式会社の決算公告・子会社・関連会社情報 | 官報決算データベース」（https://catr.jp/companies/a22bc/270175・3回目）
+  - 「匠Lauren株式会社 第5期決算公告（2024年3月期）・子会社・グループ情報 | 官報決算データベース」（https://catr.jp/companies/a22bc/270175/settlements/8db7e/390150・3回目）
+- 選出の記録：
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、」（https://takumi-lauren.co.jp/voice/・1回目）
+  - 「イシン株式会社にエントリーした企業の中から、イシン株式会社が厳正な審査のもと選出した」（https://takumi-lauren.co.jp/voice/・1回目）
+  - 「ベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://takumi-lauren.co.jp/voice/・1回目）
+  - 「ベストベンチャー100について」（https://takumi-lauren.co.jp/voice/・1回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、」（https://takumi-lauren.co.jp/voice/%E5%8C%A0%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3%E3%81%AE%E5%96%B6%E6%A5%AD%E3%81%95%E3%82%93%E3%82%84%E5%88%B6%E4%BD%9C%E6%8B%85%E5%BD%93%E3%81%95%E3%82%93%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E3%80%81/・1回目）
+  - 「イシン株式会社にエントリーした企業の中から、イシン株式会社が厳正な審査のもと選出した」（https://takumi-lauren.co.jp/voice/%E5%8C%A0%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3%E3%81%AE%E5%96%B6%E6%A5%AD%E3%81%95%E3%82%93%E3%82%84%E5%88%B6%E4%BD%9C%E6%8B%85%E5%BD%93%E3%81%95%E3%82%93%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E3%80%81/・1回目）
+  - 「ベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://takumi-lauren.co.jp/voice/%E5%8C%A0%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3%E3%81%AE%E5%96%B6%E6%A5%AD%E3%81%95%E3%82%93%E3%82%84%E5%88%B6%E4%BD%9C%E6%8B%85%E5%BD%93%E3%81%95%E3%82%93%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E3%80%81/・1回目）
+  - 「ベストベンチャー100について」（https://takumi-lauren.co.jp/voice/%E5%8C%A0%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3%E3%81%AE%E5%96%B6%E6%A5%AD%E3%81%95%E3%82%93%E3%82%84%E5%88%B6%E4%BD%9C%E6%8B%85%E5%BD%93%E3%81%95%E3%82%93%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E3%80%81/・1回目）
+  - 「「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、」（https://takumi-lauren.co.jp/voice_service/buzz/・1回目）
+  - 「イシン株式会社にエントリーした企業の中から、イシン株式会社が厳正な審査のもと選出した」（https://takumi-lauren.co.jp/voice_service/buzz/・1回目）
+  - 「ベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://takumi-lauren.co.jp/voice_service/buzz/・1回目）
+  - 「ベストベンチャー100について」（https://takumi-lauren.co.jp/voice_service/buzz/・1回目）
+- 検索結果の抜粋：
+  - 「会社案内 | 匠Lauren株式会社 — 匠Lauren株式会社の会社概要。 2019年10月設立。 東京本社（渋谷区・新宿駅南口）、大阪支社、福岡支社の3拠点で、中小企業・店舗の集客をWebマーケティングで支援しています。」（https://takumi-lauren.co.jp/company/・3回目）
+  - 「匠Lauren株式会社｜中小企業・店舗の集客を支援するWebマーケティング... — Oct 1, 2026 · 匠Lauren株式会社について 匠Lauren株式会社は、東京・大阪・福岡を拠点に、中小企業・個人事業主・店舗の集客を支援するWebマーケティング会社です。 2019年10月に設立し、従業員は135名（2026年4月時点）です。」（https://takumi-lauren.co.jp/・3回目）
+  - 「匠Lauren株式会社（東京都）の会社概要・役員 | Compalyze — 匠Lauren株式会社は、新宿に拠点を置くITベンチャー企業であり。 広告・マーケティング (デジタル広告・運用)、2019年設立、社会保険被保険者数128名。 純利益4,173万円。 代表者 金井匠。 役員1名・登記5件・決算2期。」（https://compalyze.co.jp/company/8011001130216・3回目）
+  - 「匠Lauren (株)の2027年度会社概要 | マイナビ2028匠Lauren株式会社 (東京都渋谷区/未上場)の評判・口コミ・インボイス...匠Lauren (株)の新卒採用・会社概要 | マイナビ2027匠Lauren（匠ローレン）はなんの会社？売上高・事業内容・会社概要を... — 匠Lauren (株)の前年度会社概要ページです。 マイナビ2028は、インターンシップ＆キャリア、前年の採用データ、エントリー情報を公開しており、自己分析や企業研究、皆さんの就職活動をサポートします。 Aug 21, 2026 · 匠Lauren株式会社（本社東京都渋谷区・IT, デジタルマーケティング, プロモーション支援, システム開発・未上場・資本金1,000万円・従業員55名）の会社概要・住所・電話番号・業種・資本金を掲載。 Oct 27, 2026 · ！ 匠Laurenは、SNS広告・AI」（https://job.mynavi.jp/28/pc/search/corp250636/outline.html・3回目）
+  - 「匠Lauren株式会社 (東京都渋谷区/未上場)の評判・口コミ・インボイス...匠Lauren (株)の新卒採用・会社概要 | マイナビ2027匠Lauren（匠ローレン）はなんの会社？売上高・事業内容・会社概要を... — Aug 21, 2026 · 匠Lauren株式会社（本社東京都渋谷区・IT, デジタルマーケティング, プロモーション支援, システム開発・未上場・資本金1,000万円・従業員55名）の会社概要・住所・電話番号・業種・資本金を掲載。 Oct 27, 2026 · ！ 匠Laurenは、SNS広告・AIチャットボット・Google口コミ対策など、Webマーケティングを軸に企業の集客・売上アップを支援している会社です。 現在7年目を迎え、黒字経営を継続しながら事業を拡大中。 新規営業を中心に、取引社数は5,500社を突破しました。 Sep 18, 2026 · 2019」（https://houjin.goo.to/corporations/8011001130216・3回目）
+  - 「匠Lauren (株)の新卒採用・会社概要 | マイナビ2027匠Lauren (株)の2027年度会社概要 | マイナビ2028会社案内 | 匠Lauren株式会社匠Lauren株式会社｜中小企業・店舗の集客を支援するWebマーケティング...匠Lauren株式会社の決算公告・子会社・関連会社情報 | 官報決算データ...匠Lauren株式会社ってどんな会社？事業内容、仕事内容、働き方は？ - ... — Oct 27, 2026 · ！ 匠Laurenは、SNS広告・AIチャットボット・Google口コミ対策など、Webマーケティングを軸に企業の集客・売上アップを支援している会社です。 現在7年目を迎え、黒字経営を継続しながら事業を拡大中。 新規営業を中心に、取引社数は5,500社を突破しました。 集客や売上に直結する領域だからこそ、企業にとって必要性が高い。 新規開拓が中心だからこそ」（https://job.mynavi.jp/27/pc/search/corp250636/outline.html・3回目）
+  - 「匠Lauren (株)の2027年度会社概要 | マイナビ2028会社案内 | 匠Lauren株式会社匠Lauren株式会社｜中小企業・店舗の集客を支援するWebマーケティング...匠Lauren株式会社の決算公告・子会社・関連会社情報 | 官報決算データ...匠Lauren株式会社ってどんな会社？事業内容、仕事内容、働き方は？ - ... — 集客や売上に直結する領域だからこそ、企業にとって必要性が高い。 新規開拓が中心だからこそ、自ら市場を切り拓くことで営業力が身につく。 育成の土台は整えながら、“待つ営業”ではなく、“自ら動かす営業”ができる環境です。 匠Lauren株式会社の会社概要。 2019年10月設立。 東京本社（渋谷区・新宿駅南口）、大阪支社、福岡支社の3拠点で、中小企業・店舗の集客をWebマーケティングで支援しています。 Oct 1, 2026 · 匠Lauren株式会社」（https://job.mynavi.jp/28/pc/search/corp250636/outline.html・3回目）
+  - 「匠Lauren株式会社｜中小企業・店舗の集客を支援するWebマーケティング... — Oct 1, 2026 · 匠Lauren株式会社（たくみローレン）は、東京都渋谷区（新宿駅南口）に本社を置くWebマーケティング会社です。 中小企業・個人事業主・店舗向けに、SNS動画広告、成果報酬型SEO、Google口コミ対策、予約システム、ホームページ制作、AI対策を提供しています。」（https://takumi-lauren.co.jp/・3回目）
+  - 「匠Lauren株式会社の決算公告・子会社・関連会社情報 | 官報決算データ... — Jul 6, 2026 · 匠Lauren株式会社の会社情報を掲載しています。 最新の2025年3月期決算は純利益4172万7000円、利益剰余金1億3626万1000円、総資産3億6868万8000円です。 社会保険被保険者数は123人です。 匠Lauren株式会社の子会社・関連会社2社の情報も掲載しています。」（https://catr.jp/companies/a22bc/270175・3回目）
+  - 「匠Lauren株式会社の決算公告・財務情報 | 開示ワイヤー — 匠Lauren株式会社の官報公告・決算公告・財務データ。 2025年3月期: 純利益4,172万円、純資産1.5億円、自己資本比率39.7%。 東京都・被保険者135人・資本金1,000万円。 公告・開示・ニュース4件（官報公告4件）。 出典: 官報（PDL1.0）」（https://kaijiwire.jp/companies/8011001130216・3回目）
+  - 「匠Lauren株式会社 第5期決算公告（2024年3月期）・子会社・グループ情... — Mar 31, 2024 · 2025年2月3日に発表された匠Lauren株式会社の第5期決算公告は、純利益2738万5000円、利益剰余金9453万4000円、総資産2億937万6000円。 匠Lauren株式会社の子会社・関連会社2社の情報も掲載しています。」（https://catr.jp/companies/a22bc/270175/settlements/8db7e/390150・3回目）
+  - 「匠Lauren（匠ローレン）はなんの会社？売上高・事業内容・会社概要を... — Sep 18, 2026 · 匠Laurenでは、こうしたWeb上での認知拡大や集客に関する課題に対して、複数のサービスを展開しています。 現在は東京本社のほか、大阪・福岡にも拠点を展開し、全国の企業様へサービスをご提供しています。」（https://note.com/takumi_kouhoubu/n/ndf6b7e3db1b2・3回目）
+- 株主：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部12頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部12頁・検索11回）
+
+## 医療法人社団勝榮会
+- 公式URL：https://shoeikai.co.jp/（given）
+- 売上の柱（何で稼ぐか）：
+  - 「エントリーした企業の中から、厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://shoeikai.co.jp/・1回目）
+  - 「『魚住りえのカイシャを伝えるテレビ』にて紹介」（https://shoeikai.co.jp/・1回目）
+  - 「事務や受付、看護助手、地域連携室、マーケティング、企画運営サポートなど、活躍の場は多彩です」（https://shoeikai.co.jp/・1回目）
+  - 「このビジョンを実現するための4つの柱を紹介します」（https://shoeikai.co.jp/corporate-philosophy/・1回目）
+  - 「地域に根ざした診療と、患者さまに安心を届け続けるクリニックを目指して、全スタッフが一丸となって法人を運営しています」（https://job.mynavi.jp/28/pc/search/corp265053/outline.html・3回目）
+  - 「外来診療3医院・在宅診療１事業所を運営しています」（https://job.mynavi.jp/28/pc/search/corp265053/outline.html・3回目）
+  - 「事業運営の方法や方針を決定するための全社員参加ミーティングを月に一度必ず開催しています」（https://job.mynavi.jp/28/pc/search/corp265053/outline.html・3回目）
+  - 「地域に根ざした診療と、患者さんに安心を届け続けるクリニックを目指して、全スタッフが一丸となって法人を運営しています」（https://job.mynavi.jp/27/pc/search/corp265053/outline.html・3回目）
+  - 「外来診療２医院・在宅診療１事業所を運営しています」（https://job.mynavi.jp/27/pc/search/corp265053/outline.html・3回目）
+  - 「事業運営の方法や方針を決定するための全社員参加ミーティングを月に一度必ず開催しています」（https://job.mynavi.jp/27/pc/search/corp265053/outline.html・3回目）
+  - 「100社が「ベストベンチャー100」として紹介されます」（https://job.mynavi.jp/27/pc/search/corp265053/outline.html・3回目）
+  - 「3年連続売上高前年比が130％以上と急成長中」（https://job.mynavi.jp/27/pc/search/corp265053/outline.html・3回目）
+- 客は誰か：
+  - 「イシン株式会社が提供する法人向け有料会員制サービスです」（https://shoeikai.co.jp/・1回目）
+- 客の産業（導入事例・取引先）：
+  - 「勝榮会グループ総合サイト｜医療法人社団勝榮会」（https://shoeikai.co.jp/・1回目）
+  - 「勝榮会は、“普通のクリニック”をつくるために生まれた場所ではありません」（https://shoeikai.co.jp/・1回目）
+  - 「安心して受診でき、安心して働けるクリニックをつくり続けています」（https://shoeikai.co.jp/・1回目）
+  - 「正社員として、安心を届ける医療の仲間に」（https://shoeikai.co.jp/・1回目）
+  - 「「資格なし・経験ゼロから始められる医療の仕事」」（https://shoeikai.co.jp/・1回目）
+  - 「ように、教育とサポート体制を整えています」（https://shoeikai.co.jp/・1回目）
+  - 「生活に合わせて働ける、安心を届ける医療の仕事」（https://shoeikai.co.jp/・1回目）
+  - 「自分のライフスタイルに合わせながら、安心を届ける医療を一緒に支えてみませんか？」（https://shoeikai.co.jp/・1回目）
+  - 「医療資格がなくても挑戦できる、多彩なキャリア」（https://shoeikai.co.jp/・1回目）
+  - 「勝榮会では、医療資格がない方も安心して挑戦できます」（https://shoeikai.co.jp/・1回目）
+  - 「ここには、医療の未来を一緒につくるチャンスがあります」（https://shoeikai.co.jp/・1回目）
+  - 「法人理念｜「スタッフの成長を最優先する」という、医療では珍しい選択」（https://shoeikai.co.jp/corporate-philosophy/・1回目）
+- 選出の記録：
+  - 「「ベストベンチャー100」選出」（https://shoeikai.co.jp/・1回目）
+  - 「エントリーした企業の中から、厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます」（https://shoeikai.co.jp/・1回目）
+  - 「WELLBEING AWARD2025 - FINALIST選出」（https://shoeikai.co.jp/・1回目）
+  - 「『LEADERS AWARD2026』に理事長が選出」（https://shoeikai.co.jp/・1回目）
+  - 「2025年を牽引する37人の経営者の一人として理事長が選出」（https://shoeikai.co.jp/・1回目）
+  - 「『LEADERS’ AWARD 2025』に理事長が選出」（https://shoeikai.co.jp/・1回目）
+  - 「20万人の学生が憧れる経営者アワード 『 LEADERS AWARD 2026 』に理事長の入谷が選出されました」（https://shoeikai.co.jp/category/media-coverage/・1回目）
+  - 「「ベストベンチャー100」に選出されました！」（https://shoeikai.co.jp/category/media-coverage/・1回目）
+  - 「20万人の学生が憧れる経営者アワード 『 LEADERS AWARD 2026 』に理事長の入谷が選出されました」（https://shoeikai.co.jp/media_info/・1回目）
+  - 「「ベストベンチャー100」に選出されました！」（https://shoeikai.co.jp/media_info/・1回目）
+  - 「・ウェルビーイングアワード最終選考に選出されました」（https://job.mynavi.jp/28/pc/search/corp265053/outline.html・3回目）
+  - 「・ホワイト財団ホワイト企業認定に選出されました」（https://job.mynavi.jp/28/pc/search/corp265053/outline.html・3回目）
+- 検索結果の抜粋：
+  - 「医療法人社団勝榮会 の会社概要 | マイナビ2028 — Jul 17, 2026 · 医療法人社団勝榮会 の会社概要ページです。 マイナビ2028は、インターンシップ＆キャリア、前年の採用データ、エントリー情報を公開しており、自己分析や企業研究、皆さんの就職活動をサポートします。」（https://job.mynavi.jp/28/pc/search/corp265053/outline.html・3回目）
+  - 「医療法人社団勝榮会（東京都）の法人概要・役員 | Compalyze — 〒168-0063 東京都杉並区に本社を置く医療法人社団勝榮会の法人情報。医療法人社団勝榮会は、東京都杉並区・中野区でクリニックを展開し。医療・ヘルスケア (病院・クリニック)、2016年設立、社会保険被保険者数33名。代表者 入谷栄一。役員1名。」（https://compalyze.co.jp/company/8011305002292・3回目）
+  - 「医療法人社団勝榮会 の会社概要 | マイナビ2027 — Mar 19, 2026 · 医療法人社団勝榮会 の会社概要ページです。マイナビ2027は、採用情報や企業情報で、就職活動をサポートします。」（https://job.mynavi.jp/27/pc/search/corp265053/outline.html・3回目）
+  - 「医療法人社団勝榮会 (東京都杉並区)の企業情報|カイシャリサーチ — 医療法人社団勝榮会に関する所在地や法人番号に関する情報、業種や資本金などの会社概要、許可情報などの業界特有データ等の会社情報をまとめました。」（https://kaisharesearch.com/company/detail/8011305002292/・3回目）
+  - 「医療法人社団勝榮会（126076）の転職・求人情報｜【エン】のエン転職 — 医療法人社団勝榮会（126076）の転職・求人情報。日本最大級の求人情報数を誇る転職サイト【エン転職】。医療法人社団勝榮会のクチコミ、専任スタッフによる書類選考対策や面接対策に役立つ無料サービスが充実。求人企業からのスカウトも多数。」（https://employment.en-japan.com/comp-126076/・3回目）
+  - 「医療法人社団勝榮会 の会社概要 | マイナビ2028 — Jul 17, 2026 · 医療法人社団勝榮会 の会社概要ページです。マイナビ2028は、インターンシップ＆キャリア、前年の採用データ、エントリー情報を公開しており、自己分析や企業研究、皆さんの就職活動をサポートします。」（https://job.mynavi.jp/28/pc/search/corp265053/outline.html・3回目）
+  - 「勝榮会グループ総合サイト｜医療法人社団勝榮会 — 勝榮会 の 5 つの理念 パーパス（存在意義） PURPOSE この世の中から、病気により嫌な思いをする人がいない社会にする ミッション（使命） MISSION 【脱普通】医療業界の”未来基準”になる ビジョン（将来像） VISION」（https://shoeikai.co.jp/・3回目）
+  - 「shoeikai_mindbook_h1-4 — ※2025年4月1日現在 沿革 2013年9月 いりたに内科クリニック開院2016年5月 医療法人社団勝榮会として法人化2024年6月 医療法人社団銀葉会をグループ化 所在地 〒168-0063 東京都杉並区和泉4丁目51-6⦆フォンティーヌ杉並1階」（https://shoeikai.co.jp/wp/wp-content/uploads/2025/11/Company_Guide_BOOK-.pdf・3回目）
+  - 「医療法人社団勝榮会 | 企業・投資家情報 - IR BANK — 医療法人社団勝榮会 【番号】 8011305002292 【所在】 東京都杉並区和泉4丁目51番6号フォンティーヌ杉並1階 マーケット 値上がり率 値下がり率 信用取引 裁定残高 投資部門 逆日歩 空売り残 売増 返済 新規 解消 届出・調達 統一資格 行政処分 届出認定 政府表彰 調達情報 補助金交付 法人情報 商号 ...」（https://irbank.net/医療法人社団勝榮会・3回目）
+  - 「医療法人社団勝榮会 いりたに内科クリニック | OpenBizGraph — 企業名 医療法人社団勝榮会 いりたに内科クリニック サイト https://shoeikai.co.jp/ 開始日 終了日 銘柄コード 上場市場 国 Japan 事業内容 所在地 社長 資本金 従業員数 (単独) 従業員数 (連結) 関連のある会社 - 会社名 Group親会社子会社得意先仕入先業務提携銀行等株主等 せきとぜんそくのクリニック ...」（https://openbizgraph.com/detail/373468・3回目）
+  - 「医療法人社団勝榮会 いりたに内科クリニック – Next Stage — 医療法人社団勝榮会 いりたに内科クリニック 院長 入谷 栄一氏 内科・呼吸器・消化器・循環器・アレルギー・皮膚科などを中心に9名の専門医を抱え、専門性が必要な疾患にも対応できる強みを持つ東京都杉並区のクリニック。在宅診療にも力を入れており、地域になくてはならないホーム ...」（https://www.next-stage21.com/case/case06/・3回目）
+  - 「医療法人社団勝榮会 ｜ホワイト企業認定に認定されました — スペシャルコンテンツ インタビュー 医療法人社団勝榮会 スタッフの成長と挑戦できる環境作りに妥協しない、エネルギー溢れる「いりたに内科クリニック」 2023年1月25日に『第9回ホワイト企業アワード*』が開催されました。」（https://jws-japan.or.jp/whitecareer/white_company/5116・3回目）
+- 事業内容：記載なし（3回確認済み：公式7頁／PDF・画像1件／外部26頁・検索11回）
+- 資本金：記載なし（3回確認済み：公式7頁／PDF・画像1件／外部26頁・検索11回）
+- 創業年度：記載なし（3回確認済み：公式7頁／PDF・画像1件／外部26頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式7頁／PDF・画像1件／外部26頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式7頁／PDF・画像1件／外部26頁・検索11回）
+- 株主：記載なし（3回確認済み：公式7頁／PDF・画像1件／外部26頁・検索11回）
+- 所在地：記載なし（3回確認済み：公式7頁／PDF・画像1件／外部26頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式7頁／PDF・画像1件／外部26頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式7頁／PDF・画像1件／外部26頁・検索11回）
+- 資本金・株主：記載なし（3回確認済み：公式7頁／PDF・画像1件／外部26頁・検索11回）
 
 ## 株式会社1990年
 - 公式URL：https://nendai-ryuukou.com/（search:yahoo_jp:1990年）

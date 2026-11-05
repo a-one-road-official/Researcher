@@ -1,0 +1,972 @@
+{
+ "name": "アークウィズコンサルティング",
+ "aliases": [
+  "awc-jp"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T15:21:17.724079+00:00",
+ "official_url": "https://awc-jp.com/",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・ITコンサルティング事業 ・システムエンジニアリングサービス事業 ・人材紹介事業 ・採用コンサルティング・採用代行事業 ・人材派遣事業 ・AI事業",
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "DX コンサルティング事業全般 DX 戦略、IT システム導入/業務改革、IT ビジネス投資・戦略実行支援、PMO 新規事業立ち上げ 人材派遣業 RPO",
+    "url": "https://en-ambi.com/agency/a-8960/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "経営コンサルティング、DX/ITコンサルティング、新規事業立ち上げ支援",
+    "url": "https://recruit.awc-jp.com/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京都千代田区麹町4丁目8-1 麴町クリスタルシティ東館 2階",
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒102-0083 東京都千代田区麹町4丁目8−1 麴町クリスタルシティ東館 2階",
+    "url": "https://recruit.awc-jp.com/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "900万円",
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "900 万円",
+    "url": "https://en-ambi.com/agency/a-8960/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2022 年 8 月 1 日",
+    "url": "https://en-ambi.com/agency/a-8960/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2022年8月1日",
+    "url": "https://recruit.awc-jp.com/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "三木 涼賀",
+    "url": "https://en-ambi.com/agency/a-8960/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "単体：298名 　連結：372名",
+    "url": "https://en-ambi.com/agency/a-8960/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "製造業におけるSAP S/4HANA導入プロジェクトに複数名が参画し支援",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の物流・販売戦略におけるピークタイムの出荷時間に合わせ、最適かつ迅速なタイミングで倉庫内の人員供給を提供し人員不足の解決に貢献",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "大手製造業向けのSAP S/4HANA導入プロジェクトにてユーザーサイドのPMOとして参画し、検証推進、計画管理、検証作業者への指示管理、課題管理、マネジメント報告等を実施",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "物流業務の最適化及び請負化を目指した人材供給",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの出荷調整と慢性的な欠員不足であるコアタイムに対し、作業効率化を図れるシフトを考案し、将来的に請負化を目指した人材供給を実施",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの業務課題やニーズに応じたシステムの受託開発を行い、現場の課題を的確に捉えた柔軟な開発体制で業務効率化や競争力向上を実現します",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "各事業で得たIT人材を中心とする人的ネットワークを活用し、スキルや経験、年収などクライアントのニーズに合わせて高品質な人材を紹介します",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアを派遣し、長期的な技術支援を行います",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "創業3期目で売上20億を達成",
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "売上20億円・社員数150名を達成",
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "5年以内に売上100億円の達成と、新規事業の創出",
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、SESや受託開発も行い幅広い技術支援を提供しています",
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、人材紹介、採用コンサルティング、人材派遣、AI事業など、コンサルティングと親和性の高い新規事業も展開し、企業の成長戦略や経営課題を多角的かつ実行力をもって支援しております",
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "直近の目標は今期の売上30億円の達成です",
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "そのうえで、中長期的には5年以内に売上100億円規模まで成長させることを目指しています",
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "SE、受託開発、PMO、ITコンサルタント",
+    "url": "https://en-ambi.com/agency/a-8960/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社では社員一人ひとりの専門性に応じて、ITコンサルタント・PMO 受託開発など多岐 にわたる事業を展開しています",
+    "url": "https://en-ambi.com/agency/a-8960/",
+    "pass": 3
+   },
+   {
+    "quote": "現在は社員の専門性に合わせてITコンサル・PMO・受託開発等を中心に事業を展開！",
+    "url": "https://en-ambi.com/agency/a-8960/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタントやエンジニアとしての経歴を積みながら、組織運営に携わり、職種経験幅を広げることも可能です",
+    "url": "https://www.wantedly.com/companies/awc202208",
+    "pass": 3
+   },
+   {
+    "quote": "某大手製造業基幹システム刷新プロジェクトにPMOとして参画",
+    "url": "https://recruit.awc-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 当社が展開するITコンサル/受託開発案件の新規営業",
+    "url": "https://recruit.awc-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "（新規顧客開拓でプライム案件：下請け業者を挟まず直接受注/受託開発案件の獲得）",
+    "url": "https://recruit.awc-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、社長の三木を独立前から知っており、偶然知人を介して紹介頂いたことから転職を決めました",
+    "url": "https://recruit.awc-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "このマガジンでは、社員やインターン生のインタビューを通して、私たちの職場で働く人たちの素顔を紹介します！",
+    "url": "https://note.com/awc_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "アークウィズコンサルティングに転職したコンサルタントの実例を紹介します🔥",
+    "url": "https://note.com/awc_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "アークウィズコンサルティングで働くSES営業の仕事やキャリアを紹介します🔍",
+    "url": "https://note.com/awc_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "なぜAWCが設立されたのか？他社との差別化ポイント、現在の事業内容、今後の展望などをリアルタイムでお届けしていきます！",
+    "url": "https://note.com/awc_recruit/n/neef3571ebd7b",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "大手通信会社における金融サービス関連システムのクラウド環境への移行プロジェクトにPMOとして参画し、構想策定や要件定義等の上流工程、プロジェクト管理等を支援",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業におけるSAP S/4HANA導入プロジェクトに複数名が参画し支援",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足度の向上に向けたWebサービス刷新プロジェクトのマネジメント及びシステム開発、社内／外データの利活用にかかる方針検討など上流から実行までを一貫して支援",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外向けECセンターの物流コンサルティング",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の物流・販売戦略におけるピークタイムの出荷時間に合わせ、最適かつ迅速なタイミングで倉庫内の人員供給を提供し人員不足の解決に貢献",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "大手総合商社におけるSAP S/4HANA導入プロジェクトにPMOとして参画し、プロジェクト計画の策定やプロジェクトの状況の見える化、マネジメント層の意思決定を支援",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの業務要件のヒアリングおよび業務プロセス分析 ・システム設計等を支援",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "大手製造業向けのSAP S/4HANA導入プロジェクトにてユーザーサイドのPMOとして参画し、検証推進、計画管理、検証作業者への指示管理、課題管理、マネジメント報告等を実施",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "運用コスト削減や可用性の向上に向けた顧客の基幹システム・デジタル基盤の刷新プロジェクトにて、構想策定・要件定義などの上流工程を支援",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "金融機関のレガシーシステム刷新の要件定義から開発までのフェーズにおいて、複数名が参画し、上流から下流までを一気通貫で支援",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "物流業務の最適化及び請負化を目指した人材供給",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの出荷調整と慢性的な欠員不足であるコアタイムに対し、作業効率化を図れるシフトを考案し、将来的に請負化を目指した人材供給を実施",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1,000人規模の物流センターにおける作業員及び管理者（事業所責任者、工程管理者）を供給",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティングやシステム開発に精通しているPMOが徹底した現場目線でプロジェクト管理や経営層へのレポーティング等を実施し、プロジェクト完了までクライアントと伴走します",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの業務課題やニーズに応じたシステムの受託開発を行い、現場の課題を的確に捉えた柔軟な開発体制で業務効率化や競争力向上を実現します",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "各事業で得たIT人材を中心とする人的ネットワークを活用し、スキルや経験、年収などクライアントのニーズに合わせて高品質な人材を紹介します",
+    "url": "https://awc-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントワークが中心ですが、社内の交流は活発です！",
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "・クライアント（大手ベンダーやエンドユーザー）からニーズを汲…",
+    "url": "https://en-ambi.com/agency/a-8960/",
+    "pass": 3
+   },
+   {
+    "quote": "・大手医療機器メーカーのWebサービス開発（構想…",
+    "url": "https://en-ambi.com/agency/a-8960/",
+    "pass": 3
+   },
+   {
+    "quote": "某大手製造業基幹システム刷新プロジェクトにPMOとして参画",
+    "url": "https://recruit.awc-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "リモート、プロジェクトベースでのクライアントオフィスへの出社（1都3県を想定）",
+    "url": "https://recruit.awc-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "完全週休2日制、祝日、年末年始、夏季休暇、年次有給休暇、マタニティ休暇、産前産後の休暇、育児・介護休業、子の看護休暇、介護休暇、など",
+    "url": "https://recruit.awc-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "・クライアント（大手ベンダーやエンドユーザー）からニーズを汲み取り、エンジニアを提案",
+    "url": "https://recruit.awc-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "完全週休2日制、祝日、年末年始、慶弔休暇、年次有給休暇、マタニティ休暇、産前産後の休業、育児・介護休業、子の看護休暇、介護休暇、など",
+    "url": "https://recruit.awc-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "（新規顧客開拓でプライム案件：下請け業者を挟まず直接受注/受託開発案件の獲得）",
+    "url": "https://recruit.awc-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "主に金融、小売系の案件でフルスクラッチ開発を行っていました",
+    "url": "https://recruit.awc-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SES、なぜ「やめとけ」？「意味ない営業」を作らない、アークウィズの教育制度",
+    "url": "https://note.com/awc_recruit",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "弊社は、DX支援を中心としたIT・経営コンサルティングを主軸に、国内大手企業を中心とした各種プロジェクト支援を行っております",
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "現在大手企業にお勤めでベンチャーへの転職ってどうかな、、と思われてる方の参考になればと思います！",
+    "url": "https://note.com/cheaps/n/n00570a7a9c78",
+    "pass": 3
+   },
+   {
+    "quote": "前述の通り、今回の必須条件はリモートワーク可能なこと、だったんですが、最近大手企業ほど在宅勤務取りやめてるんですよね",
+    "url": "https://note.com/cheaps/n/n00570a7a9c78",
+    "pass": 3
+   },
+   {
+    "quote": "その後とあるエージェントから、むしろ中小企業の方が柔軟に対応してるところが多いというアドバイスをいただいて、はっとしました",
+    "url": "https://note.com/cheaps/n/n00570a7a9c78",
+    "pass": 3
+   },
+   {
+    "quote": "そんなこんなで大方針転換をして、活動後半は中小企業中心に面接を受けていくことになります",
+    "url": "https://note.com/cheaps/n/n00570a7a9c78",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "株式会社アークウィズコンサルティング 三木 涼賀 | ベストベンチャー100",
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "成果次第では子会社の社長をお任せするケースもあります",
+    "url": "https://www.wantedly.com/companies/awc202208",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式 会社アークウィズコンサルティング 三木 涼賀 — 株式 会社アークウィズコンサルティング 三木 涼賀 ベストベンチャー100 https://best100.v-tsushin.jp > company > awc-jp",
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社アークウィズコンサルティング の転職・求人 情報 — 株式 会社アークウィズコンサルティング の転職・求人 情報 アンビ（AMBI） https://en-ambi.com > agency",
+    "url": "https://en-ambi.com/agency/a-8960/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アークウィズコンサルティング の 会社情報 - Wantedly — 株式会社 アークウィズコンサルティング の 会社情報 - Wantedly Wantedly https://www.wantedly.com > companies > awc202208",
+    "url": "https://www.wantedly.com/companies/awc202208",
+    "pass": 3
+   },
+   {
+    "quote": "アークウィズコンサルティング の「 会社 紹介」 OpenWork — アークウィズコンサルティング の「 会社 紹介」 OpenWork OpenWork https://www.openwork.jp > ... > 採用情報",
+    "url": "https://www.openwork.jp/a0C2x00000ZAqlP/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社アークウィズコンサルティング — 株式 会社アークウィズコンサルティング 株式会社アークウィズコンサルティング https://recruit.awc-jp.com",
+    "url": "https://recruit.awc-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アークウィズコンサルティング 三木 涼賀 — 株式会社 アークウィズコンサルティング 三木 涼賀 ベストベンチャー100 https://best100.v-tsushin.jp > company > awc-jp",
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アークウィズコンサルティング — 株式会社 アークウィズコンサルティング 株式会社アークウィズコンサルティング https://recruit.awc-jp.com",
+    "url": "https://recruit.awc-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "アークウィズコンサルティング の「会社紹介」 OpenWork — アークウィズコンサルティング の「会社紹介」 OpenWork OpenWork https://www.openwork.jp > ... > 採用情報",
+    "url": "https://www.openwork.jp/a0C2x00000ZAqlP/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アークウィズコンサルティング の求人情報 — 株式会社 アークウィズコンサルティング の求人情報 マイナビ転職 https://tenshoku.mynavi.jp > jobinfo-438050-1-1-1",
+    "url": "https://tenshoku.mynavi.jp/jobinfo-438050-1-1-1/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アークウィズコンサルティング | 広報部 - note — 株式会社 アークウィズコンサルティング | 広報部 - note note https://note.com > awc_recruit",
+    "url": "https://note.com/awc_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 アークウィズコンサルティング 三木 涼賀 — 株式 会社 アークウィズコンサルティング 三木 涼賀 ベストベンチャー100 https://best100.v-tsushin.jp > company > awc-jp",
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 アークウィズコンサルティング — 株式 会社 アークウィズコンサルティング 株式会社アークウィズコンサルティング https://awc-jp.com",
+    "url": "https://awc-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 アークウィズコンサルティング の会社情報 - Wantedly — 株式 会社 アークウィズコンサルティング の会社情報 - Wantedly Wantedly https://www.wantedly.com > companies > awc202208",
+    "url": "https://www.wantedly.com/companies/awc202208",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 アークウィズコンサルティング | 広報部 - note — 株式 会社 アークウィズコンサルティング | 広報部 - note note https://note.com > awc_recruit",
+    "url": "https://note.com/awc_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アークウィズコンサルティング の会社情報 - Wantedly — 株式会社 アークウィズコンサルティング の会社情報 - Wantedly Wantedly https://www.wantedly.com > companies > awc202208",
+    "url": "https://www.wantedly.com/companies/awc202208",
+    "pass": 3
+   },
+   {
+    "quote": "アークウィズコンサルティング 「社員クチコミ」 就職・転職 ... — アークウィズコンサルティング 「社員クチコミ」 就職・転職 ... OpenWork https://www.openwork.jp > company",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000ZAqlP",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アークウィズコンサルティング — 株式会社 アークウィズコンサルティング 株式会社アークウィズコンサルティング https://awc-jp.com",
+    "url": "https://awc-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アークウィズコンサルティング の転職・求人情報 — 株式会社 アークウィズコンサルティング の転職・求人情報 アンビ（AMBI） https://en-ambi.com > agency",
+    "url": "https://en-ambi.com/agency/a-8960/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 アークウィズコンサルティング | 広報部 - note 株式会社 アークウィズコンサルティング | 広報部 - note note https://note.com > awc_recruit",
+    "url": "https://note.com/awc_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "公式 note 始まります！｜株式会社 アークウィズコンサルティング 公式 note 始まります！｜株式会社 アークウィズコンサルティング note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/awc_recruit/n/neef3571ebd7b",
+    "pass": 3
+   },
+   {
+    "quote": "アークウィズコンサルティング を選んだ経緯1 - note アークウィズコンサルティング を選んだ経緯1 - note note https://note.com > キャリア > 転職・キャリアチェンジ",
+    "url": "https://note.com/cheaps/n/n00570a7a9c78",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "株式会社アークウィズコンサルティング | 広報部｜note",
+    "url": "https://note.com/awc_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "アークウィズコンサルティングとは？評判・年収・還元率を大手コンサルやフリーランスと比較【2026年】",
+    "url": "https://note.com/awc_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アークウィズコンサルティング | 広報部",
+    "url": "https://note.com/awc_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "SESからコンサルになるには？SES3社・SIerを経てITコンサルに転職した私の体験談",
+    "url": "https://note.com/awc_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "アビームから転職してわかった、大手コンサルとベンチャーコンサルの6つの違い",
+    "url": "https://note.com/awc_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "SIerからコンサルに転職すると年収は上がる？「詐欺レベルで怪しい（笑）」と語る社員が年収400万円アップしたリアルな実体験",
+    "url": "https://note.com/awc_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "アークウィズコンサルティング、公式note始まります！｜株式会社アークウィズコンサルティング | 広報部",
+    "url": "https://note.com/awc_recruit/n/neef3571ebd7b",
+    "pass": 3
+   },
+   {
+    "quote": "アークウィズコンサルティング、公式note始まります！",
+    "url": "https://note.com/awc_recruit/n/neef3571ebd7b",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アークウィズコンサルティング | 広報部",
+    "url": "https://note.com/awc_recruit/n/neef3571ebd7b",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アークウィズコンサルティング（AWC）広報部です。",
+    "url": "https://note.com/awc_recruit/n/neef3571ebd7b",
+    "pass": 3
+   },
+   {
+    "quote": "この度、AWC公式noteを開設いたしました～👏🏻",
+    "url": "https://note.com/awc_recruit/n/neef3571ebd7b",
+    "pass": 3
+   },
+   {
+    "quote": "これから、こんな事を発信していく予定です📢",
+    "url": "https://note.com/awc_recruit/n/neef3571ebd7b",
+    "pass": 3
+   },
+   {
+    "quote": "ITコンサルティングファームとして2022年に設立された弊社ですが、",
+    "url": "https://note.com/awc_recruit/n/neef3571ebd7b",
+    "pass": 3
+   },
+   {
+    "quote": "なぜAWCが設立されたのか？他社との差別化ポイント、現在の事業内容、今後の展望などをリアルタイムでお届けしていきます！",
+    "url": "https://note.com/awc_recruit/n/neef3571ebd7b",
+    "pass": 3
+   },
+   {
+    "quote": "アークウィズコンサルティングを選んだ経緯1｜やす：アークウィズコンサルティング",
+    "url": "https://note.com/cheaps/n/n00570a7a9c78",
+    "pass": 3
+   },
+   {
+    "quote": "アークウィズコンサルティングを選んだ経緯1",
+    "url": "https://note.com/cheaps/n/n00570a7a9c78",
+    "pass": 3
+   },
+   {
+    "quote": "書いても見てくれるのかな？と思ってましたが、多くのスキをいただけて大変光栄です。がんばって続けます！",
+    "url": "https://note.com/cheaps/n/n00570a7a9c78",
+    "pass": 3
+   },
+   {
+    "quote": "書いた通り、2回目の転職でアークウィズコンサルティング（AWC）というベンチャー企業を選びました。今回はその経緯についてお伝えしようと思います。現在大手企業にお勤めでベンチャーへの転職ってどうかな、、と思われてる方の参考になればと思います！",
+    "url": "https://note.com/cheaps/n/n00570a7a9c78",
+    "pass": 3
+   },
+   {
+    "quote": "前職では外資系最大手コンサルファームに努めていました。（",
+    "url": "https://note.com/cheaps/n/n00570a7a9c78",
+    "pass": 3
+   },
+   {
+    "quote": "）特に不満はなく3年弱働いていたのですが、急な全社方針転換で、リモートワーク禁止・全員出社の号令がかかりました😭",
+    "url": "https://note.com/cheaps/n/n00570a7a9c78",
+    "pass": 3
+   },
+   {
+    "quote": "私は朝夕に娘を保育園送迎しておりまして、在宅勤務の例外申請を出したのですが認められず、仕事との両立は困難となってしまいました。",
+    "url": "https://note.com/cheaps/n/n00570a7a9c78",
+    "pass": 3
+   },
+   {
+    "quote": "（しかもあるプロジェクトは号令後も在宅勤務を続けているとか、理不尽だなと、、）",
+    "url": "https://note.com/cheaps/n/n00570a7a9c78",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 アークウィズコンサルティング (@awc_jp) / X 株式会社 アークウィズコンサルティング (@awc_jp) / X X https://x.com > awc_jp",
+    "url": "https://x.com/awc_jp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "大川 湧輝 - 株式会社 アークウィズコンサルティング - LinkedIn 大川 湧輝 - 株式会社 アークウィズコンサルティング - LinkedIn LinkedIn https://jp.linkedin.com > 湧輝-大川-137a19345",
+    "url": "https://jp.linkedin.com/in/%E6%B9%A7%E8%BC%9D-%E5%A4%A7%E5%B7%9D-137a19345",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アークウィズコンサルティング のITコンサルタント 株式会社 アークウィズコンサルティング のITコンサルタント LinkedIn https://jp.linkedin.com > jobs > view > itコンサルタント-at-...",
+    "url": "https://jp.linkedin.com/jobs/view/it%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%A6%E3%82%A3%E3%82%BA%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-4478418817",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アークウィズコンサルティング - LinkedIn 株式会社 アークウィズコンサルティング - LinkedIn LinkedIn https://jp.linkedin.com > company > 株式会社アークウィ...",
+    "url": "https://jp.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%A6%E3%82%A3%E3%82%BA%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0",
+    "pass": 3
+   },
+   {
+    "quote": "Shogo Yasui - 株式会社 アークウィズコンサルティング ... Shogo Yasui - 株式会社 アークウィズコンサルティング ... LinkedIn https://jp.linkedin.com > shogo-yasui",
+    "url": "https://jp.linkedin.com/in/shogo-yasui",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 アークウィズコンサルティング (@arc.with.consulting) 株式会社 アークウィズコンサルティング (@arc.with.consulting) Facebook https://www.facebook.com > arc.with.consulting",
+    "url": "https://www.facebook.com/arc.with.consulting/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://awc-jp.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en-ambi.com/agency/a-8960/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/awc202208",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.awc-jp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/a0C2x00000ZAqlP/pr/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/a0C2x00000ZAqlP/pr/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://recruit.awc-jp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/awc202208",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000ZAqlP",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://best100.v-tsushin.jp/company/awc-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company.php?m_id=a0C2x00000ZAqlP",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/awc_recruit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/awc_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E6%B9%A7%E8%BC%9D-%E5%A4%A7%E5%B7%9D-137a19345",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/jobs/view/it%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%A6%E3%82%A3%E3%82%BA%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-4478418817",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%A6%E3%82%A3%E3%82%BA%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/shogo-yasui",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/arc.with.consulting/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/awc_recruit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/awc_recruit/n/neef3571ebd7b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/awc_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/cheaps/n/n00570a7a9c78",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/awc_recruit",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アークウィズコンサルティング 会社概要 資本金 設立",
+   "results": [
+    "https://best100.v-tsushin.jp/company/awc-jp/",
+    "https://en-ambi.com/agency/a-8960/",
+    "https://www.wantedly.com/companies/awc202208",
+    "https://www.openwork.jp/a0C2x00000ZAqlP/pr/",
+    "https://recruit.awc-jp.com/",
+    "https://tenshoku.mynavi.jp/company/438050/",
+    "https://mid-tenshoku.com/agency/a-8960/",
+    "https://compalyze.co.jp/company/7010001228558",
+    "https://www.green-japan.com/company/10518"
+   ]
+  },
+  {
+   "query": "アークウィズコンサルティング 事業内容 売上",
+   "results": [
+    "https://best100.v-tsushin.jp/company/awc-jp/",
+    "https://recruit.awc-jp.com/",
+    "https://www.openwork.jp/a0C2x00000ZAqlP/pr/",
+    "https://tenshoku.mynavi.jp/jobinfo-438050-1-1-1/",
+    "https://note.com/awc_recruit",
+    "https://www.wantedly.com/companies/awc202208",
+    "https://awc-jp.com/",
+    "https://freelance.adecco.co.jp/companies/128960/company/",
+    "https://www.green-japan.com/company/10518",
+    "https://note.com/awc_recruit/n/n2e21c6db07c3"
+   ]
+  },
+  {
+   "query": "アークウィズコンサルティング 資金調達 株主",
+   "results": [
+    "https://best100.v-tsushin.jp/company/awc-jp/",
+    "https://awc-jp.com/",
+    "https://www.openwork.jp/a0C2x00000ZAqlP/pr/",
+    "https://www.wantedly.com/companies/awc202208",
+    "https://note.com/awc_recruit",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7010001228558",
+    "https://compalyze.co.jp/company/7010001228558",
+    "https://mid-tenshoku.com/agency/a-8960/",
+    "https://en-ambi.com/agency/a-8960/",
+    "https://www.buffett-code.com/company/d9aj78g6eh/"
+   ]
+  },
+  {
+   "query": "アークウィズコンサルティング 導入事例",
+   "results": [
+    "https://recruit.awc-jp.com/",
+    "https://www.wantedly.com/companies/awc202208",
+    "https://www.openwork.jp/company.php?m_id=a0C2x00000ZAqlP",
+    "https://note.com/awc_recruit",
+    "https://best100.v-tsushin.jp/company/awc-jp/",
+    "https://www.youtube.com/@awc_jp",
+    "https://en-ambi.com/agency/a-8960/",
+    "https://www.green-japan.com/company/10518",
+    "https://www.instagram.com/awc_jp/",
+    "https://note.com/awc_recruit/n/n2e21c6db07c3"
+   ]
+  },
+  {
+   "query": "アークウィズコンサルティング 主要取引先",
+   "results": [
+    "https://awc-jp.com/",
+    "https://best100.v-tsushin.jp/company/awc-jp/",
+    "https://www.openwork.jp/company.php?m_id=a0C2x00000ZAqlP",
+    "https://www.wantedly.com/companies/awc202208",
+    "https://en-ambi.com/agency/a-8960/",
+    "https://www.green-japan.com/company/10518",
+    "https://note.com/awc_recruit",
+    "https://www.instagram.com/awc_jp/",
+    "https://freelance.adecco.co.jp/companies/128960/company/",
+    "https://jp.linkedin.com/in/拓也-関根-230020331"
+   ]
+  },
+  {
+   "query": "site:note.com アークウィズコンサルティング",
+   "results": [
+    "https://note.com/awc_recruit",
+    "https://note.com/awc_recruit/n/nd903e6ddcd88",
+    "https://note.com/awc_recruit/n/n0750c52bf08d",
+    "https://note.com/awc_recruit/n/n37a19da9cf3f",
+    "https://note.com/cheaps/n/n6e94906a12aa",
+    "https://note.com/awc_recruit/n/neef3571ebd7b",
+    "https://note.com/awc_recruit/n/n3a4f7a78040f",
+    "https://note.com/awc_recruit/n/n0dd4e52ec4aa",
+    "https://note.com/cheaps/n/n00570a7a9c78",
+    "https://note.com/cheaps/n/nd8be957c82a4"
+   ]
+  },
+  {
+   "query": "site:x.com アークウィズコンサルティング",
+   "results": [
+    "https://x.com/awc_jp",
+    "https://x.com/awc_sekine",
+    "https://x.com/takemo_saiyo",
+    "https://x.com/Arcwith_Sales",
+    "https://x.com/awc_jp/status/1982386208132174239",
+    "https://x.com/arc_with_tech",
+    "https://x.com/awc_jp/status/1967168513086505122",
+    "https://x.com/kessan_db/status/2110995659788824620",
+    "https://x.com/tenjikaicom/status/1828968446836781297",
+    "https://x.com/awc_wakana"
+   ]
+  },
+  {
+   "query": "site:linkedin.com アークウィズコンサルティング",
+   "results": [
+    "https://jp.linkedin.com/in/%E6%B9%A7%E8%BC%9D-%E5%A4%A7%E5%B7%9D-137a19345",
+    "https://jp.linkedin.com/jobs/view/it%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%A6%E3%82%A3%E3%82%BA%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-4478418817",
+    "https://jp.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%A6%E3%82%A3%E3%82%BA%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0",
+    "https://jp.linkedin.com/in/shogo-yasui",
+    "https://jp.linkedin.com/in/takuya-nakamura-b58998355",
+    "https://jp.linkedin.com/in/%E5%92%8C%E5%A5%8F-%E4%BC%8A%E8%97%A4-359a61330",
+    "https://jp.linkedin.com/in/yuhei-ishikawa-86ab0744",
+    "https://jp.linkedin.com/in/%E6%A1%83%E6%9E%9C-%E6%AD%A6%E7%94%B0-7b451b310",
+    "https://jp.linkedin.com/in/%E6%8B%93%E4%B9%9F-%E9%96%A2%E6%A0%B9-230020331",
+    "https://jp.linkedin.com/in/%E7%A5%90%E6%96%97-%E9%88%B4%E6%9C%A8-b4296232b"
+   ]
+  },
+  {
+   "query": "site:facebook.com アークウィズコンサルティング",
+   "results": [
+    "https://www.facebook.com/arc.with.consulting/",
+    "https://www.facebook.com/Shonan.iPark/posts/%E5%8F%B0%E6%B9%BE-fast-track-717%E9%96%8B%E5%82%ACinnovation-tiger-2026-%E5%8F%B0%E6%B9%BE%E4%BA%8B%E5%89%8D%E9%81%B8%E8%80%83fast-track-in-taiwan%E3%82%92%E5%8F%B0%E6%B9%BE%E3%81%AE%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E9%99%A2-i/1598477565613889/",
+    "https://www.facebook.com/Shonan.iPark/posts/%E6%B9%98%E5%8D%97%E4%BC%9A%E8%AD%B0%E5%9B%BD%E9%9A%9B%E7%9A%84%E3%83%90%E3%82%A4%E3%82%AA%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E6%96%BD%E8%A8%AD%E3%82%92%E8%80%83%E3%81%88%E3%82%8B%E4%BC%9A%E3%81%AE%E9%80%B2%E6%8D%97%E5%A0%B1%E5%91%8A%E4%BC%9A%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E6%B9%98%E5%8D%97%E3%82%A2%E3%82%A4%E3%83%91%E3%83%BC%E3%82%AF%E5%86%85%E3%81%AE%E5%85%B1%E5%89%B5%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E6%B9%98%E5%8D%97%E4%BC%9A%E8%AD%B0%E4%BB%8A%E5%9B%9E%E3%81%AF%E6%9C%80%E5%85%88%E7%AB%AF%E3%81%AE%E6%A9%9F%E5%99%A8ai%E8%A7%A3%E6%9E%90%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E5%85%B1%E5%90%8C%E5%88%A9/1266096615518654/",
+    "https://www.facebook.com/groups/242515173295634/posts/1496217944592011/",
+    "https://www.facebook.com/businessinsider/videos/ai-can-now-do-much-of-the-analysis-consultants-once-spent-hours-completing-but-t/1046110131499189/",
+    "https://www.facebook.com/Shonan.iPark/posts/%E3%83%A9%E3%83%B3%E3%83%81%E3%81%AF%E3%83%AF%E3%83%B3%E3%82%B3%E3%82%A4%E3%83%B3%E3%81%A7%E6%A5%BD%E3%81%97%E3%82%81%E3%81%BE%E3%81%99%E5%85%B7%E6%B2%A2%E5%B1%B1%E5%A1%A9%E9%BA%B9%E9%A4%A1%E3%81%8B%E3%81%91%E3%81%86%E3%81%A9%E3%82%93%E3%83%93%E3%83%BC%E3%83%95%E3%82%B9%E3%83%88%E3%83%AD%E3%82%AC%E3%83%8E%E3%83%95%E3%82%BB%E3%83%83%E3%83%88%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%87%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E3%81%A9%E3%81%A1%E3%82%89%E3%82%82%E3%83%98%E3%83%AB%E3%82%B7%E3%83%BC%E3%81%9D%E3%81%97%E3%81%A6%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%81%A7%E3%81%99%E3%82%88%E6%96%B0%E6%B9%98%E5%8D%97%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%93%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF/1084339373694380/",
+    "https://www.facebook.com/senatorcollett/posts/my-district-director-brian-had-a-wonderful-night-with-the-arc-alliance-at-their-/1436012788331393/",
+    "https://www.facebook.com/ktve10kard14/videos/nbc-10-news-today-wathas-wonderful-world-llc-offers-etiquette-consulting-to-ark-/607961002322628/",
+    "https://www.facebook.com/61556579824336/?locale=ja_JP",
+    "https://www.facebook.com/CCSOAdmin/posts/stage-1-fire-restrictions-downgrade-friday-july-30-custer-countyafter-consulting/1473194724852267/"
+   ]
+  },
+  {
+   "query": "アークウィズコンサルティング note 社長",
+   "results": [
+    "https://note.com/awc_recruit",
+    "https://note.com/awc_recruit/n/neef3571ebd7b",
+    "https://x.com/awc_jp",
+    "https://note.com/cheaps/n/n00570a7a9c78",
+    "https://note.com/awc_recruit/m/m31906633a810/hashtag/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB",
+    "https://note.com/awc_recruit/n/n0750c52bf08d",
+    "https://jp.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%A6%E3%82%A3%E3%82%BA%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0",
+    "https://recruit.awc-jp.com/",
+    "https://www.openwork.jp/a0C2x00000ZAqlP/pr/",
+    "https://best100.v-tsushin.jp/company/awc-jp/"
+   ]
+  },
+  {
+   "query": "アークウィズコンサルティング X 投稿",
+   "results": [
+    "https://x.com/awc_sekine",
+    "https://note.com/awc_recruit",
+    "https://www.youtube.com/@awc_jp",
+    "https://www.openwork.jp/one_answer.php?vid=a0ARC00000Kx33D&qco=4",
+    "https://www.instagram.com/awc_jp/",
+    "https://www.youtube.com/watch?v=rj9qjOcpujc",
+    "https://recruit.awc-jp.com/",
+    "https://www.wantedly.com/companies/awc202208/post_articles/960120",
+    "https://awtc-jp.com/",
+    "https://x.com/awc_jp"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索11回）"
+ }
+}

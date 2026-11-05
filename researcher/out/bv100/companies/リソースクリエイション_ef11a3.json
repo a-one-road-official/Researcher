@@ -1,0 +1,1301 @@
+{
+ "name": "リソースクリエイション",
+ "aliases": [
+  "rc-group"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T15:32:04.965951+00:00",
+ "official_url": "https://rc-group.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 106-0047 東京都 港区 南麻布2-8-21 SNUG MINAMI-AZABU 1階、3階、4階、5階",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "106-0047",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都港区南麻布2-8-21 SNUG MINAMI-AZABU 1階、3階、4階、5階",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "03-4446-2666",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "高知県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、大阪府",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "岩手県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、愛知県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "広島県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "大阪府",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "兵庫県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "岐阜県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都港区南麻布2-8-21 SNUG MINAMI-AZABU 1階、3階、4階、5階（受付4階）",
+    "url": "https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2015年4月 [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2015年4月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "創立年",
+    "value": "創立年：2015年4月",
+    "url": "https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "人材ソリューション事業、SNS事業「エアリク」、マーケティング事業、クリエイティブ事業 [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "■人材ソリューション事業 ■SNS事業 ■クリエイティブ事業 ■マーケティング事業 【入社前から即戦力へ！\"働く\"を体感できる内定者インターン】 「入社後、どんな仕事をするんだろう？」そんな不安を解消！ 当社の内定者インターンでは、実際の業務に携わりながらスキルを磨けます。 ＜26卒 先輩社員の実例＞ 2024年10月 → 内定 2025年3月   → 内定者インターン開始 2025年10月 → 初契約獲得 現在までに14件契約、1,000万円～2,000万円売上 受注金額は先輩同席ありで648万円、単独では480万円 ※同席案件あり、インターン期間含む ※給与＋インセン支給 入社前から実践経験を積み、即戦力として活躍！ あなたも一歩先の社会人デビューを目指しませんか？ 採用に関する事業だけでなく、社会のインフラとなるサービスを創り出す。そんな仕事を私たちと一緒に手掛け、共に成長していきませんか？",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "髙田桂太郎 （ 代表取締役 ） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,000万円 [ 1 ] [ 3 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1,000万円",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "20億円（2026年3月） [ 4 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "20億円（グループ全体2026年3月）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "120名",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "120名",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主な取引先",
+    "value": "・国立研究開発法人 理化学研究所 ・農林水産省 ・学校法人桜美林学園 ・合同会社DMM.com ・山崎製パン(株) ・(株)リンガーハット ・ペッツファースト(株) ・日本交通(株)",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "売上を拡大したい、採用力を高めたい",
+    "url": "https://rc-group.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【メディア掲載】TOKYO MX「堀潤 Live Junction」にて紹介されました",
+    "url": "https://rc-group.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "売上を拡大したい、採用力を高めたい",
+    "url": "https://rc-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "すべての企業が売上を上げたいと思っている中、本当に上げるために必要な取り組みを大胆に実行していきます",
+    "url": "https://rc-group.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、暴力団、暴力団員、暴力団準構成員、暴力団関係者、総会屋、その他、反社会勢力のいずれでもなく、また反社会勢力が経営・運営に関与している法人ではないことを表明し、かつ将来にわたっても該当しないことを確約します",
+    "url": "https://rc-group.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "採用に特化したSNS運用代行サービス「エアリク」を運営するなどユニークな",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期の売上高は20億円に達した",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "」（1面）で「オヤオシ」による入社事例が紹介",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "『挑戦が世界を変える！』平均年齢25歳・週休3日制・【残業無し勤務可能】選択制勤務体系・美容手当・嬉しい自動販売機無料社員に優しい福利厚生が多数あります！",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "エントリーした企業の中から、厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在までに14件契約、1,000万円～2,000万円売上",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "★会社紹介動画をYoutubeでUPしています！",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、求人広告、人材紹介、RPO、SNS運用代行、SNS広告、クリエイティブ制作など、採用プロセスに関わる複数領域を扱っています",
+    "url": "https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイトでは、人材ソリューション事業として求人広告、人材紹介、Google for jobs、障害者採用、高校生採用、RPO（アウトソーシング）を扱うほか、SNS運用代行やSNS広告、採用サイト・動画制作なども案内されています",
+    "url": "https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リソースクリエイションは、採用力向上を目指す企業に向けて、求人広告、SNS運用代行、人材紹介、RPO、採用サイト・動画制作などを提供する求人広告代理店です",
+    "url": "https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/",
+    "pass": 3
+   },
+   {
+    "quote": "営業職の事例では、未経験から活躍できる理由やキャリアアップについて細かく記載した原稿を作成し、応募185名・採用3名という結果が紹介されています",
+    "url": "https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リソースクリエイションの運営会社概要",
+    "url": "https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、株式会社リソースクリエイションのサービス内容を紹介してきました",
+    "url": "https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、Recruit InnovationのWantedly運用代行の特徴や強み、導入メリットなどを詳しく紹介します",
+    "url": "https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ルーチェのWantedly運用代行の特徴、料金、実績を紹介",
+    "url": "https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/",
+    "pass": 3
+   },
+   {
+    "quote": "「エアリク 」by「株式会社リソースクリエイション」とは？特徴・料金・サービス内容・導入事例 などを紹介",
+    "url": "https://oproduct.jp/products/6904715",
+    "pass": 3
+   },
+   {
+    "quote": "」を運営し、若者の支持を得るなどユニークな",
+    "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E",
+    "pass": 3
+   },
+   {
+    "quote": "から翌1時まで働き、終電で帰る生活を送るが、この厳しい経験が、後に驚異的な売上につながる",
+    "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E",
+    "pass": 3
+   },
+   {
+    "quote": "」（1面）で「オヤオシ」による入社事例が紹介される",
+    "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E",
+    "pass": 3
+   },
+   {
+    "quote": "社員数100名超え、売上10億円を実現｜リソースクリエイション代表取締役 髙田 桂太郎｜髙田 桂太郎｜㈱リソースクリエイション｜代表取締役 CEO",
+    "url": "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "pass": 3
+   },
+   {
+    "quote": "社員数100名超え、売上10億円を実現｜リソースクリエイション代表取締役 髙田 桂太郎",
+    "url": "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "pass": 3
+   },
+   {
+    "quote": "この3月で会社を設立して10年となり、会社規模も従業員は100名を超え、売上も10億円を突破しました",
+    "url": "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "pass": 3
+   },
+   {
+    "quote": "当時とは環境も大きく変わりましたので、今回は改めて、自己紹介を兼ね、これまでの歩みをまとめます",
+    "url": "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "pass": 3
+   },
+   {
+    "quote": "今回が初投稿という事で、会社の紹介や、今までの略歴などを発信していきます",
+    "url": "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "pass": 3
+   },
+   {
+    "quote": "この厳しい経験が、後に爆発的な売上を上げることになります",
+    "url": "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "pass": 3
+   },
+   {
+    "quote": "└求人広告、人材紹介をはじめ、RPOなど人材採用を手掛けています",
+    "url": "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "pass": 3
+   },
+   {
+    "quote": "自動販売機が無料！？オフィスにコンビニ！？飲食の福利厚生を紹介！",
+    "url": "https://note.com/keitaro_takada",
+    "pass": 3
+   },
+   {
+    "quote": "11期目で売上25億円を狙う！リソースクリエイションが伸び続ける理由とは？｜髙田 桂太郎｜㈱リソースクリエイション｜代表取締役 CEO",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   },
+   {
+    "quote": "11期目で売上25億円を狙う！リソースクリエイションが伸び続ける理由とは？",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   },
+   {
+    "quote": "昨年度の売上は12億円",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   },
+   {
+    "quote": "売上規模の拡大はもちろん、組織としての基盤がしっかりと整いました",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "9月8日 - 代表取締役の髙田桂太郎が、深刻化する人手不足を背景とした中小企業の採用戦略や、SNS広告を活用した新たな採用手法についてITmedia ビジネスオンラインに寄稿",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "11月5日 - HRog 「中小企業の採用を支える新戦略",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "深刻な人手不足、中小企業はどう生き残る？ SNS採用の最前線をプロが解説",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "＊「ベストベンチャー100」は、イシン(株)が提供する法人向け有料会員制サービスです",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "O!Product（オープロダクト）は、日本最大級の法人向けITツール・DXサービス比較メディア",
+    "url": "https://oproduct.jp/products/6904715",
+    "pass": 3
+   },
+   {
+    "quote": "9月8日 - 深刻化する人手不足を背景とした中小企業の採用戦略や、SNS広告を活用した新たな採用手法についてITmedia ビジネスオンラインに寄稿",
+    "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E",
+    "pass": 3
+   },
+   {
+    "quote": "深刻な人手不足、中小企業はどう生き残る？ SNS採用の最前線をプロが解説",
+    "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E",
+    "pass": 3
+   },
+   {
+    "quote": "そして現在「エアリク」は、100社以上の中小企業から大手企業まで、多くのお客様にご利用いただき、今では会社の主軸サービスとなっています",
+    "url": "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "pass": 3
+   },
+   {
+    "quote": "資金力のある大手企業ではこのような研修は一般的かもしれませんが、ベンチャー企業でここまで整えている企業は少ないと自負しています",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   },
+   {
+    "quote": "実は今、様々な企業がショートドラマを導入し始めており、現在すでに大手企業様からも相談をいただいている状態です",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "2024年7月には、同社にSNS投稿を委託している大阪の運送会社が、2023年7月に動画投稿アプリ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "9月26日 - Web東奥「弘前の運送会社TikTok バズって万垢 」",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "『挑戦が世界を変える！』平均年齢25歳・週休3日制・【残業無し勤務可能】選択制勤務体系・美容手当・嬉しい自動販売機無料社員に優しい福利厚生が多数あります！",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "社員の声に耳を傾け、美容手当（最大20万円）や育休復帰支援、残業無し勤務も選べる新制度を導入！",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「稼働時間外で専門学校に通っている社員の学費を会社が半額負担」",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "また「自発的にカンボジア支援に行った社員の渡航費、宿泊費（一週間分）を会社で全額負担」などの実績あり",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "志戸平温泉(株)【ホテル志戸平/游泉志だて】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ルーチェのwantedly運用代行「トモニ採用」の導入事例…",
+    "url": "https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、導入事例や口コミ評判、...",
+    "url": "https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/",
+    "pass": 3
+   },
+   {
+    "quote": "リクファンの導入事例や口コミ評判、費用について調査",
+    "url": "https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/",
+    "pass": 3
+   },
+   {
+    "quote": "OTOGIのWantedly運用代行について、支援内容、料金の確認方法、導入事例、会社概要を整理",
+    "url": "https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/",
+    "pass": 3
+   },
+   {
+    "quote": "口コミ評判や導入事例の見方、費用相場、募集記事作成、ストーリー投稿、スカウト代行、採用広報...",
+    "url": "https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/",
+    "pass": 3
+   },
+   {
+    "quote": "「エアリク 」by「株式会社リソースクリエイション」とは？特徴・料金・サービス内容・導入事例 などを紹介",
+    "url": "https://oproduct.jp/products/6904715",
+    "pass": 3
+   },
+   {
+    "quote": "掲載サービス数2,000件超・掲載導入事例数2,500件突破",
+    "url": "https://oproduct.jp/products/6904715",
+    "pass": 3
+   },
+   {
+    "quote": "「クライアント企業を幸せにしたい」という想いだけを抱き仕事を続けるうちに、31歳の時には年収4,000万円超となった",
+    "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E",
+    "pass": 3
+   },
+   {
+    "quote": "9月26日 - Web東奥「弘前の運送会社TikTok バズって万垢 」",
+    "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E",
+    "pass": 3
+   },
+   {
+    "quote": "幸せの定義は一人ひとり異なりますが、大切な家族や友人、クライアントやパートナー企業の全ての人が幸せになれるよう、会社として何ができるかを常に考え実行していくという意味合いがあります",
+    "url": "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "pass": 3
+   },
+   {
+    "quote": "美容整形・ホワイトニング・脱毛・美容院等の費用を最大20万円支給",
+    "url": "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "pass": 3
+   },
+   {
+    "quote": "「本当にクライアント企業様を幸せにしたい」この想いで働いていると、年収はどんどんあがり、29歳で1,600万円→30歳で2,400万円→",
+    "url": "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "pass": 3
+   },
+   {
+    "quote": "幸せの定義は一人ひとり違うと思いますが、大切な家族や友人、クライアントやパートナー企業のすべての人が幸せになれるように、会社として何ができるかを常に考え、実行していきます",
+    "url": "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "pass": 3
+   },
+   {
+    "quote": "自動販売機が無料！？オフィスにコンビニ！？飲食の福利厚生を紹介！",
+    "url": "https://note.com/keitaro_takada",
+    "pass": 3
+   },
+   {
+    "quote": "最大20万円支給！「美容手当」の活用方法をマネージャー陣に聞いてみた！",
+    "url": "https://note.com/keitaro_takada",
+    "pass": 3
+   },
+   {
+    "quote": "それは、「人材教育」に時間とコストを投下し続け、真剣に取り組んできたからです",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、ショートドラマの制作を担う新たなサービス「Vertical Story」を本格稼働し、クライアント様ごとに最適な形でドラマを企画・制作・拡散していきます",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   },
+   {
+    "quote": "その真剣な姿勢は、チームを動かし、会社全体にエネルギーを与えてくれています",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   },
+   {
+    "quote": "社員一人ひとりの挑戦や努力、成長が、私たちのエネルギーになっています",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "4年連続ベストベンチャー100選出",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "1月5日、2年連続ベストベンチャー100選出",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "1月8日、3年連続で「ベストベンチャー100」に選出",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "1月、4年連続で「ベストベンチャー100」に選出",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "3月、「High-Growth Companies Asia-Pacific 2026（アジア太平洋地域における「急成長企業ランキングTOP500」）に5年連続選出",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "ベストベンチャー100.",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "【アジア急成長企業ランキングTOP500】に4年連続選出されて、英国紙「Financial Times」に掲載されました✨リソースクリエイションは、日本国内63位、アジア353位でした",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "リソースクリエイション、3年連続で「ベストベンチャー100」に選出",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "ベストベンチャー100",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "リソースクリエイションが、アジア太平洋地域における「急成長企業ランキングTOP500」に5年連続選出",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "☆《急成長企業ランキングTOP500》5年連続選出 日本国内24位 アジア太平洋地域206位",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "☆《ベストベンチャー100》4年連続選出",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "＊「ベストベンチャー100」は、イシン(株)が提供する法人向け有料会員制サービスです",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "エントリーした企業の中から、厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1月 「ベストベンチャー100」に選出",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1月 2年連続で「ベストベンチャー100」に選出",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "急成長企業ランキングTOP500 3年連続選出",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1月 3年連続で「ベストベンチャー100」に選出",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "急成長企業ランキングTOP500 4年連続選出",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1月 4年連続で「ベストベンチャー100」に選出",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "急成長企業ランキングTOP500 5年連続選出",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "4年連続ベストベンチャー100選出されるなど会社を急成長させた",
+    "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E",
+    "pass": 3
+   },
+   {
+    "quote": "4年連続ベストベンチャー100に選出された",
+    "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E",
+    "pass": 3
+   },
+   {
+    "quote": "1月5日、2年連続ベストベンチャー100選出",
+    "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E",
+    "pass": 3
+   },
+   {
+    "quote": "1月8日、3年連続で「ベストベンチャー100」に選出",
+    "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E",
+    "pass": 3
+   },
+   {
+    "quote": "1月、4年連続で「ベストベンチャー100」に選出",
+    "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E",
+    "pass": 3
+   },
+   {
+    "quote": "3月、「High-Growth Companies Asia-Pacific 2026（アジア太平洋地域における「急成長企業ランキングTOP500」）に5年連続選出",
+    "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E",
+    "pass": 3
+   },
+   {
+    "quote": "【アジア急成長企業ランキングTOP500】に4年連続選出されて、英国紙「Financial Times」に掲載されました✨リソースクリエイションは、日本国内63位、アジア353位でした",
+    "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E",
+    "pass": 3
+   },
+   {
+    "quote": "リソースクリエイション、3年連続で「ベストベンチャー100」に選出",
+    "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E",
+    "pass": 3
+   },
+   {
+    "quote": "ベストベンチャー100",
+    "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E",
+    "pass": 3
+   },
+   {
+    "quote": "リソースクリエイションが、アジア太平洋地域における「急成長企業ランキングTOP500」に5年連続選出",
+    "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "リソースクリエイション - Wikipedia — 株式会社リソースクリエイション は 東京都 に本拠を置く、人材ソリューション事業、 SNS 事業、 マーケティング 事業、クリエイティブ事業などを行う 日本 の 企業。 採用に特化したSNS運用代行サービス「エアリク」 の運営会社である。",
+    "url": "https://ja.wikipedia.org/wiki/リソースクリエイション",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 株式会社リソースクリエイションリソースクリエイション - Wikipedia(株)リソースクリエイションの会社概要 | マイナビ2028(株)リソースクリエイションの新卒採用・会社概要 | マイナビ2027運営会社｜新卒・中途の採用を一括サポート｜リソースクリエイション株式会社リソースクリエイション（東京都）の会社概要 | Compalyzeリソースクリエイション、3年連続で「ベストベンチャー100」に選出 | ... — 会社名 株式会社リソースクリエイション 英語名 Resource Creation Inc. 設立 2015年4月 資本金 1,000万円 代表者 代表取締役 髙田 桂太郎 所在地 〒106-0047 東京都港区南麻布2-8-21 SNUG MINAMI-AZABU 1階、3階、4階、5階（受付4階） 株式会社リソースクリエイション は 東京都 に本拠を置",
+    "url": "https://rc-group.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)リソースクリエイションの会社概要 | マイナビ2028(株)リソースクリエイションの新卒採用・会社概要 | マイナビ2027運営会社｜新卒・中途の採用を一括サポート｜リソースクリエイション株式会社リソースクリエイション（東京都）の会社概要 | Compalyzeリソースクリエイション、3年連続で「ベストベンチャー100」に選出 | ... — (株)リソースクリエイションの会社概要ページです。 マイナビ2028は、インターンシップ＆キャリア、前年の採用データ、エントリー情報を公開しており、自己分析や企業研究、皆さんの就職活動をサポートします。 そして、当社は今年度「働きがいのある会社」の認定も受けました。 また、リスキリング制度や海外留学制度など、 新しい制度を続々導入し、社員のスキルアップを全面的に支援。 \"社員の成長＝会社の成長\"この考えは、今後もずっと変わりません。 会社名 株",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)リソースクリエイションの新卒採用・会社概要 | マイナビ2027運営会社｜新卒・中途の採用を一括サポート｜リソースクリエイション株式会社リソースクリエイション（東京都）の会社概要 | Compalyzeリソースクリエイション、3年連続で「ベストベンチャー100」に選出 | ... — そして、当社は今年度「働きがいのある会社」の認定も受けました。 また、リスキリング制度や海外留学制度など、 新しい制度を続々導入し、社員のスキルアップを全面的に支援。 \"社員の成長＝会社の成長\"この考えは、今後もずっと変わりません。 会社名 株式会社リソースクリエイション 英語名 Resource Creation Inc. 設立 2015年4月 資本金 1,000万円 代表者 代表取締役 髙田 桂太郎 所在地 〒106-0047 東京都港区南麻布2-8-21 SNUG MINAMI-AZABU 1階、",
+    "url": "https://job.mynavi.jp/27/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "運営会社｜新卒・中途の採用を一括サポート｜リソースクリエイション — 会社名 株式会社リソースクリエイション 英語名 Resource Creation Inc. 設立 2015年4月 資本金 1,000万円 代表者 代表取締役 髙田 桂太郎 所在地 〒106-0047 東京都港区南麻布2-8-21 SNUG MINAMI-AZABU 1階、3階、4階、5階 連絡先 TEL：03-4446-2666",
+    "url": "https://sns-agency.rc-group.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リソースクリエイション | 求人広告代理店 | SNS運用代行 — リソースクリエイションでは、営業・インサイドセールス・事務・Webデザイナーなど幅広い職種を募集しています。 詳細は採用サイトやInstagramなどをご確認下さい。",
+    "url": "https://rc-group.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)リソースクリエイションの会社概要 | マイナビ2028(株)リソースクリエイションの新卒採用・会社概要 | マイナビ2027株式会社リソースクリエイションの会社情報・決算公告 | 官報決算デー...社員数100名超え、売上10億円を実現｜リソースクリエイション代表取締... — (株)リソースクリエイションの会社概要ページです。 マイナビ2028は、インターンシップ＆キャリア、前年の採用データ、エントリー情報を公開しており、自己分析や企業研究、皆さんの就職活動をサポートします。 【新規事業立ち上げの責任者に抜擢】 これらは、当社で活躍している社員の実例。 頑張り・成果を正当に評価し、成長と挑戦の機会を提供し続ける── そんなマンネリとは無縁の環境だからこそ、 自身をアップデートし続け、仕事の楽しさを見出せるん ... Jul 6, 2026 · 法人番号に紐づく現存する事業所の被保険",
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)リソースクリエイションの新卒採用・会社概要 | マイナビ2027株式会社リソースクリエイションの会社情報・決算公告 | 官報決算デー...社員数100名超え、売上10億円を実現｜リソースクリエイション代表取締... — 【新規事業立ち上げの責任者に抜擢】 これらは、当社で活躍している社員の実例。 頑張り・成果を正当に評価し、成長と挑戦の機会を提供し続ける── そんなマンネリとは無縁の環境だからこそ、 自身をアップデートし続け、仕事の楽しさを見出せるん ... Jul 6, 2026 · 法人番号に紐づく現存する事業所の被保険者数を合計しています。 従業員総数やグループ全体の人数とは異なります。 出典の取得日は、人数の基準日を示すものではありません。 Feb 11, 2025 · こんにちは。 会社のSNS総フォロワー100万人超え、個人SNS総フォロワー15万人超えの、株式会社リソー",
+    "url": "https://job.mynavi.jp/27/pc/search/corp237417/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "社員数100名超え、売上10億円を実現｜リソースクリエイション代表取締... — Feb 11, 2025 · こんにちは。 会社のSNS総フォロワー100万人超え、個人SNS総フォロワー15万人超えの、株式会社リソースクリエイション 代表取締役の髙田 桂太郎です。 この3月で会社を設立して10年となり、会社規模も従業員は100名を超え、売上も10億円を突破しました。",
+    "url": "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リソースクリエイションの施策事例や口コミ評判、費用につい...株式会社リソースクリエイション | 求人広告代理店 | SNS運用代行VOiCEで採用ミスマッチを減らす！ 全力で走れるチームが新しいサービ...【物流業界の導入事例を紹介！】SNSを導入して、本当に採用がうまくい...採用SNSの成功事例！自社SNSを代行依頼したら「いいね」が6倍超に人手不足の運輸業界 SNS導入で若年層の採用に成功 | 株式会社リソース...「エアリク 」by「株式会社リソースクリエイション」とは？特徴・料金... — Jun 8, 2026 · 株式会社リソースクリエイションは、採用力向上を目指す企業に特化した求人広告代理店です。 SNS運用代行を活用した独自の採用施策で、効率的な母集団形成を実現します。 本記事では、導入事例や料金プラン、運営会社概要を詳しく紹介します。 リソースクリエイションで",
+    "url": "https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/",
+    "pass": 3
+   },
+   {
+    "quote": "「エアリク 」by「株式会社リソースクリエイション」とは？特徴・料金... — Jul 30, 2026 · エアリク（株式会社リソースクリエイション）とは？ 採用に特化したSNS運用一括代行サービス「エアリク」。 オンリーワンの配信で他社との差別化を図り求職者をファン化させ、貴社の社風に合致した優秀な人材だけを採用可能！",
+    "url": "https://oproduct.jp/products/6904715",
+    "pass": 3
+   },
+   {
+    "quote": "VOiCEで採用ミスマッチを減らす！ 全力で走れるチームが新しいサービ... — May 24, 2024 · 現職社員の「今この会社で働き続ける理由」を発信できるVOiCEを活用し、採用時のミスマッチを減らすことに役立ててくださっている株式会社リソースクリエイション様に、導入の決め手や活用方法、効果実感についてお話頂きました。",
+    "url": "https://www.shain-voice.com/case/rc",
+    "pass": 3
+   },
+   {
+    "quote": "髙田桂太郎 - Wikipedia — フリーランスとして起業。 2015年4月 株式会社リソースクリエイションを設立。 2023年 3月17日、「High-Growth Companies Asia-Pacific 2023（アジア太平洋地域における急成長企業ランキング）」トップ500に2年連続でランクインし、英国紙「Financial Times」に掲載される。",
+    "url": "https://ja.wikipedia.org/wiki/髙田桂太郎",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 株式会社リソースクリエイション運営会社｜新卒・中途の採用を一括サポート｜リソースクリエイション髙田桂太郎 - Wikipediaリソースクリエイション - Wikipedia株式会社リソースクリエイション - インターネット広告代理店業界の会...株式会社リソースクリエイションの役員・従業員 - Wantedly — リソースクリエイションでは、営業・インサイドセールス・事務・Webデザイナーなど幅広い職種を募集しています。 詳細は採用サイトやInstagramなどをご確認下さい。 資本金 1,000万円 代表者 代表取締役 髙田 桂太郎 所在地 〒106-0047 東京都港区南麻布2-8-21 SNUG MINAMI-AZABU 1階、3階、4階、5階 連絡先 TEL：03-4446-2666 主要取引銀行 三井住友銀行 新宿支店 三菱UFJ銀行 練馬支店 事業内容 人材ソ",
+    "url": "https://rc-group.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リソースクリエイション - インターネット広告代理店業界の会... — 株式会社リソースクリエイションの企業情報ページ。 インターネット広告代理店業界の会社・従業員数89名。 事業内容・役員・連絡先をBaseconnectで確認できます。",
+    "url": "https://baseconnect.in/companies/f420d2d2-fbd9-4367-a6de-9dc7c3faf216",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "社員数100名超え、売上10億円を実現｜リソースクリエイション代表取締... Feb 11, 2025 · リソースクリエイションの強みはなんといっても、社員の仲が良いこと。 しかし、求人広告やホームページだけではその良さが伝わりきらないのが事実。 そこで、Instagramを活用し、どのような人が働いているのか、会社の「リアル」を前面に出しました。",
+    "url": "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "pass": 3
+   },
+   {
+    "quote": "髙田 桂太郎 | ㈱リソースクリエイション代表取締役 CEO Dec 9, 2021 · リソースクリエイションでは採用の基盤づくりからサポートします。 まずHPや採用サイト。 動画やSNSを活用して自ら発信していくことで、求人広告に掲載した時に採用がしやすくなる仕組みを構築しています。",
+    "url": "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "pass": 3
+   },
+   {
+    "quote": "髙田 桂太郎｜㈱リソースクリエイション｜代表取締役 CEO｜note 髙田 桂太郎｜㈱リソースクリエイション｜代表取締役 CEO 2015年4月設立｜SNS総フォロワー150万人！ 総再生回数10億回over｜25卒2,700エントリー、26卒4,200エントリー｜SNS採用マーケティング。 座右の銘：信念を貫き、自分の人生は自分が決める。",
+    "url": "https://note.com/keitaro_takada",
+    "pass": 3
+   },
+   {
+    "quote": "11期目で売上25億円を狙う！リソースクリエイションが伸び続ける理由... May 20, 2025 · こんにちは。 会社のSNS総フォロワー150万人超え、個人SNS総フォロワー15万人超えの、株式会社リソースクリエイション 代表取締役の髙田 桂太郎です。 今期で、私たちはいよいよ11期目に突入しました。",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   },
+   {
+    "quote": "髙田 桂太郎 | ㈱リソースクリエイション代表取締役 CEO Dec 9, 2021 · はじめまして。 株式会社リソースクリエイション 代表取締役 CEO／髙田 桂太郎 (たかだ けいたろう)と申します。 現在、東京で企業様の採用ブランディングを手掛けている会社です。 「関わる全ての人を幸せに」を企業理念としています。",
+    "url": "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "社員数100名超え、売上10億円を実現｜リソースクリエイション代表取締役 髙田 桂太郎｜髙田 桂太郎｜㈱リソースクリエイション｜代表取締役 CEO",
+    "url": "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "pass": 3
+   },
+   {
+    "quote": "社員数100名超え、売上10億円を実現｜リソースクリエイション代表取締役 髙田 桂太郎",
+    "url": "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "pass": 3
+   },
+   {
+    "quote": "髙田 桂太郎｜㈱リソースクリエイション｜代表取締役 CEO",
+    "url": "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは。会社のSNS総フォロワー100万人超え、個人SNS総フォロワー15万人超えの、株式会社リソースクリエイション 代表取締役の髙田 桂太郎です。",
+    "url": "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "pass": 3
+   },
+   {
+    "quote": "この3月で会社を設立して10年となり、会社規模も従業員は100名を超え、売上も10億円を突破しました。",
+    "url": "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "pass": 3
+   },
+   {
+    "quote": "そして、このnoteを開設してからも気づけば4年。",
+    "url": "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "pass": 3
+   },
+   {
+    "quote": "当時とは環境も大きく変わりましたので、今回は改めて、自己紹介を兼ね、これまでの歩みをまとめます。",
+    "url": "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "pass": 3
+   },
+   {
+    "quote": "赤裸々に話していきますので、最後までご覧いただけたら嬉しいです！",
+    "url": "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "pass": 3
+   },
+   {
+    "quote": "髙田 桂太郎 | ㈱リソースクリエイション代表取締役 CEO｜髙田 桂太郎｜㈱リソースクリエイション｜代表取締役 CEO",
+    "url": "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "pass": 3
+   },
+   {
+    "quote": "髙田 桂太郎 | ㈱リソースクリエイション代表取締役 CEO",
+    "url": "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "pass": 3
+   },
+   {
+    "quote": "髙田 桂太郎｜㈱リソースクリエイション｜代表取締役 CEO",
+    "url": "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "pass": 3
+   },
+   {
+    "quote": "はじめまして。株式会社リソースクリエイション 代表取締役 CEO／髙田 桂太郎(たかだ けいたろう)と申します。",
+    "url": "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "pass": 3
+   },
+   {
+    "quote": "現在、東京で企業様の採用ブランディングを手掛けている会社です。",
+    "url": "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "pass": 3
+   },
+   {
+    "quote": "今回が初投稿という事で、会社の紹介や、今までの略歴などを発信していきます。noteを通して",
+    "url": "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "pass": 3
+   },
+   {
+    "quote": "「リソースクリエイションってどんな会社？」「代表の髙田ってどんな人？」",
+    "url": "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "pass": 3
+   },
+   {
+    "quote": "という事を少しでも多くの方に知ってもらいたいと思っています。少し長くなりますが、最後まで読んでいただけると泣いて喜びます！(笑)",
+    "url": "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "pass": 3
+   },
+   {
+    "quote": "髙田 桂太郎｜㈱リソースクリエイション｜代表取締役 CEO｜note",
+    "url": "https://note.com/keitaro_takada",
+    "pass": 3
+   },
+   {
+    "quote": "3年連続で「働きがいのある会社」に認定！社員の挑戦を支える職場づくりとは？",
+    "url": "https://note.com/keitaro_takada",
+    "pass": 3
+   },
+   {
+    "quote": "髙田 桂太郎｜㈱リソースクリエイション｜代表取締役 CEO",
+    "url": "https://note.com/keitaro_takada",
+    "pass": 3
+   },
+   {
+    "quote": "3度目のカンボジア支援へ”CSR活動“に込める思い",
+    "url": "https://note.com/keitaro_takada",
+    "pass": 3
+   },
+   {
+    "quote": "世界へ生配信を繋いだ“異例の入社式” NHKも注目したその全貌とは",
+    "url": "https://note.com/keitaro_takada",
+    "pass": 3
+   },
+   {
+    "quote": "企業SNSで登録者10万人を突破した「変身ベルト」成功の裏側",
+    "url": "https://note.com/keitaro_takada",
+    "pass": 3
+   },
+   {
+    "quote": "11期目で売上25億円を狙う！リソースクリエイションが伸び続ける理由とは？｜髙田 桂太郎｜㈱リソースクリエイション｜代表取締役 CEO",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   },
+   {
+    "quote": "11期目で売上25億円を狙う！リソースクリエイションが伸び続ける理由とは？",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   },
+   {
+    "quote": "髙田 桂太郎｜㈱リソースクリエイション｜代表取締役 CEO",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは。会社のSNS総フォロワー150万人超え、個人SNS総フォロワー15万人超えの、株式会社リソースクリエイション 代表取締役の髙田 桂太郎です。",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   },
+   {
+    "quote": "今期で、私たちはいよいよ11期目に突入しました。",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの10年間で積み重ねてきた経験と信頼を土台に、次のステージへと歩みを進める1年が始まります。",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   },
+   {
+    "quote": "4月には14名の新卒社員を迎え、弊社は総勢120名の大所帯となりました。",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   },
+   {
+    "quote": "新たな仲間とともに、チームとしての一体感をさらに高め、より高い目標に挑戦していきます。",
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "【公式】株式会社リソースクリエイション (@rcgroup0401) / X Mention Follow PostsPosts RepliesReplies RepostsReposts MediaMedia 【公式】株式会社リソースクリエイション @rcgroup0401 Oct 19",
+    "url": "https://x.com/rcgroup0401",
+    "pass": 3
+   },
+   {
+    "quote": "もえ@リソースクリエイション｜営業 ♂️ (@rc_moeno) / X (株)リソースクリエイション TikTok「ユイカとヒロシ」の会社です🌱 ︎ ︎SNS事業部 採用の根幹から変えるサービスの営業マン🔥 遊びも仕事も全力で楽しむ！ ゴルフとスノボが趣味⛳️ TikTok「変身ベルト」https://t.co/3LIVnrUbB4",
+    "url": "https://x.com/rc_moeno",
+    "pass": 3
+   },
+   {
+    "quote": "\"#リソースクリエイション\" - Results on X | Live Posts & Updates Results for \"#リソースクリエイション\" on X (Twitter). Find the latest posts, discussions, and updates about #リソースクリエイション. 19 results found.",
+    "url": "https://x.com/hashtag/リソースクリエイション",
+    "pass": 3
+   },
+   {
+    "quote": "\\\\テレビ放送 // 2026年3月20日放送の、TBSテレビ「Nスタ」にて、リソ... 【公式】株式会社リソースクリエイション (@rcgroup0401). 167 views. \\テレビ放送📺// 2026年3月20日放送の、TBSテレビ「Nスタ」にて、リソースクリエイションが紹介されました👏 ぜひご覧ください！",
+    "url": "https://x.com/rcgroup0401/status/2035882859010150690",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "髙田 桂太郎 - 株式会社リソースクリエイション - 代表取締役 CEO | L...小笠原 寛 - 株式会社リソースクリエイション - 取締役 | LinkedIn【LinkedIn初投稿】 | 林 芳樹3 \"林芳樹\" profiles | LinkedInSerwa A. - Senior Director | Leading Enterprise ... - LinkedInSid Jain - Executive leader in strategy, general management ...Sita Gleichauf – Director Value Creation & Transformation ... 概要 (株)リソースクリエイション CEO フォロワー150万人｜再生10億回 12期目｜グループ売上20億円 採用×SNSで会社を伸ばす人 アジア急成長企業TOP5",
+    "url": "https://jp.linkedin.com/in/keitaro1985",
+    "pass": 3
+   },
+   {
+    "quote": "小笠原 寛 - 株式会社リソースクリエイション - 取締役 | LinkedIn【LinkedIn初投稿】 | 林 芳樹3 \"林芳樹\" profiles | LinkedInSerwa A. - Senior Director | Leading Enterprise ... - LinkedInSid Jain - Executive leader in strategy, general management ...Sita Gleichauf – Director Value Creation & Transformation ... 株式会社リソースクリエイション - 取締役 · 職歴: 株式会社リソースクリエイション · 学歴: 青山学院大学 · 場所: 東京 · LinkedInのつながり35人。 【LinkedIn初投稿】 皆様はじめまして。 株式会社リソースクリエイション採",
+    "url": "https://jp.linkedin.com/in/寛-小笠原-a50a90176",
+    "pass": 3
+   },
+   {
+    "quote": "【LinkedIn初投稿】 | 林 芳樹 【LinkedIn初投稿】 皆様はじめまして。 株式会社リソースクリエイション採用担当の林と申します。 初めてのLinkedIn投稿ということで まずは会社 ...",
+    "url": "https://www.linkedin.com/posts/芳樹-林-506891299_linkedin初投稿-皆様はじめまして-株式会社リソースクリエイション採用担当-activity-7242486841914916864-UjSz",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社リソースクリエイション | Minato-ku Tokyo髙田桂太郎 - Facebook株式会社リソースクリエイション - みなこ＆ゆきこでメンター会をしま...株式会社リソースクリエイション - Facebook株式会社リソースクリエイション - 株式会社リソースクリエイション a...株式会社リソースクリエイション - \\ユイカ卒業おめでとう ／ リソー...株式会社リソースクリエイション - けいたろう君とかけるで、 カンボ... 内定者のみんなにも、RCの雰囲気や社員との交流を 思いっきり楽しんでもらえていたら嬉しいです☺️ そして10月は、 まだまだ社内イベントが盛りだくさん⚽ 今後の投稿でも、 その様子をどんどんお届けしていく予定なので ぜひ楽しみにしていてください💗 #リソースクリエイション #株式会社リソースクリエイション #社内イベント #アフターパーティー #",
+    "url": "https://www.facebook.com/rc.group0401/",
+    "pass": 3
+   },
+   {
+    "quote": "髙田桂太郎 - Facebook はじめまして。 株式会社リソースクリエイション ... 美容やファッションに興味を持ち日々努力の40歳。 色々課金してここまで仕上げてもイケメンにはなれな い。 美容業界の技術革新に期待したい。 #美容 #ファッション #メンズネイル サッカー見てきた！",
+    "url": "https://www.facebook.com/keitaro1985/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リソースクリエイション - Facebook Oct 21, 2024 · 株式会社リソースクリエイション. 1 like · 27 talking about this. Advertising/Marketing",
+    "url": "https://www.facebook.com/61567265976469/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リソースクリエイション - 株式会社リソースクリエイション a... Apr 2, 2026 · 30 株式会社リソースクリエイション 5d SNS事業部のリーダー陣で、 初めての飲み会を開催しました🍻 同じ事業部で働いていても、全員で集まる機会は意外 と少なく、 今回は初の試みでした😊 仕事の話はもちろん、プライベートの話でも盛り ...",
+    "url": "https://www.facebook.com/rc.group0401/photos/1600368641776818/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://rc-group.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rc-group.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rc-group.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oproduct.jp/products/6904715",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E6%A1%82%E5%A4%AA%E9%83%8E",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keitaro_takada",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/rcgroup0401",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/rc_moeno",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/リソースクリエイション",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/rcgroup0401/status/2035882859010150690",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/keitaro1985",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/寛-小笠原-a50a90176",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/芳樹-林-506891299_linkedin初投稿-皆様はじめまして-株式会社リソースクリエイション採用担当-activity-7242486841914916864-UjSz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rc.group0401/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/keitaro1985/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61567265976469/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rc.group0401/photos/1600368641776818/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keitaro_takada",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "リソースクリエイション 会社概要 資本金 設立",
+   "results": [
+    "https://ja.wikipedia.org/wiki/リソースクリエイション",
+    "https://rc-group.co.jp/company/",
+    "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "https://job.mynavi.jp/27/pc/search/corp237417/outline.html",
+    "https://sns-agency.rc-group.co.jp/company/",
+    "https://compalyze.co.jp/company/9011601019956",
+    "https://rc-group.co.jp/topics/detail.php?id=98"
+   ]
+  },
+  {
+   "query": "リソースクリエイション 事業内容 売上",
+   "results": [
+    "https://ja.wikipedia.org/wiki/リソースクリエイション",
+    "https://rc-group.co.jp/",
+    "https://job.mynavi.jp/28/pc/search/corp237417/outline.html",
+    "https://job.mynavi.jp/27/pc/search/corp237417/outline.html",
+    "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "https://rc-group.co.jp/business/",
+    "https://catr.jp/companies/d9642/86070"
+   ]
+  },
+  {
+   "query": "リソースクリエイション 資金調達 株主",
+   "results": []
+  },
+  {
+   "query": "リソースクリエイション 導入事例",
+   "results": [
+    "https://www.shopowner-support.net/hr/recruitment-measures/social-recruiting/rc-group/",
+    "https://rc-group.co.jp/",
+    "https://oproduct.jp/products/6904715",
+    "https://rc-group.co.jp/blog/blog_logistics",
+    "https://www.shain-voice.com/case/rc",
+    "https://www.sns-recruitpartner.com/pr/",
+    "https://prtimes.jp/main/html/rd/p/000000047.000087010.html"
+   ]
+  },
+  {
+   "query": "リソースクリエイション 主要取引先",
+   "results": [
+    "https://ja.wikipedia.org/wiki/髙田桂太郎",
+    "https://ja.wikipedia.org/wiki/リソースクリエイション",
+    "https://rc-group.co.jp/",
+    "https://rc-group.co.jp/company/",
+    "https://baseconnect.in/companies/f420d2d2-fbd9-4367-a6de-9dc7c3faf216",
+    "https://www.wantedly.com/companies/company_8801436/members",
+    "https://sns-agency.rc-group.co.jp/company/"
+   ]
+  },
+  {
+   "query": "site:note.com リソースクリエイション",
+   "results": [
+    "https://note.com/keitaro_takada/n/nb3031af7de05",
+    "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "https://note.com/keitaro_takada",
+    "https://note.com/keitaro_takada/n/nafc911d17e21",
+    "https://note.com/keitaro_takada/n/n8eef7eb544e2",
+    "https://note.com/keitaro_takada/all",
+    "https://note.com/keitaro_takada/n/ncc9f020cf4cf"
+   ]
+  },
+  {
+   "query": "site:x.com リソースクリエイション",
+   "results": [
+    "https://x.com/rcgroup0401",
+    "https://x.com/rc_moeno",
+    "https://x.com/hashtag/リソースクリエイション",
+    "https://x.com/rcgroup0401/status/2035882859010150690",
+    "https://x.com/rcgroup0401/status/2039509019287822513",
+    "https://x.com/yuika_a628",
+    "https://x.com/keitaro19851024/status/2116440722983260481"
+   ]
+  },
+  {
+   "query": "site:linkedin.com リソースクリエイション",
+   "results": [
+    "https://jp.linkedin.com/in/keitaro1985",
+    "https://jp.linkedin.com/in/寛-小笠原-a50a90176",
+    "https://www.linkedin.com/posts/芳樹-林-506891299_linkedin初投稿-皆様はじめまして-株式会社リソースクリエイション採用担当-activity-7242486841914916864-UjSz",
+    "https://www.linkedin.com/pub/dir/芳樹/林",
+    "https://uk.linkedin.com/in/serwaab",
+    "https://au.linkedin.com/in/sid-jain-4751a28",
+    "https://de.linkedin.com/in/sitagleichauf"
+   ]
+  },
+  {
+   "query": "site:facebook.com リソースクリエイション",
+   "results": [
+    "https://www.facebook.com/rc.group0401/",
+    "https://www.facebook.com/keitaro1985/",
+    "https://www.facebook.com/61567265976469/",
+    "https://www.facebook.com/rc.group0401/photos/1600368641776818/",
+    "https://www.facebook.com/rc.group0401/posts/ユイカ卒業おめでとうリソースクリエイションを卒業したユイカ寂しい気持ちもあるけど私たちはこれからもずっと応援してるよ最終日はrcメンバーと記念撮影場所は変わって/1432984655181885/",
+    "https://www.facebook.com/rc.group0401/posts/けいたろう君とかけるでカンボジア支援へ行ってきました今回の活動にはプロのアスリートの方々や歯医者さんも参加されていてそれぞれの専門分野を活かした支援を行っていま/1656167722863576/",
+    "https://www.facebook.com/rc.group0401/posts/みなこゆきこでメンター会をしました今回のお店はゆきこがだーいすきな牡蠣のお店oyster-market-カキイロハ生牡蠣はお腹を壊さないかちょっとビビりますがな/1791863352627345/"
+   ]
+  },
+  {
+   "query": "リソースクリエイション note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/髙田桂太郎",
+    "https://note.com/keitaro_takada/n/n6c9f3bd22475",
+    "https://note.com/keitaro_takada",
+    "https://best100.v-tsushin.jp/company/rc-group/",
+    "https://rc-group.co.jp/company/",
+    "https://jp.linkedin.com/in/keitaro1985",
+    "https://jobtalk.jp/companies/8242508/answers?question_codes=president"
+   ]
+  },
+  {
+   "query": "リソースクリエイション X 投稿",
+   "results": []
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部25頁・検索11回）",
+  "資本金・株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部25頁・検索11回）"
+ }
+}

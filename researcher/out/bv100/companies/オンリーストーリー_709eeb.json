@@ -1,0 +1,1735 @@
+{
+ "name": "オンリーストーリー",
+ "aliases": [
+  "onlystory"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T15:23:53.083494+00:00",
+ "official_url": "https://onlystory.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://onlystory.co.jp/pages/company_new",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://best100.v-tsushin.jp/company/onlystory/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京都港区赤坂一丁目14番14号 第35興和ビル515",
+    "url": "https://onlystory.co.jp/pages/company_new",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "東京都港区赤坂1-14-14 第35興和ビル515",
+    "url": "https://best100.v-tsushin.jp/company/onlystory/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都渋谷区恵比寿南3-9-3",
+    "url": "https://prtimes.jp/main/html/rd/p/000000324.000015335.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒150-0022 東京都渋谷区恵比寿南 3-9-3 Aカントリーハウス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000324.000015335.html",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都港区赤坂1-14-14 第35興和ビル 515",
+    "url": "https://initial.inc/companies/A-16068",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都港区赤坂一丁目14番14号 第35興和ビル515",
+    "url": "https://it-trend.jp/business-matching-service/24472",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役社長CEO",
+    "value": "平野哲也 取締役COO:川角健太 社外取締役:塩見拓己",
+    "url": "https://onlystory.co.jp/pages/company_new",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "平野哲也",
+    "url": "https://prtimes.jp/main/html/rd/p/000000324.000015335.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 平野哲也",
+    "url": "https://prtimes.jp/main/html/rd/p/000000324.000015335.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "平野　哲也",
+    "url": "https://initial.inc/companies/A-16068",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "平野哲也",
+    "url": "https://it-trend.jp/business-matching-service/24472",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・決裁者マッチングプラットフォーム～ONLY STORY～の運営 ・ONLY STORY有料版　決裁者マッチング支援サービス～チラCEO～の運営",
+    "url": "https://best100.v-tsushin.jp/company/onlystory/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "決裁者マッチングプラットフォーム「チラCEO」「ONLY STORY」の運営",
+    "url": "https://prtimes.jp/main/html/rd/p/000000324.000015335.html",
+    "pass": 3
+   },
+   {
+    "label": "BtoB製品・サービスを探す",
+    "value": "製品を探す",
+    "url": "https://it-trend.jp/business-matching-service/24472",
+    "pass": 3
+   },
+   {
+    "label": "BtoB製品・サービスを知る",
+    "value": "用語集",
+    "url": "https://it-trend.jp/business-matching-service/24472",
+    "pass": 3
+   },
+   {
+    "label": "BtoB製品・サービスを掲載する",
+    "value": "ITトレンドへの掲載",
+    "url": "https://it-trend.jp/business-matching-service/24472",
+    "pass": 3
+   },
+   {
+    "label": "関連サービス・サイト",
+    "value": "List Finder",
+    "url": "https://it-trend.jp/business-matching-service/24472",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2014年02月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000324.000015335.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2014/02",
+    "url": "https://initial.inc/companies/A-16068",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主状況",
+    "value": "VCあり, 事業会社あり",
+    "url": "https://initial.inc/companies/A-16068",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "従業員規模101〜300人の企業が【製造業】新しい切り口やユニークな手法を持つ採用サービスの提案募集...",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "従業員規模6～10人の企業が【完全在宅・地方可】コールセンタースタッフの人材紹介会社様募集",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "従業員規模11〜30人の企業が【未経験可】営業職複数名採用の紹介パートナー募集",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "『国内最大規模の決裁者マッチングプラットフォームの運営』",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国内最大規模の、決裁者マッチングプラットフォームを運営",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "経営者BAR\"や経営層向けのイベント等、オフライン会を週一以上のペースで運営",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "従業員数50名以上or売上5億円以上の会社様の場合、担当が直接つかせて頂き、御社の経営課題を聞き、それを解決しうるサービスや決裁者を直接紹介しております",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大手を狙いたい方や、特定業界向けの商材を運営する会社等におすすめです",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "経験豊富なCXOクラスの人材を、企業の課題や成長フェーズに応じてご紹介します",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大企業の決裁者に連絡を届ける方法｜手紙の宛先と紹介を12年の実績から解説",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半年間成約ゼロから10ヶ月で2,000万円売上",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "導入後わずか5ヶ月で売上2,000万円",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "決裁者マッチング支援を活用してスイセイが得た第二の収益柱",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "売上3億以上or従業員数30名以上企業限定",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "代表による、決裁者向けのpodcast、note運営",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧問サービスとは、外部の専門家と継続契約し、助言や紹介を受ける仕組みで、領域と契約の形で種類が分かれます",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "領域別の月額の費用相場、契約前の選び方、決裁者との接点につなげる視点を12年の実績から解説します",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "顧問サービスとは、外部の専門家と継続契約し、助言や紹介を受ける仕組みです",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "月額の目安は、士業で1万〜5万円、営業顧問で10万〜50万円程度です",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "士業は法務・税務、経営顧問は意思決定、営業顧問は紹介、技術顧問は開発の助言が中心です",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "契約で分ける｜月額固定・成果報酬・スポット",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "継続相談は月額固定、成果が測れる業務は成果報酬、単発の相談はスポットが向きます",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "月額固定は定例の打ち合わせが中心で、成果報酬は紹介や契約の件数に応じて支払います",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "月額の目安、成果報酬の見方、比べ方の3点を挙げます",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "公開されている相場情報を見ると、領域ごとに月額の幅があります",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "税理士事務所は毎月訪問で、年間売上2,000万円未満なら月3万円",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬は売上の5〜10%に設定する例が多い",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬は、紹介の1件を何と数えるかで総額が決まります",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "月額やアポ単価でなく受注1件あたりで比べる",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "費用は月額やアポ単価でなく、受注1件あたりに置き換えて比べます",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "「売上を伸ばしたい」では広く、「製造業の部長に会いたい」なら領域が決まります",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "紹介や助言を受けても、受け取る側が動かなければ成果になりません",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "紹介を受ける準備と、1人の人脈に頼る限界の補い方を挙げます",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "顧問は、説明できない会社を決裁者に紹介できません",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "紹介を受けたい相手と自社が選ばれる理由を、顧問が1分で話せる形にします",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "紹介先の役職と業界、提供できる価値を1枚にまとめると伝わります",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "顧問サービスは、顧問1人の人脈が尽きると紹介が止まります",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "オンリーストーリーが運営する決裁者マッチングは、審査を通過した企業の決裁者同士が直接つながれる仕組みです",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "主力サービスの「縁CXO（えにシーオー）」では、定例の打ち合わせで狙う相手をすり合わせ、8,000名以上の決裁者から紹介します",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "プラットフォームに登録されている決裁者以外にも、平野の人脈から決裁者をご紹介します",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "導入後わずか5ヶ月で売上2,000万円",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "従来の紹介や交流会という手法だけでは、効率的な接点創出が難しかった",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス導入後、わずか5ヶ月で約2,000万円の売上を達成した",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "紹介される決裁者の人柄が良く、その後の関係構築がスムーズに進んだ",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "・導入後5ヶ月で売上2,000万円を達成",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "当時は7名体制の営業組織で、主に代理店様や顧問の方からのご紹介、または経営者交流会への参加を通じて新規開拓を行っていました",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、当社の主なターゲットは企業の経営者層ですが、ご紹介や交流会で接点を持つ方が必ずしも決裁者とは限らず、リードの「質」においても改善の余地がありました",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介を受ける際も、できる限り決裁者の方へ繋いでいただけるよう働きかけていたところです",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "当時は、ご紹介や交流会といった既存手法に加えて、事業拡大に向けた新たな施策を模索しており、決裁者と直接つながれる手段を探していたところです",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "担当の川角さんが直接企業をご紹介くださるプランがあった点が、導入を決めた最大の理由です",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、川角さんのお人柄も誠実で、この方のご紹介であれば質の高い経営層と出会えると確信を持てました",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "導入後5ヶ月で売上2,000万円を達成",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "導入から5ヶ月間で約2,000万円の売上を達成しました",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "ほかの決裁者マッチングサービスも併用していますが、そちらの平均売上は半年で300万円ほどです",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "前提として、ご紹介いただく企業の質が非常に高い点が大きいと思います",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "売上以外の面で、感じられている価値はありますか？",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介いただく決裁者の方々の「人柄の良さ」に、大きな価値を感じています",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、採用など他領域の課題についても親身に相談に乗ってくださる企業をご紹介いただけるなど、単なる商談にとどまらない関係性を築けています",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "当社も導入当初は半信半疑でしたが、実際に利用してみると、紹介いただく決裁者の質の高さと、その後のつながりの強さを実感できました",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "有料職業紹介事業許可番号：13-ユ-307326",
+    "url": "https://onlystory.co.jp/pages/company_new",
+    "pass": 1
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "『決裁者向けマーケティングを基軸としたBtoB営業の総合支援』",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "\"BtoB営業の総合商社\"として、多数マーケティング施策を保有",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "採用で困っている会社、BtoC企業の決裁者などにもおすすめ",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB営業の総合商社として、顧客が狙いたいアポ先の規模と、アポ単価ニーズに応じた、事業ポートフォリオを構築",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大手を狙いたい方や、特定業界向けの商材を運営する会社等におすすめです",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大手企業や上場企業向けに、1社数分×複数社がプレゼンをする会です",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB決裁者限定交流会 2026.11.10(火)",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB決裁者限定交流会 2026.11.24(火)",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "代表平野が、社長の裏側~シャチョウラ~として、経営やBtoB営業、個人的な関心事についてぶっちゃけて伝えています！",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB営業と決裁者マッチングの領域に12年間携わり、決裁者同士をつなぐマッチングサービスを運営",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB営業における「集客の課題」と真剣に向き合ってきました",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "もしBtoB集客でお悩みの決裁者の方がいらっしゃいましたら、",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB営業における「集客の課題」と真剣に向き合ってきました",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "もしBtoB集客でお悩みの決裁者の方がいらっしゃいましたら、",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB営業と決裁者マッチングの領域に12年間携わり、決裁者同士をつなぐマッチングサービスを運営",
+    "url": "https://onlystory.co.jp/service/column/enterprise-executive-access/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB営業における「集客の課題」と真剣に向き合ってきました",
+    "url": "https://onlystory.co.jp/service/column/enterprise-executive-access/",
+    "pass": 1
+   },
+   {
+    "quote": "もしBtoB集客でお悩みの決裁者の方がいらっしゃいましたら、",
+    "url": "https://onlystory.co.jp/service/column/enterprise-executive-access/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB営業と決裁者マッチングの領域に12年間携わり、決裁者同士をつなぐマッチングサービスを運営",
+    "url": "https://onlystory.co.jp/service/column/price-revision-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB営業における「集客の課題」と真剣に向き合ってきました",
+    "url": "https://onlystory.co.jp/service/column/price-revision-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "もしBtoB集客でお悩みの決裁者の方がいらっしゃいましたら、",
+    "url": "https://onlystory.co.jp/service/column/price-revision-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB営業における「集客の課題」と真剣に向き合ってきました",
+    "url": "https://onlystory.co.jp/service/case/https-xaiondata-co-jp/",
+    "pass": 1
+   },
+   {
+    "quote": "もしBtoB集客でお悩みの決裁者の方がいらっしゃいましたら、",
+    "url": "https://onlystory.co.jp/service/case/https-xaiondata-co-jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB領域に特化し、主に北海道の企業を対象に事業を展開している",
+    "url": "https://onlystory.co.jp/service/case/pharm-consulting-co-jp/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、原価を抑えたAI駆動開発と補助金を組みあわせることで、これまで開発費用の確保が難しかった中小企業のお客様にも、具体的な提案を届けられるようになっています",
+    "url": "https://onlystory.co.jp/service/case/pharm-consulting-co-jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB営業における「集客の課題」と真剣に向き合ってきました",
+    "url": "https://onlystory.co.jp/service/case/pharm-consulting-co-jp/",
+    "pass": 1
+   },
+   {
+    "quote": "もしBtoB集客でお悩みの決裁者の方がいらっしゃいましたら、",
+    "url": "https://onlystory.co.jp/service/case/pharm-consulting-co-jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB営業における「集客の課題」と真剣に向き合ってきました",
+    "url": "https://onlystory.co.jp/service/case/fd-x-co-jp/",
+    "pass": 1
+   },
+   {
+    "quote": "もしBtoB集客でお悩みの決裁者の方がいらっしゃいましたら、",
+    "url": "https://onlystory.co.jp/service/case/fd-x-co-jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB営業における「集客の課題」と真剣に向き合ってきました",
+    "url": "https://onlystory.co.jp/service/case/jmcenter/",
+    "pass": 1
+   },
+   {
+    "quote": "もしBtoB集客でお悩みの決裁者の方がいらっしゃいましたら、",
+    "url": "https://onlystory.co.jp/service/case/jmcenter/",
+    "pass": 1
+   },
+   {
+    "quote": "第二に、BtoB領域において競合優位性と差別化要素を持つ企業の売上向上支援を行い、事業のトップラインの押し上げを実施",
+    "url": "https://onlystory.co.jp/service/case/comix/",
+    "pass": 1
+   },
+   {
+    "quote": "競合が多いBtoB支援領域で、質の高い決裁者との商談機会創出に注力していた",
+    "url": "https://onlystory.co.jp/service/case/comix/",
+    "pass": 1
+   },
+   {
+    "quote": "導入直後には大手企業との商談にもつながり、一定の成果を上げることができました",
+    "url": "https://onlystory.co.jp/service/case/comix/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が提供する生成AI活用支援やBtoB企業向けの売上拡大支援は、「売上を伸ばしたい」「生産性を向上させたい」と考える経営層にとって非常に有効なソリューションです",
+    "url": "https://onlystory.co.jp/service/case/comix/",
+    "pass": 1
+   },
+   {
+    "quote": "とりわけ、BtoCよりもBtoB事業を展開している企業にとっては有効です",
+    "url": "https://onlystory.co.jp/service/case/comix/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、生成AIの活用支援およびBtoB企業の売上拡大支援において、確かな成果と実績を築かれています",
+    "url": "https://onlystory.co.jp/service/case/comix/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB営業における「集客の課題」と真剣に向き合ってきました",
+    "url": "https://onlystory.co.jp/service/case/comix/",
+    "pass": 1
+   },
+   {
+    "quote": "もしBtoB集客でお悩みの決裁者の方がいらっしゃいましたら、",
+    "url": "https://onlystory.co.jp/service/case/comix/",
+    "pass": 1
+   },
+   {
+    "quote": "新規開拓チャネルに課題を抱えるBtoB企業様には、まず試していただきたいサービスです",
+    "url": "https://onlystory.co.jp/service/case/suisei/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB営業における「集客の課題」と真剣に向き合ってきました",
+    "url": "https://onlystory.co.jp/service/case/suisei/",
+    "pass": 1
+   },
+   {
+    "quote": "もしBtoB集客でお悩みの決裁者の方がいらっしゃいましたら、",
+    "url": "https://onlystory.co.jp/service/case/suisei/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB営業における「集客の課題」と真剣に向き合ってきました",
+    "url": "https://onlystory.co.jp/service/case/excite/",
+    "pass": 1
+   },
+   {
+    "quote": "もしBtoB集客でお悩みの決裁者の方がいらっしゃいましたら、",
+    "url": "https://onlystory.co.jp/service/case/excite/",
+    "pass": 1
+   },
+   {
+    "quote": "金融機関（地方銀行）／1,000名規模の大手企業",
+    "url": "https://onlystory.co.jp/service/wp-content/uploads/2024/02/kaden-service.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「チラCEO」が企業向け(BtoB)部門 シルバー賞に入賞",
+    "url": "https://best100.v-tsushin.jp/company/onlystory/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB企業の、リード獲得課題を解決する、EBM支援SaaS",
+    "url": "https://best100.v-tsushin.jp/company/onlystory/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：中小企業支援プラットフォームの運営",
+    "url": "https://www.independents.jp/article/1414",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャー企業や中小企業のための新たな資金調達手段が誕生！",
+    "url": "https://www.independents.jp/article/1414",
+    "pass": 3
+   },
+   {
+    "quote": "「チラCEO」が提供する複数の機能と価値によって、ターゲットとなるアカウント(企業)のキーパーソンだけに絞ったマーケティング活動『KBM(Keyperson Based Marketing)モデル』を実現し、BtoB企業の多くが抱える「決裁者に会えない」という経営課題／営業課題の解決に貢献します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000324.000015335.html",
+    "pass": 3
+   },
+   {
+    "quote": "『日本サブスクリプションビジネス大賞2021』企業向け（BtoB）部門 シルバー賞",
+    "url": "https://prtimes.jp/main/html/rd/p/000000324.000015335.html",
+    "pass": 3
+   },
+   {
+    "quote": "『BtoBで何か買うならオンリーストーリーに』と覚えて頂けると嬉しいです",
+    "url": "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "pass": 3
+   },
+   {
+    "quote": "セールスムーズは、弊社、並びに提携先企業様と連携しながら、お客様ごとのBtoB集客課題に対して、オーダーメイドプランで対応するサービスです",
+    "url": "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "pass": 3
+   },
+   {
+    "quote": "1,BtoBマーケ施策を、「つまみ食い」できる​",
+    "url": "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "pass": 3
+   },
+   {
+    "quote": "​CSや経営者つながりが多く、BtoB sales支援をしてきた弊社だからできるのかなと",
+    "url": "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "pass": 3
+   },
+   {
+    "quote": "１.近い領域で、BtoBでセールス支援をしている会社様",
+    "url": "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "pass": 3
+   },
+   {
+    "quote": "→BtoBセールス、決裁者マッチングには大きな可能性があると思っていて",
+    "url": "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "pass": 3
+   },
+   {
+    "quote": "＊ちなみにこのタイミングで、チラCEO会員向けに、色々なBtoBマーケ施策を、約半額の会員価格で利用できるような会員権価値の増加をしました",
+    "url": "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "従業員規模101〜300人の企業が【製造業】新しい切り口やユニークな手法を持つ採用サービスの提案募集...",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "\"BtoB営業の総合商社\"として、多数マーケティング施策を保有",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB営業の総合商社として、顧客が狙いたいアポ先の規模と、アポ単価ニーズに応じた、事業ポートフォリオを構築",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "月額の目安は、士業で1万〜5万円、営業顧問で10万〜50万円程度です",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "士業は法務・税務、経営顧問は意思決定、営業顧問は紹介、技術顧問は開発の助言が中心です",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "士業は月1万〜5万円、営業顧問は月10万〜50万円程度が目安です",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "「売上を伸ばしたい」では広く、「製造業の部長に会いたい」なら領域が決まります",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "種類は、士業・経営・営業・技術の領域と、月額・成果報酬・スポットの契約で整理できます",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "領域は、士業、経営、営業、技術などに分かれます",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "A. 月額の目安は、士業で1万〜5万円、営業顧問で10万〜50万円程度です",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "見込み顧客の数が少なく、リード獲得に伸び悩んでいた",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、そもそも見込み顧客の母数が少なく、リードの「量」に課題を感じていました",
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "pass": 1
+   },
+   {
+    "quote": "回答者の60%が、顧客候補となる決裁者との商談を増やしたいと考えていたとしています",
+    "url": "https://onlystory.co.jp/service/column/enterprise-executive-access/",
+    "pass": 1
+   },
+   {
+    "quote": "原材料、物流、人件費のどれが上がったのかを一つ挙げます",
+    "url": "https://onlystory.co.jp/service/column/price-revision-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "原材料、物流、人件費のどれが上がったのかを示し、三行以内にまとめてください",
+    "url": "https://onlystory.co.jp/service/column/price-revision-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "AIとデータを軸に、営業およびHR領域の独自データベースを提供するSaaSプラットフォーム事業、顧客の要望に応じたAI開発事業、人材紹介事業を展開",
+    "url": "https://onlystory.co.jp/service/case/https-xaiondata-co-jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを新たに5社開拓し、顧客課題を解決できる体制が整った",
+    "url": "https://onlystory.co.jp/service/case/pharm-consulting-co-jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・自社単独で対応できない顧客課題を乗り越え、専門領域を任せられるパートナー開拓へ",
+    "url": "https://onlystory.co.jp/service/case/pharm-consulting-co-jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は法人化して3期目ですが、1期目の終盤から金融機関やお客様からの紹介を中心に営業体制を整え、見込み客の獲得は順調に進んでおります",
+    "url": "https://onlystory.co.jp/service/case/pharm-consulting-co-jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高額商材（250万〜600万円）でありながら、顧客の信頼獲得に注力し、継続的にクライアントを確保している",
+    "url": "https://onlystory.co.jp/service/case/jmcenter/",
+    "pass": 1
+   },
+   {
+    "quote": "・平野が出版クライアントになったことで、紹介者としての説得力が飛躍的に向上",
+    "url": "https://onlystory.co.jp/service/case/jmcenter/",
+    "pass": 1
+   },
+   {
+    "quote": "平野さんご自身が当社のサービスを受けるクライアントの立場となられたことで、当社の企画力、取材力、編集力を肌で感じていただくことができました",
+    "url": "https://onlystory.co.jp/service/case/jmcenter/",
+    "pass": 1
+   },
+   {
+    "quote": "双方の理想的な結果を最初に共有することで、毎回のミーティングを建設的かつ実りあるものにするよう心がけています",
+    "url": "https://onlystory.co.jp/service/case/comix/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例制作サービス「事例のプロ」および、採用広報向け記事制作「採用広報のプロ」を展開",
+    "url": "https://onlystory.co.jp/service/case/suisei/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の成功体験や企業の魅力をコンテンツ化し、営業や採用、マーケティング活動における信頼構築を支援している",
+    "url": "https://onlystory.co.jp/service/case/suisei/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客獲得だけでなく、自社の繋がりでは出会えなかったパートナー企業とのネットワークも拡大した",
+    "url": "https://onlystory.co.jp/service/case/suisei/",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS・IT企業向けに、ウェビナーの企画から実行までを支援するSaaSプロダクト「FanGrowth」を提供",
+    "url": "https://onlystory.co.jp/service/case/excite/",
+    "pass": 1
+   },
+   {
+    "quote": "初年度で5件の受注を獲得し、LTVの高い優良顧客との関係を構築できた",
+    "url": "https://onlystory.co.jp/service/case/excite/",
+    "pass": 1
+   },
+   {
+    "quote": "・費用対効果1200%！LTVの高い優良顧客との関係構築にも貢献",
+    "url": "https://onlystory.co.jp/service/case/excite/",
+    "pass": 1
+   },
+   {
+    "quote": "事業が拡大するにつれて、既存のマーケティング施策だけではリーチできない、いわゆる「手の届かない顧客層」へのアプローチが新たな課題となりました",
+    "url": "https://onlystory.co.jp/service/case/excite/",
+    "pass": 1
+   },
+   {
+    "quote": "エンタープライズ企業を含む新しい顧客層とどのように接点を持つかが焦点になっていました",
+    "url": "https://onlystory.co.jp/service/case/excite/",
+    "pass": 1
+   },
+   {
+    "quote": "「手の届かない顧客層」とは、具体的にどのような企業を指すのでしょうか",
+    "url": "https://onlystory.co.jp/service/case/excite/",
+    "pass": 1
+   },
+   {
+    "quote": "お二人のネットワークに対する信頼もあり、私たちだけでは接点を持てない顧客とのタッチポイントを作れると考え、再契約に至りました",
+    "url": "https://onlystory.co.jp/service/case/excite/",
+    "pass": 1
+   },
+   {
+    "quote": "費用対効果1200%！LTVの高い優良顧客との関係構築にも貢献",
+    "url": "https://onlystory.co.jp/service/case/excite/",
+    "pass": 1
+   },
+   {
+    "quote": "また、その際にご契約いただいた5社とは現在も継続的にお取引が続いており、LTV（顧客生涯価値）の観点から見ても非常に価値ある出会いになりました",
+    "url": "https://onlystory.co.jp/service/case/excite/",
+    "pass": 1
+   },
+   {
+    "quote": "予想以上に質の高いご紹介を数多くいただいており、条件に合致した顧客とのマッチングが安定的に提供されています",
+    "url": "https://onlystory.co.jp/service/case/excite/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例 - 決裁者同士が繋がる審査制プラットフォーム｜ONLYSTORY（オンリーストーリー）",
+    "url": "https://onlystory.co.jp/service/case/",
+    "pass": 1
+   },
+   {
+    "quote": "圧倒的な顧客理解が生み出す、事業提携レベルの出会い",
+    "url": "https://onlystory.co.jp/service/case/",
+    "pass": 1
+   },
+   {
+    "quote": "楽天投信投資顧問は“顧客に直接販売しない”高難度のマーケティングを、どのように進めたのか？",
+    "url": "https://onlystory.co.jp/service/case/",
+    "pass": 1
+   },
+   {
+    "quote": "リード獲得 …アポイントだけでなく、顧客情報も架電時にヒアリング",
+    "url": "https://onlystory.co.jp/service/wp-content/uploads/2024/02/kaden-service.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（例 担当者名、顧客の課題、現在利用している商材etc）",
+    "url": "https://onlystory.co.jp/service/wp-content/uploads/2024/02/kaden-service.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "A社 業種 メディア/店舗運営 ターゲット企業 小売/流通/商社/メーカー/製造系",
+    "url": "https://onlystory.co.jp/service/wp-content/uploads/2024/02/kaden-service.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "小売業など店舗展開している／企業のマーケティング責任者",
+    "url": "https://onlystory.co.jp/service/wp-content/uploads/2024/02/kaden-service.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従業員数1,000名以上のIT・教育企業／保育園",
+    "url": "https://onlystory.co.jp/service/wp-content/uploads/2024/02/kaden-service.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融機関（地方銀行）／1,000名規模の大手企業",
+    "url": "https://onlystory.co.jp/service/wp-content/uploads/2024/02/kaden-service.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "まず、この一年間は、最も顧客事例取材をした一年間でした",
+    "url": "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のニーズをベースとして考え、",
+    "url": "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "pass": 3
+   },
+   {
+    "quote": "仲間集めをもとにした顧客価値創造＝元気玉づくりを進めていきます",
+    "url": "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "pass": 3
+   },
+   {
+    "quote": "そういった中で、お客様の声を直接聞き、開発につなげたい想いもあり、",
+    "url": "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスマッチングサービスは、企業の課題やニーズに応じて最適な取引先や協業先、顧客候補を紹介・マッチングするサービスです",
+    "url": "https://it-trend.jp/business-matching-service/24472",
+    "pass": 3
+   },
+   {
+    "quote": "主に営業部門や経営企画部門、新規事業部門、調達・購買部門で活用され、新規顧客の開拓やパートナー企業との協業促進、事業成長の加速に貢献します",
+    "url": "https://it-trend.jp/business-matching-service/24472",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "大手企業や上場企業向けに、1社数分×複数社がプレゼンをする会です",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "満足度9割超で、釣り好き経営者、上場準備中経営者会など、テーマを決めた会を開催しています",
+    "url": "https://onlystory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティング会社は、助言中心の顧問契約で、中小・ベンチャー月5万円、上場・中堅月10万円",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "累計26億円の資金調達を実施し、「ベストベンチャー100」にも選出されている",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "一部上場企業の役員との商談も獲得しています",
+    "url": "https://onlystory.co.jp/service/column/enterprise-executive-access/",
+    "pass": 1
+   },
+   {
+    "quote": "累計26億円の資金調達を実施し、「ベストベンチャー100」にも選出されている",
+    "url": "https://onlystory.co.jp/service/column/enterprise-executive-access/",
+    "pass": 1
+   },
+   {
+    "quote": "累計26億円の資金調達を実施し、「ベストベンチャー100」にも選出されている",
+    "url": "https://onlystory.co.jp/service/column/price-revision-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "既存事業をさらに伸ばしたい／新規事業を開発したい／出資・M&A先を見つけたい／次期幹部・責任者を育成したい",
+    "url": "https://onlystory.co.jp/service/case/",
+    "pass": 1
+   },
+   {
+    "quote": "他サービスでは難しかった企業と繋がれることが魅力 規模のある企業や上場企業の決裁者・役員クラスの方とも！",
+    "url": "https://onlystory.co.jp/service/case/",
+    "pass": 1
+   },
+   {
+    "quote": "資金調達後の営業活動、サービス導入検討双方の効率化を実現",
+    "url": "https://onlystory.co.jp/service/case/",
+    "pass": 1
+   },
+   {
+    "quote": "決裁者との商談が年間で200件以上増加した新施策！一部上場企業役員の商談も獲得できたKBMとは？",
+    "url": "https://onlystory.co.jp/service/case/",
+    "pass": 1
+   },
+   {
+    "quote": "設立2年目のスタートアップ企業が、上場企業と資本・業務提携に発展！出会いのストーリーを聞いてきました",
+    "url": "https://onlystory.co.jp/service/case/",
+    "pass": 1
+   },
+   {
+    "quote": "東証マザーズ上場 マーケティングツール販売 A社",
+    "url": "https://onlystory.co.jp/service/wp-content/uploads/2024/02/kaden-service.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3度目の資金調達を実施",
+    "url": "https://best100.v-tsushin.jp/company/onlystory/",
+    "pass": 3
+   },
+   {
+    "quote": "■総額約26億円の資金調達",
+    "url": "https://best100.v-tsushin.jp/company/onlystory/",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャー企業や中小企業のための新たな資金調達手段が誕生！",
+    "url": "https://www.independents.jp/article/1414",
+    "pass": 3
+   },
+   {
+    "quote": "＊累計約26億円の資金調達を実現した当社の創業社長直下で業務に取り組んでいただきます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000324.000015335.html",
+    "pass": 3
+   },
+   {
+    "quote": "オンリーストーリー、第三者割当増資を実施 融資を合わせて総額約9.55億円を調達",
+    "url": "https://initial.inc/companies/A-16068",
+    "pass": 3
+   },
+   {
+    "quote": "オンリーストーリー、第三者割当増資を実施 総額約13億円を調達",
+    "url": "https://initial.inc/companies/A-16068",
+    "pass": 3
+   },
+   {
+    "quote": "オンリーストーリー、第三者割当増資を実施 デットファイナンスを合わせ、総額約3億4500万円を調達",
+    "url": "https://initial.inc/companies/A-16068",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達結果と、今後の方針と ※裏話noteリンクあり｜平野哲也：オンリーストーリー代表",
+    "url": "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達結果と、今後の方針と ※裏話noteリンクあり",
+    "url": "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "pass": 3
+   },
+   {
+    "quote": "この度、弊社オンリーストーリーは、総額約9.55億円の資金調達をしました",
+    "url": "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "pass": 3
+   },
+   {
+    "quote": "そして何より本当につよいい株主の方々に入って頂けて、すごく良かったです",
+    "url": "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、僕たちも今回の資金調達を機に、",
+    "url": "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "累計26億円の資金調達を実施し、「ベストベンチャー100」にも選出されている",
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 ベストベンチャー100選出",
+    "url": "https://onlystory.co.jp/pages/company_new",
+    "pass": 1
+   },
+   {
+    "quote": "25位に選出",
+    "url": "https://onlystory.co.jp/pages/company_new",
+    "pass": 1
+   },
+   {
+    "quote": "累計26億円の資金調達を実施し、「ベストベンチャー100」にも選出されている",
+    "url": "https://onlystory.co.jp/service/column/enterprise-executive-access/",
+    "pass": 1
+   },
+   {
+    "quote": "累計26億円の資金調達を実施し、「ベストベンチャー100」にも選出されている",
+    "url": "https://onlystory.co.jp/service/column/price-revision-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社オンリーストーリー 平野 哲也 | ベストベンチャー100",
+    "url": "https://best100.v-tsushin.jp/company/onlystory/",
+    "pass": 3
+   },
+   {
+    "quote": "■すごいベンチャー100選出 (東洋経済)",
+    "url": "https://best100.v-tsushin.jp/company/onlystory/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年働きがいのある会社ランキング5位に選出などの実績がある",
+    "url": "https://prtimes.jp/main/html/rd/p/000000324.000015335.html",
+    "pass": 3
+   },
+   {
+    "quote": "東洋経済『すごいベンチャー100』選出",
+    "url": "https://prtimes.jp/main/html/rd/p/000000324.000015335.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 ～ オンリーストーリー ～ — 会社概要 ～ オンリーストーリー ～ ONLYSTORY https://onlystory.co.jp > pages > company_new",
+    "url": "https://onlystory.co.jp/pages/company_new",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社オンリーストーリー 平野 哲也 - ベストベンチャー100 — 株式 会社オンリーストーリー 平野 哲也 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > onlystory",
+    "url": "https://best100.v-tsushin.jp/company/onlystory/",
+    "pass": 3
+   },
+   {
+    "quote": "| （株） オンリーストーリー 平野 哲也 | The INDEPENDENTS — | （株） オンリーストーリー 平野 哲也 | The INDEPENDENTS インデペンデンツクラブ https://www.independents.jp > article",
+    "url": "https://www.independents.jp/article/1414",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 | 株式 会社オンリーストーリー — 採用情報 | 株式 会社オンリーストーリー ジョブカン採用管理 https://recruit.jobcan.jp > only-story",
+    "url": "https://recruit.jobcan.jp/only-story",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社オンリーストーリー の資金調達・出資した投資家（2 ... — 株式 会社オンリーストーリー の資金調達・出資した投資家（2 ... finance.protocol.ooo https://finance.protocol.ooo > ... > 投資家・調達先図鑑",
+    "url": "https://finance.protocol.ooo/equity/company/c-709eeba8/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要～ オンリーストーリー ～ — 会社概要～ オンリーストーリー ～ ONLYSTORY https://onlystory.co.jp > pages > company_new",
+    "url": "https://onlystory.co.jp/pages/company_new",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 オンリーストーリー 平野 哲也 - ベストベンチャー100 — 株式会社 オンリーストーリー 平野 哲也 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > onlystory",
+    "url": "https://best100.v-tsushin.jp/company/onlystory/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 オンリーストーリー — 株式会社 オンリーストーリー スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-16068",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 オンリーストーリー の情報 - 官報決算データベース — 株式会社 オンリーストーリー の情報 - 官報決算データベース 官報決算データベース https://catr.jp > companies",
+    "url": "https://catr.jp/companies/9e61b/148426",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達 実施のお知らせ - 決裁者同士が繋がる審査制 ... — 資金調達 実施のお知らせ - 決裁者同士が繋がる審査制 ... ONLYSTORY https://onlystory.co.jp > Home > 最新情報 > ニュース",
+    "url": "https://onlystory.co.jp/service/information/2022-08-10-1/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 オンリーストーリー — 株式 会社 オンリーストーリー スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-16068",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 オンリーストーリー 平野 哲也 - ベストベンチャー100 — 株式 会社 オンリーストーリー 平野 哲也 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > onlystory",
+    "url": "https://best100.v-tsushin.jp/company/onlystory/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 - 決裁者同士が繋がる審査制プラットフォーム — 導入事例 - 決裁者同士が繋がる審査制プラットフォーム ONLYSTORY https://onlystory.co.jp > service > case",
+    "url": "https://onlystory.co.jp/service/case/",
+    "pass": 3
+   },
+   {
+    "quote": "ご成約 事例 - 決裁者同士が繋がる審査制プラットフォーム — ご成約 事例 - 決裁者同士が繋がる審査制プラットフォーム ONLYSTORY https://onlystory.co.jp > service > case_c > case-matching",
+    "url": "https://onlystory.co.jp/service/case_c/case-matching/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 オンリーストーリー の会社情報 - Wantedly — 株式会社 オンリーストーリー の会社情報 - Wantedly Wantedly https://www.wantedly.com > companies > onlystory",
+    "url": "https://www.wantedly.com/companies/onlystory",
+    "pass": 3
+   },
+   {
+    "quote": "ONLY STORY （ オンリーストーリー ） -決裁者専用のビジネス ... — ONLY STORY （ オンリーストーリー ） -決裁者専用のビジネス ... YouTube https://www.youtube.com > channel > UCdBJOrsuaMovL...",
+    "url": "https://www.youtube.com/channel/UCdBJOrsuaMovLYnOecuKulA",
+    "pass": 3
+   },
+   {
+    "quote": "オンリーストーリー — オンリーストーリー ONLYSTORY https://onlystory.co.jp",
+    "url": "https://onlystory.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ONLY STORY とは？価格や機能・使い方を解説 - ITトレンド — ONLY STORY とは？価格や機能・使い方を解説 - ITトレンド ITトレンド https://it-trend.jp > business-matching-service",
+    "url": "https://it-trend.jp/business-matching-service/24472",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "平野哲也： オンリーストーリー 代表 - note 平野哲也： オンリーストーリー 代表 - note note https://note.com > onlystory_hirano",
+    "url": "https://note.com/onlystory_hirano",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "平野哲也：オンリーストーリー代表｜note",
+    "url": "https://note.com/onlystory_hirano",
+    "pass": 3
+   },
+   {
+    "quote": "起業して5年経った今だから話せる、僕がビジネス“モデル”と、ビジネス“アイデア”の違いでしくじったお話【初note】",
+    "url": "https://note.com/onlystory_hirano",
+    "pass": 3
+   },
+   {
+    "quote": "「検討します」の9割は、提案の中身の問題じゃないと思っている",
+    "url": "https://note.com/onlystory_hirano",
+    "pass": 3
+   },
+   {
+    "quote": "僕自身も営業を受ける決裁者なので、正直に書きます。どんな連絡なら会って、どんな連絡は開かないか",
+    "url": "https://note.com/onlystory_hirano",
+    "pass": 3
+   },
+   {
+    "quote": "年間何百人と経営者をつないできた僕が「紹介したくなる人」と「しづらい人」",
+    "url": "https://note.com/onlystory_hirano",
+    "pass": 3
+   },
+   {
+    "quote": "年末の交流会で3アポ持ち帰る方法。アポ数は「話しかけ数 × 対象者率 × 承諾率」で決まる",
+    "url": "https://note.com/onlystory_hirano",
+    "pass": 3
+   },
+   {
+    "quote": "11/18、200人規模の「大感謝祭」をやります。結局アナログが強いよなーと思うお話。",
+    "url": "https://note.com/onlystory_hirano",
+    "pass": 3
+   },
+   {
+    "quote": "12年経営やってきて、いちばん後回しにしてきたのは自分の健康だった",
+    "url": "https://note.com/onlystory_hirano",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "平野哲也/ オンリーストーリー 代表/しくじり社長/決裁者 ... - X 平野哲也/ オンリーストーリー 代表/しくじり社長/決裁者 ... - X X https://x.com > ONLY_STORY_",
+    "url": "https://x.com/ONLY_STORY_",
+    "pass": 3
+   },
+   {
+    "quote": "川角健太｜経営者を繋ぐ人｜（株） オンリーストーリー COO - X 川角健太｜経営者を繋ぐ人｜（株） オンリーストーリー COO - X X https://x.com > kawasumiracle",
+    "url": "https://x.com/kawasumiracle",
+    "pass": 3
+   },
+   {
+    "quote": "平野哲也/ オンリーストーリー 代表/しくじり社長/決裁者 ... - X 平野哲也/ オンリーストーリー 代表/しくじり社長/決裁者 ... - X X https://x.com > @ONLY_STORY_",
+    "url": "https://x.com/ONLY_STORY_/status/2113567613112688855",
+    "pass": 3
+   },
+   {
+    "quote": "平野哲也/ オンリーストーリー 代表/しくじり 社長 /決裁者 ... - X 平野哲也/ オンリーストーリー 代表/しくじり 社長 /決裁者 ... - X X https://x.com > ONLY_STORY_",
+    "url": "https://x.com/ONLY_STORY_",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 オンリーストーリー - LinkedIn 株式会社 オンリーストーリー - LinkedIn LinkedIn https://www.linkedin.com > company > onlystory0214",
+    "url": "https://www.linkedin.com/company/onlystory0214",
+    "pass": 3
+   },
+   {
+    "quote": "SHOHEI OGAWA - 株式会社 オンリーストーリー - LinkedIn SHOHEI OGAWA - 株式会社 オンリーストーリー - LinkedIn LinkedIn Australia https://au.linkedin.com > ...",
+    "url": "https://au.linkedin.com/in/shohei-ogawa-1536542aa",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤 拓 - 株式会社 オンリーストーリー - 新規事業開発室 伊藤 拓 - 株式会社 オンリーストーリー - 新規事業開発室 LinkedIn https://jp.linkedin.com > 拓-伊藤-b85b86230",
+    "url": "https://jp.linkedin.com/in/%E6%8B%93-%E4%BC%8A%E8%97%A4-b85b86230",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ONLY STORY | Shibuya-ku Tokyo - Facebook ONLY STORY | Shibuya-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > ブランド > 商品・サービス",
+    "url": "https://www.facebook.com/chushokigyo/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "4章目です＾＾ オンリーストーリー って、 出会ったタイミング ... 4章目です＾＾ オンリーストーリー って、 出会ったタイミング ... Facebook https://www.facebook.com > kenta.kawasumi > posts > 8...",
+    "url": "https://www.facebook.com/kenta.kawasumi/posts/8%E6%97%A5%E9%96%93%E3%81%A7%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BCcoo%E3%81%A8%E3%81%97%E3%81%A6%E9%81%8E%E3%81%94%E3%81%97%E3%81%9F11%E5%B9%B4%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8Bnote4%E7%AB%A0%E7%9B%AE%E3%81%A7%E3%81%99-%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%A3%E3%81%A6%E5%87%BA%E4%BC%9A%E3%81%A3%E3%81%9F%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E9%A1%94%E3%81%8C%E3%81%8B%E3%81%AA%E3%82%8A%E9%81%95%E3%81%86/26784462887889646/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 オンリーストーリー 第一回 入社式が執り行われ 株式会社 オンリーストーリー 第一回 入社式が執り行われ Facebook https://www.facebook.com > chushokigyo > posts > 第１...",
+    "url": "https://www.facebook.com/chushokigyo/posts/%E7%AC%AC%EF%BC%91%E5%9B%9E-%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E5%85%A5%E7%A4%BE%E5%BC%8F-%E6%98%A8%E6%97%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC-%E7%AC%AC%E4%B8%80%E5%9B%9E-%E5%85%A5%E7%A4%BE%E5%BC%8F%E3%81%8C%E5%9F%B7%E3%82%8A%E8%A1%8C%E3%82%8F%E3%82%8C%EF%BC%93%E5%90%8D%E3%81%AEmvp%E3%82%92%E3%81%A8%E3%81%A3%E3%81%9F%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E7%94%9F-%E5%B0%8F%E5%B1%B1-%E7%BF%94%E5%A4%AA%E9%83%8E-shotaro-ko/1637534549657577/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://onlystory.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/column/advisor-service-types/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/case/mark-n/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/pages/company_new",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/column/enterprise-executive-access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/column/price-revision-notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/case/https-xaiondata-co-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/case/pharm-consulting-co-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/case/fd-x-co-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/case/jmcenter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/case/comix/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/case/suisei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/case/excite/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/case/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://onlystory.co.jp/service/wp-content/uploads/2024/02/kaden-service.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://best100.v-tsushin.jp/company/onlystory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.independents.jp/article/1414",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://best100.v-tsushin.jp/company/onlystory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000324.000015335.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-16068",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-16068",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-16068",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/business-matching-service/24472",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/onlystory_hirano",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ONLY_STORY_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kawasumiracle",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ONLY_STORY_/status/2113567613112688855",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/onlystory0214",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/shohei-ogawa-1536542aa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E6%8B%93-%E4%BC%8A%E8%97%A4-b85b86230",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/chushokigyo/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kenta.kawasumi/posts/8%E6%97%A5%E9%96%93%E3%81%A7%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BCcoo%E3%81%A8%E3%81%97%E3%81%A6%E9%81%8E%E3%81%94%E3%81%97%E3%81%9F11%E5%B9%B4%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8Bnote4%E7%AB%A0%E7%9B%AE%E3%81%A7%E3%81%99-%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%A3%E3%81%A6%E5%87%BA%E4%BC%9A%E3%81%A3%E3%81%9F%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E9%A1%94%E3%81%8C%E3%81%8B%E3%81%AA%E3%82%8A%E9%81%95%E3%81%86/26784462887889646/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/chushokigyo/posts/%E7%AC%AC%EF%BC%91%E5%9B%9E-%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E5%85%A5%E7%A4%BE%E5%BC%8F-%E6%98%A8%E6%97%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC-%E7%AC%AC%E4%B8%80%E5%9B%9E-%E5%85%A5%E7%A4%BE%E5%BC%8F%E3%81%8C%E5%9F%B7%E3%82%8A%E8%A1%8C%E3%82%8F%E3%82%8C%EF%BC%93%E5%90%8D%E3%81%AEmvp%E3%82%92%E3%81%A8%E3%81%A3%E3%81%9F%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E7%94%9F-%E5%B0%8F%E5%B1%B1-%E7%BF%94%E5%A4%AA%E9%83%8E-shotaro-ko/1637534549657577/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/onlystory_hirano",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ONLY_STORY_",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "オンリーストーリー 会社概要 資本金 設立",
+   "results": [
+    "https://onlystory.co.jp/pages/company_new",
+    "https://best100.v-tsushin.jp/company/onlystory/",
+    "https://www.independents.jp/article/1414",
+    "https://recruit.jobcan.jp/only-story",
+    "https://finance.protocol.ooo/equity/company/c-709eeba8/",
+    "https://type.jp/job-company/38669/",
+    "https://www.wantedly.com/companies/onlystory",
+    "https://initial.inc/companies/A-16068",
+    "https://prtimes.jp/main/html/rd/p/000000397.000015335.html",
+    "https://compalyze.co.jp/company/8020001104550"
+   ]
+  },
+  {
+   "query": "オンリーストーリー 事業内容 売上",
+   "results": [
+    "https://onlystory.co.jp/pages/company_new",
+    "https://best100.v-tsushin.jp/company/onlystory/",
+    "https://prtimes.jp/main/html/rd/p/000000324.000015335.html",
+    "https://initial.inc/companies/A-16068",
+    "https://catr.jp/companies/9e61b/148426",
+    "https://career.shachomeshi.com/company/BLg5VD5Jxd",
+    "https://compalyze.co.jp/journal/onlystory-fy2026-blackturn",
+    "https://onlystory.co.jp/service/seminar_event/%E5%A3%B2%E4%B8%8A3%E5%84%84%E4%BB%A5%E4%B8%8Aor%E5%BE%93%E6%A5%AD%E5%93%A1%E6%95%B030%E5%90%8D%E4%BB%A5%E4%B8%8A%E4%BC%81%E6%A5%AD%E9%99%90%E5%AE%9A%EF%BC%88%E5%85%B1%E5%82%AC%EF%BC%9A%E3%82%B8/",
+    "https://cheercareer.jp/companies/3619/detail",
+    "https://kaijiwire.jp/companies/8020001104550"
+   ]
+  },
+  {
+   "query": "オンリーストーリー 資金調達 株主",
+   "results": [
+    "https://onlystory.co.jp/service/information/2022-08-10-1/",
+    "https://initial.inc/companies/A-16068",
+    "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "https://best100.v-tsushin.jp/company/onlystory/",
+    "https://fundoor.com/newsletters/21",
+    "https://www.firstcvc.jp/company/onlystory.co.jp",
+    "https://prtimes.jp/main/html/rd/p/000000226.000015335.html",
+    "https://x.com/ONLY_STORY_/status/2115760647749488678",
+    "https://no-maps.jp/program/onlystory/",
+    "https://sfs-inc.jp/ma/12558/"
+   ]
+  },
+  {
+   "query": "オンリーストーリー 導入事例",
+   "results": [
+    "https://onlystory.co.jp/service/case/",
+    "https://onlystory.co.jp/service/case_c/case-matching/",
+    "https://initial.inc/companies/A-16068",
+    "https://www.wantedly.com/companies/onlystory",
+    "https://www.youtube.com/channel/UCdBJOrsuaMovLYnOecuKulA",
+    "https://apps.apple.com/jp/app/onlystory-%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9-%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0/id1544702467",
+    "https://jireinopro.sui-sei.tokyo/posts/onlystory",
+    "https://best100.v-tsushin.jp/company/onlystory/",
+    "https://ashimoto.co.jp/works/only-story/",
+    "https://it-trend.jp/business-matching-service/24472/case"
+   ]
+  },
+  {
+   "query": "オンリーストーリー 主要取引先",
+   "results": [
+    "https://onlystory.co.jp/",
+    "https://initial.inc/companies/A-16068",
+    "https://it-trend.jp/business-matching-service/24472",
+    "https://best100.v-tsushin.jp/company/onlystory/",
+    "https://www.wantedly.com/companies/onlystory",
+    "https://recruit.jobcan.jp/only-story",
+    "https://www.youtube.com/channel/UCdBJOrsuaMovLYnOecuKulA",
+    "https://apps.apple.com/jp/app/onlystory-%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9-%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0/id1544702467",
+    "https://moovy.jp/media/company/45",
+    "https://test1.onlystory.co.jp/"
+   ]
+  },
+  {
+   "query": "site:note.com オンリーストーリー",
+   "results": [
+    "https://note.com/onlystory_hirano",
+    "https://note.com/smith_kenta_os/n/n80dcb810cb92",
+    "https://note.com/onlystory_hirano/n/nfcaf0442eb75",
+    "https://note.com/onlystory_hirano/n/n67c728160559",
+    "https://note.com/onlystory_hirano/n/nf7dde13365a0",
+    "https://note.com/onlystory_hirano/n/n2c6e03efb130",
+    "https://note.com/onlystory_hirano/n/nbb162da54bb0",
+    "https://note.com/onlystory_hirano/n/n6ea38d09436a",
+    "https://note.com/onlystory_hirano/n/n9cf91aac3a1e",
+    "https://note.com/onlystory_hirano/n/n21c1cd432fc2"
+   ]
+  },
+  {
+   "query": "site:x.com オンリーストーリー",
+   "results": [
+    "https://x.com/ONLY_STORY_",
+    "https://x.com/ONLY_STORY_/status/2117022998540812780",
+    "https://x.com/kawasumiracle",
+    "https://x.com/ONLY_STORY_/status/2113567613112688855",
+    "https://x.com/ONLY_STORY_/status/2117944513323053206",
+    "https://x.com/ONLY_STORY_/status/2118129422146605460",
+    "https://x.com/ONLY_STORY_/status/2116117436072386871",
+    "https://x.com/ONLY_STORY_/status/2117162280299401259",
+    "https://x.com/ONLY_STORY_/status/2117919819081339004",
+    "https://x.com/ONLY_STORY_/status/2113780767927218465"
+   ]
+  },
+  {
+   "query": "site:linkedin.com オンリーストーリー",
+   "results": [
+    "https://www.linkedin.com/company/onlystory0214",
+    "https://au.linkedin.com/in/shohei-ogawa-1536542aa",
+    "https://jp.linkedin.com/in/%E6%8B%93-%E4%BC%8A%E8%97%A4-b85b86230",
+    "https://jp.linkedin.com/in/%E8%80%95%E7%94%AB-%E9%B7%B9%E5%90%88-1a146323b",
+    "https://jp.linkedin.com/in/%E5%A4%A7%E8%BC%9D-%E6%9D%BE%E6%9C%AC-406b85360",
+    "https://jp.linkedin.com/in/%E3%82%BF%E3%82%AB%E3%83%92%E3%83%AD-%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD-190472119",
+    "https://jp.linkedin.com/in/%E5%81%A5%E5%A4%AA-%E9%88%B4%E6%9C%A8-459671205",
+    "https://jp.linkedin.com/in/%E5%86%B4-%E7%AC%A0%E5%8E%9F-bb5a701ab",
+    "https://jp.linkedin.com/in/%E6%99%83%E5%BC%98-%E5%B1%B1%E6%9C%AC-152106178",
+    "https://jp.linkedin.com/company/onlystory"
+   ]
+  },
+  {
+   "query": "site:facebook.com オンリーストーリー",
+   "results": [
+    "https://www.facebook.com/chushokigyo/?locale=ja_JP",
+    "https://www.facebook.com/kenta.kawasumi/posts/8%E6%97%A5%E9%96%93%E3%81%A7%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BCcoo%E3%81%A8%E3%81%97%E3%81%A6%E9%81%8E%E3%81%94%E3%81%97%E3%81%9F11%E5%B9%B4%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8Bnote4%E7%AB%A0%E7%9B%AE%E3%81%A7%E3%81%99-%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%A3%E3%81%A6%E5%87%BA%E4%BC%9A%E3%81%A3%E3%81%9F%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E9%A1%94%E3%81%8C%E3%81%8B%E3%81%AA%E3%82%8A%E9%81%95%E3%81%86/26784462887889646/",
+    "https://www.facebook.com/kenta.kawasumi/posts/8%E6%97%A5%E9%96%93%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A3%E7%AB%A0%E7%9B%AE%E3%81%A7%E3%81%99-%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-%E3%81%AA%E3%82%93%E3%81%A7%E6%B1%BA%E8%A3%81%E8%80%85%E5%90%8C%E5%A3%AB%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%A8%E3%81%84%E3%81%91%E3%81%AA%E3%81%84%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B%E3%81%AA%E3%82%93%E3%81%A7%E5%8F%8C%E6%96%B9%E5%90%91%E5%9E%8B%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B%E3%83%8B%E3%83%BC%E3%82%BA%E3%82%A2%E3%83%9D%E3%81%AE%E6%96%B9%E3%81%8C%E3%82%88%E3%81%8F%E3%81%AA%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B-%E3%81%93%E3%82%8C%E3%81%AF%E6%9C%AC/26772768695725732/",
+    "https://www.facebook.com/chushokigyo/posts/%E7%AC%AC%EF%BC%91%E5%9B%9E-%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E5%85%A5%E7%A4%BE%E5%BC%8F-%E6%98%A8%E6%97%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC-%E7%AC%AC%E4%B8%80%E5%9B%9E-%E5%85%A5%E7%A4%BE%E5%BC%8F%E3%81%8C%E5%9F%B7%E3%82%8A%E8%A1%8C%E3%82%8F%E3%82%8C%EF%BC%93%E5%90%8D%E3%81%AEmvp%E3%82%92%E3%81%A8%E3%81%A3%E3%81%9F%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E7%94%9F-%E5%B0%8F%E5%B1%B1-%E7%BF%94%E5%A4%AA%E9%83%8E-shotaro-ko/1637534549657577/",
+    "https://www.facebook.com/groups/startupgoodinfo/posts/3436030843371418/",
+    "https://www.facebook.com/comix.ceo/posts/%E4%BB%8A%E5%AE%B5%E3%81%AF%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AB%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E5%B9%B3%E9%87%8E%E5%8F%82%E8%80%83%E4%B8%BB%E5%82%AC%E3%81%AE%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%AA%E3%83%96%E3%83%AF%E3%83%BC%E3%82%AF%E7%A4%BE%E9%95%B7%E3%81%AE%E6%9D%91%E4%B8%8A%E3%81%95%E3%82%93%E3%82%92%E5%9B%B2%E3%81%86%E7%B5%8C%E5%96%B6%E8%80%85%E4%BC%9A%E3%82%92%E5%8F%82%E5%8A%A0%E3%81%95%E3%81%9B%E3%81%A6%E9%A0%82%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E6%9D%91%E4%B8%8A%E7%A4%BE%E9%95%B7%E3%81%AE%E8%B3%AA%E7%96%91%E5%BF%9C%E7%AD%94%E3%81%AE%E5%9B%9E%E7%AD%94%E3%81%8C%E7%A7%80%E9%80%B8%E3%81%A7%E5%AD%A6%E3%81%B3%E3%81%A8%E6%B0%97%E3%81%A5%E3%81%8D%E3%81%AE/29089024214049820/",
+    "https://www.facebook.com/chushokigyo/posts/%E7%A6%8F%E5%B2%A1%E3%81%AE%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%81%AE%E5%88%A9%E7%94%A8%E4%BA%8B%E4%BE%8B%E3%82%92%E5%85%B1%E6%9C%89%E5%96%B6%E6%A5%AD%E6%94%AF%E6%8F%B4%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%B8%AD%E3%81%A7%E5%94%AF%E4%B8%80%E4%BD%BF%E3%81%84%E7%B6%9A%E3%81%91%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8C%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%EF%BC%93%E5%B9%B4%E4%BB%A5%E4%B8%8A%E4%BD%BF%E3%81%84%E7%B6%9A%E3%81%91%E3%81%A6%E3%83%97%E3%83%A9%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%81%97%E3%81%9F%E7%90%86%E7%94%B1%E3%81%AB%E8%BF%AB%E3%82%8B-topics%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/513001461493460/",
+    "https://www.facebook.com/CodeRepublicJP/posts/chatbook%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BCcr1%E6%9C%9Fchatbook%E3%83%AA%E3%83%BC%E3%83%89%E7%8D%B2%E5%BE%97%E5%8D%98%E4%BE%A117%E3%82%92%E5%89%8A%E6%B8%9B%E3%83%AA%E3%83%BC%E3%83%89%E5%86%85%E3%81%AE%E6%B1%BA%E8%A3%81%E8%80%85%E5%90%AB%E6%9C%89%E7%8E%87%E3%82%92250%E6%94%B9%E5%96%84/1425357687806877/",
+    "https://www.facebook.com/alesia.inc/posts/%E3%81%BF%E3%81%AA%E3%81%95%E3%82%93%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF12%E6%9C%888%E6%97%A5persona%E5%8F%82%E5%8A%A0%E4%BC%81%E6%A5%AD%E6%A7%98%E5%85%AC%E9%96%8B%E7%AC%AC4%E6%AE%B5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E6%A7%98%E6%83%B3%E3%81%84%E3%82%92%E3%82%A2%E3%83%84%E3%81%8F%E8%AA%9E%E3%81%A3%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%9C%E3%81%B2%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E6%AC%A1%E5%9B%9E%E6%9B%B4%E6%96%B0%E3%82%92%E3%81%8A%E6%A5%BD%E3%81%97%E3%81%BF%E3%81%AB/1910434719053524/",
+    "https://www.facebook.com/chushokigyo/"
+   ]
+  },
+  {
+   "query": "オンリーストーリー note 社長",
+   "results": [
+    "https://note.com/onlystory_hirano",
+    "https://open.spotify.com/show/33DsCjo07XrTyPGWFNgPWd",
+    "https://x.com/ONLY_STORY_",
+    "https://note.com/onlystory_hirano/n/n1ff961e1ff69",
+    "https://note.com/onlystory_hirano/n/nfcaf0442eb75",
+    "https://note.com/onlystory_hirano/n/n21c1cd432fc2",
+    "https://note.com/onlystory_hirano/n/nbb162da54bb0",
+    "https://onlystory.co.jp/pages/company_new",
+    "https://keiei-note.wizbiz.jp/39-1/",
+    "https://note.com/onlystory_hirano/n/n1a467b8d0926"
+   ]
+  },
+  {
+   "query": "オンリーストーリー X 投稿",
+   "results": [
+    "https://help.x.com/ja/using-x/instagram-stories-share",
+    "https://note.com/iwamayo/n/nbf9342818a94",
+    "https://www.youtube.com/watch?v=C99mkvpxpiM",
+    "https://embedsocial.jp/blog/twitter-x-copyright/",
+    "https://n2p.co.jp/birdcall/contentslp/",
+    "https://www.koukoku.jp/service/suketto/marketer/sns/x%E6%97%A7twitter%E3%82%B9%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%83%84%E3%83%AA%E3%83%BC%E3%81%A8%E3%81%AF%EF%BC%9F%E6%8A%95%E7%A8%BF%E6%96%B9%E6%B3%95%E3%83%BB%E6%9B%B8%E3%81%8D%E6%96%B9%E3%81%AE/",
+    "https://spc-jpn.co.jp/blog/35186/",
+    "https://www.shuttlerock.co.jp/article/detail/post-6479/",
+    "https://x.com/ONLY_STORY_/with_replies",
+    "https://x.com/ONLY_STORY_/status/2118295013314715985"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部21頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部21頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部21頁・検索11回）"
+ }
+}

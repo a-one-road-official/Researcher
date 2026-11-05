@@ -1,0 +1,869 @@
+{
+ "name": "ジーンステイト",
+ "aliases": [
+  "genestate"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T15:26:23.430869+00:00",
+ "official_url": "https://genestate.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2016年9月",
+    "url": "https://genestate.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2016年9月",
+    "url": "https://tenshoku.mynavi.jp/company/416755/",
+    "pass": 3
+   },
+   {
+    "label": "設立 年月日",
+    "value": "設立 年月日：2016年9月1日",
+    "url": "https://seeker-vision.com/companies/732",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2016年9月1日 / 従業員数：74名 / 本社：東京都新宿区",
+    "url": "https://seeker-vision.com/companies/732",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2016年09月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役 小島 大知",
+    "url": "https://genestate.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役　小島大知",
+    "url": "https://tenshoku.mynavi.jp/company/416755/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 小島 大知",
+    "url": "https://seeker-vision.com/companies/732",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "小島大知",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "pass": 3
+   },
+   {
+    "label": "代表取締役",
+    "value": "小島 大知",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "2300万円",
+    "url": "https://genestate.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "2300万円",
+    "url": "https://tenshoku.mynavi.jp/company/416755/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "23,000,000円",
+    "url": "https://best100.v-tsushin.jp/company/genestate/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "2,300万円",
+    "url": "https://seeker-vision.com/companies/732",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "2300万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "150名（2026年9月現在）",
+    "url": "https://genestate.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "120名（2025年12月現在）",
+    "url": "https://tenshoku.mynavi.jp/company/416755/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "74名 (2024年7月1日時点)",
+    "url": "https://seeker-vision.com/companies/732",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒163-0539 東京都新宿区西新宿1-26-2 新宿野村ビル39階 Google Map",
+    "url": "https://genestate.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "支店所在地",
+    "value": "名古屋支店 〒450-0002 愛知県名古屋市中村区名駅1-1-1 JPタワー名古屋21階 大阪支店 〒532-0003 大阪府大阪市淀川区宮原1-1-1 新大阪阪急ビル3階 福岡支店 〒812-0012 福岡県福岡市博多区博多駅中央街8-1 JRJP博多ビル3階",
+    "url": "https://genestate.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都新宿区西新宿1-26-2 新宿野村ビル39階",
+    "url": "https://tenshoku.mynavi.jp/company/416755/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都新宿区西新宿6-5-1 新宿アイランドタワー5F",
+    "url": "https://best100.v-tsushin.jp/company/genestate/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都新宿区西新宿6-5-1新宿アイランドタワー5階",
+    "url": "https://seeker-vision.com/companies/732",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都新宿区西新宿6-5-1\n新宿アイランドタワー5F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都新宿区西新宿6-5-1 新宿アイランドタワー5F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "IT事業 HR事業",
+    "url": "https://genestate.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "■労働者派遣事業 ■有料職業紹介事業／無料職業紹介事業 ■人材の採用、教育、研修及び育成並びに職業能力の開発に関する事業 ■コンピュータシステム・ソフトウェアの企画、開発、販売、保守、運用及び管理 ■情報処理・情報提供サービス ■通信機器・情報通信機器（周辺機器含む）の販売、賃貸、保守及び輸出入 ■通信販売並びに電子商取引（ECサイト）の企画、開発、運営及び管理 ■コンサルティング事業",
+    "url": "https://tenshoku.mynavi.jp/company/416755/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "・受託開発事業 ・SES事業 ・人材派遣事業 ・プログラミングスクール事業 ・e-sports事業",
+    "url": "https://best100.v-tsushin.jp/company/genestate/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "通信・IT・BPO領域における人材派遣・育成事業",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先（敬称略・ 五十音順）",
+    "value": "株式会社ABI SCSKサービスリンクス株式会社 SBモバイルサービス株式会社 株式会社エディオン 株式会社NTTドコモ NTT東日本株式会社 キヤノン電子テクノロジー株式会社 コネクシオ株式会社 株式会社Sun terras シーキューブ株式会社 株式会社SHIFT 株式会社JTB Sky株式会社 ソフトバンク株式会社 株式会社ティーガイア（T-GAIA） 株式会社ドコモCS 株式会社ヒト・コミュニケーションズ VIPソフトウェア株式会社 株式会社ラネット",
+    "url": "https://genestate.co.jp/company/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "私たちは、ITエンジニアを企業様に派遣する「IT事業」と、企業様の業務多様な業界に人材を派遣する「HR事業」を展開しています",
+    "url": "https://genestate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その軸となる3つの強みをご紹介します",
+    "url": "https://genestate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "今回は【ITエンジニアの1日】をご紹介",
+    "url": "https://genestate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人材派遣事業（許可番号 13-314700）",
+    "url": "https://genestate.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "有料職業紹介事業（許可番号 13 – ユ – 311923）",
+    "url": "https://genestate.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "多様な業界に合わせ、手厚いサポート体制で質の高い人材を迅速にご紹介",
+    "url": "https://genestate.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "こちらでは私たちの事業の軸となる3つの強みや、これまでの実績を具体的な数字を交えてご紹介します",
+    "url": "https://genestate.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "その軸となる3つの強みをご紹介します",
+    "url": "https://genestate.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "HR事業 | 事業内容 | 株式会社ジーンステイト",
+    "url": "https://genestate.co.jp/service/hr/",
+    "pass": 1
+   },
+   {
+    "quote": "企業様の事業内容、現在の状況、課題、求める人材像や業務範囲などを詳しくお伺いします",
+    "url": "https://genestate.co.jp/service/hr/",
+    "pass": 1
+   },
+   {
+    "quote": "契約形態（業務委託・派遣など）は、柔軟に対応いたします",
+    "url": "https://genestate.co.jp/service/hr/",
+    "pass": 1
+   },
+   {
+    "quote": "■コンピュータシステム・ソフトウェアの企画、開発、販売、保守、運用及び管理",
+    "url": "https://tenshoku.mynavi.jp/company/416755/",
+    "pass": 3
+   },
+   {
+    "quote": "■通信機器・情報通信機器（周辺機器含む）の販売、賃貸、保守及び輸出入",
+    "url": "https://tenshoku.mynavi.jp/company/416755/",
+    "pass": 3
+   },
+   {
+    "quote": "■通信販売並びに電子商取引（ECサイト）の企画、開発、運営及び管理",
+    "url": "https://tenshoku.mynavi.jp/company/416755/",
+    "pass": 3
+   },
+   {
+    "quote": "HR事業では、セールスプロモーション・カスタマーサポート・バックオフィスなどの領域で人材派遣やBPOサービスを展開し、企業の業務効率化と成長をサポートしています",
+    "url": "https://best100.v-tsushin.jp/company/genestate/",
+    "pass": 3
+   },
+   {
+    "quote": "使命を果たすため、人材派遣業を通じて、日々変化するお客様のニーズに応えらるよう、同社内の体制強化を図るとともに、今ある商品やサービスにとらわれず、価値あるものをお届けいたします",
+    "url": "https://seeker-vision.com/companies/732",
+    "pass": 3
+   },
+   {
+    "quote": "ITエンジニアのSES・派遣事業（IT事業）",
+    "url": "https://seeker-vision.com/companies/732",
+    "pass": 3
+   },
+   {
+    "quote": "セールス・カスタマーサポート等の人材派遣（HR事業）",
+    "url": "https://seeker-vision.com/companies/732",
+    "pass": 3
+   },
+   {
+    "quote": "未経験者は携帯販売等からのスタートになる場合がある",
+    "url": "https://seeker-vision.com/companies/732",
+    "pass": 3
+   },
+   {
+    "quote": "ITエンジニアを企業に派遣するIT事業（SES）と、セールスプロモーション・カスタマーサポート等の多様な業界に人材を派遣するHR事業の2つを柱としています",
+    "url": "https://seeker-vision.com/companies/732",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、未経験者は研修と並行して携帯販売等の業務に従事する場合もあります",
+    "url": "https://seeker-vision.com/companies/732",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は2022年実績で約5億5,819万円、2023年実績で約7億100万円と成長を続けています",
+    "url": "https://seeker-vision.com/companies/732",
+    "pass": 3
+   },
+   {
+    "quote": "プロeスポーツチーム「SBI e-Sports」と人材派遣会社のジーンステイトが、スポンサー契約を締結",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "pass": 3
+   },
+   {
+    "quote": "プロeスポーツチーム「SBI e-Sports」と人材派遣会社のジーンステイトが、スポンサ�ー契約を締結",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "pass": 3
+   },
+   {
+    "quote": "通信・IT・BPO領域における人材派遣・育成事業を行う株式会社ジーンステイト（本社：東京都新宿区、代表取締役：小島大知 以下、「当社」）は2025年7月1日、SBI デジタルハブ株式会社（本社：大阪府大阪市、代表取締役：小川裕之）が運営するプロeスポーツチーム「SBI e-Sports」に関するスポンサー契約（以下、「本契約」）を締結いたしました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジーンステイトは、通信・IT・BPO領域を中心に人材派遣・育成事業を展開し、実務直結型の教育体制と、現場のニーズに応えるマッチング力を強みに、若手人材のキャリア形成を支援してきました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：通信・IT・BPO領域における人材派遣・育成事業",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "「ベストベンチャー100」2026年版への選出について",
+    "url": "https://genestate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ジーンステイト 小島 大知 | ベストベンチャー100",
+    "url": "https://best100.v-tsushin.jp/company/genestate/",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "IT事業では〈開発・運用保守／インフラ／PMO〉、HR事業は〈顧客対応／営業支援／バックオフィス〉まで対応し、ニーズに沿った最適な人材をアサインし、企業様の事業成長をご支援いたします",
+    "url": "https://genestate.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "社員、求職者のみなさま、そしてクライアント企業様",
+    "url": "https://genestate.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "全社員に対して定期的に情報セキュリティ教育とコンプライアンス研修を実施しております",
+    "url": "https://genestate.co.jp/service/it/",
+    "pass": 1
+   },
+   {
+    "quote": "全社員への定期的な教育も徹底しておりますので、安心してお任せください",
+    "url": "https://genestate.co.jp/service/hr/",
+    "pass": 1
+   },
+   {
+    "quote": "■人材の採用、教育、研修及び育成並びに職業能力の開発に関する事業",
+    "url": "https://tenshoku.mynavi.jp/company/416755/",
+    "pass": 3
+   },
+   {
+    "quote": "◆社会保険完備（雇用・労災・健康・厚生年金）",
+    "url": "https://tenshoku.mynavi.jp/company/416755/",
+    "pass": 3
+   },
+   {
+    "quote": "人の可能性を未来へつなぐ“次世代IT企業”",
+    "url": "https://best100.v-tsushin.jp/company/genestate/",
+    "pass": 3
+   },
+   {
+    "quote": "大学卒業後、大手食品メーカーに就職",
+    "url": "https://best100.v-tsushin.jp/company/genestate/",
+    "pass": 3
+   },
+   {
+    "quote": "大学卒業後、私は食品メーカーで大手スーパーチェーンの営業を担当しました",
+    "url": "https://best100.v-tsushin.jp/company/genestate/",
+    "pass": 3
+   },
+   {
+    "quote": "創業当初は広告・不動産・卸売など幅広い事業に挑戦しましたが、人材事業に関わったときに確信が生まれました",
+    "url": "https://best100.v-tsushin.jp/company/genestate/",
+    "pass": 3
+   },
+   {
+    "quote": "オシャレ手当（美容室・仕事用衣類等に利用可）やマッサージ手当（月4,500円まで）などユニークな制度があります",
+    "url": "https://seeker-vision.com/companies/732",
+    "pass": 3
+   },
+   {
+    "quote": "競技シーンの支援に加え、ITやゲーム業界へのキャリア教育プログラムを共同で提供",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツを単なる娯楽としてではなく、ITやゲーム業界へのキャリアパスとして捉える当社は、今後は「SBI e-Sports」と共同でeスポーツ大会への協賛やIT・ゲーム業界への理解を深めるためのキャリア教育プログラムなどを実施し、若手人材に多様な成長機会を提供いたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジーンステイトは、通信・IT・BPO領域を中心に人材派遣・育成事業を展開し、実務直結型の教育体制と、現場のニーズに応えるマッチング力を強みに、若手人材のキャリア形成を支援してきました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "pass": 3
+   },
+   {
+    "quote": "・若手人材のキャリア機会創出：ITやゲーム業界への理解を深める教育機会を提供",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジーンステイトは、SBI e-Sportsとのパートナーシップを通じ、eスポーツ大会や関連イベントへの協賛、キャリア教育プログラムとの連動など、幅広い活動を予定しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 会社情報 | 株式会社 ジーンステイト — 会社概要 | 会社情報 | 株式会社 ジーンステイト 株式会社ジーンステイト https://genestate.co.jp > 会社情報",
+    "url": "https://genestate.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ジーンステイト の 会社概要 - マイナビ転職 — 株式会社 ジーンステイト の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/416755/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社ジーンステイト 小島 大知 | ベストベンチャー100 — 株式 会社ジーンステイト 小島 大知 | ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > genestate",
+    "url": "https://best100.v-tsushin.jp/company/genestate/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社ジーンステイト （125065）の転職・求人情報 — 株式 会社ジーンステイト （125065）の転職・求人情報 エン転職 https://employment.en-japan.com > comp-125065",
+    "url": "https://employment.en-japan.com/comp-125065/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 | genestateHP_test - ジーンステイト — 会社概要 | 会社情報 | genestateHP_test - ジーンステイト test1.fun https://test1.fun > 会社情報",
+    "url": "https://test1.fun/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ジーンステイト 小島 大知 | ベストベンチャー100 — 株式会社 ジーンステイト 小島 大知 | ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > genestate",
+    "url": "https://best100.v-tsushin.jp/company/genestate/",
+    "pass": 3
+   },
+   {
+    "quote": "ジーンステイト について | 株式会社 ジーンステイト — ジーンステイト について | 株式会社 ジーンステイト 株式会社ジーンステイト https://genestate.co.jp > about",
+    "url": "https://genestate.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "企業詳細: 株式会社 ジーンステイト | SEEKER VISION — 企業詳細: 株式会社 ジーンステイト | SEEKER VISION SEEKER VISION https://seeker-vision.com > 企業一覧",
+    "url": "https://seeker-vision.com/companies/732",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ジーンステイト の会社情報/転職・求人情報 — 株式会社 ジーンステイト の会社情報/転職・求人情報 Geekly https://www.geekly.co.jp > companys > data",
+    "url": "https://www.geekly.co.jp/companys/data/5481/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ジーンステイト の求人・中途採用－転職ならtype — 株式会社 ジーンステイト の求人・中途採用－転職ならtype type転職サイト https://type.jp > 掲載企業一覧",
+    "url": "https://type.jp/job-company/44912/",
+    "pass": 3
+   },
+   {
+    "quote": "トップページ | 株式会社ジーンステイト — Instagram Wantedly 事業内容 会社情報 採用情報 ジーンステイトについて ニュース お問い合わせ ©2025 genestate Inc. 個人情報保護方針 tap",
+    "url": "https://genestate.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "IT事業 | 株式会社ジーンステイト — システム開発・DX推進ならジーンステイトのIT事業へ。確かな技術力で、ビジネスを加速させる最適なITソリューションを ...",
+    "url": "https://genestate.co.jp/service/it/",
+    "pass": 3
+   },
+   {
+    "quote": "プロeスポーツチーム「SBI e-Sports」と人材派遣会社のジーンステイト... — Sep 1, 2025 · 株式会社ジーンステイトのプレスリリース（2025年9月1日 13時00分）プロeスポーツチーム「SBI e-Sports」と人材派遣会社のジーンステイトが ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "pass": 3
+   },
+   {
+    "quote": "『生成AI導入の「理想」と「泥臭い現実」』 株式会社ジーンステイト I... — Apr 7, 2026 · 『生成AI導入の「理想」と「泥臭い現実」』 株式会社ジーンステイト IT事業部 取締役 深川 慎之介氏登壇 YouTubeでの公開掲載を開始しました。 2026年3月24日開催 一般社団法人ソフトウェア協会 AIビジネス […]",
+    "url": "https://www.saj.or.jp/publicity/dxaidrivingforce/3141/",
+    "pass": 3
+   },
+   {
+    "quote": "ジーンステイトのコーポレートサイト制作実績｜東京のWeb制作会社｜株... — 株式会社ジーンステイトのコーポレートサイト制作実績。採用のミスマッチによる、人材の定着率という課題に対し、突き詰めた情報設計を行いました。信頼感伝わるブランディングをサイトとパンプレットの2軸で強化しました。",
+    "url": "https://coosy.co.jp/work/genestate/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 | 株式会社ジーンステイトジーンステイトについて | 株式会社ジーンステイト株式会社ジーンステイトの役員・従業員 - Wantedly会社概要 | 会社情報 | genestateHP_test株式会社ジーンステイトの企業情報・エンジニア採用情報 | ITエンジニ...株式会社ジーンステイト（東京都）の会社概要・役員 | Compalyze株式会社ジーンステイト | OpenBizGraph — ジーンステイトの会社概要、アクセス情報をご紹介。ITソリューションと戦略的なHR事業で企業の未来に貢献しています。 About Us ジーンステイトについて 私たちは、働く人の挑戦と機会をつなぎ、企業の未来を創造するパートナーです。 こちらでは私たちの事業の軸となる3つの強みや、これまでの実績を具体的な数字を交えてご紹介します。 株式会社ジーンステイトの役員・社員など組織の",
+    "url": "https://genestate.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "ジーンステイトについて | 株式会社ジーンステイト — About Us ジーンステイトについて 私たちは、働く人の挑戦と機会をつなぎ、企業の未来を創造するパートナーです。 こちらでは私たちの事業の軸となる3つの強みや、これまでの実績を具体的な数字を交えてご紹介します。",
+    "url": "https://genestate.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジーンステイトの役員・従業員 - Wantedly — 株式会社ジーンステイトの役員・社員など組織のメンバーをご紹介。私たちは、質の高い人材を育成し、取引先企業の事業発展に貢献することを目指しています。教育と研修を通じて人材の成長を促し、取引先企業のニーズに応じた人材を提供することで、より良い未来をともに創造していき ...",
+    "url": "https://www.wantedly.com/companies/company_9236541/members",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジーンステイト（東京都）の会社概要・役員 | Compalyze — 〒160-0023 東京都新宿区に本社を置く株式会社ジーンステイトの企業情報。株式会社ジーンステイトは、「IT事業」と「HR事業」の二つの柱で、企業の人材不足課題解決と事業成長を支援する企業です。専門サービス (人材派遣)、2016年設立、社会保険被保険者数143名。代表者 小島大知。役員1名 ...",
+    "url": "https://compalyze.co.jp/company/9011001112659",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジーンステイト | OpenBizGraph — 出典：国税庁法人番号公表サイト 基本3情報 経済産業省・gBizINFO + 9011001112659 法人番号 9011001112659 商号又は名称 株式会社ジーンステイト 商号又は名称（カナ） ジーンステイト 商号又は名称（英字） 登記記録の閉鎖等年月日 登記記録の閉鎖等の事由 登記住所 東京都新宿区西新宿6丁目5番1号新宿 ...",
+    "url": "https://openbizgraph.com/ja/detail/179889",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社ジーンステイト<初級ITエンジニア 完全未経験歓迎 集中型I... IT転職ナビit_navi Sep 15 株式会社ジーンステイト正社員（中途）埼玉県月給28万円～60万円＋賞与年2回＋諸手当※経験・能... itnavi.jp/details/610226… @it_navi 💬0 🔄0 🤍0 📊416 📎",
+    "url": "https://x.com/it_navi/status/1835212016526803005",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社クーシー｜Web制作会社 on X: \"【制作実績紹介】 ️ジーンステ... 【制作実績紹介】 ️ジーンステイト #コーポレートサイト https://t.co/EWCZDi3JDJ 複雑になりがちなサービス内容をインフォグラフィックスで整理。 直感的に伝わるデザインへリニューアルしました。",
+    "url": "https://x.com/coosyinc/status/2108105113801818533",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "奥山 真至 - ジーンステイト - 営業担当者 | LinkedIn ジーンステイト - 営業担当者 · 職歴: ジーンステイト · 場所: 板橋区。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで奥山 真至さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/真至-奥山-75b58026b",
+    "pass": 3
+   },
+   {
+    "quote": "深川 慎之介 - ジーンステイト - 役員 | LinkedIn2 \"奥山至\" profiles | LinkedIn井上 裕大 - ジーンステイト - エンジニア／研修生 | LinkedInJochen Schmitz – Chief Financial Officer (CFO) & Managing ...Pradeep Bhagawan - Finance & Project Controls | LinkedInKatie Stephens - Chief People Officer at Partnering Health ... ジーンステイト - 役員 · 職歴: ジーンステイト · 場所: 新宿区 · LinkedInのつながり7人。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで深川 慎之介さんのプロフィールを閲覧しましょう。 Vie",
+    "url": "https://jp.linkedin.com/in/慎之介-深川-533a31276",
+    "pass": 3
+   },
+   {
+    "quote": "井上 裕大 - ジーンステイト - エンジニア／研修生 | LinkedIn ジーンステイト - エンジニア／研修生 · 職歴: ジーンステイト · 場所: 1000001。10億人のメンバーを擁するプロフェッショナルコミュニティである ...",
+    "url": "https://www.linkedin.com/in/udakahara0831",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社ジーンステイト - Facebook 株式会社ジーンステイト",
+    "url": "https://www.facebook.com/株式会社ジーンステイト-441359242984476/",
+    "pass": 3
+   },
+   {
+    "quote": "奥山真至 - Facebook Works at 株式会社acrove Worked at 株式会社ジーンステイト Worked at 株式会社suprieve Studies 経営学部経営学科 at 京都産業大学サギタリウス",
+    "url": "https://www.facebook.com/p/奥山真至-100008161908433/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://genestate.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genestate.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genestate.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genestate.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genestate.co.jp/company/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genestate.co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genestate.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genestate.co.jp/service/it/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genestate.co.jp/service/hr/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://genestate.co.jp/cms/wp-content/themes/genestate/assets/img/company/img_profile.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://tenshoku.mynavi.jp/company/416755/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://best100.v-tsushin.jp/company/genestate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://best100.v-tsushin.jp/company/genestate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seeker-vision.com/companies/732",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundit.jp/%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BAd%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD%E3%80%81%E7%B4%AF%E8%A8%88%E8%AA%BF%E9%81%94%E7%B7%8F%E9%A1%8D%E3%81%AF%E3%83%87%E3%83%83/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/tags/fundraising-articles",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/newbusiness/houkokusyo/financeguidance.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/company_9236541/members",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/it_navi/status/1835212016526803005",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/coosyinc/status/2108105113801818533",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/真至-奥山-75b58026b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/慎之介-深川-533a31276",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/udakahara0831",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株式会社ジーンステイト-441359242984476/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/奥山真至-100008161908433/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ジーンステイト 会社概要 資本金 設立",
+   "results": [
+    "https://genestate.co.jp/company/about/",
+    "https://tenshoku.mynavi.jp/company/416755/",
+    "https://best100.v-tsushin.jp/company/genestate/",
+    "https://employment.en-japan.com/comp-125065/",
+    "https://test1.fun/company/about/",
+    "https://prtimes.jp/main/html/rd/p/000000006.000165881.html",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9011001112659",
+    "https://www.openwork.jp/a0C2x000008zaO0/job/",
+    "https://en-hyouban.com/company/10200788528/22/",
+    "https://genestate.co.jp/company/"
+   ]
+  },
+  {
+   "query": "ジーンステイト 事業内容 売上",
+   "results": [
+    "https://best100.v-tsushin.jp/company/genestate/",
+    "https://genestate.co.jp/about/",
+    "https://seeker-vision.com/companies/732",
+    "https://www.geekly.co.jp/companys/data/5481/",
+    "https://type.jp/job-company/44912/",
+    "https://www.openwork.jp/a0C2x000008zaO0/compa/a0C1000000rSXzH/",
+    "https://tenshoku.mynavi.jp/jobinfo-416755-1-11-1/",
+    "https://www.wantedly.com/companies/company_9236541",
+    "https://jobtalk.jp/companies/9352879/answers/9125907",
+    "https://genestate.co.jp/service/"
+   ]
+  },
+  {
+   "query": "ジーンステイト 資金調達 株主",
+   "results": [
+    "https://fundit.jp/%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BAd%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD%E3%80%81%E7%B4%AF%E8%A8%88%E8%AA%BF%E9%81%94%E7%B7%8F%E9%A1%8D%E3%81%AF%E3%83%87%E3%83%83/",
+    "https://initial.inc/tags/fundraising-articles",
+    "https://www.meti.go.jp/policy/newbusiness/houkokusyo/financeguidance.pdf",
+    "https://www.fsa.go.jp/singi/stewardship/siryou/20131127/02.pdf",
+    "https://www.nikkei.com/article/DGXZQOUC175X00X10C26A4000000/",
+    "https://www.privateequityinternational.com/financing-in-brief-21/",
+    "https://www.sec.gov/Archives/edgar/data/868675/000110465917022323/a17-8661_1ex99d3.htm",
+    "https://db.nexanahq.com/news",
+    "https://prtimes.jp/main/html/rd/p/000000023.000124558.html",
+    "https://genestate.co.jp/company/about/"
+   ]
+  },
+  {
+   "query": "ジーンステイト 導入事例",
+   "results": [
+    "https://genestate.co.jp/",
+    "https://genestate.co.jp/service/it/",
+    "https://prtimes.jp/main/html/rd/p/000000004.000165881.html",
+    "https://www.saj.or.jp/publicity/dxaidrivingforce/3141/",
+    "https://coosy.co.jp/work/genestate/",
+    "https://www.excite.co.jp/news/article/saiganak_202509254645/",
+    "https://best100.v-tsushin.jp/company/genestate/"
+   ]
+  },
+  {
+   "query": "ジーンステイト 主要取引先",
+   "results": [
+    "https://genestate.co.jp/company/about/",
+    "https://genestate.co.jp/about/",
+    "https://www.wantedly.com/companies/company_9236541/members",
+    "https://compalyze.co.jp/company/9011001112659",
+    "https://openbizgraph.com/ja/detail/179889",
+    "https://paiza.jp/recruiters/6664",
+    "https://test1.fun/company/about/"
+   ]
+  },
+  {
+   "query": "site:note.com ジーンステイト",
+   "results": [
+    "https://note.com/cocoa369/n/ned37f1d28097",
+    "https://note.com/kunugiyama123/n/n39dd4864bb37",
+    "https://note.com/bmidvar/n/n9ca7edb8d8f0",
+    "https://note.com/ideal_lynx1277/n/n9c65e15aa142",
+    "https://note.com/brainy_tulip841/n/n22d74e76895a",
+    "https://note.com/toyokunihiko/n/naa245c99f7b7",
+    "https://note.com/ayako_greenra/n/n110bbb5a799e"
+   ]
+  },
+  {
+   "query": "site:x.com ジーンステイト",
+   "results": [
+    "https://x.com/it_navi/status/1835212016526803005",
+    "https://x.com/BD06291/status/2044623595914313910",
+    "https://x.com/coosyinc/status/2108105113801818533",
+    "https://x.com/mikangumi2011",
+    "https://x.com/coosyinc",
+    "https://x.com/lovergrl2002/status/2114215220327678069",
+    "https://x.com/YourAnonNews/status/2114723243617886486"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ジーンステイト",
+   "results": [
+    "https://jp.linkedin.com/in/真至-奥山-75b58026b",
+    "https://jp.linkedin.com/in/慎之介-深川-533a31276",
+    "https://www.linkedin.com/pub/dir/至/奥山",
+    "https://www.linkedin.com/in/udakahara0831",
+    "https://de.linkedin.com/in/jochen-schmitz",
+    "https://uk.linkedin.com/in/pradeep-bhagawan-71b9352b",
+    "https://uk.linkedin.com/in/katie-stephens-84b62913"
+   ]
+  },
+  {
+   "query": "site:facebook.com ジーンステイト",
+   "results": [
+    "https://www.facebook.com/株式会社ジーンステイト-441359242984476/",
+    "https://www.facebook.com/p/奥山真至-100008161908433/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/sgpenny/",
+    "https://www.facebook.com/tomohironaniwa/",
+    "https://www.facebook.com/people/奥山真至/100008161908433/",
+    "https://www.facebook.com/dxaidrivingforce/posts/生成ai導入の理想と泥臭い現実株式会社ジーンステイト-it事業部-取締役-深川-慎之介氏登壇youtubeでの公開掲載を開始しました-2026年3月24日開催一/889825927425473/"
+   ]
+  },
+  {
+   "query": "ジーンステイト note 社長",
+   "results": [
+    "https://genestate.co.jp/company/about/",
+    "https://genestate.co.jp/company/message/",
+    "https://jobtalk.jp/companies/9352879/answers?question_codes=president",
+    "https://www.wantedly.com/companies/company_9236541/members",
+    "https://www.wantedly.com/companies/company_9236541",
+    "https://best100.v-tsushin.jp/company/genestate/",
+    "https://jobtalk.jp/companies/9352879/answers/8185838"
+   ]
+  },
+  {
+   "query": "ジーンステイト X 投稿",
+   "results": [
+    "https://genestate.co.jp/",
+    "https://www.instagram.com/p/Dc-CHvumt0j/",
+    "https://www.instagram.com/p/DXyLAmdEf0G/",
+    "https://genestate.co.jp/company/",
+    "https://en-hyouban.com/company/10200788528/user_kuchikomi/4160721/",
+    "https://en-hyouban.com/company/10200788528/user_kuchikomi/8542193/",
+    "https://x.com/coosyinc/status/2108105113801818533"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部16頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部16頁・検索11回）",
+  "客は誰か": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部16頁・検索11回）",
+  "資本金・株主": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部16頁・検索11回）"
+ }
+}

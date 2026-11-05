@@ -1,0 +1,1302 @@
+{
+ "name": "freemova",
+ "aliases": [
+  "freemova"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T15:33:44.824105+00:00",
+ "official_url": "https://freemova.com/",
+ "identified_by": "given",
+ "profile": {
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,250万円",
+    "url": "https://freemova.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1250万円",
+    "url": "https://mid-tenshoku.com/agency/a-8134/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1250万円",
+    "url": "https://type.jp/job-company/39335/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "会社設立日",
+    "value": "会社設立日：2019年8月",
+    "url": "https://freemova.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2019年8月",
+    "url": "https://mid-tenshoku.com/agency/a-8134/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2019年8月",
+    "url": "https://type.jp/job-company/39335/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "800名",
+    "url": "https://freemova.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "35名",
+    "url": "https://freemova.com/service/250/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "3,000名",
+    "url": "https://freemova.com/service/247/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "6,900名",
+    "url": "https://freemova.com/service/246/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "120名",
+    "url": "https://freemova.com/service/245/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "2400名",
+    "url": "https://freemova.com/service/244/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "555名",
+    "url": "https://freemova.com/service/243/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "300名",
+    "url": "https://freemova.com/service/241/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "90名",
+    "url": "https://freemova.com/service/240/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "1,021名",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "400名",
+    "url": "https://mid-tenshoku.com/agency/a-8134/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "1260名 平均年齢／26歳",
+    "url": "https://type.jp/job-company/39335/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒150-0043 東京都渋谷区 道玄坂2-25-12 道玄坂通3階3-1a",
+    "url": "https://freemova.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "拠点所在地",
+    "value": "〒060-0004 北海道札幌市中央区北4条西4丁目1-7 MMS札幌駅前ビル 324 〒980-0811 宮城県仙台市青葉区一番町3-3-1 クラックス仙台4F 〒370-0841 群馬県高崎市栄町3-11 高崎バナーズビル 512 〒450-0002 愛知県名古屋市中村区名駅3-28-12 大名古屋ビルヂング11F 〒530-0052 大阪府大阪市北区南扇町7-17 MF梅田ビル3F 〒730-0016 広島県広島市中区幟町13−15 リージャス新広島 232 〒810-0001 福岡県福岡市中央区天神4-3-8 Zero-Ten Parkミーナ天神8F 〒900-0015 沖縄県那覇市久茂地2-2-2 タイムスビル2F",
+    "url": "https://freemova.com/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "人材紹介事業 人材派遣事業 求人広告代理店事業",
+    "url": "https://freemova.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "人材紹介事業 人材派遣事業 求人広告代理店事業",
+    "url": "https://mid-tenshoku.com/agency/a-8134/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "廣瀬暁己",
+    "url": "https://mid-tenshoku.com/agency/a-8134/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役　廣瀬 暁己",
+    "url": "https://type.jp/job-company/39335/",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先",
+    "value": "ソフトバンク株式会社／合同会社DMM.com／株式会社リクルートホールディングス／株式会社マイナビ／パーソルホールディングス株式会社／株式会社夢テクノロジー／株式会社DYM／株式会社ネオキャリア",
+    "url": "https://type.jp/job-company/39335/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "株式会社freemova | 東京都渋谷区にある20代の若手人材に特化した人材紹介会社",
+    "url": "https://freemova.com/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒人材紹介 | Service | 株式会社freemova",
+    "url": "https://freemova.com/service/250/",
+    "pass": 1
+   },
+   {
+    "quote": "若手に特化した人材紹介を得意としているfree mova",
+    "url": "https://freemova.com/service/250/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでは中途採用の支援に特化していたのですが、学生の集客が増えていることを背景に、新卒の人材紹介をスタートさせました",
+    "url": "https://freemova.com/service/250/",
+    "pass": 1
+   },
+   {
+    "quote": "求人票やPRポイント、紹介料などのさまざまな面における見直しをご提案しました",
+    "url": "https://freemova.com/service/250/",
+    "pass": 1
+   },
+   {
+    "quote": "紹介数に関しても、他社平均の3倍となる月間7名を実現",
+    "url": "https://freemova.com/service/250/",
+    "pass": 1
+   },
+   {
+    "quote": "現在では採用イベントの企画・運営にも関わっているように、紹介という枠を超えて採用活動を支援しています",
+    "url": "https://freemova.com/service/250/",
+    "pass": 1
+   },
+   {
+    "quote": "文系学生1名紹介につき：80万円〜",
+    "url": "https://freemova.com/service/250/",
+    "pass": 1
+   },
+   {
+    "quote": "理系学生1名紹介につき：100万円〜",
+    "url": "https://freemova.com/service/250/",
+    "pass": 1
+   },
+   {
+    "quote": "中途人材紹介 | Service | 株式会社freemova",
+    "url": "https://freemova.com/service/247/",
+    "pass": 1
+   },
+   {
+    "quote": "その背景にあるのが、候補者様に対して10時間以上の面談を行うというきめ細かさと、ご紹介から入社までの期間が平均30日以内というスピード感",
+    "url": "https://freemova.com/service/247/",
+    "pass": 1
+   },
+   {
+    "quote": "求人を紹介する前に個々の本音を深層から引き出すことによって、就業後のミスマッチを防止",
+    "url": "https://freemova.com/service/247/",
+    "pass": 1
+   },
+   {
+    "quote": "企業様の採用計画と時期に合わせて人材をご紹介しており、さらには面接の日程調整や連絡のやり取りなども迅速に行っています",
+    "url": "https://freemova.com/service/247/",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介から内定承諾までの期間は、平均で14日間",
+    "url": "https://freemova.com/service/247/",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介から入社までの期間は平均30日以内というように、質とスピードを兼ね備えたサービスをご提供しています",
+    "url": "https://freemova.com/service/247/",
+    "pass": 1
+   },
+   {
+    "quote": "ニーズによって若干異なりますが、経験者のみであれば平均5名、未経験者をターゲットに含める場合は平均30名の人材をご紹介しています",
+    "url": "https://freemova.com/service/247/",
+    "pass": 1
+   },
+   {
+    "quote": "4名の紹介で1名が入社に至っています",
+    "url": "https://freemova.com/service/247/",
+    "pass": 1
+   },
+   {
+    "quote": "中途人材紹介（ヘルスケア） | Service | 株式会社freemova",
+    "url": "https://freemova.com/service/246/",
+    "pass": 1
+   },
+   {
+    "quote": "自社運営のLPサイト、TikTokやInstagramなどのSNSを活用することで、20代の集客に注力",
+    "url": "https://freemova.com/service/246/",
+    "pass": 1
+   },
+   {
+    "quote": "急募施設に関しては、候補者への紹介料（祝い金）をアップさせ、さらには対象期間を設けることで、早期入社を促すことに",
+    "url": "https://freemova.com/service/246/",
+    "pass": 1
+   },
+   {
+    "quote": "突発的に人材を募集している施設に対しては、「期間限定での紹介料アップ」の戦略が成功",
+    "url": "https://freemova.com/service/246/",
+    "pass": 1
+   },
+   {
+    "quote": "※想定理論年収は「月額固定給×12ヶ月＋賞与」で算出します",
+    "url": "https://freemova.com/service/246/",
+    "pass": 1
+   },
+   {
+    "quote": "モバイル派遣 | Service | 株式会社freemova",
+    "url": "https://freemova.com/service/244/",
+    "pass": 1
+   },
+   {
+    "quote": "現在拠点を構えている東京・大阪・福岡を中心に、携帯電話・インターネット回線などの通信業界に特化した人材派遣サービスを提供しています",
+    "url": "https://freemova.com/service/244/",
+    "pass": 1
+   },
+   {
+    "quote": "適材適所の派遣サービスを通して、現場の生産性を高めています",
+    "url": "https://freemova.com/service/244/",
+    "pass": 1
+   },
+   {
+    "quote": "現時点で、「営業力・マネジメント力・ホスピタリティ」に長けた販売のスペシャリストが200名以上在籍しています",
+    "url": "https://freemova.com/service/244/",
+    "pass": 1
+   },
+   {
+    "quote": "自社社員とは言え、企業様とは「無期雇用派遣」での契約になるため、期限は設けていません",
+    "url": "https://freemova.com/service/244/",
+    "pass": 1
+   },
+   {
+    "quote": "さらにはモバイル派遣に特化した専門の分析チームを設けることで、マッチングの精度を向上",
+    "url": "https://freemova.com/service/244/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗に派遣された際にはすでに基礎知識を備えている状態にすることで、クライアント側の負担を軽減しました",
+    "url": "https://freemova.com/service/244/",
+    "pass": 1
+   },
+   {
+    "quote": "派遣契約の締結後、貴社の指揮命令に基づいて、スタッフが業務を遂行します",
+    "url": "https://freemova.com/service/244/",
+    "pass": 1
+   },
+   {
+    "quote": "アパレル派遣 | Service | 株式会社freemova",
+    "url": "https://freemova.com/service/243/",
+    "pass": 1
+   },
+   {
+    "quote": "派遣実績としては、現在拠点を構えている東京・大阪・福岡の百貨店やショッピングモールがメインになります",
+    "url": "https://freemova.com/service/243/",
+    "pass": 1
+   },
+   {
+    "quote": "フレッシュな20代を中心とした若手人材のご紹介が可能です",
+    "url": "https://freemova.com/service/243/",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介するのは全て、自社で雇用している社員",
+    "url": "https://freemova.com/service/243/",
+    "pass": 1
+   },
+   {
+    "quote": "社会人基礎研修と販売基礎研修を受講し、一定の水準をクリアしてからの配属となるため、サービスの品質はお墨付きです",
+    "url": "https://freemova.com/service/243/",
+    "pass": 1
+   },
+   {
+    "quote": "通常の派遣と併せて、紹介予定派遣もご提案",
+    "url": "https://freemova.com/service/243/",
+    "pass": 1
+   },
+   {
+    "quote": "通常の派遣に関しては、募集エリアの特性や募集人数、求めている人物像などをヒアリングし、全ての面接にキャリアアドバイザーが同席",
+    "url": "https://freemova.com/service/243/",
+    "pass": 1
+   },
+   {
+    "quote": "紹介予定派遣に関しては、まだ内定まで繋がっていないものの、最終面接まで進んだ実績があります",
+    "url": "https://freemova.com/service/243/",
+    "pass": 1
+   },
+   {
+    "quote": "派遣契約の締結後、貴社の指揮命令に基づいて、スタッフが業務を遂行します",
+    "url": "https://freemova.com/service/243/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの骨格となっているのは、創業時から展開してきた人材紹介事業での実績",
+    "url": "https://freemova.com/service/241/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業を通して、これまで600社以上の採用支援を行ってきました",
+    "url": "https://freemova.com/service/241/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば販売職であれば、他社と大きく差別化を図る切り口で求人広告を制作",
+    "url": "https://freemova.com/service/241/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介や人材派遣と連携できるのは、総合人材サービスを提供している私たちならでは",
+    "url": "https://freemova.com/service/241/",
+    "pass": 1
+   },
+   {
+    "quote": "仕方なく人材紹介で採用を行っていたものの、懸念材料となっていたのが単価の高さ",
+    "url": "https://freemova.com/service/241/",
+    "pass": 1
+   },
+   {
+    "quote": "介護派遣 | Service | 株式会社freemova",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは拠点を構えている東京・大阪・福岡を中心に、地域密着型で介護施設・介護サービスの運営をサポート",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "quote": "介護職はもちろん、理学療法士・作業療法士・看護師など、介護・福祉・医療施設で必要とされる人材全般をご紹介しています",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "quote": "20代～40代を中心とした人材のご紹介が可能",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "quote": "経験者・有資格者をメインにご紹介しているため、即戦力としての活躍が期待できます",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "quote": "早番・日勤・遅番・夜勤など、「稼働してもらいたい時間帯」に合わせたご紹介も可能です",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "quote": "急募のため、人材紹介の利用を考えたものの、予算的に難しい状況",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "quote": "予算を抑えるために、成功報酬型の人材紹介ではなく、正職員と同じ勤務形態で働ける派遣スタッフをご提案しました",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "quote": "正職員が採用できるまで、試験的に1名の派遣スタッフを雇用してもらいました",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "quote": "当初の予定では、派遣スタッフの活用はあくまで限定的でした",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "quote": "ただスタッフの活躍ぶりが評価されたことから、現在では派遣の活用が主軸となり、スタッフの人数は10名に拡大",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "quote": "派遣契約の締結後、貴社の指揮命令に基づいて、スタッフが業務を遂行します",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "quote": "カウンセリングから求人紹介、書類添削、面接対策、条件提示の代行、入社日の調整まで、転職活動の全行程に伴走します",
+    "url": "https://freemova.com/service/252/",
+    "pass": 1
+   },
+   {
+    "quote": "営業職は未経験でしたが、販売スタッフとして培ったことをアピールし、無事内定が決まりました",
+    "url": "https://freemova.com/service/252/",
+    "pass": 1
+   },
+   {
+    "quote": "free movaの転職支援（人材紹介）サービスは、",
+    "url": "https://freemova.com/service/252/",
+    "pass": 1
+   },
+   {
+    "quote": "求人企業からの採用コンサルティングフィーで運営されています",
+    "url": "https://freemova.com/service/252/",
+    "pass": 1
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "【掲載のお知らせ】ジョブリー建設に求人情報を掲載しました",
+    "url": "https://freemova.com/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアント、ユーザー、メンバー",
+    "url": "https://freemova.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "提案があっても、クライアントが求めている「営業マインドの高さ」を備えた人材ではなく、ミスマッチが続いていました",
+    "url": "https://freemova.com/service/250/",
+    "pass": 1
+   },
+   {
+    "quote": "さらには、求人情報・エントリー時・内定後と、各フェーズに応じたショート動画・資料を制作することで、クライアントの魅力をより効果的に伝えていきました",
+    "url": "https://freemova.com/service/247/",
+    "pass": 1
+   },
+   {
+    "quote": "介護・看護・保育などのヘルスケア領域は、人材業界の中で特に難易度が高いとされています",
+    "url": "https://freemova.com/service/246/",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、日勤を希望する候補者が多いため、クライアントが求めていた「夜勤ができる」という条件にマッチする人材の採用は困難を極めていました",
+    "url": "https://freemova.com/service/246/",
+    "pass": 1
+   },
+   {
+    "quote": "「採用資料」もしっかりと作り込み、クライアントの魅力を最大限に伝えていくことで承諾率を上げていきました",
+    "url": "https://freemova.com/service/246/",
+    "pass": 1
+   },
+   {
+    "quote": "即日稼働できる即戦力と同時に、free mova内で教育した未経験者も併せてご提案しました",
+    "url": "https://freemova.com/service/245/",
+    "pass": 1
+   },
+   {
+    "quote": "自社社員の採用エリアを拡大させることで、クライアントの課題を解決していきました",
+    "url": "https://freemova.com/service/244/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗に派遣された際にはすでに基礎知識を備えている状態にすることで、クライアント側の負担を軽減しました",
+    "url": "https://freemova.com/service/244/",
+    "pass": 1
+   },
+   {
+    "quote": "相性が良い社員に関しては、ゆくゆくはクライアント側に雇用を切り替えるという戦略を立てました",
+    "url": "https://freemova.com/service/243/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントと求職者の双方に対してニーズを深掘りしたことで、1ヶ月目から5名の配属を実現",
+    "url": "https://freemova.com/service/243/",
+    "pass": 1
+   },
+   {
+    "quote": "広告を制作する際には事前に市場調査を行い、エントリー数の多かった他社事例も参考にしつつ、クライアントのブランド方針に沿った打ち出し方を設計していきました",
+    "url": "https://freemova.com/service/240/",
+    "pass": 1
+   },
+   {
+    "quote": "介護派遣 | Service | 株式会社freemova",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "quote": "家族や親類だけで介護を全て負担することは、ほぼ不可能",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "quote": "核家族の増加、女性の社会進出といった要因から家族の介護力低下が進んでいる今、介護施設や介護サービスの利用は今後より求められていきます",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは拠点を構えている東京・大阪・福岡を中心に、地域密着型で介護施設・介護サービスの運営をサポート",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "quote": "介護職はもちろん、理学療法士・作業療法士・看護師など、介護・福祉・医療施設で必要とされる人材全般をご紹介しています",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "quote": "継続的にリソースを確保できたことで、クライアントは腰を据えて正職員の採用活動に取り組むことができました",
+    "url": "https://freemova.com/service/237/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの経験を丁寧に棚卸しした上で、あなたの強みが分かりやすく伝わる履歴書や職務経歴書の作成ノウハウを伝授します",
+    "url": "https://freemova.com/service/252/",
+    "pass": 1
+   },
+   {
+    "quote": "※ご来社時、及び面接時の交通費、宿泊費などは自己負担となります",
+    "url": "https://freemova.com/service/252/",
+    "pass": 1
+   },
+   {
+    "quote": "※ご来社時、及び面接時の交通費、宿泊費などは自己負担となります",
+    "url": "https://freemova.com/service/251/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修が手厚いのも魅力！ジョブローテーションを活用して自分の適性を見つけられます！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■湘南美容外科クリニック・にしたんクリニック提携提携",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "┗医療サービス、美容施術を割引で受けられます！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダンサー、飲食、SNS運用、動画編集など諦めたくない趣味を仕事に！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・入社時から段階的に学べる研修プログラムがあり、基礎教育だけでなく、役職やキャリアステージに応じた社内研修が実施されています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "青森中央短期大学、大分県立芸術文化短期大学、大阪国際大学短期大学部、大妻女子大学短期大学部、大原簿記学校、神奈川衛生学園専門学校、京都文教短期大学、仙台青葉学院短期大学、中央工学校、中日美容専門学校、戸板女子短期大学、日本工学院八王子専門学校、平岡調理・製菓専門学校、広島情報ビジネス専門学校、福岡ベルエポック美容専門学校、武蔵野調理師専門学校、安田女子短期大学",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業ステージをワンランク上げる、5年越しのブランディング｜導入事例・制作実績｜オールイン株式会社",
+    "url": "https://allhero.co.jp/works/freemova-rebranding/",
+    "pass": 3
+   },
+   {
+    "quote": "freemovaで働いてる人って、元バンドマンとか、元アパレル店員とか、飲食とか、プロダンサーとか、ほんとに「履歴書で説明できない人生」を送ってきた人がけっこう多いんです！",
+    "url": "https://note.com/freemova_0807/n/n9d19d4ef101c",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "free movaの子会社として「株式会社Lervan」を設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)GENOVA【東証プライム上場】・セールスコミュニケーションコース",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)GENOVA【東証プライム上場】・ダイレクトマーケティングコース",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)GENOVA【東証プライム上場】・カスタマーアカウントコース",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "JFEシステムズ(株)【東証スタンダード市場上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "平均年齢28歳 / ホワイト企業認定 / ジョブローテーション制度 / ベストベンチャー100",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベストベンチャー100、ホワイト企業認定ゴールドランク選出",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024・2026年にはベストベンチャー100にも選出され急成長を遂げています",
+    "url": "https://type.jp/job-company/39335/",
+    "pass": 3
+   },
+   {
+    "quote": "＃ベストベンチャー100選出＆ホワイト企業認定の成長企業",
+    "url": "https://type.jp/job-company/39335/",
+    "pass": 3
+   },
+   {
+    "quote": "※「ベストベンチャー100」",
+    "url": "https://type.jp/job-company/39335/",
+    "pass": 3
+   },
+   {
+    "quote": "厳正な審査のもと選出したベンチャー企業100社が",
+    "url": "https://type.jp/job-company/39335/",
+    "pass": 3
+   },
+   {
+    "quote": "「ベストベンチャー100」として紹介されます",
+    "url": "https://type.jp/job-company/39335/",
+    "pass": 3
+   },
+   {
+    "quote": "今後も全国に新拠点が開設予定！ベストベンチャー100にも選定された急成長企業です",
+    "url": "https://type.jp/job-company/39335/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "About Us | 株式 会社freemova — About Us | 株式 会社freemova freemova https://freemova.com > company",
+    "url": "https://freemova.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)free movaの新卒採用・ 会社概要 | マイナビ2027 — (株)free movaの新卒採用・ 会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp269303 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 free mova - ミドルの転職 — 株式 会社 free mova - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧",
+    "url": "https://mid-tenshoku.com/agency/a-8134/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 free movaの転職・求人情報 - AMBI — 株式 会社 free movaの転職・求人情報 - AMBI アンビ（AMBI） https://en-ambi.com > agency",
+    "url": "https://en-ambi.com/agency/a-8134/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 free movaの求人・採用情報 - ビズリーチ — 株式 会社 free movaの求人・採用情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies",
+    "url": "https://www.bizreach.jp/companies/44080/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)free movaの新卒採用・会社概要 | マイナビ2027 — (株)free movaの新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp269303 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 freemova | 東京都渋谷区にある20代の若手人材に特化 ... — 株式会社 freemova | 東京都渋谷区にある20代の若手人材に特化 ... freemova https://freemova.com > お知らせ",
+    "url": "https://freemova.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社free movaの転職・企業概要 - doda — 株式会社free movaの転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10195206777",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10195206777/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 freemova の会社情報 - Wantedly — 株式会社 freemova の会社情報 - Wantedly Wantedly https://www.wantedly.com > company_9265603",
+    "url": "https://www.wantedly.com/companies/company_9265603",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 freemova 廣瀬 暁己 - ベストベンチャー100 — 株式会社 freemova 廣瀬 暁己 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > freemova",
+    "url": "https://best100.v-tsushin.jp/company/freemova/",
+    "pass": 3
+   },
+   {
+    "quote": "企業ステージをワンランク上げる、5年越しのブランディング — 企業ステージをワンランク上げる、5年越しのブランディング オールイン株式会社 https://allhero.co.jp > works > freemova-rebranding",
+    "url": "https://allhero.co.jp/works/freemova-rebranding/",
+    "pass": 3
+   },
+   {
+    "quote": "freemova 業務紹介    人事 - Wantedly — freemova 業務紹介    人事 - Wantedly Wantedly https://www.wantedly.com > ... > ストーリー",
+    "url": "https://www.wantedly.com/companies/company_9265603/post_articles/980565",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 freemova 本社 (@freemova_cp) / X — 株式会社 freemova 本社 (@freemova_cp) / X X https://x.com > freemova_cp",
+    "url": "https://x.com/freemova_cp",
+    "pass": 3
+   },
+   {
+    "quote": "(株) freemova (@freemova_cp) • Instagram photos and videos — (株) freemova (@freemova_cp) • Instagram photos and videos Instagram https://www.instagram.com > freemova_cp",
+    "url": "https://www.instagram.com/freemova_cp/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us | 株式会社 freemova — About Us | 株式会社 freemova freemova https://freemova.com > company",
+    "url": "https://freemova.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社free movaの求人・中途採用 - Type — 株式会社free movaの求人・中途採用 - Type type転職サイト https://type.jp > 掲載企業一覧",
+    "url": "https://type.jp/job-company/39335/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社free movaの求人/一般事務 - Re就活 — 株式会社free movaの求人/一般事務 - Re就活 Ｒｅ就活 https://re-katsu.jp > career > company > recruit",
+    "url": "https://re-katsu.jp/career/company/recruit/57654/",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "イシン(株)が提供する法人向け有料会員制サービスです",
+    "url": "https://type.jp/job-company/39335/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "freemova って、ぶっちゃけどんな会社？ - note freemova って、ぶっちゃけどんな会社？ - note note https://note.com > キャリア > キャリア全般",
+    "url": "https://note.com/freemova_0807/n/n9d19d4ef101c",
+    "pass": 3
+   },
+   {
+    "quote": "ついに！ freemova ホワイト企業認定取得！ - note ついに！ freemova ホワイト企業認定取得！ - note note https://note.com > キャリア > キャリア全般",
+    "url": "https://note.com/freemova_0807/n/nfa95c42652a0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "freemovaって、ぶっちゃけどんな会社？｜freemova広報部",
+    "url": "https://note.com/freemova_0807/n/n9d19d4ef101c",
+    "pass": 3
+   },
+   {
+    "quote": "freemovaって、ぶっちゃけどんな会社？",
+    "url": "https://note.com/freemova_0807/n/n9d19d4ef101c",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは、freemovaで人事・採用広報をしている榎本です。！",
+    "url": "https://note.com/freemova_0807/n/n9d19d4ef101c",
+    "pass": 3
+   },
+   {
+    "quote": "今日はnote初投稿ということで、**「freemovaってどんな会社なの？」**というところを、人事広報目線でざっくばらんにお届けしてみます！",
+    "url": "https://note.com/freemova_0807/n/n9d19d4ef101c",
+    "pass": 3
+   },
+   {
+    "quote": "一言で言うと、「人材派遣・人材紹介・採用支援の会社」です。",
+    "url": "https://note.com/freemova_0807/n/n9d19d4ef101c",
+    "pass": 3
+   },
+   {
+    "quote": "モバイル販売、事務、アパレル、などの領域で",
+    "url": "https://note.com/freemova_0807/n/n9d19d4ef101c",
+    "pass": 3
+   },
+   {
+    "quote": "キャリアのスタートやリスタートを支援しています",
+    "url": "https://note.com/freemova_0807/n/n9d19d4ef101c",
+    "pass": 3
+   },
+   {
+    "quote": "よくある“人材派遣会社”と似ている部分もありますが、freemovaはちょっと違う。",
+    "url": "https://note.com/freemova_0807/n/n9d19d4ef101c",
+    "pass": 3
+   },
+   {
+    "quote": "ついに！freemova ホワイト企業認定取得！｜freemova広報部",
+    "url": "https://note.com/freemova_0807/n/nfa95c42652a0",
+    "pass": 3
+   },
+   {
+    "quote": "ついに！freemova ホワイト企業認定取得！",
+    "url": "https://note.com/freemova_0807/n/nfa95c42652a0",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは、freemova広報の榎本です！",
+    "url": "https://note.com/freemova_0807/n/nfa95c42652a0",
+    "pass": 3
+   },
+   {
+    "quote": "今回はちょっと嬉しいご報告をnoteでお届けします。",
+    "url": "https://note.com/freemova_0807/n/nfa95c42652a0",
+    "pass": 3
+   },
+   {
+    "quote": "freemovaがこのたび「ホワイト企業認定」を正式に取得しました！🎉",
+    "url": "https://note.com/freemova_0807/n/nfa95c42652a0",
+    "pass": 3
+   },
+   {
+    "quote": "（※一般財団法人 日本次世代企業普及機構が認定する制度）",
+    "url": "https://note.com/freemova_0807/n/nfa95c42652a0",
+    "pass": 3
+   },
+   {
+    "quote": "「ホワイト企業」という言葉、よく聞きますよね。",
+    "url": "https://note.com/freemova_0807/n/nfa95c42652a0",
+    "pass": 3
+   },
+   {
+    "quote": "freemovaが受けたのは、以下7つの観点で審査される制度です👇",
+    "url": "https://note.com/freemova_0807/n/nfa95c42652a0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 freemova 本社 (@freemova_cp) / X 株式会社 freemova 本社 (@freemova_cp) / X X https://x.com > freemova_cp",
+    "url": "https://x.com/freemova_cp",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 freemova 本社 on X / X 株式会社 freemova 本社 on X / X X https://x.com > @freemova_cp",
+    "url": "https://x.com/freemova_cp/status/1818466055486046457",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 freemova 本社 on X: \"マーケティングDiv統括部長の ... 株式会社 freemova 本社 on X: \"マーケティングDiv統括部長の ... X https://x.com > @freemova_cp",
+    "url": "https://x.com/freemova_cp/status/1832274872606847270",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "土井 寛隆 - 株式会社 free mova - 人事 兼 新規事業開発 | LinkedIn 土井 寛隆 - 株式会社 free mova - 人事 兼 新規事業開発 | LinkedIn LinkedIn https://jp.linkedin.com > 寛隆-土井-75b963370",
+    "url": "https://jp.linkedin.com/in/%E5%AF%9B%E9%9A%86-%E5%9C%9F%E4%BA%95-75b963370",
+    "pass": 3
+   },
+   {
+    "quote": "廣瀬 暁己 - 株式会社 freemova - 人材コンサルタント - LinkedIn 廣瀬 暁己 - 株式会社 freemova - 人材コンサルタント - LinkedIn LinkedIn https://jp.linkedin.com > 暁己-廣瀬-138611197",
+    "url": "https://jp.linkedin.com/in/%E6%9A%81%E5%B7%B1-%E5%BB%A3%E7%80%AC-138611197",
+    "pass": 3
+   },
+   {
+    "quote": "川口 励也 - 株式会社 freemova - 人事・採用担当者 - LinkedIn 川口 励也 - 株式会社 freemova - 人事・採用担当者 - LinkedIn LinkedIn https://jp.linkedin.com > 励也-川口-992325370",
+    "url": "https://jp.linkedin.com/in/%E5%8A%B1%E4%B9%9F-%E5%B7%9D%E5%8F%A3-992325370",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 freemova - Facebook 株式会社 freemova - Facebook Facebook https://www.facebook.com > ... > Community Service",
+    "url": "https://www.facebook.com/freemova/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 freemova 、2027年度新卒内定式を開催〜内 定承諾者 ... 株式会社 freemova 、2027年度新卒内定式を開催〜内 定承諾者 ... Facebook https://www.facebook.com > prtimes.business > posts > 株...",
+    "url": "https://www.facebook.com/prtimes.business/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEfreemova2027%E5%B9%B4%E5%BA%A6%E6%96%B0%E5%8D%92%E5%86%85%E5%AE%9A%E5%BC%8F%E3%82%92%E9%96%8B%E5%82%AC%E5%86%85%E5%AE%9A%E6%89%BF%E8%AB%BE%E8%80%85%E6%95%B0243%E5%90%8D%E4%BB%8A%E6%98%A5%E3%81%AF%E7%B7%8F%E5%8B%A2300%E5%90%8D%E3%81%AE%E6%96%B0%E5%8D%92%E5%85%A5%E7%A4%BE%E3%82%92%E4%BA%88%E5%AE%9A/1768341445299938/",
+    "pass": 3
+   },
+   {
+    "quote": "Іноземна мова — це нові можливості без кордонів. FreeMova Іноземна мова — це нові можливості без кордонів. FreeMova Facebook https://www.facebook.com > posts",
+    "url": "https://www.facebook.com/61580728047299/posts/-%D1%96%D0%BD%D0%BE%D0%B7%D0%B5%D0%BC%D0%BD%D0%B0-%D0%BC%D0%BE%D0%B2%D0%B0-%D1%86%D0%B5-%D0%BD%D0%BE%D0%B2%D1%96-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%96-%D0%B1%D0%B5%D0%B7-%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%BD%D1%96%D0%B2freemova-%D0%B1%D0%B5%D0%B7%D0%BA%D0%BE%D1%88%D1%82%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9-%D0%BC%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9-/122094889401024268/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://freemova.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemova.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemova.com/service/250/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemova.com/service/247/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemova.com/service/246/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemova.com/service/245/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemova.com/service/244/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemova.com/service/243/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemova.com/service/241/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemova.com/service/240/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemova.com/service/237/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemova.com/service/252/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemova.com/service/251/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mid-tenshoku.com/agency/a-8134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10195206777/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://mov.am/news/post/8741",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=RgWtE1pFAQA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000547.000024246.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://allhero.co.jp/works/freemova-rebranding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/company_9265603/post_articles/980565",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://type.jp/job-company/39335/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/freemova_0807/n/n9d19d4ef101c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/freemova_0807/n/nfa95c42652a0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/freemova_cp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/freemova_cp/status/1818466055486046457",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/freemova_cp/status/1832274872606847270",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%AF%9B%E9%9A%86-%E5%9C%9F%E4%BA%95-75b963370",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E6%9A%81%E5%B7%B1-%E5%BB%A3%E7%80%AC-138611197",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%8A%B1%E4%B9%9F-%E5%B7%9D%E5%8F%A3-992325370",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/freemova/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/prtimes.business/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEfreemova2027%E5%B9%B4%E5%BA%A6%E6%96%B0%E5%8D%92%E5%86%85%E5%AE%9A%E5%BC%8F%E3%82%92%E9%96%8B%E5%82%AC%E5%86%85%E5%AE%9A%E6%89%BF%E8%AB%BE%E8%80%85%E6%95%B0243%E5%90%8D%E4%BB%8A%E6%98%A5%E3%81%AF%E7%B7%8F%E5%8B%A2300%E5%90%8D%E3%81%AE%E6%96%B0%E5%8D%92%E5%85%A5%E7%A4%BE%E3%82%92%E4%BA%88%E5%AE%9A/1768341445299938/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61580728047299/posts/-%D1%96%D0%BD%D0%BE%D0%B7%D0%B5%D0%BC%D0%BD%D0%B0-%D0%BC%D0%BE%D0%B2%D0%B0-%D1%86%D0%B5-%D0%BD%D0%BE%D0%B2%D1%96-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%96-%D0%B1%D0%B5%D0%B7-%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%BD%D1%96%D0%B2freemova-%D0%B1%D0%B5%D0%B7%D0%BA%D0%BE%D1%88%D1%82%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9-%D0%BC%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9-/122094889401024268/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/freemova_0807/n/n9d19d4ef101c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/freemova_cp",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "freemova 会社概要 資本金 設立",
+   "results": [
+    "https://freemova.com/company/",
+    "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "https://mid-tenshoku.com/agency/a-8134/",
+    "https://en-ambi.com/agency/a-8134/",
+    "https://www.bizreach.jp/companies/44080/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10195206777/",
+    "https://www.wantedly.com/companies/company_9265603",
+    "https://freemova-works.com/company/",
+    "https://jws-japan.or.jp/whitecareer/white_company/11768",
+    "https://job.mynavi.jp/28/pc/search/corp269303/outline.html"
+   ]
+  },
+  {
+   "query": "freemova 事業内容 売上",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "https://freemova.com/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10195206777/",
+    "https://www.wantedly.com/companies/company_9265603",
+    "https://best100.v-tsushin.jp/company/freemova/",
+    "https://prtimes.jp/main/html/rd/p/000000001.000190287.html",
+    "https://www.bizreach.jp/jobs/8145935/",
+    "https://job.mynavi.jp/28/pc/search/corp269303/outline.html",
+    "https://cheercareer.jp/companies/4726",
+    "https://genicpress.com/2323894/"
+   ]
+  },
+  {
+   "query": "freemova 資金調達 株主",
+   "results": [
+    "https://mov.am/news/post/8741",
+    "https://www.youtube.com/watch?v=RgWtE1pFAQA",
+    "https://prtimes.jp/main/html/rd/p/000000547.000024246.html",
+    "https://initial.inc/articles/2hicK7mqfUOSfyWS2ToQEw",
+    "https://teranishi-law.jp/practices/finance.html",
+    "https://freemova.com/",
+    "https://note.com/preventure/n/n606070696d81",
+    "https://bloomo.co.jp/newsroom/article/dn76nn9tv/",
+    "https://zelojapan.com/lawsquare/37677",
+    "https://freemova.com/company/"
+   ]
+  },
+  {
+   "query": "freemova 導入事例",
+   "results": [
+    "https://allhero.co.jp/works/freemova-rebranding/",
+    "https://freemova.com/",
+    "https://www.wantedly.com/companies/company_9265603/post_articles/980565",
+    "https://x.com/freemova_cp",
+    "https://www.instagram.com/freemova_cp/",
+    "https://www.shain-voice.com/corporate/559759403389205/comments/employee-benefits?page=2",
+    "https://www.tiktok.com/@freemova_cp/video/7124992639681760513",
+    "https://job.rikunabi.com/selection/job_descriptions/e9182b23e7043189",
+    "https://www.instagram.com/reel/DAk5ATJPawJ/",
+    "https://freemova.com/service/245/"
+   ]
+  },
+  {
+   "query": "freemova 主要取引先",
+   "results": [
+    "https://freemova.com/company/",
+    "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "https://type.jp/job-company/39335/",
+    "https://job.rikunabi.com/selection/job_descriptions/9b6780d51715a19e",
+    "https://re-katsu.jp/career/company/recruit/57654/",
+    "https://www.wantedly.com/companies/company_9265603/about",
+    "https://www.hatalike.jp/viewjob/3d083bd4dc4132d5/",
+    "https://kai-z.net/companies/freemova/22829/",
+    "http://freemova.com/cms/wp-content/uploads/2024/04/vol9.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com freemova",
+   "results": [
+    "https://note.com/freemova_0807/n/n9d19d4ef101c",
+    "https://note.com/freemova_0807/n/nfa95c42652a0",
+    "https://note.com/allin_pr/n/nea6af67a38a8",
+    "https://note.com/cio_seo/n/nb181f5f272e5",
+    "https://note.com/cheercareer_ceo/n/ne533ab79ecfd?hl=en",
+    "https://note.com/cio_seo/n/n5d129f401848",
+    "https://note.com/pompo_mk/n/nd3f20965cc3a",
+    "https://note.com/pompo_mk/n/nf2d9da5f3a1f",
+    "https://note.com/cio_seo/n/n9f4ee1ed7928",
+    "https://note.com/massansan/n/n0757d1a467b0"
+   ]
+  },
+  {
+   "query": "site:x.com freemova",
+   "results": [
+    "https://x.com/freemova_cp",
+    "https://x.com/freemova_cp/status/1818466055486046457",
+    "https://x.com/PRTIMES_MKTG/status/2116079593333698722",
+    "https://x.com/freemova_cp/status/1832274872606847270",
+    "https://x.com/freemova_cp/status/1761981446171119733",
+    "https://x.com/freemova_cp/status/1951214320735371433",
+    "https://x.com/freemova_cp/status/1789150954874679615",
+    "https://x.com/PRTIMES_LIFE/status/2114841290944950722",
+    "https://x.com/freemova3/status/1963437946037833820",
+    "https://x.com/freemova3"
+   ]
+  },
+  {
+   "query": "site:linkedin.com freemova",
+   "results": [
+    "https://jp.linkedin.com/in/%E5%AF%9B%E9%9A%86-%E5%9C%9F%E4%BA%95-75b963370",
+    "https://jp.linkedin.com/in/%E6%9A%81%E5%B7%B1-%E5%BB%A3%E7%80%AC-138611197",
+    "https://jp.linkedin.com/in/%E5%8A%B1%E4%B9%9F-%E5%B7%9D%E5%8F%A3-992325370",
+    "https://www.linkedin.com/in/mohammed-moh-kilani-327976102",
+    "https://www.linkedin.com/posts/ben-wiselogle-034a5034_hello-from-ukraine-friends-now-with-more-activity-7449781576642711552-uzAw",
+    "https://jp.linkedin.com/in/%E6%B7%B3-%E6%9C%AC%E7%94%B0-582248379",
+    "https://jp.linkedin.com/in/%E8%A3%95%E7%8E%84-%E5%B7%9D%E5%8F%A3-94aa50320",
+    "https://www.linkedin.com/pub/dir/Naoyuki/Matsuda",
+    "https://www.linkedin.com/pub/dir/Takuma/Hara",
+    "https://www.linkedin.com/pub/dir/%E6%9C%AA%E6%9D%A5/%E4%BC%8A%E8%97%A4/jp-0-%E6%97%A5%E6%9C%AC"
+   ]
+  },
+  {
+   "query": "site:facebook.com freemova",
+   "results": [
+    "https://www.facebook.com/freemova/",
+    "https://www.facebook.com/prtimes.business/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEfreemova2027%E5%B9%B4%E5%BA%A6%E6%96%B0%E5%8D%92%E5%86%85%E5%AE%9A%E5%BC%8F%E3%82%92%E9%96%8B%E5%82%AC%E5%86%85%E5%AE%9A%E6%89%BF%E8%AB%BE%E8%80%85%E6%95%B0243%E5%90%8D%E4%BB%8A%E6%98%A5%E3%81%AF%E7%B7%8F%E5%8B%A2300%E5%90%8D%E3%81%AE%E6%96%B0%E5%8D%92%E5%85%A5%E7%A4%BE%E3%82%92%E4%BA%88%E5%AE%9A/1768341445299938/",
+    "https://www.facebook.com/61580728047299/posts/-%D1%96%D0%BD%D0%BE%D0%B7%D0%B5%D0%BC%D0%BD%D0%B0-%D0%BC%D0%BE%D0%B2%D0%B0-%D1%86%D0%B5-%D0%BD%D0%BE%D0%B2%D1%96-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%96-%D0%B1%D0%B5%D0%B7-%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%BD%D1%96%D0%B2freemova-%D0%B1%D0%B5%D0%B7%D0%BA%D0%BE%D1%88%D1%82%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9-%D0%BC%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9-/122094889401024268/",
+    "https://www.facebook.com/takamasa.aoki.37/posts/2025%E5%B9%B4-22%E8%A9%A6%E5%90%88%E7%9B%AE%E2%91%A0-photo-by-baseball_hazooo-%E6%A5%B5%E5%AF%92%E9%81%8E%E9%85%B7%E3%81%AA%E5%A4%A9%E5%80%99%E3%81%AE%E4%B8%AD%E6%9C%AC%E5%BD%93%E3%81%AB%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%BE%8C%E3%81%A8%E3%82%82%E5%AE%9C%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E8%87%B4%E3%81%97%E3%81%BE%E3%81%99%EF%B8%8F%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5/4829613243851754/",
+    "https://www.facebook.com/daiki.yoneyama.94/",
+    "https://www.facebook.com/61576502429415/posts/free-mova%E7%A4%BE%E5%93%A1%E3%81%A7ai%E7%94%BB%E5%83%8F%E3%82%AF%E3%82%A4%E3%82%BA%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E6%96%B0%E5%8D%92-%E5%B0%B1%E6%B4%BB-ai%E3%82%AF%E3%82%A4%E3%82%BA-ai-freemova/122121649370883414/",
+    "https://www.facebook.com/groups/494952595528287/posts/1743027214054146/",
+    "https://www.facebook.com/takamasa.aoki.37/posts/2025%E5%B9%B4-22%E8%A9%A6%E5%90%88%E7%9B%AE%E2%91%A1-photo-by-baseball_hazooo-%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E4%BC%81%E6%A5%AD%E6%A7%98free-mova%E6%A7%98freemova_cp-cafedining-o/4832473136899098/",
+    "https://www.facebook.com/p/%E5%9C%9F%E4%BA%95%E5%AF%9B%E9%9A%86-100088787984240/",
+    "https://www.facebook.com/tnaknockouts/videos/allie-and-rosemary-clash-with-mila-moore-and-victoria-crawfordtnawrestling/1933188447335714/"
+   ]
+  },
+  {
+   "query": "freemova note 社長",
+   "results": [
+    "https://note.com/freemova_0807/n/n9d19d4ef101c",
+    "https://freemova.com/",
+    "https://www.wantedly.com/companies/company_9265603/post_articles/878145",
+    "https://note.com/allin_pr/n/nea6af67a38a8",
+    "https://www.shain-voice.com/corporate/559759403389205/comments",
+    "https://job.mynavi.jp/27/pc/search/corp269303/outline.html",
+    "https://x.com/freemova_cp",
+    "https://note.com/mover_company/m/mef162ee4efea/hashtag/%E7%A4%BE%E9%95%B7",
+    "https://www.tiktok.com/@freemova_cp/video/7174715757438258433",
+    "https://www.wantedly.com/companies/company_9265603/post_articles/519411"
+   ]
+  },
+  {
+   "query": "freemova X 投稿",
+   "results": [
+    "https://x.com/freemova_cp",
+    "https://freemova.com/",
+    "https://www.wantedly.com/companies/company_9265603/post_articles/466231",
+    "https://www.shain-voice.com/corporate/559759403389205/comments/employee-benefits?page=2",
+    "https://www.instagram.com/reel/DAk5ATJPawJ/",
+    "https://x.com/freemova_cp/status/1951214320735371433",
+    "https://www.instagram.com/freemova_cp/",
+    "https://re-katsu.jp/career/company/recruit/57686/",
+    "https://www.tiktok.com/@freemova_cp",
+    "https://x.com/freemova_cp/status/1692099921128931453"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部24頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部24頁・検索11回）"
+ }
+}

@@ -1,0 +1,694 @@
+{
+ "name": "ユニゾン・テクノロジー",
+ "aliases": [
+  "unison-tech"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T15:43:44.601527+00:00",
+ "official_url": "https://www.unison-tech.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2021年1月6日",
+    "url": "https://www.unison-tech.jp/company/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1000万円",
+    "url": "https://www.unison-tech.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1,000万円",
+    "url": "https://best100.v-tsushin.jp/company/unison-tech/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "112名（アルバイト、契約社員含む）",
+    "url": "https://www.unison-tech.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "情報システム、アプリケーション設計・開発事業 情報インフラストラクチャーの設計・開発事業 IT領域における人材紹介事業",
+    "url": "https://www.unison-tech.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "ITを専門にした転職・就職支援、インフラ領域のシステムインテグレーション事業、フリーランスエンジニア支援を展開。企業の持続的な成長をサポートしています。",
+    "url": "https://best100.v-tsushin.jp/company/unison-tech/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒150-0002 東京都渋谷区渋谷3-15-6 並木橋ビル4F",
+    "url": "https://www.unison-tech.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "東京都渋谷区渋谷3-15-6 並木橋ビル4F",
+    "url": "https://best100.v-tsushin.jp/company/unison-tech/",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都渋谷区渋谷3丁目15番6号並木橋ビル4階 同じ住所の会社を検索",
+    "url": "https://catr.jp/companies/a7256/194496",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都 渋谷区 渋谷 3-15-6 並木橋ビル4階 トウキヨウト シブヤク シブヤ 3-15-6 ナミキバシビル4カイ",
+    "url": "https://catr.jp/companies/a7256/194496",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "選出の記録": [
+   {
+    "quote": "【2025年ベストセールス】なぜ、ベストセールスに選出されたのか？",
+    "url": "https://www.unison-tech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ベストベンチャー100に選出",
+    "url": "https://www.unison-tech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ユニゾン・テクノロジー 土肥 将司 | ベストベンチャー100",
+    "url": "https://best100.v-tsushin.jp/company/unison-tech/",
+    "pass": 3
+   }
+  ],
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "有料職業紹介番号：13-ユ-313348",
+    "url": "https://www.unison-tech.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "労働者派遣事業番号：派13-316491",
+    "url": "https://www.unison-tech.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "週3日〜稼働可能な案件が多く、実現したいライフスタイルに合わせて、案件のご紹介をさせていただきます",
+    "url": "https://www.unison-tech.jp/freelancer/",
+    "pass": 1
+   },
+   {
+    "quote": "案件紹介〜案件参画まですべて無料でご利用いただけます",
+    "url": "https://www.unison-tech.jp/freelancer/",
+    "pass": 1
+   },
+   {
+    "quote": "2032年度までに売上100億円達成、AI領域で新事業を創出",
+    "url": "https://best100.v-tsushin.jp/company/unison-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "主力事業として、ITエンジニアに特化した転職・就職支援サービスを展開し、求職者と企業のマッチングを実現しています",
+    "url": "https://best100.v-tsushin.jp/company/unison-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、フリーランスエンジニアの案件紹介や支援も行い、多様な働き方を実現する人材プラットフォームとして成長を続けています",
+    "url": "https://best100.v-tsushin.jp/company/unison-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "2032年度までに売上100億円を達成し、IT業界を代表する企業へと成長することを目指しています",
+    "url": "https://best100.v-tsushin.jp/company/unison-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "AIエンジニアの育成・派遣事業や、AI技術を活用した新サービスの開発により、事業ポートフォリオを拡充していきます",
+    "url": "https://best100.v-tsushin.jp/company/unison-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "SUUMOやHOME'Sといったサービスで物件情報が透明化し、それまで仲介業者の価値を支えていた「情報の非対称性」が崩れ始めていました",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "「ネットで全部見られるなら、仲介手数料という中間マージンは要らなくなるのでは」",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "誰を、どの企業へ、どのような基準でご紹介するのか",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "私は、売上を追うことを大切にしています",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "給与も、福利厚生も、新しい挑戦の機会も、売上がなければ用意できません",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "社員の成長が質を高め、顧客の発展が社会を前進させる",
+    "url": "https://www.unison-tech.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客と共に社会を成長させ、",
+    "url": "https://www.unison-tech.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは事業を通じて、顧客の潜在的な力を引き出し、長期的な価値創出を支援してきました",
+    "url": "https://www.unison-tech.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "大学卒業後、不動産会社に就職し、その後エンジニアにキャリアチェンジ",
+    "url": "https://www.unison-tech.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "私は大阪府出身で、不動産営業からキャリアをスタートしました",
+    "url": "https://best100.v-tsushin.jp/company/unison-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "また、人材サービスとシステムインテグレーションという2つの事業を連携させることで、顧客企業に対してワンストップでソリューションを提供できる体制を構築しています",
+    "url": "https://best100.v-tsushin.jp/company/unison-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "法人番号に紐づく現存する事業所の被保険者数を合計しています",
+    "url": "https://catr.jp/companies/a7256/194496",
+    "pass": 3
+   },
+   {
+    "quote": "私の経歴は、不動産営業職 → エンジニア職 → ITインフラのソリューション営業、そして創業、という少し変わった道のりです",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ不動産営業からエンジニアへ転身したのか",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "10年以上前、不動産の営業職時代に、私は小さな支店を任せていただいていました",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "金融緩和と低金利で投資はブーム、東京五輪に向けた再開発もあり、目の前の数字は確かに良かった",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "いわゆる不動産テックが、業界を破壊する側として語られ始めた頃です",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "顧客折衝を主な役割として、プロジェクトに参画していきました",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "より多くの顧客の課題を解決し、より多くのエンジニアの機会を生み出すには、プロジェクトを動かす側に立つ必要がある",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "COMPANY｜UNISON TECHNOLOGY - 株式会社ユニゾン・テクノロジー — Jan 6, 2021 · COMPANY PROFILE 会社概要 株式会社ユニゾン・テクノロジー 設立 2021年1月6日 資本金 1000万円 役員 代表取締役 土肥 将司 社員数 112名（アルバイト、契約社員含む）",
+    "url": "https://www.unison-tech.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "UNISON TECHNOLOGY - 株式会社ユニゾン・テクノロジー — ユニゾン・テクノロジー｜IT人材紹介・DX推進・インフラ構築まで一気通貫で対応。高度な人材ソリューションと技術力を武器に、深刻なIT人材の量と質における課題を解決します。ビジネスの成長を加速させる最適なパートナーとして、企業の未来を支えます。",
+    "url": "https://www.unison-tech.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ユニゾン・テクノロジー（東京都）の会社概要・役員 | Compal... — 〒150-0002 東京都渋谷区に本社を置く株式会社ユニゾン・テクノロジーの企業情報。株式会社ユニゾン・テクノロジーは、情報技術を軸に多角的な事業を展開し。IT (IT-03)、2021年設立、社会保険被保険者数96名。純利益-189万円。代表者 土肥将司。役員1名・登記3件・決算1期。",
+    "url": "https://compalyze.co.jp/company/3010001215015",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ユニゾン・テクノロジーの会社概要|転職・求人・中途採用情報...企業概要 | 株式会社ユニゾンテック企業情報｜株式会社ユニゾン・代表挨拶・会社概要・アクセス｜UNISON株式会社ユニゾン・テクノロジー 土肥 将司 | ベストベンチャー100 — Jan 6, 2021 · 「株式会社ユニゾン・テクノロジー」の企業情報ページです。株式会社ユニゾン・テクノロジーで募集中の求人（4件）や会社概要などの企業情報を掲載しています。マイナビ転職の企業情報ページでは、さまざまな業種・職種で求人を募集している企業の情報を探せます。 社名 株式会社ユニゾンテック 代表者 浦上 正行 本社所在地 〒150-0002 東京都渋谷区渋谷2－19－15 宮益坂ビルディング609 TEL. 050-3126-5492 資本金 100万円 設立 2023年 取引銀行 みずほ銀行、三井住友銀行、GMOあおぞらネッ",
+    "url": "https://tenshoku.mynavi.jp/company/331968/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ユニゾン・テクノロジー 土肥 将司 | ベストベンチャー100UNISON TECHNOLOGY - 株式会社ユニゾン・テクノロジーCOMPANY｜UNISON TECHNOLOGY - 株式会社ユニゾン・テクノロジー株式会社ユニゾン・テクノロジーの会社情報・決算公告 | 官報決算デー...株式会社ユニゾン・テクノロジーってどんな会社？事業内容、仕事内容...株式会社ユニゾン・テクノロジー（東京都）の会社概要・役員 | Compal...株式会社ユニゾン・テクノロジーの会社概要|転職・求人・中途採用情報... — ─ 今後のビジョンをお願いいたします。 2032年度までに売上100億円を達成し、IT業界を代表する企業へと成長することを目指しています。 具体的には、現在の人材サービスとインフラ事業を基盤としながら、AI領域への本格参入を計画しています。 ユニゾン・テクノロジー｜IT人",
+    "url": "https://best100.v-tsushin.jp/company/unison-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "COMPANY｜UNISON TECHNOLOGY - 株式会社ユニゾン・テクノロジー — Jan 6, 2021 · ユニゾン・テクノロジーは、創業以来の黒字経営を継続。IT領域を軸とした多角的なサービス展開により、強固な事業基盤を築いてまいりました。確かな実績と技術力を背景に、お客様のビジネス成長を長期的に支え続けます。",
+    "url": "https://www.unison-tech.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ユニゾン・テクノロジーの会社情報・決算公告 | 官報決算デー... — Jul 6, 2026 · 株式会社ユニゾン・テクノロジーの会社情報を掲載しています。最新の2021年12月期決算は純利益 188万5000円、利益剰余金 188万5000円、総資産3223万7000円です。社会保険被保険者数は87人です。所在地は東京都渋谷区渋谷三丁目11番7号第2ミネギシビル9階で、代表者は土肥 将司さんです。",
+    "url": "https://catr.jp/companies/a7256/194496",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ユニゾン・テクノロジーってどんな会社？事業内容、仕事内容... — Sep 28, 2024 · 株式会社ユニゾン・テクノロジーは、日本のIT社会を支える企業です。 自社サービスを通じてIT人材の育成および人材活用に力を入れており、急速に成長しています。 設立以来、毎月10％以上の売上アップを実現しているグロース企業です。",
+    "url": "https://jobhakase.com/archives/71853",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ユニゾン・テクノロジー（東京都）の会社概要・役員 | Compal... — 株式会社ユニゾン・テクノロジーは、情報技術を軸に多角的な事業を展開し、社会全体の課題解決と顧客・社員・事業の成長を追求する企業です。 同社の主要事業は、システムインテグレーション事業、IT人材支援事業、IT教育事業の3本柱で構成されてい ...",
+    "url": "https://compalyze.co.jp/company/3010001215015",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ユニゾン・テクノロジー の企業情報 | バフェット・コード — 株式会社ユニゾン・テクノロジーの財務情報はバフェット・コードでCHECK!!",
+    "url": "https://www.buffett-code.com/company/a4ja3ffvg7/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ユニゾン・テクノロジー (東京都渋谷区)の企業情報|カイシャ... — 株式会社ユニゾン・テクノロジーの決算情報を調べたい（上場企業・一部の大企業のみ対応） 金融庁が公開する「EDINET」から検索することができます。 検索方法 書類検索 > 書類詳細検索 から 提出者法人番号の欄に「3010001215015」を入力して検索して ...",
+    "url": "https://kaisharesearch.com/company/detail/3010001215015/",
+    "pass": 3
+   },
+   {
+    "quote": "SERVICE｜UNISON TECHNOLOGY - 株式会社ユニゾン・テクノロジー — 株式会社ユニゾン・テクノロジーは、企業の持続的な成長にコミットする「総合ITパートナー」です。形骸化したサービスを押し付けるのではなく、お客様の課題に真摯に向き合い、高付加価値な解決策をオーダーメイドで導き出します。クラウド・インフラの基盤構築からDX推進、そしてIT人材 ...",
+    "url": "https://www.unison-tech.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ユニゾン・テクノロジーの会社情報 - Wantedly導入事例 / ユニソンプライム - unison-prime.com株式会社ユニゾン・テクノロジーの募集・採用・募集条件 - Wantedly — エンゲージメント 社内報 | チームの状態 | 福利厚生 採用管理システム 機能一覧 | 導入事例 返信が必要な方はこちら Wantedlyへの意見を送る 推奨環境 ヘルプ 利用規約 プライバシーポリシー 利用者情報の外部送信について 販売・運用代行プログラム 導入事例 ユニット装置の製品は多様な業界で導入されています。 様々なアプリケーション使用例をアニメーションでご覧いただけます。 ユニット装置の豊富なラインナップの中から厳選されたアプリケーションデモ機の紹介ムービーをご覧いただけます。 エンゲージメント 社内報 | チームの状態 | 福利厚生 採用管理システム 機能一覧 | 導",
+    "url": "https://www.wantedly.com/companies/company_8577748",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・主要取引先｜会社案内｜株式会社ユニゾンシステムズ企業情報｜株式会社ユニゾン・ホールディングス株式会社ユニゾン・テクノロジーの会社情報/転職・求人情報 | IT転職... — Nov 15, 1991 · 会社案内 会社概要 代表挨拶 沿革 経営理念・経営ビジョン・行動指針 ユニゾンシステムズの強み 製品紹介 UVP (Unixon Video Platform) 放送配信事業者向けソリューション 導入事例 〒160-0007 東京都新宿区荒木町13-35 ユニゾンビル7階 TEL : 03-6779-9286 FAX : 03-6272-8193 設立 2021年1月8日 資本金 8000万円 役員 代表取締役 取締役 取締役 取締役（非常勤） 藤井 均 浦坂 拓己 横井 修 日置 哲也 取引先企業 富士通株式会社 三菱食品株式会社 主要取引 ... 株式会社ユニゾン・テクノロジ",
+    "url": "https://www.unixon.co.jp/company/profile",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ユニゾン・テクノロジーの会社情報/転職・求人情報 | IT転職... — 株式会社ユニゾン・テクノロジーの会社情報/転職・求人情報一覧ページです。 IT転職エージェント-Geekly (ギークリー)なら、専門のキャリアアドバイザーが、30,000件以上の業界特化の豊富な求人の中からあなたにとっての「良い会社」をご紹介。",
+    "url": "https://www.geekly.co.jp/companys/data/9116/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "株式会社ユニゾンテクノロジーの記事一覧｜note（ノート） ユニゾンnote編集部です。 前回の投稿に続き、今回も代表インタビューを通して弊社、ユニゾン・テクノロジーを紹介していきたいと思います！ 会社の事業についてはトップページにもあるURLから詳しくご覧いただけるのでぜひ、サイトを訪れてみてださい！",
+    "url": "https://note.com/unison_career/all",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ユニゾンテクノロジー｜note 株式会社ユニゾンテクノロジー公式アカウントです！ サービスページ：https://unison-career.com/ コーポレート：https://www.unison-tech.jp/",
+    "url": "https://note.com/unison_career",
+    "pass": 3
+   },
+   {
+    "quote": "「創業の経緯」なぜこの会社を創ったのか｜土肥将司｜ユニゾン・テク... Jul 28, 2026 · note、はじめました。株式会社ユニゾン・テクノロジー代表の土肥です。 創業から5年が経ち、おかげさまで多くのお客様に私たちのサービスをご活用いただけるようになりました。まずは、この5年間支えてくださった ...",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "土肥将司｜ユニゾン・テクノロジー代表取締役：採用・事業づくり｜not... ユニゾン・テクノロジー代表取締役。IT転職・就活支援、インフラ領域のSI事業を展開しています。うまくいった話だけでなく、失敗や迷いも含めて、採用・事業・組織づくりの舞台裏を正直に書きます。整っていない会社が大きくなっていく過程を、そのまま記録していきます。1991年生まれ",
+    "url": "https://note.com/dandy_eagle1856",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "株式会社ユニゾンテクノロジーの記事一覧｜note",
+    "url": "https://note.com/unison_career/all",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ユニゾンテクノロジー公式アカウントです！",
+    "url": "https://note.com/unison_career/all",
+    "pass": 3
+   },
+   {
+    "quote": "https://unison-career.com/",
+    "url": "https://note.com/unison_career/all",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.unison-tech.jp/",
+    "url": "https://note.com/unison_career/all",
+    "pass": 3
+   },
+   {
+    "quote": "サービスページ：https://unison-career.…",
+    "url": "https://note.com/unison_career/all",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代に検索意図をあえて再考する｜ライター・マーケター採用強化中！",
+    "url": "https://note.com/unison_career/all",
+    "pass": 3
+   },
+   {
+    "quote": "SEO・LLMO動向【最新考察】｜社内ライター採用強化中！",
+    "url": "https://note.com/unison_career/all",
+    "pass": 3
+   },
+   {
+    "quote": "「創業の経緯」なぜこの会社を創ったのか｜土肥将司｜ユニゾン・テクノロジー代表取締役：採用・事業づくり",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "土肥将司｜ユニゾン・テクノロジー代表取締役：採用・事業づくり",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "note、はじめました。株式会社ユニゾン・テクノロジー代表の土肥です。",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "創業から5年が経ち、おかげさまで多くのお客様に私たちのサービスをご活用いただけるようになりました。まずは、この5年間支えてくださったすべての方々に、心よりお礼を申し上げます。",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "このnoteでは、これから代表である私自身の考えを、直接お伝えしていきたいと思っています。ユニゾン・テクノロジーはどこへ向かおうとしているのか。目まぐるしく変わる時代の中で、私が何を考えているのか。飾らず、正直に書いていくつもりです。",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "最初の一本は、原点である「創業」の話から始めます。",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "「なぜ採用から業界を変える挑戦をしたのか」「なぜこの会社を創ったのか」",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "その理由と、創業後に見た理想と現実について、語らせてください。",
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "pass": 3
+   },
+   {
+    "quote": "土肥将司｜ユニゾン・テクノロジー代表取締役：採用・事業づくり｜note",
+    "url": "https://note.com/dandy_eagle1856",
+    "pass": 3
+   },
+   {
+    "quote": "土肥将司｜ユニゾン・テクノロジー代表取締役：採用・事業づくり",
+    "url": "https://note.com/dandy_eagle1856",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "土肥 将司 - 株式会社ユニゾン・テクノロジー - 代表取締役 【働くエ...2 \"土肥将司\" profiles | LinkedIn土肥 将司 - 株式会社ユニゾン・テクノロジーの経営者 | LinkedInエンジニアとして就職決まった時は本当に嬉しかった。21歳に色々失敗...Sudeshwar Chander Saki - Owner, Unison Technology | LinkedInUnison Technology Corporation - LinkedInUnison Technology - Co-Founder | LinkedIn 株式会社ユニゾン・テクノロジー - 代表取締役 【働くエンジニアに自由を】 経歴 → エンジニア → ITソリューション営業 → ㈱ユニゾン・テクノロジー創業 ITエンジニアの特化型転職サイト「ユニゾンキャリア」運営 · 職歴: 株式",
+    "url": "https://jp.linkedin.com/in/将司-土肥-65b857214",
+    "pass": 3
+   },
+   {
+    "quote": "2 \"土肥将司\" profiles | LinkedIn 株式会社ユニゾン・テクノロジー - 代表取締役 【働くエンジニアに自由を】 経歴 → エンジニア → ITソリューション営業 → ㈱ユニゾン ...",
+    "url": "https://www.linkedin.com/pub/dir/将司/土肥",
+    "pass": 3
+   },
+   {
+    "quote": "土肥 将司 - 株式会社ユニゾン・テクノロジーの経営者 | LinkedIn 株式会社ユニゾン・テクノロジーの経営者 · 職歴: 株式会社ユニゾン・テクノロジー · 場所: 1400011。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで土肥 将司さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/将司-土肥-4461a8405",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.unison-tech.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unison-tech.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unison-tech.jp/company/vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unison-tech.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unison-tech.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unison-tech.jp/systemintegration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unison-tech.jp/freelancer/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://compalyze.co.jp/company/3010001215015",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://best100.v-tsushin.jp/company/unison-tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/a7256/194496",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/3010001215015",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unixon.co.jp/casestudy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unixon.co.jp/company/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/unison_career/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/unison_career",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/将司-土肥-65b857214",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/将司/土肥",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/将司-土肥-4461a8405",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dandy_eagle1856",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ユニゾン・テクノロジー 会社概要 資本金 設立",
+   "results": [
+    "https://www.unison-tech.jp/company/",
+    "https://www.unison-tech.jp/",
+    "https://compalyze.co.jp/company/3010001215015",
+    "https://tenshoku.mynavi.jp/company/331968/",
+    "https://www.unizontech.jp/company.html",
+    "https://www.unison-ms.co.jp/company/index.html",
+    "https://best100.v-tsushin.jp/company/unison-tech/"
+   ]
+  },
+  {
+   "query": "ユニゾン・テクノロジー 事業内容 売上",
+   "results": [
+    "https://best100.v-tsushin.jp/company/unison-tech/",
+    "https://www.unison-tech.jp/",
+    "https://www.unison-tech.jp/company/",
+    "https://catr.jp/companies/a7256/194496",
+    "https://jobhakase.com/archives/71853",
+    "https://compalyze.co.jp/company/3010001215015",
+    "https://tenshoku.mynavi.jp/company/331968/"
+   ]
+  },
+  {
+   "query": "ユニゾン・テクノロジー 資金調達 株主",
+   "results": [
+    "https://catr.jp/companies/a7256/194496",
+    "https://compalyze.co.jp/company/3010001215015",
+    "https://www.unison-tech.jp/",
+    "https://www.buffett-code.com/company/a4ja3ffvg7/",
+    "https://kaisharesearch.com/company/detail/3010001215015/",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3010001215015",
+    "https://startup-db.com/global-companies/MXBzgd3HKOMeA6bj"
+   ]
+  },
+  {
+   "query": "ユニゾン・テクノロジー 導入事例",
+   "results": [
+    "https://www.unixon.co.jp/casestudy/",
+    "https://www.unison-tech.jp/",
+    "https://www.unison-tech.jp/service/",
+    "https://www.wantedly.com/companies/company_8577748",
+    "http://www.unison-prime.com/case_study/category_list.html",
+    "https://www.wantedly.com/companies/company_8577748/projects",
+    "https://www.unixon.co.jp/casestudy/case/"
+   ]
+  },
+  {
+   "query": "ユニゾン・テクノロジー 主要取引先",
+   "results": [
+    "https://www.unison-tech.jp/",
+    "https://www.unison-tech.jp/company/",
+    "https://www.unixon.co.jp/company/profile",
+    "https://www.unison-hd.co.jp/corporate/",
+    "https://www.geekly.co.jp/companys/data/9116/",
+    "https://www.wantedly.com/companies/company_8577748/members",
+    "https://www.uni-son.biz/cont1/8.html"
+   ]
+  },
+  {
+   "query": "site:note.com ユニゾン・テクノロジー",
+   "results": [
+    "https://note.com/unison_career/all",
+    "https://note.com/unison_career",
+    "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "https://note.com/dandy_eagle1856/n/n6b8e23013c85?hl=en",
+    "https://note.com/dandy_eagle1856/n/n4847423c8b1e",
+    "https://note.com/dandy_eagle1856",
+    "https://note.com/akatu_unison"
+   ]
+  },
+  {
+   "query": "site:x.com ユニゾン・テクノロジー",
+   "results": [
+    "https://x.com/unison_us",
+    "https://x.com/utc_saiyou",
+    "https://x.com/UaW6wnKW8c87193/status/2053657553192825031",
+    "https://x.com/UnisonCareer/status/2103409188403892517",
+    "https://x.com/TagU1FA02gGqMhD/status/2089170820132491698",
+    "https://x.com/UaW6wnKW8c87193/status/2032683646981910974",
+    "https://x.com/rsnoble"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ユニゾン・テクノロジー",
+   "results": [
+    "https://jp.linkedin.com/in/将司-土肥-65b857214",
+    "https://www.linkedin.com/pub/dir/将司/土肥",
+    "https://jp.linkedin.com/in/将司-土肥-4461a8405",
+    "https://in.linkedin.com/in/sudeshwar-chander-saki-6791233a",
+    "https://ca.linkedin.com/company/unisontechnology",
+    "https://in.linkedin.com/in/unison-technology-70aab4201",
+    "https://www.linkedin.com/posts/将司-土肥-65b857214_エンジニアとして就職決まった時は本当に嬉しかった21歳に色々失敗して一からスタート-activity-6839101438103236608-gwBz"
+   ]
+  },
+  {
+   "query": "site:facebook.com ユニゾン・テクノロジー",
+   "results": []
+  },
+  {
+   "query": "ユニゾン・テクノロジー note 社長",
+   "results": [
+    "https://www.unison-tech.jp/news/代表・土肥将司がnoteを始めました/",
+    "https://note.com/dandy_eagle1856/n/n6b8e23013c85",
+    "https://note.com/dandy_eagle1856",
+    "https://www.unison-tech.jp/company/",
+    "https://jp.linkedin.com/in/将司-土肥-65b857214",
+    "https://www.wantedly.com/companies/company_8577748/members",
+    "https://www.unixon.co.jp/news/archives/153"
+   ]
+  },
+  {
+   "query": "ユニゾン・テクノロジー X 投稿",
+   "results": [
+    "https://www.unison-tech.jp/",
+    "https://www.unison-tech.jp/news/",
+    "https://x.com/unixon_recruit",
+    "https://x.com/unisonleague_jp/status/2117092042644045980",
+    "https://prtimes.jp/main/html/rd/p/000000003.000175663.html",
+    "https://jp.linkedin.com/in/将司-土肥-65b857214",
+    "https://hirogaru.jp/bizboost/article_view.php?id=5314"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部14頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部14頁・検索11回）",
+  "代表者": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部14頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部14頁・検索11回）",
+  "客は誰か": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部14頁・検索11回）",
+  "資本金・株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部14頁・検索11回）"
+ }
+}

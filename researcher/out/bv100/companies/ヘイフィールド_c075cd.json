@@ -1,0 +1,1350 @@
+{
+ "name": "ヘイフィールド",
+ "aliases": [
+  "hayfield"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T15:29:02.666828+00:00",
+ "official_url": "https://hayfield.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒150-0013 東京都渋谷区恵比寿１‐23‐23 恵比寿スクエア５F",
+    "url": "https://hayfield.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "東京都品川区西五反田七丁目1番10号 同じ住所の会社を検索",
+    "url": "https://catr.jp/companies/b3f30/162268/settlements/a3557/395855",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都渋谷区恵比寿1丁目23番23号 同じ住所の会社を検索",
+    "url": "https://catr.jp/companies/b3f30/162268",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都 渋谷区 恵比寿 1-23-23 恵比寿スクエア5階 トウキヨウト シブヤク エビス 1-23-23 エビススクエア5カイ",
+    "url": "https://catr.jp/companies/b3f30/162268",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "人材サービス事業 インターネットメディア事業",
+    "url": "https://hayfield.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "不動産業界専門の人材紹介サービス「宅建Jobエージェント」",
+    "url": "https://hayfield.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「建設ワークキャリア」は建設業界専門の人材紹介サービスです",
+    "url": "https://hayfield.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「宅建Jobスタッフィング」は不動産業界専門の人材派遣サービスです",
+    "url": "https://hayfield.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産業界専門の人材紹介サービス「宅建Jobエージェント」",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "最適な求人を紹介し、二人三脚で内定までをサポートします",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "求職者の希望にあった最適な求人を精査して紹介しています",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "登録から求人紹介、書類添削、面接対策など、全サポートを無料で利用することができます",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "「セールスJobエージェント」は営業職に特化した人材紹介サービスです",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "営業職への転職を目指す方には、希望や強みに合った求人のご紹介から選考対策まで伴走",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "営業人材を採用したい企業には、求める人物像に合った人材をご紹介し、採用を支援しています",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "「建設ワークキャリア」は建設業界専門の人材紹介サービスです",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "「宅建Jobスタッフィング」は不動産業界専門の人材派遣サービスです",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産企業様から人材派遣のご依頼を受け、ニーズに応じた即戦力のスタッフを派遣します",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "職業紹介事業許可番号 13-ユ-311453",
+    "url": "https://hayfield.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "労働者派遣事業許可番号 派13-318161",
+    "url": "https://hayfield.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります",
+    "url": "https://hayfield.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "イシン株式会社にエントリーした企業の中から、イシン株式会社が厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます",
+    "url": "https://hayfield.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "未経験から挑戦できる求人や、高年収を目指せる求人を紹介します",
+    "url": "https://hayfield.jp/news/3118/",
+    "pass": 1
+   },
+   {
+    "quote": "ヘイフィールドの決算・売上・資本金｜官報決算公告データ | Firmnavi",
+    "url": "https://firmnavi.com/companies/g76-013",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヘイフィールドの導入事例【PORTERS】人材紹介・人材派遣管理システム",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヘイフィールド | 人材紹介・人材派遣業務管理クラウドシステム",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "医師、看護士、薬剤師の人材紹介／派遣に特化",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介事業を開始する時に役立つ情報を掲載",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介業・人材派遣業の売上を拡大するためのお役立ちコンテンツを掲載",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介業・人材派遣業全般に役立つノウハウを無料で公開",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介業・人材派遣業でよく使うテンプレートを無償でダウンロード",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介管理システム・人材派遣管理システム TOP",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介管理システム【PORTERS Agent】",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "――最初に、御社の事業内容をお聞かせください",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "主なサービスは、不動産業界専門の人材紹介サービス「宅建Jobエージェント」、不動産業界の求人情報サイト「不動産ジョブ」、建設業界専門の人材紹介サービス「建設ワークキャリア」です",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "今年の9月には、不動産業界に特化した人材派遣サービス「宅建Jobスタッフィング」が加わりました",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "現在、約80人の従業員で各サービスを運営しています",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "当社には、大手人材紹介会社から転職してきたメンバーが複数いますが、みな入社時に「情報整理と共有ができている」と驚きます",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "小池氏：蓄積された情報は、人材紹介や派遣事業に活かすだけでなく、当社のオウンドメディア「宅建Jobマガジン」の記事情報としても活用しています",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "ヘイフィールドの業務改善事例｜導入したツールと現場を支える取り組みを紹介します！｜株式会社ヘイフィールド 採用チーム",
+    "url": "https://note.com/ideal_honest4397/n/nae9f1343551c",
+    "pass": 3
+   },
+   {
+    "quote": "ヘイフィールドの業務改善事例｜導入したツールと現場を支える取り組みを紹介します！",
+    "url": "https://note.com/ideal_honest4397/n/nae9f1343551c",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、弊社で導入しているツールについてご紹介します",
+    "url": "https://note.com/ideal_honest4397/n/nae9f1343551c",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、弊社が直近で導入したツールやツールの活用方法・導入の効果、そしてその裏にある弊社の業務改善に対する考え方について、ご紹介します",
+    "url": "https://note.com/ideal_honest4397/n/nae9f1343551c",
+    "pass": 3
+   },
+   {
+    "quote": "今回ご紹介したツール以外にも、弊社では様々なツールを活用し、業務効率化やDX化を図っています",
+    "url": "https://note.com/ideal_honest4397/n/nae9f1343551c",
+    "pass": 3
+   },
+   {
+    "quote": "今回は直近1年で導入したツールについてご紹介しました",
+    "url": "https://note.com/ideal_honest4397/n/nae9f1343551c",
+    "pass": 3
+   },
+   {
+    "quote": "ヘイフィールドの業務改善事例｜導入したツールと現場を支える取り組みを紹介します！ | 株式会社ヘイフィールド",
+    "url": "https://www.wantedly.com/companies/company_38863/post_articles/1032212",
+    "pass": 3
+   },
+   {
+    "quote": "ヘイフィールドの業務改善事例｜導入したツールと現場を支える取り組みを紹介します！",
+    "url": "https://www.wantedly.com/companies/company_38863/post_articles/1032212",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、弊社で導入しているツールについてご紹介します",
+    "url": "https://www.wantedly.com/companies/company_38863/post_articles/1032212",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、弊社が直近で導入したツールやツールの活用方法・導入の効果、そしてその裏にある弊社の業務改善に対する考え方について、ご紹介します",
+    "url": "https://www.wantedly.com/companies/company_38863/post_articles/1032212",
+    "pass": 3
+   },
+   {
+    "quote": "今回ご紹介したツール以外にも、弊社では様々なツールを活用し、業務効率化やDX化を図っています",
+    "url": "https://www.wantedly.com/companies/company_38863/post_articles/1032212",
+    "pass": 3
+   },
+   {
+    "quote": "今回は直近1年で導入したツールについてご紹介しました",
+    "url": "https://www.wantedly.com/companies/company_38863/post_articles/1032212",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介歴8年です",
+    "url": "https://www.wantedly.com/companies/company_38863/members",
+    "pass": 3
+   },
+   {
+    "quote": "実は、フルキャストにいた当時からヘイフィールドの収益性の高さやビジネスモデルにはめちゃくちゃ興味があったんですよ",
+    "url": "https://note.com/ideal_honest4397/n/ne54de163c3fa",
+    "pass": 3
+   },
+   {
+    "quote": "【社員紹介】「営業としての地力を高めたい」企業の経営課題に向き合うRAだからこそ、得られる成長とは",
+    "url": "https://note.com/ideal_honest4397",
+    "pass": 3
+   },
+   {
+    "quote": "【新規事業紹介】建設ワークキャリアってどんなチーム？働き方・雰囲気・やりがいをメンバーに聞いてみました！",
+    "url": "https://note.com/ideal_honest4397",
+    "pass": 3
+   },
+   {
+    "quote": "【新規事業紹介】採用支援が企業を救う一手になる",
+    "url": "https://note.com/ideal_honest4397",
+    "pass": 3
+   },
+   {
+    "quote": "【新規事業紹介】元トップセールスが新規事業に人生を賭け、メンバーの市場価値向上に執着する理由",
+    "url": "https://note.com/ideal_honest4397",
+    "pass": 3
+   },
+   {
+    "quote": "社員の声から生まれた新制度を紹介！本音をすくいあげ、働きやすい環境をつくる取り組み",
+    "url": "https://note.com/ideal_honest4397",
+    "pass": 3
+   },
+   {
+    "quote": "【社員紹介】トップセールスから新規事業責任者へ！ 期待を超える成長を続ける、次なる挑戦",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "【社員紹介】助け合いの文化で急成長！ヘイフィールドで描くキャリアアップの道",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "【社員紹介】不動産出身者が語る、評価制度と稼げる環境",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "【社員紹介】前職でトップ成績を収めていた期待の新人ルーキーが語る、ヘイフィールドでの挑戦と成長",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "【社員紹介】「不動産×人材」で経験を活かして成長したい",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "【社員紹介】営業事務として支える立場から挑戦し続ける",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "【採用担当紹介】「人生守りに入りたくない」安定したキャリアよりベンチャー企業での挑戦を選んだ採用担当の信念とは？",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "このミッションを実現するために、現在は不動産・建設業界を対象に、",
+    "url": "https://hayfield.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産業界専門の人材紹介サービス「宅建Jobエージェント」",
+    "url": "https://hayfield.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産業界最大級の求人情報サイト「不動産ジョブ」",
+    "url": "https://hayfield.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産業界専門の求人・転職情報を掲載しています",
+    "url": "https://hayfield.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「建設ワークキャリア」は建設業界専門の人材紹介サービスです",
+    "url": "https://hayfield.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「宅建Jobスタッフィング」は不動産業界専門の人材派遣サービスです",
+    "url": "https://hayfield.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは「社会の幸せ」に向けて、目の前の顧客や共に働く社員を幸せにするために、これからも価値のあるサービスをつくり続けます",
+    "url": "https://hayfield.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "このミッションを実現するために、現在は不動産・建設業界を対象に、",
+    "url": "https://hayfield.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは「社会の幸せ」に向けて、目の前の顧客や共に働く社員を幸せにするために、これからも価値のあるサービスをつくり続けます",
+    "url": "https://hayfield.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産業界専門の人材紹介サービス「宅建Jobエージェント」",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "宅建Jobエージェントは、キャリアアドバイザーが「転職希望者」と「採用企業」の間に入り求人のご提案、書類添削、内定、入社後フォローまでを一貫してお手伝いさせていただく不動産業界専門の「転職支援サービス」です",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産業界に詳しいキャリアアドバイザーが、求職者の希望条件を個別にヒアリング",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "本気で自分のことを思ってサポートしてくれた」―未経験から大手不動産会社へ...",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "「建設ワークキャリア」は建設業界専門の人材紹介サービスです",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産業界最大級の求人情報サイト「不動産ジョブ」",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産業界専門の求人・転職情報を掲載しています",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産営業から事務職まで、全国の幅広い不動産求人を数多く取り扱うことで、不動産業界の仕事を探す方にとって一番のサイトになることを目指しています",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "「宅建Jobスタッフィング」は不動産業界専門の人材派遣サービスです",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産企業様から人材派遣のご依頼を受け、ニーズに応じた即戦力のスタッフを派遣します",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産業界専門の転職支援サービス「宅建Jobエージェント」を開始",
+    "url": "https://hayfield.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "建設業界専門の転職支援サービス「建設ワークキャリア」を開始",
+    "url": "https://hayfield.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産業界特化型の転職エージェントとして利用者数・転職支援実績（累計）No.1*の当社が、これまで培ってきたノウハウと企業ネットワークを活かします",
+    "url": "https://hayfield.jp/news/3118/",
+    "pass": 1
+   },
+   {
+    "quote": "法人番号に紐づく現存する事業所の被保険者数を合計しています",
+    "url": "https://catr.jp/companies/b3f30/162268",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヘイフィールドの導入事例【PORTERS】人材紹介・人材派遣管理システム",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "PORTERSを介した顧客データの活用が事業成長のキーポイントに",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "不動産業界や建設業界を中心とした人材サービスを提供する株式会社ヘイフィールド",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "さらにMAツールのKUZENとも連携したことで、顧客獲得率がアップしたという",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "小林氏：ヘイフィールドは、不動産業界と建設業界を中心とした人材支援事業を展開しています",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "主なサービスは、不動産業界専門の人材紹介サービス「宅建Jobエージェント」、不動産業界の求人情報サイト「不動産ジョブ」、建設業界専門の人材紹介サービス「建設ワークキャリア」です",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "今年の9月には、不動産業界に特化した人材派遣サービス「宅建Jobスタッフィング」が加わりました",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "おかげさまで、「宅建Jobエージェント」は不動産業界専門の転職支援サービスにおける利用者数、転職支援実績において、2024年6月度のナンバーワン*となりました",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "以前はLINEを公式アカウントで運用していましたが、担当者のタグ付けや顧客データなどを整理する工数がかなりかかっていました",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "既読への対応漏れも多くなり、顧客の掘り起こしもまったくできていない状態でしたので、業務効率化を目的としてKUZENを導入しました",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例①：LINEマーケティングツールの導入",
+    "url": "https://note.com/ideal_honest4397/n/nae9f1343551c",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例②：面談トークを解析するツールの導入",
+    "url": "https://note.com/ideal_honest4397/n/nae9f1343551c",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例①：LINEマーケティングツールの導入",
+    "url": "https://www.wantedly.com/companies/company_38863/post_articles/1032212",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例②：面談トークを解析するツールの導入",
+    "url": "https://www.wantedly.com/companies/company_38863/post_articles/1032212",
+    "pass": 3
+   },
+   {
+    "quote": "以前は医療・福祉業界特化のキャリアアドバイザーをしておりました",
+    "url": "https://www.wantedly.com/companies/company_38863/members",
+    "pass": 3
+   },
+   {
+    "quote": "不動産営業経験者がヘイフィールドで活躍できる理由って？キャリアアドバイザー6名に聞いてみました！",
+    "url": "https://note.com/ideal_honest4397",
+    "pass": 3
+   },
+   {
+    "quote": "【新規事業紹介】建設ワークキャリアってどんなチーム？働き方・雰囲気・やりがいをメンバーに聞いてみました！",
+    "url": "https://note.com/ideal_honest4397",
+    "pass": 3
+   },
+   {
+    "quote": "【社員紹介】不動産出身者が語る、評価制度と稼げる環境",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "【社員紹介】「不動産×人材」で経験を活かして成長したい",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "【不動産業界特化の転職支援とは？】キャリアアドバイザーのやりがいと魅力",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "【社員紹介】大手住宅メーカーからベンチャーに",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "不動産業界・建設業界を希望する求職者様と不動産業界の企業様の求人ニーズをマッチングする専門転職支援サービスを運営",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "・不動産業界の転職支援サービス利用者数 No.1",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "「不動産 × 人材」で国内No.1 のサービス",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "また、東証一部上場企業や大手フランチャイズを筆頭に1,500社以上の企業の採用をサポートしています",
+    "url": "https://hayfield.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、東証一部上場企業や大手フランチャイズを筆頭に1,500社以上の企業の採用をサポートしています",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ヘイフィールドの決算・売上・資本金｜官報決算公告データ | Firmnavi",
+    "url": "https://firmnavi.com/companies/g76-013",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フルキャストホールディングスの子会社・関連会社一覧",
+    "url": "https://catr.jp/companies/b3f30/162268/settlements/a3557/395855",
+    "pass": 3
+   },
+   {
+    "quote": "子会社・関連会社一覧を見る(全37社)",
+    "url": "https://catr.jp/companies/b3f30/162268/settlements/a3557/395855",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フルキャストホールディングスの子会社・関連会社一覧",
+    "url": "https://catr.jp/companies/b3f30/162268",
+    "pass": 3
+   },
+   {
+    "quote": "子会社・関連会社一覧を見る(全37社)",
+    "url": "https://catr.jp/companies/b3f30/162268",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "地域密着の中小企業から、全国展開の大企業まで幅広く求人を取り揃えています",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "施工管理、設計などのお仕事を探している方々の転職支援を行うと共に、地場〜中小企業から大手企業まで幅広い企業の採用をサポートしています",
+    "url": "https://hayfield.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります",
+    "url": "https://hayfield.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産業界特化型の転職エージェントとして利用者数・転職支援実績（累計）No.1*の当社が、これまで培ってきたノウハウと企業ネットワークを活かします",
+    "url": "https://hayfield.jp/news/3118/",
+    "pass": 1
+   },
+   {
+    "quote": "小林氏：PORTERS Agent導入前は、スプレッドシートや幅広い業界向けの業務管理クラウドサービスを使っていました",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "小林氏：階層の分かれ方やフェーズ管理が人材業界向けになっているので、データ分析や履歴確認の操作がしやすいです",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "以前は医療・福祉業界特化のキャリアアドバイザーをしておりました",
+    "url": "https://www.wantedly.com/companies/company_38863/members",
+    "pass": 3
+   },
+   {
+    "quote": "【不動産業界特化の転職支援とは？】キャリアアドバイザーのやりがいと魅力",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "【社員紹介】ブライダル業界から人材業界へ！苦労を乗り越え、大手企業から「紹介実績全国1位」を2度受賞",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、法人向け有料会員制サービスになります",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "2026年度『ベストベンチャー100』に",
+    "url": "https://hayfield.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります",
+    "url": "https://hayfield.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "イシン株式会社にエントリーした企業の中から、イシン株式会社が厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます",
+    "url": "https://hayfield.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ベストベンチャー100について",
+    "url": "https://hayfield.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "【お知らせ】2026年『ベストベンチャー100』にヘイフィールドが選出されました！｜株式会社ヘイフィールド 採用チーム",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "【お知らせ】2026年『ベストベンチャー100』にヘイフィールドが選出されました！",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "ベストベンチャー100",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "▼弊社紹介ページ｜ベストベンチャー100",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "ベストベンチャー100とは？",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、法人向け有料会員制サービスになります",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "エントリーいただいた企業に対して厳正な審査を行い、選出されたベンチャー企業を「ベストベンチャー100」として紹介しています",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "ベストベンチャー100について",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "今回ベストベンチャー100に選出された",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社情報 | 株式会社ヘイフィールド | Hayfield Inc. — ヘイフィールドが選出されました。 「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります。",
+    "url": "https://hayfield.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ヘイフィールドの決算・売上・資本金｜官報決算公告データ | Firmnavi — ヘイフィールド ヘイフィールド 株式会社ヘイフィールド 基本情報 ... 決算情報 ... 自己資本比率: 76.0% 出典: 2026年3月31日 官報号外第76号・貸借対照表の要旨（千円単位・内閣府官報発行サイト 公共データ利用規約第1.0版に基づき加工） 2025年度 官報 決算 ...",
+    "url": "https://firmnavi.com/companies/g76-013",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヘイフィールド（東京都）の会社概要・役員 | Compalyze — 株式会社ヘイフィールドは、2025年11月に不動産業界に特化した人材派遣サービス「宅建Jobスタッフィング」の営業を開始しました。 2026年6月には「宅建Jobエージェント」を運営する同社がサカイ引越センターと業務提携を行っています。",
+    "url": "https://compalyze.co.jp/company/3010001199729",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヘイフィールド | OpenBizGraph — 会社名 株式会社ヘイフィールド サイト https://hayfield.jp/ 開始日 2019-04-01 終了日 銘柄コード 上場市場 国 Japan 事業内容 人材サービス事業 インターネットメディア事業 所在地 東京都渋谷区恵比寿1‐23‐23 恵比寿スクエア5F 社長 黒川 一徳 資本金 従業員数 (単独)",
+    "url": "https://openbizgraph.com/detail/19537",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヘイフィールド (東京都渋谷区)の評判・口コミ・インボイス登... — Aug 25, 2026 · ヘイフィールド 株式会社ヘイフィールド 株式会社ヘイフィールド (ヘイフィールド)の本店住所は東京都渋谷区恵比寿1丁目23番23号にあり、法人番号は3010001199729で、設立日は2019年4月です。 最新の登記情報では、2025年2月に住所の変更をしました。",
+    "url": "https://alarmbox.jp/companyinfo/entities/3010001199729",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヘイフィールド 第6期決算公告（2024年12月期）・親会社・グ... — Dec 31, 2024 · 2025年3月31日に発表された株式会社ヘイフィールドの第6期決算公告は、純利益5億5327万3000円、利益剰余金13億5921万4000円、総資産17億1351万5000円。 親会社は株式会社フルキャストホールディングスで、グループ内の子会社37社も確認できます。",
+    "url": "https://catr.jp/companies/b3f30/162268/settlements/a3557/395855",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヘイフィールドの会社情報・決算公告 | 官報決算データベース — 株式会社ヘイフィールドの会社情報を掲載しています。 最新の2025年12月期決算は純利益4億2508万円、利益剰余金8億8429万4000円、総資産11億6942万7000円です。 親会社は株式会社フルキャストホールディングスで、グループ内の子会社37社も確認できます。",
+    "url": "https://catr.jp/companies/b3f30/162268",
+    "pass": 3
+   },
+   {
+    "quote": "事業部紹介 | 株式会社ヘイフィールド | Hayfield Inc. — ヘイフィールドは、転職支援を行なっている「人材サービス事業部」、WEB集客・マーケティング領域を担う「IT事業部」、採用人事や経理・総務の「管理部」の3事業部で成り立っています。事業部ごとの組織体制と仕事内容についてご紹介します。",
+    "url": "https://hayfield.jp/recruit/division/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヘイフィールド | 決算公告 (2024年3月29日掲載) | 開示ワイ... — Mar 29, 2024 · 株式会社ヘイフィールドの決算公告 (2023年12月期・第5期)。 純利益4.5億円、総資産11.6億円、純資産8.1億円。 株式会社フルキャストホールディングスの子会社。 東京都。 出典: 官報 (PDL1.0)",
+    "url": "https://kaijiwire.jp/kokoku/01a0c26a-e7f7-7b1d-a67a-1f132a889b49",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヘイフィールドの官報公開記録 | 官報AI — 株式会社ヘイフィールドに関する官報の会社公告・政府調達公開記録。 決算公告（第6期）: 総資産2億3,949万円、純資産8,961万円、資本金5,000万円。 法人番号 3010001199729 を基準に掲載日、公告種別、官報詳細ページへのリンクを確認できます。",
+    "url": "https://kanpou.ai/company/3010001199729",
+    "pass": 3
+   },
+   {
+    "quote": "ヘイフィールド: Financials, Revenue & Company Profile | Firmnavi — Financial data, revenue, capital and company profile for ヘイフィールド, compiled from Japan's Official Gazette (Kanpō) filings. Multilingual.",
+    "url": "https://firmnavi.com/en/companies/g76-013",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヘイフィールドの導入事例【PORTERS】人材紹介・人材派遣管理... — 株式会社ヘイフィールドの導入事例【PORTERS】人材紹介・人材派遣ビジネス支援システムを導入いただいた人材派遣や人材紹介会社様からの評価や活用方法などリアルなお客様の声をご紹介します。",
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "ヘイフィールドの業務改善事例｜導入したツールと現場を支える取り組... — Dec 24, 2025 · こうした背景からヘイフィールドではいくつかのツールを導入し、業務改善を進めています。 この記事では、弊社が直近で導入したツールやツールの活用方法・導入の効果、そしてその裏にある弊社の業務改善に対する考え方について、ご紹介します。",
+    "url": "https://note.com/ideal_honest4397/n/nae9f1343551c",
+    "pass": 3
+   },
+   {
+    "quote": "ヘイフィールドの業務改善事例｜導入したツールと現場を支える取り組... — Dec 25, 2025 · こうした背景からヘイフィールドではいくつかのツールを導入し、業務改善を進めています。 この記事では、弊社が直近で導入したツールやツールの活用方法・導入の効果、そしてその裏にある弊社の業務改善に対する考え方について、ご紹介します。",
+    "url": "https://www.wantedly.com/companies/company_38863/post_articles/1032212",
+    "pass": 3
+   },
+   {
+    "quote": "不動産/建設業界向けに人材サービスを提供するヘイフィールド。事業拡... — Jan 21, 2026 · 人材ビジネス向けクラウドシステムを提供するポーターズ株式会社（本社：東京都港区、代表取締役：西森康二）は、不動産業界や建設業界を中心とした人材サービスを提供する株式会社ヘイフィールド（本社：東京都渋谷区、代表取締役：坂巻一樹、以下、ヘイフィールド）の導入後インタビューを実施し、その内容をまとめた記事を公開しました。",
+    "url": "https://prtimes.jp/main/html/rd/p/000000162.000033277.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヘイフィールドの業務改善事例｜導入したツールと現場を支える取り組... — 【記事公開のお知らせ】 今回は弊社が導入しているツールや現場を支える取り組みを紹介！ 業務効率アップを目指す環境づくり 営業未経験でも成果を上げやすい環境づくり 上記について詳しく解説していますので、ぜひご覧ください！",
+    "url": "https://jp.linkedin.com/posts/hayfield-recruit_ヘイフィールドの業務改善事例導入したツールと現場を支える取り組みを紹介します-activity-7472497043496718336-dl96",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヘイフィールド｜Hayfield Inc. — 営業職特化の転職エージェントサービス「セールスJobエージェント」を開始しました 「宅建Jobエージェント」が大東建託株式会社様より2年連続で表彰されました ヘイフィールドがサカイ引越センター様と業務提携を開始しました",
+    "url": "https://hayfield.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヘイフィールドの役員・従業員 - Wantedly — 株式会社ヘイフィールドの役員・社員など組織のメンバーをご紹介。 事業を通じて社会の幸せに貢献すること。 それがヘイフィールドの出発点であり、核となる想いです。 私たちは、「機会」というキーワードを軸にこのミッションを実現させます。",
+    "url": "https://www.wantedly.com/companies/company_38863/members",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヘイフィールド | OpenBizGraph — 株式会社ヘイフィールド サイト https://hayfield.jp/ 開始日 2019-04-01 終了日 銘柄コード 上場市場 国 Japan 事業内容 人材サービス事業 インターネットメディア事業 所在地 東京都渋谷区恵比寿1‐23‐23 恵比寿スクエア5F 社長 黒川 一徳 資本金 従業員数 (単独) 従業 ...",
+    "url": "https://openbizgraph.com/detail/19537",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヘイフィールドの会社情報 - Wantedly株式会社ヘイフィールド - 人材紹介業界の会社の企業情報 | Baseconne...株式会社ヘイフィールドの会社情報・決算公告 | 官報決算データベース — 株式会社ヘイフィールドの魅力を伝えるコンテンツと、住所や代表・従業員などの会社情報です。 事業を通じて社会の幸せに貢献すること。 それがヘイフィールドの出発点であり、核となる想いです。 株式会社ヘイフィールドが2026年度ベストベンチャー100に選出 ヘイフィールドとサカイ引越センター、不動産会社向け採用支援で業務提携開始 フルキャストホールディングス、ヘイフィールドを全株式取得で子会社化 株式会社ヘイフィールドの会社情報を掲載しています。 最新の2025年12月期決算は純利益4億2508万円、利益剰余金8億8429万4000円、総資産11億6942万7000円です。 親会社は株",
+    "url": "https://www.wantedly.com/companies/company_38863",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【代表インタビュー】グループ最年少取締役が語る、ヘイフィールドへ... Jul 7, 2026 · 今回は、ヘイフィールドの代表取締役である黒川さんにインタビューしました！ グループ最年少で取締役に上りつめた異例の経歴から、ヘイフィールドの組織に対する思い、そして「メガベンチャーへの成長」に向けた展望について伺いました。",
+    "url": "https://note.com/ideal_honest4397/n/ne54de163c3fa",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヘイフィールド 採用チーム｜note 自社面接を担当する社員にインタビューしました！ ヘイフィールドにマッチする人物像や、面接で見ているポイントなどを話してもらいました。 弊社の面接を受ける方や、応募を検討している方はぜひご覧ください！",
+    "url": "https://note.com/ideal_honest4397",
+    "pass": 3
+   },
+   {
+    "quote": "ヘイフィールド」の人気タグ記事一覧｜note ――つくる、つながる、とど... 【社員紹介】「不動産×人材」で経験を活かして成長したい。 未経験からでも成果を出せたのは圧倒的なサポートと成長環境。 株式会社ヘイフィールド 採用チーム 1年前 株式会社ヘイフィールド 採用チーム 1年前",
+    "url": "https://note.com/hashtag/ヘイフィールド",
+    "pass": 3
+   },
+   {
+    "quote": "【お知らせ】2026年『ベストベンチャー100』にヘイフィールドが選出さ... 今回ベストベンチャー100に選出された 株式会社ヘイフィールド とはどのような会社なのでしょうか。 より多くの方に株式会社ヘイフィールドについて知ってもらうため、今回はヘイフィールドについて簡単に紹介させていただきます！",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "社員紹介の月別一覧｜株式会社ヘイフィールド 採用チーム｜note noteプレミアム note pro ヘルプ プライバシー クリエイターへのお問い合わせ フィードバック ご利用規約 通常ポイント利用特約 加盟店規約 資金決済法に基づく表示 特商法表記 投資情報の免責事項",
+    "url": "https://note.com/ideal_honest4397/m/m2a188a108713/archive",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【代表インタビュー】グループ最年少取締役が語る、ヘイフィールドへの思いとは｜株式会社ヘイフィールド 採用チーム",
+    "url": "https://note.com/ideal_honest4397/n/ne54de163c3fa",
+    "pass": 3
+   },
+   {
+    "quote": "【代表インタビュー】グループ最年少取締役が語る、ヘイフィールドへの思いとは",
+    "url": "https://note.com/ideal_honest4397/n/ne54de163c3fa",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、ヘイフィールドの代表取締役である黒川さんにインタビューしました！",
+    "url": "https://note.com/ideal_honest4397/n/ne54de163c3fa",
+    "pass": 3
+   },
+   {
+    "quote": "グループ最年少で取締役に上りつめた異例の経歴から、ヘイフィールドの組織に対する思い、そして「メガベンチャーへの成長」に向けた展望について伺いました。",
+    "url": "https://note.com/ideal_honest4397/n/ne54de163c3fa",
+    "pass": 3
+   },
+   {
+    "quote": "ー黒川さんのこれまでの経歴を教えてください。",
+    "url": "https://note.com/ideal_honest4397/n/ne54de163c3fa",
+    "pass": 3
+   },
+   {
+    "quote": "2007年に新卒でフルキャストに入社し、営業職として関西圏エリアを担当していました。",
+    "url": "https://note.com/ideal_honest4397/n/ne54de163c3fa",
+    "pass": 3
+   },
+   {
+    "quote": "部長は2年経験し、30歳の時に支社長に就任",
+    "url": "https://note.com/ideal_honest4397/n/ne54de163c3fa",
+    "pass": 3
+   },
+   {
+    "quote": "支社長を4年経験した後、フルキャストの取締役に就任しました。",
+    "url": "https://note.com/ideal_honest4397/n/ne54de163c3fa",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヘイフィールド 採用チーム｜note",
+    "url": "https://note.com/ideal_honest4397",
+    "pass": 3
+   },
+   {
+    "quote": "「人生の転機となるきっかけをつくりたい」26歳の事業責任者が目指すサービスとは",
+    "url": "https://note.com/ideal_honest4397",
+    "pass": 3
+   },
+   {
+    "quote": "【キャリアパス】「成果を出すことが楽しいと思える社員を増やしていきたい」2年連続トップセールスが新たに選んだキャリアとは",
+    "url": "https://note.com/ideal_honest4397",
+    "pass": 3
+   },
+   {
+    "quote": "ヘイフィールド初のロープレ大会が開催されました！",
+    "url": "https://note.com/ideal_honest4397",
+    "pass": 3
+   },
+   {
+    "quote": "【1日密着】RA（リクルーティングアドバイザー）ってどんな仕事？1日の流れを公開します！",
+    "url": "https://note.com/ideal_honest4397",
+    "pass": 3
+   },
+   {
+    "quote": "【1日密着】RA（リクルーティングアドバイザー）の1日に密着してみました！",
+    "url": "https://note.com/ideal_honest4397",
+    "pass": 3
+   },
+   {
+    "quote": "【社員紹介】「営業としての地力を高めたい」企業の経営課題に向き合うRAだからこそ、得られる成長とは",
+    "url": "https://note.com/ideal_honest4397",
+    "pass": 3
+   },
+   {
+    "quote": "「#ヘイフィールド」の人気タグ記事一覧｜note",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "【納得】なぜ彼女のまわりには人が集まるのか？期待に120%で応える、3年連続表彰の営業女子",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "【代表インタビュー】グループ最年少取締役が語る、ヘイフィールドへの思いとは",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "【社員紹介】トップセールスから新規事業責任者へ！ 期待を超える成長を続ける、次なる挑戦",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "【社員紹介】助け合いの文化で急成長！ヘイフィールドで描くキャリアアップの道",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "【男性初・育休取得】「一日一日が、かけがえのない時間だった」営業からCAへ転身した新米パパ社員が語る育休のリアル",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "【社員紹介】不動産出身者が語る、評価制度と稼げる環境。仕事も子育ても「二刀流」で叶える理想のキャリア",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "【社員紹介】前職でトップ成績を収めていた期待の新人ルーキーが語る、ヘイフィールドでの挑戦と成長。",
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "【お知らせ】2026年『ベストベンチャー100』にヘイフィールドが選出されました！｜株式会社ヘイフィールド 採用チーム",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "【お知らせ】2026年『ベストベンチャー100』にヘイフィールドが選出されました！",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "昨年に引き続き、株式会社ヘイフィールドが2026年度『",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "https://best100.v-tsushin.jp/company/hayfield/",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、法人向け有料会員制サービスになります。エントリーいただいた企業に対して厳正な審査を行い、選出されたベンチャー企業を「ベストベンチャー100」として紹介しています。",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "サービス概要や審査内容については下記をご参照ください。",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "より多くの方に株式会社ヘイフィールドについて知ってもらうため、今回はヘイフィールドについて簡単に紹介させていただきます！",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "不動産業界・建設業界を希望する求職者様と不動産業界の企業様の求人ニーズをマッチングする専門転職支援サービスを運営",
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "pass": 3
+   },
+   {
+    "quote": "ヘイフィールドで活躍している社員にインタビューをしました！",
+    "url": "https://note.com/ideal_honest4397/m/m2a188a108713/archive",
+    "pass": 3
+   },
+   {
+    "quote": "入社を決めた理由や、会社の雰囲気など赤裸々に綴っていきます。",
+    "url": "https://note.com/ideal_honest4397/m/m2a188a108713/archive",
+    "pass": 3
+   },
+   {
+    "quote": "社員紹介の月別一覧｜株式会社ヘイフィールド 採用チーム｜note",
+    "url": "https://note.com/ideal_honest4397/m/m2a188a108713/archive",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "「宅建Jobエージェント」を運営するヘイフィールドがサカイ引越センタ... PR TIMESライフスタイル (@PRTIMES_LIFE). 112 views. 「宅建Jobエージェント」を運営するヘイフィールドがサカイ引越センターと業務提携",
+    "url": "https://x.com/PRTIMES_LIFE/status/2069595789610058055",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "株式会社ヘイフィールド | LinkedIn About us Website https://hayfield.jp/ External link for 株式会社ヘイフィールド Industry Staffing and Recruiting Company size 51-200 employees Type Privately Held",
+    "url": "https://www.linkedin.com/company/hayfield-recruit",
+    "pass": 3
+   },
+   {
+    "quote": "櫻井 俊介 - 株式会社ヘイフィールドのキャリアエージェント | Linked...山内 陸也 - 株式会社ヘイフィールド 人事採用担当 / 弊社の求人に興...LinkedInの山内 陸也: 株式会社ヘイフィールド｜Hayfield Inc.Abdulhafiz S. - Building AI for Construction Claims ...宇佐美 貴大 - 株式会社ヘイフィールドのキャリアアドバイザー | Link...株式会社ヘイフィールドさんの投稿 事業企画へ異動後は、売上最大化に向けた複数のプロジェクト推進を牽引。 現在はこれまでの不動産業界での知見を活かし、不動産業界特化型の転職支援サービスを展開する株式会社ヘイフィールドにて、キャリアエージェントとして従事しています。 · 職歴: 株式会社ヘイフィールド · 場所: 品川区 · LinkedInのつながり500人以上。",
+    "url": "https://jp.linkedin.com/in/俊介-櫻井-1190aa1b8",
+    "pass": 3
+   },
+   {
+    "quote": "山内 陸也 - 株式会社ヘイフィールド 人事採用担当 / 弊社の求人に興...LinkedInの山内 陸也: 株式会社ヘイフィールド｜Hayfield Inc.Abdulhafiz S. - Building AI for Construction Claims ...宇佐美 貴大 - 株式会社ヘイフィールドのキャリアアドバイザー | Link...株式会社ヘイフィールドさんの投稿 · 職歴: 株式会社ヘイフィールド · 場所: 品川区 · LinkedInのつながり500人以上。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで山内 陸也さんのプロフィールを閲覧しましょう。 株式会社ヘイフィールド 人事採用担当 / 弊社の求人に興味のある方・人材のご紹介をご希望のエージェント様、つながり大歓迎です！毎年200% ... Building AI for Co",
+    "url": "https://jp.linkedin.com/in/陸也-山内-616730187",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedInの山内 陸也: 株式会社ヘイフィールド｜Hayfield Inc. 株式会社ヘイフィールド 人事採用担当 / 弊社の求人に興味のある方・人材のご紹介をご希望のエージェント様、つながり大歓迎です！毎年200% ...",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7160813564125933568/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://hayfield.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hayfield.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hayfield.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hayfield.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hayfield.jp/news/3118/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://firmnavi.com/companies/g76-013",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/3010001199729",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://firmnavi.com/companies/g76-013",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/b3f30/162268/settlements/a3557/395855",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/b3f30/162268/settlements/a3557/395855",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/b3f30/162268",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaijiwire.jp/kokoku/01a0c26a-e7f7-7b1d-a67a-1f132a889b49",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ideal_honest4397/n/nae9f1343551c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/company_38863/post_articles/1032212",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/company_38863/members",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ideal_honest4397/n/ne54de163c3fa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ideal_honest4397",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hashtag/%E3%83%98%E3%82%A4%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/PRTIMES_LIFE/status/2069595789610058055",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hayfield-recruit",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/俊介-櫻井-1190aa1b8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/陸也-山内-616730187",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7160813564125933568/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/ideal_honest4397/n/ne54de163c3fa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ideal_honest4397/m/m2a188a108713/archive",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ヘイフィールド 会社概要 資本金 設立",
+   "results": [
+    "https://hayfield.jp/company/",
+    "https://firmnavi.com/companies/g76-013",
+    "https://compalyze.co.jp/company/3010001199729",
+    "https://openbizgraph.com/detail/19537",
+    "https://alarmbox.jp/companyinfo/entities/3010001199729",
+    "https://houjin.goo.to/corporations/3010001199729",
+    "https://hayfield.jp/"
+   ]
+  },
+  {
+   "query": "ヘイフィールド 事業内容 売上",
+   "results": [
+    "https://firmnavi.com/companies/g76-013",
+    "https://hayfield.jp/company/",
+    "https://catr.jp/companies/b3f30/162268/settlements/a3557/395855",
+    "https://catr.jp/companies/b3f30/162268",
+    "https://hayfield.jp/recruit/division/",
+    "https://firmnavi.com/en/companies/g76-013",
+    "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/17/163000"
+   ]
+  },
+  {
+   "query": "ヘイフィールド 資金調達 株主",
+   "results": [
+    "https://catr.jp/companies/b3f30/162268/settlements/a3557/395855",
+    "https://catr.jp/companies/b3f30/162268",
+    "https://kaijiwire.jp/kokoku/01a0c26a-e7f7-7b1d-a67a-1f132a889b49",
+    "https://kanpou.ai/company/3010001199729",
+    "https://firmnavi.com/en/companies/g76-013",
+    "https://kaijiwire.jp/companies/3010001199729",
+    "https://irbank.net/株式会社ヘイフィールド"
+   ]
+  },
+  {
+   "query": "ヘイフィールド 導入事例",
+   "results": [
+    "https://hrbc.porters.jp/case/detail/hayfield-portersagent-success-story",
+    "https://note.com/ideal_honest4397/n/nae9f1343551c",
+    "https://www.wantedly.com/companies/company_38863/post_articles/1032212",
+    "https://prtimes.jp/main/html/rd/p/000000162.000033277.html",
+    "https://jp.linkedin.com/posts/hayfield-recruit_ヘイフィールドの業務改善事例導入したツールと現場を支える取り組みを紹介します-activity-7472497043496718336-dl96",
+    "https://note.com/ideal_honest4397/n/n2cb03a811f1a",
+    "https://hrbc.porters.jp/case/"
+   ]
+  },
+  {
+   "query": "ヘイフィールド 主要取引先",
+   "results": [
+    "https://hayfield.jp/company/",
+    "https://hayfield.jp/",
+    "https://www.wantedly.com/companies/company_38863/members",
+    "https://openbizgraph.com/detail/19537",
+    "https://www.wantedly.com/companies/company_38863",
+    "https://baseconnect.in/companies/20001e2d-ae6e-4693-bf62-cd5fc38bddb1",
+    "https://catr.jp/companies/b3f30/162268"
+   ]
+  },
+  {
+   "query": "site:note.com ヘイフィールド",
+   "results": [
+    "https://note.com/ideal_honest4397/n/ne54de163c3fa",
+    "https://note.com/ideal_honest4397",
+    "https://note.com/hashtag/ヘイフィールド",
+    "https://note.com/ideal_honest4397/n/naf4d4eca70ab",
+    "https://note.com/ideal_honest4397/m/m2a188a108713",
+    "https://note.com/ideal_honest4397/n/nfb869b26f74a",
+    "https://note.com/ideal_honest4397/n/nc35fcf5b5cb1"
+   ]
+  },
+  {
+   "query": "site:x.com ヘイフィールド",
+   "results": [
+    "https://x.com/PRTIMES_LIFE/status/2069595789610058055",
+    "https://x.com/HeyoAtlas/status/2114863064868901151",
+    "https://x.com/Heygirlfield",
+    "https://help.x.com/en/using-x/media-studio-faqs",
+    "https://x.com/M2_game/status/1569851300652929024",
+    "https://x.com/royalenfieldjp",
+    "https://x.com/KTNSTS696/status/2068844454853935249"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ヘイフィールド",
+   "results": [
+    "https://www.linkedin.com/company/hayfield-recruit",
+    "https://jp.linkedin.com/in/俊介-櫻井-1190aa1b8",
+    "https://jp.linkedin.com/in/陸也-山内-616730187",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7160813564125933568/",
+    "https://ae.linkedin.com/in/hafiz-suara",
+    "https://jp.linkedin.com/in/貴大-宇佐美-141694429",
+    "https://jp.linkedin.com/posts/hayfield-recruit_社員紹介インターン入社からサブリーダーへメンバーをサポートできる範囲を広げたい-activity-7472941797128974336-fWZl"
+   ]
+  },
+  {
+   "query": "site:facebook.com ヘイフィールド",
+   "results": []
+  },
+  {
+   "query": "ヘイフィールド note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/ideal_honest4397/n/ne54de163c3fa",
+    "https://note.com/ideal_honest4397/m/m2a188a108713/archive",
+    "https://hayfield.jp/company/",
+    "https://www.wantedly.com/companies/company_38863/post_articles/1069361",
+    "https://best100.v-tsushin.jp/company/hayfield/",
+    "https://sg.wantedly.com/id/kenta_sugiura_a"
+   ]
+  },
+  {
+   "query": "ヘイフィールド X 投稿",
+   "results": [
+    "https://hayfield.jp/",
+    "https://x.com/",
+    "https://x.com/AKEndfieldJP/status/2086671383254245791",
+    "https://help.x.com/ja",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://help.x.com/ja/using-x/mentions-and-replies",
+    "https://shuno26-blog.com/twtr-pstpcsp/"
+   ]
+  }
+ ],
+ "missing": {
+  "資本金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部22頁・検索11回）",
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部22頁・検索11回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部22頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部22頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部22頁・検索11回）",
+  "代表者": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部22頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部22頁・検索11回）"
+ }
+}

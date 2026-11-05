@@ -1,0 +1,1453 @@
+{
+ "name": "アドバンスジャパン",
+ "aliases": [
+  "advance-japan"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T15:21:33.146164+00:00",
+ "official_url": "https://advance-jp.co.jp/company/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2018年11月2日",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2018年 11月2日",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "7,000万円",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "5,000万円",
+    "url": "https://best100.v-tsushin.jp/company/advance-japan/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "7,000万円",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "30億円(2026年見込み) 21億円(2025年実績) 13億円(2024年実績) 7億円(2023年実績)",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "30億円(2026年見込み) 21億円(2025年実績) 13億円(2024年実績) 7億円(2023年実績)",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "30億円(2026年見込み)\n21億円(2025年実績)\n13億円(2024年実績)\n7億円(2023年実績)",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "500名(正社員410名・委託社員,アルバイト90名) ※2026年10月時点",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "500名(社員410名アルバイトスタッフ90名) ※2026年10月時点",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "500名(社員410名アルバイトスタッフ90名)\n※2026年10月時点",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "(本社) 〒170-0013 東京都豊島区東池袋1-25-6 PMO池袋8階 アドバンスジャパン株式会社 【アクセス】 JR線・東京メトロ丸ノ内線・有楽町線・副都心線　池袋駅35番出口から徒歩5分 東京メトロ有楽町線　東池袋駅2番出口から徒歩3分 Google map",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "東京都豊島区東池袋1-25-6 PMO池袋8階",
+    "url": "https://best100.v-tsushin.jp/company/advance-japan/",
+    "pass": 3
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "170-0013",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都豊島区東池袋1-25-6 PMO池袋8階",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "03-6261-3434",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "富山県、大阪府",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "徳島県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "栃木県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "埼玉県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "滋賀県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "岐阜県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "岡山県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、新潟県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、大阪府",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都\n\t\t\t\t\t\t\t\t\t\t、大阪府",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "神奈川県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都\n\t\t\t\t\t\t\t\t\t\t、愛知県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、大阪府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "岡山県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "福岡県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都\n\t\t\t\t\t\t\t\t\t\t、大阪府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "大阪府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "人材紹介事業 人材派遣事業 セールスプロモーション事業 カスタマーサポート事業 イベント事業 テルル事業 求人広告代理店事業",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "・通信業界に特化した人材アウトソーシング事業 ・大手キャリアなどを複数取り扱う携帯ショップ「テルル」を代理店として7店舗運営 ・各求人広告代理店・採用支援(BPO)",
+    "url": "https://best100.v-tsushin.jp/company/advance-japan/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "◆セールスプロモーション事業 クライアント様から多く寄せられるご相談は「人手不足」です。 当事業部では、各勤務地での人材不足にお困りの企業様に対し、スタッフのご紹介から現場管理まで一貫して対応し、課題解決を行っています。 販売経験が豊富なプロフェッショナル人材が在籍しており、売上向上や現場改善に貢献しています。 ◆イベント事業 週末のショッピングモールなどで、携帯販売やPRイベントの運営を代行しています。 イベントの企画補助、集客、販売支援まで幅広く対応し、クライアント様の販売促進をサポートしています。 ◆代理店事業 携帯ショップ『テルル』を運営し、docomo・au・SoftBankなどの大手キャリアから格安SIMまで幅広く取り扱っています。 スマートフォンの操作案内や料金相談など、お客様一人ひとりに合った最適なプランをご提案し、契約手続きまで丁寧に対応しています。 【自社運営店舗】 ◎テルル大宮店 ◎テルル高円寺店 ◎テルル蒲田店 ◎テルルMEGAドン・キホーテ 三郷店 ◎テルルイトーヨーカドー横浜別所店 ◎テルルそよら横浜高田店 ◎テルルアリオ鷲宮店 --------------",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先",
+    "value": "アルティウスリンク株式会社 SBモバイルサービス株式会社 株式会社NTTドコモ 株式会社エフ・オー・プランニング 兼松コミュニケーションズ株式会社 KDDI Sonic-Falcon株式会社 KDDIプリシード株式会社 株式会社新通エスピー ソフトバンク株式会社 株式会社ティーガイア 株式会社ドコモCS ビッグローブ株式会社 株式会社ピアズ 株式会社ピーアップ 株式会社ラネット 株式会社レジェンドプロモーション （五十音順）",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "主要取引先",
+    "value": "アルティウスリンク株式会社 SBモバイルサービス株式会社 株式会社NTTドコモ 株式会社エフ・オー・プランニング 兼松コミュニケーションズ株式会社 KDDI Sonic-Falcon株式会社 KDDIプリシード株式会社 株式会社新通エスピー ソフトバンク株式会社 株式会社ティーガイア 株式会社ドコモCS ビッグローブ株式会社 株式会社ピアズ 株式会社ピーアップ 株式会社ラネット 株式会社レジェンドプロモーション （五十音順）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "→ 労働者派遣法に基づく情報公開について（PDFダウンロード）",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "一般労働者派遣事業許可番号 （派）13-315309",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "有料職業紹介事業許可番号 13-ユ-312972",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店届出番号 C2201649",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "一般派遣免許取得（許可番号／派13-315309）",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "有料職業紹介取得（許可番号／13-ユ-312972）",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "アドバンスジャパンは、セールスプロモーション・人材派遣・イベント運営をはじめ、採用支援や広告、代理店運営まで、多岐にわたる分野で事業を展開しています",
+    "url": "https://advance-jp.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "創業より通信業界のクライアント様へ業務委託・人材派遣、更に携帯ショップの運営（テルル）を生業とし、今日に至ります",
+    "url": "https://advance-jp.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "アドバンスジャパンは、セールスプロモーション・人材派遣・イベント運営をはじめ、採用支援や広告、代理店運営まで、多岐にわたる分野で事業を展開しています",
+    "url": "https://advance-jp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "アドバンスジャパンのセールスプロモーション事業は、店頭や商業施設、イベント会場などリアルな現場での販売促進活動を支援しています",
+    "url": "https://advance-jp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "商品やサービスの魅力を最大限に引き出す企画・人材・運営体制を構築し、消費者の購買意欲を喚起",
+    "url": "https://advance-jp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの商品が「売れる」環境を現場から作り出し、売上アップに貢献しています",
+    "url": "https://advance-jp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "カスタマーサポート事業部では、事務スタッフおよびコールセンタースタッフの人材派遣を通じて、企業の業務効率化と顧客対応品質の向上を支援しています",
+    "url": "https://advance-jp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントのニーズに合わせた最適な人材提案と迅速な人員確保により、安定した業務運営をサポートいたします",
+    "url": "https://advance-jp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店事業部は、キャリアショップの運営を通じて、確かな実績と信頼を築いてきました",
+    "url": "https://advance-jp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "完全内製化されたスタッフ体制により、ミスや事故を防ぎながら、効率的かつ成果の出る店舗運営を実現しています",
+    "url": "https://advance-jp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "企業と求職者をつなぐ人材紹介サービスを通じて、双方にとって最適なマッチングを実現しています",
+    "url": "https://advance-jp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品プロモーションから企業キャンペーン、地域活性イベントまで、多様なイベントの企画・運営を手がけています",
+    "url": "https://advance-jp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "月1回のチームミーティングでは、新技術紹介、社内試験対策、勉強会なども実施しており、社員のスキルアップを会社が全面的にバックアップしています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■2032年に売上高100億円を目指して前進を続けています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "営業支援から人材派遣、採用・広報戦略まで、多様な領域においてお客様の課題解決を支える「総合ソリューションカンパニー」として、第8期の売上は約30億円を達成",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、2032年までに売上高100億円企業となるべく展開を広げていきます",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "大手キャリアの専売店や自社のスマホショップ『テルル』、家電量販店で販売業務に携わっていただきます",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売を極めるスペシャリストコースで年収700万円超を得ている社員もいれば、新規事業を提案してリーダーとして事業部を動かしている社員もいます",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当事業部では、各勤務地での人材不足にお困りの企業様に対し、スタッフのご紹介から現場管理まで一貫して対応し、課題解決を行っています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売経験が豊富なプロフェッショナル人材が在籍しており、売上向上や現場改善に貢献しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "週末のショッピングモールなどで、携帯販売やPRイベントの運営を代行しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "イベントの企画補助、集客、販売支援まで幅広く対応し、クライアント様の販売促進をサポートしています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "携帯ショップ『テルル』を運営し、docomo・au・SoftBankなどの大手キャリアから格安SIMまで幅広く取り扱っています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "#人材 #人事 #事務 #販売 #人材コーディネーター #営業 #経理",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般派遣免許取得（許可番号／派13-315309）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "有料職業紹介取得（許可番号／13-ユ-312972）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "配属された部署の先輩や上司の指導を仰ぎながら、実際のセールスプロモーションの現場や代理店運営に携わることで一つひとつの知識やスキルを習得していきます",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・大手キャリアなどを複数取り扱う携帯ショップ「テルル」を代理店として7店舗運営",
+    "url": "https://best100.v-tsushin.jp/company/advance-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "大手通信会社様のキャリアショップ、家電量販店でのセールスプロモーション、営業支援業務、携帯キャリアのイベント業務、通信キャリア様への人材派遣・人材紹介事業、代理店事業「テルル」7店舗運営",
+    "url": "https://best100.v-tsushin.jp/company/advance-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "入社後は、スマホを中心としたモバイル販売やコールセンター業務からキャリアをスタート",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "大手キャリアの専売店や自社スマホショップ「テルル」での携帯販売、または家電量販店にて各メーカーの商品提案を担当していただきます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "一人立ちした後も人材コーディネーターがフォローする仕組みがあり、当社は全社員が販売を経験しているため、現場の悩みにも適切なアドバイスをくれるはずです",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場での経験を積んだ後は総合職へ切り替えることもできますが、販売職で専門性を高めてスペシャリストを目指すキャリアも用意しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "担当エリアの店舗約3店舗を定期的に巡回し、売り場づくりや販売促進のサポートを行う仕事です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "スタッフのフォローや売上向上のための改善提案など、現場と本部をつなぐ“橋渡し役”として活躍します",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "求職者との面談を通して希望や適性を把握し、最適な求人をご紹介",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "総務：社内環境整備や備品管理などの運営サポート",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "来店されたお客様に対し、要望をヒアリングしながら最適な商品・プランを提案する接客販売職",
+    "url": "https://recruit.advance-jp.co.jp/recruit/service/",
+    "pass": 3
+   },
+   {
+    "quote": "携帯キャリアなど大手販売元との直接取引による高利益率を背景に、全国で新店舗が続々オープン中",
+    "url": "https://recruit.advance-jp.co.jp/recruit/service/",
+    "pass": 3
+   },
+   {
+    "quote": "高収入を実現できている理由は、携帯キャリアなどの販売元企業と直接お取引ができているから",
+    "url": "https://recruit.advance-jp.co.jp/recruit/service/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため利益率が高く、現場で頑張る販売スタッフの給与も高く設定できています",
+    "url": "https://recruit.advance-jp.co.jp/recruit/service/",
+    "pass": 3
+   },
+   {
+    "quote": "ノルマはありませんし、配属先がマッチしない場合は、あなたが成果を出しやすいよう適性にあったお仕事先をご紹介します！",
+    "url": "https://recruit.advance-jp.co.jp/recruit/service/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォン・通信関連商品の販売代理事業を展開",
+    "url": "https://recruit.advance-jp.co.jp/recruit/service/",
+    "pass": 3
+   },
+   {
+    "quote": "クライアント企業からの一次請け（直取引）によって事業を拡大し、創業以来、社員数・売上ともに右肩上がり",
+    "url": "https://recruit.advance-jp.co.jp/recruit/service/",
+    "pass": 3
+   },
+   {
+    "quote": "今期は売上22億円を見込み、さらに新店舗オープンを予定",
+    "url": "https://recruit.advance-jp.co.jp/recruit/service/",
+    "pass": 3
+   },
+   {
+    "quote": "■接客・販売・サービス系職種の経験（業界不問／年数不問）",
+    "url": "https://recruit.advance-jp.co.jp/recruit/service/",
+    "pass": 3
+   },
+   {
+    "quote": "■レジャー&エンタメ割引（映画館・カラオケ・レジャー施設等の利用料金割引）",
+    "url": "https://recruit.advance-jp.co.jp/recruit/service/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は、オフィス移転をお手伝いしているオフィス仲介会社です",
+    "url": "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "pass": 3
+   },
+   {
+    "quote": "このnoteのシリーズではご移転をお手伝いさせていただいたお客様のインタビューや、弊社がお付き合いさせていただいているお客様のオフィスを中心にご紹介していきます！",
+    "url": "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンスジャパン株式会社は、通信業界への人材派遣を主軸に、セールプロモーション、採用支援や広告代理店運営まで多岐に渡る分野で事業を展開されております",
+    "url": "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "pass": 3
+   },
+   {
+    "quote": "須貝さん： 私たちの事業は、通信やインターネット販売に関わる派遣事業が中心ですが、事業成長の起点は「採用」だと考えています",
+    "url": "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロからのスタートではありますが、名古屋ならではの強みを活かしながら、独自に売上・利益を積み上げていく拠点へと成長していくことを期待しています",
+    "url": "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は、オフィス移転をお手伝いしているオフィス仲介会社です",
+    "url": "https://note.com/bright_panda569/n/n3fb64ec7bf32",
+    "pass": 3
+   },
+   {
+    "quote": "このnoteのシリーズではご移転をお手伝いさせていただいたお客様のインタビューや、弊社がお付き合いさせていただいているお客様のオフィスを中心にご紹介していきます！",
+    "url": "https://note.com/bright_panda569/n/n3fb64ec7bf32",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "先へ進もうとするすべての人に、前向きなエネルギーを届けるシンボルとなっています",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "各事業部が専門性を高めながら連携し、クライアントや社会のニーズに柔軟かつ迅速に応える体制を構築しています",
+    "url": "https://advance-jp.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアント一社一社の課題に対して、最適なチームとソリューションを編成し、“一歩先の成果”をともに創り上げていきます",
+    "url": "https://advance-jp.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "創業より通信業界のクライアント様へ業務委託・人材派遣、更に携帯ショップの運営（テルル）を生業とし、今日に至ります",
+    "url": "https://advance-jp.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "私は設立時、大学4年生の若者でしたが、たくさんのクライアント様やスタッフの皆様、",
+    "url": "https://advance-jp.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "アドバンスジャパンで私が築き上げたいのは当社のM.V.V（ミッション・ビジョン・バリュー）の中にある、アドバンスジャパンを通じて人生を豊かに、共存共栄、1人でも多くの社員が入社して良かった、1社でも多くのクライアント様にアドバンスジャパンにお仕事を依頼して良かったと心から思ってもらえる会社になる事です",
+    "url": "https://advance-jp.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの皆様、スタッフの皆様、そしてアドバンスジャパンに関わった全ての皆様",
+    "url": "https://advance-jp.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "各事業部が専門性を高めながら連携し、クライアントや社会のニーズに柔軟かつ迅速に応える体制を構築しています",
+    "url": "https://advance-jp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアント一社一社の課題に対して、最適なチームとソリューションを編成し、“一歩先の成果”をともに創り上げていきます",
+    "url": "https://advance-jp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの商品が「売れる」環境を現場から作り出し、売上アップに貢献しています",
+    "url": "https://advance-jp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "カスタマーサポート事業部では、事務スタッフおよびコールセンタースタッフの人材派遣を通じて、企業の業務効率化と顧客対応品質の向上を支援しています",
+    "url": "https://advance-jp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントのニーズに合わせた最適な人材提案と迅速な人員確保により、安定した業務運営をサポートいたします",
+    "url": "https://advance-jp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "《充実した新入社員研修》文系出身者も大歓迎！大手金融機関を中心としたITビジネスの最前線でともに成長していきましょう！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社設立時より携わってきた大手金融機関のシステム開発",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、2007年の創業以来、損害保険を中心とした大手金融機関向けのシステム開発を手掛けてきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年では金融機関以外のシステム開発も積極的に行い、事業領域の拡大を進めています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に損害保険システムの開発においては、長年にわたる専門的な経験とノウハウを活かし、高品質かつ効率的なソリューションを提供しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "損害保険業界で培った知識と経験を活用し、システムの安定運用と機能改善をサポートします",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "慶應義塾大学、佐賀大学、信州大学、千葉工業大学、中央大学、徳島大学、八戸工業大学",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "青山学院大学、神奈川大学、群馬大学、工学院大学、駒澤大学、実践女子大学、湘南工科大学、成蹊大学、専修大学、大東文化大学、拓殖大学、千葉大学、津田塾大学、都留文科大学、帝京大学、東京外国語大学、東京電機大学、東京農業大学、日本大学、日本女子大学、一橋大学、広島大学、法政大学、明治大学、明治学院大学、山形大学、立命館大学、早稲田大学",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "クライアント様から多く寄せられるご相談は「人手不足」です",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "イベントの企画補助、集客、販売支援まで幅広く対応し、クライアント様の販売促進をサポートしています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "広告／出版／人材／スポーツ／ホテル／旅行／サービス",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■社会保険完備（雇用・労災・健康・厚生年金）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■グルメ割引（全国20,000店舗以上の飲食店で利用可能）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■宿泊施設割引（人気テーマパークのホテルや有名リゾート宿泊施設、温泉旅館などで利用可能）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ＫＢＣリゾート・エアライン＆ブライダル専門学校、専門学校大阪ビジュアルアーツ・アカデミー、大原ビジネス公務員専門学校北九州校、大原ビジネス公務員専門学校柏校、沖縄女子短期大学、神戸・甲陽音楽＆ダンス専門学校、東京マルチ・ＡＩ専門学校、専門学校中野スクール・オブ・ビジネス、名古屋スクールオブミュージック＆ダンス専門学校、専門学校名古屋デザイナー・アカデミー、西日本短期大学",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "EIJUSOグループ【社会福祉法人永寿荘／学校法人永嶋学院】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "大手キャリアの専売店や自社スマホショップ「テルル」での携帯販売、または家電量販店にて各メーカーの商品提案を担当していただきます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "既存顧客のフォローを行うほか、人事が採用した社員の入社後の成長に伴走するお仕事です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントとの顔合わせを調整し、配属先を決定します",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "※外回りや架電などの新規営業はなく、既存顧客のフォローが中心です（営業職と人材コーディネーターは領域によって呼称が異なりますが、担当する業務内容は類似しています）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "労務：給与計算や社会保険手続きなど社員の働く環境を整備",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "■社会保険完備（雇用・労災・健康・厚生年金）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "生長グループ（医療法人雄風会・社会福祉法人義風会・(有)かりゆし）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "クライアント企業からの一次請け（直取引）によって事業を拡大し、創業以来、社員数・売上ともに右肩上がり",
+    "url": "https://recruit.advance-jp.co.jp/recruit/service/",
+    "pass": 3
+   },
+   {
+    "quote": "■社会保険完備（雇用・労災・健康・厚生年金）",
+    "url": "https://recruit.advance-jp.co.jp/recruit/service/",
+    "pass": 3
+   },
+   {
+    "quote": "■グルメ割引（全国20,000店舗以上の飲食店で使用可能）",
+    "url": "https://recruit.advance-jp.co.jp/recruit/service/",
+    "pass": 3
+   },
+   {
+    "quote": "■宿泊料金割引（某人気テーマパークホテル・星野リゾート・温泉旅館など）",
+    "url": "https://recruit.advance-jp.co.jp/recruit/service/",
+    "pass": 3
+   },
+   {
+    "quote": "契約後も、代表の趣味に合わせてサウナの情報を共有してくれるなど、常に”顧客のために”という姿勢が伝わってきました",
+    "url": "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "pass": 3
+   },
+   {
+    "quote": "あと、大学3年のゼミの先生が塾を起業していて、「起業はいいよ」と言ってたのも大きかったですね",
+    "url": "https://note.com/the100voices/n/n2116d64c2572",
+    "pass": 3
+   },
+   {
+    "quote": "コンビニのアルバイトしか経験がない人や、工場で働いている人を正社員にして、キャリアアップさせていく",
+    "url": "https://note.com/the100voices/n/n2116d64c2572",
+    "pass": 3
+   },
+   {
+    "quote": "小学校、中学校、高校、大学の人脈で今の仕事が回っているんです",
+    "url": "https://note.com/the100voices/n/n2116d64c2572",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金を2001万円に増資",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を3000万円に増資",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を4000万円に増資",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を5000万円に増資",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を7000万円に増資",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都清瀬市に「(株)AdvanCE Japan」を設立（資本金300万円）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金を1,000万円に増額",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金を2,001万円に増資",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金を3000万円に増資",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金を4,000万円に増資",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金を5000万円に増資",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "上場していたり、規模が大きければもらえた仕事だったのに、と感じる時は正直きついです",
+    "url": "https://note.com/the100voices/n/n2116d64c2572",
+    "pass": 3
+   },
+   {
+    "quote": "上場、そして時価総額100億円へ",
+    "url": "https://note.com/the100voices/n/n2116d64c2572",
+    "pass": 3
+   },
+   {
+    "quote": "須貝さん：上場はできるならしたいと思っています",
+    "url": "https://note.com/the100voices/n/n2116d64c2572",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "2025年ベストベンチャー100に選出",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年ベストベンチャー100に選出",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "社員一人ひとりが自分らしく前進しているからこそ組織も前進！成長が期待されるベンチャー企業100社にも選出された、勢いに乗る企業です",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年ベストベンチャー100に選出",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年ベストベンチャー100に選出",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンスジャパン株式会社 須貝 浩紀 | ベストベンチャー100",
+    "url": "https://best100.v-tsushin.jp/company/advance-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "「ベストベンチャー100」にも選出され、成長フェーズにある企業",
+    "url": "https://recruit.advance-jp.co.jp/recruit/service/",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "法人向け携帯電話や固定回線をはじめ、タスク管理システム、ITセキュリティサービス、AI関連サービスなど、多様な商材を通じてお客様の課題解決と業務効率化を支援",
+    "url": "https://advance-jp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "【新規領域・BtoB営業（求人広告など）】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | アドバンスジャパン 株式会社 — 会社概要 | アドバンスジャパン 株式会社 アドバンスジャパン株式会社 https://advance-jp.co.jp > company",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) AdvanCE Japan （ アドバンスジャパン ） - マイナビ — (株) AdvanCE Japan （ アドバンスジャパン ） - マイナビ マイナビ https://job.mynavi.jp > search > corp207768 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンスジャパン 株式 会社 須貝 浩紀 - ベストベンチャー100 — アドバンスジャパン 株式 会社 須貝 浩紀 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > advance-japan",
+    "url": "https://best100.v-tsushin.jp/company/advance-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 紹介 | アドバンスジャパン 株式会社 — 事業 紹介 | アドバンスジャパン 株式会社 アドバンスジャパン株式会社 https://advance-jp.co.jp > business",
+    "url": "https://advance-jp.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンスジャパン (株)の会社概要 | マイナビ2028 — アドバンスジャパン (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp278205 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンスジャパン 株式会社 須貝 浩紀 - ベストベンチャー100 — アドバンスジャパン 株式会社 須貝 浩紀 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > advance-japan",
+    "url": "https://best100.v-tsushin.jp/company/advance-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンスジャパン株式 会社 須貝 浩紀 - ベストベンチャー100 — アドバンスジャパン株式 会社 須貝 浩紀 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > advance-japan",
+    "url": "https://best100.v-tsushin.jp/company/advance-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | アドバンスジャパン株式 会社 — 会社概要 | アドバンスジャパン株式 会社 アドバンスジャパン株式会社 https://advance-jp.co.jp > company",
+    "url": "https://advance-jp.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンスジャパン (株)の採用データ | マイナビ2027 — アドバンスジャパン (株)の採用データ | マイナビ2027 マイナビ https://job.mynavi.jp > corp278205 > recruiting_course",
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売職 - アドバンスジャパン採用サイト — 販売職 - アドバンスジャパン採用サイト アドバンスジャパン株式会社 https://recruit.advance-jp.co.jp > 募集職種 > 中途",
+    "url": "https://recruit.advance-jp.co.jp/recruit/service/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エコ アドバンスジャパン の独立開業プラン - アントレ — 株式会社エコ アドバンスジャパン の独立開業プラン - アントレ アントレ https://entrenet.jp > 代理店 > 各種サービス > その他",
+    "url": "https://entrenet.jp/dplan/0000655/",
+    "pass": 3
+   },
+   {
+    "quote": "企業理念 | アドバンスジャパン 株式会社 — 企業理念 | アドバンスジャパン 株式会社 アドバンスジャパン株式会社 https://advance-jp.co.jp > philosophy",
+    "url": "https://advance-jp.co.jp/philosophy/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "vol.164 アドバンスジャパン 株式会社様のオフィスに行って ... vol.164 アドバンスジャパン 株式会社様のオフィスに行って ... note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "pass": 3
+   },
+   {
+    "quote": "vol.185 アドバンスジャパン 株式会社様の福岡支店に行って ... vol.185 アドバンスジャパン 株式会社様の福岡支店に行って ... note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/bright_panda569/n/n3fb64ec7bf32",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンスジャパン 株式会社 須貝浩紀｜経営者から若者へ - note アドバンスジャパン 株式会社 須貝浩紀｜経営者から若者へ - note note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/the100voices/n/n2116d64c2572",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "vol.164 アドバンスジャパン株式会社様のオフィスに行ってみた！！｜赤井りな🍎株式会社HATARABA広報",
+    "url": "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "pass": 3
+   },
+   {
+    "quote": "vol.164 アドバンスジャパン株式会社様のオフィスに行ってみた！！",
+    "url": "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社HATARABAのコミュニティーマネージャー兼広報の赤井りなです！164作品目はご移転をお手伝いさせていただいた、 アドバンスジャパン様の新オフィスにお邪魔いたしました！",
+    "url": "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は、オフィス移転をお手伝いしているオフィス仲介会社です。",
+    "url": "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "pass": 3
+   },
+   {
+    "quote": "その中でも私達のチームではスタートアップ企業様に特化してご支援させていただいております！",
+    "url": "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "pass": 3
+   },
+   {
+    "quote": "このnoteのシリーズではご移転をお手伝いさせていただいたお客様のインタビューや、弊社がお付き合いさせていただいているお客様のオフィスを中心にご紹介していきます！",
+    "url": "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "pass": 3
+   },
+   {
+    "quote": "ご移転のプロジェクトにかけた想いや経緯を、代表の須貝さんと執行役員 の渡邊さん、中部支店長代理の雲木さんにインタビューさせていただきました🎤",
+    "url": "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンスジャパン株式会社は、通信業界への人材派遣を主軸に、セールプロモーション、採用支援や広告代理店運営まで多岐に渡る分野で事業を展開されております。",
+    "url": "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "pass": 3
+   },
+   {
+    "quote": "vol.185 アドバンスジャパン株式会社様の福岡支店に行ってみた！！｜赤井りな🍎株式会社HATARABA広報",
+    "url": "https://note.com/bright_panda569/n/n3fb64ec7bf32",
+    "pass": 3
+   },
+   {
+    "quote": "vol.185 アドバンスジャパン株式会社様の福岡支店に行ってみた！！",
+    "url": "https://note.com/bright_panda569/n/n3fb64ec7bf32",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社HATARABAのコミュニティーマネージャー兼広報の赤井りなです！185作品目はご移転をお手伝いさせていただいた、アドバンスジャパン様の福岡支店にお邪魔いたしました！",
+    "url": "https://note.com/bright_panda569/n/n3fb64ec7bf32",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は、オフィス移転をお手伝いしているオフィス仲介会社です。その中でも私達のチームではスタートアップ企業様に特化してご支援させていただいております！",
+    "url": "https://note.com/bright_panda569/n/n3fb64ec7bf32",
+    "pass": 3
+   },
+   {
+    "quote": "このnoteのシリーズではご移転をお手伝いさせていただいたお客様のインタビューや、弊社がお付き合いさせていただいているお客様のオフィスを中心にご紹介していきます！",
+    "url": "https://note.com/bright_panda569/n/n3fb64ec7bf32",
+    "pass": 3
+   },
+   {
+    "quote": "ご移転のプロジェクトにかけた想いや経緯を、須貝さんにインタビューさせていただきました🎤",
+    "url": "https://note.com/bright_panda569/n/n3fb64ec7bf32",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンスジャパン株式会社は、通信業界への人材派遣を主軸に、セールプロモーション、採用支援や広告代理店運営まで多岐に渡る分野で事業を展開されております。",
+    "url": "https://note.com/bright_panda569/n/n3fb64ec7bf32",
+    "pass": 3
+   },
+   {
+    "quote": "福岡という土地に対して、どのような期待やビジョンをお持ちでしたか？",
+    "url": "https://note.com/bright_panda569/n/n3fb64ec7bf32",
+    "pass": 3
+   },
+   {
+    "quote": "「仕事の借りは仕事で返す」｜アドバンスジャパン株式会社 須貝浩紀｜経営者から若者へ｜百の流儀と覚悟",
+    "url": "https://note.com/the100voices/n/n2116d64c2572",
+    "pass": 3
+   },
+   {
+    "quote": "「仕事の借りは仕事で返す」｜アドバンスジャパン株式会社 須貝浩紀",
+    "url": "https://note.com/the100voices/n/n2116d64c2572",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは！このアカウントでは「100人の経営者インタビュー」と題して、さまざまな経営者の方にお話を伺い、その生き様や想いを発信しています。",
+    "url": "https://note.com/the100voices/n/n2116d64c2572",
+    "pass": 3
+   },
+   {
+    "quote": "小学2年生からサッカーを始め、高校は正智深谷で選手権出場世代を経験。大学でサッカー部を退部後、警察官を目指しながら通信業界のアルバイトで学生時代に月収100万円を達成。大学4年生の11月に起業。通信販売事業を軸に、携帯ショップフランチャイズ（7店舗）・人材派遣・人材紹介・求人広告と多角展開し、総合人材会社を目指す。創業8期目、従業員約360名。売上は前期21.7億円、今期30億円超を見込む。",
+    "url": "https://note.com/the100voices/n/n2116d64c2572",
+    "pass": 3
+   },
+   {
+    "quote": "・就活や転職で「何をしたいかわからない」と感じている人",
+    "url": "https://note.com/the100voices/n/n2116d64c2572",
+    "pass": 3
+   },
+   {
+    "quote": "・「働くのがしんどい」と思い始めている社会人",
+    "url": "https://note.com/the100voices/n/n2116d64c2572",
+    "pass": 3
+   },
+   {
+    "quote": "「過去は過去。常に今と未来を見る」と語る須貝さんの言葉には、行動し続ける人間だけが持つ説得力がありました。",
+    "url": "https://note.com/the100voices/n/n2116d64c2572",
+    "pass": 3
+   },
+   {
+    "quote": "――まず、幼少期から大学時代までのことを教えてください。",
+    "url": "https://note.com/the100voices/n/n2116d64c2572",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "アドバンスジャパン 株式会社 (@1102_advance) / X アドバンスジャパン 株式会社 (@1102_advance) / X X https://x.com > 1102_advance",
+    "url": "https://x.com/1102_advance",
+    "pass": 3
+   },
+   {
+    "quote": "須貝浩紀/ アドバンスジャパン 株式会社/新卒募集中 - X 須貝浩紀/ アドバンスジャパン 株式会社/新卒募集中 - X X https://x.com > sugaihiroki",
+    "url": "https://x.com/sugaihiroki",
+    "pass": 3
+   },
+   {
+    "quote": "須貝浩紀/ アドバンスジャパン 株式会社/新卒募集中 on X 須貝浩紀/ アドバンスジャパン 株式会社/新卒募集中 on X X https://x.com > @sugaihiroki",
+    "url": "https://x.com/sugaihiroki/status/2028371244115255627",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "カク タス - 株式会社 アドバンスジャパン の店員 - LinkedIn カク タス - 株式会社 アドバンスジャパン の店員 - LinkedIn LinkedIn https://jp.linkedin.com > タス-カク-bba84b442",
+    "url": "https://jp.linkedin.com/in/%E3%82%BF%E3%82%B9-%E3%82%AB%E3%82%AF-bba84b442",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "アドバンスジャパン 株式会社 | Kawasaki-shi Kanagawa アドバンスジャパン 株式会社 | Kawasaki-shi Kanagawa Facebook https://www.facebook.com > advancejapan",
+    "url": "https://www.facebook.com/advancejapan.ltd/",
+    "pass": 3
+   },
+   {
+    "quote": "今日は アドバンスジャパン の松原さんがお越しになられました ... 今日は アドバンスジャパン の松原さんがお越しになられました ... Facebook https://www.facebook.com > ... > グランボレ > Videos",
+    "url": "https://www.facebook.com/grandvolee/videos/%E4%BB%8A%E6%97%A5%E3%81%AF%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E6%9D%BE%E5%8E%9F%E3%81%95%E3%82%93%E3%81%8C%E3%81%8A%E8%B6%8A%E3%81%97%E3%81%AB%E3%81%AA%E3%82%89%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%80%E6%96%B0%E9%8B%AD%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8D%E3%82%B9%E3%83%8F%E3%83%BC%E3%83%8D%E3%82%B9%E3%81%AB%E3%81%BF%E3%82%93%E3%81%AA%E8%88%88%E5%91%B3%E6%B7%B1%E3%80%85%E5%83%95%E3%81%AFtheta-uls%E3%82%92%E8%A9%A6%E4%B9%97%E3%81%95%E3%81%9B%E3%81%A6%E3%82%82%E3%82%89%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%82%B9%E3%82%A4%E3%82%B9%E3%81%AE%E5%B1%B1%E3%81%8C%E7%9B%AE%E3%81%AB/1602490673711765/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://advance-jp.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://advance-jp.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://advance-jp.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://advance-jpn.com/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp207768/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://best100.v-tsushin.jp/company/advance-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv.co.jp/casestudy/casestudy_apply.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.advance-jp.co.jp/recruit/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://advance-jpn.com/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp207768/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bright_panda569/n/n3fb64ec7bf32",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/the100voices/n/n2116d64c2572",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/1102_advance",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sugaihiroki",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sugaihiroki/status/2028371244115255627",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E3%82%BF%E3%82%B9-%E3%82%AB%E3%82%AF-bba84b442",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/advancejapan.ltd/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/grandvolee/videos/%E4%BB%8A%E6%97%A5%E3%81%AF%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E6%9D%BE%E5%8E%9F%E3%81%95%E3%82%93%E3%81%8C%E3%81%8A%E8%B6%8A%E3%81%97%E3%81%AB%E3%81%AA%E3%82%89%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%80%E6%96%B0%E9%8B%AD%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8D%E3%82%B9%E3%83%8F%E3%83%BC%E3%83%8D%E3%82%B9%E3%81%AB%E3%81%BF%E3%82%93%E3%81%AA%E8%88%88%E5%91%B3%E6%B7%B1%E3%80%85%E5%83%95%E3%81%AFtheta-uls%E3%82%92%E8%A9%A6%E4%B9%97%E3%81%95%E3%81%9B%E3%81%A6%E3%82%82%E3%82%89%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%82%B9%E3%82%A4%E3%82%B9%E3%81%AE%E5%B1%B1%E3%81%8C%E7%9B%AE%E3%81%AB/1602490673711765/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/the100voices/n/n2116d64c2572",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bright_panda569/n/n3fb64ec7bf32",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/1102_advance",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アドバンスジャパン 会社概要 資本金 設立",
+   "results": [
+    "https://advance-jp.co.jp/company/",
+    "https://advance-jpn.com/company/outline/",
+    "https://job.mynavi.jp/27/pc/search/corp207768/outline.html",
+    "https://best100.v-tsushin.jp/company/advance-japan/",
+    "https://www.youtube.com/watch?v=N4T9hbji0Io",
+    "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "https://compalyze.co.jp/company/4030001095074",
+    "https://doda.jp/DodaFront/View/Company/j_id__10189892039/",
+    "https://www.advancejapan.co.jp/home/?page_id=2",
+    "https://advance-jp.co.jp/about/"
+   ]
+  },
+  {
+   "query": "アドバンスジャパン 事業内容 売上",
+   "results": [
+    "https://advance-jp.co.jp/business/",
+    "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "https://advance-jp.co.jp/company/",
+    "https://www.youtube.com/watch?v=N4T9hbji0Io",
+    "https://best100.v-tsushin.jp/company/advance-japan/",
+    "https://advance-jpn.com/company/outline/",
+    "https://job.mynavi.jp/27/pc/search/corp278205/outline.html",
+    "https://doda.jp/DodaFront/View/Company/j_id__10189892039/",
+    "https://job-report.com/493/",
+    "https://jobcatalog.yahoo.co.jp/company/2001413701/information/"
+   ]
+  },
+  {
+   "query": "アドバンスジャパン 資金調達 株主",
+   "results": [
+    "https://best100.v-tsushin.jp/company/advance-japan/",
+    "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "https://advance-jp.co.jp/company/",
+    "https://advance-composite.co.jp/%E7%AC%AC%E4%B8%89%E8%80%85%E5%89%B2%E5%BD%93%E5%A2%97%E8%B3%87%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/",
+    "https://www.buffett-code.com/company/chbmsq6gy9/",
+    "https://advance-jpn.com/company/outline/",
+    "https://www.instagram.com/advancejapan1102/",
+    "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "https://en-hyouban.com/company/10201242371/",
+    "https://www.advantagepartners.com/business/privatesolutions.php"
+   ]
+  },
+  {
+   "query": "アドバンスジャパン 導入事例",
+   "results": [
+    "https://www.adv.co.jp/casestudy/casestudy_apply.php",
+    "https://job.mynavi.jp/27/pc/search/corp278205/recruiting_course27057916/recruiting_course.html",
+    "https://recruit.advance-jp.co.jp/recruit/service/",
+    "https://www.youtube.com/watch?v=N4T9hbji0Io",
+    "https://entrenet.jp/dplan/0000655/",
+    "https://advance-jpn.com/",
+    "https://advance-jp.tokyo/casestudy/",
+    "https://www.a-d.co.jp/case-study/",
+    "https://best100.v-tsushin.jp/company/advance-japan/",
+    "https://advance-jp.co.jp/business/solution/"
+   ]
+  },
+  {
+   "query": "アドバンスジャパン 主要取引先",
+   "results": [
+    "https://advance-jp.co.jp/company/",
+    "https://advance-jpn.com/company/outline/",
+    "https://job.mynavi.jp/27/pc/search/corp207768/outline.html",
+    "https://best100.v-tsushin.jp/company/advance-japan/",
+    "https://advance-jp.co.jp/philosophy/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10189892039/",
+    "https://www.youtube.com/watch?v=N4T9hbji0Io",
+    "https://en-hyouban.com/company/10201242371/",
+    "https://advancejapankeibi.wixsite.com/mysite",
+    "https://www.advance1997.co.jp/company/mainclient/"
+   ]
+  },
+  {
+   "query": "site:note.com アドバンスジャパン",
+   "results": [
+    "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "https://note.com/bright_panda569/n/n3fb64ec7bf32",
+    "https://note.com/the100voices/n/n2116d64c2572",
+    "https://note.com/mti_file/n/n8587a8a30c98",
+    "https://note.com/bright_panda569",
+    "https://note.com/fm9d/n/n96349f67205f",
+    "https://note.com/third_party/n/n9a2b62bb0c02",
+    "https://note.com/japanknowledge/n/n71e633d78158",
+    "https://note.com/japanknowledge/n/n1b9afa76e7c8",
+    "https://note.com/jwl/n/nc08cacb8a6ef"
+   ]
+  },
+  {
+   "query": "site:x.com アドバンスジャパン",
+   "results": [
+    "https://x.com/1102_advance",
+    "https://x.com/sugaihiroki",
+    "https://x.com/PRTIMES_MKTG/status/2004418991557955673",
+    "https://x.com/sugaihiroki/status/2028371244115255627",
+    "https://x.com/sugaihiroki/status/1596020330568749056",
+    "https://x.com/SENKENplus/status/1856562639700406676",
+    "https://x.com/1102_advance/status/1596011174121721859",
+    "https://x.com/y_watanabe_adj",
+    "https://x.com/libraryfair/status/1933343383134867862",
+    "https://x.com/valesportscl_jp"
+   ]
+  },
+  {
+   "query": "site:linkedin.com アドバンスジャパン",
+   "results": [
+    "https://jp.linkedin.com/in/%E3%82%BF%E3%82%B9-%E3%82%AB%E3%82%AF-bba84b442",
+    "https://www.linkedin.com/posts/berndmontag_i-have-always-admired-how-japan-embraces-activity-7523419643768717312-8YoN",
+    "https://jp.linkedin.com/company/financial-services-agency-japan",
+    "https://www.linkedin.com/posts/johannesfruehauf_sola-biosciences-japan-receives-amed-grant-activity-7511416838891798528-eihm",
+    "https://www.linkedin.com/pulse/softbank-launches-joint-venture-tempus-ai-advance-japan-colangelo-txmyf",
+    "https://www.linkedin.com/posts/motoyuki-hirabayashi-a40618169_osaka-gas-usa-tallgrass-and-green-plains-activity-7012053846453608448-FANf",
+    "https://www.linkedin.com/posts/japaninuk_during-her-visit-to-the-uk-on-14-june-prime-activity-7472705597335957504-CJED",
+    "https://www.linkedin.com/posts/epsrc_weredelighted-to-beannouncing-fourhuman-centred-activity-7417894654144061441-pZDS",
+    "https://www.linkedin.com/posts/junsuto_xprize-healthspan-longevity-activity-7492931815066935296-CoXz",
+    "https://jp.linkedin.com/in/joerg-koepke-88866b42"
+   ]
+  },
+  {
+   "query": "site:facebook.com アドバンスジャパン",
+   "results": [
+    "https://www.facebook.com/advancejapan.ltd/",
+    "https://www.facebook.com/grandvolee/videos/%E4%BB%8A%E6%97%A5%E3%81%AF%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E6%9D%BE%E5%8E%9F%E3%81%95%E3%82%93%E3%81%8C%E3%81%8A%E8%B6%8A%E3%81%97%E3%81%AB%E3%81%AA%E3%82%89%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%80%E6%96%B0%E9%8B%AD%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8D%E3%82%B9%E3%83%8F%E3%83%BC%E3%83%8D%E3%82%B9%E3%81%AB%E3%81%BF%E3%82%93%E3%81%AA%E8%88%88%E5%91%B3%E6%B7%B1%E3%80%85%E5%83%95%E3%81%AFtheta-uls%E3%82%92%E8%A9%A6%E4%B9%97%E3%81%95%E3%81%9B%E3%81%A6%E3%82%82%E3%82%89%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%82%B9%E3%82%A4%E3%82%B9%E3%81%AE%E5%B1%B1%E3%81%8C%E7%9B%AE%E3%81%AB/1602490673711765/",
+    "https://www.facebook.com/advancejapan.ltd/posts/tau-dls-%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%B9%E3%83%9A%E3%83%83%E3%82%AF%E5%85%AC%E9%96%8B%E9%96%8B%E5%A7%8B%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AE%E3%82%A6%E3%82%A7%E3%83%96%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%A7%E6%8A%80%E8%A1%93%E3%83%87%E3%83%BC%E3%82%BF%E5%88%A9%E7%94%A8%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%B5%E3%82%A4%E3%82%BA%E9%87%8D%E9%87%8F%E7%AF%84%E5%9B%B2%E3%81%AA%E3%81%A9%E3%81%AE%E9%87%8D%E8%A6%81%E3%81%AA%E6%83%85%E5%A0%B1%E3%82%92%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%97%E3%81%A6%E9%AB%98%E3%83%AC%E3%83%99%E3%83%AB%E3%81%AE%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%92%E4%BD%93%E9%A8%93/1529354159190266/",
+    "https://www.facebook.com/advancejapan.ltd/posts/%E3%81%8A%E5%BE%85%E3%81%9F%E3%81%9B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9Fbibeta-7-%E3%81%A4%E3%81%84%E3%81%AB%E5%AE%8C%E6%88%90%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E3%82%BF%E3%83%B3%E3%83%87%E3%83%A0%E3%83%91%E3%82%A4%E3%83%AD%E3%83%83%E3%83%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E8%89%AF%E3%81%84%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%A7%E3%81%99%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84bibeta-7%E3%81%AF2027%E5%B9%B4%E3%81%AB%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%B1%BA%E5%AE%9A%E3%81%A7%E3%81%99%E7%A7%81%E3%81%9F%E3%81%A1/1726894102769603/",
+    "https://www.facebook.com/advancejapan.ltd/videos/%E3%81%82%E3%81%91%E3%81%BE%E3%81%97%E3%81%A6%E3%81%8A%E3%82%81%E3%81%A7%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E6%9C%AC%E5%B9%B4%E3%82%82%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99/920751336952611/",
+    "https://www.facebook.com/advancejapan.ltd/posts/%E3%82%A4%E3%83%97%E3%82%B7%E3%83%AD%E3%83%B39%E3%81%AA%E3%82%89%E3%81%A7%E3%81%8D%E3%82%8B%E6%93%8D%E4%BD%9C%E6%80%A7%E6%8A%9C%E7%BE%A4%E3%81%A7%E3%81%99%E5%A4%A7%E5%A5%BD%E8%A9%95%E7%99%BA%E5%A3%B2%E4%B8%AD/1512235348946028/",
+    "https://www.facebook.com/advancesupport.japan/",
+    "https://www.facebook.com/advance.tokuteiginou/",
+    "https://www.facebook.com/advance.forklift/",
+    "https://www.facebook.com/grandvolee/posts/%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AE%E9%9D%92%E7%A9%BA%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%93%E3%83%86%E3%82%A3%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%8C%E3%82%84%E3%81%A3%E3%81%A8%E6%8A%95%E7%A8%BF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99/1687690836165869/"
+   ]
+  },
+  {
+   "query": "アドバンスジャパン note 社長",
+   "results": [
+    "https://note.com/the100voices/n/n2116d64c2572",
+    "https://note.com/bright_panda569/n/n3fb64ec7bf32",
+    "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "https://job.mynavi.jp/28/pc/search/corp278205/outline.html",
+    "https://v-tsushin.jp/interview/vt92_advance-jp/",
+    "https://www.instagram.com/p/DfCLbb4GLpT/",
+    "https://advance-jp.co.jp/about/",
+    "https://x.com/sugaihiroki",
+    "https://www.youtube.com/@sugai-advancejapan",
+    "https://best100.v-tsushin.jp/company/advance-japan/"
+   ]
+  },
+  {
+   "query": "アドバンスジャパン X 投稿",
+   "results": [
+    "https://x.com/1102_advance",
+    "https://advance-jp.co.jp/",
+    "https://job.mynavi.jp/27/pc/corp278205/sem.html",
+    "https://www.instagram.com/p/DfCNvbXGLoI/",
+    "https://note.com/bright_panda569/n/n6223b5fb5b98",
+    "https://www.youtube.com/shorts/cQtAnhdX0t0",
+    "https://syukatsu-kaigi.jp/companies/171581",
+    "https://en-hyouban.com/company/10201242371/",
+    "https://x.com/sugaihiroki",
+    "https://x.com/sugaihiroki/status/2105625027685298294"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部23頁・検索11回）",
+  "代表者": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部23頁・検索11回）"
+ }
+}

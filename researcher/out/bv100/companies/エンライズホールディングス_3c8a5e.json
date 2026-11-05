@@ -1,0 +1,862 @@
+{
+ "name": "エンライズホールディングス",
+ "aliases": [
+  "enrise-holdings"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T15:24:13.068498+00:00",
+ "official_url": "https://enrise-holdings.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒151-0053 東京都渋谷区代々木1-43-7 SKビル",
+    "url": "https://enrise-holdings.co.jp/corporate/overview/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒151-0053 東京都渋谷区代々木1-43-7 SKビル Google Map",
+    "url": "https://encareer.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "[ 本社 ] 〒151-0053 東京都渋谷区代々木1-43-7 SKビル [ 新潟オフィス ] 〒950-0087 新潟県新潟市中央区東大通1-3−1 INPEX新潟ビルディング",
+    "url": "https://enrise-sol.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "label": "〇本社所在地",
+    "value": "東京都渋谷区代々木一丁",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒151-0053 東京都渋谷区代々木1-43-7 SKビル",
+    "url": "https://enrise-relations.co.jp/company/overview/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2012年8月22日",
+    "url": "https://enrise-holdings.co.jp/corporate/overview/",
+    "pass": 1
+   },
+   {
+    "label": "創業・設立",
+    "value": "創業・設立：2015年04月01日 株式会社エンライズコーポレーションにおける人材事業として創業 －－－－－ 2022年04月01日 エンライズホールディング株式会社への商号変更にともなう分社化により設立",
+    "url": "https://encareer.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "label": "創業",
+    "value": "創業：2012年8月22日",
+    "url": "https://enrise-sol.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2019年12月20日",
+    "url": "https://enrise-sol.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2021年4月1日",
+    "url": "https://enrise-relations.co.jp/company/overview/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "6,500万円（資本準備金含む）",
+    "url": "https://enrise-holdings.co.jp/corporate/overview/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "30,000,000円",
+    "url": "https://encareer.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "20,000,000円",
+    "url": "https://enrise-sol.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "15,000,000円",
+    "url": "https://enrise-relations.co.jp/company/overview/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役グループCEO　吾郷 克洋",
+    "url": "https://enrise-holdings.co.jp/corporate/overview/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役CEO　吾郷 克洋",
+    "url": "https://encareer.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役会長　吾郷克洋 代表取締役社長　沖世聖太",
+    "url": "https://enrise-relations.co.jp/company/overview/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "グループ経営マネジメント ＩＴ事業（Information Technology） ＣＰ事業（Community Platform） ＥＣ事業（Electronic Commerce） 2026年6月1日 IT事業、HR事業、コミュニティ事業、グローバル事業、WEB事業から変更",
+    "url": "https://enrise-holdings.co.jp/corporate/overview/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "IT人材ソリューション事業",
+    "url": "https://encareer.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "ITインフラソリューション",
+    "url": "https://enrise-sol.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "label": "〇事業概要",
+    "value": "IT事業、HR事業、コミュニ",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "中堅・中小企業向けDX導入支援事業 社長室サポート事業 情報システム部サポート事業 デザインサポート事業 教育事業 コンサルティング事業",
+    "url": "https://enrise-relations.co.jp/company/overview/",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主",
+    "value": "エンライズホールディングス株式会社",
+    "url": "https://encareer.co.jp/company/overview/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "〇常時使用する従業員",
+    "value": "273人",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "〇現在の売上高",
+    "value": "25億円",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "選出の記録": [
+   {
+    "quote": "「人財力100」「成長できる企業」に選出",
+    "url": "https://enrise-holdings.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「ベストベンチャー100」に選出",
+    "url": "https://enrise-holdings.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "アジアの急成長企業1000社「FT 1000:High-Growth Companies Asia-Pacific」に選出",
+    "url": "https://enrise-holdings.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ベストベンチャー100",
+    "url": "https://enrise-holdings.co.jp/corporate/award/",
+    "pass": 1
+   },
+   {
+    "quote": "「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります",
+    "url": "https://enrise-holdings.co.jp/corporate/award/",
+    "pass": 1
+   },
+   {
+    "quote": "イシン株式会社にエントリーした企業の中から、イシン株式会社が厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます",
+    "url": "https://enrise-holdings.co.jp/corporate/award/",
+    "pass": 1
+   },
+   {
+    "quote": "ベストベンチャー100について",
+    "url": "https://enrise-holdings.co.jp/corporate/award/",
+    "pass": 1
+   },
+   {
+    "quote": "」にて、エンライズホールディングス（旧：エンライズコーポレーション）がアジアの急成長企業1000社に選出されました",
+    "url": "https://enrise-holdings.co.jp/corporate/award/",
+    "pass": 1
+   },
+   {
+    "quote": "人材採用と育成に力を入れている人財力のある100社にエンライズホールディングス（旧：エンライズコーポレーション）が選出されました",
+    "url": "https://enrise-holdings.co.jp/corporate/award/",
+    "pass": 1
+   },
+   {
+    "quote": "社長チップス（ESSPRISE社）とForbes Japan主催の「Charming Chairman’s Club CHAMPIONSHIP 2019」におきまして、学生を惹きつけるチャーミングさを持つ社長を決める「2019 Charming Chairman 100」に弊社代表の吾郷が選出されました",
+    "url": "https://enrise-holdings.co.jp/corporate/award/",
+    "pass": 1
+   }
+  ],
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります",
+    "url": "https://enrise-holdings.co.jp/corporate/award/",
+    "pass": 1
+   },
+   {
+    "quote": "イシン株式会社にエントリーした企業の中から、イシン株式会社が厳正な審査のもと選出したベンチャー企業100社が「ベストベンチャー100」として紹介されます",
+    "url": "https://enrise-holdings.co.jp/corporate/award/",
+    "pass": 1
+   },
+   {
+    "quote": "100億宣言の「100億」は売上高を示しており、「売上高100億円」をめざす中小企業や経営者を支援するための制度として2025年2月に発表され、エンライズホールディングスは宣言企業として認定されました",
+    "url": "https://enrise-holdings.co.jp/corporate/award/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスに関するイベント・交流会の開催だけでなく自治体と連携をとったイベントなど地域に根差した運営を通して、地方から、日本全国・世界へと活躍する領域を広げたい企業や個人を応援する「場」を提供しています",
+    "url": "https://enrise-holdings.co.jp/corporate/group/",
+    "pass": 1
+   },
+   {
+    "quote": "「enspaceCebu」（シェアオフィス・コワーキングスペース）を運営しています",
+    "url": "https://enrise-holdings.co.jp/corporate/group/",
+    "pass": 1
+   },
+   {
+    "quote": "改正派遣法に基づくマージン率の公開について",
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "改正派遣法に基づくマージン率の公開について - エンライズホールディングス株式会社",
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/margin/",
+    "pass": 1
+   },
+   {
+    "quote": "改正派遣法に基づくマージン率の公開について",
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/margin/",
+    "pass": 1
+   },
+   {
+    "quote": "平成24年10月1日施行の「労働者派遣法改正法」により、派遣元事業者（当社）は、毎事業年度終了後、派遣先から受け取る派遣料金に占める派遣料金を派遣労働者に支払う賃金の差額の割合（マージン率といいます）を公開することが義務付けられました",
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/margin/",
+    "pass": 1
+   },
+   {
+    "quote": "（1）派遣労働者の総数：4名",
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/margin/",
+    "pass": 1
+   },
+   {
+    "quote": "（2）派遣先の数：2社",
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/margin/",
+    "pass": 1
+   },
+   {
+    "quote": "（3）派遣料金の平均額（8h平均）：15,000円",
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/margin/",
+    "pass": 1
+   },
+   {
+    "quote": "（4）派遣労働者の賃金の平均（8h平均）：10,235円",
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/margin/",
+    "pass": 1
+   },
+   {
+    "quote": "※マージンには、派遣元事業者として会社負担する健康保険・厚生年金・雇用保険・労働保険の費用となる社会保険料、事業運営費として営業担当者の人件費や営業活動諸費用・オフィス賃貸料、福利厚生費、研修費等が含まれています",
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/margin/",
+    "pass": 1
+   },
+   {
+    "quote": "ITインフラソリューションを事業の核として創業11年を迎えたエンライズグループは、当初から「ダイバーシティ＆インクルージョン」推進の志向を持って、社員たちによる推進委員会を運営してきました",
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/divercity-inclusion/",
+    "pass": 1
+   },
+   {
+    "quote": "改正派遣法に基づくマージン率の公開について",
+    "url": "https://encareer.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "労働者派遣事業（派 13-314728）",
+    "url": "https://enrise-sol.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介免許13-ユ-317191（有効 2024/10/1～2027/9/30）",
+    "url": "https://enrise-sol.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高100億円実現の目標と課題",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高100億円実現に向けた具体的措置",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※本宣言は企業自身がその責任において売上高１００億円を目指して、自社の取組を進める旨を宣言するものです",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2029年に売上高53億円、2032年に売上高100億円を達成し、そ",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の後の売上高108億円達成に向け、主軸としているIT事業の人材採",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "による多角化から収益機会の拡大と増加を目指す",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（グループ会社：ENRISE GLOBAL運営）",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇現在の売上高：25億円",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ サービス提供領域の拡大による収益向上を図るため、事業パー",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高100億円実現目標とグループ体制",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "紹介免許13-ユ-317190（有効 2024/10/1～2027/9/30）",
+    "url": "https://enrise-relations.co.jp/company/overview/",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "「ベストベンチャー100」とは、これから成長が期待されるベンチャー企業100社限定のサイトで、ベンチャー通信を運営するイシン株式会社が提供する法人向け有料会員制サービスになります",
+    "url": "https://enrise-holdings.co.jp/corporate/award/",
+    "pass": 1
+   },
+   {
+    "quote": "100億宣言の「100億」は売上高を示しており、「売上高100億円」をめざす中小企業や経営者を支援するための制度として2025年2月に発表され、エンライズホールディングスは宣言企業として認定されました",
+    "url": "https://enrise-holdings.co.jp/corporate/award/",
+    "pass": 1
+   },
+   {
+    "quote": "中小企業向けDX導入支援を中心に、エンジニアだけでなく非エンジニアに係る領域まで、PCを扱う業務のトータルサポートを実施",
+    "url": "https://enrise-holdings.co.jp/corporate/group/",
+    "pass": 1
+   },
+   {
+    "quote": "新規事業立ち上げなどのコンサルティング業務から、情報システム部門におけるプラットフォーム開発やエンジニアのタイムシェアリングなどITに知見のある人材が不足している中小企業をサポートします",
+    "url": "https://enrise-holdings.co.jp/corporate/group/",
+    "pass": 1
+   },
+   {
+    "quote": "フィリピンセブ島にてICTを軸にした中小企業の海外展開支援事業を展開",
+    "url": "https://enrise-holdings.co.jp/corporate/group/",
+    "pass": 1
+   },
+   {
+    "quote": "⚫ 営業体制の強化を図り、大手企業及び中小企業の開拓と深耕",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "ITインフラストラクチャー技術の専門会社として、未経験の若手人財を育成・輩出しながら、ITエンジニアの技術支援をおこなうシステムエンジニアリング部門とクラウドの技術支援をおこなうシステムインテグレーション部門の2つを柱に、コンサルティングから保守運用まで高度な顧客ニーズに答えるサービスと技術を提供しています",
+    "url": "https://enrise-holdings.co.jp/corporate/group/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスに関するイベント・交流会の開催だけでなく自治体と連携をとったイベントなど地域に根差した運営を通して、地方から、日本全国・世界へと活躍する領域を広げたい企業や個人を応援する「場」を提供しています",
+    "url": "https://enrise-holdings.co.jp/corporate/group/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフイベントを迎える社員において、出産や育児・介護をしながらキャリア形成していくイメージが薄い",
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/employee/",
+    "pass": 1
+   },
+   {
+    "quote": "対象者に仕事と介護の両立支援研修を実施する",
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/employee/",
+    "pass": 1
+   },
+   {
+    "quote": "当室が主導し、グループ各社におけるコンプライアンス教育の実施と促進に取組んでいます",
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "2.私たちは、常に顧客第一主義の姿勢で、お客様に信頼され期待されるベストパートナーを目指します",
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "※マージンには、派遣元事業者として会社負担する健康保険・厚生年金・雇用保険・労働保険の費用となる社会保険料、事業運営費として営業担当者の人件費や営業活動諸費用・オフィス賃貸料、福利厚生費、研修費等が含まれています",
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/margin/",
+    "pass": 1
+   },
+   {
+    "quote": "（6）教育訓練に関する事項：情報セキュリティ研修、インフラエンジニア基礎研修、マネジメント研修など",
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/margin/",
+    "pass": 1
+   },
+   {
+    "quote": "労務：社会保険労務士法人大槻経営労務管理事務所",
+    "url": "https://enrise-relations.co.jp/company/overview/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業 概要 - エンライズホールディングス 株式 会社 — 企業 概要 - エンライズホールディングス 株式 会社 エンライズホールディングス株式会社 https://enrise-holdings.co.jp > 企業情報",
+    "url": "https://enrise-holdings.co.jp/corporate/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "エンライズホールディングス 株式 会社 吾郷 克洋 — エンライズホールディングス 株式 会社 吾郷 克洋 ベストベンチャー100 https://best100.v-tsushin.jp > company > enrise-holdings",
+    "url": "https://best100.v-tsushin.jp/company/enrise-holdings/",
+    "pass": 3
+   },
+   {
+    "quote": "エンライズホールディングス 株式会社（情報通信業） — エンライズホールディングス 株式会社（情報通信業） １００億企業成長ポータル PDF https://growth-100-oku.smrj.go.jp > companies > pdf",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受賞歴 - エンライズホールディングス 株式会社 — 受賞歴 - エンライズホールディングス 株式会社 エンライズホールディングス株式会社 https://enrise-holdings.co.jp > 企業情報",
+    "url": "https://enrise-holdings.co.jp/corporate/award/",
+    "pass": 3
+   },
+   {
+    "quote": "エンライズホールディングス 株式会社 の企業情報 — エンライズホールディングス 株式会社 の企業情報 バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/3icxnr4bi2/",
+    "pass": 3
+   },
+   {
+    "quote": "エンライズホールディングス 株式会社 吾郷 克洋 — エンライズホールディングス 株式会社 吾郷 克洋 ベストベンチャー100 https://best100.v-tsushin.jp > company > enrise-holdings",
+    "url": "https://best100.v-tsushin.jp/company/enrise-holdings/",
+    "pass": 3
+   },
+   {
+    "quote": "「 エンライズホールディングス 株式会社」へ商号変更 — 「 エンライズホールディングス 株式会社」へ商号変更 エンライズホールディングス株式会社 https://enrise-holdings.co.jp > trade-name-change",
+    "url": "https://enrise-holdings.co.jp/newsrelease/trade-name-change/",
+    "pass": 3
+   },
+   {
+    "quote": "エンライズホールディングス 株式会社 — エンライズホールディングス 株式会社 エンライズホールディングス株式会社 https://enrise-holdings.co.jp",
+    "url": "https://enrise-holdings.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "エンライズホールディングス 株式会社 | Shibuya-ku Tokyo — エンライズホールディングス 株式会社 | Shibuya-ku Tokyo Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/enriseholdings/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業向けDX 導入 支援 - エンライズホールディングス 株式 ... — 中小企業向けDX 導入 支援 - エンライズホールディングス 株式 ... エンライズホールディングス株式会社 https://enrise-holdings.co.jp > dx-introduction-support",
+    "url": "https://enrise-holdings.co.jp/dx-introduction-support/",
+    "pass": 3
+   },
+   {
+    "quote": "エンライズホールディングス 株式会社 | Shibuya-ku Tokyo — エンライズホールディングス 株式会社 | Shibuya-ku Tokyo Facebook https://www.facebook.com > ... > インターネット関連企業",
+    "url": "https://www.facebook.com/enriseholdings/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要 - エンライズホールディングス 株式会社 — 企業概要 - エンライズホールディングス 株式会社 エンライズホールディングス株式会社 https://enrise-holdings.co.jp > 企業情報",
+    "url": "https://enrise-holdings.co.jp/corporate/overview/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "エンライズホールディングス 株式会社 - LinkedIn エンライズホールディングス 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > company > enrise-holdings",
+    "url": "https://jp.linkedin.com/company/enrise-holdings",
+    "pass": 3
+   },
+   {
+    "quote": "田中 真也 - エンライズホールディングス 株式会社 - LinkedIn 田中 真也 - エンライズホールディングス 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > 真也-田中-a95019352",
+    "url": "https://jp.linkedin.com/in/%E7%9C%9F%E4%B9%9F-%E7%94%B0%E4%B8%AD-a95019352",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "エンライズホールディングス 株式会社 | Shibuya-ku Tokyo エンライズホールディングス 株式会社 | Shibuya-ku Tokyo Facebook https://www.facebook.com > ... > インターネット関連企業",
+    "url": "https://www.facebook.com/enriseholdings/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://enrise-holdings.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enrise-holdings.co.jp/corporate/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enrise-holdings.co.jp/corporate/office/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enrise-holdings.co.jp/corporate/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enrise-holdings.co.jp/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enrise-holdings.co.jp/corporate/award/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enrise-holdings.co.jp/corporate/group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/employee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/compliance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/margin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enrise-holdings.co.jp/corporate/sustinability/divercity-inclusion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enrise-holdings.co.jp/corporate/overview/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://encareer.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enrise-sol.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/3icxnr4bi2/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.facebook.com/enriseholdings/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/enriseholdings/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://enrise-relations.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/enriseholdings/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/enrise-holdings",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E7%9C%9F%E4%B9%9F-%E7%94%B0%E4%B8%AD-a95019352",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/enriseholdings/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/enriseholdings/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/enriseholdings/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/enrise-holdings",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エンライズホールディングス 会社概要 資本金 設立",
+   "results": [
+    "https://enrise-holdings.co.jp/corporate/overview/",
+    "https://encareer.co.jp/company/overview/",
+    "https://enrise-sol.co.jp/company/overview/",
+    "https://prtimes.jp/main/html/rd/p/000000006.000033946.html",
+    "https://best100.v-tsushin.jp/company/enrise-holdings/",
+    "https://enrise-relations.co.jp/company/overview/",
+    "https://www.digima-japan.com/company/enrise-global/",
+    "https://www.facebook.com/enriseholdings/?locale=ja_JP",
+    "https://enrise-holdings.co.jp/newsrelease/trade-name-change/",
+    "https://compalyze.co.jp/company/1011001091349"
+   ]
+  },
+  {
+   "query": "エンライズホールディングス 事業内容 売上",
+   "results": [
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "https://enrise-holdings.co.jp/corporate/award/",
+    "https://www.buffett-code.com/company/3icxnr4bi2/",
+    "https://best100.v-tsushin.jp/company/enrise-holdings/",
+    "https://enrise-holdings.co.jp/newsrelease/trade-name-change/",
+    "https://www.facebook.com/enriseholdings/",
+    "https://jp.linkedin.com/company/enrise-holdings",
+    "https://prtimes.jp/main/html/rd/p/000000024.000033946.html",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000qcwym",
+    "https://enrise-holdings.co.jp/corporate/overview/"
+   ]
+  },
+  {
+   "query": "エンライズホールディングス 資金調達 株主",
+   "results": [
+    "https://enrise-holdings.co.jp/",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "https://www.facebook.com/enriseholdings/",
+    "https://best100.v-tsushin.jp/company/enrise-holdings/",
+    "https://initial.inc/tags/fundraising-articles",
+    "https://corp.asuene.com/news/1259/",
+    "https://enrise-relations.co.jp/company/overview/",
+    "https://prtimes.jp/main/html/rd/p/000000024.000033946.html",
+    "https://enrise-holdings.co.jp/newsrelease/capital-tie-up_definer/",
+    "https://catr.jp/companies/1888d/86262"
+   ]
+  },
+  {
+   "query": "エンライズホールディングス 導入事例",
+   "results": [
+    "https://enrise-holdings.co.jp/dx-introduction-support/",
+    "https://www.facebook.com/enriseholdings/?locale=ja_JP",
+    "https://enrise-relations.co.jp/company/overview/",
+    "https://www.cybereason.co.jp/products/case-studies/",
+    "https://www.ascentech.co.jp/case/ca_index.html",
+    "https://prtimes.jp/main/html/rd/p/000000024.000033946.html",
+    "https://www.eneres.jp/case/",
+    "https://enrise-sol.co.jp/business/si/",
+    "https://www.einswave.jp/case/",
+    "https://best100.v-tsushin.jp/company/enrise-holdings/"
+   ]
+  },
+  {
+   "query": "エンライズホールディングス 主要取引先",
+   "results": [
+    "https://enrise-holdings.co.jp/corporate/overview/",
+    "https://www.facebook.com/enriseholdings/?locale=ja_JP",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "https://best100.v-tsushin.jp/company/enrise-holdings/",
+    "https://enrise-sol.co.jp/company/overview/",
+    "https://jp.linkedin.com/company/enrise-holdings",
+    "https://enrise-relations.co.jp/company/overview/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/33946",
+    "https://www.digima-japan.com/company/enrise-global/",
+    "https://openbizgraph.com/detail/297498"
+   ]
+  },
+  {
+   "query": "site:note.com エンライズホールディングス",
+   "results": [
+    "https://note.com/definer_inc/n/n028911d18aa4",
+    "https://note.com/birthtlt91/n/n86287c9b33c6",
+    "https://note.com/takeshiosumi/n/n57476fdf751b",
+    "https://note.com/dugout/n/ne3cae7baf4e9",
+    "https://note.com/clipcorporation/n/ne675e0936c23",
+    "https://note.com/clipcorporation/n/ndf38f2b2fb8e",
+    "https://note.com/clipcorporation/n/nf8a59a7690cc",
+    "https://note.com/clipcorporation/n/n80cf524f6213",
+    "https://note.com/echory_studio/n/n9bb80acb30e5",
+    "https://note.com/quirky_wolf6544/n/na51992df80fa"
+   ]
+  },
+  {
+   "query": "site:x.com エンライズホールディングス",
+   "results": [
+    "https://x.com/enrise_pr",
+    "https://x.com/ENRISE_CRO",
+    "https://x.com/flc_fes",
+    "https://x.com/choshiiiii",
+    "https://x.com/enrise_pr/status/2065230100296085766",
+    "https://x.com/enrise_pr/status/2111031023136035191",
+    "https://x.com/enrise_pr/status/2039996522952355914",
+    "https://x.com/envalith/status/2117903464294752687",
+    "https://x.com/enrise_pr/status/2041794846655180892",
+    "https://x.com/en_Holdings1989"
+   ]
+  },
+  {
+   "query": "site:linkedin.com エンライズホールディングス",
+   "results": [
+    "https://jp.linkedin.com/company/enrise-holdings",
+    "https://jp.linkedin.com/in/%E7%9C%9F%E4%B9%9F-%E7%94%B0%E4%B8%AD-a95019352",
+    "https://jp.linkedin.com/in/yoshiyuki-watanabe",
+    "https://jp.linkedin.com/in/%E9%BA%BB%E4%BE%9D-%E6%9D%BE%EF%A8%91-9bb95b24b",
+    "https://www.linkedin.com/pub/dir/%E7%9C%9F%E4%B9%9F/%E7%94%B0%E4%B8%AD",
+    "https://jp.linkedin.com/directory/companies/more-1",
+    "https://jp.linkedin.com/pub/dir/+/%E9%BA%BB/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/pub/dir/%E7%9C%9F%E4%B9%9F/%E7%94%B0%E4%B8%AD/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/pub/dir/%E5%B9%B9%E5%A4%AB/+",
+    "https://www.linkedin.com/posts/enrise-holdings_当グループの-enrise-global-で運営しているシェアオフィスコワーキングスペース-activity-7160885440881774592-toF4"
+   ]
+  },
+  {
+   "query": "site:facebook.com エンライズホールディングス",
+   "results": [
+    "https://www.facebook.com/enriseholdings/?locale=ja_JP",
+    "https://www.facebook.com/enriseholdings/posts/2026%E5%B9%B44%E6%9C%881%E6%97%A5%E5%BD%93%E7%A4%BE%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E4%BC%9A%E7%A4%BE%E3%81%AEit%E4%BA%8B%E6%A5%AD%E3%82%92%E6%8B%85%E3%81%86%E3%82%A8%E3%83%B3%E3%83%A9%E3%82%A4%E3%82%BA%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AB26%E5%B9%B4%E5%BA%A6%E3%81%AE%E6%96%B0%E5%85%A5%E7%A4%BE%E5%93%A14%E6%9C%88%E7%94%9F%E3%82%92%E8%BF%8E%E3%81%88%E5%85%A5%E7%A4%BE%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%82%A8%E3%83%B3%E3%83%A9%E3%82%A4%E3%82%BA/1612359093711048/",
+    "https://www.facebook.com/enriseholdings/posts/%E4%BB%A3%E3%80%85%E6%9C%A8%E6%9C%AC%E7%A4%BE%E3%81%AE%E3%81%82%E3%82%8Bsk%E3%83%93%E3%83%AB%E3%81%A7%E3%81%AF%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B91%E9%9A%8E%E3%82%AD%E3%83%83%E3%83%81%E3%83%B34%E9%9A%8E%E4%BC%9A%E8%AD%B0%E5%AE%A45%E9%9A%8E%E3%81%AE3%E3%83%95%E3%83%AD%E3%82%A2%E3%81%AB%E3%82%8F%E3%81%9F%E3%82%8B%E6%94%B9%E8%A3%85%E5%B7%A5%E4%BA%8B%E3%81%8C%E7%84%A1%E4%BA%8B%E3%81%AB%E5%AE%8C%E4%BA%86%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%81%AE%E6%94%B9%E8%A3%85%E3%82%92%E8%A8%98%E5%BF%B5%E3%81%97%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AB%E5%B8%B0%E7%A4%BE%E6%97%A5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%92%E9%96%8B/1191544025792559/",
+    "https://www.facebook.com/katsuhiro.ago/",
+    "https://www.facebook.com/enriseholdings/posts/1%E6%9C%8816%E6%97%A5%E5%BD%93%E7%A4%BE%E3%81%A7%E3%81%AF%E6%AF%8E%E5%B9%B4%E6%81%92%E4%BE%8B%E3%81%AE%E6%96%B0%E5%B9%B4%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E7%A4%BE%E5%93%A1%E5%90%8C%E5%A3%AB%E3%81%AE%E4%BA%A4%E6%B5%81%E3%82%92%E6%B7%B1%E3%82%81%E3%82%8B%E5%A0%B4%E3%81%A8%E3%81%97%E3%81%A6%E5%A4%A7%E3%81%84%E3%81%AB%E7%9B%9B%E3%82%8A%E4%B8%8A%E3%81%8C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%81%AE%E6%96%B0%E5%B9%B4%E4%BC%9A%E3%81%A7%E3%81%AF%E7%A4%BE%E5%93%A1%E3%81%AB%E3%82%88%E3%82%8B%E6%89%8B%E4%BD%9C%E3%82%8A%E3%81%AE%E3%81%8A%E9%9B%91%E7%85%AE%E3%81%8C%E6%8C%AF%E3%82%8B%E8%88%9E%E3%82%8F%E3%82%8C%E4%BC%9A%E5%A0%B4%E3%81%AF%E6%96%B0%E5%B9%B4%E3%82%89%E3%81%97%E3%81%84/1232781651668796/",
+    "https://www.facebook.com/public/%E5%8A%A0%E8%97%A4-%E5%A4%A7%E6%98%8C/",
+    "https://www.facebook.com/prtimes.marketing/posts/1664929258971909/",
+    "https://www.facebook.com/AuranSystem/posts/%E6%9C%AC%E6%97%A5%E3%81%AE%E3%81%88%E3%81%A3chip-star-%E7%80%AC%E6%88%B8%E5%86%85%E3%83%AC%E3%83%A2%E3%83%B3%E5%91%B3ybc%E6%9C%80%E8%BF%91%E3%81%AA%E3%82%93%E3%81%A0%E3%81%8B%E3%83%AC%E3%83%A2%E3%83%B3%E5%91%B3%E5%A4%9A%E3%81%8F%E3%81%AA%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B%E3%81%A7%E7%9B%AE%E3%81%AB%E3%81%A4%E3%81%84%E3%81%9F%E3%81%AE%E3%81%8C%E3%81%93%E3%82%8C%E3%81%84%E3%82%84%E3%81%84%E3%82%84%E6%97%A8%E3%81%97%E3%81%8F%E3%81%85%E3%83%BC%E3%81%99%E3%81%A3%E3%81%BA%E3%83%BC%E3%83%BC-%EF%BE%9F%D0%B4%EF%BE%9F%E3%81%A8%E3%81%AF%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8C%E3%81%AF%E3%81%AA/223263158185752/",
+    "https://www.facebook.com/hyoi.possession.world/posts/x-tech-innovation-2019x-tech-innovation2019%E3%81%AB%E3%81%A6%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEhyoi%E3%81%A8%E3%81%97%E3%81%A6%E7%99%BB%E5%A3%87%E8%87%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%A0%AA%E5%BC%8F/498539427427715/",
+    "https://www.facebook.com/AuranSystem/posts/%E6%9C%AC%E6%97%A5%E3%81%AE%E7%A5%9E%E7%A4%BE%E5%B8%AF%E5%BB%A3%E7%A5%9E%E7%A4%BE%E4%BD%8F%E6%89%80%E5%8C%97%E6%B5%B7%E9%81%93%E5%B8%AF%E5%BA%83%E5%B8%82%E6%9D%B13%E6%9D%A1%E5%8D%972%E4%B8%81%E7%9B%AE1%E7%95%AA%E5%9C%B0epson%E3%82%BD%E3%83%95%E3%83%88%E5%B0%8E%E5%85%A5%E6%A1%88%E4%BB%B6%E3%81%AB%E3%81%A6%E5%BE%80%E8%A8%AA%E8%BF%91%E5%B9%B4%E3%81%BE%E3%82%8C%E3%81%AB%E3%81%BF%E3%82%8B%E6%9A%91%E3%81%95%E3%81%A7%E3%81%97%E3%81%9F%E3%81%8C%E5%A2%83%E5%86%85%E3%81%AF%E3%81%B2%E3%81%A3%E3%81%9D%E3%82%8A%E6%B6%BC%E3%81%97%E3%81%92%E5%9C%B0%E5%85%83%E3%81%A7%E3%81%AE%E4%BD%9C%E6%A5%AD%E7%A5%88%E9%A1%98%E3%82%92%E3%81%97%E3%81%A6%E3%81%8A%E5%AE%A2%E6%A7%98/242352199610181/"
+   ]
+  },
+  {
+   "query": "エンライズホールディングス note 社長",
+   "results": [
+    "https://note.com/definer_inc/n/n028911d18aa4",
+    "https://enrise-holdings.co.jp/corporate/overview/",
+    "https://www.facebook.com/enriseholdings/?locale=ja_JP",
+    "https://best100.v-tsushin.jp/company/enrise-holdings/",
+    "https://jp.linkedin.com/company/enrise-holdings",
+    "https://logos-holdings.jp/news/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%AD%E3%82%B4%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%A0%E3%81%AF%E5%8C%97%E6%B4%8B%E9%8A%80%E8%A1%8C%E3%81%AE%E3%80%8C%E3%82%B5%E3%82%B9%E3%83%86%E3%83%8A%E3%83%93-2/",
+    "https://www.instagram.com/reel/DUDNwK4gekg/",
+    "https://enrise-relations.co.jp/company/overview/",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "https://ceo-information.com/2023/04/24/エンライズホールディングス株式会社の紹介と代/"
+   ]
+  },
+  {
+   "query": "エンライズホールディングス X 投稿",
+   "results": [
+    "https://enrise-holdings.co.jp/newsrelease/",
+    "https://www.facebook.com/enriseholdings/?locale=ja_JP",
+    "https://jp.linkedin.com/company/enrise-holdings",
+    "https://prtimes.jp/main/html/searchrlp/company_id/33946",
+    "https://www.openwork.jp/one_answer.php?vid=a0A2x00000B0wox&qco=10",
+    "https://syukatsu-kaigi.jp/companies/160144",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/02540-00.pdf",
+    "https://jobtalk.jp/companies/4345279/answers",
+    "https://best100.v-tsushin.jp/company/enrise-holdings/",
+    "https://www.facebook.com/enriseholdings/"
+   ]
+  }
+ ],
+ "missing": {
+  "主要取引先": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部16頁・検索11回）",
+  "資本金・株主": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部16頁・検索11回）"
+ }
+}

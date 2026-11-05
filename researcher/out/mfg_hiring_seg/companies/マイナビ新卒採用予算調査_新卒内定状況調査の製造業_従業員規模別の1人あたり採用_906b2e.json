@@ -1,0 +1,624 @@
+{
+ "name": "マイナビ新卒採用予算調査・新卒内定状況調査の製造業・従業員規模別の1人あたり採用費（原典）",
+ "en": "Mynavi new graduate recruitment budget survey manufacturing per hire cost by company size",
+ "aliases": [
+  "マイナビ 新卒採用予算調査 製造業 1人あたり 採用費",
+  "新卒内定状況調査 採用単価 業種別 従業員規模別",
+  "career-research.mynavi.jp 採用予算 製造業"
+ ],
+ "context": "規模",
+ "kind": "market",
+ "researched_at": "2026-11-05T15:19:56.481188+00:00",
+ "evidence": {
+  "セグメント定義": [
+   {
+    "quote": "採用単価の相場｜一人当たりの平均と職種・企業規模別の目安 − マガジン ｜ 【マイナビProfessional】企業向けポータルサイト",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価の相場｜一人当たりの平均と職種・企業規模別の目安 − マガジン ｜ 【マイナビProfessional】企業向けポータルサイト 読み込まれました",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価の相場｜一人当たりの平均と職種・企業規模別の目安",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "そこで本記事では、特にコストコントロールが難しい「中途採用」に焦点を当て、最新の相場や職種・企業規模別の動向、さらには自社の適正コストを算出する具体的な計算方法までを分かりやすく解説します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "職種別の採用単価は、その職種の「採用難易度（需給バランス）」に比例します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "業務委託の費用相場はいくら？職種別の目安と適正価格の見極め方",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ「中途採用状況調査2025年版（2024年実績）」によると、従業員規模別の中途採用費用（年間総額の平均）は以下の通りです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "従業員3〜50名：",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "従業員51〜300名：",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "従業員301〜1,000名：",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "従業員1,001名以上：",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "同じくマイナビの同調査による、業種別の中途採用費用（年間総額の平均）は以下の通りです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "直近の採用コストと採用人数から自社単価を算出し、企業規模別・業種別など自社に近いセグメントの相場と比較します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   }
+  ],
+  "採用単価": [
+   {
+    "quote": "採用単価の相場は数十万円から100万円超まで、採用区分や活用する手法によって大きな幅があります",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "代表的な指標として、新卒採用では約50万〜90万円、中途採用では約30万〜100万円超 が一般的な目安です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、多くの企業が頼る人材紹介（転職エージェント）は、理論年収の30〜35%が成果報酬の相場となるため、専門職やハイキャリアの採用ではコストが100万円を大きく上回ることも珍しくありません",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストを構成する2つの要素",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q1. 採用単価を下げるために無料の求人サービスを使う際の注意点はありますか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q2. 採用単価を算出する際、どこまでを「内部コスト」に含めるべきですか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q3. 採用単価が市場相場より大幅に高くなっている場合、まず何から手をつければよいですか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q4. 採用単価を下げると採用の質が落ちませんか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q5. 自社の採用単価が高いかどうかはどう判断すればよいですか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   }
+  ],
+  "年間採用費": [
+   {
+    "quote": "手順3：総額を「採用人数」で割る",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "まずは「過去1年間」など対象となる期間を決め、その間に発生した求人広告費や紹介手数料など、外部へ支払った費用を項目ごとにすべて集計します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用費用の年間平均総額（650.6万円）を採用人数の平均（20.8人）で割った最新の算出値です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ「中途採用状況調査2025年版（2024年実績）」によると、従業員規模別の中途採用費用（年間総額の平均）は以下の通りです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "ただし、多くの企業が頼る人材紹介（転職エージェント）は、理論年収の30〜35%が成果報酬の相場となるため、専門職やハイキャリアの採用ではコストが100万円を大きく上回ることも珍しくありません",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "・リファラル採用で社員に支払うインセンティブ",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "外部のサービスへ支払う求人広告費・人材紹介手数料など 「社外」のコスト",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "まずは「過去1年間」など対象となる期間を決め、その間に発生した求人広告費や紹介手数料など、外部へ支払った費用を項目ごとにすべて集計します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介（転職エージェント）の一般的な料金体系：理論年収の30〜35％",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用で最も多く利用される人材紹介サービスの場合、成果報酬は「理論年収の30〜35%」が市場の共通相場です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "特に人材紹介（転職エージェント）を利用する場合、一般的な成果報酬は理論年収の30〜35%ですが、エンジニアや専門職など市場価値の高い職種では35〜40%に引き上げられるケースが増えています",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "比較的母集団形成がしやすいため求人広告での採用が決まりやすく、1人当たり数十万円に抑えられるケースもあります",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、人材紹介手数料の上昇も影響しています",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークや、各種求人サービス（Indeed、エンゲージ、求人ボックスなど）の無料掲載枠を組み合わせて初期コストを抑えます",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "社員へのインセンティブ（数万〜数十万円）は発生しますが、人材紹介の手数料と比べて大幅に外部コストを削減できます",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "スカウト枠の利用料などはかかりますが、人材紹介より費用を抑えやすく、ピンポイントでの獲得が可能です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "自社サイトからの直接応募を増やす仕組みです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "まずは直近の採用活動において「どの手法（媒体や人材紹介）にいくら使い、何人入社したか」という費用対効果の棚卸しを行ってください",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "プロ人材紹介サービスの選び方｜3タイプ別の特徴と比較ポイント7つを解説",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "ここでは、公表されている調査データをもとに、それぞれの平均値と背景を解説します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価は調査対象や集計方法によって数値が変動するため、数値を引用する際は、調査年度と出典をあわせて確認しておくと、社内説明の際にも説得力が高まります",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ「2024年卒 企業新卒内定状況調査」：56.8万円",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "リクルート就職みらい研究所「就職白書2024」：基礎データとして活用",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "リクルートの最新の就職白書（2024年版）では、一人当たりの金額自体は非公表となっていますが、「インターンシップや早期選考への対応で、採用担当者の工数（内部コスト）が増加している」という背景が示されています",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ「中途採用状況調査2025年版（2024年実績）」：約31.3万円",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ「中途採用状況調査2025年版（2024年実績）」によると、従業員規模別の中途採用費用（年間総額の平均）は以下の通りです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "同じくマイナビの同調査による、業種別の中途採用費用（年間総額の平均）は以下の通りです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビの調査によると、中途採用費用の平均総額は右肩上がりで推移しています",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用も同様で、マイナビの調査では2023年卒の採用単価（1人あたり）45.0万円から2024年卒は56.8万円へと上昇しました",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "［1］株式会社マイナビ「2024年卒 企業新卒内定状況調査」",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "［2］株式会社 マイナビ 中途採用状況調査2025年版（2024年実績）",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "［3］『就職白書2024』データ集 | 就職みらい研究所",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "［4］株式会社マイナビ「中途採用状況調査2024年版（2023年実績）」",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "［6］株式会社マイナビ「中途採用状況調査2022年版（2021年実績）」",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "100",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "quote": "採用単価の相場は数十万円から100万円超まで、採用区分や活用する手法によって大きな幅があります"
+   },
+   {
+    "value": "90",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "quote": "代表的な指標として、新卒採用では約50万〜90万円、中途採用では約30万〜100万円超 が一般的な目安です"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saponet.mynavi.jp/guide_saiyo/detail/20210419183222.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.take-action.co.jp/column/102610/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cavitte.co.jp/%E4%BA%BA%E4%BA%8B/%E6%8E%A1%E7%94%A8%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A3%E3%81%A6%E3%81%A9%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%E3%81%8B%E3%81%8B%E3%82%8B%E3%81%AE%EF%BC%9F%EF%BC%88%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/saiyo0602/n/n6ef60dc0dfca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.careermart.co.jp/blog/14968",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2025/11/2026-kigyo-naiteijyokyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nippon-smes-project.com/magazine/column/132/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2025/07/2026-saiyojyokatsudo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2024/07/s-kigyokatsudou-25-001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000002527.000002955.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20261105_116787/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20251107_104128/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mynavi.jp/news/2026/11/post_55110.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mynavi.jp/news/2025/11/post_50868.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saponet.mynavi.jp/files/survey_data/s-survey_naiteijokyo_2026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000002289.000002955.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "マイナビ新卒採用予算調査・新卒内定状況調査の製造業・従業員規模別の1人あたり採用費（原典） 採用単価 規模別",
+   "results": [
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://saponet.mynavi.jp/guide_saiyo/detail/20210419183222.html",
+    "https://megdai.jp/markebatake/saiyou/6434/",
+    "https://www.take-action.co.jp/column/102610/",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/11/2026-kigyo-naiteijyokyo.pdf",
+    "https://cavitte.co.jp/%E4%BA%BA%E4%BA%8B/%E6%8E%A1%E7%94%A8%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A3%E3%81%A6%E3%81%A9%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%E3%81%8B%E3%81%8B%E3%82%8B%E3%81%AE%EF%BC%9F%EF%BC%88%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8/",
+    "https://career-research.mynavi.jp/reserch/20261105_116787/"
+   ]
+  },
+  {
+   "query": "マイナビ新卒採用予算調査・新卒内定状況調査の製造業・従業員規模別の1人あたり採用費（原典） 採用コスト 調査 万円",
+   "results": [
+    "https://saponet.mynavi.jp/guide_saiyo/detail/20210419183222.html",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://megdai.jp/markebatake/saiyou/6434/",
+    "https://www.take-action.co.jp/column/102610/",
+    "https://cavitte.co.jp/%E4%BA%BA%E4%BA%8B/%E6%8E%A1%E7%94%A8%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A3%E3%81%A6%E3%81%A9%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%E3%81%8B%E3%81%8B%E3%82%8B%E3%81%AE%EF%BC%9F%EF%BC%88%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8/",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://note.com/saiyo0602/n/n6ef60dc0dfca",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf"
+   ]
+  },
+  {
+   "query": "マイナビ新卒採用予算調査・新卒内定状況調査の製造業・従業員規模別の1人あたり採用費（原典） 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "https://www.careermart.co.jp/blog/14968",
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/11/2026-kigyo-naiteijyokyo.pdf",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://nippon-smes-project.com/magazine/column/132/",
+    "https://www.take-action.co.jp/column/102610/",
+    "https://megdai.jp/markebatake/saiyou/6434/"
+   ]
+  },
+  {
+   "query": "マイナビ新卒採用予算調査・新卒内定状況調査の製造業・従業員規模別の1人あたり採用費（原典） 採用経路 割合 調査",
+   "results": [
+    "https://saponet.mynavi.jp/guide_saiyo/detail/20210419183222.html",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://www.take-action.co.jp/column/102610/",
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/07/2026-saiyojyokatsudo.pdf",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "https://nippon-smes-project.com/magazine/column/132/",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html"
+   ]
+  },
+  {
+   "query": "マイナビ新卒採用予算調査・新卒内定状況調査の製造業・従業員規模別の1人あたり採用費（原典） 人手不足 充足率 調査 2025",
+   "results": [
+    "https://saponet.mynavi.jp/guide_saiyo/detail/20210419183222.html",
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/11/2026-kigyo-naiteijyokyo.pdf",
+    "https://career-research.mynavi.jp/wp-content/uploads/2024/07/s-kigyokatsudou-25-001.pdf",
+    "https://www.take-action.co.jp/column/102610/",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://prtimes.jp/main/html/rd/p/000002527.000002955.html",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis"
+   ]
+  },
+  {
+   "query": "マイナビ新卒採用予算調査・新卒内定状況調査の製造業・従業員規模別の1人あたり採用費（原典） 白書 採用",
+   "results": [
+    "https://saponet.mynavi.jp/guide_saiyo/detail/20210419183222.html",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://www.take-action.co.jp/column/102610/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/07/2026-saiyojyokatsudo.pdf",
+    "https://cavitte.co.jp/%E4%BA%BA%E4%BA%8B/%E6%8E%A1%E7%94%A8%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A3%E3%81%A6%E3%81%A9%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%E3%81%8B%E3%81%8B%E3%82%8B%E3%81%AE%EF%BC%9F%EF%BC%88%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8/",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://career-research.mynavi.jp/reserch/20261105_116787/"
+   ]
+  },
+  {
+   "query": "site:note.com マイナビ新卒採用予算調査・新卒内定状況調査の製造業・従業員規模別の1人あたり採用費（原典）",
+   "results": [
+    "https://note.com/jack4manastalk/n/n880406135053",
+    "https://note.com/ikedon0505/n/n743f51f29bba",
+    "https://note.com/epolicy_actvst/n/nd38585262807",
+    "https://note.com/takada188/n/n1abaca1d2730",
+    "https://note.com/shizuku_jobti/n/n445603d59677",
+    "https://note.com/takada188/n/ne77088d97b6d",
+    "https://note.com/enmore_tokyo/n/nb05526c8f1f3",
+    "https://note.com/ezuremanagement/n/n3e69d2b40cb9",
+    "https://note.com/ishikura3/n/n58657d1f3289",
+    "https://note.com/nikkei_r_bizdata/n/nd9d66fb920c3"
+   ]
+  },
+  {
+   "query": "site:x.com マイナビ新卒採用予算調査・新卒内定状況調査の製造業・従業員規模別の1人あたり採用費（原典）",
+   "results": [
+    "https://x.com/ryu_vpro/status/2091359795253219839",
+    "https://x.com/ryu_vpro/status/2107984329070829907",
+    "https://x.com/sho0701xx/status/2115282209875632567",
+    "https://x.com/sho0701x/status/2109480530110492680",
+    "https://x.com/takumilb11/status/2097495899580899707",
+    "https://x.com/nyx2308/status/2056148348294529411",
+    "https://x.com/tabino_sora__/status/2113557524649795717"
+   ]
+  },
+  {
+   "query": "site:linkedin.com マイナビ新卒採用予算調査・新卒内定状況調査の製造業・従業員規模別の1人あたり採用費（原典）",
+   "results": [
+    "https://business.linkedin.com/ja-jp/talent-solutions/resources/archive/future-of-recruiting",
+    "https://jp.linkedin.com/pulse/新卒採用が厳しくなる一方で未だにまごついている企業が2割もいる実態-崇-堀内-lz5dc",
+    "https://jp.linkedin.com/posts/y-ishii_リクルートワークス研究所-2027卒大卒求人倍率調査-27卒求人倍率は162-activity-7453702561473224704-As1Z",
+    "https://www.linkedin.com/pulse/就職プロセス調査2024年4月1日時点-内定状況の結果発表から見る早期決定の傾向-崇-堀内-h83kc/",
+    "https://www.linkedin.com/posts/良一-本間-3b70ba246_就活-人材-企業-activity-7360960547342729217-ARx7",
+    "https://jp.linkedin.com/posts/智基-浅川-2338a4344_人事担当者800名調査新卒採用に関する予算配分の実態調査レポート費目別採用フェーズ-activity-7506274651707297792-KVAG",
+    "https://jp.linkedin.com/posts/辰憲-高井-ba9480399_人事担当者800名調査新卒採用に関する予算配分の実態調査レポート費目別採用フェーズ-activity-7506231304036986882-q3sC"
+   ]
+  },
+  {
+   "query": "site:facebook.com マイナビ新卒採用予算調査・新卒内定状況調査の製造業・従業員規模別の1人あたり採用費（原典）",
+   "results": [
+    "https://www.facebook.com/saponet.mynavi/",
+    "https://www.facebook.com/hr.recruit.jp/",
+    "https://www.facebook.com/Shushoku.mirai/posts/就職プロセス調査2025年卒2024年12月1日時点-内定状況-就職先が確定した学生からは配属先や今後のスケジュールが分からないことに対する不安の声12月1日時/1087741123148479/",
+    "https://www.facebook.com/NIPPOMORE/posts/新潟県内130社2025年度の新卒採用アンケート食品や製造業で採用増目立つ運輸業建設業の大半は前年並み-人材獲得へ競争激化首都圏と条件差拡大との声も-https/887958393345630/",
+    "https://www.facebook.com/crescohr/posts/ブログ更新最近の新卒1人当たりの採用単価事情3月に就職活動が解禁となり本格的な新卒採用シーズンとなりました貴社の採用は順調に進んでいますか今年は売り手市場で学生/1476761682452383/",
+    "https://www.facebook.com/worksinstitute/posts/民間企業の新卒採用見通し26年卒を調査しました2026年卒では増える-減るのポイントは78ポイントで2025年卒108と比べ減少はしたものの依然として高い採用意/1142881094290746/",
+    "https://www.facebook.com/Thinkings.co.jp/posts/新卒採用活動実態調査レポート2025年卒採用管理システムsonar-atsのデータをもとに初のレポートを公開しました採用チャネル別の成果選考プロセスの設計状況な/1411718920954286/"
+   ]
+  },
+  {
+   "query": "マイナビ新卒採用予算調査・新卒内定状況調査の製造業・従業員規模別の1人あたり採用費（原典） note 社長",
+   "results": [
+    "https://saponet.mynavi.jp/guide_saiyo/detail/20210419183222.html",
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://www.take-action.co.jp/column/102610/",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://note.com/saiyo0602/n/n6ef60dc0dfca",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/11/2026-kigyo-naiteijyokyo.pdf",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://career-research.mynavi.jp/reserch/20261105_116787/"
+   ]
+  },
+  {
+   "query": "マイナビ新卒採用予算調査・新卒内定状況調査の製造業・従業員規模別の1人あたり採用費（原典） X 投稿",
+   "results": [
+    "https://saponet.mynavi.jp/guide_saiyo/detail/20210419183222.html",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-tanka-241125/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/11/2026-kigyo-naiteijyokyo.pdf",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://www.take-action.co.jp/column/102610/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/07/2027_saiyokatsudo_Ver2.pdf",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://nippon-smes-project.com/magazine/column/132/",
+    "https://career-research.mynavi.jp/reserch/20261105_116787/"
+   ]
+  },
+  {
+   "query": "Mynavi new graduate recruitment budget survey manufacturing per hire cost by company size site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/mynavikorea",
+    "https://jp.linkedin.com/company/mynavi-corporation",
+    "https://www.linkedin.com/company/mynavi-global",
+    "https://www.linkedin.com/posts/wecrin_japanhiring-localrecruitment-linkedinrecruiting-activity-7368606154546917377-cGGV",
+    "https://www.linkedin.com/posts/coun-jurgen-795b1931a_job-sites-in-japan-1-rikunabi-%E3%83%AA%E3%82%AF%E3%83%8A%E3%83%93-one-activity-7294253744085479424-5EDt",
+    "https://www.linkedin.com/posts/shion-moriyama-1295691ba_mycompany-activity-7286563024629387264-6Adt",
+    "https://jp.linkedin.com/in/satoko-doi-1185291b4",
+    "https://www.linkedin.com/pulse/yami-baito-how-spot-shady-job-offers-japan-hireplanner-com-qrwoc",
+    "https://www.linkedin.com/pulse/job-hunting-newly-grads-japan-my-experiences-vincent-apollo-hopkins",
+    "https://www.linkedin.com/posts/%E8%B2%9E%E4%BA%BA-%E8%A5%BF%E5%AE%AE-23524616b_recruitment-talentacquisition-japan-activity-7517102385358409728-PgeQ"
+   ]
+  }
+ ],
+ "missing": {
+  "充足・欠員": "記載なし（読んだ23頁・検索13回）"
+ }
+}

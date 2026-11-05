@@ -1,0 +1,1247 @@
+{
+ "name": "ロンバード",
+ "aliases": [
+  "lombard"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T15:33:20.459782+00:00",
+ "official_url": "https://www.lombard.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒141-0031　東京都品川区西五反田1丁目5-1 A-PLACE五反田駅前8F TEL：03-3779-7700",
+    "url": "https://www.lombard.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒141-0031 東京都品川区西五反田1-5-1 A-PLACE五反田駅前8階",
+    "url": "https://www.felmat.net/service/inc",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒141-0031",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "label": "本社住所",
+    "value": "〒141-0031 東京都品川区西五反田１丁目５番１号",
+    "url": "https://baseconnect.in/companies/2b8ce093-17d7-414c-ad6e-5b1b864e6a72",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2012年4月26日",
+    "url": "https://www.lombard.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2012年4月26日",
+    "url": "https://www.felmat.net/service/inc",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2012年04月",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "5,000万円",
+    "url": "https://www.lombard.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "5,000万円",
+    "url": "https://www.felmat.net/service/inc",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "5,000万円",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・アフィリエイト広告事業 ・マーケティング活動におけるコンサルティング及び、情報提供サービス ・広告代理業 ・インターネット等を利用した通信販売業及び、情報提供の仲介 ・国内及び海外における、各種インターネットサービスに関する調査及び情報販売",
+    "url": "https://www.lombard.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "アフィリエイト広告事業 マーケティング活動におけるコンサルティング及び、情報提供サービス 広告代理業 インターネット等を利用した通信販売業及び、情報提供の仲介 国内及び海外における、各種インターネットサービスに関する調査及び情報販売",
+    "url": "https://www.felmat.net/service/inc",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "クローズドアフィリエイトサービス「フェルマ（felmat）」を中心とした広告代理事業を運営",
+    "url": "https://www.lombard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "felmat(フェルマ)は、株式会社ロンバードが2012年から運営する完全招待制の非公開型アフィリエイト・サービスです",
+    "url": "https://www.lombard.co.jp/download_felmat_client/",
+    "pass": 1
+   },
+   {
+    "quote": "・インターネット等を利用した通信販売業及び、情報提供の仲介",
+    "url": "https://www.lombard.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "・国内及び海外における、各種インターネットサービスに関する調査及び情報販売",
+    "url": "https://www.lombard.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "また、近年では膨大なマーケティングデータの分析・活用にも力を入れており、機械学習・AIエンジニア向けのオンラインスクール「codexa」の運営や、多種多様な消費者行動に対するマーケティングニーズに対してアプローチを行う、LINE公式アカウントのマーケティングツール「winut」の提供を行なっています",
+    "url": "https://www.lombard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年から運営する非公開型アフィリエイト・サービスです",
+    "url": "https://www.lombard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "コースの一部コンテンツは「現場で使える!pandasデータ前処理入門 機械学習・データサイエンスで役立つ前処理手法」（出版 翔泳社）で書籍として販売もされています",
+    "url": "https://www.lombard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "インターネット等を利用した通信販売業及び、情報提供の仲介",
+    "url": "https://www.felmat.net/service/inc",
+    "pass": 3
+   },
+   {
+    "quote": "国内及び海外における、各種インターネットサービスに関する調査及び情報販売",
+    "url": "https://www.felmat.net/service/inc",
+    "pass": 3
+   },
+   {
+    "quote": "東京都品川区周辺の正社員、派遣、アルバイト募集情報を検索",
+    "url": "https://data-link-plus.com/jp/corporation/6011001073433",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容、組織沿革、役員名簿、売上高等につきましては、当該法人の公式ウェブサイト等をご確認下さい",
+    "url": "https://data-link-plus.com/jp/corporation/6011001073433",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ロンバードってどんな会社？事業内容、仕事内容、働き方は？ - 仕事博士",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ロンバードは、クローズドアフィリエイトサービス「felmat」を運営し、インターネット広告代理事業を展開している企業ですね",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "主力サービスである「felmat」はアフィリエイトプログラムを提供し、クライアントのニーズに基づいた課題解決を行っていますね",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "そのほか、エンジニア向けに機械学習のeラーニングサービス「codExa」も運営しており、デジタルマーケティングのデータ分析力を強化しています",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントは金融業から通信販売業まで多種多様な業界にわたりますね",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "ルナドクター株式会社ってどんな会社？事業内容、仕事内容、働き方は？",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社インテリジェントクラウドコンサルティングってどんな会社？事業内容、仕事内容、働き方は？",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "東海旅客鉄道株式会社ってどんな会社？事業内容、仕事内容、働き方は？",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社YSLソリューションってどんな会社？事業内容、仕事内容、働き方は？",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "CTCエスピー株式会社ってどんな会社？事業内容、仕事内容、働き方は？",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社皆人ってどんな会社？事業内容、仕事内容、働き方は？",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社GOATってどんな会社？事業内容、仕事内容、働き方は？",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Ｂｏｓｏってどんな会社？事業内容、仕事内容、働き方は？",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本システムデザインってどんな会社？事業内容、仕事内容、働き方は？",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社オパックってどんな会社？事業内容、仕事内容、働き方は？",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ウェブフロンティアってどんな会社？事業内容、仕事内容、働き方は？",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Dirbatoってどんな会社？事業内容、仕事内容、働き方は？",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "借入金をさらに高リスク資産へ投資し、収益で返済する前提",
+    "url": "https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/",
+    "pass": 3
+   },
+   {
+    "quote": "水谷侑二または関係先が、紹介契約等に基づく報酬を受ける場合があります",
+    "url": "https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ロンバード様のAI活用段階的導入事例をご紹介",
+    "url": "https://horiemon.ai/school/case/lombard/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は、社員数50名から60名規模のウェブ広告業界に特化した企業で、アフィリエイトの仲介を行っています",
+    "url": "https://horiemon.ai/school/case/lombard/",
+    "pass": 3
+   },
+   {
+    "quote": "建築会社LIFEFUNDがAI学校FCで月次売上約1000万円へ",
+    "url": "https://horiemon.ai/school/case/lombard/",
+    "pass": 3
+   },
+   {
+    "quote": "マナビバがAI学校FCで売上ゼロから主力事業へ成長",
+    "url": "https://horiemon.ai/school/case/lombard/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、中央集権的なブリッジが抱える「運営の持ち逃げや単一障害点」というリスクに対する、構造的な回答です",
+    "url": "https://note.com/w3_crypto_pb/n/nea91f180916b",
+    "pass": 3
+   },
+   {
+    "quote": "これまでのDeFiプロジェクトにありがちだった「匿名性」や「不透明な運営」を排し、監査済みのコードと法的根拠に基づいた運用を前面に押し出しています",
+    "url": "https://note.com/w3_crypto_pb/n/nea91f180916b",
+    "pass": 3
+   },
+   {
+    "quote": "現在は初期段階ですが、将来的にはLBTCの保有量や利用実績に基づき、Lombardプロトコルのパラメータ（手数料やバリデーターの選定基準など）を決定するガバナンスに参加できる可能性があります",
+    "url": "https://note.com/w3_crypto_pb/n/nea91f180916b",
+    "pass": 3
+   },
+   {
+    "quote": "WBTC（BitGo主導）との「信頼と収益」の比較",
+    "url": "https://note.com/w3_crypto_pb/n/nea91f180916b",
+    "pass": 3
+   },
+   {
+    "quote": "※2026年9月1日からMuniMobileでは通常の1回乗車券の販売が終了予定",
+    "url": "https://note.com/joyous_seal7193/n/na9eaefce11e8",
+    "pass": 3
+   },
+   {
+    "quote": "BTCを送る際の手数料も見落としがちなので、しっかり確認してから実行しましょう",
+    "url": "https://note.com/nft_labo2100/n/n508e25d91263",
+    "pass": 3
+   },
+   {
+    "quote": "⑦ 生産的な会議の運営―協調行動の時代に不可欠な能力：",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "顧客に喜ばれるインターネット広告のサービスを提供",
+    "url": "https://www.lombard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大手クライアントから信頼を得て、業績は順調に伸びており、安定した事業基盤を築いています",
+    "url": "https://www.lombard.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "価値ある顧客を獲得するアフィリエイトサービス「felmat」",
+    "url": "https://www.lombard.co.jp/download_felmat_client/",
+    "pass": 1
+   },
+   {
+    "quote": "三井住友銀行（渋谷駅前支店）/ みずほ銀行（渋谷中央支店）",
+    "url": "https://www.lombard.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "WEB広告プロモーションの運用で培った10,000以上のクライアントのニーズに応えました",
+    "url": "https://www.lombard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの多種多様なマーケティング課題に対してのアプローチの一環として、株式会社ロンバードでは予算型・成果報酬型のリスティング広告、ディスプレイ広告、SNS広告、動画広告の運用を行なっています",
+    "url": "https://www.lombard.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "主力サービスである「felmat」はアフィリエイトプログラムを提供し、クライアントのニーズに基づいた課題解決を行っていますね",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "顧客からの信頼を得るために、迅速なサポートやニーズに応じた提案を行い、利用者満足度でも常に高い評価を得ている点が挙げられます",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントは金融業から通信販売業まで多種多様な業界にわたりますね",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "各クライアントの特性に応じた最適なソリューションを提供する必要があり、幅広いニーズに対応しています",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、海外金融と国際資産管理を研究・発信している",
+    "url": "https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/",
+    "pass": 3
+   },
+   {
+    "quote": "いずれも、金融資産を担保にして資金を借りる仕組みです",
+    "url": "https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/",
+    "pass": 3
+   },
+   {
+    "quote": "担保として認められるのは、現金、国債・社債、上場株式、ファンドなどが中心ですが、何が対象になるか、どの程度の掛目が付くかは金融機関と資産ごとに異なります",
+    "url": "https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/",
+    "pass": 3
+   },
+   {
+    "quote": "生活・事業・不動産・再投資等、契約で確認",
+    "url": "https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/",
+    "pass": 3
+   },
+   {
+    "quote": "金融機関は担保の時価を100％そのまま貸出可能額にはしません",
+    "url": "https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、金融機関は担保適格性や掛目を変更できる場合があります",
+    "url": "https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/",
+    "pass": 3
+   },
+   {
+    "quote": "納税、事業、不動産決済など、使途と返済時期が明確な短中期資金",
+    "url": "https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/",
+    "pass": 3
+   },
+   {
+    "quote": "金融機関へ確認する10項目",
+    "url": "https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/",
+    "pass": 3
+   },
+   {
+    "quote": "「何に使うか」「いつ何で返すか」「市場が悪化したとき何を差し出せるか」を先に決め、その後に金融機関ごとの条件を比較することが重要です",
+    "url": "https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/",
+    "pass": 3
+   },
+   {
+    "quote": "情報収集を続けるべきか、候補となる金融機関やEAMの条件を確認すべきかを切り分けられます",
+    "url": "https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/",
+    "pass": 3
+   },
+   {
+    "quote": "ロンバードがAI研修で業務効率化を加速した導入事例 – ホリエモンAI学校",
+    "url": "https://horiemon.ai/school/case/lombard/",
+    "pass": 3
+   },
+   {
+    "quote": "ロンバードがAI研修で業務効率化を加速した導入事例",
+    "url": "https://horiemon.ai/school/case/lombard/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ロンバード様のAI活用段階的導入事例をご紹介",
+    "url": "https://horiemon.ai/school/case/lombard/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、広告代理業務をはじめ、デジタルマーケティング戦略や運用代行をクライアントに提供しています",
+    "url": "https://horiemon.ai/school/case/lombard/",
+    "pass": 3
+   },
+   {
+    "quote": "『ホリエモンAI学校』を受講し取り組んだ福祉現場の業務効率化、支援員の挑戦と道程",
+    "url": "https://horiemon.ai/school/case/lombard/",
+    "pass": 3
+   },
+   {
+    "quote": "建築会社LIFEFUNDがAI学校FCで月次売上約1000万円へ",
+    "url": "https://horiemon.ai/school/case/lombard/",
+    "pass": 3
+   },
+   {
+    "quote": "マナビバがAI学校FCで売上ゼロから主力事業へ成長",
+    "url": "https://horiemon.ai/school/case/lombard/",
+    "pass": 3
+   },
+   {
+    "quote": "codexa eラーニングシステム（LMS）の導入事例一覧｜ITトレンド",
+    "url": "https://it-trend.jp/e_learning/22408/case",
+    "pass": 3
+   },
+   {
+    "quote": "人事部が中心となって導入・運用を行い、従業員の教育や研修を効率化します",
+    "url": "https://it-trend.jp/e_learning/22408/case",
+    "pass": 3
+   },
+   {
+    "quote": "Lombardは、ビットコイン（BTC）の安全性と希少性を維持したまま、分散型金融（DeFi）の世界で「動かせる資産」へと変換するための次世代プロトコルです",
+    "url": "https://note.com/w3_crypto_pb/n/nea91f180916b",
+    "pass": 3
+   },
+   {
+    "quote": "彼らが提供するのは、単なるトークン発行ツールではなく、既存金融と分散型金融を繋ぐ「信頼のインターフェース」であると評価できます",
+    "url": "https://note.com/w3_crypto_pb/n/nea91f180916b",
+    "pass": 3
+   },
+   {
+    "quote": "有名取引所や金融機関から出資を受けていて、既に1万枚以上のLBTCが発行されているんだとか",
+    "url": "https://note.com/nft_labo2100/n/n508e25d91263",
+    "pass": 3
+   },
+   {
+    "quote": "【読後雑記】ロンバード街（バジョット）：②中央銀行は「有能な経営者」たりうるか｜chazz",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "【読後雑記】ロンバード街（バジョット）：②中央銀行は「有能な経営者」たりうるか",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "バジョットの時代から大きく変容した現代金融システムでは、中央銀行はもはや単一の「最後の責任主体（PM）」ではなく、市場全体を監視・調整する「プロジェクトマネジメントオフィス（PMO）」のような役割を担わざるを得ない",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "これらの習慣――知識の獲得、行動への転化、組織全体の責任――を中央銀行に適用することで、危機対応を超えたシステムの長期安定と秩序形成のための行動原理が明らかになる",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "中央銀行に求められるのは、カリスマではなく、成果を生む「習慣」そのものである",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "１．金融システムの複雑化と「中央銀行＝経営者」という視点の必要性",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "現代の金融システムは、バジョットが前提とした19世紀の銀行中心モデルとは根本的に異なる",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "シャドーバンキングやレポ市場、デリバティブ、国際的な資本移動など、多層的な構造を持つ市場そのものが信用の源泉となったことで、金融危機は個別銀行の問題ではなく、市場構造の歪みとして現れるようになった",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "中央銀行はもはや「最後の責任主体（PM）」ではありえず、市場全体を調整し、秩序を保ち、必要に応じて介入する「PMO」のような立場に移行している",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "この状況を踏まえると、中央銀行を単なる政策当局としてではなく、",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "巨大で複雑な金融エコシステムの“経営者”として捉え直す視点",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "では、この8つの習慣を、中央銀行という「システム管理者」の役割に移し替えると何が見えてくるのか",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "２．「知識の獲得」―中央銀行が自問すべきことは何か",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "中央銀行も同様に、「何をすべきか」という問いから逃れられない",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "しかしこの問いは、金融システムの複雑化により、かつてよりはるかに困難になっている",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 株式会社ロンバード（lombard）株式会社ロンバード（lombard） - ユーザーの心を掴むインターネット...felmat - 会社概要株式会社ロンバード（東京都品川区） 概要 - 企業情報株式会社ロンバード（東京都）の企業情報 | Compalyze株式会社ロンバードってどんな会社？事業内容、仕事内容、働き方は？株式会社ロンバード (東京都品川区)の企業情報|カイシャリサーチ — 株式会社ロンバードは、東京と大阪の2拠点で完全招待制/紹介生の独自のクローズドアフィリエイト・サービス felmat（フェルマ）を運営、他にもAI時代を見据え機械学習のオンラインスクールやグローバル市場への進出支援など幅広い事業展開を行っています。 株式会社メルカリと共同でウェビナー「mercari Ads 最新アップデート徹底解説」を開催 2027年度新卒採用 エントリー受付中 ChatG",
+    "url": "https://www.lombard.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "felmat - 会社概要株式会社ロンバード（東京都品川区） 概要 - 企業情報株式会社ロンバード（東京都）の企業情報 | Compalyze株式会社ロンバードってどんな会社？事業内容、仕事内容、働き方は？株式会社ロンバード (東京都品川区)の企業情報|カイシャリサーチ — TOP パートナー利用規約 プライバシーポリシー © 2012 - 2026 lombard inc. All rights reserved. 概要 株式会社ロンバード は東京都品川区にある企業です。法人番号は6011001073433、住所は東京都品川区西五反田1丁目5番1号です。本店（主たる事務所）の所在地は変更されたことがあります。この法人は2015年（平成27年）10月5日に法人番号が指定されました。 〒141-0031 東京都品川区に本社を置く株式会社ロンバードの企業情報。株式会社ロンバードは、「ファンづく",
+    "url": "https://www.felmat.net/service/inc",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ロンバード（東京都品川区） 概要 - 企業情報 — 概要 株式会社ロンバード は東京都品川区にある企業です。法人番号は6011001073433、住所は東京都品川区西五反田1丁目5番1号です。本店（主たる事務所）の所在地は変更されたことがあります。この法人は2015年（平成27年）10月5日に法人番号が指定されました。",
+    "url": "https://data-link-plus.com/jp/corporation/6011001073433",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ロンバード（東京都）の企業情報 | Compalyze — 〒141-0031 東京都品川区に本社を置く株式会社ロンバードの企業情報。株式会社ロンバードは、「ファンづくり」をポリシーに。MKT (MKT-02)、2012年設立、従業員（被保険者）63名。登記1件。",
+    "url": "https://compalyze.co.jp/company/6011001073433",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ロンバードってどんな会社？事業内容、仕事内容、働き方は？ — Aug 28, 2025 · 株式会社ロンバードはどんな会社ですか？ 株式会社ロンバードは、クローズドアフィリエイトサービス「felmat」を運営し、インターネット広告代理事業を展開している企業ですね。 設立は2012年で、現在は東京、大阪、福岡の3拠点に offices を構えています。",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社ロンバード（lombard）株式会社ロンバードってどんな会社？事業内容、仕事内容、働き方は？ ...株式会社ロンバードホールディングスの企業情報 | Baseconnectロンバード｜STARTUP DB（スタートアップデータベース）株式会社ロンバード（lombard） - ユーザーの心を掴むインターネット...株式会社ロンバード｜スピーダ スタートアップ情報リサーチ株式会社ロンバード の企業情報 | バフェット・コード — 株式会社ロンバードは、東京と大阪の2拠点で完全招待制/紹介生の独自のクローズドアフィリエイト・サービス felmat（フェルマ）を運営、他にもAI時代を見据え機械学習のオンラインスクールやグローバル市場への進出支援など幅広い事業展開を行っています。 Aug 28, 2025 · 株式会社ロンバードは、クローズドアフィリエイトサービス「felmat",
+    "url": "https://www.lombard.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ロンバードってどんな会社？事業内容、仕事内容、働き方は？ ... — Aug 28, 2025 · 株式会社ロンバードは、クローズドアフィリエイトサービス「felmat」を運営し、インターネット広告代理事業を展開している企業ですね。設立は2012年で、現在は東京、大阪、福岡の3拠点に offices を構えています。主に“Fan Making”をポリシーに掲げて、ユーザーサービスの向上に努めている ...",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ロンバードホールディングスの企業情報 | Baseconnect — 株式会社ロンバードホールディングスの企業情報ページ。事業内容・役員・連絡先をBaseconnectで確認できます。",
+    "url": "https://baseconnect.in/companies/2b8ce093-17d7-414c-ad6e-5b1b864e6a72",
+    "pass": 3
+   },
+   {
+    "quote": "ロンバード｜STARTUP DB（スタートアップデータベース） — サービス サービス名 felmat ロンバード 有力アフィリエイターに特化したクローズドアフィリエイトサービス ローンチ日 - IT・通信 ビジネスサポート メディア マーケティング コンサルティング B2B",
+    "url": "https://startup-db.com/investment-companies/vNOKZXOUrgqp185L",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ロンバード（lombard） - ユーザーの心を掴むインターネット... — 株式会社ロンバード 本社所在地 〒141-0031 東京都品川区西五反田1丁目5-1 A-PLACE五反田駅前8F TEL：03-3779-7700 大阪営業所 〒530-0001 大阪府大阪市北区梅田1-11-4大阪駅前第四ビル24F TEL：06-4708-5245 COMPANY 会社概要 事業内容 個人情報保護方針 情報セキュリティ基本方針",
+    "url": "https://go.lombard.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "証券担保ローンとロンバードローンを比較｜売らずに資金を作る方法 — Sep 21, 2026 · 証券を売らずに資金を調達する証券担保ローンと海外PBのロンバードローンを比較。金利、LTV、通貨、マージンコール、強制売却まで判断軸を整理します。",
+    "url": "https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/",
+    "pass": 3
+   },
+   {
+    "quote": "ロンバード / 投資ポートフォリオ一覧｜STARTUP DB（スタートアップデ... — ロンバードの投資ポートフォリオ一覧ページです。 資金調達金額推移 金額単位：百万円 有料会員限定 社名 ロンバード ...",
+    "url": "https://startup-db.com/companies/vNOKZXOUrgqp185L/portfolios",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ロンバード（lombard） - ユーザーの心を掴むインターネット... — 株式会社ロンバードは、日本最大級のクローズドアフィリエイト・サービス felmat（フェルマ）を中心とした、ユーザーの心を掴むインターネット・マーケティングを得意とする会社です。",
+    "url": "https://www.lombard.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ロンバード | 企業・投資家情報 - IR BANK — 株式会社ロンバード 【番号】 6011001073433 【所在】 東京都品川区西五反田1丁目5番1号",
+    "url": "https://irbank.net/株式会社ロンバード",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ロンバード｜スピーダ スタートアップ情報リサーチ — Feb 6, 2023 · インターネット広告にかかわる広告代理事業及び、オンライン学習スクールを運営を展開。 運営会社からのスカウトや紹介（要審査）のネットワークを構築し、広告主の費用対効果をアップさせる非公開型アフィリエイトサービス「felmat」の提供。 専門的な知識を前提とせず、より幅広い ...",
+    "url": "https://initial.inc/companies/A-37348",
+    "pass": 3
+   },
+   {
+    "quote": "ロンバードがAI研修で業務効率化を加速した導入事例 – ホリエモンAI学... — 株式会社ロンバード様のAI活用段階的導入事例をご紹介。 全社的な取り組みはなかったものの、有料AIツールを一部メンバーに提供しナレッジ共有や調査業務で実績を積み上げられ、その成果を踏まえて本格的なAI研修を導入。",
+    "url": "https://horiemon.ai/school/case/lombard/",
+    "pass": 3
+   },
+   {
+    "quote": "newsに関する記事一覧 | 株式会社ロンバード — Oct 31, 2025 · 株式会社ロンバード 本社所在地 〒141-0031 東京都品川区西五反田1丁目5-1 A-PLACE五反田駅前8F TEL：03-3779-7700 大阪営業所 〒530-0001 大阪府大阪市北区梅田1-11-4大阪駅前第四ビル24F TEL：06-4708-5245",
+    "url": "https://www.lombard.co.jp/category/news/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社ロンバード（lombard）株式会社ロンバード（lombard） - ユーザーの心を掴むインターネット...取引先（主な資産及び負債の内訳等） - 株式会社ロンバードSERVICE | 株式会社ロンバード株式会社ロンバードの企業情報（電話番号・住所）｜BIZMAPS（ビズマッ...株式会社ロンバード 平野 隆之 | ベストベンチャー100 — 株式会社ロンバードは、東京と大阪の2拠点で完全招待制/紹介生の独自のクローズドアフィリエイト・サービス felmat（フェルマ）を運営、他にもAI時代を見据え機械学習のオンラインスクールやグローバル市場への進出支援など幅広い事業展開を行っています。 MEMBER ロンバードのさまざまな「わたし」を紹介 陽気な領事館 N.K. 2025年入社 サザンの曲ならカラオケで90点以上でるときも Y.K. グループリーダー 2020年入社",
+    "url": "https://www.lombard.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ロンバード（lombard） - ユーザーの心を掴むインターネット... — MEMBER ロンバードのさまざまな「わたし」を紹介 陽気な領事館 N.K. 2025年入社 サザンの曲ならカラオケで90点以上でるときも Y.K. グループリーダー 2020年入社",
+    "url": "https://go.lombard.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ロンバードの企業情報（電話番号・住所）｜BIZMAPS（ビズマッ... — 株式会社ロンバードの業績・電話番号などの企業情報を調べるなら「BIZMAPS（ビズマップ）」リサーチャーが随時更新する最新のデータを無料会員登録でダウンロードできます。BIZMAPS（ビズマップ）であなたのビジネスを加速させましょう。",
+    "url": "https://biz-maps.com/item/mJY2AMrdZM",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ロンバード 平野 隆之 | ベストベンチャー100 — ロンバードは、人に寄り添う価値提供を軸に、パフォーマンスマーケティング領域でNo.1を目指しています。 その実現のために、変化の激しいマーケットや新しいテクノロジーを前向きに楽しめる人材と共に成長していきたいと考えています。",
+    "url": "https://best100.v-tsushin.jp/company/lombard/",
+    "pass": 3
+   },
+   {
+    "quote": "主要な顧客 - 株式会社ロンバード - IR BANK — マーケット 値上がり率 値下がり率 信用取引 裁定残高 投資部門 逆日歩 空売り残 売増 返済 新規 解消 届出・調達 統一資格 行政処分 届出認定 政府表彰 調達情報 補助金交付 法人情報 商号変更 住所変更 登記閉鎖 登記復活 吸収合併 企業統計 売上統計 利益統計 株主資本 CF統計 時価総額 従業員 ...",
+    "url": "https://irbank.net/customers/株式会社ロンバード",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金:5,000万円",
+    "url": "https://jobhakase.com/archives/304781",
+    "pass": 3
+   },
+   {
+    "quote": "便利な資金調達手段ですが、「売らなくてよい」ことと「損失が出ない」ことはまったく別です",
+    "url": "https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/",
+    "pass": 3
+   },
+   {
+    "quote": "担保として認められるのは、現金、国債・社債、上場株式、ファンドなどが中心ですが、何が対象になるか、どの程度の掛目が付くかは金融機関と資産ごとに異なります",
+    "url": "https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/",
+    "pass": 3
+   },
+   {
+    "quote": "有名取引所や金融機関から出資を受けていて、既に1万枚以上のLBTCが発行されているんだとか",
+    "url": "https://note.com/nft_labo2100/n/n508e25d91263",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "暗号資産ロンバード(LBTC)とは？仕組みや将来性を専門家が徹底解説｜W... Dec 30, 2025 · 暗号資産Lombard/ロンバード (LBTC)とは Lombardは、ビットコイン（BTC）の安全性と希少性を維持したまま、分散型金融（DeFi）の世界で「動かせる資産」へと変換するための次世代プロトコルです。 本章では、以下の3つの観点からLombardの正体を明らかにします。",
+    "url": "https://note.com/w3_crypto_pb/n/nea91f180916b",
+    "pass": 3
+   },
+   {
+    "quote": "サンフランシスコ旅行｜ケーブルカーでロンバードストリートへ行って... Aug 20, 2026 · ケーブルカーに乗ってみたい！ いざ乗車！ Lombard Street（ロンバード・ストリート） ランチはIn-N-Out",
+    "url": "https://note.com/joyous_seal7193/n/na9eaefce11e8",
+    "pass": 3
+   },
+   {
+    "quote": "【終了】【Bitcoin Bera Vault】Lombard（ロンバード）エアドロップ参... Jan 10, 2025 · 目次 Lombardと「Bitcoin Bera Vault」って何？ まずはザックリ概要をおさらい プロジェクトの魅力（参加するとイイこといろいろ♪） エアドロップ（ポイント獲得）手順を詳しく解説 手順①：LBTCをミントしてポイントゲット（Lombard公式サイト編） 手順②：Bitcoin Bera Vaultに預けてポイントを倍増 ...",
+    "url": "https://note.com/nft_labo2100/n/n508e25d91263",
+    "pass": 3
+   },
+   {
+    "quote": "【読後雑記】ロンバード街（バジョット）：②中央銀行は「有能な経営者... Jan 21, 2026 · 要旨： バジョットの時代から大きく変容した現代金融システムでは、中央銀行はもはや単一の「最後の責任主体（PM）」ではなく、市場全体を監視・調整する「プロジェクトマネジメントオフィス（PMO）」のような役割を担わざるを得ない。この複雑なエコシステムを管理する上で有効な視点が ...",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "暗号資産ロンバード(LBTC)とは？仕組みや将来性を専門家が徹底解説｜Web3 Crypto Playbook",
+    "url": "https://note.com/w3_crypto_pb/n/nea91f180916b",
+    "pass": 3
+   },
+   {
+    "quote": "暗号資産ロンバード(LBTC)とは？仕組みや将来性を専門家が徹底解説",
+    "url": "https://note.com/w3_crypto_pb/n/nea91f180916b",
+    "pass": 3
+   },
+   {
+    "quote": "「ビットコインを寝かせたままにするのはもったいないが、預けるのは怖い」",
+    "url": "https://note.com/w3_crypto_pb/n/nea91f180916b",
+    "pass": 3
+   },
+   {
+    "quote": "「LBTCという名前を最近よく見るが、結局リスクは何なのか」",
+    "url": "https://note.com/w3_crypto_pb/n/nea91f180916b",
+    "pass": 3
+   },
+   {
+    "quote": "ビットコインの流動性ステーキングが注目を集める中、Lombard（ロンバード）は、これまで資本効率の悪かったビットコインに「利回り」と「流動性」を同時に与えるゲームチェンジャーとして登場しました。",
+    "url": "https://note.com/w3_crypto_pb/n/nea91f180916b",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、Lombardが成立するための前提条件や、既存のラップドビットコインとの構造的な違いを徹底解剖します。",
+    "url": "https://note.com/w3_crypto_pb/n/nea91f180916b",
+    "pass": 3
+   },
+   {
+    "quote": "この記事を読み終える頃には、あなたがLBTCを「検討対象に含めるべきか、それともリスクを避けて見送るべきか」を自分自身で論理的に判断できる状態になっているはずです。",
+    "url": "https://note.com/w3_crypto_pb/n/nea91f180916b",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.lombard.finance/",
+    "url": "https://note.com/w3_crypto_pb/n/nea91f180916b",
+    "pass": 3
+   },
+   {
+    "quote": "サンフランシスコ｜ケーブルカーでロンバードストリートへ行ってきた！｜訪問研究員 帯同記録@アメリカ西海岸",
+    "url": "https://note.com/joyous_seal7193/n/na9eaefce11e8",
+    "pass": 3
+   },
+   {
+    "quote": "サンフランシスコ｜ケーブルカーでロンバードストリートへ行ってきた！",
+    "url": "https://note.com/joyous_seal7193/n/na9eaefce11e8",
+    "pass": 3
+   },
+   {
+    "quote": "風が意外と強くて、日陰では肌寒く感じること",
+    "url": "https://note.com/joyous_seal7193/n/na9eaefce11e8",
+    "pass": 3
+   },
+   {
+    "quote": "お花の飾りつけがされているケーブルカーも走っていました！",
+    "url": "https://note.com/joyous_seal7193/n/na9eaefce11e8",
+    "pass": 3
+   },
+   {
+    "quote": "ーーーーーーーーーーーーーーーーーーーーー",
+    "url": "https://note.com/joyous_seal7193/n/na9eaefce11e8",
+    "pass": 3
+   },
+   {
+    "quote": "は、Hyde & Beachから出発してPowell & Marketまで走る路線で、サンフランシスコらしい坂道を体験しやすい",
+    "url": "https://note.com/joyous_seal7193/n/na9eaefce11e8",
+    "pass": 3
+   },
+   {
+    "quote": "1日何度も乗るならVisitor Passportも選択肢になる",
+    "url": "https://note.com/joyous_seal7193/n/na9eaefce11e8",
+    "pass": 3
+   },
+   {
+    "quote": "【終了】【Bitcoin Bera Vault】Lombard（ロンバード）エアドロップ参加手順｜仮想通貨エアドロップラボ(X (Twitter): @LaboNft)",
+    "url": "https://note.com/nft_labo2100/n/n508e25d91263",
+    "pass": 3
+   },
+   {
+    "quote": "【終了】【Bitcoin Bera Vault】Lombard（ロンバード）エアドロップ参加手順",
+    "url": "https://note.com/nft_labo2100/n/n508e25d91263",
+    "pass": 3
+   },
+   {
+    "quote": "仮想通貨エアドロップラボ(X (Twitter): @LaboNft)",
+    "url": "https://note.com/nft_labo2100/n/n508e25d91263",
+    "pass": 3
+   },
+   {
+    "quote": "今日は、ビットコインを持っている方にも、これから始めたい方にも超注目の",
+    "url": "https://note.com/nft_labo2100/n/n508e25d91263",
+    "pass": 3
+   },
+   {
+    "quote": "というプロジェクトの魅力を、ラボちゃんがわかりやす～く解説しちゃいますよっ！",
+    "url": "https://note.com/nft_labo2100/n/n508e25d91263",
+    "pass": 3
+   },
+   {
+    "quote": "「エアドロップってどうやって参加するの？」「安全にやるには何に注意すればいいの？」そんな疑問にもお答えしますので、最後までよろしくお願いしまーす♪",
+    "url": "https://note.com/nft_labo2100/n/n508e25d91263",
+    "pass": 3
+   },
+   {
+    "quote": "Lombardと「Bitcoin Bera Vault」って何？",
+    "url": "https://note.com/nft_labo2100/n/n508e25d91263",
+    "pass": 3
+   },
+   {
+    "quote": "ビットコインを担保にして1:1で裏付けされた「LBTC」というトークンを発行するプロトコル。",
+    "url": "https://note.com/nft_labo2100/n/n508e25d91263",
+    "pass": 3
+   },
+   {
+    "quote": "【読後雑記】ロンバード街（バジョット）：②中央銀行は「有能な経営者」たりうるか｜chazz",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "【読後雑記】ロンバード街（バジョット）：②中央銀行は「有能な経営者」たりうるか",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "バジョットの時代から大きく変容した現代金融システムでは、中央銀行はもはや単一の「最後の責任主体（PM）」ではなく、市場全体を監視・調整する「プロジェクトマネジメントオフィス（PMO）」のような役割を担わざるを得ない。この複雑なエコシステムを管理する上で有効な視点が、ピーター・ドラッカーが提唱した「プロフェッショナルマネジャーの8つの習慣」である。",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "これらの習慣――知識の獲得、行動への転化、組織全体の責任――を中央銀行に適用することで、危機対応を超えたシステムの長期安定と秩序形成のための行動原理が明らかになる。中央銀行に求められるのは、カリスマではなく、成果を生む「習慣」そのものである。",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "１．金融システムの複雑化と「中央銀行＝経営者」という視点の必要性",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "現代の金融システムは、バジョットが前提とした19世紀の銀行中心モデルとは根本的に異なる。シャドーバンキングやレポ市場、デリバティブ、国際的な資本移動など、多層的な構造を持つ市場そのものが信用の源泉となったことで、金融危機は個別銀行の問題ではなく、市場構造の歪みとして現れるようになった。中央銀行はもはや「最後の責任主体（PM）」ではありえず、市場全体を調整し、秩序を保ち、必要に応じて介入する「PMO」のような立場に移行している。",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "この状況を踏まえると、中央銀行を単なる政策当局としてではなく、",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   },
+   {
+    "quote": "巨大で複雑な金融エコシステムの“経営者”として捉え直す視点",
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ヤンキースのロンバードJr、メジャーデビューで初安打はホームラン ヤンキースのトッププロスペクト、ロンバードJr.は4日（日本時間5日）の試合で初登板し、守備でも併殺を完成させる活躍を見せた。弟のジェイコブも同日マイナーA級でプロデビューし、2打席目にホームランを記録。兄弟揃っての快挙に、親御さんもスタジアムで見守り、ファンから祝福の声 ...",
+    "url": "https://x.com/i/trending/2084808777912734193",
+    "pass": 3
+   },
+   {
+    "quote": "MLB Japan on X: \"21歳のジョージ・ロンバードJr.がグランドスラム ホ... 21歳のジョージ・ロンバードJr.がグランドスラム🔥 ホームでの満塁弾はヤンキース史上最年少🗽 22歳未満での満塁弾はミッキー・マントル以来の快挙です🙌🏻",
+    "url": "https://x.com/MLBJapan/status/2097923796682551405",
+    "pass": 3
+   },
+   {
+    "quote": "こばる (MLB/Sports) on X: \"ロンバードJr. またリードオフシングル\" ... ロンバードJr. またリードオフシングル 30 Sep 2026 01:24:09",
+    "url": "https://x.com/kobaru_mlbjp/status/2105106393548390481",
+    "pass": 3
+   },
+   {
+    "quote": "ロンバード (@lombardo_dayo) / X 🌈座右の銘『なんだこの刺身は！生じゃないか！！』（海原雄山先生) 😍尊敬しる人：小遊三、ケーシー高峰先生、実吉達郎先生、わぴちゃん、市川左團次 🐱拙著『猫のウエスト探し』 🧡寝ている時以外は眠いです・・🍄元セカチャク落とす民。🧚♀️ピグ:べきべきベッキーa.k.a.地蔵 ...",
+    "url": "https://x.com/lombardo_dayo",
+    "pass": 3
+   },
+   {
+    "quote": "わらび餅 on X: \"第2の【ロンバードJr】になりそうな予感 育成で1~2年... Oct 1, 2026 · わらび餅 @yuuuuk12222 Show translation 第2の【ロンバードJr】になりそうな予感😀 育成で1~2年様子みます (ง •̀_•́)ง #ぼくプロ 3:27 PM · Oct 1, 2026 · 17 Views",
+    "url": "https://x.com/yuuuuk12222/status/2105680963191877889",
+    "pass": 3
+   },
+   {
+    "quote": "よっぴ→☕ on X: \"自分のアイデアとしてはとりあえずジャズにQOを提示... Oct 28, 2026 · 自分のアイデアとしてはとりあえずジャズにQOを提示して、受諾できたら3Bの獲得に動く。 ロンバードのユーティリティ性を活かすなら契約年数の短い大物ショートをトレードで狙うのもありかもしれない。",
+    "url": "https://x.com/aki7crowns/status/2115396417649103077",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "株式会社ロンバード | LinkedIn 株式会社ロンバード | LinkedInのフォロワー数3人。・アフィリエイト広告事業 ・マーケティング活動におけるコンサルティング及び、情報提供サービス ・広告代理業 ・インターネット等を利用した通信販売業及び、情報提供の仲介 ・国内及び海外における、各種インターネットサービスに ...",
+    "url": "https://jp.linkedin.com/company/（株）ロンバード",
+    "pass": 3
+   },
+   {
+    "quote": "Hirano Takayuki - 代表取締役 - 株式会社ロンバード | LinkedIn 代表取締役 - 株式会社ロンバード · 職歴: 株式会社ロンバード · 場所: 東京 · LinkedInのつながり18人。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでHirano Takayukiさんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/hirano-takayuki-941b353b",
+    "pass": 3
+   },
+   {
+    "quote": "Lombard - LinkedIn Lombard | 9,363 followers on LinkedIn. Lombard are experts in asset finance, helping UK businesses to thrive. | Lombard is the UK’s largest asset finance partner*. With a legacy that stretches ...",
+    "url": "https://www.linkedin.com/company/lombard/",
+    "pass": 3
+   },
+   {
+    "quote": "Lombard - LinkedIn Lombard is a leading Bitcoin finance protocol with $3 billion in Bitcoin onboarded. Founded in 2024 and backed by Polychain Capital, Franklin Templeton, and Binance Labs, Lombard's products ...",
+    "url": "https://www.linkedin.com/company/lombardfinance",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ロンバード・プレミアム・ポップコーン（Lombard)Lombard Networking - FacebookAssociation So Sophro Maurecourt | FacebookPeople for Public Safety | FacebookKrugersdorp (South Africa )pets lost and found. | FacebookLombard Jade - FacebookLombard Area Chamber of Commerce and Industry - Facebook Aug 18, 2020 · 【LOMBARD＠TGOO桜祭り】 4月15日 (土)・16日 (日) ザ・ガーデンオリエンタル大阪（@thegardenorientalo saka）にて#TGOO桜祭り が開催されます！ 今年もONIJUSコーヒー（@on",
+    "url": "https://www.facebook.com/lombard.tbk/",
+    "pass": 3
+   },
+   {
+    "quote": "Lombard Networking - Facebook Oct 16, 2026 · Greetings Fellow Lombard residents and business owners! This group has been constructed to help promote Healthy business relationships and encourage the growth of our great community! Please feel free to ask questions of fellow members. Promote your business, create awareness of local events, and help build a strong connection between us all.",
+    "url": "https://www.facebook.com/groups/439070543320294/",
+    "pass": 3
+   },
+   {
+    "quote": "Lombard Jade - Facebook Lombard Jade is on Facebook. Join Facebook to connect with Lombard Jade and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/p/Lombard-Jade-61594196079424/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.lombard.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lombard.co.jp/download_felmat_client/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lombard.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lombard.co.jp/about/values/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lombard.co.jp/about/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lombard.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lombard.co.jp/download_felmat_client/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.felmat.net/service/inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-link-plus.com/jp/corporation/6011001073433",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobhakase.com/archives/304781",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/companies/2b8ce093-17d7-414c-ad6e-5b1b864e6a72",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startup-db.com/companies/vNOKZXOUrgqp185L/portfolios",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://horiemon.ai/school/case/lombard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/e_learning/22408/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lombard.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz-maps.com/item/mJY2AMrdZM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/w3_crypto_pb/n/nea91f180916b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/joyous_seal7193/n/na9eaefce11e8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nft_labo2100/n/n508e25d91263",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/brainy_broom2/n/nb0349980e376",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/i/trending/2084808777912734193",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MLBJapan/status/2097923796682551405",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kobaru_mlbjp/status/2105106393548390481",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lombardo_dayo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/（株）ロンバード",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/hirano-takayuki-941b353b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/lombard/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/lombardfinance",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lombard.tbk/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/439070543320294/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Lombard-Jade-61594196079424/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/hirano-takayuki-941b353b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yuuuuk12222/status/2105680963191877889",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/aki7crowns/status/2115396417649103077",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ロンバード 会社概要 資本金 設立",
+   "results": [
+    "https://www.lombard.co.jp/about/",
+    "https://www.felmat.net/service/inc",
+    "https://data-link-plus.com/jp/corporation/6011001073433",
+    "https://compalyze.co.jp/company/6011001073433",
+    "https://jobhakase.com/archives/304781",
+    "https://kaisharesearch.com/company/detail/6011001073433/",
+    "https://www.lombard.co.jp/"
+   ]
+  },
+  {
+   "query": "ロンバード 事業内容 売上",
+   "results": [
+    "https://www.lombard.co.jp/about/",
+    "https://jobhakase.com/archives/304781",
+    "https://baseconnect.in/companies/2b8ce093-17d7-414c-ad6e-5b1b864e6a72",
+    "https://startup-db.com/investment-companies/vNOKZXOUrgqp185L",
+    "https://go.lombard.co.jp/",
+    "https://www.buffett-code.com/company/a230xrwxwe/",
+    "https://initial.inc/companies/A-37348"
+   ]
+  },
+  {
+   "query": "ロンバード 資金調達 株主",
+   "results": [
+    "https://global-fire-club.com/blog/securities-backed-loan-vs-lombard-loan/",
+    "https://startup-db.com/companies/vNOKZXOUrgqp185L/portfolios",
+    "https://www.lombard.co.jp/",
+    "https://irbank.net/株式会社ロンバード",
+    "https://initial.inc/companies/A-37348",
+    "https://affluent-theory.jp/securities-backed-loan-wealthy/",
+    "https://www.lgt.com/jp-jp/private-banking/investment-solutions/financing"
+   ]
+  },
+  {
+   "query": "ロンバード 導入事例",
+   "results": [
+    "https://horiemon.ai/school/case/lombard/",
+    "https://it-trend.jp/e_learning/22408/case",
+    "https://www.lombard.co.jp/category/news/",
+    "https://www.itreview.jp/products/codexa/profile",
+    "https://jirei.horiemon.net/industry/it",
+    "https://www.lombard.co.jp/horiemon_ai_lombard/",
+    "https://horiemon.ai/school/case/"
+   ]
+  },
+  {
+   "query": "ロンバード 主要取引先",
+   "results": [
+    "https://www.lombard.co.jp/about/",
+    "https://go.lombard.co.jp/",
+    "https://biz-maps.com/item/mJY2AMrdZM",
+    "https://best100.v-tsushin.jp/company/lombard/",
+    "https://irbank.net/customers/株式会社ロンバード",
+    "https://irbank.net/client/株式会社ロンバード",
+    "https://www.lombard.co.jp/service/"
+   ]
+  },
+  {
+   "query": "site:note.com ロンバード",
+   "results": [
+    "https://note.com/w3_crypto_pb/n/nea91f180916b",
+    "https://note.com/joyous_seal7193/n/na9eaefce11e8",
+    "https://note.com/nft_labo2100/n/n508e25d91263",
+    "https://note.com/brainy_broom2/n/nb0349980e376",
+    "https://note.com/ronbarting",
+    "https://note.com/w3_crypto_pb/n/nf25b0461e0a1",
+    "https://note.com/jp7mrs/n/n7e9afeb3e3cb"
+   ]
+  },
+  {
+   "query": "site:x.com ロンバード",
+   "results": [
+    "https://x.com/i/trending/2084808777912734193",
+    "https://x.com/MLBJapan/status/2097923796682551405",
+    "https://x.com/kobaru_mlbjp/status/2105106393548390481",
+    "https://x.com/lombardo_dayo",
+    "https://x.com/yuuuuk12222/status/2108008683921944776",
+    "https://x.com/kgrJYdOYYfARvxC/status/2084818023761002549",
+    "https://x.com/yuuuuk12222/status/2106382483742953678"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ロンバード",
+   "results": [
+    "https://jp.linkedin.com/company/（株）ロンバード",
+    "https://jp.linkedin.com/in/hirano-takayuki-941b353b",
+    "https://www.linkedin.com/company/lombard/",
+    "https://www.linkedin.com/company/lombardfinance",
+    "https://bs.linkedin.com/in/wealthmanagement",
+    "https://uk.linkedin.com/in/budha",
+    "https://cn.linkedin.com/company/lombard-risk"
+   ]
+  },
+  {
+   "query": "site:facebook.com ロンバード",
+   "results": [
+    "https://www.facebook.com/lombard.tbk/",
+    "https://www.facebook.com/groups/439070543320294/",
+    "https://business.facebook.com/groups/1729323290773812/",
+    "https://www.facebook.com/p/Lombard-Jade-61594196079424/",
+    "https://www.facebook.com/LombardChamber/posts/️-grand-opening-burj-plaza-is-joining-the-lombard-chamber-family-️join-us-as-we-/1484649263699648/",
+    "https://business.facebook.com/groups/654178711732457/",
+    "https://apps.facebook.com/groups/669273123187754/"
+   ]
+  },
+  {
+   "query": "ロンバード note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.lombard.co.jp/about/",
+    "https://best100.v-tsushin.jp/company/lombard/",
+    "https://jp.linkedin.com/in/hirano-takayuki-941b353b",
+    "https://www.lombard.co.jp/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://shachomeibo.com/post-1229/"
+   ]
+  },
+  {
+   "query": "ロンバード X 投稿",
+   "results": [
+    "https://x.com/yuuuuk12222/status/2105680963191877889",
+    "https://www.binance.com/ja/square/post/01-24-2026-lombard-finance-s-bard-gains-traction-post-tge-35493619182361",
+    "https://x.com/aki7crowns/status/2115396417649103077",
+    "https://x-sou.com/ja",
+    "https://www.choge-blog.com/hobby/discordxtwitterautopost/",
+    "https://help.x.com/ja/using-x/mentions-and-replies",
+    "https://toolkitslab.com/blog/x-thread-writing-guide"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部28頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部28頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部28頁・検索11回）",
+  "代表者": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部28頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部28頁・検索11回）",
+  "客は誰か": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部28頁・検索11回）",
+  "選出の記録": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部28頁・検索11回）"
+ }
+}

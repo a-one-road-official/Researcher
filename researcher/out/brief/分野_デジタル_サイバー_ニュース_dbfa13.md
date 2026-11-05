@@ -2,31 +2,31 @@
 
 ### 業界ニュース（毎日）｜定置用蓄電池（stationary energy storage battery）
 - 取得：2026-11-05T01:01・調査2回目・読んだ頁37
-- 顧客（金を払う側）（94件）：
+- 顧客（金を払う側）（79件）：
   - ［一次］2026-11-05「⇒CEV補助金、充電インフラ導入促進補助金、定置用蓄電池の導入補助金、長期脱炭素電源オークション等により導入を促進」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「⇒蓄電池の導入加速化の中で、価格のみならず、高い性能・安全性・信頼性を有する蓄電池が評価される市場環境の整備を促進する」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「⇒全固体電池を始めとした次世代電池の実用化や量産の実現に向けた設備投資・技術開発等を加速し、次世代電池市場の獲得を促進する」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「⇒2030年代も見据えて、リチウム、ニッケル、マンガン、黒鉛について、鉱山権益確保、製錬・加工設備増強も含めて、企業による投資を後押しする」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「• 2026年2月17日に、蓄電池１件、部素材５件、製造装置２件の設備投資・技術開発の計画を認定」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
-- 顧客の顧客（発注元が求めること）（85件）：
+- 顧客の顧客（発注元が求めること）（75件）：
   - ［一次］2026-11-05「⇒CEV補助金、充電インフラ導入促進補助金、定置用蓄電池の導入補助金、長期脱炭素電源オークション等により導入を促進」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「量産体制の構築に向けて、自動車OEMと材料メーカーの協業が進む」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「• 安全性規格に関する第三者認証の取得や耐類焼性の確保」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「長期脱炭素電源オークションの第３回入札の状況」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「• 蓄電池を含めた脱炭素電源への新規投資を促進する制度である長期脱炭素電源オークションの第３回入札は、」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
-- 顧客の競合（奪いに来る側）（68件）：
+- 顧客の競合（奪いに来る側）（60件）：
   - ［一次］2026-11-05「⇒欧州バッテリー規則も踏まえて、CFPや人権・環境DD等の取組に資するデータ連携基盤の整備、工程端材等のリサイクルの推進に向けた検討を進める」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「シェア２割の製造能力確保」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「2030年までに二次電池の世界シェアの19％（2024年時点）から25％への引き上げを目標に、①次世代バッテリーのリーダーシップ確」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「• 米国はEV導入支援策を撤廃・変更するとともに、特定国の事業体による事業への関与を規制」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「中国はリチウムイオン電池関連の輸出管理を拡大する動きあり」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
-- 自社の競合（商社・代理店・仲介）（17件）：
+- 自社の競合（商社・代理店・仲介）（15件）：
   - ［記事］2026-11-05「エネがえるは、官公庁・自治体、大手メーカー、商社、電力・ガス会社、住宅メーカー、有力販売施工店など、全国700社以上に導入されています」https://www.enegaeru.com/biz-lib-strategyidea
   - ［記事］2026-11-05「するため、大手有名メーカー・商社・国内最大クラスのEPC事業者や施工事業者が続々と採用し営業生産性を飛躍的に向上させます」https://www.enegaeru.com/biz-lib-strategyidea
   - ［記事］2026-11-05「【メーカー・商社経営層必見】産業用太陽光・蓄電池販売革命：エネがえるBizで実現する10分ROI診断と市場シェア拡大戦略」https://www.enegaeru.com/biz-lib-strategyidea
   - ［記事］2026-11-05「エネがえるは、官公庁・自治体、大手メーカー、商社、電力・ガス会社、住宅メーカー、有力販売施工店など、全国700社以上に導入されています」https://www.enegaeru.com/completeguidetobatterypricesin2025
   - ［記事］2026-11-05「運営: ブライト株式会社（LED照明器具・電源・電気設備の専門商社）」https://bright-co-ltd.com/solar-media/subsidy/subsidy-2/
-- 政治（法・予算・規制）（98件）：
+- 政治（法・予算・規制）（81件）：
   - ［一次］2026-11-05「⇒CEV補助金、充電インフラ導入促進補助金、定置用蓄電池の導入補助金、長期脱炭素電源オークション等により導入を促進」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「⇒GI基金、経済安保基金、経済安全保障重要技術育成プログラム（K Program）等による全固体電池を始めとした次世代電池の開発を支援」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「⇒2024年より、経済安保基金の支援対象に、製造装置を追加」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
@@ -38,13 +38,13 @@
   - ［一次］2026-11-05「⚫ 鉱物サプライチェーン多角化・安定化事業 令和７年度補正【937億円】」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「⚫ 重要鉱物供給源多角化のための出資事業 令和７年度予備費【390億円】」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「• 総額30百万ドル（45億円）を出資することで、権益15%を取得する計画」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
-- 社会（人・担い手）（26件）：
+- 社会（人・担い手）（25件）：
   - ［一次］2026-11-05「6. 人材育成・確保の強化」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「⇒関西蓄電池人材育成等コンソーシアムで、「バッテリー人材育成の方向性2025」を取りまとめるとともに、高校・高専等計41校でバッテリー教育プログラムを実施」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「⇒同コンソーシアムにおける取組が他の地域や大学等に自律的に展開されるように、 2025年10月14日にバッテリー先進人材普及ネットワーク(BATON)を発足」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「６．人材育成・確保の強化」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「• 必要な人材確保に向けた取組(例：継続的な賃上げ)」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
-- 技術（新しい技術・実証）（88件）：
+- 技術（新しい技術・実証）（80件）：
   - ［一次］2026-11-05「4. 次世代技術の開発」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「⇒GI基金、経済安保基金、経済安全保障重要技術育成プログラム（K Program）等による全固体電池を始めとした次世代電池の開発を支援」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf
   - ［一次］2026-11-05「⇒全固体電池を始めとした次世代電池の実用化や量産の実現に向けた設備投資・技術開発等を加速し、次世代電池市場の獲得を促進する」https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo03.pdf

@@ -1,0 +1,946 @@
+{
+ "name": "ココロザシ",
+ "aliases": [
+  "kokorozashi"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T15:24:55.241616+00:00",
+ "official_url": "https://kokorozashi-japan.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：2019年7月",
+    "url": "https://kokorozashi-japan.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2019年7月",
+    "url": "https://jws-japan.or.jp/whitecareer/white_company/3583",
+    "pass": 3
+   },
+   {
+    "label": "設立年月",
+    "value": "設立年月：2019年7月",
+    "url": "https://herp.careers/v1/kokorozashi/5OzgZ9qcRZmP",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "5,000,000円",
+    "url": "https://kokorozashi-japan.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "500万円",
+    "url": "https://www.bizreach.jp/companies/36452/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1億2,200万円",
+    "url": "https://www.bizreach.jp/companies/36452/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://www.bizreach.jp/companies/36452/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "5,000,000円",
+    "url": "https://jws-japan.or.jp/whitecareer/white_company/3583",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "5,000,000円",
+    "url": "https://herp.careers/v1/kokorozashi/5OzgZ9qcRZmP",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "木村 多可志",
+    "url": "https://kokorozashi-japan.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役",
+    "value": "木村 多可志",
+    "url": "https://www.bizreach.jp/companies/36452/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ITコンサルティング、システムインテグレーション等",
+    "url": "https://kokorozashi-japan.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "システム開発 AWS総合支援 ラボ開発",
+    "url": "https://jws-japan.or.jp/whitecareer/white_company/3583",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "■System Development（システム開発） モダンな技術×Web領域に特化。 業界を問わずさまざまなお客様の課題解決に向き合うシステム開発を行っています。 ■AWS Support（AWS総合支援） AWSの設計構築から運用～改善まで一貫しての支援を行い、コスト最適化やセキュリティ対策など幅広い課題に対応しています。 ■Lab Development（ラボ開発） お客様のビジネス課題を解決するための 専門エンジニアチームを編成しています。",
+    "url": "https://herp.careers/v1/kokorozashi/5OzgZ9qcRZmP",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京都港区南青山3-8-40青山センタービル2F",
+    "url": "https://www.bizreach.jp/companies/36452/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都港区北青山二丁目１４番４号 WeWork the ARGYLE aoyama（ジ アーガイル アオヤマ）",
+    "url": "https://www.bizreach.jp/companies/36452/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都新宿区西新宿2丁目3-1新宿モノリス 28階",
+    "url": "https://www.bizreach.jp/companies/36452/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都品川区東五反田1-25-11THE GATE GOTANDA EAST4階",
+    "url": "https://www.bizreach.jp/companies/36452/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京",
+    "url": "https://jws-japan.or.jp/whitecareer/white_company/3583",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都港区南青山3-8-40 青山センタービル2F",
+    "url": "https://jws-japan.or.jp/whitecareer/white_company/3583",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "住所：東京都港区南青山3-8-40 青山センタービル2F",
+    "url": "https://jws-japan.or.jp/whitecareer/white_company/3583",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都港区南青山3-8-40 青山センタービル2F",
+    "url": "https://herp.careers/v1/kokorozashi/5OzgZ9qcRZmP",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "100名〜999名以下",
+    "url": "https://jws-japan.or.jp/whitecareer/white_company/3583",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "143名（2026年8月時点）",
+    "url": "https://herp.careers/v1/kokorozashi/5OzgZ9qcRZmP",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "選出の記録": [
+   {
+    "quote": "GPTWジャパン「働きがいのある会社」若手ランキングでココロザシが6位に選出",
+    "url": "https://kokorozashi-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 Great Place To Work Institute Japan（GPTW Japan）が発表した「働きがいのある会社」ランキングベスト100に選出されました",
+    "url": "https://kokorozashi-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2年連続「ベストベンチャー100」に選出中の成長著しいSIer",
+    "url": "https://readycrew.jp/media/company/kokorozashi-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Pick up記事（このサービスが選出されている記事）",
+    "url": "https://b-pos.jp/srv/kokorozashi-japan/system-development/",
+    "pass": 3
+   }
+  ],
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "個性にあふれた社員が組織運営に参画し、イノベーション（変革）や新たな発想・価値の創造を実現します",
+    "url": "https://kokorozashi-japan.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "【事業内容】ITコンサルティング、システムインテグレーション等",
+    "url": "https://www.bizreach.jp/companies/36452/",
+    "pass": 3
+   },
+   {
+    "quote": "IT領域の受託開発を手がけるテクノロジーカンパニーです",
+    "url": "https://readycrew.jp/media/company/kokorozashi-japan",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内パンフレットを制作する目的、制作時のポイントやおすすめ制作会社も紹介",
+    "url": "https://readycrew.jp/media/company/kokorozashi-japan",
+    "pass": 3
+   },
+   {
+    "quote": "ココロザシの営業スタイルは、売上や営業数字よりも、",
+    "url": "https://herp.careers/v1/kokorozashi/5OzgZ9qcRZmP",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤忠テクノソリューションズ株式会社は卸売・金融・製造・通信など、幅広い業界に対しシステム構築から保守、運用までを提供するIT企業です",
+    "url": "https://b-pos.jp/srv/kokorozashi-japan/system-development/",
+    "pass": 3
+   },
+   {
+    "quote": "24時間365日稼働し続ける大規模な金融機関システムの構築・保守・運用や、1日に数十万人規模のアクセスを処理する航空券販売システムなどの提供実績があります",
+    "url": "https://b-pos.jp/srv/kokorozashi-japan/system-development/",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "ベンチャー企業、女性管理職実績あり、年間休日120日以上、産休・育休取得実績あり、教育・研修制度充実、資格支援制度充実",
+    "url": "https://www.bizreach.jp/companies/36452/",
+    "pass": 3
+   },
+   {
+    "quote": "（労務監査責任者：社会保険労務士法人 労務サービス 高橋）",
+    "url": "https://jws-japan.or.jp/whitecareer/white_company/3583",
+    "pass": 3
+   },
+   {
+    "quote": "雇用保険／社会保険を加入要件を把握しており、法定基準を満たした運用がされている",
+    "url": "https://jws-japan.or.jp/whitecareer/white_company/3583",
+    "pass": 3
+   },
+   {
+    "quote": "職場におけるハラスメント（妊娠・出産・育児休業・介護休業等に関するハラスメントやセクシュアルハラスメント、パワーハラスメント）の防止措置を実際に講じている",
+    "url": "https://jws-japan.or.jp/whitecareer/white_company/3583",
+    "pass": 3
+   },
+   {
+    "quote": "業務システムやサービスアプリなどを開発する時は、一部のIT企業を除けば、専門的な技術を持ったソフトウェ...",
+    "url": "https://readycrew.jp/media/company/kokorozashi-japan",
+    "pass": 3
+   },
+   {
+    "quote": "「ココロザシ システム開発サービス」の口コミ・評判、料金・プラン、導入事例 | b-pos（ビーポス）",
+    "url": "https://b-pos.jp/srv/kokorozashi-japan/system-development/",
+    "pass": 3
+   },
+   {
+    "quote": "「ココロザシ システム開発サービス」の口コミ・評判、料金・プラン、導入事例",
+    "url": "https://b-pos.jp/srv/kokorozashi-japan/system-development/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ココロザシは、顧客のビジネス課題を解決するための専門エンジニアチームを組成し、一定期間エンジニアの稼働を確保できるラボ開発を提供しています",
+    "url": "https://b-pos.jp/srv/kokorozashi-japan/system-development/",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤忠テクノソリューションズ株式会社は卸売・金融・製造・通信など、幅広い業界に対しシステム構築から保守、運用までを提供するIT企業です",
+    "url": "https://b-pos.jp/srv/kokorozashi-japan/system-development/",
+    "pass": 3
+   },
+   {
+    "quote": "24時間365日稼働し続ける大規模な金融機関システムの構築・保守・運用や、1日に数十万人規模のアクセスを処理する航空券販売システムなどの提供実績があります",
+    "url": "https://b-pos.jp/srv/kokorozashi-japan/system-development/",
+    "pass": 3
+   },
+   {
+    "quote": "Sky株式会社は、30年以上にわたり業務系システムの開発に携わってきたIT企業です",
+    "url": "https://b-pos.jp/srv/kokorozashi-japan/system-development/",
+    "pass": 3
+   },
+   {
+    "quote": "金融・保険・医療業界をはじめとする、多様な業界の顧客の要望に応えてきた実績があります",
+    "url": "https://b-pos.jp/srv/kokorozashi-japan/system-development/",
+    "pass": 3
+   },
+   {
+    "quote": "情報セキュリティ対策ソフトウェアのメーカーでもあり「ISO/IEC 27001」や「Pマーク」も取得しています",
+    "url": "https://b-pos.jp/srv/kokorozashi-japan/system-development/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機ソフトウエア株式会社は、公共・エネルギー・通信・防衛システムなど、11もの事業分野で幅広い開発実績を持つシステム開発会社です",
+    "url": "https://b-pos.jp/srv/kokorozashi-japan/system-development/",
+    "pass": 3
+   },
+   {
+    "quote": "暮らしとつながりを支えるAI―【地方こそAI】仙台・東北の暮らしはどう変わる？防災・医療・交通・農業にAIを活かす方法ー第7幕 AIと人間のココロザシ⑤【ココロザシラジオ#46】",
+    "url": "https://note.com/kokorozashiradio",
+    "pass": 3
+   },
+   {
+    "quote": "読み、疑い、問い直し、ともに学ぶ力【ChatGPTで教育は終わる？】AI時代に「先生」はいらないのか？子どもが学ぶべき本当の力ー第7幕 AIと人間のココロザシ③ 【ココロザシラジオ#44】",
+    "url": "https://note.com/kokorozashiradio",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "【資本金】500万円",
+    "url": "https://www.bizreach.jp/companies/36452/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 ｜株式会社 ココロザシ - kokorozashi-company — 会社概要 ｜株式会社 ココロザシ - kokorozashi-company 株式会社ココロザシ https://kokorozashi-japan.co.jp > company",
+    "url": "https://kokorozashi-japan.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社ココロザシ の求人・採用情報 - ビズリーチ — 株式 会社ココロザシ の求人・採用情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies",
+    "url": "https://www.bizreach.jp/companies/36452/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ココロザシ の 会社概要 ｜【ビートライブフィット ... — 株式会社 ココロザシ の 会社概要 ｜【ビートライブフィット ... beatribes.com https://beatribes.com > WEBサービス開発",
+    "url": "https://beatribes.com/fit/company/kokorozashi",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社ココロザシ ｜ホワイト企業認定に認定されました — 株式 会社ココロザシ ｜ホワイト企業認定に認定されました jws-japan.or.jp https://jws-japan.or.jp > ホーム > ホワイト企業",
+    "url": "https://jws-japan.or.jp/whitecareer/white_company/3583",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社ココロザシ 木村 多可志 - ベストベンチャー100 — 株式 会社ココロザシ 木村 多可志 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > kokorozashi",
+    "url": "https://best100.v-tsushin.jp/company/kokorozashi/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ココロザシ ｜ホワイト企業認定に認定されました — 株式会社 ココロザシ ｜ホワイト企業認定に認定されました jws-japan.or.jp https://jws-japan.or.jp > ホーム > ホワイト企業",
+    "url": "https://jws-japan.or.jp/whitecareer/white_company/3583",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ココロザシ | Crews Media — 株式会社 ココロザシ | Crews Media Ready Crew（レディクル） https://readycrew.jp > トップページ > を探す",
+    "url": "https://readycrew.jp/media/company/kokorozashi-japan",
+    "pass": 3
+   },
+   {
+    "quote": "04.IT営業 - 株式会社 ココロザシ - HERP Career — 04.IT営業 - 株式会社 ココロザシ - HERP Career herp.careers https://herp.careers > kokorozashi",
+    "url": "https://herp.careers/v1/kokorozashi/5OzgZ9qcRZmP",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ココロザシ の働き方とストーリー - Wantedly — 株式会社 ココロザシ の働き方とストーリー - Wantedly Wantedly https://www.wantedly.com > ... > 株式会社ココロザシ",
+    "url": "https://www.wantedly.com/companies/company_299137/stories",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ココロザシ ｜kokorozashi Co.,Ltd — 株式会社 ココロザシ ｜kokorozashi Co.,Ltd 株式会社ココロザシ https://kokorozashi-japan.co.jp",
+    "url": "https://kokorozashi-japan.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「ココロザシ システム開発サービス」の口コミ・評判、料金・プラン、... — BPOサービス一覧 システム開発会社 株式会社ココロザシ 「ココロザシ システム開発サービス」の口コミ・評判、料金・プラン、導入事例 企業トップ サービス概要 料金・プラン 口コミ・評判",
+    "url": "https://b-pos.jp/srv/kokorozashi-japan/system-development/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ココロザシ｜kokorozashi Co.,Ltd — News View More 2026/07/29 広報 GPTWジャパン「働きがいのある会社」若手ランキングでココロザシが6位に選出 2026/05/23 広報 「ストレスフリーカンパニー2026」に表彰されました 2026/02/07 広報",
+    "url": "https://kokorozashi-japan.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ココロザシ｜CSR・BCP・レジリエンス投資の専門コンサルティ... — 株式会社ココロザシは、企業のCSR推進、BCP（事業継続計画）策定支援、企業版ふるさと納税を活用したレジリエンス投資などを通じて、全国の企業・自治体をサポート。 関連商品の販売も行い、実践的なレジリエンス強化を支援します。",
+    "url": "https://www.kokorozashi-inc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング | 株式会社ココロザシ｜全国対応レジリエンスコンサ... — 株式会社ココロザシは、企業のCSR推進、BCP（事業継続計画）策定支援、企業版ふるさと納税を活用したレジリエンス投資などを通じて、全国の企業・自治体をサポート。 関連商品の販売も行い、実践的なレジリエンス強化を支援します。",
+    "url": "https://www.kokorozashi-inc.co.jp/consulting",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ココロザシの事例一覧｜【ビートライブフィット】見積依頼・... — 顧客管理システムの導入メリットと注意すべきポイントまとめ ビートライブフィット 【短納期・コスパ良し】ノーコードでの制作・開発が得意な会社10選 ビートライブフィット 【メール配信システム】費用相場、開発依頼の注意点まとめ ビートライブ ...",
+    "url": "https://beatribes.com/fit/company/kokorozashi/case",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜株式会社ココロザシ - kokorozashi-company — ホワイト企業認定とは、企業のホワイト化を総合的に評価する国内唯一の民間認定制度です。 人々がそれぞれの個性と特徴を活かしながら、ハツラツと創造的に働く事ができる。 そのような企業をココロザシは目指しています。",
+    "url": "https://kokorozashi-japan.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ココロザシ | OpenBizGraph — 会社名 株式会社ココロザシ サイト https://kokorozashi-team.jp/ 開始日 終了日 銘柄コード 上場市場 国 Japan 事業内容 所在地 社長 資本金 従業員数 (単独) 従業員数 (連結) 関連のある会社 - 会社名 Group親会社子会社得意先仕入先業務提携銀行等株主等 関連図 -",
+    "url": "https://openbizgraph.com/detail/212932",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ココロザシの会社情報｜【ビートライブフィット】見積依頼・... — 事業責任者として300名規模の予算管理を実行の後に、2019年に株式会社ココロザシを設立。 一言 高い技術力、先端技術への対応、柔軟な対応力などは勿論の事ながら、",
+    "url": "https://beatribes.com/fit/company/kokorozashi/company",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【志（ココロザシ）】｜「アイウエオの秘密」田辺 健｜note Nov 4, 2021 · 志（ココロザシ）とは何だろうか？ 志＝ココロザシ＝心刺し。 大辞林によると、 「心に決めて目指していること。 また、何になろう、何をしようと心に決めること。 」 の意味がある。 心の中心に一本、串（クシ）が刺さっているのかもしれません。",
+    "url": "https://note.com/tanabeken/n/n224257e208c6",
+    "pass": 3
+   },
+   {
+    "quote": "ココロザシラジオ｜note noteプレミアム note pro ヘルプ プライバシー クリエイターへのお問い合わせ フィードバック ご利用規約 通常ポイント利用 ...",
+    "url": "https://note.com/kokorozashiradio",
+    "pass": 3
+   },
+   {
+    "quote": "はじめての方へ【ココロザシラジオ】｜ココロザシラジオ Aug 16, 2026 · 株式会社つくる仙台が提供する音声コンテンツ「ココロザシラジオ」。 私たちの生活に身近な「政策や起業、まちづくり」をテーマとして、何のためにやるのか？ という「ココロザシ」と、なぜ始めたのか？ という「原点」について語り合うという番組 ...",
+    "url": "https://note.com/kokorozashiradio/n/n313d3bc14778",
+    "pass": 3
+   },
+   {
+    "quote": "【志（ココロザシ）】｜「アイウエオの秘密」田辺 健 Jan 6, 2021 · 志（ココロザシ）とは何だろうか？ 志＝ココロザシ＝心刺し。 大辞林によると、 「心に決めて目指していること。 また、何になろう、何をしようと心に決めること。 」 の意味がある。 心の中心に一本、串が刺さっているのかもしれません。",
+    "url": "https://note.com/tanabeken/n/n4105419ddf2d",
+    "pass": 3
+   },
+   {
+    "quote": "もーりー＠旅する社長YouTuber ️の記事一覧｜note（ノート） 旅は自己投資！ 死ぬまでに行きたい大人の穴場旅行先を笑いとビジネス視点交えて徹底紹介｜合同会社ココロザシ代表｜守岡裕志｜旅×YouTube×商品開発×投資｜34カ国91都市旅行｜絶景・島好き｜JALトラベルレポーター｜着るリュック。",
+    "url": "https://note.com/cocoro_morioka/all",
+    "pass": 3
+   },
+   {
+    "quote": "もーりー＠旅する社長YouTuber ️【もーりーチャンネル】｜note 旅は自己投資®死ぬまでに行きたい大人の穴場旅行先を紹介｜TV向け超長尺チャンネル登録19万人｜合同会社ココロザシ代表｜守岡裕志｜36カ国102都市旅行47都道府県制覇｜着るリュック®開発・販売｜日本TV「シューイチ」旅の達人出演｜KADOKAWA書籍「旅で人生 ...",
+    "url": "https://note.com/cocoro_morioka",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【志（ココロザシ）】｜「アイウエオの秘密」kenchild｜ヘンジーニアス",
+    "url": "https://note.com/tanabeken/n/n224257e208c6",
+    "pass": 3
+   },
+   {
+    "quote": "「アイウエオの秘密」kenchild｜ヘンジーニアス",
+    "url": "https://note.com/tanabeken/n/n224257e208c6",
+    "pass": 3
+   },
+   {
+    "quote": "「心に決めて目指していること。また、何になろう、何をしようと心に決めること。」",
+    "url": "https://note.com/tanabeken/n/n224257e208c6",
+    "pass": 3
+   },
+   {
+    "quote": "心の中心に一本、串（クシ）が刺さっているのかもしれません。",
+    "url": "https://note.com/tanabeken/n/n224257e208c6",
+    "pass": 3
+   },
+   {
+    "quote": "士は、その数理は、１１（「十」 +「一」＝士）。",
+    "url": "https://note.com/tanabeken/n/n224257e208c6",
+    "pass": 3
+   },
+   {
+    "quote": "図解「魂と意識とコトタマの見える化」右左（ウサ）脳統合",
+    "url": "https://note.com/tanabeken/n/n224257e208c6",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ働いていると本が読めなくなるのか。足りないのは時間ではなく「心の余白」 ー第8幕「本と言葉のココロザシ」①【ココロザシラジオ#49】",
+    "url": "https://note.com/kokorozashiradio",
+    "pass": 3
+   },
+   {
+    "quote": "1周年。印象に残ったテーマと、2年目の展望 【祝1周年】ココロザシラジオが1年間で学んだこと｜印象に残ったテーマと2年目の展望【ココロザシラジオ#48】",
+    "url": "https://note.com/kokorozashiradio",
+    "pass": 3
+   },
+   {
+    "quote": "AIに志があるのではない。何のために使うのか、そこに人間のココロザシが現れる 【AI時代、人間に残るものとは？】問い・意味・責任・関係・未来…「人間のココロザシ」を考える最終回ー第7幕 AIと人間のココロザシ⑥【ココロザシラジオ#47】",
+    "url": "https://note.com/kokorozashiradio",
+    "pass": 3
+   },
+   {
+    "quote": "地方に必要なのは、都会の真似をするAIではない。暮らしとつながりを支えるAI―【地方こそAI】仙台・東北の暮らしはどう変わる？防災・医療・交通・農業にAIを活かす方法ー第7幕 AIと人間のココロザシ⑤【ココロザシラジオ#46】",
+    "url": "https://note.com/kokorozashiradio",
+    "pass": 3
+   },
+   {
+    "quote": "偽物を見破る力だけではない。事実と信頼を守り、対立を超えて答えをつくる【AIは民主主義を壊す？】Deepfake・SNS・選挙…私たちは何を信じればいいのかー第7幕 AIと人間のココロザシ④【ココロザシラジオ#45】",
+    "url": "https://note.com/kokorozashiradio",
+    "pass": 3
+   },
+   {
+    "quote": "必要なのは、答えを早く出す力ではない。読み、疑い、問い直し、ともに学ぶ力【ChatGPTで教育は終わる？】AI時代に「先生」はいらないのか？子どもが学ぶべき本当の力ー第7幕 AIと人間のココロザシ③ 【ココロザシラジオ#44】",
+    "url": "https://note.com/kokorozashiradio",
+    "pass": 3
+   },
+   {
+    "quote": "古農修一郎のココロザシ｜ココロザシラジオ 序章④ #4",
+    "url": "https://note.com/kokorozashiradio",
+    "pass": 3
+   },
+   {
+    "quote": "野村一仁のココロザシ｜ココロザシラジオ 序章③ #3",
+    "url": "https://note.com/kokorozashiradio",
+    "pass": 3
+   },
+   {
+    "quote": "はじめての方へ【ココロザシラジオ】｜ココロザシラジオ",
+    "url": "https://note.com/kokorozashiradio/n/n313d3bc14778",
+    "pass": 3
+   },
+   {
+    "quote": "さまざまな分野で挑戦する人たちと語りながら、よりよい未来へのヒントを探る「",
+    "url": "https://note.com/kokorozashiradio/n/n313d3bc14778",
+    "pass": 3
+   },
+   {
+    "quote": "【志（ココロザシ）】｜「アイウエオの秘密」kenchild｜ヘンジーニアス",
+    "url": "https://note.com/tanabeken/n/n4105419ddf2d",
+    "pass": 3
+   },
+   {
+    "quote": "「アイウエオの秘密」kenchild｜ヘンジーニアス",
+    "url": "https://note.com/tanabeken/n/n4105419ddf2d",
+    "pass": 3
+   },
+   {
+    "quote": "「心に決めて目指していること。また、何になろう、何をしようと心に決めること。」",
+    "url": "https://note.com/tanabeken/n/n4105419ddf2d",
+    "pass": 3
+   },
+   {
+    "quote": "心の中心に一本、串が刺さっているのかもしれません。",
+    "url": "https://note.com/tanabeken/n/n4105419ddf2d",
+    "pass": 3
+   },
+   {
+    "quote": "士は、その数理は、１１（十 ＋ 一＝士）。",
+    "url": "https://note.com/tanabeken/n/n4105419ddf2d",
+    "pass": 3
+   },
+   {
+    "quote": "心のセンターにしっかりとした、通った芯がある。",
+    "url": "https://note.com/tanabeken/n/n4105419ddf2d",
+    "pass": 3
+   },
+   {
+    "quote": "その芯が串のごとくに、しっかりと刺さっている。",
+    "url": "https://note.com/tanabeken/n/n4105419ddf2d",
+    "pass": 3
+   },
+   {
+    "quote": "刺さっていれば、心のゆらぎや、流されることが少ないはずだ。",
+    "url": "https://note.com/tanabeken/n/n4105419ddf2d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社ココロザシ (@LINESTAMPER) / X 株式会社ココロザシです。 弊社では、 DTP制作やサイト制作などの広告業務やLINEスタンプ制作などの事業を行っています。 福岡県福岡市塩原3丁目17－6 cocorofukuoka.com",
+    "url": "https://x.com/LINESTAMPER",
+    "pass": 3
+   },
+   {
+    "quote": "ココロザシ (@naka_kokorozasi) / X Mention Follow PostsPosts RepliesReplies RepostsReposts MediaMedia ココロザシ @naka_kokorozasi Jul 25, 2019",
+    "url": "https://x.com/naka_kokorozasi",
+    "pass": 3
+   },
+   {
+    "quote": "haru｜ココロザシ 採用広報 (@kokoro_saiyo) / X 】 明日、10月31日（土）開催の #ISUCON に、ココロザシがISUスポンサーとして協賛します！ 💻 さらに、ココロザシからは4チームが出場予定です！ 🔥 Wantedlyでは、参加メンバーの意気込みや大会に向けた準備、会社のサポートなどをご紹介しています！",
+    "url": "https://x.com/kokoro_saiyo",
+    "pass": 3
+   },
+   {
+    "quote": "ココロザシ・ジャパン株式会社【公式】 (@cocorozashi2020) / Posts /... ココロザシ・ジャパン株式会社【公式】 (@cocorozashi2020) - Posts - 「カッコイイ会社をつくろう。 」全国の中小企業を元気に。 ただいま #SDGs を応援中！ | X (formerly Twitter)",
+    "url": "https://x.com/cocorozashi2020",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "（株）ココロザシ | LinkedIn （株）ココロザシ レストラン 世田谷区、東京都 7人のフォロワー",
+    "url": "https://jp.linkedin.com/company/（株）ココロザシ",
+    "pass": 3
+   },
+   {
+    "quote": "守岡 裕志 - ココロザシ at ココロザシ | LinkedIn宇田知功 - こころざしのいえ - 代表 | LinkedIn3 \"三木淳司\" profiles | LinkedInRichard Verhagen - Procurement Consultant at Erpeve BV ...木村 多可志 - 株式会社ココロザシ 木村 多可志（代表取締役）｜AI駆...三木 淳司 - 株式会社ココロザシ | LinkedIn ココロザシ at ココロザシ · 職歴: ココロザシ · 場所: 日本 · LinkedInのつながり1人。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで守岡 裕志さんのプロフィールを閲覧しましょう。 こころざしのいえ - 代表 · 臨床心理士、公認心理師 TFT上級セラピスト、アルゴリズムレベルトレーナー 修士在学中より精神",
+    "url": "https://jp.linkedin.com/in/裕志-守岡-a0799638",
+    "pass": 3
+   },
+   {
+    "quote": "宇田知功 - こころざしのいえ - 代表 | LinkedIn3 \"三木淳司\" profiles | LinkedInRichard Verhagen - Procurement Consultant at Erpeve BV ...木村 多可志 - 株式会社ココロザシ 木村 多可志（代表取締役）｜AI駆...三木 淳司 - 株式会社ココロザシ | LinkedIn こころざしのいえ - 代表 · 臨床心理士、公認心理師 TFT上級セラピスト、アルゴリズムレベルトレーナー 修士在学中より精神科病院に勤務、その ... 株式会社ココロザシ Okayama, Japan ココロザシ株式会社, +1 more 電気通信大学 Procurement Consultant at Erpeve BV | Build Teams | Define Structure | Strategic Sourci",
+    "url": "https://www.linkedin.com/in/知功-宇田-488a621a8",
+    "pass": 3
+   },
+   {
+    "quote": "3 \"三木淳司\" profiles | LinkedIn 株式会社ココロザシ Okayama, Japan ココロザシ株式会社, +1 more 電気通信大学",
+    "url": "https://www.linkedin.com/pub/dir/淳司/三木",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ココロザシ - Facebook株式会社cocorozashi - Facebook誰でも先生、誰でも生徒、どこでもキャンパス「いよココロザシ大学」ココロザシ - Facebook一般社団法人ココロザシチャレンジ | Yao-shi Osaka株式会社ココロザシ - Facebookいよココロザシ大学付属学園 - Facebook Jan 30, 2020 · Posts Pinned post ココロザシ Oct 12, 2018 【『毎月旅して生きていく』noteリリース】 英語ができないから、、、 お金がないから、、、 時間がないから、、、 そんなことを言い訳にして、やりたいと思っているこ Mar 24, 2017 · ココロザシ広報のししまるでござる。 拙者、またまたインタビューしてきたでござる！ 今回は、 子育てをしながらココロザシのメンバーとして 活躍するスーパーママ、林令菜殿",
+    "url": "https://www.facebook.com/cocorozashi/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社cocorozashi - Facebook誰でも先生、誰でも生徒、どこでもキャンパス「いよココロザシ大学」ココロザシ - Facebook一般社団法人ココロザシチャレンジ | Yao-shi Osaka株式会社ココロザシ - Facebookいよココロザシ大学付属学園 - Facebook Mar 24, 2017 · ココロザシ広報のししまるでござる。 拙者、またまたインタビューしてきたでござる！ 今回は、 子育てをしながらココロザシのメンバーとして 活躍するスーパーママ、林令菜殿じゃ！ 華麗でアクティブな林殿の素顔に迫るぞよ！ ぜひご覧あれ！ 716回目のココ大授業も大盛り上がり！ 誰でも先生、誰でも生徒、どこでもキャン パス「いよココロザシ大学」 is at 愛媛県研修所. 計300人が受講するNPO、ボランティア、共創の研修 。 cheetan_mogumogu is a",
+    "url": "https://www.facebook.com/cocorozashi2016/",
+    "pass": 3
+   },
+   {
+    "quote": "誰でも先生、誰でも生徒、どこでもキャンパス「いよココロザシ大学」ココロザシ - Facebook一般社団法人ココロザシチャレンジ | Yao-shi Osaka株式会社ココロザシ - Facebookいよココロザシ大学付属学園 - Facebook 716回目のココ大授業も大盛り上がり！ 誰でも先生、誰でも生徒、どこでもキャン パス「いよココロザシ大学」 is at 愛媛県研修所. 計300人が受講するNPO、ボランティア、共創の研修 。 cheetan_mogumogu is at ココロザシ. October 1, 2022 · Nagoya, Aichi, Japan · Like Comment Jan 16, 2025 · 一般社団法人ココロザシチャレンジ, Yao-shi. 56 likes · 24 were here. 福祉事業を通してお子さまから障がいのある方、高齢の方ま",
+    "url": "https://www.facebook.com/www.1455634.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ココロザシ - Facebook cheetan_mogumogu is at ココロザシ. October 1, 2022 · Nagoya, Aichi, Japan · Like Comment",
+    "url": "https://www.facebook.com/pages/ココロザシ/415673165284176/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://kokorozashi-japan.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kokorozashi-japan.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kokorozashi-japan.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.bizreach.jp/companies/36452/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://beatribes.com/fit/company/kokorozashi",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jws-japan.or.jp/whitecareer/white_company/3583",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://readycrew.jp/media/company/kokorozashi-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://herp.careers/v1/kokorozashi/5OzgZ9qcRZmP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/tags/fundraising-articles",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.kaminashi.jp/news/pr_20230329",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC237UO0T21C26A0000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-pos.jp/srv/kokorozashi-japan/system-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokorozashi-inc.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openbizgraph.com/detail/212932",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tanabeken/n/n224257e208c6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kokorozashiradio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kokorozashiradio/n/n313d3bc14778",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tanabeken/n/n4105419ddf2d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/LINESTAMPER",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/naka_kokorozasi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kokoro_saiyo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cocorozashi2020",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/（株）ココロザシ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/裕志-守岡-a0799638",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/知功-宇田-488a621a8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/淳司/三木",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cocorozashi/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cocorozashi2016/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/www.1455634.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/ココロザシ/415673165284176/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/cocoro_morioka/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cocoro_morioka",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ココロザシ 会社概要 資本金 設立",
+   "results": [
+    "https://kokorozashi-japan.co.jp/company/",
+    "https://www.bizreach.jp/companies/36452/",
+    "https://beatribes.com/fit/company/kokorozashi",
+    "https://jws-japan.or.jp/whitecareer/white_company/3583",
+    "https://best100.v-tsushin.jp/company/kokorozashi/",
+    "https://type.jp/job-company/39196/",
+    "https://compalyze.co.jp/company/6180001166511",
+    "https://employment.en-japan.com/comp-104796/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10195007033/",
+    "https://compalyze.co.jp/company/9010401146952"
+   ]
+  },
+  {
+   "query": "ココロザシ 事業内容 売上",
+   "results": [
+    "https://jws-japan.or.jp/whitecareer/white_company/3583",
+    "https://readycrew.jp/media/company/kokorozashi-japan",
+    "https://herp.careers/v1/kokorozashi/5OzgZ9qcRZmP",
+    "https://www.wantedly.com/companies/company_299137/stories",
+    "https://kokorozashi-japan.co.jp/",
+    "https://beatribes.com/fit/company/kokorozashi",
+    "https://www.green-japan.com/company/9957/interview",
+    "https://career.levtech.jp/company/detail/17114/",
+    "https://cocoro-zashi.com/morioka-blog/service/salesup-support/",
+    "https://kokorozashi-japan.co.jp/service/"
+   ]
+  },
+  {
+   "query": "ココロザシ 資金調達 株主",
+   "results": [
+    "https://initial.inc/tags/fundraising-articles",
+    "https://corp.kaminashi.jp/news/pr_20230329",
+    "https://www.nikkei.com/article/DGXZQOUC237UO0T21C26A0000000/",
+    "https://lp.startup-db.com/media/articles/funding-ranking-202506",
+    "https://tomoruba.eiicon.net/articles/4098",
+    "https://note.com/preventure/n/n781084c141bb",
+    "https://www.forstartups.com/news/financing-ranking-20201009",
+    "https://www.kakehashi.life/news-post/20250702",
+    "https://coralcap.co/2017/06/deal-terms/",
+    "https://openbizgraph.com/detail/212930"
+   ]
+  },
+  {
+   "query": "ココロザシ 導入事例",
+   "results": [
+    "https://b-pos.jp/srv/kokorozashi-japan/system-development/",
+    "https://kokorozashi-japan.co.jp/",
+    "https://www.kokorozashi-inc.co.jp/",
+    "https://www.kokorozashi-inc.co.jp/consulting",
+    "https://beatribes.com/fit/company/kokorozashi/case",
+    "https://kokorozashi-japan.co.jp/service/",
+    "https://jp.linkedin.com/in/賢次郎-脇-943532412"
+   ]
+  },
+  {
+   "query": "ココロザシ 主要取引先",
+   "results": [
+    "https://kokorozashi-japan.co.jp/",
+    "https://kokorozashi-japan.co.jp/company/",
+    "https://openbizgraph.com/detail/212932",
+    "https://www.kokorozashi-inc.co.jp/",
+    "https://beatribes.com/fit/company/kokorozashi/company",
+    "https://www.55634.co.jp/company.html",
+    "https://beatribes.com/fit/company/kokorozashi"
+   ]
+  },
+  {
+   "query": "site:note.com ココロザシ",
+   "results": [
+    "https://note.com/tanabeken/n/n224257e208c6",
+    "https://note.com/kokorozashiradio",
+    "https://note.com/kokorozashiradio/n/n313d3bc14778",
+    "https://note.com/tanabeken/n/n4105419ddf2d",
+    "https://note.com/kokorozashiradio/n/n6ba801f99679",
+    "https://note.com/kokorozashiradio/n/nc9606d89f3ba",
+    "https://note.com/kokorozashiradio/n/n69b261ba60aa"
+   ]
+  },
+  {
+   "query": "site:x.com ココロザシ",
+   "results": [
+    "https://x.com/LINESTAMPER",
+    "https://x.com/naka_kokorozasi",
+    "https://x.com/kokoro_saiyo",
+    "https://x.com/cocorozashi2020",
+    "https://x.com/cocoro_morioka",
+    "https://x.com/COCORO_THE_C",
+    "https://x.com/cocorozashee"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ココロザシ",
+   "results": [
+    "https://jp.linkedin.com/company/（株）ココロザシ",
+    "https://jp.linkedin.com/in/裕志-守岡-a0799638",
+    "https://www.linkedin.com/in/知功-宇田-488a621a8",
+    "https://www.linkedin.com/pub/dir/淳司/三木",
+    "https://jp.linkedin.com/in/多可志-木村-a63b87275",
+    "https://jp.linkedin.com/in/淳司-三木-010134292",
+    "https://nl.linkedin.com/in/rpverhag"
+   ]
+  },
+  {
+   "query": "site:facebook.com ココロザシ",
+   "results": [
+    "https://www.facebook.com/cocorozashi/",
+    "https://www.facebook.com/cocorozashi2016/",
+    "https://www.facebook.com/www.1455634.jp/",
+    "https://www.facebook.com/pages/ココロザシ/415673165284176/",
+    "https://www.facebook.com/kokorozashichallenge/",
+    "https://www.facebook.com/ZhuShiHuiSheKokorozashi/about/",
+    "https://www.facebook.com/p/いよココロザシ大学付属学園-100082966070829/"
+   ]
+  },
+  {
+   "query": "ココロザシ note 社長",
+   "results": [
+    "https://note.com/cocoro_morioka/all",
+    "https://note.com/cocoro_morioka",
+    "https://cocoro-zashi.com/about-hiroshi-morioka/",
+    "https://cocoro-zashi.com/morioka-blog/",
+    "https://morrytravel.com/profile/",
+    "https://the.zitakurouzyou.com/morrytravel-profile/",
+    "https://lit.link/cocorozashi"
+   ]
+  },
+  {
+   "query": "ココロザシ X 投稿",
+   "results": [
+    "https://miltilli-soul.hatenablog.com/about",
+    "https://ameblo.jp/dustbox-x/",
+    "https://x.com/COCORO_THE_C/status/2074856033692819934",
+    "https://x.com/COCORO_THE_C/status/2116168253382746534",
+    "https://www.pixiv.net/artworks/112427905",
+    "https://www.pixiv.net/artworks/136974984",
+    "https://shop.cocorozashi.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）",
+  "客は誰か": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）"
+ }
+}

@@ -1,0 +1,1404 @@
+{
+ "name": "ブロックバリュー",
+ "aliases": [
+  "blockvalue"
+ ],
+ "context": "ベストベンチャー100 掲載年 2026",
+ "researched_at": "2026-11-05T15:29:50.274808+00:00",
+ "official_url": "https://blockvalue.ai/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒105-0001 東京都港区虎ノ門5丁目11番1号オランダヒルズ森タワーRoP7F-07",
+    "url": "https://blockvalue.ai/company/information/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "石川県志賀町",
+    "url": "https://blockvalue.ai/company/factory/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒105-0001 東京都港区虎ノ門5丁目11番1号 オランダヒルズ森タワーRoP 7F-07",
+    "url": "https://blockvaluemanagement.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都港区虎ノ門5-11-1 オランダヒルズ森タワー RoP7F-07",
+    "url": "https://initial.inc/companies/A-MCEJW",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2022年8月31日",
+    "url": "https://blockvalue.ai/company/information/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2023年8月28日",
+    "url": "https://blockvaluemanagement.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2022/08",
+    "url": "https://initial.inc/companies/A-MCEJW",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://blockvalue.ai/company/information/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "10,000,000円",
+    "url": "https://blockvaluemanagement.co.jp/about/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "柿谷義彦",
+    "url": "https://blockvalue.ai/company/information/",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役",
+    "value": "柿谷 義彦",
+    "url": "https://blockvaluemanagement.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "柿谷　義彦",
+    "url": "https://initial.inc/companies/A-MCEJW",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主状況",
+    "value": "VC不明",
+    "url": "https://initial.inc/companies/A-MCEJW",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "資本金・株主": [
+   {
+    "quote": "株式会社ブロックバリューマネジメント子会社化のお知らせ",
+    "url": "https://blockvalue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金 100,000,000円",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 資本金の額または出資金の額が1億円以下",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次の法人は、資本金又は出資金の額が 1 億円以下でも本税制措置の対象とはなりません",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・同一の大規模法人* から 2 分の 1 以上の出資を受ける法人",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・2 以上の大規模法人* から 3 分の 2 以上の出資を受ける法人",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "* 大規模法人とは、資本金又は出資金の額が 1 億円超の法人、資本金又は出資金を有しない法人のうち常時",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "使用する従 業員数が1,000 人超の法人又は大法人（ 資本金又は出資金の額が 5 億円以上である法人等）と",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 10,000,000円",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東証スタンダード上場企業のCOOを務めた経歴を持つ、企業法務を専門とする弁護士が社外取締役に就任",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "新役員の就任は2025 年３月 28 日開催予定の定時株主総会にて承認可決をもって正式に決定する予定だそうです",
+    "url": "https://note.com/gay_pika8766/n/n4a10af58ef0b",
+    "pass": 3
+   },
+   {
+    "quote": "子会社antzの株式譲渡実行日が2025 年３月 31 日予定となっていますから４月からの新生フォーサイドとなります",
+    "url": "https://note.com/gay_pika8766/n/n4a10af58ef0b",
+    "pass": 3
+   },
+   {
+    "quote": "新子会社antzの長尾康裕氏も入れてしまいましたが意外と部門担当で別れてていい感じです",
+    "url": "https://note.com/gay_pika8766/n/n4a10af58ef0b",
+    "pass": 3
+   },
+   {
+    "quote": "私はエストラボとフォーサイドは提携もしくは子会社化すると信じております",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月13日に発表された子会社「株式会社antz」株式取得から一か月、予定通り子会社化の最終契約書締結のお知らせがありましたね",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "ただエムの平代表の中村真一郎氏のように子会社の役員ではあるもののフォーサイドの役員とはなっていないこともあるのでまだ何とも言えません",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "みなさんantz子会社化で満足して忘れているかもしれませんが、まだMA資金が約5億円残っています",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "MA資金 支出予定時期は2024 年 10 月～2025 年７月となっていますからまだもう一社子会社発表があるのではないかと思ってます",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "3月28日に開催される第25回定時株主総会の就任予定の新社外取締役 渡邊孝行氏ですがみなさんも気になっていたと思いますが「月刊仮想通貨」「月刊暗号資産」元編集長という部分",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "今回はあまりパッとする情報がないのですが株主総会に向けてさらに何か情報開示されると良いですね",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "フォーサイドさん！応援はしていますが上場企業ですから数字だけ示せばいいというわけではないと思いますよ！",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   }
+  ],
+  "選出の記録": [
+   {
+    "quote": "2026年度『ベストベンチャー100』に選出されました",
+    "url": "https://blockvalue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ベストベンチャー100 受賞",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "2022年設立、2025年・2026年と「ベストベンチャー100」に選出されています",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "三井住友銀行 / みなと銀行 / GMOあおぞらネット銀行",
+    "url": "https://blockvalue.ai/company/information/",
+    "pass": 1
+   },
+   {
+    "quote": "電力および冷却性能は、350Wアクセラレータを想定して設計されており、安定した信号品質よるパフォーマンスと信頼性の高い運用を実現しています",
+    "url": "https://blockvalue.ai/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロックバリューは、ハイスピードコンピューティングを提供するGPU搭載AIサーバー（テラフロップス）「Win Supreme G11」の製造および販売事業を行う国産メーカーです",
+    "url": "https://blockvalue.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ぷらっとホーム株式会社（東証スタンダード）の取締役COOとしての業務執行とともに、IT企業をはじめ製造業、建設業、小売業など幅広い企業の社外役員や顧問弁護士として活動している",
+    "url": "https://blockvalue.ai/company/member/",
+    "pass": 1
+   },
+   {
+    "quote": "企業法務のほか、労働事件、交通事故等の一般民事事件、相続や離婚などの家事事件も取り扱うほか地方自治体の業務に従事している",
+    "url": "https://blockvalue.ai/company/member/",
+    "pass": 1
+   },
+   {
+    "quote": "両者の融合は、ヘルスケア・ライフサイエンス、金融、サプライチェーンなど、多様な分野で新しい意思決定の標準を生み出します",
+    "url": "https://blockvalue.ai/company/ceo-message/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちが目指すのは、国産のAIサーバーの製造メーカーとして自社で演算処理出力を高められる稀有なサービスを磨き抜き、現場で成果を出す“実装力”で評価されることです",
+    "url": "https://blockvalue.ai/company/ceo-message/",
+    "pass": 1
+   },
+   {
+    "quote": "備、東日本大震災等の災害救助支援、および教育訓練、",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "200社以上の法人顧客契約",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電力を削減し、脱炭素を推進",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第一データセンターの管轄となる北陸電力の場合、通常1kwあたり32円の",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、当社では、志賀町から40％の電力補助を受けているため1kwあ",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社の志賀町第一データセンターは日立製作所工場を買収し、GPUサーバー製㐀工場兼データ",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（生産効率、エネルギー効率、精度など）が",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*2 医療機器にあっては、医療保健業を行う事業者が取得又は製作をするものを除く",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*3 医療保健業を行う事業者が取得又は建設をするものを除くものとし、発電の用に供する設備にあっては主として電",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "気の販売を行うために取得又は建設をするものを除く",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製㐀業、建設業、農業、林業、漁業、水産養殖業、鉱業、 採石業、砂",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "利採取業、卸売業、小売業、一般旅客自動車運送業、 道路貨物運送",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業、倉庫業、港湾運送業、ガス業、 料理店業その他の飲食店業（一定",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業、 旅行業、こん包業、郵便業、損害保険代理",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技術サービス業、不動産業、物品賃貸業、 広告",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業、宿泊業、洗濯・理容・美容・浴場業、",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その他の生活関連サービス業、医療、福祉業、 社",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会保険・社会福祉・介護事業、教育、学習支援業、",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 電気業、水道業、鉄道業、航空運輸業、銀行業、娯楽業（映画業を除く）等は対象にな",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "飲食店業で生活 衛生同業組合の組合員が営むもの、②宿泊業のうち旅館業、ホテル業で風俗営",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これは、顧客が電",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このモデルでは、顧客は一定数のテラフロップス",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このモデルでは、顧客は、実際の使用量に関係",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て、各顧客の特定のニーズに合わせて調整され",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Supreme G11 法人生命保険 航空機リース コンテナリース コインランドリー",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ブロックバリュー、みなと銀行と業務提携 国境に関係なく利用可能な拠点を増やし、分散処理によって次世代AI開発のサポートを目指す",
+    "url": "https://initial.inc/companies/A-MCEJW",
+    "pass": 3
+   },
+   {
+    "quote": "ブロックバリュー、みなと銀行との業務提携に関するお知らせ",
+    "url": "https://initial.inc/companies/A-MCEJW",
+    "pass": 3
+   },
+   {
+    "quote": "国産GPU搭載AIサーバーを自社製造する、数少ない日本のメーカー",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "国産のGPU搭載AIサーバーを製造する、数少ない日本のメーカーです",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "志賀町第一データセンターは、日立製作所の旧工場を取得した拠点です",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "自治体の企業立地支援制度を活用することで、通常より低い電力コストでサーバーを運営しています",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "保険、航空機リース、コンテナリース——社長が決算期に検討してきた商品と、このサーバーを同じ表に並べます",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "美容業界の大島社長がレーザー医療機器を取り扱い始めたきっかけはこの人なのでしょう",
+    "url": "https://note.com/gay_pika8766/n/n4a10af58ef0b",
+    "pass": 3
+   },
+   {
+    "quote": "現任しているグループホールディングス㈱は恐らく不動産の東京都大田区の「グループ企画」という会社の親会社ではないかと思うのですがフォーサイドにあまり関係がなさそうなので調査やめました",
+    "url": "https://note.com/gay_pika8766/n/n4a10af58ef0b",
+    "pass": 3
+   },
+   {
+    "quote": "おさらいですがブロックバリューは石川県に工場がある国内では数少ないGPUサーバーメーカーでフォーサイドのサーバー事業の初期思惑で登場していた会社ですので古参の方は聞いたことあるのではないかな",
+    "url": "https://note.com/gay_pika8766/n/n4a10af58ef0b",
+    "pass": 3
+   },
+   {
+    "quote": "敷地内に建物（倉庫？）２棟 今のところAITechのデーターセンターはここに設置するのではないかと考えていますが確定ではありません",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "不動産の売買、賃貸借、管理及び仲介",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "コマースブレインは大島正人氏が代表の不動産・賃貸の会社です",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "antz社の事業は総合人材サービス事業・一般貨物自動車運送事業・ITソリューション事業です",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "フォーサイドはすでにIT・AI事業と物流事業を行っておりましたのでドンピシャな会社をM&Aしたなと感心していて、人材の部分はスルーしてしまっていましたが、",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "ありませんと言いながらあるとするなら求人などを見ていると物流倉庫への人材派遣でしょうか",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "物流会社は他の物流会社と連携していることが多いようなのでそういった物流協力会社への人材派遣が出来ると思います",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "Win Supreme G11は、中小企業庁の推進する「中小企業等経営強化法」に基づく税制特例措置（中小企業経営強化税制）における対象設備（生産性向上設備（A類型））として認定されています",
+    "url": "https://blockvalue.ai/service/",
+    "pass": 1
+   },
+   {
+    "quote": "」というスローガンには、地域・中堅中小企業・研究機関・行政の潜在力を、データと計算力でつなぎ直し、確かな成果へ変えていくという決意を込めました",
+    "url": "https://blockvalue.ai/company/ceo-message/",
+    "pass": 1
+   },
+   {
+    "quote": "1.株式会社ブロックバリュー：会社概要/中小企業強化税制を活用したGPUサーバーについて",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "100%の中小企業経営強化税制認定率",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業強化税制の利用による100％即時償却メリット",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社の製品を購入する際に、「中小企業等経営強化法」に基く、中小企業・小規模事業者・中堅企業等の「経営力向上計画」の認定を受けることで「中小企業経営強化税制」が適応",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業者等が、指定期間内に中小企業等経営強化法の認定を受けた経営力向上計画に基づいて一定の設備を新規取得し、 指定された事業に利用した",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 中小企業等経営強化法第 2 条第 6 項に規定する「特定事業者等」に該当するものに限ります",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の間に当該大法人に よ る完全支配関係がある法人等をいい、独立行政法人中小企業基盤整備機構（中小企",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 内容は更新される可能性がありますので、中小企業庁のホームページ（https://www.chusho.meti.go.jp/keiei/kyoka/）に掲載の最新の情報も併せてご確認ください",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業等経営強化法に基く、中小企業・小規模事業者・中堅企業等の「経営力向上計画」申請を行う際に、GビズIDが必要になります",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経営力強化プラットフォームにおいて、中小企業強化税制を活用する場合は購入した決算内にGPUサーバー決算内に納品とサー",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業経営強化税制の認定申請から認定までの詳細な流れはどのよう",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社はまだ法人設立して1年未満なのですが、中小企業経営強化税制の認",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■中小企業経営強化税制の認定申請月の前月分までの会計データ入力が",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業経営強化税制（A類型）の100%即時償却に対応し、購入後は計算力の供給で運用",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業経営強化税制（A類型）を活用した100%即時償却に対応し、購入したサーバーは計算力（テラフロップス）の供給で運用されます",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   }
+  ],
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "ブロックバリューは、ハイスピードコンピューティングを提供するGPU搭載AIサーバー（テラフロップス）「Win Supreme G11」の製造および販売事業を行う国産メーカーです",
+    "url": "https://blockvalue.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ぷらっとホーム株式会社（東証スタンダード）の取締役COOとしての業務執行とともに、IT企業をはじめ製造業、建設業、小売業など幅広い企業の社外役員や顧問弁護士として活動している",
+    "url": "https://blockvalue.ai/company/member/",
+    "pass": 1
+   },
+   {
+    "quote": "データセンターは、かつて精密機械の製造に用いられていたため、計算機稼働に十分な容量の受電設備が備わっており、加えて敷地面積が約 24,000 ㎡、建物内面積が約 7,000 ㎡あり、将来に備えた高い設備拡張性があります",
+    "url": "https://blockvalue.ai/company/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちが目指すのは、国産のAIサーバーの製造メーカーとして自社で演算処理出力を高められる稀有なサービスを磨き抜き、現場で成果を出す“実装力”で評価されることです",
+    "url": "https://blockvalue.ai/company/ceo-message/",
+    "pass": 1
+   },
+   {
+    "quote": "2.株式会社ブロックバリューマネジメント：会社概要/保守管理及び計算力販売代行について",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "運営開始 2023年9月",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たり32円×60％＝19.2円という電気料金でサーバー運営を行うことを可",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*1 発電の用に供する設備にあっては、主として電気の販売を行うために取得又は製作をするもの（経営力向上計画の",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "実施時期のうちで発電した電気の販売を行う期間中の発電量のうち、販売を行うことが見込まれる電気の量が占め",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "気の販売を行うために取得又は建設をするものを除く",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*4 複写して販売するための原本、開発研究用のもの、サーバー用OS のうち一定のものなどは",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "へのアクセスに対して月額または年額の固定料",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "デルはこのカスタムモデル型の収益構㐀となりま",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "収益受け取りターム 毎月 なし 毎年 毎年 毎月",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３年間/36ヶ月、上限の収益を得た場合での予測数値となります",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "貴社のサーバーが持つ計算力を必要とする海外企業に当社が代行販売させていただきます",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "毎月、計算力（テラフロップス）の販売代行売上",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "から当社の手数料を差し引かせていただきクラ",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社は世界で様々な企業に計算力（テラフロップス）の共有・販売とUS企業との優先供給の業務提携を結んでおります",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "算力（テラフロップス）の供給および販売に関する包括的業務提携を結んでおります",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウェア「DATAPILOT」を利用する企業へ優先的に当社が保守管理および計算力の販売代行を請け負っているサーバーから計算力（テ",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "下記は当社に保守管理委託されているサーバーの計算力（テラフロップス）を供給先に販売した実績になります",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※実際には上記売上金額から当社の販売代行手数料を差し引かせてお支払いさせていただきます",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "テラフロップス=計算力 3年契約での保守・計算力販売代行事業について",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "-1年/1台1.1万円（税込）とし、契約者からブロックバリューマネジメントへの支払いは、運用委託契約書に基づくテラフロップスの販売に対する報酬から 12 ヶ月毎に差し引きま",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "契約から3年後、計算力販売代行の終了日までは保守・管理費用においては日割り計算（1日/1台/30円）として請求となります",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今期：新規事業スタートまでの期間 来期以降：新規事業スタート後の収益",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "毎月の計算力の販売による収益の計上科目は何になりますか？",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "基本的には多くの企業様で「売上」計上になると思います",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コンピュータのソフトウェア及びハードウェアの開発・製造・販売を行う",
+    "url": "https://initial.inc/companies/A-MCEJW",
+    "pass": 3
+   },
+   {
+    "quote": "AIサーバー「Win Supreme G11」の販売",
+    "url": "https://initial.inc/companies/A-MCEJW",
+    "pass": 3
+   },
+   {
+    "quote": "ブロックバリュー、SBIマネープラザと業務提携 GPUサーバー販売における新たな販売チャネルを開拓",
+    "url": "https://initial.inc/companies/A-MCEJW",
+    "pass": 3
+   },
+   {
+    "quote": "国産GPU搭載AIサーバーを自社製造する、数少ない日本のメーカー",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "国産のGPU搭載AIサーバーを製造する、数少ない日本のメーカーです",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "」を掲げ、東京本社で国内営業を、石川県志賀町の自社データセンターで国産GPU搭載AIサーバーを製造する、",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "自治体の企業立地支援制度を活用することで、通常より低い電力コストでサーバーを運営しています",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "その経験を土台に、国産GPU搭載AIサーバーの製造事業を立ち上げる",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "購入したサーバーは、同社グループが計算力（テラフロップス）の販売代行を担い、米国のフォレンジック系ソフトウェア企業などへ供給して運用されます",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "同社資料では、1台あたりの月次収益の上限や、3年でおおむね投下資本を上回る水準が参考値として示されています",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "本ページに記載した収益・回収に関する数値は、",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "であり、収益や元本を保証するものではありません",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "各商品の数値は同社資料に基づく参考値であり、将来の収益・回収を保証するものではありません",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "事業収益最大予測率は、為替・市場価格・稼働状況などにより変動します",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "本ページに記載した数値は、株式会社ブロックバリュー提供資料に基づく参考値であり、税負担の軽減効果・収益・元本を保証するものではありません",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "以前の記事でも紹介してますが、カリテスラボです",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "不動産の売買、賃貸借、管理及び仲介",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "Ｗｅｂサイトの企画、制作、販売、運営及び管理",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "コンピュータシステムの企画、開発、販売及び保守に関する業務",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "半導体、集積回路等の電子、電気部品及び通信機器、計測機器、通信接続機器等の情報機器の企画、研究、開発、設計、製造、リース、レンタル、販売及び輸出入",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "Ｍ＆Ａ（企業の合併買収）及び企業提携等の仲介並びに斡旋",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容からエストラボ関連のエステ店の仲介などではと思っていましたが、証拠がなかったのですが、やはりエストラボの関連会社でした",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "HPで確認してみるとまあ普通の人材派遣事業なのかなと",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "派遣労働者数 125人 派遣先の数 46社",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "A・労働者派遣の料⾦の平均 1 ⽇（8 時間あたり） 15,031 円",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "B・派遣労働者の賃⾦の平均 1 ⽇（8 時間あたり） 11,105 円",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "派遣労働者数 72人 派遣先の数 21社",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "A・労働者派遣の料金の平均 1 日（8 時間あたり） 16,709 円",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "B・派遣労働者の賃金の平均 1 日（8 時間あたり） 11,440 円",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "合計 売上67,802,306円",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "ところ2024 年７月下旬 頃に共通の知人（ポエさんっぽい）から antz 社の代表取締役である長尾康裕氏の紹介を受け",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "INFORMATION | 株式会社ブロックバリュー株式会社ブロックバリューABOUT – 株式会社ブロックバリューマネジメント株式会社ブロックバリュー（東京都）の会社概要・役員 | Compalyze株式会社ブロックバリューの企業情報｜KnockList（ノックリスト）株式会社ブロックバリュー｜スピーダ スタートアップ情報リサーチ株式会社ブロックバリューマネジメント – 株式会社ブロックバリューマ... — Aug 31, 2022 · 会社名 株式会社ブロックバリュー 英文名 Blockvalue Inc. 本社 〒105-0001東京都港区虎ノ門5丁目11番1号オランダヒルズ森タワーRoP7F-07 志賀町第一データセンター 石川県志賀町 設立 20 […] ブロックバリューは、ハイスピードコンピューティングを提供するGPU搭載AIサーバー「Win Supreme G11」の製造およ",
+    "url": "https://blockvalue.ai/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ブロックバリュー — ブロックバリューは、ハイスピードコンピューティングを提供するGPU搭載AIサーバー「Win Supreme G11」の製造および販売事業を行う国産メーカーです。世界中でAIの需要が急増している中で、ブロックバリューは超高速計算力及び人材育成で日本企業の活躍を強力に後押しするとともに ...",
+    "url": "https://blockvalue.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ABOUT – 株式会社ブロックバリューマネジメント株式会社ブロックバリュー（東京都）の会社概要・役員 | Compalyze株式会社ブロックバリューの企業情報｜KnockList（ノックリスト）株式会社ブロックバリュー｜スピーダ スタートアップ情報リサーチ株式会社ブロックバリューマネジメント – 株式会社ブロックバリューマ... — Aug 28, 2023 · 会社概要 会社名株式会社ブロックバリューマネジメント所在地〒105-0001東京都港区虎ノ門5丁目11番1号オランダヒルズ森タワーRoP 7F-07設立2023年8... 〒105-0001 東京都港区に本社を置く株式会社ブロックバリューの企業情報。株式会社ブロックバリューは、日本発の高性能計算インフラを提供し。MFG (MFG-07)、2022年設立、社会保険被保険者数21名。代表者 柿谷義彦。役員1名・登記5件。 株式会社ブ",
+    "url": "https://blockvaluemanagement.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ブロックバリュー（東京都）の会社概要・役員 | Compalyze — 〒105-0001 東京都港区に本社を置く株式会社ブロックバリューの企業情報。株式会社ブロックバリューは、日本発の高性能計算インフラを提供し。MFG (MFG-07)、2022年設立、社会保険被保険者数21名。代表者 柿谷義彦。役員1名・登記5件。",
+    "url": "https://compalyze.co.jp/company/4011001149573",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ブロックバリューの企業情報｜KnockList（ノックリスト） — 株式会社ブロックバリュー／東京都港区虎ノ門5丁目11番1号／設立2022年の企業情報。所在地・業種・設立年・資本金・従業員数などを掲載しています（電話番号・FAX・メールは非掲載）。",
+    "url": "https://www.knocklist.jp/company/EZ5xOPwwALRl",
+    "pass": 3
+   },
+   {
+    "quote": "COMPANY | 株式会社ブロックバリュー — COMPANY ブロックバリューは、ハイスピードコンピューティングを提供するGPU搭載AIサーバー（テラフロップス）「Win Supreme G11」の製造および販売事業を行う国産メーカーです。",
+    "url": "https://blockvalue.ai/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ブロックバリュー GPUサーバー事業について — 株式会社ブロックバリュー GPUサーバー事業について テラフロップス(計算力)を生成し、テラフロップスを供給をする 最先端技術で事業収益を得られます",
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ブロックバリューってどんな会社？事業内容、仕事内容、働き... — Mar 28, 2024 · 株式会社ブロックバリューってどんな会社？ 株式会社ブロックバリューはどんな会社ですか？ 株式会社ブロックバリューは、大量のデータ解析に必要な、高い計算力を提供するGPUサーバーの製造・販売を行っている企業です。",
+    "url": "https://jobhakase.com/archives/9722",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ブロックバリュー 柿谷 義彦 | ベストベンチャー100 — ─ 御社の事業内容を教えて下さい。 ブロックバリューは、ハイスピードコンピューティングを提供するGPU搭載AIサーバー (テラフロップス)「Win Supreme G11」の製造および販売を行う国産メーカーです。",
+    "url": "https://best100.v-tsushin.jp/company/blockvalue/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ブロックバリュー｜スピーダ スタートアップ情報リサーチ — Aug 6, 2025 · ニュース 資金調達・提携ニュース 事業提携 2025/08/05 ブロックバリュー、みなと銀行と業務提携 国境に関係なく利用可能な拠点を増やし、分散処理によって次世代AI開発のサポートを目指す 事業提携 2024/04/30",
+    "url": "https://initial.inc/companies/A-MCEJW",
+    "pass": 3
+   },
+   {
+    "quote": "INFORMATION | 株式会社ブロックバリュー【ERTH Group】新株予約権を活用した資金調達とバリュー投資事業の展...株式会社ブロックバリューERTHがS高カイ気配、新株予約権で資金調達しバリュー投資事業開始へ |...ERTHがS高カイ気配、新株予約権で資金調達しバリュー投資事業開始へER...株式会社ブロックバリュー | 4011001149573 | Gビズインフォ — Aug 31, 2022 · 会社名 株式会社ブロックバリュー 英文名 Blockvalue Inc. 本社 〒105-0001東京都港区虎ノ門5丁目11番1号オランダヒルズ森タワーRoP7F-07 志賀町第一データセンター 石川県志賀町 設立 20 […] 6 days ago · ERTH Group Co.,Ltd. 新株予約権の発行・無償割当てを通じた約207.5億円の資金調達を実施。バリュー投",
+    "url": "https://blockvalue.ai/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "SERVICE | 株式会社ブロックバリュー — GPUインテンシブなワークロードにおける パフォーマンスの向上 ディープラーニングやハイパフォーマンスコンピューティングのワークロードパフォーマンスを向上させるために、Win Supreme G11はトップクラスのアクセラレータテクノロジーを採用しています。このテクノロジーにより、GPU間で ...",
+    "url": "https://blockvalue.ai/service/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI などの需要で世界的に伸び続けるGPU市場。日本国内ではブロッ... — Sep 2, 2024 · ブロックバリュー社のGPUサーバーの導入事例として、公安・警察といった行政機関の動画解析が挙げられます。今までセキュリティカメラや無人探査機から得られる膨大な動画を解析するには莫大な時間がかかっていましたが、ブロックバリュー社のGPUサーバーを導入することで解析の ...",
+    "url": "https://home.jword.jp/magazine/detail/29911",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI などの需要で世界的に伸び続けるGPU市場。日本国内ではブロッ... — Sep 2, 2024 · GPUの市場規模は2023年に62億米ドルに達しており、市場ではアメリカの NVIDIA社の1強状態となっていますが、日本では日本国内の制度を適用することによりブロックバリュー社が躍進しています。今回は、そのブロックバリュー社が提供するサービスや、今後の展開について紹介していきます。",
+    "url": "https://www.estart.jp/magazine/detail/29911",
+    "pass": 3
+   },
+   {
+    "quote": "INFORMATION | 株式会社ブロックバリュー株式会社ブロックバリュー株式会社ブロックバリュー - 一般社団法人チカラ株式会社ブロックバリュー GPUサーバー事業について株式会社ブロックバリュー 柿谷 義彦 | ベストベンチャー100世界の半導体集積ブロックリードフレームメーカー動向：売上、販売量...ブロックバリュー、みなと銀行との業務提携に関するお知らせ | 株式会... — Aug 31, 2022 · 会社名 株式会社ブロックバリュー 英文名 Blockvalue Inc. 本社 〒105-0001東京都港区虎ノ門5丁目11番1号オランダヒルズ森タワーRoP7F-07 志賀町第一データセンター 石川県志賀町 設立 20 […] ブロックバリューは、ハイスピードコンピューティングを提供するGPU搭載AIサーバー「Win Supreme G11」の製造および販売事業を行う国産メー",
+    "url": "https://blockvalue.ai/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ブロックバリュー - 一般社団法人チカラ — ブロックバリューを率いるのは、代表取締役・柿谷義彦氏。 前職の米AMI（American Megatrends）で、サーバーが起動する最下層のソフトウェア「BIOS」の開発を率いてきた人物です。 その実績が、国内生産のサーバーで BIOSシェア約95%。",
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ブロックバリュー 柿谷 義彦 | ベストベンチャー100 — ブロックバリューは、ハイスピードコンピューティングを提供するGPU搭載AIサーバー (テラフロップス)「Win Supreme G11」の製造および販売を行う国産メーカーです。世界中でAIの需要が急増している中で、ブロックバリューは超高速計算力及び人材育成で日本企業の活躍を強力に後押しするととも ...",
+    "url": "https://best100.v-tsushin.jp/company/blockvalue/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "メダカの観察㉙新役員選任 - note（ノート） Feb 23, 2025 · チップくれw 最後に 最後まで読んでいただきありがとうございます。 ①仮想通貨・暗号資産の思惑、②ブロックバリュー社のGPUサーバーの思惑、③GUGAとの繋がり、④GFAとの繋がり 新たな思惑、繋がりが出てきたことで面白くなってきました。",
+    "url": "https://note.com/gay_pika8766/n/n4a10af58ef0b",
+    "pass": 3
+   },
+   {
+    "quote": "メダカの観察⑫ DCについて - note（ノート） Sep 3, 2024 · 但し7/5のIRには「事業開始当初においては、都内の既存データセンターの一部を賃借することにより本事業を行い」とありますので都内のブロックバリューサーバーセンタを探してみたのですが、探しきれませんでした。",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "メダカの観察㉛人材事業開始 - note（ノート） Mar 16, 2025 · ま、7月までは何も無いでしょうけどこれ以上ビットコインが安くなるなら購入もありな気がします。 よろしくお願いします！ ！！ それからもう一つ、渡辺氏の前職 インタープラネタリーですが、ブロックバリューとの取引があり過去の思惑も復活かな？",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "【WebXスポンサー特集】あなたのデータが資産に！BLOCKVALUEの仕組み... Jul 12, 2025 · ブロックチェーンで拓くデータの価値革命 Web3の時代において「データの価値」がこれまで以上に重要視される中、BLOCKVALUE（ブロックバリュー）は新たなデータエコノミーの構築に挑戦する注目プロジェクトです。",
+    "url": "https://note.com/recaljp/n/nc5792cf93da0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "取締役候補者及び監査等委員である取締役候補者選任に関するお知らせ",
+    "url": "https://note.com/gay_pika8766/n/n4a10af58ef0b",
+    "pass": 3
+   },
+   {
+    "quote": "」がありましたのでそれについて潜ってみました。",
+    "url": "https://note.com/gay_pika8766/n/n4a10af58ef0b",
+    "pass": 3
+   },
+   {
+    "quote": "最近はすごく浅い調査しかしていない気がするので、フォーサイドの基本知識くらいで思って読んで下さい。",
+    "url": "https://note.com/gay_pika8766/n/n4a10af58ef0b",
+    "pass": 3
+   },
+   {
+    "quote": "先週はフォロアーの多い人にしてやられました。このnote記事が買い煽りに利用されてしまったようで残念です。",
+    "url": "https://note.com/gay_pika8766/n/n4a10af58ef0b",
+    "pass": 3
+   },
+   {
+    "quote": "がそもそもこの株価に違和感を感じている今日この頃、ですが株価はにはファンダに落ち着くわけですから今しばらく待ちましょう。",
+    "url": "https://note.com/gay_pika8766/n/n4a10af58ef0b",
+    "pass": 3
+   },
+   {
+    "quote": "そこのフォロアーの多いのあなた！まだチップ間に合いますよｗ",
+    "url": "https://note.com/gay_pika8766/n/n4a10af58ef0b",
+    "pass": 3
+   },
+   {
+    "quote": "発信者なら発した言葉に責任を持たないと着いてくるひと達からの信用もなくなりますよ。チップくれたらそれでフォーサイド買いますからヨロシクｗ",
+    "url": "https://note.com/gay_pika8766/n/n4a10af58ef0b",
+    "pass": 3
+   },
+   {
+    "quote": "新役員の就任は2025 年３月 28 日開催予定の定時株主総会にて承認可決をもって正式に決定する予定だそうです。",
+    "url": "https://note.com/gay_pika8766/n/n4a10af58ef0b",
+    "pass": 3
+   },
+   {
+    "quote": "メダカの観察⑫ DCについて｜メダカの観察",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "基本的なメダカの飼い方は、とても簡単です。",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "水槽・飼育容器や水草など、必要なものを揃える。",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "水槽・飼育容器に水や水草を入れて、メダカが暮らせる環境を作る。",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "定期的にエサやりや掃除といったお世話をする。",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "久しぶりの投稿ですw真新しい情報もなかったのでサボっていました。",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "みんな大好きデーターセンター事業。どこに建設するのか気になりますね。",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "2024年９月1日よりデーターセンター事業開始予定ですが９/3現在 公式からこれといったアナウンスはありません。ですのでこちらで勝手に考えましょう。",
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月13日に発表された子会社「株式会社antz」株式取得から一か月、予定通り子会社化の最終契約書締結のお知らせがありましたね。",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "アドバイザリー費用 500万円 合計4億8500万でした。",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "事前情報から取得価格は8000万から1億4000万くらいかと予想していたので思っていたよりかなり高いという印象ですが予想との差異の価値が何なのか考えとかないといけないかな。",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "antz社の事業は総合人材サービス事業・一般貨物自動車運送事業・ITソリューション事業です。",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "フォーサイドはすでにIT・AI事業と物流事業を行っておりましたのでドンピシャな会社をM&Aしたなと感心していて、人材の部分はスルーしてしまっていましたが、",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "を開始するとのお知らせでハッとさせられましたｗ",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "とはいえ人材サービスってなんかインパクト弱いですよね。3/14引け後のPTSでも反応イマイチでした。",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   },
+   {
+    "quote": "何か導き出せないか考えてみようと思います。",
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "2026-27シーズン オフィシャルパートナー \\ 2026-27シーズン #オフィ... yokohamaex_ (横浜エクセレンス). 10 likes 0 replies. ／ 2026-27シーズン オフィシャルパートナー \\ 2026-27シーズン #オフィシャルパートナー として 「株式会社ブロックバリュー」様 にご支援いただいております💚 ご支援誠にありがとうございます🤝 詳細⬇️ https ...",
+    "url": "https://x.com/yokohamaex_/status/2101174447646597408",
+    "pass": 3
+   },
+   {
+    "quote": "PR TIMESスポーツ on X: \"横浜エクセレンスのオフィシャルトップパー... 横浜エクセレンスのオフィシャルトップパートナー、ブロックバリューがホーム開幕戦に冠協賛 https://t.co/zu2WLv5nW5 29 Sep 2026 ...",
+    "url": "https://x.com/PRTIMES_SPORTS/status/2104807986862723279",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社ブロックバリュー - Facebook Feb 8, 2026 · 株式会社ブロックバリュー. 23 followers. AIサーバーを製造する株式会社ブロックバリューの公式facebookページです。",
+    "url": "https://www.facebook.com/p/株式会社ブロックバリュー-100094109683090/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ブロックバリュー - Facebook Dec 15, 2024 · 株式会社ブロックバリュー. 20 likes. AIサーバーを製造する株式会社ブロックバリューの公式facebookページです。",
+    "url": "https://www.facebook.com/people/株式会社ブロックバリュー/100094109683090/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ブロックバリュー - プレスリリース... | Facebook May 22, 2024 · 商号 ：株式会社ブロックバリュー 代表者 ：代表取締役 大西基文 所在地 ：東京都港区虎ノ門5丁目11番1号オランダヒルズ森タ ワーRoP7F-07 設立 ：2022 年 8 月 31 日 事業内容：コンピュータのソフトウェア及びハードウ ェアの開発・製造・販売 資本金 ...",
+    "url": "https://www.facebook.com/100094109683090/posts/プレスリリースブロックバリューグローバルカンファレンスwebxのプラチナスポンサーに決定httpsblockvaluecojpnews0523株式会社ブロックバ/315730038240650/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ブロックバリュー - プレスリリース 資本金増資のお知らせ...... Nov 11, 2024 · 株式会社ブロックバリュー Nov 11, 2024 プレスリリース 資本金増資のお知らせhttps://blockvalue.co.jp/news/0912/GPUサーバー製造事業を手掛ける株式会社ブロックバ リュー (本社：東京都港区、代表取締役：大西 基文)は、2024年7月31日付けにて資本金の増資を ...",
+    "url": "https://www.facebook.com/100094109683090/posts/プレスリリース資本金増資のお知らせhttpsblockvaluecojpnews0912gpuサーバー製造事業を手掛ける株式会社ブロックバリュー本社東京都港区代/431932076620445/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://blockvalue.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blockvalue.ai/company/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blockvalue.ai/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blockvalue.ai/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blockvalue.ai/company/mission/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blockvalue.ai/company/mission/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blockvalue.ai/company/member/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blockvalue.ai/company/factory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blockvalue.ai/company/ceo-message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blockvalue.ai/company/information/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://blockvaluemanagement.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://initial.inc/companies/A-MCEJW",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanir.jp/company/company-6072/ir/6072-20261030-04_wp_financial_summary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://chikara-5.com/partner/blockvalue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gay_pika8766/n/n4a10af58ef0b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/recaljp/n/nc5792cf93da0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/yokohamaex_/status/2101174447646597408",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PRTIMES_SPORTS/status/2104807986862723279",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/株式会社ブロックバリュー-100094109683090/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/株式会社ブロックバリュー/100094109683090/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100094109683090/posts/プレスリリースブロックバリューグローバルカンファレンスwebxのプラチナスポンサーに決定httpsblockvaluecojpnews0523株式会社ブロックバ/315730038240650/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100094109683090/posts/プレスリリース資本金増資のお知らせhttpsblockvaluecojpnews0912gpuサーバー製造事業を手掛ける株式会社ブロックバリュー本社東京都港区代/431932076620445/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ブロックバリュー 会社概要 資本金 設立",
+   "results": [
+    "https://blockvalue.ai/company/information/",
+    "https://blockvalue.ai/",
+    "https://blockvaluemanagement.co.jp/about/",
+    "https://compalyze.co.jp/company/4011001149573",
+    "https://www.knocklist.jp/company/EZ5xOPwwALRl",
+    "https://initial.inc/companies/A-MCEJW",
+    "https://blockvaluemanagement.co.jp/"
+   ]
+  },
+  {
+   "query": "ブロックバリュー 事業内容 売上",
+   "results": [
+    "https://blockvalue.ai/",
+    "https://blockvalue.ai/company/",
+    "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "https://jobhakase.com/archives/9722",
+    "https://best100.v-tsushin.jp/company/blockvalue/",
+    "https://www.firstcvc.jp/company/blockvalue.co.jp",
+    "https://compalyze.co.jp/company/4011001149573"
+   ]
+  },
+  {
+   "query": "ブロックバリュー 資金調達 株主",
+   "results": [
+    "https://initial.inc/companies/A-MCEJW",
+    "https://blockvalue.ai/company/information/",
+    "https://japanir.jp/company/company-6072/ir/6072-20261030-04_wp_financial_summary/",
+    "https://blockvalue.ai/",
+    "https://kabutan.jp/news/marketnews/?b=n202611020398",
+    "https://minkabu.jp/news/4648211",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4011001149573"
+   ]
+  },
+  {
+   "query": "ブロックバリュー 導入事例",
+   "results": [
+    "https://blockvalue.ai/",
+    "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "https://blockvalue.ai/service/",
+    "https://home.jword.jp/magazine/detail/29911",
+    "https://www.estart.jp/magazine/detail/29911",
+    "https://editor.magazinesummit.jp/business/53985308240902",
+    "https://gxo.co.jp/column/blockchain-development-cost-use-cases-2026"
+   ]
+  },
+  {
+   "query": "ブロックバリュー 主要取引先",
+   "results": [
+    "https://blockvalue.ai/company/information/",
+    "https://blockvalue.ai/",
+    "https://chikara-5.com/partner/blockvalue",
+    "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQG0vdaJ/s-1x1_f99ceb21-982a-4358-84f5-09939ecf1833.pdf",
+    "https://best100.v-tsushin.jp/company/blockvalue/",
+    "https://prtimes.jp/main/html/rd/p/000000003.000161435.html",
+    "https://yhresearch.hateblo.jp/entry/2026/07/31/181640"
+   ]
+  },
+  {
+   "query": "site:note.com ブロックバリュー",
+   "results": [
+    "https://note.com/gay_pika8766/n/n4a10af58ef0b",
+    "https://note.com/gay_pika8766/n/n54dc29b71a98",
+    "https://note.com/gay_pika8766/n/nf9be04af8ad2",
+    "https://note.com/recaljp/n/nc5792cf93da0",
+    "https://note.com/yorun00nft/n/ncaeaf3a6e48d",
+    "https://note.com/value_formula/n/ne324ecceccff",
+    "https://note.com/value_formula/n/ne47096dd9397"
+   ]
+  },
+  {
+   "query": "site:x.com ブロックバリュー",
+   "results": [
+    "https://help.x.com/en/x-for-websites-ads-info-and-privacy",
+    "https://x.com/yokohamaex_/status/2101174447646597408",
+    "https://x.com/PRTIMES_SPORTS/status/2104807986862723279",
+    "https://x.com/areakanto123",
+    "https://x.com/ensemble43530/status/2071190878618886219",
+    "https://x.com/ensemble43530/status/2069740715870236842",
+    "https://x.com/areakanto123/status/2074054442220179539"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ブロックバリュー",
+   "results": [
+    "https://www.linkedin.com/in/takaya-sugino-0b6638191",
+    "https://hk.linkedin.com/in/moninung",
+    "https://au.linkedin.com/in/vickyskipp",
+    "https://www.linkedin.com/",
+    "https://se.linkedin.com/in/cathymulligan",
+    "https://jp.linkedin.com/pulse/real-core-value-blockchain-tech-scott-germaise-9egoe?tl=ja",
+    "https://jp.linkedin.com/pulse/new-operating-system-value-sergey-kiklevich-qgoge?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com ブロックバリュー",
+   "results": [
+    "https://www.facebook.com/p/株式会社ブロックバリュー-100094109683090/",
+    "https://www.facebook.com/people/株式会社ブロックバリュー/100094109683090/",
+    "https://www.facebook.com/100094109683090/posts/プレスリリースブロックバリューグローバルカンファレンスwebxのプラチナスポンサーに決定httpsblockvaluecojpnews0523株式会社ブロックバ/315730038240650/",
+    "https://www.facebook.com/100094109683090/posts/プレスリリース資本金増資のお知らせhttpsblockvaluecojpnews0912gpuサーバー製造事業を手掛ける株式会社ブロックバリュー本社東京都港区代/431932076620445/",
+    "https://www.facebook.com/permalink.php/?story_fbid=169694236177565&id=100094109683090",
+    "https://www.facebook.com/100094109683090/posts/メディア掲載のお知らせhttpsblockvaluecojpnews1204株式会社ブロックバリューの代表-大西基文がビジネス界で活躍するリーダーの取り組みを紹/447226631757656/",
+    "https://www.facebook.com/100094109683090/posts/代表取締役-大西が新しい即時括償却のカタチに登壇します2024年2月2日金弊社代表取締役社長の-基がに3月決算期に向けた節税決算セミナー-新しい即時括償却のカタ/246099555203699/"
+   ]
+  },
+  {
+   "query": "ブロックバリュー note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/大西基文",
+    "https://best100.v-tsushin.jp/company/blockvalue/",
+    "https://blockvaluemanagement.co.jp/20260501-2/",
+    "https://blockvalue.ai/company/member/",
+    "https://blockvalue.ai/news/20251001/",
+    "https://startup-db.com/officers/5RWwQVlTwX7Y78oK",
+    "https://japanpride.jp/person/onishi_motofumi/"
+   ]
+  },
+  {
+   "query": "ブロックバリュー X 投稿",
+   "results": [
+    "https://hashout.jp/sns/13624/",
+    "https://x.com/i/trending/2089955969501728885",
+    "https://help.x.com/ja/using-x/blocking-and-unblocking-accounts",
+    "https://x.com/i/trending/2042848122037240267",
+    "https://note.com/xkenkyu/n/nd6bf5d0df53b",
+    "https://akiguard.com/post-679/",
+    "https://kotopro-sns.com/82/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部16頁・検索11回）",
+  "従業員数": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部16頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部16頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部16頁・検索11回）"
+ }
+}

@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・61品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・63品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -711,6 +711,12 @@
   - 「Open-Source Intelligence (OSINT) - Global Strategic Business ...Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — The Open-Source Intelligence (OSINT) Market, valued at USD 12.4B in 2025, is projected to 」（https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global）
   - 「Open-Source Intelligence (OSINT) - Global Strategic Business ...Open Source Intelligence (OSINT) Market (2026 – 2035)Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — The Open-Source Intelligence (OSINT) 」（https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global）
   - 「Open Source Intelligence (OSINT) Market (2026 – 2035)Open Source Intelligence Market Trends Anaysis Report 2026-2030Top 15 OSINT Tools for Business Intelligence - salesfuel.comOpen-Source Intelligence (OSINT) for Researchers and ...Open-Source Intelligence (Osint) Market Size, Share | Growth ... — Open-Source Intelligence (OSINT) Type Insights Based on technique, the Open-Source Intelligence (OSIN」（https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545）
+  - 「公開情報という武器――OSINT入門｜red_structure — Mar 18, 2026 · OSINTとは何か——諜報活動との違い OSINT（Open Source Intelligence） とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ。「オープンソース」という言葉は、ソフトウェアのオープンソースではなく 「公開されている情報源」 を意味する。 もともとは軍 ...」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「OSINT（公開情報調査）入門｜個人でも使える基本ツール5選 — Jul 28, 2026 · OSINT（公開情報調査）入門｜個人でも使える基本ツール5選 OSINT（Open Source Intelligence／公開情報調査）は、公開されている情報源を体系的に収集・分析し、判断材料として整理する手法の総称だ。」（https://shiraberu-note.com/osint-basic-tools-guide/）
+  - 「公開情報という武器――OSINT入門｜red_structure — Mar 18, 2026 · OSINTとは何か——諜報活動との違い OSINT（Open Source Intelligence）とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ。「オープンソース」という言葉は、ソフトウェアのオープンソースではなく「公開されている情報源」を意味する。 もともとは軍や ...」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「OSINT（オシント）とは？手法や活用方法、おすすめツールを解説 — Jul 29, 2024 · 近年注目を集めるOSINT（オープンソースインテリジェンス）。誰でも使える公開情報から、企業分析、セキュリティ対策、調査報道まで、幅広い目的に役立つ情報収集手法です。この記事では、OSINTの手法と活用方法を徹底解説。初心者でも始められるおすすめツールも紹介します。」（https://product.sct.co.jp/blog/security/what-is-osint）
+  - 「【初心者向け完全ガイド】OSINTとは何か？公開情報から真実を読み解く... — Mar 9, 2026 · OSINT（Open Source Intelligence）とは何かを初心者向けに解説。公開情報を使った情報収集の基本、検索テクニック、SNS・地理情報・企業調査への活用方法、注意点までわかりやすく紹介する完全ガイド。」（https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/）
+  - 「OSINTとは公開情報を利用して情報収集・分析を行う手法 — Jan 17, 2025 · OSINT（オープンソース・インテリジェンス）は、インターネット上の公開情報を利用して情報収集・分析を行う手法です。サイバーセキュリティから企業調査まで幅広い分野で活用されています。 本記事では、OS […]」（https://cybersecurity-info.com/column/30403/）
 
 ## コンサル・アナリストのリサーチの型（consultant research methodology）
 - 文脈：型
@@ -3285,6 +3291,8 @@
   - 「ション成長経路）へと適切なタイミングで移行することができず、 「停滞の罠」」（https://www.boj.or.jp/research/wps_rev/wps_2017/data/wp17j07.pdf）
   - 「2 Melitz and Polanec (2015) argue that BHC-FHK decomposition has a potential bias such that entry/」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf）
   - 「estimates, because it is shown that there is no bias in original LM estimates (except for the level of」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf）
+  - 「ただし、 残された誤りは筆者らに帰する」（https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf）
+  - 「ョン比率を高めることにはつながらない点には注意が必要である」（https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf）
 - 実例：
   - 「Kydland–Prescottは、その時点ごとに最適な裁量的政策を選ぶと、事前に規則を約束する場合より悪い結果になりうるという時間非整合性の問題を示し、この議論は中央銀行に政府から独立した権限を与える制度の理論的な根拠の一つになった[12]」（https://note.com/reading_monkey/n/n6ea2542812c6）
   - 「米国の景気後退でも、期間と深さは事例ごとに大きく異なる」（https://note.com/reading_monkey/n/n6ea2542812c6）
@@ -3504,11 +3512,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ29頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
@@ -3821,3 +3829,66 @@
   - 「5 See US Department of Justice’s “AI Use Case Inventory;” https:/ /www.justice.gov/open/page/file/1517316/」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
   - 「9 In addition to these examples, DHS initiated an AI safety board, particularly as it pertains to the use of AI to secure」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
   - 「41 As an example, Harvard University offers an FAQ page related to AI guidance and use in academia. Three sample」（https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf）
+
+## データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し）（data journalism data cleaning checklist data diary filter check sanity checks）
+- 文脈：点検
+- 手順・やり方：
+  - 「), before you begin cleaning your raw data. Writing this plan early on allows you to get feedback on your planned alterations, and also provides structure to your cleaning process, preventing you from meandering and potentially forgetting important steps. This plan does not need to be overly detailed, but it should include actionable steps to walk through when cleaning your data.」（https://datamgmtinedresearch.com/clean）
+  - 「In many ways, writing this data cleaning plan will be a very personalized process. The steps needed to wrangle your raw data into a quality dataset will vary depending on what is happening in your specific raw data file. However, to produce datasets that consistently meet the data quality standards discussed in Section」（https://datamgmtinedresearch.com/clean）
+  - 「, it can be helpful to follow a standardized checklist of data cleaning steps (see Figure」（https://datamgmtinedresearch.com/clean）
+  - 「). These steps, although very general here, once elaborated on in your data cleaning plan, for your specific data source, can help you produce a dataset that meets our data quality standards. Following this checklist helps to ensure that data is cleaned in a consistent and standardized manner within and across projects.」（https://datamgmtinedresearch.com/clean）
+  - 「As you write your data cleaning plan, you can add the checklist steps that are relevant to your data and remove the steps that are not relevant. The order of the steps is fluid and can be moved around as needed. There are two exceptions to this. First, accessing your raw data will always be number one of course, and the most important rule here is to never work directly in the raw data file」（https://datamgmtinedresearch.com/clean）
+  - 「Let’s review what each step specifically involves so that as you write your data cleaning plan, you are able to determine which steps are relevant to cleaning your specific data source.」（https://datamgmtinedresearch.com/clean）
+  - 「Otherwise, search for missing forms, add them to your raw data, and start again at step number 1 of your data cleaning process.」（https://datamgmtinedresearch.com/clean）
+  - 「Fix the error in the appropriate location and then start again at step number 1.」（https://datamgmtinedresearch.com/clean）
+  - 「, this kind of standardization needs to happen before you can perform steps such as joining on names for de-identification purposes. Keys need to be standardized across files before linking can occur.」（https://datamgmtinedresearch.com/clean）
+  - 「may exist in your participant tracking database). If so, these variables won’t need to be created or calculated, they can simply be merged into your clean dataset using a technique similar to the one described in data de-identification step. You can export a file from your participant tracking database that contains a unique identifier (e.g.,」（https://datamgmtinedresearch.com/clean）
+  - 「If an error occurred in your cleaning process (e.g., a variable was recoded incorrectly, a transformation was missed in the cleaning process), fix the error in your process and begin cleaning again at step 1.」（https://datamgmtinedresearch.com/clean）
+  - 「If the error occurred in your data entry or data export process (e.g., a variable value was incorrectly entered by a team member, a file was exported using the incorrect export options), fix the error at the source and export a new file. Begin your cleaning process again at step 1.」（https://datamgmtinedresearch.com/clean）
+  - 「If the error is found in an externally captured source (e.g., student education records), consider reaching out to that provider to determine if there was an error in their process that can potentially be corrected on their end. If a new file is extracted, begin the cleaning process again at step 1.」（https://datamgmtinedresearch.com/clean）
+  - 「If you find true values that are inaccurate, uninterpretable, or outside of a valid range (i.e., they represent what the participant actually reported), you will need to make a personal decision on how to deal with those. No matter what choices your team makes in this process,」（https://datamgmtinedresearch.com/clean）
+  - 「The final step of your cleaning process will be to export or save your clean data. You can save your files in one or more file types depending on your needs. It can be helpful to save your data in more than one format to meet various analysis, long-term storage, or data sharing needs (e.g., an interoperable format like CSV, and a format that contains embedded metadata such as SPSS).」（https://datamgmtinedresearch.com/clean）
+- 失敗・落とし穴：
+  - 「I want to emphasize the importance of using a join in your program of choice, as opposed to replacing names with IDs by hand entering identifiers. If at all possible, you want to completely avoid hand entry of study IDs because it is error-prone and can lead to many mistakes.」（https://datamgmtinedresearch.com/clean）
+  - 「, before exporting data you will want to run through your final list of sanity checks, based on our data quality criteria, to make sure no mistakes are missed.」（https://datamgmtinedresearch.com/clean）
+- 実例：
+  - 「). Once a wave of data has been collected and captured and the raw data has been stored, your data cleaning process should begin. In a best-case scenario, the data cleaning is wrapped up before your next wave of data collection. Cleaning data each wave, as opposed to waiting until the end of your project, has two large benefits.」（https://datamgmtinedresearch.com/clean）
+  - 「For example, if a student is in 2nd grade, their teacher ID should be associated with a 2nd grade teacher. Or, a date of birth collected from a student survey should match date of birth collected from a school district.」（https://datamgmtinedresearch.com/clean）
+  - 「Does the number of cases in your data match the number of tracked forms in your participant tracking database? Are there any duplicates? Is anyone missing?」（https://datamgmtinedresearch.com/clean）
+  - 「If cases are marked as complete in your tracking database but their data is missing, investigate the error. Was a form incorrectly tracked in your tracking database? Was a form not entered during the data capture phase?」（https://datamgmtinedresearch.com/clean）
+  - 「Remove duplicate cases.」（https://datamgmtinedresearch.com/clean）
+  - 「In the special case where you purposefully collect duplicate observations on a participant (i.e., for reliability purposes), you will only want to keep one row per participant in your final study dataset. Again, a decision rule will need to be added to documentation so duplicates are dealt with consistently (e.g., always keep the primary observer’s record).」（https://datamgmtinedresearch.com/clean）
+  - 「. In order to create a coded data file, we horizontally join our “raw data” file with our “roster file” using our unique identifiers (which in this case are」（https://datamgmtinedresearch.com/clean）
+  - 「Here you can think of examples such as the metadata collected by a survey platform (e.g., survey duration). These columns may be irrelevant to your study and cause clutter in your final dataset.」（https://datamgmtinedresearch.com/clean）
+  - 「As an example, it may be that you need to remove unexpected characters such as」（https://datamgmtinedresearch.com/clean）
+  - 「In the case of Figure」（https://datamgmtinedresearch.com/clean）
+  - 「This is not the time to construct analysis-specific variables. This is the time to create or calculate variables that should always be a part of the core study dataset. These variables should be chosen by your data management working group early on and added to your data dictionary. Examples of variables you might add:」（https://datamgmtinedresearch.com/clean）
+  - 「This can be especially helpful if you plan to export your variables with numeric values (1 | 0), rather than text values (“yes” | “no”). In this case, rather than having to flip back and forth between a file and a data dictionary to interpret codes, users can review information about the variables within the file itself.」（https://datamgmtinedresearch.com/clean）
+  - 「Check again for missing cases/duplicate cases.」（https://datamgmtinedresearch.com/clean）
+  - 「in the appropriate places for future users (e.g., data dictionary, data cleaning plan, research protocol). Some examples of how you might deal with true errors include:」（https://datamgmtinedresearch.com/clean）
+  - 「If there are true errors where the correct answer can be easily inferred (e.g., a 3-item rank order question is completed as 1, 2, 4), sometimes logical or deductive editing can be used in those cases and the value is replaced with the logical correction」（https://datamgmtinedresearch.com/clean）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+
+## 情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け（ICD 206 sourcing requirements source descriptors source summary statement confidence likelihood）
+- 文脈：書き方
+- 手順・やり方：
+  - 「The 2024 update exists because analysts now routinely cite AI-generated outputs, rely on commercial platforms that sit between them and the original data, and work with sources that can disappear overnight. ICS 206-01 tells them how to document all of that so the reader can evaluate it, and these principles should apply wherever intelligence work happens.」（https://pangearesearch.io/research/sourcing-for-osint-icd-206-01/）
+  - 「methodologies: Analytic products should identify underlying sources and methodologies upon」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「promote awareness of the role, responsibilities, and practices, and how to engage ombuds;」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「options or to show broader context or background. AR Cs are an appropriate method for」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「CIO, the IC shall adopt a method to provide customized, Public Key Infrastructure-enabled」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「the protection of sensitive data, sources, methods, and activities. Tearlines should adhere to the」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「sources and methods, when disclosure would harm national security. The degree to which」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+- 突き合わせ・推定：
+  - 「(e.g., "according to ... ") or a specific aspect of analysis (i.e., judgment, assessment, estimate,」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「Estimates), applicable source information shall be retained for the period of the time horizon or」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「estimate, compilation, database, graphic, or interactive publication, created by the analytic」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+- 失敗・落とし穴：
+  - 「objectivity, bias, politicization, or other issues in Standards application in analytic producti;.」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「practical mechanisms that reveal and mitigate bias. Analysts should be alert to influence by」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「well as source access, validation, motivation, possible bias, or expertise. Source summary」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「politicization, biased reporting, or lack of objectivity in intelligence analysis.」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+  - 「of collection as well as source access, validation, motivation, possible bias, or expertise. When a」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
