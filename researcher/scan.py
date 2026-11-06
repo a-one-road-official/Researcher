@@ -173,6 +173,8 @@ def rows_for(topic):
         except Exception: continue
         yield from rows_from_doc(topic, d)
 
+DIPOINT = re.compile(r"\s*(%|％)?\s*(ポイント|pt\b|ﾎﾟｲﾝﾄ)")
+DIWORD = re.compile(r"(DI|判断指数|ディフュージョン|不足超|過剰超)")
 def rows_from_doc(topic, d):
     if True:
         name = d.get("name", "")
@@ -199,6 +201,10 @@ def rows_from_doc(topic, d):
                     if re.search(r"((?<!代)表|図|第)\s*$", q[max(0, m.start() - 3):m.start()]): drop(topic, "表・図の番号（4-40）"); continue
                     # 2026-11-05：「1人あたり」「1事業所当たり」の1を人数・事業所数として拾い、幅が「1〜3,952事業所」になった失敗から。割り算の分母の1は数えない
                     if PERDENOM.match(q, m.start()): drop(topic, "1あたりの分母の1（4-5）"); continue
+                    # 2026-11-06 走査の失敗から（4-48）：mfg_capacity の「人手不足で受注を断った企業の割合」に、日銀短観の雇用人員判断DI
+                    # （「不足」と答えた割合−「過剰」の割合、%ポイント）が企業の割合・社員数として13件入った。差の指数（DI・%ポイント・ポイント）は割合にしない
+                    if DIPOINT.match(q, m.end()) or (DIWORD.search(q[max(0, m.start() - 30):m.start()]) and "ポイント" in q[m.end():m.end() + 6]):
+                        drop(topic, "DI・%ポイントの差の指数（4-48）"); continue
                     v, u = norm(*m.groups())
                     pre = q[max(0, m.start() - 2):m.start()]
                     neg = bool(NEGMARK.search(pre)) or (u == "万円" and pre.endswith("(") and q[m.end():m.end() + 1] == ")" and bool(FINTABLE.search(q)))  # 4-35：括弧は決算の表の文脈だけ
@@ -245,6 +251,7 @@ GOLD = [
     ("金額の階級の境目・以下（4-40）", "500万円以下", "https://www.e-stat.go.jp/dbview?sid=1", []),
     ("表の番号（4-40）", "表 33 事業所数、従業者数", "https://www.pref.kanagawa.jp/a", []),
     ("階級でない金額は残す（4-40）", "売上高は5,000万円だった", "https://example.go.jp/a", [(5000, "万円")]),
+    ("DIの%ポイントは割合にしない（4-48）", "雇用人員判断DIはマイナス35%ポイントと不足超", "https://www5.cao.go.jp/a", []),
 ]
 # 2026-11-06 4-47：正解例との照合を「通った件数」だけでなく、拾った値ごとに TP（拾うべきを拾った）・FP（拾ってはいけない混入）・
 # FN（拾うべきを落とした）に分け、精度＝TP/(TP+FP)・再現率＝TP/(TP+FN)・F1 を出す（AWS Entity Resolution の精度の測り方）。
@@ -780,6 +787,15 @@ def scan(topic):
                 if len(preg) >= 2: md.append(f"  - ⚠ 採る値に地域が混ざる（{'・'.join(sorted(preg)[:5])}）：この中央値は使わず、地域ごとに読む（4-30）")
                 # 4-21：最新の年が3年以上前なら古い（Inven：公表データは古いことがある）。今の判断に使う前に新しい版を探す
                 if py and NOW_YEAR - py >= 3: md.append(f"  - ⚠ 古い：採った値の最新の年が{py}年（{NOW_YEAR - py}年前）。新しい版・新しい年を探す")
+                # 2026-11-06 4-48：鮮度は「今から何年」でなく「手に入る最新の版より古くないか」で見る（tickerplace の株式調査の手順：入力は直近の開示より古くしない）。
+                # 一次優先で古い年を採ったとき、同じ品目に新しい年の値（予測を除く）があれば、その年の一次の版を探す印を出す
+                ally = [int(r["年"]) for r in g if r.get("年") and not r.get("予測")]
+                if py and ally and max(ally) > py:
+                    md.append(f"  - ⚠ より新しい年がある：採った値は{py}年、同じ品目に{max(ally)}年の値（一次とは限らない）。{max(ally)}年の一次の版を探して差し替える（4-48）")
+                # 2026-11-06 4-48：採る値が全体の中ほど半分の幅の外なら、代表値の選び方で結論が変わりうる（結論は基準の1点でなく幅で成り立つかを見る）
+                if len(vals) >= 4:
+                    q1, _, q3 = statistics.quantiles(vals, n=4)
+                    if pv < q1 or pv > q3: md.append(f"  - ⚠ 採る値が中ほど半分の幅（{q1:g}〜{q3:g}）の外：代表値の選び方で結論が変わりうる。幅の両端で同じ結論になるかを確かめてから書く（4-48）")
             if gr in ("【食い違い】", "【未確認】") and len(vals) >= 2:
                 md.append(f"  - 【推定】保守側の値（低い側に寄せる・低確度）：{conservative(vals):g}{u}")
             # 2026-11-05 4-15：外れ値に引っ張られた幅か、全体が散っているかを見るため四分位も出す（感度の確認）
