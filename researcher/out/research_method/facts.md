@@ -1037,6 +1037,7 @@
   - 「官報決算データベースとは？決算公告を無料で調べる方法7選【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「数字ひとつで決めず、組み合わせて“桁”で捉えるのがコツです」（https://shokubalog.com/articles/kaisha-kibo-shirabe-kata）
   - 「官報・電子公告の費用比較と年間4,000円で始める最安の方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「決算公告は英語で何という?公式訳と関連用語の使い方を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「利益を生み出す構造（損益分岐点）から逆算するのがコツです」（https://note.com/pythonddd/n/nd056ead22003）
   - 「この記事を読めば、決算公告に売上高が載らない法的な理由、売上高なしでも決算公告から企業の実力を読み取るコツ、そして非上場企業の売上高を調べる5つの代替手段まで、一通り理解できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「まず会社法の仕組みから確認し、次に「会社の規模×公告方法」別の早見表で売上高がわかるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -1045,7 +1046,6 @@
   - 「「どんな会社の、どの決算公告なら売上高がわかるのか」を一覧できるよう、会社の規模と公告方法の組み合わせごとに整理しました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「第二に、公告方法が電子公告の場合は要旨ではなく全文の掲載が必要ですが、それでも公告対象が貸借対照表だけであることに変わりはありません」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告のコストは公告方法によって大きく異なります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「電子公告と決算公告の違いとは？関係性・3つの公告方法の費用を徹底比較」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
 - 突き合わせ・推定：
   - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「推定決算書の作り方(財務版フェルミ推定)｜KAZUMONO｜数字のものさし」（https://note.com/pythonddd/n/nd056ead22003）
@@ -1393,15 +1393,15 @@
   - 「特に注意が必要なのは、」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
   - 「デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
   - 「アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a）
+  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a）
+  - 「ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a）
+  - 「特に注意が必要なのは、」（https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a）
+  - 「デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a）
+  - 「アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています」（https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a）
   - 「新卒時代によくやっていたデスクトップリサーチの失敗と、現在の対処法｜仙田 真郷」（https://note.com/sendamasato/n/n2aa275f51bad）
   - 「新卒時代によくやっていたデスクトップリサーチの失敗と、現在の対処法」（https://note.com/sendamasato/n/n2aa275f51bad）
   - 「デスクリサーチをすることが度々あり、たくさん失敗をしてきました」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「2年間の失敗や学びを踏まえて、今デスクリサーチをするときに気をつけていることを書こうと思います」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「1年目によくやっていた失敗と、だから今こうして対策してる！という話をセットで書いてみました」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「特に注意しているのが事実と解釈を分けること」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「ここは定点観測形式で調査をやり慣れている組織でも起きるので注意が必要です」（https://note.com/diisuket/n/nd52911277358）
-  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
 - 実例：
   - 「あるいは、検索結果を一つずつ確認しているうちに、情報収集だけで何日もかかってしまうことはありませんか」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
   - 「まずは導入事例の資料ででデスクリサーチをどう効率化し、調査結果をどのように整理したか確認してみてください」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
@@ -4894,6 +4894,9 @@
 ## 大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API）（e-Stat user guide university library statistics code database API）
 - 文脈：統計
 - 手順・やり方：
+  - 「e-Statの使い方｜初めて統計表を探す5つの確認 – くらし制度ナビ」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「この五つは統計値の意味を自動的に決める手順ではありません」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「数値の定義や調査方法が分からない場合は、e-Statの調査概要だけで判断せず、所管府省の用語解説や調査方法の説明、最新の公表資料も確認してください」（https://blog.kurashiq.com/estat-first-search-guide/）
   - 「総務省eStatで公開されている政府統計データを取得する方法は、下記の通りです」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「この記事では、主に2つ目の方法（」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「2.1 データ取得手順」（https://qiita.com/faux/items/efc4c8981510b78dd560）
@@ -4905,22 +4908,27 @@
   - 「(!! This method uses multi threading when calling HTTP GET requests」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「max number of working threads of CPUs within executing this method.」（https://qiita.com/faux/items/efc4c8981510b78dd560）
 - 一次情報の探し方：
-  - 「Pythonでe-Stat APIを使う #WebScraping - Qiita」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-  - 「総務省eStatで公開されている政府統計データを取得する方法は、下記の通りです」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-  - 「0. 政府統計とは」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-  - 「とは、日本の行政機関（中央省庁＋地方自治体）が実施している統計調査の総称である」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-  - 「それぞれの統計調査は実施主体（〇〇省，〇〇庁，〇〇県など）ごとに管理していたようだが、最近では、ほぼすべての政府統計が」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-  - 「は、総務省統計局が主管する政府統計データベースを一般向けに公開しているサービスである」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-  - 「件の政府統計（テーブル）が登録されており、調査時期（年・月単位）や集計地域（国・都道府県・市区町村）ごとに分割された」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-  - 「では、672件ある政府統計を「統計分野」「組織」「統計の種類」「提供周期」で分けている」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-  - 「またデータを取得する場合、それぞれの政府統計に対して、さらに調査時期（年・月単位）や集計地域（国・都道府県・市区町村）によって絞る）」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-  - 「例えば、672件ある政府統計は「統計分野 (17)」と「組織 (14)」でまとめると次表のように整理される」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-  - 「の検索機能を使い、どのような政府統計があるかを把握すると良い」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-  - 「eStatで公開されているデータは、政府統計コードや統計表IDで識別される」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-  - 「「政府統計コード」： 政府統計に割り当てられたユニークID．」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-  - 「「統計表ID」： 政府統計に含まれる統計表に割り当てられたユニークID．」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-  - 「たとえば、国勢調査の政府統計コードは」（https://qiita.com/faux/items/efc4c8981510b78dd560）
+  - 「e-Statの使い方｜初めて統計表を探す5つの確認 – くらし制度ナビ」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「e-Stat（政府統計の総合窓口）は、各府省が登録した公式統計を一か所で探せるポータルです」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「初めて使うときは、検索結果の名前だけで決めず、統計名、対象期間、単位、注記まで順に確認すると、目的の表を見つけやすくなります」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「の統計データを1か所に集めて検索できる政府統計のポータルサイトで、」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「「分野」「組織」「キーワード」などから探し、統計表はファイル（Excel・CSVなど）でダウンロードしたり、データベース形式で表示したりできます」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「最終確認日：2026年10月3日／出典：総務省統計局「」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「Let's Stat!!! 〜e-Stat活用ナビ〜」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「」、e-Stat「」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「家計調査や国勢調査などの統計をつくる総務省統計局の庁舎（東京都新宿区）」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「e-Statは、各府省が登録した統計表ファイルや統計データ、公表予定、統計分類などをまとめて探せる政府統計のポータルです」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「キーワードだけでなく、分野や組織からも統計を探せます」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「統計表には、Excel、CSV、PDFなどのファイル形式と、項目を選んで表を組み替えられるデータベース形式があります」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「すべての統計が同じ形式で提供されているわけではありません」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「最初は日常語で検索し、結果に表示される統計名と所管府省を確認してから絞り込みます」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「たとえば総務省統計局の家計調査2026年7月分（9月4日公表）では、二人以上の世帯の消費支出は1世帯当たり301,245円で、前年同月比は実質3.6％の減少でした」（https://blog.kurashiq.com/estat-first-search-guide/）
+- 失敗・落とし穴：
+  - 「：検索入口、表示単位、ファイルとデータベース、公開更新日の注意」（https://blog.kurashiq.com/estat-first-search-guide/）
 - 実例：
+  - 「初めて使うときは、検索結果の名前だけで決めず、統計名、対象期間、単位、注記まで順に確認すると、目的の表を見つけやすくなります」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「最初は日常語で検索し、結果に表示される統計名と所管府省を確認してから絞り込みます」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「e-Statの検索結果は、同じキーワードでも表示する単位を切り替えられます」（https://blog.kurashiq.com/estat-first-search-guide/）
   - 「具体的には、PythonでWeb APIを扱う他のケースと同じように、」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「例えば、672件ある政府統計は「統計分野 (17)」と「組織 (14)」でまとめると次表のように整理される」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「例として、「家計調査 / 家計収支編 二人以上の世帯 詳細結果表」にアクセスする際の」（https://qiita.com/faux/items/efc4c8981510b78dd560）
@@ -4928,8 +4936,7 @@
   - 「./example1.json」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「ケース2: 総務省 「社会・人口統計体系」のダウンロード」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「参照したい政府統計に対して、一連の処理をすべてPythonスクリプトとして作成して、1つのパイプラインジョブにまとめれば、あとはスケジューラ(Airflow)を使って実行タイミングや実行結果のモニタリングを適切に設定すれば、APIからDWHへとデータを連携するためのバッチ処理が完成します．」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
 
 ## データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務（data journalism counterfactual comparison confounding chance small counts margin of error guide）
 - 文脈：突き合わせ
@@ -5654,8 +5661,8 @@
   - 「). Another memo from 2003 titled “If Saddam Should Accept Exile…”. Both are examples of “What If? Analysis” being applied in a major international operation, and proved effective in challenging historical interpretations of Saddam’s likely Course of Action (CoA) (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「8.2 Case 2: Grey Dynamics’ Key Assumptions Check」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「You can explore more case studies applying SATs」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-- 突き合わせ・推定：記載なし（読んだ34頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ34頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
 
 ## データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）（data journalism data dictionary verification workflow）
 - 文脈：突き合わせ
@@ -6780,11 +6787,11 @@
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ25頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
-- 実例：記載なし（読んだ25頁・検索12回）
+- 手順・やり方：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 実例：記載なし（読んだ26頁・検索12回）
 
 ## 分析の前提の点検（Key Assumptions Check）と変化の兆し（Indicators・Signposts）を企業・市場調査で使う手順（key assumptions check indicators signposts of change structured analytic techniques business research）
 - 文脈：手順・やり方
@@ -6810,6 +6817,7 @@
   - 「certainty into a probability estimate, people」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「goal-maximizing policy is overestimated.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「His assumptions have to be mostly true for his decision not to be a life-ending one. They seem the main source of potential failure should he keep the money. But we’ve already uncovered several sources of uncertainty. Moss may overestimate himself. And we’re only halfway through our analysis.」（https://themindcollection.com/structured-analytic-techniques/）
 - 一次情報の探し方：
   - 「support to field partners, namely on profiling, and strategic advice on data; consolidates its」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
@@ -7258,11 +7266,11 @@
 
 ## 統計表を落としたあとの照合（全国の合計を結果の概要と突き合わせる・除いた行の定義・表を移したときの件数とキーと値の照合）（reconcile downloaded statistical tables with official summary totals data validation）
 - 文脈：統計
-- 手順・やり方：記載なし（読んだ22頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
-- 実例：記載なし（読んだ22頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## 決算公告に損益計算書が載る会社の見分け方（株式会社か・EDINET提出か・大会社か・公告方法・当期純損益の付記）と非上場の売上の代わりの探し先（which companies publish income statement in kessan koukoku large company EDINET alternative sources）
 - 文脈：企業
