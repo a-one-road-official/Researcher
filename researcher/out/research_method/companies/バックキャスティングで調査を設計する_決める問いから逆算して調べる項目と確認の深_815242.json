@@ -8,8 +8,344 @@
  ],
  "context": "設計",
  "kind": "market",
- "researched_at": "2026-11-06T09:28:01.769680+00:00",
+ "researched_at": "2026-11-06T14:15:10.371570+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "バックキャストとは、未来から逆算して目標や計画を立てる戦略的思考のことです",
+    "url": "https://sherpaworks.jp/sherpa/backcast/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "前述した通りバックキャストとは、未来から逆算して目標や計画を立てる戦略的思考のことを指します",
+    "url": "https://sherpaworks.jp/sherpa/backcast/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして、そこから逆算して10年後、5年後にはどの程度のレベルに達しているかを考え、今すべきことを見つけるという考え方です",
+    "url": "https://sherpaworks.jp/sherpa/backcast/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "SDGsは、未来から逆算するバックキャストの思考ですから、事業戦略の中にも未来を中心とした時間軸が取り入れられています",
+    "url": "https://sherpaworks.jp/sherpa/backcast/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このように、バックキャストは将来から逆算して計画を立てるのに対して、フォーキャストは過去や現在の課題から将来へと向かって計画を立てていくという違いがあります",
+    "url": "https://sherpaworks.jp/sherpa/backcast/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説検証の考え方や手順について！ポイント・注意点まで詳しく解説",
+    "url": "https://sherpaworks.jp/sherpa/backcast/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2-3. 解決策仮説の発散 → 有効性評価",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "参謀が「これを検証するんだ」と方向性を示す必要がある",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "顧客インタビューやA/Bテストを設計し、仮説検証のサイクルを手伝う",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説を優先度順に並べ、進捗を可視化する",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "不確実性の中でも素早く仮説を立て、深く掘り下げ、行動につなげる力",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3-1. 仮説構築力：地図のない道を切り開く",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "でも、だからこそ仮説が必要だ",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "小さな検証を繰り返して、正解にたどり着くのが参謀の仕事だ",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "参謀は「今ある情報だけで、どう進むべきか」を仮説として提示する必要がある",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「顧客が価格を理由に購入を控えている」と仮説を立てたら、即座にアンケートやA/Bテストで確認",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "複数の仮説を持つ：「これがダメなら、次はこれ」というセーフティーネットを用意",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説が根拠薄すぎて、起業家やチームを混乱させるのは避ける",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3-2. フェルミ推定：速さとロジックの両立",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フェルミ推定は、情報がないときに「ざっくり」でも数値を出す技術だ",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "フェルミ推定で「大体の見当」をつける力が求められる",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "さらには、多少の失敗やミスがあったとしても、長期的に見れば取り返すことができるとか、逆にその失敗が将来の成長につながるという見方ができます",
+    "url": "https://sherpaworks.jp/sherpa/backcast/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "それぞれのステップの中で分析の予定を組んでおき、間違いなく定期的に振り返りができるようにしておきます",
+    "url": "https://sherpaworks.jp/sherpa/backcast/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仮説検証の考え方や手順について！ポイント・注意点まで詳しく解説",
+    "url": "https://sherpaworks.jp/sherpa/backcast/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "でもね、ただ遠くを見るだけじゃダメ",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「ムラ」や「バイアス」を排除し、起業家が自分を見失わないよう支えるのがこの視点",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1-3. 量だけじゃダメ！「行動の質」が成長のカギ",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. 起業家はバイアスまみれ？参謀がいなきゃヤバい理由",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2-1. 起業家がハマりやすい6つの罠",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：うまくいった部分だけを見て、失敗を無視",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "でも、このバイアスを放置すると、",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2-2. バイアスをぶっ壊す！それが参謀の役目",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでちょっと注意！「MBA持ってる人」とか「中小企業診断士」とか、すごそうな人はたくさんいるけど、参謀とは違うんです",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "でも、それだけじゃダメ",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「勘だけで動く参謀」も、「知識だけ詰め込んだ参謀」もダメ",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "起業家が「ああ、もうダメだ」と言ったとき、「まだ手はある」と粘れる参謀がいるかで運命が変わる",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "起業家が失敗しても、「一緒に次の一手を考えよう」で持ち直す",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "複数の仮説を持つ：「これがダメなら、次はこれ」というセーフティーネットを用意",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アナロジーを乱用すると、「表面的には似ているけど、実態が違う」事例を引っ張り込んで失敗するリスクがある",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "結果として、社員の士気を向上させ、離職率を下げることにつながります",
+    "url": "https://sherpaworks.jp/sherpa/backcast/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「絶対に成功させる！」って叫びながら、地図も見ずに車を走らせたらどうなります？迷子確定ですよね",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：ビジネス事例や教養が引き出しに入ってないと話にならない",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：イメージしやすい事例で「なるほど！」って納得させるのがうまい参謀",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "結果、信頼崩壊",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データや事例が揃うのを待っていたら、スタートアップは動けない",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「顧客が価格を理由に購入を控えている」と仮説を立てたら、即座にアンケートやA/Bテストで確認",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "問題の背後にある構造を見抜き、他の事例に応用できる形に落とし込む必要がある",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、ある商品の売上低迷の原因が「顧客理解不足」だった場合：",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、スタートアップのカスタマーサポート改善を考える際： 「航空会社のファーストクラスの顧客対応を模倣してみたらどうか？」 既存のプロダクトに新しい価値を付加できる",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アナロジーを乱用すると、「表面的には似ているけど、実態が違う」事例を引っ張り込んで失敗するリスクがある",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：例えば、顧客の購入体験を図にして「どこにボトルネックがあるか」を可視化する",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：実現したときのインパクトを視覚的に見せる（売上グラフや成功事例）",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "数値と物語のハイブリッド：成功事例や市場規模のデータで確実性を見せつつ、感情に響くストーリーで「やりたい！」と思わせる",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば「売上が伸びない」と言われたら、「それは顧客獲得が課題？リピート率？価格設定？」と具体的に掘り下げる",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新しいツールやサービスを試し、自分で結果を出してみる",
+    "url": "https://note.com/zum_ism/n/nc502867386a8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "バックキャストとは？未来像や目標に近づく5つの効果的な方法を徹底解説！ | シェルパ - 営業を元気にするメディア",
@@ -283,342 +619,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "実例": [
-   {
-    "quote": "結果として、社員の士気を向上させ、離職率を下げることにつながります",
-    "url": "https://sherpaworks.jp/sherpa/backcast/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、「絶対に成功させる！」って叫びながら、地図も見ずに車を走らせたらどうなります？迷子確定ですよね",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：ビジネス事例や教養が引き出しに入ってないと話にならない",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：イメージしやすい事例で「なるほど！」って納得させるのがうまい参謀",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "結果、信頼崩壊",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データや事例が揃うのを待っていたら、スタートアップは動けない",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、「顧客が価格を理由に購入を控えている」と仮説を立てたら、即座にアンケートやA/Bテストで確認",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "問題の背後にある構造を見抜き、他の事例に応用できる形に落とし込む必要がある",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、ある商品の売上低迷の原因が「顧客理解不足」だった場合：",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、スタートアップのカスタマーサポート改善を考える際： 「航空会社のファーストクラスの顧客対応を模倣してみたらどうか？」 既存のプロダクトに新しい価値を付加できる",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アナロジーを乱用すると、「表面的には似ているけど、実態が違う」事例を引っ張り込んで失敗するリスクがある",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：例えば、顧客の購入体験を図にして「どこにボトルネックがあるか」を可視化する",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：実現したときのインパクトを視覚的に見せる（売上グラフや成功事例）",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "数値と物語のハイブリッド：成功事例や市場規模のデータで確実性を見せつつ、感情に響くストーリーで「やりたい！」と思わせる",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば「売上が伸びない」と言われたら、「それは顧客獲得が課題？リピート率？価格設定？」と具体的に掘り下げる",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新しいツールやサービスを試し、自分で結果を出してみる",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "バックキャストとは、未来から逆算して目標や計画を立てる戦略的思考のことです",
-    "url": "https://sherpaworks.jp/sherpa/backcast/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "前述した通りバックキャストとは、未来から逆算して目標や計画を立てる戦略的思考のことを指します",
-    "url": "https://sherpaworks.jp/sherpa/backcast/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そして、そこから逆算して10年後、5年後にはどの程度のレベルに達しているかを考え、今すべきことを見つけるという考え方です",
-    "url": "https://sherpaworks.jp/sherpa/backcast/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "SDGsは、未来から逆算するバックキャストの思考ですから、事業戦略の中にも未来を中心とした時間軸が取り入れられています",
-    "url": "https://sherpaworks.jp/sherpa/backcast/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このように、バックキャストは将来から逆算して計画を立てるのに対して、フォーキャストは過去や現在の課題から将来へと向かって計画を立てていくという違いがあります",
-    "url": "https://sherpaworks.jp/sherpa/backcast/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説検証の考え方や手順について！ポイント・注意点まで詳しく解説",
-    "url": "https://sherpaworks.jp/sherpa/backcast/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2-3. 解決策仮説の発散 → 有効性評価",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "参謀が「これを検証するんだ」と方向性を示す必要がある",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "顧客インタビューやA/Bテストを設計し、仮説検証のサイクルを手伝う",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説を優先度順に並べ、進捗を可視化する",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "不確実性の中でも素早く仮説を立て、深く掘り下げ、行動につなげる力",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3-1. 仮説構築力：地図のない道を切り開く",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "でも、だからこそ仮説が必要だ",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "小さな検証を繰り返して、正解にたどり着くのが参謀の仕事だ",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "参謀は「今ある情報だけで、どう進むべきか」を仮説として提示する必要がある",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、「顧客が価格を理由に購入を控えている」と仮説を立てたら、即座にアンケートやA/Bテストで確認",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "複数の仮説を持つ：「これがダメなら、次はこれ」というセーフティーネットを用意",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説が根拠薄すぎて、起業家やチームを混乱させるのは避ける",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3-2. フェルミ推定：速さとロジックの両立",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "フェルミ推定は、情報がないときに「ざっくり」でも数値を出す技術だ",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "フェルミ推定で「大体の見当」をつける力が求められる",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "さらには、多少の失敗やミスがあったとしても、長期的に見れば取り返すことができるとか、逆にその失敗が将来の成長につながるという見方ができます",
-    "url": "https://sherpaworks.jp/sherpa/backcast/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "それぞれのステップの中で分析の予定を組んでおき、間違いなく定期的に振り返りができるようにしておきます",
-    "url": "https://sherpaworks.jp/sherpa/backcast/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仮説検証の考え方や手順について！ポイント・注意点まで詳しく解説",
-    "url": "https://sherpaworks.jp/sherpa/backcast/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "でもね、ただ遠くを見るだけじゃダメ",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「ムラ」や「バイアス」を排除し、起業家が自分を見失わないよう支えるのがこの視点",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1-3. 量だけじゃダメ！「行動の質」が成長のカギ",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2. 起業家はバイアスまみれ？参謀がいなきゃヤバい理由",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2-1. 起業家がハマりやすい6つの罠",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：うまくいった部分だけを見て、失敗を無視",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "でも、このバイアスを放置すると、",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2-2. バイアスをぶっ壊す！それが参謀の役目",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでちょっと注意！「MBA持ってる人」とか「中小企業診断士」とか、すごそうな人はたくさんいるけど、参謀とは違うんです",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "でも、それだけじゃダメ",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「勘だけで動く参謀」も、「知識だけ詰め込んだ参謀」もダメ",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "起業家が「ああ、もうダメだ」と言ったとき、「まだ手はある」と粘れる参謀がいるかで運命が変わる",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "起業家が失敗しても、「一緒に次の一手を考えよう」で持ち直す",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "複数の仮説を持つ：「これがダメなら、次はこれ」というセーフティーネットを用意",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アナロジーを乱用すると、「表面的には似ているけど、実態が違う」事例を引っ張り込んで失敗するリスクがある",
-    "url": "https://note.com/zum_ism/n/nc502867386a8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -630,12 +630,17 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/at_watanabe/n/n9ec464b8d15e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/syslab/n/n5df116a319bc",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/at_watanabe/n/n9ec464b8d15e",
+    "url": "https://note.com/ofunato_kasseika/n/n9b0267064055",
     "status": "ok",
     "method": "http"
    },
@@ -650,7 +655,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/ofunato_kasseika/n/n9b0267064055",
+    "url": "https://note.com/kanako_mizuno/n/nfbdc765a8eaa",
     "status": "ok",
     "method": "http"
    },
@@ -660,12 +665,7 @@
     "method": "http"
    },
    {
-    "url": "https://optage.co.jp/business/contents/article/backcasting.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kanako_mizuno/n/nfbdc765a8eaa",
+    "url": "https://note.com/take_sales/n/n55f32d98b946",
     "status": "ok",
     "method": "http"
    },
@@ -675,12 +675,12 @@
     "method": "http"
    },
    {
-    "url": "https://qiqumo.jp/contents/knowhow/7403",
+    "url": "https://www.murc.jp/library/terms/ha/backcasting/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.murc.jp/library/terms/ha/backcasting/",
+    "url": "https://optage.co.jp/business/contents/article/backcasting.html",
     "status": "ok",
     "method": "http"
    },
@@ -690,12 +690,12 @@
     "method": "http"
    },
    {
-    "url": "https://career-research.mynavi.jp/column/20260226_107932/",
+    "url": "https://www.recruit-ms.co.jp/glossary/dtl/0000000306/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.recruit-ms.co.jp/glossary/dtl/0000000306/",
+    "url": "https://career-research.mynavi.jp/column/20260226_107932/",
     "status": "ok",
     "method": "http"
    },
@@ -705,7 +705,7 @@
     "method": "http"
    },
    {
-    "url": "https://tomato-consulting.com/blog/backcasting/",
+    "url": "https://www.asahi.com/sdgs/article/14961761",
     "status": "ok",
     "method": "http"
    },
@@ -715,7 +715,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.asahi.com/sdgs/article/14961761",
+    "url": "https://www.peaks-media.com/5934/",
     "status": "ok",
     "method": "http"
    },
@@ -747,7 +747,7 @@
    {
     "url": "https://www.theanalystacademy.com/strategy-hypothesis-driven-approach/",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://www.myconsultingcoach.com/case-interview-hypothesis-driven-structure",
@@ -755,14 +755,14 @@
     "method": "http"
    },
    {
+    "url": "https://umbrex.com/resources/frameworks/strategy-frameworks/hypothesis-driven-problem-solving/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.linkedin.com/posts/tim-cahill-851700b3_heres-a-phrase-that-consultants-say-that-activity-7231419665439240192-T2gl",
     "status": "robots_disallowed",
     "method": ""
-   },
-   {
-    "url": "https://umbrex.com/resources/frameworks/strategy-frameworks/hypothesis-driven-problem-solving/",
-    "status": "ok",
-    "method": "browser"
    },
    {
     "url": "https://www.axiomstrategic.com/blog/mckinsey-starts-with-a-hypothesis-should-you",
@@ -781,28 +781,28 @@
    "query": "バックキャスティングで調査を設計する（決める問いから逆算して調べる項目と確認の深さを決める） site:note.com",
    "results": [
     "https://note.com/suwash/n/nc0675218d0fa",
-    "https://note.com/syslab/n/n5df116a319bc",
     "https://note.com/at_watanabe/n/n9ec464b8d15e",
+    "https://note.com/syslab/n/n5df116a319bc",
+    "https://note.com/ofunato_kasseika/n/n9b0267064055",
     "https://note.com/omonai_kiroku55/n/n59538daccbe8",
     "https://note.com/tomoya_okado/n/n87a0cafea991",
-    "https://note.com/ofunato_kasseika/n/n9b0267064055",
     "https://note.com/sion_remake0415/n/n94b870b301a1",
     "https://note.com/kaho_tajima/n/n3875030e5ee7",
-    "https://note.com/shotar/n/naa87a9a5d148",
-    "https://note.com/culumu/n/n2b1ed7be5155"
+    "https://note.com/culumu/n/n2b1ed7be5155",
+    "https://note.com/shotar/n/naa87a9a5d148"
    ]
   },
   {
    "query": "バックキャスティングで調査を設計する（決める問いから逆算して調べる項目と確認の深さを決める） note",
    "results": [
-    "https://note.com/suwash/n/nc0675218d0fa",
-    "https://www.issoh.co.jp/column/details/9241/",
-    "https://optage.co.jp/business/contents/article/backcasting.html",
     "https://note.com/kanako_mizuno/n/nfbdc765a8eaa",
-    "https://service.customedia.co.jp/marketing/backcast_thinking/",
-    "https://qiqumo.jp/contents/knowhow/7403",
-    "https://www.murc.jp/library/terms/ha/backcasting/",
+    "https://www.issoh.co.jp/column/details/9241/",
     "https://note.com/take_sales/n/n55f32d98b946",
+    "https://service.customedia.co.jp/marketing/backcast_thinking/",
+    "https://www.murc.jp/library/terms/ha/backcasting/",
+    "https://optage.co.jp/business/contents/article/backcasting.html",
+    "https://note.com/suwash/n/nc0675218d0fa",
+    "https://qiqumo.jp/contents/knowhow/7403",
     "https://ximix.niandc.co.jp/column/dx-backcasting-basic",
     "https://note.com/tad_shimizu/n/n5fe8a7471b68"
    ]
@@ -810,15 +810,16 @@
   {
    "query": "バックキャスティングで調査を設計する（決める問いから逆算して調べる項目と確認の深さを決める） やり方",
    "results": [
-    "https://optage.co.jp/business/contents/article/backcasting.html",
     "https://www.murc.jp/library/terms/ha/backcasting/",
+    "https://optage.co.jp/business/contents/article/backcasting.html",
     "https://www.issoh.co.jp/column/details/9241/",
     "https://www.rd.ntt/se/media/article/0022.html",
-    "https://career-research.mynavi.jp/column/20260226_107932/",
     "https://www.recruit-ms.co.jp/glossary/dtl/0000000306/",
+    "https://career-research.mynavi.jp/column/20260226_107932/",
     "https://www.jpc-net.jp/column/detail/post_11.html",
-    "https://tomato-consulting.com/blog/backcasting/",
-    "https://sherpaworks.jp/sherpa/backcast/"
+    "https://www.asahi.com/sdgs/article/14961761",
+    "https://sherpaworks.jp/sherpa/backcast/",
+    "https://media.spready.co.jp/backcasting/"
    ]
   },
   {
@@ -826,12 +827,12 @@
    "results": [
     "https://optage.co.jp/business/contents/article/backcasting.html",
     "https://www.murc.jp/library/terms/ha/backcasting/",
+    "https://www.issoh.co.jp/column/details/9241/",
     "https://www.rd.ntt/se/media/article/0022.html",
     "https://www.asahi.com/sdgs/article/14961761",
-    "https://www.issoh.co.jp/column/details/9241/",
-    "https://www.jpc-net.jp/column/detail/post_11.html",
     "https://career-research.mynavi.jp/column/20260226_107932/",
-    "https://www.recruit-ms.co.jp/glossary/dtl/0000000306/",
+    "https://www.jpc-net.jp/column/detail/post_11.html",
+    "https://www.peaks-media.com/5934/",
     "https://spaceshipearth.jp/back-casting/",
     "https://book.st-hakky.com/business/backcasting-sdgs-long-term-vision"
    ]
@@ -841,12 +842,12 @@
    "results": [
     "https://www.theanalystacademy.com/strategy-hypothesis-driven-approach/",
     "https://www.myconsultingcoach.com/case-interview-hypothesis-driven-structure",
-    "https://www.linkedin.com/posts/tim-cahill-851700b3_heres-a-phrase-that-consultants-say-that-activity-7231419665439240192-T2gl",
     "https://umbrex.com/resources/frameworks/strategy-frameworks/hypothesis-driven-problem-solving/",
+    "https://www.linkedin.com/posts/tim-cahill-851700b3_heres-a-phrase-that-consultants-say-that-activity-7231419665439240192-T2gl",
     "https://www.axiomstrategic.com/blog/mckinsey-starts-with-a-hypothesis-should-you",
     "https://highbridgeacademy.com/what-is-hypothesis-driven-thinking-and-why-it-matters-at-work/",
     "https://www.preplounge.com/en/case-interview-basics/the-role-of-the-hypothesis-in-consulting",
-    "https://blogs.missouristate.edu/cob/2017/01/23/bears-business-brief-using-hypothesis-driven-thinking-in-business-are-you-willing-to-be-proven-wrong/",
+    "https://www.researchgate.net/publication/228179693_Using_Hypothesis-Driven_Thinking_in_Strategy_Consulting",
     "https://www.linkedin.com/advice/0/how-can-you-use-hypothesis-driven-consulting-consulting-advice",
     "https://www.stratechi.com/hypotheses/"
    ]
@@ -858,8 +859,8 @@
     "https://note.com/sion_remake0415/n/n94b870b301a1",
     "https://note.com/tsunobuchi/n/nbf0353d872c8",
     "https://note.com/shuhaly0107/n/n566ee414ac17",
-    "https://note.com/ikedon0505/n/n5e1c63152c19",
     "https://note.com/tak1/n/n056941da882b",
+    "https://note.com/ikedon0505/n/n5e1c63152c19",
     "https://note.com/gov_/n/ne3793acc5dc0",
     "https://note.com/brave_fennel1450/n/nc46582296950",
     "https://note.com/phonet_dx/n/n7eff5f4d3d72?hl=en",
@@ -878,7 +879,7 @@
     "https://x.com/xzjps",
     "https://x.com/Sibasr",
     "https://x.com/937_imo",
-    "https://x.com/Take_workstyle/status/2116541595197796651"
+    "https://x.com/suwa_sh/status/2112470378916237368"
    ]
   },
   {
@@ -898,7 +899,15 @@
   },
   {
    "query": "site:facebook.com バックキャスティングで調査を設計する（決める問いから逆算して調べる項目と確認の深さを決める）",
-   "results": []
+   "results": [
+    "https://www.facebook.com/creativelife1fh/videos/未来から逆算して今を決めるそれがバックキャスティング10年後に自分はどうなっていたいか会社はどんな状態であるべきかその答えから逆算して5年後-3年後-1年後-今/36367073122906520/",
+    "https://www.facebook.com/FujitsuOfficial/videos/バックキャスティングという思考法を知っていますか理想の未来を鮮明に描きそこから逆算して考えることで当たり前にとらわれないアイデアを導く方法です-川崎市-はデンマ/1403605763561240/",
+    "https://www.facebook.com/kachoujuku/posts/バックキャスティング思考は未来の制約を受け入れそれに基づいて現在の問題を定義し解決策を考えるアプローチですフォアキャスティング予測とバックキャスティング逆算の組/1362512562332688/",
+    "https://www.facebook.com/colab.jp/posts/こんにちはコラボの増田ですバックキャスティング-って聞いたことがありますか未来のありたい姿を描くことで今やるべきことを見出す手法です積み上げではなく逆算です新し/117129846992704/",
+    "https://www.facebook.com/circu.nic/videos/業界別未来予測バックキャスティングで考える事業構想/6109389562413533/",
+    "https://www.facebook.com/yuko.amamiyou/videos/backcasting未来から考える今ここにいるのは先の先のそのまた先に行くための途中1年3年5年後に行きたい場所を想像して未来から考えていくバックキャスティン/986662617797544/",
+    "https://www.facebook.com/goromeruhana/videos/バックキャスティングを取り入れた街のづくり/1641357337627840/"
+   ]
   },
   {
    "query": "バックキャスティングで調査を設計する（決める問いから逆算して調べる項目と確認の深さを決める） note 社長",
@@ -920,8 +929,8 @@
    "results": [
     "https://optage.co.jp/business/contents/article/backcasting.html",
     "https://ximix.niandc.co.jp/column/dx-backcasting-basic",
-    "https://www.rd.ntt/se/media/article/0022.html",
     "https://note.com/suwash/n/nc0675218d0fa",
+    "https://www.rd.ntt/se/media/article/0022.html",
     "https://www.issoh.co.jp/column/details/9241/",
     "https://www.peaks-media.com/5934/",
     "https://career-research.mynavi.jp/column/20260226_107932/",
@@ -948,6 +957,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 12,
+ "runs": 13,
  "first_researched_at": "2026-11-05T02:37:05.537613+00:00"
 }

@@ -7,7 +7,7 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-06T10:01:36.466066+00:00",
+ "researched_at": "2026-11-06T14:06:05.924050+00:00",
  "evidence": {
   "突き合わせ・推定": [
    {
@@ -19,6 +19,44 @@
    {
     "quote": "peppereffect measurement, September 2026. Medians, not averages. Quartile spread on the full set: current visits per employee 38 at the 25th percentile, 135 median, 577 at the 75th. Our figures are estimated monthly organic visits, which is close to but not identical with a GA4 session count.",
     "url": "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Common Size Analysis: Formulas, Examples and How to Read Results",
+    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Reconciliation example",
+    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Department KPI Dashboard Examples by Function",
+    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Markup vs Margin Calculator Explained With Real Business Examples",
+    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Finance teams can use the metric to test hiring plans. If projected headcount growth is much faster than projected revenue growth, revenue per employee may decline. That may be acceptable, but it should be visible. Include base, upside, and downside cases in your planning spreadsheet so leadership can see the expected impact.",
+    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This metric becomes less useful at a narrow departmental level unless revenue can be credibly attributed. Sales teams may influence revenue more directly than HR or finance, so department-level comparisons need care. In most cases, it is better to use function-specific KPIs and reserve revenue per employee for the company level or business unit level.",
+    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -218,161 +256,38 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "実例": [
-   {
-    "quote": "Common Size Analysis: Formulas, Examples and How to Read Results",
-    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Reconciliation example",
-    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Department KPI Dashboard Examples by Function",
-    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Markup vs Margin Calculator Explained With Real Business Examples",
-    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Finance teams can use the metric to test hiring plans. If projected headcount growth is much faster than projected revenue growth, revenue per employee may decline. That may be acceptable, but it should be visible. Include base, upside, and downside cases in your planning spreadsheet so leadership can see the expected impact.",
-    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This metric becomes less useful at a narrow departmental level unless revenue can be credibly attributed. Sales teams may influence revenue more directly than HR or finance, so department-level comparisons need care. In most cases, it is better to use function-specific KPIs and reserve revenue per employee for the company level or business unit level.",
-    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "url": "https://note.com/revenuescope/n/n00fd31afad70",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/satouken_note/n/nd42093decff9",
+    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/platypus2000jp/n/nf6636d268219",
+    "url": "https://note.com/company_scope/n/ne394bcd2de10",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ichi_twnovel/n/nc49098104ba2",
+    "url": "https://note.com/revenuescope/n/n931e97a0b6eb",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/natty_impala4797/n/nb2b19fd0d595",
+    "url": "https://note.com/kempei_monna/n/n7f8d3eee3b80",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ocaml/n/n8b838ecd894f",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://wakara.co.jp/mathlog/20251114",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/no_pain_no_game/n/na3c15c5ab0e5",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/s_toyama/n/n0ba00c87a87f",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "http://www.jorms.net/CN/matrix/matrix.do?articleId=12172&type=AbstractDistribution",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.e-sales.jp/eigyo-labo/sales-analysis-2554",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/naruhodo/4_graph/shokyu/hakohige.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://bellcurve.jp/statistics/course/19277.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data-viz-lab.com/iqr",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://datamix.co.jp/media/datascience/blog-datascience-bs/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/nobuakimichihata/n/ndf3b592ee4f5",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://dev.classmethod.jp/articles/datascience-begginer-for-worker-week2/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.cjae.net/CN/matrix/matrix.do?articleId=38846&type=AbstractDistribution",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://mazrica.com/product/businesslab/trend/gross-sales-analytics/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nakajima-designlab.com/%E5%A3%B2%E3%82%8A%E4%B8%8A%E3%81%92%E3%81%AE%E4%B8%AD%E5%A4%AE%E5%80%A4%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.bi.ksc.co.jp/tips/data-utilization/sales-analysis",
+    "url": "https://note.com/markeducation/n/n90132f936d08",
     "status": "ok",
     "method": "http"
    },
@@ -382,12 +297,47 @@
     "method": "http"
    },
    {
-    "url": "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
+    "url": "https://zaimani.com/financial-indicators/sales-per-employee/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
+    "url": "https://taxjudge.com/simulation-lab/benchmark-dash/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wheat-biz.com/fp/industry-financial-benchmark-finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salesnow.jp/insights/score/revenue-per-employee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kotukotu.co.jp/tools/productivity-benchmark/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.w2solution.co.jp/useful_info_doc/survey-on-the-actual-state-ec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?stat_infid=000040303382",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hitorieki.jp/tools/hito-productivity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yuho-nenshu.com/ranking/sales-per-employee",
     "status": "ok",
     "method": "http"
    },
@@ -397,19 +347,29 @@
     "method": "http"
    },
    {
-    "url": "https://tractian.com/en/glossary/revenue-per-employee",
+    "url": "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://getrebelos.com/blog/revenue-per-employee",
+    "url": "https://stealthagents.com/research/startup-revenue-per-employee-benchmarks",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Employee.html",
+    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
+    "status": "ok",
+    "method": "browser"
    }
   ]
  },
@@ -417,102 +377,90 @@
   {
    "query": "1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号） site:note.com",
    "results": [
-    "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "https://note.com/satouken_note/n/nd42093decff9",
-    "https://note.com/platypus2000jp/n/nf6636d268219",
-    "https://note.com/ichi_twnovel/n/nc49098104ba2",
-    "https://note.com/natty_impala4797/n/nb2b19fd0d595",
-    "https://note.com/ocaml/n/n8b838ecd894f",
-    "https://note.com/ocaml/n/n43eae8cc0bec",
-    "https://note.com/ocaml/n/n25a2c177afc3",
-    "https://note.com/ocaml/n/n505db5d67548",
-    "https://note.com/ezuremanagement/n/n62ac85c83529"
+    "https://note.com/revenuescope/n/n00fd31afad70",
+    "https://note.com/bizgem_1220/n/n09441131d3fe",
+    "https://note.com/company_scope/n/ne394bcd2de10",
+    "https://note.com/revenuescope/n/n931e97a0b6eb",
+    "https://note.com/kempei_monna/n/n7f8d3eee3b80",
+    "https://note.com/markeducation/n/n90132f936d08",
+    "https://note.com/fine_yeti1552/n/n1e2fdb44fe84"
    ]
   },
   {
    "query": "1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号） note",
    "results": [
-    "https://wakara.co.jp/mathlog/20251114",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://note.com/no_pain_no_game/n/na3c15c5ab0e5",
-    "https://note.com/s_toyama/n/n0ba00c87a87f",
-    "http://www.jorms.net/CN/matrix/matrix.do?articleId=12172&type=AbstractDistribution",
-    "https://www.e-sales.jp/eigyo-labo/sales-analysis-2554",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://mazrica.com/product/businesslab/trend/gross-sales-analytics/",
     "https://note.com/revenuescope/n/n00fd31afad70",
-    "https://note.com/bizgem_1220/n/n09441131d3fe"
+    "https://note.com/bizgem_1220/n/n09441131d3fe",
+    "https://ta5k.com/tools/industry/sme-financial",
+    "https://zaimani.com/financial-indicators/sales-per-employee/",
+    "https://taxjudge.com/simulation-lab/benchmark-dash/",
+    "https://wheat-biz.com/fp/industry-financial-benchmark-finance/",
+    "https://salesnow.jp/insights/score/revenue-per-employee/"
    ]
   },
   {
    "query": "1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号） やり方",
    "results": [
-    "https://wakara.co.jp/mathlog/20251114",
-    "https://www.stat.go.jp/naruhodo/4_graph/shokyu/hakohige.html",
-    "https://bellcurve.jp/statistics/course/19277.html",
-    "https://data-viz-lab.com/iqr",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://datamix.co.jp/media/datascience/blog-datascience-bs/",
-    "https://note.com/nobuakimichihata/n/ndf3b592ee4f5",
-    "https://dev.classmethod.jp/articles/datascience-begginer-for-worker-week2/",
-    "https://www.kousotu.com/lect_math/d02.php",
-    "https://ta5k.com/tools/industry/sme-financial"
+    "https://ta5k.com/tools/industry/sme-financial",
+    "https://zaimani.com/financial-indicators/sales-per-employee/",
+    "https://note.com/revenuescope/n/n00fd31afad70",
+    "https://taxjudge.com/simulation-lab/benchmark-dash/",
+    "https://kotukotu.co.jp/tools/productivity-benchmark/",
+    "https://www.w2solution.co.jp/useful_info_doc/survey-on-the-actual-state-ec/",
+    "https://salesnow.jp/insights/score/revenue-per-employee/"
    ]
   },
   {
    "query": "1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号） 事例",
    "results": [
-    "https://wakara.co.jp/mathlog/20251114",
-    "https://www.cjae.net/CN/matrix/matrix.do?articleId=38846&type=AbstractDistribution",
-    "http://www.jorms.net/CN/matrix/matrix.do?articleId=12172&type=AbstractDistribution",
-    "https://mazrica.com/product/businesslab/trend/gross-sales-analytics/",
-    "https://note.com/s_toyama/n/n0ba00c87a87f",
-    "https://www.e-sales.jp/eigyo-labo/sales-analysis-2554",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.nakajima-designlab.com/%E5%A3%B2%E3%82%8A%E4%B8%8A%E3%81%92%E3%81%AE%E4%B8%AD%E5%A4%AE%E5%80%A4%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
-    "https://www.bi.ksc.co.jp/tips/data-utilization/sales-analysis",
-    "https://ta5k.com/tools/industry/sme-financial"
+    "https://ta5k.com/tools/industry/sme-financial",
+    "https://taxjudge.com/simulation-lab/benchmark-dash/",
+    "https://zaimani.com/financial-indicators/sales-per-employee/",
+    "https://salesnow.jp/insights/score/revenue-per-employee/",
+    "https://kotukotu.co.jp/tools/productivity-benchmark/",
+    "https://www.e-stat.go.jp/stat-search/files?stat_infid=000040303382",
+    "https://hitorieki.jp/tools/hito-productivity/",
+    "https://note.com/revenuescope/n/n00fd31afad70",
+    "https://yuho-nenshu.com/ranking/sales-per-employee",
+    "https://www.w2solution.co.jp/useful_info_doc/survey-on-the-actual-state-ec/"
    ]
   },
   {
    "query": "revenue per employee benchmark by company size median quartile",
    "results": [
-    "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "https://www.hrbench.com/resource/learn/revenue-per-employee",
     "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "https://tractian.com/en/glossary/revenue-per-employee",
-    "https://getrebelos.com/blog/revenue-per-employee",
-    "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Employee.html",
+    "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
+    "https://stealthagents.com/research/startup-revenue-per-employee-benchmarks",
     "https://www.venasolutions.com/blog/average-revenue-per-employee",
-    "https://www.greatplacetowork.com/resources/blog/understanding-revenue-per-employee-what-is-a-good-revenue-per-employee-ratio-how-to-calculate-it",
-    "https://www.lightercapital.com/blog/revenue-per-employee-benchmarks",
-    "https://peppereffect.com/blog/revenue-per-employee-benchmarks"
+    "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
+    "https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry",
+    "https://www.stacknetwork.ai/p/revenue-per-employee-benchmarks-by-industry-2026",
+    "https://www.zabella.net/blog/arr-per-employee-benchmarks"
    ]
   },
   {
    "query": "site:note.com 1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号）",
    "results": [
-    "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "https://note.com/satouken_note/n/nd42093decff9",
-    "https://note.com/platypus2000jp/n/nf6636d268219",
-    "https://note.com/ichi_twnovel/n/nc49098104ba2",
-    "https://note.com/natty_impala4797/n/nb2b19fd0d595",
-    "https://note.com/ocaml/n/n8b838ecd894f",
-    "https://note.com/ocaml/n/n43eae8cc0bec",
-    "https://note.com/ocaml/n/n25a2c177afc3",
-    "https://note.com/ocaml/n/n505db5d67548",
-    "https://note.com/ezuremanagement/n/n62ac85c83529"
+    "https://note.com/revenuescope/n/n00fd31afad70",
+    "https://note.com/bizgem_1220/n/n09441131d3fe",
+    "https://note.com/company_scope/n/ne394bcd2de10",
+    "https://note.com/revenuescope/n/n931e97a0b6eb",
+    "https://note.com/markeducation/n/n90132f936d08",
+    "https://note.com/kempei_monna/n/n7f8d3eee3b80",
+    "https://note.com/shikosakugo_log/n/n021c27d4df84"
    ]
   },
   {
    "query": "site:x.com 1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号）",
    "results": [
-    "https://x.com/nikkei/status/2110087359676956856",
-    "https://x.com/nikkeinagoya/status/2110132723436171637",
-    "https://x.com/maru_DTJ/status/2110134517109596310",
+    "https://x.com/edinetdb/status/2079379240680915412",
     "https://x.com/nikkei_business/status/2110099584727109886",
+    "https://x.com/nikkeinagoya/status/2110132723436171637",
     "https://x.com/gagarot200/status/2041103628799483905",
     "https://x.com/shiho_aga/status/2109113003924926946",
+    "https://x.com/maru_DTJ/status/2110134517109596310",
+    "https://x.com/maruyama_hoshi/status/2094423428078117102",
+    "https://x.com/nikkei/status/2110087359676956856",
     "https://x.com/100en_shop/status/2116722045102993501"
    ]
   },
@@ -522,8 +470,8 @@
     "https://jp.linkedin.com/pulse/what-revenue-per-employee-how-can-i-use-grow-my-hancott-cgma-gysve?tl=ja",
     "https://jp.linkedin.com/posts/koyo-katsuki-23032016b_セリア従業員1人あたり売上高首位100均維持の秘訣は小さな本社-日本経済新聞-activity-7516387911714480128-gjCC",
     "https://www.linkedin.com/posts/青山恒夫経営管理会計の伝道師_売上高の代表値を可視化-ふと売上高の標準偏差を算出してみようと考えて可視化-activity-7052818395066486784-senS",
-    "https://jp.linkedin.com/pulse/108-per-employee-standard-cross-industry-saas-spending-jaymita-prasad-gwnjc?tl=ja",
     "https://jp.linkedin.com/pulse/sales-geek-health-check-q2-2026-survey-results-executive-elken-qquje?tl=ja",
+    "https://jp.linkedin.com/pulse/108-per-employee-standard-cross-industry-saas-spending-jaymita-prasad-gwnjc?tl=ja",
     "https://jp.linkedin.com/pulse/医師の年収は妥当か売上との関係から考える-md-phd-tamura-ccllc",
     "https://jp.linkedin.com/posts/元-橋場-839684424_就活必見1人当たり売上5000万の凄腕ベンチャー20代で市場価値が爆発的-activity-7500854276504567808-0uwn"
    ]
@@ -543,70 +491,45 @@
   {
    "query": "1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号） note 社長",
    "results": [
-    "https://wakara.co.jp/mathlog/20251114",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://note.com/s_toyama/n/n0ba00c87a87f",
-    "https://www.youtube.com/watch?v=RzWOOUDzKSQ&vl=ja",
-    "https://note.com/ai_hitsujisan/n/n5120ec0fc157",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://mazrica.com/product/businesslab/trend/gross-sales-analytics/",
-    "https://project.nikkeibp.co.jp/NHCdigital/special/110500097/index.html",
-    "https://www.business-standard.com/jp/tsunapoe"
+    "https://note.com/revenuescope/n/n00fd31afad70",
+    "https://note.com/bizgem_1220/n/n09441131d3fe",
+    "https://zaimani.com/financial-indicators/sales-per-employee/",
+    "https://ta5k.com/tools/industry/sme-financial",
+    "https://salesnow.jp/insights/score/revenue-per-employee/",
+    "https://taxjudge.com/simulation-lab/benchmark-dash/",
+    "https://wheat-biz.com/fp/industry-financial-benchmark-finance/"
    ]
   },
   {
    "query": "1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号） X 投稿",
    "results": [
-    "https://wakara.co.jp/mathlog/20251114",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://bellcurve.jp/statistics/course/5220.html",
-    "http://www.jorms.net/CN/matrix/matrix.do?articleId=12172&type=AbstractDistribution",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://note.com/s_toyama/n/n002c062ac803",
-    "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%88%86%E4%BD%8D%E6%95%B0",
-    "https://x.com/masahirochaen/article/2087098827375628628",
     "https://ta5k.com/tools/industry/sme-financial",
-    "https://zukaikeizai.com/ranking/revper/"
+    "https://zukaikeizai.com/ranking/revper/",
+    "https://hrview.jp/ranking/revenue-per-employee",
+    "https://yuho-nenshu.com/ranking/sales-per-employee",
+    "https://salesnow.jp/insights/score/revenue-per-employee/",
+    "https://zaimani.com/financial-indicators/sales-per-employee/",
+    "https://note.com/revenuescope/n/n00fd31afad70"
    ]
   },
   {
    "query": "revenue per employee benchmark by company size median quartile site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/5-interesting-learnings-from-revenue-per-engineer-data-abi-noda-2o3cc",
-    "https://www.linkedin.com/pulse/whats-truly-great-now-b2b-ai-per-iconiq-115-growth-100m-lemkin-rdpgc",
-    "https://www.linkedin.com/pulse/2026-saas-benchmarks-report-ryan-allis-14kbf",
-    "https://www.linkedin.com/posts/matt-schulman-15911861_how-large-should-your-hr-recruitment-teams-activity-7448716507465003008-BDIe",
-    "https://www.linkedin.com/posts/kyle-poyar_saas-ai-benchmarks-activity-7394373156460838913-oX4f",
-    "https://www.linkedin.com/pulse/most-efficient-finance-functions-benchmarks-best-andrew-rudchuk-fwvsf",
-    "https://www.linkedin.com/posts/saastr_a16z-just-released-data-showing-arr-per-employee-activity-7420155254870142976-1lRT",
-    "https://www.linkedin.com/posts/khaledazar_saas-grossmargin-valuation-activity-7398345707092385793-wjgq",
-    "https://www.linkedin.com/posts/kevincmosley_the-median-5-20m-b2b-saas-company-is-no-activity-7507792320889581568-tslP",
-    "https://www.linkedin.com/posts/kyle-poyar_startups-saas-growth-activity-7384227111018065921-EonK"
+    "https://www.linkedin.com/posts/uphoff-advisory-llc_𝗥𝗲𝘃𝗲𝗻𝘂𝗲-𝗽𝗲𝗿-𝗲𝗺𝗽𝗹𝗼𝘆𝗲𝗲-𝘂-activity-7517984501625425921-tfJr",
+    "https://www.linkedin.com/pulse/median-arr-per-employee-hit-193k-2025-top-quartile-near-adam-hafez-uwqbf",
+    "https://pe.linkedin.com/posts/joeybrodsky-gtmexecutivesearch_at-the-close-of-2024-the-median-rpe-revenue-activity-7326234288666861569-6g_p",
+    "https://www.linkedin.com/posts/rayrike_1m-arr-per-employee-activity-7420470102338228225-87Wi",
+    "https://www.linkedin.com/posts/patrickwmontgomery_the-bar-for-how-much-revenue-one-employee-activity-7492175197639405568-qpJG",
+    "https://www.linkedin.com/top-content/retail-merchandising/retail-performance-metrics/revenue-per-employee-statistics/",
+    "https://www.linkedin.com/posts/ketanpema_the-revenue-per-employee-benchmark-separates-activity-7491455620576047105-7z8z"
    ]
   }
  ],
  "missing": {
-  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ22頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ22頁・検索12回）"
  },
- "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "Common Size Analysis: Formulas, Examples and How to Read Results",
-    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "Common Size Analysis: Formulas, Examples and How to Read Results",
-    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ]
- },
- "runs": 6,
+ "new_this_run": {},
+ "runs": 7,
  "first_researched_at": "2026-11-05T16:50:46.037848+00:00"
 }

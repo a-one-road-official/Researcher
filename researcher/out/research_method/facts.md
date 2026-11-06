@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・119品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・122品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -773,16 +773,23 @@
   - 「- to do this step one must consider where the」（https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf）
   - 「Science by Carr; Scientific Method: Optimizing Applied」（https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf）
   - 「These are some of the major steps that I go through」（https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf）
+  - 「を、“手順と図解”で丁寧に解き明かした1冊です」（https://note.com/hiradairaheipei/n/na29c20d99741）
+  - 「リサーチを4ステップで設計する“構造化の手法”」（https://note.com/hiradairaheipei/n/na29c20d99741）
+  - 「「調べる」だけでなく「つくる」リサーチの方法」（https://note.com/hiradairaheipei/n/na29c20d99741）
+  - 「→ 複雑な情報をシンプルに可視化するフレームワーク思考」（https://note.com/hiradairaheipei/n/na29c20d99741）
+  - 「その際、MECE（漏れなく、ダブりなく）のフレームワークを活用して情報を網羅的に分解することで、論理的な抜け漏れを防ぎ、調査対象を明確に特定できます」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
+  - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！」（https://note.rallygrowth.co.jp/tag/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB/）
+  - 「本稿ではこの10要素に沿って、あなたがコンサル業界に向いているか判断するためのポイントや、必要とされる能力を磨く方法を解説します」（https://note.rallygrowth.co.jp/tag/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB/）
   - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法｜30代コンサルマネージャー｜仕事とキャリアのリアル」（https://note.com/gomaengineer/n/nf0782f7d7838）
-  - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法」（https://note.com/gomaengineer/n/nf0782f7d7838）
-  - 「1. コンサルが実務で使っている「リサーチの型」を理解できる」（https://note.com/gomaengineer/n/nf0782f7d7838）
-  - 「コンサルのデスクリサーチには明確な「型」があります」（https://note.com/gomaengineer/n/nf0782f7d7838）
-  - 「ここでは、コンサルティングの現場でどのようにして効果的なリサーチを行い、その結果をどのように資料としてまとめるかについて3ステップで超簡単に解説します」（https://note.com/mngt46/n/na1c988382e73）
-  - 「ステップ1: ファクトのリサーチ」（https://note.com/mngt46/n/na1c988382e73）
-  - 「ステップ2: 分析と示唆出し」（https://note.com/mngt46/n/na1c988382e73）
-  - 「コンサルタントは、一般的な分析フレームワーク（SWOT分析、PEST分析、ポーターの5フォース分析など）を活用して、情報を構造化し洞察を得ます」（https://note.com/mngt46/n/na1c988382e73）
 - 突き合わせ・推定：
   - 「これらの業務は、クライアントの課題に寄り添い、仮説検証型でソリューションを提供す […]」（https://www.kotora.jp/c/77700-2/）
+  - 「自分の仮説を検証するための“逆算設計”をしてみる」（https://note.com/hiradairaheipei/n/na29c20d99741）
+  - 「仮説に基づいて情報を選び、意味ある答えを導き出す技法」（https://note.com/hiradairaheipei/n/na29c20d99741）
+  - 「まずは効率的に全体像を把握し、仮説を立てた上でより深い分析へと進むのがプロフェッショナルの標準的なアプローチです」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
+  - 「リサーチの精度を高める鍵は、早い段階で仮説を立てることにあります」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
+  - 「このアプローチにより、初期の仮説の妥当性を検証し、不足している情報をピンポイントで特定できるようになります」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
+  - 「フェルミ推定は必要？コンサル面接で差をつける準備のコツ」（https://www.kotora.jp/c/50381/）
+  - 「フェルミ推定とは何か？ フェルミ推定の基本概念 フェルミ推定とは、限られた情報やデータをもとに短時間でおおよその数値を見積もる方法です」（https://www.kotora.jp/c/50381/）
   - 「② 調べるべき論点（＝仮説）」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「コンサルは最初に仮説を立てますが、これは「当てるため」ではなく 調査の抜け漏れ防止のための枠組みづくり です」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「• 論点（仮説）は整理したか？」（https://note.com/gomaengineer/n/nf0782f7d7838）
@@ -790,14 +797,11 @@
   - 「第一の視点：問いと仮説の展開性」（https://note.com/ten365_blog/n/n7c6df28110e7）
   - 「として捉え、目的設定から仮説構築、情報の収集と検証、そして洞察の導出に至るまでの流れを、明確な方法論として描いています」（https://note.com/ten365_blog/n/n7c6df28110e7）
   - 「その出発点にあるのが「問い」と「仮説」です」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「仮説は答えではなく分析の出発点であり、思考を導くフレームです」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「たとえば「市場が拡大している理由は何か」という問いは、やがて「その成長を支える社会構造は何か」「変化を生み出す要因はどこにあるのか」「今後の限界点は何か」と展開し、問いが派生し仮説が修正される過程で構造的な理解が形成されていきます」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「リサーチは単なる調査ではなく、問いと仮説を軸に構造化と再解釈を繰り返す思考のプロセスそのものなのです」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「集めた情報の量ではなく、構造化された情報から導かれる示唆の質、そしてその出発点となる問いと仮説の精度によって決まります」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「問いを再設定し、仮説を再構築する」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「データを排除するのではなく、そのデータがどのような問いに基づき、どのような条件で集められたのかを検証する」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「自らの仮説や前提もまた、常に検証の対象でなければなりません」（https://note.com/ten365_blog/n/n7c6df28110e7）
 - 一次情報の探し方：
+  - 「情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
+  - 「特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
+  - 「資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
+  - 「未経験でもコンサルは可能です！中途採用の7〜8割は業界未経験者と言われています」（https://note.rallygrowth.co.jp/tag/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB/）
   - 「① 一次情報 → 二次情報 → Web の順に見る」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「2. 省庁資料・クレディブルな統計データ」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「3. 企業資料（IR・決算・プレスリリース）」（https://note.com/gomaengineer/n/nf0782f7d7838）
@@ -809,11 +813,11 @@
   - 「文献調査やインタビュー、統計分析、現地調査など多様な手法を扱いながらも、根底に流れるのは「事実に向き合い、同時に疑う」という知的な姿勢です」（https://note.com/ten365_blog/n/n7c6df28110e7）
   - 「数字や統計は、その前提を離れれば単なる断片情報に過ぎず、」（https://note.com/ten365_blog/n/n7c6df28110e7）
   - 「この構造は、有価証券報告書のような公的文書であっても、有名な学術論文であっても、あるいは政府統計のような権威性を帯びた情報であっても同じです」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「弱いアンテナとは、気になった一点に小さな追加調査を重ねる行為――一次情報にあたって定義や範囲を確かめる、統計の原典に戻って母集団や期間を確認する、反対仮説を一度当ててみる、といった**“一歩だけ深掘りする”能動性です」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「数字や統計の背後にある前提を読み解き、誰の視点で作られた情報なのかを問い直す批判性が求められます」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「— 外資系うさぎのちょこさん（コンサル社員採用中！） (@ChoConejito)」（https://note.com/choconejito/n/n2c2adb7a2830）
-  - 「Webや文献、記事、公的調査・統計、民間調査レポートからすでに存在している情報を調べる（さがす）方法」（https://note.com/lpkojitaku/n/n34c9eadcab84）
 - 失敗・落とし穴：
+  - 「【心理学×社会心理学的バイアス】人はなぜ不合理な行動をとるのか？」（https://biz-con.plus/skillup-researchprocess/）
+  - 「心理学において、偏見や思い込み、誤解などを指す言葉として『 バイアス 』が様々なシーンで使われます」（https://biz-con.plus/skillup-researchprocess/）
+  - 「本記事では、どのような『 バイアス 』が存在するのか？私たちの日常生活の認知にどのような影響を与えているかをまとめています」（https://biz-con.plus/skillup-researchprocess/）
+  - 「『 バイアス 』を正しく理解し、自分で情報を正しく選択できるようになりましょう」（https://biz-con.plus/skillup-researchprocess/）
   - 「多種多様なリサーチ技法について、それぞれの主な使用シーン、テクニック、ルール、注意点がわかりやすくまとまっており、非常に使いやすい一冊と言えるでしょう」（https://note.com/lpkojitaku/n/n34c9eadcab84）
   - 「特に注目すべきなのは、情報は「調べる」だけでなく「つくる」ことができると指摘している点であり、インタビューやフィールド調査を行う際の注意点まできちんとカバーされているのです」（https://note.com/lpkojitaku/n/n34c9eadcab84）
   - 「特に、必要な情報が手に入るかどうか実際に調べてみないと分からない場合、1つだけの情報源に絞ってしまうと失敗したときのリスクが高まります」（https://note.com/lpkojitaku/n/n34c9eadcab84）
@@ -825,42 +829,38 @@
   - 「次世代のマテハン「物流ロボット」を解説！導入のメリットと注意点」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
   - 「ため注意が必要です」（https://consulfree.com/blog/consultant-analyst/）
   - 「フリーランスコンサルタントの年収・月収比較、職位別の年収相場、稼働率別の年収の違い、年収アップのコツや注意点など業界最前線の実態をわかりやすく解説」（https://consulfree.com/blog/consultant-analyst/）
-  - 「コンサルのアナリストになるデメリットと注意点」（https://consulfree.com/blog/consultant-analyst/）
-  - 「デメリット・注意点」（https://consulfree.com/blog/consultant-analyst/）
-  - 「コンサル業界で成功を収めるためのプレッシャーは時に努力の躍進力になり大きな成長につながりますが、同時にメンタルや体力にダメージを与えるデメリットもあります」（https://consulfree.com/blog/consultant-analyst/）
-  - 「を主としており、業務委託契約には「委任」「準委任」「請負」など様々な契約種類があり、法律行為の有無や業務責任において違いを知っておかないと違反行為にもなってしまうため注意が必要です」（https://consulfree.com/blog/consultant-analyst/）
 - 実例：
   - 「transportation, and let me use highways as an example,」（https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf）
   - 「Study design (randomised controlled trial, cohort, case-control, scoping, systematic, mixed methods)」（https://researchgold.org/services/research-consultant）
   - 「Case studies, articles」（https://veridatainsights.com/business-consultant-research-process-guide/）
+  - 「例えば、新市場の可能性を探る際には「需要側」と「供給側」に分けて整理するなど、全体を構造的に捉えることが重要です」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
+  - 「結果として、アウトプットの説得力は格段に高まります」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
+  - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！」（https://note.rallygrowth.co.jp/tag/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB/）
+  - 「リサーチは販売戦略やサービス開発戦略を検討する際に市場の声を集めたり、システム導入のベンダー選定時に各社の情報を収集する際など、多様なケースで欠かせないものとなっています」（https://note.rallygrowth.co.jp/tag/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB/）
+  - 「本記事では物流ITコンサルティングのサービス内容や、価格の相場観、物流ITコンサルの選び方などについて、過去多数の物流DX案件を担当してきたコンサルタントがコンサルティングの実例も交え詳しくご紹介しています！」（https://note.rallygrowth.co.jp/tag/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB/）
+  - 「【診断士2次試験・事例IV】キャッシュフローは作成と分析を極めよ」（https://biz-con.plus/skillup-researchprocess/）
   - 「例えば、上司からあなたに次の指示が来たとします」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「→ 具体的な事例や競合比較に使える」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「コンサルは調査結果をまとめるとき、いきなりパワポを作りません」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「ここでは、コンサルティングの現場でどのようにして効果的なリサーチを行い、その結果をどのように資料としてまとめるかについて3ステップで超簡単に解説します」（https://note.com/mngt46/n/na1c988382e73）
   - 「ここでは、コンサルティングの現場でどのようにして効果的なリサーチを行い、その結果をどのように資料としてまとめるかについて詳しく解説します」（https://note.com/mngt46/n/na1c988382e73）
   - 「ステップ3: 結果の報告」（https://note.com/mngt46/n/na1c988382e73）
-  - 「リサーチと分析の結果をクライアントに伝えるためには、見やすく理解しやすい資料が不可欠です」（https://note.com/mngt46/n/na1c988382e73）
-  - 「資料作成では、まず主張を明確にし、サポートするデータや事例を効果的に配置します」（https://note.com/mngt46/n/na1c988382e73）
-  - 「コンサルタントの行うリサーチと結果の分析、資料へのまとめ方も、プロセスとしては一般的な資料作成と大きく変わりはありません」（https://note.com/mngt46/n/na1c988382e73）
-  - 「それぞれのステップにおいては、業界ごとの専門知識や、業界をまたいでも活用可能な境界知見をフル活用しながら、リサーチの結果分かった示唆についてわかりやくす資料化していきます」（https://note.com/mngt46/n/na1c988382e73）
-  - 「、と本当に強く実感する結果となりました」（https://note.com/choconejito/n/n2c2adb7a2830）
-  - 「今後は、公開情報をソースにした一次リサーチやその集計結果からの示唆出しはAIが一瞬で片付けてしまい、コンサルはその先にある」（https://note.com/choconejito/n/n2c2adb7a2830）
 - 検索結果の抜粋：
   - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！ -... — Nov 12, 2023 · その中でコンサルタントはアサインされる案件の目的・課題にあわせてリサーチ手法を使い分けています。 この記事ではコンサルタントに必要なリサーチについて詳しく解説しています。」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
   - 「【コンサルティング業界向け】リサーチシナリオ10選 | リサーチ・市場... — May 18, 2026 · 本資料は、コンサルティングファームの戦略部門や新規事業担当者が直面する課題に基づき、リサーチをどのようにコンサルティング実務に組み込み、成果へ導くかをまとめた事例集です 。」（https://www.cross-m.co.jp/report_all/consulting_case-studies）
   - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法 — Dec 1, 2025 · コンサルだけでなく、すべての知的生産に携わる人にとって必読の一冊。 「やるべきことを絞る」「意味のある問いから始める」という本記事の要点と完全に一致しています。 ⸻ まとめ：リサーチ力は「探す力」ではなく「絞る力」」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「コンサル現場で使えるリサーチ手法（実行以上に定義・設計が重要！） ... — Mar 27, 2022 · しかしビジネス現場におけるリサーチでは、時間が限られており、またアウトプットにメッセージ性が求められるなど、上記の手法は通用しません。 今回は、ビジネス現場（特にコンサルティング現場）で使えるリサーチ手法についてご紹介します。」（https://biz-con.plus/skillup-researchprocess/）
+  - 「コンサル流リサーチ業務から資料への落とし方｜O-LLC — Jan 3, 2025 · 情報が手に入ったら、それをただ羅列するのではなく、論理的に分析し意味を見出すことが必須です。 コンサルタントは、一般的な分析フレームワーク（SWOT分析、PEST分析、ポーターの5フォース分析など）を活用して、情報を構造化し洞察を得ます。」（https://note.com/mngt46/n/na1c988382e73）
+  - 「外資系コンサルのリサーチ技法｜MIDAS_TOUCH — Nov 1, 2025 · リサーチを単なる情報収集ではなく「思考を構築するための営み」として捉え、目的設定から仮説構築、情報の収集と検証、そして洞察の導出に至るまでの流れを、明確な方法論として描いています。」（https://note.com/ten365_blog/n/n7c6df28110e7）
+  - 「【3分でわかる】外資系コンサルのリサーチ技法｜事象を観察し本質を見... — May 9, 2025 · ただ情報を集めるのではなく、“仮説を持って調べ、構造を掴み、答えを導く”のがプロのリサーチ。 検索も闇雲に始めるのではなく、「何のために何を調べるか」を設計する力が問われる。 情報の海に溺れず、泳ぎきるための羅針盤が本書にはある。」（https://note.com/hiradairaheipei/n/ne937a31c89c1）
+  - 「【3分で読める】外資系コンサルのリサーチ技法｜事象を観察し本質を見... — May 9, 2025 · 検索で得られる情報だけでは足りないとき、 現地調査、ユーザーインタビュー、定量アンケートなどで“情報をつくる”手法がある。 この「能動的リサーチ」は、 一次情報の価値と信頼性 を高める強力な武器になる。」（https://note.com/hiradairaheipei/n/na29c20d99741）
+  - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法｜3... — Dec 1, 2025 · コンサルだけでなく、すべての知的生産に携わる人にとって必読の一冊。 「やるべきことを絞る」「意味のある問いから始める」という本記事の要点と完全に一致しています。 ⸻ まとめ：リサーチ力は「探す力」ではなく「絞る力」」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「外資系コンサル流リサーチ術｜情報の海から『本質』を抽出する思考法... — Feb 12, 2026 · その意思決定を支える土台となるのが、正確かつ深い洞察に基づいたリサーチスキルです 。 特に外資系コンサルティングファームにおけるリサーチは、単なる情報収集の枠を超え、戦略構築の基盤として機能しています 。」（https://note.kotora.jp/n/nc550a05c2c32）
+  - 「コンサル現場で使えるリサーチ手法（実行以上に定義・設計が重要！） ...外資系コンサル直伝！『本質を見抜く』ためのリサーチ術 - KOTORA JOU...コンサル流リサーチ業務から資料への落とし方｜O-LLC【コンサル流】情報収集/リサーチを極める方法---アソシエイトがコン...アクセンチュア『外資系コンサルのリサーチ技法』の著者が徹底解説！1... — リサーチを行う際は、冒頭に紹介したように、フォアキャスティングではなく、バックキャスティング（最初に目標を描き、それを実現するためのプロセスを未来から現在へさかのぼるシナリオ手法）の考え方が重要です。 実際には、下記の3ステップでリサーチを行うことになりますが、『実行』前の『定義』や『設計』がリサーチ成功のカギとなります。 以下、それぞれのフェーズにおけるポイントを紹介します。 See full list on biz-con.plu」（https://biz-con.plus/skillup-researchprocess/）
+  - 「外資系コンサル直伝！『本質を見抜く』ためのリサーチ術 - KOTORA JOU... — Jan 2, 2024 · 効率的なデータ分析のアプローチ 第3章 外資系コンサルが使うリサーチテクニック 便利サイトとツールを駆使する Google検索を最大限活用するテクニック インタビュー調査で深掘りするコツ 抽象化思考：ピンポイントな洞察を導く方法」（https://www.kotora.jp/c/50381/）
   - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法 — Dec 1, 2025 · 1. コンサルが実務で使っている「リサーチの型」を理解できる 2. “思考の枠組みを先に作る”ことで調査のムダが消える理由が分かる 3. 明日から使えるインタビュー・デスクリサーチの具体手法を獲得できる ⸻ 第1章：コンサ」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「コンサル流リサーチ業務から資料への落とし方｜O-LLC — Jan 3, 2025 · はじめに: リサーチの重要性 コンサルティング業界では、正確な情報と深い分析がクライアントに対する価値提案の鍵となります。そのため、リサーチ業務はプロジェクトの初期段階で非常に重要な役割を果たします。生成AIにより大量の情報を即座に収集できるようになっても、その重要性は ...」（https://note.com/mngt46/n/na1c988382e73）
   - 「外資系コンサルのリサーチ技法｜MIDAS_TOUCH — Nov 1, 2025 · 概要 本書は、外資系コンサルティングの現場で培われたリサーチ技法を体系的に整理し、実務に直結する形で提示した一冊です。リサーチを単なる情報収集ではなく「思考を構築するための営み」として捉え、目的設定から仮説構築、情報の収集と検証、そして洞察の導出に至るまでの流れを ...」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「「とりあえず調べといて」で何時間も彷徨ったコンサル1年目に効いた、... — Oct 5, 2026 · この記事では、リサーチを行き当たりばったりにしないための型を、コンサル実務書から紹介します。 なぜリサーチが迷子になるのか 優れたリサーチャーは、検索を始める前に「目的」「企画のステージ」「どこまでの精度が必要か」の3つを先に確認」（https://note.com/strategy_x/n/n208ff7d2043d）
-  - 「「外資系コンサルのリサーチ技法」を読んですぐに取り入れられること — Apr 19, 2020 · 本レポートの抜粋 はじめに 「答えるべき問い」をはっきりさせる 企画がどの段階なのか全体感から見極める ゴールとなる完成図を意識する いつ、どの順番でリサーチするか? 情報を「さがす」技法と「つくる」技法 Web検索に時間をかけすぎてはならない 1冊で判断ではなく少なくとも3冊の ...」（https://note.com/lpkojitaku/n/n34c9eadcab84）
-  - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法｜3... — Dec 1, 2025 · コンサルとキャリアのリアルを、もっと身近に 事業会社エンジニア → 30歳未経験コンサル→ マネージャー 「コンサルに転職したい」 「30代のキャリアを考えたい」 「コンサルでさらに成長したい」 そんな方のキャリア選択に役立つ情報を届けます。」（https://note.com/gomaengineer/n/nf0782f7d7838）
-  - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！ -... — Nov 12, 2023 · 1.コンサルタントが業務で行っているリサーチは主に3種類 コンサルタントは課題解決のための戦略を立案・提言することによって企業の成長や業績改善を支援する仕事です。 戦略策定を行うにあたり自社の課題の特定が必要ですが、そのためには市場環境（マクロ環境や消費者ニーズ）、競合 ...」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
-  - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！ -... — Nov 12, 2023 · 「コンサルタントになるとリサーチをすると聞いたけど、どのような内容なの？」 「リサーチのレベルを高める良いやり方やコツはあるの？」 コンサルタントの業務のひとつである調査・リサーチ。コンサルタント職に興味を持つとどのような調査・リサーチをしているか気になりますよね ...」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
-  - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法 — Dec 1, 2025 · コンサルとキャリアのリアルを、もっと身近に 事業会社エンジニア → 30歳未経験コンサル→ マネージャー 「コンサルに転職したい」 「30代のキャリアを考えたい」 「コンサルでさらに成長したい」 そんな方のキャリア選択に役立つ情報を届けます。」（https://note.com/gomaengineer/n/nf0782f7d7838）
-  - 「コンサル現場で使えるリサーチ手法（実行以上に定義・設計が重要！） ...外資系コンサル直伝！『本質を見抜く』ためのリサーチ術 - KOTORA JOU...やってみると意外と難しい、良いリサーチのコツ！【企画の道具箱 #20...【コンサル流】リサーチにおける考え方 - アーツアンドクラフツ株式会...調査・リサーチの成果を最大化する方法｜現役コンサルタントが語るプ... — リサーチを行う際は、冒頭に紹介したように、フォアキャスティングではなく、バックキャスティング（最初に目標を描き、それを実現するためのプロセスを未来から現在へさかのぼるシナリオ手法）の考え方が重要です。 実際には、下記の3ステップでリサーチを行うことになりますが、『実行』前の『定義』や『設計』がリサーチ成功のカギとなります。 以下、それぞれのフェーズにおけるポイントを紹介します。 See full list on bi」（https://biz-con.plus/skillup-researchprocess/）
-  - 「外資系コンサル直伝！『本質を見抜く』ためのリサーチ術 - KOTORA JOU... — Jan 2, 2024 · 第3章 外資系コンサルが使うリサーチテクニック 便利サイトとツールを駆使する 外資系コンサルタントが行うリサーチでは、専門的な情報を迅速かつ正確に収集するために、便利なサイトやツールが欠かせません。市場動向を把握するためにはStatistaやIBISWorldなどのデータベースが活用され ...」（https://www.kotora.jp/c/50381/）
 
 ## OSINT 企業調査の手法（調査報道・OSINTアナリスト）（OSINT company investigation methodology analyst）
 - 文脈：凄腕・OSINT
@@ -1710,6 +1710,7 @@
   - 「事業計画の基準線として採用するには楽観的すぎる、という点は押さえておきたい」（https://note.com/tomohironakagawa/n/n66a9824ad706）
 - 失敗・落とし穴：
   - 「定点調査とは？基本からメリット・デメリットや活用事例、注意点をご紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「セグメンテーションとは？重要なポイントや失敗事例を紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「これは、数字を誤りと断ずるものではない」（https://note.com/sun_r_lab/n/n495b9a988be5）
   - 「では、総説の予測は誤りだったのか」（https://note.com/sun_r_lab/n/n495b9a988be5）
   - 「注記がないことと、誤りであることは、別の話である」（https://note.com/sun_r_lab/n/n495b9a988be5）
@@ -1723,7 +1724,6 @@
   - 「実際にデータを利用する際は、調査対象が全数か抽出か、特定の規模制限があるかといった点に注意が必要です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「ただし、これらのデータは基本的に会員企業の数値に基づいている点に注意が必要です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「この手法で最も注意すべきは、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「もう一つの落とし穴は、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
 - 実例：
   - 「これらの前提を事前に整理しておくことで、調査結果の説得力は格段に向上します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
@@ -4510,8 +4510,8 @@
   - 「This metric becomes less useful at a narrow departmental level unless revenue can be credibly attributed. Sales teams may influence revenue more directly than HR or finance, so department-level comparisons need care. In most cases, it is better to use function-specific KPIs and reserve revenue per employee for the company level or business unit level.」（https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry）
 - 検索結果の抜粋：
   - 「Revenue Per Employee 2026: $130K-$249K by Stage — Jul 7, 2026 · Startup revenue per employee benchmarks for 2026: median and top-quartile figures by funding stage, sector, and headcount band, what the metric」（https://stealthagents.com/research/startup-revenue-per-employee-benchmarks）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
 
 ## 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）（statistical data revisions analysis real-time vintages revision size bias preliminary final）
 - 文脈：改訂
@@ -5122,6 +5122,10 @@
 - 失敗・落とし穴：
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「インタビューフローの作り方｜基礎からグループ/デプスインタビューの注意点まで解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「企業が見落としがちな“データの落とし穴”と解決策」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8e450d4c08bfd188ab70e2b4983d31d4）
+  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8e450d4c08bfd188ab70e2b4983d31d4）
   - 「抹茶の市場規模を語る際には注意が必要である」（https://note.com/kagawatomo/n/ndf2b3052b863）
   - 「ただし、この45％を日本のてん茶生産量へそのまま掛けることには注意が必要である」（https://note.com/kagawatomo/n/ndf2b3052b863）
   - 「ここで注意したいのは、「貴州省の2,500トン」と「銅仁市の2,500トン」が同じ数字として流通していることである」（https://note.com/kagawatomo/n/ndf2b3052b863）
@@ -5131,10 +5135,6 @@
   - 「マーケットシェアとは何を示す指標なのかを整理したうえで、実務での算出方法、分析の手順、戦略へのつなげ方、見落としやすい注意点を順に確認していきましょう」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
   - 「数量の定義を変えたときは、過去のデータとの比較可能性にも注意します」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
   - 「よくある失敗と、分析の精度を保つための注意点」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「よくある失敗は、市場の定義を変えたのに、過去の数値とそのまま比較することです」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「代替性が強ければ、一方の価格変更によって顧客が他方へ移りやすくなるため、企業は競合価格やキャンペーンに注意を払う必要があります」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「もう一つの注意点は、売上や販売量の変化を、代替関係だけで説明してしまうことです」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「また、代替財の関係を固定的に扱うのも誤りです」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
 - 実例：
   - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
   - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
@@ -7180,11 +7180,11 @@
 
 ## 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き（document version deduplication preprint published version citation independence library guide）
 - 文脈：突き合わせ・推定
-- 手順・やり方：記載なし（読んだ25頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
-- 実例：記載なし（読んだ25頁・検索12回）
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）
 
 ## トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）（Denzin triangulation types between-method within-method divergent findings interpretation）
 - 文脈：突き合わせ
@@ -7250,3 +7250,131 @@
   - 「優れた方法論の段落に含まれるべき内容：どのタイプを使用し、なぜそのタイプなのか、具体的に何を変化させたのか、分析のどの段階で情報源を比較したのか、意見が対立したときにどう対処したのか、そしてその結果として何を主張しているのか」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「一方で「調査結果を三角測量した」という曖昧な記述は検証不可能であり、審査員はそのような曖昧な表現を単なる飾り（装飾）として受け取ります" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「Aggregate analysis. It is the first level; selecting individuals for the study, not groups, or relationships, or organizations. This level of analysis is called aggregate because it does not establish social relationships among that observed. Random samples of house workers, school students, and laborers are examples of aggregate analysis of persons.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/）
+
+## 統計表を落としたあとの照合（全国の合計を結果の概要と突き合わせる・除いた行の定義・表を移したときの件数とキーと値の照合）（reconcile downloaded statistical tables with official summary totals data validation）
+- 文脈：統計
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
+
+## 決算公告に損益計算書が載る会社の見分け方（株式会社か・EDINET提出か・大会社か・公告方法・当期純損益の付記）と非上場の売上の代わりの探し先（which companies publish income statement in kessan koukoku large company EDINET alternative sources）
+- 文脈：企業
+- 手順・やり方：
+  - 「本記事では、会社法440条の条文に沿いながら、官報における損益計算書の取り扱いを、会社の規模別・公告方法別にわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「Q6. 定款に「公告方法は官報」とある場合、電子公告に変更するにはどうすればよいですか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「建設業や不動産業など大型借入れを行う業種では、中堅企業でも負債200億円に達する場合があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「「前項の規定にかかわらず、公告方法が官報に掲載する方法又は時事に関する事項を掲載する日刊新聞紙に掲載する方法であるときは、貸借対照表（大会社にあっては、貸借対照表及び損益計算書）の要旨を公告することで足りる」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「要旨の記載方法は会社計算規則（法務省令）で具体的に定められています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「会社法440条3項は、「電子公告によって公告を行う場合は、前条第1項に規定する計算書類の内容である情報を、当該定時株主総会の終結の日後5年を経過する日までの間、継続して電磁的方法により不特定多数の者が提供を受けることができる状態に置かなければならない」と定めています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「公告方法を官報から電子公告に変更するためには、定款の変更が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「現在の定款に「公告方法は官報に掲載する方法による」などと記載されている場合、これを「公告方法は電子公告の方法による」に改めなければなりません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「公告方法は会社の商業登記事項です（会社法911条3項25号）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「決算公告の義務を適切に果たすためには、自社が大会社に該当するかどうかを毎期確認し、公告方法と掲載内容を正確に管理することが重要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「A6. 株主総会の特別決議（議決権の3分の2以上）で定款を変更し、公告方法を電子公告に改める必要があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「決算公告をホームページで行うには？定款変更の要否と手順を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「決算公告をホームページで行う方法を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「中小企業が官報で決算公告する費用・記載項目・申込手順を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「存続会社になれない整備法37条のルール、消滅会社になる場合の費用・手順を解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+- 一次情報の探し方：
+  - 「官報の決算公告に損益計算書は載る？大会社と中小企業の違いを解説 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「官報の決算公告に損益計算書は載る？大会社と中小企業の違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「官報の決算公告に損益計算書は必要？大会社のみB/S+P/L要旨の公告義務があり、非大会社はB/S要旨のみで足ります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「決算公告を官報で行う場合、貸借対照表（B/S）の要旨を掲載することはよく知られています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「本記事では、会社法440条の条文に沿いながら、官報における損益計算書の取り扱いを、会社の規模別・公告方法別にわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「官報の決算公告に損益計算書は必要か？結論から解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「誤解4：「有価証券報告書を提出しているから何もしなくていい」」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「Q1. 中小企業でも官報に損益計算書を掲載しなければならないケースはありますか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「Q2. 官報に掲載する損益計算書は、税務申告書に添付する損益計算書と同じですか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「Q5. 大会社が官報に掲載する損益計算書の要旨には「売上高」は必ず記載しますか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「Q6. 定款に「公告方法は官報」とある場合、電子公告に変更するにはどうすればよいですか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「官報による決算公告に損益計算書（P/L）の掲載が必要かどうかは、会社の規模によって異なります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「資本金5億円未満かつ負債総額200億円未満の株式会社（非大会社）が官報で決算公告を行う場合、掲載が必要なのは「貸借対照表の要旨」のみです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「つまり非大会社の官報公告では、B/Sの要旨の末尾に「当期純利益 ○○百万円」または「当期純損失 ○○百万円」と一行追加する形になります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「資本金5億円以上または負債総額200億円以上の株式会社（大会社）が官報で決算公告を行う場合は、「貸借対照表の要旨」と「損益計算書の要旨」を両方公告しなければなりません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+- 失敗・落とし穴：
+  - 「ただし一点、注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「また、上場廃止になった場合は有報提出義務がなくなる可能性があり、その際は決算公告義務が復活する点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「期限がないからと言って決算公告を怠ると、会社の透明性が損なわれるため注意しましょう」（https://www.keihi.com/column/45390/）
+  - 「「多くの中小企業が実施していないから」「面倒だから」などの理由で対応を怠ると、信頼性が低下につながるため注意しましょう」（https://www.keihi.com/column/45390/）
+  - 「行うべき時期に決算公告をしなかったり不正な方法で行ったりした場合、罰則が生じる可能性があるため注意しましょう」（https://www.keihi.com/column/45390/）
+  - 「のみを公示している場合は、違法状態となることに注意する必要がある」（https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A）
+  - 「この記事では、決算公告における損益計算書の開示義務を会社の規模別・公告方法別に整理し、損益計算書を公告しない場合の対応方法、さらに大会社へ移行する際の実務上の注意点まで解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「Q4: 非大会社が任意で損益計算書を公告する場合の注意点はありますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「さらに、電子公告の場合は掲載期間にも注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「ただし、非大会社でも当期純損益の付記を怠ると形式不備となる可能性があるため注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「1項）、記載を忘れないよう注意が必要です」（https://shiodome.co.jp/js/blog/13590）
+  - 「無料の故か、更新した旨の通知が無いなど少々不親切な面もあるようですが、経団連という威厳のある団体が関係法令の改正に合わせて随時更新しているひな型なので、これを活用すればまず間違いはありません」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「官報で要旨を載せていた会社が電子公告へ切り替えると、公告する分量が大きく増える点に注意が必要です」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
+- 実例：
+  - 「Q1. 中小企業でも官報に損益計算書を掲載しなければならないケースはありますか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「中堅企業でも増資を重ねた結果、5億円を超えるケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「個別の明細（例えば売上原価の内訳である期首棚卸高・当期仕入高・期末棚卸高など）は、要旨では省略可能です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「P/L要旨だけで10〜15行程度が追加されるため、合計30〜40行前後になるケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「株式会社は基本的に決算公告を行う義務がありますが、一部不要のケースもあります」（https://www.keihi.com/column/45390/）
+  - 「掲載費用は非常に高く、数百万ほどかかるケースもあります」（https://www.keihi.com/column/45390/）
+  - 「決算公告が不要となるケースは、以下の通りです」（https://www.keihi.com/column/45390/）
+  - 「しかし、損益計算書を公告しない場合にも「当期純損益の付記」という見落としやすいルールがあり、これを知らずに手続きを進めてしまうケースが少なくありません」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「したがって、業績の変動により前期は大会社に該当しなかったものの、当期は大会社に該当するというケースもあり得ます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「特に、取引先から決算内容の開示を求められるケースでは、決算公告に損益計算書を含めておくことで対応がスムーズになります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「公告する貸借対照表の項目の数次第となりますが、「2枠」又は「3枠」に収まるケースが多いでしょう」（https://shiodome.co.jp/js/blog/13590）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+
+## 分野ごとに言葉が違う対象の検索語の作り方（論文と特許・統計と業界紙・官公庁と求人の言い換え辞書）（building synonym lists across domains patent vs paper terminology search strategy）
+- 文脈：手順
+- 手順・やり方：
+  - 「検索技術者検定2級は、準2級に合格した人が受験する記述式の試験で、全国のテストセンターのコンピュータで解答する会場型CBTです」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「2023年度の筆記の試験問題では、5つの分野の題から1題を選ぶ大問と、調査の進め方や用語の説明の2題から1題を選ぶ大問を、60分で解く形でした」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「会場型CBTになってからの大問の数と選び方は、公式サイトでは示されていません」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「申込方法と受験日は、協会の「検索技術者検定 1級・2級・準2級」のページで確かめてください」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「ライフサイエンス：2型糖尿病の薬の臨床試験を探す」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「開発部門から「2型糖尿病の患者に SGLT2 阻害薬を使ったランダム化比較試験の論文を、海外と国内の両方から集めてほしい」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「各回の問題5・6は分野共通の2題で、検索インタビュー、再現率と適合率の計算、検索式の組み立て、シソーラス、文献の複写と著作権、生成AIの使い方、オープンアクセスとプレプリント、DOI・ORCID などの用語の説明を答案に書いて確認できます」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「初心者のための特許・論文検索ツールまとめ ―― USPTO Patent Public Search、Google Patents、Espacenet、PATENTSCOPE、Google Scholar、CiNii Research、PubMed の使い方 | HighTechPatent」（https://itpat-info.com/search-site-list/）
+  - 「初心者のための特許・論文検索ツールまとめ ―― USPTO Patent Public Search、Google Patents、Espacenet、PATENTSCOPE、Google Scholar、CiNii Research、PubMed の使い方」（https://itpat-info.com/search-site-list/）
+  - 「この記事では、USPTO Patent Public Search とは何か、Basic Search と Advanced Search の違い、Google Patents で世界の特許を検索する方法、Espacenet や PATENTSCOPE を使う場面、Google Scholar などで論文を探す方法、そしてIPC、CPC、FI、Fタームといった特許分類の基本が分かります」（https://itpat-info.com/search-site-list/）
+  - 「USPTO Patent Public Search の使い方 (1) ―― 簡易検索 ベーシックサーチ（Basic Search）で米国特許を検索する方法」（https://itpat-info.com/search-site-list/）
+  - 「USPTO（米国特許商標庁）Patent Public Searchのベーシックサーチ（簡易検索機能）の使い方についての解説です」（https://itpat-info.com/search-site-list/）
+  - 「Basic Search の記事では、特許番号や公開番号から素早く文献を探す方法、キーワードを使った基本検索、検索結果からPDFやテキストを確認する流れを解説しています」（https://itpat-info.com/search-site-list/）
+  - 「USPTO Patent Public Search の使い方 (2) ―― 詳細検索 アドバンスサーチ（Advanced Search）で米国特許を検索する方法」（https://itpat-info.com/search-site-list/）
+  - 「USPTO（米国特許商標庁）のPatent Public Searchのアドバンスサーチ（詳細検索機能）の使い方についての解説です」（https://itpat-info.com/search-site-list/）
+- 一次情報の探し方：
+  - 「【検索技術者検定】2級の出るとこだけ記述予想30題（ライフサイエンス・特許・ビジネス・図書館情報の4分野＋分野共通）！2026年度版｜直前ノート」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「【検索技術者検定】2級の出るとこだけ記述予想30題（ライフサイエンス・特許・ビジネス・図書館情報の4分野＋分野共通）！2026年度版」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「検索技術者検定2級の勉強を一通り終えても、PubMed と Embase の使い分け、FI・Fタームを使った特許の検索式、法人番号公表サイトと EDINET で分かる情報の違いなど、情報源の正式な名前と調べ方を答案に書く段階で手が止まることはありませんか？」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「ライフサイエンス・特許・ビジネス・図書館情報の4分野と分野共通の記述予想30題」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「※最下部のボタンからPDFを購入後、1分で解き始められます」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「分野はライフサイエンス・特許・ビジネス・図書館情報の4つで、受験の手引きでは、自分の得意とする分野での検索能力を問う問題が出題され、公式推奨参考書に書かれていないシステムやデータベースの知識も求められるとされています」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「第1回は、ライフサイエンス・特許・ビジネス・図書館情報の4分野から1題ずつと、分野共通から2題の、合わせて6題です」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「各回の問題1〜4は、ライフサイエンス・特許・ビジネス・図書館情報の4分野から1題ずつで、臨床試験の論文探し、特許の先行技術調査と無効資料調査、取引先や市場の規模の調べ方、作家の作品や地域の古い出来事の調べ方などを扱います」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「※問題集PDFはこの下のボタンから購入・ダウンロードできます」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「検索技術者検定の準2級と2級の対策PDFを2点まとめたマガジンです」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「『2級の出るとこだけ記述予想30題（ライフサイエンス・特許・ビジネス・図書館情報の4分野＋分野共通）』」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「※このマガジンの問題集は、各記事からPDFでダウンロードしてお使いください」（https://note.com/chokuzen_note/n/n19c06bc6faba）
+  - 「初心者のための特許・論文検索ツールまとめ ―― USPTO Patent Public Search、Google Patents、Espacenet、PATENTSCOPE、Google Scholar、CiNii Research、PubMed の使い方 | HighTechPatent」（https://itpat-info.com/search-site-list/）
+  - 「初心者のための特許・論文検索ツールまとめ ―― USPTO Patent Public Search、Google Patents、Espacenet、PATENTSCOPE、Google Scholar、CiNii Research、PubMed の使い方」（https://itpat-info.com/search-site-list/）
+  - 「この記事では、当サイトに掲載している特許・論文検索ツールに関する記事を、初心者にも分かりやすい順番でまとめます」（https://itpat-info.com/search-site-list/）
+- 失敗・落とし穴：
+  - 「索・特許情報調査を行う上でその動向には注意を払っ」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
+- 実例：
+  - 「Basic Search の記事では、特許番号や公開番号から素早く文献を探す方法、キーワードを使った基本検索、検索結果からPDFやテキストを確認する流れを解説しています」（https://itpat-info.com/search-site-list/）
+  - 「Patent Public Searchでは、検索するだけでなく、検索結果を整理したり、文献を表示したり、タグを付けたりする機能も用意されています」（https://itpat-info.com/search-site-list/）
+  - 「この記事では、検索結果の並べ替え、CSV出力、PDF表示、テキスト表示、引用・被引用文献の確認、Global Dossierによる特許ファミリー確認などを解説しています」（https://itpat-info.com/search-site-list/）
+  - 「簡易サーチの記事では、検索窓にキーワードや番号を入力して検索する基本操作、検索結果画面の見方、特許表示画面の読み方を解説しています」（https://itpat-info.com/search-site-list/）
+  - 「キーワード検索、詳細検索、論理演算、検索結果の見方、本文PDF、参考文献・被引用文献、CSV出力による文献管理まで、操作画面を交えて説明します」（https://itpat-info.com/search-site-list/）
+  - 「この記事では、キーワード検索、詳細検索、論理演算、検索結果の見方、本文PDFへのアクセス、参考文献・被引用文献、CSV出力による文献管理などを解説しています」（https://itpat-info.com/search-site-list/）
+  - 「この記事では、PubMed の Basic Search について、キーワードを入力して、論文を検索し、検索結果を絞り込み、論文を読み、保存し、CSV出力するところまでを解説します」（https://itpat-info.com/search-site-list/）
+  - 「例題で解説する J-PlatPat の使い方 (5) ―― 検索結果をもっと絞る」（https://itpat-info.com/search-site-list/）
+  - 「J-PlatPatで検索結果を効率よく絞り込む方法を解説」（https://itpat-info.com/search-site-list/）
+  - 「（６） 調査結果の整理・保存」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
+  - 「４．特許検索マトリックスを用いた検索の実例」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
+  - 「を用いた特許情報調査の実例について紹介した」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
+  - 「6.1年前に既に公開されているという驚くべき結果が」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
+  - 「しかし，審査の結果，特許が付与されたの」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
+  - 「仮に調査の結果，自社の」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
