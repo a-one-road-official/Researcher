@@ -8,216 +8,8 @@
  ],
  "context": "",
  "kind": "market",
- "researched_at": "2026-11-06T18:22:20.258740+00:00",
+ "researched_at": "2026-11-06T22:51:46.385598+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "You should be skeptical of any headline that says the number of jobs in the United States has changed by fewer than about 105,000 since last month. That’s because the monthly jobs growth estimate has a",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "It couldn’t have been long before someone thought of counting by letting each of the chosen stand for 10, but millennia passed before anyone was able to estimate the accuracy of this process.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This formula makes it possible to tally the number of ways to get a sample with any particular number of unemployed people. Dividing the number of possible samples for each level of unemployment by the total of 2,118,760 possible samples gives the probability of seeing each possible unemployment estimate.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Estimated Unemployment",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". Because this interval covers a 40% range, and our best estimate is right in the middle, we say that the estimate has a margin of error of 20%. The",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "And that’s it. We’ve now calculated the margin of error on our unemployment estimate. There many different ways of phrasing our result, which all mean the same thing.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This is how we know the error in our monthly unemployment estimates. The Current Population Survey samples 150,000 people out of 300,000,000. The Bureau of Labor statistics has run the math and worked out that it’ll get within 300,000 of the true unemployment rate 90 percent of the time, which corresponds to 0.2% difference in the national unemployment rate.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Large counts are usually estimates, which differ from the true value by some amount.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "it’s very tempting to interpret something as meaningful when it could just as easily be a coincidence—especially if it makes a good story. But dumb luck is always in the running as an explanation for your data. To try to untangle chance from other factors, we can estimate the probability of sheer coincidence.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "But is it really “extremely improbable?” Nate Silver has estimated the odds:",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "your data. This comes out in the mathematical derivation of the method, which says we need to multiply our Bayes factor of 2.3 to 1 by the prior odds to get a final estimate.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "There is a lot more to say about this method of comparing the likelihood that different models generated your data. The method here only applies to multiple-choice questions, whereas real work often estimates a parameter: how",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". Thus, dying in a terrorist attack can seem just as probable as being struck by lightning even though a conservative estimate puts lighting at least ten times more likely. Telling people the actual numbers does not change this perception, because their perception is not based on numbers!",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Lifetime odds of being struck by lightning estimated at 1 in 12,000 by NOAA, based on 2004–2013 averages.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Estimated reading time: 6 minutes",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Cross-check with independent sources.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Fact-checking is a discipline built on curiosity, patience, and clear method: define the claim, find the source, cross-check, consider context, and document your work. Whether you aspire to be a reporter or simply a more informed reader, these habits matter. To keep building your skills, explore the journalism and communication courses available on Cursa.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "general population, and so there will be uncertainty in our estimate of what the population thinks about a particular issue. We",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Uncertainty can be communicated in a range of ways.10 It could be wording about a lack of data (‘this estimate is based on a small",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(‘the figure is estimated to be between 190 and 210’ instead of just ‘ 200’) or providing a range of possible scenarios that could",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "an estimated rise of 38,000 people out of work over three months. However, this figure was provided with uncertainty of ± 87,000.",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This uncertainty is over twice the size of the estimate itself, telling us to treat the estimate with caution. The range provided",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Four tips to avoid math mistakes",
-    "url": "https://journaliststoolbox.ai/writing-with-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This guidance note discusses how to report statistics and data, while avoiding some of the pitfalls. Advice in assessing the creditability of data-based stories; statistical checking or how to report statistics can be sought from",
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Often outliers can be chance phenomena or due to experimental abnormality, data error or measuring mistake. As such, they may not reveal anything unusual or scientifically significant at all and a story based on such an outlier may need to be rejected.",
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "But not all outliers are mistakes, and these unrepresentative numbers might mark something significant. So, consideration should be given to whether outliers are credible, given existing evidence. If in doubt, ask the producer of the statistics and check with other experts in the field.",
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Consider unemployment again. A survey asks a few questions of many people, so that we can count how many people are unemployed. We can also find patterns of connection between employment status and location, education, age, and so on. To see these patterns truly, without bias, we must either count every single person or take a random sample. That is, a random sample is a",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The crimes that get reported are always the most serious. Content analysis has shown that coverage is biased toward victims who are young, female, white, and famous, as well as crimes which are particularly gruesome or sexual. Yet these examples are the stuff from which our perceptions are formed. it’s enough to make a media researcher weep:",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Not only is crime reporting biased in a statistical sense, but the psychological dominance of examples means that readers end up believing almost the opposite of the truth. This is a type of media bias that is seldom discussed or criticized.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Not everyone is on Twitter, not everyone is Tweeting, and even fewer are speaking on the topic of your story. This data has a bias toward certain types of people, and you don’t really know which kind of people those are. There is surely useful information to be got from social media, but it is not the same kind of information you can get from a random sample.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Ruth Hamill, Timothy DeCamp Wilson, and Richard E. Nisbett, “Insensitivity to Sample Bias: Generalizing From Atypical Cases,” Journal of Personality and Social Psychology, 4 (1980).",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Even careful professionals make mistakes. What distinguishes trustworthy journalism is how errors are handled. Correct them promptly, state clearly what was wrong, and explain what the accurate information is. Hiding or quietly deleting mistakes damages trust far more than an honest correction does.",
-    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• Beware emotional biases and confirmation bias – statistics may be shared to evoke particular emotions, and people",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• Ed Humpherson for Real World Data Science, ‘Pseudo data science’ and other pitfalls: lessons from the UK’s Stats",
-    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "実例": [
    {
     "quote": "Care should be taken when reporting a change in an average as it does not necessarily mean a change for an individual. For example, if average wages rise, this does not mean that all people in the distribution get paid more; some people may not have seen an increase in their wage at all because a mean value does not reflect income distribution.",
@@ -997,6 +789,214 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "You should be skeptical of any headline that says the number of jobs in the United States has changed by fewer than about 105,000 since last month. That’s because the monthly jobs growth estimate has a",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It couldn’t have been long before someone thought of counting by letting each of the chosen stand for 10, but millennia passed before anyone was able to estimate the accuracy of this process.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This formula makes it possible to tally the number of ways to get a sample with any particular number of unemployed people. Dividing the number of possible samples for each level of unemployment by the total of 2,118,760 possible samples gives the probability of seeing each possible unemployment estimate.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Estimated Unemployment",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". Because this interval covers a 40% range, and our best estimate is right in the middle, we say that the estimate has a margin of error of 20%. The",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "And that’s it. We’ve now calculated the margin of error on our unemployment estimate. There many different ways of phrasing our result, which all mean the same thing.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This is how we know the error in our monthly unemployment estimates. The Current Population Survey samples 150,000 people out of 300,000,000. The Bureau of Labor statistics has run the math and worked out that it’ll get within 300,000 of the true unemployment rate 90 percent of the time, which corresponds to 0.2% difference in the national unemployment rate.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Large counts are usually estimates, which differ from the true value by some amount.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "it’s very tempting to interpret something as meaningful when it could just as easily be a coincidence—especially if it makes a good story. But dumb luck is always in the running as an explanation for your data. To try to untangle chance from other factors, we can estimate the probability of sheer coincidence.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "But is it really “extremely improbable?” Nate Silver has estimated the odds:",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "your data. This comes out in the mathematical derivation of the method, which says we need to multiply our Bayes factor of 2.3 to 1 by the prior odds to get a final estimate.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "There is a lot more to say about this method of comparing the likelihood that different models generated your data. The method here only applies to multiple-choice questions, whereas real work often estimates a parameter: how",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". Thus, dying in a terrorist attack can seem just as probable as being struck by lightning even though a conservative estimate puts lighting at least ten times more likely. Telling people the actual numbers does not change this perception, because their perception is not based on numbers!",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Lifetime odds of being struck by lightning estimated at 1 in 12,000 by NOAA, based on 2004–2013 averages.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Estimated reading time: 6 minutes",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Cross-check with independent sources.",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Fact-checking is a discipline built on curiosity, patience, and clear method: define the claim, find the source, cross-check, consider context, and document your work. Whether you aspire to be a reporter or simply a more informed reader, these habits matter. To keep building your skills, explore the journalism and communication courses available on Cursa.",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "general population, and so there will be uncertainty in our estimate of what the population thinks about a particular issue. We",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Uncertainty can be communicated in a range of ways.10 It could be wording about a lack of data (‘this estimate is based on a small",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(‘the figure is estimated to be between 190 and 210’ instead of just ‘ 200’) or providing a range of possible scenarios that could",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "an estimated rise of 38,000 people out of work over three months. However, this figure was provided with uncertainty of ± 87,000.",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This uncertainty is over twice the size of the estimate itself, telling us to treat the estimate with caution. The range provided",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Four tips to avoid math mistakes",
+    "url": "https://journaliststoolbox.ai/writing-with-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This guidance note discusses how to report statistics and data, while avoiding some of the pitfalls. Advice in assessing the creditability of data-based stories; statistical checking or how to report statistics can be sought from",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Often outliers can be chance phenomena or due to experimental abnormality, data error or measuring mistake. As such, they may not reveal anything unusual or scientifically significant at all and a story based on such an outlier may need to be rejected.",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "But not all outliers are mistakes, and these unrepresentative numbers might mark something significant. So, consideration should be given to whether outliers are credible, given existing evidence. If in doubt, ask the producer of the statistics and check with other experts in the field.",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Consider unemployment again. A survey asks a few questions of many people, so that we can count how many people are unemployed. We can also find patterns of connection between employment status and location, education, age, and so on. To see these patterns truly, without bias, we must either count every single person or take a random sample. That is, a random sample is a",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The crimes that get reported are always the most serious. Content analysis has shown that coverage is biased toward victims who are young, female, white, and famous, as well as crimes which are particularly gruesome or sexual. Yet these examples are the stuff from which our perceptions are formed. it’s enough to make a media researcher weep:",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Not only is crime reporting biased in a statistical sense, but the psychological dominance of examples means that readers end up believing almost the opposite of the truth. This is a type of media bias that is seldom discussed or criticized.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Not everyone is on Twitter, not everyone is Tweeting, and even fewer are speaking on the topic of your story. This data has a bias toward certain types of people, and you don’t really know which kind of people those are. There is surely useful information to be got from social media, but it is not the same kind of information you can get from a random sample.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Ruth Hamill, Timothy DeCamp Wilson, and Richard E. Nisbett, “Insensitivity to Sample Bias: Generalizing From Atypical Cases,” Journal of Personality and Social Psychology, 4 (1980).",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Even careful professionals make mistakes. What distinguishes trustworthy journalism is how errors are handled. Correct them promptly, state clearly what was wrong, and explain what the accurate information is. Hiding or quietly deleting mistakes damages trust far more than an honest correction does.",
+    "url": "https://cursa.app/en/article/fact-checking-basics-how-journalists-verify-information-before-publishing",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• Beware emotional biases and confirmation bias – statistics may be shared to evoke particular emotions, and people",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• Ed Humpherson for Real World Data Science, ‘Pseudo data science’ and other pitfalls: lessons from the UK’s Stats",
+    "url": "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -1004,11 +1004,6 @@
   "pass3": [
    {
     "url": "https://note.com/kinoppxxxx/n/n4ebd6ab2bdb9",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/juicy_flea4475/n/n2035a68af2b4",
     "status": "ok",
     "method": "http"
    },
@@ -1023,12 +1018,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/biostat_lab/n/n2441861383b3",
+    "url": "https://note.com/juicy_flea4475/n/n2035a68af2b4",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/vivid_lupine4435/n/nea84418cf8c3",
+    "url": "https://note.com/honest_poppy8830/n/nb919cc871b0e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/biostat_lab/n/n2441861383b3",
     "status": "ok",
     "method": "http"
    },
@@ -1043,6 +1043,11 @@
     "method": "http"
    },
    {
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.tsukuba.ac.jp/about/disclosure-statistics/",
     "status": "ok",
     "method": "pdf"
@@ -1051,11 +1056,6 @@
     "url": "https://uketuke.eiken.or.jp/mis/M2A001",
     "status": "robots_disallowed",
     "method": ""
-   },
-   {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://www.zentsuken.net/journal/file/144_5.html",
@@ -1073,6 +1073,11 @@
     "method": "browser"
    },
    {
+    "url": "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_09.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
     "status": "ok",
     "method": "pdf"
@@ -1084,11 +1089,6 @@
    },
    {
     "url": "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_09.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -1106,6 +1106,21 @@
     "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2303.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://shohyoubookreview.com/archives/16502",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://books.google.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://itkisyakaiessay.hatenablog.jp/entry/2022/09/19/%E7%B5%B1%E8%A8%88%E6%95%B0%E5%AD%97%E3%82%92%E3%81%A9%E3%81%86%E8%AA%AD%E3%82%80%E3%81%8B%EF%BC%9F_%EF%BC%8F%E5%8D%83%E8%91%89_%E5%88%A9%E5%AE%8F%E3%81%AE%E2%80%9C%E7%9B%AE%E2%80%9D",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://thetijproject.ca/guide/introduction/",
@@ -1144,12 +1159,13 @@
    "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） site:note.com",
    "results": [
     "https://note.com/kinoppxxxx/n/n4ebd6ab2bdb9",
-    "https://note.com/juicy_flea4475/n/n2035a68af2b4",
     "https://note.com/biostat_lab/n/na4d52855b4ad",
     "https://note.com/mahaseg/n/n75990fd3b329",
+    "https://note.com/juicy_flea4475/n/n2035a68af2b4",
+    "https://note.com/honest_poppy8830/n/nb919cc871b0e",
     "https://note.com/biostat_lab/n/n2441861383b3",
-    "https://note.com/vivid_lupine4435/n/nea84418cf8c3",
-    "https://note.com/honest_poppy8830/n/nb919cc871b0e"
+    "https://note.com/cat_eye/n/nd707824ea87f",
+    "https://note.com/abcdash/n/n29306eb38462"
    ]
   },
   {
@@ -1157,9 +1173,9 @@
    "results": [
     "https://www.altmetric.com/details/doi/10.1113/JP290572",
     "https://www.worldoftest.com/ja/print/pdf/node/6768",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
     "https://uketuke.eiken.or.jp/mis/M2A001",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.zentsuken.net/journal/file/144_5.html",
     "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
     "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
@@ -1169,15 +1185,15 @@
   {
    "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） やり方",
    "results": [
-    "https://www.worldoftest.com/ja/print/pdf/node/6768",
     "https://lit.fpark.tmu.ac.jp/lit/contents/office2019/statistics/01/index.html",
-    "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.worldoftest.com/ja/print/pdf/node/6768",
+    "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
     "https://www.zentsuken.net/journal/file/173_1.html",
+    "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_09.pdf",
     "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
     "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
-    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
-    "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_09.pdf"
+    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf"
    ]
   },
   {
@@ -1191,7 +1207,8 @@
     "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
     "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
     "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
-    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2303.pdf"
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2303.pdf",
+    "https://shohyoubookreview.com/archives/16502"
    ]
   },
   {
@@ -1204,44 +1221,36 @@
     "https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/",
     "https://www.factcheck.org/",
     "https://libguides.calstatela.edu/c.php?g=1339340&p=9871561",
-    "https://ksjhandbook.org/fact-checking-science-journalism-how-to-make-sure-your-stories-are-true/the-fact-checking-process/",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "https://rss.org.uk/RSS/media/File-library/Policy/2024/RSS-guide-to-statistics-on-social-media.pdf",
     "https://journaliststoolbox.ai/writing-with-numbers/"
    ]
   },
   {
    "query": "site:note.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
-   "results": [
-    "https://note.com/juicy_flea4475/n/n2035a68af2b4",
-    "https://note.com/vivid_lupine4435/n/nea84418cf8c3",
-    "https://note.com/kinoppxxxx/n/n4ebd6ab2bdb9",
-    "https://note.com/aimediaoperator/n/n54ea9e09e10c",
-    "https://note.com/kind_rail6975/n/n2233faa496ec",
-    "https://note.com/kimatta_kotae/n/n2cdb8416843a",
-    "https://note.com/fancy_shrew2220/n/n2eb04bc4fcd5"
-   ]
+   "results": []
   },
   {
    "query": "site:x.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
    "results": [
     "https://x.com/st_data_science",
-    "https://x.com/kanautechjp/status/2113472984295862644",
     "https://x.com/biostat0718",
-    "https://x.com/zg1300z/status/2105924511195598926",
-    "https://x.com/randa_dev/status/2116434110675931368",
+    "https://x.com/kanautechjp/status/2113472984295862644",
     "https://x.com/bg_takken/status/2100179516509638748",
-    "https://x.com/shiho_toushi/status/2091714724794945737"
+    "https://x.com/zg1300z/status/2105924511195598926",
+    "https://x.com/nuribaon/status/2056225194776400163",
+    "https://x.com/lawkus/status/2026830703527342124"
    ]
   },
   {
    "query": "site:linkedin.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
    "results": [
-    "https://jp.linkedin.com/pulse/understanding-summary-statistics-mahsa-salimi-rbkvf?tl=ja",
     "https://jp.linkedin.com/pulse/how-fake-numbers-were-spotted-using-basic-statistical-jeric-lam?tl=ja",
     "https://jp.linkedin.com/pulse/essential-statistics-concepts-every-data-professional-samuel-oyedele-c9sef?tl=ja",
     "https://jp.linkedin.com/pulse/from-numbers-narratives-biostatisticians-guide-yogita-kolekar-thoke-bwiif?tl=ja",
     "https://jp.linkedin.com/pulse/valuation-meets-statistics-secret-sauce-behind-numbers-sayantan-das-vru9f?tl=ja",
     "https://jp.linkedin.com/posts/katsushi-tamagawa_国はなぜ数えるのか-戸籍度量衡統計で読む数字の出所-activity-7505103851054886912-NW7k",
+    "https://jp.linkedin.com/pulse/cenote-32-making-numbers-count-how-avoid-boring-yoga-samsugiharja?tl=ja",
     "https://jp.linkedin.com/pulse/statistical-revolution-how-numbers-changed-everything-jeff-kortis-vn9he?tl=ja"
    ]
   },
@@ -1249,24 +1258,24 @@
    "query": "site:facebook.com 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）",
    "results": [
     "https://www.facebook.com/hashtag/媒體識讀/",
-    "https://www.facebook.com/diamondweekly/posts/株の重要指標perの正しい使い方年率平均27で稼ぐ個人投資家が伝授httpsdiamondjparticles-269181/4082059035149367/",
     "https://www.facebook.com/NumberWeb/posts/この時の読売新聞の記者は記事を書いてから俺の前から消えた顔を見たらぶん殴ってやろうかと今でも思っているがあれ以来一度も姿を現わさない/1502078081934405/",
     "https://www.facebook.com/裏首相官邸-402169233201221/photos/1946323588785770/",
     "https://www.facebook.com/personalbrains/photos/本日6月27日はメディアリテラシーの日ですtoppointではこれまでにニュースの数字をどう読むか-統計にだまされないための22章やナンバーセンス-ビッグデータ/756043043436748/",
-    "https://www.facebook.com/jointkaigo/posts/ケアプラン点検は本来教育であるべき指導という言葉の重圧ではなく質を高めるための助言提言へ全国標準を目指す新たな手引きがケアマネジャーの業務をどう変えるのか日本介/1371018954828406/",
-    "https://www.facebook.com/atsushi.takabe.3/videos/厚労省から最新の介護保険事務調査vol1545が発表されました現場の実務に関わる数字をぎゅっと整理しています自治体ごとのローカルルールの差や認定給付のリアル普段/2076592399636617/"
+    "https://www.facebook.com/karen0v0no1/videos/999の真実今回はheaveneseアンバサダーとしてドラマ風のショート動画を制作してみました-テーマは-数字をどう受け取るか-ニュースやsnsで流れてくる情報/4257958724471356/",
+    "https://www.facebook.com/sophia.globalcitizen/videos/統計学をつかって身近なものの数字を読み解いてみませんか文系初心者の人にもわかりやすく進めていきますデータに対するまなざしを育てたいすべての方におすすめです公開講/1954136348774645/",
+    "https://www.facebook.com/jointkaigo/posts/ケアプラン点検は本来教育であるべき指導という言葉の重圧ではなく質を高めるための助言提言へ全国標準を目指す新たな手引きがケアマネジャーの業務をどう変えるのか日本介/1371018954828406/"
    ]
   },
   {
    "query": "記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact） note 社長",
    "results": [
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.tsukuba.ac.jp/public/statistics/nenji14/pdf/258.pdf",
     "https://uketuke.eiken.or.jp/mis/M2A001",
     "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
     "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
+    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
     "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
     "https://www.toukei-kentei.jp/preparation/books/"
    ]
@@ -1280,9 +1289,9 @@
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
     "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
-    "https://www.zentsuken.net/journal/file/144_5.html",
     "https://libguides.lib.keio.ac.jp/ld.php?content_id=52207689",
-    "https://www.imperialpublications.com/image/catalog/testing.pdf"
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf"
    ]
   },
   {
@@ -1290,19 +1299,19 @@
    "results": [
     "https://www.linkedin.com/in/sbailly2",
     "https://in.linkedin.com/in/nalin-mehta-06068424",
-    "https://www.linkedin.com/in/andymedici",
     "https://uk.linkedin.com/in/peteraven",
-    "https://in.linkedin.com/in/shwkothari",
+    "https://www.linkedin.com/in/andymedici",
     "https://uk.linkedin.com/in/alan-smith-obe-37385935",
-    "https://in.linkedin.com/in/makepeace-sitlhou",
+    "https://www.linkedin.com/in/hilary-till",
     "https://www.linkedin.com/in/jeffrey-ptak-cfa-5977978",
-    "https://www.linkedin.com/in/surbhi625",
-    "https://uk.linkedin.com/in/williamrjames"
+    "https://in.linkedin.com/in/makepeace-sitlhou",
+    "https://in.linkedin.com/in/shwkothari",
+    "https://www.linkedin.com/posts/lloyd-mathias_upi-mdr-of-04-above-2000-will-merchants-activity-7506547667762847744-prKx"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 9,
+ "runs": 10,
  "first_researched_at": "2026-11-05T13:07:35.513856+00:00"
 }

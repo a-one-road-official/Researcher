@@ -3259,7 +3259,7 @@
   - 「number of sub-periods in each low-frequency time interval ( s=4 in the quarterly-annual case and」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「s=3 in the monthly-quarterly case). We define 21nn n=− , and for algebraic convenience assume」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「and () 2, 0, hht WN εεσ   . Model (9) is a special case of (11), with () ,,ht htfy y ≡ , p=1 and q=0.」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
 
 ## 現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手（channel checks methodology expert interviews structured questionnaire bias）
 - 文脈：探し先・書き手
@@ -4558,8 +4558,8 @@
   - 「This metric becomes less useful at a narrow departmental level unless revenue can be credibly attributed. Sales teams may influence revenue more directly than HR or finance, so department-level comparisons need care. In most cases, it is better to use function-specific KPIs and reserve revenue per employee for the company level or business unit level.」（https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry）
 - 検索結果の抜粋：
   - 「Revenue Per Employee 2026: $130K-$249K by Stage — Jul 7, 2026 · Startup revenue per employee benchmarks for 2026: median and top-quartile figures by funding stage, sector, and headcount band, what the metric」（https://stealthagents.com/research/startup-revenue-per-employee-benchmarks）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）（statistical data revisions analysis real-time vintages revision size bias preliminary final）
 - 文脈：改訂
@@ -6431,7 +6431,7 @@
   - 「Focus Group Questions: 50+ Examples and How to Write Them」（https://www.koji.so/docs/anchoring-bias-research）
   - 「The Case Definition: The Decision That Fixes or Breaks Every Issue Count (2026)」（https://www.koji.so/docs/anchoring-bias-research）
   - 「How to Write Usability Test Tasks and Scenarios (With Examples)」（https://www.koji.so/docs/anchoring-bias-research）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
 
 ## 市場の定義・範囲がずれた数字の照合（合算・含む・除く・狭義と広義）の実務（market definition scope mismatch reconcile figures）
 - 文脈：突き合わせ
@@ -7000,11 +7000,11 @@
 
 ## 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）（fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 実例：記載なし（読んだ21頁・検索12回）
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方

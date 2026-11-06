@@ -8,63 +8,18 @@
  ],
  "context": "失敗・落とし穴",
  "kind": "market",
- "researched_at": "2026-11-06T18:22:16.396733+00:00",
+ "researched_at": "2026-11-06T22:40:50.235372+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "url": "https://note.com/reading_monkey/n/nc163a82be160",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.sozeishiryokan.or.jp/x_core/uploads/_media/award/z_pdf/ronbun_h28_99_1.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.murc.jp/wp-json/wp/v2/column_reports/93095/",
-    "status": "http_404",
-    "method": "http"
-   },
-   {
-    "url": "https://www.msci.com/documents/1296102/0/MSCI%E6%8C%87%E6%95%B0%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88+%28iShares+ETFs%29.pdf/58492f4a-6c8c-4c48-8287-501a1ce59cdc",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.zenginkyo.or.jp/fileadmin/res/news/news260912.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.toben.or.jp/message/libra/pdf/2019_02/lbr_201902.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://researchmap.jp/blogs/blog_entries/view/143851/dd62e541c232150e34b2b07c8453c2b2",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.murc.jp/wp-json/wp/v2/column_reports/93337/",
-    "status": "http_404",
-    "method": "http"
-   },
-   {
-    "url": "https://www.koeki-info.go.jp/regulations/documents/byxewbt1b9.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.glocom.ac.jp/wp-content/uploads/2024/04/IN2024_report_fakenews_full.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://factcheckpro.jp/lab/primary-source-guide/",
+    "url": "https://note.com/alert_rose9948/n/n5ffc58320c45",
     "status": "ok",
     "method": "http"
    },
@@ -74,9 +29,44 @@
     "method": "browser"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000802743.pdf",
+    "url": "https://note.com/ai_medical/n/n0f3c53ddf741",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_jitan_labn/n/nedcfc8eb561f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/eiji_tokusatsu/n/n91c2e9f8b143",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%80%E6%AC%A1%E8%B3%87%E6%96%99",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://factcheckpro.jp/lab/primary-source-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/jtje/20/0/20_19/_pdf/-char/ja",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://kyomunbert.com/%E4%B8%80%E6%AC%A1%E8%B3%87%E6%96%99%E3%81%A8%E3%81%AF%EF%BC%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://book.st-hakky.com/purpose/how-to-cite-report",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.yoshika-medialink.site/fact-checking-guide/",
@@ -89,11 +79,6 @@
     "method": "pdf"
    },
    {
-    "url": "https://kyomunbert.com/%E4%B8%80%E6%AC%A1%E8%B3%87%E6%96%99%E3%81%A8%E3%81%AF%EF%BC%9F/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://jiken.jp/guide/",
     "status": "ok",
     "method": "http"
@@ -104,33 +89,33 @@
     "method": "http"
    },
    {
-    "url": "https://apers.app/learn/financial-modeling/debt-analysis/interest-rate-risk-caps-swaps-hedging",
+    "url": "https://en.wikipedia.org/wiki/Fact-checking",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/derivatives_and_hedg/derivatives_and_hedg_US/chapter_11_private_c_US/112_simplified_hedge_US.html",
+    "url": "https://pomegra.io/learn/library/track-a-foundations/financial-news-literacy/chapter-02-anatomy-of-a-financial-article/hedge-words-news",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://hedgebook.com/interest-rate-swap-tutorial/",
+    "url": "https://www.singlegrain.com/artificial-intelligence/ai-content-fact-checking-for-credible-accurate-articles/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.cftc.gov/sites/default/files/2024-04/Banks_and_Derivatives%20(11)%20-%20ada.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://derivativelogic.com/dl-report-category/interest-rate-swaps-10-myths-and-misconceptions",
+    "url": "https://www.englishgrammar.org/words-fact-checker/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.blueandco.com/interest-rate-swaps/",
-    "status": "http_500",
+    "url": "https://www.optionstrading.org/blog/swing-traders-weekly-vs-monthly-options/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://casrai.org/guides/hedging-in-academic-writing",
+    "status": "ok",
     "method": "http"
    }
   ]
@@ -139,90 +124,76 @@
   {
    "query": "一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え） site:note.com",
    "results": [
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.sozeishiryokan.or.jp/x_core/uploads/_media/award/z_pdf/ronbun_h28_99_1.pdf",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93095",
-    "https://www.msci.com/documents/1296102/0/MSCI%E6%8C%87%E6%95%B0%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88+%28iShares+ETFs%29.pdf/58492f4a-6c8c-4c48-8287-501a1ce59cdc",
-    "https://www.zenginkyo.or.jp/fileadmin/res/news/news260912.pdf",
-    "https://www.toben.or.jp/message/libra/pdf/2019_02/lbr_201902.pdf",
-    "https://www.glocom.ac.jp/wp-content/uploads/2024/04/IN2024_report_fakenews_full.pdf",
-    "https://www.koeki-info.go.jp/regulations/documents/byxewbt1b9.pdf",
-    "https://www.soumu.go.jp/main_content/000802743.pdf",
-    "https://note.com/reading_monkey/n/nc163a82be160"
+    "https://note.com/reading_monkey/n/nc163a82be160",
+    "https://note.com/alert_rose9948/n/n5ffc58320c45",
+    "https://note.com/news_genryu/n/n2b0caf2c534b",
+    "https://note.com/ai_medical/n/n0f3c53ddf741",
+    "https://note.com/ai_jitan_labn/n/nedcfc8eb561f",
+    "https://note.com/eiji_tokusatsu/n/n91c2e9f8b143",
+    "https://note.com/ai_tool_lab_jp/n/n22f6e8a7e2f2"
    ]
   },
   {
    "query": "一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え） note",
    "results": [
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://researchmap.jp/blogs/blog_entries/view/143851/dd62e541c232150e34b2b07c8453c2b2",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
-    "https://www.sozeishiryokan.or.jp/x_core/uploads/_media/award/z_pdf/ronbun_h28_99_1.pdf",
-    "https://www.msci.com/documents/1296102/0/MSCI%E6%8C%87%E6%95%B0%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88+%28iShares+ETFs%29.pdf/58492f4a-6c8c-4c48-8287-501a1ce59cdc",
-    "https://www.zenginkyo.or.jp/fileadmin/res/news/news260912.pdf",
-    "https://www.toben.or.jp/message/libra/pdf/2019_02/lbr_201902.pdf",
-    "https://www.koeki-info.go.jp/regulations/documents/byxewbt1b9.pdf",
-    "https://www.glocom.ac.jp/wp-content/uploads/2024/04/IN2024_report_fakenews_full.pdf",
-    "https://factcheckpro.jp/lab/primary-source-guide/"
+    "https://ja.wikipedia.org/wiki/一次資料",
+    "https://factcheckpro.jp/lab/primary-source-guide/",
+    "https://www.jstage.jst.go.jp/article/jtje/20/0/20_19/_pdf/-char/ja",
+    "https://note.com/news_genryu/n/n2b0caf2c534b",
+    "https://kyomunbert.com/一次資料とは？/",
+    "https://book.st-hakky.com/purpose/how-to-cite-report",
+    "https://www.yoshika-medialink.site/fact-checking-guide/",
+    "https://www.jstage.jst.go.jp/article/jtje/19/0/19_25/_pdf/-char/ja",
+    "https://report.prism-ai.jp/report-writing-copyright/"
    ]
   },
   {
    "query": "一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え） やり方",
    "results": [
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.sozeishiryokan.or.jp/x_core/uploads/_media/award/z_pdf/ronbun_h28_99_1.pdf",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93095",
-    "https://www.msci.com/documents/1296102/0/MSCI%E6%8C%87%E6%95%B0%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88+%28iShares+ETFs%29.pdf/58492f4a-6c8c-4c48-8287-501a1ce59cdc",
-    "https://www.zenginkyo.or.jp/fileadmin/res/news/news260912.pdf",
-    "https://www.toben.or.jp/message/libra/pdf/2019_02/lbr_201902.pdf",
-    "https://www.glocom.ac.jp/wp-content/uploads/2024/04/IN2024_report_fakenews_full.pdf",
-    "https://www.koeki-info.go.jp/regulations/documents/byxewbt1b9.pdf",
-    "https://www.soumu.go.jp/main_content/000802743.pdf",
-    "https://www.yoshika-medialink.site/fact-checking-guide/"
+    "https://ja.wikipedia.org/wiki/一次資料",
+    "https://www.yoshika-medialink.site/fact-checking-guide/",
+    "https://factcheckpro.jp/lab/primary-source-guide/",
+    "https://www.jstage.jst.go.jp/article/jtje/19/0/19_25/_pdf/-char/ja",
+    "https://kyomunbert.com/一次資料とは？/",
+    "https://note.com/news_genryu/n/n2b0caf2c534b",
+    "https://jiken.jp/guide/"
    ]
   },
   {
    "query": "一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え） 事例",
    "results": [
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.sozeishiryokan.or.jp/x_core/uploads/_media/award/z_pdf/ronbun_h28_99_1.pdf",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93095",
-    "https://www.msci.com/documents/1296102/0/MSCI%E6%8C%87%E6%95%B0%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88+%28iShares+ETFs%29.pdf/58492f4a-6c8c-4c48-8287-501a1ce59cdc",
-    "https://www.zenginkyo.or.jp/fileadmin/res/news/news260912.pdf",
-    "https://www.toben.or.jp/message/libra/pdf/2019_02/lbr_201902.pdf",
-    "https://www.glocom.ac.jp/wp-content/uploads/2024/04/IN2024_report_fakenews_full.pdf",
-    "https://www.koeki-info.go.jp/regulations/documents/byxewbt1b9.pdf",
-    "https://www.soumu.go.jp/main_content/000802743.pdf"
+    "https://ja.wikipedia.org/wiki/一次資料",
+    "https://factcheckpro.jp/lab/primary-source-guide/",
+    "https://www.jstage.jst.go.jp/article/jtje/19/0/19_25/_pdf/-char/ja",
+    "https://kyomunbert.com/一次資料とは？/",
+    "https://www.yoshika-medialink.site/fact-checking-guide/",
+    "https://report.prism-ai.jp/report-writing-copyright/",
+    "https://note.com/news_genryu/n/n2b0caf2c534b"
    ]
   },
   {
    "query": "fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap",
    "results": [
-    "https://apers.app/learn/financial-modeling/debt-analysis/interest-rate-risk-caps-swaps-hedging",
-    "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/derivatives_and_hedg/derivatives_and_hedg_US/chapter_11_private_c_US/112_simplified_hedge_US.html",
-    "https://hedgebook.com/interest-rate-swap-tutorial/",
-    "https://www.cftc.gov/sites/default/files/2024-04/Banks_and_Derivatives%20(11)%20-%20ada.pdf",
-    "https://derivativelogic.com/dl-report-category/interest-rate-swaps-10-myths-and-misconceptions",
-    "https://www.blueandco.com/interest-rate-swaps/",
-    "https://www.ballardspahr.com/insights/alerts-and-articles/2023/06/term-sofr-hedges-the-price-of-perfection",
-    "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1590.pdf",
-    "https://www.fasb.org/page/PageContent?pageId=/Archive/superseded-standards/derivatives-statement-implementation/fasb-cash-flow-hedges-impact-on-accumulated-other.html&isStaticPage=true",
-    "https://pomegra.io/learn/library/track-a-foundations/financial-news-literacy/chapter-02-anatomy-of-a-financial-article/hedge-words-news"
+    "https://en.wikipedia.org/wiki/Fact-checking",
+    "https://pomegra.io/learn/library/track-a-foundations/financial-news-literacy/chapter-02-anatomy-of-a-financial-article/hedge-words-news",
+    "https://www.singlegrain.com/artificial-intelligence/ai-content-fact-checking-for-credible-accurate-articles/",
+    "https://www.englishgrammar.org/words-fact-checker/",
+    "https://www.optionstrading.org/blog/swing-traders-weekly-vs-monthly-options/",
+    "https://casrai.org/guides/hedging-in-academic-writing",
+    "https://www.investopedia.com/terms/h/hedge.asp",
+    "https://www.reuters.com/fact-check/"
    ]
   },
   {
    "query": "site:note.com 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）",
    "results": [
-    "https://note.com/ichi_twnovel/n/nc7a804e0096d",
-    "https://note.com/sun_r_lab/n/nb28beee005fa",
-    "https://note.com/kagawatomo/n/n0d0f39e1d1f7",
-    "https://note.com/reading_monkey/n/nfb219b7f3fa6",
-    "https://note.com/kagawatomo/n/nfa97baccac78",
-    "https://note.com/reading_monkey/n/na1dced4fa1ed",
-    "https://note.com/hirokimiyano/n/na74aba81e4c6",
-    "https://note.com/hafnium/n/necb24cd11d5c",
-    "https://note.com/kagawatomo/n/n0f5fcb738bcf",
-    "https://note.com/nekota_toure/n/n1e51307f161d"
+    "https://note.com/reading_monkey/n/nc163a82be160",
+    "https://note.com/alert_rose9948/n/n5ffc58320c45",
+    "https://note.com/eiji_tokusatsu/n/n91c2e9f8b143",
+    "https://note.com/glossus/n/nc8c8ee4c4ffc",
+    "https://note.com/news_genryu/n/n2b0caf2c534b",
+    "https://note.com/jiraygyo/n/ne2e866503f1b",
+    "https://note.com/honest_zinnia116/n/n42b244a2d8c8"
    ]
   },
   {
@@ -231,30 +202,27 @@
     "https://x.com/K_Ichida/status/2088098786593648867",
     "https://x.com/streetking5913/status/2071872851817468111",
     "https://x.com/spring_online1/status/2117753713712566384",
-    "https://x.com/KNHjyohokyoku/status/2054412554328572098",
     "https://x.com/yasu25983362/status/2098461732113174899",
+    "https://x.com/qTGPwFcWo791518/status/2104777529429221435",
     "https://x.com/takesiyama/status/2114573549671432630",
-    "https://x.com/qTGPwFcWo791518/status/2104777529429221435"
+    "https://x.com/KNHjyohokyoku/status/2054412554328572098"
    ]
   },
   {
    "query": "site:linkedin.com 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）",
    "results": [
-    "https://jp.linkedin.com/in/%E4%B8%AD%E5%86%85%E5%8D%9A%E6%98%AD-hiroaki%E3%80%80nakauchi-a548a6b4",
     "https://jp.linkedin.com/pulse/引用はどこで壊れるか-ayako-iuchi-b7udc",
     "https://in.linkedin.com/company/citiustech",
     "https://jp.linkedin.com/posts/hiroki-kakuda-a0a74829_一次資料とは何かなぜ一次資料が重要なのか-ターンイットイン-activity-7085432497819271168-K6Id",
     "https://jp.linkedin.com/pulse/一次情報ってどこまで大切なのかコンテンツの芯を整えたい時に読み返したくなる話-剛-柏崎-vxyuc",
-    "https://jp.linkedin.com/posts/健佑-大原-664537208_組織を腐らせる人事考課のngパターンについて-最も罪深いのは現場の一次評価-activity-7440973479673327616-JHcw",
     "https://jp.linkedin.com/pulse/using-data-make-better-decisions-primary-vs-secondary-tatsch-mgk4c?tl=ja",
+    "https://jp.linkedin.com/posts/健佑-大原-664537208_組織を腐らせる人事考課のngパターンについて-最も罪深いのは現場の一次評価-activity-7440973479673327616-JHcw",
     "https://jp.linkedin.com/posts/bespoke-english_英語の語彙が半分になると-消えるのは言葉だけではありません-まずニュアンスが-activity-7518502683574489088-3cLX"
    ]
   },
   {
    "query": "site:facebook.com 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）",
    "results": [
-    "https://www.facebook.com/kidera.yoshi/",
-    "https://www.facebook.com/VUC2021/",
     "https://www.facebook.com/takumi.nagai.50/videos/南魚沼市議会議員の定数にいて調査をする特別委員会が22名の現状維持という結果をだしました委員会内では私たちの会派-未来創生会永井大平剛議員中澤一博議員と歩む会鈴/559176123593160/",
     "https://www.facebook.com/groups/281769248591787/posts/9323570827744872/",
     "https://www.facebook.com/nikkan.gendai/photos/政治高市自民が内部留保200億円で仕掛けたsns金満選挙-超短期決戦でメッセージ動画再生回数1億5000万超の異常-httpswwwnikkan-gendaic/1490300979762528/",
@@ -267,56 +235,48 @@
   {
    "query": "一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え） note 社長",
    "results": [
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://researchmap.jp/blogs/blog_entries/view/143851/dd62e541c232150e34b2b07c8453c2b2",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
-    "https://www.sozeishiryokan.or.jp/x_core/uploads/_media/award/z_pdf/ronbun_h28_99_1.pdf",
-    "https://www.msci.com/documents/1296102/0/MSCI%E6%8C%87%E6%95%B0%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88+%28iShares+ETFs%29.pdf/58492f4a-6c8c-4c48-8287-501a1ce59cdc",
-    "https://www.zenginkyo.or.jp/fileadmin/res/news/news260912.pdf",
-    "https://www.toben.or.jp/message/libra/pdf/2019_02/lbr_201902.pdf",
-    "https://www.koeki-info.go.jp/regulations/documents/byxewbt1b9.pdf",
-    "https://www.glocom.ac.jp/wp-content/uploads/2024/04/IN2024_report_fakenews_full.pdf",
-    "https://factcheckpro.jp/lab/primary-source-guide/"
+    "https://ja.wikipedia.org/wiki/一次資料",
+    "https://factcheckpro.jp/lab/primary-source-guide/",
+    "https://www.jstage.jst.go.jp/article/jtje/19/0/19_25/_pdf/-char/ja",
+    "https://note.com/news_genryu/n/n2b0caf2c534b",
+    "https://kyomunbert.com/一次資料とは？/",
+    "https://www.yoshika-medialink.site/fact-checking-guide/",
+    "https://report.prism-ai.jp/report-writing-copyright/"
    ]
   },
   {
    "query": "一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え） X 投稿",
    "results": [
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://researchmap.jp/blogs/blog_entries/view/143851/dd62e541c232150e34b2b07c8453c2b2",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
-    "https://www.sozeishiryokan.or.jp/x_core/uploads/_media/award/z_pdf/ronbun_h28_99_1.pdf",
-    "https://www.msci.com/documents/1296102/0/MSCI%E6%8C%87%E6%95%B0%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88+%28iShares+ETFs%29.pdf/58492f4a-6c8c-4c48-8287-501a1ce59cdc",
-    "https://www.zenginkyo.or.jp/fileadmin/res/news/news260912.pdf",
-    "https://www.toben.or.jp/message/libra/pdf/2019_02/lbr_201902.pdf",
-    "https://www.koeki-info.go.jp/regulations/documents/byxewbt1b9.pdf",
-    "https://www.glocom.ac.jp/wp-content/uploads/2024/04/IN2024_report_fakenews_full.pdf",
-    "https://factcheckpro.jp/lab/primary-source-guide/"
+    "https://factcheckpro.jp/lab/primary-source-guide/",
+    "https://www.jstage.jst.go.jp/article/jtje/19/0/19_25/_pdf/-char/ja",
+    "https://kyomunbert.com/一次資料とは？/",
+    "https://report.prism-ai.jp/report-writing-copyright/",
+    "https://www.yoshika-medialink.site/fact-checking-guide/",
+    "https://note.com/news_genryu/n/n2b0caf2c534b",
+    "https://jiken.jp/guide/"
    ]
   },
   {
    "query": "fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/coopernyc",
-    "https://in.linkedin.com/in/shital-rede-82b01a380",
     "https://www.linkedin.com/posts/patrick-chessa_ai-prompts-chatgpt-activity-7432495353305862145-rPEm",
-    "https://www.linkedin.com/posts/dr-andree-bates_pharmaai-lifesciences-aigovernance-activity-7502772714135470080-kpwp",
-    "https://pe.linkedin.com/pulse/hedge-words-weaken-statements-indicating-lack-confidence-jeff-march-8q3pc",
     "https://www.linkedin.com/posts/kashmala-malik_why-ai-skips-your-page-even-when-its-accurate-activity-7505834623558496256-3Flx",
+    "https://pe.linkedin.com/pulse/hedge-words-weaken-statements-indicating-lack-confidence-jeff-march-8q3pc",
+    "https://www.linkedin.com/posts/dr-andree-bates_pharmaai-lifesciences-aigovernance-activity-7502772714135470080-kpwp",
     "https://www.linkedin.com/top-content/writing/editing-and-proofreading-skills/fact-checking-procedures/",
-    "https://www.linkedin.com/pulse/thirteen-ai-output-failures-only-human-judgement-catches-bates-p8kue",
+    "https://www.linkedin.com/pulse/weekly-vs-monthly-quarterly-yearly-growth-which-oghenechovwen--o0wrf",
     "https://www.linkedin.com/pulse/ai-report-read-perfectly-wrong-five-times-william-bentley-j8ahc"
    ]
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ24頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ24頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ24頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ24頁・検索12回）",
-  "実例": "記載なし（読んだ24頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ21頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ21頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ21頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ21頁・検索12回）",
+  "実例": "記載なし（読んだ21頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-06T10:14:27.555637+00:00"
 }
