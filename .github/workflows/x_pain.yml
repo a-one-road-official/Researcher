@@ -1,0 +1,42 @@
+name: X pain
+
+# X（旧Twitter）の公式APIで、ものづくりの現場の困りごとの投稿を集め、深さの5つの印で仕分ける（researcher/x_pain.py）。
+# 有料API（1投稿ごとに課金）。読み取り数の上限は researcher/control.yaml の x_pain.max_posts_per_run。
+# トークンは GitHub の Secrets の X_BEARER_TOKEN。無ければ何もせず終わる。オン・オフは control.yaml の x_pain.run。
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "researcher/control.yaml"
+      - "researcher/inputs/x_pain.csv"
+  workflow_dispatch: {}
+  schedule:
+    - cron: "17 */6 * * *"   # 6時間おき（直近7日の検索なので取りこぼさない間隔）
+
+permissions:
+  contents: write
+
+concurrency:
+  group: x_pain
+  cancel-in-progress: false
+
+jobs:
+  x_pain:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python -m pip install -q requests pyyaml
+      - run: python -m researcher.x_pain
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+      - run: |
+          git config user.name "a1-researcher"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add researcher/out/x_pain
+          git diff --cached --quiet && exit 0
+          git commit -q -m "x_pain: $(date -u +%FT%TZ)"
+          for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && break; sleep 5; done

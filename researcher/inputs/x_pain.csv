@@ -1,0 +1,11 @@
+名前,検索式,ねらい
+受注を断る,(受注 OR 仕事 OR 注文 OR 依頼) (断った OR 断る OR 断らざるを得 OR お断り OR 見送) (人手 OR 人が足りない OR 人がいない OR 職人 OR 人不足) lang:ja -is:retweet,人がいなくて仕事を断った（損が金額・件数で語られるか）
+求人が来ない,(求人 OR 募集 OR 採用) (来ない OR 応募ゼロ OR 応募がない OR 採れない OR 集まらない) (工場 OR 町工場 OR 製造 OR 加工 OR 溶接 OR 職人) lang:ja -is:retweet,もう手を打って失敗している（求人・広告に払ったのに採れない）
+採用費の無駄,(採用費 OR 求人広告 OR 紹介会社 OR 人材紹介 OR 紹介料) (無駄 OR 辞め OR 定着しない OR 高すぎ OR 効果なし OR 来なかった) (工場 OR 製造 OR 町工場 OR 職人) lang:ja -is:retweet,払った実績のある悩み＝財布がある
+溶接工・職人がいない,(溶接工 OR 溶接士 OR 旋盤工 OR 職人 OR 技能工 OR 技術者) (いない OR 足りない OR 不足 OR 引退 OR 辞めた) (受注 OR 納期 OR 現場 OR 工場) lang:ja -is:retweet,担い手がいない現場の声
+造船の人手,(造船 OR 造船所 OR ドック OR 船台) (人手不足 OR 人がいない OR 足りない OR 外国人 OR 溶接工) lang:ja -is:retweet,造船（H7）の受注残と人手
+設備が止まる,(機械 OR 設備 OR ライン OR 機械が) (止まって OR 止めて OR 動かせない OR 遊んで OR 空いて) (人がいない OR 人手 OR オペレーター OR 担当者が辞め) lang:ja -is:retweet,人がいなくて設備が止まっている（損を金額にできるか）
+納期が間に合わない,(納期) (間に合わない OR 遅れ OR 守れない OR 延ばして) (人手 OR 人が足りない OR 職人 OR 外注先 OR 協力会社) lang:ja -is:retweet,期限が迫っている痛み
+外注先が消える,(外注先 OR 協力工場 OR 協力会社 OR 仕入先 OR 加工先) (廃業 OR 辞め OR 閉め OR 断られ OR なくなっ OR 受けてくれない) (金型 OR めっき OR 熱処理 OR 鋳造 OR 鍛造 OR 板金 OR 切削 OR 加工 OR 溶接) lang:ja -is:retweet,発注する側の痛み（頼める先が減っている）
+見積もりを断られる,(見積 OR 見積もり OR 相見積) (断られ OR 辞退 OR 返事がない OR 出してもらえない) (加工 OR 製造 OR 部品 OR 試作 OR 金型) lang:ja -is:retweet,発注する側が作り手を探せない痛み
+後継ぎ・廃業,(町工場 OR 工場 OR 製作所) (廃業 OR 後継 OR 跡継ぎ OR 事業承継 OR 畳む) (人がいない OR 職人 OR 受注 OR 技術) lang:ja -is:retweet,技術と受注が消える痛み

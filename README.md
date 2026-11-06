@@ -3,7 +3,7 @@
 金属AM・戦略17分野・商社・ソフトウェアなど、どのテーマも同じコードで回す。テーマごとに変えるのは `topics/<テーマ>.yaml` と入力CSVだけ。
 
 - **オン・オフ**：`control.yaml` の `run: true / false` を書き換えて push。オンにすると GitHub Actions が回り、終わるまで自分で次の回を呼ぶ。
-- **AI・有料APIは使わない**：HTTP、ヘッドレスChromium、pypdf、tesseract OCR、無料の複数検索エンジン（Yahoo! JAPAN＝Google系、Google/Bing/DuckDuckGo/Brave/Yahoo）。
+- **AIは使わない。有料APIは X だけ**（2026-11-06 本人の指示。`researcher/x_pain.py`、別の仕組み `.github/workflows/x_pain.yml`）。ほかは：HTTP、ヘッドレスChromium、pypdf、tesseract OCR、無料の複数検索エンジン（Yahoo! JAPAN＝Google系、Google/Bing/DuckDuckGo/Brave/Yahoo）。
 - **1社ごとの三重確認**：①公式サイト本文 ②PDF・画像のOCR ③外部情報源（表記ゆれ：全角/半角、株式会社の有無、別名、Japan/日本/K.K.）。3回とも空なら「記載なし（3回確認済み：見た件数）」。
 - **出力は事実だけ**：`out/<テーマ>/companies/*.json`（引用＋URL＋何回目で見つけたか）、`out/<テーマ>/facts.md`、`out/<テーマ>/summary.csv`。要約・解釈・順位づけはしない。
 
