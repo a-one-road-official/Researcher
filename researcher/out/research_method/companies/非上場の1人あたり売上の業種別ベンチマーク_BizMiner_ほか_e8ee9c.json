@@ -8,16 +8,8 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-05T23:03:23.031111+00:00",
+ "researched_at": "2026-11-06T05:31:50.318490+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "peppereffect measurement, September 2026. Medians, not averages. Quartile spread on the full set: current visits per employee 38 at the 25th percentile, 135 median, 577 at the 75th. Our figures are estimated monthly organic visits, which is close to but not identical with a GA4 session count.",
-    "url": "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "Revenue per Employee by Industry: 2026 Benchmarks and How To Calculate Yours",
@@ -158,14 +150,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "検索結果の抜粋": [
-   {
-    "quote": "Revenue Per Employee Benchmarks : 2026 Ranges by Industry — Revenue Per Employee Benchmarks : 2026 Ranges by Industry Bizminer https://bizminer.com > revenue-per-e...",
-    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "実例": [
    {
     "quote": "Top Analyze Use Cases",
@@ -215,23 +199,44 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "peppereffect measurement, September 2026. Medians, not averages. Quartile spread on the full set: current visits per employee 38 at the 25th percentile, 135 median, 577 at the 75th. Our figures are estimated monthly organic visits, which is close to but not identical with a GA4 session count.",
+    "url": "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Revenue Per Employee Benchmarks : 2026 Ranges by Industry — Revenue Per Employee Benchmarks : 2026 Ranges by Industry Bizminer https://bizminer.com > revenue-per-e...",
+    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
+    "url": "https://note.com/144292/n/n643ae87761cc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/gyokai_zukan/n/nf2aedab7c6f9",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://note.com/tsu2ura2/n/nb6f241dd1b17",
+    "url": "https://note.com/company_scope/n/ne394bcd2de10",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/company_scope/n/ne394bcd2de10",
+    "url": "https://note.com/tsu2ura2/n/nb6f241dd1b17",
     "status": "ok",
     "method": "http"
    },
@@ -242,11 +247,6 @@
    },
    {
     "url": "https://note.com/markeducation/n/n90132f936d08",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kempei_monna/n/n7f8d3eee3b80",
     "status": "ok",
     "method": "http"
    },
@@ -376,13 +376,13 @@
   {
    "query": "非上場の1人あたり売上の業種別ベンチマーク（BizMiner ほか） site:note.com",
    "results": [
+    "https://note.com/144292/n/n643ae87761cc",
     "https://note.com/gyokai_zukan/n/nf2aedab7c6f9",
-    "https://note.com/tsu2ura2/n/nb6f241dd1b17",
     "https://note.com/company_scope/n/ne394bcd2de10",
+    "https://note.com/tsu2ura2/n/nb6f241dd1b17",
     "https://note.com/gyokai_zukan/n/n3bfa566b19da",
     "https://note.com/markeducation/n/n90132f936d08",
-    "https://note.com/kempei_monna/n/n7f8d3eee3b80",
-    "https://note.com/shikosakugo_log/n/n021c27d4df84"
+    "https://note.com/kempei_monna/n/n7f8d3eee3b80"
    ]
   },
   {
@@ -410,7 +410,7 @@
     "https://bizminer.com/analyze-with-custom-report/",
     "https://tomorrowstax.com/knowledge/201608151190/",
     "https://ap-tax.net/souzoku/267/",
-    "https://stgy-souzoku.com/ratio-factor-1/"
+    "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/901227/02_02.pdf"
    ]
   },
   {
@@ -424,7 +424,7 @@
     "https://otemachiprep.com/rs-127-private-vs-public-business-returns/",
     "https://www.youtube.com/watch?v=FHy2nl5Jgis",
     "https://keiridriven.mjs.co.jp/180619/",
-    "https://www.g-search.or.jp/column/trend/unlisted-company/"
+    "https://www.jsda.or.jp/about/kaigi/chousa/startup/file/startup_siryo4_0130.pdf"
    ]
   },
   {
@@ -439,7 +439,7 @@
     "https://tractian.com/en/glossary/revenue-per-employee",
     "https://www.linkedin.com/top-content/retail-merchandising/retail-performance-metrics/revenue-per-employee-statistics/",
     "https://www.greatplacetowork.com/resources/blog/understanding-revenue-per-employee-what-is-a-good-revenue-per-employee-ratio-how-to-calculate-it",
-    "https://peppereffect.com/blog/revenue-per-employee-benchmarks"
+    "https://www.zabella.net/blog/arr-per-employee-benchmarks"
    ]
   },
   {
@@ -450,20 +450,20 @@
     "https://note.com/company_scope/n/ne394bcd2de10",
     "https://note.com/tsu2ura2/n/nb6f241dd1b17",
     "https://note.com/gyokai_zukan/n/n3bfa566b19da",
-    "https://note.com/markeducation/n/n90132f936d08",
-    "https://note.com/dpopsgroup/n/n6ead1340b46d"
+    "https://note.com/dpopsgroup/n/n6ead1340b46d",
+    "https://note.com/revenuescope/n/n931e97a0b6eb"
    ]
   },
   {
    "query": "site:x.com 非上場の1人あたり売上の業種別ベンチマーク（BizMiner ほか）",
    "results": [
-    "https://x.com/BizMiner",
     "https://x.com/nikkei/status/2110087359676956856",
     "https://x.com/nikkei_business/status/2110099584727109886",
     "https://x.com/s_okada/status/2113400661085938084",
     "https://x.com/nikkeinagoya/status/2110132723436171637",
     "https://x.com/CoreRiseCo/status/2093664742145704393",
-    "https://x.com/koh_miruahou/status/2110621802858963019"
+    "https://x.com/koh_miruahou/status/2110621802858963019",
+    "https://x.com/biz_arts1/status/2066007720831156440"
    ]
   },
   {
@@ -471,8 +471,8 @@
    "results": [
     "https://www.linkedin.com/company/bizminer",
     "https://www.linkedin.com/posts/bizminer_bizminer-financialbenchmarking-activity-7170830889495556097-DMbX",
-    "https://www.linkedin.com/posts/galen-pugh_bizminer-financialbenchmarking-activity-7170830954737971200-PWWs",
     "https://www.linkedin.com/posts/kristofferburnett_bizminers-granular-industry-financial-activity-7112254458872397824-AcrT",
+    "https://www.linkedin.com/posts/ov-consultants_benchmarking-financial-operational-activity-7164604399409991680-ajbt",
     "https://www.linkedin.com/posts/bizminer_smallbusiness-datadriven-benchmarking-activity-7347965121748451329-8AVs",
     "https://jp.linkedin.com/pulse/sales-geek-health-check-q2-2026-survey-results-executive-elken-qquje?tl=ja",
     "https://jp.linkedin.com/posts/祐二-古澤-8787022a5_1人あたり売上高12億円-anthropicの売上と従業員数から計算してみた-activity-7435255695031218176-YrwR"
@@ -487,7 +487,7 @@
     "https://www.facebook.com/bizminer/posts/have-you-ever-wondered-how-your-clients-efficiency-ratios-compare-to-their-indus/1192241310941661/",
     "https://www.facebook.com/bizminer/videos/bizminer-industry-financial-report-20-tutorial/2349636508597564/",
     "https://www.facebook.com/bizminer/posts/whats-the-cessation-rate-for-my-industry-in-my-local-market-bizminers-industry-m/1164643807034745/",
-    "https://www.facebook.com/bizminer/photos/in-response-to-the-current-medical-social-and-economic-crisis-bizminer-has-launc/1641637922668662/"
+    "https://www.facebook.com/itworkstyle/posts/創業から１０年もたたずに企業価値が１０億ドル約１２４０億円を超える巨大な非上場ベンチャー企業が米国シリコンバレーで続々と生まれていますが上場せずに非上場のままで/1174273569254720/"
    ]
   },
   {
@@ -501,7 +501,7 @@
     "https://business.nikkei.com/atcl/gen/19/00128/122200037/",
     "https://ircms.irstreet.com/contents/data_file.php?template=1933&brand=&data=454001&filename=pdf_file.pdf",
     "https://ontrack.co.jp/f-terms/%E6%9C%AA%E4%B8%8A%E5%A0%B4%E4%BC%81%E6%A5%AD%E3%81%AE%CE%B2/",
-    "https://www.youtube.com/watch?v=TQssOJoH49M"
+    "https://www.meti.go.jp/meti_lib/report/2022FY/000586.pdf"
    ]
   },
   {
@@ -515,7 +515,7 @@
     "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
     "https://ircms.irstreet.com/contents/data_file.php?template=1933&brand=&data=454001&filename=pdf_file.pdf",
     "https://www.msn.com/ja-jp/money/markets?id=a9hhec&tab=TopLosers&ocid=fujitsudhp17",
-    "https://www.youtube.com/watch?v=REEG_9YEviI"
+    "https://www.youtube.com/watch?v=Z0L1sORBRRY"
    ]
   },
   {
@@ -526,11 +526,11 @@
     "https://www.linkedin.com/posts/zuhayeer_tech-companies-used-to-compete-on-how-many-activity-7439811409850503168-GlyP",
     "https://www.linkedin.com/posts/ryanallis_revenue-per-employee-is-the-most-valuable-activity-7389350005750259712-CFCN",
     "https://www.linkedin.com/posts/vladyslavkhrypun_founders-love-announcing-their-headcount-activity-7513899978155651072-l52p",
-    "https://www.linkedin.com/pulse/revenue-per-employee-anand-lunia",
     "https://www.linkedin.com/posts/matt-schulman-15911861_how-large-should-your-hr-recruitment-teams-activity-7448716507465003008-BDIe",
+    "https://www.linkedin.com/pulse/revenue-per-employee-anand-lunia",
+    "https://www.linkedin.com/pulse/2026-saas-benchmarks-report-ryan-allis-14kbf",
     "https://www.linkedin.com/pulse/arr-per-employee-false-metric-ai-boom-nitish-shrivastava-dbonc",
-    "https://www.linkedin.com/company/great-place-to-work-us",
-    "https://www.linkedin.com/pulse/2026-saas-benchmarks-report-ryan-allis-14kbf"
+    "https://www.linkedin.com/company/club-benchmarking"
    ]
   }
  ],
@@ -539,6 +539,6 @@
   "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 10,
+ "runs": 11,
  "first_researched_at": "2026-11-05T05:11:17.178031+00:00"
 }

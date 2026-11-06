@@ -8,30 +8,8 @@
  ],
  "context": "手順・やり方",
  "kind": "market",
- "researched_at": "2026-11-05T23:06:33.094104+00:00",
+ "researched_at": "2026-11-06T05:35:02.630616+00:00",
  "evidence": {
-  "一次情報の探し方": [
-   {
-    "quote": "This page is reference information for research and learning. For accounting, legal, finance, health, security, or other individual decisions, confirm against primary sources or qualified professionals.",
-    "url": "https://core.yogoq.com/en-US/core/decision-log-refresh-plan",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "Estimate value and cost savings from data observability.",
-    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "shows that organizations lose an estimated $13 million annually due to poor data quality, including stale data.",
-    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "Stale Data: How to Identify and Mitigate its Impact",
@@ -202,6 +180,14 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "This page is reference information for research and learning. For accounting, legal, finance, health, security, or other individual decisions, confirm against primary sources or qualified professionals.",
+    "url": "https://core.yogoq.com/en-US/core/decision-log-refresh-plan",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "Here’s how these risks manifest with real-world examples:",
@@ -263,18 +249,32 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Estimate value and cost savings from data observability.",
+    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "shows that organizations lose an estimated $13 million annually due to poor data quality, including stale data.",
+    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/jgiajfid_5293/n/n44a8c595d642",
+    "url": "https://note.com/marunage_shacho/n/n848a06092df7",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/marunage_shacho/n/n848a06092df7",
+    "url": "https://note.com/jgiajfid_5293/n/n44a8c595d642",
     "status": "ok",
     "method": "http"
    },
@@ -284,7 +284,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/moridai_gyosei/n/nca1abca2f7c3",
+    "url": "https://note.com/tskomatani/n/ncab7ad11ea9e",
     "status": "ok",
     "method": "http"
    },
@@ -294,7 +294,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/nagi_cpa_tax/n/n01477e6dc17b",
+    "url": "https://note.com/cony_0209/n/n8ffa8a4fbfcc",
     "status": "ok",
     "method": "http"
    },
@@ -304,22 +304,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/88/03/03.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://legalagent.co.jp/column/c332-tax-audit-objection-litigation/",
+    "url": "https://note.com/moridai_gyosei/n/nca1abca2f7c3",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://brains-inc.co.jp/column/column-consulting/column-consulting-zeimu/reexamination-of-tax-audit/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://gns-tax.or.jp/media/tax-investigation-re-examination/",
+    "url": "https://note.com/nagi_cpa_tax/n/n01477e6dc17b",
     "status": "ok",
     "method": "http"
    },
@@ -329,17 +319,7 @@
     "method": "http"
    },
    {
-    "url": "https://shigyo-honne.com/saichosa-seikyu/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://arakawa-g3.com/column/detail/20251119202257/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://hanawa-office.jp/oshiete/blogs/625-%E7%94%B3%E8%AB%8B%E5%87%A6%E5%88%86%E3%81%A7%E5%86%8D%E8%AA%BF%E6%9F%BB%E8%AB%8B%E6%B1%82%E3%82%92%E4%BD%BF%E3%81%88%E3%82%8B%E3%81%8B-%E5%80%8B%E5%88%A5%E6%B3%95-%E6%95%99%E7%A4%BA-%E4%BE%8B%E5%A4%96%E3%81%AE%E7%A2%BA%E8%AA%8D%E6%89%8B%E9%A0%86/",
+    "url": "https://genba-base.jp/article/labor-inspection-response-manual-2026/",
     "status": "ok",
     "method": "http"
    },
@@ -354,14 +334,24 @@
     "method": "http"
    },
    {
-    "url": "https://yuhikaku.com/articles/-/57371",
+    "url": "https://shigyo-honne.com/saichosa-seikyu/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://smartstatistics.co.uk/power-bi-refresh-timestamp-build-a-stale-data-warning/",
+    "url": "https://arakawa-g3.com/column/detail/20251119202257/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpma.or.jp/information/evaluation/results/allotment/PV_202510_GB_inspect.html",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.jpma.or.jp/information/evaluation/symposium/lofurc000000xlzu-att/lofurc000000xm63.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://monday.com/blog/project-management/decision-log/",
@@ -369,7 +359,7 @@
     "method": "http"
    },
    {
-    "url": "https://metricsign.com/questions/how-to-detect-stale-data-power-bi",
+    "url": "https://smartstatistics.co.uk/power-bi-refresh-timestamp-build-a-stale-data-warning/",
     "status": "ok",
     "method": "http"
    },
@@ -384,7 +374,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.servicenow.com/community/cmdb-forum/how-to-create-data-refresh-rules-for-stale-ci-s/m-p/2944894",
+    "url": "https://core.yogoq.com/en-US/core/decision-log-refresh-plan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://binotepads.com/blog/decision-log-revisit-conditions",
     "status": "ok",
     "method": "http"
    }
@@ -394,25 +389,25 @@
   {
    "query": "調査の判断台帳と再調査条件（見直し期限・取り直しの基準） site:note.com",
    "results": [
-    "https://note.com/jgiajfid_5293/n/n44a8c595d642",
     "https://note.com/marunage_shacho/n/n848a06092df7",
+    "https://note.com/jgiajfid_5293/n/n44a8c595d642",
     "https://note.com/sou_devnotes/n/n90848e6f0694",
-    "https://note.com/moridai_gyosei/n/nca1abca2f7c3",
+    "https://note.com/tskomatani/n/ncab7ad11ea9e",
     "https://note.com/sakang0/n/n7cec29d3d62e",
-    "https://note.com/nagi_cpa_tax/n/n01477e6dc17b",
-    "https://note.com/tskomatani/n/ncab7ad11ea9e"
+    "https://note.com/cony_0209/n/n8ffa8a4fbfcc",
+    "https://note.com/moridai_gyosei/n/nca1abca2f7c3"
    ]
   },
   {
    "query": "調査の判断台帳と再調査条件（見直し期限・取り直しの基準） note",
    "results": [
-    "https://note.com/nagi_cpa_tax/n/n01477e6dc17b",
     "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/88/03/index.htm",
     "https://note.com/moridai_gyosei/n/nca1abca2f7c3",
-    "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/88/03/03.pdf",
-    "https://legalagent.co.jp/column/c332-tax-audit-objection-litigation/",
-    "https://brains-inc.co.jp/column/column-consulting/column-consulting-zeimu/reexamination-of-tax-audit/",
-    "https://gns-tax.or.jp/media/tax-investigation-re-examination/"
+    "https://note.com/nagi_cpa_tax/n/n01477e6dc17b",
+    "https://www.subsurface-exploration.com/necessity/reinvestigation.html",
+    "https://genba-base.jp/article/labor-inspection-response-manual-2026/",
+    "https://iaudit.jp/column/finding-follow-up/",
+    "https://shigyo-honne.com/saichosa-seikyu/"
    ]
   },
   {
@@ -420,35 +415,35 @@
    "results": [
     "https://www.subsurface-exploration.com/necessity/reinvestigation.html",
     "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/88/03/index.htm",
-    "https://shigyo-honne.com/saichosa-seikyu/",
-    "https://arakawa-g3.com/column/detail/20251119202257/",
-    "https://hanawa-office.jp/oshiete/blogs/625-申請処分で再調査請求を使えるか-個別法-教示-例外の確認手順/",
     "https://iaudit.jp/column/finding-follow-up/",
-    "https://m-assets.com/lp/tax-audit/blog/re-investigation-request-deadline"
+    "https://genba-base.jp/article/labor-inspection-response-manual-2026/",
+    "https://m-assets.com/lp/tax-audit/blog/re-investigation-request-deadline",
+    "https://shigyo-honne.com/saichosa-seikyu/",
+    "https://arakawa-g3.com/column/detail/20251119202257/"
    ]
   },
   {
    "query": "調査の判断台帳と再調査条件（見直し期限・取り直しの基準） 事例",
    "results": [
-    "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/88/03/index.htm",
-    "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/88/03/03.pdf",
-    "https://legalagent.co.jp/column/c332-tax-audit-objection-litigation/",
-    "https://gns-tax.or.jp/media/tax-investigation-re-examination/",
+    "https://www.subsurface-exploration.com/necessity/reinvestigation.html",
     "https://iaudit.jp/column/finding-follow-up/",
-    "https://yuhikaku.com/articles/-/57371",
-    "https://brains-inc.co.jp/column/column-consulting/column-consulting-zeimu/reexamination-of-tax-audit/"
+    "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/88/03/index.htm",
+    "https://genba-base.jp/article/labor-inspection-response-manual-2026/",
+    "https://www.jpma.or.jp/information/evaluation/results/allotment/PV_202510_GB_inspect.html",
+    "https://www.jpma.or.jp/information/evaluation/symposium/lofurc000000xlzu-att/lofurc000000xm63.pdf",
+    "https://shigyo-honne.com/saichosa-seikyu/"
    ]
   },
   {
    "query": "research decision log revisit conditions stale data refresh criteria",
    "results": [
-    "https://smartstatistics.co.uk/power-bi-refresh-timestamp-build-a-stale-data-warning/",
     "https://monday.com/blog/project-management/decision-log/",
-    "https://metricsign.com/questions/how-to-detect-stale-data-power-bi",
+    "https://smartstatistics.co.uk/power-bi-refresh-timestamp-build-a-stale-data-warning/",
     "https://team400.ai/blog/2026-07-power-bi-data-refresh",
     "https://learn.microsoft.com/en-us/fabric/data-engineering/materialized-lake-views/optimal-refresh-handling-deletes-updates",
-    "https://www.servicenow.com/community/cmdb-forum/how-to-create-data-refresh-rules-for-stale-ci-s/m-p/2944894",
-    "https://core.yogoq.com/en-US/core/decision-log-refresh-plan"
+    "https://core.yogoq.com/en-US/core/decision-log-refresh-plan",
+    "https://binotepads.com/blog/decision-log-revisit-conditions",
+    "https://www.servicenow.com/community/cmdb-forum/how-to-create-data-refresh-rules-for-stale-ci-s/m-p/2944894"
    ]
   },
   {
@@ -457,34 +452,34 @@
     "https://note.com/nagi_cpa_tax/n/n01477e6dc17b",
     "https://note.com/sakang0/n/n7cec29d3d62e",
     "https://note.com/marunage_shacho/n/n848a06092df7",
-    "https://note.com/tskomatani/n/ncab7ad11ea9e",
     "https://note.com/jgiajfid_5293/n/n44a8c595d642",
     "https://note.com/sou_devnotes/n/n90848e6f0694",
+    "https://note.com/tskomatani/n/ncab7ad11ea9e",
     "https://note.com/moridai_gyosei/n/nca1abca2f7c3"
    ]
   },
   {
    "query": "site:x.com 調査の判断台帳と再調査条件（見直し期限・取り直しの基準）",
    "results": [
-    "https://x.com/shizuokagyousei/status/2112369667201437931",
     "https://x.com/jaicofficial/status/2106882328018714747",
-    "https://x.com/nayuta_office/status/2115654994753966521",
     "https://x.com/SupagoInc/status/2113592493690524032",
     "https://x.com/wakukoete/status/2115205650003136525",
+    "https://x.com/shizuokagyousei/status/2112369667201437931",
     "https://x.com/xXQhdb3hFxm5oxQ/status/2098721965918052775",
-    "https://x.com/cb__news/status/2099695296829849892"
+    "https://x.com/cb__news/status/2099695296829849892",
+    "https://x.com/grok/status/2058001676074639583"
    ]
   },
   {
    "query": "site:linkedin.com 調査の判断台帳と再調査条件（見直し期限・取り直しの基準）",
    "results": [
-    "https://www.linkedin.com/company/verbalbeginningsllc",
+    "https://www.linkedin.com/help/linkedin/answer/a6269510?lang=pt-BR",
+    "https://jp.linkedin.com/pulse/成年後見制度の見直しについて-md-phd-tamura-s9j9f",
     "https://jp.linkedin.com/posts/vaizo-ceo_受注内容を作業台帳へ転記する途中で処理が止まったとき最初からやり直していませんか-activity-7520650490334924800-wcei",
     "https://jp.linkedin.com/pulse/renewals-reviews-realignment-making-contract-cycles-work-tarkowski-6swde?tl=ja",
     "https://jp.linkedin.com/posts/鷹大朗-小林-604527215_kptのproblemに〇〇さんの意識が低い担当者の確認不足と書くと振り-activity-7501855078576713728-V0ji",
     "https://jp.linkedin.com/posts/fumiaki-kobayashi_デジタル臨調立ち上げと進むべき道1-activity-6938686557910355968-f7vE",
-    "https://ae.linkedin.com/in/hend-sharafeldin-76b430220",
-    "https://jp.linkedin.com/posts/takaaki-tanaka（田中-隆明）-a3859a10_今日は経済センサス活動調査なるものを出した期限過ぎて役所から催促来たので任意かと-activity-7461018946159161344-WbQA"
+    "https://ae.linkedin.com/in/hend-sharafeldin-76b430220"
    ]
   },
   {
@@ -493,25 +488,33 @@
     "https://www.facebook.com/caremane/posts/公立病院方針見直しの期限を延期-by-ケアマネタイムス/1630698120401485/",
     "https://www.facebook.com/YatsushiroCity/posts/り災証明書に係る住家被害認定調査２次調査の申請受付についてり災証明書に係る住家被害認定調査２次調査について以下のとおり申請受付を開始しています当面の間土日祝日も/1597475575752385/",
     "https://www.facebook.com/CityofKanazawa/posts/高齢者福祉保健台帳一斉調査協力のお願い金沢市では満65歳以上の高齢者の生活状態を把握し援護を必要としている方の緊急連絡先やかかりつけ医などの情報を高齢者福祉保健/4055012661293371/",
-    "https://www.facebook.com/mixonline.jp/posts/中医協総会合同部会-10月15日-議事要旨-条件期限付き再生医療等製品の算定方法の見直し-中医協総会が10月15日開かれ条件期限付き再生医療等製品の診療報酬上の/1117823256999271/",
     "https://www.facebook.com/daikaigi/posts/病院経営定期調査の回答期限を9月末まで延長日病など3団体-年末の最終報告に反映-日本病院会など3団体は2026年度の病院経営定期調査の回答期限を9月30日に延長/1702118001920007/",
     "https://www.facebook.com/ecomark.jp/posts/2026年3月までに有効期限を迎える認定基準の見直しに関する意見募集について2023年10月1日10月31日有効期限のおよそ2年前を迎える認定基準について見直し/648095544115392/",
-    "https://www.facebook.com/ebisumatikado/posts/赤松町から始まった恵比須再調査水ケ江まで来ましたそのうち恵比須台帳６４１ebs番号１７２９水ケ江5丁目７１４の恵比須さんは建物が新築されてありませんでした/3643380155744613/"
+    "https://www.facebook.com/mixonline.jp/posts/中医協総会合同部会-10月15日-議事要旨-条件期限付き再生医療等製品の算定方法の見直し-中医協総会が10月15日開かれ条件期限付き再生医療等製品の診療報酬上の/1117823256999271/",
+    "https://www.facebook.com/nikkei/posts/イオン爆発事故地震後に現場判断で再入館許可-再発防止へルール見直し-今後は従業員の避難後の再入館を防ぐため勤務時に従業員が貴重品などを携帯できるようにルールを変/1588035579334505/"
    ]
   },
   {
    "query": "調査の判断台帳と再調査条件（見直し期限・取り直しの基準） note 社長",
-   "results": []
+   "results": [
+    "https://iaudit.jp/column/finding-follow-up/",
+    "https://genba-base.jp/article/labor-inspection-response-manual-2026/",
+    "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/88/03/index.htm",
+    "https://m-assets.com/lp/tax-audit/blog/re-investigation-request-deadline",
+    "https://note.com/nagi_cpa_tax/n/n01477e6dc17b",
+    "https://note.com/moridai_gyosei/n/nca1abca2f7c3",
+    "https://legalagent.co.jp/column/c332-tax-audit-objection-litigation/"
+   ]
   },
   {
    "query": "調査の判断台帳と再調査条件（見直し期限・取り直しの基準） X 投稿",
    "results": [
     "https://iaudit.jp/column/finding-follow-up/",
     "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/88/03/index.htm",
+    "https://genba-base.jp/article/labor-inspection-response-manual-2026/",
     "https://x.com/jaicofficial/status/2106882328018714747",
     "https://www.subsurface-exploration.com/necessity/reinvestigation.html",
     "https://www.jpma.or.jp/information/evaluation/results/allotment/PV_202510_GB_inspect.html",
-    "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/88/03/03.pdf",
     "https://www.pmda.go.jp/files/000251830.pdf"
    ]
   },
@@ -519,19 +522,19 @@
    "query": "research decision log revisit conditions stale data refresh criteria site:linkedin.com",
    "results": [
     "https://www.linkedin.com/posts/kristina-bachova-16a1852a_refresh-failures-are-silent-stale-data-is-activity-7475091534246391810-OvKp",
-    "https://www.linkedin.com/feed/update/urn:li:activity:7329414766345510913/",
     "https://www.linkedin.com/advice/3/outdated-data-causing-discrepancies-your-analysis-fioie",
     "https://www.linkedin.com/pulse/complete-guide-power-bi-refresh-types-why-your-data-strategy-hossain-e8x9c",
-    "https://www.linkedin.com/posts/rajesh-ch-10b204260_servicenow-itom-cmdb-activity-7340780594211028992-utnG",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7329414766345510913/",
     "https://www.linkedin.com/pulse/5-places-your-business-operating-stale-data-probably-doesnt-bz4vf",
-    "https://www.linkedin.com/pulse/trust-often-erodes-before-anyone-notices-data-stale-ryan-gauss-oxp8c"
+    "https://www.linkedin.com/pulse/data-refresh-mastery-power-bi-handbook-arun-v-r-8akfc/",
+    "https://www.linkedin.com/posts/rajesh-ch-10b204260_servicenow-itom-cmdb-activity-7340780594211028992-utnG"
    ]
   }
  ],
  "missing": {
-  "失敗・落とし穴": "記載なし（読んだ24頁・検索12回）"
+  "失敗・落とし穴": "記載なし（読んだ23頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 9,
+ "runs": 10,
  "first_researched_at": "2026-11-05T06:55:09.007957+00:00"
 }

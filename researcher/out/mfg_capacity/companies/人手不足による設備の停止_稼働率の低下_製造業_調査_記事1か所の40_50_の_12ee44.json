@@ -1,0 +1,506 @@
+{
+ "name": "人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合）",
+ "en": "manufacturing equipment idle due to labor shortage survey Japan",
+ "aliases": [
+  "人手不足 設備 稼働できない 割合 製造業 調査",
+  "人手不足 稼働率 低下 中小製造業 アンケート site:go.jp",
+  "生産設備 稼働 人手不足 調査 site:or.jp"
+ ],
+ "context": "穴埋め・出典1か所",
+ "kind": "market",
+ "researched_at": "2026-11-06T05:25:44.460612+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daydo.jp/2025/12/labor-shortage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bsearch.co.jp/media/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pro-d-use.jp/blog/manufacturing_improvement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmf.or.jp/jmf/wp-content/uploads/2024/03/vin-last-report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.zaico.co.jp/zaico_blog/solutions-to-the-manufacturing-labor-shortage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000032166.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/03Hakusyo_part1_chap1_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yachiyo-sol.com/20250620-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/014_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jipm.or.jp/company/report/images/202204.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000008.000161767.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmac.co.jp/column/detail/manufacturing_2024_survey.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/ronbun2411_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/19/dl/19-2-2-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pinspect.jp/issues-with-plant-shutdowns202602/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/24-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juas.or.jp/cms/media/2025/04/JUAS_IT2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1075_all.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tebiki.jp/genba/useful/manufacturing-industry-labor-shortage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nbk1560.com/resources/other/article/labor-shortage/?srsltid=AYCX9vJFhW6J1M8Ew9tQEXeGWBEG_W5WGneCzaCe_e6mWDeHcO8iPkSI",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/12000000/001485589.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rc.persol-group.co.jp/thinktank/thinktank-column/c-202412130001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manufacturing-world.jp/hub/ja-jp/blog/article20.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/japan-firms-face-serious-labour-crunch-aging-population-survey-shows-2025-01-15/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jil.go.jp/english/jli/documents/2025/052-03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-japan_b825563e-en/full-report/ai-use-in-the-japanese-workplace_faf178d2.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.facebook.com/thejapantimes/posts/a-severe-labor-shortage-remains-the-main-reason-japanese-companies-hire-foreign-/1485299786968938/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/roudou/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合） 人手不足 受注 断る",
+   "results": [
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://daydo.jp/2025/12/labor-shortage/",
+    "https://www.bsearch.co.jp/media/manufacturing/",
+    "https://pro-d-use.jp/blog/manufacturing_improvement/",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.jmac.co.jp/column/detail/manufacturing_2024_survey.html"
+   ]
+  },
+  {
+   "query": "人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合） 受注残 人手不足",
+   "results": [
+    "https://www.jmf.or.jp/jmf/wp-content/uploads/2024/03/vin-last-report.pdf",
+    "https://pro-d-use.jp/blog/manufacturing_improvement/",
+    "https://www.zaico.co.jp/zaico_blog/solutions-to-the-manufacturing-labor-shortage/",
+    "https://prtimes.jp/main/html/rd/p/000000004.000032166.html",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/03Hakusyo_part1_chap1_web.pdf",
+    "https://yachiyo-sol.com/20250620-2/",
+    "https://info-jipm.jp/asset/wp-content/uploads/2022/06/c18bde3ab019e3eaffde6313b381549f.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1075_all.pdf"
+   ]
+  },
+  {
+   "query": "人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合） 人手不足 損失 億円",
+   "results": [
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://daydo.jp/2025/12/labor-shortage/",
+    "https://www.bsearch.co.jp/media/manufacturing/",
+    "https://pro-d-use.jp/blog/manufacturing_improvement/",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/"
+   ]
+  },
+  {
+   "query": "人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合）",
+   "results": [
+    "https://pro-d-use.jp/blog/manufacturing_improvement/",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://www.jmf.or.jp/jmf/wp-content/uploads/2024/03/vin-last-report.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/014_04_00.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000004.000032166.html",
+    "https://www.zaico.co.jp/zaico_blog/solutions-to-the-manufacturing-labor-shortage/",
+    "https://www.jipm.or.jp/company/report/images/202204.pdf",
+    "https://yachiyo-sol.com/20250620-2/",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf"
+   ]
+  },
+  {
+   "query": "人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合） 推移",
+   "results": [
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://pro-d-use.jp/blog/manufacturing_improvement/",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://www.jmf.or.jp/jmf/wp-content/uploads/2024/03/vin-last-report.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000004.000032166.html",
+    "https://www.jipm.or.jp/company/report/images/202204.pdf",
+    "https://www.zaico.co.jp/zaico_blog/solutions-to-the-manufacturing-labor-shortage/",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf"
+   ]
+  },
+  {
+   "query": "人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合） 統計 PDF",
+   "results": [
+    "https://www.jmf.or.jp/jmf/wp-content/uploads/2024/03/vin-last-report.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://www.jipm.or.jp/company/report/images/202204.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "https://juas.or.jp/cms/media/2025/04/JUAS_IT2025.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1075_all.pdf",
+    "https://tebiki.jp/genba/useful/manufacturing-industry-labor-shortage/",
+    "https://www.nbk1560.com/resources/other/article/labor-shortage/?srsltid=AYCX9vJFhW6J1M8Ew9tQEXeGWBEG_W5WGneCzaCe_e6mWDeHcO8iPkSI",
+    "https://www.mhlw.go.jp/content/12000000/001485589.pdf",
+    "https://willof-work.co.jp/journal/14513/"
+   ]
+  },
+  {
+   "query": "人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://pro-d-use.jp/blog/manufacturing_improvement/",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "https://rc.persol-group.co.jp/thinktank/thinktank-column/c-202412130001/",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article20.html",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf"
+   ]
+  },
+  {
+   "query": "人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合） 従業者規模別",
+   "results": [
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://pro-d-use.jp/blog/manufacturing_improvement/",
+    "https://daydo.jp/2025/12/labor-shortage/",
+    "https://www.bsearch.co.jp/media/manufacturing/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/"
+   ]
+  },
+  {
+   "query": "人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合） 1人当たり 万円",
+   "results": [
+    "https://pro-d-use.jp/blog/manufacturing_improvement/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000004.000032166.html",
+    "https://www.zaico.co.jp/zaico_blog/solutions-to-the-manufacturing-labor-shortage/",
+    "https://yachiyo-sol.com/20250620-2/",
+    "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article20.html",
+    "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "https://tebiki.jp/genba/useful/manufacturing-industry-labor-shortage/"
+   ]
+  },
+  {
+   "query": "人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合） 2015 2025",
+   "results": [
+    "https://pro-d-use.jp/blog/manufacturing_improvement/",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/014_04_00.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000004.000032166.html",
+    "https://www.zaico.co.jp/zaico_blog/solutions-to-the-manufacturing-labor-shortage/",
+    "https://yachiyo-sol.com/20250620-2/",
+    "https://www.jipm.or.jp/company/report/images/202204.pdf",
+    "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf"
+   ]
+  },
+  {
+   "query": "manufacturing equipment idle due to labor shortage survey Japan Japan statistics",
+   "results": [
+    "https://www.reuters.com/sustainability/sustainable-finance-reporting/japan-firms-face-serious-labour-crunch-aging-population-survey-shows-2025-01-15/",
+    "https://www.jil.go.jp/english/jli/documents/2025/052-03.pdf",
+    "https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-japan_b825563e-en/full-report/ai-use-in-the-japanese-workplace_faf178d2.html",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "https://www.facebook.com/thejapantimes/posts/a-severe-labor-shortage-remains-the-main-reason-japanese-companies-hire-foreign-/1485299786968938/",
+    "https://www.stat.go.jp/english/data/roudou/index.html",
+    "https://scw.ai/blog/labor-shortage-in-manufacturing/",
+    "https://digital.car.chula.ac.th/cgi/viewcontent.cgi?article=74618&context=chulaetd",
+    "https://www.jcer.or.jp/english/is-japan-really-short-of-labour",
+    "https://www.statista.com/topics/13699/labor-shortage-in-japan/"
+   ]
+  },
+  {
+   "query": "site:note.com 人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合）",
+   "results": [
+    "https://note.com/tasty_quail2338/n/na72d93f01dc2",
+    "https://note.com/kagawatomo/n/nc0d12ffe51e0",
+    "https://note.com/jack4manastalk/n/n880406135053",
+    "https://note.com/kagawatomo/n/nddd574787a3b",
+    "https://note.com/mc_motto/n/n13f89168ab01",
+    "https://note.com/kagawatomo/n/n49f13e2d83fe",
+    "https://note.com/kagawatomo/n/n5a4a168b24ab",
+    "https://note.com/hirokimiyano/n/n56d599e5da54",
+    "https://note.com/kagawatomo/n/n5307b82cd295",
+    "https://note.com/kagawatomo/n/n2dbaab2dea19"
+   ]
+  },
+  {
+   "query": "site:x.com 人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合）",
+   "results": [
+    "https://x.com/i/article/2107975579580739876",
+    "https://x.com/petchemcarbon",
+    "https://x.com/mirai_ai_growth",
+    "https://x.com/YuukiYoshi2026/status/2076949699677016366",
+    "https://x.com/AKIYOSHI_ITILLC/status/2076912762220122467",
+    "https://x.com/TSR_NEWS/status/2106933859250278638",
+    "https://x.com/nikkei/status/1987362304728441118",
+    "https://x.com/nkinvestigation/status/2085618768957624726",
+    "https://x.com/i/trending/2087285579620954513",
+    "https://x.com/hasibiro_maga/status/2031185077020090625"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合）",
+   "results": [
+    "https://www.linkedin.com/pulse/%E8%A8%98%E4%BA%8B%E6%8A%9C%E7%B2%8B164-toru-%E4%BA%A8-hara-%E5%8E%9F-s4bxc",
+    "https://jp.linkedin.com/posts/浩一-koichi-槇尾-makio-a77157419_製造業-現場改善-dx-activity-7514232750716071936-g0o2",
+    "https://jp.linkedin.com/posts/yokusho-gon-74b78947_製造業2設備稼働率の可視化-設備が突然停止しました-この報告を受-activity-7448184832083333121-7qKr",
+    "https://jp.linkedin.com/posts/matsushima-m-tech_工場の人手不足が深刻化する中で-省人化は多くの現場において最重要のテーマとなっています-activity-7497440584328994816-eY_n",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7485457538058973184/",
+    "https://www.linkedin.com/posts/masato-koike-a71356289_人手不足によって生じる設備不足トランプ関税による不透明感の中でも一定の設備投資意欲-activity-7314986500964634624-LlsQ",
+    "https://jp.linkedin.com/posts/panasonic-welding_製造現場における熟練人材の不足や多品種少量生産への対応今多くの現場で設備稼働率-activity-7505128366371676160-y83a",
+    "https://jp.linkedin.com/posts/sirc-jp_巡回点検の負担をどう減らすか-多くの製造現場では-設備の巡回点検に多-activity-7440292874266685440-Sksv"
+   ]
+  },
+  {
+   "query": "site:facebook.com 人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合）",
+   "results": [
+    "https://www.facebook.com/100064515737150/?locale=ka_GE",
+    "https://www.facebook.com/groups/2041243516100661/",
+    "https://www.facebook.com/NIPPOMORE/posts/新潟県内製造業の8割超が設備自動化検討人手不足対策で投資-日本政策投資銀行新潟支店調査-httpswwwniigata-nippocojparticles-27/738583734949764/",
+    "https://www.facebook.com/nikkan.BusinessLine/posts/製造業にとってお盆などの休業期間は工場を止めて設備を点検できる貴重な期間だしかし人手不足や熟練技術者の高齢化が進み従来のようにベテランの経験や勘に頼ることは難し/1666748065455856/",
+    "https://www.facebook.com/mki.jp/posts/人手不足の中設備点検はどう変わるのか東京都水道局との技術検証でも活用された三井情報の取り組みが紹介されましたぜひご覧ください-httpsecholocation/1251542716964389/",
+    "https://www.facebook.com/BankofJapan/photos/さくらレポート別冊-2025年12月地域企業の設備投資の動向と最近の変化をテーマに支店等が集めた生の声をもとに深刻化する人手不足に対応する投資広範な事業コスト上/1304244464838712/",
+    "https://www.facebook.com/61591417304976/videos/2088363033179564/",
+    "https://www.facebook.com/nikkan.BusinessLine/posts/京都三洋化成工業は国内生産設備を合理化し３分の１を停止する検討に入った機能化学品や汎用化学品を生産する国内全４工場に関係会社工場を加えた全５工場の設備が対象２０/1388294009967931/",
+    "https://www.facebook.com/tbsnewsdig/videos/長期休み奨学金肩代わり豪華まかない深刻な人手不足立ち向かう企業の対策人件費高騰で倒産件数は過去最多にnスタ解説/2260944401357020/"
+   ]
+  },
+  {
+   "query": "人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合） note 社長",
+   "results": [
+    "https://note.com/chic_deer1160/n/n8f57bbf70a7e",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://pro-d-use.jp/blog/manufacturing_improvement/",
+    "https://daydo.jp/2025/12/labor-shortage/",
+    "https://prtimes.jp/main/html/rd/p/000000004.000032166.html",
+    "https://smartf-nexta.com/archives/12828",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf"
+   ]
+  },
+  {
+   "query": "人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合） X 投稿",
+   "results": [
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://www.bsearch.co.jp/media/manufacturing/",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://pro-d-use.jp/blog/manufacturing_improvement/",
+    "https://www.jmac.co.jp/column/detail/manufacturing_2024_survey.html",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://daydo.jp/2025/12/labor-shortage/",
+    "https://www.tv-tokyo.co.jp/plus/external-pr/entry/251842.html"
+   ]
+  },
+  {
+   "query": "manufacturing equipment idle due to labor shortage survey Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/top-content/workplace-trends/job-market-trends-insights/labor-shortages-in-key-industries-right-now/",
+    "https://www.linkedin.com/pulse/from-factory-floors-delivery-corridors-indias-labour-q7vwc",
+    "https://www.linkedin.com/posts/kristieneo_global-pes-are-piling-into-japan-will-it-activity-7516649205940097024-6suS",
+    "https://www.linkedin.com/top-content/supply-chain-management/supply-chain-resilience/manufacturing-s-role-in-economic-resilience/",
+    "https://www.linkedin.com/posts/spirosg_%F0%9D%97%99%F0%9D%97%B6%F0%9D%98%83%F0%9D%97%B2-%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB-%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%AF%F0%9D%97%BC%F0%9D%98%81%F0%9D%98%80-activity-7510713924963622913-l1bl",
+    "https://ca.linkedin.com/in/tim-walls-12941769",
+    "https://www.linkedin.com/in/justin-sivils-b2a6949b",
+    "https://www.linkedin.com/top-content/project-management/risk-mitigation-in-construction/preventing-project-delays-on-construction-sites/",
+    "https://www.linkedin.com/in/kevintherrien",
+    "https://www.linkedin.com/in/angela-mullady-75abb11b9"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ43頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ43頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ43頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ43頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ43頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ43頁・検索18回）",
+  "10年推移": "記載なし（読んだ43頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ43頁・検索18回）"
+ }
+}

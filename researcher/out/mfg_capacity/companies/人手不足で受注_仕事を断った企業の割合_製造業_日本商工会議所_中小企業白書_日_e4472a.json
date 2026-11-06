@@ -1,0 +1,397 @@
+{
+ "name": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48）",
+ "en": "share of SMEs that declined orders due to labor shortage Japan manufacturing survey",
+ "aliases": [
+  "人手不足 受注を断った 割合 site:jcci.or.jp",
+  "中小企業白書 人手不足 需要増に対応できない 受注 割合 site:chusho.meti.go.jp",
+  "日本政策金融公庫 人手不足 受注 断った 割合 site:jfc.go.jp",
+  "帝国データバンク 人手不足 受注機会の損失 割合 製造業",
+  "東京商工リサーチ 人手不足 アンケート 受注を断った 製造業"
+ ],
+ "context": "穴埋め・一次0件",
+ "kind": "market",
+ "researched_at": "2026-11-06T05:25:43.991108+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2023/shokibo/b1_1_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/toshoj.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1909/03/news003.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b2_1_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/19/dl/19-2-2-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jcci.or.jp/news/research/2026/0915140001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jcci.or.jp/file/sangyo2/202609/20260915survey_result_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jcci.or.jp/news/research/2023/0928140000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1201053",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nippon.com/en/articles/-/17538",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://siific.substack.com/p/beyond-the-numbers-japans-quiet-struggle",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tandfonline.com/doi/full/10.1080/2329194X.2026.2629324",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/japaninsidehq/posts/japan-ceos-overwhelmingly-demand-foreign-workers-as-labor-shortages-and-aging-cr/1102281658741418/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/research/discussion_paper/ron340.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/english/jli/documents/2025/052-03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） 人手不足 受注 断る",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2023/shokibo/b1_1_3.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://www.youtube.com/watch?v=I8TK4vxFo08",
+    "https://www.jfc.go.jp/n/findings/toshoj.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://monoist.itmedia.co.jp/mn/articles/1909/03/news003.html",
+    "https://www.jcci.or.jp/news/research/2026/0915140001.html"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） 受注残 人手不足",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2023/shokibo/b1_1_3.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://www.youtube.com/watch?v=I8TK4vxFo08",
+    "https://www.jfc.go.jp/n/findings/toshoj.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://monoist.itmedia.co.jp/mn/articles/1909/03/news003.html"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） 人手不足 損失 億円",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2023/shokibo/b1_1_3.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://www.youtube.com/watch?v=I8TK4vxFo08",
+    "https://www.jfc.go.jp/n/findings/toshoj.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48）",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2023/shokibo/b1_1_3.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://www.youtube.com/watch?v=I8TK4vxFo08",
+    "https://www.jfc.go.jp/n/findings/toshoj.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b2_1_1.html"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） 推移",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2023/shokibo/b1_1_3.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://www.youtube.com/watch?v=I8TK4vxFo08",
+    "https://www.jfc.go.jp/n/findings/toshoj.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b2_1_1.html"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） 統計 PDF",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2023/shokibo/b1_1_3.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://www.youtube.com/watch?v=I8TK4vxFo08",
+    "https://www.jfc.go.jp/n/findings/toshoj.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b2_1_1.html"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2023/shokibo/b1_1_3.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://www.youtube.com/watch?v=I8TK4vxFo08",
+    "https://www.jfc.go.jp/n/findings/toshoj.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） 従業者規模別",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2023/shokibo/b1_1_3.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://www.youtube.com/watch?v=I8TK4vxFo08",
+    "https://www.jfc.go.jp/n/findings/toshoj.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） 1人当たり 万円",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2023/shokibo/b1_1_3.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://www.youtube.com/watch?v=I8TK4vxFo08",
+    "https://www.jfc.go.jp/n/findings/toshoj.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） 2015 2025",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2023/shokibo/b1_1_3.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://www.youtube.com/watch?v=I8TK4vxFo08",
+    "https://www.jfc.go.jp/n/findings/toshoj.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b2_1_1.html"
+   ]
+  },
+  {
+   "query": "share of SMEs that declined orders due to labor shortage Japan manufacturing survey Japan statistics",
+   "results": [
+    "https://www.nippon.com/en/articles/-/17538",
+    "https://siific.substack.com/p/beyond-the-numbers-japans-quiet-struggle",
+    "https://www.tandfonline.com/doi/full/10.1080/2329194X.2026.2629324",
+    "https://www.facebook.com/japaninsidehq/posts/japan-ceos-overwhelmingly-demand-foreign-workers-as-labor-shortages-and-aging-cr/1102281658741418/",
+    "https://www.mof.go.jp/pri/research/discussion_paper/ron340.pdf",
+    "https://www.jil.go.jp/english/jli/documents/2025/052-03.pdf",
+    "https://www.sciencedirect.com/science/article/am/pii/S0922142523000324",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/03/labour-shortages-and-labour-market-inequalities_798f8a8f/14e62ec0-en.pdf",
+    "https://orbray.com/magazine_en/archives/4956",
+    "https://www.meti.go.jp/english/statistics/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48）",
+   "results": [
+    "https://note.com/crisp_panda5486/n/nce1fc643137d",
+    "https://note.com/vast_echium53/n/nf242220e4ace",
+    "https://note.com/chic_deer1160/n/n0c61ffc97455",
+    "https://note.com/8elements_method/n/n1f95224656ba",
+    "https://note.com/chic_deer1160/n/n90f503955cf1",
+    "https://note.com/gaikokujinzai/n/n8c4678434993",
+    "https://note.com/1aqua1/n/nc65c4d5aa162"
+   ]
+  },
+  {
+   "query": "site:x.com 人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48）",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com 人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48）",
+   "results": [
+    "https://jp.linkedin.com/pulse/impact-manufacturing-labor-shortage-return-investment-gupta?tl=ja",
+    "https://jp.linkedin.com/posts/kazuji-nakazato_人手不足で製造業はどう変わる経産省ものづくり白書に見るdxの課題と打ち手-activity-7445768827944226816-NK9n",
+    "https://jp.linkedin.com/posts/koji-furukawa-b79a98289_日銀短観の雇用人員判断diを見ていて改めて人手不足の根深さを感じた雇用人員判断-activity-7515560652921270272-rDTf",
+    "https://www.linkedin.com/posts/yoshikita_従業員さんがすぐに辞めてしまう-仕事があるけど人が足りなくて断っている-今多-activity-7154264036702834688-TNFb",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7188295512435916800/",
+    "https://jp.linkedin.com/posts/shuheikotobuki_大型工事26年度受注できず建設会社の7割成長投資阻む人手不足-日本経済新聞-activity-7418159617349799936-VN1y",
+    "https://jp.linkedin.com/posts/takamasa-adachi-a7415297_トヨタ生産支えるチームサラマッポ人手不足補う気鋭の外国人部隊-日本経済新聞-activity-7442386065119887360-OVTb"
+   ]
+  },
+  {
+   "query": "site:facebook.com 人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48）",
+   "results": [
+    "https://www.facebook.com/reel/2315238668967938/",
+    "https://www.facebook.com/hashtag/製造業人手不足対策expo/",
+    "https://www.facebook.com/nikkei/photos/人手不足が奪う日本の成長機会16兆円httpswwwnikkeicomarticledgxzqocd3097z0q5a930c2000000n_ciddsprm/1363624738442258/",
+    "https://www.facebook.com/nikkei/posts/大型工事2026年度受注できず建設会社の7割-4割弱は契約済みの工事で工期が遅れる可能性があると回答しました東京都の中野サンプラザの再開発が白紙になるなど全国で/1415684729902925/",
+    "https://www.facebook.com/katsuhiro.hashimoto/posts/2040年日本全体では大きな人手不足は生じないー経済産業省が発表した最新の2040年の就業構造推計改訂版のこの一文にハッとさせられた経営者やchroの方も多いの/26609048892011976/",
+    "https://www.facebook.com/martin.novak.1650/videos/人手不足を握るロボット企業10選-日本株/1733446901036844/",
+    "https://www.facebook.com/ryukyushimpo/posts/県内受注割合25以上に-沖縄県建設業協国へ要請/1237857371680269/"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） note 社長",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2023/shokibo/b1_1_3.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://www.youtube.com/watch?v=I8TK4vxFo08",
+    "https://www.jfc.go.jp/n/findings/toshoj.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://monoist.itmedia.co.jp/mn/articles/1909/03/news003.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b2_1_1.html"
+   ]
+  },
+  {
+   "query": "人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2023/shokibo/b1_1_3.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2210.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2610.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://www.youtube.com/watch?v=I8TK4vxFo08",
+    "https://www.jfc.go.jp/n/findings/toshoj.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://monoist.itmedia.co.jp/mn/articles/1909/03/news003.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b2_1_1.html"
+   ]
+  },
+  {
+   "query": "share of SMEs that declined orders due to labor shortage Japan manufacturing survey site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/daichi-kunii_japanmanda-japaneconomy-smeacquisition-activity-7512636643724394496-y_U4",
+    "https://www.linkedin.com/pulse/food-delivery-japan-radical-challenges-secure-growth-akio-fujii-jiegc",
+    "https://www.linkedin.com/pulse/ceic-insights-indonesias-msci-warnings-japans-labor-shortage-75bkf",
+    "https://www.linkedin.com/top-content/finance/analyzing-economic-indicators/manufacturing-output-insights/",
+    "https://www.linkedin.com/pulse/has-japanese-shipbuilding-really-declined-yang-chen-%E9%99%88%E6%B4%8B--6luoc",
+    "https://www.linkedin.com/news/story/transportation-equipment-dents-demand-for-durable-goods-7902705/",
+    "https://www.linkedin.com/posts/financial-times_japans-convenience-stores-are-facing-an-activity-7513145387889790976-LjcS",
+    "https://www.linkedin.com/pulse/time-invest-japan-dominique-turpin",
+    "https://www.linkedin.com/pulse/weekly-economic-commentary-nasser-saidi-3e",
+    "https://www.linkedin.com/pulse/im-foreigner-japan-heres-what-i-think-problem-james-riney-hbpre"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ24頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ24頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ24頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ24頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ24頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ24頁・検索18回）",
+  "10年推移": "記載なし（読んだ24頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ24頁・検索18回）"
+ }
+}
