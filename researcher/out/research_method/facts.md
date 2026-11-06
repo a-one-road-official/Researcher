@@ -5136,39 +5136,75 @@
 ## ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）（web main text extraction boilerplate removal evaluation precision recall）
 - 文脈：取り方
 - 手順・やり方：
-  - 「Online order: https://classic.ntis.gov/help/order-methods/」（https://www.osti.gov/servlets/purl/2429881）
-  - 「Main content extraction is a method to isolate the relevant content from a webpage and remove」（https://www.osti.gov/servlets/purl/2429881）
-  - 「several methods that have been developed to do this, including several Python and Java libraries.」（https://www.osti.gov/servlets/purl/2429881）
-  - 「Keywords: Main Content Extracti on, Evaluation Methods, Boilerplate Detection, Right to Left Languages.」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「Information retrieval (IR) methods are used to store」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「(MCE) methods help control the amount of」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「and then explain the methods in (3). In (4), we will」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「(Chakrabarti et al., 2007) proposed a method to detect」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「page-level templates on web pages. The method」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「et al., 2007) proposed a method to enhance search」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「3 METHODS」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「various methods to extract MC, including:」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「4.2 Evaluation Methodology」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「framework that covers accuracy and performance to」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「smoothing method. In International Conference on」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「新製品の提案書に、メーカーが説明している使い方を引用したい」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
+  - 「JavaScriptを実行して画面を操作することや、画像の文字を読むことは、この手順の役割に含めません」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
+  - 「持ち帰るのは、短くなった文章だけでなく、その文章を使ってよいか確かめる手順です」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
+  - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方｜NITI Technology」（https://note.com/niti_technology/n/nf614a498b089）
+  - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方」（https://note.com/niti_technology/n/nf614a498b089）
+  - 「RAGやテキストマイニングの前処理としても有用な「Trafilatura」について、主な特徴や使い方、実際の検証結果を紹介しています」（https://note.com/niti_technology/n/nf614a498b089）
+  - 「非対話型確認プロトコル(CLIにおける破壊的操作の安全機構)」（https://64p.org/notes/html-content-extraction.html）
+  - 「TUF (The Update Framework)」（https://64p.org/notes/html-content-extraction.html）
+  - 「Virtualization.framework」（https://64p.org/notes/html-content-extraction.html）
+  - 「Linuxでコマンド実行時にメモリ上限を設定する方法」（https://64p.org/notes/html-content-extraction.html）
+  - 「LSM (Linux Security Modules) フレームワーク」（https://64p.org/notes/html-content-extraction.html）
+  - 「SCIM (Smart Common Input Method)」（https://64p.org/notes/html-content-extraction.html）
+  - 「正規表現エンジンの実装方式: バックトラッキング型とNFA/DFA型」（https://64p.org/notes/html-content-extraction.html）
+  - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方」（https://nititech.jp/blog/trafilatura-content-extraction/）
+  - 「2. インストール方法」（https://nititech.jp/blog/trafilatura-content-extraction/）
+- 突き合わせ・推定：
+  - 「検索の問いに先に答えるなら、本文抽出は「コメントを除外して一度実行し、必要な記述を原文と照合する」ところから始められます」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
+  - 「この検証は、実在サイト全体の精度を測るものではありません」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
+  - 「検証環境はmacOS、Python三・一二・一四、Trafilatura二・三・一です」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
+  - 「有料部分では、導入から抽出、設定の比較、欄外の欠落の発見、題名と日付の照合、資料の保存、人による採用確認まで進めます」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
+  - 「RAGやテキストマイニングの前処理としても有用な「Trafilatura」について、主な特徴や使い方、実際の検証結果を紹介しています」（https://note.com/niti_technology/n/nf614a498b089）
+  - 「静的 HTML から定型文をどれだけきれいに取り除きつつ、タイトル、著者名、日付、本文段落を保持できるかを検証しています」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「私はバージョン 2.1.0 を Python 3.14 上の固定フィクスチャ群で検証しましたが、特に印象に残ったのは記事抽出のテストでした」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「その点、ここでは検証版と配布版が同じでした」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「3 つ目は、私自身の検証方法に関する注意です」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「そのギャップを少し埋めるため、別途、あえて採点対象にしないデモとして、実際の記事ページを 2 つ検証しました」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「公開ページでの文章検証は、実ニュース記事ではなく商品説明ブロックを使った」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「phrases rather than individual words. Per-type 95% confidence intervals are estimated by non-parametric」（https://arxiv.org/pdf/2605.21097）
 - 一次情報の探し方：
+  - 「有料部分では、導入から抽出、設定の比較、欄外の欠落の発見、題名と日付の照合、資料の保存、人による採用確認まで進めます」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
+  - 「Python、R、Java、統計学における深い専門性は同業者からも高く評価されており、理論段階の複雑な AI アルゴリズムを本番運用レベルのアーキテクチャへと落とし込むための、実践に裏打ちされた知見を共有しています」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「PDF-converted pages, scanned-document OCR outputs, and academic preprints served as HTML tend to have unusual DOM structures. Extractors trained on the distribution of general news sites may perform poorly on these, either hallucinating structure (including headers and footers from the PDF rendering layer) or failing to extract anything.」（https://praveentn.live/learn/concepts/text-extraction-and-boilerplate-removal）
   - 「https://readability.readthedocs.io/_/downloads/en/latest/pdf/」（https://www.osti.gov/servlets/purl/2429881）
   - 「using a Neural Sequence Labeling Model. https://arxiv.org/pdf/2004.14294」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
 - 失敗・落とし穴：
+  - 「収集と抽出を一つの失敗として扱わないことが、原因を見つける助けになります」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
+  - 「注意点として、画像抽出機能は必ずしも意図した画像が選ばれるとは限らず、本文に最も関係のある画像を1つ取得する挙動となるようです」（https://nititech.jp/blog/trafilatura-content-extraction/）
+  - 「あわせて、複数形式の出力、軽量なセットアップ、処理速度、失敗時の挙動、そして商品カタログや任意フィールドの抽出に向いていない理由も扱っています」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「こういうライブラリを何本も見ていると、次に何か落とし穴が来るのではと身構えてしまいます」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「この地味だけれど正しい失敗の振る舞いは、定期実行のバッチで動かす用途にはまさに欲しいものです」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「注意点は 3 つあります」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「3 つ目は、私自身の検証方法に関する注意です」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「を返す、落ち着いた失敗挙動」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「extraction profile tuning, the held-out test set was never used during development and provides an unbiased」（https://arxiv.org/pdf/2605.21097）
+  - 「systems inherit the same article bias as heuristic systems — they were trained predominantly on article-like」（https://arxiv.org/pdf/2605.21097）
+  - 「driven stages may introduce systematic biases; we mitigate this through multi-pass structure, two rounds of」（https://arxiv.org/pdf/2605.21097）
+  - 「and ReaderLM-v2 inherit the article bias of their training data. Held-out results preserve the development-」（https://arxiv.org/pdf/2605.21097）
   - 「[3] under multilingual conditions. We first identified biases in exist-」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
   - 「configured not to extract comments, which can introduce a bias in」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
 - 実例：
-  - 「allow you to control which elements of the webpage are extracted. For example, you can select for」（https://www.osti.gov/servlets/purl/2429881）
-  - 「for Summarization (with Examples)," Dev.to, 2023. Available: https://dev.to/aws-」（https://www.osti.gov/servlets/purl/2429881）
-  - 「summarization-with-examples-jjg.」（https://www.osti.gov/servlets/purl/2429881）
-  - 「depend heavily on human expertise to craft these rules. Examples」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「tag patterns, or word frequencies. For example, Boilerpipe [4]」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「form part of the main content. For example, Readability employs」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「[9] Karl Pearson. 1895. VII. Note on regression and inheritance in the case of two」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「https://example.com/page」（https://github.com/Murrough-Foley/web-content-extraction-benchmark）
-  - 「for key, example in ex_iterable:」（https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark）
-  - 「"https://example.com/page"」（https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark）
-- 突き合わせ・推定：記載なし（読んだ31頁・検索12回）
+  - 「設定、実行結果、原文の画面を本文に載せ、どこまで確認したかを説明します」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
+  - 「付属資料には実験コード、架空HTML、実行結果、資料を書き出す補助を収録しました」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
+  - 「最後には、編集、営業提案、施設案内という三つの仕事で、同じ抽出結果のどこを変えて読むかを扱います」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
+  - 「RAGやテキストマイニングの前処理としても有用な「Trafilatura」について、主な特徴や使い方、実際の検証結果を紹介しています」（https://note.com/niti_technology/n/nf614a498b089）
+  - 「日本発の自作事例: ExtractContent」（https://64p.org/notes/html-content-extraction.html）
+  - 「url = "https://example.com/article"」（https://nititech.jp/blog/trafilatura-content-extraction/）
+  - 「url = "https://example.com"」（https://nititech.jp/blog/trafilatura-content-extraction/）
+  - 「$ trafilatura -u "https://example.com/article"」（https://nititech.jp/blog/trafilatura-content-extraction/）
+  - 「$ trafilatura -u "https://example.com/article" --markdown」（https://nititech.jp/blog/trafilatura-content-extraction/）
+  - 「向いているユースケースとしては、以下の通りです」（https://nititech.jp/blog/trafilatura-content-extraction/）
+  - 「結果は 1 回の呼び出しで」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「きれいな記事抽出の結果自体は、ローカルの制御されたフィクスチャから得たものです」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「1 つは、私のテスト結果ではなくそのベンチマーク由来だということ」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「空っぽか薄い結果が返ってきて、なぜかと首をかしげることになります」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「カタログが 478 文字のフラットテキストとして返ってきたケースは、まさに」（https://thunderbit.com/ja/blog/trafilatura-review）
+- 検索結果の抜粋：
+  - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。 Webページからナビゲーションバーや広告などのノイズを除去し、本文を高精度に抽出することに特化しています。」（https://note.com/niti_technology/n/nf614a498b089）
+  - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · Webページからナビゲーションバーや広告などのノイズを除去し、 本文を高精度に抽出すること に特化しています。 RAGやテキストマイニングの前処理としても有用な「Trafilatura」について、主な特徴や使い方、実際の検証結果を紹介しています。」（https://note.com/niti_technology/n/nf614a498b089）
+  - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。 Webページからナビゲーションバーや広告などのノイズを除去し、 本文を高精度に抽出すること に特化しています [1]。」（https://nititech.jp/blog/trafilatura-content-extraction/）
 
 ## 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）（official statistics revision analysis vintages real-time data revision triangle）
 - 文脈：統計の版
@@ -5785,12 +5821,31 @@
   - 「: Assign match confidence scores based on how many primary and secondary identifiers match. This approach ensures a risk-based method, where higher-risk entities face deeper checks.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Can you really trust your data? Here’s how to find out」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「How to check data coverage and freshness in OpenCorporates」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「Altss Entity Resolution Methodology | Altss Frameworks」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「Matching methods used to find candidate pairs, and the limits on what they may decide.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「LP/GP Relationship Intelligence Methodology」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「Identity verification for anti-money-laundering or know-your-customer purposes. This methodology resolves records for research; it is not a regulated verification process.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「The same identifier quoted on the subject's own website has origin DISCLOSED; quoted by another party, OSINT_SOURCED; supplied in a licensed dataset, LICENSED_THIRD_PARTY. None of these merges records until the identifier is found in the issuing register (5.6, step 5).」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「5. Method」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「5.6 Resolution steps.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「. This methodology does not publish numeric matching thresholds: the rule above states which evidence is admissible, not a calibrated score. Collection and publication of personal data are additionally limited by privacy law.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「Source Reliability & Confidence Methodology」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
 - 一次情報の探し方：
   - 「Filings such as annual reports, corporate bylaws, or statements of control.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Secondary identifiers often come from filings or user forms. Their quality and consistency vary greatly.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Check if the matched records align on secondary attributes—do the addresses, operational details, or official filings match?」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「5.3 Regulatory filings and audits」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「– like addresses and corporate filings – are vital. They add context that strengthens risk assessments and reveals hidden links.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「The question "is this the same entity?". Answered by a registry identifier or by a filing naming both as one.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「No public IRS register among the sources cited; taken from a filing that states it」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「4.2 Filings that establish identity.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「A registry identifier retrieved from the issuing body's own system (the Global LEI Index, EDGAR, BrokerCheck or IAPD, SIRENE, the Companies House register), or from a filing on a regulator's system that states it, has origin REGULATORY_PUBLIC_RECORD and derivation OBSERVED.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「a filing or registry record names both as one entity (4.2).」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「Every merge records the surviving record, the absorbed record, the identifier or filing that justified it, the actor and the date. The absorbed record's identifier is kept and resolves to the surviving record. A merge with no recorded justifying identifier or filing is a defect. Any merge can be undone: the unmerge restores both records, and each claim returns to the record its evidence supports.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「Filing or registry record naming both as one entity, or listing both identifiers as one filer's own」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「Kept separate, not merged; identity only if a register or filing links both to one entity」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「If evidence shows a merge was wrong (for example a filing showing two distinct entities behind one identifier assignment), the merge is reversed under 5.9 and the reason is recorded.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「Private family entities, foreign entities outside accessible registers and informal groups may carry none. Their records are kept separate, related where evidence supports it, and merged only when an identifier or naming filing appears. The correct number of merges without such evidence is zero.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
 - 失敗・落とし穴：
   - 「Dates can change in format or have mistakes, but they typically reflect a consistent historical fact about the entity.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
 - 実例：
@@ -5799,6 +5854,16 @@
   - 「in risk profiles. For example, if a company’s address moves to a high-risk area, the compliance team can quickly re-evaluate the entity’s risk.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Entity Verification Case Study Compendium」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Case study: How a large US bank re-checks the businesses on its book against the secretary of state」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「Case study: Why automating fund verification is the new standard for Client Lifecycle Management (CLM) providers」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「Strip legal-form suffixes, punctuation and case; transliterate scripts; expand common abbreviations. Normalised strings are used only to compare. The names as stated in sources are kept. See」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「A unique identifier that clearly refers to the same individual in both records: for example an individual's CRD number (the CRD system holds the registration records of individuals associated with broker-dealers, and investment adviser representatives are registered through it), or a unique canonical identifier issued by the source for that individual.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「Where the evidence is insufficient or conflicting, the records stay separate. Records are never merged to make a profile look more complete. Ambiguous cases with a high impact, such as a senior decision-maker at an allocator, go to research review before any merge, and the review is recorded under the validation rules of the」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「If evidence shows a merge was wrong (for example a filing showing two distinct entities behind one identifier assignment), the merge is reversed under 5.9 and the reason is recorded.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「10. Edge cases」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「11. Worked examples」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「Example 1: two pension systems sharing a domain family (illustrative).」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「Example 2: a fund and its adviser.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+  - 「Example 3: a rename.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
 - 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 
 ## e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂）（e-Stat table search statistics code time series join notes）
@@ -5833,9 +5898,9 @@
   - 「“If you have a dataset of perfectly 1,000 or 10,000 rows, I would bet money something is off,” Sahejpal says. “And I can’t tell you the number of students I’ve had who downloaded a file, and didn’t realize they’d downloaded a filtered version. Another mistake is if you don’t check that the range of your dataset is equal to the reported range on a government website.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「). “It’s also possible to make really basic conceptual mistakes if you don’t think about the origin of the numbers.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 実例：記載なし（読んだ21頁・検索12回）
 
 ## 統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定）（revision analysis official statistics mean revision mean absolute revision）
 - 文脈：統計
@@ -5853,6 +5918,8 @@
   - 「our full range of information in a supply and use (SUTs) framework for the first time, and methodological improvements, which cannot be anticipated at the time of the first estimate.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
   - 「. The main improvements include redesigned statistical bulletins and updated methodology pages, and replacing existing quality and methodology information reports (QMIs), all aimed at helping users better understand and interpret our statistics.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
   - 「GDP quality and methodology information (QMI)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「ABS Data Quality Framework」（https://www.abs.gov.au/statistics/research/analysis-revisions-gross-domestic-product）
+  - 「Australian System of National Accounts: Concepts, Sources and Methods」（https://www.abs.gov.au/statistics/research/analysis-revisions-gross-domestic-product）
 - 突き合わせ・推定：
   - 「revision interval for say first published estimates of third quarter and fourth quarter data).」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「Lt: later estimate for reference period t」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
@@ -5911,6 +5978,7 @@
   - 「. However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
   - 「As an example, the file below reports a revision triangle of the GDP series, and it has been published to demonstrate the reliability of the GDP estimates for the Euro area. The reported revision triangle is relative to the period 2017:Q4-2020:Q3. In particular, this example shows an application to the Quarter on Quarter percentage rates of changes of seasonally and calendar adjusted GDP.」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
   - 「The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「This test indicates whether, for example, growth rates tend to be systematically revised upwards or downwards over the three years after they are first published.」（https://www.abs.gov.au/statistics/research/analysis-revisions-gross-domestic-product）
 
 ## ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較）（evaluating web main text extraction boilerplate removal precision recall）
 - 文脈：抽出
