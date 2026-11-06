@@ -1331,7 +1331,7 @@
   - 「９ 調査結果の」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ また、工業統計調査においては、市区町村別結果等の詳細集計や個人経営事業所」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ これに基づき、乙調査の位置づけについて検討を行った結果、①甲調査という産業」（https://www.soumu.go.jp/main_content/000744047.pdf）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
 
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
@@ -1571,6 +1571,12 @@
 ## 情報機関の分析基準（ODNIの分析基準）を市場調査に使う（ODNI analytic standards applied business research）
 - 文脈：型
 - 手順・やり方：
+  - 「この記事では、プログラミング初心者・セキュリティ初心者でも理解できるように、GitHubの仕組みから使い方、プログラムのアップロード、さらにはサーバを借りて自分のサービスを公開するところまで、ステップごとに丁寧に解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「AWS CloudTrail・Azure Monitor・GCP Audit Logsを使ったインシデント調査の手順と課題を初心者にも分かるよう完全解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「【初心者OK】ペネトレーションテストとは？自分のサーバを安全に攻撃する全手順」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「ペネトレーションテストとは何か？初心者でもわかるように仕組み・合法的な手順・使用ツールを完全解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「自分のサーバを攻撃して脆弱性を発見する方法をステップ別に紹介」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「Maltegoの応用利用方法：知られざる7つの最前線活用術」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「情報機関の方法論と市場調査：OSINT・HUMINT・SIGINT・MASINT・FININT の企業応用と倫理的境界｜Makoto Suhara（須原誠）」（https://note.com/everprogress/n/nde8351a93d60）
   - 「情報機関の方法論と市場調査：OSINT・HUMINT・SIGINT・MASINT・FININT の企業応用と倫理的境界」（https://note.com/everprogress/n/nde8351a93d60）
   - 「本報告書は、世界の主要な情報機関であるCIA、モサド、MI6、KGBがどのように情報を集め、分析しているのかを整理し、その方法論を企業の市場調査にどう活かせるかを検討するものである」（https://note.com/everprogress/n/nde8351a93d60）
@@ -1580,12 +1586,6 @@
   - 「方法を述べるにあたっては、倫理上の制約にも触れておく必要がある」（https://note.com/everprogress/n/nde8351a93d60）
   - 「購入した商用データを使う場合には、米国の情報コミュニティが自らに課しているように、データの出所と生成、集約の方法を確かめ、偏りや推測が混じっていないかを含めて品質を評価することが求められる(ODNI, 2024b)」（https://note.com/everprogress/n/nde8351a93d60）
   - 「ヘッジファンドやコンサルティング会社は、経済指標を得るために型破りな公開データを分析する戦略を作り上げてきた」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「要点は、公開データを実行に移せるインテリジェンスに変える手順、すなわち情報を検証し、文脈の中で分析し、意思決定者に使いやすい形で届ける手順を備えることである」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「米国の情報コミュニティは、こうした手順を分析基準として指令で定めている」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「理論的に見ると、人的情報はWarner(2002)が説く「秘匿性を要件とするインテリジェンス」の考え方を最も典型的に体現する分野である」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「つまり、企業の人的情報収集は、確立された定性調査の方法として制度化されており、諜報技術を企業に応用しやすい分野といえる」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「ある民間の調査会社は、自社の人的情報の方法が高度な公開情報収集の能力と先端技術に支えられ、公開情報では届かない情報を明らかにするものだと説明している(Black Cube, n.d.)」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「実際、公開情報を悪用したソーシャルエンジニアリング、すなわちSNSから従業員の氏名や役職を集めて接近する手口は、攻撃者が使う典型的な技法として知られており(StealthMole, 2024)、その反面教師としての性格は倫理的な境界の重要性を裏づけている」（https://note.com/everprogress/n/nde8351a93d60）
 - 突き合わせ・推定：
   - 「なお、防衛分野の信号情報市場は2026年に約196億ドルと推計される一方(Mordor Intelligence, 2026)、市場規模や成長率の推計は情報源によって大きく食い違っている(SDKI Analytics, 2025)」（https://note.com/everprogress/n/nde8351a93d60）
   - 「一つの推計を鵜呑みにせず、複数の情報源で裏づける(トライアンギュレーション)必要があることは、方法論上の重要な教訓である」（https://note.com/everprogress/n/nde8351a93d60）
@@ -2152,11 +2152,11 @@
 
 ## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
 - 文脈：定義の点検
-- 手順・やり方：記載なし（読んだ21頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
-- 実例：記載なし（読んだ21頁・検索12回）
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）
 
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
@@ -3360,7 +3360,7 @@
 - 実例：
   - 「例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
   - 「(無料、データ加工実例)」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
 
 ## 官報・電子公告の決算公告で中小の財務を読む実務（探し方・単位・公告が無い理由）（reading Japanese public financial notices kanpo SME balance sheet units）
 - 文脈：一次情報の探し方
@@ -4903,8 +4903,8 @@
   - 「./example1.json」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「ケース2: 総務省 「社会・人口統計体系」のダウンロード」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「参照したい政府統計に対して、一連の処理をすべてPythonスクリプトとして作成して、1つのパイプラインジョブにまとめれば、あとはスケジューラ(Airflow)を使って実行タイミングや実行結果のモニタリングを適切に設定すれば、APIからDWHへとデータを連携するためのバッチ処理が完成します．」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
 
 ## データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務（data journalism counterfactual comparison confounding chance small counts margin of error guide）
 - 文脈：突き合わせ
@@ -5584,8 +5584,8 @@
   - 「). Another memo from 2003 titled “If Saddam Should Accept Exile…”. Both are examples of “What If? Analysis” being applied in a major international operation, and proved effective in challenging historical interpretations of Saddam’s likely Course of Action (CoA) (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「8.2 Case 2: Grey Dynamics’ Key Assumptions Check」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「You can explore more case studies applying SATs」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-- 突き合わせ・推定：記載なし（読んだ32頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ32頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ35頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ35頁・検索12回）
 
 ## データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）（data journalism data dictionary verification workflow）
 - 文脈：突き合わせ
