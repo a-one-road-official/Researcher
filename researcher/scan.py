@@ -757,6 +757,25 @@ def scan(topic):
     while _pool and len(_pick) < 3:
         it0 = _rg.choices(list(_pool), weights=list(_pool.values()))[0]; _pick.append(f"{it0}（{_pool.pop(it0)}件）")
     md += ["- 目で確かめる抜き取り（品目ごと・件数に比例・4-50）：" + "、".join(_pick) + "。この品目の引用は全件を本文と照らす"]
+    # 2026-11-06 4-55（fungry C-NAPS「ファクトチェックとは」：引用・要約・翻訳の段で元の文脈から離れる。一次を元にした記事でも一次そのものと見比べる）。
+    # 引用が翻訳・要約・抄訳・海外報道の紹介の型なら、文脈が離れた疑いとして数える。一次の表と見比べるまで採る値・裏付けにしない
+    TRANS = re.compile(r"(翻訳|抄訳|和訳|英訳|要約すると|まとめると|海外メディア|英紙|米紙|外電|報じた|reportedly|according to)", re.I)
+    ntr = [r for r in rows if TRANS.search(r["引用"]) and not PRIMARY.search(urlparse(r["URL"]).netloc + urlparse(r["URL"]).path if r["URL"] else "")]
+    if ntr: md.append(f"  - ⚠ 翻訳・要約・又聞きの型の引用から取った数字 {len(ntr)}件（例：{ntr[0]['品目']}）：元の一次と見比べるまで採る値・裏付けにしない（4-55）")
+    # 2026-11-06 4-55（Altss の entity resolution methodology：同じ番号でも、発行元の仕組みから取ったか・本人のサイトに書いてあるか・他者が引いたかで出どころが違う。
+    # 発行元で確かめるまで同じ会社と決めない）。引用に13桁の法人番号があり、URL が国税庁の法人番号公表サイトでなければ「番号の出どころ：他者の引用」
+    HB = re.compile(r"(?<!\d)\d{13}(?!\d)")
+    nhb = [r for r in rows if HB.search(re.sub(r"[\s\-]", "", r["引用"])) and "houjin-bangou.nta.go.jp" not in (r["URL"] or "")]
+    if nhb: md.append(f"  - ⚠ 法人番号の出どころが発行元でない数字 {len(nhb)}件（例：{urlparse(nhb[0]['URL']).netloc}）：国税庁の法人番号公表サイトで取り直すまで、同じ会社の判定・名寄せに使わない（4-55）")
+    # 2026-11-06 4-55（ProofSnap の OSINT 証拠保全：取得の各工程を時刻・対象・結果と一緒に記録し、各記録が直前の記録のハッシュを含む連鎖にすると、
+    # 途中の書き換えが後から分かる）。cross.csv の行（URL・取得日・引用・値）を順にハッシュでつなぎ、最後の値を chain.txt に残す。前回と違えば行が変わった
+    import hashlib as _hl
+    _h = ""
+    for r in sorted(rows, key=lambda r: (r["URL"] or "", r["取得日"] or "", r["引用"])):
+        _h = _hl.sha256((_h + "|" + (r["URL"] or "") + "|" + (r["取得日"] or "") + "|" + r["引用"] + "|" + str(r.get("値", ""))).encode("utf-8")).hexdigest()
+    _cp = os.path.join(OUT, topic, "chain.txt"); _prev = open(_cp).read().split()[0] if os.path.exists(_cp) else ""
+    open(_cp, "w").write(_h + "\n")
+    md.append(f"  - 取得の記録の連鎖（4-55）：{_h[:12]}" + ("（前回と同じ）" if _prev == _h else f"（前回 {_prev[:12]} から変わった：足された・消えた・書き換えられた行がある）" if _prev else "（初回）"))
     # 2026-11-06 4-52（Binette ら arXiv 2210.01230：件数に比例して抜いた品目で誤りを数えたら、素朴に「誤り合計÷確かめた合計」とせず、
     # 抜かれやすさで重みを戻す（件数比例なら品目ごとの誤り率の平均）。素朴な割合は大きい品目に引っ張られる）。
     # Claude が走査で本文と照らした結果を out/<テーマ>/spot_check.csv（品目,確かめた件数,誤りの件数）に残すと、ここで両方を出す
