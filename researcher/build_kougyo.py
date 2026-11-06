@@ -36,7 +36,7 @@ CODE = re.compile(r"^\s*(\d{2,4})(?:\s+|　|$)(.*)$")
 FIELDS = {  # 欄の見出しに含まれる言葉 → 出力の欄の名前。内訳の言葉（加工賃収入額）を先に見る（見出しが「製造品出荷額等 加工賃収入額」とつながるため）
     "加工賃収入額": ["加工賃収入額", "加工賃収入"],
     "付加価値額": ["付加価値額"],
-    "現金給与総額": ["現金給与総額"],
+    "現金給与総額": ["現金給与総額", "現金給与", "給与総額"],
     "事業所数": ["事業所数"],
     "従業者数": ["従業者数", "従業者 計", "従業者計"],
     "製造品出荷額等": ["製造品出荷額等"],
@@ -58,23 +58,72 @@ def _get(url: str, **kw) -> requests.Response | None:
     return None
 
 
+_PW = {}
+
+
+def _browser(url: str) -> bytes | None:
+    """2026-11-06：経産省のページが Actions から status=202 を返す（人のブラウザでないと本文を返さない）。
+    ヘッドレスの Chromium で所管ページを開き、同じクッキーのまま中身を取る。AIは使わない。"""
+    try:
+        from playwright.sync_api import sync_playwright
+    except Exception:  # noqa: BLE001
+        return None
+    try:
+        if "ctx" not in _PW:
+            _PW["pw"] = sync_playwright().start()
+            _PW["b"] = _PW["pw"].chromium.launch()
+            _PW["ctx"] = _PW["b"].new_context(user_agent=UA, locale="ja-JP")
+            _PW["page"] = _PW["ctx"].new_page()
+            _PW["page"].goto("https://www.meti.go.jp/statistics/tyo/kougyo/index.html", wait_until="networkidle", timeout=90000)
+        if url.endswith((".html", "/")):
+            _PW["page"].goto(url, wait_until="networkidle", timeout=90000)
+            time.sleep(2)
+            return _PW["page"].content().encode("utf-8")
+        r = _PW["ctx"].request.get(url, timeout=120000)
+        return r.body() if r.ok else None
+    except Exception as e:  # noqa: BLE001
+        print(f"kougyo browser {url} {e}", flush=True)
+        return None
+
+
+class _Resp:
+    def __init__(self, body: bytes):
+        self.content, self.status_code, self.encoding = body, 200, "utf-8"
+        self.apparent_encoding = "utf-8"
+
+    @property
+    def text(self) -> str:
+        return self.content.decode("utf-8", "replace")
+
+
+def _fetch(url: str) -> "requests.Response | _Resp | None":
+    r = _get(url)
+    if r is not None and r.status_code == 200 and (not url.endswith((".xls", ".xlsx")) or r.content[:4] in (b"\xd0\xcf\x11\xe0", b"PK\x03\x04")):
+        return r
+    body = _browser(url)
+    if body and (not url.endswith((".xls", ".xlsx")) or body[:4] in (b"\xd0\xcf\x11\xe0", b"PK\x03\x04")):
+        return _Resp(body)
+    return r
+
+
 def _links(year: int, slug: str, log: list[str]) -> list[str]:
     """その年の産業別統計表の Excel。決まった名前を先に試し、無ければ所管ページの中のリンクから探す"""
     page = BASE.format(slug=slug)
     guess = [page + f"xls/{year}-k3-data.xls", page + f"xls/{year}-k3-data.xlsx"]
     out = []
     for u in guess:
-        r = _get(u, stream=True)
+        r = _fetch(u)
         if r is not None and r.status_code == 200 and r.content[:4] in (b"\xd0\xcf\x11\xe0", b"PK\x03\x04"):
             out.append(u)
             break
     if out:
         return out
-    r = _get(page + "index.html")
+    r = _fetch(page + "index.html")
     if r is None or r.status_code != 200:
         log.append(f"- {year}（{slug}）：所管ページ {page}index.html が取れない（status={getattr(r, 'status_code', '接続失敗')}）")
         return []
-    r.encoding = r.apparent_encoding
+    if isinstance(r, requests.Response):
+        r.encoding = r.apparent_encoding
     hrefs = re.findall(r"""href=["']([^"']+\.xlsx?)["']""", r.text)
     hrefs = [requests.compat.urljoin(page + "index.html", h) for h in hrefs]
     # 概況文の数値表（gaikyo）より、産業別統計表（data）を先に
@@ -108,10 +157,14 @@ def parse_sheet(year: int, sheet: str, rows: list[list[str]]) -> list[dict]:
         return []
     head = _header(rows, first)
     out, code, cname = [], "", ""
+    # 年次の欄は「産業分類／Industries」の見出しのうち一番左だけ（「事業所数 年次」の欄は件数なので年にしない）
+    ycols = [i for i, h in enumerate(head) if ("年次" in h or re.search(r"\bYears?\b", h)) and ("産業" in h or "Industries" in h)][:1]
     for r in rows[first:]:
         cells = [x for x in r if x]
         if not cells:
             continue
+        # 2026-11-06 表の1行ごとに「年次」の欄がある（1つのファイルに5年分）。ファイルの年ではなく行の年次を使う
+        row_year = next((int(float(r[i])) for i in ycols if i < len(r) and re.fullmatch(r"(19|20)\d\d(\.0)?", r[i] or "")), None)
         texts = [(i, x) for i, x in enumerate(r) if x and not NUM.match(x)]
         size, skip = "", -1
         # 左端の欄が番号だけの数字（"2464" や "2464.0"）で、名前が隣のセルにある表
@@ -135,9 +188,9 @@ def parse_sheet(year: int, sheet: str, rows: list[list[str]]) -> list[dict]:
         for i, x in enumerate(r):
             if not x or not NUM.match(x) or i >= len(head) or not head[i]:
                 continue
-            if i == skip:
+            if i == skip or i in ycols:
                 continue
-            out.append({"year": year, "sheet": sheet, "code": code, "name": cname, "row": size,
+            out.append({"year": row_year or year, "file_year": year, "sheet": sheet, "code": code, "name": cname, "row": size,
                         "column": head[i][:80], "value": x})
     return out
 
@@ -145,7 +198,7 @@ def parse_sheet(year: int, sheet: str, rows: list[list[str]]) -> list[dict]:
 def _read(url: str, year: int, log: list[str]) -> list[dict]:
     import pandas as pd
 
-    r = _get(url)
+    r = _fetch(url)
     if r is None or r.status_code != 200:
         log.append(f"- {year}：{url} が取れない（status={getattr(r, 'status_code', '接続失敗')}）")
         return []
@@ -180,27 +233,52 @@ def _num(x: str) -> float | None:
     return -v if neg else v
 
 
-def series(rows: list[dict]) -> list[dict]:
-    """産業細分類別（シート名が 1 で始まる表・規模の行でない行）を番号×年に並べ、同じ表・同じ年の組だけで割る"""
+def _ratios(d: dict) -> dict:
+    e, p, s, k, v, w = (_num(d.get(x, "")) for x in ("事業所数", "従業者数", "製造品出荷額等", "加工賃収入額", "付加価値額", "現金給与総額"))
+    d["1事業所あたり従業者数"] = round(p / e, 1) if e and p else ""
+    d["従業者1人あたり加工賃収入額"] = round(k / p, 4) if p and k is not None else ""
+    d["従業者1人あたり製造品出荷額等"] = round(s / p, 4) if p and s else ""
+    # 工業統計の金額欄は百万円。1人あたりを万円にもする（×100、算術だけ）
+    d["従業者1人あたり付加価値額_万円"] = round(v / p * 100, 1) if p and v else ""
+    d["従業者1人あたり製造品出荷額等_万円"] = round(s / p * 100, 1) if p and s else ""
+    d["従業者1人あたり現金給与総額_万円"] = round(w / p * 100, 1) if p and w else ""
+    return d
+
+
+def size_series(rows: list[dict]) -> list[dict]:
+    """従業者規模別（シート 2200）：番号×規模×年次。同じ行の欄だけで割る"""
     acc: dict[tuple, dict] = {}
-    for r in rows:
-        if not str(r["sheet"]).startswith("1") or r["row"] or len(r["code"]) != 4:
+    for r in sorted(rows, key=lambda r: -int(r.get("file_year") or r["year"])):
+        if str(r["sheet"]) != "2200" or len(r["code"]) != 4 or not r["row"]:
             continue
         f = _pick(r["column"])
         if not f:
             continue
-        k = (r["code"], r["year"], r["sheet"])
-        d = acc.setdefault(k, {"code": r["code"], "name": r["name"], "year": r["year"], "sheet": r["sheet"]})
+        k = (r["code"], r["row"], r["year"])
+        d = acc.setdefault(k, {"code": r["code"], "name": r["name"], "規模": r["row"], "year": r["year"], "file_year": r.get("file_year", "")})
+        if f not in d:
+            d[f] = r["value"]
+    out = [_ratios(d) for d in acc.values()]
+    out.sort(key=lambda d: (d["code"], d["year"], d["規模"]))
+    return out
+
+
+def series(rows: list[dict]) -> list[dict]:
+    """産業細分類別（シート名が 1 で始まる表・規模の行でない行）を番号×年に並べ、同じ表・同じ年の組だけで割る"""
+    acc: dict[tuple, dict] = {}
+    # 重なる年（5年分の表が3ファイルで重なる）は新しいファイルの値を先に取る
+    for r in sorted(rows, key=lambda r: -int(r.get("file_year") or r["year"])):
+        if str(r["sheet"]) != "1100" or r["row"] or len(r["code"]) != 4:
+            continue
+        f = _pick(r["column"])
+        if not f:
+            continue
+        k = (r["code"], r["year"])
+        d = acc.setdefault(k, {"code": r["code"], "name": r["name"], "year": r["year"], "sheet": r["sheet"], "file_year": r.get("file_year", "")})
         if f not in d:  # 最初に当たった欄（内訳でなく合計）
             d[f] = r["value"]
             d[f + "_欄"] = r["column"]
-    out = []
-    for d in acc.values():
-        e, p, s, k = (_num(d.get(x, "")) for x in ("事業所数", "従業者数", "製造品出荷額等", "加工賃収入額"))
-        d["1事業所あたり従業者数"] = round(p / e, 1) if e and p else ""
-        d["従業者1人あたり加工賃収入額"] = round(k / p, 1) if p and k is not None else ""
-        d["従業者1人あたり製造品出荷額等"] = round(s / p, 1) if p and s else ""
-        out.append(d)
+    out = [_ratios(d) for d in acc.values()]
     out.sort(key=lambda d: (d["code"], d["year"]))
     return out
 
@@ -214,14 +292,20 @@ def main() -> None:
             rows += got
             if got:
                 break
-    cols = ["year", "sheet", "code", "name", "row", "column", "value"]
+    cols = ["year", "file_year", "sheet", "code", "name", "row", "column", "value"]
     with open(OUT / "kougyo_rows.csv", "w", encoding="utf-8-sig", newline="") as f:
         w = csv.DictWriter(f, fieldnames=cols)
         w.writeheader()
         w.writerows(rows)
     ser = series(rows)
-    scol = ["code", "name", "year", "sheet"] + [x for f in FIELDS for x in (f, f + "_欄")] + \
-           ["1事業所あたり従業者数", "従業者1人あたり加工賃収入額", "従業者1人あたり製造品出荷額等"]
+    RAT = ["1事業所あたり従業者数", "従業者1人あたり加工賃収入額", "従業者1人あたり製造品出荷額等",
+           "従業者1人あたり付加価値額_万円", "従業者1人あたり製造品出荷額等_万円", "従業者1人あたり現金給与総額_万円"]
+    scol = ["code", "name", "year", "file_year", "sheet"] + [x for f in FIELDS for x in (f, f + "_欄")] + RAT
+    sz = size_series(rows)
+    with open(OUT / "kougyo_size.csv", "w", encoding="utf-8-sig", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=["code", "name", "規模", "year", "file_year"] + list(FIELDS) + RAT, extrasaction="ignore")
+        w.writeheader()
+        w.writerows(sz)
     with open(OUT / "kougyo_series.csv", "w", encoding="utf-8-sig", newline="") as f:
         w = csv.DictWriter(f, fieldnames=scol, extrasaction="ignore")
         w.writeheader()
@@ -232,6 +316,11 @@ def main() -> None:
     (OUT / "kougyo_log.md").write_text("\n".join(log) + "\n", encoding="utf-8")
     print("\n".join(log), flush=True)
     # 1年も取れなかったときは印を置かず、次の回でもう一度試す
+    if _PW.get("b"):
+        try:
+            _PW["b"].close(); _PW["pw"].stop()
+        except Exception:  # noqa: BLE001
+            pass
     if years:
         (OUT / "BUILD_DONE").write_text(f"{len(rows)} rows, years {years}\n", encoding="utf-8")
 
