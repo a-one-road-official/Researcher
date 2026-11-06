@@ -919,6 +919,23 @@ def scan(topic):
         _prn = {n: sum(1 for r in rows if r["品目"] == n) for n in _pr}
         md.append(f"  - 前提を置いた問いの形の品目（4-62）：{len(_pr)}件／{len(_inp3)}件" + ("（" + "、".join(f"{n[:30]}＝{c}行" for n, c in list(_prn.items())[:5]) + "）。中立の言い方の別名を足し、前提に反する引用があるかを先に見る" if _pr else ""))
     except Exception: pass
+    # 2026-11-07 4-63（koji.so「Anchoring Bias in Research」：目の前の数字に見積もりが引き寄せられ、そこからの修正が足りない。
+    # 「X より多いか少ないか」の聞き方をやめ、数字を置かずに聞く）。品目・別名に具体的な数字を入れた検索は、その数字を含むページを拾い、
+    # 集まった値がその数字に寄る。品目の文字にある数字（年を除く）と±1%で一致する値を「検索語の数字のこだま」として数える。こだまは裏付けに数えない
+    try:
+        import csv as _csv4
+        _inp4 = list(_csv4.DictReader(open(os.path.join(os.path.dirname(__file__), "inputs", topic + ".csv"), encoding="utf-8-sig")))
+        _qn = {}
+        for r0 in _inp4:
+            t0 = unicodedata.normalize("NFKC", " ".join(r0.get(k, "") or "" for k in ("品目", "英語名", "別名"))).replace(",", "")
+            ns = {float(x) for x in re.findall(r"(?<![\d.])(\d+(?:\.\d+)?)(?![\d.])", t0) if not (1990 <= float(x) <= 2040) and float(x) >= 2}
+            if ns: _qn[r0.get("品目", "")] = ns
+        _echo = {}
+        for r in rows:
+            ns = _qn.get(r["品目"])
+            if ns and r["値"] and any(abs(r["値"] - n) <= 0.01 * n for n in ns): _echo[r["品目"]] = _echo.get(r["品目"], 0) + 1
+        md.append(f"  - 検索語の数字のこだま（4-63）：数字を入れた品目 {len(_qn)}件／{len(_inp4)}件、そのうち検索語の数字と同じ値を拾った品目 {len(_echo)}件" + ("（" + "、".join(f"{n[:28]}＝{c}行" for n, c in list(_echo.items())[:5]) + "）。数字を外した別名で取り直し、こだまは裏付けに数えない" if _echo else ""))
+    except Exception: pass
     md.append(f"  - 取得の記録の連鎖（4-55）：{_h[:12]}" + ("（前回と同じ）" if _prev == _h else f"（前回 {_prev[:12]} から変わった：足された・消えた・書き換えられた行がある）" if _prev else "（初回）"))
     # 2026-11-06 4-52（Binette ら arXiv 2210.01230：件数に比例して抜いた品目で誤りを数えたら、素朴に「誤り合計÷確かめた合計」とせず、
     # 抜かれやすさで重みを戻す（件数比例なら品目ごとの誤り率の平均）。素朴な割合は大きい品目に引っ張られる）。
@@ -1176,6 +1193,17 @@ def scan(topic):
             for r in g:
                 for d0 in (r.get("定義") or "").split("・"):
                     if d0: dc[d0] = dc.get(d0, 0) + 1
+            # 2026-11-07 4-63（ネクストイノベーションベース「市場規模の調べ方」：食い違う数字は対象・地域・時点・取引段階・単位・推計方法を横に並べる。
+            # 世帯支出と小売販売額、出荷と販売は同じ取引段階ではない。税込・税抜もそろえる）。引用の語から取引段階と税の扱いを拾い、2つ以上混ざれば印す
+            _stg = {}; _tax = {}
+            for r in g:
+                q0 = r.get("引用", "")
+                for lab, rx in (("生産・出荷", r"出荷|生産額|生産高"), ("卸", r"卸売|卸"), ("小売・販売", r"小売|販売額|売上高"), ("支出・購入", r"支出|購入額|消費額"), ("輸出入", r"輸出|輸入")):
+                    if re.search(rx, q0): _stg[lab] = _stg.get(lab, 0) + 1; break
+                if re.search(r"税込|消費税込", q0): _tax["税込"] = _tax.get("税込", 0) + 1
+                elif re.search(r"税抜|税別", q0): _tax["税抜"] = _tax.get("税抜", 0) + 1
+            if len(_stg) >= 2: md.append("  - ⚠ 取引段階が混在（4-63）：" + "、".join(f"{k}{v}件" for k, v in _stg.items()) + "（同じ段階どうしで比べる。上の段階の総額を対象の市場にしない）")
+            if len(_tax) >= 2: md.append("  - ⚠ 税込と税抜が混在（4-63）：" + "、".join(f"{k}{v}件" for k, v in _tax.items()))
             if len(dc) >= 2: md.append("  - ⚠ 定義が混在：" + "、".join(f"{k}{v}件" for k, v in dc.items()) + "（同じ定義どうしで比べる）")
             vc = {}
             for r in g:

@@ -131,3 +131,6 @@ AIとの対話・生成物を調べ物に使ったときの監査（疑問文が
 公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き）,Berkeley Protocol digital open source investigations search bias verification steps,バークレー・プロトコル オープンソース調査 手順;デジタル証拠 検証 手順 調査報道;OSINT 検索語 バイアス 複数の検索エンジン,検証
 リアルタイムデータ（その時点の版）で過去の数字を比べる実務（速報と確報を系列の中で混ぜない）,real-time data vintage analysis first release versus latest vintage practice,統計 速報値 確報値 系列 混在;改定 前の値 で判断 検証 実務;real-time dataset vintages Croushore,改訂
 引用が実在しても主張を支えていない（根拠のずれ）を見つける点検（AI検索・RAGの誤りの評価）,misgrounded citation detection RAG hallucination evaluation legal research,AI 検索 引用 根拠 ずれ 点検;生成AI 出典 実在 主張 不一致 検証;RAG ハルシネーション 評価 方法,検証
+市場規模の食い違いを対象・地域・時点・取引段階・単位・推計方法で横に並べる比較表の作り方（公的統計から2経路で推計して差を検証する工程）,market sizing reconcile top-down bottom-up comparison table transaction stage definition,市場規模 トップダウン ボトムアップ 差 検証;市場規模 食い違い 比較表 取引段階;市場規模 推計 工程 公的統計 再計算,市場規模の推計
+聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む）,anchoring bias research question design avoid numeric anchors common-mode bias trust the delta,アンカリング 調査 質問 数字 偏り 防ぐ;アンカリング効果 見積もり 調査設計;common-mode bias research delta not level,偏り
+上場廃止・増資・負債の増加で決算公告の義務と損益計算書の有無が変わる時点の確かめ方（大会社の判定を毎期）,Japan kessan koukoku obligation change delisting capital increase large company P/L summary,上場廃止 決算公告 義務 復活;大会社 判定 資本金5億 負債200億 毎期;官報 損益計算書 要旨 大会社,決算公告
