@@ -24,6 +24,19 @@ LOCALGOV = re.compile(r"(^|\.)(pref\.[a-z]+\.jp|city\.[a-z-]+(\.[a-z]+)?\.jp|met
 # 2026-11-06 4-50：品目が名指しする指標の語（結果の差し替えの点検に使う）
 INDICATOR = ["加工賃", "出荷額", "付加価値", "従業者", "事業所数", "受注", "給与", "採用単価", "採用費", "有効求人倍率", "売上高", "生産額"]
 SCOPEMIX = re.compile(r"(合算|を含む|を含めた|含まない|を除く|連結ベース|全事業|グループ全体|広義|狭義)")
+# 2026-11-06 4-53（一田和樹のメモ帳のファクトチェック事例：一次資料の留保語を1語落とすだけで主張が反転する／週間と月間の違う指標が並べられる）。
+# 数字の前後に上限・留保の語（最大・最高・理論上・ピーク時・上限・最低・最小）があれば、典型の値でなく端の値として印す。
+# 同じ欄に、集計の期間（週・月・四半期・年・累計・延べ）が違う数字が混ざれば、期間をそろえるまで突き合わせない
+HEDGE = re.compile(r"(最大|最高|理論上|理論値|ピーク時?|上限|最低|最小|最も多い|過去最高|過去最多)")
+PERIOD = {"週": re.compile(r"(週間|毎週|週あたり|週当たり|1週)"), "月": re.compile(r"(月間|毎月|月あたり|月当たり|月次|1か月|1カ月|ひと月)"),
+          "四半期": re.compile(r"(四半期|3か月間|3カ月間)"), "年": re.compile(r"(年間|毎年|年あたり|年当たり|年次|通年|1年間)"),
+          "累計": re.compile(r"(累計|累積|延べ|これまでに|創業以来)")}
+def period_of(q):
+    hit = [k for k, rx in PERIOD.items() if rx.search(q)]
+    return hit[0] if len(hit) == 1 else ""
+# 2026-11-06 4-53（インティメート・マージャー「市場規模の調べ方」：公的統計を使うときは資料名・統計表番号・対象年・URLを記録する）。
+# 一次の統計の値で、URL が表を指していない（e-Stat の表番号 sid・statdisp_id・ファイル、xlsx・csv が無い）ものは、どの表の値か後から引けない
+STATTABLEID = re.compile(r"(sid=|statdisp_id=|stat_infid=|toukei=|tstat=|file-download|\.xlsx?($|\?)|\.csv($|\?)|/excel/|/xls/)", re.I)
 def is_primary(url):
     host = urlparse(url).netloc
     return (bool(PRIMARY.search(url)) or bool(LOCALGOV.search(host))) and not NEWSHOST.search(host) and not COPYHOST.search(host)
@@ -932,6 +945,17 @@ def scan(topic):
                 if r.get("URL") and r.get("取得日"): byu.setdefault(r["URL"], {}).setdefault(r["取得日"], set()).add(r["値"])
             chg = [u0 for u0, dd in byu.items() if len(dd) >= 2 and not (dd[min(dd)] & dd[max(dd)])]
             if chg: md.append(f"  - ⚠ ページの中身が変わった疑い {len(chg)}URL（同じURLで最初と最後の取得日に共通の値が無い。例 {urlparse(chg[0]).netloc}）：どの取得日の版の値かを書き、古い版の値を今の事実にしない（4-50）")
+            # 2026-11-06 4-53：上限・留保の語の付いた値と、集計の期間が違う値の混在
+            hed = [r for r in g if HEDGE.search(r["引用"])]
+            if hed and len(hed) < len(g): md.append(f"  - ⚠ 上限・留保つきの値 {len(hed)}件（最大・最高・理論上・ピーク時など）：端の値で典型ではない。採る値・中央値の根拠にせず、留保語を落として写していないかを本文で確かめる（4-53）")
+            elif hed: md.append(f"  - ⚠ この欄は全件が上限・留保つきの値（{len(hed)}件）：「最大で」「理論上」を付けて書き、典型の値として書かない（4-53）")
+            per = {}
+            for r in g:
+                k0 = period_of(r["引用"])
+                if k0: per[k0] = per.get(k0, 0) + 1
+            if len(per) >= 2: md.append("  - ⚠ 集計の期間が違う値が混在（" + "・".join(f"{k}{n}件" for k, n in per.items()) + "）：週・月・年・累計をそろえてから突き合わせ、中央値を取らない（4-53）")
+            pst = [r for r in prim if STATSRC.search(r["引用"] + r["URL"]) and not STATTABLEID.search(r["URL"])]
+            if pst: md.append(f"  - ⚠ 表の番号が引けない統計の一次 {len(pst)}件：URLが統計表（e-Stat の表番号・xlsx・csv）を指していない。資料名・統計表番号・対象年・URLの4点で取り直す（4-53）")
             mix = [r for r in g if SCOPEMIX.search(r["引用"])]
             if mix: md.append(f"  - ⚠ 範囲が違う数字の疑い {len(mix)}件（合算・〜を含む・範囲の語）：何を含む数字かをそろえてから突き合わせる。合算の決算は対象の事業を切り分ける（4-49）")
             if gr in ("【食い違い】", "【未確認】") and len(vals) >= 2:
