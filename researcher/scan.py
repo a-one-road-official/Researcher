@@ -839,8 +839,17 @@ def kougyo_segments(by):
         for s in segs(sorted(pts)):
             base[(fld, s[0], s[-1])] = _cagr(pts[s[0]], pts[s[-1]], s[-1] - s[0])
     n = 0; tally = {}
+    # 2026-11-07 走査で見つかった失敗から（42回目・4-67）：「35業種中 上 20・下 15」の母数に、小分類（末尾0の 2410・2440・2460 など）と
+    # その下の細分類が両方入り、子が1つだけの小分類（2410＝2411、2480＝2481）は同じ値が2回数えられていた。数える母数は細分類（末尾が0でない番号）だけにし、
+    # 値の並びがすでに数えた番号と同じなら数えない。小分類の行は本文には残す
+    _seen_sig = set(); _dup = 0; _agg = 0
     for (code, name), rs in sorted(by.items()):
         if code == "0000" or not KOUGYO_FOCUS.search(name or ""): continue
+        _sig = tuple(tuple(_kseries(rs, f, sheet)) for f in KOUGYO_SEG_FIELDS)
+        _count = code[-1:] != "0" and _sig not in _seen_sig
+        if code[-1:] == "0": _agg += 1
+        elif _sig in _seen_sig: _dup += 1
+        _seen_sig.add(_sig)
         parts = []
         for fld in KOUGYO_SEG_FIELDS:
             pts = dict(_kseries(rs, fld, sheet))
@@ -850,7 +859,7 @@ def kougyo_segments(by):
             g = _cagr(pts[s[0]], pts[s[-1]], s[-1] - s[0])
             if g is None: continue
             b = base.get((fld, s[0], s[-1]))
-            if b is not None:
+            if b is not None and _count:
                 t_ = tally.setdefault(fld, [0, 0, 0]); t_[0 if g > b else 1 if g < b else 2] += 1
             parts.append(f"{fld} {s[0]}→{s[-1]}年 {pts[s[0]]:,.1f}→{pts[s[-1]]:,.1f}（年率 {g:+.1%}"
                          + (f"・製造業計 {b:+.1%}・差 {(g - b) * 100:+.1f}ポイント" if b is not None else "") + "）")
@@ -862,7 +871,8 @@ def kougyo_segments(by):
     # 見た細分類の数と、製造業計より上・下の数を欄ごとに添える。scan.md で1業種の差を書くときは、この母数と並べる
     if tally:
         md.append("- 見た細分類の数と、製造業計との差の向き（4-65・探索の数を添える）：" + "／".join(
-            f"{f} {a + b + c}業種中 上 {a}・下 {b}・同じ {c}" for f, (a, b, c) in tally.items()))
+            f"{f} {a + b + c}業種中 上 {a}・下 {b}・同じ {c}" for f, (a, b, c) in tally.items())
+            + f"（母数は細分類だけ。小分類の行 {_agg}件と、値の並びが同じ番号 {_dup}件は数えない）")
     return md
 
 MOCHIBUN = re.compile(r"(合同会社|合名会社|合資会社|LLC|\(同\)|（同）)")
@@ -1124,6 +1134,13 @@ def scan(topic):
             # 同じ欄で【裏付けあり】になった。時点の違う値の一致・年の無い値は、同じ対象の裏付けではない（4-1 の①時点の違い）
             if gr == "【裏付けあり】":
                 yrs = sorted({int(r["年"]) for r in g if r["年"]}); noy = sum(1 for r in g if not r["年"])
+                # 2026-11-07 4-67（Simply Psychology「triangulation in qualitative research」：一致が1つの場面・1つの時点だけに乗っていないかを見る。
+                # 共通の偏りを持つ出どころの一致は独立の裏付けに見えるだけ）。一致が1つの年・1つの規模区分だけなら、その年・その区分の水準の裏付けで、向きや他の区分には広げない
+                szs = {r.get("規模") for r in g}
+                if not noy and len(yrs) == 1 and len(g) >= 2:
+                    md.append(f"  - ⚠ 1時点だけの裏付け（4-67）：一致した値が全部{yrs[0]}年。{yrs[0]}年の水準の裏付けで、向き・他の年には広げない")
+                if len(szs) == 1 and next(iter(szs)) and len(g) >= 2:
+                    md.append(f"  - ⚠ 1つの規模区分だけの裏付け（4-67）：全部「{next(iter(szs))}」。他の規模区分・業種全体の値として書かない")
                 if noy or (yrs and yrs[-1] - yrs[0] >= 3):
                     md.append(f"  - ⚠ 時点が揃わない裏付け（4-44）：年の無い値{noy}件" + (f"・年の幅{yrs[0]}〜{yrs[-1]}年" if yrs else "") + "。同じ年どうしで一致を見るまで、出典を付けて言い切らない（「〇〇によると」で書く）")
             # 2026-11-05 4-25：証拠の量に引っ張られない（Heuer の競合仮説分析：大量の証拠に見えても出どころが偏れば強さではない）。
