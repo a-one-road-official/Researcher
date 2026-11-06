@@ -8,8 +8,144 @@
  ],
  "context": "企業",
  "kind": "market",
- "researched_at": "2026-11-06T08:09:41.755467+00:00",
+ "researched_at": "2026-11-06T12:38:51.097280+00:00",
  "evidence": {
+  "実例": [
+   {
+    "quote": "Generic technographic providers rely on brittle scraping and pattern matching, missing the nuanced technology signals embedded in job postings, case studies, and SEC filings. A custom inference engine trained on these unstructured sources delivers the precision required for competitor displacement and account-based marketing.",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "15 examples",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "20K-50K labeled snippets; active learning loop with SME review for edge cases",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, if “cross-functional collaboration” appears five times in a job posting while “Excel skills” is mentioned only once, you can infer that teamwork abilities might be more crucial than specific technical skills—even if both are listed as “requirements.”",
+    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, a job description might emphasize technical skills, but employee reviews might reveal that political savvy and relationship-building are what truly lead to success at the company.",
+    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Stories and examples the company chooses to highlight",
+    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, if a company’s materials repeatedly emphasize “innovation” and “challenging the status quo,” your application should highlight examples of creative problem-solving and initiative, even if the job description focuses more on technical requirements.",
+    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For each high-priority requirement (identified using tools 1-9), select a specific example from your background that demonstrates that skill or quality",
+    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example application customization:",
+    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Targeted cover letter that prominently addresses the three requirements that your analysis revealed as most important, with specific examples that demonstrate your capabilities in these areas",
+    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Real‑World Example: Turning a Vague Posting into a Winning Application",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Insert concrete examples—e.g., “Led a cross‑functional team of 5 to deliver project X two weeks ahead of schedule.”",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Add at least one quantified soft‑skill example.",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Training a Technographic Inference Engine from Job Postings and Public Filings",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Generic technographic providers rely on brittle scraping and pattern matching, missing the nuanced technology signals embedded in job postings, case studies, and SEC filings. A custom inference engine trained on these unstructured sources delivers the precision required for competitor displacement and account-based marketing.",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A rigorous approach to transforming noisy job postings and public filings into a high-precision technographic inference engine, designed to give enterprise sales teams a decisive competitive advantage.",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Off-the-shelf technographic data is a commodity, often stale and inaccurate. We train a custom classification engine by constructing a labeled dataset from millions of job postings and SEC filings, using a",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Fine-tune a DeBERTa-v3-large encoder on a curated dataset of job postings and filings, each tagged with a multi-hot vector from your technology taxonomy. This approach excels at capturing context-dependent technology mentions (e.g., 'deployed on AWS' vs. 'migrating from AWS') and provides well-calibrated confidence scores via sigmoid outputs. Training leverages PyTorch and Hugging Face",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", using a combination of few-shot prompting for rapid category expansion and supervised training on a human-labeled corpus of job postings and 10-K filings. The core challenge is not just extraction, but",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Comparative delivery options for training a custom technographic inference engine from job postings and public filings, scoped by data strategy, model complexity, deployment boundary, and business integration depth.",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Deploying a technographic inference engine trained on job postings and SEC filings demands an MLOps pipeline that tightly couples batch inference with active evaluation. We deploy the fine-tuned classification model—typically a",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "PDF, DOC, or DOCX",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "How to read a job description before applying",
@@ -143,239 +279,103 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "Training a Technographic Inference Engine from Job Postings and Public Filings",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Generic technographic providers rely on brittle scraping and pattern matching, missing the nuanced technology signals embedded in job postings, case studies, and SEC filings. A custom inference engine trained on these unstructured sources delivers the precision required for competitor displacement and account-based marketing.",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A rigorous approach to transforming noisy job postings and public filings into a high-precision technographic inference engine, designed to give enterprise sales teams a decisive competitive advantage.",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Off-the-shelf technographic data is a commodity, often stale and inaccurate. We train a custom classification engine by constructing a labeled dataset from millions of job postings and SEC filings, using a",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Fine-tune a DeBERTa-v3-large encoder on a curated dataset of job postings and filings, each tagged with a multi-hot vector from your technology taxonomy. This approach excels at capturing context-dependent technology mentions (e.g., 'deployed on AWS' vs. 'migrating from AWS') and provides well-calibrated confidence scores via sigmoid outputs. Training leverages PyTorch and Hugging Face",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", using a combination of few-shot prompting for rapid category expansion and supervised training on a human-labeled corpus of job postings and 10-K filings. The core challenge is not just extraction, but",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Comparative delivery options for training a custom technographic inference engine from job postings and public filings, scoped by data strategy, model complexity, deployment boundary, and business integration depth.",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Deploying a technographic inference engine trained on job postings and SEC filings demands an MLOps pipeline that tightly couples batch inference with active evaluation. We deploy the fine-tuned classification model—typically a",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "PDF, DOC, or DOCX",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "Generic technographic providers rely on brittle scraping and pattern matching, missing the nuanced technology signals embedded in job postings, case studies, and SEC filings. A custom inference engine trained on these unstructured sources delivers the precision required for competitor displacement and account-based marketing.",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "15 examples",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "20K-50K labeled snippets; active learning loop with SME review for edge cases",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, if “cross-functional collaboration” appears five times in a job posting while “Excel skills” is mentioned only once, you can infer that teamwork abilities might be more crucial than specific technical skills—even if both are listed as “requirements.”",
-    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, a job description might emphasize technical skills, but employee reviews might reveal that political savvy and relationship-building are what truly lead to success at the company.",
-    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Stories and examples the company chooses to highlight",
-    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, if a company’s materials repeatedly emphasize “innovation” and “challenging the status quo,” your application should highlight examples of creative problem-solving and initiative, even if the job description focuses more on technical requirements.",
-    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For each high-priority requirement (identified using tools 1-9), select a specific example from your background that demonstrates that skill or quality",
-    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example application customization:",
-    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Targeted cover letter that prominently addresses the three requirements that your analysis revealed as most important, with specific examples that demonstrate your capabilities in these areas",
-    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Real‑World Example: Turning a Vague Posting into a Winning Application",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Insert concrete examples—e.g., “Led a cross‑functional team of 5 to deliver project X two weeks ahead of schedule.”",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Add at least one quantified soft‑skill example.",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/imprecruitment/n/n82254ebe4955",
+    "url": "https://note.com/lucky_daphne262/n/n0aedd82619a8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/next_career_jp/n/n7886e2979384",
+    "url": "https://note.com/ready_prawn3804/n/n5ee232f6341e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/trex_ai/n/n464c7836d02b",
+    "url": "https://note.com/robinson_0822/n/n57139c8a158f",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/restart_notes25/n/n8c54a60e6f90",
+    "url": "https://note.com/fond_phlox8789/n/nb7e02d008b33",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/trex_ai/n/na01d10327073",
+    "url": "https://note.com/robinson_0822/n/n6a4dac170f59",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/takagi_career/n/n6e9f0013289b",
+    "url": "https://note.com/try_note_1026/n/n87f70ef36581",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://jinzai-tenshokuroot.jp/column/362/",
+    "url": "https://note.com/sota_career/n/n93ea578f39e8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://job.rikunabi.com/contents/company/21862/",
+    "url": "https://www.help-note.com/hc/ja/articles/33937437714969-note%E3%81%AB%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B-%E9%80%A3%E6%90%BA%E3%81%A7%E3%81%8D%E3%82%8B%E6%8E%A1%E7%94%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%B8%80%E8%A6%A7-ATS%E9%80%A3%E6%90%BA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://biz.note.com/n/ne042982856d1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://shinsotu.com/%E5%B0%B1%E6%B4%BB%E3%81%A7%E4%BC%81%E6%A5%AD%E3%81%AE%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BE%B9%E5%BA%95%E5%88%86%E6%9E%90%EF%BC%81%E8%A6%8B%E3%82%8B%E3%81%B9%E3%81%8D/",
+    "url": "https://marugotoinc.jp/blog/note/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.onecareer.jp/articles/3345",
+    "url": "https://note.jp/n/na66380adc503?gs=47ca0c6f369f7c69d86b002ddcf1968a",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.s-agent.jp/column/21673",
+    "url": "https://mizusaki-inc.com/knowledge/article93",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/yoshi1456/n/ne0b285061612",
+    "url": "https://www.querylift.co.jp/blog/qxetp5k-n",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://job.career-tasu.jp/guide/study/company-try/",
-    "status": "http_202",
-    "method": "http"
-   },
-   {
-    "url": "https://careercompass.jp/articles/companies/how-to-read-job-postings.php",
+    "url": "https://saiyo-ura.com/tenshoku-kigyou-kenkyu-yarikata/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://keyplayers.jp/tenshoku/job-posting-reading-guide/",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319267.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://baigie.me/recruit-blog/2024/10/09/midcareer-survey-2024/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://career-ch.com/column/637",
+    "url": "https://www.gohp.jp/blog/website-operation/4894/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://hatara-king.com/2026/10/09/job-listing-how-to-read/",
-    "status": "ok",
+    "url": "https://doda.jp/guide/oubo/kenkyu/",
+    "status": "network_error:ReadTimeout",
     "method": "http"
    },
    {
-    "url": "https://media.qopo.co.jp/webproduction/recruitment-website-examples/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://creerplus.nobu-n.co.jp/column/recruitment-site-examples/",
+    "url": "https://nalevi.mynavi.jp/seeker-trends/21704/",
     "status": "ok",
     "method": "http"
    },
@@ -385,42 +385,52 @@
     "method": "http"
    },
    {
-    "url": "https://topics.type.jp/mid-career-recruitment/recruitment-success/",
+    "url": "https://creerplus.nobu-n.co.jp/column/recruitment-site-examples/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://kawaii-tenshoku.com/archives/1294",
+    "url": "https://n-works.link/blog/marketing/report-questionnaire-16",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://vurzel.com/tools/jd-analyzer",
+    "url": "https://noside-ltd.co.jp/blog/recruit-data/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.wrk.com/blog/automate-extraction-company-info-job-postings",
+    "url": "https://www.tracom.co.jp/tralog/job-idea/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
+    "url": "https://www.infersol.com/career-at-infer-solutions/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://natesnewsletter.substack.com/p/grab-my-prompts-i-used-ai-on-job",
+    "url": "https://www.indeed.com/",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "url": "https://www.reddit.com/r/technicalwriting/comments/16lzcpw/why_are_some_jobs_listed_on_a_jobs_board_but_not/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/infer/jobs",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "url": "https://www.linkedin.com/company/infer-solutions",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://builtin.com/",
     "status": "ok",
     "method": "http"
    }
@@ -430,153 +440,187 @@
   {
    "query": "求人情報・採用ページから会社の実態を読む方法 site:note.com",
    "results": [
-    "https://note.com/imprecruitment/n/n82254ebe4955",
-    "https://note.com/next_career_jp/n/n7886e2979384",
-    "https://note.com/trex_ai/n/n464c7836d02b",
-    "https://note.com/restart_notes25/n/n8c54a60e6f90",
-    "https://note.com/trex_ai/n/na01d10327073",
-    "https://note.com/takagi_career/n/n6e9f0013289b",
-    "https://note.com/moto_chro_jinji/n/nb84e8ecd45aa"
+    "https://note.com/lucky_daphne262/n/n0aedd82619a8",
+    "https://note.com/ready_prawn3804/n/n5ee232f6341e",
+    "https://note.com/robinson_0822/n/n57139c8a158f",
+    "https://note.com/fond_phlox8789/n/nb7e02d008b33",
+    "https://note.com/robinson_0822/n/n6a4dac170f59",
+    "https://note.com/try_note_1026/n/n87f70ef36581",
+    "https://note.com/35masataka/n/na7c4ce36e2b1",
+    "https://note.com/yutaro_ishii/n/n657611c8a7c4",
+    "https://note.com/robinson_0822/n/n660f8a923cf4",
+    "https://note.com/jinzaikakuho/n/n9d76f814cbbe"
    ]
   },
   {
    "query": "求人情報・採用ページから会社の実態を読む方法 note",
    "results": [
-    "https://jinzai-tenshokuroot.jp/column/362/",
-    "https://note.com/imprecruitment/n/n82254ebe4955",
-    "https://note.com/trex_ai/n/na01d10327073",
-    "https://job.rikunabi.com/contents/company/21862/",
-    "https://shinsotu.com/就活で企業のホームページを徹底分析！見るべき/",
-    "https://www.onecareer.jp/articles/3345",
-    "https://www.s-agent.jp/column/21673"
+    "https://note.com/sota_career/n/n93ea578f39e8",
+    "https://www.help-note.com/hc/ja/articles/33937437714969-note%E3%81%AB%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B-%E9%80%A3%E6%90%BA%E3%81%A7%E3%81%8D%E3%82%8B%E6%8E%A1%E7%94%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%B8%80%E8%A6%A7-ATS%E9%80%A3%E6%90%BA",
+    "https://biz.note.com/n/ne042982856d1",
+    "https://marugotoinc.jp/blog/note/",
+    "https://note.jp/n/na66380adc503",
+    "https://mizusaki-inc.com/knowledge/article93",
+    "https://note.com/try_note_1026/n/n87f70ef36581",
+    "https://saiyo.migi-nanameue.co.jp/posts-1/note_recruit/",
+    "https://www.careermart.co.jp/blog/14811",
+    "https://note.com/imprecruitment/n/n82254ebe4955"
    ]
   },
   {
    "query": "求人情報・採用ページから会社の実態を読む方法 やり方",
    "results": [
-    "https://job.rikunabi.com/contents/company/21862/",
-    "https://note.com/yoshi1456/n/ne0b285061612",
-    "https://job.career-tasu.jp/guide/study/company-try/",
-    "https://careercompass.jp/articles/companies/how-to-read-job-postings.php",
-    "https://keyplayers.jp/tenshoku/job-posting-reading-guide/",
-    "https://career-ch.com/column/637",
-    "https://hatara-king.com/2026/10/09/job-listing-how-to-read/"
+    "https://www.querylift.co.jp/blog/qxetp5k-n",
+    "https://saiyo-ura.com/tenshoku-kigyou-kenkyu-yarikata/",
+    "https://www.mhlw.go.jp/content/11600000/001319267.pdf",
+    "https://baigie.me/recruit-blog/2024/10/09/midcareer-survey-2024/",
+    "https://www.gohp.jp/blog/website-operation/4894/",
+    "https://doda.jp/guide/oubo/kenkyu/",
+    "https://jp.indeed.com/career-advice/finding-a-job/the-complete-guide-to-researching-a-company",
+    "https://kizuna-group.jp/nestlab/topic-recruit-jobsearch.html",
+    "https://wi-t.co.jp/outline/recruiting/guide/candidate-journey.html",
+    "https://job.rikunabi.com/contents/company/21862/"
    ]
   },
   {
    "query": "求人情報・採用ページから会社の実態を読む方法 事例",
    "results": [
-    "https://shinsotu.com/就活で企業のホームページを徹底分析！見るべき/",
-    "https://media.qopo.co.jp/webproduction/recruitment-website-examples/",
-    "https://creerplus.nobu-n.co.jp/column/recruitment-site-examples/",
+    "https://www.mhlw.go.jp/content/11600000/001319267.pdf",
+    "https://nalevi.mynavi.jp/seeker-trends/21704/",
     "https://coosy.co.jp/blog/recruiting-site-data/",
-    "https://topics.type.jp/mid-career-recruitment/recruitment-success/",
-    "https://note.com/trex_ai/n/na01d10327073",
-    "https://kawaii-tenshoku.com/archives/1294"
+    "https://creerplus.nobu-n.co.jp/column/recruitment-site-examples/",
+    "https://n-works.link/blog/marketing/report-questionnaire-16",
+    "https://noside-ltd.co.jp/blog/recruit-data/",
+    "https://www.tracom.co.jp/tralog/job-idea/",
+    "https://mizusaki-inc.com/knowledge/article103",
+    "https://en-gage.net/engage-contents/knowledge/article/?id=recruitment-website",
+    "https://shinsotu.com/就活で企業のホームページを徹底分析！見るべき/"
    ]
   },
   {
    "query": "infer company from job postings",
    "results": [
-    "https://vurzel.com/tools/jd-analyzer",
-    "https://www.wrk.com/blog/automate-extraction-company-info-job-postings",
-    "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
-    "https://natesnewsletter.substack.com/p/grab-my-prompts-i-used-ai-on-job",
-    "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "https://renidly.com/blog/hiring-signals-job-postings-data"
+    "https://www.infersol.com/career-at-infer-solutions/",
+    "https://www.indeed.com/",
+    "https://www.reddit.com/r/technicalwriting/comments/16lzcpw/why_are_some_jobs_listed_on_a_jobs_board_but_not/",
+    "https://www.ycombinator.com/companies/infer/jobs",
+    "https://www.linkedin.com/company/infer-solutions",
+    "https://builtin.com/",
+    "https://theirstack.com/en/job-lookup",
+    "https://www.careerhound.io/remote/jobs-not-on-indeed/"
    ]
   },
   {
    "query": "site:note.com 求人情報・採用ページから会社の実態を読む方法",
    "results": [
-    "https://note.com/revista/n/n0788f24dda86",
-    "https://note.com/imprecruitment/n/n82254ebe4955",
-    "https://note.com/next_career_jp/n/n7886e2979384",
-    "https://note.com/restart_notes25/n/n8c54a60e6f90",
-    "https://note.com/trex_ai/n/n464c7836d02b",
-    "https://note.com/trex_ai/n/na01d10327073",
-    "https://note.com/takagi_career/n/n6e9f0013289b"
+    "https://note.com/lucky_daphne262/n/n0aedd82619a8",
+    "https://note.com/ready_prawn3804/n/n5ee232f6341e",
+    "https://note.com/sota_career/n/n93ea578f39e8",
+    "https://note.com/fond_phlox8789/n/nb7e02d008b33",
+    "https://note.com/35masataka/n/na7c4ce36e2b1",
+    "https://note.com/try_note_1026/n/n87f70ef36581",
+    "https://note.com/jinzaikakuho/n/n9d76f814cbbe",
+    "https://note.com/ehimesr/n/nd28143dbff2f",
+    "https://note.com/try_note_1026/n/nb4a79ad783ba",
+    "https://note.com/chusho_yosuke/n/n3a7962a1e9b8"
    ]
   },
   {
    "query": "site:x.com 求人情報・採用ページから会社の実態を読む方法",
    "results": [
-    "https://x.com/taku_openagent/status/2108912778165833778",
-    "https://x.com/kazuto_recruit/status/2098880485128859710",
-    "https://x.com/career_bible_/status/2059406295648887292",
-    "https://x.com/Barry_teizi55/status/2072425259228438835",
-    "https://x.com/hatarakubucho/status/2111233225200746553",
-    "https://x.com/goho___/status/2077701608557924686",
-    "https://x.com/motimoti_eng/status/2045760941196009734"
+    "https://x.com/HRFreaksYamane",
+    "https://x.com/luigi_jpn/article/2090779211283976223",
+    "https://x.com/nocompany_jp",
+    "https://x.com/CSA_recruit",
+    "https://x.com/MOJ_IMMI/all?lang=bg",
+    "https://x.com/morimoto_region",
+    "https://x.com/ca_tec_des",
+    "https://x.com/and_shin",
+    "https://x.com/OpenWork_JP",
+    "https://x.com/dossun_jack"
    ]
   },
   {
    "query": "site:linkedin.com 求人情報・採用ページから会社の実態を読む方法",
    "results": [
-    "https://jp.linkedin.com/pulse/how-read-engineering-job-descriptions-like-pro-bhumika-indu-wgcef?tl=ja",
-    "https://jp.linkedin.com/pulse/importance-reading-job-descriptions-carefully-before-jennifer-u0rve?tl=ja",
-    "https://www.linkedin.com/help/linkedin/topic/a153003?lang=ja-JP",
-    "https://jp.linkedin.com/pulse/how-identify-avoid-fake-job-posts-linkedin-kamil-zombadkar-mjp3f?tl=ja",
-    "https://jp.linkedin.com/learning/learning-linkedin-for-students-2/3057066",
-    "https://www.linkedin.com/pulse/aiで書いた応募書類をaiが読む時代採用のやり方を変える前に会社が決めておく4つのこと-駿介-原-rkigc/",
-    "https://jp.linkedin.com/pulse/reading-between-lines-transforming-job-ads-career-strategies-ledet-co2oc?tl=ja"
+    "https://jp.linkedin.com/posts/hidetoshitakano_%E4%BB%8A%E9%80%B1%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%9249%E7%A4%BE%E3%81%BE%E3%81%A8%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F%E7%B4%84255%E5%84%84%E5%86%86%E3%81%A7%E3%81%99-%E6%AF%8E%E9%80%B1%E3%81%93%E3%82%8C%E3%82%92%E3%82%84%E3%81%A3%E3%81%A6%E3%81%84%E3%81%A6%E6%80%9D%E3%81%86%E3%81%AE%E3%81%AF-activity-7492840571821182976-QIQj",
+    "https://jp.linkedin.com/posts/hidetoshitakano_ai%E3%81%A7%E4%BB%95%E4%BA%8B%E3%81%AF%E7%84%A1%E3%81%8F%E3%81%AA%E3%82%8B%E3%81%AE%E3%81%8B-%E3%81%93%E3%81%AE%E5%95%8F%E3%81%84%E3%81%AB%E4%B8%8A%E5%A0%B4%E4%BC%81%E6%A5%AD%E3%81%AEir%E8%B3%87%E6%96%99%E3%81%A7%E6%AD%A3%E9%9D%A2%E3%81%8B%E3%82%89%E7%AD%94%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E3%82%82%E3%81%AE%E3%82%92-activity-7452151541639290880-eO0m",
+    "https://jp.linkedin.com/in/takeshi-kikui",
+    "https://jp.linkedin.com/pulse/why-linkedin-longer-useful-finding-job-where-look-instead-john-miller-vswcc?tl=ja",
+    "https://jp.linkedin.com/in/%E5%81%A5%E4%BB%8B-%E8%8F%8A%E7%94%B0-a3a192149",
+    "https://jp.linkedin.com/company/oneper-inc",
+    "https://jp.linkedin.com/company/shljapan",
+    "https://jp.linkedin.com/in/mkuroda/ja",
+    "https://jp.linkedin.com/company/purosi",
+    "https://www.linkedin.com/showcase/remogu/"
    ]
   },
   {
    "query": "site:facebook.com 求人情報・採用ページから会社の実態を読む方法",
    "results": [
-    "https://www.facebook.com/kurashimanet/posts/心で読む求人票新しい求人情報サイトオープンしました求人票の情報だけでは企業の顔は見えてこないものどんな人が働いているのだろうどんな仕事をしているのだろうどんな経/2835437259844957/",
-    "https://www.facebook.com/goworkship/",
-    "https://www.facebook.com/groups/193029617464004/",
-    "https://www.facebook.com/Thinkings.co.jp/posts/新卒採用活動実態調査レポート2025年卒採用管理システムsonar-atsのデータをもとに初のレポートを公開しました採用チャネル別の成果選考プロセスの設計状況な/1411718920954286/",
-    "https://www.facebook.com/nakano.soft.kaihatsu/posts/整体院の求人にもホームページ活用をこんにちは中野です売り手市場の現代において従業員の採用はどのような業界においても課題となっているのではないでしょうか整体院など/2295563637371249/",
-    "https://www.facebook.com/worksinstitute/posts/民間企業の正規社員の中途採用の見通しと実績を調査しました2026年度の中途採用数が前年より増える197が減る59を上回り中途採用diは5年連続のプラスとなりまし/1479524270626425/",
-    "https://www.facebook.com/make.night/videos/怪しい求人に惑わされないでメイクは国の認可を受けた正規派遣会社です最近snsなどで簡単に短時間で高収入をうたう実態のわからない怪しいアルバイトや闇バイトが社会問/1088148963892274/"
+    "https://www.facebook.com/net.phoenix/",
+    "https://www.facebook.com/%E3%82%BC%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA-1429538733742516/",
+    "https://www.facebook.com/saponet.mynavi/",
+    "https://www.facebook.com/castdice/?locale=ja_JP",
+    "https://www.facebook.com/nextbeat1/?locale=ja_JP",
+    "https://www.facebook.com/kyodonews.saiyou/posts/%E5%85%B1%E5%90%8C%E9%80%9A%E4%BF%A1%E3%81%AE%E4%BB%95%E4%BA%8B%E7%B4%B9%E4%BB%8B%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E7%A7%8B%E3%81%AE%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E5%A1%BEin%E5%A4%A7%E9%98%AA%E3%82%9222%E6%97%A5%E5%85%B1%E5%90%8C%E9%80%9A%E4%BF%A1%E5%A4%A7%E9%98%AA%E6%94%AF%E7%A4%BE%E3%81%A7%E9%96%8B%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E8%BF%91%E7%95%BF%E5%9C%8F%E3%81%AE%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AE%E7%9A%86%E3%81%95%E3%82%93%E3%81%AB%E5%A4%9A%E6%95%B0%E3%81%8A%E8%B6%8A%E3%81%97%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%B9%B4%E5%85%A5/1710621032396495/",
+    "https://www.facebook.com/vietnamtechnicalinterntrainee/posts/202643-%E6%84%9A%E7%97%B4ph%C3%A0n-n%C3%A0n-%E7%99%BB%E9%8C%B2%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%95%99%E5%93%A1%E3%81%AB%E9%96%A2%E3%81%97%E3%81%A6%E3%81%AE%E6%84%9A%E7%97%B4%E3%81%A7%E3%81%99%C4%91%C3%A2y-l%C3%A0-l%E1%BB%9Di-ph%C3%A0n-n%C3%A0n-v%E1%BB%81-gi%C3%A1o-vi%C3%AAn-ti%E1%BA%BFng-nh%E1%BA%ADt-ch/1550039853795967/",
+    "https://www.facebook.com/kyodonews.saiyou/posts/4%E6%97%A5%E7%9B%AE%E3%82%92%E8%BF%8E%E3%81%88%E3%81%9F%E5%85%B1%E5%90%8C%E9%80%9A%E4%BF%A1%E7%B4%B9%E4%BB%8B%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E6%B1%90%E7%95%99%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E5%A1%BE12%E6%97%A5%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E6%94%AF%E5%B1%80%E8%A8%98%E8%80%85%E7%A4%BE%E4%BC%9A%E9%83%A8%E8%A8%98%E8%80%85%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%A7%E3%81%99%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E6%94%AF%E5%B1%80%E3%81%AE%E6%BE%A4%E7%94%B0%E5%92%8C%E6%A8%B9%E3%81%A8%E7%A4%BE%E4%BC%9A%E9%83%A8%E3%81%AE%E6%88%B8%E5%8F%A3%E6%8B%93%E6%B5%B7%E3%81%8C%E7%B4%84100%E4%BA%BA%E3%81%AE%E5%AD%A6%E7%94%9F%E3%81%95%E3%82%93%E3%82%92%E8%BF%8E%E3%81%88/1224801744311762/",
+    "https://www.facebook.com/photo.php?fbid=1420283123431148&set=a.407757191350418&id=100063484212838",
+    "https://www.facebook.com/groups/627324771859424/posts/1010675586857672/"
    ]
   },
   {
    "query": "求人情報・採用ページから会社の実態を読む方法 note 社長",
    "results": [
-    "https://jinzai-tenshokuroot.jp/column/362/",
-    "https://note.com/yoshi1456/n/ne0b285061612",
-    "https://note.com/trex_ai/n/na01d10327073",
-    "https://shinsotu.com/就活で企業のホームページを徹底分析！見るべき/",
-    "https://job.rikunabi.com/contents/company/21862/",
-    "https://www.onecareer.jp/articles/3345",
-    "https://www.s-agent.jp/column/21673"
+    "https://note.com/sota_career/n/n93ea578f39e8",
+    "https://biz.note.com/n/n1169ea18b8be",
+    "https://marugotoinc.jp/blog/note/",
+    "https://www.careermart.co.jp/blog/14811",
+    "https://note.jp/n/na66380adc503",
+    "https://note.com/try_note_1026/n/n87f70ef36581",
+    "https://saiyo.migi-nanameue.co.jp/posts-1/note_recruit/",
+    "https://www.funnypro.net/officialblog/article/knowhow/867/",
+    "https://www.help-note.com/hc/ja/articles/33937437714969-note%E3%81%AB%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B-%E9%80%A3%E6%90%BA%E3%81%A7%E3%81%8D%E3%82%8B%E6%8E%A1%E7%94%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%B8%80%E8%A6%A7-ATS%E9%80%A3%E6%90%BA",
+    "https://note.com/yoshi1456/n/ne0b285061612"
    ]
   },
   {
    "query": "求人情報・採用ページから会社の実態を読む方法 X 投稿",
    "results": [
-    "https://www.xserver.ne.jp/bizhp/how-to-make-recruitment-site/",
-    "https://snsdaikou-hikaku.com/x/",
-    "https://jinzai-tenshokuroot.jp/column/362/",
-    "https://note.com/stoneweb_sns/n/ne38914068f4d",
+    "https://nanairoinc.co.jp/column/x-recruitment-activities/",
+    "https://www.wantedly.com/hiringeek/recruit/twitter/",
+    "https://sharefull.com/content/business/20188/",
+    "https://whom-hr.co.jp/uncategorized/recruitment-sns/",
     "https://azu-rite.co.jp/clumn/x-recruitment",
-    "https://jp.indeed.com/求人広告/c/info/what-contents-should-be-on-the-hiring-page",
-    "https://jp.indeed.com/career-advice/finding-a-job/the-complete-guide-to-researching-a-company"
+    "https://ats.atcompany.jp/recruiting/2589/",
+    "https://hypex.jp/articles/twitter-saiyo",
+    "https://freejob.work/content/t0082/",
+    "https://ulforce-one.co.jp/blog/3209/",
+    "https://note.com/stoneweb_sns/n/ne38914068f4d"
    ]
   },
   {
    "query": "infer company from job postings site:linkedin.com",
    "results": [
+    "https://www.linkedin.com/company/infer-solutions",
+    "https://www.linkedin.com/company/infer-so",
+    "https://www.linkedin.com/pulse/you-applying-job-doesnt-exist-what-seekers-need-know-growing-4nnnc",
     "https://www.linkedin.com/company/infer-inc-",
-    "https://uk.linkedin.com/company/infer-app",
-    "https://www.linkedin.com/posts/jamesnolle_carouselpdf-activity-7505316944842018818-vNaR",
-    "https://in.linkedin.com/company/infer-solutions",
-    "https://in.linkedin.com/company/inferindia",
-    "https://pk.linkedin.com/company/inferifi",
-    "https://pe.linkedin.com/posts/alexlindahl_its-past-midnight-and-i-cant-stop-riffing-activity-7338423167247392768-MjB1"
+    "https://www.linkedin.com/top-content/career/job-search-strategies/how-to-find-tech-jobs-on-linkedin/",
+    "https://www.linkedin.com/jobs/view/ai-inference-engineer-at-rivian-4429258399",
+    "https://www.linkedin.com/posts/jordanmazer_most-jobs-arent-posted-on-linkedin-heres-activity-7381330182722408448-FfLp",
+    "https://www.linkedin.com/top-content/recruitment-hr/job-posting-optimization/",
+    "https://www.linkedin.com/pulse/how-get-job-alerts-from-any-companys-careers-page-before-everyone-z1lcc",
+    "https://www.linkedin.com/jobs/causal-inference-jobs"
    ]
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ28頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ28頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 12,
+ "runs": 13,
  "first_researched_at": "2026-11-05T04:38:24.140781+00:00"
 }
