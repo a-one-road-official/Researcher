@@ -8,9 +8,15 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-06T13:38:23.361748+00:00",
+ "researched_at": "2026-11-06T17:32:42.897160+00:00",
  "evidence": {
   "一次情報の探し方": [
+   {
+    "quote": "SEC EDGAR (sec.gov/edgar) for public company filings",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
    {
     "quote": "How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.",
     "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
@@ -18,7 +24,135 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Revenue Forecasting: Models, Benefits, Tips & Pitfalls to Avoid | Cherry Bekaert",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Understanding Revenue Forecasting: Models, Benefits and Pitfalls",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Revenue Projection Pitfalls To Avoid",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Without effective strategies in place, companies are more likely to make forecasting mistakes and calculate inaccurate projections. Newer companies may struggle due to the lack of historical data available. Companies can use competitor information and industry benchmarks to create predictions if there is not enough business-specific data to utilize for a forecast.",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Other mistakes businesses should work to avoid include:",
+    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Common Mistakes to Avoid",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
+   {
+    "quote": "How to Find Revenue Estimates for Private Companies | Inven",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Find Revenue Estimates for Private Companies",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Publicly traded companies disclose financial data, but private companies are not obligated to do so. So, how do you get the revenue estimates and the value for private companies? Here's the combination of methods, data sources, and best practices.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It can be challenging to obtain revenue data for private companies due to the absence of mandatory public disclosures for private companies. Without them, analysts rely on alternative methods to approximate a private company's financial situation.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Revenue estimation methods have been developed for approximating the financial performance of private companies. Stakeholders can obtain a more comprehensive picture of a private company's revenue through a combination of top-down and bottom-up approaches. While not as precise as official financial statements, these estimates provide a useful proxy for understanding a company's position.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Key Revenue Estimation Methods",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Private company revenue estimates can be derived using several methods. These methods generally fall into two categories: top-down and bottom-up approaches.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Top-down methods start with broad market data and allocate a portion to the target company, while bottom-up methods build estimates from company-specific factors. Understanding these methods will help you to make more reliable revenue estimates.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This method provides a clear view of revenue generation and helps identify opportunities for pricing optimization.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Public disclosures offer supplementary data points that can enhance revenue estimation when combined with other methods.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Industry specificity further complicates revenue estimation, which creates a need to adapt the methods. For instance, revenue estimation in the tech sector might heavily rely on user growth metrics and subscription models, while traditional manufacturing might focus more on production capacity and supply chain factors.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", which involves using multiple estimation methods to create a more comprehensive picture. The combination of market research, competitor analysis, and financial ratio analysis, can cross-verify results and reduce the risk of error. For instance, market research reports can provide an overarching view of industry trends, while competitor analysis offers a benchmark.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "methodology and assumptions",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The challenge in estimating the revenue of private companies comes from the absence of mandatory public disclosures for private companies. Various estimation methods range from top-down approaches to bottom-up methods.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Additionally, using alternative data sources, such as social media activity, customer reviews, and online traffic, can offer supplementary information for traditional estimation methods. We encourage you to leverage a combination of approaches to achieve most accurate estimates.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
    {
     "quote": "企業の年間売上高調査の仕組み：かんたん3ステップ",
     "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
@@ -260,45 +394,97 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Revenue Forecasting: Models, Benefits, Tips & Pitfalls to Avoid | Cherry Bekaert",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Understanding Revenue Forecasting: Models, Benefits and Pitfalls",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Revenue Projection Pitfalls To Avoid",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Without effective strategies in place, companies are more likely to make forecasting mistakes and calculate inaccurate projections. Newer companies may struggle due to the lack of historical data available. Companies can use competitor information and industry benchmarks to create predictions if there is not enough business-specific data to utilize for a forecast.",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Other mistakes businesses should work to avoid include:",
-    "url": "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Common Mistakes to Avoid",
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "突き合わせ・推定": [
+   {
+    "quote": "How to Find Revenue Estimates for Private Companies | Inven",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Find Revenue Estimates for Private Companies",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Publicly traded companies disclose financial data, but private companies are not obligated to do so. So, how do you get the revenue estimates and the value for private companies? Here's the combination of methods, data sources, and best practices.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Yet, revenue estimates are a crucial part of private company analysis - so how are they achieved then?",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Revenue estimation methods have been developed for approximating the financial performance of private companies. Stakeholders can obtain a more comprehensive picture of a private company's revenue through a combination of top-down and bottom-up approaches. While not as precise as official financial statements, these estimates provide a useful proxy for understanding a company's position.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Why Private Company Revenue Estimates Matter",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Private company revenue estimates play a crucial role in several key areas of business, including market research, competitor analysis and financial decisions.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": Revenue estimates are essential for analyzing how different sectors are performing. This information is critical for companies’ forecasts, understanding the market landscape or planning market moves.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Accurate revenue estimates help investors assess a company's revenue potential. They enable investors to identify opportunities and make decisions on where to allocate capital.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": Companies use revenue estimates to benchmark their performance against competitors. By comparing revenue estimates, companies can identify their own strengths and weaknesses, and develop strategies to gain a competitive edge.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Overall, private company revenue estimates are a vital tool for investors, analysts, and businesses, planning informed decision-making.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Private company revenue estimates can be derived using several methods. These methods generally fall into two categories: top-down and bottom-up approaches.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Top-down methods start with broad market data and allocate a portion to the target company, while bottom-up methods build estimates from company-specific factors. Understanding these methods will help you to make more reliable revenue estimates.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": Reports may provide broad estimates that need to be tailored to specific companies.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": Published data might not be the most current, potentially leading to outdated estimates.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
    {
     "quote": "CUFinderなら、あらゆる企業の推定年間売上レンジを、一括でもAPI経由でも取得できます",
     "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
@@ -500,6 +686,12 @@
   ],
   "実例": [
    {
+    "quote": "Inven finds companies that are similar to your example company and provides their funding data, growth rate, headcount, ownership and geographical data. It has financial data with over 43M+ legal entities, with information on revenue, EBIT and balance sheet data. These data points will help you in defining the revenues of private companies both in the US and globally.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
     "quote": "手軽な単発検索でも一括の売上エンリッチメントでも、すぐに結果が返ります",
     "url": "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
     "pass": 3,
@@ -574,7 +766,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/jsuccession/n/n121cd8650c54",
+    "url": "https://note.com/markeducation/n/n90132f936d08",
     "status": "ok",
     "method": "http"
    },
@@ -584,62 +776,37 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/value_stock_lab/n/ne66e3df843e7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cufinder.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cufinder.io/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.g2.com/products/cufinder/features",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/sk_kasou/n/n5f399867efe8",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/fas_cpa/n/n43d79bd96d63",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://solid-ventures.media/knowledge/considering-a-non-listed-growth-model-for-solid-ventures-that-dare-not-aim-for-an-ipo/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/fundnote_inc/n/ndf434e402bc5",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nicmr.com/nicmr/report/repo/2020/2020win09.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.nikkei.com/article/DGXZQOUC19ALP0Z10C26A8000000/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.gckk.co.jp/event/gcc003-02/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.cpa-ishiwari.jp/column/valuation-3types/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20250222060506922843650&postId=1519815207",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://community.squareup.com/t5/%E4%BE%BF%E5%88%A9%E3%81%AA%E6%A9%9F%E8%83%BD%E3%81%A8%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA/%E6%97%A5%E6%AC%A1%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%83%AC%E3%83%9D%E3%83%88%E3%81%AB-Square-POS%E4%B8%8A%E4%BB%A5%E5%A4%96%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%9F%E3%81%84-Ubereats%E3%81%AA%E3%81%A9/m-p/805694",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://stripe.com/jp/resources/more/alternatives-to-venture-capital",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://finance-rice-field.com/revenue-build-driver-model",
     "status": "ok",
     "method": "http"
    },
@@ -649,12 +816,22 @@
     "method": "http"
    },
    {
-    "url": "https://www.jsda.or.jp/about/kaigi/jisyukisei/gijigaiyou/files/201130_gaiyo.pdf",
+    "url": "https://cufinder.io/ja/enrichment-engine/find-technology-stack",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
+    "url": "https://www.navgood.com/ja/tool-details/inven-3ab50",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://cufinder.io/ja/enrichment-engine/find-company-lookalikes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.g-search.jp/2024/12/20/01062.html",
     "status": "ok",
     "method": "http"
    },
@@ -664,47 +841,47 @@
     "method": "http"
    },
    {
-    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "url": "https://cufinder.io/ja/buying-signals",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://biz.moneyforward.com/ipo/basic/1686/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://kabutan.jp/news/marketnews/?b=n202304110472",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.finrofca.com/news/top-down-vs-bottom-up-revenue-modeling-which-is-right-for-your-startup",
+    "url": "https://aitools.aiting.com/ja/ai/inven",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.pedowitzgroup.com/whats-the-difference-between-top-down-and-bottom-up-forecasting",
+    "url": "https://twostone-s.com/columns/dx/dx-guide/15212/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.linkedin.com/posts/carlseidman_most-small-businesses-default-to-two-forecasting-activity-7377723296139644928-5TYl",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.wallstreetprep.com/knowledge/bottom-up-forecasting/",
+    "url": "https://www.everydaybudd.com/tools/business-startup-finance/revenue-forecasting-top-down-bottom-up",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.fe.training/free-resources/financial-modeling/bottom-up-forecasting/",
+    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://forecastio.ai/blog/top-down-vs-bottom-up-forecasting",
+    "url": "https://epignosisinsights.com/blog/how-strategies-and-revenue-estimation-for-private-companies-is-done",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easyfinancialmodels.com/blog/revenue-forecasting-top-down-bottom-up",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onedesksolution.com/revenue-forecasting-methods/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
     "status": "ok",
     "method": "http"
    }
@@ -717,73 +894,60 @@
     "https://note.com/isa99999/n/n7aadf977f2e7",
     "https://note.com/relic_kitajima/n/n36ec7aa9f53a",
     "https://note.com/irshukatsu/n/n9fd752118742",
-    "https://note.com/jsuccession/n/n121cd8650c54",
-    "https://note.com/nayami_answer/n/ncacdf3ca4150",
-    "https://note.com/sk_kasou/n/n5f399867efe8",
-    "https://note.com/value_stock_lab/n/ne66e3df843e7",
     "https://note.com/markeducation/n/n90132f936d08",
-    "https://note.com/hirokimiyano/n/n8ffcd0df7c53",
-    "https://note.com/hirokimiyano/n/nf56f7e6de1a5"
+    "https://note.com/nayami_answer/n/ncacdf3ca4150",
+    "https://note.com/value_stock_lab/n/ne66e3df843e7",
+    "https://note.com/sk_kasou/n/n5f399867efe8"
    ]
   },
   {
    "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） note",
    "results": [
-    "https://note.com/fas_cpa/n/n43d79bd96d63",
-    "https://solid-ventures.media/knowledge/considering-a-non-listed-growth-model-for-solid-ventures-that-dare-not-aim-for-an-ipo/",
-    "https://note.com/fundnote_inc/n/ndf434e402bc5",
-    "https://www.nicmr.com/nicmr/report/repo/2020/2020win09.pdf",
-    "https://www.nikkei.com/article/DGXZQOUC19ALP0Z10C26A8000000/",
-    "https://www.gckk.co.jp/event/gcc003-02/",
-    "https://moneyworld.jp/news/detail?id=168938",
-    "https://www.fundnote.co.jp/wp-content/uploads/fund-reports/fund_akebono_report_2026_01.pdf",
-    "https://note.com/good_camel6014",
-    "https://cufinder.io/ja"
+    "https://cufinder.io/",
+    "https://cufinder.io/ja",
+    "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624",
+    "https://www.g2.com/products/cufinder/features",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "https://note.com/sk_kasou/n/n5f399867efe8",
+    "https://note.com/irshukatsu/n/n9fd752118742"
    ]
   },
   {
    "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） やり方",
    "results": [
-    "https://note.com/fas_cpa/n/n43d79bd96d63",
-    "https://www.cpa-ishiwari.jp/column/valuation-3types/",
-    "https://solid-ventures.media/knowledge/considering-a-non-listed-growth-model-for-solid-ventures-that-dare-not-aim-for-an-ipo/",
-    "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20250222060506922843650&postId=1519815207",
-    "https://community.squareup.com/t5/%E4%BE%BF%E5%88%A9%E3%81%AA%E6%A9%9F%E8%83%BD%E3%81%A8%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA/%E6%97%A5%E6%AC%A1%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%83%AC%E3%83%9D%E3%83%88%E3%81%AB-Square-POS%E4%B8%8A%E4%BB%A5%E5%A4%96%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%9F%E3%81%84-Ubereats%E3%81%AA%E3%81%A9/m-p/805694",
-    "https://www.gckk.co.jp/event/gcc003-02/",
-    "https://stripe.com/jp/resources/more/alternatives-to-venture-capital",
-    "https://finance-rice-field.com/revenue-build-driver-model",
+    "https://cufinder.io/ja",
     "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
-    "https://cufinder.io/ja"
+    "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624",
+    "https://cufinder.io/ja/enrichment-engine/find-technology-stack",
+    "https://www.navgood.com/ja/tool-details/inven-3ab50",
+    "https://cufinder.io/ja/enrichment-engine/find-company-lookalikes",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "https://service.g-search.jp/2024/12/20/01062.html",
+    "https://www.g-search.or.jp/column/trend/unlisted-company/"
    ]
   },
   {
    "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） 事例",
    "results": [
-    "https://www.jsda.or.jp/about/kaigi/jisyukisei/gijigaiyou/files/201130_gaiyo.pdf",
-    "https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/",
-    "https://www.g-search.or.jp/column/trend/unlisted-company/",
+    "https://cufinder.io/ja",
+    "https://cufinder.io/ja/buying-signals",
+    "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624",
+    "https://www.navgood.com/ja/tool-details/inven-3ab50",
+    "https://aitools.aiting.com/ja/ai/inven",
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
-    "https://solid-ventures.media/knowledge/considering-a-non-listed-growth-model-for-solid-ventures-that-dare-not-aim-for-an-ipo/",
-    "https://biz.moneyforward.com/ipo/basic/1686/",
-    "https://kabutan.jp/news/marketnews/?b=n202304110472",
-    "https://www.nicmr.com/nicmr/report/repo/2021/2021spr07.pdf",
-    "https://ma-la.co.jp/m-and-a/non-listed-company/",
-    "https://cufinder.io/ja"
+    "https://twostone-s.com/columns/dx/dx-guide/15212/"
    ]
   },
   {
    "query": "private company revenue estimate multiple signals top-down bottom-up conservative",
    "results": [
-    "https://www.finrofca.com/news/top-down-vs-bottom-up-revenue-modeling-which-is-right-for-your-startup",
-    "https://www.pedowitzgroup.com/whats-the-difference-between-top-down-and-bottom-up-forecasting",
-    "https://www.linkedin.com/posts/carlseidman_most-small-businesses-default-to-two-forecasting-activity-7377723296139644928-5TYl",
-    "https://www.wallstreetprep.com/knowledge/bottom-up-forecasting/",
-    "https://www.fe.training/free-resources/financial-modeling/bottom-up-forecasting/",
-    "https://forecastio.ai/blog/top-down-vs-bottom-up-forecasting",
-    "https://gocardless.com/guides/posts/top-down-vs-bottom-up-forecasting",
-    "https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/",
-    "https://waveup.com/blog/top-down-and-bottom-up-market-size-calculation/",
-    "https://www.everydaybudd.com/tools/business-startup-finance/revenue-forecasting-top-down-bottom-up"
+    "https://www.everydaybudd.com/tools/business-startup-finance/revenue-forecasting-top-down-bottom-up",
+    "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "https://epignosisinsights.com/blog/how-strategies-and-revenue-estimation-for-private-companies-is-done",
+    "https://www.easyfinancialmodels.com/blog/revenue-forecasting-top-down-bottom-up",
+    "https://onedesksolution.com/revenue-forecasting-methods/",
+    "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "https://www.oxxonadvisors.com/fmae-knowledge-centre/technical-guides/revenue-forecasting-methods/"
    ]
   },
   {
@@ -792,34 +956,26 @@
     "https://note.com/isa99999/n/n7aadf977f2e7",
     "https://note.com/relic_kitajima/n/n36ec7aa9f53a",
     "https://note.com/kyoki_labo/n/na1f6d6b90e9b",
-    "https://note.com/nus_cpa/n/nc113303bcd8a",
+    "https://note.com/hirokimiyano/n/n8ffcd0df7c53",
     "https://note.com/bloomo_economics/n/ncd864eb73506",
     "https://note.com/hirokimiyano/n/nf56f7e6de1a5",
-    "https://note.com/jsuccession/n/n121cd8650c54"
+    "https://note.com/irshukatsu/n/n9fd752118742"
    ]
   },
   {
    "query": "site:x.com 非上場の売上を複数の信号で挟む（Inven・CUFinder）",
-   "results": [
-    "https://x.com/labo_rabo/status/2079570844796473353",
-    "https://x.com/tenma417/status/2087123885007442319",
-    "https://x.com/IA_okada/status/2100364647786479788",
-    "https://x.com/nikkepedia_jp/status/2087109901323837507",
-    "https://x.com/StockSun_ceo/status/2089055769820024942",
-    "https://x.com/nikkepedia_jp/status/2056315388565344706",
-    "https://x.com/Takuma_Uemura_/status/2088101782723723268"
-   ]
+   "results": []
   },
   {
    "query": "site:linkedin.com 非上場の売上を複数の信号で挟む（Inven・CUFinder）",
    "results": [
     "https://www.linkedin.com/company/cufinder",
-    "https://www.linkedin.com/products/inven-ai-inven/",
     "https://jp.linkedin.com/company/inven-ai",
-    "https://ae.linkedin.com/company/cufinder",
     "https://www.linkedin.com/posts/cufinder_gtm-activity-7520879108533436416-1mQP",
+    "https://ae.linkedin.com/company/cufinder",
+    "https://www.linkedin.com/products/inven-ai-inven/",
     "https://www.linkedin.com/posts/cufinder_gtm-activity-7505670124767653888-6WOz",
-    "https://www.linkedin.com/posts/cufinder_gtm-activity-7515805296381001728-eW2F"
+    "https://www.linkedin.com/posts/cufinder_gtm-activity-7519066663258836992-VFJm"
    ]
   },
   {
@@ -837,51 +993,243 @@
   {
    "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） note 社長",
    "results": [
-    "https://note.com/fas_cpa/n/n43d79bd96d63",
-    "https://note.com/fundnote_inc/n/ndf434e402bc5",
-    "https://solid-ventures.media/knowledge/considering-a-non-listed-growth-model-for-solid-ventures-that-dare-not-aim-for-an-ipo/",
-    "https://www.gckk.co.jp/event/gcc003-02/",
-    "https://www.threads.com/@naka_cpa/post/DYas4DTCe8C/%E9%9D%9E%E4%B8%8A%E5%A0%B4%E6%A1%88%E4%BB%B6%E3%81%AE%E8%B2%B7%E5%8F%8E%E3%81%A0%E3%81%A8%E7%9B%B8%E5%A0%B4%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AFebitda%E3%81%AE35%E5%80%8D%E3%81%AE%E8%B2%B7%E5%8F%8E%E4%BE%A1%E6%A0%BC%E3%81%8C%E5%A4%9A%E3%81%84%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%81%AF%E9%9D%9E%E4%B8%8A%E5%A0%B4%E6%A1%88%E4%BB%B6%E3%81%AE%E8%B2%B7%E5%8F%8E%E3%81%A7%E3%81%AF%E3%83%90%E3%83%AA%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%8C%E3%81%A7%E3%81%AA%E3%81%84%E5%82%BE%E5%90%91%E3%81%AB%E3%81%82%E3%82%8A%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cexit/",
-    "https://note.vs-group.jp/n/n5a70762a18e3",
-    "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/CL03-50.pdf",
-    "https://www.youtube.com/watch?v=nR0_z_5JCu0",
-    "https://moneyworld.jp/news/detail?id=168938",
-    "https://ja.wikipedia.org/wiki/Note_(企業)"
+    "https://diamond.jp/articles/-/388571",
+    "https://cufinder.io/ja",
+    "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624",
+    "https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue",
+    "https://note.com/proper_macaw3470/n/nb4f83f52d2a7",
+    "https://note.com/nayami_answer/n/ncacdf3ca4150",
+    "https://lekky.jp/articles/20650/"
    ]
   },
   {
    "query": "非上場の売上を複数の信号で挟む（Inven・CUFinder） X 投稿",
    "results": [
-    "https://www.jsda.or.jp/about/kaigi/jisyukisei/gijigaiyou/files/201130_gaiyo.pdf",
-    "https://nakamurafumi.com/video.php?pg=%E4%BB%A3%E5%B8%81%E6%8A%95%E6%B3%A8%E6%9B%BF%E4%BB%A3&srsltid=AYCX9vIoMMjGLp9bIuu63tZ5qQDFh4lMuPVATlkBZaoXRn_nDYbHPb-U",
-    "https://www.jsri.or.jp/publish/research/pdf/108/108_01.pdf",
-    "https://www.nicmr.com/nicmr/report/repo/2020/2020win09.pdf",
-    "https://ma-la.co.jp/m-and-a/non-listed-company/",
-    "https://www.youtube.com/watch?v=-xdedJwKR1g",
-    "https://www.gckk.co.jp/event/gcc003-02/",
-    "https://biz.moneyforward.com/ipo/basic/13133/",
     "https://cufinder.io/ja",
-    "https://cufinder.io/ja/buying-signals"
+    "https://cufinder.io/ja/buying-signals",
+    "https://skywork.ai/skypage/ja/ai-deal-sourcing-inven/1984183337062682624",
+    "https://x.com/IA_okada/status/2100364647786479788",
+    "https://x.com/InputVer08/status/2085428515017720245",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "https://note.com/minato_x_log/n/nf2085471f053"
    ]
   },
   {
    "query": "private company revenue estimate multiple signals top-down bottom-up conservative site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/karim-boussedra_stop-building-the-model-for-the-investor-activity-7518676612536614912-UHL1",
-    "https://www.linkedin.com/top-content/marketing/marketing-budget-allocation/marketing-budget-forecasting-techniques/",
-    "https://www.linkedin.com/in/hayden-hawkins",
-    "https://www.linkedin.com/in/stephen-frieder",
-    "https://www.linkedin.com/company/insight--partners",
-    "https://www.linkedin.com/pulse/rule-40-saas-how-calculate-what-investors-expect-2026-shawn-elliott-djqxc",
-    "https://www.linkedin.com/posts/torontofidelitywholesaler_fidelitycanada-ai-activity-7487953089023524865-xn5r",
-    "https://www.linkedin.com/top-content/technology/saas-business-models/future-of-enterprise-software-revenue-models/",
-    "https://www.linkedin.com/top-content/finance/private-equity-basics/financial-performance-metrics-for-portfolio-companies/",
-    "https://www.linkedin.com/in/ashishsrimal"
+    "https://www.linkedin.com/posts/shradha-khera-finance_fpanda-financialforecasting-financialmodeling-activity-7495217434988118017-Gb9J",
+    "https://www.linkedin.com/posts/paras-arora-232b25240_revenue-drivers-activity-7393929583085101056-9CJb",
+    "https://www.linkedin.com/posts/alphavaluations_building-better-revenue-forecasts-activity-7457370236816809984-s3ig",
+    "https://www.linkedin.com/pulse/how-i-forecast-revenue-inventory-one-spreadsheet-top-down-kesina-skxbc",
+    "https://www.linkedin.com/pulse/know-signals-revenue-speaks-patterns-before-shows-up-atkins-mba-sblee",
+    "https://www.linkedin.com/advice/1/what-key-differences-between-top-down-bottom-up",
+    "https://www.linkedin.com/advice/1/what-differences-between-top-down-bottom-up-financial-umuue"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 13,
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "SEC EDGAR (sec.gov/edgar) for public company filings",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "How to Find Revenue Estimates for Private Companies | Inven",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Find Revenue Estimates for Private Companies",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Publicly traded companies disclose financial data, but private companies are not obligated to do so. So, how do you get the revenue estimates and the value for private companies? Here's the combination of methods, data sources, and best practices.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It can be challenging to obtain revenue data for private companies due to the absence of mandatory public disclosures for private companies. Without them, analysts rely on alternative methods to approximate a private company's financial situation.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Revenue estimation methods have been developed for approximating the financial performance of private companies. Stakeholders can obtain a more comprehensive picture of a private company's revenue through a combination of top-down and bottom-up approaches. While not as precise as official financial statements, these estimates provide a useful proxy for understanding a company's position.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Key Revenue Estimation Methods",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Private company revenue estimates can be derived using several methods. These methods generally fall into two categories: top-down and bottom-up approaches.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Top-down methods start with broad market data and allocate a portion to the target company, while bottom-up methods build estimates from company-specific factors. Understanding these methods will help you to make more reliable revenue estimates.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This method provides a clear view of revenue generation and helps identify opportunities for pricing optimization.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Public disclosures offer supplementary data points that can enhance revenue estimation when combined with other methods.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Industry specificity further complicates revenue estimation, which creates a need to adapt the methods. For instance, revenue estimation in the tech sector might heavily rely on user growth metrics and subscription models, while traditional manufacturing might focus more on production capacity and supply chain factors.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", which involves using multiple estimation methods to create a more comprehensive picture. The combination of market research, competitor analysis, and financial ratio analysis, can cross-verify results and reduce the risk of error. For instance, market research reports can provide an overarching view of industry trends, while competitor analysis offers a benchmark.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "methodology and assumptions",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The challenge in estimating the revenue of private companies comes from the absence of mandatory public disclosures for private companies. Various estimation methods range from top-down approaches to bottom-up methods.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Additionally, using alternative data sources, such as social media activity, customer reviews, and online traffic, can offer supplementary information for traditional estimation methods. We encourage you to leverage a combination of approaches to achieve most accurate estimates.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "How to Find Revenue Estimates for Private Companies | Inven",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Find Revenue Estimates for Private Companies",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Publicly traded companies disclose financial data, but private companies are not obligated to do so. So, how do you get the revenue estimates and the value for private companies? Here's the combination of methods, data sources, and best practices.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Yet, revenue estimates are a crucial part of private company analysis - so how are they achieved then?",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Revenue estimation methods have been developed for approximating the financial performance of private companies. Stakeholders can obtain a more comprehensive picture of a private company's revenue through a combination of top-down and bottom-up approaches. While not as precise as official financial statements, these estimates provide a useful proxy for understanding a company's position.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Why Private Company Revenue Estimates Matter",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Private company revenue estimates play a crucial role in several key areas of business, including market research, competitor analysis and financial decisions.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": Revenue estimates are essential for analyzing how different sectors are performing. This information is critical for companies’ forecasts, understanding the market landscape or planning market moves.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Accurate revenue estimates help investors assess a company's revenue potential. They enable investors to identify opportunities and make decisions on where to allocate capital.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": Companies use revenue estimates to benchmark their performance against competitors. By comparing revenue estimates, companies can identify their own strengths and weaknesses, and develop strategies to gain a competitive edge.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Overall, private company revenue estimates are a vital tool for investors, analysts, and businesses, planning informed decision-making.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Private company revenue estimates can be derived using several methods. These methods generally fall into two categories: top-down and bottom-up approaches.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Top-down methods start with broad market data and allocate a portion to the target company, while bottom-up methods build estimates from company-specific factors. Understanding these methods will help you to make more reliable revenue estimates.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": Reports may provide broad estimates that need to be tailored to specific companies.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": Published data might not be the most current, potentially leading to outdated estimates.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Inven finds companies that are similar to your example company and provides their funding data, growth rate, headcount, ownership and geographical data. It has financial data with over 43M+ legal entities, with information on revenue, EBIT and balance sheet data. These data points will help you in defining the revenues of private companies both in the US and globally.",
+    "url": "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 14,
  "first_researched_at": "2026-11-05T05:08:45.202393+00:00"
 }

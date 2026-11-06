@@ -1,0 +1,2365 @@
+{
+ "name": "丸紅情報システムズ株式会社",
+ "aliases": [
+  "丸紅情報システムズ",
+  "MSYS"
+ ],
+ "context": "3Dプリンタ販売（商社系）",
+ "researched_at": "2026-11-06T17:10:38.420216+00:00",
+ "official_url": "https://www.marubeni-sys.com",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "・CEO",
+    "value": "Ric Fulop",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "佐藤　由浩",
+    "url": "https://initial.inc/investors/V12183",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "佐藤　由浩",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/profile/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "佐藤 由浩（代表取締役社長）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "・本社所在地",
+    "value": "米国マサチューセッツ州バーリントン",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒112-0004 東京都文京区後楽二丁目6番1号 住友不動産飯田橋ファーストタワー",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/profile/",
+    "pass": 3
+   },
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 112-0004 東京都 文京区 後楽二丁目6番1号 住友不動産飯田橋ファーストタワー",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "・設立",
+    "value": "・設立：2015年",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1965/05",
+    "url": "https://initial.inc/investors/V12183",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1965年5月19日",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/profile/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1965年（昭和40年） 5月19日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "・出資者",
+    "value": "GV(Google Ventures),GE Ventures,BMW iVentures,New Enterprise Associates,Stratasys 他",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "label": "株主構成",
+    "value": "丸紅I-DIGIOホールディングス株式会社　100％",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/profile/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "580名（2026年4月現在）",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/profile/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "577名(2025年4月1日現在)",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "撤退・縮小の時期と理由": [
+   {
+    "quote": "3Dプリンター 販売終了のお知らせ | 丸紅情報システムズ",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/products/endsale/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズでの販売を終了いたしました",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/products/endsale/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のアクセスしようとした製品は、当社での販売を終了いたしました",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/products/endsale/",
+    "pass": 3
+   },
+   {
+    "quote": "FDMシステム（販売終了製品） | 丸紅情報システムズ株式会社",
+    "url": "https://www.marubeni-idigio.com/product/modeling/fdm_close/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "撤退報道を否定し新スマホ投入、Nothingはメモリー高騰を乗り越えられるか",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機がABBと合弁へ、シュナイダーはソフト強化 FA業界に再編の波",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "マンション工事停止の仮命令を取り消し 高裁決定、盛土規制法違反は認定",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "芋づる式に建設資格の不正取得発覚、技術者の要件満たさず営業停止",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "また、工具を使わずに交換できるプリントヘッドを採用し、メンテナンスによる装置の停止時間を抑える設計となっている",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅株式会社が46％、丸紅情報システムズ株式会社が34％、株式会社野村総合研究所が20％出資する新会社丸紅ITソリューションズ株式会社を設立し、一部事業を譲渡",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "pass": 3
+   }
+  ],
+  "AMの規模": [
+   {
+    "quote": "3Dプリンター 販売終了のお知らせ | 丸紅情報システムズ",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/products/endsale/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターとは",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/products/endsale/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズの3Dプリンターサイトへアクセスいただき、ありがとうございます",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/products/endsale/",
+    "pass": 3
+   },
+   {
+    "quote": "現在取り扱っている3Dプリンター製品・造形材料",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/products/endsale/",
+    "pass": 3
+   },
+   {
+    "quote": "お手数ですが、目的の3Dプリンターを下記よりお探しください",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/products/endsale/",
+    "pass": 3
+   },
+   {
+    "quote": "生産性とモデル品質に優れた光造形3Dプリンター[DLP]",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/products/endsale/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターのことなら",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/products/endsale/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター製品 お客様向け資料",
+    "url": "https://www.marubeni-idigio.com/product/modeling/fdm_close/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "中少量生産向け金属3Dプリンター、丸紅情報システムズが国内で初披露 | 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "中少量生産向け金属3Dプリンター、丸紅情報システムズが国内で初披露",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ（東京・新宿）は米Desktop Metal（デスクトップメタル）の金属アディティブ製造（AM）装置（3Dプリンター）「Shop Pro」を「次世代3Dプリンタ展」（2022年6月22～24日、東京ビッグサイト）に出展した（",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "図1 MSYSが「次世代3Dプリンタ展」で展示した「Shop Pro」（米Desktop Metal）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "Shop Proは同社の金属AM装置である「Shop」の強化版",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター最前線企業に聞いた、3Dプリンターの現在－丸紅情報システムズ | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター最前線企業に聞いた、3Dプリンターの現在－丸紅情報システムズ",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "今から4半世紀前に、米国ストラタシス社の総販売代理店として、日本に本格的な3Dプリンターを輸入した",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "ストラタシス社が1990年に開発したFDM（熱溶解積層法）は、今日における3Dプリンターの礎ともいえる技術だ",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "は、3Dプリンターの発展の歴史とともに歩んできたといえる",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "今回、同社で3Dプリンターの新しい使い方を提案するスペシャリストの丸岡浩幸氏に「3Dプリンターの現在」について話を伺った",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は元来3Dプリンター先進国：MAKERS ― ものづくり革命からのその後",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の丸岡さんと菊地さんは二人揃って、「20数年前までの3Dプリンターは一般的には知られておらず、知る人ぞ知る、という存在だった」と語る",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "「英語圏では3Dプリンターに関する情報はものすごく出ていて、情報共有サイトや情報誌、カンファレンスなどが沢山あるが、それはあくまでも英語であって、日本語で入手できる情報は圧倒的に少ないのです」という",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "「アメリカにおけるMAKERSの流れはあるものの、元来日本は3Dプリンターの先進国です",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "その背景には、かつてオバマ大統領が一般教書演説で語りかけたように「3Dプリンターは製造業復活の鍵になる」という見方があるからだ",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内での情報不足：3Dプリンターは使う側からの情報発信が重要",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "近年、3Dプリンターは飛躍的に進化を遂げている一方、日本の中だけでは情報が十分ではないという状況が生まれている",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で「若い人の間では、コラボレーションして『クラウドファンディングでお金集めて、まず3Dプリンターで作って売ってみようよ",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "環境の変化とともにより利用しやすくなった3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "「皆さん、どうしても値段、材料、コスト、精度、CADなど、3Dプリンターを使うためのハードルの話から始められるのですが、例えばCADが使えないとならないことはなく、今は色々なやり方があって、例えば撮影して立体データをつくることもできれば、数学的な計算で形をつくっていく方法もあります",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイターズマーケットのようなところでは、自分で考えたデータをアップロードしておけば誰か欲しい人がデータを買って、近くにある3Dプリンターでプリントしたら入手できるというビジネスが成り立っています",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりサイクルの高速化：3Dプリンター単体で価値を生むことは難しい",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "それでは、どうすれば3Dプリンターでさらなる価値を生み出すことができるのか？ 丸岡さんは「3Dプリンター単体で価値を生むことは難しい」というのだ",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "「よく、『3Dプリンターさえあれば何かできるんじゃないの？』といった話になるのですが、やっぱりまずは人",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "アイディア、3Dデータ、そして3Dプリンターの3つが揃って始めて形になります」",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "「一度、3Dプリンターでモノを作ってみると、新しいアイディアが生まれる",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業に与える影響：3Dプリンターで得られる利益は製造プロセス全体でみる",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "丸岡さんは、3Dプリンターから得られる利益は一旦品質、コスト、時間に分解し、またそれを総合して考えるとわかりやすいという",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "「3Dプリンターの場合は、材料物性が従来工法と全く同じにはならない、積層していくので段差があるなど切削や成形品に比べ品質に劣るケースもあります",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "# 3Dプリンター",
+    "url": "https://newswitch.jp/p/28774",
+    "pass": 3
+   },
+   {
+    "quote": "【関連記事】 金属積層造形の技術はここまで進化している！",
+    "url": "https://newswitch.jp/p/28774",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys社 FDM方式最新機種「Stratasys F3300™」工業用3Dプリンター取り扱い開始【丸紅情報システムズ】",
+    "url": "https://www.marubeni.com/jp/news/2024/group/00001.html",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys社 FDM方式最新機種「Stratasys F3300™」工業用3Dプリンター取り扱い開始",
+    "url": "https://www.marubeni.com/jp/news/2024/group/00001.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ株式会社（略称：エムシス／MSYS 以下、MSYS）は、ストラタシス社（以下、ストラタシス）製のFDM方式工業用3Dプリンター「F3300™」の取り扱いを開始します",
+    "url": "https://www.marubeni.com/jp/news/2024/group/00001.html",
+    "pass": 3
+   },
+   {
+    "quote": "F3300は性能を重視するメーカー向けに生産能力の幅を広げたFDM方式の新型3Dプリンターです",
+    "url": "https://www.marubeni.com/jp/news/2024/group/00001.html",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの3Dプリンターの販売・保守サポートで培った豊富な経験をもとに、F3300の導入を支援します",
+    "url": "https://www.marubeni.com/jp/news/2024/group/00001.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートなコネクテッド3Dプリンター、ポリマー材料、ソフトウェア・エコシステム、オンデマンド・パーツ造形サービスを通して、ストラタシスのソリューションは製品バリューチェーンの各ステージで競争面での優位性を提供します",
+    "url": "https://www.marubeni.com/jp/news/2024/group/00001.html",
+    "pass": 3
+   },
+   {
+    "quote": "複合材料に対応したFFF方式3Dプリンター「Ultimakerシリーズ」取り扱い開始",
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "pass": 3
+   },
+   {
+    "quote": "複合材料に対応したFFF方式3Dプリンター「Ultimakerシリーズ」取り扱い開始【丸紅情報システムズ】",
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ株式会社（略称：エムシス/MSYS 以下、MSYS）は、UltiMaker社（ユトレヒト（オランダ）、ニューヨーク）製のガラスファイバーやカーボンファイバーの複合材料に対応したFFF（Fused Filament Fabrication）方式のデスクトップ3Dプリンター「Ultimakerシリーズ」の取り扱いを開始します",
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimakerシリーズは、設計者、デザイナー、エンジニア、教育関係者向けに最適な工業グレード3Dプリンターで、最大330㎜ x 240㎜ x 300㎜の比較的大型の最大造形容量を持つUltimaker S5は、ガラスファイバーやカーボンファイバーのフィラメントなど複合材料を使用することが可能です",
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "pass": 3
+   },
+   {
+    "quote": "MSYSは、1992年以来エンタープライズ向け3Dプリンターの導入と活用を支援してきました",
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの3Dプリンターの販売・保守サポートで培った経験をもとに、製造業をはじめとするものづくりのお客様へ向けてUltimakerシリーズを提案していきます",
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "pass": 3
+   },
+   {
+    "quote": "UltiMaker社は2011年に設立されたオランダのデスクトップ3Dプリンターメーカーです",
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "pass": 3
+   },
+   {
+    "quote": "機能設計やコンセプト検証に最適な3Dプリンター「J55 Pro™」取り扱い開始【丸紅情報システムズ】",
+    "url": "https://www.marubeni.com/jp/news/2023/group/00007.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ株式会社（略称：エムシス/MSYS 以下、MSYS）は、ストラタシス社（以下、ストラタシス）製の3Dプリンター「J55 Pro™」の取り扱いを開始します",
+    "url": "https://www.marubeni.com/jp/news/2023/group/00007.html",
+    "pass": 3
+   },
+   {
+    "quote": "プリントヘッドを固定した回転式造形プラットフォームは高速で静音、スリムな筐体は工業用3Dプリンターでありながら、オフィスや教室、狭いワークスペースにも設置することが可能です",
+    "url": "https://www.marubeni.com/jp/news/2023/group/00007.html",
+    "pass": 3
+   },
+   {
+    "quote": "MSYSはストラタシス製フルカラー対応3DプリンターのJ55 Primeの取り扱いと並行して、フルカラーの必要がない機能設計やコンセプト検証用途に向けてJ55 Proを提供します",
+    "url": "https://www.marubeni.com/jp/news/2023/group/00007.html",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの3Dプリンターの販売、各種サービスの提供、保守サポートで培った経験を生かして、J55 Proの導入を支援します",
+    "url": "https://www.marubeni.com/jp/news/2023/group/00007.html",
+    "pass": 3
+   },
+   {
+    "quote": "マルチマテリアル・プロトタイピングを提供する工業用3Dプリンターとして、従来のワークフローを簡単に変革することを可能にします",
+    "url": "https://www.marubeni.com/jp/news/2023/group/00007.html",
+    "pass": 3
+   }
+  ],
+  "素材": [
+   {
+    "quote": "F370にカーボンファイバー材料が追加[FDM]",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/products/endsale/",
+    "pass": 3
+   },
+   {
+    "quote": "中少量生産向け金属3Dプリンター、丸紅情報システムズが国内で初披露 | 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "中少量生産向け金属3Dプリンター、丸紅情報システムズが国内で初披露",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ（東京・新宿）は米Desktop Metal（デスクトップメタル）の金属アディティブ製造（AM）装置（3Dプリンター）「Shop Pro」を「次世代3Dプリンタ展」（2022年6月22～24日、東京ビッグサイト）に出展した（",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "平らに敷き詰めた金属粉にバインダーを噴射して固めるバインダージェット方式で、実製品の中少量生産への利用を想定している",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "本体内で金属粉にバインダーを噴射して固める方式",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "Shop Proは同社の金属AM装置である「Shop」の強化版",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "その分造形時間を短くできるのに加えて、造形品として固まらなかった金属粉の再利用率が高いという特徴がある",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "Shop Proではさらに噴射するバインダーの量や造形する層の厚さなどをきめ細かく調整できる機能を加え、粒径の小さな金属粉を使って微細な部品を生産するなどの用途に使えるようにした",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "固まらなかった金属粉は98％程度の高率で再利用できる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉に埋まった状態で成形するためサポート形状を付ける必要がなく、複数の部品が関節でつながったような形状の一括造形も可能だ（",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "造形品が固まったら「パウダーステーション」で未硬化の金属粉を除去し、「ファーネス（焼結炉）」で焼結して金属部品にする",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "使用の点では、治工具を3Dプリンターで金属から樹脂のものに作りかえれば、軽くなって負担がかからないことで一定時間当たりの生産量が増えます",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンター向け新材料の実力｜ニュースイッチ by 日刊工業新聞社",
+    "url": "https://newswitch.jp/p/28774",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンター向け新材料の実力",
+    "url": "https://newswitch.jp/p/28774",
+    "pass": 3
+   },
+   {
+    "quote": "「スタジオシステム２」で造形したチタン合金モデル",
+    "url": "https://newswitch.jp/p/28774",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズは、米デスクトップメタル（マサチューセッツ州）の金属３次元（３Ｄ）プリンター「スタジオシステム２」向けのチタン合金新材料「Ｔｉ６４」の取り扱いを始めた",
+    "url": "https://newswitch.jp/p/28774",
+    "pass": 3
+   },
+   {
+    "quote": "金属とバインダー（のり）の混合物からできた材料を吐出し、一層ずつ積み重ねて造形する独自の「ＢＭＤ」方式により、切削加工に比べ、複雑な形状の部品も容易に造形可能",
+    "url": "https://newswitch.jp/p/28774",
+    "pass": 3
+   },
+   {
+    "quote": "材料の無駄をより少なくすることで、環境に配慮しながらチタン部品を、より手ごろな価格で生産できる",
+    "url": "https://newswitch.jp/p/28774",
+    "pass": 3
+   },
+   {
+    "quote": "従来の方法で高強度などの特性を持つチタンを切削加工する場合、工具の摩耗や材料のロスが課題だった",
+    "url": "https://newswitch.jp/p/28774",
+    "pass": 3
+   },
+   {
+    "quote": "【関連記事】 金属積層造形の技術はここまで進化している！",
+    "url": "https://newswitch.jp/p/28774",
+    "pass": 3
+   },
+   {
+    "quote": "・造形材料 ：ASA樹脂、PC樹脂、Nylon12CF樹脂、ULTEM9085樹脂",
+    "url": "https://www.marubeni.com/jp/news/2024/group/00001.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ株式会社（略称：エムシス/MSYS 以下、MSYS）は、UltiMaker社（ユトレヒト（オランダ）、ニューヨーク）製のガラスファイバーやカーボンファイバーの複合材料に対応したFFF（Fused Filament Fabrication）方式のデスクトップ3Dプリンター「Ultimakerシリーズ」の取り扱いを開始します",
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimakerシリーズは、設計者、デザイナー、エンジニア、教育関係者向けに最適な工業グレード3Dプリンターで、最大330㎜ x 240㎜ x 300㎜の比較的大型の最大造形容量を持つUltimaker S5は、ガラスファイバーやカーボンファイバーのフィラメントなど複合材料を使用することが可能です",
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "pass": 3
+   },
+   {
+    "quote": "・ 造形材料 ：（硬質樹脂）VeroPureWhite™・VeroBlackPlus™・VeroClear™・DraftGrey™・Vero™",
+    "url": "https://www.marubeni.com/jp/news/2023/group/00007.html",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンファイバー複合材料の「FDM Nylon 12CF」に対応（出典：ストラタシス社、丸紅I-DIGIOグループ）",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "造形材料には、ASA、ABS-M30、ABS Draftのほか、カーボンファイバー強化ナイロン「FDM Nylon 12CF™」を使用できる",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "F870の特徴は、最大1,000mmの造形幅と、カーボンファイバー強化ナイロンへの対応を両立している点だ",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "熱可塑性樹脂を加熱して溶融させ、ノズルから押し出しながら一層ずつ積み重ねて立体物を造形する3Dプリンティング技術",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "ナイロン12をカーボンファイバーで強化したストラタシスの3Dプリンター用材料",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンファイバー複合材料の「FDM Nylon 12CF」に対応",
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "pass": 3
+   },
+   {
+    "quote": "!カーボンファイバー複合材料の「FDM Nylon 12CF」に対応",
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "pass": 3
+   },
+   {
+    "quote": "ASA樹脂、ABS-M30樹脂、Nylon12CF樹脂、ABS Draft樹脂",
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "pass": 3
+   },
+   {
+    "quote": "ストラタシスのスマート・コネクテッド3Dプリンター、樹脂材料、ソフトウェア・エコシステム、オンデマンド部品を通じて、世界中の先進的な企業が、製品設計の変革、生産およびサプライチェーンの俊敏性の向上、そして患者ケアの改善を図るため、ストラタシスに期待を寄せています",
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ向け主力の金型メーカー、金属3DプリンターでEV用売り上げ拡大狙う｜ニュースイッチ by 日刊工業新聞社",
+    "url": "https://newswitch.jp/p/36591",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ向け主力の金型メーカー、金属3DプリンターでEV用売り上げ拡大狙う",
+    "url": "https://newswitch.jp/p/36591",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋特殊鋼が初めて導入した、米デスクトップ・メタルの金属３Ｄプリンター",
+    "url": "https://newswitch.jp/p/36591",
+    "pass": 3
+   },
+   {
+    "quote": "今回導入したのは、米デスクトップ・メタルの金属３Ｄプリンターで、金属粉を接着剤で固めて積層造形するバインダージェット方式を採用している",
+    "url": "https://newswitch.jp/p/36591",
+    "pass": 3
+   },
+   {
+    "quote": "高強度ステンレスやニッケル合金など複数の金属を造形できる点や、レーザー造形に比べて最大１０倍の造形スピードなどが特徴",
+    "url": "https://newswitch.jp/p/36591",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Ｄプリンターを活用すれば、微細かつ複雑形状の部品も作製できる（造形物の一例）",
+    "url": "https://newswitch.jp/p/36591",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズとは、材料となる金属粉末や造形データなどについて情報共有し、造形スピードの向上や扱える材料種の拡大、これらの成果を生かした装置の拡販につなげる",
+    "url": "https://newswitch.jp/p/36591",
+    "pass": 3
+   },
+   {
+    "quote": "１０年後には売上高の１割程度を、金属３Ｄプリンター製にしたい考えだ",
+    "url": "https://newswitch.jp/p/36591",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal社と代理店契約を締結 金属3Dプリンター「Studio システム」の取り扱いを開始",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ株式会社（略称:エムシス/MSYS 以下、MSYS）は、金属3Dプリンターメーカーの米国Desktop Metal, Inc.（以下、Desktop Metal）と代理店契約を締結しました",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal製の金属3Dプリンター「Studio システム」の国内における取り扱いを開始します",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Studioシステムは、MIM(*1)のプロセスを応用して金属材料での造形を実現する3Dプリンターです",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末と熱可塑性のバインダー（結合樹脂剤）を混合した材料を積層して造形するFDM方式（熱溶解積層方式）の「Studio 3Dプリンター」と、バインダーを脱脂（*2）する「デバインダーステーション」、高温で加熱し金属粉末を溶融結合させて焼結体をつくる「ファーナス（焼結炉）」の3つの機器でシステム一式を構成します",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "材料は金属粉末に樹脂を練りこんだ棒形状で供給されるため、金属粉末が飛散し粉塵爆発を引き起こす危険性がなく、金属紛体をレーザーやビームで焼結・溶融する方式の金属3Dプリンターのように専用のクリーンルームに近い環境を用意して窒素封入や静電気対策を行う必要がありません",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "また、サポート部分とモデル部分の接地面に融点の高いセラミック粉末を押し出すことで金属同士の結合を防ぎ、手や工具で簡単にサポート部分を除去できるため、ワイヤー放電加工機や切削機などによるサポート除去の後加工が不要です",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "近年、部品の軽量化が求められる中、CADデータによる設計と金属3Dプリンターによる造形の組み合わせは、部品点数の削減で軽量化を実現する一つの方法です",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、金属3Dプリンターは機器の価格が高額なうえに設置環境の整備にも費用がかかるため、航空宇宙業界の一部や大企業の研究用途に利用範囲が限定されていました",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "これに対してStudio システムは製品価格が他の金属3Dプリンターと比較して安価であり、さらに設置環境の整備に高額な費用をかける必要がなく、広く製造業への普及が期待できます",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "MSYSは、1992年より25年間にわたり日本国内で樹脂を造形材料とするFDM方式の業務用3Dプリンターを販売・サポートしてきました",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metalは量産向け金属3Dプリンター「Production システム」の米国における販売開始も2019年に予定しており、MSYSは国内における取り扱いを予定しています",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "*1)MIM:（Metal Injection Molding)の略で、金属粉末冶金技術とプラスチック射出成形技術を融合させた、金属部品製造技術",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末とバインダー（プラスチック樹脂など）を混ぜ合わせ、金型内に射出成形を行った後、脱脂工程でバインダーを除去し、高温焼結することで高密度の金属製品を作り出す",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "加工が難しいとされる材料にも対応できる金属粉末冶金と、形状の自由度が高いプラスチック射出成形のメリットを組み合わせた金属加工技術",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys樹脂3Dプリンター、DesktopMetal金属3Dプリンターの国内外の活用情報収集発信、より良い活用方法提案、開発業務を主に担当",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/201907_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "早速ロボティズ日本支店で上の写真の通り作られたそうですが、実は部品表にある市販電池やアルミフレームなどに日本では買えない部品がいくつかあり、同社では3DCADが使えるので、一部の形状を変更し、日本で買える部品で作れるようにしたそうです",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/201907_01.html",
+    "pass": 3
+   }
+  ],
+  "参入の時期と形": [
+   {
+    "quote": "中村留、新事業部を立ち上げ SiCウエハー加工需要を取り込む",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "奇瑞が27年に日本参入検討、オモダ4のHEVか 競合はヤリスクロス",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合の中核技術 足りぬ光源部品押さえる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "E2E自動運転「業界地図」、AIモデルなど注目4分野を総覧 テスラ猛追へ参入増",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "例えばドイツでは、インダストリー4.0という大きな御旗を政府が立ち上げると産官学が一斉にそちらの方向を向きます",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys社 FDM方式最新機種「Stratasys F3300™」工業用3Dプリンター取り扱い開始【丸紅情報システムズ】",
+    "url": "https://www.marubeni.com/jp/news/2024/group/00001.html",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys社 FDM方式最新機種「Stratasys F3300™」工業用3Dプリンター取り扱い開始",
+    "url": "https://www.marubeni.com/jp/news/2024/group/00001.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ株式会社（略称：エムシス／MSYS 以下、MSYS）は、ストラタシス社（以下、ストラタシス）製のFDM方式工業用3Dプリンター「F3300™」の取り扱いを開始します",
+    "url": "https://www.marubeni.com/jp/news/2024/group/00001.html",
+    "pass": 3
+   },
+   {
+    "quote": "複合材料に対応したFFF方式3Dプリンター「Ultimakerシリーズ」取り扱い開始",
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "pass": 3
+   },
+   {
+    "quote": "複合材料に対応したFFF方式3Dプリンター「Ultimakerシリーズ」取り扱い開始【丸紅情報システムズ】",
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ株式会社（略称：エムシス/MSYS 以下、MSYS）は、UltiMaker社（ユトレヒト（オランダ）、ニューヨーク）製のガラスファイバーやカーボンファイバーの複合材料に対応したFFF（Fused Filament Fabrication）方式のデスクトップ3Dプリンター「Ultimakerシリーズ」の取り扱いを開始します",
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimakerシリーズの出荷開始は、2022年10月上旬を予定しています",
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "pass": 3
+   },
+   {
+    "quote": "UltiMaker社は2011年に設立されたオランダのデスクトップ3Dプリンターメーカーです",
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "pass": 3
+   },
+   {
+    "quote": "2011年5月より販売を開始し、自動車、建築、ヘルスケア、教育、ベンチャー企業様などの業界で多く使用されています",
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "pass": 3
+   },
+   {
+    "quote": "機能設計やコンセプト検証に最適な3Dプリンター「J55 Pro™」取り扱い開始【丸紅情報システムズ】",
+    "url": "https://www.marubeni.com/jp/news/2023/group/00007.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ株式会社（略称：エムシス/MSYS 以下、MSYS）は、ストラタシス社（以下、ストラタシス）製の3Dプリンター「J55 Pro™」の取り扱いを開始します",
+    "url": "https://www.marubeni.com/jp/news/2023/group/00007.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年のストラタシスによるPARTNER FIRST PROGRAM制度の開始から、7年連続で最上位のPLATINUM PARTNERに認定されています",
+    "url": "https://www.marubeni.com/jp/news/2023/group/00007.html",
+    "pass": 3
+   },
+   {
+    "quote": "機能設計やコンセプト検証に最適な3Dプリンター「J55 Pro™」取り扱い開始",
+    "url": "https://www.marubeni.com/jp/news/2023/group/00007.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ、ストラタシスの大型FDM方式3Dプリンター「F870」の取り扱いを開始 大型治工具の製作を効率化 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ、ストラタシスの大型FDM方式3Dプリンター「F870」の取り扱いを開始 大型治工具の製作を効率化",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅I-DIGIOグループの丸紅情報システムズ株式会社（以下、MSYS）は、米Stratasys（ストラタシス）社製の大型FDM方式3Dプリンター「F870™ FDM®システム」の取り扱いを開始した",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "MSYSは今回の国内取り扱い開始を機に、従来の試作用途に加え、生産現場で使用する治工具や製造補助具の製作など、AM技術の実用的な活用を提案していく方針だ",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys、Markforgedを約64億円で買収へ 航空宇宙・防衛向け3Dプリント事業を強化",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "ストラタシス3Dプリンター向け治具設計自動化ソフトウェア取り扱い開始 | ニュース | 丸紅I-DIGIOホールディングス株式会社",
+    "url": "https://www.marubeni-idigio.com/news/20251022sys-2/",
+    "pass": 3
+   },
+   {
+    "quote": "ストラタシス3Dプリンター向け治具設計自動化ソフトウェア取り扱い開始",
+    "url": "https://www.marubeni-idigio.com/news/20251022sys-2/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅I-DIGIOグループ・製造ソリューションセグメント（セグメントCEO：佐藤 由浩）の丸紅情報システムズ株式会社（代表取締役社長：佐藤 由浩 以下、MSYS）は、ストラタシス社（以下、ストラタシス）製3Dプリンター向けの管理・運用ソフトウェア「GrabCAD Print Pro」に追加された、治具設計自動化ソフトウェア「fixturemate（フィクスチャーメイト）」の取り扱いを開始します",
+    "url": "https://www.marubeni-idigio.com/news/20251022sys-2/",
+    "pass": 3
+   },
+   {
+    "quote": "trinckleとストラタシスの提携によりソフトウェアが統合され、ストラタシス3Dプリンターのユーザーが利用できる環境が整いました",
+    "url": "https://www.marubeni-idigio.com/news/20251022sys-2/",
+    "pass": 3
+   },
+   {
+    "quote": "[8002.T] 大型治具・工具を短時間で製作するストラタシス社FDMプラットフォーム「F870™」を取り扱い開始 ～北米トヨタとリビアンが自動車の生産現場に先行導入し、製造活用を加速～【丸紅I-DIGIOホールディングス】 — BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "pass": 3
+   },
+   {
+    "quote": "[8002.T] 大型治具・工具を短時間で製作するストラタシス社FDMプラットフォーム「F870™」を取り扱い開始 ～北米トヨタとリビアンが自動車の生産現場に先行導入し、製造活用を加速～【丸紅I-DIGIOホールディングス】",
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズは、ストラタシス製の大型FDM 3Dプリンター「F870」の国内取り扱いを開始する",
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅I-DIGIOグループ、製造ソリューションセグメント（セグメントCEO：佐藤 由浩）の丸紅情報システムズ株式会社（代表取締役社長：佐藤 由浩 以下、MSYS）は、ストラタシス社製3Dプリンターの最新機種である「F870™ FDM®システム」（以下、F870）の取り扱いを開始します",
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "pass": 3
+   },
+   {
+    "quote": "国内での販売開始に伴い、従来の試作用途に加えて、アディティブ製造の活用提案を進めていきます",
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "pass": 3
+   },
+   {
+    "quote": "大型治具・工具を短時間で製作するストラタシス社FDMプラットフォーム「F870™」を取り扱い開始 ～北米トヨタとリビアンが自動車の生産現場に先行導入し、製造活用を加速～（PDF：586KB）",
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋特殊鋼（愛知県犬山市、鷲野敦司社長）は、電気自動車（ＥＶ）市場向け部品事業に本格参入する",
+    "url": "https://newswitch.jp/p/36591",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ、Desktop Metal社と代理店契約を締結し「Studio システム」の取り扱いを開始 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal社と代理店契約を締結 金属3Dプリンター「Studio システム」の取り扱いを開始",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ株式会社（略称:エムシス/MSYS 以下、MSYS）は、金属3Dプリンターメーカーの米国Desktop Metal, Inc.（以下、Desktop Metal）と代理店契約を締結しました",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal製の金属3Dプリンター「Studio システム」の国内における取り扱いを開始します",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metalは量産向け金属3Dプリンター「Production システム」の米国における販売開始も2019年に予定しており、MSYSは国内における取り扱いを予定しています",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "・設立:2015年",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "・出資者:GV(Google Ventures),GE Ventures,BMW iVentures,New Enterprise Associates,Stratasys 他",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "今月下旬に「３Ｄプリンター活用研究会」を立ち上げるのを前に、普及に向けた課題を探るのが狙い",
+    "url": "https://www.sankei.com/article/20130809-RS6EUCKUTFODPJIXPIJXFMEB4U/",
+    "pass": 3
+   },
+   {
+    "quote": "造形コストを抑えて大型造形を実現した3Dプリンター「Stratasys F770™」取り扱い開始【丸紅情報システムズ】",
+    "url": "https://www.marubeni.com/jp/news/2021/group/00019.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ株式会社（略称：エムシス／MSYS 以下、MSYS）は、ストラタシス社（以下、ストラタシス）製のシステム価格・材料コストを抑制しながら大型造形を実現したFDM方式3Dプリンター「F770™」の取り扱いを開始します",
+    "url": "https://www.marubeni.com/jp/news/2021/group/00019.html",
+    "pass": 3
+   },
+   {
+    "quote": "F770の出荷開始は、2021年6月を予定しています",
+    "url": "https://www.marubeni.com/jp/news/2021/group/00019.html",
+    "pass": 3
+   },
+   {
+    "quote": "造形コストを抑えて大型造形を実現した3Dプリンター「Stratasys F770™」取り扱い開始",
+    "url": "https://www.marubeni.com/jp/news/2021/group/00019.html",
+    "pass": 3
+   },
+   {
+    "quote": "登記上の存続会社であるエム・アイ・テクニカル・サービス株式会社 設立",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅株式会社と共同出資でMartec International Corp.（現Marubeni Information Systems USA）を米国に設立",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "pass": 3
+   },
+   {
+    "quote": "MSOL USA（旧Marubeni International Electronics Corp）を丸紅ソリューション株式会社の100％出資子会社とする",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "pass": 3
+   },
+   {
+    "quote": "Marubeni Information Systems(S) Pte. Ltd. をシンガポールに設立し、Marubeni Information Systems USA Corp シンガポール支店の業務を継承",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅株式会社が46％、丸紅情報システムズ株式会社が34％、株式会社野村総合研究所が20％出資する新会社丸紅ITソリューションズ株式会社を設立し、一部事業を譲渡",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅株式会社が持株会社を設立し、株主が丸紅I-DIGIOホールディングス株式会社100％に変更",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "pass": 3
+   },
+   {
+    "quote": "新会社「丸紅I-DIGIOホールディングス株式会社」の設立について",
+    "url": "https://www.marubeni.com/jp/news/2023/info/00008.html",
+    "pass": 3
+   },
+   {
+    "quote": "本日、丸紅株式会社（以下「丸紅」）は、2023年1月25日付「会社分割（簡易新設分割）による子会社設立のお知らせ」にて公表しました新設分割により、中間持株会社である丸紅I-DIGIOホールディングス株式会社（以下「丸紅I-DIGIO」）を設立しました",
+    "url": "https://www.marubeni.com/jp/news/2023/info/00008.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、丸紅が保有する、丸紅情報システムズ株式会社（丸紅出資比率 100％、以下「丸紅情報システムズ」）、丸紅ネットワークソリューションズ株式会社（丸紅出資比率 100％、以下「丸紅ネットワークソリューションズ」）、丸紅ITソリューションズ株式会社（丸紅出資比率 46％、丸紅情報システムズ出資比率 34%、以下「丸紅ITソリューションズ」）の株式を、丸紅I-DIGIOに承継しました",
+    "url": "https://www.marubeni.com/jp/news/2023/info/00008.html",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、丸紅情報システムズは、本日開催の株主総会において、保有する丸紅ITソリューションズおよび株式会社イーツ（丸紅情報システムズ出資比率100%、以下「イーツ」）の株式を丸紅I-DIGIOに現物配当しました",
+    "url": "https://www.marubeni.com/jp/news/2023/info/00008.html",
+    "pass": 3
+   },
+   {
+    "quote": "（6）設立年月日",
+    "url": "https://www.marubeni.com/jp/news/2023/info/00008.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社分割（簡易新設分割）による子会社設立のお知らせ（2023年1月25日）",
+    "url": "https://www.marubeni.com/jp/news/2023/info/00008.html",
+    "pass": 3
+   },
+   {
+    "quote": "- Marubeni Information Systems(S) Pte. Ltd. をシンガポールに設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "参入しない・慎重な理由の発言": [
+   {
+    "quote": "準国産ヒューマノイド量産へ、AI新興ジールス「転ばない」を重視",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "中村留、新事業部を立ち上げ SiCウエハー加工需要を取り込む",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "本講座を受講すれば、全社的な問題や複数の部署にまたがる横断的な課題を見いだせるスキルが身に付きます",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "奇瑞が27年に日本参入検討、オモダ4のHEVか 競合はヤリスクロス",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "製品生産の命運握るイットリウム、コストが端数に見えてもご用心",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "サムスン電子とAMDが急接近、AIインフラの課題解消へ強力タッグ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "第一三共、創薬プロセスを量子技術で高速化 開発期間とコスト削減に期待",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "福井県工事でダンプ運搬の施工単価を過大算定、富士通Japanがデータ誤入力",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "工事写真の改ざんどう防ぐ、生成AIリスクに要注意 技術力低下に懸念も",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "「皆さん、どうしても値段、材料、コスト、精度、CADなど、3Dプリンターを使うためのハードルの話から始められるのですが、例えばCADが使えないとならないことはなく、今は色々なやり方があって、例えば撮影して立体データをつくることもできれば、数学的な計算で形をつくっていく方法もあります",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりサイクルの高速化：3Dプリンター単体で価値を生むことは難しい",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "それでは、どうすれば3Dプリンターでさらなる価値を生み出すことができるのか？ 丸岡さんは「3Dプリンター単体で価値を生むことは難しい」というのだ",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "品質、コスト、時間の視点で価値を検証しながらものづくりサイクルを回していく",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "丸岡さんは、3Dプリンターから得られる利益は一旦品質、コスト、時間に分解し、またそれを総合して考えるとわかりやすいという",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "輸送の点でいえば、ものを運ぶより、データを送って近くで3Dプリントしたら輸送の時間とコストが大幅に下がることがあります",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "スピードの点でもメリットがあり、輸送コストもかかりません",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "単に『試作コストが下がりました』という話だけではなくて、製造プロセス全体を見てどこで利益が生まれるかをみることが大事です",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "また、切削加工では形状により削って捨てる部分が多くなることがありますが、3Dプリンターでは捨てる材料が少なく、その処理コストの差なども見落としてはいけないですね」",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、3Dプリンターを使っている部署単体でみると利益が不十分と捉えられがちで、会社全体では利益が出ていることをなかなかわかっていただくことが難しいことが多いという",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "従来の方法で高強度などの特性を持つチタンを切削加工する場合、工具の摩耗や材料のロスが課題だった",
+    "url": "https://newswitch.jp/p/28774",
+    "pass": 3
+   },
+   {
+    "quote": "労働力の削減、稼働時間の最大化、部品の品質と歩留まりの向上により、製造業のお客様に比類のないコストパフォーマンスを提供します",
+    "url": "https://www.marubeni.com/jp/news/2024/group/00001.html",
+    "pass": 3
+   },
+   {
+    "quote": "F3300は従来のFDM機種ユーザの声を受け、高速・高精度・コスト低減を目指して4個の射出エクストルーダーを搭載し、それらを自動交換できるオートツールチェンジャ―機能を初採用",
+    "url": "https://www.marubeni.com/jp/news/2024/group/00001.html",
+    "pass": 3
+   },
+   {
+    "quote": "・コスト削減 ：他のストラタシスFDMソリューションと比較して25～45％のコスト削減",
+    "url": "https://www.marubeni.com/jp/news/2024/group/00001.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、従来工法と比較した製作時間やコストの削減効果に加え、長期間使用した際の耐久性など、国内での具体的な導入事例にも注目したい",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys、新PolyJet機「J850 Core」や医療用シリコーン材料などを発表 AMの量産適用を加速",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "30年にわたり、ストラタシスの製品は製品開発期間、コスト、工具コストの削減/解消、製品の品質向上をサポートしてきました",
+    "url": "https://www.marubeni-idigio.com/news/20251022sys-2/",
+    "pass": 3
+   },
+   {
+    "quote": "量産部品のほか金型も視野に、受注状況に応じて順次実用化する",
+    "url": "https://newswitch.jp/p/36591",
+    "pass": 3
+   },
+   {
+    "quote": "サポート除去の後加工機や、厳しい条件の設置環境を必要としないStudioシステムは、航空宇宙業界や自動車部品メーカーの小物部品、産業/工業技術センターや大学などの研究機関、鋳造品の置き換え、サービスビューロー向けの試作から小ロット生産に適しており、MSYSはこれらの業界を中心にStudio システムの販売を展開していきます",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metalは量産向け金属3Dプリンター「Production システム」の米国における販売開始も2019年に予定しており、MSYSは国内における取り扱いを予定しています",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "加工が難しいとされる材料にも対応できる金属粉末冶金と、形状の自由度が高いプラスチック射出成形のメリットを組み合わせた金属加工技術",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "機械加工では難しい形状でも生産でき、鋳造よりもシャープエッジが出る",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティングを製造分野で使う利点と課題は？｜3Dプリンティングの「？」と「！」コラム｜3Dプリンター｜丸紅情報システムズ",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/201907_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティングを製造分野で使う利点と課題は？",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/201907_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、製造業全体では「働き方改革」や「技能者の高齢化退職に伴う技能継承」「労働人口減少や外国人の活用」など、もう既に起きていて、これからもっと増える課題解決のため、ロボットの活用が注目される一方、高性能なFAロボットはまだ高額かつ使いこなす技能者も少ないことから、導入のハードルも高いようです",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/201907_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "既に製造分野の生産機械、治工具を汎用市販品と3Dプリント部品の組み合わせで作ることで、単に製造コストが安くなるというより、使うことによる身体負担低減、製造タクトタイム短縮、ポカヨケや5Sによる製品品質向上などの利益を得ている事例がいくつもあります",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/201907_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "それを解決する課題は大きく分けると2つあると考えています",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/201907_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造分野では、治工具や機械、または工程を変えるには費用工数対効果検証、変更の手続きに工数がかかったり、変えて何か不具合が起きた時のリスクが大きい",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/201907_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "この2つの課題はそう簡単に解決するものではありませんが、少しでも、部分的でも解決できると、先に述べた「製造業にもう既に起きていて、これからもっと増える課題」の解決にもつながるかもしれません",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/201907_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回は製造分野での3Dプリンティング活用の利益と課題についてお伝えしましたが、課題解決のための情報提供の一つとして、下記のウエビナー（ライブ配信型ウエブセミナー）をご案内します",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/201907_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットと3Dプリンティングの共通課題は？｜3Dプリンティングの「？」と「！」コラム｜3Dプリンター｜丸紅情報システムズ",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/202203_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットと3Dプリンティングの共通課題は？",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/202203_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "その中で、日本で産業用ロボットが普及しない背景、課題、その改善策について触れられ、それは3Dプリンティングにも共通すると思いました",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/202203_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "最近の世界的な大きな出来事により、これまで見えなかった社会や経済の問題、課題が浮き彫りになることが増えたと思います",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/202203_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "その多くはやはり「人」に関わることで、そのひとつの「働く」ことについては、人やモノの流れが悪くなると急に足りなくなって機能しなくなってしまう、また社会のニーズと働く人の数や、働き甲斐と収入のバランスの悪化、格差の拡大などが起こり、その解決策としてロボットは需要も期待も大きい一方、特に日本の産業用ロボットは製造産業もユーザーの活用も期待ほど伸びていないようです",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/202203_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "ご講義の内容は川村先生の学生時代から現在までを振り返られる内容で、学ぶこと多でしたが、特に印象に残ったのが、日本のロボット研究と実用が進まない理由の一つとして、「解くべき問題が明確/妥当でない」を挙げられました",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/202203_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでも「働く」社会課題に対し、様々なロボットによる解決策の展示があり、特に人と共に働く「協働ロボット」「搬送ロボット」の展示が多く見られました",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/202203_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットの研究者でもある人機一体 代表取締役社長 金岡様のご講演も聞くことが出来、そこでもロボット普及の課題と解決策についてのポイントは大変勉強になり、これも3Dプリンティングとの共通点がありました",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/202203_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記の「ロボット」を「3Dプリンティング」にそのまま置き換えてもいいくらい、現状の課題と解決策は共通していると思います",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/202203_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "これまで熟練した人でないとできなかった作業で、ロボットでも容易ではないそうですが、「人不足への対策」需要の高まりからか、予想以上に検討依頼が多く来ているそうです",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/202203_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットも3Dプリンターもデータで動き、何らかのネットワークに接続するもので、セキュリティー対策も共通の課題です",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/202203_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットも3Dプリンターも「使うこと」が問題でもなく目的でもなく、経営面、技術面で特に「人」に関わる様々な課題を適切に設定し、またその解決に人、モノ、お金をいつ、どのくらいかけるのかは、社会や経済の環境によっても変わりますので、その時に対応しやすいよう、これからも展示会などで最新情報を得ておくことはどなたにとっても大事なことだと思います",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/202203_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "佐藤大商会頭ら３Ｄプリンター視察 課題浮き彫り（1/2ページ） - 産経ニュース",
+    "url": "https://www.sankei.com/article/20130809-RS6EUCKUTFODPJIXPIJXFMEB4U/",
+    "pass": 3
+   },
+   {
+    "quote": "佐藤大商会頭ら３Ｄプリンター視察 課題浮き彫り",
+    "url": "https://www.sankei.com/article/20130809-RS6EUCKUTFODPJIXPIJXFMEB4U/",
+    "pass": 3
+   },
+   {
+    "quote": "今月下旬に「３Ｄプリンター活用研究会」を立ち上げるのを前に、普及に向けた課題を探るのが狙い",
+    "url": "https://www.sankei.com/article/20130809-RS6EUCKUTFODPJIXPIJXFMEB4U/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の視察では、納期や製造コストが従来比３０分の１になったなど成果が報告された一方、導入費用の高さや人材の育成が課題になっていることも浮き彫りになった",
+    "url": "https://www.sankei.com/article/20130809-RS6EUCKUTFODPJIXPIJXFMEB4U/",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作に比べ、試作期間やコストが数十分の１に短縮され、納期のスピードアップにつながったとした",
+    "url": "https://www.sankei.com/article/20130809-RS6EUCKUTFODPJIXPIJXFMEB4U/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、３Ｄプリンターの活用には、ＣＡＤ（コンピューター利用設計システム）によるデータ作成などが必要なため、中小企業では使いこなす人材が不足しているといった課題も明らかになった",
+    "url": "https://www.sankei.com/article/20130809-RS6EUCKUTFODPJIXPIJXFMEB4U/",
+    "pass": 3
+   },
+   {
+    "quote": "造形コストを抑えて大型造形を実現した3Dプリンター「Stratasys F770™」取り扱い開始【丸紅情報システムズ】",
+    "url": "https://www.marubeni.com/jp/news/2021/group/00019.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ株式会社（略称：エムシス／MSYS 以下、MSYS）は、ストラタシス社（以下、ストラタシス）製のシステム価格・材料コストを抑制しながら大型造形を実現したFDM方式3Dプリンター「F770™」の取り扱いを開始します",
+    "url": "https://www.marubeni.com/jp/news/2021/group/00019.html",
+    "pass": 3
+   },
+   {
+    "quote": "造形コストを抑えながら大型の試作モデルや治具、実部品製作といったニーズに対応することで、生産性の向上を実現します",
+    "url": "https://www.marubeni.com/jp/news/2021/group/00019.html",
+    "pass": 3
+   }
+  ],
+  "客の業界": [
+   {
+    "quote": "準国産ヒューマノイド量産へ、AI新興ジールス「転ばない」を重視",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "エレベーションスペースとDNP 宇宙実験を代行、狙った場所へ試料帰還",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "次の半導体大国、インド",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "ルネサス、半導体設計全体をAIエージェント化 全製品に適用へ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "LG、家電への独自AI半導体搭載を加速 クルマやロボ向けに触手か",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "iPhone 18 Pro分解、「中身は別物」 半導体チップの冷却優先に",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "在庫の面でも、修理や補修部品のため今まで金型をずっと持っていないといけなかったのがデータだけ持っていればいい、必要な数だけ作ればいいと変わってきます",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "単に『試作コストが下がりました』という話だけではなくて、製造プロセス全体を見てどこで利益が生まれるかをみることが大事です",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機メーカーがもっと3Dプリンターを使おうと考えているのは、飛行機として運用した時に1kgでも軽くなれば燃料費が大幅に安くなるからです",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "部品の試作などの用途で航空宇宙、自動車、石油、ガス業界などに展開する",
+    "url": "https://newswitch.jp/p/28774",
+    "pass": 3
+   },
+   {
+    "quote": "ストラタシスは航空宇宙、車載、コンシューマ製品、ヘルスケアなどの産業向けの革新的な3Dプリンティング・ソリューションを提供し、アディティブ・マニュファクチャリングへのグローバルな移行をリードしています",
+    "url": "https://www.marubeni.com/jp/news/2024/group/00001.html",
+    "pass": 3
+   },
+   {
+    "quote": "幅広い材料を選択できることから、試作品や模型の制作に限らず強度・柔軟性に優れたカスタム品や少量部品のバッチ生産、また、製造設備で交換困難なスペア部品、多色に色分けされた安全カバーやラッチ、人間工学を配慮した作業員の治具やハンドル等を現場のリクエストに応じて、短期間に製作することが可能です",
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "pass": 3
+   },
+   {
+    "quote": "2011年5月より販売を開始し、自動車、建築、ヘルスケア、教育、ベンチャー企業様などの業界で多く使用されています",
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "pass": 3
+   },
+   {
+    "quote": "ストラタシスは航空宇宙、車載、コンシューマ製品、ヘルスケアなどの産業向けの革新的な3Dプリンティング・ソリューションを提供し、アディティブ・マニュファクチャリングへのグローバルな移行をリードしています",
+    "url": "https://www.marubeni.com/jp/news/2023/group/00007.html",
+    "pass": 3
+   },
+   {
+    "quote": "すでに北米トヨタや米国の電気自動車メーカーRivian（リビアン）で採用された実績があり、国内製造業におけるアディティブ製造（AM）の活用拡大を目指す",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "F870は、自動車、航空宇宙、防衛分野など、生産能力の拡大を目指す製造業向けに開発された大型FDM方式3Dプリンターである",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では、3Dプリンターの活用が試作品の製作から、生産ラインで使用する治工具や固定具、製造補助具などへと広がっている",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "MSYSは今回の国内取り扱い開始を機に、従来の試作用途に加え、生産現場で使用する治工具や製造補助具の製作など、AM技術の実用的な活用を提案していく方針だ",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における3Dプリンターの導入は、試作品の製作だけでなく、生産現場で使用する治工具の内製化へと用途が広がっている",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "試作品の製作から治工具、最終製品の部品製造まで幅広く利用されている",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "試作だけでなく、治工具や最終製品の製造にも活用されている",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys、Markforgedを約64億円で買収へ 航空宇宙・防衛向け3Dプリント事業を強化",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys、新PolyJet機「J850 Core」や医療用シリコーン材料などを発表 AMの量産適用を加速",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター本体の販売に加えて、造形サービスやレンタルサービスを提供し、顧客の要望に合わせて試作品造形や治具用途への3Dプリンターモデルの転用などを提案していきます",
+    "url": "https://www.marubeni-idigio.com/news/20251022sys-2/",
+    "pass": 3
+   },
+   {
+    "quote": "その技術は航空宇宙、車載、ヘルスケア、コンシューマー製品、教育などのさまざまな産業向けのプロトタイプ、治工具、生産部品の製造に利用されています",
+    "url": "https://www.marubeni-idigio.com/news/20251022sys-2/",
+    "pass": 3
+   },
+   {
+    "quote": "[8002.T] 大型治具・工具を短時間で製作するストラタシス社FDMプラットフォーム「F870™」を取り扱い開始 ～北米トヨタとリビアンが自動車の生産現場に先行導入し、製造活用を加速～【丸紅I-DIGIOホールディングス】 — BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "pass": 3
+   },
+   {
+    "quote": "[8002.T] 大型治具・工具を短時間で製作するストラタシス社FDMプラットフォーム「F870™」を取り扱い開始 ～北米トヨタとリビアンが自動車の生産現場に先行導入し、製造活用を加速～【丸紅I-DIGIOホールディングス】",
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "pass": 3
+   },
+   {
+    "quote": "「F870」は、工場現場での生産拡大を目指す産業メーカー、自動車OEM、航空宇宙・防衛分野向けに設計された大型アディティブ製造プラットフォームです",
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "pass": 3
+   },
+   {
+    "quote": "アディティブ製造は、3Dプリンターモデルの試作に限らず、治工具や製造補助具などを制作して生産現場で利用する、３Dプリントの活用レベルを一段階上げた利用方法です",
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "pass": 3
+   },
+   {
+    "quote": "その要求を実現した実績として、北米トヨタ、ならびに電気自動車メーカー・リビアンで採用されました",
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "pass": 3
+   },
+   {
+    "quote": "国内での販売開始に伴い、従来の試作用途に加えて、アディティブ製造の活用提案を進めていきます",
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "pass": 3
+   },
+   {
+    "quote": "ストラタシスは、航空宇宙、自動車、消費財、医療などの業界向けに革新的な3Dプリンティング・ソリューションを提供し、アディティブ製造への世界的な移行を牽引しています",
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "pass": 3
+   },
+   {
+    "quote": "大型治具・工具を短時間で製作するストラタシス社FDMプラットフォーム「F870™」を取り扱い開始 ～北米トヨタとリビアンが自動車の生産現場に先行導入し、製造活用を加速～（PDF：586KB）",
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ向け主力の金型メーカー、金属3DプリンターでEV用売り上げ拡大狙う｜ニュースイッチ by 日刊工業新聞社",
+    "url": "https://newswitch.jp/p/36591",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ向け主力の金型メーカー、金属3DプリンターでEV用売り上げ拡大狙う",
+    "url": "https://newswitch.jp/p/36591",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋特殊鋼（愛知県犬山市、鷲野敦司社長）は、電気自動車（ＥＶ）市場向け部品事業に本格参入する",
+    "url": "https://newswitch.jp/p/36591",
+    "pass": 3
+   },
+   {
+    "quote": "すでに試験運用を始めており、１０月以降、金型など既存事業で使う素材の利用を始める計画",
+    "url": "https://newswitch.jp/p/36591",
+    "pass": 3
+   },
+   {
+    "quote": "量産部品のほか金型も視野に、受注状況に応じて順次実用化する",
+    "url": "https://newswitch.jp/p/36591",
+    "pass": 3
+   },
+   {
+    "quote": "やトヨタグループ向けを中心に、内燃機関向けの金型を主力とする",
+    "url": "https://newswitch.jp/p/36591",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、金属3Dプリンターは機器の価格が高額なうえに設置環境の整備にも費用がかかるため、航空宇宙業界の一部や大企業の研究用途に利用範囲が限定されていました",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート除去の後加工機や、厳しい条件の設置環境を必要としないStudioシステムは、航空宇宙業界や自動車部品メーカーの小物部品、産業/工業技術センターや大学などの研究機関、鋳造品の置き換え、サービスビューロー向けの試作から小ロット生産に適しており、MSYSはこれらの業界を中心にStudio システムの販売を展開していきます",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metalは量産向け金属3Dプリンター「Production システム」の米国における販売開始も2019年に予定しており、MSYSは国内における取り扱いを予定しています",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末とバインダー（プラスチック樹脂など）を混ぜ合わせ、金型内に射出成形を行った後、脱脂工程でバインダーを除去し、高温焼結することで高密度の金属製品を作り出す",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、研究開発設計分野での使い方とは違うことがあり、それは...",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/201907_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "その要因の一つとして、F1のエンジン開発技術者が航空機用ジェットエンジン開発技術者から情報を得たことで、これまで良く壊れていたあるユニット部品が格段に壊れにくくなったことが挙げられていました",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/201907_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車自動運転システムでも有名になっている、コンピュータグラフィックス演算処理GPUを開発販売するアメリカのNVIDIA（エヌビディア）社が、主に教育研究用に、自分で小型のAIコンピュータボードと3Dプリンターと市販部品で作ることが出来るAI自立制御移動ロボット「KAYA」を開発し、全ての必要な部品表と3Dデータを公開しているとのことでした",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/201907_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発設計分野と違い、製造分野では元々現場で何かを設計することが無く、または2次元図面を使うことが多く、3次元CADが無い、もしくは使える人がいない",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/201907_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "最近、ロボットの研究開発を長年行われてきたお二人の方のお話を伺う機会が相次いでありました",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/202203_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "十川ゴムの堺工場（堺市中区）では、自動車の燃料用ホースやガス機器のバルブ、ホースなどの試作で３Ｄプリンターを導入",
+    "url": "https://www.sankei.com/article/20130809-RS6EUCKUTFODPJIXPIJXFMEB4U/",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作に比べ、試作期間やコストが数十分の１に短縮され、納期のスピードアップにつながったとした",
+    "url": "https://www.sankei.com/article/20130809-RS6EUCKUTFODPJIXPIJXFMEB4U/",
+    "pass": 3
+   },
+   {
+    "quote": "十川敬二相談役は「開発が早まったことで、受注が飛躍的に増えている」と述べ、家電や自動車メーカーで新たな取引先の開拓につながっているという",
+    "url": "https://www.sankei.com/article/20130809-RS6EUCKUTFODPJIXPIJXFMEB4U/",
+    "pass": 3
+   },
+   {
+    "quote": "造形コストを抑えながら大型の試作モデルや治具、実部品製作といったニーズに対応することで、生産性の向上を実現します",
+    "url": "https://www.marubeni.com/jp/news/2021/group/00019.html",
+    "pass": 3
+   },
+   {
+    "quote": "その技術は航空宇宙、車載、ヘルスケア、コンシューマー製品、教育などのさまざまな産業向けのプロトタイプ、治工具、生産部品の製造に利用されています",
+    "url": "https://www.marubeni.com/jp/news/2021/group/00019.html",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys、Markforgedを約64億円で買収へ 航空宇宙・防衛向け3Dプリント事業を強化",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "複雑形状の少量多品種生産に対応できるようにし、まずはＥＶ・電池関連領域の売上高比率を２割にすることを目指す",
+    "url": "https://newswitch.jp/p/36591",
+    "pass": 3
+   },
+   {
+    "quote": "１０年後には売上高の１割程度を、金属３Ｄプリンター製にしたい考えだ",
+    "url": "https://newswitch.jp/p/36591",
+    "pass": 3
+   },
+   {
+    "quote": "MSYSはDesktop Metal製3Dプリンターの取り扱いにより、今後3年間で10億円の売上を目指します",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "310百万円",
+    "url": "https://www.marubeni.com/jp/news/2023/info/00008.html",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "撤退報道を否定し新スマホ投入、Nothingはメモリー高騰を乗り越えられるか",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合の中核技術 足りぬ光源部品押さえる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys、Markforgedを約64億円で買収へ 航空宇宙・防衛向け3Dプリント事業を強化",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "3Dプリンター 販売 終了 のお知らせ | 丸紅情報システムズ — 3Dプリンター 販売 終了 のお知らせ | 丸紅情報システムズ 丸紅I-DIGIOグループ https://www.marubeni-idigio.com > products > endsale",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/products/endsale/",
+    "pass": 3
+   },
+   {
+    "quote": "中少量生産向け金属 3Dプリンター 、 丸紅情報システムズ が ... — 中少量生産向け金属 3Dプリンター 、 丸紅情報システムズ が ... 日経クロステック https://xtech.nikkei.com > レポート",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター の現在－ 丸紅情報システムズ - ShareLab NEWS — 3Dプリンター の現在－ 丸紅情報システムズ - ShareLab NEWS ShareLab NEWS https://news.sharelab.jp > 独自記事",
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ が取り扱い開始。金属 3Dプリンター 向け ... — 丸紅情報システムズ が取り扱い開始。金属 3Dプリンター 向け ... ニュースイッチ by 日刊工業新聞社 https://newswitch.jp > ...",
+    "url": "https://newswitch.jp/p/28774",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ 、ストラタシスの大型FDM方式 3D ... — 丸紅情報システムズ 、ストラタシスの大型FDM方式 3D ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > 樹脂3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ 、Desktop Metal社と代理店契約を締結し ... — 丸紅情報システムズ 、Desktop Metal社と代理店契約を締結し ... 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ 株式会社 — 丸紅情報システムズ 株式会社 スピーダ スタートアップ情報リサーチ https://initial.inc > investors",
+    "url": "https://initial.inc/investors/V12183",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ社長 ・伊吹洋二氏「 3D 関連での存在感 ... — 丸紅情報システムズ社長 ・伊吹洋二氏「 3D 関連での存在感 ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/304415",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 当社の実績 | 丸紅情報システムズ — 3Dプリンター 当社の実績 | 丸紅情報システムズ 丸紅I-DIGIOグループ https://www.marubeni-idigio.com > product > lab > value",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/value/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ 株式 会社 企業 概要 — 丸紅情報システムズ 株式 会社 企業 概要 丸紅I-DIGIOグループ https://www.marubeni-idigio.com > ... > グループ会社一覧",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.marubeni-sys.com/corporate/profile/ — https://www.marubeni-sys.com/corporate/profile/ 丸紅情報システムズ(MSYS) https://www.marubeni-sys.com > prof...",
+    "url": "https://www.marubeni-sys.com/corporate/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ 株式 会社 沿革 - 丸紅I-DIGIOグループ — 丸紅情報システムズ 株式 会社 沿革 - 丸紅I-DIGIOグループ 丸紅I-DIGIOグループ https://www.marubeni-idigio.com > ... > グループ会社一覧",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ - Wikipedia — 丸紅情報システムズ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 丸紅情報システムズ",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "UltiMaker社は2011年に設立されたオランダのデスクトップ3Dプリンターメーカーです",
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "pass": 3
+   },
+   {
+    "quote": "・設立:2015年",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "登記上の存続会社であるエム・アイ・テクニカル・サービス株式会社 設立",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅株式会社と共同出資でMartec International Corp.（現Marubeni Information Systems USA）を米国に設立",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "pass": 3
+   },
+   {
+    "quote": "Marubeni Information Systems(S) Pte. Ltd. をシンガポールに設立し、Marubeni Information Systems USA Corp シンガポール支店の業務を継承",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅株式会社が46％、丸紅情報システムズ株式会社が34％、株式会社野村総合研究所が20％出資する新会社丸紅ITソリューションズ株式会社を設立し、一部事業を譲渡",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅株式会社が持株会社を設立し、株主が丸紅I-DIGIOホールディングス株式会社100％に変更",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "pass": 3
+   },
+   {
+    "quote": "新会社「丸紅I-DIGIOホールディングス株式会社」の設立について",
+    "url": "https://www.marubeni.com/jp/news/2023/info/00008.html",
+    "pass": 3
+   },
+   {
+    "quote": "本日、丸紅株式会社（以下「丸紅」）は、2023年1月25日付「会社分割（簡易新設分割）による子会社設立のお知らせ」にて公表しました新設分割により、中間持株会社である丸紅I-DIGIOホールディングス株式会社（以下「丸紅I-DIGIO」）を設立しました",
+    "url": "https://www.marubeni.com/jp/news/2023/info/00008.html",
+    "pass": 3
+   },
+   {
+    "quote": "（6）設立年月日",
+    "url": "https://www.marubeni.com/jp/news/2023/info/00008.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社分割（簡易新設分割）による子会社設立のお知らせ（2023年1月25日）",
+    "url": "https://www.marubeni.com/jp/news/2023/info/00008.html",
+    "pass": 3
+   },
+   {
+    "quote": "- Marubeni Information Systems(S) Pte. Ltd. をシンガポールに設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "2023年 - 丸紅株式会社が持株会社を設立し、株主が丸紅I-DIGIOホールディングス株式会社に変更",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "1965年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "・出資者:GV(Google Ventures),GE Ventures,BMW iVentures,New Enterprise Associates,Stratasys 他",
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅株式会社と共同出資でMartec International Corp.（現Marubeni Information Systems USA）を米国に設立",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "pass": 3
+   },
+   {
+    "quote": "MSOL USA（旧Marubeni International Electronics Corp）を丸紅ソリューション株式会社の100％出資子会社とする",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅株式会社が46％、丸紅情報システムズ株式会社が34％、株式会社野村総合研究所が20％出資する新会社丸紅ITソリューションズ株式会社を設立し、一部事業を譲渡",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅株式会社が持株会社を設立し、株主が丸紅I-DIGIOホールディングス株式会社100％に変更",
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "pass": 3
+   },
+   {
+    "quote": "また、丸紅が保有する、丸紅情報システムズ株式会社（丸紅出資比率 100％、以下「丸紅情報システムズ」）、丸紅ネットワークソリューションズ株式会社（丸紅出資比率 100％、以下「丸紅ネットワークソリューションズ」）、丸紅ITソリューションズ株式会社（丸紅出資比率 46％、丸紅情報システムズ出資比率 34%、以下「丸紅ITソリューションズ」）の株式を、丸紅I-DIGIOに承継しました",
+    "url": "https://www.marubeni.com/jp/news/2023/info/00008.html",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、丸紅情報システムズは、本日開催の株主総会において、保有する丸紅ITソリューションズおよび株式会社イーツ（丸紅情報システムズ出資比率100%、以下「イーツ」）の株式を丸紅I-DIGIOに現物配当しました",
+    "url": "https://www.marubeni.com/jp/news/2023/info/00008.html",
+    "pass": 3
+   },
+   {
+    "quote": "（9）大株主及び持株比率",
+    "url": "https://www.marubeni.com/jp/news/2023/info/00008.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年 - 丸紅株式会社が持株会社を設立し、株主が丸紅I-DIGIOホールディングス株式会社に変更",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【新卒企業研究】 丸紅情報システムズ ｜I-DIGIOの採用・出向と 【新卒企業研究】 丸紅情報システムズ ｜I-DIGIOの採用・出向と note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/sier_recruit/n/n48aede9ce698",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【新卒企業研究】丸紅情報システムズ｜I-DIGIOの採用・出向と、仕事別の入社判断｜IT就活ナビ｜新卒向けIT業界研究",
+    "url": "https://note.com/sier_recruit/n/n48aede9ce698",
+    "pass": 3
+   },
+   {
+    "quote": "【新卒企業研究】丸紅情報システムズ｜I-DIGIOの採用・出向と、仕事別の入社判断",
+    "url": "https://note.com/sier_recruit/n/n48aede9ce698",
+    "pass": 3
+   },
+   {
+    "quote": "調査日：2026年9月23日。丸紅情報システムズを志望する学生向けに、グループ採用と職種の違いを整理します。",
+    "url": "https://note.com/sier_recruit/n/n48aede9ce698",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズの企業研究では、丸紅I-DIGIOグループの新卒採用との関係を押さえる必要があります。確認した2027年向け要項はグループ一括採用で、丸紅I-DIGIOホールディングスに入社し、グループ各社へ出向する仕組みを案内しています。[1]",
+    "url": "https://note.com/sier_recruit/n/n48aede9ce698",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度の合同募集対象は、丸紅情報システムズ、丸紅ITソリューションズ、丸紅ネットワークソリューションズ、株式会社イーツの4社です。入社先は丸紅I-DIGIOホールディングスで、4社いずれかへ出向する可能性があります。[1] 応募時に選ぶ職種での配属と、希望する会社への配属確約は別なので、企業名だけで承諾せず説明を受けましょう。（2026年9月26日再確認）",
+    "url": "https://note.com/sier_recruit/n/n48aede9ce698",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅I-DIGIOは、ICT、ネットワーク、クラウド、ITコンサルティングなどを通じて企業のデジタル化を支援するグループです。[2] 採用研究では、グループの事業説明から、自分が担当したい製品・サービスや顧客課題へ絞り込む必要があります。",
+    "url": "https://note.com/sier_recruit/n/n48aede9ce698",
+    "pass": 3
+   },
+   {
+    "quote": "営業は課題を聞いて提案をまとめ、エンジニアは構成・仕様を設計し、サービス運用は稼働中の環境を支える、といった役割で理解できます。具体的な製品や作業範囲は会社・部門で変わります。",
+    "url": "https://note.com/sier_recruit/n/n48aede9ce698",
+    "pass": 3
+   },
+   {
+    "quote": "例えばクラウドを使う場合でも、導入提案、構築、監視、障害対応では仕事のリズムが違います。グループ全体の説明を読んだ後に、応募コースの職務と照合することが重要です。",
+    "url": "https://note.com/sier_recruit/n/n48aede9ce698",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "クラウド Watch on X: \" 丸紅情報システムズ が「Zoom Contact ... クラウド Watch on X: \" 丸紅情報システムズ が「Zoom Contact ... X https://x.com > @cloud__watch",
+    "url": "https://x.com/cloud__watch/status/2118123652936040463",
+    "pass": 3
+   },
+   {
+    "quote": "北尾吉孝 on X: \"SBI損保、 丸紅情報システムズ が提供する生成 ... 北尾吉孝 on X: \"SBI損保、 丸紅情報システムズ が提供する生成 ... X https://x.com > @yoshitaka_kitao",
+    "url": "https://x.com/yoshitaka_kitao/status/2117194756572811727",
+    "pass": 3
+   },
+   {
+    "quote": "PR TIMESテクノロジー on X : \"SBI損保、 丸紅情報システムズ ... PR TIMESテクノロジー on X : \"SBI損保、 丸紅情報システムズ ... X https://x.com > @PRTIMES_TECH",
+    "url": "https://x.com/PRTIMES_TECH/status/2115997689322295349",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "丸紅情報システムズ 株式会社 - LinkedIn 丸紅情報システムズ 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > 丸紅情報システムズ（株）",
+    "url": "https://jp.linkedin.com/company/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "Naoki Natori - 丸紅情報システムズ （株）営業課長 - LinkedIn Naoki Natori - 丸紅情報システムズ （株）営業課長 - LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/naoki-natori-4410a4180",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "丸紅情報システムズ 株式会社 (@msys.page) - Facebook 丸紅情報システムズ 株式会社 (@msys.page) - Facebook Facebook https://www.facebook.com > ... > Business service",
+    "url": "https://www.facebook.com/msys.page/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ 株式会社 - GOM | Shinjuku-ku Tokyo 丸紅情報システムズ 株式会社 - GOM | Shinjuku-ku Tokyo Facebook https://www.facebook.com > ... > Computer Company",
+    "url": "https://www.facebook.com/p/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-GOM-100022044202863/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ 株式会社 (@msys.page) - वीडियो | Facebook 丸紅情報システムズ 株式会社 (@msys.page) - वीडियो | Facebook Facebook https://www.facebook.com > msys.page > videos",
+    "url": "https://www.facebook.com/msys.page/videos/?locale=hi_IN",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.marubeni-sys.com",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/products/endsale/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/product/modeling/fdm_close/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/p/28774",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni.com/jp/news/2024/group/00001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni.com/jp/news/2023/group/00007.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/news/20251022sys-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni.com/jp/news/2026/release/data/202605012-2J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/p/36591",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/investors/V12183",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/304415",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/201907_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/202203_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sankei.com/article/20130809-RS6EUCKUTFODPJIXPIJXFMEB4U/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni.com/jp/news/2021/group/00019.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/lab/value/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/698847",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.marubeni.com/jp/news/2026/release/data/202605012-2J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marubeni.com/jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni.com/jp/news/2023/info/00008.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sier_recruit/n/n48aede9ce698",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/cloud__watch/status/2118123652936040463",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yoshitaka_kitao/status/2117194756572811727",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/naoki-natori-4410a4180",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/msys.page/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-GOM-100022044202863/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/msys.page/videos/?locale=hi_IN",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PRTIMES_TECH/status/2115997689322295349",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "丸紅情報システムズ 3Dプリンタ 撤退 OR 縮小 OR 終了",
+   "results": [
+    "https://www.marubeni-idigio.com/product/3dprinter/products/endsale/",
+    "https://www.marubeni-idigio.com/product/modeling/fdm_close/index.html",
+    "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/",
+    "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "https://newswitch.jp/p/28774",
+    "https://www.marubeni.com/jp/news/2024/",
+    "https://www.marubeni-idigio.com/product/modeling/index.html",
+    "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "https://www.marubeni-idigio.com/product//3dprinter/info/",
+    "https://monoist.itmedia.co.jp/keywords/marubeni_sys.html"
+   ]
+  },
+  {
+   "query": "丸紅情報システムズ 3Dプリンタ 参入 OR 開始 OR 買収",
+   "results": [
+    "https://www.marubeni.com/jp/news/2024/group/00001.html",
+    "https://www.marubeni.com/jp/news/2022/group/00036.html",
+    "https://www.marubeni.com/jp/news/2023/group/00007.html",
+    "https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/",
+    "https://www.marubeni-idigio.com/news/20251022sys-2/",
+    "https://www.marubeni.com/jp/news/2021/group/00024.html",
+    "https://iotnews.jp/manufacturing/222837/",
+    "https://www.marubeni.com/jp/news/2021/group/00019.html",
+    "https://monoist.itmedia.co.jp/mn/articles/1802/27/news091.html",
+    "https://www.marubeni-idigio.com/product//3dprinter/info/"
+   ]
+  },
+  {
+   "query": "丸紅情報システムズ 積層造形 事業 売上",
+   "results": [
+    "https://www.marubeni.com/jp/news/2026/release/data/202605012-2J.pdf",
+    "https://finance.biggo.jp/news/ir_8002.T_20261002_482614296b16",
+    "https://newswitch.jp/p/36591",
+    "https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/",
+    "https://initial.inc/investors/V12183",
+    "https://the-shashi.com/tse/8002/segment/",
+    "https://www.marubeni-idigio.com/news/20160622sys/",
+    "https://www.marubeni.com/jp/news/2025/release/data/202511042-2J.pdf",
+    "https://metoree.com/categories/5523/",
+    "https://ja.wikipedia.org/wiki/丸紅情報システムズ"
+   ]
+  },
+  {
+   "query": "丸紅情報システムズ 3Dプリンター 社長 インタビュー 課題",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/304415",
+    "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/201907_01.html",
+    "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/202203_02.html",
+    "https://www.sankei.com/article/20130809-RS6EUCKUTFODPJIXPIJXFMEB4U/",
+    "https://www.nikkan.co.jp/articles/view/262916",
+    "https://www.marubeni.com/jp/news/2021/group/00019.html",
+    "https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/202212_02.html",
+    "https://news.sharelab.jp/interviews/marubeni-sys-before-tct/",
+    "https://www.nikkan.co.jp/articles/view/00304415"
+   ]
+  },
+  {
+   "query": "丸紅情報システムズ 決算説明 3Dプリンタ",
+   "results": [
+    "https://www.marubeni.com/jp/news/2021/group/00019.html",
+    "https://www.marubeni-idigio.com/product/3dprinter/lab/value/",
+    "https://www.nikkan.co.jp/articles/view/698847",
+    "https://www.marubeni.com/jp/news/2026/release/data/202605012-2J.pdf",
+    "https://www.marubeni.com/jp/news/",
+    "https://www.marubeni.com/jp/news/2018/group/00009.html",
+    "https://www.marubeni-idigio.com/news/20251022sys/",
+    "https://news.sharelab.jp/interviews/marubeni_sys/",
+    "https://www.marubeni.com/jp/news/2021/"
+   ]
+  },
+  {
+   "query": "丸紅情報システムズ 会社概要 設立 株主",
+   "results": [
+    "https://www.marubeni-idigio.com/company/marubeni-sys/profile/",
+    "https://www.marubeni-sys.com/corporate/profile/",
+    "https://www.marubeni-idigio.com/company/marubeni-sys/history/",
+    "https://www.marubeni.com/jp/news/2023/info/00008.html",
+    "https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "https://job.mynavi.jp/27/pc/search/corp279876/outline.html",
+    "https://www.buffett-code.com/company/613qer4bi2/",
+    "https://salesnow.jp/db/companies/jcbn0wb7ukj2u2m6",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1011001030018",
+    "https://ja.wikipedia.org/wiki/丸紅情報システムズ"
+   ]
+  },
+  {
+   "query": "site:note.com 丸紅情報システムズ",
+   "results": [
+    "https://note.com/loyal_quince4085/n/n16f9eb9729cc",
+    "https://note.com/sier_recruit/n/n48aede9ce698",
+    "https://note.com/loyal_quince4085/n/nae92af76fc28",
+    "https://note.com/loyal_quince4085/n/n9e9c8cca9a60",
+    "https://note.com/idigio_security/n/n8aa1b148c6fa",
+    "https://note.com/loyal_quince4085/n/nf84964eeeb2e?hl=en",
+    "https://note.com/loyal_quince4085/n/nf4aab5fd3d93",
+    "https://note.com/loyal_quince4085/n/nab7c58a729ea",
+    "https://note.com/nekota_toure/n/n39061a9e1de5",
+    "https://note.com/loyal_quince4085/n/n7a8c7cb702ca"
+   ]
+  },
+  {
+   "query": "site:x.com 丸紅情報システムズ",
+   "results": [
+    "https://x.com/cloud__watch/status/2118123652936040463",
+    "https://x.com/jpShareLab/status/2114468761206157425",
+    "https://x.com/yoshitaka_kitao/status/2117194756572811727",
+    "https://x.com/PRTIMES_STUP/status/2115990024814801280",
+    "https://x.com/shin_nihon_ins/status/2117080344822518249",
+    "https://x.com/syukawa2626/status/2033889762004897923",
+    "https://x.com/TomohiroNoza/status/2054076871785234586",
+    "https://x.com/PRTIMES_TECH/status/2115997689322295349",
+    "https://x.com/jpShareLab/status/2105546470707601585",
+    "https://x.com/hashtag/丸紅情報システムズ"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 丸紅情報システムズ",
+   "results": [
+    "https://jp.linkedin.com/company/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/company/marubeni-information-systems-usa-corporation/",
+    "https://www.linkedin.com/company/marubeni-information-systems-usa-corporation",
+    "https://jp.linkedin.com/in/naoki-natori-4410a4180",
+    "https://jp.linkedin.com/in/%E8%8B%B1%E6%A8%B9-%E7%AC%A0%E4%BA%95-8a1039242",
+    "https://jp.linkedin.com/in/%E9%9B%85%E7%BE%8E-%E4%BD%90%E8%97%A4-4305b72b9",
+    "https://jp.linkedin.com/in/%E9%9A%86%E4%B9%8B-%E6%89%8B%E5%A1%9A-11b34936b/en",
+    "https://jp.linkedin.com/in/kota-imai-ba58b312a",
+    "https://jp.linkedin.com/in/%E9%AB%98%E6%B4%8B-%E9%B9%BF%E5%B3%B6-2a150a175",
+    "https://jp.linkedin.com/in/chihiro-yamamoto-3a837b402"
+   ]
+  },
+  {
+   "query": "site:facebook.com 丸紅情報システムズ",
+   "results": [
+    "https://www.facebook.com/msys.page/",
+    "https://www.facebook.com/p/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-GOM-100022044202863/",
+    "https://www.facebook.com/msys.page/videos/?locale=hi_IN",
+    "https://www.facebook.com/jpShareLab/posts/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA%E3%82%B9%E3%83%88%E3%83%A9%E3%82%BF%E3%82%B7%E3%82%B9%E3%81%AE%E5%A4%A7%E5%9E%8Bfdm%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BCf870%E3%81%AE%E5%8F%96%E3%82%8A%E6%89%B1%E3%81%84%E3%82%92%E9%96%8B%E5%A7%8B-%E5%A4%A7%E5%9E%8B%E6%B2%BB%E5%B7%A5%E5%85%B7%E3%81%AE%E8%A3%BD%E4%BD%9C%E3%82%92%E5%8A%B9%E7%8E%87%E5%8C%96%E4%B8%B8%E7%B4%85i-digio%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA%E6%A0%AA%E5%BC%8F/1796712259122925/",
+    "https://www.facebook.com/idigio/posts/%E4%B8%B8%E7%B4%85i-digio%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AF%E3%81%84%E3%81%BE%E9%81%B8%E3%81%B6%E3%81%B9%E3%81%8D%E4%BB%AE%E6%83%B3%E5%8C%96%E5%9F%BA%E7%9B%A4-nutanix%E3%81%A8veeam%E3%81%A7%E7%B0%A1%E5%8D%98%E3%81%8B%E3%81%A4%E5%AE%89%E5%85%A8%E3%81%AA%E7%A7%BB%E8%A1%8C%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%A8%E9%A1%8C%E3%81%99%E3%82%8B%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%92%E9%96%8B%E5%82%AC%E4%BA%88%E5%AE%9A%E3%81%A7%E3%81%99%E8%BF%91%E5%B9%B4%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E4%BB%AE%E6%83%B3%E5%8C%96%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7/122202433466834855/",
+    "https://www.facebook.com/216513538389384",
+    "https://www.facebook.com/msys.page/posts/%E4%B8%B8%E7%B4%85i-digio%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7%E4%B8%8A%E7%94%B0-%E5%8F%B2%E5%A4%AB%E3%81%AF%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%ABcheck-point-software-technologies-l/1260164935576198/",
+    "https://www.facebook.com/idigio/posts/%E4%B8%B8%E7%B4%85i-digio%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E8%A3%BD%E9%80%A0%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AF%E3%82%B9%E3%83%88%E3%83%A9%E3%82%BF%E3%82%B7%E3%82%B9%E7%A4%BE%E8%A3%BD3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E6%9C%80%E6%96%B0%E6%A9%9F%E7%A8%AE%E3%81%A7%E3%81%82%E3%82%8Bf870-fdm%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E5%8F%96%E3%82%8A/122200086950834855/",
+    "https://www.facebook.com/idigio/?locale=ja_JP",
+    "https://www.facebook.com/msys.page/posts/1001281583300757/"
+   ]
+  },
+  {
+   "query": "丸紅情報システムズ note 社長",
+   "results": [
+    "https://note.com/nekota_toure/n/n39061a9e1de5",
+    "https://www.nikkei.com/article/DGXNZO54717270X00C13A5EB2000/",
+    "https://note.com/idigio_security/n/n8aa1b148c6fa",
+    "https://www.marubeni-idigio.com/company/marubeni-sys/profile/",
+    "https://www.nikkan.co.jp/articles/view/462250",
+    "https://note.com/diggle/n/n9d4d5f43c911",
+    "https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "https://www.nikkei.com/article/DGXZQODZ00019_W3A600C2000000/",
+    "https://www.marubeni-idigio.com/news/20240401sys/",
+    "https://ja.wikipedia.org/wiki/丸紅情報システムズ"
+   ]
+  },
+  {
+   "query": "丸紅情報システムズ X 投稿",
+   "results": [
+    "https://x.com/PRTIMES_TECH/status/2115997689322295349",
+    "https://markezine.jp/news/detail/16433",
+    "https://www.marubeni.com/jp/social/",
+    "https://www.marubeni-sys.com/",
+    "https://syukatsu-kaigi.jp/companies/116150/jobhunt_prompt_reports",
+    "https://x.com/Marubeni_Corp",
+    "https://www.the-miyanichi.co.jp/pressrelease/prtimes/1217075.html",
+    "https://www.marubeni-idigio.com/product/xfusion/",
+    "https://www.facebook.com/msys.page/",
+    "https://x.com/hashtag/丸紅情報システムズ"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "黒字・収益性": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）"
+ }
+}

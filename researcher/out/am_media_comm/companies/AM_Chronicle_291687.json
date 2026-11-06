@@ -1,0 +1,752 @@
+{
+ "name": "AM Chronicle",
+ "aliases": [
+  "AM Chronicle"
+ ],
+ "context": "海外・AMメディア（インド）",
+ "researched_at": "2026-11-06T17:10:55.765354+00:00",
+ "official_url": "https://amchronicle.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "規模": [
+   {
+    "quote": "India’s Skyroot Aerospace Tests 3D-Printed Vacuum Engine for Spaceflight",
+    "url": "https://amchronicle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In a significant leap for India’s private space sector, Skyroot Aerospace has successfully tested its 3D-printed Raman 2 engine equipped with a vacuum nozzle, marking the final flight-qualified iteration of…",
+    "url": "https://amchronicle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We invite you to stay connected, subscribe to our newsletter, follow us on social media, engage with our events, and participate in the evolving dialogue of additive, advanced manufacturing, and materials innovation.",
+    "url": "https://amchronicle.com/about-us/",
+    "pass": 1
+   }
+  ],
+  "読者・会員は誰か": [
+   {
+    "quote": "For decades, aluminum has been the “golden child” of the automotive and aerospace sectors—lightweight, abundant, and strong. However, it has always harbored a fundamental weakness: heat. At temperatures exceeding 200°C, conventional aluminum alloys lose their structural integrity, forcing engineers to…",
+    "url": "https://amchronicle.com/",
+    "pass": 1
+   }
+  ],
+  "AMの扱い": [
+   {
+    "quote": "Global Additive Manufacturing & 3D Printing Industry Insights Hub",
+    "url": "https://amchronicle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lodestar3D Announces Exclusive Partnership with Prodways Group: Revolutionising Ceramic 3D Printing in India",
+    "url": "https://amchronicle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ARCI and Raghu Vamsi Machine Tools Sign MoU to Advance Additive Manufacturing and Surface Engineering",
+    "url": "https://amchronicle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Breaking the Thermal Barrier: 3D Printing Research on High-Performance Aluminum Alloys Innovates a New Class of Alloys",
+    "url": "https://amchronicle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Making Milestones: 3D printing for a greener tomorrow",
+    "url": "https://amchronicle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nestlé embraces technology and innovation in 3D printing",
+    "url": "https://amchronicle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Addireen: Pioneering Copper Printing in Metal Additive Manufacturing",
+    "url": "https://amchronicle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Eaton Corporation’s Strategic Transition to In-House 3D Printing for Tooling Applications",
+    "url": "https://amchronicle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Imaginarium Helped Kaash Studio Scale with the Right 3D Printing Technology",
+    "url": "https://amchronicle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainable Production of Metal Powder for Additive Manufacturing with Bruce Bradshaw",
+    "url": "https://amchronicle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meeting Evolving Customer Demands in the Additive Manufacturing Industry with Tyler Reid",
+    "url": "https://amchronicle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printing Workshops at AMUG with Edward Graham",
+    "url": "https://amchronicle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Amandeep Hospitals Unveils North India’s First Hospital-Based 3D Printing and VR Facility",
+    "url": "https://amchronicle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intech Additive Solutions Enters Strategic Partnership with DN Solutions to Accelerate Metal 3D Printing Innovation",
+    "url": "https://amchronicle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "India’s pioneering metal additive manufacturing company, Intech Additive Solutions, has announced a major strategic partnership and equity investment agreement with South Korea’s leading machine tool manufacturer, DN Solutions, on March 27. A…",
+    "url": "https://amchronicle.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lodestar3D Announces Exclusive Partnership with Prodways Group: Revolutionising Ceramic 3D Printing in India",
+    "url": "https://amchronicle.com/events/",
+    "pass": 1
+   },
+   {
+    "quote": "ARCI and Raghu Vamsi Machine Tools Sign MoU to Advance Additive Manufacturing and Surface Engineering",
+    "url": "https://amchronicle.com/events/",
+    "pass": 1
+   },
+   {
+    "quote": "Breaking the Thermal Barrier: 3D Printing Research on High-Performance Aluminum Alloys Innovates a New Class of Alloys",
+    "url": "https://amchronicle.com/events/",
+    "pass": 1
+   },
+   {
+    "quote": "Making Milestones: 3D printing for a greener tomorrow",
+    "url": "https://amchronicle.com/events/",
+    "pass": 1
+   },
+   {
+    "quote": "Nestlé embraces technology and innovation in 3D printing",
+    "url": "https://amchronicle.com/events/",
+    "pass": 1
+   },
+   {
+    "quote": "Addireen: Pioneering Copper Printing in Metal Additive Manufacturing",
+    "url": "https://amchronicle.com/events/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Eaton Corporation’s Strategic Transition to In-House 3D Printing for Tooling Applications",
+    "url": "https://amchronicle.com/events/",
+    "pass": 1
+   },
+   {
+    "quote": "How Imaginarium Helped Kaash Studio Scale with the Right 3D Printing Technology",
+    "url": "https://amchronicle.com/events/",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainable Production of Metal Powder for Additive Manufacturing with Bruce Bradshaw",
+    "url": "https://amchronicle.com/events/",
+    "pass": 1
+   },
+   {
+    "quote": "Meeting Evolving Customer Demands in the Additive Manufacturing Industry with Tyler Reid",
+    "url": "https://amchronicle.com/events/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printing Workshops at AMUG with Edward Graham",
+    "url": "https://amchronicle.com/events/",
+    "pass": 1
+   },
+   {
+    "quote": "Lodestar3D Announces Exclusive Partnership with Prodways Group: Revolutionising Ceramic 3D Printing in India",
+    "url": "https://amchronicle.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "ARCI and Raghu Vamsi Machine Tools Sign MoU to Advance Additive Manufacturing and Surface Engineering",
+    "url": "https://amchronicle.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Breaking the Thermal Barrier: 3D Printing Research on High-Performance Aluminum Alloys Innovates a New Class of Alloys",
+    "url": "https://amchronicle.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Making Milestones: 3D printing for a greener tomorrow",
+    "url": "https://amchronicle.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Nestlé embraces technology and innovation in 3D printing",
+    "url": "https://amchronicle.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Addireen: Pioneering Copper Printing in Metal Additive Manufacturing",
+    "url": "https://amchronicle.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Eaton Corporation’s Strategic Transition to In-House 3D Printing for Tooling Applications",
+    "url": "https://amchronicle.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "How Imaginarium Helped Kaash Studio Scale with the Right 3D Printing Technology",
+    "url": "https://amchronicle.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainable Production of Metal Powder for Additive Manufacturing with Bruce Bradshaw",
+    "url": "https://amchronicle.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Meeting Evolving Customer Demands in the Additive Manufacturing Industry with Tyler Reid",
+    "url": "https://amchronicle.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printing Workshops at AMUG with Edward Graham",
+    "url": "https://amchronicle.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We cover a wide range of topics related to additive manufacturing, including:",
+    "url": "https://amchronicle.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Lodestar3D Announces Exclusive Partnership with Prodways Group: Revolutionising Ceramic 3D Printing in India",
+    "url": "https://amchronicle.com/media-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "ARCI and Raghu Vamsi Machine Tools Sign MoU to Advance Additive Manufacturing and Surface Engineering",
+    "url": "https://amchronicle.com/media-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "Breaking the Thermal Barrier: 3D Printing Research on High-Performance Aluminum Alloys Innovates a New Class of Alloys",
+    "url": "https://amchronicle.com/media-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "Making Milestones: 3D printing for a greener tomorrow",
+    "url": "https://amchronicle.com/media-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "Nestlé embraces technology and innovation in 3D printing",
+    "url": "https://amchronicle.com/media-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "Addireen: Pioneering Copper Printing in Metal Additive Manufacturing",
+    "url": "https://amchronicle.com/media-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Eaton Corporation’s Strategic Transition to In-House 3D Printing for Tooling Applications",
+    "url": "https://amchronicle.com/media-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "How Imaginarium Helped Kaash Studio Scale with the Right 3D Printing Technology",
+    "url": "https://amchronicle.com/media-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainable Production of Metal Powder for Additive Manufacturing with Bruce Bradshaw",
+    "url": "https://amchronicle.com/media-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "Meeting Evolving Customer Demands in the Additive Manufacturing Industry with Tyler Reid",
+    "url": "https://amchronicle.com/media-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printing Workshops at AMUG with Edward Graham",
+    "url": "https://amchronicle.com/media-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "AM Chronicle is a neutral 360° Digital Platform providing knowledge sharing and business networking opportunities for the Additive Manufacturing (AM) industry. We keep you updated with the Global AM and 3D printing trends with a special focus on the fast moving India, APAC, Middle East and Africa regions.",
+    "url": "https://amchronicle.com/media-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "We believe that additive manufacturing has the potential to revolutionize the way we design, manufacture, and produce goods, and we are committed to helping industry stakeholders stay informed.",
+    "url": "https://amchronicle.com/media-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "With our Additive Manufacturing application driven focus we help you take your brand across a wide range of market verticals on multiple digital channels.",
+    "url": "https://amchronicle.com/media-kit/",
+    "pass": 1
+   }
+  ],
+  "稼ぎ方": [
+   {
+    "quote": "Media Kit - AM Chronicle",
+    "url": "https://amchronicle.com/media-kit/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Media Kit - AM Chronicle — Media Kit - AM Chronicle AM Chronicle https://amchronicle.com > media-kit",
+    "url": "https://amchronicle.com/media-kit/",
+    "pass": 3
+   },
+   {
+    "quote": "AM Chronicle — AM Chronicle AM Chronicle https://amchronicle.com",
+    "url": "https://amchronicle.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AM Chronicle | LinkedIn — AM Chronicle | LinkedIn LinkedIn India https://in.linkedin.com > amchronicle",
+    "url": "https://in.linkedin.com/company/amchronicle",
+    "pass": 3
+   },
+   {
+    "quote": "AM Chronicle (@am_chronicle) • Instagram photos and videos — AM Chronicle (@am_chronicle) • Instagram photos and videos Instagram https://www.instagram.com > am_chr...",
+    "url": "https://www.instagram.com/am_chronicle/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "3:00 AM Reading The Wind-Up Bird Chronicle ｜ハル - note 3:00 AM Reading The Wind-Up Bird Chronicle ｜ハル - note note https://note.com > 人文・思想 > 哲学",
+    "url": "https://note.com/haruhiko_writes/n/n8ecb0e5d264b?hl=en",
+    "pass": 3
+   }
+  ],
+  "運営母体": [
+   {
+    "quote": "This is also an endearing part of being human.",
+    "url": "https://note.com/haruhiko_writes/n/n8ecb0e5d264b?hl=en",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "But what if I were a salesman, for example?",
+    "url": "https://note.com/haruhiko_writes/n/n8ecb0e5d264b?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "3:00 AM Reading The Wind-Up Bird Chronicle｜HARUHIKO",
+    "url": "https://note.com/haruhiko_writes/n/n8ecb0e5d264b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3:00 AM Reading The Wind-Up Bird Chronicle",
+    "url": "https://note.com/haruhiko_writes/n/n8ecb0e5d264b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I will state this clearly: I overslept.",
+    "url": "https://note.com/haruhiko_writes/n/n8ecb0e5d264b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Yesterday, I wrote a note like this.",
+    "url": "https://note.com/haruhiko_writes/n/n8ecb0e5d264b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I don't look at my smartphone at night because I want to read books! Bam!!",
+    "url": "https://note.com/haruhiko_writes/n/n8ecb0e5d264b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Having said that, now I'm the one whose sleep is being disrupted by a book.",
+    "url": "https://note.com/haruhiko_writes/n/n8ecb0e5d264b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is what it means to be human, isn't it?",
+    "url": "https://note.com/haruhiko_writes/n/n8ecb0e5d264b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It's just so endearing.",
+    "url": "https://note.com/haruhiko_writes/n/n8ecb0e5d264b?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "AM Chronicle | LinkedIn AM Chronicle | LinkedIn LinkedIn India https://in.linkedin.com > amchronicle",
+    "url": "https://in.linkedin.com/company/amchronicle",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "In case you missed today's Chronicle : The E-edition is ... In case you missed today's Chronicle : The E-edition is ... Facebook https://www.facebook.com > ChronicleTelegram > posts",
+    "url": "https://www.facebook.com/ChronicleTelegram/posts/in-case-you-missed-todays-chronicle-the-e-edition-is-available-seven-days-a-week/1620775633389697/",
+    "pass": 3
+   },
+   {
+    "quote": "Chronicle • Push • Jumper • I Am Number Four – All built for ... Chronicle • Push • Jumper • I Am Number Four – All built for ... Facebook https://www.facebook.com > cinemagicuniverse > posts",
+    "url": "https://www.facebook.com/cinemagicuniverse/posts/remember-when-studios-actually-tried-original-superhero-movies-with-real-potenti/1836747191074479/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://amchronicle.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amchronicle.com/events/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amchronicle.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amchronicle.com/media-kit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amchronicle.com/cdn-cgi/l/email-protection",
+    "status": "http_404",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://chronicle-inc.net/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000019.000161451.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crn-g.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://k-chronicle.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/3010001266834",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://marketing.houstonchronicle.com/about/mediakit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aabb.org/docs/default-source/default-document-library/services/aabb-media-kit-rate-card.pdf?sfvrsn=847afcbb_20",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://chronicle.brightspotcdn.com/53/5d/c2d7b6c344578f0a51a25b09e74d/che-recruitment-rates.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://marketing.sfgate.com/resources/mediakit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://in.linkedin.com/company/amchronicle",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/am_chronicle/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://subscription.houstonchronicle.com/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://indianacapitalchronicle.com/2026/09/04/weeding-through-your/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://in.linkedin.com/company/amchronicle",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/global-am-market-shows-12-growth-to-4-5bn-in-q2-255451/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/325212/alloy-enterprises-is-being-acquired-as-am-consolidation-continues/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketingsolutions.philanthropy.com/sponsorship-opportunities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chronicle.com/page/advertising-and-sponsorship-terms-and-conditions/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://alachuachronicle.com/sponsorship/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.chronicleonline.com/site/forms/sponsor_request/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/haruhiko_writes/n/n8ecb0e5d264b?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://in.linkedin.com/company/amchronicle",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ChronicleTelegram/posts/in-case-you-missed-todays-chronicle-the-e-edition-is-available-seven-days-a-week/1620775633389697/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cinemagicuniverse/posts/remember-when-studios-actually-tried-original-superhero-movies-with-real-potenti/1836747191074479/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AM Chronicle 会社概要 運営 設立",
+   "results": [
+    "https://chronicle-inc.net/about",
+    "https://prtimes.jp/main/html/rd/p/000000019.000161451.html",
+    "https://crn-g.jp/company/outline/",
+    "https://k-chronicle.com/about/",
+    "https://compalyze.co.jp/company/3010001266834",
+    "https://podcasts.apple.com/us/channel/podcast-studio-chronicle/id6468855112",
+    "https://www.am-teams.com/holdings",
+    "https://jp.history.com/company/",
+    "https://www.activegamingmedia.com/index.php/about/",
+    "https://ja.wikipedia.org/wiki/Am_(芸能事務所)"
+   ]
+  },
+  {
+   "query": "AM Chronicle 広告 料金 OR media kit OR rate card",
+   "results": [
+    "https://marketing.houstonchronicle.com/about/mediakit/",
+    "https://amchronicle.com/media-kit/",
+    "https://www.aabb.org/docs/default-source/default-document-library/services/aabb-media-kit-rate-card.pdf?sfvrsn=847afcbb_20",
+    "https://chronicle.brightspotcdn.com/53/5d/c2d7b6c344578f0a51a25b09e74d/che-recruitment-rates.pdf",
+    "https://marketing.sfgate.com/resources/mediakit",
+    "https://www.chronicle.com/marketing-solutions/adspecs",
+    "https://www.austinchronicle.com/wp-content/uploads/mediakit/Austin_Chronicle_Media_Kit.pdf",
+    "https://media-index.kochava.com/ad_partners/houston-chronicle",
+    "https://columbiachronicle.com/infobox/37405/",
+    "https://en.wikipedia.org/wiki/Rate_card"
+   ]
+  },
+  {
+   "query": "AM Chronicle 会員数 OR 読者数 OR subscribers OR readers",
+   "results": [
+    "https://amchronicle.com/",
+    "https://in.linkedin.com/company/amchronicle",
+    "https://www.instagram.com/am_chronicle/",
+    "https://subscription.houstonchronicle.com/",
+    "https://indianacapitalchronicle.com/2026/09/04/weeding-through-your/",
+    "https://apps.apple.com/us/app/the-san-francisco-chronicle/id423260205",
+    "https://www.inma.org/blogs/conference/post.cfm/san-francisco-chronicle-builds-resilience-through-diversification-and-bold-experimentation",
+    "https://subscription.sfchronicle.com/",
+    "https://www.chronicle.com/page/subscription-account-faq",
+    "https://www.nbcnews.com/pop-culture/pop-culture-news/a03-security-breach-readers-lean-on-community-rcna606894"
+   ]
+  },
+  {
+   "query": "AM Chronicle 売上 OR revenue OR acquired",
+   "results": [
+    "https://amchronicle.com/",
+    "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "https://in.linkedin.com/company/amchronicle",
+    "https://3dprintingindustry.com/news/global-am-market-shows-12-growth-to-4-5bn-in-q2-255451/",
+    "https://3dprint.com/325212/alloy-enterprises-is-being-acquired-as-am-consolidation-continues/",
+    "https://www.editorandpublisher.com/stories/the-chronicle-telegram-and-medina-gazette-acquired-by-medianews-group,264112",
+    "https://additivemanufacturingresearch.com/news/3d-printing-markets-totaled-16b-in-cy-2025-growing-to-57b-in-2034-am-research-publishes-2025-annual-and-q4-3dp-am-market-data-and-insights/",
+    "https://www.sfchronicle.com/projects/2026/chronicle-200-bay-area-companies/",
+    "https://oregoncapitalchronicle.com/2026/10/20/umatilla-considers-emergency-over-lost-revenue-from-gov-kotek-data-center-permit-pause/",
+    "https://en.wikipedia.org/wiki/Revenue"
+   ]
+  },
+  {
+   "query": "AM Chronicle スポンサー OR sponsorship OR 協賛",
+   "results": [
+    "https://marketingsolutions.philanthropy.com/sponsorship-opportunities",
+    "https://www.chronicle.com/page/advertising-and-sponsorship-terms-and-conditions/",
+    "https://alachuachronicle.com/sponsorship/",
+    "https://www.chronicleonline.com/site/forms/sponsor_request/",
+    "https://amchronicle.com/",
+    "https://business.houstonlgbtchamber.com/event-calendar/details/community-conversations-luncheon-with-nancy-meyer-publisher-houston-chronicle-625321",
+    "https://crestchronicleawards.com/sponsor.php",
+    "https://arminstitute-my.sharepoint.us/:b:/g/personal/arm_workspace_arminstitute_org/IQCtCo2V0IN8SZuIjGFwGxHdAV42zLV1l0DSouT2bPKdf40?e=sf8aHc",
+    "https://www.westerlylibrary.org/chronicle/chronicle-westerly-library-wilcox-park-digital-publication",
+    "https://www.marke-media.net/whitepaper/ad-031/"
+   ]
+  },
+  {
+   "query": "site:note.com AM Chronicle",
+   "results": [
+    "https://note.com/369chronicle/n/n6d694f6138e4?hl=en",
+    "https://note.com/haruhiko_writes/n/n8ecb0e5d264b?hl=en",
+    "https://note.com/anna_nekomeishi/n/ne2cf663c8213?hl=en",
+    "https://note.com/dull04/n/nb5ed28a4777f?hl=en",
+    "https://note.com/yuki_game732/n/ne594a47425c0?hl=en",
+    "https://note.com/bansobooks/n/n43180ffd3703?hl=en",
+    "https://note.com/bunbou/n/n9515ea1407fe?hl=en",
+    "https://note.com/sada810/n/ncbda9880a872?hl=en",
+    "https://note.com/johro_rogue/n/na07d4b39f930?hl=en",
+    "https://note.com/369chronicle/n/na261f517c178?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com AM Chronicle",
+   "results": [
+    "https://x.com/rowlsmanthorpe/status/2102331331489218968",
+    "https://x.com/karinfischer/status/2118094471103754521",
+    "https://x.com/Chronicle5/status/2116870451519434873",
+    "https://x.com/HoustonChron/status/2114497271697936652",
+    "https://x.com/DandC/status/2117610295979868445",
+    "https://x.com/_PWChronicle/status/2116332426356224495",
+    "https://x.com/CardChronicle",
+    "https://x.com/chronicleEZ/status/1982024770846654640",
+    "https://x.com/HoustonChron/status/2117670694511137013",
+    "https://x.com/AMChronicle"
+   ]
+  },
+  {
+   "query": "site:linkedin.com AM Chronicle",
+   "results": [
+    "https://in.linkedin.com/company/amchronicle",
+    "https://in.linkedin.com/in/achandavarkar",
+    "https://in.linkedin.com/company/additive-manufacturing-technology",
+    "https://www.linkedin.com/pulse/2022-week-30-metal-additive-manufacturing-industry-am-chandavarkar",
+    "https://www.linkedin.com/pulse/2022-week-48-amtech-sets-tone-advancing-additive-aditya-chandavarkar",
+    "https://www.linkedin.com/in/shea-vance",
+    "https://www.linkedin.com/pulse/3d-printing-india-tracing-journey-envisioning-future-dharani-dharan-get5c",
+    "https://ca.linkedin.com/in/john-evans-1a346624",
+    "https://in.linkedin.com/in/bajajlalit",
+    "https://am.linkedin.com/company/amchronicle"
+   ]
+  },
+  {
+   "query": "site:facebook.com AM Chronicle",
+   "results": [
+    "https://www.facebook.com/ChronicleTelegram/posts/in-case-you-missed-todays-chronicle-the-e-edition-is-available-seven-days-a-week/1620775633389697/",
+    "https://www.facebook.com/cinemagicuniverse/posts/remember-when-studios-actually-tried-original-superhero-movies-with-real-potenti/1836747191074479/",
+    "https://www.facebook.com/groups/1118649319089098/posts/2192279248392761/",
+    "https://www.facebook.com/AncientOakCellars/videos/i-am-incredibly-honored-that-esther-mobley-and-the-san-francisco-chronicle-chose/1999451483792522/",
+    "https://www.facebook.com/SFChronicle/posts/that-smoky-smell-hanging-over-san-francisco-and-parts-of-the-bay-area-wednesday-/1763974592440610/",
+    "https://www.facebook.com/groups/654184329472860/",
+    "https://m.facebook.com/gychronicle/videos/chronicle-morning-news/557870038368428/?locale=nl_NL&_rdr",
+    "https://www.facebook.com/chronicle5/videos/in-1997-former-chronicle-anchor-peter-mehegan-crossed-the-atlantic-on-the-concor/1135873965503712/",
+    "https://www.facebook.com/100057133252845/videos/there-was-nothing-quite-like-tuning-the-dial-on-an-old-am-radio-searching-for-yo/2512570009239258/",
+    "https://www.facebook.com/amchronicle/"
+   ]
+  },
+  {
+   "query": "AM Chronicle note 社長",
+   "results": [
+    "https://note.com/t_nomura/n/n43e514e703b4",
+    "https://podcasts.apple.com/us/channel/podcast-studio-chronicle/id6468855112",
+    "https://x.com/nmrtkfm/status/2005068266277142810",
+    "https://chronicle-inc.net/",
+    "https://www.youtube.com/watch?v=DUEtlxl1XKA",
+    "https://www.ihacpa.gov.au/sites/default/files/2022-08/icd-10-am_chronicle_-_eleventh_edition.pdf",
+    "https://www.youtube.com/playlist?list=PLk5ZrwLrMdF6rB_CCKmtEvxhHeLkNbXvo",
+    "https://www.dukechronicle.com/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ]
+  },
+  {
+   "query": "AM Chronicle X 投稿",
+   "results": [
+    "https://x.com/chronicleEZ",
+    "https://www.reddit.com/r/digimon/comments/d67lap/digimon_chronicle_x_update_chapter_16_with/",
+    "https://twitter.com/iba_info/status/2114914994978803825",
+    "https://www.youtube.com/channel/UCSufzRoAWGtm4370hkfkjzA",
+    "https://gundam-official.com/gundam-x/campaign/",
+    "https://x.com/ArcheAgeChron",
+    "https://insights.spovisor.com/x-articles-long-form-guide/",
+    "https://note.com/socialselling/n/n80449faef8e2",
+    "https://x.com/AMChronicles",
+    "https://amchronicle.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）",
+  "設立": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）",
+  "代表者": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）",
+  "株主構成": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）",
+  "黒字・収益性": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）",
+  "存続": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）"
+ }
+}

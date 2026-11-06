@@ -1,0 +1,3425 @@
+{
+ "name": "三菱重工業株式会社",
+ "aliases": [
+  "三菱重工",
+  "MHI"
+ ],
+ "context": "大手の内製（航空・防衛・エネルギー）",
+ "researched_at": "2026-11-06T17:17:57.222251+00:00",
+ "official_url": "https://www.mhi.com/jp",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創立年月日",
+    "value": "創立年月日：1884年（明治17年）7月7日 沿革",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1950年（昭和25年）1月11日",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1950年01月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1950年（ 昭和 25年）1月11日 （中日本重工業株式会社） （創立： 1884年 （ 明治 17年）7月7日）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "＜丸の内＞ 地図 〒100-8332　東京都千代田区丸の内三丁目2番3号（注） 電話　03-6275-6200（代表） 本店登記上の住所 ＜田町＞ 地図 〒108-8015　東京都港区芝五丁目33番11号",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒220-8401 横浜市西区みなとみらい三丁目3番1号 KDX 横浜みなとみらいタワー",
+    "url": "https://www.mhi.com/jp/company/overview/museum/minatomirai/about_museum",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都千代田区丸の内三丁目２番３号\n丸の内二重橋ビル",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   },
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 100-8332 東京都 千代田区 丸の内 三丁目2番3号 （ 丸の内二重橋ビル ） [ 注釈 1 ] 北緯35度40分39.7秒 東経139度45分42.5秒 ﻿ / ﻿ 北緯35.677694度 東経139.761806度 ﻿ / 35.677694; 139.761806 座標 : 北緯35度40分39.7秒 東経139度45分42.5秒 ﻿ / ﻿ 北緯35.677694度 東経139.761806度 ﻿ / 35.677694; 139.761806",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "取締役社長 CEO",
+    "value": "伊藤　栄作（いとう　えいさく）",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 1
+   },
+   {
+    "label": "CEO",
+    "value": "Chief Executive Officer",
+    "url": "https://www.mhi.com/jp/company/overview/officers",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "伊藤　栄作",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "加口仁 （代表取締役兼 副社長 執行役員 ） 小澤壽人 （代表取締役兼常務執行役員兼 CFO ）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上収益（連結）",
+    "value": "49,741億円（2025年4月1日～2026年3月31日）",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 1
+   },
+   {
+    "label": "売上高（単独）",
+    "value": "23,962億円（2025年4月1日～2026年3月31日）",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "連結：5兆271億7600万円 単独：1兆9471億7800万円 （2025年3月期） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結：7万8793名 単独：2万3373名 （2026年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "主要 株主",
+    "value": "日本マスタートラスト信託銀行 （信託口） 15.6 % 日本カストディ銀行 （信託口） 5.0 % 明治安田生命保険相互会社 2.3 % STATE STREET BANK WEST CLIENT - TREATY 505234 1.8 % 三菱重工持株会 1.6 % THE BANK OF NEW YORK MELLON 140044 1.0 % （2023年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "参入しない・慎重な理由の発言": [
+   {
+    "quote": "1884年の創立以来、社会課題に真摯に向き合い、人々の暮らしを支えてきました",
+    "url": "https://www.mhi.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "たとえばeコマース市場の拡大により最適化へのニーズが世界規模で高まっている倉庫や工場の物流現場へ、レーザー誘導方式無人フォークリフトや自動倉庫など、物流機器と物流システムの両面から最適な課題解決策を提供します",
+    "url": "https://www.mhi.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "私たちはより良い未来の実現のため確かなものづくりの技術で社会課題を解決し",
+    "url": "https://www.mhi.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/business/products-services/energy-environment",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンニュートラル社会に向けた取り組み、及びDX推進による効率化・自動化・省人化ニーズの高まりを受け、三菱重工は、環境課題と社会ニーズに応えるべく多様な製品の開発と事業展開に取り組んでいます",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー効率の高い快適な空間を創出する「冷熱事業」では、世界的な脱炭素化ニーズの高まりを受けたヒートポンプ製品市場の需要拡大に対し新機種投入で応え、急成長しているデータセンター向けに高性能ターボ冷凍機の開発を推進しています",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/company/business-area/nuclear",
+    "pass": 1
+   },
+   {
+    "quote": "今日、直面する課題に真摯に向き合い、",
+    "url": "https://www.mhi.com/jp/company/business-area/nuclear",
+    "pass": 1
+   },
+   {
+    "quote": "水中航行型原子炉容器検査ロボットで原子炉を安全管理",
+    "url": "https://www.mhi.com/jp/company/business-area/nuclear",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/company/location/hiroshimaw",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/company/location/yokohamaw",
+    "pass": 1
+   },
+   {
+    "quote": "高い技術と豊かな経験でLNG（Liquefied Natural Gas、液化天然ガス）船、艦艇、フェリー、客船、作業船、海洋構造物等の修繕・改造や、定期検査・中間検査および各種工事で多くの実績をあげ、常に業界のトップクラスにあります",
+    "url": "https://www.mhi.com/jp/company/location/yokohamaw",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/company/location/sagamiharaw",
+    "pass": 1
+   },
+   {
+    "quote": "近年、暮らしや産業のあらゆる場面で排出される二酸化炭素（CO₂）の影響による地球温暖化・気候変動が、⼈類の共通の課題であるということが認識され、この対策のために政策的、社会的に脱炭素化を進めカーボンニュートラルを達成することが、世界各国の共通目標となっています",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/business/products-services",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工業は、多様な製品・サービスを通じて社会課題に応え、持続可能な未来づくりに貢献しています",
+    "url": "https://www.mhi.com/jp/business/products-services",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/business/products-services/building-equipment-structures",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/business/products-services/industrial-machinery",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/business/products-services/logistics-material-handling",
+    "pass": 1
+   },
+   {
+    "quote": "物流現場の課題解決に貢献するため、機械と機械、また人と機械が協調する「物流の知能化」を推進しています",
+    "url": "https://www.mhi.com/jp/business/products-services/logistics-material-handling",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/business/products-services/mobility",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/business/products-services/ships-ocean",
+    "pass": 1
+   },
+   {
+    "quote": "コスト効率の高い海上輸送に貢献するデッキクレーン・甲板機器",
+    "url": "https://www.mhi.com/jp/business/products-services/ships-ocean",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/business/products-services/aviation",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/business/technology/yhh",
+    "pass": 1
+   },
+   {
+    "quote": "10MW級ターボ冷凍機「JHT-Z270I」が米国でETL・AHRI認証を取得 AIデータセンター向け電力・冷却ソリューションの米国展開を加速",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "フランス電力（EDF）原子力発電所向け取替用蒸気発生器（SG）3基を納入完了 ～フランス原子力規制当局の認証を取得～",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工とGreen AI、産業分野のエネルギー効率改善で協業開始 ～両社の技術とノウハウを掛け合わせ、産業分野のCO₂削減を新たなステージへ～",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "台湾高速鉄道の総合車両工場向けに車両の検査・修繕設備・機器を受注",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "インド製グリーン水素・アンモニアを活用した脱炭素バリューチェーンにてコストダウンの可能性を提示 経済産業省「グローバルサウス未来志向型共創等事業」で経済性を評価",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "長崎海運人材育成協会向けCTVのウォータージェット推進装置を受注 国内初の訓練専用洋上タワーを用いた作業員育成に貢献",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工グループは、エンジニアリングとものづくりのグローバルリーダーとして、 1884年の創立以来、社会課題に真摯に向き合い、人々の暮らしを支えてきました",
+    "url": "https://www.mhi.com/jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/company/overview/vision",
+    "pass": 1
+   },
+   {
+    "quote": "変化する社会課題の解決に挑み、人々の豊かな暮らしを実現する",
+    "url": "https://www.mhi.com/jp/company/overview/vision",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/company/overview/organization.html",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得（ISO45001）",
+    "url": "https://www.mhi.com/jp/business/products-services/industrial-machinery/compressors-mechanical-turbines",
+    "pass": 1
+   },
+   {
+    "quote": "その上、二井谷たちは二つの大きな課題を抱えていた",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタでの造形が可能になれば、加工時間を短縮し、製品コストを低減できるのだ",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "だが、いずれの方法も空気の排気や置換に時間がかかり、設備が大きくなるのでコストが高くなる",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "アイデアの実現への課題となったのは流体技術だ",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "彼らは前例のない中で、レーザの出力や粉末の供給量などさまざまな要素のノウハウを蓄積し、性能を評価する要となり、開発を支えた",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "そのうえ、サプライチェーン分断のリスクは低減され、生産・輸送の時間は短縮される",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "の最高技術責任者である二井谷春彦氏にお話を聞きました",
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "pass": 3
+   },
+   {
+    "quote": "当社が独自開発したこのシステムを使用することで、近い将来、完成品を破壊せずに品質保証できるようになると考えています",
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "pass": 3
+   },
+   {
+    "quote": "また、技術が高度になり、コストが従来の製造技術と同程度になれば、自動車などの商業分野でも活用されるようになるでしょう",
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 造形物の早期実用化と量産化に向けた積層造形ソリューションを提供",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   },
+   {
+    "quote": "本装置が採用するBJT方式は非常に精緻な造形が可能である上、量産志向が高いという特長を持っています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは製造プロセスを革新すると注目される一方で、製造物の製作難易度が高いことや品質保証などが課題になっています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回のサービス拡大を機に、装置の販売ならびにノウハウ提供など積層造形に関するソリューション提案に注力し、製造現場へのいち早い適用を推し進めていきます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回の協業契約により、AD社が培ったAM向けの粉末組成・製造ノウハウを当社独自技術と組み合わせることで金属積層造形に適した最適な粉末を提供することが可能となり、造形製品の性能向上に大きく役立つことが期待できます",
+    "url": "https://power.mhi.com/jp/news/20201127.html",
+    "pass": 3
+   },
+   {
+    "quote": "またオンラインによる見学会の実施も開始しており、新型コロナウイルスの感染リスクを負うことなく最新技術をご覧いただけます",
+    "url": "https://power.mhi.com/jp/news/20201127.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工グループは、エンジニアリングとものづくりのグローバルリーダーとして、 1884年の創立以来、 社会課題に真摯に向き合い、人々の暮らしを支えてきました",
+    "url": "https://power.mhi.com/jp/news/20201127.html",
+    "pass": 3
+   },
+   {
+    "quote": "この機能を利用すると造形物の大きさに制限が無くなるため、航空宇宙産業などで課題となっている大型部品の造形に適用できます",
+    "url": "https://www.nikkei.com/article/DGXLRSP509733_W9A510C1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "多様な素材からなる高機能な製品需要は、軽量化に対応し続ける航空機産業や、最先端技術を求め続ける自動車産業において世界的に高まるものと見込まれています",
+    "url": "https://www.nikkei.com/article/DGXLRSP509733_W9A510C1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工工作機械は、金属3Dプリンター実用化の課題を解決し、今後は高機能材料の造形プロセスの提案により金属3Dプリンターの認知度向上と需要開拓に力を注ぎ、在来の切削・研削加工技術では限界のあるものづくり領域を金属積層造形という新アプローチで押し広げていきます",
+    "url": "https://www.nikkei.com/article/DGXLRSP509733_W9A510C1000000/",
+    "pass": 3
+   }
+  ],
+  "客の業界": [
+   {
+    "quote": "三菱重工機械システム、AIによる段ボールシートの反り制御装置を世界で初めて開発 最適な機械設定を予測可能、国内外で本格販...",
+    "url": "https://www.mhi.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工グループは、エンジニアリングとものづくりのグローバルリーダーとして、",
+    "url": "https://www.mhi.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工グループは、発電システムのリーディングサプライヤーとして、経済的で信頼性の高い、クリーンなエネルギーを世界中にお届けしています",
+    "url": "https://www.mhi.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工グループは、快適な生活の実現に力を注いでいます",
+    "url": "https://www.mhi.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "省エネでお手入れが簡単なエアコンや、世界中の新鮮な食品を運ぶトラック用冷凍機、ビル、病院、イベントホールなどの大空間の空調やエネルギーを快適に支えるターボ冷凍機や発電システムなど、幅広い専門知識を駆使して豊かな暮らしをサポートしています",
+    "url": "https://www.mhi.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "排出ガス処理技術のパイオニアとして、40年以上も日本の環境技術の発展をリードしてきた三菱重工グループ",
+    "url": "https://www.mhi.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工グループの多様な製品は、世界の産業と物流をさまざまな分野で支えています",
+    "url": "https://www.mhi.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工グループのAGTは世界各地の空港内の移動や都市間交通の手段として世界中で利用されています",
+    "url": "https://www.mhi.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工グループは、発電用タービン、CO",
+    "url": "https://www.mhi.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "回収、造船、航空、防衛、宇宙などにわたる500以上の製品・技術を保有しています",
+    "url": "https://www.mhi.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "陸・海・空、そして宇宙に、あなたの力を発揮できる舞台があります",
+    "url": "https://www.mhi.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工の創立は古く明治17年（1884年）までさかのぼります",
+    "url": "https://www.mhi.com/jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和9年（1934年)には、船舶のほかに重機、航空機、鉄道車両を加え、社名を三菱重工業株式会社に変えて新しいスタートを切りました",
+    "url": "https://www.mhi.com/jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "第二次大戦後の昭和25年（1950年）、財閥の解体を目的とした過度経済力集中排除法に従い、一時的に西日本重工業株式会社、中日本重工業株式会社、東日本重工業株式会社の3社に分割されましたが、昭和39年（1964年）にはこの3社が合併し、新生三菱重工業株式会社が誕生しました",
+    "url": "https://www.mhi.com/jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお昭和45年（1970年）には自動車部門が独立し、三菱自動車工業株式会社として発足、自動車の製造・販売をおこなっています",
+    "url": "https://www.mhi.com/jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本の近代化とともに、三菱重工は出発しました",
+    "url": "https://www.mhi.com/jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "風力発電、地熱発電、水力発電などの再生可能エネルギーを活用する発電設備",
+    "url": "https://www.mhi.com/jp/business/products-services/energy-environment",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギーの安定供給と環境負荷低減を両立する重要性が世界的に高まる中、三菱重工は実現可能性の高いエナジートランジションに積極的に取り組んでいます",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "の「航空エンジン事業」、省エネや脱炭素化に向けた燃料転換というグローバル経済の潮流に応える「舶用機械事業」、オイル＆ガス・石油化学プラント向けの豊富な実績を持ち、CCS・水素関連といった新たなニーズにも対応する「コンプレッサ事業」、および「風力発電システム事業」において、製品・サービスの両面から安定的なインフラの提供を支えています",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "これらの事業を通じて、エネルギーの安定供給とカーボンニュートラルの両立実現に貢献しています",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンニュートラル社会に向けた取り組み、及びDX推進による効率化・自動化・省人化ニーズの高まりを受け、三菱重工は、環境課題と社会ニーズに応えるべく多様な製品の開発と事業展開に取り組んでいます",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "「機械システム事業」では、モビリティ・試験装置分野において、自動車の自動運転を支援する各種インフラ設備および自動運転車の開発を支援する統合試験設備に取り組み、産業ソリューション分野ではDXを活用した省人化・自動化・アフターサービスの拡大を目指します",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "低炭素化・脱炭素化社会の進行が加速し省エネ化製品や電動化製品の市場が拡大する中、三菱重工は、多様な製品・ソリューションを通じて社会のインフラと快適で便利な暮らしを支えています",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー効率の高い快適な空間を創出する「冷熱事業」では、世界的な脱炭素化ニーズの高まりを受けたヒートポンプ製品市場の需要拡大に対し新機種投入で応え、急成長しているデータセンター向けに高性能ターボ冷凍機の開発を推進しています",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、自動車のパワートレインの多様化に応える「ターボチャージャ事業」ではゼロエミッション車両への移行に対応した燃料電池システム用電動コンプレッサの開発・受注活動を進め、システム全体の効率向上に寄与しています",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "「データセンター関連事業」では、「エンジン事業」の常用・非常用発電装置に加えて、「冷熱事業」の高性能ターボ冷凍機を搭載した冷却システム、電力消費量の増加に対応した高効率配電、およびデジタルソリューションを通じてエネルギー供給の最適化と効率化を提供していきます",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工は、民間航空機、防衛、宇宙の各分野を通じて国家レベルのプロジェクトに取り組み、世界中の人々の安心・安全に貢献しています",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "「航空機事業」では、世界有数の航空機メーカーに、民間機の主要構造である主翼や胴体を供給するなど、国際共同開発・製造パートナーとして、世界屈指の規模や技術力を有しています",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "またアフターマーケット事業においては、既存事業のさらなる生産性向上に加え他機種の取り込みなど規模拡大と収益力向上を図り、エアラインによる航空機運行の根幹を支える存在として、今後も信頼性の高い技術に磨きをかけ、世界中の人々に快適な空の旅を届けていきます",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "「防衛事業」では、国の要請に基づき、数多くの防衛装備品の開発・生産・運用支援に携わっています",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "スタンドオフ防衛能力や無人アセット防衛能力等の抜本的強化、従来装備品の能力向上や周辺分野の拡大等に応えることで、防衛のリーディングカンパニーとして、安全・安心な社会を支え続けています",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "また「宇宙事業」では、日本の宇宙開発初期からロケット製造の中心的な役割を担っている当社は、ロケットの製造から打上げまでを一貫して担う世界でも数少ない企業です",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "次世代の国産新型ロケット「H3」試験機の打上げにも成功、引き続き開発の完遂に向け、国立研究開発法人宇宙航空研究開発機構（JAXA）とともに着実に取り進めていきます",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "原子力は、カーボンフリーなエネルギーを、",
+    "url": "https://www.mhi.com/jp/company/business-area/nuclear",
+    "pass": 1
+   },
+   {
+    "quote": "原子力の復興：三菱重工が日本そして世界に貢献",
+    "url": "https://www.mhi.com/jp/company/business-area/nuclear",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくりの現場へ： 三菱重工神戸造船所における原子炉製造",
+    "url": "https://www.mhi.com/jp/company/business-area/nuclear",
+    "pass": 1
+   },
+   {
+    "quote": "1944年（昭和19年）に操業を開始し、現在は大型産業用コンプレッサ・タービン、製鉄機械、民間航空機胴体パネルの製造を行っています",
+    "url": "https://www.mhi.com/jp/company/location/hiroshimaw",
+    "pass": 1
+   },
+   {
+    "quote": "横浜製作所は、1891年に（有）横浜船渠として船舶修理の操業を始め、その後新造船、機械製品に進出し、1935年三菱重工業と合併しました",
+    "url": "https://www.mhi.com/jp/company/location/yokohamaw",
+    "pass": 1
+   },
+   {
+    "quote": "資材調達: エンジン・ターボチャージャの資材調達（三菱重工エンジン＆ターボチャージャ（株））",
+    "url": "https://www.mhi.com/jp/company/location/sagamiharaw",
+    "pass": 1
+   },
+   {
+    "quote": "水素・アンモニア発電およびバリューチェーンの構築 | 三菱重工",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンニュートラル社会の実現を目指す三菱重工グループの取り組み",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工グループは「2040年カーボンニュートラル宣言」MISSION NET ZEROを掲げ、当社グループのCO₂排出量（Scope1,2（注1））及び、バリューチェーン全体からのCO₂排出量を2040年までに実質ゼロ（Net Zero）にすることを目指しています",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工グループ カーボンニュートラル ハンドブック",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら、日本など再生可能エネルギーが乏しく、CO₂を貯留できる場所も限られる地域では、安価に水素を製造することができません",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "そこで、海外の再生可能エネルギーが豊富な地域やCO₂を貯留できる地域で安価なグリーン/ブルー水素を製造し、利用地まで輸送するバリューチェーン構築が必要になります",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工グループは、グリーン/ブルー水素を製造する技術、水素をハンドリングに優れたアンモニアに変換して輸送する技術、アンモニアや水素による発電技術など、クリーン燃料の製造・輸送・利用に関わる様々な技術を保有しています",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "関連記事－三菱重工オンラインマガジンSPECTRA",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー、交通、物流、社会インフラ、宇宙・防衛から身近な製品まで",
+    "url": "https://www.mhi.com/jp/business/products-services",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工業は、多様な製品・サービスを通じて社会課題に応え、持続可能な未来づくりに貢献しています",
+    "url": "https://www.mhi.com/jp/business/products-services",
+    "pass": 1
+   },
+   {
+    "quote": "発電などエネルギー供給や環境問題対応、脱炭素化に向けた製品・サービス",
+    "url": "https://www.mhi.com/jp/business/products-services",
+    "pass": 1
+   },
+   {
+    "quote": "新交通システムやメトロ、ETC等の道路交通及び自動車向け製品・サービス",
+    "url": "https://www.mhi.com/jp/business/products-services",
+    "pass": 1
+   },
+   {
+    "quote": "民間航空機、航空エンジン、旅客搭乗橋など航空関連の製品・サービス",
+    "url": "https://www.mhi.com/jp/business/products-services",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙開発に向けたロケット・探査機など、また国防を支える製品・サービス",
+    "url": "https://www.mhi.com/jp/business/products-services",
+    "pass": 1
+   },
+   {
+    "quote": "火力・原子力・水素発電などエネルギー供給設備や環境問題に対応、脱炭素化を推進する製品・サービス",
+    "url": "https://www.mhi.com/jp/business/products-services/building-equipment-structures",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙の研究開発を支える各種試験設備・装置",
+    "url": "https://www.mhi.com/jp/business/products-services/industrial-machinery",
+    "pass": 1
+   },
+   {
+    "quote": "海上輸送の推進に貢献する、RORO船や自動車・トラック運搬船、LNG船など",
+    "url": "https://www.mhi.com/jp/business/products-services/logistics-material-handling",
+    "pass": 1
+   },
+   {
+    "quote": "民間航空機、航空エンジン、旅客搭乗橋など航空・空港関連の製品・サービス",
+    "url": "https://www.mhi.com/jp/business/products-services/mobility",
+    "pass": 1
+   },
+   {
+    "quote": "海上輸送の推進に貢献する、RORO船や自動車・トラック運搬船、LNG船など",
+    "url": "https://www.mhi.com/jp/business/products-services/ships-ocean",
+    "pass": 1
+   },
+   {
+    "quote": "航空機や船舶へ安全･快適に搭乗できる旅客搭乗橋PBB",
+    "url": "https://www.mhi.com/jp/business/products-services/ships-ocean",
+    "pass": 1
+   },
+   {
+    "quote": "航空機運行を支えるアフターマーケットサービス",
+    "url": "https://www.mhi.com/jp/business/products-services/aviation",
+    "pass": 1
+   }
+  ],
+  "素材": [
+   {
+    "quote": "カーボンニュートラル社会の実現に向けたエナジートランジション、社会インフラのスマート化、",
+    "url": "https://www.mhi.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/business/products-services/energy-environment",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンニュートラル社会に向けて、クリーン燃料である水素・アンモニアのバリューチェーン構築を通じたエナジートランジションを加速させます",
+    "url": "https://www.mhi.com/jp/business/products-services/energy-environment",
+    "pass": 1
+   },
+   {
+    "quote": "これらの事業を通じて、エネルギーの安定供給とカーボンニュートラルの両立実現に貢献しています",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンニュートラル社会に向けた取り組み、及びDX推進による効率化・自動化・省人化ニーズの高まりを受け、三菱重工は、環境課題と社会ニーズに応えるべく多様な製品の開発と事業展開に取り組んでいます",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/company/business-area/nuclear",
+    "pass": 1
+   },
+   {
+    "quote": "原子力は、カーボンフリーなエネルギーを、",
+    "url": "https://www.mhi.com/jp/company/business-area/nuclear",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンニュートラル達成に向け、原子力にできること",
+    "url": "https://www.mhi.com/jp/company/business-area/nuclear",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/company/location/hiroshimaw",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/company/location/yokohamaw",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/company/location/sagamiharaw",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンニュートラル社会の実現を目指す三菱重工グループの取り組み",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "近年、暮らしや産業のあらゆる場面で排出される二酸化炭素（CO₂）の影響による地球温暖化・気候変動が、⼈類の共通の課題であるということが認識され、この対策のために政策的、社会的に脱炭素化を進めカーボンニュートラルを達成することが、世界各国の共通目標となっています",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンニュートラルとは、「CO₂の排出量から吸収量と除去量を差し引いた合計をゼロにする」ことを意味します",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工グループは「2040年カーボンニュートラル宣言」MISSION NET ZEROを掲げ、当社グループのCO₂排出量（Scope1,2（注1））及び、バリューチェーン全体からのCO₂排出量を2040年までに実質ゼロ（Net Zero）にすることを目指しています",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言「MISSION NET ZERO」",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工グループ カーボンニュートラル ハンドブック",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンニュートラル社会の実現に向けては、化石燃料から、燃焼時にCO₂を排出しないクリーン燃料へのエナジートランジションが必要です",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "これら技術を組み合わせてクリーン燃料のバリューチェーンを構築し、エナジートランジションを加速することで、カーボンニュートラル社会の実現に貢献します",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/business/products-services",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/business/products-services/building-equipment-structures",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/business/products-services/industrial-machinery",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/business/products-services/logistics-material-handling",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/business/products-services/mobility",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/business/products-services/ships-ocean",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/business/products-services/aviation",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/business/technology/yhh",
+    "pass": 1
+   },
+   {
+    "quote": "インドのアルミニウムメーカー向け熱間圧延ラインのエッジトリマーシステムのFACを受領",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "第48回技能五輪国際大会「溶接」職種で銅メダルを獲得",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "中国の麗島新能源向けアルミ箔圧延プロジェクトを受注",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "ウルサン アルミニウム向け自動化システム更新工事を完工 - 将来に備えた操業体制を確立",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言はこちら",
+    "url": "https://www.mhi.com/jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/company/overview/vision",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/company/overview/organization.html",
+    "pass": 1
+   },
+   {
+    "quote": "2040年カーボンニュートラル宣言",
+    "url": "https://www.mhi.com/jp/business/products-services/industrial-machinery/compressors-mechanical-turbines",
+    "pass": 1
+   },
+   {
+    "quote": "新時代到来！ 金属3Dプリンタ 三菱重工工作機械（株） | 一般社団法人 日本機械学会 日本機械学会誌",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "「パウダDED方式3次元金属積層造形機の開発」",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタは、切削や研削加工では不可能な形状を実現し、異種金属の造形などを可能にするため、次世代の加工機として注目されている",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年、三菱重工工作機械（株）は、世界初の技術を搭載したパウダDED（Directed Energy Deposition）方式3次元金属積層造形機「LAMDA」",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "図1 パウダDED方式3次元金属積層造形機「LAMDA200」",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工工作機械では、二井谷をリーダーとする技術本部の技術者たちが、金属3Dプリンタの事業化を目指して、製品開発にチャレンジしていた",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "パウダDED方式は、ノズルから金属粉末を造形箇所に供給し、レーザで基材と一緒に溶融・凝固させて、3次元形状を造形していく方法だ",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "当時は金属3Dプリンタの市場がほとんどなかった",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン合金などの活性金属を造形するために必要な酸化防止技術と、大型部品を高精度に安定して造形するための制御技術の獲得だ",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "世界に通用する産業用金属3Dプリンタの製造企業を育成し、事業化を支援するために、経済産業省の技術研究組合次世代3D積層造形技術総合開発機構（TRAFAM）が設立されたのだ",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機などの大型の部品には、軽くて強いチタン合金が使われることが多い",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "だが、チタン合金は活性金属である",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "造形中の溶融・凝固の過程で酸化して、金属劣化を発生するおそれがある",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末の種類や供給量、造形物の形状も、金属の溶融状態が変化する要因になる",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "基材の状態変化は金属溶融部（メルトプール）の変化として表れるため、レーザ光と同軸上に設置した近赤外線カメラで、メルトプールを真上から1秒間に300枚の割合で撮影する",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "通常は熱をかけると、酸化して変色してしまうチタン合金だが、LAMDAで造形したチタン合金製品は、銀色だった",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "3次元金属積層造形技術は、産業革命に匹敵するほどの大きな変化をもたらし、人類の技術は大きく変わるだろう",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "プログラムと金属粉があれば、世界中のどこでも高品質で均一な製品を作ることができる",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機の翼から宇宙機器まで金属3Dプリンターの可能性を広げる新技術 | Spectra by 三菱重工",
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "pass": 3
+   },
+   {
+    "quote": "航空機の翼から宇宙機器まで金属3Dプリンターの可能性を広げる新技術",
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "1884年の創立以来、社会課題に真摯に向き合い、人々の暮らしを支えてきました",
+    "url": "https://www.mhi.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工の創立は古く明治17年（1884年）までさかのぼります",
+    "url": "https://www.mhi.com/jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "この年、三菱の創業者岩崎彌太郎は政府より工部省長崎造船局を借り受け、長崎造船所と命名して造船事業を本格的に開始しました",
+    "url": "https://www.mhi.com/jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "JALエンジニアリングと三菱重工、航空機アフターマーケット事業の合弁会社「Aero Breath」を設立",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工グループは、エンジニアリングとものづくりのグローバルリーダーとして、 1884年の創立以来、社会課題に真摯に向き合い、人々の暮らしを支えてきました",
+    "url": "https://www.mhi.com/jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "当社の発祥は遠く明治3年（1870年）にさかのぼるが、当社の今日あるのはひとえに創業者岩崎彌太郎を始め歴代の経営者、従業員のたゆまぬ努力の所産である",
+    "url": "https://www.mhi.com/jp/company/overview/vision",
+    "pass": 1
+   },
+   {
+    "quote": "時あたかも三菱創業百年を迎え、激動する70年代の幕開けに際し、当社は時勢に応じ、絶えず新しい意欲を持って前進したいと思う",
+    "url": "https://www.mhi.com/jp/company/overview/vision",
+    "pass": 1
+   },
+   {
+    "quote": "三菱みなとみらい技術館は、明日を担う青少年たちが「科学技術」に触れ、夢を膨らませることのできる場になることを願い、三菱重工業株式会社が1994年6月に設立したものです",
+    "url": "https://www.mhi.com/jp/company/overview/museum/minatomirai/about_museum",
+    "pass": 1
+   },
+   {
+    "quote": "世界に通用する産業用金属3Dプリンタの製造企業を育成し、事業化を支援するために、経済産業省の技術研究組合次世代3D積層造形技術総合開発機構（TRAFAM）が設立されたのだ",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工グループは、エンジニアリングとものづくりのグローバルリーダーとして、 1884年の創立以来、 社会課題に真摯に向き合い、人々の暮らしを支えてきました",
+    "url": "https://power.mhi.com/jp/news/20201127.html",
+    "pass": 3
+   },
+   {
+    "quote": "業の一切を引き継いだ三菱造船（初代）が設立される",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "（2代目）を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "7月1日 - 印刷・紙工機械事業と、販売・アフターサービスを担当する三菱重工印刷紙工機械販売を統合して、三菱重工印刷紙工機械を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "と事業統合し、2013年春を目標に合弁会社を設立すると報じられた",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "創業事業である空調機器販売（三菱重工一次代理店）や空調設備工事を中心に各種",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2008年（平成20年）4月1日設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2014年（平成26年）10月1日設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1986年（昭和61年）12月1日設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "- 本社：神奈川県横浜市、1976年（昭和51年）2月2日設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2014年（平成26年）2月1日設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "- 本社：横浜市西区、2018年1月1日設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "- 本社:東京都港区、2013年4月1日設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工サーマルシステムズ - 本社:東京都千代田区、2016年10月1日設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "- 1972年（昭和47年）に三菱重工工事株式会社として設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "、2005年4月1日設立、2017年1月に宇部興産（現・",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工食品包装機械 - 本社：名古屋市、2005年（平成17年）4月1日設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "- 本社：広島県三原市、2010年（平成22年）に設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "エリアごとに新たに設立された販売会社9社に承継、残った不動産管理部門は三菱ロジスネクストに吸収合併され、法人格は消滅した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "船舶事業を再編し、三菱造船と三菱重工海洋鉄構の2社を設立 高密度艤装船や環境対策、新燃料対応などに注力",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 - 電力会社9社・メーカー3社・産業革新機構の出資により、2010年（平成22年）10月22日に設立された",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1950年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "同社は設立以来、親会社の厳しい要求水準に応え続けることで、他社には決して真似のできないドメイン知識（業界特有の専門知識）を社内に蓄積してきました",
+    "url": "https://note.com/tatsuya_sabato/n/n34cc280182c0",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工業(MHI)は1884年に岩崎彌之助が設立した三菱造船所を起点に、三菱グループの一角として140年の重工業史を持つ",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業(KHI)は1878年に川崎正蔵が設立した川崎築地造船所を起点に147年史を歩み、パワースポーツ&エンジン(Ninja/Vulcan二輪車・ジェットスキー・汎用エンジン)6,094億(29%)・航空宇宙システム(787コンポーネント・防衛機体P-1/C-2)5,678億(27%)・エネルギーソリューション&マリン(船舶・液化水素運搬船)3,981億(19%)・精密機械・ロボット(川崎ロボティクス)2,415億(11%)・車両(新幹線N700S・地下鉄・海外向け)2,223億(11%)の5セグメントで、連結売上21,293億・単体14,597人・単体年収793万円",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工業(MHI)の源流は、1884年に岩崎彌之助が設立した三菱造船所だ",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業(KHI)の源流は、1878年に川崎正蔵が設立した川崎築地造船所だ",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社IHIの源流は、1853年に石川島造船所として設立された旧・石川島播磨重工業(IHI)だ",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   }
+  ],
+  "参入の時期と形": [
+   {
+    "quote": "この年、三菱の創業者岩崎彌太郎は政府より工部省長崎造船局を借り受け、長崎造船所と命名して造船事業を本格的に開始しました",
+    "url": "https://www.mhi.com/jp/company/overview/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1944年（昭和19年）に操業を開始し、現在は大型産業用コンプレッサ・タービン、製鉄機械、民間航空機胴体パネルの製造を行っています",
+    "url": "https://www.mhi.com/jp/company/location/hiroshimaw",
+    "pass": 1
+   },
+   {
+    "quote": "MHIET、水素混焼が可能な450kWガスコージェネレーションシステムの販売開始 ー 実証試験で信頼性を確認",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "天然水素の革新的な探査技術を有するコロマ社に出資",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工機械システム、AIによる段ボールシートの反り制御装置を世界で初めて開発 最適な機械設定を予測可能、国内外で本格販売開始",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "次世代液体燃料（HVO）の環境価値を一元管理するデジタルプラットフォーム「CO₂NNEX®」のクリーン燃料証書制度実証における運用開始について",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "インドネシア・ダラジャット地熱発電所の設備改修工事を完了 発電出力を8,000kW増強し、商業運転を開始",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "大学生・大学院生向け 冬期ワークショップ・インターンシップの募集を開始",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工とPFN、資本業務提携契約を締結 ミッションクリティカル領域における機械・システムの知能化・自律化に向けた最先端AI技術の共同開発を本格化",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工サーマルシステムズ、中大規模施設向け空調システム集中制御機器をフルモデルチェンジ 新モデル「SL5」を国内外で順次発売",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工とNEC、防衛力の一層の強化と変革に向けた戦略的提携へ ～作戦計画・指揮統制や無人アセット等の領域で連携～",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "MHIET、発電用KUガスエンジンの水素混焼仕様を確立 エナジートランジションの水素対応ソリューションとして提案を開始",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "JSWスチールとの長期パートナーシップを強化 - インドで製鋼設備立ち上げ、ペレタイジングプラントを受注",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工サーマルシステムズ、大型車両向け電動式輸送用冷凍機「TEUシリーズ」を販売開始 大型バッテリーによってスペースが狭小化した電動車両にも搭載しやすい構造",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工冷熱、窒素冷媒採用の小型超低温ブライン冷凍機「N－ブレス®」を開発・発売 三菱重工エンジン＆ターボチャージャ開発の電動ターボ搭載で製品の小型化、高効率化を実現",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工とGreen AI、産業分野のエネルギー効率改善で協業開始 ～両社の技術とノウハウを掛け合わせ、産業分野のCO₂削減を新たなステージへ～",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "ホアファット向け包括的生産ラインが稼働を開始",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "大学生・大学院生・高専生向け夏期インターンシップの募集を開始",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "e-methaneのクリーンガス証書移転・管理を可能とするデジタルプラットフォーム「CO₂NNEX®」の長岡メタネーション実証における運用開始について",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工とPreferred Networks、ミッションクリティカル領域における国産AI技術の共同開発で業務提携 〜社会インフラの知能化・自律化を加速し、強靱で安心・安全な社会の実現へ〜",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "JALエンジニアリングと三菱重工、航空機アフターマーケット事業の合弁会社「Aero Breath」を設立",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "中首特鋼向けArvedi ESPプラントの立ち上げに成功 - 世界最高の能力を実現",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "ベトナム、ビンメタルと2つの新規生産ラインで提携",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "三菱みなとみらい技術館は、明日を担う青少年たちが「科学技術」に触れ、夢を膨らませることのできる場になることを願い、三菱重工業株式会社が1994年6月に設立したものです",
+    "url": "https://www.mhi.com/jp/company/overview/museum/minatomirai/about_museum",
+    "pass": 1
+   },
+   {
+    "quote": "世界に通用する産業用金属3Dプリンタの製造企業を育成し、事業化を支援するために、経済産業省の技術研究組合次世代3D積層造形技術総合開発機構（TRAFAM）が設立されたのだ",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工工作機械は、小型精密から超大型までの造形サービス体制を整え、幅広いニーズの試作や受託生産に対応することにより、金属3Ｄプリンターを活用した部品製造への参入を促し、産業界のサプライチェーン全体に貢献していきます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   },
+   {
+    "quote": "またオンラインによる見学会の実施も開始しており、新型コロナウイルスの感染リスクを負うことなく最新技術をご覧いただけます",
+    "url": "https://power.mhi.com/jp/news/20201127.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループの三菱重工工作機械株式会社（社長:岩崎 啓一郎、本社:滋賀県栗東市）は、独自のデポジション方式（注1）を採用した\"金属3D（三次元）プリンター\"の提案を海外市場に向けて開始します",
+    "url": "https://www.nikkei.com/article/DGXLRSP509733_W9A510C1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "世界で急成長している3Dプリンター市場を牽引する米国において、認知度を高め参入の足掛かりをつかむことが狙いです",
+    "url": "https://www.nikkei.com/article/DGXLRSP509733_W9A510C1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXLRSP509733_W9A510C1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "1997年に、世界に先駆けて1,500℃級の「G形」ガスタービンの実証運転を開始",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/case/industrial/mhi/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプログラムを継続・発展していただき、現時点では宇宙への進出を考えていない多くの企業にも、技術的な参入障壁になっている部分を解決してビジネス機会の創出を実施していただけると、宇宙産業の活性化に繋がっていきます",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "業の一切を引き継いだ三菱造船（初代）が設立される",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "（2代目）を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "7月1日 - 印刷・紙工機械事業と、販売・アフターサービスを担当する三菱重工印刷紙工機械販売を統合して、三菱重工印刷紙工機械を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "と事業統合し、2013年春を目標に合弁会社を設立すると報じられた",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2008年（平成20年）4月1日設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2014年（平成26年）10月1日設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1986年（昭和61年）12月1日設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "- 本社：神奈川県横浜市、1976年（昭和51年）2月2日設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2014年（平成26年）2月1日設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "- 本社：横浜市西区、2018年1月1日設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "- 本社:東京都港区、2013年4月1日設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工サーマルシステムズ - 本社:東京都千代田区、2016年10月1日設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "- 1972年（昭和47年）に三菱重工工事株式会社として設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "、2005年4月1日設立、2017年1月に宇部興産（現・",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工食品包装機械 - 本社：名古屋市、2005年（平成17年）4月1日設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "- 本社：広島県三原市、2010年（平成22年）に設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "エリアごとに新たに設立された販売会社9社に承継、残った不動産管理部門は三菱ロジスネクストに吸収合併され、法人格は消滅した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "傘下であり、三菱各社との関係は維持しており、三菱重工業も出資（株式の2.38",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工業も出資（株式の8.34",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "船舶事業を再編し、三菱造船と三菱重工海洋鉄構の2社を設立 高密度艤装船や環境対策、新燃料対応などに注力",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "艦艇・官公庁船の新事業会社「三菱重工マリタイムシステムズ」が10月1日から営業開始",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 - 電力会社9社・メーカー3社・産業革新機構の出資により、2010年（平成22年）10月22日に設立された",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1950年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】三菱重工業は『買い』か？ — 国策と技術を独占する巨艦、その真の価値に迫る｜AIバフェット研究所 所長",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】三菱重工業は『買い』か？ — 国策と技術を独占する巨艦、その真の価値に迫る",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "ブランド/コスト/スイッチングコスト/無形資産/参入障壁",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "参入障壁（規模の経済/資本要件）：極めて高い",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "新たな企業がゼロから数兆円の資金を調達して参入しようとしても、技術的蓄積とインフラの壁に阻まれ、参入は実質的に不可能です",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   }
+  ],
+  "AMの規模": [
+   {
+    "quote": "さらに、自動車のパワートレインの多様化に応える「ターボチャージャ事業」ではゼロエミッション車両への移行に対応した燃料電池システム用電動コンプレッサの開発・受注活動を進め、システム全体の効率向上に寄与しています",
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "pass": 1
+   },
+   {
+    "quote": "当生産拠点は東京・芝浦で1920年（大正9年）に発足し、1970年（昭和45年）、東京の丸子と大井町から相模原に全面移転し、現在に至っています",
+    "url": "https://www.mhi.com/jp/company/location/sagamiharaw",
+    "pass": 1
+   },
+   {
+    "quote": "首鋼京唐鋼鉄向けスラブ連続鋳造機改造を受注 - 高品質鋼材の生産強化に貢献",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "Dingshengの箔圧延機増強プロジェクト向け平坦度制御ソリューションを受注",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "シンガポールの新交通システム「センカン・プンゴルLRT」車両8編成を追加受注",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "イノバンスとの協業を強化し、中国向けPLTCMドライブのプロジェクトを受注",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "JSWスチールとの長期パートナーシップを強化 - インドで製鋼設備立ち上げ、ペレタイジングプラントを受注",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "ドバイ「アル・マクトゥーム国際空港」向けAPMシステムを受注",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "KGスチール向け韓国唐津の連続酸洗・タンデム冷間圧延ライン（PLTCM）改修プロジェクトを受注",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "ニューコア スチール ディケーター向け薄スラブ連続鋳 造機改修プロジェクトを受注",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "中国の麗島新能源向けアルミ箔圧延プロジェクトを受注",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "中国WISCO向けCSP鋳造圧延ライン改造工事を受注",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "オウトクンプステンレスUSA向け取鍋精錬炉更新工事を受注",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "サウジアラビア既設火力発電所の燃料転換工事向けボイラー供給契約を受注 重油から天然ガスへの燃料転換プロジェクトの中核を担う",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "台湾高速鉄道の総合車両工場向けに車両の検査・修繕設備・機器を受注",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "ティアサ向けツイン真空脱ガス設備を受注 - 性能向上に向けて",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "三菱造船、アンモニア燃料ハンドリングシステム「MAmmoSS®」を受注 日立造船マリンエンジンのアンモニア焚き舶用エンジン工場向け",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "長崎海運人材育成協会向けCTVのウォータージェット推進装置を受注 国内初の訓練専用洋上タワーを用いた作業員育成に貢献",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "湘潭鋼鉄向け厚板ミルのオートメーション更新を受注",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "米国アトランタ国際空港のAPMシステム「ATL SkyTrain」の設備更新工事を受注",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "2,656億円（2026年3月31日現在）",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 1
+   },
+   {
+    "quote": "76,536億円（2025年4月1日～2026年3月31日）",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 1
+   },
+   {
+    "quote": "49,741億円（2025年4月1日～2026年3月31日）",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 1
+   },
+   {
+    "quote": "41,777億円（2025年4月1日～2026年3月31日）",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 1
+   },
+   {
+    "quote": "23,962億円（2025年4月1日～2026年3月31日）",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 1
+   },
+   {
+    "quote": "新時代到来！ 金属3Dプリンタ 三菱重工工作機械（株） | 一般社団法人 日本機械学会 日本機械学会誌",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "「パウダDED方式3次元金属積層造形機の開発」",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタは、切削や研削加工では不可能な形状を実現し、異種金属の造形などを可能にするため、次世代の加工機として注目されている",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年、三菱重工工作機械（株）は、世界初の技術を搭載したパウダDED（Directed Energy Deposition）方式3次元金属積層造形機「LAMDA」",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "図1 パウダDED方式3次元金属積層造形機「LAMDA200」",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工工作機械では、二井谷をリーダーとする技術本部の技術者たちが、金属3Dプリンタの事業化を目指して、製品開発にチャレンジしていた",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "開発対象に選んだのは、3DプリンタのなかでもパウダDED方式だった",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "大型部品を作ることができる3Dプリンタは海外でも非常に少ない",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "当時は金属3Dプリンタの市場がほとんどなかった",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "世界に通用する産業用金属3Dプリンタの製造企業を育成し、事業化を支援するために、経済産業省の技術研究組合次世代3D積層造形技術総合開発機構（TRAFAM）が設立されたのだ",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクトには、装置製造、ソフトウェア、粉末材料製造、ユーザーなど、3Dプリンタのサプライチェーンに関わる多くの国内メーカーや大学が集まる",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタでの造形が可能になれば、加工時間を短縮し、製品コストを低減できるのだ",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "最初は3Dプリンタをチャンバ構造にして、内部の空気を追い出して低酸素環境にするか、もしくは不活性ガスに入れかえる方法を検討した",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "ただしアーク溶接では通常1方向にのみ移動するので、3Dプリンタではあらゆる形状の造形に使えるように工夫しなければならない",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "3次元金属積層造形技術は、産業革命に匹敵するほどの大きな変化をもたらし、人類の技術は大きく変わるだろう",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機の翼から宇宙機器まで金属3Dプリンターの可能性を広げる新技術 | Spectra by 三菱重工",
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "pass": 3
+   },
+   {
+    "quote": "航空機の翼から宇宙機器まで金属3Dプリンターの可能性を広げる新技術",
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Q.御社の革新的な技術開発によって、金属3Dプリンターの世界は一変しました",
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "pass": 3
+   },
+   {
+    "quote": "当社金属3Dプリンター\"",
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "pass": 3
+   },
+   {
+    "quote": "当システムは、積層造形をリアルタイムで監視して、監視結果に基づいてレーザー出力や金属供給量などの条件を自動で制御・最適化し、高い品質の部品をつくり出すことを可能とします",
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "pass": 3
+   },
+   {
+    "quote": "現在、積層造形後の部品サイズや形状測定は簡単にできますが、品質の安定性については部品を破壊して確認する方法が用いられています",
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "pass": 3
+   },
+   {
+    "quote": "この金属3Dプリンターは、ノズル先端から金属粉末を噴射し、レーザーを照射して溶融・凝固させる、DED方式（Directed Energy Deposition: 指向性エネルギー堆積法）を採用しており、ノズルには独自開発した\"ローカルシールドノズルシステム\"を搭載しています",
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの技術は非常に新しく、ISOなどの品質基準が存在しません",
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "pass": 3
+   },
+   {
+    "quote": "早期に基準が整備され、1日も早く、当社の金属3Dプリンターが活用される日が来ることを心待ちにしています",
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "pass": 3
+   },
+   {
+    "quote": "この金属3Dプリンターは、何種類もの金属を組み合わせることが可能であるため、これまで造形できなかった物をつくれる可能性があり、チャンスは無限に広がります",
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "pass": 3
+   },
+   {
+    "quote": "\"金属3Dプリンター\"の商用モデルを製品化",
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工工作機械、金属3Dプリンターの造形サービスを拡大 | 三菱重工業株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工工作機械、金属3Dプリンターの造形サービスを拡大",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 造形物の早期実用化と量産化に向けた積層造形ソリューションを提供",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工グループの三菱重工工作機械株式会社（社長：若林 謙一、本社：滋賀県栗東市）は、レーザー金属積層造形技術を用いた\"金属3D（三次元）プリンター\"の試作や受託生産などといった造形サービスを7月15日から拡大します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   },
+   {
+    "quote": "の金属3Dプリンターに加え、新たに小型造形物向けバインダージェット（BJT）方式",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   },
+   {
+    "quote": "の金属3Dプリンターをサービスラインアップに追加することで、1mmサイズの小型部品から1mを超える超大型部品まで幅広い造形物の製作に対応します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、デジタルメタル社との間では、DMP2500をはじめとした同社製金属3Dプリンターの国内販売契約を2020年7月に締結しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは製造プロセスを革新すると注目される一方で、製造物の製作難易度が高いことや品質保証などが課題になっています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   }
+  ],
+  "撤退・縮小の時期と理由": [
+   {
+    "quote": "1966年に本牧工場を新設、1980年に新造船事業から撤退、1982年に横浜市の都市臨海部再開発事業“みなとみらい21計画”に協力するため、明治以来の横浜工場を本牧工場に移設し、所名も1983年4月に横浜造船所から横浜製作所に改称しました",
+    "url": "https://www.mhi.com/jp/company/location/yokohamaw",
+    "pass": 1
+   },
+   {
+    "quote": "国内向け陸上風力発電設備に係る事業の譲渡手続き完了",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "三菱重工工作機械を含む三菱重工グループの工作機械事業については、現在も継続して日本電産株式会社および日本電産グループに譲渡移管手続きを実施中で、実行条件が整い次第完了予定です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年は、ガスタービン発電と、その排熱を利用した蒸気タービン発電を組み合わせたGTCC※1発電設備の需要が高く、アジア、中近東、ヨーロッパなどを中心に27か国、すでに70プラント以上を輸出している",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/case/industrial/mhi/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "に基づき45日間の業務停止命令を受ける",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1月1日 - 船舶事業を再編し、船舶・海洋事業本部を",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "その後2024年04月01日付けでGXセグメントを新設し、複数の部門にまたがるエナジートランジション関連部門を再編し、プロジェクトマネジメント機能およびエンジニアリング機能を強化した体制とした",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "およびその日本法人のメッツォペーパージャパン株式会社へ譲渡",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "）およびそのグループ会社に譲渡され、2021年8月の株式譲渡完了を待って「日本電産マシンツール株式会社」（現・ニデックマシンツール）となった",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2006年（平成18年）に三菱重工の橋梁事業を事業譲渡され、三菱重工橋梁エンジニアリングとなる",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "に譲渡し、エム・エムブリッジ株式会社に改称",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2012年に株式をすべてキャタピラー社に譲渡し、合弁は解消",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2015年（平成27年）6月にみちのりホールディングスへ株式譲渡",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2020年10月に旧ニチユ三菱フォークリフト系の販売会社10社とともに再編を実施",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "同年9月30日付を以って事業を終了・解散",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "国内ETC車載器の製造・販売事業を古野電気へ譲渡 既納機のアフターサービスも含め",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工鉄構エンジニアリング株式会社の株式の譲渡に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "船舶事業を再編し、三菱造船と三菱重工海洋鉄構の2社を設立 高密度艤装船や環境対策、新燃料対応などに注力",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "艦艇事業の譲渡受けに関し三井E&Sホールディングスと基本合意",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械事業の譲渡手続き完了についてのお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "“三菱重工の本社機能が今夏、横浜から撤退 都内に集約、グループ会社も移転”",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "製紙機械事業をメッツォグループに譲渡 経営資源の集中をはかる",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械事業の事業譲渡に係る最終契約締結についてのお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "に譲渡し同社の完全子会社となり、三菱重工グループとの関係はなくなった",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "その後、1980年代には原動機（エナジー）が成長を牽引し、2010年代以降は不採算となった客船事業等から撤退・縮小を図り、現在の「エナジー」と「航空・防衛・宇宙」を両輪とする高付加価値インフラ企業へと事業ポートフォリオを見事に転換させてきました3",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "過去数年間にわたる事業再編により、同社は不採算事業（客船事業や国産旅客機事業など）を切り離し、中核事業への資源集中を進めました",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "かつて同社は、大型客船事業での度重なる設計変更による巨額損失や、国産ジェット旅客機（SpaceJet、旧MRJ）事業の開発難航に伴う数千億円規模の減損損失に苦しめられていました",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "FY18の営業利益の落ち込み（392億円）や、FY20の営業赤字（-327億円）、FY21のフリーキャッシュフローの大幅なマイナス（-2,771億円）は、こうした「負の遺産」の処理が重くのしかかっていた時期のものです3",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、経営陣はこれらの不採算プロジェクトからの撤退という苦渋の、しかし不可欠な決断を下しました",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "「時価－取得原価」差額/減損/資本政策の影響",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "過去数年間にわたり、SpaceJet関連などで数千億円規模の特別損失・減損損失（FY20には1,794億円の減損損失を計上）を出し切ったことで、バランスシートに潜んでいた「膿（うみ）」は完全に一掃されました3",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "不採算事業の止血が完了し、高利益率なアフターサービス事業と防衛案件が全体を牽引し始めた結果です",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "また、決算説明資料の充実や、不採算事業からの撤退に関する透明性の高い情報開示は、ガバナンスが正常に機能している証左であり、長期投資家が信頼を寄せるに足る経営体制であると定性的に高く評価できます",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "：過去の負の遺産であった不採算プロジェクトを見事に損切りし、ROE 11%台へのV字回復と強烈なフリーキャッシュフローの創出を実現した現在の経営陣とガバナンスは、高く評価に値します",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": ": 政局の変化により、数兆円規模の防衛費増額シナリオが修正・縮小された場合、株価を支えている中核ストーリーが崩壊します",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "MHIは5年で406→1,135→1,305→2,220→2,454億と5年連続増益(+505%)、KHIは126→530→254→880億と5年で+598%成長(FY2023の一時減益は除く)、IHIは131→661→445→-682→1,127億とV字回復(FY2024の-682億赤字転落からFY2025で+1,127億の劇的黒字転換)",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "IHIは造船から撤退しており、舶用エンジンなどに特化しています",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   },
+   {
+    "quote": "AIの普及でデータ処理需要が急増する中、三菱重工は発電・冷却システムなどのインフラ技術を活かしてデータセンター市場への本格参入を目指しています",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "1966年に本牧工場を新設、1980年に新造船事業から撤退、1982年に横浜市の都市臨海部再開発事業“みなとみらい21計画”に協力するため、明治以来の横浜工場を本牧工場に移設し、所名も1983年4月に横浜造船所から横浜製作所に改称しました",
+    "url": "https://www.mhi.com/jp/company/location/yokohamaw",
+    "pass": 1
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXLRSP509733_W9A510C1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "2006年（平成18年）に三菱重工の橋梁事業を事業譲渡され、三菱重工橋梁エンジニアリングとなる",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "“三菱重工の本社機能が今夏、横浜から撤退 都内に集約、グループ会社も移転”",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械事業の事業譲渡に係る最終契約締結についてのお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "その後、1980年代には原動機（エナジー）が成長を牽引し、2010年代以降は不採算となった客船事業等から撤退・縮小を図り、現在の「エナジー」と「航空・防衛・宇宙」を両輪とする高付加価値インフラ企業へと事業ポートフォリオを見事に転換させてきました3",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、経営陣はこれらの不採算プロジェクトからの撤退という苦渋の、しかし不可欠な決断を下しました",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "また、決算説明資料の充実や、不採算事業からの撤退に関する透明性の高い情報開示は、ガバナンスが正常に機能している証左であり、長期投資家が信頼を寄せるに足る経営体制であると定性的に高く評価できます",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "【11/6】日経平均が史上3番目の下げ幅、三菱重工が売上6兆円へ上方修正、ソフトバンクGのロボット買収に中国が禁止ほか｜経済ニュース10選",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5",
+    "pass": 3
+   },
+   {
+    "quote": "IHIは造船から撤退しており、舶用エンジンなどに特化しています",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "天然水素の革新的な探査技術を有するコロマ社に出資",
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "pass": 1
+   },
+   {
+    "quote": "第101回定時株主総会招集ご通知を掲載致しました",
+    "url": "https://www.mhi.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7011",
+    "pass": 3
+   },
+   {
+    "quote": "2020年 （令和2年） 4月、親会社の三菱重工業に吸収合併",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "傘下であり、三菱各社との関係は維持しており、三菱重工業も出資（株式の2.38",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工業も出資（株式の8.34",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 - 電力会社9社・メーカー3社・産業革新機構の出資により、2010年（平成22年）10月22日に設立された",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "利益の絶対額だけでなく、株主から預かった資本をいかに効率的に運用して利益を生み出しているか（資本効率）が、長期的な株主価値創造の鍵を握ります",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "潤沢なフリーキャッシュフローを背景に、株主還元政策も明確化されています",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "（日本の超低金利な負債コストと、安定インフラ企業としての株主資本コストから加重平均",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "株主価値（事業価値 ＋ ネットキャッシュ）:",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、同社が将来生み出すキャッシュに基づく適正な株主価値は約6.5兆円です",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "同社は設立以来、親会社の厳しい要求水準に応え続けることで、他社には決して真似のできないドメイン知識（業界特有の専門知識）を社内に蓄積してきました",
+    "url": "https://note.com/tatsuya_sabato/n/n34cc280182c0",
+    "pass": 3
+   },
+   {
+    "quote": "強力な武器の裏返しとして、最大の弱点でありリスクとなるのが「親会社グループへの極端な依存構造」です",
+    "url": "https://note.com/tatsuya_sabato/n/n34cc280182c0",
+    "pass": 3
+   },
+   {
+    "quote": "事業収益の大半が三菱重工グループ向けであるため、親会社の業績変動や事業方針の転換、IT予算の増減が同社の業績にダイレクトに波及します",
+    "url": "https://note.com/tatsuya_sabato/n/n34cc280182c0",
+    "pass": 3
+   },
+   {
+    "quote": "仮に親会社が大規模なコスト削減策を打ち出し、システム投資を凍結した場合、自社の自助努力だけでは収益の落ち込みをカバーすることが極めて困難になります",
+    "url": "https://note.com/tatsuya_sabato/n/n34cc280182c0",
+    "pass": 3
+   },
+   {
+    "quote": "同じ「重工業」でも、その出自と親会社、事業ドメイン、単体組織構造、給与テーブルがまるで違う",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "出自と親会社が、いまの事業モデルを決めている",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "2,656億円（2026年3月31日現在）",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 1
+   },
+   {
+    "quote": "76,536億円（2025年4月1日～2026年3月31日）",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 1
+   },
+   {
+    "quote": "49,741億円（2025年4月1日～2026年3月31日）",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 1
+   },
+   {
+    "quote": "41,777億円（2025年4月1日～2026年3月31日）",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 1
+   },
+   {
+    "quote": "23,962億円（2025年4月1日～2026年3月31日）",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 1
+   },
+   {
+    "quote": "2656億円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   },
+   {
+    "quote": "265,608(百万円)",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7011",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 （百万円） ［］内は人数",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7011",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 （百万円）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7011",
+    "pass": 3
+   },
+   {
+    "quote": "下請け従業員のじん肺 三菱重工に1.2億円の賠償命令",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "同社の2026年3月期の連結売上高は4兆9,742億円に達しており、現在は大きく4つのセグメントで事業を展開しています3",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "歴史を紐解くと、1970年代の同社は船舶事業が売上の4割近くを占める造船メインの企業でした",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "最新鋭のガスタービンや宇宙ロケットの開発には、数千億円規模の研究開発費と数万人規模の高度なエンジニアリングチーム、そして巨大な試験設備が必要です",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "かつて同社は、大型客船事業での度重なる設計変更による巨額損失や、国産ジェット旅客機（SpaceJet、旧MRJ）事業の開発難航に伴う数千億円規模の減損損失に苦しめられていました",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "FY18の営業利益の落ち込み（392億円）や、FY20の営業赤字（-327億円）、FY21のフリーキャッシュフローの大幅なマイナス（-2,771億円）は、こうした「負の遺産」の処理が重くのしかかっていた時期のものです3",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、直近のFY26では営業キャッシュフローが9,426億円へと爆発的に増加し、設備投資を差し引いたフリーキャッシュフローは8,934億円、FCFマージンは驚異の17.96%に到達しています5",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "FY26末時点での有利子負債合計は8,762億円であるのに対し、手元の現金同等物残高は1兆3,349億円に積み上がっています3",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、すべての借金を即座に返済しても手元に約4,587億円の現金が残る「実質無借金（ネットキャッシュ・ポジティブ）」の状態にあります5",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "過去数年間にわたり、SpaceJet関連などで数千億円規模の特別損失・減損損失（FY20には1,794億円の減損損失を計上）を出し切ったことで、バランスシートに潜んでいた「膿（うみ）」は完全に一掃されました3",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "その上で、歴史的に保有する不動産の時価評価額を加味すれば、帳簿上の自己資本（約2兆4,280億円）5以上に、実質的な純資産価値は大きいと評価できます",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "全社の売上高はFY25の5兆272億円からFY26は4兆9,742億円へとわずかに減少（前年比 -1.1%）しましたが、営業利益は3,745億円から4,747億円（前年比 +26.7%）へと劇的に増加しています3",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "過去の経営陣が陥った「売上至上主義」や「過度な事業の多角化」の反省から、現在の経営体制はROICを重視した資本効率の追求と、厳格なリスクマネジメントを徹底しています",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "FY2026/3期（売上高 4兆9,742億円、営業利益率 9.54%）",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "4,587億円（現金同等物 1兆3,349億円 － 有利子負債 8,762億円）",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "6兆245億円",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "[成長戦略投資] なぜ三菱重工は、長崎を捨てて「下関」に1,000億円を賭けたのか",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工 決算前の注目点｜市場予想と660億円差、利益見通しを11月に上げるか",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5",
+    "pass": 3
+   },
+   {
+    "quote": "【11/6】日経平均が史上3番目の下げ幅、三菱重工が売上6兆円へ上方修正、ソフトバンクGのロボット買収に中国が禁止ほか｜経済ニュース10選",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5",
+    "pass": 3
+   },
+   {
+    "quote": "エナジー(発電所ボイラ・ガスタービン・原子力・脱炭素関連)18,039億(36%)・物流・冷熱・ドライブ(フォークリフト・空調・ターボチャージャー)13,027億(26%)・航空・防衛・宇宙(戦闘機F-2/F-X主契約・護衛艦・宇宙ロケットH3)10,293億(20%)・プラント・インフラ(化学プラント・製鉄機械・製紙機械)8,062億(16%)の4セグメントで、連結売上50,272億・従業員77,274人・単体22,347人・単体平均年収1,018万円の圧倒的規模を持つ",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業(KHI)は1878年に川崎正蔵が設立した川崎築地造船所を起点に147年史を歩み、パワースポーツ&エンジン(Ninja/Vulcan二輪車・ジェットスキー・汎用エンジン)6,094億(29%)・航空宇宙システム(787コンポーネント・防衛機体P-1/C-2)5,678億(27%)・エネルギーソリューション&マリン(船舶・液化水素運搬船)3,981億(19%)・精密機械・ロボット(川崎ロボティクス)2,415億(11%)・車両(新幹線N700S・地下鉄・海外向け)2,223億(11%)の5セグメントで、連結売上21,293億・単体14,597人・単体年収793万円",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社IHI(石川島播磨重工業由来)は1853年発祥172年史の重工業として、航空・宇宙・防衛(民間航空機エンジンGEnx/GE9X/PW1100G-JMの国際共同開発中核+F-2/F-Xエンジン+H3固体ブースタ)5,527億(34%)・産業システム・汎用機械(ターボチャージャー等)4,756億(29%)・資源・エネルギー・環境(ボイラ・脱炭素関連)4,083億(25%)・社会基盤・海洋(橋梁・港湾クレーン)1,559億(10%)の4セグメントで、連結売上16,268億・単体7,911人・単体年収813万円",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "連結売上ではMHI 50,272億(圧倒1位) > KHI 21,293億 > IHI 16,268億で、MHIがKHIの2.4倍、IHIの3.1倍の規模を持つ",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "連結売上50,272億・従業員77,274人・単体22,347人・単体平均年収1,018万円・単体平均年齢42.5歳・勤続18.9年で、日本の重工業トップの規模",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "特徴は、コンシューマー事業(二輪車Ninja/Vulcan・ジェットスキー)を大きな柱として持つ点で、重工業3社の中で唯一のBtoC事業を売上の29%規模で保有する",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "連結売上21,293億・従業員40,640人・単体14,597人・単体平均年収793万円・単体平均年齢41.5歳・勤続15.4年で、5セグメント多角化の中堅重工業",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "連結売上16,268億・従業員27,990人・単体7,911人・単体平均年収813万円・単体平均年齢41.1歳・勤続15.8年",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "3社の連結売上は、MHI 50,272億(圧倒1位)・KHI 21,293億・IHI 16,268億で、MHIがKHIの2.4倍・IHIの3.1倍の規模",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期の売上収益は4兆6,571億円、従業員数は約7万8千人で、日本の重工業界では川崎重工業、IHIとともに「三大重工」と呼ばれ、その中でも圧倒的な規模とシェアを誇ります",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   },
+   {
+    "quote": "財務データで見ると、売上高は三菱重工が4兆6,571億円に対し、IHIが約2兆円、川崎重工が約1.8兆円と、三菱重工は2社の合計に匹敵する規模です",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度の受注高は大きく伸び、2024事業計画では今後3年間でこの分野だけで売上高を大幅に拡大する計画です",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工は2024年5月に新中期経営計画「2024事業計画（2024～2026年度）」を発表し、過去最大規模の1兆2,000億円の投資を計画しています",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   },
+   {
+    "quote": "これは前期（2021～2023年度）の3,300億円から3.6倍の大幅増額です",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   },
+   {
+    "quote": "①伸長事業への集中投資（6,500億円）",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   },
+   {
+    "quote": "②成長領域への先行投資（3,500億円）",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   },
+   {
+    "quote": "③基盤強化への投資（2,000億円）",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   },
+   {
+    "quote": "数字を使って成果を示し（「売上を2倍にした」「参加者満足度95%を達成」など）、課題→施策→結果のストーリーを明確に書きましょう",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "三菱重工 工作機械、金属 3Dプリンター の造形サービスを拡大 ... — 三菱重工 工作機械、金属 3Dプリンター の造形サービスを拡大 ... Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > news",
+    "url": "https://www.mhi.com/jp/news/210708.html",
+    "pass": 3
+   },
+   {
+    "quote": "新時代到来！ 金属 3Dプリンタ 三菱重工 工作機械（株） — 新時代到来！ 金属 3Dプリンタ 三菱重工 工作機械（株） 一般社団法人 日本機械学会 https://www.jsme.or.jp > kaisi",
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機の翼から宇宙機器まで金属 3Dプリンター の可能性を ... — 航空機の翼から宇宙機器まで金属 3Dプリンター の可能性を ... Spectra by MHI https://spectra.mhi.com > security-and-exploration > from...",
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工 工作機械、金属 3Dプリンター の造形サービスを拡大 — 三菱重工 工作機械、金属 3Dプリンター の造形サービスを拡大 PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工 工作、国内最大の金属 3Dプリンター 完成 - モノクエ — 三菱重工 工作、国内最大の金属 3Dプリンター 完成 - モノクエ Mono Que https://monoque.jp > news",
+    "url": "https://monoque.jp/news/938afefd350bc876c4c64929925d91c60f60baa5/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工 工作機械、最新の金属 3D 積層造形技術を米国見本市 ... — 三菱重工 工作機械、最新の金属 3D 積層造形技術を米国見本市 ... Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > news",
+    "url": "https://www.mhi.com/jp/news/190516.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工 - Mitsubishi Heavy Industries (MHI) — 三菱重工 - Mitsubishi Heavy Industries (MHI) Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > news > grp201127",
+    "url": "https://www.mhi.com/jp/news/grp201127.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工 工作機械、最新の金属3D 積層造形 技術を米国見本市 ... — 三菱重工 工作機械、最新の金属3D 積層造形 技術を米国見本市 ... Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > news",
+    "url": "https://www.mhi.com/jp/news/190516.html",
+    "pass": 3
+   },
+   {
+    "quote": "アディティブ・マニュファクチャリング（ 積層造形 ） 事業 の ... — アディティブ・マニュファクチャリング（ 積層造形 ） 事業 の ... Mitsubishi Power https://power.mhi.com > news",
+    "url": "https://power.mhi.com/jp/news/20201127.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・決算説明会 | 三菱重工 — 決算短信・決算説明会 | 三菱重工 Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > finance > library > result",
+    "url": "https://www.mhi.com/jp/finance/library/result",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工 工作機械、最新の金属3D 積層造形 技術を米見本市で ... — 三菱重工 工作機械、最新の金属3D 積層造形 技術を米見本市で ... 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXLRSP509733_W9A510C1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター ユーザー事例 三菱重工業 様 - 丸紅I-DIGIOグループ — 3Dプリンター ユーザー事例 三菱重工業 様 - 丸紅I-DIGIOグループ 丸紅I-DIGIOグループ https://www.marubeni-idigio.com > case > industrial > mhi",
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/case/industrial/mhi/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・ 決算説明 会 | 三菱重工 — 決算短信・ 決算説明 会 | 三菱重工 Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > finance > library > result",
+    "url": "https://www.mhi.com/jp/finance/library/result",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度第1四半期 決算説明 資料 — 2026年度第1四半期 決算説明 資料 Mitsubishi Heavy Industries, Ltd. PDF https://www.mhi.com > result > pdf > presentation",
+    "url": "https://www.mhi.com/jp/finance/library/result/pdf/fy20261q/presentation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 第3四半期 決算 概要 | 三菱重工 — 2025年度 第3四半期 決算 概要 | 三菱重工 Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > news",
+    "url": "https://www.mhi.com/jp/news/26020401.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度 第1四半期 決算 概要 | 三菱重工 — 2026年度 第1四半期 決算 概要 | 三菱重工 Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > news",
+    "url": "https://www.mhi.com/jp/news/26080401.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 三菱重工 - Mitsubishi Heavy Industries (MHI) — IR情報 | 三菱重工 - Mitsubishi Heavy Industries (MHI) Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > finance",
+    "url": "https://www.mhi.com/jp/finance",
+    "pass": 3
+   },
+   {
+    "quote": "会社 案内 | 三菱重工 — 会社 案内 | 三菱重工 Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > company > overview > profile",
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 三菱重工 - Mitsubishi Heavy Industries (MHI) — 企業情報 | 三菱重工 - Mitsubishi Heavy Industries (MHI) Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > company",
+    "url": "https://www.mhi.com/jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "沿革 | 三菱重工 — 沿革 | 三菱重工 Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > company > overview > history",
+    "url": "https://www.mhi.com/jp/company/overview/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 三菱重工業 】[7011]企業 概要 社員数や役員報酬・資本金 — 【 三菱重工業 】[7011]企業 概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7011",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工業 - Wikipedia — 三菱重工業 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 三菱重工業",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【バフェットの視点】 三菱重工業 は『買い』か？ — 国策と ... 【バフェットの視点】 三菱重工業 は『買い』か？ — 国策と ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "MHI躍進の裏で爆益へ？知る人ぞ知る 三菱重工 系SIer・菱友 ... MHI躍進の裏で爆益へ？知る人ぞ知る 三菱重工 系SIer・菱友 ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/tatsuya_sabato/n/n34cc280182c0",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工 の人気・新着記事まとめ - note 三菱重工 の人気・新着記事まとめ - note note https://note.com > tag > 三菱重工",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工 ・川崎重工・IHI、重工業3社の年収と稼ぎ方はどう ... 三菱重工 ・川崎重工・IHI、重工業3社の年収と稼ぎ方はどう ... note https://note.com > キャリア > 企業分析",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工業 の強み、求める人材をまとめてみた - note 三菱重工業 の強み、求める人材をまとめてみた - note note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "その後、1980年代には原動機（エナジー）が成長を牽引し、2010年代以降は不採算となった客船事業等から撤退・縮小を図り、現在の「エナジー」と「航空・防衛・宇宙」を両輪とする高付加価値インフラ企業へと事業ポートフォリオを見事に転換させてきました3",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "過去数年間にわたる事業再編により、同社は不採算事業（客船事業や国産旅客機事業など）を切り離し、中核事業への資源集中を進めました",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "FY18の営業利益の落ち込み（392億円）や、FY20の営業赤字（-327億円）、FY21のフリーキャッシュフローの大幅なマイナス（-2,771億円）は、こうした「負の遺産」の処理が重くのしかかっていた時期のものです3",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、経営陣はこれらの不採算プロジェクトからの撤退という苦渋の、しかし不可欠な決断を下しました",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "この奇跡的な効率化を牽引したのは、純利益率の大幅な改善（1.10% → 6.68%）です",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "不採算事業の止血が完了し、高利益率なアフターサービス事業と防衛案件が全体を牽引し始めた結果です",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "全社の売上高はFY25の5兆272億円からFY26は4兆9,742億円へとわずかに減少（前年比 -1.1%）しましたが、営業利益は3,745億円から4,747億円（前年比 +26.7%）へと劇的に増加しています3",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、営業利益率は過去最高水準の9.5%に達しています3",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "また、決算説明資料の充実や、不採算事業からの撤退に関する透明性の高い情報開示は、ガバナンスが正常に機能している証左であり、長期投資家が信頼を寄せるに足る経営体制であると定性的に高く評価できます",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "FY2026/3期（売上高 4兆9,742億円、営業利益率 9.54%）",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "NOPAT（税引後営業利益）の 25%（設備投資と運転資本の増減を考慮）",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "実績純利益ベースで再計算しても概ね40倍〜50倍前後の水準にあります",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "：過去の負の遺産であった不採算プロジェクトを見事に損切りし、ROE 11%台へのV字回復と強烈なフリーキャッシュフローの創出を実現した現在の経営陣とガバナンスは、高く評価に値します",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "3社ともFY2025で連結純利益が過去5年で最高水準",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "5年純利益推移で見る3社の成長軌道",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "3社ともFY2025で連結純利益が過去5年で最高水準を達成する",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "MHIは5年で406→1,135→1,305→2,220→2,454億と5年連続増益(+505%)、KHIは126→530→254→880億と5年で+598%成長(FY2023の一時減益は除く)、IHIは131→661→445→-682→1,127億とV字回復(FY2024の-682億赤字転落からFY2025で+1,127億の劇的黒字転換)",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "MHIの単体は22,347人・勤続18.9年の長期在籍型の熟練層厚めの重工業本体で、5年連続増収増益(FY2025 純利益2,454億)の給与テーブル強化が単体年収1,018万を支える",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "純利益でも三菱重工が圧倒的に高く、自己資本比率（高ければ高いほど財務面が安定している）も三菱重工が最も健全です",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   },
+   {
+    "quote": "IHIは純利益率が低く財務基盤が薄い傾向があり、川崎重工は設備投資に営業キャッシュフローの約90%が消える構造で自由に使える資金が少ないという課題を抱えています",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【バフェットの視点】三菱重工業は『買い』か？ — 国策と技術を独占する巨艦、その真の価値に迫る｜AIバフェット研究所 所長",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】三菱重工業は『買い』か？ — 国策と技術を独占する巨艦、その真の価値に迫る",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "株式投資において長期的な複利の恩恵を享受するためには、事業の経済的な実態を正確に理解し、他社が容易に模倣できない強固な競争優位性（モート）を持つ企業を探し出すことが不可欠です。しかし、それと同等に重要なのが「価格規律」です。いかに偉大な企業であっても、その企業が将来生み出す現金の現在価値（本質的価値）を大きく上回る価格を支払ってしまえば、投資リターンは悲惨なものになります。",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "本分析の対象である三菱重工業（証券コード：7011）は、日本を代表する総合重機メーカーであり、防衛装備品から発電プラント、航空宇宙分野に至るまで、国家インフラの中核を担う企業です。近年、地政学的リスクの高まりに伴う防衛予算の増額や、AI（人工知能）データセンターの急増による世界的な電力需要の拡大を背景に、株式市場において最も注目を浴びる「テーマ株」の一つとなっています1。",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、三菱重工業のビジネスモデルの堅牢性、歴史的な事業構造の変遷、財務の健全性、そしてキャッシュフローに基づく厳格な企業価値評価（バリュエーション）を徹底的に解剖します。定性的な事業の魅力と、定量的な価格の妥当性を切り離して考えるという、バリュー投資の基本原則に則り、最終的な投資判断（買い・見送り・売り）を記事の結びに提示します。",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "現在の三菱重工業を取り巻く事業環境は、過去数十年で最も強力な追い風を受けていると言っても過言ではありません。この追い風は主に二つの巨大なマクロトレンドによって構成されています。",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "第一のトレンドは、安全保障環境の激変に伴う日本の防衛費の大幅な増額です。政府は防衛力の抜本的強化を掲げ、数兆円規模の予算拡充を進めています。三菱重工業は、戦闘機、護衛艦、ミサイルシステムなどの主契約企業として、国内防衛産業において圧倒的なトップシェアを握っており、この国策の最大の受益者となる構造にあります2。",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "第二のトレンドは、生成AIの急速な普及とデジタル化に伴う、かつてない規模の電力需要の爆発です。AIを支える巨大なデータセンターは莫大な電力を消費するため、世界中でベースロード電源の確保が急務となっています。風力や太陽光といった再生可能エネルギーだけでは安定供給が難しいため、高効率な最新鋭ガスタービンや、既存の原子力発電プラントの再稼働、さらには次世代の水素・アンモニア混焼技術への期待が急速に高まっています。三菱重工業のエナジー部門は、まさにこの電力インフラの心臓部を提供する立場にあり、脱炭素と電力安定供給という相反する課題を解決するキープレイヤーとして市場から熱烈な視線を浴びています。",
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "pass": 3
+   },
+   {
+    "quote": "MHI躍進の裏で爆益へ？知る人ぞ知る三菱重工系SIer・菱友システムズ（4685）に今すぐ注目すべき理由｜日本個別株デューデリジェンスセンター",
+    "url": "https://note.com/tatsuya_sabato/n/n34cc280182c0",
+    "pass": 3
+   },
+   {
+    "quote": "MHI躍進の裏で爆益へ？知る人ぞ知る三菱重工系SIer・菱友システムズ（4685）に今すぐ注目すべき理由",
+    "url": "https://note.com/tatsuya_sabato/n/n34cc280182c0",
+    "pass": 3
+   },
+   {
+    "quote": "日本を代表する巨大重工メーカーである三菱重工業（以下、三菱重工）グループを主要顧客として、情報システムの企画・設計から開発、運用、そしてインフラ構築までを総合的に手掛けるユーザー系システムインテグレーター（SIer）です。 製造業のなかでも特に高度な技術力が求められる航空宇宙、防衛、エネルギー、船舶といった重厚長大産業の基盤を、ITとエンジニアリングの両面から支える「黒衣（くろご）」としての役割を担っています。一般的な業務システムの開発にとどまらず、設計や解析用の高度なソフトウェアの提供や、工場における生産システムのデジタル化など、モノづくりの現場の奥深くまで入り込んだサービスを展開している点が最大の特徴といえます。",
+    "url": "https://note.com/tatsuya_sabato/n/n34cc280182c0",
+    "pass": 3
+   },
+   {
+    "quote": "この企業の最大の武器は、三菱重工という巨大企業グループとの間に築き上げられた「圧倒的な顧客基盤と、長年にわたり蓄積された極めて特殊な業務知識」です。 防衛装備品や航空機、発電プラントといった事業は、一般的な商材とは比較にならないほどの機密性と安全性が要求されます。同社は設立以来、親会社の厳しい要求水準に応え続けることで、他社には決して真似のできないドメイン知識（業界特有の専門知識）を社内に蓄積してきました。顧客の社内用語や独自の開発プロセスを熟知しているため、システム開発の最上流工程である要件定義からスムーズに入り込むことができ、顧客側から見れば「一から説明しなくても意図を汲み取って形にしてくれる」という代替不可能な価値を提供し続けています。",
+    "url": "https://note.com/tatsuya_sabato/n/n34cc280182c0",
+    "pass": 3
+   },
+   {
+    "quote": "強力な武器の裏返しとして、最大の弱点でありリスクとなるのが「親会社グループへの極端な依存構造」です。 事業収益の大半が三菱重工グループ向けであるため、親会社の業績変動や事業方針の転換、IT予算の増減が同社の業績にダイレクトに波及します。仮に親会社が大規模なコスト削減策を打ち出し、システム投資を凍結した場合、自社の自助努力だけでは収益の落ち込みをカバーすることが極めて困難になります。また、特定のグループ内でのビジネスが中心となるため、外部市場の激しい競争に晒される機会が少なく、新しい技術トレンドの取り込みや新規顧客を開拓する「外販力」が育ちにくいという構造的な課題も内包しています。",
+    "url": "https://note.com/tatsuya_sabato/n/n34cc280182c0",
+    "pass": 3
+   },
+   {
+    "quote": "・この記事をお読みいただくことで、重厚長大産業を支えるITインフラビジネスの勝ち方の骨格が理解できます ・同社が今後さらに伸びるために満たすべき条件と、そのハードルが明確になります ・安定感の裏に潜む注意点や、事業環境が崩れるパターンの構造が整理できます ・中長期的な投資視点で、確認・監視しておくべき指標のタイプが分かります",
+    "url": "https://note.com/tatsuya_sabato/n/n34cc280182c0",
+    "pass": 3
+   },
+   {
+    "quote": "日本の安全保障や社会インフラを根底で支える三菱重工の高度なモノづくりを、情報技術とエンジニアリングの融合によって裏側から支え続ける、専属のテクノロジーパートナーです。",
+    "url": "https://note.com/tatsuya_sabato/n/n34cc280182c0",
+    "pass": 3
+   },
+   {
+    "quote": "このマガジンでは、上場・未上場企業を問わず、財務分析からビジネスモデル、成長可能性、リスク要因まで、徹底したデューデリジェンス（DD）の視点で解説します。単なる数字やニュースの羅列ではなく、「なぜこの企業が注目されるのか」「どこに死角が潜むのか」まで掘り下げ、あなたの投資判断・企業研究に役立つ深い情報をお届けします。",
+    "url": "https://note.com/tatsuya_sabato/n/n34cc280182c0",
+    "pass": 3
+   },
+   {
+    "quote": "防衛産業や宇宙開発、次世代エネルギー分野で中核を担う重工業の動向を扱います。",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5",
+    "pass": 3
+   },
+   {
+    "quote": "株価分析や事業構造の解説、AI技術との提携に関する記事が集まっています。",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5",
+    "pass": 3
+   },
+   {
+    "quote": "防衛産業や宇宙開発、次世代エネルギー分野で中核を担う重工業の動向を扱います。…",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5",
+    "pass": 3
+   },
+   {
+    "quote": "きょうの気になる企業ニュース（2026/10/19）",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5",
+    "pass": 3
+   },
+   {
+    "quote": "【深掘り銘柄⑰】三菱重工業（7011）｜防衛・エネルギーの成長株なのに、なぜ株価は上がらないのか？",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5",
+    "pass": 3
+   },
+   {
+    "quote": "【医療従事者のための資産形成】#22 資産500万円からの株式運用：医療従事者が知るべき「資産500万円の真の意味」",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5",
+    "pass": 3
+   },
+   {
+    "quote": "Pheue（ふ～）⭐️|医療従事者の年収1,000万円資産形成処方箋",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工・川崎重工・IHI、重工業3社の年収と稼ぎ方はどう違うか【2026年最新】｜企業スコープ_ハイクラス向け企業分析",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工・川崎重工・IHI、重工業3社の年収と稼ぎ方はどう違うか【2026年最新】",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "日本の「重工業」という枠に、1884年発祥の三菱系140年史エナジー主軸50,272億グループと、1878年発祥の川崎系147年史パワースポーツ&エンジン主軸21,293億グループと、1853年発祥の172年史航空機エンジン国際共同開発中核16,268億の3社が並ぶ。三菱重工業(MHI)は1884年に岩崎彌之助が設立した三菱造船所を起点に、三菱グループの一角として140年の重工業史を持つ。エナジー(発電所ボイラ・ガスタービン・原子力・脱炭素関連)18,039億(36%)・物流・冷熱・ドライブ(フォークリフト・空調・ターボチャージャー)13,027億(26%)・航空・防衛・宇宙(戦闘機F-2/F-X主契約・護衛艦・宇宙ロケットH3)10,293億(20%)・プラント・インフラ(化学プラント・製鉄機械・製紙機械)8,062億(16%)の4セグメントで、連結売上50,272億・従業員77,274",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "まず単体平均年収を並べると、MHI 1,018万・IHI 813万・KHI 793万で、MHIが突出、IHIとKHIの差は20万で拮抗する。連結売上ではMHI 50,272億(圧倒1位) > KHI 21,293億 > IHI 16,268億で、MHIがKHIの2.4倍、IHIの3.1倍の規模を持つ。ただし単体年収では、連結規模でKHI(21,293億) > IHI(16,268億)なのに、単体年収ではIHI(813万) > KHI(793万)で20万逆転する構造がある。この裏には、KHIの単体14,597人×勤続15.4年の広い層平均と、IHIの単体7,911人×勤続15.8年のやや厚みのある層構造という組織構造差がある。",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "3社ともFY2025で連結純利益が過去5年で最高水準",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "(MHI 406→2,454億で+505%、KHI 126→880億で+598%、IHI FY2024 -682億→FY2025 +1,127億のV字回復)という重工業ブームの追い風を時を同じくして受けている点も、業界の性格を示す。",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "そして、OpenMoneyの年齢別年収推計を並べると、3社の順位関係は全年齢帯で維持される。25歳ではMHI 535・IHI 506・KHI 486万で、MHI-IHI差29万・IHI-KHI差20万、30歳では729・697・670万で32万・27万差、35歳では899・857・824万で42万・33万差、40歳では1,042・994・956万で48万・38万差、50歳では1,144・1,092・1,050万で52万・42万差と、加齢とともにMHI-KHI差が49→94万まで拡大、MHI-IHI差は29→52万、IHI-KHI差は20→42万に拡大する。",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "全年齢帯でMHI > IHI > KHIの順位が維持されつつ、加齢とともに差が拡大",
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工業の強み、求める人材をまとめてみた｜企業分析ニキ",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工業の強み、求める人材をまとめてみた",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   },
+   {
+    "quote": "企業分析に時間をかけすぎず、より自分にあった企業の内定を勝ち取りたいすべての就活生へ",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   },
+   {
+    "quote": "このnoteでは人気企業やホワイト穴場企業の企業分析をはじめとして就活性が気になる様々な情報を毎週更新しています。ぜひ下のリンクからアクセスしてみてください！！",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工業は、日本最大の総合重工業メーカーとして「陸・海・空・宇宙」という全方位で事業を展開している会社です。簡単に言えば、「世界を動かす、ものづくりの総合商社」というイメージです。​",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   },
+   {
+    "quote": "、あなたが朝起きて電気をつける→その電力は三菱重工のガスタービンで発電されているかもしれません。通勤で電車に乗る→その車両システムは三菱重工製かもしれません。空を見上げて飛行機が飛んでいる→その機体部品や宇宙ロケットも三菱重工が製造しています。そして日本の安全保障を守る防衛装備品も手がけています。​",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   },
+   {
+    "quote": "事業領域は大きく4つのドメインに分かれています。",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   },
+   {
+    "quote": "では火力発電プラント、原子力発電プラントなど電力エネルギーを作る設備を開発・製造。",
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "三菱重工業 株式会社 (@MHI_GroupJP) / X 三菱重工業 株式会社 (@MHI_GroupJP) / X X https://x.com > MHI_GroupJP",
+    "url": "https://x.com/MHI_GroupJP",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工 ニュース   統合レポート「MHI REPORT 2026」を ... - X 三菱重工 ニュース   統合レポート「MHI REPORT 2026」を ... - X X https://x.com > @MHI_GroupJP",
+    "url": "https://x.com/MHI_GroupJP/status/2112786182509862936",
+    "pass": 3
+   },
+   {
+    "quote": "# 三菱重工業 - Search / X # 三菱重工業 - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工業 株式会社 - X 三菱重工業 株式会社 - X X https://x.com > @MHI_GroupJP",
+    "url": "https://x.com/MHI_GroupJP/status/2075127821584724001",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "三菱重工 とPFN、資本業務提携契約を締結 - 株式会社Preferred ... 三菱重工 とPFN、資本業務提携契約を締結 - 株式会社Preferred ... LinkedIn https://www.linkedin.com > posts > preferred-networks_...",
+    "url": "https://www.linkedin.com/posts/preferred-networks_%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%81%A8pfn%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%90-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEpreferred-networks-activity-7505915028957515776-PhS9",
+    "pass": 3
+   },
+   {
+    "quote": "Shigeki WAKASUGI - 三菱重工業 - LinkedIn Shigeki WAKASUGI - 三菱重工業 - LinkedIn LinkedIn https://hk.linkedin.com > ...",
+    "url": "https://hk.linkedin.com/in/shigeki-wakasugi-7605a84b",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工 国産ジェット開発凍結へ | LinkedIn 三菱重工 国産ジェット開発凍結へ | LinkedIn LinkedIn https://www.linkedin.com > news > story > 三菱重工-国...",
+    "url": "https://www.linkedin.com/news/story/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5-%E5%9B%BD%E7%94%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E9%96%8B%E7%99%BA%E5%87%8D%E7%B5%90%E3%81%B8-4249473/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "三菱重工 グループのサステナビリティ (@mhi.sustainability) 三菱重工 グループのサステナビリティ (@mhi.sustainability) Facebook https://www.facebook.com > mhi.sustainability",
+    "url": "https://www.facebook.com/mhi.sustainability/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工 サーマルシステムズ (@mhi.mth.japan) - Facebook 三菱重工 サーマルシステムズ (@mhi.mth.japan) - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/mhi.mth.japan/",
+    "pass": 3
+   },
+   {
+    "quote": "【 三菱重工業 株式会社】 働きやすい環境で幅広い業務を経験 ... 【 三菱重工業 株式会社】 働きやすい環境で幅広い業務を経験 ... Facebook https://www.facebook.com > talentbook.jp > posts > 三菱...",
+    "url": "https://www.facebook.com/talentbook.jp/posts/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%83%8D%E3%81%8D%E3%82%84%E3%81%99%E3%81%84%E7%92%B0%E5%A2%83%E3%81%A7%E5%B9%85%E5%BA%83%E3%81%84%E6%A5%AD%E5%8B%99%E3%82%92%E7%B5%8C%E9%A8%93%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%81%A7%E5%8F%B6%E3%81%88%E3%82%8B%E5%A4%B1%E6%95%97%E3%82%92%E6%81%90%E3%82%8C%E3%81%AA%E3%81%84%E6%8C%91%E6%88%A6%E3%81%A8%E6%88%90%E9%95%B7/1695829832040700/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工業 株式会社（以下 - Facebook 三菱重工業 株式会社（以下 - Facebook Facebook https://www.facebook.com > mitsubishidenki > posts > 三...",
+    "url": "https://www.facebook.com/mitsubishidenki/posts/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BB%A5%E4%B8%8B%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%81%A8%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BB%A5%E4%B8%8B%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E3%81%AF%E5%85%B1%E5%90%8C%E3%81%A7%E9%96%8B%E7%99%BA%E3%81%99%E3%82%8B%E7%81%AB%E5%8A%9B%E7%99%BA%E9%9B%BB%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88%E5%90%91%E3%81%91%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%82%AC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E5%88%B6%E5%BE%A1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E6%A9%9F%E8%83%BD%E8%A9%A6%E9%A8%93%E3%82%92%E5%AE%8C%E4%BA%86%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%AC%E5%88%B6%E5%BE%A1%E3%82%B7%E3%82%B9/1324281699745176/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mhi.com/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/company/overview/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/business/products-services/energy-environment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/company/business-area",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/company/business-area/nuclear",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/company/location/hiroshimaw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/company/location/yokohamaw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/company/location/sagamiharaw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/company/overview/museum/minatomirai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/business/solutions/hydrogen-ammonia",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/business/products-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/business/products-services/building-equipment-structures",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/business/products-services/industrial-machinery",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/business/products-services/logistics-material-handling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/business/products-services/mobility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/business/products-services/ships-ocean",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/business/products-services/aviation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/business/products-services/space-defense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/business/technology/yhh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/company/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/company/overview/vision",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/company/overview/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/company/overview/officers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/company/overview/organization.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/business/products-services/industrial-machinery/compressors-mechanical-turbines",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/company/overview/minatomirai/about_museum/pamphlet.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/company/overview/museum/minatomirai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhi.com/jp/company/overview/museum/minatomirai/about_museum",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mhi.com/jp/company/technology/yhh.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhi.com/sites/g/files/jwhtju111/files/styles/original_image_style/public/1320-Air-Pollution-Control.jpg?itok=Ut3Tx1O1",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mhi.com/sites/g/files/jwhtju111/files/styles/original_image_style/public/1330-Water-Sludge-Treatment-System.jpg?itok=IRi6SbDq",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mhi.com/sites/g/files/jwhtju111/files/styles/original_image_style/public/6320-Marine-Energy-Environmental-Equipment.jpg?itok=g9aKhWNF",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mhi.com/sites/g/files/jwhtju111/files/styles/original_image_style/public/2026-08/domain_air_01.png?itok=KFv1Lhm4",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mhi.com/themes/custom/mhi/src/mhi/images/logo_minatmitai_01-jp.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mhi.com/sites/g/files/jwhtju111/files/styles/original_image_style/public/1000-Energy-Environment.jpg?itok=1lXnI-FA",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/news/938afefd350bc876c4c64929925d91c60f60baa5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://power.mhi.com/jp/news/20201127.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXLRSP509733_W9A510C1000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsme.or.jp/kaisi/1233-36/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/case/industrial/mhi/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/news/938afefd350bc876c4c64929925d91c60f60baa5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7011",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n34cc280182c0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/company_scope/n/nd61041322c90",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MHI_GroupJP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MHI_GroupJP/status/2112786182509862936",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MHI_GroupJP/status/2075127821584724001",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/preferred-networks_%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%81%A8pfn%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%90-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEpreferred-networks-activity-7505915028957515776-PhS9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hk.linkedin.com/in/shigeki-wakasugi-7605a84b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/news/story/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5-%E5%9B%BD%E7%94%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E9%96%8B%E7%99%BA%E5%87%8D%E7%B5%90%E3%81%B8-4249473/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mhi.sustainability/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mhi.mth.japan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/talentbook.jp/posts/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%83%8D%E3%81%8D%E3%82%84%E3%81%99%E3%81%84%E7%92%B0%E5%A2%83%E3%81%A7%E5%B9%85%E5%BA%83%E3%81%84%E6%A5%AD%E5%8B%99%E3%82%92%E7%B5%8C%E9%A8%93%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%81%A7%E5%8F%B6%E3%81%88%E3%82%8B%E5%A4%B1%E6%95%97%E3%82%92%E6%81%90%E3%82%8C%E3%81%AA%E3%81%84%E6%8C%91%E6%88%A6%E3%81%A8%E6%88%90%E9%95%B7/1695829832040700/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mitsubishidenki/posts/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BB%A5%E4%B8%8B%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%81%A8%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BB%A5%E4%B8%8B%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E3%81%AF%E5%85%B1%E5%90%8C%E3%81%A7%E9%96%8B%E7%99%BA%E3%81%99%E3%82%8B%E7%81%AB%E5%8A%9B%E7%99%BA%E9%9B%BB%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88%E5%90%91%E3%81%91%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%82%AC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E5%88%B6%E5%BE%A1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E6%A9%9F%E8%83%BD%E8%A9%A6%E9%A8%93%E3%82%92%E5%AE%8C%E4%BA%86%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%AC%E5%88%B6%E5%BE%A1%E3%82%B7%E3%82%B9/1324281699745176/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MHI_GroupJP",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "三菱重工業 3Dプリンタ 撤退 OR 縮小 OR 終了",
+   "results": [
+    "https://www.mhi.com/jp/news/210708.html",
+    "https://www.jsme.or.jp/kaisi/1233-36/",
+    "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "https://monoque.jp/news/938afefd350bc876c4c64929925d91c60f60baa5/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://www.mitsubishielectric.co.jp/fa/products/mecha/am/items/ded/index.html",
+    "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf"
+   ]
+  },
+  {
+   "query": "三菱重工業 3Dプリンタ 参入 OR 開始 OR 買収",
+   "results": [
+    "https://www.mhi.com/jp/news/210708.html",
+    "https://www.mhi.com/jp/news/190516.html",
+    "https://www.jsme.or.jp/kaisi/1233-36/",
+    "https://prtimes.jp/main/html/rd/p/000000267.000025611.html",
+    "https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://cad-kenkyujo.com/dmp2500/",
+    "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "https://j3d.co.jp/blog/blog20/"
+   ]
+  },
+  {
+   "query": "三菱重工業 積層造形 事業 売上",
+   "results": [
+    "https://www.mhi.com/jp/news/grp201127.html",
+    "https://www.mhi.com/jp/news/190516.html",
+    "https://power.mhi.com/jp/news/20201127.html",
+    "https://www.mhi.com/jp/finance/library/result",
+    "https://www.nikkei.com/article/DGXLRSP509733_W9A510C1000000/",
+    "https://www.mhi.com/jp/finance/finance/annual-results",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://the-shashi.com/tse/7011/segment/",
+    "https://monoist.itmedia.co.jp/mn/articles/1807/05/news056.html"
+   ]
+  },
+  {
+   "query": "三菱重工業 3Dプリンター 社長 インタビュー 課題",
+   "results": [
+    "https://www.mhi.com/jp/news/210708.html",
+    "https://www.jsme.or.jp/kaisi/1233-36/",
+    "https://www.marubeni-idigio.com/product/3dprinter/case/industrial/mhi/index.html",
+    "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "https://monoque.jp/news/938afefd350bc876c4c64929925d91c60f60baa5/",
+    "https://www.cct-inc.co.jp/koto-online/archives/396",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00001/02179/",
+    "https://newswitch.jp/p/17681",
+    "https://www.youtube.com/watch?v=EcdDPUd3gig"
+   ]
+  },
+  {
+   "query": "三菱重工業 決算説明 3Dプリンタ",
+   "results": [
+    "https://www.mhi.com/jp/finance/library/result",
+    "https://www.mhi.com/jp/finance/library/result/pdf/fy20261q/presentation.pdf",
+    "https://www.mhi.com/jp/news/26020401.html",
+    "https://www.mhi.com/jp/news/26080401.html",
+    "https://www.mhi.com/jp/finance",
+    "https://froggy.smbcnikko.co.jp/62006/",
+    "https://www.mhi.com/jp/finance/library/theme",
+    "https://www.itmedia.co.jp/business/articles/2608/05/news042.html",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=7011"
+   ]
+  },
+  {
+   "query": "三菱重工業 会社概要 設立 株主",
+   "results": [
+    "https://www.mhi.com/jp/company/overview/profile",
+    "https://www.mhi.com/jp/company",
+    "https://www.mhi.com/jp/company/overview/history.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7011",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "https://www.mhi.com/jp/group/mhies/company",
+    "https://job.mynavi.jp/28/pc/search/corp16/outline.html",
+    "https://www.mhi.com/jp/finance/stock/status",
+    "https://www.mhi.com/jp/finance/individual/service",
+    "https://ja.wikipedia.org/wiki/三菱重工業"
+   ]
+  },
+  {
+   "query": "site:note.com 三菱重工業",
+   "results": [
+    "https://note.com/open_azalea2045/n/ne12cfc7423fd",
+    "https://note.com/tatsuya_sabato/n/n34cc280182c0",
+    "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5",
+    "https://note.com/company_scope/n/nd61041322c90",
+    "https://note.com/good_dill292/n/n7abdc76e4dcc",
+    "https://note.com/persistence_100/n/ne9d849148315",
+    "https://note.com/nobu8783/n/n1cec1144bd92",
+    "https://note.com/open_azalea2045/n/n56d699dc1b82",
+    "https://note.com/irshukatsu/n/nde8d80a914dc",
+    "https://note.com/g__san/n/n87e14bd1ac13"
+   ]
+  },
+  {
+   "query": "site:x.com 三菱重工業",
+   "results": [
+    "https://x.com/MHI_GroupJP",
+    "https://x.com/MHI_GroupJP/status/2112786182509862936",
+    "https://x.com/hashtag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "https://x.com/MHI_GroupJP/status/2075127821584724001",
+    "https://x.com/MHI_GroupJP/status/2105887253331595498?lang=bn",
+    "https://x.com/MHI_GroupJP/status/2034540384248889495",
+    "https://x.com/MHI_GroupJP/status/1601154695581421568",
+    "https://x.com/hashtag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9",
+    "https://x.com/MHI_GroupJP/status/2084157321345736919",
+    "https://x.com/MHI_GroupJP/status/2110279448083996765"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 三菱重工業",
+   "results": [
+    "https://jp.linkedin.com/company/mitsubishi-heavy-industries",
+    "https://www.linkedin.com/posts/preferred-networks_%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%81%A8pfn%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%90-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEpreferred-networks-activity-7505915028957515776-PhS9",
+    "https://hk.linkedin.com/in/shigeki-wakasugi-7605a84b",
+    "https://www.linkedin.com/news/story/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5-%E5%9B%BD%E7%94%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E9%96%8B%E7%99%BA%E5%87%8D%E7%B5%90%E3%81%B8-4249473/",
+    "https://jp.linkedin.com/in/%E5%95%93%E5%8F%B2-%E5%B1%B1%E6%9C%AC-1b9110220",
+    "https://aq.linkedin.com/jobs/view/%E8%BB%8A%E4%B8%A1%E6%90%AC%E9%80%81%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8B%85%E5%BD%93-%E9%9B%BB%E6%B0%97%E8%A8%AD%E8%A8%88-at-one-career-plus-4445652428",
+    "https://www.linkedin.com/jobs/mitsubishi-heavy-industries-jobs-worldwide",
+    "https://jp.linkedin.com/in/yasuhiro-yamaguchi-35316815a",
+    "https://jp.linkedin.com/in/hiroshi-fujimoto-ba2404105",
+    "https://www.linkedin.com/company/mitsubishi-heavy-industries"
+   ]
+  },
+  {
+   "query": "site:facebook.com 三菱重工業",
+   "results": [
+    "https://www.facebook.com/mhi.sustainability/",
+    "https://www.facebook.com/mhi.mth.japan/",
+    "https://www.facebook.com/talentbook.jp/posts/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%83%8D%E3%81%8D%E3%82%84%E3%81%99%E3%81%84%E7%92%B0%E5%A2%83%E3%81%A7%E5%B9%85%E5%BA%83%E3%81%84%E6%A5%AD%E5%8B%99%E3%82%92%E7%B5%8C%E9%A8%93%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%81%A7%E5%8F%B6%E3%81%88%E3%82%8B%E5%A4%B1%E6%95%97%E3%82%92%E6%81%90%E3%82%8C%E3%81%AA%E3%81%84%E6%8C%91%E6%88%A6%E3%81%A8%E6%88%90%E9%95%B7/1695829832040700/",
+    "https://www.facebook.com/mitsubishidenki/posts/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BB%A5%E4%B8%8B%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%81%A8%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BB%A5%E4%B8%8B%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E3%81%AF%E5%85%B1%E5%90%8C%E3%81%A7%E9%96%8B%E7%99%BA%E3%81%99%E3%82%8B%E7%81%AB%E5%8A%9B%E7%99%BA%E9%9B%BB%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88%E5%90%91%E3%81%91%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%82%AC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E5%88%B6%E5%BE%A1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E6%A9%9F%E8%83%BD%E8%A9%A6%E9%A8%93%E3%82%92%E5%AE%8C%E4%BA%86%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%AC%E5%88%B6%E5%BE%A1%E3%82%B7%E3%82%B9/1324281699745176/",
+    "https://www.facebook.com/heavydutyTW/about/",
+    "https://www.facebook.com/groups/1805216590097177/posts/2095538261065007/",
+    "https://www.facebook.com/pages/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD%E4%B8%89%E8%8F%B1%E3%81%BF%E3%81%AA%E3%81%A8%E3%81%BF%E3%82%89%E3%81%84%E6%8A%80%E8%A1%93%E9%A4%A8/149019801797757",
+    "https://www.facebook.com/talentbook.jp/posts/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A4%BE%E5%93%A1%E3%81%AE%E3%81%8F%E3%82%89%E3%81%97%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E5%88%B6%E5%BA%A6%E3%81%A8%E3%81%AF-%E7%A6%8F%E5%88%A9%E5%8E%9A%E7%94%9F%E6%8B%85%E5%BD%93%E8%80%85%E3%81%8C%E8%AA%9E%E3%82%8B%E3%81%9D%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E5%AE%9F%E4%BD%93%E9%A8%93/1742140924076257/",
+    "https://www.facebook.com/ids.power.mhi/",
+    "https://www.facebook.com/mhirouso758/"
+   ]
+  },
+  {
+   "query": "三菱重工業 note 社長",
+   "results": [
+    "https://www.mhi.com/jp/recruit/shinsotsu/introduction/topmessage",
+    "https://www.mhi.com/jp/company/overview/officers",
+    "https://note.com/nainaiteinote/n/n5505aa67bb54",
+    "https://www.nikkei.com/article/DGXZQOUC186U50Y4A211C2000000/",
+    "https://www.mhi.com/jp/recruit/shinsotsu/introduction/outline",
+    "https://www.youtube.com/watch?v=bCuV0Achm0E",
+    "https://www.mhi.com/jp/company/message",
+    "https://diamond.jp/articles/-/374593",
+    "https://note.com/sankituushin/n/n330ca0d2f263",
+    "https://the-shashi.com/tse/7011/ceo/"
+   ]
+  },
+  {
+   "query": "三菱重工業 X 投稿",
+   "results": [
+    "https://x.com/MHI_GroupJP",
+    "https://www.mhi-mth.co.jp/socialmedia/",
+    "https://www.mhi.com/jp/conditions/social.html",
+    "https://www.mhi.com/jp/news",
+    "https://www.instagram.com/mhi_groupjp/",
+    "https://www.mhi.com/jp",
+    "https://x.com/MHI_LS",
+    "https://finance.yahoo.co.jp/quote/7011.T/forum",
+    "https://www.mhi.com/jp/news/25022101.html",
+    "https://search.yahoo.co.jp/realtime/search/三菱重工/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像7件／外部32頁・検索12回）"
+ }
+}

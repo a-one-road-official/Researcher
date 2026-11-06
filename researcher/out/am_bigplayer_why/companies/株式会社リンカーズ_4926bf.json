@@ -1,0 +1,3272 @@
+{
+ "name": "株式会社リンカーズ",
+ "aliases": [
+  "リンカーズ",
+  "Linkers"
+ ],
+ "context": "技術探索の窓口（競合）",
+ "researched_at": "2026-11-06T17:13:28.531377+00:00",
+ "official_url": "https://www.linkers.net",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "株主資本",
+    "value": "",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "label": "株主資本合計",
+    "value": "1,117,754 465,498",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "label": "親会社株主に帰属する当期純損失(△)",
+    "value": "△548,214 △672,256",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "label": "親会社株主に帰属する当期純損失(△)",
+    "value": "△548,214 △548,214 △548,214",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "label": "親会社株主に帰属する当期純損失( △ )",
+    "value": "△672,256 △672,256 △672,256",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "label": "普通株主に帰属しない金額(千円)",
+    "value": "- -",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "label": "親会社株主に帰属する当期純利益",
+    "value": "△ 672 △ 393 278 -",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "label": "主要 株主",
+    "value": "前田 佳宏 19.44% 合同会社SAKUNANA 18.11% SBI AI&Blockchain投資事業有限責任組合 9.20% 加福 秀亙 6.04% 京侑（株） 4.34% （2025年7月31日現在） [ 4 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "label": "株主",
+    "value": "上位10名の持株比率の合計は63.1%。",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "label": "親会社帰属利益",
+    "value": "−6.7億円",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "label": "親会社帰属利益",
+    "value": "4,901万円",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "label": "親会社帰属利益",
+    "value": "1.0億円",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "label": "親会社帰属利益",
+    "value": "−2.0億円",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "label": "親会社帰属利益",
+    "value": "−5.5億円",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Disty株式会社設立",
+    "value": "Disty株式会社設立：2011 2015 2018 2020 2022 2025",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "label": "Disty株式会社設立",
+    "value": "Disty株式会社設立：2013 技術探索サービス「eEXPOソーシング」リリース(現 Linkers Sourcing) 2017 2019 2021 2024",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "label": "Disty株式会社設立",
+    "value": "Disty株式会社設立：2013 技術探索サービス「eEXPOソーシング」リリース(現 Linkers Sourcing) オフィス移転(東京都中央区日本橋本町) 用途開拓サービス「Linkers Marketing」リリース 事業会社向けマッチングシステム「Linkers for Business」リリース「Linkers Research」用アプリ「Linkers Research Clip」のリリース リサーチ事業を分社「株式会社リンカーズOI研究所」を連結子会社として設立",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "label": "Disty株式会社設立",
+    "value": "Disty株式会社設立：2013 技術探索サービス「eEXPOソーシング」リリース(現 Linkers Sourcing) グローバル技術リサーチサービス「Linkers Research」リリース 用途開拓サービス「Linkers Marketing」リリース 事業会社向けマッチングシステム「Linkers for Business」リリース「Linkers Research」用アプリ「Linkers Research Clip」のリリース リサーチ事業を分社「株式会社リンカーズOI研究所」を連結子会社として設立",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2011年（平成23年）9月1日 （Disty株式会社）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：2011年9月1日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5131",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2011年9月",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2011年9月 同じ年に設立した上場会社 26社",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "(千円) 1,607,768 1,464,541",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "連結: 13億6,073万5千円 単独: 10億9,176万6千円 （2025年7月期） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "14億円 556位 ／596社 —",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "14億円",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "16億円",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "15億円",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 108-0073 東京都 港区 三田 三丁目5-19 住友不動産東京三田ガーデンタワー",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "本社オフィス 〒 108-0073 \n東京都港区三田三丁目5番19号 住友不動産東京三田ガーデンタワー29階\n[ Google Maps ]",
+    "url": "https://corp.linkers.net/company/outline/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都港区三田三丁目５番19号（2025年11月27日から本店所在地　東京都文京区後楽二丁目３番21号が上記のように移転しております。）",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役 社長 加福秀亙",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "加福秀亙",
+    "url": "https://corp.linkers.net/company/outline/",
+    "pass": 3
+   },
+   {
+    "label": "代表者氏名",
+    "value": "加福　秀亙",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5131",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結: 102人 単独: 79人 （2025年7月31日現在） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "100名（2025年１月末日現在）",
+    "url": "https://corp.linkers.net/company/outline/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "79 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5131",
+    "pass": 3
+   },
+   {
+    "label": "従業員数（連結）",
+    "value": "105人 420位 ／481社 —",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "105人",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "label": "従業員（連結）",
+    "value": "36人",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "label": "従業員（連結）",
+    "value": "231人",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "label": "従業員（連結）",
+    "value": "116人",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "参入しない・慎重な理由の発言": [
+   {
+    "quote": "あらゆる業界の課題を解決する企業・大学・専門家をみつけます",
+    "url": "https://www.linkers.net/",
+    "pass": 1
+   },
+   {
+    "quote": "・本セミナーのプログラム内では、課題解決の具体的な手段や実例として、弊社サービスのご紹介を交えて進行いたします",
+    "url": "https://corp.linkers.net/news/13471/",
+    "pass": 3
+   },
+   {
+    "quote": "ばく然とした課題感であっても、課題の解像度を上げる一助になればと考えております",
+    "url": "https://corp.linkers.net/news/13471/",
+    "pass": 3
+   },
+   {
+    "quote": "このような課題を解決し、貴社の積極的な情報発信をご支援するサービスです",
+    "url": "https://corp.linkers.net/news/13471/",
+    "pass": 3
+   },
+   {
+    "quote": "第20回：和菓子づくりで社会課題の解決に貢献する「株式会社富田屋」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "第23回：「三方良し」の精神で取引先、そして社会全体の課題解決に取り組む「株式会社丸信」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「経産省の女性起業家支援」ゼロ・イチと広域にこだわる理由（後編）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「経産省の女性起業家支援」ゼロ・イチと広域にこだわる理由（前編）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「株式会社Waris」文系総合職の専門性を生かせる人材マッチング",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「パソナ農援隊」栽培技術だけでなく経営感覚に長けた人材を育成する",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「八面六臂」ネットを活用した生鮮食材流通で従来のリスクを回避する",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハンズオン支援で物流コスト低減を実現「サンコー株式会社」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "仮設水処理技術でコスト圧縮、工期短縮 地球環境保護にも貢献「セイスイ工業株式会社」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "空き家問題や更生保護など社会課題の解決に特化したビジネスモデル「LCC株式会社」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営課題別に見る 中小企業グッドカンパニー事例集",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「（株）KAKERU CREATIVE STUDIO」デザインで企業課題解決",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "リスクと向き合い人と技術を育てる「ニシハラ理工株式会社」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "“パフォーマー警備員”が広告塔、業界イメージ払拭して人材確保・定着を目指す【SHOWYA株式会社（兵庫県宝塚市）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "仕事と競技を両立、共存・共栄目指すアスリート社員採用で人材確保【株式会社大松運輸（神奈川県横浜市）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "バングラデシュの就職難と宮崎のIT人材不足 課題解決に向けて産学官連携【株式会社ビーアンドエム（宮崎県宮崎市）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材活かし海外展開 地元の雇用改善にも貢献【株式会社菅原工業（宮城県気仙沼市）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "相次ぐ経営統合で人材確保と事業拡大を達成【開成工業株式会社（香川県宇多津町）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "フルリモートワークでの正規雇用を導入 全国から専門人材を採用【株式会社鈴木ハーブ研究所（茨城県東海村）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "副業・兼業人材を活用し、新商品開発 社員のモチベーション向上につなげる【株式会社鬨一精機（長野県松本市）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材が働き続ける環境づくりを支援、海外展開で経営を安定化【株式会社三栄金属製作所（大阪市生野区）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "変化に柔軟に対応する経営が、優秀な外部人材の獲得に寄与【草津電機株式会社（滋賀県草津市）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "データ解析やAIを活用、多種多様な企業の課題を解決【株式会社METRIKA（東京都渋谷区）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "中食産業の課題克服に挑む「惣菜盛付ロボット」【コネクテッドロボティクス株式会社（東京都小金井市）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "AR活用した新スポーツ「HADO」が学校・職場に拡大 人材育成・教育効果が注目【株式会社meleap（東京都港区）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "資料は、新規プロダクトである製造向けSaaS開発の加速及び人材採用強化（86人→102人）といった将来の業容拡大に向けた政策投資を先行したことで販管費が増加したとしている",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "コスト面では営業人員を中心とした採用強化（営業人員約20名の採用）と新規プロダクト開発等の投資先行の予算を織り込み、営業利益△369百万円、経常利益△357百万円、親会社株主に帰属する当期純利益△359百万円を計画している",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "本サービス及び本サービスに掲載される情報を利用した結果、あるいは、利用できなかった結果により、会員に生じたいかなる費用、損害は名目の如何にかかわらず、当社は一切の責任を負いません",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "問合せ先責任者 （役職名）代表取締役 経営管理本部長 （氏名）江頭 宏一 TEL 03（6822）9585",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、物価上昇が家計や企業活動に影響を及ぼす中、米国をはじめとする各国の通商政策を巡る不確実性や、それらを受けた海外経済の減速懸念、中東情勢をはじめとする地政学リスクの高まり、金融・為替市場の変動等により、先行きに対する不確実性の高い状況が続きました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "特に、製造業を中心とする企業においては、人手不足への対応やデジタル化、省力化等を目的とした投資需要が継続する一方、事業環境の先行きに対する不透明感から、新規事業や研究開発を含む投資案件について、投資効果や実行時期を慎重に見極める動きも見られました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "今後の見通しにつきましては、我が国経済は、雇用・所得環境の改善や設備投資の持ち直し等を背景として緩やかな回復が期待される一方、米国をはじめとする各国の通商政策の動向や海外経済の減速懸念、中東情勢をはじめとする地政学リスク、金融・為替市場の変動等により、先行きに対する不確実性の高い状況が続くものと見込んでおります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "また、製造業を中心として、人手不足への対応やデジタル化、省力化、研究開発等に対する投資需要は引き続き見込まれる一方、企業による投資案件の選別や投資効果の見極めは一層重要になるものと認識しております",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社が培ってきた企業ネットワークやマッチングノウハウを活用し、国内外の技術探索・用途開拓ニーズへの対応を進めてまいります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月にサービスを開始した「Linkers TX」については、当社グループが蓄積してきた企業データ、企業ネットワーク及び調査・マッチングノウハウを活用し、顧客への提案活動及び利用拡大に取り組んでまいります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "本資本業務提携は、SBIグループが有する地域金融機関、投資先企業、提携先企業、中堅・中小企業及び各種事業会社とのネットワーク、金融・投資領域における知見及び事業開発支援に係るノウハウと、当社グループが有する技術探索・マッチングノウハウ、製造業を中心とする法人ネットワーク及びSaaS型マッチングシステムを組み合わせることにより、当社グループの既存サービスの価値向上及び「Linkers TX」等の成長領域における事業機会の拡大を図ることを目的としております",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "社内外連携の課題を考える～イノベーティブな連携はなぜうまくいかないのか～（ 2023 年 6 月 7 日（水）13:00 ～）｜リンカーズ株式会社",
+    "url": "https://corp.linkers.net/news/6312/",
+    "pass": 3
+   },
+   {
+    "quote": "社内外連携の課題を考える～イノベーティブな連携はなぜうまくいかないのか～（ 2023 年 6 月 7 日（水）13:00 ～）",
+    "url": "https://corp.linkers.net/news/6312/",
+    "pass": 3
+   },
+   {
+    "quote": "オープンイノベーションの課題と乗り越えるために必要なスキル",
+    "url": "https://corp.linkers.net/news/6312/",
+    "pass": 3
+   },
+   {
+    "quote": "本 Web セミナーでは、オープンイノベーションや社内の部門をまたいだ横串連携について、ありがちな課題と、担当者として学びたいスキルを解説します",
+    "url": "https://corp.linkers.net/news/6312/",
+    "pass": 3
+   },
+   {
+    "quote": "・研究部門などで社内外連携をテーマに従事し、課題を感じている方",
+    "url": "https://corp.linkers.net/news/6312/",
+    "pass": 3
+   },
+   {
+    "quote": "・新規事業関連などプロジェクトベースの取り組みに従事しており、部門連携に課題を感じている方",
+    "url": "https://corp.linkers.net/news/6312/",
+    "pass": 3
+   },
+   {
+    "quote": "上記のような課題をお持ちの方は、ぜひご参加ください",
+    "url": "https://corp.linkers.net/news/6312/",
+    "pass": 3
+   },
+   {
+    "quote": "■講演『社内外連携の課題を考える～イノベーティブな連携はなぜうまくいかないのか～』",
+    "url": "https://corp.linkers.net/news/6312/",
+    "pass": 3
+   },
+   {
+    "quote": "・3D プリンターの産業応用への課題と AI 化・オープンソース化の検討（株式会社技術情報協会）",
+    "url": "https://corp.linkers.net/news/6312/",
+    "pass": 3
+   },
+   {
+    "quote": "ばく然とした課題感であっても、課題の解像度を上げる一助になればと考えております",
+    "url": "https://corp.linkers.net/news/6312/",
+    "pass": 3
+   },
+   {
+    "quote": "このような課題を解決し、貴社の積極的な情報発信をご支援するサービスです",
+    "url": "https://corp.linkers.net/news/6312/",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 当社グループは、製造業の課題に対して、自社運営マッチング、リサーチ、その他サービスを組み合わせたソリューション提案を展開",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "受注単価の見直し等により減収幅の抑制を図る",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり企業の活性化を目的に、大手企業を中心とした技術課題を抱えた発注企業のニーズと、ものづくりに特化した全国の中小企業等とを引き合わせることで、オープンイノベーションを推進します",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "Linkers for BANKLinkers for Businessシステムを介して、行職員間での情報共有がなされることから、行職員がマッチングプロセスに介在する機会が創出され、特に導入機関の主要な顧客である非工業系企業同士のマッチングにおいて、従来のノウハウが最大化されます",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "研究・技術パートナーの探索、新規事業やR&Dのテーマ検討など、企業が抱える様々な課題、情報の取得困難性に対して、技術専門性のあるリサーチャーがアウトプットを提供します",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "お取引先の潜在的な課題を顕在化し、課題解決に導く「LFB」を提供",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "•行職員間で案件・ノウハウを共有し、顧客ニーズへの対応力を向上",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "•自行・自社内で解決が難しい案件について、外部ネットワークも活用したマッチングが可能",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "◼一般リサーチ、マルチクライアントリサーチに加え、顧客固有の課題に合わせて調査設計を行う高付加価値なカスタマイズ型リサーチに注力",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   }
+  ],
+  "参入の時期と形": [
+   {
+    "quote": "LIVE配信：2026 年 9 月 2 日（水） 13:00 ～ 14:00 （ 12:55 受付開始）",
+    "url": "https://corp.linkers.net/news/13471/",
+    "pass": 3
+   },
+   {
+    "quote": "録画配信：2026 年 9 月 3 日（木） 13:00 ～ 14:00 （ 12:55 受付開始）",
+    "url": "https://corp.linkers.net/news/13471/",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年 9 月 4 日（金） 13:00 ～ 14:00 （ 12:55 受付開始）",
+    "url": "https://corp.linkers.net/news/13471/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド見積り作成支援システムで新会社設立「月井精密」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「合同会社はひぷぺぽ」墨田区で小規模保育所をゼロから立ち上げ",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「スギヨファーム」「カニかま」を発明した企業が農業に参入",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「香遊生活」オーガニックハーブの栽培・加工品に異業種参入",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「銀座農園」販路を確保したうえで企業の農業参入を促す",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "100年続く繊維問屋が異業種に挑戦 ロードバイク事業に参入「越後繊維株式会社」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "捕獲されるイノシシ「1頭でも埋めたくない」と猪肉サブスク開始「合同会社弐百円」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "愛犬と泊まれる高級リゾートで「ブルーオーシャン」に参入【株式会社湯元舘】（滋賀県大津市）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般消費者向けスイーツを開発・発売【株式会社鹿祿】（徳島県徳島市）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "通販拡大・自販機参入で増収増益【株式会社かね久】（仙台市若林区）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "OEM専業からオリジナルブランド立ち上げで次なるステップへ【株式会社ユーイーアイ】(秋田県大仙市）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "医療業界への参入と「セルロースナノファイバー」の開発に挑戦【日進工業株式会社】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "賢いロボットの活用法とロボット事業参入のポイント【明治大学 理工学部 機械工学科 専任教授／SEQSENSE株式会社 共同創立者・黒田洋司氏】＜連載第4回＞（全4回）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業診断士の有資格者を中心に、独自の課題設定型支援を開始：浜松商工会議所（静岡県浜松市）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「門田建設」国内外から注目される環境新事業への参入",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "2013年10月の開始以来、トヨタ自動車や富士フイルム、オリンパス、参天製薬、コクヨなど148社がバイヤーとして参加",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス開始から2年間でマッチングの成約数は97件",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "野村総研のコンサルタントとして大手企業に事業戦略からM＆A（企業の合併と買収）を提案していけば、広く産業界に良い「インパクトを与えられる」と考えた",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "6年間の勤務で「自分で企画から、営業、事業戦略、買収までの提案をしてきた」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "2012年4月、自らの貯蓄や日本政策投資銀行の創業支援資金などから、Distty（ディスティ）を1人で設立した",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "最初に立ち上げた事業は、各産業で働く人を対象にしたSNSサイトの運営だ",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "唯一、話を聞いてくれたのが、東北経済連合会が主体で設立した民間事業支援組織の東経連ビジネスセンター（仙台市青葉区）だった",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "出資受け、人員拡張・システム導入",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "その後、ジャフコとDBJキャピタルの出資を受け、バイヤーのニーズを集める営業人員も拡充",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、新規プロダクト「Linkers TX」については、2026年4月にサービスを開始し、顧客への提案活動や販売促進活動を本格化するなど、今後の成長に向けた事業基盤の整備に取り組んでまいりました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "このような状況のもと、当社グループは、既存事業の収益力の回復を図るとともに、当連結会計年度にサービスを開始した「Linkers TX」を含む新たな収益基盤の構築を進め、中長期的な成長に向けた事業基盤の強化に取り組んでまいります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月にサービスを開始した「Linkers TX」については、当社グループが蓄積してきた企業データ、企業ネットワーク及び調査・マッチングノウハウを活用し、顧客への提案活動及び利用拡大に取り組んでまいります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "（資本業務提携及び第三者割当による新株式の発行）",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "）との間で資本業務提携契約を締結すること及びSBIホールディングスを割当先とする第三者割当による新株式の発行を行うことを決議いたしました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "1．資本業務提携の目的及び内容",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "本資本業務提携は、SBIグループが有する地域金融機関、投資先企業、提携先企業、中堅・中小企業及び各種事業会社とのネットワーク、金融・投資領域における知見及び事業開発支援に係るノウハウと、当社グループが有する技術探索・マッチングノウハウ、製造業を中心とする法人ネットワーク及びSaaS型マッチングシステムを組み合わせることにより、当社グループの既存サービスの価値向上及び「Linkers TX」等の成長領域における事業機会の拡大を図ることを目的としております",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "主な業務提携の内容は、「Linkers TX」の機能拡充、販売拡大及び事業化に関する連携可能性の検討、SBIグループのネットワークと当社グループの各種サービスとの連携可能性の検討、「Linkers for BANK」その他のSaaS型マッチングシステムにおける地域金融機関及び地域企業との連携、既存導入先の利便性向上及び広域連携機能の活用促進等であります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "日 時 ： 2023 年 6 月 7 日（水） 13:00 ～ 14:00 （ 12:50 受付開始）",
+    "url": "https://corp.linkers.net/news/6312/",
+    "pass": 3
+   },
+   {
+    "quote": "リサーチ事業を分社「株式会社リンカーズOI研究所」を連結子会社として設立",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "※2026年4月に提供を開始した「Linkers TX」については、PoC期間（2025年10月～2026年3月）については、「その他サービス」に、2026年4月以降は「自社運営マッチングサービス」に計上",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "技術者が抱える多様な技術課題に対し、当社グループがこれまで蓄積してきた技術探索・マッチングのデータ、法人ネットワーク及びノウハウを活用した製造業向けSaaSの展開を進めており、2026年4月には「Linkers TX」のサービスを開始し、今後はより広範な技術課題に対応することで、製造業領域における顧客基盤の拡大と提供価値の向上を目指す",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "成長戦略を支える資本業務提携・財務基盤の強化",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "◼SBIグループとの資本業務提携と資金調達を通じ、「Linkers TX」を中心とする重点領域の開発・事業化を加速",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "地域金融機関・投資先・提携先・事業会社等との連携",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "SBIグループとの事業提携 × 財務基盤の強化 × プロダクト開発 → 顧客基盤・利用拡大 → 中長期的な収益成長へ",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "◼「Linkers TX」の提供開始により、従来の探索・マッチングサービスでは対応が難しかった、探索要件が明確化される前段階の調査・情報収集ニーズにも対応可能に",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "「Linkers TX」は、2026年4月に本サービスの提供を開始し、今後の当社グループの成長を牽引する主要な成長ドライバーとしての位置付け",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズが設立以来構築してきたマッチングノウハウをベースに開発することで、ゼロからでもビジネスマッチングに取り組めます",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスマッチング事業は、発注者の要望に応じることのできる多数の受注候補者を囲い込みできるか否かを除いては、参入障壁が比較的低いビジネスモデルであります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "また、将来の成長が期待される市場であり、国内外の事業者がこの分野に参入してくる可能性があります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、今後において十分な差別化や機能向上等が図られなかった場合や、新規参入により競争が激化した場合には、当社の経営成績及び財政状態に影響を与える可能性があります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "- 技術探索サービス「eEXPOソーシング（現・Linkers Sourcing（リンカーズソーシング）」を開始",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "- リサーチ事業を分社し、株式会社リンカーズOI研究所を連結子会社として設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "2011年設立の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "各産業で働く人を対象にしたSNSサイトの運営を目的として、東京都世田谷区にDisty株式会社を資本金4,000千円で設立（2012年7月にビジネスSNS「Distty」の提供を終了）",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "行末の札（買収・売却・減損など）は、開示資料の注記に基づく重要事象の種類です",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人東北経済連合会（東経連ビジネスセンター）と業務提携",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "技術探索サービス「eEXPOソーシング（イーエキスポソーシング）（現・「Linkers Sourcing」（リンカーズソーシング））」の提供を開始",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル技術リサーチサービス「Linkers Research（リンカーズリサーチ）」の提供を開始",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "金融機関向けマッチングシステム「Linkers for BANK（リンカーズフォーバンク）」の提供を開始",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "用途開拓サービス「Linkers Marketing（リンカーズマーケティング）」の提供を開始",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "調達支援サービス「Linkers Trading（リンカーズトレーディング）」の提供を開始",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   }
+  ],
+  "撤退・縮小の時期と理由": [
+   {
+    "quote": "・講演資料につきましては、セミナー終了後、ご聴講いただいた皆様へメールにてご案内いたします",
+    "url": "https://corp.linkers.net/news/13471/",
+    "pass": 3
+   },
+   {
+    "quote": "「女性起業のトレンド」選択と集中が大切、やらないことを決める勇気も",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "需要が見込まれるソフトウェア受託開発事業において、人材採用戦略の立案と実行：株式会社イプシロンソフトウェア",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルは、広告とキーワード検索などのアクセス解析データの販売を考えていたが、アクセス数の伸び悩みにより、収益化のメドが立たなかった",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "資料は、減収について「Linkers Trading」での主力商材（リサイクルアルミニウム）の取扱いを前期末で終了したことが要因であり、当該商材に係る売上を控除した場合は前期比で約4％の増収になるとしている",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、「マッチングで世界を変える」というミッションのもと、企業と企業の出会いのあり方を見直し、従来の産業構造では成し得なかった最適な出会いを提供することで、多くのイノベーションを生み出す産業のしくみを国内外に築き、産業全体の生産性を最大化するための連携のハブとなる企業を目指し、マッチングプラットフォームの運営を中心に事業を展開しております",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "特に、製造業を中心とする企業においては、人手不足への対応やデジタル化、省力化等を目的とした投資需要が継続する一方、事業環境の先行きに対する不透明感から、新規事業や研究開発を含む投資案件について、投資効果や実行時期を慎重に見極める動きも見られました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "このような事業環境のもと、当社グループは、中長期的な業容拡大と収益基盤の再構築に向け、既存サービスの営業体制及びカスタマーサクセス体制の強化、営業プロセスの見直し、既存プラットフォームの機能改善等を進めてまいりました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "既存事業においては、顧客満足度の向上及び継続取引の拡大を目的としてカスタマーサクセス体制の強化を進めるとともに、受注回復を図るため、営業人員の増強、営業活動プロセスの見直し及び提案活動の強化等に取り組んでまいりました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "「Linkers Sourcing」及び「Linkers Marketing」は、営業活動体制の改善、各種KPI等の見直し、営業プロセス管理の変更及び営業人員の採用強化等の各種施策に取り組みました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "また、顧客ニーズに応じた提案内容の見直しや既存顧客への営業活動を強化したことにより、受注機会の拡大を図った結果、「Linkers Research」の調査件数は267件（前年同期228件）と前年を上回って推移いたしました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "2027年7月期の業績予想については、探索・マッチングサービスの回復や新サービス「Linkers TX」の拡大を見込み、売上高は前期比15.9％増の15.6億円、営業損失は3.8億円まで縮小させる計画です",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "受注単価の見直し等により減収幅の抑制を図る",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "◼コスト面では、人件費や外部費用を中心に固定費の抑制を進める一方、重点領域への投資を継続し、営業損失は381百万円まで縮小する計画",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "◼販管費は、採用抑制や外部費用の見直し等を進め、前期を下回る水準に抑制する計画",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "◼検証結果を踏まえ、M&A領域の事業開発を停止",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの検証結果や収益性、事業規模の拡大可能性、経営資源の配分等を総合的に勘案した結果、当社の成長戦略上、経営資源を優先配分すべき領域ではないと判断し、当該領域におけるサービス提供及び新規事業開発を停止",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "• 検証結果を踏まえ、サービス提供・新規事業開発を停止",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "M&A仲介については、M&A専業会社との協業を通じて採算性や事業化の可能性について検証を継続してきたものの、現時点では収益化までに一定の時間を要すると判断",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、既存事業の収益力向上、及び「Linkers TX」等の重点領域への経営資源の集中を優先することから、当該領域におけるサービス提供及び新規事業開発を停止し、本項に係るKPI開示を終了する",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "また、ネットワークについては、定期メンテナンスを実施し、本社とデータセンターのどちらか一方がインターネットに接続されていれば業務停止を回避できるよう、ネットワークの二重化対策を行っております",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "各産業で働く人を対象にしたSNSサイトの運営を目的として、東京都世田谷区にDisty株式会社を資本金4,000千円で設立（2012年7月にビジネスSNS「Distty」の提供を終了）",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "行末の札（買収・売却・減損など）は、開示資料の注記に基づく重要事象の種類です",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "提出から10年を超えた書類はリンクを外し「縦覧期間終了」と表示します",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "ところが営業損失は3.9億円で、前年同期から1.15億円も赤字が拡大しています",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "ここから先で、この「増収なのに赤字拡大」の正体を解剖し、リンカーズが何に賭けようとしているのかを読み解いていきます",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "受注件数の増加と単価の見直しが寄与したと会社は説明しています",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "この決算から引き出せるビジネスの教訓は、赤字の質を見極めることの重要性です",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "同じ赤字でも、コスト管理の失敗による赤字と、明確な戦略意図に基づく先行投資による赤字では意味がまったく違います",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "会社計画は増収と赤字縮小を同時に進める内容です",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "開示は9月11日16時03分で通常市場の取引終了後、同日の東証グロース終値は113円、前日比4円安でした",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "金融アナリストが赤字の成長企業を見る際に使う一般的な指標の一つがP/S、時価総額を売上高で割る倍率です",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "売上規模に対する赤字と現金流出が大きく、開示後のPTSは44％上昇しました",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "利益予想が赤字のため、2027年7月期以降の売上高とP/Sでレンジを組みます",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "下方修正で黒字見込みが赤字に転落し、成長株としての評価が崩れ、期待されたリサーチ／SaaSなど新規事業も立ち上がりが遅れた",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "次回決算で「固定費圧縮による赤字縮小」「成約数の回復」「黒字化の道筋」を確認し、SaaS契約の積み上げや、分社化したリサーチ事業の改善も併せてチェックする",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "期初の経常利益予想0.52億円（黒字維持）から、修正後は▲0.97億円（赤字）へ転落しました",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "「赤字でもいい、先に伸びるなら」と思って持っていたのに、伸びる計画もズレたと見えると、売りが加速しがちです",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "2022〜2023年は小幅黒字だったものの、2024年期から赤字転落しました",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "短期（〜1年）では、コストの見直しと不採算領域の整理を進めつつ、営業リソースを重点領域に集中させることで、営業赤字の大幅な縮小を狙います",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "伸び悩むリサーチ事業を立て直すため、「株式会社リンカーズOI研究所」として分社化しました",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "次回決算で赤字幅の縮小や黒字化の道筋が示されれば、反転トリガーになり得ます",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "・コスト削減の進捗（固定費の見直しが進むか）",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "・2026年7月期に向けた見通しで、赤字脱却が明示されるか",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   }
+  ],
+  "客の業界": [
+   {
+    "quote": "本 Web セミナーでは、約 100 の技術テーマに関する数万件規模の論文・特許データを横断的に俯瞰し、データと経営をつなぐ実践的なアプローチを、研究開発を加速する次世代探索 SaaS「 Linkers TX 」を用いてご紹介します",
+    "url": "https://corp.linkers.net/news/13471/",
+    "pass": 3
+   },
+   {
+    "quote": "素材からデバイス、エネルギー、デジタル領域に至る膨大なデータを横断的に分析し、次なる成長の種を発掘して自社の R&D 投資や新規事業探索の判断に直結させることが重要です",
+    "url": "https://corp.linkers.net/news/13471/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社東芝 生産技術センターにおいて半導体製造プロセスの研究開発に従事",
+    "url": "https://corp.linkers.net/news/13471/",
+    "pass": 3
+   },
+   {
+    "quote": "現職では、メーカーでの研究開発とコンサルティングの経験を活かして、エレクトロニクス領域を中心に、先端技術動向調査、技術マッチング、技術情報を効率的に収集するための技術開発など、製造業向けのイノベーション創出を支援している",
+    "url": "https://corp.linkers.net/news/13471/",
+    "pass": 3
+   },
+   {
+    "quote": "自社にあてはめた場合の、「事業化や研究開発のヒント」をお探しの方は、",
+    "url": "https://corp.linkers.net/news/13471/",
+    "pass": 3
+   },
+   {
+    "quote": "第7回：自動車リサイクルで資源循環型社会に貢献「会宝産業」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "独自技術で半導体業界のグローバルニッチトップ企業に「アイエルテクノロジー株式会社」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "金型の製造技術を生かし、新たな事業展開に挑戦「株式会社エフ・エー・テック」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「常識を覆す発想」で製薬業界に革命、錠剤製造用金型の打錠障害を解決「株式会社ツー・ナイン・ジャパン」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "身体の動きを可視化する技術でスポーツや医療に貢献「株式会社SPLYZA」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIで医療格差の是正に挑戦【アイリス株式会社（東京都中央区）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "周産期遠隔医療システムでお母さんと赤ちゃんを守る【メロディ・インターナショナル株式会社（香川県高松市）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "水上ドローンでインフラ老朽化対策、食糧生産拡大に挑む【炎重工株式会社（岩手県滝沢市）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙ゴミの除去めざすパイオニア「株式会社アストロスケールホールディングス」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "再生医療で心臓病治療の扉を開く「Heartseed株式会社」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "ICTで人と医療と介護をつなぐ「株式会社アルム」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "小型人工衛星を開発・製造 日本の宇宙ビジネスの牽引役「株式会社アクセルスペース」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "水推進機で宇宙の環境を守りながら開発を実現「株式会社Pale Blue」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "チャレンジ恐れない金型研究開発で他社と差別化【株式会社岐阜多田精機（岐阜市）代表取締役社長・多田憲生氏】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空機産業支えるQCD向上力【ミツ精機株式会社（兵庫県淡路市）代表取締役社長・三津千久磨氏】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・エネルギー高騰が足かせに 新規事業開拓し成長目指す【東光鉄工株式会社（秋田県大館市）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ペイフォワード」で医療従事者もカカオ農家も笑顔に【Dari K株式会社】（京都市北区）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "飲料用から工業・医療用ストローへ活路拓く【シバセ工業株式会社】（岡山県浅口市）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "マスク・医療用ガウンに進出し売上倍増【株式会社富樫縫製】（福島県二本松市）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "逆風を追い風に宇宙産業進出、「宇宙品質」でビジネス拡大へ【MASUYAMA-MFG株式会社】（鳥取県鳥取市）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "太陽の塔の「顔」を制作 FRP製造技術は宇宙に羽ばたく【スーパーレジン工業株式会社（東京都稲城市）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器を搭載した軽自動車で、過疎地域の医療格差を解消する【株式会社エスティサポート】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "電力の待機ロスが少なく、エネルギー使用の最適化に貢献【治部電機株式会社】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "幅広い分野の課題を解決できるナノファイバー量産装置を開発し、事業化に成功【関西電子株式会社】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタとデジタル倉庫サービスで、金型レスのものづくりを目指す【伊福精密株式会社】（兵庫県神戸市）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "【大林組】グリーンエネルギー事業 — 再エネ44か所・344MWとグリーン水素の挑戦",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、製造業を中心とする企業においては、人手不足への対応やデジタル化、省力化等を目的とした投資需要が継続する一方、事業環境の先行きに対する不透明感から、新規事業や研究開発を含む投資案件について、投資効果や実行時期を慎重に見極める動きも見られました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループが取り組む事業領域においては、企業の研究開発活動や新規事業・新技術創出に向けた取り組みは継続しており、製造業を中心とした技術探索・用途開拓ニーズ、地域金融機関における取引先企業支援ニーズ、及び技術・市場調査ニーズは引き続き存在しております",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "また、製造業を中心として、人手不足への対応やデジタル化、省力化、研究開発等に対する投資需要は引き続き見込まれる一方、企業による投資案件の選別や投資効果の見極めは一層重要になるものと認識しております",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "自社にあてはめた場合の、「事業化や研究開発のヒント」をお探しの方は、",
+    "url": "https://corp.linkers.net/news/6312/",
+    "pass": 3
+   },
+   {
+    "quote": "◼研究開発費は、その一定規模がオープンイノベーションへの投資領域として推移すると推測され、自社運営マッチングサービスへの投資に繋がると想定",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発費は事業の性質上、該当事項がないため表示していません",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "この市場は大手企業の研究開発部門が主要顧客で、国内の売上高200億円以上の上場企業約2,200社が対象です",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ（5131、東証グロース）は、製造業の研究開発、新規事業、販路開拓を支える技術マッチング企業です",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "技術トレンド 100 テーマ横断で見える ” 次の競争軸 “～データ ... — 技術トレンド 100 テーマ横断で見える ” 次の競争軸 “～データ ... リンカーズ株式会社 https://corp.linkers.net > ニュース",
+    "url": "https://corp.linkers.net/news/13471/",
+    "pass": 3
+   },
+   {
+    "quote": "「 リンカーズ 株式会社」中小と大手をつなぐモノづくりの架け橋 — 「 リンカーズ 株式会社」中小と大手をつなぐモノづくりの架け橋 J-Net21[中小企業ビジネス支援サイト] https://j-net21.smrj.go.jp > special > entrepreneur",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "Linkers Industries Ltd (LNKS) 財務サマリー - Investing.com — Linkers Industries Ltd (LNKS) 財務サマリー - Investing.com Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース https://jp.investing.com > equities > linkers-industries-fina...",
+    "url": "https://jp.investing.com/equities/linkers-industries-financial-summary",
+    "pass": 3
+   },
+   {
+    "quote": "Linkers Industries (LNKS) Earnings Dates, Reports ... - Moomoo — Linkers Industries (LNKS) Earnings Dates, Reports ... - Moomoo Moomoo https://www.moomoo.com > earnings",
+    "url": "https://www.moomoo.com/stock/LNKS-US/earnings?chain_id=Name1K9-3FXPhg.1lei900&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fhans%2Fstock%2F000953-SZ%2Fearnings%22%7D",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ 、2025年7月期は 売上 高13.6億円で営業損失4.5億円 — リンカーズ 、2025年7月期は 売上 高13.6億円で営業損失4.5億円 インベストーク https://investalk.jp > linkers-2025-07-earnings",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ (5131) : 決算情報・業績 [Linkers] - みんかぶ — リンカーズ (5131) : 決算情報・業績 [Linkers] - みんかぶ みんかぶ https://minkabu.jp > 株価検索 > リンカーズ[5131]株価情報",
+    "url": "https://minkabu.jp/stock/5131/settlement",
+    "pass": 3
+   },
+   {
+    "quote": "[G－ リンカーズ 5131.T] 2026年7月期 決算短信〔日本基準 ... — [G－ リンカーズ 5131.T] 2026年7月期 決算短信〔日本基準 ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260911534864",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "社内外連携の 課題 を考える～イノベーティブな連携はなぜ ... — 社内外連携の 課題 を考える～イノベーティブな連携はなぜ ... リンカーズ株式会社 https://corp.linkers.net > ニュース",
+    "url": "https://corp.linkers.net/news/6312/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 資料｜ リンカーズ 株式会社 — 決算説明 資料｜ リンカーズ 株式会社 リンカーズ株式会社 https://corp.linkers.net > IR情報 > IRライブラリー",
+    "url": "https://corp.linkers.net/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ 、2025年7月期は売上高13.6億円で営業損失4.5億円 — リンカーズ 、2025年7月期は売上高13.6億円で営業損失4.5億円 インベストーク https://investalk.jp > linkers-2025-07-earnings",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "[G－ リンカーズ 5131.T] 事業計画及び成長可能性に関する事項 — [G－ リンカーズ 5131.T] 事業計画及び成長可能性に関する事項 BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260911535164",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "[G－ リンカーズ 5131.T] 2026年7月期 決算 短信〔日本基準 ... — [G－ リンカーズ 5131.T] 2026年7月期 決算 短信〔日本基準 ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260911534864",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ - Wikipedia — リンカーズ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > リンカーズ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 ｜ リンカーズ 株式会社 — 会社概要 ｜ リンカーズ 株式会社 リンカーズ株式会社 https://corp.linkers.net > 会社情報",
+    "url": "https://corp.linkers.net/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "【 リンカーズ 】[5131]企業 概要 社員数や役員報酬・資本金 — 【 リンカーズ 】[5131]企業 概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5131",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ （5131）の沿革・平均年収・大 株主 ・財務5年 — リンカーズ （5131）の沿革・平均年収・大 株主 ・財務5年 corpolog.jp https://corpolog.jp > 情報・通信業 > リンカーズ株式会社",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ （5131）のプロフィール | 会社 四季報オンライン — リンカーズ （5131）のプロフィール | 会社 四季報オンライン 四季報オンライン https://shikiho.toyokeizai.net > 銘柄研究 > リンカーズ",
+    "url": "https://shikiho.toyokeizai.net/stocks/5131/corporate",
+    "pass": 3
+   }
+  ],
+  "AMの規模": [
+   {
+    "quote": "「伊賀の里モクモク手づくりファーム」売上50億円、6次産業化の先駆け",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「こと京都」カットした九条ねぎで年商10億円をめざす",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "災害時に地域住民が避難できる拠点を構築「そらちぶと調剤薬局」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "17ゴールを掲げる\"新時代の薬局\"を拠点に【株式会社平野（愛媛県今治市）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民合同伴走型支援で3テーマの改善、売上増を達成【株式会社南雲製作所（新潟県上越市）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "マスク・医療用ガウンに進出し売上倍増【株式会社富樫縫製】（福島県二本松市）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "通販再開見送り超高速のFC展開、「ビッグボス効果」加わり売上アップ【ケンズカフェ東京】（東京都新宿区）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタとデジタル倉庫サービスで、金型レスのものづくりを目指す【伊福精密株式会社】（兵庫県神戸市）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "SDGsへの取り組みで売上増や経営力強化も実現【NPO法人環境文明21 顧問／環境文明研究所 所長・加藤三郎氏】＜連載第3回＞（全4回）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "500年続く吉野材を多くの人に届けるために マーケティング拠点「YOSHINO WING」を開設【吉野製材工業協同組合】（奈良県吉野町）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "よろず支援拠点と連携、地元の企業に手厚い経営支援が可能に：斜里町商工会（北海道斜里町）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "多拠点というライフスタイルを可能に 投資家の心を動かす社会貢献型ビジネスモデル【株式会社アドレス（東京都千代田区）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "文具店をエンターテインメントの拠点に【株式会社ホリタ（福井県福井市）堀田敏史氏】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高100億円への軌跡",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「変化を恐れるな」、3つの危機乗り越え100億円企業に挑む「港製器工業株式会社」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "ITツール×ドローンで、森林調査にかける人員が約8割減：有限会社天女山",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ホープウィルグループ」香港・シンガポールを拠点とした海外展開支援",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「フィーサ」タイで金型の保守・点検と新規金型の受注代行",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "バイヤーの依頼はここ数カ月20～30件ペースで増えており、進行中を含めた総案件数は約240件",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「簡単に上手くいくと思っていたが、売上が入ってこなかった",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "出資受け、人員拡張・システム導入",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "その後、ジャフコとDBJキャピタルの出資を受け、バイヤーのニーズを集める営業人員も拡充",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ、2025年7月期は売上高13.6億円で営業損失4.5億円 | インベストーク",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ、2025年7月期は売上高13.6億円で営業損失4.5億円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は1,360百万円（13.6億円）で前年同期比7.1％の減収、営業利益は△457百万円（前年同期比234百万円の悪化）、経常利益は△428百万円、親会社株主に帰属する当期純利益は△548百万円となった",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "資料は、減収について「Linkers Trading」での主力商材（リサイクルアルミニウム）の取扱いを前期末で終了したことが要因であり、当該商材に係る売上を控除した場合は前期比で約4％の増収になるとしている",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高のうちビジネスマッチング事業は1,027百万円、リサーチ事業（リサーチサービス）は333百万円だった",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "資料が開示する財務ハイライトによると、売上高は2023年7月期の1,607,768千円をピークに2024年7月期は1,464,541千円、2025年7月期は1,360,735千円と推移した",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "資料は、自社運営マッチングサービスについて、国内案件の営業体制強化とプロセス改善を進めている過渡期にあることからKPI・売上ともに減少したとしている",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "リサーチサービスは、一般リサーチ及びマルチクライアントリサーチが生成AIによるコモディティ化等の影響で減少した一方、カスタマイズリサーチは受注が拡大したとしている",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月期売上高",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月期の通期計画（連結ベース）は、SaaS型マッチングシステムの継続成長と自社運営マッチングサービス及びリサーチサービスの回復を軸に、売上高は前期比21.9％増の1,658百万円を計画している",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "コスト面では営業人員を中心とした採用強化（営業人員約20名の採用）と新規プロダクト開発等の投資先行の予算を織り込み、営業利益△369百万円、経常利益△357百万円、親会社株主に帰属する当期純利益△359百万円を計画している",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "清水建設、2026年3月期は営業利益1,186億円・純利益1,266億円 年間配当は34円増配の72円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "【大林組】グローバルネットワーク — 北米比率2割超の地域別売上構成",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "アインホールディングス、2026年4月期は売上高41.8%増の647,834百万円 親会社株主に帰属する当期純利益は86.4%増",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "【大林組】資本政策と株主還元 — ROE10%以上・DOE5%目安、自己株1,000億円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "【大林組】政策保有株式の縮減 — 5年で2,852億円売却、純資産比20%以内へ",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "【大林組】投資計画7,500億円の内訳 — 開発3,000億円、技術・DXに1,900億円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ株式会社の2026年7月期連結決算は、売上高13億5,300万円（前年同期比0.5％減）、営業損失6億6,700万円（前年同期は4億5,700万円の損失）、親会社株主に帰属する当期純損失6億7,200万円（前年同期は5億4,800万円の損失）となりました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "・ビジネスマッチング事業：新規案件の検討長期化や導入の停滞により、売上高9億3,000万円（同11.2％減）、セグメント損失7億1,000万円を計上",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "・リサーチ事業：カスタマイズ調査の強化により、売上高4億2,300万円（同35.2％増）、セグメント利益4,300万円と黒字転換しました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "2027年7月期の業績予想については、売上高15億6,900万円（前期比15.9％増）、営業損失3億8,100万円、親会社株主に帰属する当期純損失3億9,300万円を見込んでいます",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "当事業年度においては、主力の探索・マッチングサービスにおける案件数の減少や、SaaS型マッチングシステムの新規導入が進まなかったこと等により、売上高は前事業年度を下回りました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、先行き不透明感を背景とした企業の投資判断の慎重化に加え、生成AI等の普及に伴う情報収集・要約業務の内製化や競合環境の変化等もあり、一部サービスにおいては顧客社内での検討・意思決定に時間を要し、新規受注獲得までのリードタイムが長期化する傾向が見られました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "既存事業においては、顧客満足度の向上及び継続取引の拡大を目的としてカスタマーサクセス体制の強化を進めるとともに、受注回復を図るため、営業人員の増強、営業活動プロセスの見直し及び提案活動の強化等に取り組んでまいりました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、新たに採用した営業人員の戦力化には一定の期間を要したことに加え、新規顧客における検討プロセスの長期化等の影響もあり、当連結会計年度においては、営業体制強化による売上回復効果を十分に発現させるには至りませんでした",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社元代表取締役に関する一連の事案の発生及び公表により、一部の新規案件において受注及び導入の遅れが生じましたが、当社は、新たな経営体制のもと、ガバナンス体制の強化を進め、事業の安定運営に取り組んでおります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、当連結会計年度の売上高は1,353,363千円（前年同期比0.5％減）、営業損失は667,236千円（前年同期は営業損失457,988千円）、経常損失は665,864千円（前年同期は経常損失428,433千円）、親会社株主に帰属する当期純損失は672,256千円（前年同期は親会社株主に帰属する当期純損失548,214千円）となりました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "「Linkers Sourcing」及び「Linkers Marketing」は、営業活動体制の改善、各種KPI等の見直し、営業プロセス管理の変更及び営業人員の採用強化等の各種施策に取り組みました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、新規顧客における検討プロセスの長期化や、新たに採用した営業人員の戦力化に時間を要したことなどから、着手件数は82件（前年同期100件）と前年同期を下回って推移いたしました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、当セグメントの売上高は930,108千円（前年同期比11.2％減）、セグメント損失は710,574千円（前年同期はセグメント損失407,169千円）となりました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "また、顧客ニーズに応じた提案内容の見直しや既存顧客への営業活動を強化したことにより、受注機会の拡大を図った結果、「Linkers Research」の調査件数は267件（前年同期228件）と前年を上回って推移いたしました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、当セグメントの売上高は423,254千円（前年同期比35.2％増）、セグメント利益は43,337千円（前年同期はセグメント損失50,819千円）となりました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスマッチング事業においては、「Linkers Sourcing」及び「Linkers Marketing」について、増強した営業人員の早期戦力化や営業プロセス及び提案活動の改善を進め、新規顧客の獲得及び既存顧客との取引拡大を図ってまいります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループ全体においては、営業人員の生産性向上及び早期戦力化を進めるとともに、サービス競争力や業務生産性の向上に資するシステム開発、生成AIを含むデジタル技術の活用、情報セキュリティ及び内部管理体制の強化を、投資効果を見極めながら継続してまいります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "以上のことから、翌連結会計年度（2027年7月期）の業績見通しにつきましては、売上高1,569,004千円（前年同期比15.9％増）、営業損失381,054千円（前年同期は営業損失667,236千円）、経常損失390,869千円（前年同期は経常損失665,864千円）、親会社株主に帰属する当期純損失393,277千円（前年同期は親会社株主に帰属する当期純損失672,256千円）を予想しております",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "2．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "3．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額に関する情報",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "【大林組】海外建設事業の概況 — 完工8,439億円、受注は1.2兆円に拡大",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   }
+  ],
+  "素材": [
+   {
+    "quote": "協同組合だからこそ乗り越えた！カーボンニュートラルに立ち向かう省エネ改善「協同組合ウイングバレイ」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「銅加工特化」で危機脱出、中小企業同士の連携強化にも挑戦「株式会社ハタメタルワークス」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材が働き続ける環境づくりを支援、海外展開で経営を安定化【株式会社三栄金属製作所（大阪市生野区）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "支援機関によるカーボンニュートラル支援事例",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "省エネ診断を契機にカーボンニュートラルを意識 商工会議所の伴走支援によって脱炭素化を目指す：浜松商工会議所（静岡県浜松市）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "中央会がカーボンニュートラルの相談窓口に 専門機関と連携して企業組合の脱炭素化を推進：愛媛県中小企業団体中央会（愛媛県松山市）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "耐圧防水樹脂「ジェラフィン」で地元貢献めざす【エスイーシー・シープレックス株式会社（北海道函館市）営業顧問・小野雅晴氏】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属切削加工の仲介手数料無料システムを開発【株式会社村井】（愛知県名古屋市）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "無電解ニッケルテフロンめっきを進化させ、高い硬度と密着性を実現【藤間精練株式会社】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "軽量・高強度のアルミらせん水車で、落差がほとんどない（50cm以下）所でも発電が可能に【協同アルミ株式会社】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ等のさまざまな材料に多様な方法で印刷し、各種産業用銘板を実現【三鷹製版株式会社】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "強度や耐久性に優れた切粉搬出装置で金属加工現場の課題を解決【株式会社メタルチップ】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタとデジタル倉庫サービスで、金型レスのものづくりを目指す【伊福精密株式会社】（兵庫県神戸市）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界初！強く、軽く、そして再利用も可能な炭素繊維強化樹脂メッシュを開発【株式会社奥谷金網製作所】（兵庫県神戸市）＜連載第1回（全2回）＞",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社にしかできないオンリーワンの樹脂切削の技術を追求する【株式会社Jpキュービック】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "エポキシ樹脂を取り除いた再生炭素繊維で「地球環境の改善」と「地場産業への貢献」を推進【株式会社サンケンテック】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "紙パウダーと合成樹脂、オンリーワンの混錬技術でうまれた新素材",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "トッププロ、大手メーカーのシビアな要望に応える技術力 炭素繊維の未知なる可能性にチャレンジ【株式会社グラファイトデザイン】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "工場の「見える化」が第一歩 DXへの挑戦が生んだ新たなビジネス【山本金属製作所（大阪市平野区）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業・小規模事業者によるカーボンニュートラルの取り組み事例",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンニュートラルは全方良しの取り組み：アイレック株式会社（島根県出雲市）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "“危機感”から着手したカーボンニュートラル",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "オンリーワンのアルミ鋳造技術 新たな企業連携で成長加速「株式会社TAC」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材を戦力化し、事業成長へ：株式会社三栄金属製作所",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "資料は、減収について「Linkers Trading」での主力商材（リサイクルアルミニウム）の取扱いを前期末で終了したことが要因であり、当該商材に係る売上を控除した場合は前期比で約4％の増収になるとしている",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "出資受け、人員拡張・システム導入",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "その後、ジャフコとDBJキャピタルの出資を受け、バイヤーのニーズを集める営業人員も拡充",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は1,360百万円（13.6億円）で前年同期比7.1％の減収、営業利益は△457百万円（前年同期比234百万円の悪化）、経常利益は△428百万円、親会社株主に帰属する当期純利益は△548百万円となった",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "コスト面では営業人員を中心とした採用強化（営業人員約20名の採用）と新規プロダクト開発等の投資先行の予算を織り込み、営業利益△369百万円、経常利益△357百万円、親会社株主に帰属する当期純利益△359百万円を計画している",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "アインホールディングス、2026年4月期は売上高41.8%増の647,834百万円 親会社株主に帰属する当期純利益は86.4%増",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "【大林組】資本政策と株主還元 — ROE10%以上・DOE5%目安、自己株1,000億円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ株式会社の2026年7月期連結決算は、売上高13億5,300万円（前年同期比0.5％減）、営業損失6億6,700万円（前年同期は4億5,700万円の損失）、親会社株主に帰属する当期純損失6億7,200万円（前年同期は5億4,800万円の損失）となりました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "2027年7月期の業績予想については、売上高15億6,900万円（前期比15.9％増）、営業損失3億8,100万円、親会社株主に帰属する当期純損失3億9,300万円を見込んでいます",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "定時株主総会開催予定日 2026年10月27日",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "（3）連結株主資本等変動計算書 8",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、当連結会計年度の売上高は1,353,363千円（前年同期比0.5％減）、営業損失は667,236千円（前年同期は営業損失457,988千円）、経常損失は665,864千円（前年同期は経常損失428,433千円）、親会社株主に帰属する当期純損失は672,256千円（前年同期は親会社株主に帰属する当期純損失548,214千円）となりました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "これは主に、親会社株主に帰属する当期純損失672,256千円の計上等によるものであります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "リサーチ事業においては、生成AIの普及に伴う情報収集・要約業務の内製化や競合環境の変化が継続するものと見込まれる中、親会社によるフィールドセールス支援や、顧客ニーズに応じたカスタマイズ調査へのシフト等の取り組みを継続してまいります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "以上のことから、翌連結会計年度（2027年7月期）の業績見通しにつきましては、売上高1,569,004千円（前年同期比15.9％増）、営業損失381,054千円（前年同期は営業損失667,236千円）、経常損失390,869千円（前年同期は経常損失665,864千円）、親会社株主に帰属する当期純損失393,277千円（前年同期は親会社株主に帰属する当期純損失672,256千円）を予想しております",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "（3）連結株主資本等変動計算書",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "親会社株主に帰属する当期純損失(△)(千円)",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "普通株式に係る親会社株主に帰属する当期純損失(△)(千円)",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、2026年9月11日開催の取締役会において、当社の筆頭株主である前田佳宏氏との間で劣後金銭消費貸借契約（以下「本契約」といいます",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、株主として法令上有する議決権の行使を妨げるものではありません",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "**第14期及び第15期の「当期純利益」は、「親会社株主に帰属する当期純利益」を記載しております",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5131",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ（5131）の沿革・平均年収・大株主・財務5年",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "上位10名の持株比率の合計は63.1%",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率＝営業利益÷売上高、純利益率＝親会社帰属利益÷売上高、自己資本比率＝自己資本÷総資産、ROA＝親会社帰属利益÷総資産、BPSは開示値がない期は自己資本÷発行済株式数の算出値",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "FY2022–FY2024はJGAAP（単体）純資産額（非支配株主持分を含む）",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "JGAAP適用後は親会社所有者帰属持分であり基準が異なるため、自己資本比率も同様に基準を跨ぎます",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "大株主上位10名",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "持株比率は記載値（自己株式を控除して算定されたもの）",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "データ基準日は、大株主が2026-07-31、最新の財務データが2026-10-26提出の書類です",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "安値で大量に引き受ける資本参加とは性格が異なり、SBIが事業連携まで含めて株主になる取引です",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "クラウド見積り作成支援システムで新会社設立「月井精密」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「株式会社フロントステージ」得意を活かしライフプランに合う創業＆経営",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "3年後に創業100周年 伝統の越前織で“ブランドの顔”を作る「株式会社松川レピヤン」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業の原点である母親目線で「安心・安全」の商品開発【沖縄子育て良品株式会社（沖縄県南風原町）代表取締役・舩谷香氏】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットの性能向上でより広い社会実装の可能性が広がる【明治大学 理工学部 機械工学科 専任教授／SEQSENSE株式会社 共同創立者・黒田洋司氏】＜連載第1回＞（全4回）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットの事業化には、市場・ロボットの適正・使用条件への理解が不可欠【明治大学 理工学部 機械工学科 専任教授／SEQSENSE株式会社 共同創立者・黒田洋司氏】＜連載第2回＞（全4回）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業がロボット業界で活躍するには？【明治大学 理工学部 機械工学科 専任教授／SEQSENSE株式会社 共同創立者・黒田洋司氏】＜連載第3回＞（全4回）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "賢いロボットの活用法とロボット事業参入のポイント【明治大学 理工学部 機械工学科 専任教授／SEQSENSE株式会社 共同創立者・黒田洋司氏】＜連載第4回＞（全4回）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業450年の企業がAIを活用した既存ビジネスの「深化」と新規ビジネスの「進化」で地域創生に貢献へ【株式会社大津屋（福井県福井市）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「古民家・空き家再生＋創業支援」まちづくりファンドで地域活性化：埼玉縣信用金庫（埼玉県熊谷市）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間約1,100件の創業の相談に対応、1人に1相談員体制で成果「新潟市産業振興財団」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業者で現・名誉顧問の稲盛和夫への憧れからだった",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "2012年4月、自らの貯蓄や日本政策投資銀行の創業支援資金などから、Distty（ディスティ）を1人で設立した",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "唯一、話を聞いてくれたのが、東北経済連合会が主体で設立した民間事業支援組織の東経連ビジネスセンター（仙台市青葉区）だった",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "【大林組】沿革 — 1892年創業、東京駅からスカイツリー・万博まで",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来数々のサービスをリリースし、2022年にグロース市場へ上場",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "リサーチ事業を分社「株式会社リンカーズOI研究所」を連結子会社として設立",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズが設立以来構築してきたマッチングノウハウをベースに開発することで、ゼロからでもビジネスマッチングに取り組めます",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "- リサーチ事業を分社し、株式会社リンカーズOI研究所を連結子会社として設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "2011年設立の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "各産業で働く人を対象にしたSNSサイトの運営を目的として、東京都世田谷区にDisty株式会社を資本金4,000千円で設立（2012年7月にビジネスSNS「Distty」の提供を終了）",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "リサーチ事業を分社化し、株式会社リンカーズOI研究所を連結子会社として設立",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "同じ年に設立した上場会社 26社",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "2011年の創業以来、技術探索サービスを起点に事業を広げ、2022年にグロース市場へ上場",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "「伊賀の里モクモク手づくりファーム」売上50億円、6次産業化の先駆け",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「こと京都」カットした九条ねぎで年商10億円をめざす",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民合同伴走型支援で3テーマの改善、売上増を達成【株式会社南雲製作所（新潟県上越市）】",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "マスク・医療用ガウンに進出し売上倍増【株式会社富樫縫製】（福島県二本松市）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "通販再開見送り超高速のFC展開、「ビッグボス効果」加わり売上アップ【ケンズカフェ東京】（東京都新宿区）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "SDGsへの取り組みで売上増や経営力強化も実現【NPO法人環境文明21 顧問／環境文明研究所 所長・加藤三郎氏】＜連載第3回＞（全4回）",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高100億円への軌跡",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「変化を恐れるな」、3つの危機乗り越え100億円企業に挑む「港製器工業株式会社」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "「簡単に上手くいくと思っていたが、売上が入ってこなかった",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNKS Revenue, EPS and EBIT Estimates",
+    "url": "https://www.moomoo.com/stock/LNKS-US/earnings?chain_id=Name1K9-3FXPhg.1lei900&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fhans%2Fstock%2F000953-SZ%2Fearnings%22%7D",
+    "pass": 3
+   },
+   {
+    "quote": "What is the revenue forecast for Linkers Industries?",
+    "url": "https://www.moomoo.com/stock/LNKS-US/earnings?chain_id=Name1K9-3FXPhg.1lei900&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fhans%2Fstock%2F000953-SZ%2Fearnings%22%7D",
+    "pass": 3
+   },
+   {
+    "quote": ", the consensus revenue forecast for -- is --.",
+    "url": "https://www.moomoo.com/stock/LNKS-US/earnings?chain_id=Name1K9-3FXPhg.1lei900&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fhans%2Fstock%2F000953-SZ%2Fearnings%22%7D",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ、2025年7月期は売上高13.6億円で営業損失4.5億円 | インベストーク",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ、2025年7月期は売上高13.6億円で営業損失4.5億円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は1,360百万円（13.6億円）で前年同期比7.1％の減収、営業利益は△457百万円（前年同期比234百万円の悪化）、経常利益は△428百万円、親会社株主に帰属する当期純利益は△548百万円となった",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "資料は、減収について「Linkers Trading」での主力商材（リサイクルアルミニウム）の取扱いを前期末で終了したことが要因であり、当該商材に係る売上を控除した場合は前期比で約4％の増収になるとしている",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高のうちビジネスマッチング事業は1,027百万円、リサーチ事業（リサーチサービス）は333百万円だった",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "1,360百万円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "1,027百万円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "223百万円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "583百万円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "220百万円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "333百万円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "440百万円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "1,377百万円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "△457百万円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "△428百万円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "△548百万円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "資料が開示する財務ハイライトによると、売上高は2023年7月期の1,607,768千円をピークに2024年7月期は1,464,541千円、2025年7月期は1,360,735千円と推移した",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "資料は、自社運営マッチングサービスについて、国内案件の営業体制強化とプロセス改善を進めている過渡期にあることからKPI・売上ともに減少したとしている",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月期売上高",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月期の通期計画（連結ベース）は、SaaS型マッチングシステムの継続成長と自社運営マッチングサービス及びリサーチサービスの回復を軸に、売上高は前期比21.9％増の1,658百万円を計画している",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "コスト面では営業人員を中心とした採用強化（営業人員約20名の採用）と新規プロダクト開発等の投資先行の予算を織り込み、営業利益△369百万円、経常利益△357百万円、親会社株主に帰属する当期純利益△359百万円を計画している",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "1,658百万円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "+297百万円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "1,180百万円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "+152百万円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ株式会社の2026年7月期連結決算は、売上高13億5,300万円（前年同期比0.5％減）、営業損失6億6,700万円（前年同期は4億5,700万円の損失）、親会社株主に帰属する当期純損失6億7,200万円（前年同期は5億4,800万円の損失）となりました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "・ビジネスマッチング事業：新規案件の検討長期化や導入の停滞により、売上高9億3,000万円（同11.2％減）、セグメント損失7億1,000万円を計上",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "・リサーチ事業：カスタマイズ調査の強化により、売上高4億2,300万円（同35.2％増）、セグメント利益4,300万円と黒字転換しました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "2027年7月期の業績予想については、売上高15億6,900万円（前期比15.9％増）、営業損失3億8,100万円、親会社株主に帰属する当期純損失3億9,300万円を見込んでいます",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "（注）包括利益 2026年7月期 △672百万円 （－％） 2025年7月期 △548百万円 （－％）",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "（参考）持分法投資損益 2026年7月期 －百万円 2025年7月期 －百万円",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "（参考）自己資本 2026年7月期 465百万円 2025年7月期 1,117百万円",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "（参考）自己資本 2026年7月期 610百万円 2025年7月期 1,281百万円",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "当事業年度においては、主力の探索・マッチングサービスにおける案件数の減少や、SaaS型マッチングシステムの新規導入が進まなかったこと等により、売上高は前事業年度を下回りました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、新たに採用した営業人員の戦力化には一定の期間を要したことに加え、新規顧客における検討プロセスの長期化等の影響もあり、当連結会計年度においては、営業体制強化による売上回復効果を十分に発現させるには至りませんでした",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、当連結会計年度の売上高は1,353,363千円（前年同期比0.5％減）、営業損失は667,236千円（前年同期は営業損失457,988千円）、経常損失は665,864千円（前年同期は経常損失428,433千円）、親会社株主に帰属する当期純損失は672,256千円（前年同期は親会社株主に帰属する当期純損失548,214千円）となりました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、当セグメントの売上高は930,108千円（前年同期比11.2％減）、セグメント損失は710,574千円（前年同期はセグメント損失407,169千円）となりました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、当セグメントの売上高は423,254千円（前年同期比35.2％増）、セグメント利益は43,337千円（前年同期はセグメント損失50,819千円）となりました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "以上のことから、翌連結会計年度（2027年7月期）の業績見通しにつきましては、売上高1,569,004千円（前年同期比15.9％増）、営業損失381,054千円（前年同期は営業損失667,236千円）、経常損失390,869千円（前年同期は経常損失665,864千円）、親会社株主に帰属する当期純損失393,277千円（前年同期は親会社株主に帰属する当期純損失672,256千円）を予想しております",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "2．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "3．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額に関する情報",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ株式会社の2026年7月期決算は、売上高が前年比0.5％減の13.5億円、営業損失は先行投資の継続や既存サービスの計画未達により6.6億円（前年同期は4.6億円の損失）となりました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "2027年7月期の業績予想については、探索・マッチングサービスの回復や新サービス「Linkers TX」の拡大を見込み、売上高は前期比15.9％増の15.6億円、営業損失は3.8億円まで縮小させる計画です",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "資 本 金 259百万円（2026年7月末日現在）",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 売上高は前年比約0.5％減の13.5億円となり、概ね前年並みで着地",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "◼新規プロダクトの開発や営業体制の強化等、将来の収益拡大に向けた先行投資を継続した一方、既存サービスの売上が計画を下回ったこと等から営業損失が拡大",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "13.5億円",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "前年同期比 △0.5%自社運営マッチングサービス及びSaaS型マッチングシステムが減収となる一方、リサーチサービスの伸長により、連結売上高は概ね前年並みを確保",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "野村総研のコンサルタントとして大手企業に事業戦略からM＆A（企業の合併と買収）を提案していけば、広く産業界に良い「インパクトを与えられる」と考えた",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "6年間の勤務で「自分で企画から、営業、事業戦略、買収までの提案をしてきた」",
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "行末の札（買収・売却・減損など）は、開示資料の注記に基づく重要事象の種類です",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "売上高は1,360百万円（13.6億円）で前年同期比7.1％の減収、営業利益は△457百万円（前年同期比234百万円の悪化）、経常利益は△428百万円、親会社株主に帰属する当期純利益は△548百万円となった",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益・当期純利益は2024年7月期から損失に転じ、2025年7月期は経常利益△428,433千円、当期純利益△548,214千円となった",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "コスト面では営業人員を中心とした採用強化（営業人員約20名の採用）と新規プロダクト開発等の投資先行の予算を織り込み、営業利益△369百万円、経常利益△357百万円、親会社株主に帰属する当期純利益△359百万円を計画している",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "清水建設、2026年3月期は営業利益1,186億円・純利益1,266億円 年間配当は34円増配の72円",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "八洲電機、2026年3月期は営業利益38.8%増 2027年3月期は増収増益を予想",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "アインホールディングス、2026年4月期は売上高41.8%増の647,834百万円 親会社株主に帰属する当期純利益は86.4%増",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "南総通運、2026年3月期は営業利益ほぼ横ばい 純利益は1.3%減",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "トレーディア、2026年3月期は営業減益 純利益35.3%増",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "・リサーチ事業：カスタマイズ調査の強化により、売上高4億2,300万円（同35.2％増）、セグメント利益4,300万円と黒字転換しました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "1株当たり当期純利益",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "潜在株式調整後1株当たり当期純利益",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "2．潜在株式調整後1株当たり当期純利益は、潜在株式は存在するものの、1株当たり当期純損失であるため記載しておりません",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "2．1株当たり当期純利益については、2026年9月28日を払込期日とする第三者割当による新株式の発行予定株式数を加味した期中平均株式数に基づき算定しております",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "（注）潜在株式調整後1株当たり当期純利益は、潜在株式は存在するものの、1株当たり当期純損失であるため記載しておりません",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1．潜在株式調整後1株当たり当期純利益については、潜在株式は存在するものの1株当たり当期純損失であるため記載しておりません",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "希薄化効果を有しないため、潜在株式調整後1株当たり当期純利益の算定に含めなかった潜在株式の概要",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "（5）利率 各事業年度の当期純利益が0円以下の場合は年0％、1円以上の場合は年3％",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "pass": 3
+   },
+   {
+    "quote": "【大林組】中計2022のKPIと実績 — 営業利益は目標の約2倍、ROE14.4%に",
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "M&A仲介については、M&A専業会社との協業を通じて採算性や事業化の可能性について検証を継続してきたものの、現時点では収益化までに一定の時間を要すると判断",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "1株当たり当期純利益",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "**第14期及び第15期の「当期純利益」は、「親会社株主に帰属する当期純利益」を記載しております",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "pass": 3
+   },
+   {
+    "quote": "横＝売上（対数）・縦＝営業利益率・点＝同業 595社",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率＝営業利益÷売上高、純利益率＝親会社帰属利益÷売上高、自己資本比率＝自己資本÷総資産、ROA＝親会社帰属利益÷総資産、BPSは開示値がない期は自己資本÷発行済株式数の算出値",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "FY2022–FY2024はJGAAP（単体）連結P/Lの税引前当期純利益（経常利益とは別概念）",
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "ところが営業損失は3.9億円で、前年同期から1.15億円も赤字が拡大しています",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "ここから先で、この「増収なのに赤字拡大」の正体を解剖し、リンカーズが何に賭けようとしているのかを読み解いていきます",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "この決算から引き出せるビジネスの教訓は、赤字の質を見極めることの重要性です",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "同じ赤字でも、コスト管理の失敗による赤字と、明確な戦略意図に基づく先行投資による赤字では意味がまったく違います",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "会社計画は増収と赤字縮小を同時に進める内容です",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "金融アナリストが赤字の成長企業を見る際に使う一般的な指標の一つがP/S、時価総額を売上高で割る倍率です",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "売上規模に対する赤字と現金流出が大きく、開示後のPTSは44％上昇しました",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "利益予想が赤字のため、2027年7月期以降の売上高とP/Sでレンジを組みます",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "続いて2027年7月期第1四半期決算では、Sourcing・Marketingの着手件数、LFBの新規導入機関、リサーチ事業の黒字継続、現金残高を見ます",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "下方修正で黒字見込みが赤字に転落し、成長株としての評価が崩れ、期待されたリサーチ／SaaSなど新規事業も立ち上がりが遅れた",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "次回決算で「固定費圧縮による赤字縮小」「成約数の回復」「黒字化の道筋」を確認し、SaaS契約の積み上げや、分社化したリサーチ事業の改善も併せてチェックする",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "期初の経常利益予想0.52億円（黒字維持）から、修正後は▲0.97億円（赤字）へ転落しました",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "成長株としての評価（PERなど）を正当化できなくなり、「いつ黒字化するの？」という不透明感が売りを誘発した、という整理です",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "「赤字でもいい、先に伸びるなら」と思って持っていたのに、伸びる計画もズレたと見えると、売りが加速しがちです",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "2022〜2023年は小幅黒字だったものの、2024年期から赤字転落しました",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "短期（〜1年）では、コストの見直しと不採算領域の整理を進めつつ、営業リソースを重点領域に集中させることで、営業赤字の大幅な縮小を狙います",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "中期（1〜2年）では、コーディネーター体制を増強し、「for BANK」の導入が50機関を突破する状態まで持っていくことで、通期黒字化を目指す計画です",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "営業損失▲4.6億円規模のギャップ解消が急務とし、黒字化の打ち手を3点に整理しました",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "次回決算で赤字幅の縮小や黒字化の道筋が示されれば、反転トリガーになり得ます",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "・2026年7月期に向けた見通しで、赤字脱却が明示されるか",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "過去最高売上なのに赤字膨張。 リンカーズ （5131）2Q ... - note 過去最高売上なのに赤字膨張。 リンカーズ （5131）2Q ... - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ 株式会社 デザインチーム - note リンカーズ 株式会社 デザインチーム - note note https://note.com > linkers_design",
+    "url": "https://note.com/linkers_design",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ 、地方銀行49機関を「技術の商社」に変えられるか リンカーズ 、地方銀行49機関を「技術の商社」に変えられるか note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ (5131)がIPO高値627円→安値124円へ…一体 ... - note リンカーズ (5131)がIPO高値627円→安値124円へ…一体 ... - note note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "過去最高売上なのに赤字膨張。リンカーズ（5131）2Qの仕込みを読む｜となりの席のIR",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "過去最高売上なのに赤字膨張。リンカーズ（5131）2Qの仕込みを読む",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "売上高6.4億円、前年同期比+5.9%。直近4ヵ年で最高水準の売上高を更新。",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "ここだけ切り取れば、順調に見えます。ところが営業損失は3.9億円で、前年同期から1.15億円も赤字が拡大しています。売上が伸びているのに損失が膨らむ。この並びに違和感を覚えた方は、なかなか鋭い。",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "しかも1Qの時点では売上高が前年同期比マイナス5%と減収スタートだったのに、2Q単体では一転して増収に転じている。このリカバリーの中身も気になるところです。",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "さらにもうひとつ。この2Q決算が発表された2026年3月16日の時点で、リンカーズは1月に前代表取締役社長が逮捕・辞任するという異例の事態を経験しています。新体制への移行というガバナンス上のイベントと、成長投資の加速という財務上のイベントが重なった四半期。この2つをどう切り分けて読むかが、今回の決算を理解するカギになります。",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "ここから先で、この「増収なのに赤字拡大」の正体を解剖し、リンカーズが何に賭けようとしているのかを読み解いていきます。事業構造から入り、数字を分解し、仮説を立て、リスクシナリオまで一気に走ります。",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "「マッチング屋」ではない。リンカーズの勝ち筋を構造で理解する",
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ株式会社 デザインチーム｜note",
+    "url": "https://note.com/linkers_design",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーを理解するために ─ LFBペルソナ作成プロジェクトの実録",
+    "url": "https://note.com/linkers_design",
+    "pass": 3
+   },
+   {
+    "quote": "UIの混在から統一へ ─ LFBのデザインガイドライン刷新プロジェクト",
+    "url": "https://note.com/linkers_design",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロからつくる、LFBのデザイン原則｜少人数チームのための実践ガイド 【後編】 〜 原則への落とし込みと展望編 〜",
+    "url": "https://note.com/linkers_design",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロからつくる、LFBのデザイン原則｜少人数チームのための実践ガイド 【前編】 〜 導入・全体像編 〜",
+    "url": "https://note.com/linkers_design",
+    "pass": 3
+   },
+   {
+    "quote": "SBIグループが20％超を保有へ――リンカーズ、地方銀行49機関を「技術の商社」に変えられるか｜オッコ主任の未来産業地図",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "SBIグループが20％超を保有へ――リンカーズ、地方銀行49機関を「技術の商社」に変えられるか",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "企業が新しい電池材料を探すとき、論文や特許を読むだけでは共同開発先へたどり着けません。候補企業を見つけ、技術を確かめ、担当者同士をつなぎ、商談へ進める工程が必要です。",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズは、この見えにくい技術探索を「人の目利き、データ、AI」でつなぐ会社です。2026年9月11日、SBIホールディングスとの資本業務提携を発表しました。第三者割当後はSBIグループの議決権保有割合が20％を超え、リンカーズは持分法適用関連会社となる予定です。",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "金融ネットワークと技術マッチングが結び付くと、地域企業の技術が県境や業界の壁を越えて流通する可能性が生まれます。その可能性が売上と継続収益へ変わる道筋を、直近決算と株価から見ていきます。",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ（5131、東証グロース）は、製造業の研究開発、新規事業、販路開拓を支える技術マッチング企業です。大企業の技術課題を全国の中堅・中小企業へつなぐ「Linkers Sourcing」、金融機関の法人営業を支える「Linkers for BANK」、専門リサーチ、AI型技術探索基盤「Linkers TX」を展開しています。",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "強みは、検索結果を渡して終わらず、10年以上蓄積したマッチングデータと法人ネットワークを使い、候補探索から対話まで接続できることです。Linkers for BANKは2026年6月時点で49機関に導入され、同社公表値では導入先の工数を57％削減、投資対効果は14.7倍でした。",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "今回のSBI提携で、地域金融機関、投資先、中小製造業へ届く経路が広がります。具体的な共同商品、顧客数、収益分配は未確定です。期待の大きさは、提携先の知名度よりも、最初の有料導入と継続収益で確かめたいところです。",
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ(5131)がIPO高値627円→安値124円へ…一体何が起きたのか？｜株式会社デボノ",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "リンカーズ(5131)がIPO高値627円→安値124円へ…一体何が起きたのか？",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "下方修正で黒字見込みが赤字に転落し、成長株としての評価が崩れ、期待されたリサーチ／SaaSなど新規事業も立ち上がりが遅れた",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化で、AI＋専門家の目利き＋地銀ネットワークの組み合わせが差別化。10年以上のデータ資産があり、仕組み化・SaaS化が進めば再評価余地がある",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "次回決算で「固定費圧縮による赤字縮小」「成約数の回復」「黒字化の道筋」を確認し、SaaS契約の積み上げや、分社化したリサーチ事業の改善も併せてチェックする",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "IPOで注目されたリンカーズ（5131）は、初値503円から一時627円まで上がったあと、上場来安値124円まで下落しました。",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "そして、どこを見れば反転の芽をつかめるのか。",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   },
+   {
+    "quote": "AIでの分析をもとに、やさしく整理します。",
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "北尾吉孝 on X: \" リンカーズ 株式会社との資本業務提携及び第三 ... 北尾吉孝 on X: \" リンカーズ 株式会社との資本業務提携及び第三 ... X https://x.com > @yoshitaka_kitao",
+    "url": "https://x.com/yoshitaka_kitao/status/2100117732004143408",
+    "pass": 3
+   },
+   {
+    "quote": "Linkers Tech (@Linkers4System) / X Linkers Tech (@Linkers4System) / X X https://x.com > ...",
+    "url": "https://x.com/Linkers4System",
+    "pass": 3
+   },
+   {
+    "quote": "ありゃりゃ on X: \" リンカーズ 、SBIに第三者割当増資＆資本 ... ありゃりゃ on X: \" リンカーズ 、SBIに第三者割当増資＆資本 ... X https://x.com > @aryarya",
+    "url": "https://x.com/aryarya/status/2098304630186992000",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Linkers Corporation - LinkedIn Linkers Corporation - LinkedIn LinkedIn https://jp.linkedin.com > company > linkers-corporation",
+    "url": "https://jp.linkedin.com/company/linkers-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "Takeshi Nakamura - リンカーズ (株) イノベーション推進事業 ... Takeshi Nakamura - リンカーズ (株) イノベーション推進事業 ... LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/takeshi-nakamura-87692723b",
+    "pass": 3
+   },
+   {
+    "quote": "Tomohiro Kambara - Linkers Corporation - Project Manager Tomohiro Kambara - Linkers Corporation - Project Manager LinkedIn https://jp.linkedin.com > tomohiro-kambara-402947145",
+    "url": "https://jp.linkedin.com/in/tomohiro-kambara-402947145",
+    "pass": 3
+   },
+   {
+    "quote": "蓑田 朋彦 - Linkers Corporation - 本部長 - LinkedIn 蓑田 朋彦 - Linkers Corporation - 本部長 - LinkedIn LinkedIn https://jp.linkedin.com > 朋彦-蓑田-389974271",
+    "url": "https://jp.linkedin.com/in/%E6%9C%8B%E5%BD%A6-%E8%93%91%E7%94%B0-389974271",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "リンカーズ 株式会社 | Minato-ku Tokyo - Facebook リンカーズ 株式会社 | Minato-ku Tokyo - Facebook Facebook https://www.facebook.com > LinkersCorporation",
+    "url": "https://www.facebook.com/LinkersCorporation/",
+    "pass": 3
+   },
+   {
+    "quote": "Linkers（ リンカーズ ） (@minakami.linkers) - Facebook Linkers（ リンカーズ ） (@minakami.linkers) - Facebook Facebook https://www.facebook.com > ... > Community Organization",
+    "url": "https://www.facebook.com/minakami.linkers/",
+    "pass": 3
+   },
+   {
+    "quote": "【 リンカーズ 株式会社】 事業の本質的なところに関わり ... 【 リンカーズ 株式会社】 事業の本質的なところに関わり ... Facebook https://www.facebook.com > moovy.jp > posts > リンカー...",
+    "url": "https://www.facebook.com/moovy.jp/posts/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BA%8B%E6%A5%AD%E3%81%AE%E6%9C%AC%E8%B3%AA%E7%9A%84%E3%81%AA%E3%81%A8%E3%81%93%E3%82%8D%E3%81%AB%E9%96%A2%E3%82%8F%E3%82%8A%E3%81%9D%E3%81%AE%E4%BA%8B%E6%A5%AD%E3%81%AE%E7%99%BA%E5%B1%95%E3%81%AB%E8%B2%A2%E7%8C%AE%E3%81%97%E3%81%9F%E3%81%84%E3%81%A8%E3%81%84%E3%81%86%E6%80%9D%E3%81%84%E3%81%A7%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA%E3%81%AB%E8%BB%A2%E8%81%B7%E3%81%95%E3%82%8C%E3%81%9F%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%89%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%81%AB%E4%BF%B5%E3%81%95%E3%82%93%E5%AE%9A%E6%9C%9F%E7%9A%84%E3%81%AB%E9%96%8B%E5%82%AC%E3%81%97%E3%81%A6%E3%81%84%E3%82%8Bweb%E3%82%BB/359053009068120/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.linkers.net/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://corp.linkers.net/news/13471/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCD216SG0R20C22A6000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/materialise-link3d-210415/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.linkers.net/news/13471/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO64019710S2A900C2EA5000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000076712.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.investing.com/equities/linkers-industries-financial-summary",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.moomoo.com/stock/LNKS-US/earnings?chain_id=Name1K9-3FXPhg.1lei900&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fhans%2Fstock%2F000953-SZ%2Fearnings%22%7D",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://minkabu.jp/stock/5131/settlement",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.linkers.net/news/6312/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCD216SG0R20C22A6000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tama-innovation-ecosystem.jp/tama-area/interview/4277/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://3dprinter.co.jp/news/11970/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.linkers.net/ir/library/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.linkers.net/news/13471/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.linkers.net/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5131",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikiho.toyokeizai.net/stocks/5131/corporate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/linkers_design",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/deb_note/n/n12a690a73ee3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/yoshitaka_kitao/status/2100117732004143408",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Linkers4System",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/aryarya/status/2098304630186992000",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/linkers-corporation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/takeshi-nakamura-87692723b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/tomohiro-kambara-402947145",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E6%9C%8B%E5%BD%A6-%E8%93%91%E7%94%B0-389974271",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LinkersCorporation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/minakami.linkers/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/moovy.jp/posts/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BA%8B%E6%A5%AD%E3%81%AE%E6%9C%AC%E8%B3%AA%E7%9A%84%E3%81%AA%E3%81%A8%E3%81%93%E3%82%8D%E3%81%AB%E9%96%A2%E3%82%8F%E3%82%8A%E3%81%9D%E3%81%AE%E4%BA%8B%E6%A5%AD%E3%81%AE%E7%99%BA%E5%B1%95%E3%81%AB%E8%B2%A2%E7%8C%AE%E3%81%97%E3%81%9F%E3%81%84%E3%81%A8%E3%81%84%E3%81%86%E6%80%9D%E3%81%84%E3%81%A7%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA%E3%81%AB%E8%BB%A2%E8%81%B7%E3%81%95%E3%82%8C%E3%81%9F%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%89%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%81%AB%E4%BF%B5%E3%81%95%E3%82%93%E5%AE%9A%E6%9C%9F%E7%9A%84%E3%81%AB%E9%96%8B%E5%82%AC%E3%81%97%E3%81%A6%E3%81%84%E3%82%8Bweb%E3%82%BB/359053009068120/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/honest_serval46/n/nf2144cc38835",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Linkers4System",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "リンカーズ 3Dプリンタ 撤退 OR 縮小 OR 終了",
+   "results": [
+    "https://corp.linkers.net/news/13471/",
+    "https://www.nikkei.com/article/DGXZQOCD216SG0R20C22A6000000/",
+    "https://monoist.itmedia.co.jp/mn/series/1620/"
+   ]
+  },
+  {
+   "query": "リンカーズ 3Dプリンタ 参入 OR 開始 OR 買収",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/ir/materialise-link3d-210415/",
+    "https://corp.linkers.net/news/13471/",
+    "https://www.nikkei.com/article/DGKKZO64019710S2A900C2EA5000/",
+    "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "https://prtimes.jp/main/html/rd/p/000000001.000076712.html",
+    "https://www.nikkei.com/article/DGXZQOUC0283H0S5A001C2000000/",
+    "https://skhonpo.com/blogs/blog/3d-2025-2026",
+    "https://www.insource.co.jp/contents/hr-article-no68889.html",
+    "https://fabscene.com/new/special/3d-printer-democratization-history-1980-2025/",
+    "https://mirai-works.co.jp/business-pro/case/linkers/"
+   ]
+  },
+  {
+   "query": "リンカーズ 積層造形 事業 売上",
+   "results": [
+    "https://jp.investing.com/equities/linkers-industries-financial-summary",
+    "https://www.moomoo.com/stock/LNKS-US/earnings?chain_id=Name1K9-3FXPhg.1lei900&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fhans%2Fstock%2F000953-SZ%2Fearnings%22%7D",
+    "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "https://minkabu.jp/stock/5131/settlement",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=5131",
+    "https://jp.tradingview.com/symbols/NASDAQ-LNKS/financials-segments/",
+    "https://finance.matsui.co.jp/stock/5131/settlement/index",
+    "https://corp.linkers.net/ir/library/result/",
+    "https://japanir.jp/company/company-5131/ir/5131-20260911-04_wp_financial_summary/"
+   ]
+  },
+  {
+   "query": "リンカーズ 3Dプリンター 社長 インタビュー 課題",
+   "results": [
+    "https://corp.linkers.net/news/6312/",
+    "https://j-net21.smrj.go.jp/special/entrepreneur/08.html",
+    "https://www.nikkei.com/article/DGXZQOCD216SG0R20C22A6000000/",
+    "https://tama-innovation-ecosystem.jp/tama-area/interview/4277/",
+    "https://3dprinter.co.jp/news/11970/",
+    "https://kc-i.jp/activity/salon-event-report/thursday-salon/20220728/",
+    "https://www.bk.mufg.jp/houjin/festa/interview02/index.html",
+    "https://techblitz.com/startup-interview/3d-printing-corporation/",
+    "https://magazine.aktio.co.jp/work-ability/20220727-1431.html",
+    "https://corp.linkers.net/news/8310/"
+   ]
+  },
+  {
+   "query": "リンカーズ 決算説明 3Dプリンタ",
+   "results": [
+    "https://corp.linkers.net/ir/library/presentation/",
+    "https://investalk.jp/5131/linkers-2025-07-earnings/",
+    "https://corp.linkers.net/news/13471/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260911535164",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260911534864",
+    "https://corp.linkers.net/ir/",
+    "https://corp.linkers.net/news/13252/",
+    "https://corp.linkers.net/ir/library/result/",
+    "https://irbank.net/5131/ir",
+    "https://edinetdb.jp/company/E37987/presentations/"
+   ]
+  },
+  {
+   "query": "リンカーズ 会社概要 設立 株主",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA",
+    "https://corp.linkers.net/company/outline/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5131",
+    "https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B",
+    "https://shikiho.toyokeizai.net/stocks/5131/corporate",
+    "https://compalyze.co.jp/company/1010901029020",
+    "https://startup-db.com/companies/vNOKZXOURk4p185L",
+    "https://www.buffett-code.com/company/5131/mainshareholder",
+    "https://ja.wikipedia.org/wiki/リンカーズ",
+    "https://corp.linkers.net/company/"
+   ]
+  },
+  {
+   "query": "site:note.com リンカーズ",
+   "results": [
+    "https://note.com/honest_serval46/n/nf2144cc38835",
+    "https://note.com/linkers_design",
+    "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "https://note.com/deb_note/n/n12a690a73ee3",
+    "https://note.com/news_stock/n/ndd124a5175e2",
+    "https://note.com/toshizodiary/n/n482d8fdaf2a5",
+    "https://note.com/pocoa_420/n/n51fe77aed91f",
+    "https://note.com/linkers_design/n/nfc884866bfde",
+    "https://note.com/joycooo/n/ne24922149ee7",
+    "https://note.com/tag/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA"
+   ]
+  },
+  {
+   "query": "site:x.com リンカーズ",
+   "results": [
+    "https://x.com/yoshitaka_kitao/status/2100117732004143408",
+    "https://x.com/Linkers4System",
+    "https://x.com/tsujitakaaki/status/2113099326864203844",
+    "https://x.com/aryarya/status/2098304630186992000",
+    "https://x.com/akarabu99/status/2099408552859488731",
+    "https://x.com/yoshitaka_kitao/status/2103016583446593581",
+    "https://x.com/rSu8bySbnrSIDPX/status/2099856701901943012?lang=bn",
+    "https://x.com/ipo_majime/status/2013532363658338667",
+    "https://x.com/horizontal_jump/status/2014159736263119345",
+    "https://x.com/reo_naniwa/status/2109869149778522490"
+   ]
+  },
+  {
+   "query": "site:linkedin.com リンカーズ",
+   "results": [
+    "https://jp.linkedin.com/company/linkers-corporation",
+    "https://jp.linkedin.com/in/takeshi-nakamura-87692723b",
+    "https://jp.linkedin.com/in/tomohiro-kambara-402947145",
+    "https://jp.linkedin.com/in/%E6%9C%8B%E5%BD%A6-%E8%93%91%E7%94%B0-389974271",
+    "https://jp.linkedin.com/in/haruka-matsushita-7872729a",
+    "https://jp.linkedin.com/in/rie-nagatomo-364414103",
+    "https://jp.linkedin.com/in/marika-fujiwara-332a81a4",
+    "https://jp.linkedin.com/in/%E6%AF%85-%E6%9D%BE%E6%9C%AC-659660176",
+    "https://jp.linkedin.com/in/nozomi-suzuki-0271a3bb"
+   ]
+  },
+  {
+   "query": "site:facebook.com リンカーズ",
+   "results": [
+    "https://www.facebook.com/LinkersCorporation/",
+    "https://www.facebook.com/minakami.linkers/",
+    "https://www.facebook.com/BarLinkers/",
+    "https://www.facebook.com/moovy.jp/posts/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BA%8B%E6%A5%AD%E3%81%AE%E6%9C%AC%E8%B3%AA%E7%9A%84%E3%81%AA%E3%81%A8%E3%81%93%E3%82%8D%E3%81%AB%E9%96%A2%E3%82%8F%E3%82%8A%E3%81%9D%E3%81%AE%E4%BA%8B%E6%A5%AD%E3%81%AE%E7%99%BA%E5%B1%95%E3%81%AB%E8%B2%A2%E7%8C%AE%E3%81%97%E3%81%9F%E3%81%84%E3%81%A8%E3%81%84%E3%81%86%E6%80%9D%E3%81%84%E3%81%A7%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA%E3%81%AB%E8%BB%A2%E8%81%B7%E3%81%95%E3%82%8C%E3%81%9F%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%89%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%81%AB%E4%BF%B5%E3%81%95%E3%82%93%E5%AE%9A%E6%9C%9F%E7%9A%84%E3%81%AB%E9%96%8B%E5%82%AC%E3%81%97%E3%81%A6%E3%81%84%E3%82%8Bweb%E3%82%BB/359053009068120/",
+    "https://www.facebook.com/LinkersCorporation/posts/%E8%A8%98%E4%BA%8B%E5%85%AC%E9%96%8B%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%81%AE%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%83%AA%E3%82%B9%E3%82%AF%E3%82%92%E6%9C%80%E5%B0%8F%E5%8C%96%E4%BB%AE%E8%AA%AC%E6%A4%9C%E8%A8%BC%E5%9E%8B%E7%B5%8C%E5%96%B6%E3%81%A7%E6%88%90%E5%8A%9F%E7%A2%BA%E7%8E%87%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E5%AE%9F%E5%8B%99%E6%89%8B%E6%B3%95%E3%81%93%E3%81%AE%E5%BA%A6%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%81%AE%E6%88%90%E5%8A%9F%E7%A2%BA%E7%8E%87%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E4%BB%AE%E8%AA%AC%E6%A4%9C%E8%A8%BC%E5%9E%8B%E7%B5%8C%E5%96%B6%E3%81%AE%E5%AE%9F%E5%8B%99%E6%89%8B%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%82%A4%E3%83%B3%E3%83%86%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%88%E6%A0%AA/1377960487455315/",
+    "https://www.facebook.com/p/%E5%89%8D%E7%94%B0%E4%BD%B3%E5%AE%8F-100001704978986/",
+    "https://www.facebook.com/LinkersCorporation/posts/%E8%A8%98%E4%BA%8B%E7%B4%B9%E4%BB%8B%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%8B%85%E5%BD%93%E8%80%85%E3%81%A7%E5%85%B1%E6%9C%89%E3%81%97%E3%81%9F%E3%81%84%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98%E5%A4%9A%E6%A7%98%E3%81%AA%E7%B5%84%E7%B9%94%E3%81%A7%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E6%90%BA%E3%82%8F%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%B9%E3%82%A4%E3%82%B9%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%8F%E3%83%96-%E6%8A%95%E8%B3%87%E4%BF%83%E9%80%B2%E9%83%A8-%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B6/923050922946276/",
+    "https://www.facebook.com/JCI.JAPAN/posts/%E4%BA%8B%E6%A5%AD%E5%89%B5%E9%80%A0%E4%BC%9A%E8%AD%B0%E4%BA%8B%E6%A5%AD%E5%89%B5%E9%80%A0%E4%BC%9A%E8%AD%B0%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E7%B3%BB%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-%E4%BC%81%E6%A5%AD%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%8D%E3%83%BC%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%E4%BC%81%E6%A5%AD%E6%94%AF%E6%8F%B4%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E3%81%AF%E7%9A%86%E6%A7%98%E3%81%AE%E4%BA%8B%E6%A5%AD%E3%81%AB%E5%BD%B9/1981086671950279/",
+    "https://www.facebook.com/shimura.takuto/",
+    "https://www.facebook.com/BarLinkers/photos/%E3%81%93%E3%82%93%E3%81%AF%E3%82%99%E3%82%93%E3%81%AF%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%B9%E3%82%99%E3%81%A6%E3%82%99%E3%81%99%E6%94%B9%E3%82%81%E3%81%A6%E3%81%93%E3%82%99%E7%B4%B9%E4%BB%8B%E3%81%A6%E3%82%99%E3%81%99%EF%B8%8F21%E6%99%82%E3%81%BE%E3%81%A6%E3%82%99%E3%81%8A%E5%BE%97%E3%81%AAhappy-linkers-time%E5%A4%A7%E5%A5%BD%E8%A9%95%EF%B8%8F%E6%AF%8E%E6%97%A5-%EF%B8%8F%E5%AE%9F%E6%96%BD%E4%B8%AD%E3%81%A6%E3%82%99%E3%81%99%EF%B8%8F%E3%81%93%E3%81%A1%E3%82%89%E3%82%82%E8%A6%81%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%A6%E3%82%99%E3%81%99/3023730607680214/"
+   ]
+  },
+  {
+   "query": "リンカーズ note 社長",
+   "results": [
+    "https://note.com/honest_serval46/n/nf2144cc38835",
+    "https://www.nikkei.com/article/DGXZQODZ00002_R20C26A1000000/",
+    "https://ja.wikipedia.org/wiki/%E5%89%8D%E7%94%B0%E4%BD%B3%E5%AE%8F",
+    "https://corp.linkers.net/company/officers/",
+    "https://kigyo-scope.jp/company/5131/ceo/",
+    "https://focuson.life/article/view/72",
+    "https://note.com/okko_fil/n/n1b74249f5ed6",
+    "https://corp.linkers.net/news/8310/",
+    "https://www.youtube.com/watch?v=y5pX7R39f_w",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260120536184/"
+   ]
+  },
+  {
+   "query": "リンカーズ X 投稿",
+   "results": [
+    "https://x.com/Linkers4System",
+    "https://service.linkers.net/linkers-tx/",
+    "https://www.businessinsider.jp/article/297498/",
+    "https://corp.linkers.net/news/event/",
+    "https://corp.linkers.net/service/",
+    "https://zenn.dev/p/linkers",
+    "https://support.infocms.jp/information/?itemid=394&dispmid=3598",
+    "https://service.linkers.net/linkers-promotion/",
+    "https://ascii.jp/elem/000/004/237/4237163/",
+    "https://search.yahoo.co.jp/realtime/search/＃リンカーズ/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部44頁・検索12回）"
+ }
+}

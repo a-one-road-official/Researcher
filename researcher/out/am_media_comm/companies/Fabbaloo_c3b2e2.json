@@ -1,0 +1,865 @@
+{
+ "name": "Fabbaloo",
+ "aliases": [
+  "Fabbaloo"
+ ],
+ "context": "海外・AMメディア",
+ "researched_at": "2026-11-06T17:10:51.332521+00:00",
+ "official_url": "https://www.fabbaloo.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "規模": [
+   {
+    "quote": "Charles R. Goulding and Kate Esposito take readers inside the rapidly evolving eVTOL industry, where Boeing, Archer, Wisk, and Joby are using additive manufacturing to overcome the challenges of electric aviation…",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Subscribe To Fabbaloo’s Daily Newsletter",
+    "url": "https://www.fabbaloo.com/subscribe",
+    "pass": 1
+   },
+   {
+    "quote": "Or, if you prefer a weekly newsletter:",
+    "url": "https://www.fabbaloo.com/subscribe",
+    "pass": 1
+   },
+   {
+    "quote": "Subscribe to Fabbaloo’s Weekly Newsletter",
+    "url": "https://www.fabbaloo.com/subscribe",
+    "pass": 1
+   },
+   {
+    "quote": "It’s always amazing and quite gratifying when we hear praise from our readers who frequently represent the top end of those working in 3D printing. We’ve gathered together a few quotes from leading individuals working across the 3D printing industry about our work.",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": ": A link to your business page (or a business mention) within a relevant story can drive new potential buyers for your business. Stories with links are pushed through all of our many social channels and appear within our daily and weekly newsletter.",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": "Have your company, product, service or team member interact with Fabbaloo’s newsletter subscribers. We offer two options:",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": ": A dedicated newsletter offers a very high value promotion of your business message sent directly to our daily and weekly newsletter subscribers",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": "Newsletter Sponsorship",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": ": Your advertising material appears at the top of each and every one of our emailed newsletters, sent daily and weekly to well over 4,300 dedicated subscribers.",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": "Advertising in our newsletter",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": ". Your advertising material appears in our emailed newsletter, sent daily and weekly to well over 4,500+ dedicated subscribers.",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   }
+  ],
+  "AMの扱い": [
+   {
+    "quote": "3D Printing News ~ Fabbaloo",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay Updated on 3D Printing News",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "An dispute has emerged over one of the oldest names in large-scale 3D printing.",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Acquisitions, Aircraft, and Additive Manufacturing: How a Deal Between Boeing and Archer Aviation Shapes the Future of eVTOL Technology",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Charles R. Goulding and Kate Esposito take readers inside the rapidly evolving eVTOL industry, where Boeing, Archer, Wisk, and Joby are using additive manufacturing to overcome the challenges of electric aviation…",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Study Finds Big Strength Differences in 3D Printing Infill",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hawaii’s Startup Surge: Can 3D Printing Help Build the Next Tech Economy?",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "MultiMaterial 3D Printing Has a Hidden Weak Point",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vision Miner 22 IDEX V4 Delivers Inexpensive PEEK-Class 3D Printing",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PCBWAY to Launch September Promotion with 36% Discount on TPU 3D Printing",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Creality and AMISS Partner to Bring 3D Printing Innovation to Fashion Industry",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Creality seems to have developed an entirely new application for 3D printing, this time in the fashion industry.",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Who’s The Biggest In 3D Printing, November 1, 2026",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Once again we take a look at the valuations of the major 3D printing companies over the past week.",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Who’s The Biggest In 3D Printing, October 25, 2026",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Who’s The Biggest In 3D Printing, October 18, 2026",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Who’s The Biggest In 3D Printing, October 11, 2026",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Creality has been building something that could become a worldwide network of its own dedicated 3D printing stores.",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "When Design Becomes Free, Part 2: What Happens to 3D Printing?",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Spoolara Bundles A Collection Of 3D Printing Utilities",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Spoolara has bundled a bunch of small 3D printing utilities together.",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printing Meets “Made in Italy”: The Next Industrial Renaissance",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Charles R. Goulding and Kate Esposito explore how Italy’s celebrated “Made in Italy” tradition is getting a high-tech makeover through additive manufacturing, from Ferrari supercars to custom medical implants.",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fabbaloo tracks developments in the amazing technology of 3D Printing, publishing news and analysis daily. Whether from a manufacturer’s press release, onsite coverage of events or just some crazy ideas we thought up, our material will keep you up to date.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Fabbaloo was created in October 2007 by Canadian Kerry Stevenson, who has been fascinated with 3D printing after seeing the idea introduced by Star Trek decades ago – and now it is a reality, almost. He’s been writing for Fabbaloo since it began under the gradually-becoming-less-mysterious pseudonym “General Fabb”.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Charles Goulding is the Founder and President of R&D Tax Savers, a New York-based firm dedicated to providing clients with quality R&D tax credits available to them. 3D printing carries business implications for companies working in the industry, for which R&D tax credits may be applicable.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Rachel Park is an accomplished print and web writer and editor with more than 24 years’ experience. Her specific area of expertise is the 3D Printing and Additive Manufacturing sector, a market she has been immersed in since 1996. Rachel works as an independent freelance journalist, runs her own copywriting and editing business, as well as being a key member of PYL Associates.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "California-based Nora Toure is the woman behind “Women in 3D Printing”, a group dedicated to promoting and showcasing the use of 3D printing for women. She’s also the Director, Sales & Service Factory Operations at Fast Radius.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Many have written stories for Fabbaloo, usually leveraging their particular expertise in the 3D printing industry. If you would like to become a contributor, please contact us at",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "an online 3D printing and laser-cutting service based in San Francisco and Paris. He holds a MSc. in Engineering from Ecole Centrale de Paris.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": ", a low-cost metal 3D printing technology company. At 3DEO, he has worked extensively on the business of 3D printing with customers from a variety of industries. Prior to 3DEO, he was a venture capitalist, serial entrepreneur, and officer in the U.S. Air Force. He holds an MBA from UCLA, and BS in Computer Science and Mathematics from Tulane University.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": ", a developer and marketer of advanced 3D printing filaments and STL file repair software. He has experience in applying plastics technology to improve products at two Fortune 500 corporations. He has a degree in Engineering from the US Military Academy at West Point, and an MBA from Southern Illinois University.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": ", a 3D printing consulting company that provides industry research and reseller training. Chris has twenty years of experience in the printing industry with Hewlett-Packard and holds a BS and MBA from Rutgers University.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": ": A CRM fit for 3D Printing Industry. Streamline 3D Printing Orders & Customer Relations Management.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": ", a company that is redesigning prosthetics and orthotics using 3D printing to create highly personalized devices. Originally from Minneapolis, Evy has lived in Washington, DC, Sierra Leone and France. She speaks English and French. Evy contributes to",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Women in 3D Printing",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "of Indiana, USA, is a 3D Creative Technologist, and FDM/FFF Additive Manufacturing Specialist and owner of Duplicat 3D Printer Services.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "“, where she interviewed guests from the 3D printing industry. Jess was the U.S. Community Manager for 3D Printing Service",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "and participates in speaking events and webinars to help keep on top of what’s going on in the 3D printing eco-system. You can find articles written by Jess on many 3D print publications.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "is a 3D designer and 3D printing technical expert at",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": ", a UK based 3D printer retailer and 3D printing Service Bureau.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": ", a growing reseller of all things 3D printing. This role provides Mike with a unique viewpoint on the latest in 3D printing equipment, software and processes.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "has been active in Computer Graphics, 3D Graphics and 3D Printing for many years, and is often seen at 3D-related conferences.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "3D printing, laser cutting",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "is a 3D printing and tech enthusiast who lives and works in South Korea. He is fluent in English, Korean, and Chinese and has a passion for travel, adventure, making new friends…all of which 3D printing and the Maker Movement provide.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "over two years ago. Join him on his mission to make 3D printing more consistent and practical for everyone!",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": ", an organization focusing on building collaborations in Healthcare 3D Printing and bioprinting through events, educational programs, and online media.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": ", a product design, 3D printing, and manufacturing services company. He’s a former lead product engineer at John Deere with expertise in CAD design, product development, and world class manufacturing. His mission in life is to push the boundaries of digital design and 3D printing to deliver unprecedented value and abundance for our world.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up with your email address to receive Fabbaloo’s Daily news and updates on 3D printing and related products.",
+    "url": "https://www.fabbaloo.com/subscribe",
+    "pass": 1
+   },
+   {
+    "quote": "It’s always amazing and quite gratifying when we hear praise from our readers who frequently represent the top end of those working in 3D printing. We’ve gathered together a few quotes from leading individuals working across the 3D printing industry about our work.",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": "Fabbaloo has become a must-read publication for leaders across all organizations looking to be on the cutting-edge of the rapidly advancing Additive Manufacturing industry. From new developments and trends in technology to technical and strategic advice, the editorial team at Fabbaloo offers unparalleled insights into global advancements in 3D printing. ​",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   }
+  ],
+  "売上": [
+   {
+    "quote": "It’s that time of year again, and there are quite a few Black Friday sales on for desktop 3D printers.",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "California-based Nora Toure is the woman behind “Women in 3D Printing”, a group dedicated to promoting and showcasing the use of 3D printing for women. She’s also the Director, Sales & Service Factory Operations at Fast Radius.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Corporation, a worldwide leader in providing computer-aided manufacturing (CAM) software products for the small to mid-market segments earned his MS degree, in Mechanical Engineering from Clemson University in 1984, performing research on robot path planning and simulation. Joe is a proven expert in Software Development, Mechanical Engineering, Entrepreneurship and project management and sales.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   }
+  ],
+  "存続": [
+   {
+    "quote": "An dispute has emerged over one of the oldest names in large-scale 3D printing.",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Acquisitions, Aircraft, and Additive Manufacturing: How a Deal Between Boeing and Archer Aviation Shapes the Future of eVTOL Technology",
+    "url": "https://www.fabbaloo.com/",
+    "pass": 1
+   }
+  ],
+  "稼ぎ方": [
+   {
+    "quote": "and participates in speaking events and webinars to help keep on top of what’s going on in the 3D printing eco-system. You can find articles written by Jess on many 3D print publications.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Fabbaloo Media Kit and Advertising Options",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": "Click for Advertising Enquiry Form",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": "Newsletter Sponsorship",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": ": Your advertising material appears at the top of each and every one of our emailed newsletters, sent daily and weekly to well over 4,300 dedicated subscribers.",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": ": Your graphical advertisements appear in our sidebar on every story. Requires 300px wide graphic.",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": "Advertising in our newsletter",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": ". Your advertising material appears in our emailed newsletter, sent daily and weekly to well over 4,500+ dedicated subscribers.",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": "Ad Hoc Advertising Services",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to the above options, we are always open to any feasible proposal for advertising or promotion, and have very often partnered with clients to provide an unusual service they require. Of course, we cannot provide specific costs until we understand what you seek. If you have an idea, we’d be please to hear it. Please use the advertising form below to contact us to discuss further.",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": "Free Community Advertising",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": "Fabbaloo offers the opportunity for non-profit groups to obtain free advertising services to our worldwide audience. If you’re interested, please check out our",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   },
+   {
+    "quote": "Advertising Enquiry « Fabbaloo",
+    "url": "https://www.fabbaloo.com/advertising-enquiry",
+    "pass": 1
+   },
+   {
+    "quote": "If you’d like to speak with us about advertising services, please fill out the form below. While we offer a number of services, we are quite open to new ideas and are willing to discuss any reasonable proposal you may have.",
+    "url": "https://www.fabbaloo.com/advertising-enquiry",
+    "pass": 1
+   }
+  ],
+  "運営母体": [
+   {
+    "quote": "is a loving mother, a devoted wife and a part of the team supporting",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "Rachel Park is an accomplished print and web writer and editor with more than 24 years’ experience. Her specific area of expertise is the 3D Printing and Additive Manufacturing sector, a market she has been immersed in since 1996. Rachel works as an independent freelance journalist, runs her own copywriting and editing business, as well as being a key member of PYL Associates.",
+    "url": "https://www.fabbaloo.com/about",
+    "pass": 1
+   }
+  ],
+  "読者・会員は誰か": [
+   {
+    "quote": "Fabbaloo offers the opportunity for non-profit groups to obtain free advertising services to our worldwide audience. If you’re interested, please check out our",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Fabbaloo offers the opportunity for non-profit groups to obtain free advertising services to our worldwide audience. If you’re interested, please check out our",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Subscribe - Fabbaloo — Subscribe - Fabbaloo Fabbaloo https://www.fabbaloo.com > subscribe",
+    "url": "https://www.fabbaloo.com/subscribe",
+    "pass": 3
+   },
+   {
+    "quote": "Fabbaloo - LinkedIn — Fabbaloo - LinkedIn LinkedIn https://www.linkedin.com > fabbaloo",
+    "url": "https://www.linkedin.com/company/fabbaloo",
+    "pass": 3
+   },
+   {
+    "quote": "Fabbaloo (@TheFabbaloo) - Facebook — Fabbaloo (@TheFabbaloo) - Facebook Facebook https://www.facebook.com > ... > Computer Company",
+    "url": "https://www.facebook.com/TheFabbaloo/",
+    "pass": 3
+   },
+   {
+    "quote": "Fabbaloo (@ fabbaloo ) • Instagram photos and videos — Fabbaloo (@ fabbaloo ) • Instagram photos and videos Instagram https://www.instagram.com > fabbaloo",
+    "url": "https://www.instagram.com/fabbaloo/",
+    "pass": 3
+   },
+   {
+    "quote": "Advertise - Fabbaloo — Advertise - Fabbaloo Fabbaloo https://www.fabbaloo.com > advertise",
+    "url": "https://www.fabbaloo.com/advertise",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing the Fabbaloo 3D Print Cost Calculator — Introducing the Fabbaloo 3D Print Cost Calculator Fabbaloo https://www.fabbaloo.com > News",
+    "url": "https://www.fabbaloo.com/news/introducing-the-fabbaloo-3d-print-cost-calculator",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze Strengthens Digital Supply Chain Strategy ... - Fabbaloo — Roboze Strengthens Digital Supply Chain Strategy ... - Fabbaloo Fabbaloo https://www.fabbaloo.com > News",
+    "url": "https://www.fabbaloo.com/news/roboze-strengthens-digital-supply-chain-strategy-with-acquisition-of-dimanex",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Revenue Soars in 2023, Yet Company Valuations ... — 3D Printing Revenue Soars in 2023, Yet Company Valuations ... Fabbaloo https://www.fabbaloo.com > News",
+    "url": "https://www.fabbaloo.com/news/3d-printing-revenue-soars-in-2023-yet-company-valuations-dip",
+    "pass": 3
+   },
+   {
+    "quote": "Entry-Level 3D Printer Sales Surge as Industry Revenue ... — Entry-Level 3D Printer Sales Surge as Industry Revenue ... Fabbaloo https://www.fabbaloo.com > News",
+    "url": "https://www.fabbaloo.com/news/entry-level-3d-printer-sales-surge-as-industry-revenue-climbs-32",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Fabbaloo - LinkedIn Fabbaloo - LinkedIn LinkedIn https://www.linkedin.com > fabbaloo",
+    "url": "https://www.linkedin.com/company/fabbaloo",
+    "pass": 3
+   },
+   {
+    "quote": "Kerry Stevenson - Founder at Fabbaloo | LinkedIn Kerry Stevenson - Founder at Fabbaloo | LinkedIn LinkedIn https://ca.linkedin.com > kerry-steven...",
+    "url": "https://ca.linkedin.com/in/kerry-stevenson-5800627",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Fabbaloo (@TheFabbaloo) - Facebook Fabbaloo (@TheFabbaloo) - Facebook Facebook https://www.facebook.com > ... > Computer Company",
+    "url": "https://www.facebook.com/TheFabbaloo/",
+    "pass": 3
+   },
+   {
+    "quote": "Fabbaloo - Facebook Fabbaloo - Facebook Facebook https://www.facebook.com > TheFabbaloo > posts",
+    "url": "https://www.facebook.com/TheFabbaloo/posts/1751782473615623/",
+    "pass": 3
+   },
+   {
+    "quote": "Fabbaloo - Facebook Fabbaloo - Facebook Facebook https://www.facebook.com > TheFabbaloo > posts",
+    "url": "https://www.facebook.com/TheFabbaloo/posts/1754638939996643/",
+    "pass": 3
+   },
+   {
+    "quote": "Fabbaloo - Facebook Fabbaloo - Facebook Facebook https://www.facebook.com > TheFabbaloo > posts",
+    "url": "https://www.facebook.com/TheFabbaloo/posts/1755526823241188/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fabbaloo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabbaloo.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabbaloo.com/subscribe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabbaloo.com/advertise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabbaloo.com/advertising-enquiry",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.linkedin.com/company/fabbaloo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheFabbaloo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/fabbaloo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.aabb.org/docs/default-source/default-document-library/services/aabb-media-kit-rate-card.pdf?sfvrsn=847afcbb_20",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mediakit.bio/media-kit/media-kit-vs-rate-card/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ans.org/file/25542/1/rate%20card%202027-online.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mediakit.time.com/print-rate-card/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DUp6yZUiSSv/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://insights.bookbub.com/about-bookbub-subscribers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/fabbaloo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/reel/Db-55nOijNW/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheFabbaloo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheFabbaloo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/fabbaloo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fabbaloo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.fabworks.com/resources/partnerships/sponsorshipinfo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/fabbaloo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/kerry-stevenson-5800627",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheFabbaloo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheFabbaloo/posts/1751782473615623/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheFabbaloo/posts/1754638939996643/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheFabbaloo/posts/1755526823241188/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheFabbaloo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fabbaloo",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Fabbaloo 会社概要 運営 設立",
+   "results": [
+    "https://www.fabbaloo.com/subscribe",
+    "https://www.linkedin.com/company/fabbaloo",
+    "https://www.facebook.com/TheFabbaloo/",
+    "https://www.instagram.com/fabbaloo/",
+    "https://www.fabbaloo.com/advertise",
+    "https://www.youtube.com/watch?v=wB0iycLclW8",
+    "https://job.mynavi.jp/28/pc/search/corp298582/outline.html",
+    "https://www.fabercompany.co.jp/company/",
+    "https://www.moomoo.com/ja/stock/BABB-US/company",
+    "https://ja.wikipedia.org/wiki/GMOインターネットグループ"
+   ]
+  },
+  {
+   "query": "Fabbaloo 広告 料金 OR media kit OR rate card",
+   "results": [
+    "https://www.fabbaloo.com/advertise",
+    "https://www.aabb.org/docs/default-source/default-document-library/services/aabb-media-kit-rate-card.pdf?sfvrsn=847afcbb_20",
+    "https://mediakit.bio/media-kit/media-kit-vs-rate-card/",
+    "https://www.ans.org/file/25542/1/rate%20card%202027-online.pdf",
+    "https://mediakit.time.com/print-rate-card",
+    "https://www.pinterest.com/ideas/media-rate-card/936598551895/",
+    "https://speedwayillustrated.com/wp-content/uploads/2022/09/2022-SI-Media-Kit-Rate-Card.pdf",
+    "https://nationalmediaspots.com/rate-cards/",
+    "https://capitalpress.com/services/download-advertising-rate-card/",
+    "https://www.mediakits.io/en"
+   ]
+  },
+  {
+   "query": "Fabbaloo 会員数 OR 読者数 OR subscribers OR readers",
+   "results": [
+    "https://www.fabbaloo.com/advertise",
+    "https://www.fabbaloo.com/news/introducing-the-fabbaloo-3d-print-cost-calculator",
+    "https://www.fabbaloo.com/news/roboze-strengthens-digital-supply-chain-strategy-with-acquisition-of-dimanex",
+    "https://www.instagram.com/reel/DUp6yZUiSSv/",
+    "https://insights.bookbub.com/about-bookbub-subscribers/",
+    "https://www.youtube.com/watch?v=jsHPcTsUPRY",
+    "https://support.livedoor.info/hc/ja/articles/9704890172047--Blog-PC%E7%89%88-%E3%82%A2%E3%83%97%E3%83%AA%E8%AA%AD%E8%80%85%E7%99%BB%E9%8C%B2%E6%95%B0%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95",
+    "https://prtimes.jp/main/html/rd/p/000000157.000036126.html",
+    "https://user.bookwalker.jp/ppa/member/giftcode/",
+    "https://www.forbes.com/sites/forbes-personal-shopper/article/the-best-reading-glasses/"
+   ]
+  },
+  {
+   "query": "Fabbaloo 売上 OR revenue OR acquired",
+   "results": [
+    "https://www.fabbaloo.com/news/3d-printing-revenue-soars-in-2023-yet-company-valuations-dip",
+    "https://www.linkedin.com/company/fabbaloo",
+    "https://www.fabbaloo.com/news/entry-level-3d-printer-sales-surge-as-industry-revenue-climbs-32",
+    "https://www.instagram.com/reel/Db-55nOijNW/",
+    "https://www.facebook.com/TheFabbaloo/",
+    "https://ir.bumble.com/news/news-details/2023/Bumble-Inc.-Announces-First-Quarter-2023-Results/default.aspx",
+    "https://www.youtube.com/watch?v=zy_dX4tFKIw",
+    "https://www.instagram.com/reel/DUp6yZUiSSv/",
+    "https://www.macrotrends.net/stocks/charts/BMBL/bumble/revenue",
+    "https://inside.lighting/news/26-11/cree-led-be-acquired-private-equity-firm"
+   ]
+  },
+  {
+   "query": "Fabbaloo スポンサー OR sponsorship OR 協賛",
+   "results": [
+    "https://www.fabbaloo.com/advertise",
+    "https://www.facebook.com/TheFabbaloo/",
+    "https://www.instagram.com/fabbaloo/",
+    "https://www.linkedin.com/company/fabbaloo",
+    "https://www.fabworks.com/resources/partnerships/sponsorshipinfo",
+    "https://bavc.org/fiscal-sponsorship/",
+    "https://www.fabbaloo.com/subscribe",
+    "https://www.doublecolacompany.com/sponsorship",
+    "https://www.bbpo.org/sponsorship",
+    "https://360matchpro.com/best-companies-to-approach-for-sponsorships/"
+   ]
+  },
+  {
+   "query": "site:note.com Fabbaloo",
+   "results": [
+    "https://note.com/mazzo/n/n0ea0efd7fe1b",
+    "https://note.com/airking7_/n/necbfc5c046f4",
+    "https://note.com/mar810/n/n841f55f07d04",
+    "https://note.com/son_jon/n/nda32c28efecf",
+    "https://note.com/legal_tiger6680/n/nc3984f34d8c5"
+   ]
+  },
+  {
+   "query": "site:x.com Fabbaloo",
+   "results": [
+    "https://x.com/voxelab",
+    "https://x.com/AimRobertson",
+    "https://x.com/digi_Craft_3D",
+    "https://x.com/scott__reese",
+    "https://x.com/alizm_w",
+    "https://x.com/zatsugakuinu/status/2111750354459369832",
+    "https://x.com/zatsugakuinu/status/2111749890070229220?lang=ar",
+    "https://x.com/zatsugakuinu/status/2111749890070229220",
+    "https://x.com/",
+    "https://x.com/4AviCohen"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Fabbaloo",
+   "results": [
+    "https://www.linkedin.com/company/fabbaloo",
+    "https://www.linkedin.com/posts/linkayser_design-of-the-week-copper-aerospike-rocket-activity-7003362416952545280-sKLd",
+    "https://ca.linkedin.com/in/kerry-stevenson-5800627",
+    "https://www.linkedin.com/posts/linkayser_leap-71-and-nikon-slm-3d-print-giant-rocket-activity-7392839800048775168-gHjz",
+    "https://www.linkedin.com/posts/fabbaloo_closed-loop-reference-method-optimizes-fff-activity-7415369039059066880-5hTI",
+    "https://www.linkedin.com/posts/fabbaloo_reshaping-aerospace-supply-chains-inside-activity-7406683804964229120-t_FL",
+    "https://ca.linkedin.com/in/marney-stapley-05a85b48",
+    "https://fr.linkedin.com/in/harshit-shangari-848a8b202",
+    "https://www.linkedin.com/in/jack-blaisdell-345637337",
+    "https://www.linkedin.com/posts/fabbaloo_could-ai-generators-eventually-replace-3d-activity-7523788735004655617-cuwq"
+   ]
+  },
+  {
+   "query": "site:facebook.com Fabbaloo",
+   "results": [
+    "https://www.facebook.com/TheFabbaloo/",
+    "https://www.facebook.com/TheFabbaloo/posts/1751782473615623/",
+    "https://www.facebook.com/TheFabbaloo/posts/1754638939996643/",
+    "https://www.facebook.com/TheFabbaloo/posts/1755526823241188/",
+    "https://www.facebook.com/TheFabbaloo/posts/1749523513841519/",
+    "https://www.facebook.com/TheFabbaloo/posts/1749468200513717/",
+    "https://www.facebook.com/TheFabbaloo/posts/1752708980189639/",
+    "https://www.facebook.com/TheFabbaloo/posts/1721949523265585/",
+    "https://www.facebook.com/TheFabbaloo/posts/1736218691838668/",
+    "https://www.facebook.com/TheFabbaloo/posts/1735355028591701/"
+   ]
+  },
+  {
+   "query": "Fabbaloo note 社長",
+   "results": [
+    "https://note.com/firebrand",
+    "https://www.fabbaloo.com/contact",
+    "https://note.com/firstloop_tech/n/na2dcd07890f5",
+    "https://www.alpha-food.co.jp/news/detail.php?pkId=71",
+    "https://note.com/genba_shacho_jp",
+    "https://blog.fukurou-labo.co.jp/all",
+    "https://www.facebook.com/TheFabbaloo/",
+    "https://www.j-wave.co.jp/original/tokyounited/archives/feature-focus/2025/07/04-071659.html",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "Fabbaloo X 投稿",
+   "results": [
+    "https://www.fabbaloo.com/advertise",
+    "https://www.facebook.com/TheFabbaloo/",
+    "https://www.instagram.com/fabbaloo/",
+    "https://www.linkedin.com/company/fabbaloo",
+    "https://www.fabbaloo.com/subscribe",
+    "https://muckrack.com/media-outlet/fabbaloo",
+    "https://bsky.app/",
+    "https://makerworld.com/hu/@lullabaloo",
+    "https://www.fabbaloo.com/contact",
+    "https://www.youtube.com/fablabuk"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索11回）",
+  "設立": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索11回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索11回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索11回）",
+  "代表者": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索11回）",
+  "株主構成": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索11回）"
+ }
+}

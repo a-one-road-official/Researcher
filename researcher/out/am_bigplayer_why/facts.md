@@ -1,4 +1,4 @@
-# 日本のAMに大手は入っているか・出たか・なぜか（会社ごとの参入・撤退の時期と理由）（事実のみ・12社）
+# 日本のAMに大手は入っているか・出たか・なぜか（会社ごとの参入・撤退の時期と理由）（事実のみ・24社）
 
 ## DMG森精機株式会社
 - 公式URL：https://www.dmgmori.co.jp（given）
@@ -157,6 +157,227 @@
   - 「在任中に“トリプル”8000億円達成へ、 DMG森精機社長 の展望 ... — 在任中に“トリプル”8000億円達成へ、 DMG森精機社長 の展望 ... MONOist https://monoist.itmedia.co.jp > articles > news047_2」（https://monoist.itmedia.co.jp/mn/articles/2606/15/news047_2.html・3回目）
 - 株主：記載なし（3回確認済み：公式30頁／PDF・画像9件／外部37頁・検索12回）
 - 設立：記載なし（3回確認済み：公式30頁／PDF・画像9件／外部37頁・検索12回）
+
+## EOS Japan
+- 公式URL：https://eosworldwide.jp/（search:yahoo_jp:EOS Japan）
+- 参入の時期と形：
+  - 「(1) 提携先」（https://eosworldwide.jp/・1回目）
+  - 「(3) 上記提携先のオプトアウト（無効化）URL」（https://eosworldwide.jp/・1回目）
+  - 「(3) 第4項の定めに従って、提携先または情報収集モジュール提供者へ個人情報が提供される場合」（https://eosworldwide.jp/・1回目）
+  - 「(1) 提携先」（https://eosworldwide.jp/topics/press_release/・1回目）
+  - 「(3) 上記提携先のオプトアウト（無効化）URL」（https://eosworldwide.jp/topics/press_release/・1回目）
+  - 「(3) 第4項の定めに従って、提携先または情報収集モジュール提供者へ個人情報が提供される場合」（https://eosworldwide.jp/topics/press_release/・1回目）
+  - 「ジーノとドンは共にEOSインプリメンターコミュニティ™の構築を開始し、2008年に正式にEOS Worldwideを立ち上げました」（https://eosworldwide.jp/eos-history-team/・1回目）
+  - 「ジーノ・ウィックマンが2000年9月にシステムの開発を開始」（https://eosworldwide.jp/eos-history-team/・1回目）
+  - 「EOS Oneのベータ版が2022年1月に開始」（https://eosworldwide.jp/eos-history-team/・1回目）
+  - 「「Strong in Six」シドニーとセルフインプリメンター向けワークショップを開始」（https://eosworldwide.jp/eos-history-team/・1回目）
+  - 「(1) 提携先」（https://eosworldwide.jp/eos-history-team/・1回目）
+  - 「(3) 上記提携先のオプトアウト（無効化）URL」（https://eosworldwide.jp/eos-history-team/・1回目）
+- 撤退・縮小の時期と理由：
+  - 「3-2 ユーザーは、本サービスの所定の設定を行うことにより、利用者情報の全部または一部についてその収集又は利用の停止を求めることができ、この場合、当社は速やかに、当社の定めるところに従い、その利用を停止します」（https://eosworldwide.jp/・1回目）
+  - 「なお利用者情報の項目によっては、その収集または利用が本サービスの前提となるため、当社所定の方法により本サービスを退会した場合に限り、当社はその収集又は利用を停止します」（https://eosworldwide.jp/・1回目）
+  - 「8.個人情報の訂正及び利用停止等」（https://eosworldwide.jp/・1回目）
+  - 「8-1 当社は、ユーザーから、(1)個人情報が真実でないという理由によって個人情報保護法の定めに基づきその内容の訂正を求められた場合、及び(2)あらかじめ公表された利用目的の範囲を超えて取扱われているという理由または偽りその他不正の手段により収集されたものであるという理由により、個人情報保護法の定めに基づきその利用の停止を求められた場合には、ユーザーご本人からのご請求であることを確認の上で遅滞なく必要な調査を行い、その結果に基づき、個人情報の内容の訂正または利用停止を行い、その旨をユーザーに通知します」（https://eosworldwide.jp/・1回目）
+  - 「なお、訂正または利用停止を行わない旨の決定をしたときは、ユーザーに対しその旨を通知いたします」（https://eosworldwide.jp/・1回目）
+  - 「8-3個人情報保護法その他の法令により、当社が訂正等または利用停止等の義務を負わない場合は、8-1および8-2の規定は適用されません」（https://eosworldwide.jp/・1回目）
+  - 「行動ターゲティング広告の配信停止方法等については、次条をご確認ください」（https://eosworldwide.jp/・1回目）
+  - 「前条(2)項に記載するツールへの情報提供を停止するための方法は以下に記載するリンク先にそれぞれ記載されています」（https://eosworldwide.jp/・1回目）
+  - 「前条(3)項に記載する行動ターゲティング広告に関しては、以下に記載する広告配信サービス提供会社のURLに配信停止の方法が記載されています」（https://eosworldwide.jp/・1回目）
+  - 「その場合は購読しているメールマガジンの配信手続き自体をご停止くださるようお願いします」（https://eosworldwide.jp/・1回目）
+  - 「3-2 ユーザーは、本サービスの所定の設定を行うことにより、利用者情報の全部または一部についてその収集又は利用の停止を求めることができ、この場合、当社は速やかに、当社の定めるところに従い、その利用を停止します」（https://eosworldwide.jp/topics/press_release/・1回目）
+  - 「なお利用者情報の項目によっては、その収集または利用が本サービスの前提となるため、当社所定の方法により本サービスを退会した場合に限り、当社はその収集又は利用を停止します」（https://eosworldwide.jp/topics/press_release/・1回目）
+- 参入しない・慎重な理由の発言：
+  - 「課題を設定し、解決し、永遠に葬り去る力を」（https://eosworldwide.jp/・1回目）
+  - 「そして「偉大なビジネス」に向けて課題を解決しよう」（https://eosworldwide.jp/・1回目）
+  - 「(1) 本サービスに関する登録の受付、本人確認、ユーザー認証、ユーザー設定の記録、利用料金の決済計算等本サービスの提供、維持、保護及び改善のため」（https://eosworldwide.jp/・1回目）
+  - 「(4) 個人情報の管理について責任を有する者の氏名または名称」（https://eosworldwide.jp/・1回目）
+  - 「8-1 当社は、ユーザーから、(1)個人情報が真実でないという理由によって個人情報保護法の定めに基づきその内容の訂正を求められた場合、及び(2)あらかじめ公表された利用目的の範囲を超えて取扱われているという理由または偽りその他不正の手段により収集されたものであるという理由により、個人情報保護法の定めに基づきその利用の停止を求められた場合には、ユーザーご本人からのご請求であることを確認の上で遅滞なく必要な調査を行い、その結果に基づき、個人情報の内容の訂正または利用停止を行い、その旨をユーザーに通知します」（https://eosworldwide.jp/・1回目）
+  - 「(1) 本サービスに関する登録の受付、本人確認、ユーザー認証、ユーザー設定の記録、利用料金の決済計算等本サービスの提供、維持、保護及び改善のため」（https://eosworldwide.jp/topics/press_release/・1回目）
+  - 「(4) 個人情報の管理について責任を有する者の氏名または名称」（https://eosworldwide.jp/topics/press_release/・1回目）
+  - 「8-1 当社は、ユーザーから、(1)個人情報が真実でないという理由によって個人情報保護法の定めに基づきその内容の訂正を求められた場合、及び(2)あらかじめ公表された利用目的の範囲を超えて取扱われているという理由または偽りその他不正の手段により収集されたものであるという理由により、個人情報保護法の定めに基づきその利用の停止を求められた場合には、ユーザーご本人からのご請求であることを確認の上で遅滞なく必要な調査を行い、その結果に基づき、個人情報の内容の訂正または利用停止を行い、その旨をユーザーに通知します」（https://eosworldwide.jp/topics/press_release/・1回目）
+  - 「(1) 本サービスに関する登録の受付、本人確認、ユーザー認証、ユーザー設定の記録、利用料金の決済計算等本サービスの提供、維持、保護及び改善のため」（https://eosworldwide.jp/eos-history-team/・1回目）
+  - 「(4) 個人情報の管理について責任を有する者の氏名または名称」（https://eosworldwide.jp/eos-history-team/・1回目）
+  - 「8-1 当社は、ユーザーから、(1)個人情報が真実でないという理由によって個人情報保護法の定めに基づきその内容の訂正を求められた場合、及び(2)あらかじめ公表された利用目的の範囲を超えて取扱われているという理由または偽りその他不正の手段により収集されたものであるという理由により、個人情報保護法の定めに基づきその利用の停止を求められた場合には、ユーザーご本人からのご請求であることを確認の上で遅滞なく必要な調査を行い、その結果に基づき、個人情報の内容の訂正または利用停止を行い、その旨をユーザーに通知します」（https://eosworldwide.jp/eos-history-team/・1回目）
+  - 「実際に一台導入してテスト導入・テスト稼働させた後に、試作なり量産に用いていく」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+- AMの規模：
+  - 「“EOS®を導入してから売上は3倍、」（https://eosworldwide.jp/・1回目）
+  - 「金属3Dプリンターの巨人が日本のモノづくりにもたらすもの（後編）―EOS Electro Optical Systems Japan | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「金属3Dプリンターの巨人が日本のモノづくりにもたらすもの（後編）―EOS Electro Optical Systems Japan」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「金属3Dプリンター」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「同氏はEOSシンガポール支社から日本にAM（積層造形技術を活用したモノづくり）の生態系を構築するために転勤してきたという」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「世界的3Dプリンター企業であるEOS社が、アジア市場および日本市場をどのように観ているのか」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「金属3Dプリンターの巨人が日本のモノづくりにもたらすもの（前編）」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「EOSは早い段階から3Dプリンターの活用を自社に当てはめる検討プロセスの支援を行ってきました」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「よく金属3Dプリンターではドイツを中心としたヨーロッパ勢が、樹脂3Dプリンターではアメリカ勢が勢いがあるといわれていますが、いずれも日本や中国、そして他のアジア諸国の量産化能力への危機意識から挑戦を強いられたものでした」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「政府支援で爆発的にすすんだ中国の3Dプリンター導入」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「中国では特殊な事情があり、政府が3Dプリンターの導入に多額の補助金を用意し、導入を強力に支援しました」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「その結果「何に使えるのか」、「どのようにデータを用意するのか」、「自社の現在の生産設備とどのように調和を図るのか」等々の検討を全くせずに、とりあえずスペックの高い3Dプリンターを導入するという非常に特殊な形での導入ラッシュがおこりました」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+- 客の業界：
+  - 「実際に一台導入してテスト導入・テスト稼働させた後に、試作なり量産に用いていく」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「よく金属3Dプリンターではドイツを中心としたヨーロッパ勢が、樹脂3Dプリンターではアメリカ勢が勢いがあるといわれていますが、いずれも日本や中国、そして他のアジア諸国の量産化能力への危機意識から挑戦を強いられたものでした」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「ヨーロッパでも自動車メーカーは検討に時間をかけていますが、スタートが早かったのです」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「ですが既存の取り組みで量産を成功させている分野への反映はきちんと手順を踏んでいます」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「こうした水面下での検討はR&D部隊を置き、自社で研究開発を旺盛に進めている大企業ほど積極的です」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+- 素材：
+  - 「金属3Dプリンターの巨人が日本のモノづくりにもたらすもの（後編）―EOS Electro Optical Systems Japan | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「金属3Dプリンターの巨人が日本のモノづくりにもたらすもの（後編）―EOS Electro Optical Systems Japan」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「金属3Dプリンター」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「金属3Dプリンターの巨人が日本のモノづくりにもたらすもの（前編）」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「よく金属3Dプリンターではドイツを中心としたヨーロッパ勢が、樹脂3Dプリンターではアメリカ勢が勢いがあるといわれていますが、いずれも日本や中国、そして他のアジア諸国の量産化能力への危機意識から挑戦を強いられたものでした」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「恥ずかしながらこの取材の前までは、「EOS=金属3Dプリンターのメーカー」という印象しかなかった」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+  - 「樹脂も扱っている事、コンサルに力を入れ、AMの生態系を作ろうとしている事など、今回はその一端を伺うことができた」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/・3回目）
+- 売上：
+  - 「“EOS®を導入してから売上は3倍、」（https://eosworldwide.jp/・1回目）
+  - 「32.8億円（2025年度実績）」（https://ec.eosjwt.com/shop/pages/company.aspx・3回目）
+- 存続：
+  - 「ジーノとドンは、6月までに状況が改善しなければ撤退すると決断」（https://eosworldwide.jp/eos-history-team/・1回目）
+- 検索結果の抜粋：
+  - 「会社概要 - イオス公式オンラインショップ — 会社概要 - イオス公式オンラインショップ イオス公式オンラインショップ https://ec.eosjwt.com > shop > pages > company」（https://ec.eosjwt.com/shop/pages/company.aspx・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部33頁・検索13回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部33頁・検索13回）
+- 設立：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部33頁・検索13回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部33頁・検索13回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部33頁・検索13回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部33頁・検索13回）
+- 代表者：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部33頁・検索13回）
+- 株主構成：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部33頁・検索13回）
+- 黒字・収益性：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部33頁・検索13回）
+
+## NTTデータザムテクノロジーズ株式会社
+- 公式URL：https://www.nttdata-xam.com/（search:yahoo_jp:NTTデータザムテクノロジーズ）
+- 創業年度：（3）設立日：2020年5月18日（https://www.nttdata.com/global/ja/news/services_info/2020/063000/・3回目）
+- 創業年度：設立：2020年05月18日（https://www.r-agent.com/company/d0317/・3回目）
+- 創業年度：設立：2020年5月18日（https://www.onecareer.jp/companies/96305・3回目）
+- 株主：NTTデータ 100％（https://www.nttdata.com/global/ja/news/services_info/2020/063000/・3回目）
+- 株主：株式会社NTTデータ/ ALLOYED LIMITED（https://www.onecareer.jp/companies/96305・3回目）
+- 従業員数：110人（https://www.r-agent.com/company/d0317/・3回目）
+- 従業員数：99名（2026年4月現在）（https://www.onecareer.jp/companies/96305・3回目）
+- 所在地：東京都大田区西蒲田7-37-10（https://www.nttdata.com/global/ja/news/services_info/2020/063000/・3回目）
+- 所在地：135-6026東京都江東区豊洲３－３－３（https://www.r-agent.com/company/d0317/・3回目）
+- 所在地：東京都江東区豊洲3-3-3（https://www.onecareer.jp/companies/96305・3回目）
+- 売上高：37.9億円（https://www.onecareer.jp/companies/96305・3回目）
+- 代表者：水沼　憲一（https://www.r-agent.com/company/d0317/・3回目）
+- 代表者：代表取締役社長　水沼　憲一（https://www.onecareer.jp/companies/96305・3回目）
+- 参入の時期と形：
+  - 「2009年から本格的に金属3DプリンターのR&Dを開始」（https://www.nttdata-xam.com/・1回目）
+  - 「Additive Assurance社と国内販売代理店契約を締結」（https://www.nttdata-xam.com/・1回目）
+  - 「プレスリリース：リサイクル材100％で製造したアルミニウム粉末材料の販売を開始（EOS金属3Dプリンター向け）」（https://www.nttdata-xam.com/・1回目）
+  - 「プレスリリース：樹脂3Dプリンター EOS P3 NEXTの販売を開始」（https://www.nttdata-xam.com/・1回目）
+  - 「プレスリリース：新たに2種のニッケル基超合金材料を販売開始（EOS金属3Dプリンター向け）」（https://www.nttdata-xam.com/・1回目）
+  - 「プレスリリース：英・Alloyed社との資本業務提携契約を締結」（https://www.nttdata-xam.com/・1回目）
+  - 「プレスリリース：製造業向け金属3Dプリンター EOS M 290-2 400Wの販売を開始」（https://www.nttdata-xam.com/・1回目）
+  - 「プレスリリース：製造業向け金属3Dプリンター EOS M 290 1kWの販売を開始」（https://www.nttdata-xam.com/・1回目）
+  - 「プレスリリース：製造業向け大型金属3Dプリンター AMCM M 8Kを2024年内に販売開始」（https://www.nttdata-xam.com/・1回目）
+  - 「【エントリー開始】2024年度新卒採用」（https://www.nttdata-xam.com/・1回目）
+  - 「デジタル技術を融合させた新たな3Dプリンター研究開発拠点の設立」（https://www.nttdata-xam.com/・1回目）
+  - 「【急成長する3Dプリンター市場】EOS北アメリカ 南カリフォルニアにアディティブ・マニュファクチャリング・イノベーション・センターの設立を発表」（https://www.nttdata-xam.com/・1回目）
+- 撤退・縮小の時期と理由：
+  - 「2026年度新入社員募集終了のお知らせ」（https://www.nttdata-xam.com/・1回目）
+  - 「多くのお客様が当社の展示ブースにお立ち寄りいただき盛況の内に終了することができました」（https://www.nttdata-xam.com/news/event/article_8594/・1回目）
+  - 「近年、需要が高まっている石油・ガス産業や半導体産業のニーズに応えるため、先進的な材料ソリューションの提供を続けているEOS社が新たなニッケル材料を発表しました」（https://www.nttdata-xam.com/news/info/article_7015/・1回目）
+  - 「多くのお客様が当社展示ブースにお立ち寄りいただき盛況の内に終了することができました」（https://www.nttdata-xam.com/news/event/article_6612/・1回目）
+  - 「EOS P3 NEXTは既存機種であるEOS P 396と同じ造形可能領域ですが、操作モニターを統合させたことで装置の設置面積をわずかに縮小しています」（https://www.nttdata-xam.com/news/info/article_6453/・1回目）
+  - 「宇宙分野で高融点金属の需要が高まっており、その中でNb合金は衛星推進系スラスタノズル材料して使用されている」（https://www.nttdata-xam.com/news/academic/article_6375/・1回目）
+  - 「宇宙分野で高融点金属の需要が高まっており、その中でNb合金は衛星推進系スラスタノズル材料して使用されている」（https://www.nttdata-xam.com/news/academic/article_6308/・1回目）
+  - 「市場での需要が非常に強かったため、この度EOSの標準機としてラインナップしました」（https://www.nttdata-xam.com/news/info/article_5661/・1回目）
+  - 「また、AMCM社によるカスタマイズ機の中で需要が大きいモデルは、今後EOS標準機となる予定です」（https://www.nttdata-xam.com/news/info/article_5661/・1回目）
+  - 「多くのお客様が当社展示ブースにお立ち寄りいただき盛況の内に終了することができました」（https://www.nttdata-xam.com/news/event/article_5520/・1回目）
+  - 「近年、AM領域ではより大きな部品の造形を可能にしたいという需要が急激に高まっており、AMCM社」（https://www.nttdata-xam.com/news/info/article_5449/・1回目）
+  - 「市場での需要が非常に強かったため、この度」（https://www.nttdata-xam.com/wp-content/uploads/2024/03/%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%90%91%E3%81%91%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC_EOS_M_290_1kW%E3%81%AE%E8%B2%A9%E5%A3%B2%E3%82%92%E9%96%8B%E5%A7%8B.pdf・2回目）
+- 参入しない・慎重な理由の発言：
+  - 「設計から品質保証まで一気通貫で御提案いたします」（https://www.nttdata-xam.com/・1回目）
+  - 「粉末の除去性や生産性を改善し、コスト削減を実現できます」（https://www.nttdata-xam.com/・1回目）
+  - 「３Dプリンターの導入で直面する課題とは」（https://www.nttdata-xam.com/・1回目）
+  - 「金属３Dプリンター向けAMS規格の認証対応保守点検のご紹介」（https://www.nttdata-xam.com/・1回目）
+  - 「金属３Dプリンター向けAMS規格の認証…」（https://www.nttdata-xam.com/・1回目）
+  - 「製造コスト削減を実現するEOSの先進技術（金属3Dプリンター）」（https://www.nttdata-xam.com/・1回目）
+  - 「品質検査員の力量 金属3Dプリンターの品質管理」（https://www.nttdata-xam.com/・1回目）
+  - 「品質検査員の力量 金属3Dプリンターの…」（https://www.nttdata-xam.com/・1回目）
+  - 「AM造形の板厚検査 金属3Dプリンターの品質管理」（https://www.nttdata-xam.com/・1回目）
+  - 「AM造形の板厚検査 金属3Dプリンター…」（https://www.nttdata-xam.com/・1回目）
+  - 「AM造形品の寸法精度と検査 金属3Dプリンターの品質管理」（https://www.nttdata-xam.com/・1回目）
+  - 「AM造形品の寸法精度と検査 金属3Dプ…」（https://www.nttdata-xam.com/・1回目）
+- AMの規模：
+  - 「3Dプリンターを」（https://www.nttdata-xam.com/・1回目）
+  - 「3Dプリンターのご紹介」（https://www.nttdata-xam.com/・1回目）
+  - 「金属3Dプリンターの」（https://www.nttdata-xam.com/・1回目）
+  - 「3Dプリンターの」（https://www.nttdata-xam.com/・1回目）
+  - 「EOSの3Dプリンターは産業用のハイエンドな装置です」（https://www.nttdata-xam.com/・1回目）
+  - 「金属3Dプリンター用」（https://www.nttdata-xam.com/・1回目）
+  - 「3Dプリンター向け」（https://www.nttdata-xam.com/・1回目）
+  - 「1993年から3Dプリンターの販売事業を始め、」（https://www.nttdata-xam.com/・1回目）
+  - 「2009年から本格的に金属3DプリンターのR&Dを開始」（https://www.nttdata-xam.com/・1回目）
+  - 「EOS/AMCM 3Dプリンター」（https://www.nttdata-xam.com/・1回目）
+  - 「金属AM技術を用いた脊椎治療向けインプラントの開発で患者の負担削減を期待」（https://www.nttdata-xam.com/・1回目）
+  - 「金属3Dプリンターで冷却設計を革新、AM金型を活用して世界最速サイクルタイムを目指す」（https://www.nttdata-xam.com/・1回目）
+- 客の業界：
+  - 「金属3Dプリンターで冷却設計を革新、AM金型を活用して世界最速サイクルタイムを目指す」（https://www.nttdata-xam.com/・1回目）
+  - 「自動車レース部品に金属3Dプリンターを適用」（https://www.nttdata-xam.com/・1回目）
+  - 「自動車レース部品に金属3Dプリンターを…」（https://www.nttdata-xam.com/・1回目）
+  - 「EOS製 金属3Dプリンターの活用でダイカスト金型のアルミ溶着除去の磨き作業をゼロに」（https://www.nttdata-xam.com/・1回目）
+  - 「国立研究開発法人宇宙航空研究開発機構（JAXA) 様」（https://www.nttdata-xam.com/・1回目）
+  - 「半導体装置産業における３Dプリンター製造部品とその効果の紹介」（https://www.nttdata-xam.com/・1回目）
+  - 「半導体装置産業における３Dプリンター製…」（https://www.nttdata-xam.com/・1回目）
+  - 「大阪大学大学院 工学研究科附属異方性カスタム設計・AM研究開発センター 様」（https://www.nttdata-xam.com/・1回目）
+  - 「金型業界への金属３Dプリンター適用」（https://www.nttdata-xam.com/・1回目）
+  - 「AM四方山話 #13 AMと量産性」（https://www.nttdata-xam.com/・1回目）
+  - 「プレスリリース：SOLIZE PARTNERSと「AM量産市場の創出」に向けた戦略的パートナーシップを締結」（https://www.nttdata-xam.com/・1回目）
+  - 「プレスリリース：宇宙航空研究開発機構（JAXA）の宇宙戦略基金に採択」（https://www.nttdata-xam.com/・1回目）
+- 素材：
+  - 「金属３Dプリンターの」（https://www.nttdata-xam.com/・1回目）
+  - 「金属3Dプリンターの」（https://www.nttdata-xam.com/・1回目）
+  - 「金属3Dプリンター用」（https://www.nttdata-xam.com/・1回目）
+  - 「金属用のサポート設計に特化し、」（https://www.nttdata-xam.com/・1回目）
+  - 「2009年から本格的に金属3DプリンターのR&Dを開始」（https://www.nttdata-xam.com/・1回目）
+  - 「将来の競争力への投資に樹脂３Dプリンターの大型機EOS P 770を導入」（https://www.nttdata-xam.com/・1回目）
+  - 「将来の競争力への投資に樹脂３Dプリンタ…」（https://www.nttdata-xam.com/・1回目）
+  - 「金属AM技術を用いた脊椎治療向けインプラントの開発で患者の負担削減を期待」（https://www.nttdata-xam.com/・1回目）
+  - 「金属3Dプリンターで冷却設計を革新、AM金型を活用して世界最速サイクルタイムを目指す」（https://www.nttdata-xam.com/・1回目）
+  - 「金属3Dプリンターで冷却設計を革新、A…」（https://www.nttdata-xam.com/・1回目）
+  - 「パルプモールドの型を樹脂3Dプリンターで成形し、生産プロセスを最適化」（https://www.nttdata-xam.com/・1回目）
+  - 「パルプモールドの型を樹脂3Dプリンター…」（https://www.nttdata-xam.com/・1回目）
+- 株主構成：
+  - 「AMCM社はEOS装置のカスタマイズを専門とするEOSの100%出資会社です」（https://www.nttdata-xam.com/news/event/article_6612/・1回目）
+  - 「AMCM社はEOS装置のカスタマイズを専門とするEOSの100%出資会社です」（https://www.nttdata-xam.com/news/event/article_5520/・1回目）
+  - 「AMCM社はEOS社が100%出資する、EOS装置のカスタマイズを専門とする会社です」（https://www.nttdata-xam.com/news/info/article_5121/・1回目）
+  - 「AMCMは、2017年に設立したEOSの100%出資会社です」（https://mono.ipros.com/product/detail/2000710602/・3回目）
+  - 「（5）株主および出資比率」（https://www.nttdata.com/global/ja/news/services_info/2020/063000/・3回目）
+- 創業年度：
+  - 「デジタル技術を融合させた新たな3Dプリンター研究開発拠点の設立」（https://www.nttdata-xam.com/・1回目）
+  - 「【急成長する3Dプリンター市場】EOS北アメリカ 南カリフォルニアにアディティブ・マニュファクチャリング・イノベーション・センターの設立を発表」（https://www.nttdata-xam.com/・1回目）
+  - 「３D プリンタを活用した AM ソリューション新会社「ＮＴＴデータザムテクノロジーズ」を設立」（https://www.nttdata-xam.com/・1回目）
+  - 「AMCM社はAdditive Manufacturing Customized Machineの略が由来となっており、EOSの3Dプリンターをお客様に合わせてカスタマイズするために設立されました」（https://www.nttdata-xam.com/amcm-m/・1回目）
+  - 「デジタル技術とAM技術の融合により、さまざまなビジネスのシナジーを創出したいとの思いで会社を設立しました」（https://css.nttdata.com/event/ngf/vol14/・3回目）
+  - 「AMCMは、2017年に設立したEOSの100%出資会社です」（https://mono.ipros.com/product/detail/2000710602/・3回目）
+  - 「金属と樹脂のEOS装置をお客様に合わせてカスタマイズするために設立されました」（https://mono.ipros.com/product/detail/2000710602/・3回目）
+  - 「EOS社は、1989年に設立された歴史を持つ産業用３Dプリンターのパイオニアで、３Dプリンターや材料のほか、部品設計、品質管理、後処理までを手掛ける3Dプリンター業界のマーケットリーダーです」（https://mono.ipros.com/product/detail/2000710602/・3回目）
+  - 「3Dプリンタを活用したAMソリューション新会社「NTTデータ ザムテクノロジーズ」を設立 | NTTデータ | NTTデータグループ - NTT DATA GROUP」（https://www.nttdata.com/global/ja/news/services_info/2020/063000/・3回目）
+  - 「3Dプリンタを活用したAMソリューション新会社「NTTデータ ザムテクノロジーズ」を設立」（https://www.nttdata.com/global/ja/news/services_info/2020/063000/・3回目）
+  - 「により、新しいものづくりを実現する株式会社NTTデータ ザムテクノロジーズを設立し、2020年7月1日より事業を開始します」（https://www.nttdata.com/global/ja/news/services_info/2020/063000/・3回目）
+  - 「このたび、グローバル市場における3DプリンタによるAM技術の進展と関連マーケットの拡大を背景に、設計、積層造形、後処理というAM技術のすべてのプロセスに対してAI/ITを融合させることで、飛躍的な事業発展につながると確信し、AMソリューション専業の事業会社を設立することとしました」（https://www.nttdata.com/global/ja/news/services_info/2020/063000/・3回目）
+- 売上：
+  - 「【半導体産業の業界研究】売上ランキングトップ30／キオクシア急成長の理由／レゾナックは大化けする／東京エレクトロンの将来性／NVIDIAに富が集中する構造／日本の装置・材料メーカーは生き残れるか」（https://www.youtube.com/watch?v=axubxkcwj1M・3回目）
+  - 「今後、海外も含めた先進企業との積極的なアライアンス等により事業拡大を行い、2025年に事業規模100億円を目指します」（https://www.nttdata.com/global/ja/news/services_info/2020/063000/・3回目）
+  - 「今後は、製造プロセスの高度化に向け、NTTデータの保有するAI技術を活用するとともに、海外も含めた先進企業との積極的なアライアンスを実施し、事業拡大を行い、2025年に事業規模100億円を目指します」（https://www.nttdata.com/global/ja/news/services_info/2020/063000/・3回目）
+  - 「490百万円」（https://www.r-agent.com/company/d0317/・3回目）
+  - 「決算期2024/03 売上高3,317百万円 経常利益66百万円」（https://www.r-agent.com/company/d0317/・3回目）
+  - 「決算期2025/03 売上高3,796百万円 経常利益264百万円」（https://www.r-agent.com/company/d0317/・3回目）
+  - 「資本金：4.9億円」（https://www.onecareer.jp/companies/96305・3回目）
+  - 「売上高：37.9億円」（https://www.onecareer.jp/companies/96305・3回目）
+  - 「37.9億円」（https://www.onecareer.jp/companies/96305・3回目）
+  - 「1億円以上のAM機器を20台以上保有する国内最大級のラボを完備」（https://www.onecareer.jp/companies/96305・3回目）
+- 検索結果の抜粋：
+  - 「株式会社 NTTデータザムテクノロジーズ — 株式会社 NTTデータザムテクノロジーズ 株式会社NTTデータザムテクノロジーズ https://www.nttdata-xam.com」（https://www.nttdata-xam.com/・3回目）
+  - 「会社概要 - 株式会社NTTデータザムテクノロジーズ — 会社概要 - 株式会社NTTデータザムテクノロジーズ 株式会社NTTデータザムテクノロジーズ https://www.nttdata-xam.com > company」（https://www.nttdata-xam.com/company/・3回目）
+  - 「株式会社 NTTデータザムテクノロジーズ の中途採用・転職 ... — 株式会社 NTTデータザムテクノロジーズ の中途採用・転職 ... リクルートエージェント https://www.r-agent.com > company」（https://www.r-agent.com/company/d0317/・3回目）
+  - 「NTTデータ ザムテクノロジーズ の新卒採用・就職・会社概要と ... — NTTデータ ザムテクノロジーズ の新卒採用・就職・会社概要と ... ワンキャリア https://www.onecareer.jp > companies」（https://www.onecareer.jp/companies/96305・3回目）
+  - 「株式会社 NTTデータザムテクノロジーズ の企業情報 — 株式会社 NTTデータザムテクノロジーズ の企業情報 バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/566f08jwcm/・3回目）
+  - 「3Dプリンター の導入で直面する 課題 とは — 3Dプリンター の導入で直面する 課題 とは 株式会社NTTデータザムテクノロジーズ https://www.nttdata-xam.com > development > article_9305」（https://www.nttdata-xam.com/blog/development/article_9305/・3回目）
+  - 「会社 を知る - 株式会社NTTデータザムテクノロジーズ — 会社 を知る - 株式会社NTTデータザムテクノロジーズ 株式会社NTTデータザムテクノロジーズ https://www.nttdata-xam.com > 採用情報 > 新卒採用」（https://www.nttdata-xam.com/recruit/freshers/about/・3回目）
+  - 「NTTデータ ザムテクノロジーズ の新卒採用・就職・ 会社概要 と ... — NTTデータ ザムテクノロジーズ の新卒採用・就職・ 会社概要 と ... ワンキャリア https://www.onecareer.jp > companies」（https://www.onecareer.jp/companies/96305・3回目）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像9件／外部23頁・検索13回）
+- 黒字・収益性：記載なし（3回確認済み：公式30頁／PDF・画像9件／外部23頁・検索13回）
+- 存続：記載なし（3回確認済み：公式30頁／PDF・画像9件／外部23頁・検索13回）
 
 ## SOLIZE株式会社
 - 公式URL：https://www.solize.com（given）
@@ -645,6 +866,179 @@
 - 売上高：記載なし（3回確認済み：公式30頁／PDF・画像5件／外部33頁・検索13回）
 - 代表者：記載なし（3回確認済み：公式30頁／PDF・画像5件／外部33頁・検索13回）
 
+## 三菱重工業株式会社
+- 公式URL：https://www.mhi.com/jp（given）
+- 創業年度：創立年月日：1884年（明治17年）7月7日 沿革（https://www.mhi.com/jp/company/overview/profile・1回目）
+- 創業年度：設立年月日：1950年（昭和25年）1月11日（https://www.mhi.com/jp/company/overview/profile・1回目）
+- 創業年度：設立：1950年01月（https://prtimes.jp/main/html/rd/p/000000267.000025611.html・3回目）
+- 株主：日本マスタートラスト信託銀行 （信託口） 15.6 % 日本カストディ銀行 （信託口） 5.0 % 明治安田生命保険相互会社 2.3 % STATE STREET BANK WEST CLIENT - TREATY 505234 1.8 % 三菱重工持株会 1.6 % THE BANK OF NEW YORK MELLON 140044 1.0 % （2023年3月31日現在）（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+- 従業員数：連結：7万8793名 単独：2万3373名 （2026年3月31日現在）（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+- 所在地：＜丸の内＞ 地図 〒100-8332　東京都千代田区丸の内三丁目2番3号（注） 電話　03-6275-6200（代表） 本店登記上の住所 ＜田町＞ 地図 〒108-8015　東京都港区芝五丁目33番11号（https://www.mhi.com/jp/company/overview/profile・1回目）
+- 所在地：〒220-8401 横浜市西区みなとみらい三丁目3番1号 KDX 横浜みなとみらいタワー（https://www.mhi.com/jp/company/overview/museum/minatomirai/about_museum・1回目）
+- 所在地：東京都千代田区丸の内三丁目２番３号
+丸の内二重橋ビル（https://prtimes.jp/main/html/rd/p/000000267.000025611.html・3回目）
+- 売上高：49,741億円（2025年4月1日～2026年3月31日）（https://www.mhi.com/jp/company/overview/profile・1回目）
+- 売上高：23,962億円（2025年4月1日～2026年3月31日）（https://www.mhi.com/jp/company/overview/profile・1回目）
+- 売上高：連結：5兆271億7600万円 単独：1兆9471億7800万円 （2025年3月期） [ 2 ]（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+- 代表者：伊藤　栄作（いとう　えいさく）（https://www.mhi.com/jp/company/overview/profile・1回目）
+- 代表者：Chief Executive Officer（https://www.mhi.com/jp/company/overview/officers・1回目）
+- 代表者：伊藤　栄作（https://prtimes.jp/main/html/rd/p/000000267.000025611.html・3回目）
+- 参入の時期と形：
+  - 「この年、三菱の創業者岩崎彌太郎は政府より工部省長崎造船局を借り受け、長崎造船所と命名して造船事業を本格的に開始しました」（https://www.mhi.com/jp/company/overview/history.html・1回目）
+  - 「1944年（昭和19年）に操業を開始し、現在は大型産業用コンプレッサ・タービン、製鉄機械、民間航空機胴体パネルの製造を行っています」（https://www.mhi.com/jp/company/location/hiroshimaw・1回目）
+  - 「MHIET、水素混焼が可能な450kWガスコージェネレーションシステムの販売開始 ー 実証試験で信頼性を確認」（https://www.mhi.com/jp/business/solutions/hydrogen-ammonia・1回目）
+  - 「天然水素の革新的な探査技術を有するコロマ社に出資」（https://www.mhi.com/jp/business/solutions/hydrogen-ammonia・1回目）
+  - 「三菱重工機械システム、AIによる段ボールシートの反り制御装置を世界で初めて開発 最適な機械設定を予測可能、国内外で本格販売開始」（https://www.mhi.com/jp/news・1回目）
+  - 「次世代液体燃料（HVO）の環境価値を一元管理するデジタルプラットフォーム「CO₂NNEX®」のクリーン燃料証書制度実証における運用開始について」（https://www.mhi.com/jp/news・1回目）
+  - 「インドネシア・ダラジャット地熱発電所の設備改修工事を完了 発電出力を8,000kW増強し、商業運転を開始」（https://www.mhi.com/jp/news・1回目）
+  - 「大学生・大学院生向け 冬期ワークショップ・インターンシップの募集を開始」（https://www.mhi.com/jp/news・1回目）
+  - 「三菱重工とPFN、資本業務提携契約を締結 ミッションクリティカル領域における機械・システムの知能化・自律化に向けた最先端AI技術の共同開発を本格化」（https://www.mhi.com/jp/news・1回目）
+  - 「三菱重工サーマルシステムズ、中大規模施設向け空調システム集中制御機器をフルモデルチェンジ 新モデル「SL5」を国内外で順次発売」（https://www.mhi.com/jp/news・1回目）
+  - 「三菱重工とNEC、防衛力の一層の強化と変革に向けた戦略的提携へ ～作戦計画・指揮統制や無人アセット等の領域で連携～」（https://www.mhi.com/jp/news・1回目）
+  - 「MHIET、発電用KUガスエンジンの水素混焼仕様を確立 エナジートランジションの水素対応ソリューションとして提案を開始」（https://www.mhi.com/jp/news・1回目）
+- 撤退・縮小の時期と理由：
+  - 「1966年に本牧工場を新設、1980年に新造船事業から撤退、1982年に横浜市の都市臨海部再開発事業“みなとみらい21計画”に協力するため、明治以来の横浜工場を本牧工場に移設し、所名も1983年4月に横浜造船所から横浜製作所に改称しました」（https://www.mhi.com/jp/company/location/yokohamaw・1回目）
+  - 「国内向け陸上風力発電設備に係る事業の譲渡手続き完了」（https://www.mhi.com/jp/news・1回目）
+  - 「三菱重工工作機械を含む三菱重工グループの工作機械事業については、現在も継続して日本電産株式会社および日本電産グループに譲渡移管手続きを実施中で、実行条件が整い次第完了予定です」（https://prtimes.jp/main/html/rd/p/000000267.000025611.html・3回目）
+  - 「近年は、ガスタービン発電と、その排熱を利用した蒸気タービン発電を組み合わせたGTCC※1発電設備の需要が高く、アジア、中近東、ヨーロッパなどを中心に27か国、すでに70プラント以上を輸出している」（https://www.marubeni-idigio.com/product/3dprinter/case/industrial/mhi/index.html・3回目）
+  - 「に基づき45日間の業務停止命令を受ける」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「1月1日 - 船舶事業を再編し、船舶・海洋事業本部を」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「その後2024年04月01日付けでGXセグメントを新設し、複数の部門にまたがるエナジートランジション関連部門を再編し、プロジェクトマネジメント機能およびエンジニアリング機能を強化した体制とした」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「およびその日本法人のメッツォペーパージャパン株式会社へ譲渡」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「）およびそのグループ会社に譲渡され、2021年8月の株式譲渡完了を待って「日本電産マシンツール株式会社」（現・ニデックマシンツール）となった」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「2006年（平成18年）に三菱重工の橋梁事業を事業譲渡され、三菱重工橋梁エンジニアリングとなる」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「に譲渡し、エム・エムブリッジ株式会社に改称」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「2012年に株式をすべてキャタピラー社に譲渡し、合弁は解消」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+- 参入しない・慎重な理由の発言：
+  - 「1884年の創立以来、社会課題に真摯に向き合い、人々の暮らしを支えてきました」（https://www.mhi.com/jp・1回目）
+  - 「たとえばeコマース市場の拡大により最適化へのニーズが世界規模で高まっている倉庫や工場の物流現場へ、レーザー誘導方式無人フォークリフトや自動倉庫など、物流機器と物流システムの両面から最適な課題解決策を提供します」（https://www.mhi.com/jp・1回目）
+  - 「私たちはより良い未来の実現のため確かなものづくりの技術で社会課題を解決し」（https://www.mhi.com/jp・1回目）
+  - 「認証取得（ISO45001）」（https://www.mhi.com/jp/company/overview/history.html・1回目）
+  - 「認証取得（ISO45001）」（https://www.mhi.com/jp/business/products-services/energy-environment・1回目）
+  - 「カーボンニュートラル社会に向けた取り組み、及びDX推進による効率化・自動化・省人化ニーズの高まりを受け、三菱重工は、環境課題と社会ニーズに応えるべく多様な製品の開発と事業展開に取り組んでいます」（https://www.mhi.com/jp/company/business-area・1回目）
+  - 「エネルギー効率の高い快適な空間を創出する「冷熱事業」では、世界的な脱炭素化ニーズの高まりを受けたヒートポンプ製品市場の需要拡大に対し新機種投入で応え、急成長しているデータセンター向けに高性能ターボ冷凍機の開発を推進しています」（https://www.mhi.com/jp/company/business-area・1回目）
+  - 「認証取得（ISO45001）」（https://www.mhi.com/jp/company/business-area/nuclear・1回目）
+  - 「今日、直面する課題に真摯に向き合い、」（https://www.mhi.com/jp/company/business-area/nuclear・1回目）
+  - 「水中航行型原子炉容器検査ロボットで原子炉を安全管理」（https://www.mhi.com/jp/company/business-area/nuclear・1回目）
+  - 「認証取得（ISO45001）」（https://www.mhi.com/jp/company/location/hiroshimaw・1回目）
+  - 「認証取得（ISO45001）」（https://www.mhi.com/jp/company/location/yokohamaw・1回目）
+- AMの規模：
+  - 「さらに、自動車のパワートレインの多様化に応える「ターボチャージャ事業」ではゼロエミッション車両への移行に対応した燃料電池システム用電動コンプレッサの開発・受注活動を進め、システム全体の効率向上に寄与しています」（https://www.mhi.com/jp/company/business-area・1回目）
+  - 「当生産拠点は東京・芝浦で1920年（大正9年）に発足し、1970年（昭和45年）、東京の丸子と大井町から相模原に全面移転し、現在に至っています」（https://www.mhi.com/jp/company/location/sagamiharaw・1回目）
+  - 「首鋼京唐鋼鉄向けスラブ連続鋳造機改造を受注 - 高品質鋼材の生産強化に貢献」（https://www.mhi.com/jp/news・1回目）
+  - 「Dingshengの箔圧延機増強プロジェクト向け平坦度制御ソリューションを受注」（https://www.mhi.com/jp/news・1回目）
+  - 「シンガポールの新交通システム「センカン・プンゴルLRT」車両8編成を追加受注」（https://www.mhi.com/jp/news・1回目）
+  - 「イノバンスとの協業を強化し、中国向けPLTCMドライブのプロジェクトを受注」（https://www.mhi.com/jp/news・1回目）
+  - 「JSWスチールとの長期パートナーシップを強化 - インドで製鋼設備立ち上げ、ペレタイジングプラントを受注」（https://www.mhi.com/jp/news・1回目）
+  - 「ドバイ「アル・マクトゥーム国際空港」向けAPMシステムを受注」（https://www.mhi.com/jp/news・1回目）
+  - 「KGスチール向け韓国唐津の連続酸洗・タンデム冷間圧延ライン（PLTCM）改修プロジェクトを受注」（https://www.mhi.com/jp/news・1回目）
+  - 「ニューコア スチール ディケーター向け薄スラブ連続鋳 造機改修プロジェクトを受注」（https://www.mhi.com/jp/news・1回目）
+  - 「中国の麗島新能源向けアルミ箔圧延プロジェクトを受注」（https://www.mhi.com/jp/news・1回目）
+  - 「中国WISCO向けCSP鋳造圧延ライン改造工事を受注」（https://www.mhi.com/jp/news・1回目）
+- 客の業界：
+  - 「三菱重工機械システム、AIによる段ボールシートの反り制御装置を世界で初めて開発 最適な機械設定を予測可能、国内外で本格販...」（https://www.mhi.com/jp・1回目）
+  - 「三菱重工グループは、エンジニアリングとものづくりのグローバルリーダーとして、」（https://www.mhi.com/jp・1回目）
+  - 「三菱重工グループは、発電システムのリーディングサプライヤーとして、経済的で信頼性の高い、クリーンなエネルギーを世界中にお届けしています」（https://www.mhi.com/jp・1回目）
+  - 「三菱重工グループは、快適な生活の実現に力を注いでいます」（https://www.mhi.com/jp・1回目）
+  - 「省エネでお手入れが簡単なエアコンや、世界中の新鮮な食品を運ぶトラック用冷凍機、ビル、病院、イベントホールなどの大空間の空調やエネルギーを快適に支えるターボ冷凍機や発電システムなど、幅広い専門知識を駆使して豊かな暮らしをサポートしています」（https://www.mhi.com/jp・1回目）
+  - 「排出ガス処理技術のパイオニアとして、40年以上も日本の環境技術の発展をリードしてきた三菱重工グループ」（https://www.mhi.com/jp・1回目）
+  - 「三菱重工グループの多様な製品は、世界の産業と物流をさまざまな分野で支えています」（https://www.mhi.com/jp・1回目）
+  - 「三菱重工グループのAGTは世界各地の空港内の移動や都市間交通の手段として世界中で利用されています」（https://www.mhi.com/jp・1回目）
+  - 「三菱重工グループは、発電用タービン、CO」（https://www.mhi.com/jp・1回目）
+  - 「回収、造船、航空、防衛、宇宙などにわたる500以上の製品・技術を保有しています」（https://www.mhi.com/jp・1回目）
+  - 「陸・海・空、そして宇宙に、あなたの力を発揮できる舞台があります」（https://www.mhi.com/jp・1回目）
+  - 「三菱重工の創立は古く明治17年（1884年）までさかのぼります」（https://www.mhi.com/jp/company/overview/history.html・1回目）
+- 素材：
+  - 「カーボンニュートラル社会の実現に向けたエナジートランジション、社会インフラのスマート化、」（https://www.mhi.com/jp・1回目）
+  - 「2040年カーボンニュートラル宣言」（https://www.mhi.com/jp/company/overview/history.html・1回目）
+  - 「2040年カーボンニュートラル宣言」（https://www.mhi.com/jp/business/products-services/energy-environment・1回目）
+  - 「カーボンニュートラル社会に向けて、クリーン燃料である水素・アンモニアのバリューチェーン構築を通じたエナジートランジションを加速させます」（https://www.mhi.com/jp/business/products-services/energy-environment・1回目）
+  - 「これらの事業を通じて、エネルギーの安定供給とカーボンニュートラルの両立実現に貢献しています」（https://www.mhi.com/jp/company/business-area・1回目）
+  - 「カーボンニュートラル社会に向けた取り組み、及びDX推進による効率化・自動化・省人化ニーズの高まりを受け、三菱重工は、環境課題と社会ニーズに応えるべく多様な製品の開発と事業展開に取り組んでいます」（https://www.mhi.com/jp/company/business-area・1回目）
+  - 「2040年カーボンニュートラル宣言」（https://www.mhi.com/jp/company/business-area/nuclear・1回目）
+  - 「原子力は、カーボンフリーなエネルギーを、」（https://www.mhi.com/jp/company/business-area/nuclear・1回目）
+  - 「カーボンニュートラル達成に向け、原子力にできること」（https://www.mhi.com/jp/company/business-area/nuclear・1回目）
+  - 「2040年カーボンニュートラル宣言」（https://www.mhi.com/jp/company/location/hiroshimaw・1回目）
+  - 「2040年カーボンニュートラル宣言」（https://www.mhi.com/jp/company/location/yokohamaw・1回目）
+  - 「2040年カーボンニュートラル宣言」（https://www.mhi.com/jp/company/location/sagamiharaw・1回目）
+- 株主構成：
+  - 「天然水素の革新的な探査技術を有するコロマ社に出資」（https://www.mhi.com/jp/business/solutions/hydrogen-ammonia・1回目）
+  - 「第101回定時株主総会招集ご通知を掲載致しました」（https://www.mhi.com/jp/news・1回目）
+  - 「上場企業の決算発表日程や株主総会の日程を事前に確認することができます」（https://www.nikkei.com/nkd/company/gaiyo/?scode=7011・3回目）
+  - 「2020年 （令和2年） 4月、親会社の三菱重工業に吸収合併」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「傘下であり、三菱各社との関係は維持しており、三菱重工業も出資（株式の2.38」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「三菱重工業も出資（株式の8.34」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「株式会社 - 電力会社9社・メーカー3社・産業革新機構の出資により、2010年（平成22年）10月22日に設立された」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「利益の絶対額だけでなく、株主から預かった資本をいかに効率的に運用して利益を生み出しているか（資本効率）が、長期的な株主価値創造の鍵を握ります」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「潤沢なフリーキャッシュフローを背景に、株主還元政策も明確化されています」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「（日本の超低金利な負債コストと、安定インフラ企業としての株主資本コストから加重平均」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「株主価値（事業価値 ＋ ネットキャッシュ）:」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「しかし、同社が将来生み出すキャッシュに基づく適正な株主価値は約6.5兆円です」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+- 創業年度：
+  - 「1884年の創立以来、社会課題に真摯に向き合い、人々の暮らしを支えてきました」（https://www.mhi.com/jp・1回目）
+  - 「三菱重工の創立は古く明治17年（1884年）までさかのぼります」（https://www.mhi.com/jp/company/overview/history.html・1回目）
+  - 「この年、三菱の創業者岩崎彌太郎は政府より工部省長崎造船局を借り受け、長崎造船所と命名して造船事業を本格的に開始しました」（https://www.mhi.com/jp/company/overview/history.html・1回目）
+  - 「JALエンジニアリングと三菱重工、航空機アフターマーケット事業の合弁会社「Aero Breath」を設立」（https://www.mhi.com/jp/news・1回目）
+  - 「三菱重工グループは、エンジニアリングとものづくりのグローバルリーダーとして、 1884年の創立以来、社会課題に真摯に向き合い、人々の暮らしを支えてきました」（https://www.mhi.com/jp/company・1回目）
+  - 「当社の発祥は遠く明治3年（1870年）にさかのぼるが、当社の今日あるのはひとえに創業者岩崎彌太郎を始め歴代の経営者、従業員のたゆまぬ努力の所産である」（https://www.mhi.com/jp/company/overview/vision・1回目）
+  - 「時あたかも三菱創業百年を迎え、激動する70年代の幕開けに際し、当社は時勢に応じ、絶えず新しい意欲を持って前進したいと思う」（https://www.mhi.com/jp/company/overview/vision・1回目）
+  - 「三菱みなとみらい技術館は、明日を担う青少年たちが「科学技術」に触れ、夢を膨らませることのできる場になることを願い、三菱重工業株式会社が1994年6月に設立したものです」（https://www.mhi.com/jp/company/overview/museum/minatomirai/about_museum・1回目）
+  - 「世界に通用する産業用金属3Dプリンタの製造企業を育成し、事業化を支援するために、経済産業省の技術研究組合次世代3D積層造形技術総合開発機構（TRAFAM）が設立されたのだ」（https://www.jsme.or.jp/kaisi/1233-36/・3回目）
+  - 「三菱重工グループは、エンジニアリングとものづくりのグローバルリーダーとして、 1884年の創立以来、 社会課題に真摯に向き合い、人々の暮らしを支えてきました」（https://power.mhi.com/jp/news/20201127.html・3回目）
+  - 「業の一切を引き継いだ三菱造船（初代）が設立される」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「（2代目）を設立」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+- 売上：
+  - 「2,656億円（2026年3月31日現在）」（https://www.mhi.com/jp/company/overview/profile・1回目）
+  - 「76,536億円（2025年4月1日～2026年3月31日）」（https://www.mhi.com/jp/company/overview/profile・1回目）
+  - 「49,741億円（2025年4月1日～2026年3月31日）」（https://www.mhi.com/jp/company/overview/profile・1回目）
+  - 「41,777億円（2025年4月1日～2026年3月31日）」（https://www.mhi.com/jp/company/overview/profile・1回目）
+  - 「23,962億円（2025年4月1日～2026年3月31日）」（https://www.mhi.com/jp/company/overview/profile・1回目）
+  - 「2656億円」（https://prtimes.jp/main/html/rd/p/000000267.000025611.html・3回目）
+  - 「265,608(百万円)」（https://www.nikkei.com/nkd/company/gaiyo/?scode=7011・3回目）
+  - 「2026年3月期 （百万円） ［］内は人数」（https://www.nikkei.com/nkd/company/gaiyo/?scode=7011・3回目）
+  - 「2026年3月期 （百万円）」（https://www.nikkei.com/nkd/company/gaiyo/?scode=7011・3回目）
+  - 「下請け従業員のじん肺 三菱重工に1.2億円の賠償命令」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「同社の2026年3月期の連結売上高は4兆9,742億円に達しており、現在は大きく4つのセグメントで事業を展開しています3」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「歴史を紐解くと、1970年代の同社は船舶事業が売上の4割近くを占める造船メインの企業でした」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+- 黒字・収益性：
+  - 「その後、1980年代には原動機（エナジー）が成長を牽引し、2010年代以降は不採算となった客船事業等から撤退・縮小を図り、現在の「エナジー」と「航空・防衛・宇宙」を両輪とする高付加価値インフラ企業へと事業ポートフォリオを見事に転換させてきました3」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「過去数年間にわたる事業再編により、同社は不採算事業（客船事業や国産旅客機事業など）を切り離し、中核事業への資源集中を進めました」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「FY18の営業利益の落ち込み（392億円）や、FY20の営業赤字（-327億円）、FY21のフリーキャッシュフローの大幅なマイナス（-2,771億円）は、こうした「負の遺産」の処理が重くのしかかっていた時期のものです3」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「しかし、経営陣はこれらの不採算プロジェクトからの撤退という苦渋の、しかし不可欠な決断を下しました」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「この奇跡的な効率化を牽引したのは、純利益率の大幅な改善（1.10% → 6.68%）です」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「不採算事業の止血が完了し、高利益率なアフターサービス事業と防衛案件が全体を牽引し始めた結果です」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「全社の売上高はFY25の5兆272億円からFY26は4兆9,742億円へとわずかに減少（前年比 -1.1%）しましたが、営業利益は3,745億円から4,747億円（前年比 +26.7%）へと劇的に増加しています3」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「この結果、営業利益率は過去最高水準の9.5%に達しています3」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「また、決算説明資料の充実や、不採算事業からの撤退に関する透明性の高い情報開示は、ガバナンスが正常に機能している証左であり、長期投資家が信頼を寄せるに足る経営体制であると定性的に高く評価できます」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「FY2026/3期（売上高 4兆9,742億円、営業利益率 9.54%）」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「NOPAT（税引後営業利益）の 25%（設備投資と運転資本の増減を考慮）」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「実績純利益ベースで再計算しても概ね40倍〜50倍前後の水準にあります」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+- 存続：
+  - 「1966年に本牧工場を新設、1980年に新造船事業から撤退、1982年に横浜市の都市臨海部再開発事業“みなとみらい21計画”に協力するため、明治以来の横浜工場を本牧工場に移設し、所名も1983年4月に横浜造船所から横浜製作所に改称しました」（https://www.mhi.com/jp/company/location/yokohamaw・1回目）
+  - 「マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる」（https://www.nikkei.com/article/DGXLRSP509733_W9A510C1000000/・3回目）
+  - 「2006年（平成18年）に三菱重工の橋梁事業を事業譲渡され、三菱重工橋梁エンジニアリングとなる」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「“三菱重工の本社機能が今夏、横浜から撤退 都内に集約、グループ会社も移転”」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「工作機械事業の事業譲渡に係る最終契約締結についてのお知らせ」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「その後、1980年代には原動機（エナジー）が成長を牽引し、2010年代以降は不採算となった客船事業等から撤退・縮小を図り、現在の「エナジー」と「航空・防衛・宇宙」を両輪とする高付加価値インフラ企業へと事業ポートフォリオを見事に転換させてきました3」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「しかし、経営陣はこれらの不採算プロジェクトからの撤退という苦渋の、しかし不可欠な決断を下しました」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「また、決算説明資料の充実や、不採算事業からの撤退に関する透明性の高い情報開示は、ガバナンスが正常に機能している証左であり、長期投資家が信頼を寄せるに足る経営体制であると定性的に高く評価できます」（https://note.com/open_azalea2045/n/ne12cfc7423fd・3回目）
+  - 「【11/6】日経平均が史上3番目の下げ幅、三菱重工が売上6兆円へ上方修正、ソフトバンクGのロボット買収に中国が禁止ほか｜経済ニュース10選」（https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5・3回目）
+  - 「IHIは造船から撤退しており、舶用エンジンなどに特化しています」（https://note.com/nainaiteinote/n/n5505aa67bb54・3回目）
+- 検索結果の抜粋：
+  - 「三菱重工 工作機械、金属 3Dプリンター の造形サービスを拡大 ... — 三菱重工 工作機械、金属 3Dプリンター の造形サービスを拡大 ... Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > news」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「新時代到来！ 金属 3Dプリンタ 三菱重工 工作機械（株） — 新時代到来！ 金属 3Dプリンタ 三菱重工 工作機械（株） 一般社団法人 日本機械学会 https://www.jsme.or.jp > kaisi」（https://www.jsme.or.jp/kaisi/1233-36/・3回目）
+  - 「航空機の翼から宇宙機器まで金属 3Dプリンター の可能性を ... — 航空機の翼から宇宙機器まで金属 3Dプリンター の可能性を ... Spectra by MHI https://spectra.mhi.com > security-and-exploration > from...」（https://spectra.mhi.com/jp/security-and-exploration/from-aircraft-wings-to-space-components-designing-3d-printers・3回目）
+  - 「三菱重工 工作機械、金属 3Dプリンター の造形サービスを拡大 — 三菱重工 工作機械、金属 3Dプリンター の造形サービスを拡大 PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000000267.000025611.html・3回目）
+  - 「三菱重工 工作、国内最大の金属 3Dプリンター 完成 - モノクエ — 三菱重工 工作、国内最大の金属 3Dプリンター 完成 - モノクエ Mono Que https://monoque.jp > news」（https://monoque.jp/news/938afefd350bc876c4c64929925d91c60f60baa5/・3回目）
+  - 「三菱重工 工作機械、最新の金属 3D 積層造形技術を米国見本市 ... — 三菱重工 工作機械、最新の金属 3D 積層造形技術を米国見本市 ... Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > news」（https://www.mhi.com/jp/news/190516.html・3回目）
+  - 「三菱重工 - Mitsubishi Heavy Industries (MHI) — 三菱重工 - Mitsubishi Heavy Industries (MHI) Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > news > grp201127」（https://www.mhi.com/jp/news/grp201127.html・3回目）
+  - 「三菱重工 工作機械、最新の金属3D 積層造形 技術を米国見本市 ... — 三菱重工 工作機械、最新の金属3D 積層造形 技術を米国見本市 ... Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > news」（https://www.mhi.com/jp/news/190516.html・3回目）
+  - 「アディティブ・マニュファクチャリング（ 積層造形 ） 事業 の ... — アディティブ・マニュファクチャリング（ 積層造形 ） 事業 の ... Mitsubishi Power https://power.mhi.com > news」（https://power.mhi.com/jp/news/20201127.html・3回目）
+  - 「決算短信・決算説明会 | 三菱重工 — 決算短信・決算説明会 | 三菱重工 Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > finance > library > result」（https://www.mhi.com/jp/finance/library/result・3回目）
+  - 「三菱重工 工作機械、最新の金属3D 積層造形 技術を米見本市で ... — 三菱重工 工作機械、最新の金属3D 積層造形 技術を米見本市で ... 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXLRSP509733_W9A510C1000000/・3回目）
+  - 「3Dプリンター ユーザー事例 三菱重工業 様 - 丸紅I-DIGIOグループ — 3Dプリンター ユーザー事例 三菱重工業 様 - 丸紅I-DIGIOグループ 丸紅I-DIGIOグループ https://www.marubeni-idigio.com > case > industrial > mhi」（https://www.marubeni-idigio.com/product/3dprinter/case/industrial/mhi/index.html・3回目）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像7件／外部32頁・検索12回）
+
 ## 三菱電機株式会社
 - 公式URL：https://www.mitsubishielectric.co.jp（given）
 - 創業年度：設立：1921年1月15日（https://www.mitsubishielectric.co.jp/ja/about/corporate-data/・1回目）
@@ -815,6 +1209,804 @@
   - 「ワイヤ・レーザ金属 3Dプリンタ - AZ600 × 薄壁造形 - - YouTube — ワイヤ・レーザ金属 3Dプリンタ - AZ600 × 薄壁造形 - - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=ku-envbVDvc・3回目）
 - 設立：記載なし（3回確認済み：公式20頁／PDF・画像6件／外部31頁・検索12回）
 
+## 丸紅情報システムズ株式会社
+- 公式URL：https://www.marubeni-sys.com（given）
+- 創業年度：・設立：2015年（https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/・3回目）
+- 創業年度：設立：1965/05（https://initial.inc/investors/V12183・3回目）
+- 創業年度：設立：1965年5月19日（https://www.marubeni-idigio.com/company/marubeni-sys/profile/・3回目）
+- 株主：GV(Google Ventures),GE Ventures,BMW iVentures,New Enterprise Associates,Stratasys 他（https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/・3回目）
+- 株主：丸紅I-DIGIOホールディングス株式会社　100％（https://www.marubeni-idigio.com/company/marubeni-sys/profile/・3回目）
+- 従業員数：580名（2026年4月現在）（https://www.marubeni-idigio.com/company/marubeni-sys/profile/・3回目）
+- 従業員数：577名(2025年4月1日現在)（https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA・3回目）
+- 所在地：米国マサチューセッツ州バーリントン（https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/・3回目）
+- 所在地：〒112-0004 東京都文京区後楽二丁目6番1号 住友不動産飯田橋ファーストタワー（https://www.marubeni-idigio.com/company/marubeni-sys/profile/・3回目）
+- 所在地：日本 〒 112-0004 東京都 文京区 後楽二丁目6番1号 住友不動産飯田橋ファーストタワー（https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA・3回目）
+- 代表者：Ric Fulop（https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/・3回目）
+- 代表者：佐藤　由浩（https://initial.inc/investors/V12183・3回目）
+- 代表者：佐藤　由浩（https://www.marubeni-idigio.com/company/marubeni-sys/profile/・3回目）
+- 参入の時期と形：
+  - 「中村留、新事業部を立ち上げ SiCウエハー加工需要を取り込む」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「奇瑞が27年に日本参入検討、オモダ4のHEVか 競合はヤリスクロス」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「マーベルの18兆円買収、狙いは光電融合の中核技術 足りぬ光源部品押さえる」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「E2E自動運転「業界地図」、AIモデルなど注目4分野を総覧 テスラ猛追へ参入増」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「例えばドイツでは、インダストリー4.0という大きな御旗を政府が立ち上げると産官学が一斉にそちらの方向を向きます」（https://news.sharelab.jp/interviews/marubeni_sys/・3回目）
+  - 「Stratasys社 FDM方式最新機種「Stratasys F3300™」工業用3Dプリンター取り扱い開始【丸紅情報システムズ】」（https://www.marubeni.com/jp/news/2024/group/00001.html・3回目）
+  - 「Stratasys社 FDM方式最新機種「Stratasys F3300™」工業用3Dプリンター取り扱い開始」（https://www.marubeni.com/jp/news/2024/group/00001.html・3回目）
+  - 「丸紅情報システムズ株式会社（略称：エムシス／MSYS 以下、MSYS）は、ストラタシス社（以下、ストラタシス）製のFDM方式工業用3Dプリンター「F3300™」の取り扱いを開始します」（https://www.marubeni.com/jp/news/2024/group/00001.html・3回目）
+  - 「複合材料に対応したFFF方式3Dプリンター「Ultimakerシリーズ」取り扱い開始」（https://www.marubeni.com/jp/news/2022/group/00036.html・3回目）
+  - 「複合材料に対応したFFF方式3Dプリンター「Ultimakerシリーズ」取り扱い開始【丸紅情報システムズ】」（https://www.marubeni.com/jp/news/2022/group/00036.html・3回目）
+  - 「丸紅情報システムズ株式会社（略称：エムシス/MSYS 以下、MSYS）は、UltiMaker社（ユトレヒト（オランダ）、ニューヨーク）製のガラスファイバーやカーボンファイバーの複合材料に対応したFFF（Fused Filament Fabrication）方式のデスクトップ3Dプリンター「Ultimakerシリーズ」の取り扱いを開始します」（https://www.marubeni.com/jp/news/2022/group/00036.html・3回目）
+  - 「Ultimakerシリーズの出荷開始は、2022年10月上旬を予定しています」（https://www.marubeni.com/jp/news/2022/group/00036.html・3回目）
+- 撤退・縮小の時期と理由：
+  - 「3Dプリンター 販売終了のお知らせ | 丸紅情報システムズ」（https://www.marubeni-idigio.com/product/3dprinter/products/endsale/・3回目）
+  - 「丸紅情報システムズでの販売を終了いたしました」（https://www.marubeni-idigio.com/product/3dprinter/products/endsale/・3回目）
+  - 「お客様のアクセスしようとした製品は、当社での販売を終了いたしました」（https://www.marubeni-idigio.com/product/3dprinter/products/endsale/・3回目）
+  - 「FDMシステム（販売終了製品） | 丸紅情報システムズ株式会社」（https://www.marubeni-idigio.com/product/modeling/fdm_close/index.html・3回目）
+  - 「撤退報道を否定し新スマホ投入、Nothingはメモリー高騰を乗り越えられるか」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「三菱電機がABBと合弁へ、シュナイダーはソフト強化 FA業界に再編の波」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「マンション工事停止の仮命令を取り消し 高裁決定、盛土規制法違反は認定」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「芋づる式に建設資格の不正取得発覚、技術者の要件満たさず営業停止」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「また、工具を使わずに交換できるプリントヘッドを採用し、メンテナンスによる装置の停止時間を抑える設計となっている」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/・3回目）
+  - 「丸紅株式会社が46％、丸紅情報システムズ株式会社が34％、株式会社野村総合研究所が20％出資する新会社丸紅ITソリューションズ株式会社を設立し、一部事業を譲渡」（https://www.marubeni-idigio.com/company/marubeni-sys/history/・3回目）
+- 参入しない・慎重な理由の発言：
+  - 「準国産ヒューマノイド量産へ、AI新興ジールス「転ばない」を重視」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「中村留、新事業部を立ち上げ SiCウエハー加工需要を取り込む」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「本講座を受講すれば、全社的な問題や複数の部署にまたがる横断的な課題を見いだせるスキルが身に付きます」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「奇瑞が27年に日本参入検討、オモダ4のHEVか 競合はヤリスクロス」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「製品生産の命運握るイットリウム、コストが端数に見えてもご用心」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「サムスン電子とAMDが急接近、AIインフラの課題解消へ強力タッグ」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「第一三共、創薬プロセスを量子技術で高速化 開発期間とコスト削減に期待」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「福井県工事でダンプ運搬の施工単価を過大算定、富士通Japanがデータ誤入力」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「工事写真の改ざんどう防ぐ、生成AIリスクに要注意 技術力低下に懸念も」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「「皆さん、どうしても値段、材料、コスト、精度、CADなど、3Dプリンターを使うためのハードルの話から始められるのですが、例えばCADが使えないとならないことはなく、今は色々なやり方があって、例えば撮影して立体データをつくることもできれば、数学的な計算で形をつくっていく方法もあります」（https://news.sharelab.jp/interviews/marubeni_sys/・3回目）
+  - 「ものづくりサイクルの高速化：3Dプリンター単体で価値を生むことは難しい」（https://news.sharelab.jp/interviews/marubeni_sys/・3回目）
+  - 「それでは、どうすれば3Dプリンターでさらなる価値を生み出すことができるのか？ 丸岡さんは「3Dプリンター単体で価値を生むことは難しい」というのだ」（https://news.sharelab.jp/interviews/marubeni_sys/・3回目）
+- AMの規模：
+  - 「3Dプリンター 販売終了のお知らせ | 丸紅情報システムズ」（https://www.marubeni-idigio.com/product/3dprinter/products/endsale/・3回目）
+  - 「3Dプリンターとは」（https://www.marubeni-idigio.com/product/3dprinter/products/endsale/・3回目）
+  - 「丸紅情報システムズの3Dプリンターサイトへアクセスいただき、ありがとうございます」（https://www.marubeni-idigio.com/product/3dprinter/products/endsale/・3回目）
+  - 「現在取り扱っている3Dプリンター製品・造形材料」（https://www.marubeni-idigio.com/product/3dprinter/products/endsale/・3回目）
+  - 「お手数ですが、目的の3Dプリンターを下記よりお探しください」（https://www.marubeni-idigio.com/product/3dprinter/products/endsale/・3回目）
+  - 「生産性とモデル品質に優れた光造形3Dプリンター[DLP]」（https://www.marubeni-idigio.com/product/3dprinter/products/endsale/・3回目）
+  - 「3Dプリンターのことなら」（https://www.marubeni-idigio.com/product/3dprinter/products/endsale/・3回目）
+  - 「3Dプリンター製品 お客様向け資料」（https://www.marubeni-idigio.com/product/modeling/fdm_close/index.html・3回目）
+  - 「中少量生産向け金属3Dプリンター、丸紅情報システムズが国内で初披露 | 日経クロステック（xTECH）」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「中少量生産向け金属3Dプリンター、丸紅情報システムズが国内で初披露」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「丸紅情報システムズ（東京・新宿）は米Desktop Metal（デスクトップメタル）の金属アディティブ製造（AM）装置（3Dプリンター）「Shop Pro」を「次世代3Dプリンタ展」（2022年6月22～24日、東京ビッグサイト）に出展した（」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「図1 MSYSが「次世代3Dプリンタ展」で展示した「Shop Pro」（米Desktop Metal）」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+- 客の業界：
+  - 「準国産ヒューマノイド量産へ、AI新興ジールス「転ばない」を重視」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「エレベーションスペースとDNP 宇宙実験を代行、狙った場所へ試料帰還」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「次の半導体大国、インド」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「ルネサス、半導体設計全体をAIエージェント化 全製品に適用へ」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「LG、家電への独自AI半導体搭載を加速 クルマやロボ向けに触手か」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「iPhone 18 Pro分解、「中身は別物」 半導体チップの冷却優先に」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「在庫の面でも、修理や補修部品のため今まで金型をずっと持っていないといけなかったのがデータだけ持っていればいい、必要な数だけ作ればいいと変わってきます」（https://news.sharelab.jp/interviews/marubeni_sys/・3回目）
+  - 「単に『試作コストが下がりました』という話だけではなくて、製造プロセス全体を見てどこで利益が生まれるかをみることが大事です」（https://news.sharelab.jp/interviews/marubeni_sys/・3回目）
+  - 「航空機メーカーがもっと3Dプリンターを使おうと考えているのは、飛行機として運用した時に1kgでも軽くなれば燃料費が大幅に安くなるからです」（https://news.sharelab.jp/interviews/marubeni_sys/・3回目）
+  - 「部品の試作などの用途で航空宇宙、自動車、石油、ガス業界などに展開する」（https://newswitch.jp/p/28774・3回目）
+  - 「ストラタシスは航空宇宙、車載、コンシューマ製品、ヘルスケアなどの産業向けの革新的な3Dプリンティング・ソリューションを提供し、アディティブ・マニュファクチャリングへのグローバルな移行をリードしています」（https://www.marubeni.com/jp/news/2024/group/00001.html・3回目）
+  - 「幅広い材料を選択できることから、試作品や模型の制作に限らず強度・柔軟性に優れたカスタム品や少量部品のバッチ生産、また、製造設備で交換困難なスペア部品、多色に色分けされた安全カバーやラッチ、人間工学を配慮した作業員の治具やハンドル等を現場のリクエストに応じて、短期間に製作することが可能です」（https://www.marubeni.com/jp/news/2022/group/00036.html・3回目）
+- 素材：
+  - 「F370にカーボンファイバー材料が追加[FDM]」（https://www.marubeni-idigio.com/product/3dprinter/products/endsale/・3回目）
+  - 「中少量生産向け金属3Dプリンター、丸紅情報システムズが国内で初披露 | 日経クロステック（xTECH）」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「中少量生産向け金属3Dプリンター、丸紅情報システムズが国内で初披露」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「丸紅情報システムズ（東京・新宿）は米Desktop Metal（デスクトップメタル）の金属アディティブ製造（AM）装置（3Dプリンター）「Shop Pro」を「次世代3Dプリンタ展」（2022年6月22～24日、東京ビッグサイト）に出展した（」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「平らに敷き詰めた金属粉にバインダーを噴射して固めるバインダージェット方式で、実製品の中少量生産への利用を想定している」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「本体内で金属粉にバインダーを噴射して固める方式」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「Shop Proは同社の金属AM装置である「Shop」の強化版」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「その分造形時間を短くできるのに加えて、造形品として固まらなかった金属粉の再利用率が高いという特徴がある」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「Shop Proではさらに噴射するバインダーの量や造形する層の厚さなどをきめ細かく調整できる機能を加え、粒径の小さな金属粉を使って微細な部品を生産するなどの用途に使えるようにした」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「固まらなかった金属粉は98％程度の高率で再利用できる」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「金属粉に埋まった状態で成形するためサポート形状を付ける必要がなく、複数の部品が関節でつながったような形状の一括造形も可能だ（」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「造形品が固まったら「パウダーステーション」で未硬化の金属粉を除去し、「ファーネス（焼結炉）」で焼結して金属部品にする」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+- 株主構成：
+  - 「・出資者:GV(Google Ventures),GE Ventures,BMW iVentures,New Enterprise Associates,Stratasys 他」（https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/・3回目）
+  - 「丸紅株式会社と共同出資でMartec International Corp.（現Marubeni Information Systems USA）を米国に設立」（https://www.marubeni-idigio.com/company/marubeni-sys/history/・3回目）
+  - 「MSOL USA（旧Marubeni International Electronics Corp）を丸紅ソリューション株式会社の100％出資子会社とする」（https://www.marubeni-idigio.com/company/marubeni-sys/history/・3回目）
+  - 「丸紅株式会社が46％、丸紅情報システムズ株式会社が34％、株式会社野村総合研究所が20％出資する新会社丸紅ITソリューションズ株式会社を設立し、一部事業を譲渡」（https://www.marubeni-idigio.com/company/marubeni-sys/history/・3回目）
+  - 「丸紅株式会社が持株会社を設立し、株主が丸紅I-DIGIOホールディングス株式会社100％に変更」（https://www.marubeni-idigio.com/company/marubeni-sys/history/・3回目）
+  - 「また、丸紅が保有する、丸紅情報システムズ株式会社（丸紅出資比率 100％、以下「丸紅情報システムズ」）、丸紅ネットワークソリューションズ株式会社（丸紅出資比率 100％、以下「丸紅ネットワークソリューションズ」）、丸紅ITソリューションズ株式会社（丸紅出資比率 46％、丸紅情報システムズ出資比率 34%、以下「丸紅ITソリューションズ」）の株式を、丸紅I-DIGIOに承継しました」（https://www.marubeni.com/jp/news/2023/info/00008.html・3回目）
+  - 「加えて、丸紅情報システムズは、本日開催の株主総会において、保有する丸紅ITソリューションズおよび株式会社イーツ（丸紅情報システムズ出資比率100%、以下「イーツ」）の株式を丸紅I-DIGIOに現物配当しました」（https://www.marubeni.com/jp/news/2023/info/00008.html・3回目）
+  - 「（9）大株主及び持株比率」（https://www.marubeni.com/jp/news/2023/info/00008.html・3回目）
+  - 「2023年 - 丸紅株式会社が持株会社を設立し、株主が丸紅I-DIGIOホールディングス株式会社に変更」（https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA・3回目）
+- 創業年度：
+  - 「UltiMaker社は2011年に設立されたオランダのデスクトップ3Dプリンターメーカーです」（https://www.marubeni.com/jp/news/2022/group/00036.html・3回目）
+  - 「・設立:2015年」（https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/・3回目）
+  - 「登記上の存続会社であるエム・アイ・テクニカル・サービス株式会社 設立」（https://www.marubeni-idigio.com/company/marubeni-sys/history/・3回目）
+  - 「丸紅株式会社と共同出資でMartec International Corp.（現Marubeni Information Systems USA）を米国に設立」（https://www.marubeni-idigio.com/company/marubeni-sys/history/・3回目）
+  - 「Marubeni Information Systems(S) Pte. Ltd. をシンガポールに設立し、Marubeni Information Systems USA Corp シンガポール支店の業務を継承」（https://www.marubeni-idigio.com/company/marubeni-sys/history/・3回目）
+  - 「丸紅株式会社が46％、丸紅情報システムズ株式会社が34％、株式会社野村総合研究所が20％出資する新会社丸紅ITソリューションズ株式会社を設立し、一部事業を譲渡」（https://www.marubeni-idigio.com/company/marubeni-sys/history/・3回目）
+  - 「丸紅株式会社が持株会社を設立し、株主が丸紅I-DIGIOホールディングス株式会社100％に変更」（https://www.marubeni-idigio.com/company/marubeni-sys/history/・3回目）
+  - 「新会社「丸紅I-DIGIOホールディングス株式会社」の設立について」（https://www.marubeni.com/jp/news/2023/info/00008.html・3回目）
+  - 「本日、丸紅株式会社（以下「丸紅」）は、2023年1月25日付「会社分割（簡易新設分割）による子会社設立のお知らせ」にて公表しました新設分割により、中間持株会社である丸紅I-DIGIOホールディングス株式会社（以下「丸紅I-DIGIO」）を設立しました」（https://www.marubeni.com/jp/news/2023/info/00008.html・3回目）
+  - 「（6）設立年月日」（https://www.marubeni.com/jp/news/2023/info/00008.html・3回目）
+  - 「会社分割（簡易新設分割）による子会社設立のお知らせ（2023年1月25日）」（https://www.marubeni.com/jp/news/2023/info/00008.html・3回目）
+  - 「- Marubeni Information Systems(S) Pte. Ltd. をシンガポールに設立」（https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%B4%85%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA・3回目）
+- 売上：
+  - 「防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「Stratasys、Markforgedを約64億円で買収へ 航空宇宙・防衛向け3Dプリント事業を強化」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/・3回目）
+  - 「複雑形状の少量多品種生産に対応できるようにし、まずはＥＶ・電池関連領域の売上高比率を２割にすることを目指す」（https://newswitch.jp/p/36591・3回目）
+  - 「１０年後には売上高の１割程度を、金属３Ｄプリンター製にしたい考えだ」（https://newswitch.jp/p/36591・3回目）
+  - 「MSYSはDesktop Metal製3Dプリンターの取り扱いにより、今後3年間で10億円の売上を目指します」（https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/・3回目）
+  - 「310百万円」（https://www.marubeni.com/jp/news/2023/info/00008.html・3回目）
+- 存続：
+  - 「撤退報道を否定し新スマホ投入、Nothingはメモリー高騰を乗り越えられるか」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「マーベルの18兆円買収、狙いは光電融合の中核技術 足りぬ光源部品押さえる」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「Stratasys、Markforgedを約64億円で買収へ 航空宇宙・防衛向け3Dプリント事業を強化」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/・3回目）
+  - 「マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる」（https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/・3回目）
+- 検索結果の抜粋：
+  - 「3Dプリンター 販売 終了 のお知らせ | 丸紅情報システムズ — 3Dプリンター 販売 終了 のお知らせ | 丸紅情報システムズ 丸紅I-DIGIOグループ https://www.marubeni-idigio.com > products > endsale」（https://www.marubeni-idigio.com/product/3dprinter/products/endsale/・3回目）
+  - 「中少量生産向け金属 3Dプリンター 、 丸紅情報システムズ が ... — 中少量生産向け金属 3Dプリンター 、 丸紅情報システムズ が ... 日経クロステック https://xtech.nikkei.com > レポート」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00237/・3回目）
+  - 「3Dプリンター の現在－ 丸紅情報システムズ - ShareLab NEWS — 3Dプリンター の現在－ 丸紅情報システムズ - ShareLab NEWS ShareLab NEWS https://news.sharelab.jp > 独自記事」（https://news.sharelab.jp/interviews/marubeni_sys/・3回目）
+  - 「丸紅情報システムズ が取り扱い開始。金属 3Dプリンター 向け ... — 丸紅情報システムズ が取り扱い開始。金属 3Dプリンター 向け ... ニュースイッチ by 日刊工業新聞社 https://newswitch.jp > ...」（https://newswitch.jp/p/28774・3回目）
+  - 「丸紅情報システムズ 、ストラタシスの大型FDM方式 3D ... — 丸紅情報システムズ 、ストラタシスの大型FDM方式 3D ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > 樹脂3Dプリンター」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/marubeni-stratasys-f870-fdm-3d-printer-261016/・3回目）
+  - 「丸紅情報システムズ 、Desktop Metal社と代理店契約を締結し ... — 丸紅情報システムズ 、Desktop Metal社と代理店契約を締結し ... 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXLRSP471542_V10C18A2000000/・3回目）
+  - 「丸紅情報システムズ 株式会社 — 丸紅情報システムズ 株式会社 スピーダ スタートアップ情報リサーチ https://initial.inc > investors」（https://initial.inc/investors/V12183・3回目）
+  - 「丸紅情報システムズ社長 ・伊吹洋二氏「 3D 関連での存在感 ... — 丸紅情報システムズ社長 ・伊吹洋二氏「 3D 関連での存在感 ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/304415・3回目）
+  - 「3Dプリンター 当社の実績 | 丸紅情報システムズ — 3Dプリンター 当社の実績 | 丸紅情報システムズ 丸紅I-DIGIOグループ https://www.marubeni-idigio.com > product > lab > value」（https://www.marubeni-idigio.com/product/3dprinter/lab/value/・3回目）
+  - 「丸紅情報システムズ 株式 会社 企業 概要 — 丸紅情報システムズ 株式 会社 企業 概要 丸紅I-DIGIOグループ https://www.marubeni-idigio.com > ... > グループ会社一覧」（https://www.marubeni-idigio.com/company/marubeni-sys/profile/・3回目）
+  - 「https://www.marubeni-sys.com/corporate/profile/ — https://www.marubeni-sys.com/corporate/profile/ 丸紅情報システムズ(MSYS) https://www.marubeni-sys.com > prof...」（https://www.marubeni-sys.com/corporate/profile/・3回目）
+  - 「丸紅情報システムズ 株式 会社 沿革 - 丸紅I-DIGIOグループ — 丸紅情報システムズ 株式 会社 沿革 - 丸紅I-DIGIOグループ 丸紅I-DIGIOグループ https://www.marubeni-idigio.com > ... > グループ会社一覧」（https://www.marubeni-idigio.com/company/marubeni-sys/history/・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+- 黒字・収益性：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+
+## 兼松株式会社
+- 公式URL：https://www.kanematsu.co.jp（given）
+- 創業年度：設立：2019年1月（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+- 創業年度：設　立：2020年2月（https://www.kanematsu.co.jp/press/release/20261105_release・1回目）
+- 創業年度：設　立：2022年（https://www.kanematsu.co.jp/press/release/20261104_release・1回目）
+- 株主：三井住友信託銀行（https://www.kanematsu.co.jp/company/profile・1回目）
+- 株主：日本マスタートラスト信託銀行 （信託口）16.55% 日本カストディ銀行 （信託口）6.62% （2026年9月30日現在） [ 2 ]（https://ja.wikipedia.org/wiki/%E5%85%BC%E6%9D%BE・3回目）
+- 従業員数：（単体）547名 （連結）1,647名（https://www.kel.co.jp/pr/2026/1016-00.html・1回目）
+- 従業員数：単体：861名 連結：8,604名（https://www.kanematsu.co.jp/company/profile・1回目）
+- 従業員数：連結：8,604人 単独：861人 （2026年3月31日現在） [ 4 ]（https://ja.wikipedia.org/wiki/%E5%85%BC%E6%9D%BE・3回目）
+- 所在地：WeWork Sinarmas MSIG Tower, 37th Floor, Jl. Jend. Sudirman Kav. 21 Karet, Setiabudi, South Jakarta 12930, Indonesia（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+- 所在地：愛知県名古屋市千種区不老町１番 国立大学法人東海国立大学機構名古屋大学インキュベーション施設（https://www.kanematsu.co.jp/press/release/20261105_release・1回目）
+- 所在地：Colorado, USA（https://www.kanematsu.co.jp/press/release/20261104_release・1回目）
+- 売上高：（連結）1,127億9千万円（https://www.kel.co.jp/pr/2026/1016-00.html・1回目）
+- 売上高：連結：1兆676億6,500万円 単独：3,999億2,900万円 （2026年3月期） [ 3 ]（https://ja.wikipedia.org/wiki/%E5%85%BC%E6%9D%BE・3回目）
+- 代表者：代表取締役　小川 亮（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+- 代表者：代表取締役　西田 宏平（https://www.kanematsu.co.jp/press/release/20261105_release・1回目）
+- 代表者：Kevin Pallaoro (CEO)（https://www.kanematsu.co.jp/press/release/20261104_release・1回目）
+- 参入の時期と形：
+  - 「兼松が出資するAlam Energy Indonesia、 SOMAとインドネシア・カリムン島における 包括的脱炭素推進プロジェクトに関する覚書を締結 ～第4回アジア・ゼロエミッション共同体（AZEC）閣僚会合において 日本・インドネシア間の協力案件として発表～」（https://www.kanematsu.co.jp/・1回目）
+  - 「兼松サステック、乾式保存処理材の新保証制度「ウッドガードプラス」の提供を開始」（https://www.kanematsu.co.jp/・1回目）
+  - 「兼松サステック、クラウド録画サービス「Safie」の取り扱いを開始」（https://www.kanematsu.co.jp/・1回目）
+  - 「兼松が出資するAlam Energy Indonesia、 SOMAとインドネシア・カリムン島における 包括的脱炭素推進プロジェクトに関する覚書を締結 ～第4回アジア・ゼロエミッション共同体（AZEC）閣僚会合において 日本・インドネシア間の協力案件として発表～」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「自然電力株式会社、アラムポート株式会社、NiXグループおよび株式会社エンバイオ・ホールディングスが出資する合弁会社」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「兼松は2025年にAEIへ出資し、インドネシアにおけるGX事業を推進しています」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「兼松、インドネシアの再生可能エネルギー企業Alam Energy Indonesiaへ出資 ～インドネシアにおけるGX事業展開の加速～」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「兼松サステック、乾式保存処理材の新保証制度「ウッドガードプラス」の提供を開始」（https://kyodonewsprwire.jp/release/202610298928・1回目）
+  - 「兼松が出資するAlam Energy Indonesia、SOMAとインドネシア・カリムン島における包括的脱炭素推進プロジェクトに関する覚書を締結」（https://kyodonewsprwire.jp/release/202610298928・1回目）
+  - 「賃貸仲介版「顧客管理」に、顧客一覧の「ボード形式」表示機能を提供開始｜いえらぶCLOUD」（https://kyodonewsprwire.jp/release/202610298928・1回目）
+  - 「兼松サステック、乾式保存処理材の新保証制度「ウッドガードプラス」の提供を開始」（https://kyodonewsprwire.jp/release/202610309016・1回目）
+  - 「兼松が出資するAlam Energy Indonesia、SOMAとインドネシア・カリムン島における包括的脱炭素推進プロジェクトに関する覚書を締結」（https://kyodonewsprwire.jp/release/202610309016・1回目）
+- 撤退・縮小の時期と理由：
+  - 「部門だけの課題ではなく事業停止や重要な情報漏えい、金銭的損失、ひいては社会的信用の失墜を招く経営課題として認識されるようになりました」（https://www.kel.co.jp/pr/2026/1016-00.html・1回目）
+  - 「本ブースは、サイバー攻撃による侵害を完全には防げないという前提に立ち、境界防御に偏りがちなセキュリティ対策を見直し、侵害を受けた後の備えまでを含めてご検討いただくことをコンセプトとしています」（https://www.kel.co.jp/pr/2026/1016-00.html・1回目）
+  - 「欧州では、雇用環境の改善を背景に個人消費は一定の底堅さを維持したものの、外需の伸び悩みや域内政治情勢の不安定化などが景気の下押し要因となり、力強さを欠く展開となりました」（https://kitaishihon.com/company/8020/business・3回目）
+  - 「また、前期にのれんの減損損失を計上した電子機器・電子材料事業および鋼管事業などが増益となりました」（https://kitaishihon.com/company/8020/business・3回目）
+  - 「防衛産業や半導体分野などの製造業向けのストレージやサーバー、流通業向けのネットワークに加え、サービス、セキュリティの需要が好調に推移したことにより、収益は前連結会計年度比112億43百万円増加の1,107億71百万円、営業活動に係る利益は４億95百万円増加の151億74百万円、親会社の所有者に帰属する当期利益は３億23百万円増加の102億93百万円となりました」（https://kitaishihon.com/company/8020/business・3回目）
+  - 「鉄鋼・鋼管事業は、国内鉄鋼子会社の売却益などにより、のれんの減損損失を計上した前期比で好調に推移しました」（https://kitaishihon.com/company/8020/business・3回目）
+  - 「IBMのハードウェア・ソフトウェアを扱うディストリビューション事業を中核に、ファーウェイのデジタルパワー（太陽光発電・蓄電池）、3Dプリンタ、インタラクティブボード、そして昨年7月に兼松エレクトロニクスから事業譲渡を受けラインプリンタ・ドットプリンタが加わりました」（https://monoque.jp/columns/d/・3回目）
+  - 「液冷化が進めば進むほど、既成品では対応しきれないパーツの需要が生まれ、3Dプリンタの出番が増えると見ています」（https://monoque.jp/columns/d/・3回目）
+  - 「【解けぬ不適切会計の疑念】ニデック、成長戦略の見直しは避けられず？」（https://www.youtube.com/watch?v=I6nhCsL5Z2A・3回目）
+  - 「を要請、祖業の繊維や紙パルプ、不動産事業から撤退する」（https://ja.wikipedia.org/wiki/%E5%85%BC%E6%9D%BE・3回目）
+  - 「（昭和57年）10月 - 構造改革を主眼とした「宝作戦」を発表（1986年3月終了）」（https://ja.wikipedia.org/wiki/%E5%85%BC%E6%9D%BE・3回目）
+  - 「漏洩した営業秘密は、海外の自動車部品メーカーに向けた新製品の開発提案書や利益見込みをまとめた採算表など3点」（https://ja.wikipedia.org/wiki/%E5%85%BC%E6%9D%BE・3回目）
+- 参入しない・慎重な理由の発言：
+  - 「兼松ケミカル、持続可能な製品の国際的な認証制度 「ISCC EU認証」を取得」（https://www.kanematsu.co.jp/・1回目）
+  - 「兼松、損保ジャパンおよび韓国A2Zと自動運転分野で協業 ～商社機能・保険機能・自動運転技術の強みを結集し、 地域公共交通の課題解決と自動運転移動サービスの社会実装を推進～」（https://www.kanematsu.co.jp/・1回目）
+  - 「兼松は、お客さまの課題に対して最適な選択肢を提案し、効果的で実効性のあるGXの推進をサポートします」（https://www.kanematsu.co.jp/・1回目）
+  - 「130年を超える長い歴史の中で蓄積した顧客基盤と知見やノウハウが、当社グループの第一の強みです」（https://www.kanematsu.co.jp/・1回目）
+  - 「人材戦略を最も重要な経営要素と捉え、人材育成に力を入れています」（https://www.kanematsu.co.jp/・1回目）
+  - 「事業創造にチャレンジする多様な人材が活躍しています」（https://www.kanematsu.co.jp/・1回目）
+  - 「兼松は創業以来、伝統的開拓者精神と積極的創意工夫をもち、日本のみならず世界中の人々を豊かで幸せにするため、社会課題を解決し社会と共有できる価値を創造するための取り組みに力をいれています」（https://www.kanematsu.co.jp/・1回目）
+  - 「持続可能な世界経済成長の実現と社会的課題の解決に貢献します」（https://www.kanematsu.co.jp/・1回目）
+  - 「インドネシアでは、経済成長に伴うエネルギー需要の拡大が続く一方、脱炭素化との両立が重要な課題となっています」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「あわせて、AIを活用した設備の遠隔監視や、運営・保守を担う人材育成に取り組むほか、現地産業向けに、省エネルギー化や、化石燃料を利用する設備・機器の電気利用への転換（電化）を支援するソリューションを提供します」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「これらの取組みにより、再生可能エネルギーの供給拡大とエネルギー利用の効率化を一体的に推進し、インドネシアの関連法規制を遵守しつつ、供給側・需要側の両面から地域全体の脱炭素化に貢献します」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「兼松ケミカル、持続可能な製品の国際的な認証制度 「ISCC EU認証」を取得」（https://kyodonewsprwire.jp/release/202610298928・1回目）
+- AMの規模：
+  - 「新施設は、北関東エリアを中心とした広域へのLPガス供給を担う中核拠点として、安定的かつ効率的なエネルギー供給体制の構築に寄与して参ります」（https://www.kanematsu.co.jp/press/info/20260424_release・1回目）
+  - 「また、兼松グループの全国的な供給体制を支える営業拠点として位置付けています」（https://www.kanematsu.co.jp/press/info/20260424_release・1回目）
+  - 「（６）売上高：（連結）1,127億9千万円」（https://www.kel.co.jp/pr/2026/1016-00.html・1回目）
+  - 「これにより、現場確認の効率化や遠隔管理、複数拠点の一元管理など、多様な運用ニーズに対応します」（https://kyodonewsprwire.jp/release/202608264731・1回目）
+  - 「兼松株式会社、「リテールテック JAPAN」に出展 在庫管理・Web受注管理、物流・店舗のDXを支援するSaaSソリューションを紹介」（https://www.kanematsu.co.jp/news・1回目）
+  - 「まずは、４年後の2028年度の売上を1億ドルとすることを目標とします」（https://www.kanematsu.co.jp/business_topics/ramen・1回目）
+  - 「3Dプリンター｜株式会社兼松KGK」（https://www.kgk-j.co.jp/solution/solution-factory/solution-fac-3d/・3回目）
+  - 「3Dプリンター」（https://www.kgk-j.co.jp/solution/solution-factory/solution-fac-3d/・3回目）
+  - 「設計や試作、開発に優位性のある3Dプリンターのことなら、兼松KGKにご相談ください」（https://www.kgk-j.co.jp/solution/solution-factory/solution-fac-3d/・3回目）
+  - 「最新の金属3Dプリンターや、光造形機、FDM式など、様々な機種をご提案しています」（https://www.kgk-j.co.jp/solution/solution-factory/solution-fac-3d/・3回目）
+  - 「【資料】鋳造用砂型3Dプリンタ 兼松KGK | イプロスものづくり」（https://mono.ipros.com/product/detail/2000577515/・3回目）
+  - 「【資料】鋳造用砂型3Dプリンタ」（https://mono.ipros.com/product/detail/2000577515/・3回目）
+- 客の業界：
+  - 「兼松、ドイツIngpuls Medicalと「Medtec China（メドテックチャイナ）」に共同出展 （9/1㈫～9/3㈭）～医療機器向けNi-Ti合金ソリューションを紹介～」（https://www.kanematsu.co.jp/・1回目）
+  - 「兼松株式会社（以下、「兼松」）、PT Alam Energy Indonesia（以下、「AEI」）、PT SOMA DAYA UTAMA（以下、「SOMA」）、自然電力株式会社およびアラムポート株式会社の5社は、インドネシア・カリムン島における再生可能エネルギーおよび省エネルギーの導入を含む包括的脱炭素推進プロジェクトに関する覚書を締結しました」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「アジア地域の脱炭素化と経済成長、エネルギー安全保障の同時実現を目標として掲げている」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「写真中央（左から）：高木啓 経済産業副大臣、Eniya Listiani Dewi インドネシア エネルギー・鉱物資源省 総局長」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「インドネシアでは、経済成長に伴うエネルギー需要の拡大が続く一方、脱炭素化との両立が重要な課題となっています」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「特に離島地域では、再生可能エネルギーの導入拡大やエネルギー利用の効率化が求められています」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「本プロジェクトでは、インドネシアで再生可能エネルギー事業を展開するAEIと、カリムン島西部で電力供給事業を行うSOMAが実施主体となり、AEI主要株主である自然電力株式会社、アラムポート株式会社、および兼松が、それぞれの事業基盤や知見を活かして推進するものです」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「地域の電力網（ミニグリッド）において、太陽光発電および蓄電池を活用した再生可能エネルギーの導入を進めます」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「あわせて、AIを活用した設備の遠隔監視や、運営・保守を担う人材育成に取り組むほか、現地産業向けに、省エネルギー化や、化石燃料を利用する設備・機器の電気利用への転換（電化）を支援するソリューションを提供します」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「これらの取組みにより、再生可能エネルギーの供給拡大とエネルギー利用の効率化を一体的に推進し、インドネシアの関連法規制を遵守しつつ、供給側・需要側の両面から地域全体の脱炭素化に貢献します」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「兼松、インドネシアの再生可能エネルギー企業Alam Energy Indonesiaへ出資 ～インドネシアにおけるGX事業展開の加速～」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「当社ブースでは、半導体製造の前工程・後工程に関連する各種製造装置やソリューションをご紹介します」（https://kyodonewsprwire.jp/release/202610298928・1回目）
+- 素材：
+  - 「兼松株式会社（以下、「兼松」）は、2026年9月1日(火)〜3日(木)まで中国・上海で開催される医療機器設計・製造分野の専門展示会「Medtec China 2026」において、ドイツの Ni-Ti(ニッケル・チタン)合金メーカーであるIngpuls Medical GmbH(以下、「Ingpuls Medical」)と共同出展します」（https://kyodonewsprwire.jp/release/202608134104・1回目）
+  - 「医療機器向けの材料、部品、加工技術、製造装置など幅広いソリューションが紹介され、世界各国の医療機器メーカーや金属加工メーカー、開発・製造関係者が来場します」（https://kyodonewsprwire.jp/release/202608134104・1回目）
+  - 「さらに、削減実績の環境価値化と、生産された畜産品との一体的な供給を通じ、カーボンインセット」（https://www.kanematsu.co.jp/press/release/20261105_release・1回目）
+  - 「サプライチェーン内で削減・除去された温室効果ガス排出量を、同一サプライチェーン“内”で取り込む（生産者により組成されたカーボンクレジットの調達・償却、製品排出量の削減への活用等）仕組み」（https://www.kanematsu.co.jp/press/release/20261105_release・1回目）
+  - 「サプライチェーン“外”で創出される環境価値を取り込む”カーボンオフセット”(他のサプライチェーンに属する会社が創出したカーボンクレジットの調達等)の対義語」（https://www.kanematsu.co.jp/press/release/20261105_release・1回目）
+  - 「◆ 兼松のカーボンインセットの取組み一覧（プレスリリース）」（https://www.kanematsu.co.jp/press/release/20261105_release・1回目）
+  - 「2.宙炭の利用量に応じた、カーボンクレジットの代理取得・販売」（https://www.kanematsu.co.jp/press/release/20261105_release・1回目）
+  - 「最新の金属3Dプリンターや、光造形機、FDM式など、様々な機種をご提案しています」（https://www.kgk-j.co.jp/solution/solution-factory/solution-fac-3d/・3回目）
+  - 「中質繊維板、非鉄金属、保険代理・仲介業、航空・海上貨物代理店業、通関業、不動産管理・賃貸業他」（https://kitaishihon.com/company/8020/business・3回目）
+  - 「市販品では対応できない形状の樹脂製ダクトや、ケーブルを束ねるクランパーなどを、3Dプリンタでその都度製作するケースが出てきています」（https://monoque.jp/columns/d/・3回目）
+  - 「かつては「樹脂でできるのは試作品まで」という感覚が強かったですが、今は耐熱素材、高剛性素材、ある程度の靭性を持った素材など、選択肢が大幅に広がっています」（https://monoque.jp/columns/d/・3回目）
+  - 「「Projet2500」は液状の樹脂をインクジェットで吹き付け紫外線を照射する方式により、CADデータに忠実な滑らかな曲面やシャープなエッジを再現できる」（https://monoque.jp/columns/d/・3回目）
+- 株主構成：
+  - 「第132回定時株主総会 招集ご通知を掲載」（https://www.kanematsu.co.jp/・1回目）
+  - 「兼松が出資するAlam Energy Indonesia、 SOMAとインドネシア・カリムン島における 包括的脱炭素推進プロジェクトに関する覚書を締結 ～第4回アジア・ゼロエミッション共同体（AZEC）閣僚会合において 日本・インドネシア間の協力案件として発表～」（https://www.kanematsu.co.jp/・1回目）
+  - 「兼松が出資するAlam Energy Indonesia、 SOMAとインドネシア・カリムン島における 包括的脱炭素推進プロジェクトに関する覚書を締結 ～第4回アジア・ゼロエミッション共同体（AZEC）閣僚会合において 日本・インドネシア間の協力案件として発表～」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「本プロジェクトでは、インドネシアで再生可能エネルギー事業を展開するAEIと、カリムン島西部で電力供給事業を行うSOMAが実施主体となり、AEI主要株主である自然電力株式会社、アラムポート株式会社、および兼松が、それぞれの事業基盤や知見を活かして推進するものです」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「自然電力株式会社、アラムポート株式会社、NiXグループおよび株式会社エンバイオ・ホールディングスが出資する合弁会社」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「兼松は2025年にAEIへ出資し、インドネシアにおけるGX事業を推進しています」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「兼松、インドネシアの再生可能エネルギー企業Alam Energy Indonesiaへ出資 ～インドネシアにおけるGX事業展開の加速～」（https://www.kanematsu.co.jp/press/release/20261023_release・1回目）
+  - 「兼松が出資するAlam Energy Indonesia、SOMAとインドネシア・カリムン島における包括的脱炭素推進プロジェクトに関する覚書を締結」（https://kyodonewsprwire.jp/release/202610298928・1回目）
+  - 「兼松が出資するAlam Energy Indonesia、SOMAとインドネシア・カリムン島における包括的脱炭素推進プロジェクトに関する覚書を締結」（https://kyodonewsprwire.jp/release/202610309016・1回目）
+  - 「兼松が出資するAlam Energy Indonesia、SOMAとインドネシア・カリムン島における包括的脱炭素推進プロジェクトに関する覚書を締結」（https://kyodonewsprwire.jp/release/202610017063・1回目）
+  - 「兼松が出資するAlam Energy Indonesia、SOMAとインドネシア・カリムン島における包括的脱炭素推進プロジェクトに関する覚書を締結」（https://kyodonewsprwire.jp/release/202608134104・1回目）
+  - 「兼松が出資するAlam Energy Indonesia、SOMAとインドネシア・カリムン島における包括的脱炭素推進プロジェクトに関する覚書を締結」（https://kyodonewsprwire.jp/release/202608103949・1回目）
+- 創業年度：
+  - 「当社は1889年の創業以来、海外貿易の黎明期から現在に至るまで、常に時代の先をいく新しい事業を創造してきました」（https://www.kanematsu.co.jp/・1回目）
+  - 「兼松は創業以来、伝統的開拓者精神と積極的創意工夫をもち、日本のみならず世界中の人々を豊かで幸せにするため、社会課題を解決し社会と共有できる価値を創造するための取り組みに力をいれています」（https://www.kanematsu.co.jp/・1回目）
+  - 「設立：1934年3月6日」（https://kyodonewsprwire.jp/release/202610309056・1回目）
+  - 「2000年にリンガーハットの元米国駐在員だった山下英幸社長がアメリカ・カリフォルニア州・サンノゼで設立した会社です」（https://www.kanematsu.co.jp/business_topics/ramen・1回目）
+  - 「当社は1889年の創業以来、海外貿易の黎明期から現在に至るまで、」（https://www.kanematsu.co.jp/company・1回目）
+  - 「兼松は今年で創業137年を迎えます」（https://www.kanematsu.co.jp/company/message・1回目）
+  - 「創業当時から受け継がれてきたのは、未知の領域に踏み出す勇気と、価値を生み出すための創意工夫」（https://www.kanematsu.co.jp/company/message・1回目）
+  - 「明治時代に生まれた創業主意は今も当社の大切な価値観ですが、社会の価値観は大きく変わりました」（https://www.kanematsu.co.jp/company/message・1回目）
+  - 「その姿勢は創業時から変わらず、そしてこれからも変わりません」（https://www.kanematsu.co.jp/company/message・1回目）
+  - 「いまその種をまくのだ」と言う、当社創業者兼松房治郎が創業の際に宣言した主意です」（https://www.kanematsu.co.jp/company/mission・1回目）
+  - 「1889（明治22）年８月15日、当時、日本貿易の90％以上が外国商館に独占されている中、創業者の兼松房治郎は、「日本の国力振興の為には貿易の商権を我々日本人の手に取り戻さねばならぬ」との強い信念を持って、豪州との直接貿易の旗印を神戸で掲げました」（https://www.kanematsu.co.jp/company/mission・1回目）
+  - 「創業者自ら筆を取って宣言した「創業主意」の原点に立ち返り、1967年に制定された「われらの信条」を合わせ、兼松の「企業理念」としています」（https://www.kanematsu.co.jp/company/mission・1回目）
+- 売上：
+  - 「（６）売上高：（連結）1,127億9千万円」（https://www.kel.co.jp/pr/2026/1016-00.html・1回目）
+  - 「まずは、４年後の2028年度の売上を1億ドルとすることを目標とします」（https://www.kanematsu.co.jp/business_topics/ramen・1回目）
+  - 「277億81百万円」（https://www.kanematsu.co.jp/company/profile・1回目）
+  - 「※セグメントの売上や利益は、企業毎にその定義が異なる場合があります」（https://kitaishihon.com/company/8020/business・3回目）
+  - 「その結果、収益は、前連結会計年度比167億29百万円（1.6％）増加の１兆676億65百万円となり、売上総利益は、前連結会計年度比139億７百万円（9.0％）増加の1,689億14百万円となりました」（https://kitaishihon.com/company/8020/business・3回目）
+  - 「営業活動に係る利益は、販売費及び一般管理費が増加したものの、売上総利益の伸長により、前連結会計年度比66億12百万円（15.7％）増加の486億63百万円となりました」（https://kitaishihon.com/company/8020/business・3回目）
+  - 「税引前利益は、持分法による投資損益の良化などにより、前連結会計年度比89億24百万円（23.3％）増加の471億57百万円となり、親会社の所有者に帰属する当期利益は、前連結会計年度比50億54百万円（18.4％）増加の325億23百万円となりました」（https://kitaishihon.com/company/8020/business・3回目）
+  - 「当連結会計年度のキャッシュ・フローの状況については、営業活動によるキャッシュ・フローが576億63百万円の収入、投資活動によるキャッシュ・フローが119億29百万円の支出、財務活動によるキャッシュ・フローが469億円の支出となりました」（https://kitaishihon.com/company/8020/business・3回目）
+  - 「これらに、現金及び現金同等物に係る換算差額を調整した結果、当連結会計年度末の現金及び現金同等物の残高は584億18百万円となり、前連結会計年度末比16億39百万円の増加となりました」（https://kitaishihon.com/company/8020/business・3回目）
+  - 「当連結会計年度における営業活動によるキャッシュ・フローは、営業収入の積上げなどにより、576億63百万円の収入（前連結会計年度は583億29百万円の収入）となりました」（https://kitaishihon.com/company/8020/business・3回目）
+  - 「当連結会計年度における投資活動によるキャッシュ・フローは、有形固定資産の取得や子会社の取得を含む事業投資の実行などにより、119億29百万円の支出（前連結会計年度は13億63百万円の収入）となりました」（https://kitaishihon.com/company/8020/business・3回目）
+  - 「当連結会計年度における財務活動によるキャッシュ・フローは、借入金およびリース負債の返済や配当金の支払いなどにより、469億円の支出（前連結会計年度は546億58百万円の支出）となりました」（https://kitaishihon.com/company/8020/business・3回目）
+- 黒字・収益性：
+  - 「※１円の変動による、営業利益など本業収益へのプラス効果を示す」（https://www.nikkei.com/nkd/company/kessan/?scode=6402・3回目）
+  - 「直近５期の営業利益」（https://www.nikkei.com/nkd/company/kessan/?scode=6402・3回目）
+  - 「漏洩した営業秘密は、海外の自動車部品メーカーに向けた新製品の開発提案書や利益見込みをまとめた採算表など3点」（https://ja.wikipedia.org/wiki/%E5%85%BC%E6%9D%BE・3回目）
+  - 「兼松の2026年3月期連結業績は、収益1兆676億65百万円、営業利益486億63百万円、税引前利益471億57百万円、親会社の所有者に帰属する当期利益325億23百万円だった」（https://note.com/shyuukatu_gy/n/n1e9eba807287・3回目）
+  - 「2027年3月期の業績予想では、収益1兆1,000億円、営業利益540億円、親会社所有者帰属当期利益350億円を見込んでいる」（https://note.com/shyuukatu_gy/n/n1e9eba807287・3回目）
+  - 「営業利益で支払利息を十分に賄えており、仮に金利上昇局面（日本の長期金利が1.8%程度5に上昇した現在）を迎えても、直ちに経営危機に陥るリスクは低いです」（https://note.com/open_azalea2045/n/n7098fe71fbec・3回目）
+  - 「商社の営業利益率は、売上高が巨大になるため（特に代理人取引ではなく総額表示を含む場合）、見かけ上低くなります（数%程度）」（https://note.com/open_azalea2045/n/n7098fe71fbec・3回目）
+  - 「直近の予想EPS（一株当たり純利益）は、2025年3月期でおよそ328.95円7です」（https://note.com/open_azalea2045/n/n7098fe71fbec・3回目）
+- 存続：
+  - 「IBMのハードウェア・ソフトウェアを扱うディストリビューション事業を中核に、ファーウェイのデジタルパワー（太陽光発電・蓄電池）、3Dプリンタ、インタラクティブボード、そして昨年7月に兼松エレクトロニクスから事業譲渡を受けラインプリンタ・ドットプリンタが加わりました」（https://monoque.jp/columns/d/・3回目）
+  - 「を要請、祖業の繊維や紙パルプ、不動産事業から撤退する」（https://ja.wikipedia.org/wiki/%E5%85%BC%E6%9D%BE・3回目）
+  - 「各事業部門が、それぞれのWACC（加重平均資本コスト）を上回るリターンを生み出しているかを厳しくモニタリングしており、低収益事業からの撤退や再編を恐れない姿勢が見て取れます」（https://note.com/open_azalea2045/n/n7098fe71fbec・3回目）
+  - 「のれんは、買収価格が対象企業の純資産を上回った部分であり、将来の超過収益力への期待値です」（https://note.com/open_azalea2045/n/n7098fe71fbec・3回目）
+  - 「: KEL買収に伴うのれんの減損が発生すれば、一時的にPLが悪化します」（https://note.com/open_azalea2045/n/n7098fe71fbec・3回目）
+- 検索結果の抜粋：
+  - 「3Dプリンター ｜株式会社 兼松 KGK — 3Dプリンター ｜株式会社 兼松 KGK 株式会社兼松KGK https://www.kgk-j.co.jp > 事業紹介 > 工作機械」（https://www.kgk-j.co.jp/solution/solution-factory/solution-fac-3d/・3回目）
+  - 「【資料】鋳造用砂型 3Dプリンタ 兼松 KGK | イプロスものづくり — 【資料】鋳造用砂型 3Dプリンタ 兼松 KGK | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ... > 試作 > 3Ｄプリンタ」（https://mono.ipros.com/product/detail/2000577515/・3回目）
+  - 「電子機器部 | 兼松 株式会社 — 電子機器部 | 兼松 株式会社 兼松株式会社 https://www.kanematsu.co.jp > 事業紹介 > 電子・デバイス」（https://www.kanematsu.co.jp/business/electronics_devices/industrial_electronics・3回目）
+  - 「3Dプリンター - 兼松エレクトロニクスのPLM — 3Dプリンター - 兼松エレクトロニクスのPLM kel-plm.com https://kel-plm.com > category > 3dプリンター」（https://kel-plm.com/category/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/・3回目）
+  - 「財務ハイライト（財務情報） | 兼松 株式会社 — 財務ハイライト（財務情報） | 兼松 株式会社 兼松株式会社 https://www.kanematsu.co.jp > ... > 業績・財務」（https://www.kanematsu.co.jp/ir/financial/highlight・3回目）
+  - 「電子・デバイス 食料 鉄鋼・素材・プラント 車両・航空 - 兼松 — 電子・デバイス 食料 鉄鋼・素材・プラント 車両・航空 - 兼松 兼松株式会社 PDF https://www.kanematsu.co.jp > integrated_report」（https://www.kanematsu.co.jp/integrated_report/IR2023_9・3回目）
+  - 「兼松 【8020】の 事業 内容 - キタイシホン — 兼松 【8020】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/8020/business・3回目）
+  - 「【 兼松 エンジニアリング】[6402]決算発表や業務・財務情報 — 【 兼松 エンジニアリング】[6402]決算発表や業務・財務情報 日本経済新聞 https://www.nikkei.com > nkd > company > kessan」（https://www.nikkei.com/nkd/company/kessan/?scode=6402・3回目）
+  - 「Kanematsu Corporation 8020 - 兼松 株式会社 - Shared Research — Kanematsu Corporation 8020 - 兼松 株式会社 - Shared Research Shared Research https://sharedresearch.jp > companies」（https://sharedresearch.jp/ja/companies/8020・3回目）
+  - 「決算 公表資料（短信等） | 兼松 株式会社 — 決算 公表資料（短信等） | 兼松 株式会社 兼松株式会社 https://www.kanematsu.co.jp > ... > IRライブラリー」（https://www.kanematsu.co.jp/ir/library/financial_statements・3回目）
+  - 「2025年11月11日 兼松 株式会社 2026年3月期 第2 ... - YouTube — 2025年11月11日 兼松 株式会社 2026年3月期 第2 ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=JuT7Vx2W3hE・3回目）
+  - 「IR（投資家情報） | 兼松 株式会社 — IR（投資家情報） | 兼松 株式会社 兼松株式会社 https://www.kanematsu.co.jp > ...」（https://www.kanematsu.co.jp/ir・3回目）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部37頁・検索12回）
+
+## 双日株式会社
+- 公式URL：https://www.sojitz.com（given）
+- 創業年度：設立日：2024年3月18日（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+- 創業年度：設立日：1950年4月4日（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+- 創業年度：設立日：1977年11月2日（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+- 株主：ロイヤルホールディングス株式会社 34％ 株式会社銚子丸 33％ 双日株式会社 33％（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+- 株主：双日株式会社(105)（https://catr.jp/companies/f0e60/63396・3回目）
+- 株主：日本マスタートラスト信託銀行 株式会社 14.69% いちごトラスト・ピーティーイー・リミテッド 10.67% 株式会社 日本カストディ銀行 6.85% 三菱UFJモルガン・スタンレー証券 株式会社 2.10% 日本証券金融 株式会社 1.76% （2022年3月31日現在) [ 4 ]（https://ja.wikipedia.org/wiki/%E5%8F%8C%E6%97%A5・3回目）
+- 従業員数：連結：26,206名 単独：2,612名 （2025年6月30日現在） [ 3 ]（https://ja.wikipedia.org/wiki/%E5%8F%8C%E6%97%A5・3回目）
+- 従業員数：2,519 人（https://www.nikkei.com/nkd/company/gaiyo/?scode=2768・3回目）
+- 所在地：The Strand, 180 5th Street, Suite A130, Huntington Beach, CA 92648, USA（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+- 所在地：Ivy Station, 8809 Washington Boulevard, Unit 125, Culver City, CA 90232, USA（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+- 所在地：カリフォルニア州サンタアナ市（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+- 売上高：218億2300万円 前年比 +147.54%（https://catr.jp/companies/f0e60/63396・3回目）
+- 売上高：7億6000万円 前年比 ▲13.73%（https://catr.jp/companies/f0e60/63396・3回目）
+- 売上高：1449億5600万円 前年比 +10.29%（https://catr.jp/companies/f0e60/63396・3回目）
+- 代表者：高瀬 浩（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+- 代表者：代表取締役社長 阿部 正孝（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+- 代表者：代表取締役社長 石井 憲（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+- 参入の時期と形：
+  - 「双日、英国の水産物加工・販売会社を買収」（https://www.sojitz.com/jp/・1回目）
+  - 「豪州由来レアアース（重希土類）の輸入を開始」（https://www.sojitz.com/jp/・1回目）
+  - 「双日ソルバディス、仏 Citis Group を買収」（https://www.sojitz.com/jp/・1回目）
+  - 「米・BeauTech Power Systems社とJALUX テキサス州にて航空機エンジンリースの合弁会社を設立（JALUX）」（https://www.sojitz.com/jp/・1回目）
+  - 「国産チルドビーフの生産・加工販売事業に参入」（https://www.sojitz.com/jp/・1回目）
+  - 「双日、ブラジルで Jaguar Land Rover 販売事業へ参入」（https://www.sojitz.com/jp/business/・1回目）
+  - 「双日、豪州の電力小売事業者を買収」（https://www.sojitz.com/jp/business/・1回目）
+  - 「豪州におけるガリウム生産開始に向けた共同調査を開始」（https://www.sojitz.com/jp/business/・1回目）
+  - 「双日、レアアース鉱山の新規開発に向けた検討を開始」（https://www.sojitz.com/jp/business/・1回目）
+  - 「双日、ビナミルクグループとベトナム最大級の牛の食肉加工工場の稼働を開始」（https://www.sojitz.com/jp/business/・1回目）
+  - 「双日、英国の水産物加工・販売会社を買収」（https://www.sojitz.com/jp/business/・1回目）
+  - 「国産チルドビーフの生産・加工販売事業に参入」（https://www.sojitz.com/jp/business/・1回目）
+- 撤退・縮小の時期と理由：
+  - 「双日、豪州グレゴリー・クライナム原料炭事業を譲渡」（https://www.sojitz.com/jp/・1回目）
+  - 「双日、豪州グレゴリー・クライナム原料炭事業を譲渡」（https://www.sojitz.com/jp/business/・1回目）
+  - 「双日、豪州グレゴリー・クライナム原料炭事業を譲渡」（https://www.sojitz.com/jp/news/・1回目）
+  - 「現在、自動車産業は電動化、デジタル化、モビリティサービスの進展に加え、地政学リスクの高まりやサプライチェーンの再編など、複合的かつ構造的な変化のただ中にあります」（https://www.sojitz.com/jp/business/automotive/・1回目）
+  - 「北米における貨車リース事業にかかる持分譲渡について」（https://www.sojitz.com/jp/business/aerospace_infra/・1回目）
+  - 「双日、双日船舶株式会社の株式の一部を譲渡」（https://www.sojitz.com/jp/business/aerospace_infra/・1回目）
+  - 「また、環境意識の高まりや持続的成長を見据えた一般炭権益事業からの早期撤退の一方で、豪州グレゴリー・クライナム原料炭鉱での安定生産とコスト削減を進めながら脱炭素化までの過渡期の安定供給にも努めてまいります」（https://www.sojitz.com/jp/business/metals_resource/・1回目）
+  - 「当社が長年取り扱い、出資参画しているCBMMのニオブは、自動車向けなどの鋼材の軽量化の添加材として今後も全世界的に需要が益々伸びると期待されるほか、川下領域で超急速充電や長寿命の特性を持つNTO電池*」（https://www.sojitz.com/jp/business/metals_resource/・1回目）
+  - 「双日、豪州グレゴリー・クライナム原料炭事業を譲渡」（https://www.sojitz.com/jp/business/metals_resource/・1回目）
+  - 「さらに、DX戦略の実行、組織最適化、低採算事業の撤退・再生、インフラ設備投資、デジタル化によるオペレーションの次世代化などの施策も同時並行で推進します」（https://www.sojitz.com/jp/business/chemicals/・1回目）
+  - 「電気自動車（EV）用などで需要が拡大しているリチウムイオン電池（LiB）の負極バインダー用SBRラテックスでは高い技術を持つ世界的サプライヤーとして、また、紙加工用のSBRラテックスでは日本でも有数のサプライチェーンを有し、何れも高い評価を受けています」（https://www.sojitz.com/jp/business/chemicals/・1回目）
+  - 「エアの取得、売買、賃貸借、企画、開発、保全、利用、仲介および譲渡」（https://www.sojitz.com/pdf/jp/ir/articles.pdf・2回目）
+- 参入しない・慎重な理由の発言：
+  - 「ベトナムの牛肉需要の高まりを先読みし、」（https://www.sojitz.com/jp/・1回目）
+  - 「地域の課題に寄り添うことで事業拡大と収益力強化を図る」（https://www.sojitz.com/jp/・1回目）
+  - 「エネルギー事業領域においては、再生可能エネルギーや省エネ・エネルギートランジションに関わる事業を、インフラ事業領域においては、業界リーディング企業への投資を通じてPPP大型インフラモデルの事業開発から自律型の事業経営・成長を目指し、世界の脱炭素化や人口増加などの社会課題解決に取り組む」（https://www.sojitz.com/jp/business/・1回目）
+  - 「鉄鋼、重要鉱物、リサイクル分野での事業創出を通じて独自のサプライチェーンを構築し、社会や需要家に対する新たな価値提供に取り組む」（https://www.sojitz.com/jp/business/・1回目）
+  - 「ベトナムの牛肉需要の高まりを先読みし、」（https://www.sojitz.com/jp/business/・1回目）
+  - 「地域の課題に寄り添うことで事業拡大と収益力強化を図る」（https://www.sojitz.com/jp/business/・1回目）
+  - 「今後の海外市場の拡大を背景に、外食の分野において、海外の成長市場への進出は喫緊の課題となっております」（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+  - 「ロイヤルHDと銚子丸、双日の3社は、2024年3月に設立した合弁会社SUSHI-TEN USA Inc.を通じて、米国西海岸を起点に事業活動を開始し、ロイヤルHDは「ロイヤルホスト」等のレストランチェーンの運営により長年蓄積してきたノウハウ、銚子丸は寿司の独自性と専門性、双日は国内外におけるビジネスネットワークと事業開発力とそれぞれの事業分野で強みを活かし、米国において、単独では成し得ない新たな価値を創造することを目指しております」（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+  - 「米国は市場規模の大きさとともに多様な食文化を享受し、特に日本の食文化に対する需要も高く、外食事業者にとって魅力的な市場です」（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+  - 「従来から高級店が寿司市場のトレンドを牽引しておりましたが、近年は寿司のローカル化やカジュアル化が進んでおり、その需要は年々拡大しております」（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+  - 「Kamiプロジェクトにおいては、産出される高品位の鉄鉱石の引き取りに関する権利（オフテイク権）を取得し、需要家への販売面でも貢献します」（https://www.sojitz.com/jp/news/article/20241219.html・1回目）
+  - 「双日グループは、企業理念にある「新たな価値と豊かな未来を創造」し続けるため、パリ協定や、持続可能な開発目標（SDGs）などのグローバル課題を踏まえ、「脱炭素社会実現」と「サプライチェーン上の人権配慮」を双日の責務と考え、この長期ビジョンを設定しています」（https://www.sojitz.com/jp/news/article/20241219.html・1回目）
+- AMの規模：
+  - 「米州｜国内・海外拠点｜企業情報｜双日株式会社」（https://www.sojitz.com/jp/corporate/network/americas/・1回目）
+  - 「リース事業では東京、アムステルダム、シンガポールを拠点に、オペレーティングリース、日本型オペレーティングリース、および機体販売後の投資家様保有機体の管理およびリマーケティング事業を行っております」（https://www.sojitz.com/jp/business/aerospace_infra/・1回目）
+  - 「そして、2024年7月には米国のMRO事業会社に出資参画し、北米のMRO事業拠点を拡大しました」（https://www.sojitz.com/jp/business/aerospace_infra/・1回目）
+  - 「金属3Dプリンターで造形した製品：日本積層造形株式会社（日本）」（https://www.sojitz.com/jp/business/metals_resource/・1回目）
+  - 「持続的に300億円以上の当期純利益を達成するため、引き続き「トレードの強靭化」「知見ある領域での事業投融資」「次世代の市場ニーズに対応可能な環境投資」という3つの基本方針を継続します」（https://www.sojitz.com/jp/business/chemicals/・1回目）
+  - 「当期利益2,000億円」（https://www.sojitz.com/jp/ir/reports/annual/・1回目）
+  - 「Citis Group は、フランス国内のル・アーブルとマルセイユに保管拠点、ダンケルクに生産拠点」（https://www.sojitz.com/news/news_file/file/261005.pdf・2回目）
+  - 「拠点所在地 神奈川県横浜市都筑区折本町 460 番」（https://www.sojitz.com/news/news_file/file/250214_02.pdf・2回目）
+  - 「拠点所在地 神奈川県横浜市都筑区折本町 460 番」（https://www.sojitz.com/news/news_file/file/250214.pdf・2回目）
+  - 「当期純利益 162億円」（http://s3-ap-northeast-1.amazonaws.com/sojitz-doc/pdf/jp/ir_202405/meetings/irday/20211210_04_03.pdf・3回目）
+  - 「総資産 5,062億円」（http://s3-ap-northeast-1.amazonaws.com/sojitz-doc/pdf/jp/ir_202405/meetings/irday/20211210_04_03.pdf・3回目）
+  - 「人員数（単体）266人」（http://s3-ap-northeast-1.amazonaws.com/sojitz-doc/pdf/jp/ir_202405/meetings/irday/20211210_04_03.pdf・3回目）
+- 客の業界：
+  - 「米・BeauTech Power Systems社とJALUX テキサス州にて航空機エンジンリースの合弁会社を設立（JALUX）」（https://www.sojitz.com/jp/・1回目）
+  - 「稲わら原料のバイオメタン製造・販売で、エネルギー安全保障の強化と脱炭素に貢献」（https://www.sojitz.com/jp/・1回目）
+  - 「グローバル・ニッチトップの戦略で自動車ディストリビューター事業を展開」（https://www.sojitz.com/jp/・1回目）
+  - 「米国と豪州で展開するエネルギーソリューション事業」（https://www.sojitz.com/jp/・1回目）
+  - 「自動車の卸売事業と小売事業を成長市場と成熟市場で展開」（https://www.sojitz.com/jp/business/・1回目）
+  - 「また、販売金融事業、自動車関連サービス事業に取り組む」（https://www.sojitz.com/jp/business/・1回目）
+  - 「民間航空機・防衛関連の代理店やリース、ビジネスジェットなどの航空事業のほか、空港や工業団地、産業・都市インフラなどの社会インフラ事業、鉄道インフラ開発や鉄道車両の保守・修理・改造サービス、鉄道運行・保守事業、貨車リースなどの交通事業、船舶関連事業などを手掛ける」（https://www.sojitz.com/jp/business/・1回目）
+  - 「エネルギー事業領域においては、再生可能エネルギーや省エネ・エネルギートランジションに関わる事業を、インフラ事業領域においては、業界リーディング企業への投資を通じてPPP大型インフラモデルの事業開発から自律型の事業経営・成長を目指し、世界の脱炭素化や人口増加などの社会課題解決に取り組む」（https://www.sojitz.com/jp/business/・1回目）
+  - 「稲わら原料のバイオメタン製造・販売で、エネルギー安全保障の強化と脱炭素に貢献」（https://www.sojitz.com/jp/business/・1回目）
+  - 「グローバル・ニッチトップの戦略で自動車ディストリビューター事業を展開」（https://www.sojitz.com/jp/business/・1回目）
+  - 「米国と豪州で展開するエネルギーソリューション事業」（https://www.sojitz.com/jp/business/・1回目）
+  - 「Hycamiteは独自に開発した革新的な触媒技術により、低いエネルギー消費量（電気分解による水素製造プロセスの13%の電力消費量）で水素を製造することができ、またカーボンナノチューブなど付加価値の高い固体炭素製品を併産します」（https://www.sojitz.com/jp/news/article/20230718_02.html・1回目）
+- 素材：
+  - 「メタノール、合成樹脂、工業塩、レアアース、鉱産物など幅広くトレードや事業を展開」（https://www.sojitz.com/jp/business/・1回目）
+  - 「■C5・石油樹脂事業」（https://www.sojitz.com/jp/business/・1回目）
+  - 「■ 合成樹脂事業（双日プラネット株式会社、プラマテルズ株式会社）」（https://www.sojitz.com/jp/business/・1回目）
+  - 「■SBRラテックス、ABS樹脂事業（日本エイアンドエル株式会社）」（https://www.sojitz.com/jp/business/・1回目）
+  - 「鉄鋼業界では、2050年のカーボンニュートラル実現に向けて、鉄鋼生産の低炭素・脱炭素化に取り組んでおり、その過程で2030年代には従来のコークス（石炭）を使用して鉄鉱石を還元する高炉法から、鉄スクラップなどを主原料とする電炉法へ移行させ、CO」（https://www.sojitz.com/jp/news/article/20241219.html・1回目）
+  - 「双日の金属・資源分野においては、カーボンニュートラル社会実現に向けた潮流をはじめ、新興国の成長、デジタル化の進展といった、社会の変化とニーズをとらえたサプライチェーンの安定化を基本方針としています」（https://www.sojitz.com/jp/news/article/20241219.html・1回目）
+  - 「Hycamiteは独自に開発した革新的な触媒技術により、低いエネルギー消費量（電気分解による水素製造プロセスの13%の電力消費量）で水素を製造することができ、またカーボンナノチューブなど付加価値の高い固体炭素製品を併産します」（https://www.sojitz.com/jp/news/article/20230718_02.html・1回目）
+  - 「金属・資源・リサイクル本部｜事業紹介｜双日株式会社」（https://www.sojitz.com/jp/business/metals_resource/・1回目）
+  - 「金属3Dプリンターで造形した製品：日本積層造形株式会社（日本）」（https://www.sojitz.com/jp/business/metals_resource/・1回目）
+  - 「また、豪州で独立行政法人エネルギー・金属鉱物資源機構（JOGMEC）とガリウム生産に向けた共同調査を行うための合弁会社を通じて、米国 Alcoa Corporation傘下の豪州法人西豪州に所在するアルミナ精錬所でのガリウム生産の共同調査契約を締結しました」（https://www.sojitz.com/jp/business/metals_resource/・1回目）
+  - 「*2 NTO電池：ニオブチタン酸化物（Niobium Titanium Oxide）を負極に用いた次世代リチウムイオン電池」（https://www.sojitz.com/jp/business/metals_resource/・1回目）
+  - 「脱炭素化や省資源化などの社会ニーズの変化を捉えて、リユース・リサイクルを含む金属資源の循環型事業の基盤構築に取り組んでいます」（https://www.sojitz.com/jp/business/metals_resource/・1回目）
+- 株主構成：
+  - 「「第23回定時株主総会招集ご通知」を掲載」（https://www.sojitz.com/jp/・1回目）
+  - 「株主、株式の分布、単元未満株式の買取請求手続き、定款・株式取扱規則などの情報を掲載しています」（https://www.sojitz.com/jp/・1回目）
+  - 「双日、ターコイズ水素の製造技術を開発するフィンランドHycamite TCD Technologies Oyへ出資参画｜ニュースルーム｜双日株式会社」（https://www.sojitz.com/jp/news/article/20230718_02.html・1回目）
+  - 「双日、ターコイズ水素の製造技術を開発するフィンランドHycamite TCD Technologies Oyへ出資参画」（https://www.sojitz.com/jp/news/article/20230718_02.html・1回目）
+  - 「双日は、今回の出資参画を通じてHycamite技術の日本国内における独占的実施権を獲得しました」（https://www.sojitz.com/jp/news/article/20230718_02.html・1回目）
+  - 「双日は、米国の電動垂直離着陸機（eVTOL）開発製造を手掛けるBETA Technologies Inc.（以下「BETA」）と、日本におけるeVTOLの市場開拓・確立を目指した協業に向けて、BETAに出資（※）することに合意しました」（https://www.sojitz.com/jp/news/article/topics-20220915.html・1回目）
+  - 「（※）2019 年1月にペガサス･テック･ベンチャーズ（所在地：米国、代表パートナー兼 CEO アニス・ウッザマン）と共同で設立したコーポレート・ベンチャーキャピタルを通じた出資です」（https://www.sojitz.com/jp/news/article/topics-20220915.html・1回目）
+  - 「航空領域における環境に配慮した活動は年々加速し、代替航空燃料や新たな航空技術の開発が進む中、双日では2021年4月に米国で水素燃料搭載機および航空機用水素供給網の開発・実用化を進めるユニバーサル・ハイドロジェン社への出資をおこなうなど、より環境に優しい次世代型航空機を用いた機能提供を目指した取り組みを進めてきました」（https://www.sojitz.com/jp/news/article/topics-20220915.html・1回目）
+  - 「また、2021年10月にヘリコプターのデジタルプラットフォーム事業を展開するAirX社への出資をおこない、2022年7月には本邦ビジネスジェット運航整備会社ジャプコングループの全株式を取得するなど、次世代エアモビリティ（AAM）の将来需要の高まりを見据えた取り組みも進めています」（https://www.sojitz.com/jp/news/article/topics-20220915.html・1回目）
+  - 「北米鉄道事業においては、2015年に出資参画したカナダのMRO事業の運営を継続しております」（https://www.sojitz.com/jp/business/aerospace_infra/・1回目）
+  - 「また、2021年3月には北米貨車リース事業にも出資参画しました」（https://www.sojitz.com/jp/business/aerospace_infra/・1回目）
+  - 「そして、2024年7月には米国のMRO事業会社に出資参画し、北米のMRO事業拠点を拡大しました」（https://www.sojitz.com/jp/business/aerospace_infra/・1回目）
+- 創業年度：
+  - 「米・BeauTech Power Systems社とJALUX テキサス州にて航空機エンジンリースの合弁会社を設立（JALUX）」（https://www.sojitz.com/jp/・1回目）
+  - 「ロイヤルホールディングス株式会社（本社：福岡県福岡市、代表取締役社長：阿部 正孝、以下「ロイヤルHD」）、株式会社銚子丸（本社：千葉県千葉市、代表取締役社長：石井 憲、以下「銚子丸」）、双日株式会社（本社：東京都千代田区、代表取締役 社長CEO：植村 幸祐、以下「双日」）の3社が2024年3月に設立した現地法人「SUSHI-TEN USA Inc.」は、2025年12月30日（火）、米国１号店となる「SUSHI NIGIRIBA」をカリフォルニア州のハンティントンビーチに出店することをお知らせいたします」（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+  - 「ロイヤルHDと銚子丸、双日の3社は、2024年3月に設立した合弁会社SUSHI-TEN USA Inc.を通じて、米国西海岸を起点に事業活動を開始し、ロイヤルHDは「ロイヤルホスト」等のレストランチェーンの運営により長年蓄積してきたノウハウ、銚子丸は寿司の独自性と専門性、双日は国内外におけるビジネスネットワークと事業開発力とそれぞれの事業分野で強みを活かし、米国において、単独では成し得ない新たな価値を創造することを目指しております」（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+  - 「ロイヤルホールディングス、銚子丸、双日による米国での合弁会社設立の件」（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+  - 「今後、3社で合弁会社を設立し、開発に向けた調査（フィージビリティ・スタディ）を進めます」（https://www.sojitz.com/jp/news/article/20241219.html・1回目）
+  - 「Hycamiteは2020年に創業したフィンランドのスタートアップ企業で、天然ガスやバイオガスなどの主成分であるメタン（CH」（https://www.sojitz.com/jp/news/article/20230718_02.html・1回目）
+  - 「今後両社は、日本におけるeVTOLの安全かつ利便性の高い社会実装の実現に向け、乗員養成や整備施設の設置などの関連領域の事業構築をともなったeVTOL運航事業の体制構築を進めるとともに、日本におけるeVTOLの普及促進のための合弁会社設立も検討しています」（https://www.sojitz.com/jp/news/article/topics-20220915.html・1回目）
+  - 「（※）2019 年1月にペガサス･テック･ベンチャーズ（所在地：米国、代表パートナー兼 CEO アニス・ウッザマン）と共同で設立したコーポレート・ベンチャーキャピタルを通じた出資です」（https://www.sojitz.com/jp/news/article/topics-20220915.html・1回目）
+  - 「各社が創業から100年以上の歳月の中で培ってきた事業創造のDNAは、現在の双日にも受け継がれています」（https://www.sojitz.com/jp/about/・1回目）
+  - 「双日グループは、ニチメン株式会社と日商岩井株式会社の両社が、2003年4月に持ち株会社を設立し、翌2004年4月に合併して誕生しました」（https://www.sojitz.com/jp/corporate/history/・1回目）
+  - 「1986年、ベトナム戦争後、西側諸国の企業で初めてハノイに事務所を設立した日商岩井がベトナム政府とともにビジネスを通じて国家建設に貢献していく様子を描いています」（https://www.sojitz.com/jp/corporate/history/・1回目）
+  - 「神戸開港150年を記念して制作した、双日の源流である鈴木商店、岩井商店、日本綿花の創業時のエピソードをご紹介するサイトです」（https://www.sojitz.com/jp/corporate/history/・1回目）
+- 売上：
+  - 「17,830百万円」（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+  - 「100百万円」（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+  - 「160,339百万円」（https://www.sojitz.com/jp/news/article/topics-20251226.html・1回目）
+  - 「持続的に300億円以上の当期純利益を達成するため、引き続き「トレードの強靭化」「知見ある領域での事業投融資」「次世代の市場ニーズに対応可能な環境投資」という3つの基本方針を継続します」（https://www.sojitz.com/jp/business/chemicals/・1回目）
+  - 「当期利益2,000億円」（https://www.sojitz.com/jp/ir/reports/annual/・1回目）
+  - 「当期純利益 162億円」（http://s3-ap-northeast-1.amazonaws.com/sojitz-doc/pdf/jp/ir_202405/meetings/irday/20211210_04_03.pdf・3回目）
+  - 「総資産 5,062億円」（http://s3-ap-northeast-1.amazonaws.com/sojitz-doc/pdf/jp/ir_202405/meetings/irday/20211210_04_03.pdf・3回目）
+  - 「⚫ 当社の営業本部として最大の資産5,062億円を取り扱うため、本部に期待する収益」（http://s3-ap-northeast-1.amazonaws.com/sojitz-doc/pdf/jp/ir_202405/meetings/irday/20211210_04_03.pdf・3回目）
+  - 「過去平均すると約200億円程」（http://s3-ap-northeast-1.amazonaws.com/sojitz-doc/pdf/jp/ir_202405/meetings/irday/20211210_04_03.pdf・3回目）
+  - 「計4,500億円程度となっており、夫々約1,500億円、2,000億円、1,000億円」（http://s3-ap-northeast-1.amazonaws.com/sojitz-doc/pdf/jp/ir_202405/meetings/irday/20211210_04_03.pdf・3回目）
+  - 「120億円(予算)」（http://s3-ap-northeast-1.amazonaws.com/sojitz-doc/pdf/jp/ir_202405/meetings/irday/20211210_04_03.pdf・3回目）
+  - 「JAMPTは2025年までに売上高1,000億円を目標とし、金属AM業界における世界のリーディングカンパニーを目指します」（https://www.nikkei.com/article/DGXLRSP463089_T11C17A1000000/・3回目）
+- 黒字・収益性：
+  - 「持続的に300億円以上の当期純利益を達成するため、引き続き「トレードの強靭化」「知見ある領域での事業投融資」「次世代の市場ニーズに対応可能な環境投資」という3つの基本方針を継続します」（https://www.sojitz.com/jp/business/chemicals/・1回目）
+  - 「さらに、DX戦略の実行、組織最適化、低採算事業の撤退・再生、インフラ設備投資、デジタル化によるオペレーションの次世代化などの施策も同時並行で推進します」（https://www.sojitz.com/jp/business/chemicals/・1回目）
+  - 「当期純利益 162億円」（http://s3-ap-northeast-1.amazonaws.com/sojitz-doc/pdf/jp/ir_202405/meetings/irday/20211210_04_03.pdf・3回目）
+  - 「財務体質の立て直しには数年を要し、資本増強や資産圧縮、不採算事業からの撤退を進めることで、優先株の解消や復配、投資適格級格付けの回復といった節目を一つずつクリアしていった」（https://note.com/nekota_toure/n/nc7970a551b97・3回目）
+  - 「SEDLの2026年3月期の最終損益は840万ドルの赤字であり、売却が2027年3月期の双日の業績に与える影響は軽微としている」（https://note.com/nekota_toure/n/nc7970a551b97・3回目）
+  - 「双日はグループの脱炭素を進めるとともに、不採算事業からの撤退によって資産効率を改善する狙いを示しており、2030年までに石油権益から撤退するという既定方針の一環と位置づけている」（https://note.com/nekota_toure/n/nc7970a551b97・3回目）
+  - 「背景には英国政府による化石燃料開発への課税強化があり、事業環境の不透明感から採算を保つのが難しくなったことが撤退の理由とされた」（https://note.com/nekota_toure/n/nc7970a551b97・3回目）
+  - 「4-1 過去5年間の純利益推移」（https://note.com/nekota_toure/n/nc7970a551b97・3回目）
+  - 「双日の連結純利益(親会社の所有者に帰属する当期利益)は、次のように推移してきた」（https://note.com/nekota_toure/n/nc7970a551b97・3回目）
+  - 「自動車部門は豪州中古車事業の減損などによりマイナス53億円の赤字に転落した」（https://note.com/nekota_toure/n/nc7970a551b97・3回目）
+  - 「カペラの純利益は2027年3月期に約25億円を見込み、渋谷誠CFOは2028年3月期以降に30億~50億円程度の利益貢献を期待したいと述べている」（https://note.com/nekota_toure/n/nc7970a551b97・3回目）
+  - 「当期純利益による株主資本の積み上げが株主還元による資本減少幅を上回る限り、累進的に増配していく方針も明確にされている」（https://note.com/nekota_toure/n/nc7970a551b97・3回目）
+- 存続：
+  - 「双日、英国の水産物加工・販売会社を買収」（https://www.sojitz.com/jp/・1回目）
+  - 「双日ソルバディス、仏 Citis Group を買収」（https://www.sojitz.com/jp/・1回目）
+  - 「双日、豪州の電力小売事業者を買収」（https://www.sojitz.com/jp/business/・1回目）
+  - 「双日、英国の水産物加工・販売会社を買収」（https://www.sojitz.com/jp/business/・1回目）
+  - 「双日ソルバディス、仏 Citis Group を買収」（https://www.sojitz.com/jp/business/・1回目）
+  - 「鉄鉱石鉱山（ケベック州）を買収し、2018年より完全子会社の」（https://www.sojitz.com/jp/news/article/20241219.html・1回目）
+  - 「双日、英国の水産物加工・販売会社を買収」（https://www.sojitz.com/jp/news/・1回目）
+  - 「双日ソルバディス、仏 Citis Group を買収」（https://www.sojitz.com/jp/news/・1回目）
+  - 「豪州鉄道事業においては、2026年に豪州を中心に鉄道・交通分野における設計・施工から運行・保守（O&M）を手掛けるUGL Transport Holdings Pty Ltd.の50%持分を買収しました」（https://www.sojitz.com/jp/business/aerospace_infra/・1回目）
+  - 「双日、豪州の電力小売事業者を買収」（https://www.sojitz.com/jp/business/energy_infra/・1回目）
+  - 「双日、豪州最大級のインフラ開発企業を買収」（https://www.sojitz.com/jp/business/energy_infra/・1回目）
+  - 「また、環境意識の高まりや持続的成長を見据えた一般炭権益事業からの早期撤退の一方で、豪州グレゴリー・クライナム原料炭鉱での安定生産とコスト削減を進めながら脱炭素化までの過渡期の安定供給にも努めてまいります」（https://www.sojitz.com/jp/business/metals_resource/・1回目）
+- 検索結果の抜粋：
+  - 「金属・資源・リサイクル本部｜事業紹介｜ 双日 株式会社 — 金属・資源・リサイクル本部｜事業紹介｜ 双日 株式会社 双日株式会社 https://www.sojitz.com > ホーム > 事業紹介」（https://www.sojitz.com/jp/business/metals_resource/・3回目）
+  - 「災害・復興支援に関する取り組み｜社会貢献活動 - 双日 — 災害・復興支援に関する取り組み｜社会貢献活動 - 双日 双日株式会社 https://www.sojitz.com > ... > 社会貢献活動」（https://www.sojitz.com/jp/sustainability/contribution/shinsai/・3回目）
+  - 「双日 とコイワイ、 3Dプリンター による金属製品製造事業へ 参入 — 双日 とコイワイ、 3Dプリンター による金属製品製造事業へ 参入 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXLRSP463089_T11C17A1000000/・3回目）
+  - 「日本積層造形株式会社（JAMPT） - 双日 — 日本積層造形株式会社（JAMPT） - 双日 双日株式会社 https://www.sojitz.com > ... > 主要グループ会社」（https://www.sojitz.com/jp/corporate/group/company_13006.html・3回目）
+  - 「双日 とコイワイ、 3Dプリンタ による金属製品製造事業へ 参入 — 双日 とコイワイ、 3Dプリンタ による金属製品製造事業へ 参入 マイナビニュース https://news.mynavi.jp > techplus > article」（https://news.mynavi.jp/techplus/article/20171114-a045/・3回目）
+  - 「業績データ推移｜業績・財務｜IR情報（投資家情報） - 双日 — 業績データ推移｜業績・財務｜IR情報（投資家情報） - 双日 双日株式会社 https://www.sojitz.com > IR情報 > 業績・財務」（https://www.sojitz.com/jp/ir/highlights/recent/・3回目）
+  - 「直近の業績と見通し｜業績・財務｜IR情報（投資家情報） - 双日 — 直近の業績と見通し｜業績・財務｜IR情報（投資家情報） - 双日 双日株式会社 https://www.sojitz.com > IR情報 > 業績・財務」（https://www.sojitz.com/jp/ir/highlights/latest/・3回目）
+  - 「2025年3月期 決算資料 - 双日 — 2025年3月期 決算資料 - 双日 双日株式会社 PDF https://www.sojitz.com > pdf > meetings > financial」（https://www.sojitz.com/pdf/jp/ir/meetings/financial/2025/2025j_04_02_Presentation_Material.pdf・3回目）
+  - 「双日 グループ、日本積層造形がクリモトと金属 3D ... — 双日 グループ、日本積層造形がクリモトと金属 3D ... 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZRSP629813_V00C22A4000000/・3回目）
+  - 「決算説明 会｜IRイベント｜IR情報（投資家情報） - 双日 — 決算説明 会｜IRイベント｜IR情報（投資家情報） - 双日 双日株式会社 https://www.sojitz.com > IR情報 > IRイベント」（https://www.sojitz.com/jp/ir/meetings/financial/・3回目）
+  - 「2026年3月期 決算 資料 - 双日 — 2026年3月期 決算 資料 - 双日 双日株式会社 PDF https://www.sojitz.com > pdf > meetings > financial」（https://www.sojitz.com/pdf/jp/ir/meetings/financial/2026/2026j_04_02_presentation_material.pdf・3回目）
+  - 「2027年3月期第1四半期 決算 資料 - 双日 — 2027年3月期第1四半期 決算 資料 - 双日 双日株式会社 PDF https://www.sojitz.com > pdf > meetings > financial」（https://www.sojitz.com/pdf/jp/ir/meetings/financial/2027/2027j_01_02_presentation_material.pdf・3回目）
+- 設立：記載なし（3回確認済み：公式26頁／PDF・画像16件／外部35頁・検索12回）
+
+## 川崎重工業株式会社
+- 公式URL：https://www.khi.co.jp（given）
+- 創業年度：設立年月日：1896年10月15日（https://www.nikkei.com/nkd/company/gaiyo/?scode=7012・3回目）
+- 創業年度：設立：1896年 （明治29年） 10月9日 （株式会社川崎造船所）（https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+- 株主：日本マスタートラスト信託銀行 （信託口） 15.01% 日本カストディ銀行 8.09% 日本生命保険 3.42% 川崎重工業従業員持株会 2.84% STATE STREET BANK AND TRUST COMPANY 2.76% 川崎重工共栄会 2.42% （2025年6月末現在）（https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+- 株主：「官製談合で損害」川崎重工業社長らを提訴（https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+- 従業員数：15,361 人（https://www.nikkei.com/nkd/company/gaiyo/?scode=7012・3回目）
+- 従業員数：41,652人 (2026年3月末現在）（https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+- 所在地：日本 東京本社 〒 105-8315 東京都 港区 海岸 一丁目14番5号 神戸本社 〒 650-8680 兵庫県 神戸市 中央区 東川崎町 三丁目1番1号 神戸クリスタルタワー（https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+- 所在地：〒 650-8670 兵庫県神戸市中央区東川崎町三丁目1番1号 神戸クリスタルタワー [ 1 ]（https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+- 売上高：連結：2兆3,112億円 （2026年3月期）（https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+- 代表者：橋本　康彦（https://www.nikkei.com/nkd/company/gaiyo/?scode=7012・3回目）
+- 代表者：橋本康彦 （ 代表取締役 社長 執行役員 兼 CEO ） 山本克也（代表取締役副社長執行役員） 中谷浩（代表取締役副社長執行役員）（https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+- 参入の時期と形：
+  - 「サイバーセキュリティ対策を強化した産業用ロボット向けコントローラ「Fシリーズコントローラ S-type」を発売」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「ルーマニアTransgazと陸上水素ガス輸送に関する戦略的提携に合意」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「名古屋第一工場で川崎重工グループ最大規模の太陽光発電設備を活用したオンサイト/オフサイトPPAサービスの利用開始」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「遠隔操作ロボットシステム「Successor」の掻き混ぜ作業向けコミュニケーター「Plesio」を新発売」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「鉄道による水素輸送の供給管理・環境価値管理システム開発の開始 （PDF:483.2 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「世界最大級、建設機械向け油圧ポンプ「K7V320」の量産を開始」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「富士通とフィジカルAIの社会実装に向けた事業検討を開始」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「NVIDIAの技術を活用した「次世代デジタルシップヤード」の実現に向けたコラボレーションを開始」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「介護施設と入居者家族をつなぐ動画配信サービス「つづるムービー」の提供開始」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「郡山市富久山クリーンセンターにおいて、 当社初となるごみ焼却の燃焼排ガスを対象としたCO₂分離回収実証試験を開始」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「クロスカントリー専用モデル「KX327X」/モトクロス専用モデル「KX327」を発売（カワサキモータース）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「EcoLog社と川崎重工、液水サプライチェーンの戦略的提携に関する覚書を締結 （PDF:884.8 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+- 撤退・縮小の時期と理由：
+  - 「振込手数料負担関係の見直しについて（2025年12月10日）」（https://www.khi.co.jp/・1回目）
+  - 「株式会社アーステクニカ株式譲渡契約締結に関するお知らせ （PDF:370.1 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「株式会社アーステクニカ株式の譲渡の検討を開始する基本合意書の締結について （PDF:311.0 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「役員報酬制度の見直しに伴う業績連動型株式報酬制度の導入に関するお知らせ （PDF:596.0 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「車両事業における固定資産の減損損失の計上について（PDF:228KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「原子力事業の譲渡に関する基本合意の覚書締結について」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「会社分割（簡易吸収分割）による子会社への一部事業の譲渡に関するお知らせ （PDF:242.5 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「国内鉄構工事事業の一部譲渡および共同事業化に向けた株式譲渡契約等締結について」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「国内販売網再編によるモーターサイクル専門店リニューアル１号店をオープン（カワサキモータースジャパン）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「モーターサイクルの国内販売網を再編（カワサキモータースジャパン）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「株式会社ＫＣＭＪの事業譲渡に関するお知らせ （PDF:372.7 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「株式会社KCMの株式の譲渡に関するお知らせ （PDF:185.7 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+- 参入しない・慎重な理由の発言：
+  - 「ガスを使った発電・熱源設備をご検討のお客様（課題1～3）」（https://www.khi.co.jp/・1回目）
+  - 「ガスを使った発電・熱源設備をご検討のお客様（課題4）」（https://www.khi.co.jp/・1回目）
+  - 「ガスを使った発電・熱源設備をご検討のお客様（課題5）」（https://www.khi.co.jp/・1回目）
+  - 「世界最大級、建設機械向け油圧ポンプ「K7V320」の量産を開始」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「当社施工のごみ処理施設として初となる『ZEB』認証を取得」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「建設機械向けの電気リモートコントロールユニット「ERUJ」の量産を開始」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「」を開発 ～ 地域の鉄道公共交通維持と非電化鉄道の地球環境課題解決の両立を実現 ～」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「船舶の運航管理を支援する「SOPass船上システム」において、サイバーレジリエンスに関する統一規則「IACS UR E27」に準拠した認証（Type Approval）を取得」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「液化水素用船陸間継手が日本海事協会（Class NK）の技術認証取得 （PDF:673.9 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「「安全離着岸支援システム」の基本設計承認（AiP）および「操船支援情報表示装置」のP&S認証をClassNKから取得」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「（開示事項の経過）舶用エンジンにおける検査不正について （PDF:364.9 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「藤田医科大学 岡崎医療センターにて世界初となる サービスロボット連携による臨床検体配送から臨床検査機器への自動投入までの実証に成功 （PDF:772.4 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+- AMの規模：
+  - 「福岡市より消防ヘリコプターとして最新型ヘリコプター「H145//BK117 D-3」を受注」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「JERA武豊火力発電所向けバイオマス搬送設備改造工事を受注」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「経済産業省「契約学科制度」に向けて、「未来モビリティ共創開発拠点」を形成 （PDF:556.3 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「電動タグボート向け高出力型電気推進システムを受注」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「明石市より「明石市新ごみ処理施設整備・運営事業」を受注」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「東京二十三区清掃一部事務組合より「世田谷清掃工場建替工事」を受注」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「FBS福岡放送より報道用ヘリコプターとして最新型ヘリコプター「H145//BK117 D-3」を受注」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「東邦ガス向け発電容量10万kW級のガスエンジン発電設備を JFEエンジニアリングより受注」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「坂出LNG株式会社より坂出LNG基地大型増強工事を受注 ～ LNG設備建設を通じた社会のエネルギートランジションへの貢献 ～」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「千葉市より「千葉市新港清掃工場リニューアル整備・運営事業」を受注」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「Salus Aviation社より最新型ヘリコプター「H145//BK117 D-3」を初受注」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「インド現地法人「WiproKPM」において油圧機器のインド国内顧客向け累計出荷台数20万台に到達」（https://www.khi.co.jp/pressrelease/・1回目）
+- 客の業界：
+  - 「バイオマス、石炭、石油、重油などの燃料を使ったエネルギー製品をご検討のお客様」（https://www.khi.co.jp/・1回目）
+  - 「工場内の余剰エネルギーをご利用したいお客様」（https://www.khi.co.jp/・1回目）
+  - 「船舶・舶用機械, 鉄道車両 , 航空宇宙」（https://www.khi.co.jp/・1回目）
+  - 「コージェネレーション, エネルギープラント, ガスタービン, ガスエンジン, 環境・リサイクルプラント など」（https://www.khi.co.jp/・1回目）
+  - 「船舶, 舶用機械, 鉄道車両, 鉄道車両用台車, 航空機, ヘリコプター, ジェットエンジン など」（https://www.khi.co.jp/・1回目）
+  - 「コージェネレーション, エネルギープラント, ガスタービン, ガスエンジン など」（https://www.khi.co.jp/・1回目）
+  - 「プレスリリース一覧 | 川崎重工業株式会社」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「川崎重工とリコー、AIで設計業務の知識資産活用を推進する戦略的パートナーシップを構築 （PDF:704.6 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「世界初、液化水素の船陸間荷役を支える商用仕様6インチローディングアーム 川崎重工とTBGが共同開発を完了 （PDF:433.1 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「名古屋第一工場で川崎重工グループ最大規模の太陽光発電設備を活用したオンサイト/オフサイトPPAサービスの利用開始」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「日本初、世界最高レベルの低NOx性能を実現する 水素航空エンジンの運転試験に成功」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「ヘルスケア分野向けソーシャルロボット「Home LEO」の試作機が完成」（https://www.khi.co.jp/pressrelease/・1回目）
+- 素材：
+  - 「アニオン交換膜（AEM）水電解装置向け高性能電極の開発に成功 ～カーボンニュートラルの実現に向けて、水素を「つくる」分野で新技術～ （PDF:666.4 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「「アルミニウム車体の水平リサイクルに関する共同研究の基本方針に係る覚書」を締結しました ～アルミニウム車体の水平リサイクルの取組み検討着手～ （PDF:992.3 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「」でカーボンニュートラル社会の実現に貢献～ （PDF:475.3 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「カーボンニュートラル の早期実現に向け川崎市と川崎重工が連携協定を締結 （PDF:376.5 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「川崎重工、SUBARU、トヨタ、マツダ、ヤマハ発動機、カーボンニュートラル実現に向け、 燃料を「つくる」「はこぶ」「つかう」選択肢を広げる取り組みに挑戦 ー電動化への取り組みに加え、内燃機関活用のさらなる広がりへー」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「低炭素・カーボンフリーな電力を取り扱う事業会社「カワサキグリーンエナジー株式会社」を設立」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「粗大ごみ、廃家電類、金属スクラップに適した竪型破砕機「ＶＳシュレッダ」を新発売（アーステクニカ）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「大型ニッケル水素電池「ギガセル」を用いたスマートグリッド実証試験を開始」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「ニッケル水素電池を用いた多機能電力貯蔵装置の開発について」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「住友金属工業和歌山製鉄所に蒸気タービン発電設備を納入」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「大型ニッケル水素電池「ギガセル」が地球温暖化防止活動環境大臣表彰を受賞」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「世界最大級のフェロニッケル製錬プラントを引き渡し（カワサキプラントシステムズ）」（https://www.khi.co.jp/pressrelease/・1回目）
+- 株主構成：
+  - 「株主還元方針の変更および期末配当予想の修正（増配）に関するお知らせ（PDF：618KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「マレーシアの現地二輪車メーカーへ追加出資を決定」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「小型石油随伴ガス液化装置事業への出資について」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「エア・ウォーターと川重防災工業との包括的業務提携および資本提携について」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「第203期定時株主総会 足元の経営概況および中長期的な経営戦略説明資料（PDF：6.31MB）」（https://www.khi.co.jp/ir/・1回目）
+  - 「第14回株主向け工場見学会（岐阜工場）を開催」（https://www.khi.co.jp/ir/library/audio/index.html・1回目）
+  - 「第13回株主向け工場見学会（西神工場）を開催」（https://www.khi.co.jp/ir/library/audio/index.html・1回目）
+  - 「第12回株主向け工場見学会（坂出工場）を開催」（https://www.khi.co.jp/ir/library/audio/index.html・1回目）
+  - 「第11回株主向け工場見学会（名古屋第一工場）を開催」（https://www.khi.co.jp/ir/library/audio/index.html・1回目）
+  - 「第10回株主向け工場見学会（明石工場）を開催」（https://www.khi.co.jp/ir/library/audio/index.html・1回目）
+  - 「第9回株主向け工場見学会（播磨工場）を開催」（https://www.khi.co.jp/ir/library/audio/index.html・1回目）
+  - 「第8回株主向け工場見学会（神戸工場）を開催」（https://www.khi.co.jp/ir/library/audio/index.html・1回目）
+- 創業年度：
+  - 「創立130周年を記念して、 映画『モネ 時の海を渡った絵』に特別協賛」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「「日本ニュージーランド水素コリドー」を設立 （PDF:644.4 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「海外初となるR＆Dイノベーションセンター「Kawasaki Innovation Centre Europe SAS」を設立」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「中国における精密機械事業の合弁会社設立について」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「水素小型モビリティ・エンジン技術研究組合（HySE）の設立認可を取得 （PDF:512.5 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「「株式会社Gachaco」の設立について～電動二輪車用共通仕様バッテリーのシェアリングサービスを提供～（カワサキモータース） （PDF:741.1 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「「HyEng株式会社」設立のお知らせ （PDF:516.6 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「川崎重工とソニーグループ リモートロボットプラットフォーム事業を行う新会社を設立」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「シールドマシン事業の新会社設立に関する基本合意書の締結について （PDF:235.4 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「低炭素・カーボンフリーな電力を取り扱う事業会社「カワサキグリーンエナジー株式会社」を設立」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「イタリアの高級二輪車メーカーBIMOTAの再生支援のために新たな二輪車メーカーを共同設立」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「英国スコットランドに自律型無人潜水機 （ＡＵＶ）の現地法人を設立」（https://www.khi.co.jp/pressrelease/・1回目）
+- 売上：
+  - 「双日と川崎重工、パキスタン最大規模の尿素製造設備を130億円で受注（カワサキプラントシステムズ）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「双日と川崎重工、パキスタン最大規模の尿素製造設備を130億円で受注（カワサキプラントシステムズ）」（https://www.khi.co.jp/news/・1回目）
+  - 「展開を通じて、お客様の価値創出を支えています（2026 年 3 月期グループ連結売上高」（https://www.khi.co.jp/pressrelease/news_261102-1.pdf・2回目）
+  - 「事業利益は 357億円（前年同期比 +152 億円）と好調な滑り出し」（https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf・2回目）
+  - 「為替前提レート1 ドル150円を据え置きつつ、事業利益を 1800億円（前回公表比」（https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf・2回目）
+  - 「+100億円）に上方修正」（https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf・2回目）
+  - 「前年同期比で増収･増益、1Qにおける売上収益･各利益はそれぞれ過去最高を記録」（https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf・2回目）
+  - 「※2 為替変動に伴い事業利益に影響を与える外貨量であり、川崎重工業、川崎車両、カワサキモータースのドル建売上か」（https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf・2回目）
+  - 「らドル建仕入を控除して算出（損失引当済み案件の外貨建売上を含む」（https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf・2回目）
+  - 「四半期別 事業利益 (億円), 利益率」（https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf・2回目）
+  - 「売上収益 4,884 5,435 + 551」（https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf・2回目）
+  - 「売上加重平均レート(USD/JPY)※1 143.79 158.05 + 14.26」（https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf・2回目）
+- 黒字・収益性：
+  - 「26年度1QのFCFは小幅な赤字も、通期では黒字を見込む」（https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf・2回目）
+  - 「精密機械･ロボットでは係争和解金の獲得や採算性の改善により上方修正 1」（https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf・2回目）
+  - 「ホンダが上場来初の最終赤字4239億円 26年3月期、EV損失重く」（https://www.nikkei.com/article/DGXZQOTG06DHP0W5A600C2000000/・3回目）
+  - 「ホンダの最終黒字4000億円に上振れ 27年3月期、円安進行が寄与」（https://www.nikkei.com/article/DGXZQOTG06DHP0W5A600C2000000/・3回目）
+  - 「【東京エレクトロン】半導体ショックで株価大幅下落！個人投資家はどう戦うべき？｜営業利益67.2%増・通期は1兆1690億円予想｜買い場か様子見か!?【元機関投資家が解説】」（https://www.youtube.com/watch?v=185D8-qEffU・3回目）
+  - 「売上収益は2兆3千億円を超え、事業利益は1,450億円台、親会社株主帰属当期純利益は1千億円の大台を回復しました」（https://note.com/hirokimiyano/n/n58c7dcca097b・3回目）
+  - 「2026年3月期の通期実績は、売上収益が2兆3,112億円、事業利益が1,451億円、親会社株主帰属当期純利益が1,081億円でした」（https://note.com/hirokimiyano/n/n58c7dcca097b・3回目）
+  - 「前期比では売上収益が8.5％増、事業利益が1.4％増、純利益が22.9％増です」（https://note.com/hirokimiyano/n/n58c7dcca097b・3回目）
+  - 「実績はその計画を売上・事業利益で上回り、純利益では1,081億円と計画の900億円を大きく上回って着地しています」（https://note.com/hirokimiyano/n/n58c7dcca097b・3回目）
+  - 「ROEの実績水準も、純利益1,081億円に対する自己資本約1兆円という規模感から、概ね10％前後で推移しており、目標である「ROE10％超の持続的達成」のラインに近づいてきています」（https://note.com/hirokimiyano/n/n58c7dcca097b・3回目）
+  - 「その前提が崩れたとき、つまり防衛特需が一服する、水素商用化が想定より遅れる、パワースポーツの赤字が深まる、といった逆風が重なれば、株価評価は急速にしぼむ可能性もあります」（https://note.com/hirokimiyano/n/n58c7dcca097b・3回目）
+  - 「自己資本利益率（ROE）の推移をデュポン分析（純利益率 × 総資産回転率 × 財務レバレッジ）を用いて分解することで、同社の収益構造の劇的な変化が浮かび上がってくる8」（https://note.com/open_azalea2045/n/nc8e6665dfd7f・3回目）
+- 存続：
+  - 「株式会社ＫＣＭＪの事業譲渡に関するお知らせ （PDF:372.7 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「橋梁・水門事業からの撤退について （PDF:7.6 KB）」（https://www.khi.co.jp/pressrelease/・1回目）
+  - 「株式会社ＫＣＭＪの事業譲渡に関するお知らせ （PDF:372.7 KB）」（https://www.khi.co.jp/news/・1回目）
+  - 「橋梁・水門事業からの撤退について （PDF:7.6 KB）」（https://www.khi.co.jp/news/・1回目）
+  - 「① 自社既存技術の応用 ② 他社との共同開発・買収 ③ 関連業務からの派生」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf・3回目）
+  - 「ソディック 工作機械 レーザー焼結 ○ ○ - 買収したOPMラボラトリーと共同開発」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf・3回目）
+  - 「航空機の市場規模予測 航空機部品分野での3Dプリンター活用を狙った買収事例（GE）」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf・3回目）
+  - 「12/10 3Dプリンターのノウハウを有するMorris Technologiesと子会社のRapid Quality Manufacturingを買収（買収額非公表）」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf・3回目）
+  - 「12/12 金属積層技術を有するAvio Aero社を買収し、航空機部品向け3Dプリンターの活用体制を整備（買収額43億ドル）」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf・3回目）
+  - 「ビーム方式）、Arcam社（電子ビーム方式）を買収を発表」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf・3回目）
+  - 「（買収額計14億ドル）」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf・3回目）
+  - 「16/10 SLM Solutions社と同じ方式を得意とするConcept Laser社の買収を発表(買収額6億ドル<75%出資>)」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf・3回目）
+- 検索結果の抜粋：
+  - 「シンガポール海事港湾庁の舶用部品向け 3Dプリンタ 活用 ... — シンガポール海事港湾庁の舶用部品向け 3Dプリンタ 活用 ... 川崎重工業株式会社 https://www.khi.co.jp > pressrelease > detail」（https://www.khi.co.jp/pressrelease/detail/20201216_1.html・3回目）
+  - 「ニュース一覧 | 川崎重工業 株式会社 — ニュース一覧 | 川崎重工業 株式会社 川崎重工業株式会社 https://www.khi.co.jp > news」（https://www.khi.co.jp/news/・3回目）
+  - 「船舶用部品の 3D プリティング活用プロジェクトに 川崎重工 ... — 船舶用部品の 3D プリティング活用プロジェクトに 川崎重工 ... ShareLab NEWS https://news.sharelab.jp > 事例 > その他業界事例」（https://news.sharelab.jp/cases/other-fields/3dprinter-mpa-210202/・3回目）
+  - 「川崎重工 、防衛 事業 の 売上 収益上振れへ 半導体用ロボットの ... — 川崎重工 、防衛 事業 の 売上 収益上振れへ 半導体用ロボットの ... Reuters https://www.reuters.com > economy」（https://www.reuters.com/jp/economy/NEMBYQOC5ZNZBBWJUEWCUK7FHA-2026-10-06/・3回目）
+  - 「セグメント別の業績 | 財務・業績情報 | 川崎重工業 株式会社 — セグメント別の業績 | 財務・業績情報 | 川崎重工業 株式会社 川崎重工業株式会社 https://www.khi.co.jp > financial > business_segment」（https://www.khi.co.jp/ir/financial/business_segment/・3回目）
+  - 「川崎重工 、31年3月期に 売上 高4割増 防衛装備・北米四輪が ... — 川崎重工 、31年3月期に 売上 高4割増 防衛装備・北米四輪が ... 日本経済新聞 https://www.nikkei.com > マーケット > 株式」（https://www.nikkei.com/article/DGXZQOTG06DHP0W5A600C2000000/・3回目）
+  - 「2025年度第3四半期決算説明資料 - 川崎重工業 — 2025年度第3四半期決算説明資料 - 川崎重工業 川崎重工業株式会社 PDF https://www.khi.co.jp > pdf」（https://www.khi.co.jp/ir/pdf/pre_260209-1j.pdf・3回目）
+  - 「川崎重工 、船舶保守部品の“地産地消”モデル目指す - モノクエ — 川崎重工 、船舶保守部品の“地産地消”モデル目指す - モノクエ Mono Que https://monoque.jp > news」（https://monoque.jp/news/f9fe8421b840697099a9675cabf913340c797403/・3回目）
+  - 「川崎重工 、 社長 直轄プロジェクトで「事業創造」に挑め — 川崎重工 、 社長 直轄プロジェクトで「事業創造」に挑め ミドルの転職 https://mid-tenshoku.com > 特集記事一覧」（https://mid-tenshoku.com/featured/92/・3回目）
+  - 「決算説明 資料 | IRライブラリ | 川崎重工業 株式会社 — 決算説明 資料 | IRライブラリ | 川崎重工業 株式会社 川崎重工業株式会社 https://www.khi.co.jp > library > presentation」（https://www.khi.co.jp/ir/library/presentation.html・3回目）
+  - 「2026年度第1四半期 決算説明 資料 - 川崎重工業 — 2026年度第1四半期 決算説明 資料 - 川崎重工業 川崎重工業株式会社 PDF https://www.khi.co.jp > pdf」（https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf・3回目）
+  - 「Kawasaki Heavy Industries - YouTube — Kawasaki Heavy Industries - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=185D8-qEffU・3回目）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像16件／外部38頁・検索12回）
+
+## 日本積層造形株式会社
+- 公式URL：https://jampt.jp/（search:yahoo_jp:日本積層造形）
+- 創業年度：設立：2017年10月18日（https://jampt.jp/company/・1回目）
+- 創業年度：設立：2017年10月18日（https://www.sojitz.com/jp/corporate/group/company_13006.html・3回目）
+- 創業年度：設立：2017年10月（https://www.pasonacareer.jp/job/81067241/・3回目）
+- 株主：双日株式会社 株式会社コイワイ（https://jampt.jp/company/・1回目）
+- 株主：双日株式会社(105)（https://catr.jp/companies/f0e60/63396・3回目）
+- 株主：VCあり, 事業会社あり（https://initial.inc/companies/A-31435・3回目）
+- 従業員数：単体：36人 連結：-（https://www.pasonacareer.jp/job/81067241/・3回目）
+- 所在地：〒985-0874 宮城県多賀城市八幡一本柳3-8（https://jampt.jp/company/・1回目）
+- 所在地：〒985-0874 宮城県多賀城市八幡一本柳3-8（https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/・3回目）
+- 所在地：〒985-0874 宮城県多賀城市八幡一本柳3-8（https://www.sojitz.com/jp/corporate/group/company_13006.html・3回目）
+- 売上高：218億2300万円 前年比 +147.54%（https://catr.jp/companies/f0e60/63396・3回目）
+- 売上高：7億6000万円 前年比 ▲13.73%（https://catr.jp/companies/f0e60/63396・3回目）
+- 売上高：1449億5600万円 前年比 +10.29%（https://catr.jp/companies/f0e60/63396・3回目）
+- 代表者：大竹 卓也 大竹 卓也 さんが代表の会社を検索（https://catr.jp/companies/f0e60/63396・3回目）
+- 代表者：大竹　卓也（https://initial.inc/companies/A-31435・3回目）
+- 代表者：大竹　卓也（https://prtimes.jp/main/html/searchrlp/company_id/162763・3回目）
+- 参入の時期と形：
+  - 「これにより、試作部品の立ち上げを大幅に短縮できます」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+  - 「ゼロから立ち上げる企業にとっては大きな負担」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+  - 「日本積層造形株式会社 / JAMPT（ジャンプ）では、協力企業との技術提携を通じて、金属3Dプリンティング技術と設計・解析技術を融合することで、部品形状の最適化・軽量化、熱マネジメント、複数部品の一体化など、金属3Dプリンティング技術の特徴を最大限に活かした製品開発、ならびに部素材の機能や構造の最適化解析などのデザイン・設計から製造までの一貫した製品開発（DfAM）支援サービスを提供しています」（https://jampt.jp/service/dfam/・1回目）
+  - 「日本積層造形株式会社 / JAMPT（ジャンプ）にて造形後、当社出資会社のコイワイにてスピーディーに鋳造対応いたします」（https://jampt.jp/service/dfam/・1回目）
+  - 「日本積層造形株式会社 / JAMPT（ジャンプ）は前身のコイワイ時代も含めると、日本でいち早く金属3Dプリンター受託造形サービスを開始しました」（https://jampt.jp/technology/・1回目）
+  - 「日本積層造形株式会社 / JAMPT（ジャンプ）は、日本初の金属3Dプリンティングの専業サービスビューロとして2017年に設立しました」（https://jampt.jp/company/・1回目）
+  - 「双日株式会社と株式会社コイワイにより日本積層造形株式会社が設立」（https://jampt.jp/company/・1回目）
+  - 「そう確信した総合商社・双日、長年にわたり技術力を磨き上げてきた鋳造メーカー・コイワイが、東北大学金属材料研究所・千葉晶彦特任教授を技術顧問に迎え、2017年10月に日本初の金属積層造形の専業サービスビューローとして設立したのが、日本積層造形株式会社 / JAMPT（ジャンプ）です」（https://jampt.jp/company/message/・1回目）
+  - 「日本積層造形株式会社/JAMPT（ジャンプ）は、2017年の設立以来、千葉晶彦名誉教授（金属材料研究所）・未来科学技術共同研究センター 特任教授を技術顧問として招聘し、金属積層造形技術とプラズマ回転電極法（PREP）を中心とする材料開発を進めています」（https://jampt.jp/company/chiba/・1回目）
+  - 「日本積層造形株式会社 / JAMPT（ジャンプ）は、日本でいち早く金属3Dプリンティング技術（金属積層造形技術）を導入した株式会社コイワイと、総合商社の双日株式会社の共同出資により2017年に設立されました」（https://jampt.jp/company/challenge-to-space/・1回目）
+  - 「今回のSLIMプロジェクトは東北大学 未来科学技術共同研究センターの千葉晶彦特任教授とも提携しました」（https://jampt.jp/company/challenge-to-space/・1回目）
+  - 「産業界全体の技術発展だけでなく，次世代エンジニア育成機関の設立なども視野に入れた同社の挑戦はこれからも続いていきます」（https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/・3回目）
+- 撤退・縮小の時期と理由：
+  - 「従来工法と比較したトータルコストでの採算性を検証」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+  - 「これらのコスト要素を積み上げたトータルコストで採算性を検証することが不可欠です」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+  - 「その一方で、採算性や品質規格への対応、材料特性に応じた造形条件の最適化など、導入にあたっての検討課題も存在します」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+  - 「金属積層品の需要が見込まれる航空宇宙分野において、実用品の開発・製造に向けたQCD顧客満足の向上に努めています」（https://jampt.jp/company/qualityassurance/・1回目）
+  - 「認証書授与式には、AM製造サイト認証に向けた取り組みの大きな推進力となった大竹氏（現・代表取締役社長）と、自社の製造プロセスと製造現場環境を1つ1つ丁寧に見直し、要求事項を満たしていることを証明した佐々木氏（品質保証部部長）、佐藤氏（工場長）、伊藤氏（製造部課長）らが出席し、テュフズードジャパン株式会社の代表取締役社長のアンドレア・コシャ氏からAM製造サイト認証書が大竹氏に手渡されました」（https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/・3回目）
+  - 「同社の持つ金属積層造形技術は、航空・宇宙や医療などの高精度な市場で需要が拡大」（https://www.pasonacareer.jp/job/81067241/・3回目）
+  - 「東北大学ベンチャーパートナーズ株式会社（本社：宮城県仙台市、代表取締役社長：吉村洋）を無限責任組合員とするTHVP-1号投資事業有限責任組合は、平成30年9月19日に双日株式会社（本社：東京都千代田区、代表取締役社長：藤本昌義）より118百万円の株式譲渡を受け、日本積層造形株式会社（本社：東京都千代田区、代表取締役社長：保田憲孝）の株式を取得致しました」（https://thvp.co.jp/fund/fund1/668/・3回目）
+  - 「2018年9月、設備投資に充当するため総額144百万円の株主割当増資が行われ、本増資後にTHVP-1号投資事業有限責任組合が双日株式会社より同社の株式譲渡を受けました」（https://thvp.co.jp/fund/fund1/668/・3回目）
+- 参入しない・慎重な理由の発言：
+  - 「製品実用化、量産化の対応まで」（https://jampt.jp/・1回目）
+  - 「日本積層造形株式会社 / JAMPT（ジャンプ）は、金属粉末の開発・製造から、造形・加工・検査、そして量産対応までのあらゆるサービスを一貫して提供することが可能な金属3Dプリンティング(３Dプリンターを用いた試作品の製造・造形)の専業サービスビューロです」（https://jampt.jp/・1回目）
+  - 「金属3Dプリンティングに特化した認証に基づく確固とした品質保証体制の元、電子ビーム方式およびレーザー方式の金属3Dプリンターを用いて、造形はもとより、新しいものづくりに向けた材料開発から量産までをご提案します」（https://jampt.jp/・1回目）
+  - 「JIS Q9100/ISO52920認証取得で安定した高い品質を確保」（https://jampt.jp/・1回目）
+  - 「金属積層造形に関する豊富な経験とノウハウを活かした」（https://jampt.jp/・1回目）
+  - 「金属3Dプリンターは航空機部品に使える？金属3Dプリンターの基礎・メリット・課題を解説」（https://jampt.jp/・1回目）
+  - 「金属3Dプリンターは航空機部品に使える？金属3Dプリンターの基礎・メリット・課題を解説 | 日本積層造形株式会社」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+  - 「金属3Dプリンターは航空機部品に使える？金属3Dプリンターの基礎・メリット・課題を解説」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+  - 「近年、これらの課題に対する有力な選択肢として、金属3Dプリンターが注目されています」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+  - 「一方で、「航空機分野で本当に使えるのか」「品質や認証のハードルは高くないのか」といった疑問を持つ方も多いのではないでしょうか」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+  - 「本記事では、航空機分野で使われる金属3Dプリンターの基礎から、採用するメリットと課題、具体的な活用事例までをわかりやすく解説します」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+  - 「航空機部品の製造に金属3Dプリンターを採用する際の課題」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+- AMの規模：
+  - 「金属3DプリンターのAM技術による受託造形サービス | 日本積層造形株式会社」（https://jampt.jp/・1回目）
+  - 「金属3Dプリンターを活用した」（https://jampt.jp/・1回目）
+  - 「日本積層造形株式会社 / JAMPT（ジャンプ）は、金属粉末の開発・製造から、造形・加工・検査、そして量産対応までのあらゆるサービスを一貫して提供することが可能な金属3Dプリンティング(３Dプリンターを用いた試作品の製造・造形)の専業サービスビューロです」（https://jampt.jp/・1回目）
+  - 「日本積層造形株式会社 / JAMPT（ジャンプ）」（https://jampt.jp/・1回目）
+  - 「日本積層造形株式会社 / JAMPT（ジャンプ）は、金属3Dプリンティングの専業サービスビューロとして一貫した造形サービスを提供します」（https://jampt.jp/・1回目）
+  - 「金属3Dプリンティングに特化した認証に基づく確固とした品質保証体制の元、電子ビーム方式およびレーザー方式の金属3Dプリンターを用いて、造形はもとより、新しいものづくりに向けた材料開発から量産までをご提案します」（https://jampt.jp/・1回目）
+  - 「100種類を超える豊富な金属材料に対応した積層造形」（https://jampt.jp/・1回目）
+  - 「金属積層造形に関する豊富な経験とノウハウを活かした」（https://jampt.jp/・1回目）
+  - 「金属3Dプリンティング（金属積層造形技術／AM技術：Additive Manufacturing）は、対象となる製品・部品の3D CADデータを基にスライスデータを作成し、一層毎に積層して立体物を造形します」（https://jampt.jp/・1回目）
+  - 「様々な金属材料に対応する、高度造形が可能な金属積層造形装置を保有しています」（https://jampt.jp/・1回目）
+  - 「金属3Dプリンター用PREP粉末について」（https://jampt.jp/・1回目）
+  - 「金属3Dプリンター」（https://jampt.jp/・1回目）
+- 客の業界：
+  - 「材料開発、試作品の造形から」（https://jampt.jp/・1回目）
+  - 「製品実用化、量産化の対応まで」（https://jampt.jp/・1回目）
+  - 「日本積層造形株式会社 / JAMPT（ジャンプ）は、金属粉末の開発・製造から、造形・加工・検査、そして量産対応までのあらゆるサービスを一貫して提供することが可能な金属3Dプリンティング(３Dプリンターを用いた試作品の製造・造形)の専業サービスビューロです」（https://jampt.jp/・1回目）
+  - 「金属3Dプリンティングに特化した認証に基づく確固とした品質保証体制の元、電子ビーム方式およびレーザー方式の金属3Dプリンターを用いて、造形はもとより、新しいものづくりに向けた材料開発から量産までをご提案します」（https://jampt.jp/・1回目）
+  - 「「試作・受託サービス」「製品開発支援サービス」「材料開発支援サービス」の」（https://jampt.jp/・1回目）
+  - 「クレーンの「ジブ先端部品」の大型造形試作の取り組み」（https://jampt.jp/・1回目）
+  - 「金属3Dプリンターは航空機部品に使える？金属3Dプリンターの基礎・メリット・課題を解説」（https://jampt.jp/・1回目）
+  - 「金属3Dプリンターは航空機部品に使える？金属3Dプリンターの基礎・メリット・課題を解説 | 日本積層造形株式会社」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+  - 「金属3Dプリンターは航空機部品に使える？金属3Dプリンターの基礎・メリット・課題を解説」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+  - 「航空機部品の設計・製造において、軽量化や高強度の両立、開発リードタイムの短縮は常に重要なテーマです」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+  - 「一方で、「航空機分野で本当に使えるのか」「品質や認証のハードルは高くないのか」といった疑問を持つ方も多いのではないでしょうか」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+  - 「本記事では、航空機分野で使われる金属3Dプリンターの基礎から、採用するメリットと課題、具体的な活用事例までをわかりやすく解説します」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+- 素材：
+  - 「金属3DプリンターのAM技術による受託造形サービス | 日本積層造形株式会社」（https://jampt.jp/・1回目）
+  - 「金属3Dプリンターを活用した」（https://jampt.jp/・1回目）
+  - 「日本積層造形株式会社 / JAMPT（ジャンプ）は、金属粉末の開発・製造から、造形・加工・検査、そして量産対応までのあらゆるサービスを一貫して提供することが可能な金属3Dプリンティング(３Dプリンターを用いた試作品の製造・造形)の専業サービスビューロです」（https://jampt.jp/・1回目）
+  - 「の金属3Dプリンティング技術が」（https://jampt.jp/・1回目）
+  - 「日本積層造形株式会社 / JAMPT（ジャンプ）は、金属3Dプリンティングの専業サービスビューロとして一貫した造形サービスを提供します」（https://jampt.jp/・1回目）
+  - 「金属3Dプリンティングに特化した認証に基づく確固とした品質保証体制の元、電子ビーム方式およびレーザー方式の金属3Dプリンターを用いて、造形はもとより、新しいものづくりに向けた材料開発から量産までをご提案します」（https://jampt.jp/・1回目）
+  - 「100種類を超える豊富な金属材料に対応した積層造形」（https://jampt.jp/・1回目）
+  - 「東北大学金属材料研究所との連携による粉末材料開発支援」（https://jampt.jp/・1回目）
+  - 「金属積層造形に関する豊富な経験とノウハウを活かした」（https://jampt.jp/・1回目）
+  - 「金属３Dプリンティングは」（https://jampt.jp/・1回目）
+  - 「金属3Dプリンティング（金属積層造形技術／AM技術：Additive Manufacturing）は、対象となる製品・部品の3D CADデータを基にスライスデータを作成し、一層毎に積層して立体物を造形します」（https://jampt.jp/・1回目）
+  - 「金属3Dプリンティングの強度」（https://jampt.jp/・1回目）
+- 株主構成：
+  - 「日本積層造形株式会社 / JAMPT（ジャンプ）にて造形後、当社出資会社のコイワイにてスピーディーに鋳造対応いたします」（https://jampt.jp/service/dfam/・1回目）
+  - 「東北大学ベンチャーパートナーズ株式会社を無限責任組合員とするTHVP-1号投資事業有限責任組合が株主となる」（https://jampt.jp/company/・1回目）
+  - 「日本積層造形株式会社 / JAMPT（ジャンプ）は、日本でいち早く金属3Dプリンティング技術（金属積層造形技術）を導入した株式会社コイワイと、総合商社の双日株式会社の共同出資により2017年に設立されました」（https://jampt.jp/company/challenge-to-space/・1回目）
+  - 「★グループ売上２兆円超えの大手総合商社が出資する、業界のリーディングベンチャー」（https://www.pasonacareer.jp/job/81067241/・3回目）
+  - 「同社は、東証プライム上場の大手総合商社「双日株式会社」が出資・設立した企業です」（https://www.pasonacareer.jp/job/81067241/・3回目）
+  - 「2018年9月、設備投資に充当するため総額144百万円の株主割当増資が行われ、本増資後にTHVP-1号投資事業有限責任組合が双日株式会社より同社の株式譲渡を受けました」（https://thvp.co.jp/fund/fund1/668/・3回目）
+  - 「2017年10月に双日株式会社、株式会社コイワイの共同出資により設立され、2018年8月、宮城県多賀城市に工場が設立されました」（https://thvp.co.jp/fund/fund1/668/・3回目）
+  - 「株主は、総合商社の双日株主会社、鋳物試作・量産メーカーの株式会社コイワイ、東北大学ベンチャーパートナーズ株式会社」（https://prtimes.jp/main/html/searchrlp/company_id/162763・3回目）
+- 創業年度：
+  - 「日本積層造形株式会社 / JAMPT（ジャンプ）は、創業から累計で100種類を超える金属粉末での造形実績があります」（https://jampt.jp/service/・1回目）
+  - 「日本積層造形株式会社 / JAMPT（ジャンプ）は、日本初の金属3Dプリンティングの専業サービスビューロとして2017年に設立しました」（https://jampt.jp/company/・1回目）
+  - 「双日株式会社と株式会社コイワイにより日本積層造形株式会社が設立」（https://jampt.jp/company/・1回目）
+  - 「そう確信した総合商社・双日、長年にわたり技術力を磨き上げてきた鋳造メーカー・コイワイが、東北大学金属材料研究所・千葉晶彦特任教授を技術顧問に迎え、2017年10月に日本初の金属積層造形の専業サービスビューローとして設立したのが、日本積層造形株式会社 / JAMPT（ジャンプ）です」（https://jampt.jp/company/message/・1回目）
+  - 「創業6年目となる2022年10月、この技術をさらに広く普及浸透させるべく、3代目社長として就任いたしました」（https://jampt.jp/company/message/・1回目）
+  - 「日本積層造形株式会社/JAMPT（ジャンプ）は、2017年の設立以来、千葉晶彦名誉教授（金属材料研究所）・未来科学技術共同研究センター 特任教授を技術顧問として招聘し、金属積層造形技術とプラズマ回転電極法（PREP）を中心とする材料開発を進めています」（https://jampt.jp/company/chiba/・1回目）
+  - 「日本積層造形株式会社 / JAMPT（ジャンプ）は、日本でいち早く金属3Dプリンティング技術（金属積層造形技術）を導入した株式会社コイワイと、総合商社の双日株式会社の共同出資により2017年に設立されました」（https://jampt.jp/company/challenge-to-space/・1回目）
+  - 「産業界全体の技術発展だけでなく，次世代エンジニア育成機関の設立なども視野に入れた同社の挑戦はこれからも続いていきます」（https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/・3回目）
+  - 「2017年の会社設立、2018年の工場立ち上げを経て、2022年に私自身が3代目の社長に就任しました」（https://rs-miyagi.net/change/202601_jampt.html・3回目）
+  - 「同社は、東証プライム上場の大手総合商社「双日株式会社」が出資・設立した企業です」（https://www.pasonacareer.jp/job/81067241/・3回目）
+  - 「2017年10月に双日株式会社、株式会社コイワイの共同出資により設立され、2018年8月、宮城県多賀城市に工場が設立されました」（https://thvp.co.jp/fund/fund1/668/・3回目）
+  - 「日本で初めて材料粉末の開発・製造から試作品造形・量産対応までの一貫サービスを提供するサービスビューロとして、2017年10月に設立」（https://prtimes.jp/main/html/searchrlp/company_id/162763・3回目）
+- 売上：
+  - 「装置は1台あたり2～3億円と非常に高価で、運用にも専門的なノウハウが必要です」（https://rs-miyagi.net/change/202601_jampt.html・3回目）
+  - 「理想としては、売上の5～6割をリピート顧客で支え、残りを新規案件で構成する形を目指しています」（https://rs-miyagi.net/change/202601_jampt.html・3回目）
+  - 「その結果として、まずは受託造形だけで年商5～10億円の事業規模に成長させることを目標にしています」（https://rs-miyagi.net/change/202601_jampt.html・3回目）
+  - 「★グループ売上２兆円超えの大手総合商社が出資する、業界のリーディングベンチャー」（https://www.pasonacareer.jp/job/81067241/・3回目）
+  - 「東北大学ベンチャーパートナーズ株式会社（本社：宮城県仙台市、代表取締役社長：吉村洋）を無限責任組合員とするTHVP-1号投資事業有限責任組合は、平成30年9月19日に双日株式会社（本社：東京都千代田区、代表取締役社長：藤本昌義）より118百万円の株式譲渡を受け、日本積層造形株式会社（本社：東京都千代田区、代表取締役社長：保田憲孝）の株式を取得致しました」（https://thvp.co.jp/fund/fund1/668/・3回目）
+  - 「2018年9月、設備投資に充当するため総額144百万円の株主割当増資が行われ、本増資後にTHVP-1号投資事業有限責任組合が双日株式会社より同社の株式譲渡を受けました」（https://thvp.co.jp/fund/fund1/668/・3回目）
+- 黒字・収益性：
+  - 「従来工法と比較したトータルコストでの採算性を検証」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+  - 「これらのコスト要素を積み上げたトータルコストで採算性を検証することが不可欠です」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+  - 「その一方で、採算性や品質規格への対応、材料特性に応じた造形条件の最適化など、導入にあたっての検討課題も存在します」（https://jampt.jp/column/3d-printer-aircraft/・1回目）
+- 存続：
+  - 「マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる」（https://www.nikkei.com/article/DGXZQOCC282SK0Y5A920C2000000/・3回目）
+- 検索結果の抜粋：
+  - 「日本積層造形 株式会社: 金属 3Dプリンター のAM技術による ... — 日本積層造形 株式会社: 金属 3Dプリンター のAM技術による ... 日本積層造形株式会社 https://jampt.jp」（https://jampt.jp/・3回目）
+  - 「金属 3Dプリンター で技術革新を支える～ 日本積層造形 株式会社 — 金属 3Dプリンター で技術革新を支える～ 日本積層造形 株式会社 宮城県産業技術総合センター https://www.mit.pref.miyagi.jp > voice > jampt_interview」（https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/・3回目）
+  - 「日本積層造形 株式会社（JAMPT）【公式】 (@jampt_official) / X — 日本積層造形 株式会社（JAMPT）【公式】 (@jampt_official) / X X https://x.com > jampt_official」（https://x.com/jampt_official・3回目）
+  - 「日本積層造形 株式会社（JAMPT） - 双日 — 日本積層造形 株式会社（JAMPT） - 双日 双日株式会社 https://www.sojitz.com > ... > 主要グループ会社」（https://www.sojitz.com/jp/corporate/group/company_13006.html・3回目）
+  - 「3D 印刷の 日本積層造形 、新棟が竣工 世界最先端の技術実証に ... — 3D 印刷の 日本積層造形 、新棟が竣工 世界最先端の技術実証に ... 日本経済新聞 https://www.nikkei.com > ビジネス > 素材」（https://www.nikkei.com/article/DGXZQOCC282SK0Y5A920C2000000/・3回目）
+  - 「日本積層造形 株式会社 代表取締役社長 大竹 卓也 — 日本積層造形 株式会社 代表取締役社長 大竹 卓也 リージョナルキャリア宮城 https://rs-miyagi.net > change > 202601_jampt」（https://rs-miyagi.net/change/202601_jampt.html・3回目）
+  - 「会社案内 - 日本積層造形株式会社 — 会社案内 - 日本積層造形株式会社 日本積層造形株式会社 https://jampt.jp > company」（https://jampt.jp/company/・3回目）
+  - 「日本積層造形 株式会社 の【転勤・夜勤無／双日G】装置 ... — 日本積層造形 株式会社 の【転勤・夜勤無／双日G】装置 ... パソナキャリア https://www.pasonacareer.jp > ... > 設備保全」（https://www.pasonacareer.jp/job/81067241/・3回目）
+  - 「日本積層造形 株式会社の情報 - 官報決算データベース — 日本積層造形 株式会社の情報 - 官報決算データベース 官報決算データベース https://catr.jp > companies」（https://catr.jp/companies/f0e60/63396・3回目）
+  - 「日本積層造形 株式会社 - スピーダ スタートアップ情報リサーチ — 日本積層造形 株式会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-31435・3回目）
+  - 「技術コラム「金属 3Dプリンター は航空機部品に使える？金属 ... — 技術コラム「金属 3Dプリンター は航空機部品に使える？金属 ... 日本積層造形株式会社 https://jampt.jp > ニュース」（https://jampt.jp/info-4006/・3回目）
+  - 「会社 案内 - 日本積層造形株式会社 — 会社 案内 - 日本積層造形株式会社 日本積層造形株式会社 https://jampt.jp > company」（https://jampt.jp/company/・3回目）
+- 設立：記載なし（3回確認済み：公式27頁／PDF・画像1件／外部31頁・検索13回）
+
 ## 日本電子株式会社
 - 公式URL：https://www.jeol.co.jp（given）
 - 創業年度：設立：1949年 （ 昭和 24年） 5月30日 （株式会社日本電子光学研究所）（https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90・3回目）
@@ -964,6 +2156,313 @@
   - 「IR情報（株主・投資家の皆様へ） | JEOL 日本電子 株式会社 — IR情報（株主・投資家の皆様へ） | JEOL 日本電子 株式会社 日本電子株式会社 https://www.jeol.co.jp > ...」（https://www.jeol.co.jp/ir/・3回目）
   - 「決算 短信 | IR情報 (株主・投資家の皆様へ) | JEOL 日本電子 株式 ... — 決算 短信 | IR情報 (株主・投資家の皆様へ) | JEOL 日本電子 株式 ... 日本電子株式会社 https://www.jeol.co.jp > financial_results」（https://www.jeol.co.jp/ir/financial_results/・3回目）
 - 設立：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部26頁・検索12回）
+
+## 株式会社IHI
+- 公式URL：https://www.ihi.co.jp（given）
+- 創業年度：創業：嘉永6年（1853年）12月5日 水戸藩 徳川斉昭が幕命により江戸・石川島の地に造船所を創設した日（https://www.ihi.co.jp/company/outline/・1回目）
+- 創業年度：設立：1889年（明治22年）1月17日 有限責任石川島造船所が設立された日（https://www.ihi.co.jp/company/outline/・1回目）
+- 創業年度：設立：1889年 （明治22年） 1月17日 （有限責任石川島造船所）（https://ja.wikipedia.org/wiki/IHI・3回目）
+- 株主：28.4%（＋1.5pt）（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf・2回目）
+- 株主：26.9%（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf・2回目）
+- 株主：親会社の所有者に帰属する持分／負債・資本合計（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf・2回目）
+- 従業員数：26,224人（2026年3月末）（https://www.ihi.co.jp/company/outline/・1回目）
+- 従業員数：連結:26,224名 単独:7,911名 （2026年3月31日現在）（https://ja.wikipedia.org/wiki/IHI・3回目）
+- 所在地：〒135-8710 東京都江東区豊洲三丁目1-1 豊洲IHIビル TEL　03-6204-7800（代表） Googleマップで見る（https://www.ihi.co.jp/company/outline/・1回目）
+- 所在地：日本 〒 135-8710 東京都 江東区 豊洲 三丁目1番1号 豊洲IHIビル（https://ja.wikipedia.org/wiki/IHI・3回目）
+- 売上高：1兆6,434億円（2026年3月期）（https://www.ihi.co.jp/company/outline/・1回目）
+- 売上高：連結:1兆6,434億200万円 単独:7,425億100万円 （2026年3月期）（https://ja.wikipedia.org/wiki/IHI・3回目）
+- 代表者：代表取締役社長　井手　博（https://www.ihi.co.jp/company/outline/・1回目）
+- 代表者：代表取締役 社長 兼 CEO 井手博 代表取締役 副社長 兼副社長執行役員 盛田英夫 代表取締役副社長兼副社長執行役員 小林淳 代表取締役副社長兼副社長執行役員 佐藤篤（https://ja.wikipedia.org/wiki/IHI・3回目）
+- 参入の時期と形：
+  - 「ペリー来航による欧米列強への対抗に迫られた幕府が、水戸藩に造船所設立を指示」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「平野富二が海軍省から石川島修船場の跡地を借用し、石川島平野造船所を設立」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「兵庫県相生村（現在の相生市）村長、唐端清太郎が設立」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「自動車部門分離、株式会社石川島自動車製作所設立」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「芝浦製作所（現株式会社東芝）と共同で石川島芝浦タービン株式会社設立」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「芝浦製作所（現株式会社東芝）、米ユナイテッド・エンジニアリング社と共同で芝浦共同工業株式会社設立」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「石川島芝浦タービン株式会社の株式会社東芝への吸収合併に伴い、石川島芝浦精機株式会社を設立（のちに合併）」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「日本航空機エンジン協会を設立（三菱重工業株式会社、川崎重工業株式会社と共同）」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「日、英、米、独、伊5ヵ国による民間機用エンジン（V2500）の開発でインターナショナル・エアロエンジンズ社設立」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「ディーゼルエンジン部門を分離し、株式会社ディーゼルユナイテッドを設立」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「住友重機械工業株式会社と共同で株式会社マリン ユナイテッドを設立」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「製紙機械部門を分社化し、独・フォイト社と合弁で株式会社アイ・エイチ・アイ フォイト ペーパーテクノロジーを設立」（https://www.ihi.co.jp/company/history/・1回目）
+- 撤退・縮小の時期と理由：
+  - 「セメントプラント事業をカワサキプラントシステムズ株式会社へ譲渡し、事業の選択と集中を進める」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「JEIが保有するEASへの出資持分の全てについてEASの株主であるCamargo Corrêa グループ及びQueiroz Galvão グループに譲渡することについて合意（平成28年４月に譲渡）」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「IHI建機株式会社の全株式について株式会社加藤製作所に譲渡」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「愛知工場についてF-LNG・海洋構造物の受注済案件の完工後、生産拠点としての機能を終了することを決定」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「舶用機械事業について株式会社相浦機械へ事業譲渡」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「株式会社IHIプラントの医薬品製造プラント事業を日揮株式会社へ譲渡」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「株式会社IHI技術教習所の全株式を株式会社PEO建機教習センタへ譲渡」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「株式会社IHI原動機の舶用大型エンジン事業を株式会社三井E＆Sホールディングスへ譲渡」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「株式会社IHI汎用ボイラの株式を株式会社タクマへ譲渡」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「株式会社IHIアグリテックの芝草・芝生管理機器事業を株式会社共栄社に譲渡」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「IHI運搬機械株式会社の運搬システム事業を株式会社タダノに譲渡」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「株式会社IHI建材工業の株式を株式会社ベルテクスコーポレーションに譲渡」（https://www.ihi.co.jp/company/history/・1回目）
+- 参入しない・慎重な理由の発言：
+  - 「社会課題に果敢に挑戦し、技術の力で」（https://www.ihi.co.jp/・1回目）
+  - 「実現すること、そのために社会課題を」（https://www.ihi.co.jp/・1回目）
+  - 「嘉永6年から続く歴史をバックグラウンドに新しい課題に取り組む」（https://www.ihi.co.jp/・1回目）
+  - 「世界的な電力需要の増加が続くなか、原子力発電は脱炭素とエネルギー安全保障の両立に資する、信頼性の高い低炭素電源として、改めて注目を集めています」（https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202241_13799.html・1回目）
+  - 「新設原子力発電所プロジェクトは世界各地で計画・開発が進められており、今後もさらなる需要拡大が見込まれています」（https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202241_13799.html・1回目）
+  - 「常にお客さまの近くでお困りごとや課題を受け止め、エンジニアリング、アフターサービスや省エネなどの最適なソリューションを提供しています」（https://www.ihi.co.jp/company/business/industrial_general_machine/・1回目）
+  - 「これからも、社会インフラのプロフェッショナルとして困難な課題に挑み、」（https://www.ihi.co.jp/company/・1回目）
+  - 「IHIグループは、1853年の創業以来、「技術をもって社会の発展に貢献する」「人材こそが最大かつ唯一の財産である」という経営理念のもと、時代とともに技術を磨き、社会や産業の要請に応え続けてきました」（https://www.ihi.co.jp/company/topmessage/・1回目）
+  - 「地球環境の変化や地政学リスクの高まりにより、エネルギーやインフラを取り巻く不確実性が増す中、人々の暮らしや産業活動を支える基盤の重要性は、これまで以上に高まっています」（https://www.ihi.co.jp/company/topmessage/・1回目）
+  - 「技術戦略室長、グループ技術戦略担当、グループ品質保証担当、」（https://www.ihi.co.jp/company/executivelist/・1回目）
+  - 「セキュリティ機器、メカトロニクス、制御・監視システム、検査･計測装置の開発、設計、製造、保守」（https://www.ihi.co.jp/company/offices/・1回目）
+  - 「各種非破壊検査装置などの設計・製造・販売・据付・修理・保守」（https://www.ihi.co.jp/company/offices/・1回目）
+- AMの規模：
+  - 「ポーランド初の原子力発電所向け機器の先行手配品を受注」（https://www.ihi.co.jp/・1回目）
+  - 「石川島芝浦精機株式会社および芝浦ミシン株式会社と合併（資本金154億円）」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「名古屋造船株式会社および名古屋重工業株式会社と合併（資本金240億円）」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「愛知工場についてF-LNG・海洋構造物の受注済案件の完工後、生産拠点としての機能を終了することを決定」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「民間航空エンジンの整備拠点として鶴ヶ島工場が稼働開始」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「ポーランド初の原子力発電所向け機器の先行手配品を受注 | 2026年度 | ニュース | 株式会社IHI」（https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202241_13799.html・1回目）
+  - 「ポーランド初の原子力発電所向け機器の先行手配品を受注」（https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202241_13799.html・1回目）
+  - 「IHIは、このたび、米国ウェスチングハウス社より、ポーランド国営の原子力発電会社Polskie Elektrownie Jądrowe（PEJ：ポルスキェ・エレクトロヴニェ・ヨンドロヴェ）がポーランド北部のLubiatowo-Kopalino（ルビアトボ・コパリノ）地区に建設予定である同国初の原子力発電所向けに、原子炉格納容器1基および大型鋼製モジュールの供給に必要な設計業務・先行材料手配を受注しました」（https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202241_13799.html・1回目）
+  - 「シンガポールに本社を置き、アジア、ヨーロッパ、中東、米国に拠点を構え、100カ国以上の顧客に対応しています」（https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202227_13799.html・1回目）
+  - 「全国に170ヵ所以上あるサービス拠点により納入した機械の保守・点検、使用状況に応じた改修の提案を行うことで、製品のライフサイクル全般にわたる最適なソリューションをご提案します」（https://www.ihi.co.jp/company/business/industrial_general_machine/・1回目）
+  - 「米国、欧州、タイ、中国にも開発、生産、販売拠点を持ち、ワールドワイドに事業を展開しています」（https://www.ihi.co.jp/company/business/industrial_general_machine/・1回目）
+  - 「エンジン整備でもアジアにおける主要拠点として高い評価を得ています」（https://www.ihi.co.jp/company/business/aeroengine_space_defense/・1回目）
+- 客の業界：
+  - 「私たちIHIは、「資源・エネルギー・環境」「社会基盤」「産業システム・汎用機械」「航空・宇宙・防衛」の4つの事業分野を中心に価値を提供しています」（https://www.ihi.co.jp/・1回目）
+  - 「先進技術により、航空輸送、防衛システムおよび宇宙利用の未来を切り拓き、豊かで安全な社会の実現に貢献する」（https://www.ihi.co.jp/・1回目）
+  - 「のちの立飛企業株式会社、新立川航空機株式会社」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「自動車部門分離、株式会社石川島自動車製作所設立」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「のちにいくつかの合併を経て、いすゞ自動車株式会社に」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「石川島重工業株式会社と株式会社播磨造船所とが合併、石川島播磨重工業株式会社発足」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「右が石川島重工業の土光敏夫社長、左は播磨造船所の六岡周三社長」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「名古屋造船株式会社および名古屋重工業株式会社と合併（資本金240億円）」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「日本航空機エンジン協会を設立（三菱重工業株式会社、川崎重工業株式会社と共同）」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「宇宙開発事業を株式会社アイ・エイチ・アイ・エアロスペースに統合」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「社名を石川島播磨重工業株式会社から株式会社IHIに変更」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「エネルギー事業本部を廃止し、エネルギーシステムセクターと原子力セクターを新設」（https://www.ihi.co.jp/company/history/・1回目）
+- 素材：
+  - 「IHIは、カーボンニュートラル社会の実現とエネルギー安全保障への貢献を目指し、クリーンエネルギー分野における事業基盤の強化や供給能力の拡充を推進しています」（https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202227_13799.html・1回目）
+  - 「主要製品：カーボンソリューション、LNG受入基地・貯蔵タンク、プロセスプラント、プラント構成機器、原子力、ガスタービン・ガスエンジン・ディーゼルエンジン・推進装置」（https://www.ihi.co.jp/company/philosophy/・1回目）
+  - 「成長事業へ経営資源を集中させるため、本年９月 28日には、当社カーボンソリューション 事業のドイツ子会社」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「当社の海外におけるカーボンソリューション事業の構造改革の一環であり、当社は、成長領域への経営資源のシフ」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「損益面では、営業利益は、民間向け航空エンジンの需要拡大、国内カーボンソリューション・原動機のライフサ」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「活用に至るまでのバリューチェーン 構築を推進することで、カーボンフリー 社会の実現に貢献していきます」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「連の構造改革については、本年10月にカーボンソリューション事業のドイツ子会社を譲渡したことで一定の目途が」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「資源・エネルギー・環境 原動機（陸用原動機プラント、舶用原動機）、カーボンソリューション、原子力（原子力機器）」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「当社は、海外におけるカーボンソリューション事業の 構造改革の一環として、2026年９月28日に 連結子会社の」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「民間エンジンの需要拡大に加えて、カーボンソリューション・原動機のLCB拡大により大幅増益」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf・2回目）
+  - 「✓ カーボンソリューション、原動機等、」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf・2回目）
+  - 「2026.2.2 カーボンソリューション事業 常石鉄工株式会社に寿鉄工株式会社株式100％が譲渡完了（2026年2月1日）」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf・2回目）
+- 株主構成：
+  - 「第209回定時株主総会を開催しました」（https://www.ihi.co.jp/・1回目）
+  - 「当社は、2026年6月24日(水)に第209回定時株主総会を開催いたしました」（https://www.ihi.co.jp/・1回目）
+  - 「JEIが保有するEASへの出資持分の全てについてEASの株主であるCamargo Corrêa グループ及びQueiroz Galvão グループに譲渡することについて合意（平成28年４月に譲渡）」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「木質バイオマスによる発電事業を展開する、七ツ島バイオマスパワー合同会社を出資会社８社とともに設立」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「IRニュース | 株主・投資家情報 | 株式会社IHI」（https://www.ihi.co.jp/ir/news/・1回目）
+  - 「第209回定時株主総会 株主さまからいただいた質問への回答を掲載しました」（https://www.ihi.co.jp/ir/news/・1回目）
+  - 「第209回定時株主総会の動画を掲載しました」（https://www.ihi.co.jp/ir/news/・1回目）
+  - 「第209回定時株主総会を開催いたしました」（https://www.ihi.co.jp/ir/news/・1回目）
+  - 「主要株主の異動に関するお知らせ(265 KB)」（https://www.ihi.co.jp/ir/news/・1回目）
+  - 「個⼈投資家の皆さまへ | 株主・投資家情報 | 株式会社IHI」（https://www.ihi.co.jp/ir/individual_owner/・1回目）
+  - 「ＩＨＩグループへのご理解を深めていただく機会として、株主さま向けの工場見学会等を開催しています」（https://www.ihi.co.jp/ir/individual_owner/・1回目）
+  - 「・募集対象：2026年３月末時点で100株以上保有の株主さま」（https://www.ihi.co.jp/ir/individual_owner/・1回目）
+- 創業年度：
+  - 「1853 年の創業以来、私たちは社会の」（https://www.ihi.co.jp/・1回目）
+  - 「ペリー来航による欧米列強への対抗に迫られた幕府が、水戸藩に造船所設立を指示」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「平野富二が海軍省から石川島修船場の跡地を借用し、石川島平野造船所を設立」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「兵庫県相生村（現在の相生市）村長、唐端清太郎が設立」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「自動車部門分離、株式会社石川島自動車製作所設立」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「芝浦製作所（現株式会社東芝）と共同で石川島芝浦タービン株式会社設立」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「芝浦製作所（現株式会社東芝）、米ユナイテッド・エンジニアリング社と共同で芝浦共同工業株式会社設立」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「石川島芝浦タービン株式会社の株式会社東芝への吸収合併に伴い、石川島芝浦精機株式会社を設立（のちに合併）」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「日本航空機エンジン協会を設立（三菱重工業株式会社、川崎重工業株式会社と共同）」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「日、英、米、独、伊5ヵ国による民間機用エンジン（V2500）の開発でインターナショナル・エアロエンジンズ社設立」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「ディーゼルエンジン部門を分離し、株式会社ディーゼルユナイテッドを設立」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「住友重機械工業株式会社と共同で株式会社マリン ユナイテッドを設立」（https://www.ihi.co.jp/company/history/・1回目）
+- 売上：
+  - 「石川島芝浦精機株式会社および芝浦ミシン株式会社と合併（資本金154億円）」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「名古屋造船株式会社および名古屋重工業株式会社と合併（資本金240億円）」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「1,071億円」（https://www.ihi.co.jp/company/outline/・1回目）
+  - 「1兆6,434億円（2026年3月期）」（https://www.ihi.co.jp/company/outline/・1回目）
+  - 「各項目の金額は億円未満を切り捨てて表示しています」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「売上収益 営業利益 税引前中間利益 中間利益 親会社の所有者に帰属する中間利益 中間包括利益合計額」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％ 円 銭」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「売上収益については、前期に複数の事業を譲渡した影響 による減収はあるものの、民間向 け航空エンジン・防」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「衛・原子力といった成長事業の拡大などにより、9.2％増の7,793億円となりました」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「イクルビジネス拡大、及び不動産譲渡利益の計上により、455億円増益の1,149億円となりました」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+- 黒字・収益性：
+  - 「売上収益 営業利益 税引前中間利益 中間利益 親会社の所有者に帰属する中間利益 中間包括利益合計額」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「損益面では、営業利益は、民間向け航空エンジンの需要拡大、国内カーボンソリューション・原動機のライフサ」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「2026年度から2028年度までの３か年は、2029年度以降の営業利益・営業キャッシュ・フ」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「ビジネスの実績などを踏まえ、受注高は1兆8,900億円、売上収益は１兆8,800億円、営業利益は2,700億円、税引前」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「営業利益 69,449 114,979」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「３．セグメント利益又は損失（△）は、要約中間連結損益計算書の営業利益又は営業損失（△）と調整を行な」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf・2回目）
+  - 「営業利益 1,149億円（14.8％） 849億円 営業CF ▲650億円当期利益」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf・2回目）
+  - 「受注高 7,787億円 不動産売却除く営業利益」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf・2回目）
+  - 「営業利益 2,700億円（14.4％） 1,850億円 営業CF 1,000億円」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf・2回目）
+  - 「不動産売却除く営業利益（率） (9.2%) 656 (9.3%) 723 (＋0.1pt) +67」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf・2回目）
+  - 「（参考）一時要因除く営業利益：実力ベースの収益力が向上」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf・2回目）
+- 存続：
+  - 「褐炭焚きボイラ市場への早期参入を目的として、Steinmuller Engineering GmbHを買収」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「総合熱処理受託サービスを行なうドイツのVTN Beteiligungsgesellschaft GmbH（現 IHI VTN GmbH）を買収し完全子会社化」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「舶用機械事業について株式会社相浦機械へ事業譲渡」（https://www.ihi.co.jp/company/history/・1回目）
+  - 「IHIプラントにおける粉体関連設備の事業譲渡に関するお知らせ」（https://www.ihi.co.jp/all_news/・1回目）
+  - 「事業譲渡損益 113 ▲140 ▲253」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf・2回目）
+  - 「✓ 前期事業譲渡 ▲113」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf・2回目）
+  - 「2026.2.10 カーボンソリューション事業（海外） IHI Energy Solutions Inc. の清算プロセス（従業員解雇等）を開始（2026年1月12日）2025年度内に実質清算完了」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf・2回目）
+  - 「2026.5.8 カーボンソリューション事業（海外） IHI SOLID BIOMASS MALAYSIA SDN.BHD. の清算プロセスを開始」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf・2回目）
+  - 「※1：’25.2Qの為替影響+22、’26.2Qの為替影響+156の差分 ※2：前期事業譲渡損益の反動▲113を含む」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf・2回目）
+  - 「（注２）事業譲渡・セグメント変更による影響のあるコンクリート建材、交通システム、運搬機械、および都市開発は過去実績から除いている」（https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf・2回目）
+  - 「Acquired by lIshikawajima-Shibaura Okaya-」（https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/80de7d0533db6ceb1f617d56f0760688.pdf・2回目）
+  - 「Merged with lKonishi Farn Machinaryz(Date-city),」（https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/80de7d0533db6ceb1f617d56f0760688.pdf・2回目）
+- 検索結果の抜粋：
+  - 「最新技術と匠の技を融合する - IHI — 最新技術と匠の技を融合する - IHI 株式会社IHI PDF https://www.ihi.co.jp > afieldfile > 2023/06/16」（https://www.ihi.co.jp/technology/techinfo/contents_no/__icsFiles/afieldfile/2023/06/16/5dc746c90070b6fb78651b86399ac91d.pdf・3回目）
+  - 「IHI 、車用過給器に100億円投資−試作期間半減など ... — IHI 、車用過給器に100億円投資−試作期間半減など ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/403635・3回目）
+  - 「IHI 系、米 3Dプリンター に出資 ロケットに活用 - 日本経済新聞 — IHI 系、米 3Dプリンター に出資 ロケットに活用 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGKKZO79127130Q4A310C2TB0000/・3回目）
+  - 「IHI 、金属 3Dプリント 企業に出資 | 3DP id.arts — IHI 、金属 3Dプリント 企業に出資 | 3DP id.arts アイディーアーツ株式会社 https://idarts.co.jp > Home > 最新情報」（https://idarts.co.jp/3dp/3deo-partner-ihi-aerospace/?srsltid=AYCX9vK6SKOvz2XyrhTycND6fE9VADfMOQJ_FTvE_j9jI6HVAfE0MzRe・3回目）
+  - 「IHI が食品 3Dプリンタ の開発に挑戦、将来は宇宙ステーション ... — IHI が食品 3Dプリンタ の開発に挑戦、将来は宇宙ステーション ... MONOist https://monoist.itmedia.co.jp > articles > news086」（https://monoist.itmedia.co.jp/mn/articles/2309/21/news086.html・3回目）
+  - 「IHI ・産総研が次世代 3Dプリンター 鋳物部品も量産 — IHI ・産総研が次世代 3Dプリンター 鋳物部品も量産 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXNZO55584170Z20C13A5TJ1000/・3回目）
+  - 「事業 状況 | 経営情報 | 株主・投資家情報 | 株式会社 IHI — 事業 状況 | 経営情報 | 株主・投資家情報 | 株式会社 IHI 株式会社IHI https://www.ihi.co.jp > 株主・投資家情報 > 経営情報」（https://www.ihi.co.jp/ir/management/business_summary/・3回目）
+  - 「財務・業績情報 | 株主・投資家情報 | 株式会社 IHI — 財務・業績情報 | 株主・投資家情報 | 株式会社 IHI 株式会社IHI https://www.ihi.co.jp > 株主・投資家情報」（https://www.ihi.co.jp/ir/financial_performance/・3回目）
+  - 「株式会社 IHI （70130）の財務分析 - EDINET DB — 株式会社 IHI （70130）の財務分析 - EDINET DB EDINET DB https://edinetdb.jp > 機械」（https://edinetdb.jp/company/E02128・3回目）
+  - 「事業 概況 - IHI — 事業 概況 - IHI 株式会社IHI PDF https://www.ihi.co.jp > library > annual > pdf」（https://www.ihi.co.jp/ir/library/annual/pdf/2025/ch1-17.pdf・3回目）
+  - 「決算: IHI が3年連続最高益 27年3月期、航空・防衛好調 — 決算: IHI が3年連続最高益 27年3月期、航空・防衛好調 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOUB01AAU0R00C26A5000000/・3回目）
+  - 「株式会社 IHI #01｜「何を成し遂げたいか」を常に問う、未来 ... — 株式会社 IHI #01｜「何を成し遂げたいか」を常に問う、未来 ... Sony Acceleration Platform https://sony-acceleration-platform.com > article1629」（https://sony-acceleration-platform.com/article1629.html・3回目）
+- 設立：記載なし（3回確認済み：公式28頁／PDF・画像16件／外部39頁・検索12回）
+
+## 株式会社NCネットワーク
+- 公式URL：https://ncnfactory.jp/（search:yahoo_jp:NCネットワーク）
+- 創業年度：設立：2020年2月 (前身のNCネットワーク加工事業部は2000年にスタート）（https://ncnfactory.jp/about/・1回目）
+- 創業年度：設立：1998年2月（https://corporate.nc-net.com/company/・3回目）
+- 創業年度：設 立：2012年9月（https://www.ncnetwork-us.com/about-us/・3回目）
+- 所在地：東京都千代田区麹町3−1 麹町昭文社HDビル 2F MAP TEL: 03-6261-7233　FAX: 03-6261-7244（https://ncnfactory.jp/about/・1回目）
+- 所在地：東京都台東区柳橋１丁目４－４ ツイントラスビル８階（https://ncnfactory.jp/spun-off-processing-business-division-and-expanded-business/・1回目）
+- 所在地：愛知県刈谷市小垣江町永田47番地（https://corporate.nc-net.com/2024/03/12/factory_telmic/・3回目）
+- 代表者：代表取締役社長　角田洋晴（https://ncnfactory.jp/about/・1回目）
+- 代表者：代表取締役社長 内原康雄（https://ncnfactory.jp/spun-off-processing-business-division-and-expanded-business/・1回目）
+- 代表者：代表取締役社長 角田洋晴（https://ncnfactory.jp/spun-off-processing-business-division-and-expanded-business/・1回目）
+- 参入の時期と形：
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/about-two/93df3728-cd14-4023-afe3-f2c643ca331f/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/about-two/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/partner/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/about/・1回目）
+  - 「ＮＣネットワーク アメリカ（NC Network, Inc.）をカリフォルニア・トーランスに設立」（https://ncnfactory.jp/about/・1回目）
+  - 「㈱NCネットワークより加工事業を分社化 株式会社ＮＣネットワークファクトリー設立」（https://ncnfactory.jp/about/・1回目）
+  - 「ＮＣネットワーク・アメリカ（NC Network,Inc.カリフォルニア州トーランス市）を設立、President就任（兼務）」（https://ncnfactory.jp/about/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/news/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/category/uncategorized/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/new3dprinter/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/pp_penchiresu/・1回目）
+- 撤退・縮小の時期と理由：
+  - 「会場を広げても出展が集まるのは、それだけ需要があるということでしょうか」（https://infobank-vn.com/manufacturing/nc-network/・3回目）
+- 参入しない・慎重な理由の発言：
+  - 「株式会社 NCネットワークファクトリー – 18,000社の製造業ネットワークで試作開発から量産までサポートします」（https://ncnfactory.jp/・1回目）
+  - 「18,000社の製造業ネットワークで試作開発から量産までサポートします」（https://ncnfactory.jp/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/・1回目）
+  - 「最適な設計支援、試作品製造、安定量産、そして機種打ち切り後のサービスパーツ対応まで すべて一貫で対応します」（https://ncnfactory.jp/・1回目）
+  - 「今後、弊社のネットワークによるものづくり支援が、皆様の課題解決に貢献出来たら幸いです」（https://ncnfactory.jp/・1回目）
+  - 「１．スーパーカーの高難度・少量量産部品」（https://ncnfactory.jp/・1回目）
+  - 「（画像は左から、車載Liバッテリーアルミ深絞り角型セル、アルミ・グラビティ鋳造、特殊な「鋳造＋鍛造」＋機械加工＋Heリーク検査、アルミ砂型鋳造による排気系部品の量産、PPS+GF40 バスバー・インサート成形）」（https://ncnfactory.jp/・1回目）
+  - 「まだまだ水素ステーションの数は限られており、水素単価も少し上昇しておりますが、それらのネガ要素を上回るポジ要素として、本車両はＥＶ充電で約５０ｋｍの走行が可能になりました」（https://ncnfactory.jp/・1回目）
+  - 「の皆様、ならびに、新機種・量産品質保証のためのサポートいただいたHonda品質部門の皆様、その他の多くの関係者の皆様に厚く御礼を申し上げます」（https://ncnfactory.jp/・1回目）
+  - 「これからも我々の生活を豊かにしてくれたものづくりへの感謝を忘れず、今後も、設計支援、試作品製造、最適な工法選定、安定量産、サービスパーツ対応まで、全力で貢献してまいります」（https://ncnfactory.jp/・1回目）
+  - 「NCネットワークファクトリーは、自動車の電動化に伴い、市場が未成熟だった時期から砂型鋳造や機械加工部品の供給を始め、市場成長に合わせてより量産性の高い方法に切り替えてきました」（https://ncnfactory.jp/・1回目）
+  - 「NCネットワークファクトリーは、CATIA V5を使った最適な設計支援から、試作品製造、安定量産、機種打ち切り後のサービスパーツ対応まで一貫して対応しています」（https://ncnfactory.jp/・1回目）
+- AMの規模：
+  - 「15,000社以上のエミダス会員の膨大な顧客データベースを母体に、NCネットワークファクトリーが受注窓口となり、お客様の従来の取引先だけでは調達が難しい分野（少量量産ながら品質・コストでの安定調達、次世代自動車に使われる新部品、CASE対応といった新分野や新素材など）について業界や地域にとらわれず企業連携にて対応しております」（https://ncnfactory.jp/about/・1回目）
+  - 「3Dプリンター / 3D Printer」（https://ncnfactory.jp/about/・1回目）
+  - 「これまで社内で活用してきました3Dプリンター(Flashforge Guider2) より、３Dプリントのきめが細かいため、精密なつくりのサンプルも見やすくなりました」（https://ncnfactory.jp/news/・1回目）
+  - 「これまで社内で活用してきました3Dプリンター(Flashforge Guider2) より、３Dプリントのきめが細かいため、精密なつくりのサンプルも見やすくなりました」（https://ncnfactory.jp/category/uncategorized/・1回目）
+  - 「これまで社内で活用してきました3Dプリンター(Flashforge Guider2) より、３Dプリントのきめが細かいため、精密なつくりのサンプルも見やすくなりました」（https://ncnfactory.jp/new3dprinter/・1回目）
+  - 「加工事業部門の年間売上高は約12億円（2019年10月期）でしたが、分社化により初年度15億円、3年目には30億円を目指します」（https://ncnfactory.jp/spun-off-processing-business-division-and-expanded-business/・1回目）
+  - 「現在は約200社の中小製造業の協力工場契約を行い、約70社前後の大手メーカーと取引しており、直近５年間での売上総額は約100億円前後と、中小企業連携による共同受注の事例としては日本最大級の規模となっております」（https://ncnfactory.jp/spun-off-processing-business-division-and-expanded-business/・1回目）
+  - 「これまで社内で活用してきました3Dプリンター(Flashforge Guider2) より、３Dプリントのきめが細かいため、精密なつくりのサンプルも見やすくなりました」（https://ncnfactory.jp:443/category/uncategorized/・1回目）
+  - 「門型機および、3次元積層造形LAMDAシリーズの」（https://ja.nc-net.or.jp/company/104601/product/detail/247392・3回目）
+  - 「5年で売上高10倍を達成！製造現場のDX化が進む “ものづくりエンターテイナー”テルミックの工場見学会を開催 - 株式会社NCネットワーク」（https://corporate.nc-net.com/2024/03/12/factory_telmic/・3回目）
+  - 「5年で売上高10倍を達成！製造現場のDX化が進む “ものづくりエンターテイナー”テルミックの工場見学会を開催」（https://corporate.nc-net.com/2024/03/12/factory_telmic/・3回目）
+  - 「リーマンショックを転機として改革を実行した結果、2014年から5年間で売上高は約10倍に」（https://corporate.nc-net.com/2024/03/12/factory_telmic/・3回目）
+- 客の業界：
+  - 「株式会社 NCネットワークファクトリー – 18,000社の製造業ネットワークで試作開発から量産までサポートします」（https://ncnfactory.jp/・1回目）
+  - 「18,000社の製造業ネットワークで試作開発から量産までサポートします」（https://ncnfactory.jp/・1回目）
+  - 「試作部品の製造 / Prototype Parts」（https://ncnfactory.jp/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/・1回目）
+  - 「最適な設計支援、試作品製造、安定量産、そして機種打ち切り後のサービスパーツ対応まで すべて一貫で対応します」（https://ncnfactory.jp/・1回目）
+  - 「次世代自動車、工作機械、医療機器…」（https://ncnfactory.jp/・1回目）
+  - 「水素燃料電池車、自動運転、クリーンエネルギー、植物工場、無人配送システム、未来の新しいものづくりに全力で臨みます」（https://ncnfactory.jp/・1回目）
+  - 「今回の場所が自動車メーカー様のブースの近くということもあり、多数の車載燃料電池開発の皆様にお立ち寄り頂きました」（https://ncnfactory.jp/・1回目）
+  - 「１．スーパーカーの高難度・少量量産部品」（https://ncnfactory.jp/・1回目）
+  - 「（画像は左から、車載Liバッテリーアルミ深絞り角型セル、アルミ・グラビティ鋳造、特殊な「鋳造＋鍛造」＋機械加工＋Heリーク検査、アルミ砂型鋳造による排気系部品の量産、PPS+GF40 バスバー・インサート成形）」（https://ncnfactory.jp/・1回目）
+  - 「昨年は、従来からの水素燃料電池自動車関連を中心に車載Liバッテリー関連、医療・手術・生体実験関連、宇宙ロケット・人工衛星関連の加工部品のお取引を頂きまして有難うございました」（https://ncnfactory.jp/・1回目）
+  - 「燃料電池自動車 Honda CR-V eFCEVを導入しました We have introduced Honda CR-V eFCEV」（https://ncnfactory.jp/・1回目）
+- 素材：
+  - 「２．燃料電池車部品の最新加工技術事例（アルミ鋳造＋鍛造、軸シール用樹脂ジョイントパイプ、MEA溶着）」（https://ncnfactory.jp/・1回目）
+  - 「（画像は左から、車載Liバッテリーアルミ深絞り角型セル、アルミ・グラビティ鋳造、特殊な「鋳造＋鍛造」＋機械加工＋Heリーク検査、アルミ砂型鋳造による排気系部品の量産、PPS+GF40 バスバー・インサート成形）」（https://ncnfactory.jp/・1回目）
+  - 「ダイカストやグラビティ重力鋳造などの高級アルミ鋳造技術や高強度スーパーエンプラによる精密成形、バスバーインサート成形などは、薄型・軽量・高強度・高機能の製品に貢献しています」（https://ncnfactory.jp/・1回目）
+  - 「高品位のアルミ鋳造による電気自動車のVCUケースを製造」（https://ncnfactory.jp/・1回目）
+  - 「一眼レフカメラの樹脂部品、金属部品とレンズ一式組立」（https://ncnfactory.jp/・1回目）
+  - 「一眼レフカメラの高精度樹脂部品の試作金型での短納期での供給が可能です」（https://ncnfactory.jp/・1回目）
+  - 「高品位のアルミ鋳造による電気自動車のVCUケースを製造」（https://ncnfactory.jp/about-two/93df3728-cd14-4023-afe3-f2c643ca331f/・1回目）
+  - 「一眼レフカメラの高精度樹脂部品の試作金型での短納期での供給が可能です」（https://ncnfactory.jp/about-two/93df3728-cd14-4023-afe3-f2c643ca331f/・1回目）
+  - 「高品位のアルミ鋳造による電気自動車のVCUケースを製造」（https://ncnfactory.jp/about-two/・1回目）
+  - 「一眼レフカメラの高精度樹脂部品の試作金型での短納期での供給が可能です」（https://ncnfactory.jp/about-two/・1回目）
+  - 「高品位のアルミ鋳造による電気自動車のVCUケースを製造」（https://ncnfactory.jp/partner/・1回目）
+  - 「一眼レフカメラの高精度樹脂部品の試作金型での短納期での供給が可能です」（https://ncnfactory.jp/partner/・1回目）
+- 株主構成：
+  - 「（本社：東京都台東区、代表取締役社長：内原康雄、以下ＮＣネットワーク）は、このほど加工事業部門を分社化し、全額出資の子会社として株式会社ＮＣネットワークファクトリー（本社：同上、代表取締役：角田洋晴、以下ＮＣネットワークファクトリー）を設立しました」（https://ncnfactory.jp/spun-off-processing-business-division-and-expanded-business/・1回目）
+  - 「（カリフォルニア州トーランス市）出資比率100％、」（https://ncnfactory.jp/spun-off-processing-business-division-and-expanded-business/・1回目）
+  - 「（東京都大田区）出資比率18.6%」（https://ncnfactory.jp/spun-off-processing-business-division-and-expanded-business/・1回目）
+  - 「2000年にはベンチャーキャピタルの主導で、名だたる商社や銀行に出資してもらえる状況を作ることができました」（https://careerpark-agent.jp/interview/133-2・3回目）
+  - 「出資や増資を受けられたのは、Webサイトを通じて、現在の主力メンバーの多くが集まってきてくれたことも大きな理由です」（https://careerpark-agent.jp/interview/133-2・3回目）
+- 創業年度：
+  - 「ＮＣネットワーク アメリカ（NC Network, Inc.）をカリフォルニア・トーランスに設立」（https://ncnfactory.jp/about/・1回目）
+  - 「㈱NCネットワークより加工事業を分社化 株式会社ＮＣネットワークファクトリー設立」（https://ncnfactory.jp/about/・1回目）
+  - 「ＮＣネットワーク・アメリカ（NC Network,Inc.カリフォルニア州トーランス市）を設立、President就任（兼務）」（https://ncnfactory.jp/about/・1回目）
+  - 「（本社：東京都台東区、代表取締役社長：内原康雄、以下ＮＣネットワーク）は、このほど加工事業部門を分社化し、全額出資の子会社として株式会社ＮＣネットワークファクトリー（本社：同上、代表取締役：角田洋晴、以下ＮＣネットワークファクトリー）を設立しました」（https://ncnfactory.jp/spun-off-processing-business-division-and-expanded-business/・1回目）
+  - 「また最近では、日本国内でもクラウドファンディングによる商品化やモノづくりベンチャー創業の機運が高まっており、アイデアとビジネスモデルを構築してモノづくりの部分は外部委託するというニーズが出ています」（https://ncnfactory.jp/spun-off-processing-business-division-and-expanded-business/・1回目）
+  - 「国内インフラでは鉄道や原子力発電所の計画が動き始め、国内の大手デベロッパーが南北高速鉄道への参画に向けて鉄道会社の設立を検討するなど、国内資本による挑戦も出てきました」（https://infobank-vn.com/manufacturing/nc-network/・3回目）
+  - 「ベトナム進出コンサルティング・市場調査会社に7年間携わり、2026年1月にベトナム経済メディアInfoBankを企画・運営する株式会社InfoBase創業」（https://infobank-vn.com/manufacturing/nc-network/・3回目）
+  - 「1997年にNCネットワークグループを発足させ、1998年にエヌシーネットワーク（現・NCネットワーク）を設立し、以降現職」（https://careerpark-agent.jp/interview/133-2・3回目）
+  - 「資本金1,000万円で設立した当社ですが、ここで一気に3億7千万円の増資を受けることができ、以降の」（https://careerpark-agent.jp/interview/133-2・3回目）
+  - 「1967年の創業から、板金加工業を主戦場として配電盤や分電盤、産業機械の製造で経営基盤を確立」（https://www.atpress.ne.jp/news/354178・3回目）
+  - 「NCネットワーク・グループ創立（東京都労働経済局の支援による）東京下町を中心とした製造業9社」（https://corporate.nc-net.com/company/・3回目）
+  - 「株式会社エヌシーネットワーク設立 資本金1,000万円」（https://corporate.nc-net.com/company/・3回目）
+- 売上：
+  - 「加工事業部門の年間売上高は約12億円（2019年10月期）でしたが、分社化により初年度15億円、3年目には30億円を目指します」（https://ncnfactory.jp/spun-off-processing-business-division-and-expanded-business/・1回目）
+  - 「現在は約200社の中小製造業の協力工場契約を行い、約70社前後の大手メーカーと取引しており、直近５年間での売上総額は約100億円前後と、中小企業連携による共同受注の事例としては日本最大級の規模となっております」（https://ncnfactory.jp/spun-off-processing-business-division-and-expanded-business/・1回目）
+  - 「5年で売上高10倍を達成！製造現場のDX化が進む “ものづくりエンターテイナー”テルミックの工場見学会を開催 - 株式会社NCネットワーク」（https://corporate.nc-net.com/2024/03/12/factory_telmic/・3回目）
+  - 「5年で売上高10倍を達成！製造現場のDX化が進む “ものづくりエンターテイナー”テルミックの工場見学会を開催」（https://corporate.nc-net.com/2024/03/12/factory_telmic/・3回目）
+  - 「リーマンショックを転機として改革を実行した結果、2014年から5年間で売上高は約10倍に」（https://corporate.nc-net.com/2024/03/12/factory_telmic/・3回目）
+  - 「2021年コロナウイルスの影響で売上が減少したものの、1年でV字回復を成し遂げ、2023年１月期決算では過去最高売上を出しました」（https://corporate.nc-net.com/2024/03/12/factory_telmic/・3回目）
+  - 「売上を伸ばす段階から、利益を高める段階に入ったといえます」（https://infobank-vn.com/manufacturing/nc-network/・3回目）
+  - 「売上は2億円(2003年)から27億円(2021年)、社員数も社長就任時から190名に大きく成長させた、高畑社長から「高付加価値経営」を学ぶ」（https://www.atpress.ne.jp/news/354178・3回目）
+  - 「新たにものづくりを科学するソリューション事業を展開し、売上は16億円(2003年)から67億円(2022年)に増加」（https://www.atpress.ne.jp/news/354178・3回目）
+  - 「5年で売上高10倍を達成！製造現場のDX化が進む」（https://www.atpress.ne.jp/news/354178・3回目）
+  - 「見学先は事業承継後、売上5倍に伸ばした新潟のhakkai株式会社」（https://www.atpress.ne.jp/news/354178・3回目）
+- 存続：
+  - 「Please note that we will be closed for winter holidays from Saturday, December 27, 2025, through Sunday, January 4, 2026. Thank you for your understanding.」（https://ncnfactory.jp/・1回目）
+  - 「Please note that we will be closed for winter holidays from Saturday, December 27, 2025, through Sunday, January 4, 2026. Thank you for your understanding.」（https://ncnfactory.jp/news/・1回目）
+  - 「Please note that we will be closed for winter holidays from Saturday, December 27, 2025, through Sunday, January 4, 2026. Thank you for your understanding.」（https://ncnfactory.jp/category/uncategorized/・1回目）
+  - 「Please note that we will be closed for winter holidays from Saturday, December 27, 2025, through Sunday, January 4, 2026. Thank you for your understanding.」（https://ncnfactory.jp:443/category/uncategorized/・1回目）
+- 検索結果の抜粋：
+  - 「新型 3Dプリンター を増設しました。New 3D printer has come — 新型 3Dプリンター を増設しました。New 3D printer has come 株式会社 NCネットワークファクトリー https://ncnfactory.jp > ...」（https://ncnfactory.jp/new3dprinter/・3回目）
+  - 「金属 3Dプリンター 受託造形サービス（立ち合い造形可能） — 金属 3Dプリンター 受託造形サービス（立ち合い造形可能） エミダス https://ja.nc-net.or.jp > company > product > detail」（https://ja.nc-net.or.jp/company/104601/product/detail/247392・3回目）
+  - 「NCネットワーク 加工 事業 部門を分社化・ 事業 拡大へ — NCネットワーク 加工 事業 部門を分社化・ 事業 拡大へ 株式会社 NCネットワークファクトリー https://ncnfactory.jp > spun-off-processing-business-divisi...」（https://ncnfactory.jp/spun-off-processing-business-division-and-expanded-business/・3回目）
+  - 「5年で 売上 高10倍を達成！製造現場のDX化が進む “ものづくり ... — 5年で 売上 高10倍を達成！製造現場のDX化が進む “ものづくり ... 株式会社NCネットワーク https://corporate.nc-net.com > 2024/03/12 > factory_telmic」（https://corporate.nc-net.com/2024/03/12/factory_telmic/・3回目）
+  - 「工場検索No.1 | 挑戦する製造業のために／ NCネットワーク — 工場検索No.1 | 挑戦する製造業のために／ NCネットワーク エミダス https://ja.nc-net.or.jp」（https://ja.nc-net.or.jp/・3回目）
+  - 「2022年3月22日 株式会社 NCネットワーク — 2022年3月22日 株式会社 NCネットワーク ジェトロ（日本貿易振興機構） PDF https://www.jetro.go.jp > services > businessmodel」（https://www.jetro.go.jp/ext_images/services/businessmodel/r3-01.pdf・3回目）
+  - 「会社紹介 / About - 株式会社 NCネットワークファクトリー — 会社紹介 / About - 株式会社 NCネットワークファクトリー 株式会社 NCネットワークファクトリー https://ncnfactory.jp > about」（https://ncnfactory.jp/about/・3回目）
+  - 「NCネットワーク が中小製造業の若手経営者 ... - アットプレス — NCネットワーク が中小製造業の若手経営者 ... - アットプレス アットプレス https://www.atpress.ne.jp > ... > 株式会社NCネットワーク」（https://www.atpress.ne.jp/news/354178・3回目）
+  - 「株式会社 NCネットワーク — 株式会社 NCネットワーク 株式会社NCネットワーク https://corporate.nc-net.com」（https://corporate.nc-net.com/・3回目）
+  - 「会社概要 | 株式会社 NCネットワーク — 会社概要 | 株式会社 NCネットワーク 株式会社NCネットワーク https://corporate.nc-net.com > company」（https://corporate.nc-net.com/company/・3回目）
+  - 「NCネットワーク とFNAグループが経営統合 — NCネットワーク とFNAグループが経営統合 エミダス https://ja.nc-net.or.jp > ncnetwork > press」（https://ja.nc-net.or.jp/ncnetwork/press/20161219/・3回目）
+  - 「会社 紹介 / About - 株式会社 NCネットワークファクトリー — 会社 紹介 / About - 株式会社 NCネットワークファクトリー 株式会社 NCネットワークファクトリー https://ncnfactory.jp > about」（https://ncnfactory.jp/about/・3回目）
+- 株主：記載なし（3回確認済み：公式13頁／PDF・画像3件／外部35頁・検索13回）
+- 設立：記載なし（3回確認済み：公式13頁／PDF・画像3件／外部35頁・検索13回）
+- 従業員数：記載なし（3回確認済み：公式13頁／PDF・画像3件／外部35頁・検索13回）
+- 売上高：記載なし（3回確認済み：公式13頁／PDF・画像3件／外部35頁・検索13回）
+- 黒字・収益性：記載なし（3回確認済み：公式13頁／PDF・画像3件／外部35頁・検索13回）
 
 ## 株式会社カブク
 - 公式URL：https://kabu-ku.com/（search:yahoo_jp:カブク）
@@ -1769,6 +3268,338 @@
   - 「ミスミグループ本社 24年3月期 売上 高1.5%減の3676億円 — ミスミグループ本社 24年3月期 売上 高1.5%減の3676億円 金型新聞社 https://kanagata-shimbun.com > 202406_misumi_kesan」（https://kanagata-shimbun.com/202406_misumi_kesan/・3回目）
   - 「ミスミグループ本社 のセグメント別・地域別 売上 高の推移 — ミスミグループ本社 のセグメント別・地域別 売上 高の推移 The社史 https://the-shashi.com > ミスミグループ本社の歴史」（https://the-shashi.com/tse/9962/segment/・3回目）
 - 設立：記載なし（3回確認済み：公式30頁／PDF・画像16件／外部42頁・検索12回）
+
+## 株式会社リコー
+- 公式URL：https://jp.ricoh.com（given）
+- 創業年度：設立：1936年2月6日（https://jp.ricoh.com/about/facts・1回目）
+- 創業年度：設立年月日：1936年2月6日（https://www.nikkei.com/nkd/company/gaiyo/?scode=7752・3回目）
+- 従業員数：75,635名（2026年3月31日現在）（https://jp.ricoh.com/about/facts・1回目）
+- 従業員数：4,596 人（https://www.nikkei.com/nkd/company/gaiyo/?scode=7752・3回目）
+- 売上高：2兆6,083億円（2026年3月期）（https://jp.ricoh.com/about/facts・1回目）
+- 代表者：社長執行役員 大山 晃（おおやま あきら） 役員一覧（https://jp.ricoh.com/about/facts・1回目）
+- 代表者：大山 晃（https://jp.ricoh.com/about/facts/board・1回目）
+- 代表者：大山　晃（https://www.nikkei.com/nkd/company/gaiyo/?scode=7752・3回目）
+- 参入の時期と形：
+  - 「当社子会社の設立および会社分割（簡易吸収分割）による新設子会社へのサーマル事業承継に関するお知らせ(リコー)」（https://jp.ricoh.com/・1回目）
+  - 「財団法人理化学研究所における発明の工業化を目的とする理化学興業株式会社から独立し、理研感光紙株式会社として設立」（https://jp.ricoh.com/about/history・1回目）
+  - 「理研感光紙株式会社として設立（～1938年）」（https://jp.ricoh.com/about/history・1回目）
+  - 「わが国の科学振興を目的に創設された理化学研究所はその研究成果の事業化を図るために1927年「理化学興業株式会社」を設立、ここから多くの理研製品が発売されていきました」（https://jp.ricoh.com/about/history・1回目）
+  - 「彼は感光紙部門いっさいの事業を継承し、1936年2月6日にリコーのルーツである理研感光紙株式会社を設立」（https://jp.ricoh.com/about/history・1回目）
+  - 「カメラの大衆化の先駆け、リコーフレックスを発売」（https://jp.ricoh.com/about/history・1回目）
+  - 「カメラの大衆化・一大ブームを巻き起こし、国内のカメラ生産量の50%以上をこの一機種で独占したと言われています」（https://jp.ricoh.com/about/history・1回目）
+  - 「ジアゾ複写機の1号機リコピー101を発売」（https://jp.ricoh.com/about/history・1回目）
+  - 「ジアゾ複写機の1 号機「リコピー101」を発売」（https://jp.ricoh.com/about/history・1回目）
+  - 「そのルーツは、1955年発売の「リコピー101」です」（https://jp.ricoh.com/about/history・1回目）
+  - 「1955年発売の「リコピー101」が複写機遺産に認定」（https://jp.ricoh.com/about/history・1回目）
+  - 「ハーフサイズの大ヒット作となったリコーオートハーフを発売」（https://jp.ricoh.com/about/history・1回目）
+- 撤退・縮小の時期と理由：
+  - 「拡大・縮小機能つきA3判PPC リコピーFT4060を発売」（https://jp.ricoh.com/about/history・1回目）
+  - 「拡大・縮小機能付A3判PPC」（https://jp.ricoh.com/about/history・1回目）
+  - 「拡大・縮小機能付のA3判PPC 「リコピーFT4060」は、小型機でありながら高い画質と耐久性を誇り、発売からわずか10ヵ月で10万台を売り上げた大ヒットマシンでした」（https://jp.ricoh.com/about/history・1回目）
+  - 「子会社（孫会社）持分の譲渡および譲渡益計上に関するお知らせ」（https://jp.ricoh.com/IR/news・1回目）
+  - 「掲載期間終了により、ページが公開終了となった」（https://jp.ricoh.com/about/at-a-glance%20・1回目）
+  - 「社内でのITインフラに関する問い合わせ業務のプロセスを見直し、生成AIやチャットボットを活用することで、膨大な工数を削減し、業務効率化に貢献しています」（https://jp.ricoh.com/about/dx・1回目）
+  - 「自己株式立会外買付取引(ToSTNeT-3)による自己株式の取得結果及び自己株式の取得終了並びに自己株式の消却に関するお知らせ [PDF]」（https://jp.ricoh.com/IR/stock/shareholder-returns・1回目）
+  - 「⾃⼰株式の取得状況及び取得終了に関するお知らせ [PDF]」（https://jp.ricoh.com/IR/stock/shareholder-returns・1回目）
+  - 「システムメンテナンス終了のお知らせ 2026年10月22日 18:00～19:30（日本時間）」（https://blogs.ricoh.co.jp/3dp-news/print-service/・3回目）
+  - 「システムメンテナンス終了のお知らせ 2026年9月24日 18:00～19:30（日本時間）」（https://blogs.ricoh.co.jp/3dp-news/print-service/・3回目）
+  - 「システムメンテナンス終了のお知らせ 2026年8月27日 18:00～19:30（日本時間）」（https://blogs.ricoh.co.jp/3dp-news/print-service/・3回目）
+  - 「システムメンテナンス終了のお知らせ 2026年7月23日 18:00～19:30（日本時間）」（https://blogs.ricoh.co.jp/3dp-news/print-service/・3回目）
+- 参入しない・慎重な理由の発言：
+  - 「「時間が空いてもタスクで埋まる」AIで創造性が生まれない本当の理由とは？効率化の先にある“問い”の作り方（動画コンテンツ）」（https://jp.ricoh.com/・1回目）
+  - 「事業を通じて社会課題解決に貢献するリコーグループの取り組みをご紹介します」（https://jp.ricoh.com/・1回目）
+  - 「この主な理由は、1つのドラムにCMYK（シアン、マゼンタ、イエロー、ブラック）の4色の作像を繰り返していたためです」（https://jp.ricoh.com/about/history・1回目）
+  - 「デジタル機ならではの高画質、メモリーコピー機能などに加え、A3機で世界最小幅（当時）のコンパクトボディ、徹底した本体のコストダウンによる低価格の実現などもあり、中小企業ユーザーを中心に大ヒットを記録」（https://jp.ricoh.com/about/history・1回目）
+  - 「リコー沼津事業所に、重合トナー「PxPトナー」の量産工場が竣工」（https://jp.ricoh.com/about/history・1回目）
+  - 「重合トナー「PxPトナー」の量産工場が竣工」（https://jp.ricoh.com/about/history・1回目）
+  - 「経済社会の将来動向と企業経営への影響を研究する「シンクタンク機能」と、その研究成果を基に経営陣に対して助言・課題提起を行う「アドバイザリー機能」を併せ持つ「リコー経済社会研究所（Ricoh Institute of Sustainability」（https://jp.ricoh.com/about/history・1回目）
+  - 「このVCSELの搭載により、印刷物の多品種・短納期・小ロット化といった近年の新しい印刷(オンデマンド印刷)需要に応えられるプリンターが製品化されました」（https://jp.ricoh.com/about/history・1回目）
+  - 「顕彰理由は、世界初の実用的国際間データ送受信を実現（A4サイズ1枚送信時間を従来の6分から1分に短縮）し、ファクシミリの普及に大きく寄与したこと」（https://jp.ricoh.com/about/history・1回目）
+  - 「高齢化社会への対応、医療費削減、地域間の医療水準格差解消などが求められるヘルスケア分野を、社会課題の解決に取り組む分野の一つとして位置付け、事業参入することに決定」（https://jp.ricoh.com/about/history・1回目）
+  - 「コーポレート執行役員 ESG・リスクマネジメント担当 鈴木 美佳子」（https://jp.ricoh.com/IR/events/business-briefing・1回目）
+  - 「ISO14001認証」（https://jp.ricoh.com/about・1回目）
+- AMの規模：
+  - 「1960年代に入り売上高100億円を超える企業となった理研は、1963年4月社名を現在の「株式会社リコー」に改め、さらに大きな飛躍を遂げることになります」（https://jp.ricoh.com/about/history・1回目）
+  - 「Industries, U.S.A., Inc.を統合し北米の拠点となるRicoh of America, Inc.をいち早く設立しています」（https://jp.ricoh.com/about/history・1回目）
+  - 「続いて、1983年12月には、イギリス・テルフォードでOA関連製品の生産拠点としてリコーUKプロダクツがその活動を開始しています」（https://jp.ricoh.com/about/history・1回目）
+  - 「応用基礎研究から実用化をねらった開発までを行う総合的な研究開発拠点です」（https://jp.ricoh.com/about/history・1回目）
+  - 「リコーの国内出荷台数におけるデジタル率が50％を超えるなど、国内外でデジタル機の本格的な普及を促進しました」（https://jp.ricoh.com/about/history・1回目）
+  - 「海老名市に複合機/プリンターの開発拠点として、」（https://jp.ricoh.com/about/history・1回目）
+  - 「リコーテクノロジーセンターは、大森事業所（東京都大田区）や厚木事業所（厚木市）などに分散していた日本国内の画像＆ソリューション製品（複合機・プリンター等）の開発拠点を集結し、要素技術開発から生産技術、さらには製品評価までを一箇所に集約したリコーの技術開発拠点」（https://jp.ricoh.com/about/history・1回目）
+  - 「新工場は、国内のサプライ生産拠点である沼津事業所（静岡県沼津市）に増設されました」（https://jp.ricoh.com/about/history・1回目）
+  - 「主要製品の研究・開発拠点であるリコーテクノロジーセンター（神奈川県海老名市）が日本経済新聞社主催の第4回 日経ものづくり大賞を受賞」（https://jp.ricoh.com/about/history・1回目）
+  - 「リアルタイム双方向通信や多拠点通信を可能にする最適なプラットフォームをクラウド上に構築し、インターネット経由で本社や支社間といった同一企業内はもちろん異なる企業間でもビジュアルコミュニケーションを可能にするテレビ会議/Web会議システム「ユニファイド」（https://jp.ricoh.com/about/history・1回目）
+  - 「3Dプリンターによる試作品」（https://jp.ricoh.com/about/history・1回目）
+  - 「3Dプリンターをキーとしたアディティブ・マニュファクチャリング事業(AM事業)に参入」（https://jp.ricoh.com/about/history・1回目）
+- 客の業界：
+  - 「リコーは創立50周年記念事業の一環として、長期的視野に立った総合的な研究開発体制を強化拡充する「研究所群構想」を進めていましたが、その中核となる中央研究所を、1986年4月23日横浜市港北ニュータウンの一角に設立しました」（https://jp.ricoh.com/about/history・1回目）
+  - 「応用基礎研究から実用化をねらった開発までを行う総合的な研究開発拠点です」（https://jp.ricoh.com/about/history・1回目）
+  - 「リコー沼津事業所に、重合トナー「PxPトナー」の量産工場が竣工」（https://jp.ricoh.com/about/history・1回目）
+  - 「重合トナー「PxPトナー」の量産工場が竣工」（https://jp.ricoh.com/about/history・1回目）
+  - 「その後2014年9月には100%自然エネルギーで点灯する広告塔を設置し、現在に至ります」（https://jp.ricoh.com/about/history・1回目）
+  - 「3Dプリンターによる試作品」（https://jp.ricoh.com/about/history・1回目）
+  - 「40チャンネル面発光型半導体レーザーアレイ素子（VCSEL: Vertical Cavity Surface Emitting Laser)を開発したリコー未来技術研究所技師長の佐藤俊一と、同研究所東北研究センターの軸谷直人が、平成27年度科学技術分野の文部科学大臣表彰において科学技術賞を受賞しました」（https://jp.ricoh.com/about/history・1回目）
+  - 「高齢化社会への対応、医療費削減、地域間の医療水準格差解消などが求められるヘルスケア分野を、社会課題の解決に取り組む分野の一つとして位置付け、事業参入することに決定」（https://jp.ricoh.com/about/history・1回目）
+  - 「その一環として、画像診断装置事業の事業展開・研究開発を加速するため、横河電機株式会社から2016年4月1日に脳磁計*事業を譲り受けました」（https://jp.ricoh.com/about/history・1回目）
+  - 「メディカルイメージング領域では、脊髄や脳の神経活動を見える化する計測装置の開発・展開など、医療画像診断システム＆サービスを展開します」（https://jp.ricoh.com/about/history・1回目）
+  - 「北陸自動車道丸岡ICより13km車で15分」（https://jp.ricoh.com/about/location・1回目）
+  - 「360度の高画質映像/見たい角度を自由に選べる/複数のカメラを同時利用可能/通信環境が悪くても配信可能などの特徴があり、建設現場や点検業務、医療現場、イベント配信などで導入実績があります」（https://jp.ricoh.com/about/dx・1回目）
+- 素材：
+  - 「樹脂判別ハンディセンサー「RICOH HANDY PLASTIC SENSOR B150」を発売」（https://jp.ricoh.com/about/history・1回目）
+  - 「テレビCM 社員が語るストーリー 樹脂判別ハンディセンサー｜建部 哲郎（30秒）」（https://jp.ricoh.com/about/request・1回目）
+  - 「「ごてんば 響環の森」の最大の見どころは、1つの拠点で脱炭素（カーボンニュートラル）と資源循環（サーキュラーエコノミー）の両方の実践現場を体験できることです」（https://jp.ricoh.com/sustainability/environment/eco-business-center・1回目）
+  - 「Mark Two（樹脂3Dプリンター）導入による現場活性化」（https://www.ricoh.co.jp/3dp/advantage・3回目）
+  - 「補助金活用による金属3Dプリンター「Metal X™ System」導入事例 -最適な設備投資による事業開拓への挑戦-」（https://www.ricoh.co.jp/3dp/advantage・3回目）
+  - 「本体の他に関連装置が必要な機種もございますし、金属3Dプリンターなどでは設置環境の整備が必要な場合もございます」（https://www.ricoh.co.jp/3dp/advantage・3回目）
+  - 「リコーとシーメンスが協業、工業用アルミニウム部品の量産化へ | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/・3回目）
+  - 「樹脂3Dプリンター（148）」（https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/・3回目）
+  - 「金属3Dプリンター（104）」（https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/・3回目）
+  - 「樹脂材料（73）」（https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/・3回目）
+  - 「金属材料（29）」（https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/・3回目）
+  - 「金属3Dプリンター」（https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/・3回目）
+- 株主構成：
+  - 「ニューヨーク事務所とRicoh Industries, U.S.A., Inc.を統合して100％出資の現地法人Ricoh of America, Inc.をニュージャージー州に設立（～1984年）」（https://jp.ricoh.com/about/history・1回目）
+  - 「100％出資の現地法人Ricoh of America, Inc.を」（https://jp.ricoh.com/about/history・1回目）
+  - 「第126回定時株主総会における議決権行使結果に対する分析・対応の概要について」（https://jp.ricoh.com/IR/news・1回目）
+  - 「2026年6月23日に第126回定時株主総会を開催しました」（https://jp.ricoh.com/IR/news・1回目）
+  - 「新サービス「株主総会リアルタイム字幕」を3社で共創(リコー)」（https://jp.ricoh.com/about/empowering-each-other・1回目）
+  - 「株主・投資家情報 | リコーグループ 企業・IR | リコー」（https://jp.ricoh.com/IR・1回目）
+  - 「第126回定時株主総会（2026年6月23日開催）」（https://jp.ricoh.com/IR・1回目）
+  - 「第126回定時株主総会における議決権行使結果に対する分析・対応の概要について」（https://jp.ricoh.com/IR・1回目）
+  - 「株主・投資家の皆さまからのIR・財務情報に関するご質問・お問い合わせはこちら」（https://jp.ricoh.com/IR・1回目）
+  - 「株主還元 | リコーグループ 企業・IR | リコー」（https://jp.ricoh.com/IR/stock/shareholder-returns・1回目）
+  - 「株主還元方針については、総還元性向50%を目安とし、配当利回りを意識した継続的な増配と機動的な自己株式取得を行う方針です」（https://jp.ricoh.com/IR/stock/shareholder-returns・1回目）
+  - 「株主総会 | リコーグループ 企業・IR | リコー」（https://jp.ricoh.com/IR/events/general-meeting・1回目）
+- 創業年度：
+  - 「リコーグループは1936年の創業以来、お客様の“はたらく”に常に寄り添ってきました」（https://jp.ricoh.com/・1回目）
+  - 「当社子会社の設立および会社分割（簡易吸収分割）による新設子会社へのサーマル事業承継に関するお知らせ(リコー)」（https://jp.ricoh.com/・1回目）
+  - 「財団法人理化学研究所における発明の工業化を目的とする理化学興業株式会社から独立し、理研感光紙株式会社として設立」（https://jp.ricoh.com/about/history・1回目）
+  - 「理研感光紙株式会社として設立（～1938年）」（https://jp.ricoh.com/about/history・1回目）
+  - 「リコーの創業者、市村清」（https://jp.ricoh.com/about/history・1回目）
+  - 「わが国の科学振興を目的に創設された理化学研究所はその研究成果の事業化を図るために1927年「理化学興業株式会社」を設立、ここから多くの理研製品が発売されていきました」（https://jp.ricoh.com/about/history・1回目）
+  - 「同社の感光紙事業を大きく発展させたのがリコーの創業者、市村清（1900～1968）です」（https://jp.ricoh.com/about/history・1回目）
+  - 「彼は感光紙部門いっさいの事業を継承し、1936年2月6日にリコーのルーツである理研感光紙株式会社を設立」（https://jp.ricoh.com/about/history・1回目）
+  - 「創業の精神として市村が提唱した「三愛精神（人を愛し 国を愛し 勤めを愛す）」は、事業・仕事を通じて、自らとその家族、顧客、関係者、社会のすべてを豊かにすることを目指した考えで、今もリコーグループの全社員が経営や仕事を行ううえでの原点としているものです」（https://jp.ricoh.com/about/history・1回目）
+  - 「ニューヨーク事務所とRicoh Industries, U.S.A., Inc.を統合して100％出資の現地法人Ricoh of America, Inc.をニュージャージー州に設立（～1984年）」（https://jp.ricoh.com/about/history・1回目）
+  - 「Ricoh of America, Inc.を設立（1970年1月）」（https://jp.ricoh.com/about/history・1回目）
+  - 「世界的なヒット商品の誕生とともに世界各国の大手メーカーとの技術提携も活発に行われ、台湾、韓国、アメリカ、オランダに現地法人を次々と設立、海外へとリコーブランドを広げていきました」（https://jp.ricoh.com/about/history・1回目）
+- 売上：
+  - 「1960年代に入り売上高100億円を超える企業となった理研は、1963年4月社名を現在の「株式会社リコー」に改め、さらに大きな飛躍を遂げることになります」（https://jp.ricoh.com/about/history・1回目）
+  - 「1,353億円（2026年3月31日現在）」（https://jp.ricoh.com/about/facts・1回目）
+  - 「2兆6,083億円（2026年3月期）」（https://jp.ricoh.com/about/facts・1回目）
+  - 「審査員コメントとしまして、デジタルサービスの企業への変革を掲げ、全社を挙げてデジタル人材育成を推進し続けた結果、デジタル分野の売上比率が如実に伸びているなど、ビジネスインパクトが大きく、人的資本戦略との連動性も総合的に高い、と評価いただきました」（https://jp.ricoh.com/about/dx・1回目）
+  - 「デジタルサービスの売上貢献に向けたリコーグループ共通のプラットフォームRSIの基盤強化と、AIソリューションを提供するプラットフォーム構築についてご紹介します」（https://jp.ricoh.com/about/dx・1回目）
+  - 「1,000億円」（https://jp.ricoh.com/IR/stock/shareholder-returns・1回目）
+  - 「2023年8月28日訂正 P23 ストックビジネス売上 FY23見通し削除、FY25目標に修正記載」（https://jp.ricoh.com/IR/events/earning・1回目）
+  - 「YOKOITO社、1億円投資で生産用3Dプリンター台数を4倍に増強」（https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/・3回目）
+  - 「株式会社YOKOITO（京都府京都市）は、1億円の投資を行い、Yokoito Additive Manufacturing Center（YAMC）の最新アップ …」（https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/・3回目）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/・3回目）
+  - 「正確な売上高や累計出荷台数などは開示していないのですが、世界の3Dプリンターに関する統計情報を提供している3Dプリンター関連調査結果によると、1000台以上の出荷実績を持っているようです」（https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01・3回目）
+  - 「135,364(百万円)」（https://www.nikkei.com/nkd/company/gaiyo/?scode=7752・3回目）
+- 黒字・収益性：
+  - 「2017年10月31日訂正版 P5 営業利益推移 2018/03 Q2」（https://jp.ricoh.com/IR/events/earning・1回目）
+  - 「特殊要因除く営業利益率 2.9% → 1.9%」（https://jp.ricoh.com/IR/events/earning・1回目）
+  - 「営業利益率は2.5%（2025年3月期実績の638億円÷2兆5,278億円）と、依然として低い水準にあります」（https://note.com/hr793/n/n1991228ae3b9・3回目）
+- 存続：
+  - 「リコー 産業用プリンタ撤退のニュース | インクマニアのブログ」（http://blog.inkmania.net/?eid=1236336・3回目）
+  - 「マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる」（https://www.nikkei.com/article/DGXMZO20770480V00C17A9000000/・3回目）
+  - 「この時期、リコーは大規模な事業買収を通じて販路を確保し、同時に技術のデジタル化を強力に推進した」（https://note.com/shotar/n/nec7cfc52e78d・3回目）
+  - 「1980年、リコーはハリス・コーポレーション（Harris Corporation）の複写機事業を買収するという戦略的な一手に出た 10」（https://note.com/shotar/n/nec7cfc52e78d・3回目）
+  - 「ハリス社の事業買収を機に、リコーは自社ブランドによる高付加価値戦略へと舵を切り、1984年にはアメリカ市場で7%のシェアを獲得するまでに成長した 5」（https://note.com/shotar/n/nec7cfc52e78d・3回目）
+  - 「1990年代、リコーは「世界最大の複写機メーカー」という地位を確立するため、アメリカ市場においてかつてない規模の企業買収を連続して行った」（https://note.com/shotar/n/nec7cfc52e78d・3回目）
+  - 「サビン社（Savin）の買収とマルチブランド戦略の開始」（https://note.com/shotar/n/nec7cfc52e78d・3回目）
+  - 「サビン社は独自の強力なディーラーネットワークを全米に展開しており、この買収によってリコーは自社ブランドの「Ricoh」とは異なる顧客層へのアクセス権を確保した」（https://note.com/shotar/n/nec7cfc52e78d・3回目）
+  - 「リコーは、買収したブランドを消滅させるのではなく、あえて「Ricoh」「Savin」「Gestetner」という複数のブランドを併存させた 14」（https://note.com/shotar/n/nec7cfc52e78d・3回目）
+  - 「■ 5つのウルトラニッチ・ナレッジ ① 起業：資本金10万円から高付加価値事業を創る ② 事業開発：日米の現場でAIを武器にする事業創造 ③ 投資：インデックスからエンジェル投資まで ④ M&amp;A/PMI：事業譲渡・会社統合の泥臭い進め方 ⑤ グローバル：米国MBA、海外移住・就職の突破口」（https://note.com/shotar/n/nec7cfc52e78d・3回目）
+  - 「これはPFUの買収や東芝テックとの合弁会社設立（ETRIA）に伴う資産の承継などが主な要因です」（https://note.com/hr793/n/n1991228ae3b9・3回目）
+  - 「継続してマイナス（2025年3月期は793億円のマイナス）となっており、PFUの買収やETRIAへの出資、設備投資など、将来の成長に向けた投資を積極的に行っていることが分かります」（https://note.com/hr793/n/n1991228ae3b9・3回目）
+- 検索結果の抜粋：
+  - 「すべてのお知らせ｜ リコー3Dプリンター 出力サービス — すべてのお知らせ｜ リコー3Dプリンター 出力サービス リコー ソリューション・商品サイト https://blogs.ricoh.co.jp > print-service」（https://blogs.ricoh.co.jp/3dp-news/print-service/・3回目）
+  - 「リコー 産業用 プリンタ撤退 のニュース - インクマニアのブログ — リコー 産業用 プリンタ撤退 のニュース - インクマニアのブログ インクマニアのブログ http://blog.inkmania.net > ...」（http://blog.inkmania.net/?eid=1236336・3回目）
+  - 「アルミニウム部品の量産向け金属 3Dプリンター - リコー — アルミニウム部品の量産向け金属 3Dプリンター - リコー Ricoh https://jp.ricoh.com > 技術 > リコーの技術紹介」（https://jp.ricoh.com/technology/tech/123_metal_3D_printing・3回目）
+  - 「製造業を知り尽くした リコー だからこそできる 3Dプリンター ... — 製造業を知り尽くした リコー だからこそできる 3Dプリンター ... ShareLab NEWS https://news.sharelab.jp > 独自記事」（https://news.sharelab.jp/interviews/ricoh-sb/・3回目）
+  - 「リコー 製造 終了 デジカメの部品、 3Dプリンター で造形 — リコー 製造 終了 デジカメの部品、 3Dプリンター で造形 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXMZO20770480V00C17A9000000/・3回目）
+  - 「3Dプリンター 事業における5つの強み - リコージャパン — 3Dプリンター 事業における5つの強み - リコージャパン リコー ソリューション・商品サイト https://www.ricoh.co.jp > 3Dプリンター」（https://www.ricoh.co.jp/3dp/advantage・3回目）
+  - 「リコー とシーメンスが協業、工業用アルミニウム部品の量産化へ — リコー とシーメンスが協業、工業用アルミニウム部品の量産化へ ShareLab NEWS https://news.sharelab.jp > 業界動向 > 金属3Dプリンター」（https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/・3回目）
+  - 「「 RICOH 3Dプリンター 出力サービス」の紹介動画 - YouTube — 「 RICOH 3Dプリンター 出力サービス」の紹介動画 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=9Wunsl8ruHQ・3回目）
+  - 「業績ハイライト | リコー グループ 企業・IR — 業績ハイライト | リコー グループ 企業・IR Ricoh https://jp.ricoh.com > 株主・投資家情報 > IR資料室」（https://jp.ricoh.com/IR/library/selected-consolidated-financial-data・3回目）
+  - 「環境に配慮したバイオマス由来の光 造形 3Dプリンター ... - リコー — 環境に配慮したバイオマス由来の光 造形 3Dプリンター ... - リコー Ricoh https://jp.ricoh.com > info」（https://jp.ricoh.com/info/2022/0728_1・3回目）
+  - 「金属AMのデスクトップメタルが日本の製造業に与える影響 — 金属AMのデスクトップメタルが日本の製造業に与える影響 リコー ソリューション・商品サイト https://www.ricoh.co.jp > 3Dプリンター」（https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01・3回目）
+  - 「社員を知る - 岡本 光平 | リコー グループ 企業・IR - リコー — 社員を知る - 岡本 光平 | リコー グループ 企業・IR - リコー Ricoh https://jp.ricoh.com > jobs > interview > okamoto」（https://jp.ricoh.com/jobs/interview/okamoto・3回目）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像16件／外部32頁・検索12回）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像16件／外部32頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像16件／外部32頁・検索12回）
+
+## 株式会社リンカーズ
+- 公式URL：https://www.linkers.net（given）
+- 創業年度：Disty株式会社設立：2011 2015 2018 2020 2022 2025（https://finance.biggo.jp/news/jpx_tdnet_140120260911535164・3回目）
+- 創業年度：Disty株式会社設立：2013 技術探索サービス「eEXPOソーシング」リリース(現 Linkers Sourcing) 2017 2019 2021 2024（https://finance.biggo.jp/news/jpx_tdnet_140120260911535164・3回目）
+- 創業年度：Disty株式会社設立：2013 技術探索サービス「eEXPOソーシング」リリース(現 Linkers Sourcing) オフィス移転(東京都中央区日本橋本町) 用途開拓サービス「Linkers Marketing」リリース 事業会社向けマッチングシステム「Linkers for Business」リリース「Linkers Research」用アプリ「Linkers Research Clip」のリリース リサーチ事業を分社「株式会社リンカーズOI研究所」を連結子会社として設立（https://finance.biggo.jp/news/jpx_tdnet_140120260911535164・3回目）
+- 株主：（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+- 株主：1,117,754 465,498（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+- 株主：△548,214 △672,256（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+- 従業員数：連結: 102人 単独: 79人 （2025年7月31日現在） [ 1 ]（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA・3回目）
+- 従業員数：100名（2025年１月末日現在）（https://corp.linkers.net/company/outline/・3回目）
+- 従業員数：79 人（https://www.nikkei.com/nkd/company/gaiyo/?scode=5131・3回目）
+- 所在地：日本 〒 108-0073 東京都 港区 三田 三丁目5-19 住友不動産東京三田ガーデンタワー（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA・3回目）
+- 所在地：本社オフィス 〒 108-0073 
+東京都港区三田三丁目5番19号 住友不動産東京三田ガーデンタワー29階
+[ Google Maps ]（https://corp.linkers.net/company/outline/・3回目）
+- 所在地：東京都港区三田三丁目５番19号（2025年11月27日から本店所在地　東京都文京区後楽二丁目３番21号が上記のように移転しております。）（https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B・3回目）
+- 売上高：(千円) 1,607,768 1,464,541（https://finance.biggo.jp/news/jpx_tdnet_140120260911535164・3回目）
+- 売上高：連結: 13億6,073万5千円 単独: 10億9,176万6千円 （2025年7月期） [ 1 ]（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA・3回目）
+- 売上高：14億円 556位 ／596社 —（https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B・3回目）
+- 代表者：代表取締役 社長 加福秀亙（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA・3回目）
+- 代表者：加福秀亙（https://corp.linkers.net/company/outline/・3回目）
+- 代表者：加福　秀亙（https://www.nikkei.com/nkd/company/gaiyo/?scode=5131・3回目）
+- 参入の時期と形：
+  - 「LIVE配信：2026 年 9 月 2 日（水） 13:00 ～ 14:00 （ 12:55 受付開始）」（https://corp.linkers.net/news/13471/・3回目）
+  - 「録画配信：2026 年 9 月 3 日（木） 13:00 ～ 14:00 （ 12:55 受付開始）」（https://corp.linkers.net/news/13471/・3回目）
+  - 「2026 年 9 月 4 日（金） 13:00 ～ 14:00 （ 12:55 受付開始）」（https://corp.linkers.net/news/13471/・3回目）
+  - 「クラウド見積り作成支援システムで新会社設立「月井精密」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「「合同会社はひぷぺぽ」墨田区で小規模保育所をゼロから立ち上げ」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「「スギヨファーム」「カニかま」を発明した企業が農業に参入」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「「香遊生活」オーガニックハーブの栽培・加工品に異業種参入」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「「銀座農園」販路を確保したうえで企業の農業参入を促す」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「100年続く繊維問屋が異業種に挑戦 ロードバイク事業に参入「越後繊維株式会社」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「捕獲されるイノシシ「1頭でも埋めたくない」と猪肉サブスク開始「合同会社弐百円」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「愛犬と泊まれる高級リゾートで「ブルーオーシャン」に参入【株式会社湯元舘】（滋賀県大津市）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「一般消費者向けスイーツを開発・発売【株式会社鹿祿】（徳島県徳島市）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+- 撤退・縮小の時期と理由：
+  - 「・講演資料につきましては、セミナー終了後、ご聴講いただいた皆様へメールにてご案内いたします」（https://corp.linkers.net/news/13471/・3回目）
+  - 「「女性起業のトレンド」選択と集中が大切、やらないことを決める勇気も」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「需要が見込まれるソフトウェア受託開発事業において、人材採用戦略の立案と実行：株式会社イプシロンソフトウェア」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「ビジネスモデルは、広告とキーワード検索などのアクセス解析データの販売を考えていたが、アクセス数の伸び悩みにより、収益化のメドが立たなかった」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「資料は、減収について「Linkers Trading」での主力商材（リサイクルアルミニウム）の取扱いを前期末で終了したことが要因であり、当該商材に係る売上を控除した場合は前期比で約4％の増収になるとしている」（https://investalk.jp/5131/linkers-2025-07-earnings/・3回目）
+  - 「当社グループは、「マッチングで世界を変える」というミッションのもと、企業と企業の出会いのあり方を見直し、従来の産業構造では成し得なかった最適な出会いを提供することで、多くのイノベーションを生み出す産業のしくみを国内外に築き、産業全体の生産性を最大化するための連携のハブとなる企業を目指し、マッチングプラットフォームの運営を中心に事業を展開しております」（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+  - 「特に、製造業を中心とする企業においては、人手不足への対応やデジタル化、省力化等を目的とした投資需要が継続する一方、事業環境の先行きに対する不透明感から、新規事業や研究開発を含む投資案件について、投資効果や実行時期を慎重に見極める動きも見られました」（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+  - 「このような事業環境のもと、当社グループは、中長期的な業容拡大と収益基盤の再構築に向け、既存サービスの営業体制及びカスタマーサクセス体制の強化、営業プロセスの見直し、既存プラットフォームの機能改善等を進めてまいりました」（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+  - 「既存事業においては、顧客満足度の向上及び継続取引の拡大を目的としてカスタマーサクセス体制の強化を進めるとともに、受注回復を図るため、営業人員の増強、営業活動プロセスの見直し及び提案活動の強化等に取り組んでまいりました」（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+  - 「「Linkers Sourcing」及び「Linkers Marketing」は、営業活動体制の改善、各種KPI等の見直し、営業プロセス管理の変更及び営業人員の採用強化等の各種施策に取り組みました」（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+  - 「また、顧客ニーズに応じた提案内容の見直しや既存顧客への営業活動を強化したことにより、受注機会の拡大を図った結果、「Linkers Research」の調査件数は267件（前年同期228件）と前年を上回って推移いたしました」（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+  - 「2027年7月期の業績予想については、探索・マッチングサービスの回復や新サービス「Linkers TX」の拡大を見込み、売上高は前期比15.9％増の15.6億円、営業損失は3.8億円まで縮小させる計画です」（https://finance.biggo.jp/news/jpx_tdnet_140120260911535164・3回目）
+- 参入しない・慎重な理由の発言：
+  - 「あらゆる業界の課題を解決する企業・大学・専門家をみつけます」（https://www.linkers.net/・1回目）
+  - 「・本セミナーのプログラム内では、課題解決の具体的な手段や実例として、弊社サービスのご紹介を交えて進行いたします」（https://corp.linkers.net/news/13471/・3回目）
+  - 「ばく然とした課題感であっても、課題の解像度を上げる一助になればと考えております」（https://corp.linkers.net/news/13471/・3回目）
+  - 「このような課題を解決し、貴社の積極的な情報発信をご支援するサービスです」（https://corp.linkers.net/news/13471/・3回目）
+  - 「第20回：和菓子づくりで社会課題の解決に貢献する「株式会社富田屋」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「第23回：「三方良し」の精神で取引先、そして社会全体の課題解決に取り組む「株式会社丸信」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「「経産省の女性起業家支援」ゼロ・イチと広域にこだわる理由（後編）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「「経産省の女性起業家支援」ゼロ・イチと広域にこだわる理由（前編）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「「株式会社Waris」文系総合職の専門性を生かせる人材マッチング」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「「パソナ農援隊」栽培技術だけでなく経営感覚に長けた人材を育成する」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「「八面六臂」ネットを活用した生鮮食材流通で従来のリスクを回避する」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「ハンズオン支援で物流コスト低減を実現「サンコー株式会社」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+- AMの規模：
+  - 「「伊賀の里モクモク手づくりファーム」売上50億円、6次産業化の先駆け」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「「こと京都」カットした九条ねぎで年商10億円をめざす」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「災害時に地域住民が避難できる拠点を構築「そらちぶと調剤薬局」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「17ゴールを掲げる"新時代の薬局"を拠点に【株式会社平野（愛媛県今治市）】」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「官民合同伴走型支援で3テーマの改善、売上増を達成【株式会社南雲製作所（新潟県上越市）】」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「マスク・医療用ガウンに進出し売上倍増【株式会社富樫縫製】（福島県二本松市）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「通販再開見送り超高速のFC展開、「ビッグボス効果」加わり売上アップ【ケンズカフェ東京】（東京都新宿区）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「金属3Dプリンタとデジタル倉庫サービスで、金型レスのものづくりを目指す【伊福精密株式会社】（兵庫県神戸市）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「SDGsへの取り組みで売上増や経営力強化も実現【NPO法人環境文明21 顧問／環境文明研究所 所長・加藤三郎氏】＜連載第3回＞（全4回）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「500年続く吉野材を多くの人に届けるために マーケティング拠点「YOSHINO WING」を開設【吉野製材工業協同組合】（奈良県吉野町）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「よろず支援拠点と連携、地元の企業に手厚い経営支援が可能に：斜里町商工会（北海道斜里町）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「多拠点というライフスタイルを可能に 投資家の心を動かす社会貢献型ビジネスモデル【株式会社アドレス（東京都千代田区）】」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+- 客の業界：
+  - 「本 Web セミナーでは、約 100 の技術テーマに関する数万件規模の論文・特許データを横断的に俯瞰し、データと経営をつなぐ実践的なアプローチを、研究開発を加速する次世代探索 SaaS「 Linkers TX 」を用いてご紹介します」（https://corp.linkers.net/news/13471/・3回目）
+  - 「素材からデバイス、エネルギー、デジタル領域に至る膨大なデータを横断的に分析し、次なる成長の種を発掘して自社の R&D 投資や新規事業探索の判断に直結させることが重要です」（https://corp.linkers.net/news/13471/・3回目）
+  - 「株式会社東芝 生産技術センターにおいて半導体製造プロセスの研究開発に従事」（https://corp.linkers.net/news/13471/・3回目）
+  - 「現職では、メーカーでの研究開発とコンサルティングの経験を活かして、エレクトロニクス領域を中心に、先端技術動向調査、技術マッチング、技術情報を効率的に収集するための技術開発など、製造業向けのイノベーション創出を支援している」（https://corp.linkers.net/news/13471/・3回目）
+  - 「自社にあてはめた場合の、「事業化や研究開発のヒント」をお探しの方は、」（https://corp.linkers.net/news/13471/・3回目）
+  - 「第7回：自動車リサイクルで資源循環型社会に貢献「会宝産業」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「独自技術で半導体業界のグローバルニッチトップ企業に「アイエルテクノロジー株式会社」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「金型の製造技術を生かし、新たな事業展開に挑戦「株式会社エフ・エー・テック」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「「常識を覆す発想」で製薬業界に革命、錠剤製造用金型の打錠障害を解決「株式会社ツー・ナイン・ジャパン」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「身体の動きを可視化する技術でスポーツや医療に貢献「株式会社SPLYZA」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「AIで医療格差の是正に挑戦【アイリス株式会社（東京都中央区）】」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「周産期遠隔医療システムでお母さんと赤ちゃんを守る【メロディ・インターナショナル株式会社（香川県高松市）】」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+- 素材：
+  - 「協同組合だからこそ乗り越えた！カーボンニュートラルに立ち向かう省エネ改善「協同組合ウイングバレイ」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「「銅加工特化」で危機脱出、中小企業同士の連携強化にも挑戦「株式会社ハタメタルワークス」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「外国人材が働き続ける環境づくりを支援、海外展開で経営を安定化【株式会社三栄金属製作所（大阪市生野区）】」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「支援機関によるカーボンニュートラル支援事例」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「省エネ診断を契機にカーボンニュートラルを意識 商工会議所の伴走支援によって脱炭素化を目指す：浜松商工会議所（静岡県浜松市）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「中央会がカーボンニュートラルの相談窓口に 専門機関と連携して企業組合の脱炭素化を推進：愛媛県中小企業団体中央会（愛媛県松山市）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「耐圧防水樹脂「ジェラフィン」で地元貢献めざす【エスイーシー・シープレックス株式会社（北海道函館市）営業顧問・小野雅晴氏】」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「金属切削加工の仲介手数料無料システムを開発【株式会社村井】（愛知県名古屋市）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「無電解ニッケルテフロンめっきを進化させ、高い硬度と密着性を実現【藤間精練株式会社】」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「軽量・高強度のアルミらせん水車で、落差がほとんどない（50cm以下）所でも発電が可能に【協同アルミ株式会社】」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「アルミ等のさまざまな材料に多様な方法で印刷し、各種産業用銘板を実現【三鷹製版株式会社】」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「強度や耐久性に優れた切粉搬出装置で金属加工現場の課題を解決【株式会社メタルチップ】」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+- 株主構成：
+  - 「出資受け、人員拡張・システム導入」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「その後、ジャフコとDBJキャピタルの出資を受け、バイヤーのニーズを集める営業人員も拡充」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「売上高は1,360百万円（13.6億円）で前年同期比7.1％の減収、営業利益は△457百万円（前年同期比234百万円の悪化）、経常利益は△428百万円、親会社株主に帰属する当期純利益は△548百万円となった」（https://investalk.jp/5131/linkers-2025-07-earnings/・3回目）
+  - 「コスト面では営業人員を中心とした採用強化（営業人員約20名の採用）と新規プロダクト開発等の投資先行の予算を織り込み、営業利益△369百万円、経常利益△357百万円、親会社株主に帰属する当期純利益△359百万円を計画している」（https://investalk.jp/5131/linkers-2025-07-earnings/・3回目）
+  - 「アインホールディングス、2026年4月期は売上高41.8%増の647,834百万円 親会社株主に帰属する当期純利益は86.4%増」（https://investalk.jp/5131/linkers-2025-07-earnings/・3回目）
+  - 「【大林組】資本政策と株主還元 — ROE10%以上・DOE5%目安、自己株1,000億円」（https://investalk.jp/5131/linkers-2025-07-earnings/・3回目）
+  - 「リンカーズ株式会社の2026年7月期連結決算は、売上高13億5,300万円（前年同期比0.5％減）、営業損失6億6,700万円（前年同期は4億5,700万円の損失）、親会社株主に帰属する当期純損失6億7,200万円（前年同期は5億4,800万円の損失）となりました」（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+  - 「2027年7月期の業績予想については、売上高15億6,900万円（前期比15.9％増）、営業損失3億8,100万円、親会社株主に帰属する当期純損失3億9,300万円を見込んでいます」（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+  - 「定時株主総会開催予定日 2026年10月27日」（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+  - 「（3）連結株主資本等変動計算書 8」（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+  - 「以上の結果、当連結会計年度の売上高は1,353,363千円（前年同期比0.5％減）、営業損失は667,236千円（前年同期は営業損失457,988千円）、経常損失は665,864千円（前年同期は経常損失428,433千円）、親会社株主に帰属する当期純損失は672,256千円（前年同期は親会社株主に帰属する当期純損失548,214千円）となりました」（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+  - 「これは主に、親会社株主に帰属する当期純損失672,256千円の計上等によるものであります」（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+- 創業年度：
+  - 「クラウド見積り作成支援システムで新会社設立「月井精密」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「「株式会社フロントステージ」得意を活かしライフプランに合う創業＆経営」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「3年後に創業100周年 伝統の越前織で“ブランドの顔”を作る「株式会社松川レピヤン」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「創業の原点である母親目線で「安心・安全」の商品開発【沖縄子育て良品株式会社（沖縄県南風原町）代表取締役・舩谷香氏】」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「ロボットの性能向上でより広い社会実装の可能性が広がる【明治大学 理工学部 機械工学科 専任教授／SEQSENSE株式会社 共同創立者・黒田洋司氏】＜連載第1回＞（全4回）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「ロボットの事業化には、市場・ロボットの適正・使用条件への理解が不可欠【明治大学 理工学部 機械工学科 専任教授／SEQSENSE株式会社 共同創立者・黒田洋司氏】＜連載第2回＞（全4回）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「中小企業がロボット業界で活躍するには？【明治大学 理工学部 機械工学科 専任教授／SEQSENSE株式会社 共同創立者・黒田洋司氏】＜連載第3回＞（全4回）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「賢いロボットの活用法とロボット事業参入のポイント【明治大学 理工学部 機械工学科 専任教授／SEQSENSE株式会社 共同創立者・黒田洋司氏】＜連載第4回＞（全4回）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「創業450年の企業がAIを活用した既存ビジネスの「深化」と新規ビジネスの「進化」で地域創生に貢献へ【株式会社大津屋（福井県福井市）】」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「「古民家・空き家再生＋創業支援」まちづくりファンドで地域活性化：埼玉縣信用金庫（埼玉県熊谷市）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「年間約1,100件の創業の相談に対応、1人に1相談員体制で成果「新潟市産業振興財団」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「創業者で現・名誉顧問の稲盛和夫への憧れからだった」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+- 売上：
+  - 「「伊賀の里モクモク手づくりファーム」売上50億円、6次産業化の先駆け」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「「こと京都」カットした九条ねぎで年商10億円をめざす」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「官民合同伴走型支援で3テーマの改善、売上増を達成【株式会社南雲製作所（新潟県上越市）】」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「マスク・医療用ガウンに進出し売上倍増【株式会社富樫縫製】（福島県二本松市）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「通販再開見送り超高速のFC展開、「ビッグボス効果」加わり売上アップ【ケンズカフェ東京】（東京都新宿区）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「SDGsへの取り組みで売上増や経営力強化も実現【NPO法人環境文明21 顧問／環境文明研究所 所長・加藤三郎氏】＜連載第3回＞（全4回）」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「売上高100億円への軌跡」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「「変化を恐れるな」、3つの危機乗り越え100億円企業に挑む「港製器工業株式会社」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「「簡単に上手くいくと思っていたが、売上が入ってこなかった」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「LNKS Revenue, EPS and EBIT Estimates」（https://www.moomoo.com/stock/LNKS-US/earnings?chain_id=Name1K9-3FXPhg.1lei900&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fhans%2Fstock%2F000953-SZ%2Fearnings%22%7D・3回目）
+  - 「What is the revenue forecast for Linkers Industries?」（https://www.moomoo.com/stock/LNKS-US/earnings?chain_id=Name1K9-3FXPhg.1lei900&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fhans%2Fstock%2F000953-SZ%2Fearnings%22%7D・3回目）
+  - 「, the consensus revenue forecast for -- is --.」（https://www.moomoo.com/stock/LNKS-US/earnings?chain_id=Name1K9-3FXPhg.1lei900&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fhans%2Fstock%2F000953-SZ%2Fearnings%22%7D・3回目）
+- 黒字・収益性：
+  - 「売上高は1,360百万円（13.6億円）で前年同期比7.1％の減収、営業利益は△457百万円（前年同期比234百万円の悪化）、経常利益は△428百万円、親会社株主に帰属する当期純利益は△548百万円となった」（https://investalk.jp/5131/linkers-2025-07-earnings/・3回目）
+  - 「経常利益・当期純利益は2024年7月期から損失に転じ、2025年7月期は経常利益△428,433千円、当期純利益△548,214千円となった」（https://investalk.jp/5131/linkers-2025-07-earnings/・3回目）
+  - 「コスト面では営業人員を中心とした採用強化（営業人員約20名の採用）と新規プロダクト開発等の投資先行の予算を織り込み、営業利益△369百万円、経常利益△357百万円、親会社株主に帰属する当期純利益△359百万円を計画している」（https://investalk.jp/5131/linkers-2025-07-earnings/・3回目）
+  - 「清水建設、2026年3月期は営業利益1,186億円・純利益1,266億円 年間配当は34円増配の72円」（https://investalk.jp/5131/linkers-2025-07-earnings/・3回目）
+  - 「八洲電機、2026年3月期は営業利益38.8%増 2027年3月期は増収増益を予想」（https://investalk.jp/5131/linkers-2025-07-earnings/・3回目）
+  - 「アインホールディングス、2026年4月期は売上高41.8%増の647,834百万円 親会社株主に帰属する当期純利益は86.4%増」（https://investalk.jp/5131/linkers-2025-07-earnings/・3回目）
+  - 「南総通運、2026年3月期は営業利益ほぼ横ばい 純利益は1.3%減」（https://investalk.jp/5131/linkers-2025-07-earnings/・3回目）
+  - 「トレーディア、2026年3月期は営業減益 純利益35.3%増」（https://investalk.jp/5131/linkers-2025-07-earnings/・3回目）
+  - 「・リサーチ事業：カスタマイズ調査の強化により、売上高4億2,300万円（同35.2％増）、セグメント利益4,300万円と黒字転換しました」（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+  - 「1株当たり当期純利益」（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+  - 「潜在株式調整後1株当たり当期純利益」（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+  - 「2．潜在株式調整後1株当たり当期純利益は、潜在株式は存在するものの、1株当たり当期純損失であるため記載しておりません」（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+- 存続：
+  - 「野村総研のコンサルタントとして大手企業に事業戦略からM＆A（企業の合併と買収）を提案していけば、広く産業界に良い「インパクトを与えられる」と考えた」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「6年間の勤務で「自分で企画から、営業、事業戦略、買収までの提案をしてきた」」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「行末の札（買収・売却・減損など）は、開示資料の注記に基づく重要事象の種類です」（https://corpolog.jp/5131/?rb=%2Frankings%2Fprofit%2F70%2F%23c5131&rx=%E7%B4%94%E5%88%A9%E7%9B%8A%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%C2%A03%2C483%E4%BD%8D%EF%BC%8F3%2C674%E7%A4%BE%E3%81%B8%E6%88%BB%E3%82%8B・3回目）
+- 検索結果の抜粋：
+  - 「技術トレンド 100 テーマ横断で見える ” 次の競争軸 “～データ ... — 技術トレンド 100 テーマ横断で見える ” 次の競争軸 “～データ ... リンカーズ株式会社 https://corp.linkers.net > ニュース」（https://corp.linkers.net/news/13471/・3回目）
+  - 「「 リンカーズ 株式会社」中小と大手をつなぐモノづくりの架け橋 — 「 リンカーズ 株式会社」中小と大手をつなぐモノづくりの架け橋 J-Net21[中小企業ビジネス支援サイト] https://j-net21.smrj.go.jp > special > entrepreneur」（https://j-net21.smrj.go.jp/special/entrepreneur/08.html・3回目）
+  - 「Linkers Industries Ltd (LNKS) 財務サマリー - Investing.com — Linkers Industries Ltd (LNKS) 財務サマリー - Investing.com Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース https://jp.investing.com > equities > linkers-industries-fina...」（https://jp.investing.com/equities/linkers-industries-financial-summary・3回目）
+  - 「Linkers Industries (LNKS) Earnings Dates, Reports ... - Moomoo — Linkers Industries (LNKS) Earnings Dates, Reports ... - Moomoo Moomoo https://www.moomoo.com > earnings」（https://www.moomoo.com/stock/LNKS-US/earnings?chain_id=Name1K9-3FXPhg.1lei900&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fhans%2Fstock%2F000953-SZ%2Fearnings%22%7D・3回目）
+  - 「リンカーズ 、2025年7月期は 売上 高13.6億円で営業損失4.5億円 — リンカーズ 、2025年7月期は 売上 高13.6億円で営業損失4.5億円 インベストーク https://investalk.jp > linkers-2025-07-earnings」（https://investalk.jp/5131/linkers-2025-07-earnings/・3回目）
+  - 「リンカーズ (5131) : 決算情報・業績 [Linkers] - みんかぶ — リンカーズ (5131) : 決算情報・業績 [Linkers] - みんかぶ みんかぶ https://minkabu.jp > 株価検索 > リンカーズ[5131]株価情報」（https://minkabu.jp/stock/5131/settlement・3回目）
+  - 「[G－ リンカーズ 5131.T] 2026年7月期 決算短信〔日本基準 ... — [G－ リンカーズ 5131.T] 2026年7月期 決算短信〔日本基準 ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260911534864」（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+  - 「社内外連携の 課題 を考える～イノベーティブな連携はなぜ ... — 社内外連携の 課題 を考える～イノベーティブな連携はなぜ ... リンカーズ株式会社 https://corp.linkers.net > ニュース」（https://corp.linkers.net/news/6312/・3回目）
+  - 「決算説明 資料｜ リンカーズ 株式会社 — 決算説明 資料｜ リンカーズ 株式会社 リンカーズ株式会社 https://corp.linkers.net > IR情報 > IRライブラリー」（https://corp.linkers.net/ir/library/presentation/・3回目）
+  - 「リンカーズ 、2025年7月期は売上高13.6億円で営業損失4.5億円 — リンカーズ 、2025年7月期は売上高13.6億円で営業損失4.5億円 インベストーク https://investalk.jp > linkers-2025-07-earnings」（https://investalk.jp/5131/linkers-2025-07-earnings/・3回目）
+  - 「[G－ リンカーズ 5131.T] 事業計画及び成長可能性に関する事項 — [G－ リンカーズ 5131.T] 事業計画及び成長可能性に関する事項 BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260911535164」（https://finance.biggo.jp/news/jpx_tdnet_140120260911535164・3回目）
+  - 「[G－ リンカーズ 5131.T] 2026年7月期 決算 短信〔日本基準 ... — [G－ リンカーズ 5131.T] 2026年7月期 決算 短信〔日本基準 ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260911534864」（https://finance.biggo.jp/news/jpx_tdnet_140120260911534864・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部44頁・検索12回）
 
 ## 株式会社松浦機械製作所
 - 公式URL：https://www.matsuura.co.jp（given）

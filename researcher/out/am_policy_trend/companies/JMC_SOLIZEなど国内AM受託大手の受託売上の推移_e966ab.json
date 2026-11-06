@@ -1,0 +1,2174 @@
+{
+ "name": "JMC・SOLIZEなど国内AM受託大手の受託売上の推移",
+ "en": "JMC SOLIZE 3D printing service revenue trend",
+ "aliases": [
+  "JMC 3D出力 売上 推移",
+  "SOLIZE 3Dプリンティング 売上",
+  "ジェイエムシー 決算 3Dプリンター"
+ ],
+ "context": "上場企業IR",
+ "kind": "market",
+ "researched_at": "2026-11-06T17:18:24.819463+00:00",
+ "evidence": {
+  "件数の推移": [
+   {
+    "quote": "SOLIZE Holdings（5871）の財務情報ならログミーFinance SOLIZE HD、上期は売上高・売上総利益が過去最高 持株会社体制へ移行し中長期目標の実現を目指す - ログミーファイナンス",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただいまより、SOLIZE Holdings株式会社の2025年12月期第2四半期決算説明会を始めます",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当社は1990年に設立されました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "グループ会社としては、中核会社を新たに設立したことに加え、海外ではインド、アメリカ、中国、タイ、カナダの5地域に進出しています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当社は2010年代には約160億円から170億円の売上高を維持していましたが、2020年には新型コロナウイルスの影響で一時的に約15パーセント減少しました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ものづくりのデジタル化、現在でいうDXが90年代初頭から始まった中で、当社はその黎明期からエンジニアリングサービスおよびマニュファクチュアリングサービスを実践してきました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "昨今、自動車メーカー各社も「100年に一度の転換期」として、ハードウェア中心の研究開発からソフトウェア中心へと大幅な開発リソースのシフトを進めています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "さらに、2020年以降、当社は一定の投資を行い、これまでものづくりの設計、解析、生産準備を中心に業務を展開してきましたが、上流工程として、お客さまのPoC（概念実証）を早めるというニーズに対し3Dプリンターが非常に適しており、これまでお客さまの聖域であった研究開発領域にも入る機会が増えています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、下流工程では、これまで試作品製造を中心としていた当社ですが、3Dプリンティングの性能や品質が向上したことで、少量量産工程まで進出できています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まず、当社はこの7月に、中長期目標を達成するため、新たに持株会社体制に移行しSOLIZE株式会社からSOLIZE Holdings株式会社へと商号変更しました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そして、3つの中核事業会社であるSOLIZE PARTNERS、SOLIZE Ureka Technology、および＋81に分社化し、事業展開を進めています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2つ目の事業会社であるSOLIZE Ureka Technologyについてです",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中核事業会社:＋81株式会社",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最後に＋81という会社についてです",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6. Appendix 1：会社概要",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 既存領域の拡大と新規領域の拡大により成長速度を加速させるため、中核事業会社3社による持株会社体制へ移行",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 2027年売上高400億円、2033年売上高1,000億円を達成するための基盤となる持株会社体制への移行にかかる費用については、当初",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• M&Aの当期実績は2社（株式会社フューレックスの株式取得、RACAR Canada Inc.からの事業譲受）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 持株会社体制への移行及び体制構築を完了（2025年7月）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 当第3四半期累計実績は前期比14.3%増加",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年 12 月期 第 3 四半期（累計）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年 12 月期 第 3 四半期 （累計）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "株式会社SiM24",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "+81株式会社",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 分社化した中核事業会社３社を中心とした下記の新セグメント区分へと変更し、2025年12月期 第3四半期から当区分にて開示",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第3四半期（累計）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第3四半期（累計） 増減額 増減率（%）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※1 報告セグメント区分の変更に伴い、2024年12月期 第3四半期（累計）は変更後のセグメント区分に組み替えた数値で記載しております",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "場面・目的": [
+   {
+    "quote": "また、下流工程では、これまで試作品製造を中心としていた当社ですが、3Dプリンティングの性能や品質が向上したことで、少量量産工程まで進出できています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加えて、2020年以降は売上高の約5パーセントを新規事業へ投資しています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "それぞれの中核ビジネスがしっかりと収益の核となるビジネスを持ち、そこで得た収益を新規事業に投資することで、成長を一気に加速させていきます",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "事業承継において、地域や地場で長年しっかりと事業を続けてきたものの、後継者がなかなか見つからない企業に対して、エンジニアのキャリアや教育も含めた体制が整った企業にジョインしたい、という想いでSOLIZEを選んでいただきました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で、事業承継において、会社の将来や社員のことを考え、基盤がしっかりした会社を求めている企業もあります",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリント試作・最終製品製",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SOLIZE Ureka Technology株式会社新規事業",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ス、ソフトウェア開発サービス、及び試作品・3Dプリンターの販売の分野における売上高は、前年同期と比べて引",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンターによる試作部品、",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "将来の競争力強化に向けた変革活動実行開発力増大派遣エンジニア数、試作部品外部委託増加エンジニア派遣、試作部品受注",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンターによる量産品・補給部品供給",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンターによる試作品製作",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ト試作・最終製品製作事業、3Dプ",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリント試作・最終製品製作",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "事業内容 社会・産業課題の解決に向けた新規事業の開発及び運営",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "社会・産業課題の解決に向けた新規事業の開発及び運営",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製品開発受託・エンジニア派遣・コンサルティング及び3Dプリント試作・最終製品製",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新規事業開発を行い、新たな企業を作る",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "素材の内訳": [
+   {
+    "quote": "• PEEK、PEKK、PEI、PPS など多くのスーパーエンプラ材料での",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額の推移": [
+   {
+    "quote": "SOLIZE Holdings（5871）の財務情報ならログミーFinance SOLIZE HD、上期は売上高・売上総利益が過去最高 持株会社体制へ移行し中長期目標の実現を目指す - ログミーファイナンス",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "売上高推移（2017年~2024年）",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当社は2010年代には約160億円から170億円の売上高を維持していましたが、2020年には新型コロナウイルスの影響で一時的に約15パーセント減少しました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのような取り組みを重ねることで、2023年の200億円の売上高に対し、中期で2027年には倍の400億円、さらに2033年には1,000億円の売上高を目指しています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加えて、2020年以降は売上高の約5パーセントを新規事業へ投資しています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "売上高は上期で122億2,600万円と過去最高を記録しました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "売上総利益も32億1,300万円となり、こちらも過去最高です",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で営業利益については、今年2月にお伝えしたように、昨年下期から進めている投資を加速させたことにより販管費が増加し、結果として営業利益は4億3,100万円の損失、中間純利益は2億5,200万円の損失となっています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これらグローバル展開に向けた追加の費用が発生した結果、上期の営業利益は4億3,100万円の損失となっています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "期初に公表した売上高270億円、営業利益は微増の5億円で、最終着地は変わらないものと想定しています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SOLIZE、売上高・売上総利益は過去最高を達成 アジア・北米に2拠点を設立 M&A戦略とグローバル展開で成長加速狙う",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "川崎汽船、通期経常利益を上方修正 新中計発表で31年度ROE15％以上・当期純利益2,100億円プラスアルファを目指す",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "BASE、3Q累計売上高YoY34％増・売上総利益48.5％増 グループの非連続な成長の実現に向け、SBIHDとの資本業務提携契約を締結",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "提供価値の拡大を推進し、2027年に売上高400億円、2033年に売上高1,000億円を目標とする",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 2027年売上高400億円、2033年売上高1,000億円を達成するための基盤となる持株会社体制への移行にかかる費用については、当初",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 採用体制強化により、2026年4月の新卒内定者数が185名と前年比16%増加（前々年比91%増加）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月期 連結売上高 四半期単独の推移",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 当第3四半期累計実績は前期比14.3%増加",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "通期では前期比15.3%増加の見通し",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 顧客企業の需要は今後拡大すると見込み、第4四半期には売上高の成長回復を見込む（前年同期比18.2%増）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 売上高は、米国関税政策の影響もあり、第３四半期に入り自動車業界をはじめとする主要顧客の受注が足踏みする状況に",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なったものの、過去最高、かつ前年同期比2,339百万円増の18,751百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 売上総利益は、売上高の伸長と比例し、過去最高、かつ前年同期比398百万円増の4,935百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 当第3四半期の売上高が当初計画に対して未達になったことが営業利益に影響し、571百万円の営業損失（前年同期は営業",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "利益219百万円）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "売上高 16,411 18,751 2,339 14.3",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 営業利益は571百万円の損失を計上（前年同期は営業利益219百万円）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1,189百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "のれん、3Dプリンター等減価償却費増加 等",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※2 セグメント利益又は損失(△)の調整額50百万円には、セグメント間取引消去686百万円及び各報告セグメントに配分していない全社費用等△636百万円が含まれております",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "AM・3Dプリンタ": [
+   {
+    "quote": "さらに、2020年以降、当社は一定の投資を行い、これまでものづくりの設計、解析、生産準備を中心に業務を展開してきましたが、上流工程として、お客さまのPoC（概念実証）を早めるというニーズに対し3Dプリンターが非常に適しており、これまでお客さまの聖域であった研究開発領域にも入る機会が増えています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、下流工程では、これまで試作品製造を中心としていた当社ですが、3Dプリンティングの性能や品質が向上したことで、少量量産工程まで進出できています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "のれん、3Dプリンター等減価償却費増加 等",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンター パーツ製造",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンター 販売・保守",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリント試作・最終製品製",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "作事業、3Dプリンター装置導",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 最先端3Dプリンターへの積極投資、中期成長を目的とした経験者や AI人財の積極採用、",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デジタルエンジニアリング開発支援 3Dプリンター パーツ製造",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ス、ソフトウェア開発サービス、及び試作品・3Dプリンターの販売の分野における売上高は、前年同期と比べて引",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンター パーツ製造導入事例",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンターによる試作部品、",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンター装置販売・保守",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンター装置・部品・材料の",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "将来の競争力強化に向けた変革活動実行開発力増大派遣エンジニア数、試作部品外部委託増加エンジニア派遣、試作部品受注",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンター活用による",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンターによる量産品・補給部品供給",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンターによる試作品製作",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ト試作・最終製品製作事業、3Dプ",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ハイエンド 3Dプリンターを",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリント試作・最終製品製作",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンター装置導入",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンター パーツ",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンター 販売・",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製品開発受託・エンジニア派遣・コンサルティング及び3Dプリント試作・最終製品製",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "作、3Dプリンター装置導入に関する事業",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "SOLIZE Holdings（5871）の財務情報ならログミーFinance SOLIZE HD、上期は売上高・売上総利益が過去最高 持株会社体制へ移行し中長期目標の実現を目指す - ログミーファイナンス",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月期第2四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただいまより、SOLIZE Holdings株式会社の2025年12月期第2四半期決算説明会を始めます",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "売上高推移（2017年~2024年）",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当社は2010年代には約160億円から170億円の売上高を維持していましたが、2020年には新型コロナウイルスの影響で一時的に約15パーセント減少しました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "さらに、2020年以降、当社は一定の投資を行い、これまでものづくりの設計、解析、生産準備を中心に業務を展開してきましたが、上流工程として、お客さまのPoC（概念実証）を早めるというニーズに対し3Dプリンターが非常に適しており、これまでお客さまの聖域であった研究開発領域にも入る機会が増えています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このように工程の上流と下流の両方に展開を広げるとともに、これまではハードウェア中心だった事業領域を、2020年以降、ソフトウェア領域、さらにはサイバーセキュリティのデジタルリスク領域へと拡大させ、成長を続けています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのような取り組みを重ねることで、2023年の200億円の売上高に対し、中期で2027年には倍の400億円、さらに2033年には1,000億円の売上高を目指しています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加えて、2020年以降は売上高の約5パーセントを新規事業へ投資しています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その結果、新しいビジネス領域として、ソフトウェアやサイバーセキュリティ領域、AI、デジタル製造分野では3Dプリンティングを活用した少量量産を開始しました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、2024年2月には上場を果たし、資金調達を進める中で、M&Aも実施しました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "売上高は上期で122億2,600万円と過去最高を記録しました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "売上総利益も32億1,300万円となり、こちらも過去最高です",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国内採用数は、3年で500名体制を構築するという目標のもと、今期も順調に推移し、第2四半期で280名を超える採用を達成しています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月期 連結業績予想",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上場初年度の配当金は44円、その後47円と推移し、今期は55円を予定しています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025/02/17",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025/02/27",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SOLIZE、売上高・売上総利益は過去最高を達成 アジア・北米に2拠点を設立 M&A戦略とグローバル展開で成長加速狙う",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "提供：SOLIZE株式会社 2024年12月期決算説明",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026/11/04",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026/11/06",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "川崎汽船、通期経常利益を上方修正 新中計発表で31年度ROE15％以上・当期純利益2,100億円プラスアルファを目指す",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度第2四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月期 第3四半期決算説明資料",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025.11.07",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. 2025年12月期 第3四半期決算ハイライト",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. 2025年12月期 連結業績予想",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "提供価値の拡大を推進し、2027年に売上高400億円、2033年に売上高1,000億円を目標とする",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 2027年売上高400億円、2033年売上高1,000億円を達成するための基盤となる持株会社体制への移行にかかる費用については、当初",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 採用体制強化により、2026年4月の新卒内定者数が185名と前年比16%増加（前々年比91%増加）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 持株会社体制への移行及び体制構築を完了（2025年7月）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月期 連結売上高 四半期単独の推移",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月期 第3四半期決算ハイライト",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年 12 月期 第 3 四半期（累計）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なったものの、過去最高、かつ前年同期比2,339百万円増の18,751百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 売上総利益は、売上高の伸長と比例し、過去最高、かつ前年同期比398百万円増の4,935百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年 12 月期 第 3 四半期 （累計）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年12月期",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月期",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 分社化した中核事業会社３社を中心とした下記の新セグメント区分へと変更し、2025年12月期 第3四半期から当区分にて開示",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※1 報告セグメント区分の変更に伴い、2024年12月期 第3四半期（累計）は変更後のセグメント区分に組み替えた数値で記載しております",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※3 2024年12月期 第3四半期（累計）は、持株会社体制に移行前のため、全社費用を各報告セグメントに配分しております",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "FY2024Q3 FY2025Q3",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 持株会社化に伴い、本社費及び共通費等が増加し 、配賦方法も変更したため、2024年",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 持株会社化に伴い、本社費及び共通費等が増加し、配賦方法も変更したため、2024年度と",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年12月期 2025年12月期第3四半期 増減額",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※3 2025年12月期 第3四半期からSiM24、フューレックスを含む",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "期間・審査": [
+   {
+    "quote": "⚫ 当第3四半期連結会計期間は前年同期比15.2％増収であったが、受注拡大ペースは当初計画を下回った",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 提案時点で納期まで 2ヶ月を切る短期間での製作が求められるなか 、完成データを受領後 、データ作",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 2024年12月期第4四半期単独期間においては、当社設立以来初の60億円を超過",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://finance.logmi.jp/articles/382498",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/solize20241021.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.logmi.jp/articles/381138",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.investing.com/news/pro/article-1741000",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://acy.com/ja/market-news/market-analysis/YCC-111300/?undefinedsupport/privacy-policy",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://funds.deutsche-am.com/ja-jp/StaticChartView111704/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://quote.eastmoney.com/newstatic/html/profitchart_new.html?code=920157.BJ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://economics.bmo.com/report/a949d0e4-1ae0-4c35-91ca-7a0c2243e5cd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ags.co.jp/ir/library/securities/report_20200212_3q.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.spglobal.com/ratings/jp/regulatory/jpcr/-/pcr-details/pcrId/3627740/titleNum/52626",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://minkabu.jp/stock/5704/settlement",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://recruit-holdings.com/ja/ir/library/upload/report_202503q4_ar_jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resol.jp/ir/analyst/pdf/fisco_report_20260717.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250304_archive/f7dnjt/140120250303587001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.skymark.co.jp/ja/company/investor/120501_press_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sony.com/ja/SonyInfo/IR/library/presen/business_segment_meeting/pdf/2025/Music_Japan_J.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://partners.solize.com/en/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/3d-printing-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctmagazine.com/context-global-3d-printer-revenues-rise-31-year-on-year/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/prusa3d/comments/1evt6mp/its_a_bit_unreal_how_much_3d_printing_has_grown/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/3d-printing-market-101902",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "JMC・SOLIZEなど国内AM受託大手の受託売上の推移 推移",
+   "results": [
+    "https://finance.logmi.jp/articles/382498",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/solize20241021.pdf",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://finance.logmi.jp/articles/381138",
+    "https://jp.investing.com/news/pro/article-1741000",
+    "https://acy.com/ja/market-news/market-analysis/YCC-111300/?undefinedsupport/privacy-policy",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/solize20250423.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93723",
+    "https://note.com/yri_lifescience/n/nb658e84fa252",
+    "https://www.yano.co.jp/market_reports/C68106800"
+   ]
+  },
+  {
+   "query": "JMC・SOLIZEなど国内AM受託大手の受託売上の推移 年度別",
+   "results": [
+    "https://finance.logmi.jp/articles/382498",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/solize20241021.pdf",
+    "https://funds.dws.com/ja-jp/StaticChartView111704/",
+    "https://quote.eastmoney.com/newstatic/html/profitchart_new.html?code=920157.BJ",
+    "https://economics.bmo.com/report/a949d0e4-1ae0-4c35-91ca-7a0c2243e5cd",
+    "https://www.ags.co.jp/ir/library/securities/report_20200212_3q.pdf",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://www.spglobal.com/ratings/jp/regulatory/jpcr/-/pcr-details/pcrId/3627740/titleNum/52626",
+    "https://minkabu.jp/stock/5704/settlement",
+    "https://www.yano.co.jp/market_reports/C68106800"
+   ]
+  },
+  {
+   "query": "JMC・SOLIZEなど国内AM受託大手の受託売上の推移 件数 pdf",
+   "results": [
+    "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/solize20241021.pdf",
+    "https://www.ags.co.jp/ir/library/securities/report_20200212_3q.pdf",
+    "http://recruit-holdings.com/ja/ir/library/upload/report_202503q4_ar_jp",
+    "https://www.resol.jp/ir/analyst/pdf/fisco_report_20260717.pdf",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250304_archive/f7dnjt/140120250303587001.pdf",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://www.skymark.co.jp/ja/company/investor/120501_press_1.pdf",
+    "https://www.sony.com/ja/SonyInfo/IR/library/presen/business_segment_meeting/pdf/2025/Music_Japan_J.pdf",
+    "https://www.yano.co.jp/market_reports/C66101800"
+   ]
+  },
+  {
+   "query": "JMC SOLIZE 3D printing service revenue trend",
+   "results": [
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.grandviewresearch.com/industry-analysis/3d-printing-market-report",
+    "https://www.tctmagazine.com/context-global-3d-printer-revenues-rise-31-year-on-year/",
+    "https://www.reddit.com/r/prusa3d/comments/1evt6mp/its_a_bit_unreal_how_much_3d_printing_has_grown/",
+    "https://www.fortunebusinessinsights.com/industry-reports/3d-printing-market-101902",
+    "https://www.precedenceresearch.com/3d-printing-market",
+    "https://www.marketresearchfuture.com/reports/3d-printing-market-1031",
+    "https://www.youtube.com/watch?v=GQg5S-IyKc4",
+    "https://www.persistencemarketresearch.com/market-research/3d-printing-service-bureaus-market.asp",
+    "https://financialfilings.com/companies/jmc-corporation/"
+   ]
+  },
+  {
+   "query": "site:note.com JMC・SOLIZEなど国内AM受託大手の受託売上の推移",
+   "results": [
+    "https://note.com/umaki11/n/n3efcf73dffdc",
+    "https://note.com/pocoa_420/n/n438a38361c84",
+    "https://note.com/yri_lifescience/n/nb658e84fa252",
+    "https://note.com/pocoa_420/n/n1d3cf14bfb19",
+    "https://note.com/sumida_takumi/n/n06de999df041",
+    "https://note.com/ready_ruff6869/n/n18ce2c44e635",
+    "https://note.com/glad_jacana2100/n/n2ea82e0c4f1e",
+    "https://note.com/manav_/n/nb0788799de3b"
+   ]
+  },
+  {
+   "query": "site:x.com JMC・SOLIZEなど国内AM受託大手の受託売上の推移",
+   "results": [
+    "https://x.com/HayamiKei_AI/status/2085624909989089368",
+    "https://x.com/hattori0819/status/2051291667362431186",
+    "https://x.com/kessan_db/status/2085364231650910286",
+    "https://x.com/i/status/2095626027229700498",
+    "https://x.com/reasonshodou/status/2036599112339169489",
+    "https://x.com/tmnmmeron/status/2097702136557760538",
+    "https://x.com/rSu8bySbnrSIDPX/status/2094622229254578303"
+   ]
+  },
+  {
+   "query": "site:linkedin.com JMC・SOLIZEなど国内AM受託大手の受託売上の推移",
+   "results": [
+    "https://jp.linkedin.com/company/ｓｏｌｉｚｅ（株）",
+    "https://hk.linkedin.com/company/solize-corporation",
+    "https://jp.linkedin.com/company/solizepartners",
+    "https://www.linkedin.com/posts/sharelab-jp_国内am企業が見たformnext-2023の姿yokoitoが分析する世界の-activity-7153643319867142144-2pZv",
+    "https://www.linkedin.com/posts/solizepartners_additivemanufacturing-3dprinting-digitalengineering-activity-7439450257349898240-PkA4",
+    "https://jp.linkedin.com/posts/sharelab-jp_金属am市場2034年に6兆円規模へvoxelmattersが最新市場レポート-activity-7328240169818505216-MPiF",
+    "https://jp.linkedin.com/posts/motoyuki-komine-1a4a17143_aumが急伸した企業を訪問して感じたこと-先日aum資産運用残高が近年大-activity-7485330104580177920-XXc_"
+   ]
+  },
+  {
+   "query": "site:facebook.com JMC・SOLIZEなど国内AM受託大手の受託売上の推移",
+   "results": [
+    "https://graph.facebook.com/v2.8/3050655461649348/picture/",
+    "https://www.facebook.com/k.teas.lab/posts/jmcが砂型3dプリンタs-printを導入受託サービスの事業展開を準備-monoistモノイストhttpmonoistatmarkitcojpmnarticl/1068060673355732/",
+    "https://www.facebook.com/OwnersBook/posts/3782244548567095/",
+    "https://www.facebook.com/zenchinfair/photos/青山メイン企画1年で管理受託574戸増加リースバック案件を獲得-不動産の賃貸管理を手がける青山メイン企画東京都千代田区は2024年の1年間で管理を574戸純増し/1353997566736066/",
+    "https://www.facebook.com/61554720998261/posts/プレスリリースsolizeのlc-designerがabtcアプリケーション認証を取得-信頼性あるlca算定ツールとして日本のモビリティ産業のトレーサビリティ対/122206029038157366/",
+    "https://www.facebook.com/INTERMOLD/photos/自動車部品製造技術フェア-出展者紹介国内製造業の中核を担う自動車分野ではev化軽量化高機能化によりギガキャストなど次世代加工法の開発をはじめとした部品製造技術の/1517048286881927/",
+    "https://www.facebook.com/nihon.horei/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1585815203548328/"
+   ]
+  },
+  {
+   "query": "JMC・SOLIZEなど国内AM受託大手の受託売上の推移 note 社長",
+   "results": [
+    "https://note.com/manav_/n/nb0788799de3b",
+    "https://finance.logmi.jp/articles/382498",
+    "https://www.solize.com/news/2025/0701/",
+    "https://investment-note.janpia.or.jp/n/n3292d35b4319/comments",
+    "https://www.skymark.co.jp/ja/company/investor/120501_press_1.pdf",
+    "https://www.msn.com/ja-jp/money/listdetails/%E3%83%86%E3%83%BC%E3%83%9E%E5%88%A5%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2:%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E5%A3%B2%E5%8D%B4/fl-b5a6273fbc86?src=fxins&listSrc=pipeline&miid=AA1aG0BX",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://economics.bmo.com/report/a949d0e4-1ae0-4c35-91ca-7a0c2243e5cd"
+   ]
+  },
+  {
+   "query": "JMC・SOLIZEなど国内AM受託大手の受託売上の推移 X 投稿",
+   "results": [
+    "https://recruit-holdings.com/ja/ir/library/upload/recruit_202603Q2_securities-report_jp/",
+    "https://www.msn.com/ja-jp/money/listdetails/%E3%83%86%E3%83%BC%E3%83%9E%E5%88%A5%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2:%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E5%A3%B2%E5%8D%B4/fl-b5a6273fbc86?src=fxins&listSrc=pipeline&miid=AA1aG0BX",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://www.ags.co.jp/ir/library/securities/report_20221110_2q.pdf",
+    "https://fundom.jp/news/ETCFw_Pm",
+    "https://coin.z.com/jp/corp/information/market-news/detail.html?b5193418dc43043878cd10ae16310279ce060d25",
+    "https://bbx.com/ja/news-detail/3166048",
+    "https://www.jencorp.net/jp/net/bid/condition_report.html?id=693405",
+    "https://acy.com/ja/market-news/market-analysis/YCC-111300/?undefinedsupport/privacy-policy",
+    "https://yhresearch.hatenablog.jp/entry/2026/05/25/115253"
+   ]
+  },
+  {
+   "query": "JMC SOLIZE 3D printing service revenue trend site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/sls-3d-printing-service-market-size-revenue-smart-8kptc",
+    "https://www.linkedin.com/pulse/future-sls-3d-printing-market-growth-potential-size-efvmc",
+    "https://pe.linkedin.com/pulse/2023-3d-printing-technology-trends-comprehensive-insight-additive",
+    "https://ar.linkedin.com/company/jmc3doficial",
+    "https://in.linkedin.com/company/solizepartnersindia",
+    "https://jp.linkedin.com/pulse/agentic-ai-future-travel-what-executives-need-know-mahmoud-abufadda-y4sqf?tl=ja",
+    "https://pe.linkedin.com/posts/aaron-delong-9bbb405_just-a-couple-weeks-ago-we-looked-at-the-activity-7306392498682114048-kYiH"
+   ]
+  }
+ ],
+ "missing": {
+  "主体": "記載なし（読んだ24頁・検索11回）"
+ },
+ "new_this_run": {
+  "件数の推移": [
+   {
+    "quote": "SOLIZE Holdings（5871）の財務情報ならログミーFinance SOLIZE HD、上期は売上高・売上総利益が過去最高 持株会社体制へ移行し中長期目標の実現を目指す - ログミーファイナンス",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただいまより、SOLIZE Holdings株式会社の2025年12月期第2四半期決算説明会を始めます",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当社は1990年に設立されました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "グループ会社としては、中核会社を新たに設立したことに加え、海外ではインド、アメリカ、中国、タイ、カナダの5地域に進出しています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当社は2010年代には約160億円から170億円の売上高を維持していましたが、2020年には新型コロナウイルスの影響で一時的に約15パーセント減少しました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ものづくりのデジタル化、現在でいうDXが90年代初頭から始まった中で、当社はその黎明期からエンジニアリングサービスおよびマニュファクチュアリングサービスを実践してきました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "昨今、自動車メーカー各社も「100年に一度の転換期」として、ハードウェア中心の研究開発からソフトウェア中心へと大幅な開発リソースのシフトを進めています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "さらに、2020年以降、当社は一定の投資を行い、これまでものづくりの設計、解析、生産準備を中心に業務を展開してきましたが、上流工程として、お客さまのPoC（概念実証）を早めるというニーズに対し3Dプリンターが非常に適しており、これまでお客さまの聖域であった研究開発領域にも入る機会が増えています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、下流工程では、これまで試作品製造を中心としていた当社ですが、3Dプリンティングの性能や品質が向上したことで、少量量産工程まで進出できています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まず、当社はこの7月に、中長期目標を達成するため、新たに持株会社体制に移行しSOLIZE株式会社からSOLIZE Holdings株式会社へと商号変更しました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そして、3つの中核事業会社であるSOLIZE PARTNERS、SOLIZE Ureka Technology、および＋81に分社化し、事業展開を進めています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2つ目の事業会社であるSOLIZE Ureka Technologyについてです",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中核事業会社:＋81株式会社",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最後に＋81という会社についてです",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6. Appendix 1：会社概要",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 既存領域の拡大と新規領域の拡大により成長速度を加速させるため、中核事業会社3社による持株会社体制へ移行",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 2027年売上高400億円、2033年売上高1,000億円を達成するための基盤となる持株会社体制への移行にかかる費用については、当初",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• M&Aの当期実績は2社（株式会社フューレックスの株式取得、RACAR Canada Inc.からの事業譲受）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 持株会社体制への移行及び体制構築を完了（2025年7月）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 当第3四半期累計実績は前期比14.3%増加",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年 12 月期 第 3 四半期（累計）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年 12 月期 第 3 四半期 （累計）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "株式会社SiM24",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "+81株式会社",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 分社化した中核事業会社３社を中心とした下記の新セグメント区分へと変更し、2025年12月期 第3四半期から当区分にて開示",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第3四半期（累計）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第3四半期（累計） 増減額 増減率（%）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※1 報告セグメント区分の変更に伴い、2024年12月期 第3四半期（累計）は変更後のセグメント区分に組み替えた数値で記載しております",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "場面・目的": [
+   {
+    "quote": "また、下流工程では、これまで試作品製造を中心としていた当社ですが、3Dプリンティングの性能や品質が向上したことで、少量量産工程まで進出できています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加えて、2020年以降は売上高の約5パーセントを新規事業へ投資しています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "それぞれの中核ビジネスがしっかりと収益の核となるビジネスを持ち、そこで得た収益を新規事業に投資することで、成長を一気に加速させていきます",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "事業承継において、地域や地場で長年しっかりと事業を続けてきたものの、後継者がなかなか見つからない企業に対して、エンジニアのキャリアや教育も含めた体制が整った企業にジョインしたい、という想いでSOLIZEを選んでいただきました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で、事業承継において、会社の将来や社員のことを考え、基盤がしっかりした会社を求めている企業もあります",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリント試作・最終製品製",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SOLIZE Ureka Technology株式会社新規事業",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ス、ソフトウェア開発サービス、及び試作品・3Dプリンターの販売の分野における売上高は、前年同期と比べて引",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンターによる試作部品、",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "将来の競争力強化に向けた変革活動実行開発力増大派遣エンジニア数、試作部品外部委託増加エンジニア派遣、試作部品受注",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンターによる量産品・補給部品供給",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンターによる試作品製作",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ト試作・最終製品製作事業、3Dプ",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリント試作・最終製品製作",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "事業内容 社会・産業課題の解決に向けた新規事業の開発及び運営",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "社会・産業課題の解決に向けた新規事業の開発及び運営",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製品開発受託・エンジニア派遣・コンサルティング及び3Dプリント試作・最終製品製",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新規事業開発を行い、新たな企業を作る",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "素材の内訳": [
+   {
+    "quote": "• PEEK、PEKK、PEI、PPS など多くのスーパーエンプラ材料での",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額の推移": [
+   {
+    "quote": "SOLIZE Holdings（5871）の財務情報ならログミーFinance SOLIZE HD、上期は売上高・売上総利益が過去最高 持株会社体制へ移行し中長期目標の実現を目指す - ログミーファイナンス",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "売上高推移（2017年~2024年）",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当社は2010年代には約160億円から170億円の売上高を維持していましたが、2020年には新型コロナウイルスの影響で一時的に約15パーセント減少しました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのような取り組みを重ねることで、2023年の200億円の売上高に対し、中期で2027年には倍の400億円、さらに2033年には1,000億円の売上高を目指しています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加えて、2020年以降は売上高の約5パーセントを新規事業へ投資しています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "売上高は上期で122億2,600万円と過去最高を記録しました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "売上総利益も32億1,300万円となり、こちらも過去最高です",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で営業利益については、今年2月にお伝えしたように、昨年下期から進めている投資を加速させたことにより販管費が増加し、結果として営業利益は4億3,100万円の損失、中間純利益は2億5,200万円の損失となっています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これらグローバル展開に向けた追加の費用が発生した結果、上期の営業利益は4億3,100万円の損失となっています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "期初に公表した売上高270億円、営業利益は微増の5億円で、最終着地は変わらないものと想定しています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SOLIZE、売上高・売上総利益は過去最高を達成 アジア・北米に2拠点を設立 M&A戦略とグローバル展開で成長加速狙う",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "川崎汽船、通期経常利益を上方修正 新中計発表で31年度ROE15％以上・当期純利益2,100億円プラスアルファを目指す",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "BASE、3Q累計売上高YoY34％増・売上総利益48.5％増 グループの非連続な成長の実現に向け、SBIHDとの資本業務提携契約を締結",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "提供価値の拡大を推進し、2027年に売上高400億円、2033年に売上高1,000億円を目標とする",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 2027年売上高400億円、2033年売上高1,000億円を達成するための基盤となる持株会社体制への移行にかかる費用については、当初",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 採用体制強化により、2026年4月の新卒内定者数が185名と前年比16%増加（前々年比91%増加）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月期 連結売上高 四半期単独の推移",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 当第3四半期累計実績は前期比14.3%増加",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "通期では前期比15.3%増加の見通し",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 顧客企業の需要は今後拡大すると見込み、第4四半期には売上高の成長回復を見込む（前年同期比18.2%増）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 売上高は、米国関税政策の影響もあり、第３四半期に入り自動車業界をはじめとする主要顧客の受注が足踏みする状況に",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なったものの、過去最高、かつ前年同期比2,339百万円増の18,751百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 売上総利益は、売上高の伸長と比例し、過去最高、かつ前年同期比398百万円増の4,935百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 当第3四半期の売上高が当初計画に対して未達になったことが営業利益に影響し、571百万円の営業損失（前年同期は営業",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "利益219百万円）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "売上高 16,411 18,751 2,339 14.3",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 営業利益は571百万円の損失を計上（前年同期は営業利益219百万円）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1,189百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "のれん、3Dプリンター等減価償却費増加 等",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※2 セグメント利益又は損失(△)の調整額50百万円には、セグメント間取引消去686百万円及び各報告セグメントに配分していない全社費用等△636百万円が含まれております",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "AM・3Dプリンタ": [
+   {
+    "quote": "さらに、2020年以降、当社は一定の投資を行い、これまでものづくりの設計、解析、生産準備を中心に業務を展開してきましたが、上流工程として、お客さまのPoC（概念実証）を早めるというニーズに対し3Dプリンターが非常に適しており、これまでお客さまの聖域であった研究開発領域にも入る機会が増えています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、下流工程では、これまで試作品製造を中心としていた当社ですが、3Dプリンティングの性能や品質が向上したことで、少量量産工程まで進出できています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "のれん、3Dプリンター等減価償却費増加 等",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンター パーツ製造",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンター 販売・保守",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリント試作・最終製品製",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "作事業、3Dプリンター装置導",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 最先端3Dプリンターへの積極投資、中期成長を目的とした経験者や AI人財の積極採用、",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デジタルエンジニアリング開発支援 3Dプリンター パーツ製造",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ス、ソフトウェア開発サービス、及び試作品・3Dプリンターの販売の分野における売上高は、前年同期と比べて引",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンター パーツ製造導入事例",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンターによる試作部品、",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンター装置販売・保守",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンター装置・部品・材料の",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "将来の競争力強化に向けた変革活動実行開発力増大派遣エンジニア数、試作部品外部委託増加エンジニア派遣、試作部品受注",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンター活用による",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンターによる量産品・補給部品供給",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンターによる試作品製作",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ト試作・最終製品製作事業、3Dプ",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ハイエンド 3Dプリンターを",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリント試作・最終製品製作",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンター装置導入",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンター パーツ",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンター 販売・",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製品開発受託・エンジニア派遣・コンサルティング及び3Dプリント試作・最終製品製",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "作、3Dプリンター装置導入に関する事業",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "SOLIZE Holdings（5871）の財務情報ならログミーFinance SOLIZE HD、上期は売上高・売上総利益が過去最高 持株会社体制へ移行し中長期目標の実現を目指す - ログミーファイナンス",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月期第2四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただいまより、SOLIZE Holdings株式会社の2025年12月期第2四半期決算説明会を始めます",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "売上高推移（2017年~2024年）",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当社は2010年代には約160億円から170億円の売上高を維持していましたが、2020年には新型コロナウイルスの影響で一時的に約15パーセント減少しました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "さらに、2020年以降、当社は一定の投資を行い、これまでものづくりの設計、解析、生産準備を中心に業務を展開してきましたが、上流工程として、お客さまのPoC（概念実証）を早めるというニーズに対し3Dプリンターが非常に適しており、これまでお客さまの聖域であった研究開発領域にも入る機会が増えています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このように工程の上流と下流の両方に展開を広げるとともに、これまではハードウェア中心だった事業領域を、2020年以降、ソフトウェア領域、さらにはサイバーセキュリティのデジタルリスク領域へと拡大させ、成長を続けています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのような取り組みを重ねることで、2023年の200億円の売上高に対し、中期で2027年には倍の400億円、さらに2033年には1,000億円の売上高を目指しています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加えて、2020年以降は売上高の約5パーセントを新規事業へ投資しています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その結果、新しいビジネス領域として、ソフトウェアやサイバーセキュリティ領域、AI、デジタル製造分野では3Dプリンティングを活用した少量量産を開始しました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、2024年2月には上場を果たし、資金調達を進める中で、M&Aも実施しました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "売上高は上期で122億2,600万円と過去最高を記録しました",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "売上総利益も32億1,300万円となり、こちらも過去最高です",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国内採用数は、3年で500名体制を構築するという目標のもと、今期も順調に推移し、第2四半期で280名を超える採用を達成しています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月期 連結業績予想",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上場初年度の配当金は44円、その後47円と推移し、今期は55円を予定しています",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025/02/17",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025/02/27",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SOLIZE、売上高・売上総利益は過去最高を達成 アジア・北米に2拠点を設立 M&A戦略とグローバル展開で成長加速狙う",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "提供：SOLIZE株式会社 2024年12月期決算説明",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026/11/04",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026/11/06",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "川崎汽船、通期経常利益を上方修正 新中計発表で31年度ROE15％以上・当期純利益2,100億円プラスアルファを目指す",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度第2四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/382498",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月期 第3四半期決算説明資料",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025.11.07",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. 2025年12月期 第3四半期決算ハイライト",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. 2025年12月期 連結業績予想",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "提供価値の拡大を推進し、2027年に売上高400億円、2033年に売上高1,000億円を目標とする",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 2027年売上高400億円、2033年売上高1,000億円を達成するための基盤となる持株会社体制への移行にかかる費用については、当初",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 採用体制強化により、2026年4月の新卒内定者数が185名と前年比16%増加（前々年比91%増加）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 持株会社体制への移行及び体制構築を完了（2025年7月）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月期 連結売上高 四半期単独の推移",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月期 第3四半期決算ハイライト",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年 12 月期 第 3 四半期（累計）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なったものの、過去最高、かつ前年同期比2,339百万円増の18,751百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 売上総利益は、売上高の伸長と比例し、過去最高、かつ前年同期比398百万円増の4,935百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年 12 月期 第 3 四半期 （累計）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年12月期",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月期",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 分社化した中核事業会社３社を中心とした下記の新セグメント区分へと変更し、2025年12月期 第3四半期から当区分にて開示",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※1 報告セグメント区分の変更に伴い、2024年12月期 第3四半期（累計）は変更後のセグメント区分に組み替えた数値で記載しております",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※3 2024年12月期 第3四半期（累計）は、持株会社体制に移行前のため、全社費用を各報告セグメントに配分しております",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "FY2024Q3 FY2025Q3",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 持株会社化に伴い、本社費及び共通費等が増加し 、配賦方法も変更したため、2024年",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 持株会社化に伴い、本社費及び共通費等が増加し、配賦方法も変更したため、2024年度と",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年12月期 2025年12月期第3四半期 増減額",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※3 2025年12月期 第3四半期からSiM24、フューレックスを含む",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "期間・審査": [
+   {
+    "quote": "⚫ 当第3四半期連結会計期間は前年同期比15.2％増収であったが、受注拡大ペースは当初計画を下回った",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 提案時点で納期まで 2ヶ月を切る短期間での製作が求められるなか 、完成データを受領後 、データ作",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 2024年12月期第4四半期単独期間においては、当社設立以来初の60億円を超過",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T17:18:24.819463+00:00"
+}

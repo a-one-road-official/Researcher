@@ -1,0 +1,2407 @@
+{
+ "name": "国内のAM受託の素材別内訳（金属・エンプラ・カーボン・樹脂）の推移",
+ "en": "Japan 3D printing service by material metal engineering plastic carbon resin share",
+ "aliases": [
+  "受託造形 素材別 金属 樹脂 比率",
+  "3Dプリント 材料別 市場 国内",
+  "エンプラ 3Dプリンタ 市場",
+  "CFRP 3Dプリンタ 市場"
+ ],
+ "context": "市場調査・素材内訳",
+ "kind": "market",
+ "researched_at": "2026-11-06T17:10:42.407370+00:00",
+ "evidence": {
+  "場面・目的": [
+   {
+    "quote": "・さらに、2025年度は、希望退職の実施や構造改革 による事業撤退等の決断 ・発表を行ってきました が、事案",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "①サプライチェーン・地政学に関連するリスク",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "リスク項目 サプライチェーン（地政学リスク・経済安全保障リスクを含む）",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・当社グループ製品が、法令違反、サプライチェーンにおけ る環境影響及び人権侵害 に係る問題、経済",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "リスク対策 ・調達先の分散や代替原材料の検討、また、安全操業による製品の生 産や製品の品質の維持 ・向上に努",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当社グループだけでな く、当社グループと取引のあ るサプライチェーン先にお いて、人権侵害に関与す",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・適切なサプライチェーン を運営しながらグローバ ルな事業活動を持続的に 展開していけるよう、社内",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・当社グループに対する自然災害の直接の影響が軽微であっ たとしても、サプライチェーンや物流 関係",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ コア営業利益は、営業利益から非経常的な要因により発生した損益（事業撤退や縮小から生じる損",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主に、三菱ケミカル㈱におい て、コークス及び炭素材事業 の撤退を決定したことに 関連して、設備撤去費用",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ム地上検証モデル試作評 価」の研究開発の一環とし て、㈱KDDI総合研究所、㈱アークエッジ ・スペース、㈱テ",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "主体": [
+   {
+    "quote": "なお、当社は、有価証券の取引等の規制に関する内閣府令第49条第２項に規定する特定上場会社等に該当するため、",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・経済産業省の「令和７年度資源自律経済確立産 官学連携加速化事業 費（広域自治体における資源 循環システム",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "NEDO（国立研究開発法人新エネルギー ・産業技術総合開発機 構）が",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Trenfield, Sarah J; Awad, Atheer; Madla, Christine M; Hatton, Grace B; Firth, Jack; Goyanes, Alvaro; Gaisford, Simon; Basit, Abdul W (3 October 2019).",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "第 21 期 自 2025年４月１日至 2026年３月31日",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 【主要な経営指標等の推移】………………………………………………………………………………… ２",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【提出日】 2026年６月22日",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【事業年度】 第21期(自 2025年４月１日 至 2026年３月31日)",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 【主要な経営指標等の推移】",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算年月 2022年３月 2023年３月 2024年３月 2025年３月 2026年３月",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３ 第19期よりIAS第12号「法人所得税」（2021年５月改訂）を適用しております",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(注) 最高株価及び最低株価は、2022年４月３日以前は東京証券取引所市場第一部におけるものであり、2022年４月４",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2012年11月 当社の全額直接出資子会社である三菱ケミカルホールディングスヨーロッパ社を設立",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014年４月 当社グループのヘルスケアソリ ューション事業を統合 し、同事業を担う新たな事業 会社として㈱",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017年４月 三菱化学㈱、三菱樹脂㈱及び三菱レイヨン㈱の３社を合併により統合し、三菱ケミカル㈱を発足",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2020年３月 田辺三菱製薬㈱の株式を公開買付け及び売渡請求により取得し、同社を完全子会社化",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年７月 当社の商号を三菱ケミカルグループ㈱に変更",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年10月 当社の全額直接出資子会 社である三菱ケミカルホールディン グスアメリカ社及び三菱 ケミカルホ",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年４月 当社の全額直接出資子会社である㈱地球快適化インスティテュートを吸収合併により統合",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年10月 当社の全額直接出資子会 社である三菱ケミカル APAC社を、三菱ケミカル㈱の子会社である三菱ケ",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年７月 当社の全額直接出資子会社である田辺三菱製薬㈱を㈱BCJ-94に譲渡",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年４月 当社が営むコーポレートベンチ ャーキャピタル事業等 を、当社の全額直接出資子会 社である三菱",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当連結会計年度末日にお いて、各事業会社のセグメント 毎の主要な事業及びその 主要な子会社等は、次の表のとお",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、当連結会計年度の期首より、報告セグメントの区分を変更しておりますが、詳細は「第５ 経理",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ライガス社は、2026年４月１日付でそれぞれ、日本酸素㈱、ニッポン・サンソ・ユーロ・ホールディ",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "は、2026年４月１日付でそれぞ れ、日本酸素 ㈱、ニッポン ・サンソ ・ユーロ ・ホールディング社及びニ ッポン ・サン",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ジウム社、ニッポン・ガシズ・ユーロ・ホールディング社及びマチソン・トライガス社は、2026年４月１日",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "文中における将来に関する事項は、当社グループが当連結会計年度末現在において判断したものです",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As of 2019",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "as of 2020",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "magazine, pointed out in 2017 that the terms are still often",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Owning a 3D printer in the 1980s cost upwards of $300,000 ($650,000 in 2016 dollars).",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "One place that AM is making a significant inroad is in the aviation industry. With nearly 3.8 billion air travellers in 2016,",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A fuel nozzle is the perfect inroad for additive manufacturing in a jet engine since it allows for optimized design of the complex internals and it is a low-stress, non-rotating part. Similarly, in 2015, PW delivered their first AM parts in the PurePower PW1500G to Bombardier. Sticking to low-stress, non-rotating parts, PW selected the compressor stators and synch ring brackets",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In 2012, Filabot developed a system for closing the loop",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In 2014,",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As the price of printers started to drop people interested in this technology had more access and freedom to make what they wanted. As of 2014, the price for commercial printers was still high with the cost being over $2,000.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "as of 2018",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As of 2020, 3D printers have reached the level of quality and price that allows most people to enter the world of 3D printing. In 2020 decent quality printers can be found for less than US$200 for entry-level machines. These more affordable printers are usually",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In November 2021 a British patient named Steve Verze received the world's first fully 3D-printed prosthetic eye from the",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In April 2024, the world's largest 3D printer, the Factory of the Future 1.0 was revealed at the",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In 2024, researchers used",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In July 2024, researchers published a paper in",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In October 2025, the",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In 2018, Italian bioengineer",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "used 3D printing to prototype and manufacture the 2012 Vapor Laser Talon football shoe for players of American football, and",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In early 2014, Swedish",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In May 2015 Airbus announced that its new",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In 2015, a",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In 2017,",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "firearms. In 2012, the US-based group",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As of 2012",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "期間・審査": [
+   {
+    "quote": "その考え方に基づ き、2035年までの期間を対象とす る経営ビジョ ン「KAITEKI Vision",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の見積りが変更された会計期間及び影響を受ける将来の会計期間において認識されます",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "測の期間を超えた後の将 来キャッシュ・フローは個別の 事情に応じた５年を超える期間の長期平 均成長率を",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "フローの見積り、割引率及び５年を超える期間の長期成長率です",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "測される期間における 将来課税所得の予測に基 づき、回収される可能性が高い と考えておりま す",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中東情勢による当社グ ループへの影響 は、その動向及び継続期間に より異なります",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(5) 新株予約権を行使することができる期間",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新株予約権の行使期間の 開始日と組織再 編行為の効力発生日のい ずれか遅い日か ら、新株予約権の行使",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新株予約権の行使期間 2014年９月13日から2034年９月12日まで 2015年９月29日から2035年９月28日まで 2016年７月20日から2036年７月19日まで",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新株予約権の行使期間 2017年７月26日から2037年７月25日まで 2018年７月25日から2038年７月24日まで",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "件数の推移": [
+   {
+    "quote": "４ 【関係会社の状況】…………………………………………………………………………………………… ６",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第４ 【提出会社の状況】……………………………………………………………………………………………… 51",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第６ 【提出会社の株式事務の概要】…………………………………………………………………………………213",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第７ 【提出会社の参考情報】…………………………………………………………………………………………214",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 【提出会社の親会社等の情報】………………………………………………………………………………214",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第二部 【提出会社の保証会社等の情報】………………………………………………………………………………215",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１株当たり親会社",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "親会社所有者帰属持分比率 (％) 26.2 27.1 28.9 29.5 30.0",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 当社は、第21期において、当社の連結子会社であった田辺三菱製薬㈱（現 田辺ファーマ㈱）の全株式及び",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "関連資産を吸収分割により譲渡したことに伴い、同社及びその子会社等の事業を非継続事業に分類し、第20",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(2) 提出会社の経営指標等",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2005年４月 三菱化学㈱及び三菱ウェ ルファーマ㈱は、両社が共同で株式移転の 方法により、両社の完全親会",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〃 10月 三菱化学㈱及び三菱ウェルファーマ㈱の株式移転により当社を設立",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〃 10月 三菱樹脂㈱との株式交換により同社を当社の完全子会社化",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〃 10月 三菱ウェルファーマ㈱が田辺製 薬㈱と合併し、新たに連結上場子会社で ある田辺三菱製薬㈱が発",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2009年４月 当社の全額直接出資子会社である㈱地球快適化インスティテュートを設立",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2010年３月 三菱レイヨン㈱の株式を公開買付けにより取得し、同社を連結子会社化",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〃 10月 三菱レイヨン㈱との株式交換により同社を完全子会社化",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〃 11月 当社の全額直接出資子会社である三菱ケミカルホールディングスアメリカ社を設立",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "素材の内訳": [
+   {
+    "quote": "2007年３月 三菱化学㈱が三菱樹脂㈱の株式を公開買付けにより追加取得",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〃 ９月 三菱化学㈱が保有する三菱樹脂㈱の株式のすべてを株式の現物配当の方法により取得",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〃 10月 三菱樹脂㈱との株式交換により同社を当社の完全子会社化",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ムケーブイ㈱の株式のす べてを当社に、また、機能材料事業を三菱樹脂 ㈱にそれぞれ吸収分割に",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "より移管し、三菱樹脂㈱が、三菱化学ポリエステルフィルム ㈱、三菱化学産資㈱及び三菱 化学エ",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017年４月 三菱化学㈱、三菱樹脂㈱及び三菱レイヨン㈱の３社を合併により統合し、三菱ケミカル㈱を発足",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "化学に立脚する当社グル ープは、カーボンニュートラルや サーキュラーエコノ",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "カーボンニュートラルの実現 や、人材の育成・開発と働く環境の整備な どの人的資本の拡充を含 めた事業基盤の強",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、持続的な成長を達成しつ つ、2050年度までにカーボンニュ ートラルを実現するた め、製造",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当社グループ は、カーボンニュートラルに 移行する社会でも競争力 のある企業をめざ し、 Visionとの整合",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "性、競争優位性、成長性の基準を用いたポ ートフォリオへの変革を 通じて、カーボンニュートラ ル実現に貢献",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "数量差：精密洗浄サービスを中心 とした半導体関 連、半導体製造装置向け高機 能エンプラ及び",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ロボタクシー向けを中心とした炭素繊維コンポジットパーツ等の増販により増益",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アドバンストコンポジ ット＆シェイプスサブセグメン トにおいては、炭素繊維事業における汎 用焼成ライン",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "造装置用途を中心に需要 が増加したことに加 え、炭素繊維コンポジットパ ーツの増販 や、為替影響等によ り、",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プラスチックの半導体製 造装置用途を中心とした 需要の増加や炭素繊維コンポジ ットパーツ等の増 販、各事業",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本ポリケム㈱ JNC石油化学㈱ ポリプロピレン樹脂の製 造及び販売",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "三菱ケミカル㈱ ＵＢＥ㈱ ABS樹脂の製造及び販売を主たる目的",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "MMAモノマー、アクリル樹脂等の製造",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・食品包装材等に使用され る樹脂「ソアノール ™ 」の溶液を紙基材に塗工す ることにより、PFASを用いた包装材",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本プロジェクトで は、得意とするプロセス雰囲 気ガス制御技術や金属 AM",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "に関する知見を活か し、造形条件の最適化技術お よび製造条件探索システ ムの開発を通じ て、金属AM技術の産",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "シーピーシー社 炭素繊維関連製品の製造設備増設",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "AM・3Dプリンタ": [
+   {
+    "quote": "コーティング＆アディティブスサブセグ メントにおいて は、販売価格の維持 ・向上があったものの、塗料・",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ム地上検証モデル試作評 価」の研究開発の一環とし て、㈱KDDI総合研究所、㈱アークエッジ ・スペース、㈱テ",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・抗血栓性熱可塑性エラストマー「Zelas ™ AMP」の医療機器への適応について、九州大学先導物質化学研究所及",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "MMA、コーティング＆アディティブスに関する研究開発を行っており、当連結会計年度の主な成果は次のとおり",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「DURABIO ™ （デュラビオ ™ ）」が、日本政府館に設置された3Dプリンタ製「藻類スツール」のベース素材とし",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・アディティブ・マニュファクチャリン グ（AM）事業においては、技術の開発と造形物の品 質安定化に寄与する",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "推進する「経済安全保障重要技術育成プログラム（K Program）」に2025年５月に採択されており、焼結型積層",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "造形とデジタルプロセ ス設計を組み合わせた金 属3Dプリンタシステムの研究 開発に2024年度から2028年度まで",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本プロジェクトで は、得意とするプロセス雰囲 気ガス制御技術や金属 AM",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "に関する知見を活か し、造形条件の最適化技術お よび製造条件探索システ ムの開発を通じ て、金属AM技術の産",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3D printing - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Benefits of 3D printing",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Multi-material 3D printing",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3D printing",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "additive manufacturing",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3D printing techniques",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", the precision, repeatability, and material range of 3D printing have increased to the point that some 3D printing processes are considered viable as an industrial-production technology; in this context, the term",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "One of the key advantages of 3D printing",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(FDM), which uses a continuous filament of a",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "material, is the most common 3D printing process in use",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "additive manufacturing (AM)",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "for the large family of",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "was more likely to be used in metalworking and end-use part production contexts than among polymer, inkjet, or stereolithography enthusiasts.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Additive Manufacturing",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "but some manufacturing industry experts are trying to make a distinction whereby additive manufacturing",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3D printing plus other technologies or other aspects of a",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "is the use of modular means to design tooling that is produced by additive manufacturing or 3D printing methods to enable quick",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In industrial and technical settings, additive manufacturing is often the preferred term, and 3D printing is used more by the general public.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "a continuous inkjet metal material device to form a removable metal fabrication on a reusable surface for immediate use or salvaged for printing again by remelting. This appears to be the first patent describing 3D printing with rapid prototyping and controlled on-demand manufacturing of patterns.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "laid out the concept of 3D printing in his regular column",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Early additive manufacturing equipment and materials were developed in the 1980s.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In April 1980, Hideo Kodama of",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "On 2 July 1984, American entrepreneur",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "as the first 3D printing patent in history; it was the first of three patents belonging to Masters that laid the foundation for the 3D printing systems used today.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額の推移": [
+   {
+    "quote": "売上収益 (百万円) 3,976,948 4,634,532 4,387,218 3,947,566 3,703,988",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "税引前利益 (百万円) 290,370 167,964 240,547 99,248 711",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当期利益 (百万円) 209,405 135,545 178,439 105,636 78,425",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当期利益(△損失) (百万円) 177,162 96,461 119,596 45,020 11,829",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当期包括利益 (百万円) 332,834 210,888 363,597 77,464 251,905",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当期包括利益 (百万円) 268,003 151,379 249,349 21,774 116,616",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "持分 (百万円) 1,458,077 1,564,698 1,763,447 1,740,570 1,761,675",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資産合計 (百万円) 5,573,871 5,774,348 6,104,513 5,894,619 5,876,609",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "株価収益率 (倍) 6.6 11.6 10.9 23.3 104.2",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) 346,871 355,189 465,146 552,847 436,287",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) △128,781 △247,632 △246,087 △275,434 124,470",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) △336,283 △60,783 △241,724 △246,654 △375,207",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "期末残高 (百万円) 245,789 297,224 294,924 326,144 527,104",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "営業収益 (百万円) 69,463 125,338 211,979 75,819 57,621",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経常利益 (百万円) 52,616 103,063 186,575 51,650 48,377",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当期純利益 (百万円) 56,214 104,520 188,823 137,659 96,077",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金 (百万円) 50,000 50,000 50,000 50,000 50,000",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "純資産額 (百万円) 409,687 471,397 614,457 706,761 708,453",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "総資産額 (百万円) 1,796,949 2,012,340 1,993,373 1,972,132 1,589,500",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "株価収益率 (倍) 20.7 10.7 6.9 7.6 12.8",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４ 連結子会社のうち、三菱ケミカル㈱の単体の売上高は、当社の連結売上収益の10％を超えております",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "①売上高 1,129,458百万円",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "②経常利益 34,191百万円",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "③当期純損失 87,619百万円",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://app.exroad.jp/research/archived-data?id=748",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.aluminum.or.jp/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/content/000311345.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://researchmap.jp/ns_econ/misc/3495700?lang=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250409_archive/f9f10x/140120250407510353.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tpr.co.jp/assets/pdf/ir/annual/report_1.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jcfia.gr.jp/report/pdf/no38/21.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.adeka.co.jp/ir/library/pdf/corporate_report2025_full_j_low.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inabata.co.jp/themes/inabata/investor/library/integrated_report/file/integrated_report2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/archive/ar/ar2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ir.ide.go.jp/records/27005/file_details/ASE004200_004.pdf?filename=ASE004200_004.pdf&file_order=0",
+    "status": "http_406",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tpr.co.jp/assets/pdf/ir/annual/report_2.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aij.or.jp/jpn/symposium/2026/261219nosonsyuki.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/065.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.protolabs.com/services/3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pcbway.com/rapid-prototyping/3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlc3dp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/groups/styleitaliano/posts/6333191480073632/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "国内のAM受託の素材別内訳（金属・エンプラ・カーボン・樹脂）の推移 推移",
+   "results": [
+    "https://app.exroad.jp/research/archived-data?id=748",
+    "https://www.aluminum.or.jp/environment/",
+    "https://www.env.go.jp/content/000311345.pdf",
+    "https://researchmap.jp/ns_econ/misc/3495700?lang=ja",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250409_archive/f9f10x/140120250407510353.pdf",
+    "https://tpr.co.jp/assets/pdf/ir/annual/report_1.pdf",
+    "https://www.jcfia.gr.jp/report/pdf/no38/21.pdf",
+    "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "https://www.adeka.co.jp/ir/library/pdf/corporate_report2025_full_j_low.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ]
+  },
+  {
+   "query": "国内のAM受託の素材別内訳（金属・エンプラ・カーボン・樹脂）の推移 年度別",
+   "results": [
+    "https://www.env.go.jp/content/000311345.pdf",
+    "https://tpr.co.jp/assets/pdf/ir/annual/report_1.pdf",
+    "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250409_archive/f9f10x/140120250407510353.pdf",
+    "https://www.jcfia.gr.jp/report/pdf/no38/21.pdf",
+    "https://www.adeka.co.jp/ir/library/pdf/corporate_report2025_full_j_low.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93643",
+    "https://www.inabata.co.jp/themes/inabata/investor/library/integrated_report/file/integrated_report2023.pdf",
+    "https://www.nissanchem.co.jp/ir_info/archive/ar/ar2025.pdf"
+   ]
+  },
+  {
+   "query": "国内のAM受託の素材別内訳（金属・エンプラ・カーボン・樹脂）の推移 件数 pdf",
+   "results": [
+    "https://www.env.go.jp/content/000311345.pdf",
+    "https://ir.ide.go.jp/records/27005/file_details/ASE004200_004.pdf?filename=ASE004200_004.pdf&file_order=0",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250409_archive/f9f10x/140120250407510353.pdf",
+    "https://www.jcfia.gr.jp/report/pdf/no38/21.pdf",
+    "https://www.adeka.co.jp/ir/library/pdf/corporate_report2025_full_j_low.pdf",
+    "https://tpr.co.jp/assets/pdf/ir/annual/report_2.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
+    "https://www.aij.or.jp/jpn/symposium/2026/261219nosonsyuki.pdf",
+    "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ]
+  },
+  {
+   "query": "Japan 3D printing service by material metal engineering plastic carbon resin share",
+   "results": [
+    "https://www.protolabs.com/services/3d-printing/",
+    "https://www.pcbway.com/rapid-prototyping/3d-printing/",
+    "https://www.youtube.com/watch?v=pIY9LP7p8Bc",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://en.wikipedia.org/wiki/3D_printing",
+    "https://jlc3dp.com/",
+    "https://www.facebook.com/groups/styleitaliano/posts/6333191480073632/",
+    "https://3dprint.com/274295/hybrid-3d-printing-technique-creates-plastic-metal-structures-all-at-once/",
+    "https://rapidmade.com/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-materials-market/japan"
+   ]
+  },
+  {
+   "query": "site:note.com 国内のAM受託の素材別内訳（金属・エンプラ・カーボン・樹脂）の推移",
+   "results": [
+    "https://note.com/arcmasters/n/n3caf8b849268",
+    "https://note.com/kinzoku2/n/nd9351728b704",
+    "https://note.com/edgeworks_tokyo/n/n9772c8a7b6e4",
+    "https://note.com/kandoinspirefact/n/nc7a62ad92906",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/edgeworks_tokyo/n/nbf2e5fb6bdfe",
+    "https://note.com/tekkan/n/nada7fc91d0e4"
+   ]
+  },
+  {
+   "query": "site:x.com 国内のAM受託の素材別内訳（金属・エンプラ・カーボン・樹脂）の推移",
+   "results": [
+    "https://jf.x.com/images/media-preview/2115003520709747193",
+    "https://jf.x.com/images/media-preview/2102586462248325350",
+    "https://x.com/trp326/status/2088408270302282217",
+    "https://x.com/miraclemasui/status/2092209611243966800",
+    "https://x.com/keizaikaiseki/status/1851775556670624151",
+    "https://x.com/OgawaSeisakusho/status/2110533866247336076",
+    "https://x.com/omu_shibaken/status/2101151798593491320"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 国内のAM受託の素材別内訳（金属・エンプラ・カーボン・樹脂）の推移",
+   "results": [
+    "https://pe.linkedin.com/posts/thomas-h-pang-ph-d-（トーマス・パン）-07745416_11月のjimtof2024には13万人ほどの来場者があり工作機械エリアはもちろんのこと-activity-7267028899404951552-nZQi",
+    "https://jp.linkedin.com/posts/sharelab-jp_金属am市場2034年に6兆円規模へvoxelmattersが最新市場レポート-activity-7328240169818505216-MPiF",
+    "https://jp.linkedin.com/posts/sharelab-jp_国内am企業が見たformnext-2023の姿yokoitoが分析する世界の-activity-7153643319867142144-2pZv",
+    "https://www.linkedin.com/posts/sharelab-jp_ストラタシスデー参加報告ストラタシスと国内ユーザーが示した日本の樹脂am活用-activity-7199565538472198145-rl1B",
+    "https://www.linkedin.com/posts/三菱商事テクノス　東京カスタマー・エクスペリエンス・センター_additivemanufacturing-am-金属積層造形-activity-7444625820213534720-YkQ4",
+    "https://jp.linkedin.com/posts/tsukasa-matsuoka-384bb4234_10月19日にナガセグローバル人財開発センターにて樹脂3dプリンティングの最新動向-activity-7500832011788398592-X53i",
+    "https://jp.linkedin.com/pulse/剛性感光樹脂国内シェアと参入企業-pharmaharbor-intelligence-ljcde"
+   ]
+  },
+  {
+   "query": "site:facebook.com 国内のAM受託の素材別内訳（金属・エンプラ・カーボン・樹脂）の推移",
+   "results": [
+    "https://www.facebook.com/INTERMOLD/posts/690027976250633/",
+    "https://www.facebook.com/INTERMOLD/photos/国内のam活用の現状と問題点を把握し実製品活用促進の活動を行う日本am協会その活動内容と国内実製品事例についてご説明しますhttpswwwintermoldjp/695038102416287/",
+    "https://www.facebook.com/INTERMOLD/posts/3dプリンティングam技術フェア特別講演am樹脂製品の実ビジネス活用はできるのかグローバルで加速化するadditive-manufacturingamによる量産/734200021833428/",
+    "https://www.facebook.com/jpShareLab/posts/996979085762917/",
+    "https://www.facebook.com/INTERMOLD/photos/金型や樹脂成形へam技術を取り入れるメリットとはintermoldと同時にamアディティブマニュファクチャリングの専門展am-expo東京を開催am技術単体での/1165827638670662/",
+    "https://www.facebook.com/INTERMOLD/posts/金型や樹脂成形へam技術を取り入れるメリットとはintermoldと同時にamアディティブマニュファクチャリングの専門展am-expo東京を開催am技術単体での/1171654071421352/",
+    "https://www.facebook.com/story.php/?story_fbid=1166877485232344&id=100057303105952"
+   ]
+  },
+  {
+   "query": "国内のAM受託の素材別内訳（金属・エンプラ・カーボン・樹脂）の推移 note 社長",
+   "results": [
+    "https://note.com/gold_lab_jp/archives",
+    "https://www.env.go.jp/content/000311345.pdf",
+    "https://release.nikkei.co.jp/attach_file/0524058_02.pdf",
+    "https://tpr.co.jp/assets/pdf/ir/annual/report_1.pdf",
+    "https://newscast.jp/smart/news/5024543",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93007/revisions/93054",
+    "https://www.tisi.jp/documents/jp/news/2022/tis_news/20220516_1.pdf",
+    "https://www.yano.co.jp/eplus/yearly.php?year=2014&srsltid=AYCX9vJEHlt3Y0GdoWQueBf-Bp5jLHg15I6PbbMzD0TJjU-Bw8QqtMv3",
+    "https://www.nissanchem.co.jp/ir_info/archive/ar/ar2025.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ]
+  },
+  {
+   "query": "国内のAM受託の素材別内訳（金属・エンプラ・カーボン・樹脂）の推移 X 投稿",
+   "results": [
+    "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "https://app.exroad.jp/research/archived-data?id=748",
+    "https://www.aluminum.or.jp/environment/",
+    "https://jmorp.megabank.tohoku.ac.jp/metabolome/TCB000037",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93723",
+    "https://itf.minkabu.jp/fund/18312991/monthlyreport",
+    "https://jp.investing.com/news/pro/article-1736850",
+    "https://researchmap.jp/HImetal/misc/52459561?lang=ja",
+    "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ]
+  },
+  {
+   "query": "Japan 3D printing service by material metal engineering plastic carbon resin share site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/markforged",
+    "https://www.linkedin.com/pulse/how-3d-printing-technology-changing-world-metalworking-emea",
+    "https://za.linkedin.com/company/akhani-3d",
+    "https://in.linkedin.com/company/carbon-3d-labs-india",
+    "https://www.linkedin.com/in/ethanbaehrend",
+    "https://www.linkedin.com/in/andrew-goldman-44828ba3",
+    "https://www.linkedin.com/pulse/mastering-art-3d-printing-small-guide-world-additive-benjamin-regener-l8a8e",
+    "https://uk.linkedin.com/company/midlands-3d-printing-ltd",
+    "https://www.linkedin.com/posts/jaimin-zaveri-63881674_gimide-pei-polyetherimide-activity-7508895746239148032-Zequ",
+    "https://www.linkedin.com/company/voxeljet-gmbh"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "場面・目的": [
+   {
+    "quote": "・さらに、2025年度は、希望退職の実施や構造改革 による事業撤退等の決断 ・発表を行ってきました が、事案",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "①サプライチェーン・地政学に関連するリスク",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "リスク項目 サプライチェーン（地政学リスク・経済安全保障リスクを含む）",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・当社グループ製品が、法令違反、サプライチェーンにおけ る環境影響及び人権侵害 に係る問題、経済",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "リスク対策 ・調達先の分散や代替原材料の検討、また、安全操業による製品の生 産や製品の品質の維持 ・向上に努",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当社グループだけでな く、当社グループと取引のあ るサプライチェーン先にお いて、人権侵害に関与す",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・適切なサプライチェーン を運営しながらグローバ ルな事業活動を持続的に 展開していけるよう、社内",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・当社グループに対する自然災害の直接の影響が軽微であっ たとしても、サプライチェーンや物流 関係",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ コア営業利益は、営業利益から非経常的な要因により発生した損益（事業撤退や縮小から生じる損",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主に、三菱ケミカル㈱におい て、コークス及び炭素材事業 の撤退を決定したことに 関連して、設備撤去費用",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ム地上検証モデル試作評 価」の研究開発の一環とし て、㈱KDDI総合研究所、㈱アークエッジ ・スペース、㈱テ",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "主体": [
+   {
+    "quote": "なお、当社は、有価証券の取引等の規制に関する内閣府令第49条第２項に規定する特定上場会社等に該当するため、",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・経済産業省の「令和７年度資源自律経済確立産 官学連携加速化事業 費（広域自治体における資源 循環システム",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "NEDO（国立研究開発法人新エネルギー ・産業技術総合開発機 構）が",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Trenfield, Sarah J; Awad, Atheer; Madla, Christine M; Hatton, Grace B; Firth, Jack; Goyanes, Alvaro; Gaisford, Simon; Basit, Abdul W (3 October 2019).",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "第 21 期 自 2025年４月１日至 2026年３月31日",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 【主要な経営指標等の推移】………………………………………………………………………………… ２",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【提出日】 2026年６月22日",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【事業年度】 第21期(自 2025年４月１日 至 2026年３月31日)",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 【主要な経営指標等の推移】",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算年月 2022年３月 2023年３月 2024年３月 2025年３月 2026年３月",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３ 第19期よりIAS第12号「法人所得税」（2021年５月改訂）を適用しております",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(注) 最高株価及び最低株価は、2022年４月３日以前は東京証券取引所市場第一部におけるものであり、2022年４月４",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2012年11月 当社の全額直接出資子会社である三菱ケミカルホールディングスヨーロッパ社を設立",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014年４月 当社グループのヘルスケアソリ ューション事業を統合 し、同事業を担う新たな事業 会社として㈱",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017年４月 三菱化学㈱、三菱樹脂㈱及び三菱レイヨン㈱の３社を合併により統合し、三菱ケミカル㈱を発足",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2020年３月 田辺三菱製薬㈱の株式を公開買付け及び売渡請求により取得し、同社を完全子会社化",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年７月 当社の商号を三菱ケミカルグループ㈱に変更",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年10月 当社の全額直接出資子会 社である三菱ケミカルホールディン グスアメリカ社及び三菱 ケミカルホ",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年４月 当社の全額直接出資子会社である㈱地球快適化インスティテュートを吸収合併により統合",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年10月 当社の全額直接出資子会 社である三菱ケミカル APAC社を、三菱ケミカル㈱の子会社である三菱ケ",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年７月 当社の全額直接出資子会社である田辺三菱製薬㈱を㈱BCJ-94に譲渡",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年４月 当社が営むコーポレートベンチ ャーキャピタル事業等 を、当社の全額直接出資子会 社である三菱",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当連結会計年度末日にお いて、各事業会社のセグメント 毎の主要な事業及びその 主要な子会社等は、次の表のとお",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、当連結会計年度の期首より、報告セグメントの区分を変更しておりますが、詳細は「第５ 経理",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ライガス社は、2026年４月１日付でそれぞれ、日本酸素㈱、ニッポン・サンソ・ユーロ・ホールディ",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "は、2026年４月１日付でそれぞ れ、日本酸素 ㈱、ニッポン ・サンソ ・ユーロ ・ホールディング社及びニ ッポン ・サン",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ジウム社、ニッポン・ガシズ・ユーロ・ホールディング社及びマチソン・トライガス社は、2026年４月１日",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "文中における将来に関する事項は、当社グループが当連結会計年度末現在において判断したものです",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As of 2019",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "as of 2020",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "magazine, pointed out in 2017 that the terms are still often",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Owning a 3D printer in the 1980s cost upwards of $300,000 ($650,000 in 2016 dollars).",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "One place that AM is making a significant inroad is in the aviation industry. With nearly 3.8 billion air travellers in 2016,",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A fuel nozzle is the perfect inroad for additive manufacturing in a jet engine since it allows for optimized design of the complex internals and it is a low-stress, non-rotating part. Similarly, in 2015, PW delivered their first AM parts in the PurePower PW1500G to Bombardier. Sticking to low-stress, non-rotating parts, PW selected the compressor stators and synch ring brackets",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In 2012, Filabot developed a system for closing the loop",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In 2014,",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As the price of printers started to drop people interested in this technology had more access and freedom to make what they wanted. As of 2014, the price for commercial printers was still high with the cost being over $2,000.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "as of 2018",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As of 2020, 3D printers have reached the level of quality and price that allows most people to enter the world of 3D printing. In 2020 decent quality printers can be found for less than US$200 for entry-level machines. These more affordable printers are usually",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In November 2021 a British patient named Steve Verze received the world's first fully 3D-printed prosthetic eye from the",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In April 2024, the world's largest 3D printer, the Factory of the Future 1.0 was revealed at the",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In 2024, researchers used",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In July 2024, researchers published a paper in",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In October 2025, the",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In 2018, Italian bioengineer",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "used 3D printing to prototype and manufacture the 2012 Vapor Laser Talon football shoe for players of American football, and",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In early 2014, Swedish",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In May 2015 Airbus announced that its new",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In 2015, a",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In 2017,",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "firearms. In 2012, the US-based group",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As of 2012",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "期間・審査": [
+   {
+    "quote": "その考え方に基づ き、2035年までの期間を対象とす る経営ビジョ ン「KAITEKI Vision",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の見積りが変更された会計期間及び影響を受ける将来の会計期間において認識されます",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "測の期間を超えた後の将 来キャッシュ・フローは個別の 事情に応じた５年を超える期間の長期平 均成長率を",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "フローの見積り、割引率及び５年を超える期間の長期成長率です",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "測される期間における 将来課税所得の予測に基 づき、回収される可能性が高い と考えておりま す",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中東情勢による当社グ ループへの影響 は、その動向及び継続期間に より異なります",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(5) 新株予約権を行使することができる期間",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新株予約権の行使期間の 開始日と組織再 編行為の効力発生日のい ずれか遅い日か ら、新株予約権の行使",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新株予約権の行使期間 2014年９月13日から2034年９月12日まで 2015年９月29日から2035年９月28日まで 2016年７月20日から2036年７月19日まで",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新株予約権の行使期間 2017年７月26日から2037年７月25日まで 2018年７月25日から2038年７月24日まで",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "件数の推移": [
+   {
+    "quote": "４ 【関係会社の状況】…………………………………………………………………………………………… ６",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第４ 【提出会社の状況】……………………………………………………………………………………………… 51",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第６ 【提出会社の株式事務の概要】…………………………………………………………………………………213",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第７ 【提出会社の参考情報】…………………………………………………………………………………………214",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 【提出会社の親会社等の情報】………………………………………………………………………………214",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第二部 【提出会社の保証会社等の情報】………………………………………………………………………………215",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１株当たり親会社",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "親会社所有者帰属持分比率 (％) 26.2 27.1 28.9 29.5 30.0",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 当社は、第21期において、当社の連結子会社であった田辺三菱製薬㈱（現 田辺ファーマ㈱）の全株式及び",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "関連資産を吸収分割により譲渡したことに伴い、同社及びその子会社等の事業を非継続事業に分類し、第20",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(2) 提出会社の経営指標等",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2005年４月 三菱化学㈱及び三菱ウェ ルファーマ㈱は、両社が共同で株式移転の 方法により、両社の完全親会",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〃 10月 三菱化学㈱及び三菱ウェルファーマ㈱の株式移転により当社を設立",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〃 10月 三菱樹脂㈱との株式交換により同社を当社の完全子会社化",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〃 10月 三菱ウェルファーマ㈱が田辺製 薬㈱と合併し、新たに連結上場子会社で ある田辺三菱製薬㈱が発",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2009年４月 当社の全額直接出資子会社である㈱地球快適化インスティテュートを設立",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2010年３月 三菱レイヨン㈱の株式を公開買付けにより取得し、同社を連結子会社化",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〃 10月 三菱レイヨン㈱との株式交換により同社を完全子会社化",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〃 11月 当社の全額直接出資子会社である三菱ケミカルホールディングスアメリカ社を設立",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "素材の内訳": [
+   {
+    "quote": "2007年３月 三菱化学㈱が三菱樹脂㈱の株式を公開買付けにより追加取得",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〃 ９月 三菱化学㈱が保有する三菱樹脂㈱の株式のすべてを株式の現物配当の方法により取得",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〃 10月 三菱樹脂㈱との株式交換により同社を当社の完全子会社化",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ムケーブイ㈱の株式のす べてを当社に、また、機能材料事業を三菱樹脂 ㈱にそれぞれ吸収分割に",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "より移管し、三菱樹脂㈱が、三菱化学ポリエステルフィルム ㈱、三菱化学産資㈱及び三菱 化学エ",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017年４月 三菱化学㈱、三菱樹脂㈱及び三菱レイヨン㈱の３社を合併により統合し、三菱ケミカル㈱を発足",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "化学に立脚する当社グル ープは、カーボンニュートラルや サーキュラーエコノ",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "カーボンニュートラルの実現 や、人材の育成・開発と働く環境の整備な どの人的資本の拡充を含 めた事業基盤の強",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、持続的な成長を達成しつ つ、2050年度までにカーボンニュ ートラルを実現するた め、製造",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当社グループ は、カーボンニュートラルに 移行する社会でも競争力 のある企業をめざ し、 Visionとの整合",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "性、競争優位性、成長性の基準を用いたポ ートフォリオへの変革を 通じて、カーボンニュートラ ル実現に貢献",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "数量差：精密洗浄サービスを中心 とした半導体関 連、半導体製造装置向け高機 能エンプラ及び",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ロボタクシー向けを中心とした炭素繊維コンポジットパーツ等の増販により増益",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アドバンストコンポジ ット＆シェイプスサブセグメン トにおいては、炭素繊維事業における汎 用焼成ライン",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "造装置用途を中心に需要 が増加したことに加 え、炭素繊維コンポジットパ ーツの増販 や、為替影響等によ り、",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プラスチックの半導体製 造装置用途を中心とした 需要の増加や炭素繊維コンポジ ットパーツ等の増 販、各事業",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本ポリケム㈱ JNC石油化学㈱ ポリプロピレン樹脂の製 造及び販売",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "三菱ケミカル㈱ ＵＢＥ㈱ ABS樹脂の製造及び販売を主たる目的",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "MMAモノマー、アクリル樹脂等の製造",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・食品包装材等に使用され る樹脂「ソアノール ™ 」の溶液を紙基材に塗工す ることにより、PFASを用いた包装材",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本プロジェクトで は、得意とするプロセス雰囲 気ガス制御技術や金属 AM",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "に関する知見を活か し、造形条件の最適化技術お よび製造条件探索システ ムの開発を通じ て、金属AM技術の産",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "シーピーシー社 炭素繊維関連製品の製造設備増設",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "AM・3Dプリンタ": [
+   {
+    "quote": "コーティング＆アディティブスサブセグ メントにおいて は、販売価格の維持 ・向上があったものの、塗料・",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ム地上検証モデル試作評 価」の研究開発の一環とし て、㈱KDDI総合研究所、㈱アークエッジ ・スペース、㈱テ",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・抗血栓性熱可塑性エラストマー「Zelas ™ AMP」の医療機器への適応について、九州大学先導物質化学研究所及",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "MMA、コーティング＆アディティブスに関する研究開発を行っており、当連結会計年度の主な成果は次のとおり",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「DURABIO ™ （デュラビオ ™ ）」が、日本政府館に設置された3Dプリンタ製「藻類スツール」のベース素材とし",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・アディティブ・マニュファクチャリン グ（AM）事業においては、技術の開発と造形物の品 質安定化に寄与する",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "推進する「経済安全保障重要技術育成プログラム（K Program）」に2025年５月に採択されており、焼結型積層",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "造形とデジタルプロセ ス設計を組み合わせた金 属3Dプリンタシステムの研究 開発に2024年度から2028年度まで",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本プロジェクトで は、得意とするプロセス雰囲 気ガス制御技術や金属 AM",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "に関する知見を活か し、造形条件の最適化技術お よび製造条件探索システ ムの開発を通じ て、金属AM技術の産",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3D printing - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Benefits of 3D printing",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Multi-material 3D printing",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3D printing",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "additive manufacturing",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3D printing techniques",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", the precision, repeatability, and material range of 3D printing have increased to the point that some 3D printing processes are considered viable as an industrial-production technology; in this context, the term",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "One of the key advantages of 3D printing",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(FDM), which uses a continuous filament of a",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "material, is the most common 3D printing process in use",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "additive manufacturing (AM)",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "for the large family of",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "was more likely to be used in metalworking and end-use part production contexts than among polymer, inkjet, or stereolithography enthusiasts.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Additive Manufacturing",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "but some manufacturing industry experts are trying to make a distinction whereby additive manufacturing",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3D printing plus other technologies or other aspects of a",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "is the use of modular means to design tooling that is produced by additive manufacturing or 3D printing methods to enable quick",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In industrial and technical settings, additive manufacturing is often the preferred term, and 3D printing is used more by the general public.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "a continuous inkjet metal material device to form a removable metal fabrication on a reusable surface for immediate use or salvaged for printing again by remelting. This appears to be the first patent describing 3D printing with rapid prototyping and controlled on-demand manufacturing of patterns.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "laid out the concept of 3D printing in his regular column",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Early additive manufacturing equipment and materials were developed in the 1980s.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In April 1980, Hideo Kodama of",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "On 2 July 1984, American entrepreneur",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "as the first 3D printing patent in history; it was the first of three patents belonging to Masters that laid the foundation for the 3D printing systems used today.",
+    "url": "https://en.wikipedia.org/wiki/3D_printing",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額の推移": [
+   {
+    "quote": "売上収益 (百万円) 3,976,948 4,634,532 4,387,218 3,947,566 3,703,988",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "税引前利益 (百万円) 290,370 167,964 240,547 99,248 711",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当期利益 (百万円) 209,405 135,545 178,439 105,636 78,425",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当期利益(△損失) (百万円) 177,162 96,461 119,596 45,020 11,829",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当期包括利益 (百万円) 332,834 210,888 363,597 77,464 251,905",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当期包括利益 (百万円) 268,003 151,379 249,349 21,774 116,616",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "持分 (百万円) 1,458,077 1,564,698 1,763,447 1,740,570 1,761,675",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資産合計 (百万円) 5,573,871 5,774,348 6,104,513 5,894,619 5,876,609",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "株価収益率 (倍) 6.6 11.6 10.9 23.3 104.2",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) 346,871 355,189 465,146 552,847 436,287",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) △128,781 △247,632 △246,087 △275,434 124,470",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "キャッシュ・フロー (百万円) △336,283 △60,783 △241,724 △246,654 △375,207",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "期末残高 (百万円) 245,789 297,224 294,924 326,144 527,104",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "営業収益 (百万円) 69,463 125,338 211,979 75,819 57,621",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経常利益 (百万円) 52,616 103,063 186,575 51,650 48,377",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当期純利益 (百万円) 56,214 104,520 188,823 137,659 96,077",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金 (百万円) 50,000 50,000 50,000 50,000 50,000",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "純資産額 (百万円) 409,687 471,397 614,457 706,761 708,453",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "総資産額 (百万円) 1,796,949 2,012,340 1,993,373 1,972,132 1,589,500",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "株価収益率 (倍) 20.7 10.7 6.9 7.6 12.8",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４ 連結子会社のうち、三菱ケミカル㈱の単体の売上高は、当社の連結売上収益の10％を超えております",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "①売上高 1,129,458百万円",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "②経常利益 34,191百万円",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "③当期純損失 87,619百万円",
+    "url": "https://www.mcgc.com/ir/pdf/02679/02924.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T17:10:42.407370+00:00"
+}

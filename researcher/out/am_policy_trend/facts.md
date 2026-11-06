@@ -1,4 +1,4 @@
-# AMに関わる施策・需要の集計開始から2026年までの推移（増加率の材料）（事実のみ・12品目）
+# AMに関わる施策・需要の集計開始から2026年までの推移（増加率の材料）（事実のみ・20品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1347,3 +1347,830 @@
   - 「2026年度 経済産業省補助金徹底比較」（https://hojokin-navi.com/hojokin-news/chusho-shokibo/monohojo/20260503_monohojo_suii/）
   - 「令和9年 経産省中小企業向け補助金動向 考察(No.4)」（https://hojokin-navi.com/hojokin-news/chusho-shokibo/monohojo/20260503_monohojo_suii/）
   - 「ものづくり補助金パンフレット-R6年12月時点版（中小企業庁）」（https://keieichiryou.com/monozukuri-hojokin-healthcare-service）
+
+## 都産技研など公設試の3Dプリンタ・機器利用件数の推移（Tokyo TIRI public research institute 3D printer equipment use number by year）
+- 文脈：一次・公設試・場面③
+- 件数の推移：
+  - 「件数は 159 件で、中期計画目」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「た件数については、33 件を目標と」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「出願件数 16 18 11 11 11 67」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「登録件数 9 11 11 9 10 50」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「航空機部品製造・開発における課題解決を目的とした研究開発 25 件を実施」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「件数は 54 件で、中期計画目」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「新たに 2 件の特定運営費」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「公募型の共同研究 5 件を実施」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「公募型の共同研究 2 件を実施」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「め共同研究 34 件を実施」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「6 2 0社8 1 1名 ）」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「1)提案公募型研究の応募件数」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「2)新規外部資金導入研究の件数」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「応募件数 7 13 17 14 6」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「件数は 5 年間で提案公募型」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+- 金額の推移：
+  - 「3)新規外部資金導入研究の歳入総額（千円）」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「減額金額（百万円） 7.5 8.6 5.7 6.8 8.6」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「費用（億円） 3.8 4.0 4.0 3.7 3.5」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「計獲得金額 2.6 億円以上と」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「第三期中累計 17 件 261,819 千円」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「（千円） 363,871 316,278 1,852,854 5,554,048 1,555,892」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「産業省補正予算に 2度採択さ」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「6)経済産業省補正予算への採択」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「平成 28 年度および平成 29 年度経済産業省補正予算に採択」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「10．利用者増加策、技術ノウハウの蓄積に困る」（https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf）
+  - 「投稿数は、2016 年以降に増加している」（https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf）
+  - 「４．金属 AM 技術に関するマーケティング情報等の蓄積が現在以上に増加すれば、」（https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf）
+  - 「金属３D プリンタは装置価格が 1 億円規模のものが多く、工作機械の更新需要や新規需」（https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf）
+  - 「力学 1.5 倍、耐食性 2 倍」（https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf）
+  - 「４．金属３D プリンタを導入する公設試が増加した」（https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf）
+- AM・3Dプリンタ：
+  - 「・AM 材料のデータベース化とその連携に関する協創的研究（技術開発支援部、」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「地域技術支援部、多摩テクノプラザ、開発第二部の連携／AM（Additive」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「・AM 技術とプラスチック部品めっき技術による高周波ミリ波立体回路の開発」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「構造を AM により成形し、めっき処理を施したプラスチックアンテナを開」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「・金属積層造形での構造最適化によるスポーツ義足用高機能アダプターの」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「全 22 機種の試験機器・設備を導入し、ロボットの試作開発から安全性評価」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「会員間でのマッチングや会員が協同で開発した試作案内ロボットの活動支」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「幅広い生活関連製品を総合的に分析、試作を行うことで、『新しい時代』に」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「・金属製フックのファイバーレーザー加工機による試作」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「・樹脂 AM による銀食器の試作とデザイン設計指導」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「・高精度コンパクトレーザー加工機の試作造形等助言」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「積層造形設備による試作・製作支援など、高度な技術や先端技術を使った製品開発への支援ニーズにも対応できるよう、最新の技術動」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「ング設備による試作・製作支援、三」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「1)アディティブマニュファクチャリング (AM)設備による高付加価値製品の開」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「・AM ラボ 1」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+- 素材の内訳：
+  - 「・金属積層造形での構造最適化によるスポーツ義足用高機能アダプターの」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「・航空機用チタン合金の低温成形加工法による高精度塑性加工」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「・金属製フックのファイバーレーザー加工機による試作」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「・樹脂 AM による銀食器の試作とデザイン設計指導」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「・オール樹脂製鉗子のオートクレーブ滅菌後の形状評価と把持力評価」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「主にステンレス鋼やアルミニウム合金を材料とする金属粉末積層造形装」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「樹脂粉末を材料とする造形装置等の活用により電子部品筐体や医療器具」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「・金属積層造形における小径穴造形技術の開発 等」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「・「金属 3D プリンターによる造形」約 42 万回再生」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「3D プリンタ用材料開発と造形物の高精度化「金属積層造形用シミュレーショ」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「産業用高強度繊維の織物加工、炭素繊維強化プラスチック（CFRP）成形、CFRP」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「2)CFRP 材料の試作技術支援」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「炭素繊維等高強度繊維とプリント技術を融合し、燃料電池等の開発を支援」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「繊維製品や金属製品の破損、変色、腐食等の原因を解析し、事故・クレーム」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「て、産業用繊維材料、CFRP」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+- 場面・目的：
+  - 「(7)プラスチック代替素材を活用した開発・普及プロジェクト（特定運営費交付」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「全 22 機種の試験機器・設備を導入し、ロボットの試作開発から安全性評価」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「会員間でのマッチングや会員が協同で開発した試作案内ロボットの活動支」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「幅広い生活関連製品を総合的に分析、試作を行うことで、『新しい時代』に」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「(6)プラスチック代替素材を活用した開発・普及プロジェクト（特定運営費交付」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「使い捨てプラスチックストローの代替製品の開発を目的に、基盤研究 1 件を」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「動物実験代替に貢献する生体モデルおよび評価系の開発を目的に、基盤研究」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「・金属製フックのファイバーレーザー加工機による試作」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「・樹脂 AM による銀食器の試作とデザイン設計指導」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「・高精度コンパクトレーザー加工機の試作造形等助言」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「積層造形設備による試作・製作支援など、高度な技術や先端技術を使った製品開発への支援ニーズにも対応できるよう、最新の技術動」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「ング設備による試作・製作支援、三」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「等さまざまな製品の技術開発および事業化に関わる試作・製作支援を推進」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「2)CFRP 材料の試作技術支援」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「糸から最終製品の試作加工や評価を総合的に支援する体制を整備し、 「繊」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+- 推移：
+  - 「2021 年 6 月」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「1)協創的研究開発の開始（2018 年度）」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「2)基盤研究制度の改革（2016 年度）」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「テーマごとに開始、中間、終了ヒアリングを実施し、進捗状況を把握」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「5)論文指導員制度の新設（2016 年度）」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「2016 2017 2018 2019 2020 合計」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「2016 2017 2018 2019 2020」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「(5)TIRI クロスミーティングの開催（2016 年度開始）」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「5 年間の評定 2016 2017 2018 2019 2020 A A S S」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「(5)航空機産業への参入支援事業（特定運営費交付金事業）（2017 年度開始）」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「援事業（2017 年度）、」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「業(2017 年度)）」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「(6)障害者スポーツ研究開発推進事業（特定運営費交付金事業）（2017 年度開始）」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「金事業）（2019 年度開始）」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「(8)中小企業の IoT 化支援事業（特定運営費交付金事業）（2017 年度開始）」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+- 期間・審査：
+  - 「中期計画 中期目標期間の主な実績 自己評価説明」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「て、第三期中期計画期間中に 100」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「ては、第三期中期計画期間中に 70」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「・所内のスケジュールを 2.5 か月前倒し、査読・申請書のブラッシュアップ」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「度達成できた」で中期期間平均 95％を達成」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「度達成できた」の合計値が中期期間平均 97%以上」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「期間の最終年度である令和2年度の」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「度達成できた」の合計が中期期間平均 97％以上を達成」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「ついては、 第三期中期計画期間の最」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「は、第三期中期計画期間の最終年度」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「短期間での試作品開発を必要としている中小企業に対して、都産技研の技術力を活用して個々の企業のニーズに即した支援ができるよ」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「画期間の最終年度である令和2年度」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「3)入居率向上のため随時募集実施、迅速な入居者選定審査会開催」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「ザともに期間中平均 90％」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「ては、第三期中期計画期間の最終年」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+- 主体：
+  - 「し、都産技研内の分野間の横」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「基盤研究の成果は、 都産技研の技」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「都産技研戦略ロードマップに基づき、今後の成長が期待される 4 つの技術分野」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「資金を提供する機関の設定要件を踏まえ、都産技研が保有する研究成果を有効に活用して、中小企業のニーズや社会的ニーズに幅広く」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「都産技研の案内、荷物搬送など、移動ロボット 3 種を実際に活用」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「内閣府が取りまとめている「2020 年オリンピック・パラリンピック東京大」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「都産技研技術シーズや共同開発成果を羽田イノベーションシティのオープ」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「人間工学を取り扱う全国の公設試と連携し、2016 年度に人間生活工学機器デ」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「都産技研に初めて「人」に関する測定を行う専用スペースとして設置」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「他の試験研究機関や大学と連携を図り、都産技研が保有していない技術分野に関する相談についても、可能な限り対応する」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「1)都産技研全体の技術相談実績」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「4)都産技研ご利用カード発行の継続」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「1)都産技研職員による実地技術支援」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「2)技術指導員またはエンジニアリングアドバイザーと都産技研職員による実」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+  - 「・経済産業省 次世代自動車産業分野の連携支援計画における連携相談の実施」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/44495d47011fcb77eee91ac53b366bcd）
+
+## 国内の3Dプリンタ関連サービス（受託造形）市場規模の推移（Japan 3D printing service bureau market size by year）
+- 文脈：市場調査・推移
+- 件数の推移：
+  - 「株式会社矢野経済研究所（代表取締役社長：水越孝）は、産業用3Dプリンタ世界市場の調査を実施し、需要分野別の動向、参入企業動向、将来展望を明らかにした」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「新型コロナウイルス感染症流行の影響を受け、導入検討中の案件の停止など、停滞感のあった産業用3Dプリンタ市場は、2021年以降順調に成長している」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「3.調査方法： 当社専門研究員による直接面談、電話・e-mailによるヒアリング、ならびに文献調査併用」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「株式会社矢野経済研究所（代表取締役社長：水越孝）は、産業用3Dプリンタ世界市場の調査を実施し、需要分野別の動向、参入企業動向、将来展望を明らかにした」（https://www.yanoict.com/summary/show/id/740）
+  - 「新型コロナウイルス感染症流行の影響を受け、導入検討中の案件の停止など、停滞感のあった産業用3Dプリンタ市場は、2021年以降順調に成長している」（https://www.yanoict.com/summary/show/id/740）
+  - 「3社によるサーキュラーエコノミーの仕組み」（https://www.yanoict.com/summary/show/id/740）
+  - 「市場調査会社CONTEXT（イギリス・ロンドン）の最新分析によれば、2025年第1四半期の世界3Dプリンタ市場は大きく異なる動きを見せた」（https://news.sharelab.jp/3dp-news/report/）
+  - 「金属積層造形分野の専門調査会社VoxelMatters（イタリア・ミラノ）は、2025年に向けた最新の市場レポート『Metal AM Market 2025』を…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「みずほ銀行 産業調査部は2025年1月17日に自社ウェブサイト内「Mizuho Short Industry Focus」において「日本の製造業における金属 A…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「市場調査会社のSmarTech Analysis社は、グローバルでの3Dプリント市場規模が2050年に約250億ドルに達する見込みであることを発表した」（https://news.sharelab.jp/3dp-news/report/）
+  - 「アメリカの調査会社のグランドビュー・リサーチは、全世界での金属3Dプリンティング市場が年率23.9%の成長を続け、2030年に226億ドル（約3兆2770億円）…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「3Dプリンティング業界の調査会社であるSmarTexh Analysisは、2022年第2四半期の世界市場データを公開した」（https://news.sharelab.jp/3dp-news/report/）
+  - 「株式会社グローバルインフォメーションは、業務用3Dプリンターの世界市場に関する調査レポートを報告した」（https://news.sharelab.jp/3dp-news/report/）
+  - 「MARKETYSERS GLOBAL CONSULTING LLPのグループ会社であるEmergen Researchは、世界の航空宇宙業界における3Dプリンタ…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「3Dプリント技術を活用した製造インフラを提供する株式会社3D Printing Corporation（以下、3DPC）は、アメリカのエンジニアリングソフトウェ…」（https://news.sharelab.jp/3dp-news/report/）
+- 金額の推移：
+  - 「産業用3Dプリンタ世界市場規模推移と予測」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「2023年の産業用3Dプリンタ世界市場規模（メーカー出荷台数ベース）は、前年比113.2％の3万台となった」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「​産業用3Dプリンタを利用して製造されているものをみると、最終製品が増加基調にあるほか、量産を視野に入れるユーザーも多い」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「金属3Dプリンタの出荷台数が増加」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「近年は産業用3Dプリンタメーカーとして金属3Dプリンタ市場に参入する企業が増加しているだけでなく、日本で購入できる海外メーカーの金属3Dプリンタも増えている」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「また、金属3Dプリンタの出荷台数が増加している理由のひとつに、最終製品の造形に対する需要の拡大が挙げられる」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「産業用3Dプリンタ市場は装置の性能向上、後処理や受託造形などの周辺サービスの充実、材料の種類の増加、ソフトウェア機能の拡充などにより、最終製品の造形、量産を行うユーザーが拡大し、引き続き成長すると予測する」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「こうした中、産業用3Dプリンタ世界市場規模（メーカー出荷台数ベース）の2019年から2025年までの年平均成長率（CAGR）は8.9％で推移し、2025年にはメーカー出荷台数が3万5,000台になると予測する」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「本調査では、本体価格100万円以上の装置を産業用3Dプリンタとする」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「国内の産業向け3Dプリンタ市場規模」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「2023年の世界市場規模は30,000台となった」（https://www.yanoict.com/summary/show/id/740）
+  - 「【図表：産業用3Dプリンタ世界市場規模推移と予測】」（https://www.yanoict.com/summary/show/id/740）
+  - 「2023年の産業用3Dプリンタ世界市場規模（メーカー出荷台数ベース）は、前年比113.2％の3万台となった」（https://www.yanoict.com/summary/show/id/740）
+  - 「​産業用3Dプリンタを利用して製造されているものをみると、最終製品が増加基調にあるほか、量産を視野に入れるユーザーも多い」（https://www.yanoict.com/summary/show/id/740）
+  - 「■金属3Dプリンタの出荷台数が増加」（https://www.yanoict.com/summary/show/id/740）
+- AM・3Dプリンタ：
+  - 「産業用3Dプリンタ世界市場に関する調査を実施（2024年） | ニュース・トピックス | 市場調査とマーケティングの矢野経済研究所」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「産業用3Dプリンタ世界市場に関する調査を実施（2024年）」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「産業用3Dプリンタ世界出荷台数は2023年に30,000台」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「株式会社矢野経済研究所（代表取締役社長：水越孝）は、産業用3Dプリンタ世界市場の調査を実施し、需要分野別の動向、参入企業動向、将来展望を明らかにした」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「産業用3Dプリンタ世界市場規模推移と予測」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「2023年の産業用3Dプリンタ世界市場規模（メーカー出荷台数ベース）は、前年比113.2％の3万台となった」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「新型コロナウイルス感染症流行の影響を受け、導入検討中の案件の停止など、停滞感のあった産業用3Dプリンタ市場は、2021年以降順調に成長している」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「サプライチェーンの分断や医療物資の不足などで産業用3Dプリンタによる物資の製造や加工が注目されたことが、同市場に対して一定程度プラスに働き、市場の回復は早まった」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「今後、市場を牽引していくのは金属を材料とする産業用3Dプリンタで、成長率は樹脂を材料とする産業用3Dプリンタよりも大きくなると予測する」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「​産業用3Dプリンタを利用して製造されているものをみると、最終製品が増加基調にあるほか、量産を視野に入れるユーザーも多い」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「金属3Dプリンタの出荷台数が増加」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「産業用3Dプリンタは大別すると樹脂を材料とする装置、金属を材料とする装置がある」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「出荷台数別にみれば樹脂を材料とする装置の市場の方が大きいが、金属を材料とする産業用3Dプリンタへの需要が高まっている」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「2024年には国内の産業用3Dプリンタ出荷台数のうち、1割以上が金属3Dプリンタになる見込みである」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「近年は産業用3Dプリンタメーカーとして金属3Dプリンタ市場に参入する企業が増加しているだけでなく、日本で購入できる海外メーカーの金属3Dプリンタも増えている」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+- 素材の内訳：
+  - 「今後、市場を牽引していくのは金属を材料とする産業用3Dプリンタで、成長率は樹脂を材料とする産業用3Dプリンタよりも大きくなると予測する」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「金属3Dプリンタの出荷台数が増加」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「産業用3Dプリンタは大別すると樹脂を材料とする装置、金属を材料とする装置がある」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「出荷台数別にみれば樹脂を材料とする装置の市場の方が大きいが、金属を材料とする産業用3Dプリンタへの需要が高まっている」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「国内市場においても同様の傾向にあり、金属を材料とする装置の出荷台数が増加基調にある」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「2024年には国内の産業用3Dプリンタ出荷台数のうち、1割以上が金属3Dプリンタになる見込みである」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「近年は産業用3Dプリンタメーカーとして金属3Dプリンタ市場に参入する企業が増加しているだけでなく、日本で購入できる海外メーカーの金属3Dプリンタも増えている」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「こうした点も国内の金属3Dプリンタ市場成長の一因だと考える」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「また、金属3Dプリンタの出荷台数が増加している理由のひとつに、最終製品の造形に対する需要の拡大が挙げられる」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「金属3Dプリンタの装置選定の観点として材料交換の容易性を挙げるユーザーは多い」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「成長率でみるとメーカー出荷台数ベース、メーカー出荷金額ベースともに金属3Dプリンタの伸びが大きくなると予測する」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「本調査における産業用3Dプリンタとは、3次元データをもとに樹脂や金属などの積層によって、立体物を造形する装置を指し、主な製品タイプとしては造形方式や使用する材料の違いにより、粉末床融合方式（PBF）、指向性エネルギー方式（DED）、材料噴射方式（MJT）、材料押出方式（MEX）などがある」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「産業用3Dプリンタはメーカー出荷ベース・金額ベースともに金属3Dプリンタが大きく伸びると予測」（https://www.yanoict.com/summary/show/id/740）
+  - 「今後、市場を牽引していくのは金属を材料とする産業用3Dプリンタで、成長率は樹脂を材料とする産業用3Dプリンタよりも大きくなると予測する」（https://www.yanoict.com/summary/show/id/740）
+  - 「■金属3Dプリンタの出荷台数が増加」（https://www.yanoict.com/summary/show/id/740）
+- 場面・目的：
+  - 「サプライチェーンの分断や医療物資の不足などで産業用3Dプリンタによる物資の製造や加工が注目されたことが、同市場に対して一定程度プラスに働き、市場の回復は早まった」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「これは主に試作コスト削減や自由な形状での造形を期待してのことである」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「また、産業用3Dプリンタを利用して製造されているものの割合は試作や治具（加工・組み立て・検査などに用いる補助工具）が大きい」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「これは最終製品の造形が増えたからといって試作・治具の製造が減少するわけではなく、最終製品、試作、治具いずれの造形も増えていくためである」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「サプライチェーンの分断や医療物資の不足などで産業用3Dプリンタによる物資の製造や加工が注目されたことが、同市場に対して一定程度プラスに働き、市場の回復は早まった」（https://www.yanoict.com/summary/show/id/740）
+  - 「これは主に試作コスト削減や自由な形状での造形を期待してのことである」（https://www.yanoict.com/summary/show/id/740）
+  - 「また、産業用3Dプリンタを利用して製造されているものの割合は試作や治具（加工・組み立て・検査などに用いる補助工具）が大きい」（https://www.yanoict.com/summary/show/id/740）
+  - 「これは最終製品の造形が増えたからといって試作・治具の製造が減少するわけではなく、最終製品、試作、治具いずれの造形も増えていくためである」（https://www.yanoict.com/summary/show/id/740）
+  - 「自動車業界の試作開発部門で活躍する3Dプリンター」（https://news.sharelab.jp/3dp-news/report/）
+  - 「数時間で試作品を生産できることから、」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「3Dプリンターの技術は1980年代からありましたが、製品強度や精度、加工スピード、コスト等の課題から、用途は試作品や治具（ジ」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「①試作・開発プロセス ：1.6兆円」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「3Dプリンターによる試作型の」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「サプライチェーンの分断や医療物資の不足などで産業用3Dプリンタによる物資の製造や加工が注目されたことが、同市場に対して一定程度プラスに働き、市場の回復は早まった」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vLiwTG0zjEkkLFTCVvctFHA_KzCtQ3qLmM_53DaSLhbhA4zegtK）
+  - 「これは主に試作コスト削減や自由な形状での造形を期待してのことである」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vLiwTG0zjEkkLFTCVvctFHA_KzCtQ3qLmM_53DaSLhbhA4zegtK）
+- 推移：
+  - 「産業用3Dプリンタ世界市場に関する調査を実施（2024年） | ニュース・トピックス | 市場調査とマーケティングの矢野経済研究所」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「2024/05/28」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「産業用3Dプリンタ世界市場に関する調査を実施（2024年）」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「産業用3Dプリンタ世界出荷台数は2023年に30,000台」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「産業用3Dプリンタ世界市場規模推移と予測」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「2023年の産業用3Dプリンタ世界市場規模（メーカー出荷台数ベース）は、前年比113.2％の3万台となった」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「新型コロナウイルス感染症流行の影響を受け、導入検討中の案件の停止など、停滞感のあった産業用3Dプリンタ市場は、2021年以降順調に成長している」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「2024年には国内の産業用3Dプリンタ出荷台数のうち、1割以上が金属3Dプリンタになる見込みである」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「こうした中、産業用3Dプリンタ世界市場規模（メーカー出荷台数ベース）の2019年から2025年までの年平均成長率（CAGR）は8.9％で推移し、2025年にはメーカー出荷台数が3万5,000台になると予測する」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「2024年版 3Dプリンタ市場の現状と展望」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「発刊日：2024年04月26日 体裁：A4 125ページ」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「1.調査期間： 2023年12月～2024年4月」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「産業用3Dプリンタ世界市場（2024年）」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「Yano ICT | 産業用3Dプリンタ世界市場に関する調査を実施（2024年）」（https://www.yanoict.com/summary/show/id/740）
+  - 「2024.05.29」（https://www.yanoict.com/summary/show/id/740）
+- 期間・審査：
+  - 「1.調査期間： 2023年12月～2024年4月」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vIdvATpKxh3qV77lPYsGSdCFn-Ktfh2aVk9fpoWVJ5hs9rgoFrO）
+  - 「この期間には、COVID-19パン…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「量産終了後に長期間に渡って無償で金型の保管を押し付けられる」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「金型生産に3Dプリンターを導入することで、金型生産期間の短縮や生産効率が高い（内部に冷却水用配管を有する等）金型の生産」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「金型製作期間：従来比2/3」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「量産立上期間：従来比1/2」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「1.調査期間： 2023年12月～2024年4月」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vLiwTG0zjEkkLFTCVvctFHA_KzCtQ3qLmM_53DaSLhbhA4zegtK）
+  - 「これは、現行の予測期間に入る前から臨床生産の現場で導入が広がっていたことを示しており、患者ごとに最適化した医療の活用拡大を支える、導入済みで適格性が確認されたワークフロー基盤が形成されていると当社はみている」（https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market）
+  - 「歯科セグメントの販売台数がハードウェアと材料の需要拡大を下支えし、予測期間を通じて幅広い製品の普及と材料の継続的な消費を促進」（https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market）
+  - 「初期の導入量は大規模医療機関に偏り、予測期間の中盤まで小規模施設での導入は遅れる」（https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market）
+  - 「コンプライアンス上の不明確さにより、市場投入までの期間が延び、開発コストが上昇し、社内でのPoC投資が妨げられる」（https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market）
+  - 「北米は予測期間の序盤から中盤にかけて、市場投入の速さで優位性を維持する」（https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market）
+  - 「また、確立された医療機器審査プロセスにより、臨床応用の商業化に向けた道筋が明確になっている」（https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market）
+  - 「予測期間中、アジア太平洋地域が最も高い成長率を示すと予測される」（https://www.gminsights.com/ja/industry-analysis/healthcare-3d-printing-market）
+  - 「1.調査期間： 2023年12月～2024年4月」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vLAxdrhadmZ_HNJQb9jlLMAUcy-lSG9YMuSWAWBoMCg8e6uyKOf）
+- 主体：
+  - 「出所 :経済産業省「新ものづくり研究会報告書 3Dプリンタが生み出す付加価値と2つのものづくり」を基に弊行作成」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「y 経産省が産業用3Dプリンター開発プロジェクト「TRAFAM」を立ち上げ、」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「出所 ：経済産業省「「三次元造形技術を核としたものづくり革命プログラム（次世代型産業用3Dプリンタ等技術開発）」研究開発プロジェクトの概要」、」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「2020年の世界の3Dプリンター市場見通し（経産省）」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「（6）3Dプリンター事業への取組状況（TRAFAMの概要）」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「2014/4月に経産省は金属3Dプリンター開発を担う技術研究組合「TRAFAM」を設立し、海外メーカー製を上回る装置の共同開発を推」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「出所 ：経済産業省「「三次元造形技術を核としたものづくり革命プログラム（次世代型産業用3Dプリンタ等技術開発）」研究開発プロジェクトの概要」、TRAFAMホームページを基に弊行作成」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「TRAFAM参画企業（17年6月時点）TRAFAMの予算計画と実績（億円）」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「出所 ：中小企業庁「下請等中小企業の取引条件改善への取組について」、 IHSオートモーティブ(17/4月)、各社プレスリリースを基に弊行作成」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+  - 「出所 ：経済産業省「生産動態統計」、「金型産業ビジョン」、 「新ものづくり研究会報告書 3Dプリンタが生み出す付加価値と2つのものづくり 」を基に弊行作成」（https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf）
+
+## 国内の金属AM（金属3Dプリンタ）市場規模と出荷台数の推移（Japan metal additive manufacturing market size shipments by year）
+- 文脈：市場調査・金属
+- 件数の推移：
+  - 「市場調査会社CONTEXT（イギリス・ロンドン）の最新分析によれば、2025年第1四半期の世界3Dプリンタ市場は大きく異なる動きを見せた」（https://news.sharelab.jp/3dp-news/report/）
+  - 「金属積層造形分野の専門調査会社VoxelMatters（イタリア・ミラノ）は、2025年に向けた最新の市場レポート『Metal AM Market 2025』を…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「みずほ銀行 産業調査部は2025年1月17日に自社ウェブサイト内「Mizuho Short Industry Focus」において「日本の製造業における金属 A…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「市場調査会社のSmarTech Analysis社は、グローバルでの3Dプリント市場規模が2050年に約250億ドルに達する見込みであることを発表した」（https://news.sharelab.jp/3dp-news/report/）
+  - 「アメリカの調査会社のグランドビュー・リサーチは、全世界での金属3Dプリンティング市場が年率23.9%の成長を続け、2030年に226億ドル（約3兆2770億円）…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「3Dプリンティング業界の調査会社であるSmarTexh Analysisは、2022年第2四半期の世界市場データを公開した」（https://news.sharelab.jp/3dp-news/report/）
+  - 「株式会社グローバルインフォメーションは、業務用3Dプリンターの世界市場に関する調査レポートを報告した」（https://news.sharelab.jp/3dp-news/report/）
+  - 「MARKETYSERS GLOBAL CONSULTING LLPのグループ会社であるEmergen Researchは、世界の航空宇宙業界における3Dプリンタ…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「3Dプリント技術を活用した製造インフラを提供する株式会社3D Printing Corporation（以下、3DPC）は、アメリカのエンジニアリングソフトウェ…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「3Dプリンティング技術を活用した製造インフラを提供する株式会社3D Printing Corporation（以下、3D Printing Corporatio…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「金属３Dプリンタの中国市場の現状 - 株式会社BANTEC」（https://www.bantec2022.com/archives/1584）
+  - 「弊社が金属3Dプリンタ加工品を中国から調達する理由」（https://www.bantec2022.com/archives/1584）
+  - 「また、弊社は中国を始めとした金属加工の協力工場とのネットワークがあるため、200個程度までの金属加工品のご提供が可能です」（https://www.bantec2022.com/archives/1584）
+  - 「弊社のお取引先は、大手OA機器メーカーや電子機器メーカーの１次サプライヤ―が多く、高精度かつ高品質の製品を求められています」（https://www.bantec2022.com/archives/1584）
+  - 「そのため弊社には、ノギス、マイクロゲージ、ピンゲージなどの検査器具や3次元測定や画像測定器などの一連の検査設備を取り揃えています」（https://www.bantec2022.com/archives/1584）
+- 金額の推移：
+  - 「世界の3Dプリント市場規模予測、2025年に250億ドルに達する見込み」（https://news.sharelab.jp/3dp-news/report/）
+  - 「市場調査会社のSmarTech Analysis社は、グローバルでの3Dプリント市場規模が2050年に約250億ドルに達する見込みであることを発表した」（https://news.sharelab.jp/3dp-news/report/）
+  - 「アメリカの調査会社のグランドビュー・リサーチは、全世界での金属3Dプリンティング市場が年率23.9%の成長を続け、2030年に226億ドル（約3兆2770億円）…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「業界全体の市場規模は前年同期比27%…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「業務用3Dプリンター市場、2026年に約6,300億円に成長見込み」（https://news.sharelab.jp/3dp-news/report/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/3dp-news/report/）
+  - 「📈 1. 市場規模・成長動向」（https://www.bantec2022.com/archives/1584）
+  - 「2023年の機器市場規模が約31.7億元（≒550億円以上）に達した」（https://www.bantec2022.com/archives/1584）
+  - 「中国ベンダーの出荷台数が前年比約45%増加」（https://www.bantec2022.com/archives/1584）
+  - 「世界の3Dプリンティング金属市場規模は、2025年には12億米ドルと評価され、2026年の14億2000万米ドルから2034年には53億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は18%となる見込みです」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「2025年の市場規模」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「2026年の市場規模」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「2034年予測市場規模」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「FAAは、米国の商用航空機フリートが2025年の6,949機から2046年には10,677機に増加すると予測しており、主要旅客ジェット機フリートは4,626機から6,890機に増加すると見込まれているため、高度な金属部品と積層造形技術の需要が高まっている」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「カナダのイノベーション・科学・経済開発省は、2030年までに製造業の売上高を50%増の1兆ドルに、製造業の輸出を5,400億ドルにすることを目標としており、カナダ国立研究評議会は引き続き金属積層造形と高度な製造技術を支援している」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+- AM・3Dプリンタ：
+  - 「市場レポートに関する記事一覧 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/3dp-news/report/）
+  - 「業務用3Dプリンター / AM技術の情報ポータル」（https://news.sharelab.jp/3dp-news/report/）
+  - 「樹脂3Dプリンター（148）」（https://news.sharelab.jp/3dp-news/report/）
+  - 「金属3Dプリンター（104）」（https://news.sharelab.jp/3dp-news/report/）
+  - 「その他材料3Dプリンター（21）」（https://news.sharelab.jp/3dp-news/report/）
+  - 「3Dプリンティング市場は2026年第1四半期に43億5,000万ドル規模へ AM Researchが最新市場レポートを発表」（https://news.sharelab.jp/3dp-news/report/）
+  - 「Additive Manufacturing Research（以下、AM Research）は、2026年第1四半期（Q1）の3Dプリンティング／AM市場に関…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「四半期のエントリークラス3Dプリンター出荷が関税懸念で急増 ― CONTEXT」（https://news.sharelab.jp/3dp-news/report/）
+  - 「市場調査会社CONTEXT（イギリス・ロンドン）の最新分析によれば、2025年第1四半期の世界3Dプリンタ市場は大きく異なる動きを見せた」（https://news.sharelab.jp/3dp-news/report/）
+  - 「2025-2035年における金属積層造形市場予測 ― IDTechEx」（https://news.sharelab.jp/3dp-news/report/）
+  - 「1990年代に初期の商業化が進んだ後、金属積層造形（いわゆる金属3Dプリンティング）は、過去10年間で大きな関心を集めてきた」（https://news.sharelab.jp/3dp-news/report/）
+  - 「金属AM市場、2034年に9兆円規模へ！VoxelMattersが最新市場レポートを公開」（https://news.sharelab.jp/3dp-news/report/）
+  - 「金属積層造形分野の専門調査会社VoxelMatters（イタリア・ミラノ）は、2025年に向けた最新の市場レポート『Metal AM Market 2025』を…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「CONTEXTが指摘！市場の変化により3Dプリンター出荷が四半期ベースで不安定に」（https://news.sharelab.jp/3dp-news/report/）
+  - 「CONTEXTworld Ltd.（イギリス・ロンドン、以下、CONTEXT）が発表したプレスリリースによれば、2025年初頭、産業用3Dプリンター市場において…」（https://news.sharelab.jp/3dp-news/report/）
+- 素材の内訳：
+  - 「樹脂3Dプリンター（148）」（https://news.sharelab.jp/3dp-news/report/）
+  - 「金属3Dプリンター（104）」（https://news.sharelab.jp/3dp-news/report/）
+  - 「樹脂材料（73）」（https://news.sharelab.jp/3dp-news/report/）
+  - 「金属材料（29）」（https://news.sharelab.jp/3dp-news/report/）
+  - 「2025-2035年における金属積層造形市場予測 ― IDTechEx」（https://news.sharelab.jp/3dp-news/report/）
+  - 「1990年代に初期の商業化が進んだ後、金属積層造形（いわゆる金属3Dプリンティング）は、過去10年間で大きな関心を集めてきた」（https://news.sharelab.jp/3dp-news/report/）
+  - 「金属AM市場、2034年に9兆円規模へ！VoxelMattersが最新市場レポートを公開」（https://news.sharelab.jp/3dp-news/report/）
+  - 「金属積層造形分野の専門調査会社VoxelMatters（イタリア・ミラノ）は、2025年に向けた最新の市場レポート『Metal AM Market 2025』を…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「「日本の製造業革新に不可欠な金属積層造形技術の未来」レポート公開 ― みずほ銀行」（https://news.sharelab.jp/3dp-news/report/）
+  - 「みずほ銀行 産業調査部は2025年1月17日に自社ウェブサイト内「Mizuho Short Industry Focus」において「日本の製造業における金属 A…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「金属3Dプリンティング市場は年率23.9%の成長を続ける見込みと報告ーグランドビュー・リサーチ」（https://news.sharelab.jp/3dp-news/report/）
+  - 「アメリカの調査会社のグランドビュー・リサーチは、全世界での金属3Dプリンティング市場が年率23.9%の成長を続け、2030年に226億ドル（約3兆2770億円）…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「その中から樹脂3Dプリンター、金属3Dプリンター両方を扱う3D…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/3dp-news/report/）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較」（https://news.sharelab.jp/3dp-news/report/）
+- 場面・目的：
+  - 「自動車業界の試作開発部門で活躍する3Dプリンター」（https://news.sharelab.jp/3dp-news/report/）
+  - 「試作部品や高付加価値部品の製造、特に軽量化や複雑形状部品で利用」（https://www.bantec2022.com/archives/1584）
+  - 「特に「試作〜小ロット量産」では価格差が顕著です」（https://www.bantec2022.com/archives/1584）
+  - 「金属の試作品を得意としているため、１個から金属加工品をご提供します」（https://www.bantec2022.com/archives/1584）
+  - 「一方、サプライチェーンの面では、この分野の企業は3Dプリンティングを活用してリードタイムを短縮し、在庫を最小限に抑え、国内生産を可能にして、世界的な物流による混乱を緩和しています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「また、この取り組みはDLAの積層造形統合製品チームによって支援されており、3Dプリンティングを軍事サプライチェーンに統合することで、保管と輸送の必要性を減らすことで重要な部品をより迅速かつオンデマンドで生産できるようにし、国防総省と業界ベンダー間の物流の俊敏性とコラボレーションを強化していると指摘しました」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「自動車、航空宇宙、ヘルスケア分野における試作、小ロット生産、デジタルワークフローの最適化のための産業用およびデスクトップ 3D プリント」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「そのため、試作や在庫削減は実現できても、初期費用の高さが普及の妨げとなります」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「試作から機能的で高性能な部品の製造への移行は、金属材料の需要を直接的に刺激します」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「さらに、試作から量産への移行を支援するとともに、カナダ市場における標準化とアクセシビリティの向上にも貢献します」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「また、インドは試作と少量生産の両方のための多数のAMソリューションの開発に積極的に取り組んでいるスタートアップエコシステムを有しています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「このコラボレーションは、複雑なアセンブリを簡素化し、国内外のOEMにサービスを提供する堅牢なAMサプライチェーンを構築することを目的としています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「さらに、試作からシリーズ生産までの積層プロセスを統合することで、Broseは柔軟性と生産性を高め、この分野での事業展開にさらに多くの企業を惹きつけています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「さらに、3T Additive Manufacturing、BeyondMath、Qdot Technology、オックスフォード・サーモフルイド研究所などのパートナーが協力し、英国の航空宇宙サプライチェーンの強化に取り組んでいます」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「したがって、このような戦略的な動きは、メーカーが試作から完全生産まで拡張するのに役立つ、より統合された効率的で信頼性の高い金属3Dプリントワークフローを提供することで、市場の成長を加速させるでしょう」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+- 推移：
+  - 「2026年7月30日」（https://news.sharelab.jp/3dp-news/report/）
+  - 「3Dプリンティング市場は2026年第1四半期に43億5,000万ドル規模へ AM Researchが最新市場レポートを発表」（https://news.sharelab.jp/3dp-news/report/）
+  - 「Additive Manufacturing Research（以下、AM Research）は、2026年第1四半期（Q1）の3Dプリンティング／AM市場に関…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「2025年7月31日」（https://news.sharelab.jp/3dp-news/report/）
+  - 「市場調査会社CONTEXT（イギリス・ロンドン）の最新分析によれば、2025年第1四半期の世界3Dプリンタ市場は大きく異なる動きを見せた」（https://news.sharelab.jp/3dp-news/report/）
+  - 「2025年6月10日」（https://news.sharelab.jp/3dp-news/report/）
+  - 「2025-2035年における金属積層造形市場予測 ― IDTechEx」（https://news.sharelab.jp/3dp-news/report/）
+  - 「2025年5月13日」（https://news.sharelab.jp/3dp-news/report/）
+  - 「金属積層造形分野の専門調査会社VoxelMatters（イタリア・ミラノ）は、2025年に向けた最新の市場レポート『Metal AM Market 2025』を…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「2025年5月8日」（https://news.sharelab.jp/3dp-news/report/）
+  - 「CONTEXTworld Ltd.（イギリス・ロンドン、以下、CONTEXT）が発表したプレスリリースによれば、2025年初頭、産業用3Dプリンター市場において…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「2025年3月21日」（https://news.sharelab.jp/3dp-news/report/）
+  - 「2025年2月3日」（https://news.sharelab.jp/3dp-news/report/）
+  - 「みずほ銀行 産業調査部は2025年1月17日に自社ウェブサイト内「Mizuho Short Industry Focus」において「日本の製造業における金属 A…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「2023年4月13日」（https://news.sharelab.jp/3dp-news/report/）
+- 期間・審査：
+  - 「この期間には、COVID-19パン…」（https://news.sharelab.jp/3dp-news/report/）
+  - 「世界の3Dプリンティング金属市場規模は、2025年には12億米ドルと評価され、2026年の14億2000万米ドルから2034年には53億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は18%となる見込みです」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「業界全体の標準規格が限られているため、検証期間が長くなり、メーカーは安全性が重視される用途に金属3Dプリンティングを使用することに慎重になる場合があります」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「粉末材料セグメントは2025年に86.7%のシェアを占め、高い材料精度、効率的な堆積、複雑な金属部品の製造への適性といった利点に支えられ、2026年から2034年の予測期間中に年平均成長率（CAGR）24.9%で成長すると予想されています」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「アジア太平洋地域の3Dプリンティング金属市場は、予測期間中に年平均成長率（CAGR）27.9%で成長すると予想されており、地域市場の中で最も急速に成長している市場となっています」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「日本の3Dプリンティング金属市場は、日本政府が2040年までに世界の金属積層造形市場における日本のシェアを10%未満から20%に引き上げるという目標を掲げていること、また、同じ期間に機械部品および工具産業における航空宇宙などの高付加価値分野のシェアを30%から50%に引き上げるという目標を掲げていることから恩恵を受ける可能性があります」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「中東・アフリカ地域の3Dプリンティング金属市場は、予測期間中に年平均成長率（CAGR）20.8%で成長すると予想されており、地域市場の中で最も急速に成長している市場となる見込みです」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「3Dプリンティング金属市場の規模は、2026年には14億2000万米ドルと評価され、2034年までに53億2000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は18%です」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「3Dプリンティング用金属市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）18%で成長すると予測されている」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「研究期間: 2022-2034」（https://straitsresearch.com/jp/report/3d-printing-metal-market）
+  - 「予測期間（2026年から2035年）中、年平均成長率（CAGR）は21.4%です」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「予測期間の終わりまでに、産業用プリンターセグメントは、積層造形市場で68.5％という最大のシェアを獲得すると予想されています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「航空宇宙および防衛分野は、積層造形市場をリードし、分析対象の期間に大きな収益を獲得すると予想されています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「積層造形市場の市場規模は、2035年末までに6,477億米ドルに達すると予測されており、予測期間である2026年から2035年の間に21.4%のCAGRで拡大する見込みです」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「1.調査期間： 2023年12月～2024年4月」（https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vK7bmfNmnIjz9exEqYL2dKKW6_iT_RNauZCF_eZAxBjKt08ZWnR）
+- 主体：
+  - 「また、この取り組みはDLAの積層造形統合製品チームによって支援されており、3Dプリンティングを軍事サプライチェーンに統合することで、保管と輸送の必要性を減らすことで重要な部品をより迅速かつオンデマンドで生産できるようにし、国防総省と業界ベンダー間の物流の俊敏性とコラボレーションを強化していると指摘しました」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「2025年6月、島津製作所は、大学や産業界のパートナーと共同で統合型金属積層造形システムを開発するための5年間の研究開発プログラムに、日本のNEDOに選定されたと発表しました」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「合「次世代３Ｄ積層造形技術総合開発機構（TRAFAM ）」2が発足した」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+  - 「統合されて 「次世代産業用３Ｄプリンタの造形技術 ・ 実用化事業」 （NEDO」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+  - 「1 出典：NEDO 技術戦略研究センターレポート TSC Foresight Vol.32 「金属積層造形プロセス分野」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+  - 「の技術戦略策定に向けて」 https://www.nedo.go.jp/content/100888376.pdf に、一部 NSRI 追記」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+  - 「次世代型産業用三次元造形システム技術開発（経済産業省）」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+  - 「の開発・実用化事業（経済産業省） 2016～2018」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+  - 「新的設計生産技術」 「革新的構造材料」 （内閣府、2014 年度～2018 年度）」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+  - 「1 出典： NEDO TSC Foresight Vol.32 「金属積層造形プロセス分野の技術戦略策定に向けて」」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+  - 「は、 技術研究組合「次世代３Ｄ積層造形技術総合開発機構 （ TRAFAM ）」」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+  - 「1 NEDO TSC Foresight Vol.32 「金属積層造形プロセス分野の技術戦略策定に向けて」」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf）
+  - 「 各県公設試の３Ｄプリンタ利用状況 」（https://www.pref.niigata.lg.jp/uploaded/attachment/345032.pdf）
+  - 「所 3D3 プロジェクトに参画し ，各県公設試の」（https://www.pref.niigata.lg.jp/uploaded/attachment/345032.pdf）
+  - 「公設試における金属３Ｄプリンタによる支援」（https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf）
+- 検索結果の抜粋：
+  - 「金属3Dプリンタ の中国 市場 の現状 - 株式会社BANTEC — 金属3Dプリンタ の中国 市場 の現状 - 株式会社BANTEC 株式会社BANTEC https://www.bantec2022.com > ブログ一覧ページ」（https://www.bantec2022.com/archives/1584）
+
+## 国内のAM受託の素材別内訳（金属・エンプラ・カーボン・樹脂）の推移（Japan 3D printing service by material metal engineering plastic carbon resin share）
+- 文脈：市場調査・素材内訳
+- 件数の推移：
+  - 「４ 【関係会社の状況】…………………………………………………………………………………………… ６」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「第４ 【提出会社の状況】……………………………………………………………………………………………… 51」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「第６ 【提出会社の株式事務の概要】…………………………………………………………………………………213」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「第７ 【提出会社の参考情報】…………………………………………………………………………………………214」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「１ 【提出会社の親会社等の情報】………………………………………………………………………………214」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「第二部 【提出会社の保証会社等の情報】………………………………………………………………………………215」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「１株当たり親会社」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「親会社所有者帰属持分比率 (％) 26.2 27.1 28.9 29.5 30.0」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「２ 当社は、第21期において、当社の連結子会社であった田辺三菱製薬㈱（現 田辺ファーマ㈱）の全株式及び」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「関連資産を吸収分割により譲渡したことに伴い、同社及びその子会社等の事業を非継続事業に分類し、第20」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「(2) 提出会社の経営指標等」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「2005年４月 三菱化学㈱及び三菱ウェ ルファーマ㈱は、両社が共同で株式移転の 方法により、両社の完全親会」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「〃 10月 三菱化学㈱及び三菱ウェルファーマ㈱の株式移転により当社を設立」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「〃 10月 三菱樹脂㈱との株式交換により同社を当社の完全子会社化」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「〃 10月 三菱ウェルファーマ㈱が田辺製 薬㈱と合併し、新たに連結上場子会社で ある田辺三菱製薬㈱が発」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+- 金額の推移：
+  - 「売上収益 (百万円) 3,976,948 4,634,532 4,387,218 3,947,566 3,703,988」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「税引前利益 (百万円) 290,370 167,964 240,547 99,248 711」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「当期利益 (百万円) 209,405 135,545 178,439 105,636 78,425」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「当期利益(△損失) (百万円) 177,162 96,461 119,596 45,020 11,829」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「当期包括利益 (百万円) 332,834 210,888 363,597 77,464 251,905」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「当期包括利益 (百万円) 268,003 151,379 249,349 21,774 116,616」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「持分 (百万円) 1,458,077 1,564,698 1,763,447 1,740,570 1,761,675」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「資産合計 (百万円) 5,573,871 5,774,348 6,104,513 5,894,619 5,876,609」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「株価収益率 (倍) 6.6 11.6 10.9 23.3 104.2」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「キャッシュ・フロー (百万円) 346,871 355,189 465,146 552,847 436,287」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「キャッシュ・フロー (百万円) △128,781 △247,632 △246,087 △275,434 124,470」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「キャッシュ・フロー (百万円) △336,283 △60,783 △241,724 △246,654 △375,207」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「期末残高 (百万円) 245,789 297,224 294,924 326,144 527,104」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「営業収益 (百万円) 69,463 125,338 211,979 75,819 57,621」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「経常利益 (百万円) 52,616 103,063 186,575 51,650 48,377」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+- AM・3Dプリンタ：
+  - 「コーティング＆アディティブスサブセグ メントにおいて は、販売価格の維持 ・向上があったものの、塗料・」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「ム地上検証モデル試作評 価」の研究開発の一環とし て、㈱KDDI総合研究所、㈱アークエッジ ・スペース、㈱テ」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「・抗血栓性熱可塑性エラストマー「Zelas ™ AMP」の医療機器への適応について、九州大学先導物質化学研究所及」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「MMA、コーティング＆アディティブスに関する研究開発を行っており、当連結会計年度の主な成果は次のとおり」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「「DURABIO ™ （デュラビオ ™ ）」が、日本政府館に設置された3Dプリンタ製「藻類スツール」のベース素材とし」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「・アディティブ・マニュファクチャリン グ（AM）事業においては、技術の開発と造形物の品 質安定化に寄与する」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「推進する「経済安全保障重要技術育成プログラム（K Program）」に2025年５月に採択されており、焼結型積層」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「造形とデジタルプロセ ス設計を組み合わせた金 属3Dプリンタシステムの研究 開発に2024年度から2028年度まで」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「本プロジェクトで は、得意とするプロセス雰囲 気ガス制御技術や金属 AM」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「に関する知見を活か し、造形条件の最適化技術お よび製造条件探索システ ムの開発を通じ て、金属AM技術の産」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「3D printing - Wikipedia」（https://en.wikipedia.org/wiki/3D_printing）
+  - 「Benefits of 3D printing」（https://en.wikipedia.org/wiki/3D_printing）
+  - 「Multi-material 3D printing」（https://en.wikipedia.org/wiki/3D_printing）
+  - 「3D printing」（https://en.wikipedia.org/wiki/3D_printing）
+  - 「additive manufacturing」（https://en.wikipedia.org/wiki/3D_printing）
+- 素材の内訳：
+  - 「2007年３月 三菱化学㈱が三菱樹脂㈱の株式を公開買付けにより追加取得」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「〃 ９月 三菱化学㈱が保有する三菱樹脂㈱の株式のすべてを株式の現物配当の方法により取得」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「〃 10月 三菱樹脂㈱との株式交換により同社を当社の完全子会社化」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「ムケーブイ㈱の株式のす べてを当社に、また、機能材料事業を三菱樹脂 ㈱にそれぞれ吸収分割に」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「より移管し、三菱樹脂㈱が、三菱化学ポリエステルフィルム ㈱、三菱化学産資㈱及び三菱 化学エ」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「2017年４月 三菱化学㈱、三菱樹脂㈱及び三菱レイヨン㈱の３社を合併により統合し、三菱ケミカル㈱を発足」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「化学に立脚する当社グル ープは、カーボンニュートラルや サーキュラーエコノ」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「カーボンニュートラルの実現 や、人材の育成・開発と働く環境の整備な どの人的資本の拡充を含 めた事業基盤の強」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「また、持続的な成長を達成しつ つ、2050年度までにカーボンニュ ートラルを実現するた め、製造」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「当社グループ は、カーボンニュートラルに 移行する社会でも競争力 のある企業をめざ し、 Visionとの整合」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「性、競争優位性、成長性の基準を用いたポ ートフォリオへの変革を 通じて、カーボンニュートラ ル実現に貢献」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「数量差：精密洗浄サービスを中心 とした半導体関 連、半導体製造装置向け高機 能エンプラ及び」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「ロボタクシー向けを中心とした炭素繊維コンポジットパーツ等の増販により増益」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「アドバンストコンポジ ット＆シェイプスサブセグメン トにおいては、炭素繊維事業における汎 用焼成ライン」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「造装置用途を中心に需要 が増加したことに加 え、炭素繊維コンポジットパ ーツの増販 や、為替影響等によ り、」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+- 場面・目的：
+  - 「・さらに、2025年度は、希望退職の実施や構造改革 による事業撤退等の決断 ・発表を行ってきました が、事案」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「①サプライチェーン・地政学に関連するリスク」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「リスク項目 サプライチェーン（地政学リスク・経済安全保障リスクを含む）」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「・当社グループ製品が、法令違反、サプライチェーンにおけ る環境影響及び人権侵害 に係る問題、経済」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「リスク対策 ・調達先の分散や代替原材料の検討、また、安全操業による製品の生 産や製品の品質の維持 ・向上に努」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「当社グループだけでな く、当社グループと取引のあ るサプライチェーン先にお いて、人権侵害に関与す」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「・適切なサプライチェーン を運営しながらグローバ ルな事業活動を持続的に 展開していけるよう、社内」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「・当社グループに対する自然災害の直接の影響が軽微であっ たとしても、サプライチェーンや物流 関係」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「２ コア営業利益は、営業利益から非経常的な要因により発生した損益（事業撤退や縮小から生じる損」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「主に、三菱ケミカル㈱におい て、コークス及び炭素材事業 の撤退を決定したことに 関連して、設備撤去費用」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「ム地上検証モデル試作評 価」の研究開発の一環とし て、㈱KDDI総合研究所、㈱アークエッジ ・スペース、㈱テ」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+- 推移：
+  - 「第 21 期 自 2025年４月１日至 2026年３月31日」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「１ 【主要な経営指標等の推移】………………………………………………………………………………… ２」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「【提出日】 2026年６月22日」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「【事業年度】 第21期(自 2025年４月１日 至 2026年３月31日)」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「１ 【主要な経営指標等の推移】」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「決算年月 2022年３月 2023年３月 2024年３月 2025年３月 2026年３月」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「３ 第19期よりIAS第12号「法人所得税」（2021年５月改訂）を適用しております」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「(注) 最高株価及び最低株価は、2022年４月３日以前は東京証券取引所市場第一部におけるものであり、2022年４月４」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「2012年11月 当社の全額直接出資子会社である三菱ケミカルホールディングスヨーロッパ社を設立」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「2014年４月 当社グループのヘルスケアソリ ューション事業を統合 し、同事業を担う新たな事業 会社として㈱」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「2017年４月 三菱化学㈱、三菱樹脂㈱及び三菱レイヨン㈱の３社を合併により統合し、三菱ケミカル㈱を発足」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「2020年３月 田辺三菱製薬㈱の株式を公開買付け及び売渡請求により取得し、同社を完全子会社化」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「2022年７月 当社の商号を三菱ケミカルグループ㈱に変更」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「2022年10月 当社の全額直接出資子会 社である三菱ケミカルホールディン グスアメリカ社及び三菱 ケミカルホ」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「2023年４月 当社の全額直接出資子会社である㈱地球快適化インスティテュートを吸収合併により統合」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+- 期間・審査：
+  - 「その考え方に基づ き、2035年までの期間を対象とす る経営ビジョ ン「KAITEKI Vision」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「の見積りが変更された会計期間及び影響を受ける将来の会計期間において認識されます」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「測の期間を超えた後の将 来キャッシュ・フローは個別の 事情に応じた５年を超える期間の長期平 均成長率を」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「フローの見積り、割引率及び５年を超える期間の長期成長率です」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「測される期間における 将来課税所得の予測に基 づき、回収される可能性が高い と考えておりま す」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「中東情勢による当社グ ループへの影響 は、その動向及び継続期間に より異なります」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「(5) 新株予約権を行使することができる期間」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「新株予約権の行使期間の 開始日と組織再 編行為の効力発生日のい ずれか遅い日か ら、新株予約権の行使」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「新株予約権の行使期間 2014年９月13日から2034年９月12日まで 2015年９月29日から2035年９月28日まで 2016年７月20日から2036年７月19日まで」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「新株予約権の行使期間 2017年７月26日から2037年７月25日まで 2018年７月25日から2038年７月24日まで」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+- 主体：
+  - 「なお、当社は、有価証券の取引等の規制に関する内閣府令第49条第２項に規定する特定上場会社等に該当するため、」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「・経済産業省の「令和７年度資源自律経済確立産 官学連携加速化事業 費（広域自治体における資源 循環システム」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「NEDO（国立研究開発法人新エネルギー ・産業技術総合開発機 構）が」（https://www.mcgc.com/ir/pdf/02679/02924.pdf）
+  - 「Trenfield, Sarah J; Awad, Atheer; Madla, Christine M; Hatton, Grace B; Firth, Jack; Goyanes, Alvaro; Gaisford, Simon; Basit, Abdul W (3 October 2019).」（https://en.wikipedia.org/wiki/3D_printing）
+
+## 世界の金属AM市場規模の推移（Global metal additive manufacturing market size by year AM Power）
+- 文脈：海外・市場
+- 件数の推移：
+  - 「スウェーデンに拠点を置くデジタルメタル社は、バインダージェッティング技術を用いた3D金属プリンターの製造を専門としている」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「30.2.1.トランプフ社」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「30.2.3.DMG森精機株式会社森精機製作所」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「31.4.デスクトップメタル社」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「31.8.株式会社エクスワン」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「31.13.アディティブ・インダストリーズ社」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「31.14.3DEO社」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「35.3.2 競合他社の戦略」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「36.5.ビジネスリサーチ会社」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「強化ガラスの世界市場：2033年までのビジネスチャンスと戦略1) タイプ別無地ガラス; 色ガラス2) 形状別：平板強化ガラス; 曲げ強化ガラス3) 最終用途産業別：自動車;建築;電気・電子Covering：Compagnie de Saint-Gobain S.A.、Pittsburgh Plate Glass Company、Corning Incorporated、Nippon Sheet Glass Co.日本板硝子株式会社、信義ガラスホールディングス株式会社」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「防弾ガラスの世界市場2033年までの機会と戦略Including：1) タイプ別タイプ別：ソリッドアクリル; 従来型合わせ; ポリカーボネート; ガラスクラッドポリカーボネート2) セキュリティレベル別：セキュリティレベル1; セキュリティレベル2; セキュリティレベル3; セキュリティレベル4～83) エンドユーザー別: 自動車; 軍事; 銀行・金融; 建設4) 用途別：防衛およびVIP車両; ATMブースおよびテラーステーション; キャッシュイントランジット車両; 商業ビル; 政府; 法執行Covering：旭硝子株式会社(AGC Inc.)、サンゴバンS.A.、ガーディアン・インダストリーズ、日本板硝子株式会社、CSGホールディングス株式会社」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「3)お客様指定、もしくは弊社の発注書をメール添付にて発送してください」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「4)データリソース社からレポート発行元の調査会社へ納品手配します」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「5) 調査会社からお客様へ納品されます」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「お客様の御支払い条件が60日以上の場合は御相談ください」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+- 金額の推移：
+  - 「この調査レポートは、金属積層造形産業の世界市場規模、地域別シェア、金属積層造形市場シェアを持つ競合企業、詳細な金属積層造形市場セグメント、市場動向、ビジネスチャンスなど、金属積層造形市場統計を提供し、金属積層造形産業で成功するために必要なあらゆるデータを提供する、The Business Research Companyの最新レポートシリーズの1つです」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「例えば、2022年11月に航空宇宙産業協会が報告したように、アメリカの航空宇宙・防衛産業は2021年に合計売上高で8,920億ドルを達成し、前年から2.1％増加した」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「2022年9月に国際エネルギー機関（IEA）が報告したように、電気自動車の販売台数は2020年の300万台超から2021年には2倍の660万台に増加する」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「5.金属積層造形の世界市場規模と成長」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「5.2.金属積層造形の世界歴史的市場規模および成長、2018年～2023年、金額（億ドル）」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「5.3.金属積層造形の世界予測市場規模・成長率、2023年～2028年、2033年、金額（億ドル）」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「世界の金属積層造形市場規模は、2024年には45.5億米ドルと評価され、2025年には53.4億米ドル、2033年には192.4億米ドルに達すると予測されており、予測期間（2025年～2033年）のCAGRは17.39%になると見込まれています」（https://www.marketresearch.co.jp/metal-additive-manufacturing-market/）
+  - 「航空宇宙、医療、歯科、自動車、学術産業などのさまざまな産業における新製品の使用と金属積層造形技術の受容の増加により、世界市場シェアは19.21%のCAGRで成長すると予測されています」（https://www.marketresearch.co.jp/metal-additive-manufacturing-market/）
+  - 「FAAによると、北米の航空宇宙産業におけるアディティブ・マニュファクチャリング技術の利用は劇的に増加しており、多くの企業が3Dプリントを生産プロセスに組み込んでいます」（https://www.marketresearch.co.jp/metal-additive-manufacturing-market/）
+- AM・3Dプリンタ：
+  - 「金属積層造形の世界市場レポート 2024年/The Business Research Company (TBRC)/調査レポート|市場調査レポートの依頼・購入」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「金属積層造形の世界市場レポート 2024年」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「Metal Additive Manufacturing Global Market Report 2024」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「金属3Dプリンティングとも呼ばれる金属積層造形では、コンピュータ支援設計（CAD）アプリケーションを使用するか、製品の3Dスキャンを生成することで、堅牢で複雑な部品を作成します」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「金属積層造形の主な種類には、選択的レーザー溶融（SLM）、電子ビーム溶融（EBM）、粉末床溶融、シートラミネーション、指向性エネルギー堆積法、バインダージェッティングなどがある」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「この調査レポートは、金属積層造形産業の世界市場規模、地域別シェア、金属積層造形市場シェアを持つ競合企業、詳細な金属積層造形市場セグメント、市場動向、ビジネスチャンスなど、金属積層造形市場統計を提供し、金属積層造形産業で成功するために必要なあらゆるデータを提供する、The Business Research Companyの最新レポートシリーズの1つです」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「この金属積層造形市場調査レポートは、業界の現在と将来のシナリオの詳細な分析により、必要なあらゆるものの完全な展望を提供します」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「金属積層造形市場規模は近年急速に成長しています」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「金属積層造形市場規模は、今後数年間で急成長が見込まれる」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「航空宇宙産業における金属積層造形技術の拡大は、今後の金属積層造形市場の成長を促進すると予測される」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「航空機、宇宙船、衛星、および関連部品の設計、開発、生産、運用、保守を包含する航空宇宙部門では、金属積層造形を利用して軽量部品を製造している」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「その結果、航空宇宙分野での金属積層造形技術の採用が、金属積層造形市場の需要を促進している」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「電気自動車に対する需要の高まりは、金属積層造形市場の成長を促進すると予想される」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「電気自動車は、搭載されたバッテリーパックを動力源とする1つまたは複数の電気モーターによって駆動され、オンデマンド生産を容易にし、複雑なサプライチェーンへの依存を軽減することで、金属積層造形の恩恵を受ける」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「したがって、電気自動車の需要増加が金属積層造形市場の成長の原動力となっている」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+- 素材の内訳：
+  - 「金属積層造形の世界市場レポート 2024年/The Business Research Company (TBRC)/調査レポート|市場調査レポートの依頼・購入」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「金属積層造形の世界市場レポート 2024年」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「金属3Dプリンティングとも呼ばれる金属積層造形では、コンピュータ支援設計（CAD）アプリケーションを使用するか、製品の3Dスキャンを生成することで、堅牢で複雑な部品を作成します」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「金属積層造形の主な種類には、選択的レーザー溶融（SLM）、電子ビーム溶融（EBM）、粉末床溶融、シートラミネーション、指向性エネルギー堆積法、バインダージェッティングなどがある」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「選択的レーザー溶融（SLM）は、高出力密度レーザーを利用して金属粉末を完全に溶融・融合させる特殊な3Dプリンティング技術であり、その結果、ほぼ網目状でほぼ完全な密度の造形物が得られる」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「この調査レポートは、金属積層造形産業の世界市場規模、地域別シェア、金属積層造形市場シェアを持つ競合企業、詳細な金属積層造形市場セグメント、市場動向、ビジネスチャンスなど、金属積層造形市場統計を提供し、金属積層造形産業で成功するために必要なあらゆるデータを提供する、The Business Research Companyの最新レポートシリーズの1つです」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「この金属積層造形市場調査レポートは、業界の現在と将来のシナリオの詳細な分析により、必要なあらゆるものの完全な展望を提供します」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「金属積層造形市場規模は近年急速に成長しています」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「金属積層造形市場規模は、今後数年間で急成長が見込まれる」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「航空宇宙産業における金属積層造形技術の拡大は、今後の金属積層造形市場の成長を促進すると予測される」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「航空機、宇宙船、衛星、および関連部品の設計、開発、生産、運用、保守を包含する航空宇宙部門では、金属積層造形を利用して軽量部品を製造している」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「その結果、航空宇宙分野での金属積層造形技術の採用が、金属積層造形市場の需要を促進している」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「電気自動車に対する需要の高まりは、金属積層造形市場の成長を促進すると予想される」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「電気自動車は、搭載されたバッテリーパックを動力源とする1つまたは複数の電気モーターによって駆動され、オンデマンド生産を容易にし、複雑なサプライチェーンへの依存を軽減することで、金属積層造形の恩恵を受ける」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「したがって、電気自動車の需要増加が金属積層造形市場の成長の原動力となっている」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+- 場面・目的：
+  - 「電気自動車は、搭載されたバッテリーパックを動力源とする1つまたは複数の電気モーターによって駆動され、オンデマンド生産を容易にし、複雑なサプライチェーンへの依存を軽減することで、金属積層造形の恩恵を受ける」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「これには、サプライチェーンに沿った再販（サプライチェーンのさらに途中、または他の製品の一部としての再販）による収入は含まれない」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「「○○のサプライチェーンが知りたい」 など、お気軽にご相談ください」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+- 推移：
+  - 「金属積層造形の世界市場レポート 2024年/The Business Research Company (TBRC)/調査レポート|市場調査レポートの依頼・購入」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「金属積層造形の世界市場レポート 2024年」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「Metal Additive Manufacturing Global Market Report 2024」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「2024年2月14日」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「2023年の46.4億ドルから2024年には53.6億ドルまで、年平均成長率（CAGR）15.5％で成長する」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「例えば、2022年11月に航空宇宙産業協会が報告したように、アメリカの航空宇宙・防衛産業は2021年に合計売上高で8,920億ドルを達成し、前年から2.1％増加した」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「さらに、2021年の航空宇宙・防衛産業からの輸出は11.2％増の総額1004億ドルに達した」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「2022年9月に国際エネルギー機関（IEA）が報告したように、電気自動車の販売台数は2020年の300万台超から2021年には2倍の660万台に増加する」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「例えば、2022年11月、米国を拠点とする金属積層造形ソリューションのプロバイダーであるADDiTECは、完全自動化ロボット金属AMシステムであるAMRC-P（積層造形ロボットセル・ポータブル）を発表した」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「2022年11月、ノルウェーに本拠を置く保証とリスク管理の専門家であるDNV GLは、エネルギー産業のデジタル変革を支援することを目的とした新しいアディティブ・マニュファクチャリング・サービス仕様を発表した」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「2022年8月、米国の積層造形企業であるマークフォージドは、ヘガネスABからデジタルメタルを3,200万ドルで買収し、金属積層造形における地位を強化した」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「2023年の金属積層造形市場は北米が最大地域であった」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「5.2.金属積層造形の世界歴史的市場規模および成長、2018年～2023年、金額（億ドル）」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「5.3.金属積層造形の世界予測市場規模・成長率、2023年～2028年、2033年、金額（億ドル）」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「6.1.金属積層造形の世界市場、タイプ別セグメント、歴史的および予測、2018年～2023年、2023年～2028年、2033年、10億ドル」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+- 期間・審査：
+  - 「予測期間中に予想される成長は、歯科産業の拡大、教育機関の成長、効率性の向上、コスト削減の重視の高まり、重量の最小化に対する注目の高まりに起因すると考えられる」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「予測期間に予想される主な動向には、3Dプリンティングの進歩、自動化とワークフローの合理化の統合、技術革新、製品革新などがある」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「アジア太平洋地域は、予測期間で最も急成長する地域となる見込みである」（https://www.dri.co.jp/auto/report/tbrc/240214-metal-additive-manufacturing-global-market.html）
+  - 「世界の金属積層造形市場規模は、2024年には45.5億米ドルと評価され、2025年には53.4億米ドル、2033年には192.4億米ドルに達すると予測されており、予測期間（2025年～2033年）のCAGRは17.39%になると見込まれています」（https://www.marketresearch.co.jp/metal-additive-manufacturing-market/）
+  - 「北米は予測期間中に世界市場で大きなシェアを占めています」（https://www.marketresearch.co.jp/metal-additive-manufacturing-market/）
+  - 「北米市場は予測期間中に最大の市場シェアを占めると予測されています」（https://www.marketresearch.co.jp/metal-additive-manufacturing-market/）
+  - 「さらに、航空宇宙部品の製造における金属積層造形の需要増加が、予測期間全体を通じて市場拡大を推進する可能性が高いです」（https://www.marketresearch.co.jp/metal-additive-manufacturing-market/）
+  - 「アジア太平洋地域は、予測期間全体を通じて大幅なCAGRで成長すると予測されています」（https://www.marketresearch.co.jp/metal-additive-manufacturing-market/）
+  - 「また、急速な都市化が予測されており、予測期間中に同地域全体での3Dプリンティングの使用に大きな影響を与えると見られています」（https://www.marketresearch.co.jp/metal-additive-manufacturing-market/）
+- 主体：
+  - 「DoD FY2026 AM budget expansion: The Pentagon's FY2026 budget request includes USD 3.3 billion for AM-related projects, building on FY2024's USD 800 million allocation, alongside NDAA-mandated qualification of up to one million AM parts by 2027 and domestic sourcing requirements for AM equipment .」（https://www.gminsights.com/industry-analysis/aerospace-additive-manufacturing-market）
+
+## 国内企業の3Dプリンタ導入率の推移（大企業・中小企業別）（Japan companies 3D printer adoption rate by company size trend）
+- 文脈：一次・調査・規模別
+- AM・3Dプリンタ：
+  - 「Japan 3D Printing Market Size, Share | Report 2026-2034」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「Japan 3D Printing Market Size, Share, Trends and Forecast by Technology, Process, Material, Offering, Application, End User, and Region, 2026-2034」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「Japan 3D Printing Market Size, Share, Trends & Forecast (2026-2034)」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「The Japan 3D printing market grew from」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「Japan's 3D printing market expanded from USD 0.90 Billion in 2020 to USD 2.02 Billion in 2025 and an estimated USD 2.48 Billion in 2026, anchored at USD 4.55 Billion in 2030, expected to reach USD 9.08 Billion by 2034. Metal additive manufacturing acquisitions and government-backed automation programs are reshaping Japan's precision-manufacturing economics above the historical baseline.」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「Electron beam melting grows fastest among technologies at an estimated ~21.2% CAGR (2026-2034), fueled by aerospace and medical-implant demand for high-strength metal parts. Digital light processing follows at ~19.5% CAGR, supported by rising jewelry and dental prototyping needs, while fused deposition modeling, the largest segment, grows at a steadier ~16.8% through 2034.」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「Metal AM expansion in aerospace, automotive gigacasting, and healthcare prosthetics」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「Japan 3D Printing Market Overview」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「Government Funding and METI-Backed Manufacturing Programs:」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「Japan's government actively subsidizes additive-manufacturing adoption among SMEs, targeting complex components domestically via metal 3D printing by 2030, per industry funding announcements.」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「Automakers use 3D printing for rapid prototyping and lightweight component production, while aerospace suppliers increasingly qualify additive parts for turbine and structural applications, expanding Japan's ~17.60% CAGR base.」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「The high cost of industrial 3D printers, specialized software, post-processing systems, and advanced printing materials limits adoption, particularly among small and medium-sized enterprises. Uncertain returns on investment and ongoing maintenance expenses can further delay purchasing decisions.」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「A lack of uniform standards for materials, process validation, quality assurance, and part certification makes large-scale 3D printing difficult. Variations in equipment and production outcomes can reduce consistency, slowing adoption in regulated and high-volume industries.」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「Metal AM Expansion in Automotive Gigacasting:」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「The integration of metal additive manufacturing with automotive gigacasting offers significant opportunities for producing complex mould inserts, conformal cooling channels, lightweight components, and customized tooling. Japan’s strong automotive manufacturing base can accelerate adoption by reducing tooling lead times, improving casting efficiency, and supporting rapid vehicle design innovation.」（https://www.imarcgroup.com/japan-3d-printing-market）
+- 推移：
+  - 「Japan 3D Printing Market Size, Share | Report 2026-2034」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「Japan 3D Printing Market Size, Share, Trends and Forecast by Technology, Process, Material, Offering, Application, End User, and Region, 2026-2034」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「October 21, 2026」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「SR112026A9911」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「Japan 3D Printing Market Size, Share, Trends & Forecast (2026-2034)」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「in 2025 to」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「in 2026 and is projected to reach」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「Base Year Market Size (2025)」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「Market Size (2026)」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「CAGR (2026-2034)」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「2020-2025」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「2026-2034」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「Fused Deposition Modeling – 26.8% share (2025)」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「Printer – 37.4% share (2025)」（https://www.imarcgroup.com/japan-3d-printing-market）
+  - 「Kanto Region - 34.1% share (2025)」（https://www.imarcgroup.com/japan-3d-printing-market）
+- 件数の推移：記載なし（読んだ24頁・検索11回）
+- 金額の推移：記載なし（読んだ24頁・検索11回）
+- 素材の内訳：記載なし（読んだ24頁・検索11回）
+- 場面・目的：記載なし（読んだ24頁・検索11回）
+- 期間・審査：記載なし（読んだ24頁・検索11回）
+- 主体：記載なし（読んだ24頁・検索11回）
+
+## リンカーズの技術探索件数・成約率の推移（Linkers technology search number of projects close rate by year）
+- 文脈：上場企業IR・場面②
+- 件数の推移：
+  - 「01 ミッション・会社概要」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「2011年 9月 Disty株式会社設立」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「2015年 4月 社名をリンカーズ株式会社に変更」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「2017年 2月 本社オフィスを東京都中央区日本橋本町に移転」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「2020年11月 本社オフィスを東京都文京区後楽に移転」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「2021年 2月 事業会社向けマッチングシステム「Linkers for Business」の提供を開始」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「2024年７月期第３四半期累計業績」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「• 売上高は、前年同期比では約20％、第3四半期累計比では約12％の減収で着地」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「• 販管費全体では前年同期比で約21％増となったものの、概ね人件費やシステム関連経費等の重点施策への投資であり、」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「• 業容拡大による採用強化や従業員賞与原資の増加などもあり、人件費については前年同期比で約20％増」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「マッチングデータ 約1,900件**」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「登録数 約20,000社」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「※赤字で示した数字は、2024年4月時点の累計」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「• 探索・マッチングサービス（Linkers Sourcing/Linkers Marketing）の案件数は、前年同期比で約30％減」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「なった国内探索案件数は前年同期比で約55％減とペースダウン」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+- 金額の推移：
+  - 「245百万円（2024年4月末日現在）」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「• 売上高全体は、前年同期比で約12％の減収」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「管費が増加したことから、経常利益は前年同期比で△184百万円で着地」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「△ 155百万円」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「経常利益 △ 65百万円 前年同期比 △ 184百万円」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「四半期純利益 △ 48百万円 前年同期比 △ 144百万円」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「売上高 1,104百万円 前年同期比」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「マッチングサービス 223 百万円 △11.8 %」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「リサーチサービス 348 百万円 △24.3 % 当期においては、今後の事業拡大を目的とした体」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「Trading 142 百万円 △14.1 % サービスとしての利益率が低いため、当期以降は」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「システム 322 百万円」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「(287 百万円)」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「• 売上高は、前年同期比では約20％、第3四半期累計比では約12％の減収で着地」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「• 業容拡大による採用強化や従業員賞与原資の増加などもあり、人件費については前年同期比で約20％増」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「• 自社運営マッチングサービス全体の売上高は、前年同期比で約23％減、自治体関連の案件減少等もあり、「Linkers」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+- AM・3Dプリンタ：
+  - 「Combined Linkers' team experience, years」（https://linkersconnect.com/）
+  - 「Free Ideas To Use. Gamify Corporate Values!」（https://linkersconnect.com/）
+  - 「Make cultural transformation easy and fun! Gamification can reinforce the importance of corporate values by…」（https://linkersconnect.com/）
+  - 「Tips and Tricks for your next Gamification Project」（https://linkersconnect.com/）
+  - 「Everything you need to launch the next Gamification Program! Please welcome my farm-to-table presentation for…」（https://linkersconnect.com/）
+  - 「Welcome to The Developers’ Side of The Linkers! Hi! My name is Michael Yegorov, I’m…」（https://linkersconnect.com/）
+  - 「Why a manager should follow the example of rebellious art?」（https://linkersconnect.com/）
+- 素材の内訳：
+  - 「• 国内企業からの依頼で自社運営マッチングサービスを利用し、海外のリサイクルアルミサプライヤーを繋ぐ商流介在*を開始」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「医療機器用樹脂成型 インフラ点検向け非破壊検査技術 自動会計機能付ショッピングカート 導電性繊維のサプライヤー」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「 前期末で、「Linkers Trading」での主力商材であるリサイクルアルミニウムの取扱いを終了」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250912/20250912557177.pdf）
+  - 「◼ 前期末をもって「Linkers Trading」での主力商材のリサイクルアルミニウムの取扱いを終了」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250314_archive/f81dso/140120250314594104.pdf）
+  - 「電気自動車（EV）・カーボンニュートラルなどのトレンド把握、競合ベンチマーク、加工技術の調査、新素材の用途探索など、幅広いテーマに対応し、目的に応じた検索式によるデータ抽出と、独自のカテゴライズにより技術動向を可視化しております」（https://kitaishihon.com/company/5131/business）
+  - 「この数年間、再生アルミという非鉄の分野で進めてきたものの、やはり、より自社運営マッチングサービスにリンクしたTradingを強化していく必要があると感じました」（https://finance.logmi.jp/articles/379315）
+  - 「• 国内企業からの依頼で自社運営マッチングサービスを利用し、海外のリサイクルアルミサプライヤーを繋ぐ商流介在を開始*」（http://ke.kabupro.jp/tsp/20221214/140120221213577764.pdf）
+  - 「医療機器用樹脂成型 インフラ点検向け非破壊検査技術 自動会計機能付ショッピングカート 導電性繊維のサプライヤー」（http://ke.kabupro.jp/tsp/20221214/140120221213577764.pdf）
+- 場面・目的：
+  - 「• 新規事業やマーケティングの研究/技術パートナーの探索、技術ベンチマーク調査」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「研究・技術パートナーの探索、新規事業やR&Dのテーマ検討など、企業が抱える様々な課題、情報の取得困難性に対して、技術専門性のあるリサーチャーがアウトプットを提供します」（https://finance.biggo.jp/news/jpx_tdnet_140120260911535164）
+  - 「◼世界の技術動向、新規事業・R&Dテーマ、研究・技術パートナー等について、顧客の目的に応じた技術情報を提供」（https://finance.biggo.jp/news/jpx_tdnet_140120260911535164）
+  - 「これまでの検証結果や収益性、事業規模の拡大可能性、経営資源の配分等を総合的に勘案した結果、当社の成長戦略上、経営資源を優先配分すべき領域ではないと判断し、当該領域におけるサービス提供及び新規事業開発を停止」（https://finance.biggo.jp/news/jpx_tdnet_140120260911535164）
+  - 「• 検証結果を踏まえ、サービス提供・新規事業開発を停止」（https://finance.biggo.jp/news/jpx_tdnet_140120260911535164）
+  - 「今後は、既存事業の収益力向上、及び「Linkers TX」等の重点領域への経営資源の集中を優先することから、当該領域におけるサービス提供及び新規事業開発を停止し、本項に係るKPI開示を終了する」（https://finance.biggo.jp/news/jpx_tdnet_140120260911535164）
+  - 「◼世界の技術動向、新規事業・R&Dテーマ、研究・技術パートナー等について、顧客の目的に応じた技術情報を提供」（https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_261027_linkers_02.pdf）
+  - 「優先配分すべき領域ではないと判断し、当該領域におけるサービス提供及び新規事業開発を停止」（https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_261027_linkers_02.pdf）
+  - 「今後は、既存事業の収益力向上、及び「Linkers TX」等の重点領域への経営資源の集中を優先することから、当該領域におけるサービス提供及び新規事業」（https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_261027_linkers_02.pdf）
+  - 「 世界の技術動向情報を提供、新規事業やマーケティングの研究/技術パートナーの探索、技術ベンチマーク調査」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250912/20250912557177.pdf）
+  - 「標値として開示を行うことで、従来の「SaaS型マッチングシステム」の量的拡大を示す代替指標とするため、本項に係る開示は終了する」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250912/20250912557177.pdf）
+  - 「研究開発、新規事業開発等において必要となる技術情報や関連企業を効率的に探索・整理し、外部パートナー候補との接点創出までを支援することで、企業の研究開発及び事業化に係る業務の効率化を図っております」（https://kitaishihon.com/company/5131/business）
+  - 「当社が蓄積してきた技術情報や企業データ等をAI等により検索・整理することで、研究開発や新規事業開発に必要な情報収集及び候補企業の探索を効率的に行うことができます」（https://kitaishihon.com/company/5131/business）
+  - 「これにより、システムの導入にとどまらず、研究開発や新規事業開発の業務プロセスにおける継続的な活用を促進しております」（https://kitaishihon.com/company/5131/business）
+  - 「「Linkers Research」は、企業の新規事業、研究開発及び事業戦略等に関する意思決定を支援するため、世界の技術動向、研究・技術パートナーの探索、新規事業・R＆D（注８）のテーマ、市場・競合環境等について、顧客の目的に応じた調査・分析を行い、その結果をレポート等として提供するリサーチサービスであります」（https://kitaishihon.com/company/5131/business）
+- 推移：
+  - 「02 2024年７月期 第３四半期業績サマリー」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「03 2024年７月期 通期業績予想」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「従業員数 86名（2024年4月末日現在）」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「245百万円（2024年4月末日現在）」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「2013年10月 技術探索サービス「eEXPOソーシング（現 Linkers Sourcing）」の提供を開始」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「2015年 4月 社名をリンカーズ株式会社に変更」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「2017年 2月 本社オフィスを東京都中央区日本橋本町に移転」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「2017年 6月 グローバル技術リサーチサービス「Linkers Research」の提供を開始」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「2018年 1月 金融機関向けマッチングシステム「Linkers for BANK」の提供を開始」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「2018年 3月 ISMSの国際規格である「JIS Q 27001:2014 (ISO/IEC 27001:2013)」を取得」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「2018年12月 プライバシーマークの日本産業規格である「JIS Q 15001:2006」を取得」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「2019年 6月 用途開拓サービス「Linkers Marketing」の提供を開始」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「2020年 6月 調達支援サービス「Linkers Trading」の提供を開始」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「2020年 7月 サービスプロモーション支援サービス「TechMesse Academy」の提供を開始」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「2020年11月 本社オフィスを東京都文京区後楽に移転」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+- 期間・審査：
+  - 「前年同期比では約33%減となるものの、同累計期間比では約14％減に留まり、計画を上回って進捗」（https://www2.jpx.co.jp/disc/51310/140120240613527711.pdf）
+  - 「※2026年4月に提供を開始した「Linkers TX」については、PoC期間（2025年10月～2026年3月）については、「その他サービス」に、2026年4月以降は「自社運営マッチングサービス」に計上」（https://finance.biggo.jp/news/jpx_tdnet_140120260911535164）
+  - 「** 2026/7期にリサーチ売上の計上があった顧客のうち、3期間（2022/7期～2025/7期）の受注回数」（https://finance.biggo.jp/news/jpx_tdnet_140120260911535164）
+  - 「※2026年4月に提供を開始した「Linkers TX」については、PoC期間（2025年10月～2026年3月）については、「その他サービス」に、」（https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_261027_linkers_02.pdf）
+  - 「** 2026/7期にリサーチ売上の計上があった顧客のうち、3期間」（https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_261027_linkers_02.pdf）
+  - 「** 2025/7期にリサーチ売上の計上があった顧客のうち、3期間（2021/7期～」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250912/20250912557177.pdf）
+  - 「※2025年7月期は、2024年8月～2025年1月（6ヶ月間）のみの発生数にて算出」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250314_archive/f81dso/140120250314594104.pdf）
+  - 「※2025年7月期の算出期間における」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250314_archive/f81dso/140120250314594104.pdf）
+  - 「また、「Linkers TX」は、サービス利用開始後、月額利用料が契約期間に従って継続的に収益として発生するとともに、システム上で提供するレポートについては、顧客による成果物の検収時に収益が発生いたします」（https://kitaishihon.com/company/5131/business）
+  - 「また、「LFB」は、導入機関との間で、システム導入時に①導入支援料が、サービス利用開始後は②月額利用料が契約期間に従って継続的に収益として発生いたします」（https://kitaishihon.com/company/5131/business）
+  - 「しかしながら、新たに採用した営業人員の戦力化には一定の期間を要したことに加え、新規顧客における検討プロセスの長期化等の影響もあり、当連結会計年度においては、営業体制強化による売上回復効果を十分に発現させるには至りませんでした」（https://kitaishihon.com/company/5131/business）
+  - 「モックアップはほぼ出来上がっており、募集要項を記載してからロングリストが出来上がるまで、従来では1ヶ月かかるところが、今は最短5分程度でできる状態です」（https://finance.logmi.jp/articles/379315）
+  - 「つまり今、探索対象物が非常に明確でたくさんの情報を入力でき、マッチングするまで数ヶ月から半年ぐらい待てることに加え、1つの案件について100万円から300万円程度まで投資できるセグメントを対象としています」（https://finance.logmi.jp/articles/379315）
+  - 「すなわち、少ない情報で短期間に大手企業にアイデアを提供できるサービスになるため、広い市場にどんどん入り込んでいけると思っています」（https://finance.logmi.jp/articles/379315）
+  - 「まず、SaaS型マッチングシステムに関しては、導入の期間が下半期に固まっているところもあり、今は明確にお答えできないものの、今期も前期比で大きな伸びを予定しています」（https://finance.logmi.jp/articles/379315）
+- 主体：
+  - 「２．令和５年12月25日 内閣府経済社会総合研究所 国民経済計算部『2022年度（令和４年度）国民経済計算年次推計』」（https://kitaishihon.com/company/5131/business）
+
+## JMC・SOLIZEなど国内AM受託大手の受託売上の推移（JMC SOLIZE 3D printing service revenue trend）
+- 文脈：上場企業IR
+- 件数の推移：
+  - 「SOLIZE Holdings（5871）の財務情報ならログミーFinance SOLIZE HD、上期は売上高・売上総利益が過去最高 持株会社体制へ移行し中長期目標の実現を目指す - ログミーファイナンス」（https://finance.logmi.jp/articles/382498）
+  - 「ただいまより、SOLIZE Holdings株式会社の2025年12月期第2四半期決算説明会を始めます」（https://finance.logmi.jp/articles/382498）
+  - 「当社は1990年に設立されました」（https://finance.logmi.jp/articles/382498）
+  - 「グループ会社としては、中核会社を新たに設立したことに加え、海外ではインド、アメリカ、中国、タイ、カナダの5地域に進出しています」（https://finance.logmi.jp/articles/382498）
+  - 「当社は2010年代には約160億円から170億円の売上高を維持していましたが、2020年には新型コロナウイルスの影響で一時的に約15パーセント減少しました」（https://finance.logmi.jp/articles/382498）
+  - 「ものづくりのデジタル化、現在でいうDXが90年代初頭から始まった中で、当社はその黎明期からエンジニアリングサービスおよびマニュファクチュアリングサービスを実践してきました」（https://finance.logmi.jp/articles/382498）
+  - 「昨今、自動車メーカー各社も「100年に一度の転換期」として、ハードウェア中心の研究開発からソフトウェア中心へと大幅な開発リソースのシフトを進めています」（https://finance.logmi.jp/articles/382498）
+  - 「さらに、2020年以降、当社は一定の投資を行い、これまでものづくりの設計、解析、生産準備を中心に業務を展開してきましたが、上流工程として、お客さまのPoC（概念実証）を早めるというニーズに対し3Dプリンターが非常に適しており、これまでお客さまの聖域であった研究開発領域にも入る機会が増えています」（https://finance.logmi.jp/articles/382498）
+  - 「また、下流工程では、これまで試作品製造を中心としていた当社ですが、3Dプリンティングの性能や品質が向上したことで、少量量産工程まで進出できています」（https://finance.logmi.jp/articles/382498）
+  - 「まず、当社はこの7月に、中長期目標を達成するため、新たに持株会社体制に移行しSOLIZE株式会社からSOLIZE Holdings株式会社へと商号変更しました」（https://finance.logmi.jp/articles/382498）
+  - 「そして、3つの中核事業会社であるSOLIZE PARTNERS、SOLIZE Ureka Technology、および＋81に分社化し、事業展開を進めています」（https://finance.logmi.jp/articles/382498）
+  - 「2つ目の事業会社であるSOLIZE Ureka Technologyについてです」（https://finance.logmi.jp/articles/382498）
+  - 「中核事業会社:＋81株式会社」（https://finance.logmi.jp/articles/382498）
+  - 「最後に＋81という会社についてです」（https://finance.logmi.jp/articles/382498）
+  - 「6. Appendix 1：会社概要」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+- 金額の推移：
+  - 「SOLIZE Holdings（5871）の財務情報ならログミーFinance SOLIZE HD、上期は売上高・売上総利益が過去最高 持株会社体制へ移行し中長期目標の実現を目指す - ログミーファイナンス」（https://finance.logmi.jp/articles/382498）
+  - 「売上高推移（2017年~2024年）」（https://finance.logmi.jp/articles/382498）
+  - 「当社は2010年代には約160億円から170億円の売上高を維持していましたが、2020年には新型コロナウイルスの影響で一時的に約15パーセント減少しました」（https://finance.logmi.jp/articles/382498）
+  - 「そのような取り組みを重ねることで、2023年の200億円の売上高に対し、中期で2027年には倍の400億円、さらに2033年には1,000億円の売上高を目指しています」（https://finance.logmi.jp/articles/382498）
+  - 「加えて、2020年以降は売上高の約5パーセントを新規事業へ投資しています」（https://finance.logmi.jp/articles/382498）
+  - 「売上高は上期で122億2,600万円と過去最高を記録しました」（https://finance.logmi.jp/articles/382498）
+  - 「売上総利益も32億1,300万円となり、こちらも過去最高です」（https://finance.logmi.jp/articles/382498）
+  - 「一方で営業利益については、今年2月にお伝えしたように、昨年下期から進めている投資を加速させたことにより販管費が増加し、結果として営業利益は4億3,100万円の損失、中間純利益は2億5,200万円の損失となっています」（https://finance.logmi.jp/articles/382498）
+  - 「これらグローバル展開に向けた追加の費用が発生した結果、上期の営業利益は4億3,100万円の損失となっています」（https://finance.logmi.jp/articles/382498）
+  - 「期初に公表した売上高270億円、営業利益は微増の5億円で、最終着地は変わらないものと想定しています」（https://finance.logmi.jp/articles/382498）
+  - 「SOLIZE、売上高・売上総利益は過去最高を達成 アジア・北米に2拠点を設立 M&A戦略とグローバル展開で成長加速狙う」（https://finance.logmi.jp/articles/382498）
+  - 「川崎汽船、通期経常利益を上方修正 新中計発表で31年度ROE15％以上・当期純利益2,100億円プラスアルファを目指す」（https://finance.logmi.jp/articles/382498）
+  - 「BASE、3Q累計売上高YoY34％増・売上総利益48.5％増 グループの非連続な成長の実現に向け、SBIHDとの資本業務提携契約を締結」（https://finance.logmi.jp/articles/382498）
+  - 「提供価値の拡大を推進し、2027年に売上高400億円、2033年に売上高1,000億円を目標とする」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「• 2027年売上高400億円、2033年売上高1,000億円を達成するための基盤となる持株会社体制への移行にかかる費用については、当初」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+- AM・3Dプリンタ：
+  - 「さらに、2020年以降、当社は一定の投資を行い、これまでものづくりの設計、解析、生産準備を中心に業務を展開してきましたが、上流工程として、お客さまのPoC（概念実証）を早めるというニーズに対し3Dプリンターが非常に適しており、これまでお客さまの聖域であった研究開発領域にも入る機会が増えています」（https://finance.logmi.jp/articles/382498）
+  - 「また、下流工程では、これまで試作品製造を中心としていた当社ですが、3Dプリンティングの性能や品質が向上したことで、少量量産工程まで進出できています」（https://finance.logmi.jp/articles/382498）
+  - 「のれん、3Dプリンター等減価償却費増加 等」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「3Dプリンター パーツ製造」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「3Dプリンター 販売・保守」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「3Dプリント試作・最終製品製」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「作事業、3Dプリンター装置導」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「• 最先端3Dプリンターへの積極投資、中期成長を目的とした経験者や AI人財の積極採用、」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「デジタルエンジニアリング開発支援 3Dプリンター パーツ製造」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「ス、ソフトウェア開発サービス、及び試作品・3Dプリンターの販売の分野における売上高は、前年同期と比べて引」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「3Dプリンター パーツ製造導入事例」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「3Dプリンターによる試作部品、」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「3Dプリンター装置販売・保守」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「3Dプリンター装置・部品・材料の」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「将来の競争力強化に向けた変革活動実行開発力増大派遣エンジニア数、試作部品外部委託増加エンジニア派遣、試作部品受注」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+- 素材の内訳：
+  - 「• PEEK、PEKK、PEI、PPS など多くのスーパーエンプラ材料での」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+- 場面・目的：
+  - 「また、下流工程では、これまで試作品製造を中心としていた当社ですが、3Dプリンティングの性能や品質が向上したことで、少量量産工程まで進出できています」（https://finance.logmi.jp/articles/382498）
+  - 「加えて、2020年以降は売上高の約5パーセントを新規事業へ投資しています」（https://finance.logmi.jp/articles/382498）
+  - 「それぞれの中核ビジネスがしっかりと収益の核となるビジネスを持ち、そこで得た収益を新規事業に投資することで、成長を一気に加速させていきます」（https://finance.logmi.jp/articles/382498）
+  - 「事業承継において、地域や地場で長年しっかりと事業を続けてきたものの、後継者がなかなか見つからない企業に対して、エンジニアのキャリアや教育も含めた体制が整った企業にジョインしたい、という想いでSOLIZEを選んでいただきました」（https://finance.logmi.jp/articles/382498）
+  - 「一方で、事業承継において、会社の将来や社員のことを考え、基盤がしっかりした会社を求めている企業もあります」（https://finance.logmi.jp/articles/382498）
+  - 「3Dプリント試作・最終製品製」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「SOLIZE Ureka Technology株式会社新規事業」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「ス、ソフトウェア開発サービス、及び試作品・3Dプリンターの販売の分野における売上高は、前年同期と比べて引」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「3Dプリンターによる試作部品、」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「将来の競争力強化に向けた変革活動実行開発力増大派遣エンジニア数、試作部品外部委託増加エンジニア派遣、試作部品受注」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「3Dプリンターによる量産品・補給部品供給」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「3Dプリンターによる試作品製作」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「ト試作・最終製品製作事業、3Dプ」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「3Dプリント試作・最終製品製作」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「事業内容 社会・産業課題の解決に向けた新規事業の開発及び運営」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+- 推移：
+  - 「SOLIZE Holdings（5871）の財務情報ならログミーFinance SOLIZE HD、上期は売上高・売上総利益が過去最高 持株会社体制へ移行し中長期目標の実現を目指す - ログミーファイナンス」（https://finance.logmi.jp/articles/382498）
+  - 「2025年12月期第2四半期決算説明」（https://finance.logmi.jp/articles/382498）
+  - 「ただいまより、SOLIZE Holdings株式会社の2025年12月期第2四半期決算説明会を始めます」（https://finance.logmi.jp/articles/382498）
+  - 「売上高推移（2017年~2024年）」（https://finance.logmi.jp/articles/382498）
+  - 「当社は2010年代には約160億円から170億円の売上高を維持していましたが、2020年には新型コロナウイルスの影響で一時的に約15パーセント減少しました」（https://finance.logmi.jp/articles/382498）
+  - 「さらに、2020年以降、当社は一定の投資を行い、これまでものづくりの設計、解析、生産準備を中心に業務を展開してきましたが、上流工程として、お客さまのPoC（概念実証）を早めるというニーズに対し3Dプリンターが非常に適しており、これまでお客さまの聖域であった研究開発領域にも入る機会が増えています」（https://finance.logmi.jp/articles/382498）
+  - 「このように工程の上流と下流の両方に展開を広げるとともに、これまではハードウェア中心だった事業領域を、2020年以降、ソフトウェア領域、さらにはサイバーセキュリティのデジタルリスク領域へと拡大させ、成長を続けています」（https://finance.logmi.jp/articles/382498）
+  - 「そのような取り組みを重ねることで、2023年の200億円の売上高に対し、中期で2027年には倍の400億円、さらに2033年には1,000億円の売上高を目指しています」（https://finance.logmi.jp/articles/382498）
+  - 「加えて、2020年以降は売上高の約5パーセントを新規事業へ投資しています」（https://finance.logmi.jp/articles/382498）
+  - 「その結果、新しいビジネス領域として、ソフトウェアやサイバーセキュリティ領域、AI、デジタル製造分野では3Dプリンティングを活用した少量量産を開始しました」（https://finance.logmi.jp/articles/382498）
+  - 「また、2024年2月には上場を果たし、資金調達を進める中で、M&Aも実施しました」（https://finance.logmi.jp/articles/382498）
+  - 「売上高は上期で122億2,600万円と過去最高を記録しました」（https://finance.logmi.jp/articles/382498）
+  - 「売上総利益も32億1,300万円となり、こちらも過去最高です」（https://finance.logmi.jp/articles/382498）
+  - 「国内採用数は、3年で500名体制を構築するという目標のもと、今期も順調に推移し、第2四半期で280名を超える採用を達成しています」（https://finance.logmi.jp/articles/382498）
+  - 「2025年12月期 連結業績予想」（https://finance.logmi.jp/articles/382498）
+- 期間・審査：
+  - 「⚫ 当第3四半期連結会計期間は前年同期比15.2％増収であったが、受注拡大ペースは当初計画を下回った」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「• 提案時点で納期まで 2ヶ月を切る短期間での製作が求められるなか 、完成データを受領後 、データ作」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+  - 「⚫ 2024年12月期第4四半期単独期間においては、当社設立以来初の60億円を超過」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf）
+- 主体：記載なし（読んだ24頁・検索11回）

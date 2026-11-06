@@ -1,0 +1,558 @@
+{
+ "name": "国民経済計算 経済活動別 産出デフレーター 金属製品 2015〜2022年（内閣府・名目の1人あたりを実質で読む2本目の分母・日銀の指数が取れない回の代わり・4-4・4-37・4-61）",
+ "en": "Japan SNA output deflator fabricated metal products by economic activity annual",
+ "aliases": [
+  "国民経済計算 経済活動別 産出デフレーター 金属製品 site:esri.cao.go.jp",
+  "経済活動別国内総生産 デフレーター 金属製品 年次 xlsx",
+  "SNA 産出デフレーター 金属製品 2015年基準 表"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-06T17:10:49.199003+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "projected that a sense of labor shortage will grow as the economic growth rate rises, and",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "economies, although it is expected that investment to address labor shortages,",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "accelerate again, with a growing sense of labor shortage, and private consumption is",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "factors such as t he experience of COVID -19, intensifying labor shortages, and progress",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "economic structure and people's working styles. Intensifying labor shortages -- which are",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "increase gradually, since it is projected that a sense of labor shortage will grow as the",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "nonmanufacturing, the sense of labor shortage",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "clear the high levels of order backlogs and",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the increased order backlog s and the",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "material prices and labor shortages have pushed",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "levels of order backlogs are expected to provide",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "investment to address structural labor shortages",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "which have faced severe labor shortages. While",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "labor shortages. However, with labor force",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "backlogs. Consumption of nondurable goods (e.g.,",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "shorter operating hours due to labor shortages.",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "labor shortage will grow as the economic growth",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "been on the rise due to severe labor shortages.",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "April 2025",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Friday, May 2, 2025.",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Outlook for Economic Activity and Prices (April 2025)",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "food) is likely to be in the range of 2.0 -2.5 percent for fiscal 2025, in the range of 1.5-2.0",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "rate for fiscal 2024 is somewhat higher, but the projected growth rates for fiscal 2025 and",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 and 2026 are lower, mainly reflecting the decline in crude oil prices and the",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "fiscal 2025 and 2026. Risks to prices are also skewed to the downside for fiscal 2025 and",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "May 1, 2025.",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "and the tax reform in fiscal 2025. Meanwhile, public investment is expected to be more or",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Outlook Report, the projected real GDP growth rate for fiscal 2024 is somewhat higher,",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "mainly led by private consumption. The projected growth rates for fiscal 2025 and 2026",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "range of 2.0-2.5 percent for fiscal 2025, in the range of 1.5-2.0 percent for fiscal 2026, and",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "fresh food) for fiscal 2025 and 2026 are lower, mainly reflecting the decline in crude oil",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "fiscal 2025, in the range of 1.5-2.0 percent for fiscal 2026 , and at around 2 percent for",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 For details, see the Bank's Financial System Report (April 2025).",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Fiscal 2024 +0.7 to +0.7 [+0.7] +2.7 +2.3",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Forecasts made in January 2025 +0.4 to +0.6 [+0.5] +2.6 to +2.8 [+2.7] +2.1 to +2.3 [+2.2]",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Fiscal 2025 +0.4 to +0.6 [+0.5] +2.0 to +2.3 [+2.2] +2.2 to +2.4 [+2.3]",
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/reference1/h27benchmark/pdf/kaisetsu_q_20250428.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/chap_8.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1-1-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&query=production&layout=dataset&stat_infid=000040247115",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://naritai.app/shindanshi/textbook/1st-exam/a_economics/economic-indicators/national-accounts-concepts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/esri/esr/esr_report/esr_044/esr_044_o.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files/2023/2023_kaku_top.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/reference1/h27benchmark/pdf/sakusei_houhou2015_202504.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&query=gdp%20agriculture&stat_infid=000002031626",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files/2024/2024_kaku_top.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/series/LFEAMNTTJPA647S",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/en/sna/menu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Economy_of_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandata.com/industry-reports/japan-fabricated-metal-products-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vKlASyIkxuo0VDFN6wZx55PRuii98VPax4L1_xBWWuWPy1-QNnQ",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "国民経済計算 経済活動別 産出デフレーター 金属製品 2015〜2022年（内閣府・名目の1人あたりを実質で読む2本目の分母・日銀の指数が取れない回の代わり・4-4・4-37・4-61） 人手不足 受注 断る",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h27benchmark/pdf/kaisetsu_q_20250428.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/chap_8.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1-1-1.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&query=production&layout=dataset&stat_infid=000040247115",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://naritai.app/shindanshi/textbook/1st-exam/a_economics/economic-indicators/national-accounts-concepts",
+    "https://www.esri.cao.go.jp/jp/esri/esr/esr_report/esr_044/esr_044_o.pdf",
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files/2022/2022_kaku_top.html"
+   ]
+  },
+  {
+   "query": "国民経済計算 経済活動別 産出デフレーター 金属製品 2015〜2022年（内閣府・名目の1人あたりを実質で読む2本目の分母・日銀の指数が取れない回の代わり・4-4・4-37・4-61） 受注残 人手不足",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h27benchmark/pdf/kaisetsu_q_20250428.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/chap_8.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1-1-1.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&query=production&layout=dataset&stat_infid=000040247115",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://naritai.app/shindanshi/textbook/1st-exam/a_economics/economic-indicators/national-accounts-concepts",
+    "https://www.esri.cao.go.jp/jp/esri/esr/esr_report/esr_044/esr_044_o.pdf",
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/"
+   ]
+  },
+  {
+   "query": "国民経済計算 経済活動別 産出デフレーター 金属製品 2015〜2022年（内閣府・名目の1人あたりを実質で読む2本目の分母・日銀の指数が取れない回の代わり・4-4・4-37・4-61） 人手不足 損失 億円",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h27benchmark/pdf/kaisetsu_q_20250428.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1-1-1.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/chap_8.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&query=production&layout=dataset&stat_infid=000040247115",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://www.esri.cao.go.jp/jp/esri/esr/esr_report/esr_044/esr_044_o.pdf",
+    "https://naritai.app/shindanshi/textbook/1st-exam/a_economics/economic-indicators/national-accounts-concepts",
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/"
+   ]
+  },
+  {
+   "query": "国民経済計算 経済活動別 産出デフレーター 金属製品 2015〜2022年（内閣府・名目の1人あたりを実質で読む2本目の分母・日銀の指数が取れない回の代わり・4-4・4-37・4-61）",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h27benchmark/pdf/kaisetsu_q_20250428.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files/2023/2023_kaku_top.html",
+    "https://www.digital.go.jp/resources/japandashboard/gdp-introduction",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h27benchmark/pdf/sakusei_houhou2015_202504.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&query=gdp%20agriculture&stat_infid=000002031626",
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files/2024/2024_kaku_top.html",
+    "https://naritai.app/shindanshi/textbook/1st-exam/a_economics/economic-indicators/national-accounts-concepts",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf"
+   ]
+  },
+  {
+   "query": "国民経済計算 経済活動別 産出デフレーター 金属製品 2015〜2022年（内閣府・名目の1人あたりを実質で読む2本目の分母・日銀の指数が取れない回の代わり・4-4・4-37・4-61） 推移",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h27benchmark/pdf/kaisetsu_q_20250428.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/chap_8.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1-1-1.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&query=production&layout=dataset&stat_infid=000040247115",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://www.esri.cao.go.jp/jp/esri/esr/esr_report/esr_044/esr_044_o.pdf",
+    "https://naritai.app/shindanshi/textbook/1st-exam/a_economics/economic-indicators/national-accounts-concepts",
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/"
+   ]
+  },
+  {
+   "query": "国民経済計算 経済活動別 産出デフレーター 金属製品 2015〜2022年（内閣府・名目の1人あたりを実質で読む2本目の分母・日銀の指数が取れない回の代わり・4-4・4-37・4-61） 統計 PDF",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h27benchmark/pdf/kaisetsu_q_20250428.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1-1-1.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/chap_8.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&query=production&layout=dataset&stat_infid=000040247115",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://www.esri.cao.go.jp/jp/esri/esr/esr_report/esr_044/esr_044_o.pdf",
+    "https://naritai.app/shindanshi/textbook/1st-exam/a_economics/economic-indicators/national-accounts-concepts",
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/"
+   ]
+  },
+  {
+   "query": "国民経済計算 経済活動別 産出デフレーター 金属製品 2015〜2022年（内閣府・名目の1人あたりを実質で読む2本目の分母・日銀の指数が取れない回の代わり・4-4・4-37・4-61） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h27benchmark/pdf/kaisetsu_q_20250428.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/chap_8.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1-1-1.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&query=production&layout=dataset&stat_infid=000040247115",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://naritai.app/shindanshi/textbook/1st-exam/a_economics/economic-indicators/national-accounts-concepts",
+    "https://www.esri.cao.go.jp/jp/esri/esr/esr_report/esr_044/esr_044_o.pdf",
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/"
+   ]
+  },
+  {
+   "query": "国民経済計算 経済活動別 産出デフレーター 金属製品 2015〜2022年（内閣府・名目の1人あたりを実質で読む2本目の分母・日銀の指数が取れない回の代わり・4-4・4-37・4-61） 従業者規模別",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h27benchmark/pdf/kaisetsu_q_20250428.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/chap_8.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1-1-1.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&query=production&layout=dataset&stat_infid=000040247115",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://naritai.app/shindanshi/textbook/1st-exam/a_economics/economic-indicators/national-accounts-concepts",
+    "https://www.esri.cao.go.jp/jp/esri/esr/esr_report/esr_044/esr_044_o.pdf",
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/"
+   ]
+  },
+  {
+   "query": "国民経済計算 経済活動別 産出デフレーター 金属製品 2015〜2022年（内閣府・名目の1人あたりを実質で読む2本目の分母・日銀の指数が取れない回の代わり・4-4・4-37・4-61） 1人当たり 万円",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h27benchmark/pdf/kaisetsu_q_20250428.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/chap_8.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1-1-1.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&query=production&layout=dataset&stat_infid=000040247115",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://naritai.app/shindanshi/textbook/1st-exam/a_economics/economic-indicators/national-accounts-concepts",
+    "https://www.esri.cao.go.jp/jp/esri/esr/esr_report/esr_044/esr_044_o.pdf",
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/"
+   ]
+  },
+  {
+   "query": "国民経済計算 経済活動別 産出デフレーター 金属製品 2015〜2022年（内閣府・名目の1人あたりを実質で読む2本目の分母・日銀の指数が取れない回の代わり・4-4・4-37・4-61） 2015 2025",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h27benchmark/pdf/kaisetsu_q_20250428.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/chap_8.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1-1-1.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&query=production&layout=dataset&stat_infid=000040247115",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://www.esri.cao.go.jp/jp/esri/esr/esr_report/esr_044/esr_044_o.pdf",
+    "https://naritai.app/shindanshi/textbook/1st-exam/a_economics/economic-indicators/national-accounts-concepts",
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/"
+   ]
+  },
+  {
+   "query": "Japan SNA output deflator fabricated metal products by economic activity annual Japan statistics",
+   "results": [
+    "https://fred.stlouisfed.org/series/LFEAMNTTJPA647S",
+    "https://www.esri.cao.go.jp/en/sna/menu.html",
+    "https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf",
+    "https://en.wikipedia.org/wiki/Economy_of_Japan",
+    "https://www.marketsandata.com/industry-reports/japan-fabricated-metal-products-market",
+    "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vKlASyIkxuo0VDFN6wZx55PRuii98VPax4L1_xBWWuWPy1-QNnQ",
+    "https://app.indexbox.io/indicators/symbol/employment-manufacture-of-fabricated-metal-products-except-machinery-and-equipment-isic-rev-4-division-25-thousand-persons-annual-ilo-ilostat-japan/",
+    "https://www.stat.go.jp/english/data/nenkan/1431-03e.html",
+    "https://www.jcer.or.jp/english/sna-revision-has-the-picture-of-the-japanese-economy-changed",
+    "https://www.esri.cao.go.jp/en/sna/data/kakuhou/files/kako_top.html"
+   ]
+  },
+  {
+   "query": "site:note.com 国民経済計算 経済活動別 産出デフレーター 金属製品 2015〜2022年（内閣府・名目の1人あたりを実質で読む2本目の分母・日銀の指数が取れない回の代わり・4-4・4-37・4-61）",
+   "results": [
+    "https://note.com/ogawa_tech/n/nff8084706116",
+    "https://note.com/ogawa_tech/n/n81450485c2c8",
+    "https://note.com/ogawa_tech/n/n98ec8dc88d23",
+    "https://note.com/ever_jobs/n/n1f6350e8bb24",
+    "https://note.com/super_dill555/n/nfc7596c8a138",
+    "https://note.com/cat_eye/n/nc9bc430537e2",
+    "https://note.com/s_v_s/n/nded9ade14167"
+   ]
+  },
+  {
+   "query": "site:x.com 国民経済計算 経済活動別 産出デフレーター 金属製品 2015〜2022年（内閣府・名目の1人あたりを実質で読む2本目の分母・日銀の指数が取れない回の代わり・4-4・4-37・4-61）",
+   "results": [
+    "https://x.com/toji0409/status/2066999052441633013",
+    "https://x.com/TMiyajima1115/status/2108837821004050887",
+    "https://x.com/the_last_leaf/status/2065838161046209022",
+    "https://x.com/midorimushi54/status/2115544450550366481",
+    "https://x.com/midorimushi54/status/2114341203970052212",
+    "https://x.com/tukihoe4/status/2083762886351134738",
+    "https://x.com/Kenichi_Y/status/2090431763722199471"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 国民経済計算 経済活動別 産出デフレーター 金属製品 2015〜2022年（内閣府・名目の1人あたりを実質で読む2本目の分母・日銀の指数が取れない回の代わり・4-4・4-37・4-61）",
+   "results": [
+    "https://in.linkedin.com/company/linkedin",
+    "https://jp.linkedin.com/",
+    "https://www.linkedin.com/developers/apps",
+    "https://www.linkedin.com/in/anusuyanepal",
+    "https://www.linkedin.com/company/goalphagov",
+    "https://jp.linkedin.com/posts/hiroshi-shirane_2026年13月期のgdp統計1次速報がリリースされました-仕事柄個人的-activity-7462476344153526273-Ef7Q",
+    "https://jp.linkedin.com/posts/浩一-黒瀬-672b701b9_政策効果を考えて消費者物価指数をみる-森永康平のリアル経済学-activity-7055314325443391488-AyYb"
+   ]
+  },
+  {
+   "query": "site:facebook.com 国民経済計算 経済活動別 産出デフレーター 金属製品 2015〜2022年（内閣府・名目の1人あたりを実質で読む2本目の分母・日銀の指数が取れない回の代わり・4-4・4-37・4-61）",
+   "results": [
+    "https://graph.facebook.com/v2.8/1237797253357560/picture/",
+    "https://www.facebook.com/groups/7436590736362952/posts/24621504384111653/",
+    "https://www.facebook.com/MistyEyez/",
+    "https://www.facebook.com/droversrunatjacquesspur/",
+    "https://www.facebook.com/OECD.JP/posts/oecd東京センターのウェブサイトには主要統計の一覧が日本語で掲載されています各指標のリンク先ではデータが一目でわかるようグラフになっていて日本語の定義もご覧い/6213059408766632/",
+    "https://www.facebook.com/marketplace/item/28054263684272685/",
+    "https://www.facebook.com/maffjapan/posts/令和4年市町村別農業産出額推計をお知らせします令和4年市町村別農業産出額推計を公表しましたので概要を紹介します令和4年の市町村別農業産出額は1位が宮崎県都城市2/833491498817064/"
+   ]
+  },
+  {
+   "query": "国民経済計算 経済活動別 産出デフレーター 金属製品 2015〜2022年（内閣府・名目の1人あたりを実質で読む2本目の分母・日銀の指数が取れない回の代わり・4-4・4-37・4-61） note 社長",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h27benchmark/pdf/kaisetsu_q_20250428.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/chap_8.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1-1-1.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&query=production&layout=dataset&stat_infid=000040247115",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://www.esri.cao.go.jp/jp/esri/esr/esr_report/esr_044/esr_044_o.pdf",
+    "https://naritai.app/shindanshi/textbook/1st-exam/a_economics/economic-indicators/national-accounts-concepts",
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/"
+   ]
+  },
+  {
+   "query": "国民経済計算 経済活動別 産出デフレーター 金属製品 2015〜2022年（内閣府・名目の1人あたりを実質で読む2本目の分母・日銀の指数が取れない回の代わり・4-4・4-37・4-61） X 投稿",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/h27benchmark/pdf/kaisetsu_q_20250428.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/pdf/chap_8.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1-1-1.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&query=production&layout=dataset&stat_infid=000040247115",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2025/econome_analysis1/20250611.pdf",
+    "https://www.esri.cao.go.jp/jp/esri/esr/esr_report/esr_044/esr_044_o.pdf",
+    "https://naritai.app/shindanshi/textbook/1st-exam/a_economics/economic-indicators/national-accounts-concepts",
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/"
+   ]
+  },
+  {
+   "query": "Japan SNA output deflator fabricated metal products by economic activity annual site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/jack-wood-95014113",
+    "https://www.linkedin.com/pulse/japan-fabricated-metal-products-market-product-evqkc",
+    "https://www.linkedin.com/pulse/japan-fabricated-metal-products-market-cagr-2026-2033-nh8de",
+    "https://www.linkedin.com/pulse/japan-fabricated-metal-products-market-size-growth-mfh0f",
+    "https://www.linkedin.com/pulse/japans-gross-national-expenditure-deflator-what-price-jalindar-jadhav-0v5xf",
+    "https://www.linkedin.com/pulse/japan-fabricated-metal-market-size-scope-tech-impact-iyhjf",
+    "https://www.linkedin.com/pulse/fabricated-metal-market-us-japan-korea-europe-analysis-jqlyf",
+    "https://www.linkedin.com/pulse/japan-fabricated-structural-metal-manufacturing-market-size-7cjjf"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ20頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ20頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ20頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ20頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ20頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ20頁・検索18回）"
+ }
+}

@@ -1,0 +1,899 @@
+{
+ "name": "国内企業の3Dプリンタ導入率の推移（大企業・中小企業別）",
+ "en": "Japan companies 3D printer adoption rate by company size trend",
+ "aliases": [
+  "3Dプリンタ 導入率 企業 推移",
+  "3Dプリンタ 保有 企業 割合 大企業",
+  "3Dプリンタ 活用 調査 製造業 規模別"
+ ],
+ "context": "一次・調査・規模別",
+ "kind": "market",
+ "researched_at": "2026-11-06T17:10:41.053042+00:00",
+ "evidence": {
+  "推移": [
+   {
+    "quote": "Japan 3D Printing Market Size, Share | Report 2026-2034",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan 3D Printing Market Size, Share, Trends and Forecast by Technology, Process, Material, Offering, Application, End User, and Region, 2026-2034",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "October 21, 2026",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SR112026A9911",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan 3D Printing Market Size, Share, Trends & Forecast (2026-2034)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "in 2025 to",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "in 2026 and is projected to reach",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Base Year Market Size (2025)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Market Size (2026)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2020-2025",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026-2034",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Fused Deposition Modeling – 26.8% share (2025)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Printer – 37.4% share (2025)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Kanto Region - 34.1% share (2025)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan's 3D printing market expanded from USD 0.90 Billion in 2020 to USD 2.02 Billion in 2025 and an estimated USD 2.48 Billion in 2026, anchored at USD 4.55 Billion in 2030, expected to reach USD 9.08 Billion by 2034. Metal additive manufacturing acquisitions and government-backed automation programs are reshaping Japan's precision-manufacturing economics above the historical baseline.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Electron beam melting grows fastest among technologies at an estimated ~21.2% CAGR (2026-2034), fueled by aerospace and medical-implant demand for high-strength metal parts. Digital light processing follows at ~19.5% CAGR, supported by rising jewelry and dental prototyping needs, while fused deposition modeling, the largest segment, grows at a steadier ~16.8% through 2034.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Fused Deposition Modeling - 26.8% share (2025)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Printer - 37.4% share (2025)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Fused Deposition Modeling at 26.8% (2025) anchored by consumer electronics and machinery prototyping:",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Fused deposition modeling leads at 26.8% share (2025), valued for its cost efficiency in prototyping and functional part production across consumer electronics and machinery manufacturing. The segment is forecast to grow at ~16.8% CAGR through 2034, supported by Japanese manufacturers' focus on eco-friendly filament development and refined extrusion techniques.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Printer hardware leads offering-based segmentation at 37.4% share (2025), reflecting sustained capital investment in industrial and desktop printing systems across Japan's manufacturing base. The segment benefits from Japanese OEMs' focus on precision, durability, and multi-material capability spanning automotive and healthcare applications.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Future Market Outlook (2026-2034)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "IMARC’s report offers a comprehensive quantitative analysis of various market segments, historical and current market trends, market forecasts, and dynamics of the Japan 3D printing market from 2020-2034.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "AM・3Dプリンタ": [
+   {
+    "quote": "Japan 3D Printing Market Size, Share | Report 2026-2034",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan 3D Printing Market Size, Share, Trends and Forecast by Technology, Process, Material, Offering, Application, End User, and Region, 2026-2034",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan 3D Printing Market Size, Share, Trends & Forecast (2026-2034)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Japan 3D printing market grew from",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan's 3D printing market expanded from USD 0.90 Billion in 2020 to USD 2.02 Billion in 2025 and an estimated USD 2.48 Billion in 2026, anchored at USD 4.55 Billion in 2030, expected to reach USD 9.08 Billion by 2034. Metal additive manufacturing acquisitions and government-backed automation programs are reshaping Japan's precision-manufacturing economics above the historical baseline.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Electron beam melting grows fastest among technologies at an estimated ~21.2% CAGR (2026-2034), fueled by aerospace and medical-implant demand for high-strength metal parts. Digital light processing follows at ~19.5% CAGR, supported by rising jewelry and dental prototyping needs, while fused deposition modeling, the largest segment, grows at a steadier ~16.8% through 2034.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Metal AM expansion in aerospace, automotive gigacasting, and healthcare prosthetics",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan 3D Printing Market Overview",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Government Funding and METI-Backed Manufacturing Programs:",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan's government actively subsidizes additive-manufacturing adoption among SMEs, targeting complex components domestically via metal 3D printing by 2030, per industry funding announcements.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Automakers use 3D printing for rapid prototyping and lightweight component production, while aerospace suppliers increasingly qualify additive parts for turbine and structural applications, expanding Japan's ~17.60% CAGR base.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The high cost of industrial 3D printers, specialized software, post-processing systems, and advanced printing materials limits adoption, particularly among small and medium-sized enterprises. Uncertain returns on investment and ongoing maintenance expenses can further delay purchasing decisions.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A lack of uniform standards for materials, process validation, quality assurance, and part certification makes large-scale 3D printing difficult. Variations in equipment and production outcomes can reduce consistency, slowing adoption in regulated and high-volume industries.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Metal AM Expansion in Automotive Gigacasting:",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The integration of metal additive manufacturing with automotive gigacasting offers significant opportunities for producing complex mould inserts, conformal cooling channels, lightweight components, and customized tooling. Japan’s strong automotive manufacturing base can accelerate adoption by reducing tooling lead times, improving casting efficiency, and supporting rapid vehicle design innovation.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Construction 3D Printing:",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Construction 3D printing presents growth opportunities in Japan by enabling faster, automated, and material-efficient production of homes, structural components, and customized architectural designs. The technology can also help address labor shortages, reduce construction waste, and support rapid rebuilding in disaster-prone regions.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan faces a shortage of professionals skilled in 3D modeling, printer operation, material selection, and post-processing. This limits companies’ ability to implement additive manufacturing effectively and increases their dependence on specialized external service providers.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Slow Adoption Among Legacy Manufacturers:",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Many traditional Japanese manufacturers remain cautious about replacing established production methods due to high initial costs, certification concerns, and uncertain returns. This conservative approach slows the integration of 3D printing into large-scale industrial operations.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. Metal Additive Manufacturing Consolidation",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. Construction-Grade 3D Printing",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan 3D printing value chain integrates raw-material supply, printer and equipment manufacturing, software and design, printing and post-processing, and distribution to end-use industries. Each stage involves distinct participants whose specialization supports the precision and reliability demanded by Japan's automotive, healthcare, and aerospace end markets.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Producers and suppliers of metal powders, photopolymer resins, thermoplastic filaments, ceramics, and composites.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://go.orixrentec.jp/rentecinsight/3dprinter/article-49",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://bp-platinum.com/platinum/view/files/sps/trend/tr20230905-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/3d-printer",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-101902",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/market-yanoresearchinstitute-220113/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/personal-3d-printers-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%97%A5%E6%9C%AC%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-114804",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/3d7intro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chunichisha.co.jp/3d-printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5185/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.m2ri.jp/release/detail.html?id=290",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimz.co.jp/company/ir/pdf/240327.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vI2DS10yqQ1S9i66yh8OCCm5kZ0QBvYUIkG6iOYhsyO5tugVIHv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mdb.jmar.co.jp/contents/00331007_sample.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aperza.com/catalog/page/10009331/35569/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/market-intelligence/japan-3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/1evt1v8/its_a_bit_unreal_how_much_3d_printing_has_grown/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/japan-fdm-sla-3d-printers-market-regional-growth-trends-1wlmf",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "国内企業の3Dプリンタ導入率の推移（大企業・中小企業別） 推移",
+   "results": [
+    "https://go.orixrentec.jp/rentecinsight/3dprinter/article-49",
+    "http://bp-platinum.com/platinum/view/files/sps/trend/tr20230905-1/",
+    "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf",
+    "https://service.xenobrain.jp/forecastresults/market-size/3d-printer",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-101902",
+    "https://news.sharelab.jp/3dp-news/report/market-yanoresearchinstitute-220113/",
+    "https://www.ninesigma.com/jp/news/column_3dprinter/",
+    "https://www.m2ri.jp/release/detail.html?id=290",
+    "https://mdb-biz.jmar.co.jp/column/45",
+    "https://www.aperza.com/catalog/page/10009331/35569/"
+   ]
+  },
+  {
+   "query": "国内企業の3Dプリンタ導入率の推移（大企業・中小企業別） 年度別",
+   "results": [
+    "https://news.sharelab.jp/category/3dp-news/report/",
+    "https://www.gminsights.com/ja/industry-analysis/personal-3d-printers-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%97%A5%E6%9C%AC%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-114804",
+    "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf",
+    "https://service.xenobrain.jp/forecastresults/market-size/3d-printer",
+    "https://skhonpo.com/blogs/3dprinter-practice/3d7intro",
+    "https://www.chunichisha.co.jp/3d-printer.html",
+    "https://metoree.com/categories/5185/",
+    "https://www.recmbus-3dprint.com/example/"
+   ]
+  },
+  {
+   "query": "国内企業の3Dプリンタ導入率の推移（大企業・中小企業別） 件数 pdf",
+   "results": [
+    "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf",
+    "https://www.gminsights.com/ja/industry-analysis/personal-3d-printers-market",
+    "https://www.m2ri.jp/release/detail.html?id=290",
+    "https://www.shimz.co.jp/company/ir/pdf/240327.pdf",
+    "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-101902",
+    "https://service.xenobrain.jp/forecastresults/market-size/3d-printer",
+    "https://www.yano.co.jp/press-release/show/press_id/3555?srsltid=AYCX9vI2DS10yqQ1S9i66yh8OCCm5kZ0QBvYUIkG6iOYhsyO5tugVIHv",
+    "http://bp-platinum.com/platinum/view/files/sps/trend/tr20230905-1/",
+    "https://www.chunichisha.co.jp/3d-printer.html"
+   ]
+  },
+  {
+   "query": "Japan companies 3D printer adoption rate by company size trend",
+   "results": [
+    "https://www.imarcgroup.com/japan-3d-printing-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/japan",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.trade.gov/market-intelligence/japan-3d-printing-market",
+    "https://www.reddit.com/r/3Dprinting/comments/1evt1v8/its_a_bit_unreal_how_much_3d_printing_has_grown/",
+    "https://www.linkedin.com/pulse/japan-fdm-sla-3d-printers-market-regional-growth-trends-1wlmf",
+    "https://www.marketdataforecast.com/market-reports/3d-printing-market",
+    "https://www.grandviewresearch.com/industry-analysis/3d-printing-market-report",
+    "https://www.coherentmarketinsights.com/market-insight/3d-printing-market-3940",
+    "https://www.precedenceresearch.com/japan-3d-printing-market"
+   ]
+  },
+  {
+   "query": "site:note.com 国内企業の3Dプリンタ導入率の推移（大企業・中小企業別）",
+   "results": [
+    "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "https://note.com/anatagohanyo/n/n9f2de2643b63",
+    "https://note.com/nijimorikokoro/n/nbc7d19fb4534",
+    "https://note.com/jun2024note/n/n7e61388c961a",
+    "https://note.com/nainaiteinote/n/ne321eee690d8",
+    "https://note.com/lucid_lotus6287/n/n3aa574b1b055",
+    "https://note.com/biz_growth/n/ndaca4a567bef",
+    "https://note.com/quiet_myrtle840/n/n0951906a4d3f",
+    "https://note.com/masahiro_akashi/n/nd70c69a28efc",
+    "https://note.com/tatsuya_sabato/n/n4748a68778ef"
+   ]
+  },
+  {
+   "query": "site:x.com 国内企業の3Dプリンタ導入率の推移（大企業・中小企業別）",
+   "results": [
+    "https://x.com/i/article/2113752054435123491",
+    "https://x.com/i/article/2112668578348744982",
+    "https://x.com/WeirdAki55",
+    "https://jf.x.com/images/media-preview/2098972174086553833",
+    "https://jf.x.com/images/media-preview/2104828774248546749",
+    "https://x.com/goldkeik/status/2082088605787570545",
+    "https://x.com/Ales_ia_com/status/1725307991610765389",
+    "https://x.com/AikiHashimoto/status/2060366217580613770",
+    "https://x.com/meti_chusho",
+    "https://x.com/Lapis_Growth10X/status/2072650025306583296"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 国内企業の3Dプリンタ導入率の推移（大企業・中小企業別）",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%8F%BE%E5%83%8F%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AF%E5%8C%85%E6%8B%AC%E7%9A%84%E3%81%AA%E6%B4%9E%E5%AF%9F%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%972026%E5%B9%B4%E3%81%8B-7521031602441838592-rmeue",
+    "https://jp.linkedin.com/pulse/%E4%BA%BA%E9%96%93%E5%B7%A5%E5%AD%A6%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%84%E3%81%9F%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E6%8B%A1%E5%A4%A7%E8%AA%B2%E9%A1%8C%E8%B2%A9%E5%A3%B2%E6%95%B0%E9%87%8F%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%AE%E5%88%86%E6%9E%902026%E5%B9%B4%E3%81%8B-7510676770849923072-xqxve",
+    "https://jp.linkedin.com/pulse/%E3%82%AB%E3%83%8A%E3%83%80%E3%81%AE%E8%BE%B2%E6%A5%AD%E3%81%8A%E3%82%88%E3%81%B3%E6%9E%97%E6%A5%AD%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E4%BA%88%E6%B8%AC-2026-2033%E4%B8%BB%E8%A6%81%E3%81%AA%E6%88%90%E9%95%B7%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%82%88%E3%82%8A91%E3%81%AEcagr%E3%81%A7%E6%8B%A1%E5%A4%A7%E8%A6%8B%E8%BE%BC%E3%81%BF-lumoraxc-jdxme",
+    "https://jp.linkedin.com/pulse/%E3%83%80%E3%82%A4%E3%82%AB%E3%82%B9%E3%83%88%E8%A8%AD%E5%82%99%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E5%B8%82%E5%A0%B4%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%B8%82%E5%A0%B4%E5%8B%95%E5%90%91%E3%81%A8%E6%88%90%E9%95%B7%E5%88%86%E6%9E%90%E4%BA%88%E6%B8%AC2033%E5%B9%B4%E3%81%BE%E3%81%A7-clarioncx-syvye",
+    "https://jp.linkedin.com/pulse/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%83%90%E3%83%BC%E3%83%8A%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%92%E8%A7%A3%E3%81%8D%E6%94%BE%E3%81%A42026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AB%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr10%E3%81%A7-7515625712184217600-ik40e",
+    "https://jp.linkedin.com/pulse/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%A8%B9%E8%84%82%E3%83%9E%E3%82%B7%E3%83%B3%E5%B8%82%E5%A0%B4%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%8793%E3%81%A7%E6%88%90%E9%95%B7%E3%81%99%E3%82%8B%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%AE%8C%E5%85%A8%E3%81%AA-7521692962385416194-qzywe",
+    "https://jp.linkedin.com/pulse/%E3%83%91%E3%83%A9%E3%83%8B%E3%83%88%E3%83%AD%E3%83%88%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%AA%E3%83%AB%E3%83%88%E3%82%B9%E3%83%AB%E3%83%9B%E3%83%B3%E9%85%B8-market-analysis-trends-development-ea7je",
+    "https://jp.linkedin.com/pulse/%E6%B4%9E%E5%AF%9F%E5%8A%9B%E3%81%AB%E5%AF%8C%E3%82%93%E3%81%A0%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%E9%8B%BC%E7%B7%A8%E7%B5%84%E3%83%9B%E3%83%BC%E3%82%B9%E5%B8%82%E5%A0%B4%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%882026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E6%A5%AD%E7%95%8C%E6%88%90%E9%95%B7%E5%8F%8E%E7%9B%8A93%E5%8B%95%E5%90%91%E5%88%86%E6%9E%90-giantbike-0uqde",
+    "https://jp.linkedin.com/pulse/%E8%87%AA%E5%8B%95%E3%83%80%E3%83%BC%E3%82%AF%E3%83%8B%E3%83%B3%E3%82%B0%E6%BA%B6%E6%8E%A5%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4%E3%82%B7%E3%82%A7%E3%82%A2%E5%8F%8E%E7%9B%8A%E5%88%86%E6%9E%90%E3%81%8A%E3%82%88%E3%81%B3%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E4%BA%88%E6%B8%AC2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E6%88%90%E9%95%B7%E7%8E%8789%E3%81%A7%E6%8E%A8%E7%A7%BB-marketicle-rbfae",
+    "https://jp.linkedin.com/pulse/%E3%83%9E%E3%82%B0%E3%83%8D%E3%82%B7%E3%82%A2%E3%82%AF%E3%83%AD%E3%83%A0%E3%82%8C%E3%82%93%E3%81%8C%E5%B8%82%E5%A0%B4%E4%BA%88%E6%B8%AC-2026-203312%E3%81%AEcagr%E3%81%A7%E6%88%90%E9%95%B7%E5%9C%B0%E5%9F%9F%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E7%AB%B6%E5%90%88%E6%83%85%E5%8B%A2%E3%81%AB%E7%84%A6%E7%82%B9%E3%82%92%E5%BD%93%E3%81%A6%E3%82%8B-turboale-k08te"
+   ]
+  },
+  {
+   "query": "site:facebook.com 国内企業の3Dプリンタ導入率の推移（大企業・中小企業別）",
+   "results": [
+    "https://www.facebook.com/kaoru.morishita.1291/",
+    "https://www.facebook.com/ccube.co.jp/posts/3dプリンタ導入事例スーパーエンプラpeekpeiultemppsu等で3dプリントできるデュアルヘッド搭載3dプリンター-funmat-pro-410-をご導/3691575504225324/",
+    "https://www.facebook.com/3dp.idarts/posts/mm総研国内法人における3dプリンタの導入実態に関する調査結果を発表2018年の国内3dプリンタ全体の市場規模は330億円前年比184増となり2019年5月現在/2275110309275380/",
+    "https://www.facebook.com/soft3dconsortium/posts/2314557042100770/",
+    "https://www.facebook.com/lpicbook/posts/3dプリンタは今後も堅調に推移し2023年支出額を247億円同cagr84と予測製造プロセスに変革が持たされることが期待されている/2348956538472711/",
+    "https://www.facebook.com/FukudomeCorporation/photos/新工法始動3dプリンタpolyuse-oneを導入しましたhttpswwwfukudomecojpe696b0e5b7a5e6b395e5a78be58b95e/1588616946389431/",
+    "https://www.facebook.com/SWANY3dp/posts/メディア情報-日本初-titan-ファクトリー開設おはようございます昨日2023年10月19日国内初となる-量産ペレット-押出式-大型3dプリンター-titan/754489313357259/",
+    "https://www.facebook.com/FukudomeCorporation/posts/新工法始動3dプリンタpolyuse-oneを導入しました-このたび福留開発は高知県内で初めてとなる建設用3dプリンタpolyuse-oneポリウス-ワンを自社/1588613313056461/"
+   ]
+  },
+  {
+   "query": "国内企業の3Dプリンタ導入率の推移（大企業・中小企業別） note 社長",
+   "results": [
+    "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "https://www.m2ri.jp/release/detail.html?id=290",
+    "https://www.fortunebusinessinsights.com/jp/%E6%97%A5%E6%9C%AC%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-114804",
+    "https://go.orixrentec.jp/rentecinsight/3dprinter/article-49",
+    "https://service.xenobrain.jp/forecastresults/market-size/3d-printer",
+    "https://note.com/tkiga/n/n86e98468b61d",
+    "https://skhonpo.com/blogs/3dprinter-practice/3d7intro",
+    "https://news.sharelab.jp/3dp-news/report/market-yanoresearchinstitute-220113/",
+    "https://www.gminsights.com/ja/industry-analysis/personal-3d-printers-market",
+    "https://wp.techfactory.itmedia.co.jp/contents/85364"
+   ]
+  },
+  {
+   "query": "国内企業の3Dプリンタ導入率の推移（大企業・中小企業別） X 投稿",
+   "results": [
+    "https://www.m2ri.jp/release/detail.html?id=290",
+    "https://www.fortunebusinessinsights.com/jp/%E6%97%A5%E6%9C%AC%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-114804",
+    "https://go.orixrentec.jp/rentecinsight/3dprinter/article-49",
+    "https://service.xenobrain.jp/forecastresults/market-size/3d-printer",
+    "https://news.sharelab.jp/category/3dp-news/report/",
+    "https://mdb-biz.jmar.co.jp/column/45",
+    "https://www.ninesigma.com/jp/news/column_3dprinter/",
+    "https://www.gcj-page.or.jp/gcj/monthly-report/monthly-report-2409/",
+    "https://www.recmbus-3dprint.com/knowledge/grobal_market-share.html",
+    "https://www.aperza.com/catalog/page/10009331/35569/"
+   ]
+  },
+  {
+   "query": "Japan companies 3D printer adoption rate by company size trend site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/industrial-metal-plastic-3d-printers-market-us-lwpkf",
+    "https://uk.linkedin.com/company/3d-printing-industry",
+    "https://www.linkedin.com/pulse/digitally-3d-printed-teeth-market-comprehensive-global-wohrf",
+    "https://uk.linkedin.com/company/contextworld",
+    "https://uk.linkedin.com/company/barclays-bank",
+    "https://in.linkedin.com/company/mphasis",
+    "https://sg.linkedin.com/company/addept3d",
+    "https://in.linkedin.com/company/marketsandmarkets",
+    "https://in.linkedin.com/company/wipro",
+    "https://uk.linkedin.com/company/renishaw"
+   ]
+  }
+ ],
+ "missing": {
+  "件数の推移": "記載なし（読んだ24頁・検索11回）",
+  "金額の推移": "記載なし（読んだ24頁・検索11回）",
+  "素材の内訳": "記載なし（読んだ24頁・検索11回）",
+  "場面・目的": "記載なし（読んだ24頁・検索11回）",
+  "期間・審査": "記載なし（読んだ24頁・検索11回）",
+  "主体": "記載なし（読んだ24頁・検索11回）"
+ },
+ "new_this_run": {
+  "推移": [
+   {
+    "quote": "Japan 3D Printing Market Size, Share | Report 2026-2034",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan 3D Printing Market Size, Share, Trends and Forecast by Technology, Process, Material, Offering, Application, End User, and Region, 2026-2034",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "October 21, 2026",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SR112026A9911",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan 3D Printing Market Size, Share, Trends & Forecast (2026-2034)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "in 2025 to",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "in 2026 and is projected to reach",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Base Year Market Size (2025)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Market Size (2026)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2020-2025",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026-2034",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Fused Deposition Modeling – 26.8% share (2025)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Printer – 37.4% share (2025)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Kanto Region - 34.1% share (2025)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan's 3D printing market expanded from USD 0.90 Billion in 2020 to USD 2.02 Billion in 2025 and an estimated USD 2.48 Billion in 2026, anchored at USD 4.55 Billion in 2030, expected to reach USD 9.08 Billion by 2034. Metal additive manufacturing acquisitions and government-backed automation programs are reshaping Japan's precision-manufacturing economics above the historical baseline.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Electron beam melting grows fastest among technologies at an estimated ~21.2% CAGR (2026-2034), fueled by aerospace and medical-implant demand for high-strength metal parts. Digital light processing follows at ~19.5% CAGR, supported by rising jewelry and dental prototyping needs, while fused deposition modeling, the largest segment, grows at a steadier ~16.8% through 2034.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Fused Deposition Modeling - 26.8% share (2025)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Printer - 37.4% share (2025)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Fused Deposition Modeling at 26.8% (2025) anchored by consumer electronics and machinery prototyping:",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Fused deposition modeling leads at 26.8% share (2025), valued for its cost efficiency in prototyping and functional part production across consumer electronics and machinery manufacturing. The segment is forecast to grow at ~16.8% CAGR through 2034, supported by Japanese manufacturers' focus on eco-friendly filament development and refined extrusion techniques.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Printer hardware leads offering-based segmentation at 37.4% share (2025), reflecting sustained capital investment in industrial and desktop printing systems across Japan's manufacturing base. The segment benefits from Japanese OEMs' focus on precision, durability, and multi-material capability spanning automotive and healthcare applications.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Future Market Outlook (2026-2034)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "IMARC’s report offers a comprehensive quantitative analysis of various market segments, historical and current market trends, market forecasts, and dynamics of the Japan 3D printing market from 2020-2034.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "AM・3Dプリンタ": [
+   {
+    "quote": "Japan 3D Printing Market Size, Share | Report 2026-2034",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan 3D Printing Market Size, Share, Trends and Forecast by Technology, Process, Material, Offering, Application, End User, and Region, 2026-2034",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan 3D Printing Market Size, Share, Trends & Forecast (2026-2034)",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Japan 3D printing market grew from",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan's 3D printing market expanded from USD 0.90 Billion in 2020 to USD 2.02 Billion in 2025 and an estimated USD 2.48 Billion in 2026, anchored at USD 4.55 Billion in 2030, expected to reach USD 9.08 Billion by 2034. Metal additive manufacturing acquisitions and government-backed automation programs are reshaping Japan's precision-manufacturing economics above the historical baseline.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Electron beam melting grows fastest among technologies at an estimated ~21.2% CAGR (2026-2034), fueled by aerospace and medical-implant demand for high-strength metal parts. Digital light processing follows at ~19.5% CAGR, supported by rising jewelry and dental prototyping needs, while fused deposition modeling, the largest segment, grows at a steadier ~16.8% through 2034.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Metal AM expansion in aerospace, automotive gigacasting, and healthcare prosthetics",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan 3D Printing Market Overview",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Government Funding and METI-Backed Manufacturing Programs:",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan's government actively subsidizes additive-manufacturing adoption among SMEs, targeting complex components domestically via metal 3D printing by 2030, per industry funding announcements.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Automakers use 3D printing for rapid prototyping and lightweight component production, while aerospace suppliers increasingly qualify additive parts for turbine and structural applications, expanding Japan's ~17.60% CAGR base.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The high cost of industrial 3D printers, specialized software, post-processing systems, and advanced printing materials limits adoption, particularly among small and medium-sized enterprises. Uncertain returns on investment and ongoing maintenance expenses can further delay purchasing decisions.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A lack of uniform standards for materials, process validation, quality assurance, and part certification makes large-scale 3D printing difficult. Variations in equipment and production outcomes can reduce consistency, slowing adoption in regulated and high-volume industries.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Metal AM Expansion in Automotive Gigacasting:",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The integration of metal additive manufacturing with automotive gigacasting offers significant opportunities for producing complex mould inserts, conformal cooling channels, lightweight components, and customized tooling. Japan’s strong automotive manufacturing base can accelerate adoption by reducing tooling lead times, improving casting efficiency, and supporting rapid vehicle design innovation.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Construction 3D Printing:",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Construction 3D printing presents growth opportunities in Japan by enabling faster, automated, and material-efficient production of homes, structural components, and customized architectural designs. The technology can also help address labor shortages, reduce construction waste, and support rapid rebuilding in disaster-prone regions.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan faces a shortage of professionals skilled in 3D modeling, printer operation, material selection, and post-processing. This limits companies’ ability to implement additive manufacturing effectively and increases their dependence on specialized external service providers.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Slow Adoption Among Legacy Manufacturers:",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Many traditional Japanese manufacturers remain cautious about replacing established production methods due to high initial costs, certification concerns, and uncertain returns. This conservative approach slows the integration of 3D printing into large-scale industrial operations.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. Metal Additive Manufacturing Consolidation",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. Construction-Grade 3D Printing",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Japan 3D printing value chain integrates raw-material supply, printer and equipment manufacturing, software and design, printing and post-processing, and distribution to end-use industries. Each stage involves distinct participants whose specialization supports the precision and reliability demanded by Japan's automotive, healthcare, and aerospace end markets.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Producers and suppliers of metal powders, photopolymer resins, thermoplastic filaments, ceramics, and composites.",
+    "url": "https://www.imarcgroup.com/japan-3d-printing-market",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T17:10:41.053042+00:00"
+}

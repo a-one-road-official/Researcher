@@ -1,0 +1,4543 @@
+{
+ "name": "株式会社IHI",
+ "aliases": [
+  "IHI"
+ ],
+ "context": "大手の内製（航空エンジン）",
+ "researched_at": "2026-11-06T17:13:51.932161+00:00",
+ "official_url": "https://www.ihi.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒135-8710 東京都江東区豊洲三丁目1-1 豊洲IHIビル TEL　03-6204-7800（代表） Googleマップで見る",
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 135-8710 東京都 江東区 豊洲 三丁目1番1号 豊洲IHIビル",
+    "url": "https://ja.wikipedia.org/wiki/IHI",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　井手　博",
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 社長 兼 CEO 井手博 代表取締役 副社長 兼副社長執行役員 盛田英夫 代表取締役副社長兼副社長執行役員 小林淳 代表取締役副社長兼副社長執行役員 佐藤篤",
+    "url": "https://ja.wikipedia.org/wiki/IHI",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：嘉永6年（1853年）12月5日 水戸藩 徳川斉昭が幕命により江戸・石川島の地に造船所を創設した日",
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1889年（明治22年）1月17日 有限責任石川島造船所が設立された日",
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1889年 （明治22年） 1月17日 （有限責任石川島造船所）",
+    "url": "https://ja.wikipedia.org/wiki/IHI",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上収益（連結）",
+    "value": "1兆6,434億円（2026年3月期）",
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "連結:1兆6,434億200万円 単独:7,425億100万円 （2026年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/IHI",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数（連結）",
+    "value": "26,224人（2026年3月末）",
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結:26,224名 単独:7,911名 （2026年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/IHI",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "親会社所有者帰属持分比率",
+    "value": "28.4%（＋1.5pt）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "label": "親会社所有者帰属持分比率",
+    "value": "26.9%",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "label": "親会社所有者帰属持分比率",
+    "value": "親会社の所有者に帰属する持分／負債・資本合計",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "label": "主要 株主",
+    "value": "日本マスタートラスト信託銀行 （信託口）16.06% 日本カストディ銀行 （信託口）6.08% JPモルガン証券 4.39% 第一生命保険 1.80% みずほ信託銀行 （退職給付信託 みずほ銀行 口　再信託受託者 日本カストディ銀行）1.42% （2025年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/IHI",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "参入しない・慎重な理由の発言": [
+   {
+    "quote": "社会課題に果敢に挑戦し、技術の力で",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "実現すること、そのために社会課題を",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "嘉永6年から続く歴史をバックグラウンドに新しい課題に取り組む",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "世界的な電力需要の増加が続くなか、原子力発電は脱炭素とエネルギー安全保障の両立に資する、信頼性の高い低炭素電源として、改めて注目を集めています",
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202241_13799.html",
+    "pass": 1
+   },
+   {
+    "quote": "新設原子力発電所プロジェクトは世界各地で計画・開発が進められており、今後もさらなる需要拡大が見込まれています",
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202241_13799.html",
+    "pass": 1
+   },
+   {
+    "quote": "常にお客さまの近くでお困りごとや課題を受け止め、エンジニアリング、アフターサービスや省エネなどの最適なソリューションを提供しています",
+    "url": "https://www.ihi.co.jp/company/business/industrial_general_machine/",
+    "pass": 1
+   },
+   {
+    "quote": "これからも、社会インフラのプロフェッショナルとして困難な課題に挑み、",
+    "url": "https://www.ihi.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "IHIグループは、1853年の創業以来、「技術をもって社会の発展に貢献する」「人材こそが最大かつ唯一の財産である」という経営理念のもと、時代とともに技術を磨き、社会や産業の要請に応え続けてきました",
+    "url": "https://www.ihi.co.jp/company/topmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "地球環境の変化や地政学リスクの高まりにより、エネルギーやインフラを取り巻く不確実性が増す中、人々の暮らしや産業活動を支える基盤の重要性は、これまで以上に高まっています",
+    "url": "https://www.ihi.co.jp/company/topmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "技術戦略室長、グループ技術戦略担当、グループ品質保証担当、",
+    "url": "https://www.ihi.co.jp/company/executivelist/",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティ機器、メカトロニクス、制御・監視システム、検査･計測装置の開発、設計、製造、保守",
+    "url": "https://www.ihi.co.jp/company/offices/",
+    "pass": 1
+   },
+   {
+    "quote": "各種非破壊検査装置などの設計・製造・販売・据付・修理・保守",
+    "url": "https://www.ihi.co.jp/company/offices/",
+    "pass": 1
+   },
+   {
+    "quote": "各時代の困難な社会課題に果敢に挑戦し、技術の力で解決してきたIHIの歴史についてご紹介します",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい入庫のかたち～機械式駐車場の入庫操作を削減 車番認証で「リモコン不要のストレスフリー入庫」を実現",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "問合せ先責任者 （役職名）常務執行役員 財務部長 （氏名）大嶋 裕美 ＴＥＬ （03）6204-7065",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業績見通し等の将来に関する記述は、現時点で入手可能な情報に基づき判断したものであり、リスクや不確実性を含",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間連結会計期間の世界経済は、地政学的リスクに伴うエネルギー価格の上昇や供給面の制約、通商政策を巡",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "成長事業である民間向け航空エンジン・防衛分野においては、今後の世界的な航空機需要増加が期待される中、",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "民間向け航空エンジンのアフターマーケット需要が堅調に伸長しており、防衛向けについても、防衛予算の増加を",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告に基づく費用請求が確認されたことを理由として、５か月間の競争参加資格停止処分を受けましたが、当該競",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "損益面では、営業利益は、民間向け航空エンジンの需要拡大、国内カーボンソリューション・原動機のライフサ",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "世界経済の先行きは、AI関連投資の拡大が成長を支える一方、地政学的リスクの高まり・緊迫化に伴うエネルギ",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ー・食料価格の上昇や供給網への影響、通商摩擦の再燃など、下振れリスクに留意する必要があります",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "成長事業である民間向け航空エンジン・防衛分野においては、世界の航空機需要の拡大が見込まれる中、当社グ",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ループは、民間向け航空エンジンにおける小型～大型・超大型クラスに至るベストセラーエンジンの開発・量産事",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後の需要増加が期待されるアフターマーケットでの事業拡大を目指し、整備事業では、高",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、防衛予算の増加を背景に需要拡大が見込まれ",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、再稼働・再処理に係る国内のライフサイクルビジネス需要を確実に取り込むことで安定的にキャッシュを創出",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "するとともに、グローバルでの新設需要の拡大を追い風に、海外新設案件の獲得によるトップライン成長の実現に",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ジネスプロセスを有する単位とし、ＳＢＵでの利益責任を負う事業遂行組織です",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．「その他」の区分は、報告セグメントに含まれない事業で、検査・計測事業及び関連する機器等の製造、",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ ’25年度2Qの売上収益には+8億円、’26年度2Qの売上収益には+7億円のPW1100G-JMエンジン追加検査プログラムに関する為替評価替えによる影響を含む",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、PW1100G-JMエンジン追加検査プログラムについて、影響の見積総額（USD）に変動なし",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "民間エンジンの需要拡大に加えて、カーボンソリューション・原動機のLCB拡大により大幅増益",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※PW1100G-JMエンジン追加検査プログラムに関する為替評価替えによる影響",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）PW1100G-JMエンジン追加検査プログラム影響を除く",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "地政学リスクや燃料価格の高騰はあるものの、航空輸送需要は引き続き堅調",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※1：PW1100G-JMエンジン追加検査プログラム関連支出は、従来の運転資本の増減と区別して記載",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "PW1100G-JMエンジン追加検査",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "PW1100G-JMエンジン追加検査プログラムの為替影響は、’25年度末（159.85円/USD）の水準で変更なし（為替感応度は当該影響を除く）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（単位：億円） 事業環境の変化 LCBの拡大 コスト構造の強化 為替の変動 販管費の変動 事業構造改革 その他 合計",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "追加検査プログラム為替影響 ▲1",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 為替影響②：PW1100G-JMエンジン追加検査プログラムの為替影響を除外",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※2：PW1100G-JMエンジン追加検査プログラム、IHI E&C訴訟和解影響に関する損失計上を除く",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※3：’26年度見通しのROICは一時要因（不動産売却益、リスクバッファー）の影響を除く",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "り、リスクや不確実性を含んでいます",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．配当予想修正の理由",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/notice_261104.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加工技術・特殊工程技術・品質保証技術をベースにライン化技",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 蛍光浸透探傷検査、熱処理、ショットピーニング、ケミカルミーリング、",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "航空宇宙･防衛産業の品質マネジメントシステムに関する国際規格 国際航空宇宙産業における特殊工程･製品の国際的認証制度",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．配当予想修正の理由",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/11/04/notice_261104_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．譲渡理由",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/09/29/260929n-j_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、プロジェクト遂行リスクは増大し、エ",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/09/29/260929n-j_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．譲渡理由",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/09/29/260929n-j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、プロジェクト遂行リスクは増大し、エ",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/09/29/260929n-j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "問合せ先責任者 （役職名）常務執行役員 財務部長 （氏名）大嶋 裕美 ＴＥＬ (03) 6204 - 7065",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業績見通し等の将来に関する記述は、現時点で入手可能な情報に基づき判断したものであり、リスクや不確実性を",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間の世界経済は、地政学的リスクや通商政策を巡る不確実性が継続したものの、総じて",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "成長事業である民間向け航空エンジン・防衛分野においては、今後の世界的な航空機需要増加が期待される中、",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告に基づく費用請求が確認されたことを理由として、５か月間の競争参加資格停止処分を受けました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   }
+  ],
+  "AMの規模": [
+   {
+    "quote": "ポーランド初の原子力発電所向け機器の先行手配品を受注",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "石川島芝浦精機株式会社および芝浦ミシン株式会社と合併（資本金154億円）",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋造船株式会社および名古屋重工業株式会社と合併（資本金240億円）",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "愛知工場についてF-LNG・海洋構造物の受注済案件の完工後、生産拠点としての機能を終了することを決定",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "民間航空エンジンの整備拠点として鶴ヶ島工場が稼働開始",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ポーランド初の原子力発電所向け機器の先行手配品を受注 | 2026年度 | ニュース | 株式会社IHI",
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202241_13799.html",
+    "pass": 1
+   },
+   {
+    "quote": "ポーランド初の原子力発電所向け機器の先行手配品を受注",
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202241_13799.html",
+    "pass": 1
+   },
+   {
+    "quote": "IHIは、このたび、米国ウェスチングハウス社より、ポーランド国営の原子力発電会社Polskie Elektrownie Jądrowe（PEJ：ポルスキェ・エレクトロヴニェ・ヨンドロヴェ）がポーランド北部のLubiatowo-Kopalino（ルビアトボ・コパリノ）地区に建設予定である同国初の原子力発電所向けに、原子炉格納容器1基および大型鋼製モジュールの供給に必要な設計業務・先行材料手配を受注しました",
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202241_13799.html",
+    "pass": 1
+   },
+   {
+    "quote": "シンガポールに本社を置き、アジア、ヨーロッパ、中東、米国に拠点を構え、100カ国以上の顧客に対応しています",
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202227_13799.html",
+    "pass": 1
+   },
+   {
+    "quote": "全国に170ヵ所以上あるサービス拠点により納入した機械の保守・点検、使用状況に応じた改修の提案を行うことで、製品のライフサイクル全般にわたる最適なソリューションをご提案します",
+    "url": "https://www.ihi.co.jp/company/business/industrial_general_machine/",
+    "pass": 1
+   },
+   {
+    "quote": "米国、欧州、タイ、中国にも開発、生産、販売拠点を持ち、ワールドワイドに事業を展開しています",
+    "url": "https://www.ihi.co.jp/company/business/industrial_general_machine/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジン整備でもアジアにおける主要拠点として高い評価を得ています",
+    "url": "https://www.ihi.co.jp/company/business/aeroengine_space_defense/",
+    "pass": 1
+   },
+   {
+    "quote": "1,071億円",
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1兆6,434億円（2026年3月期）",
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "拠点一覧 | 企業情報 | 株式会社IHI",
+    "url": "https://www.ihi.co.jp/company/offices/",
+    "pass": 1
+   },
+   {
+    "quote": "「IHIつなぐラボ」は IHIグループのオープンイノベーション推進拠点です",
+    "url": "https://www.ihi.co.jp/company/related_facilities/",
+    "pass": 1
+   },
+   {
+    "quote": "・橋梁事業の製造拠点である堺工場や本社事務所内のご見学",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   },
+   {
+    "quote": "・航空エンジン用部品の製造拠点である呉第二工場等のご見学",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   },
+   {
+    "quote": "ポーランド初の原子力発電所向け機器の先行手配品を受注",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "IHIインフラスクエアが利根川河口堰外ゲート設備改修工事を共同企業体で受注",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "各項目の金額は億円未満を切り捨てて表示しています",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前中間利益 中間利益 親会社の所有者に帰属する中間利益 中間包括利益合計額",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような事業環境下において、当社グループの当中間連結会計期間の受注高は前年同期比12.8％減の7,787億",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益については、前期に複数の事業を譲渡した影響 による減収はあるものの、民間向 け航空エンジン・防",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "衛・原子力といった成長事業の拡大などにより、9.2％増の7,793億円となりました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イクルビジネス拡大、及び不動産譲渡利益の計上により、455億円増益の1,149億円となりました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、持分法投資利益の増加等により、480億円増益の1,227億円、親会社の所有者に帰属する中間利益は290億円増",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "益の849億円です",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業損益 売上収益 営業損益 売上収益 営業損益",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間連結会計期間末における総資産は２兆5,409億円となり、前連結会計年度末と比較して1,124億円増加しま",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主な増加項目は、棚卸資産で864億円、主な減少項目は、現金及び現金同等物で180億円です",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "負債は１兆7,923億円となり、前連結会計年度末と比較して453億円増加しました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "入金で662億円、主な減少項目は、営業債務及びその他の債務で505億円です",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て5,632億円となり、前連結会計年度末と比較して733億円増加しました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資本は7,486億円となり、前連結会計年度末と比較して670億円増加しました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "する中間利益849億円が含まれています",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間連結会計期間末における現金及び現金同等物の残高 は、前連結会計年度末と比較して 180億円減少し、",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1,370億円となりました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業活動によるキャッシュ・フローは 650億円の支出超過となりました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "投資活動によるキャッシュ・フローは89億円の収入超過となりました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "財務活動によるキャッシュ・フローは 384億円の収入超過となりました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "月には、民間向け航空エンジンの整備拠点の一つである鶴ヶ島工場に新棟を竣工し、成長に向けた投資が順調に進",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスの実績などを踏まえ、受注高は1兆8,900億円、売上収益は１兆8,800億円、営業利益は2,700億円、税引前",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利益は2,600億円、親会社の所有者に帰属する当期利益は1,850億円に修正しました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注1）各項目の金額は億円未満を切り捨てて表示しています",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 受注高は防衛・民間エンジンが大きく拡大も、エネルギー前期大型案件反動により前年同期を下回る",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 7,793億円 723億円（9.3％）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 1,149億円（14.8％） 849億円 営業CF ▲650億円当期利益",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注高 7,787億円 不動産売却除く営業利益",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "YoY +656億円 YoY +67億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "YoY +455億円（+5.1pt） YoY +290億円 YoY ▲78億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "YoY ▲1,146億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 1兆8,800億円 1,770億円（9.4％）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 2,700億円（14.4％） 1,850億円 営業CF 1,000億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注高 1兆8,900億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "+130億円 / +240億円+200億円 / +1,044億円（+4.3pt）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "+1,200億円 / ▲647億円 +400億円 / +2,365億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "±0億円 / ▲213億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "+200億円 / +339億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   }
+  ],
+  "客の業界": [
+   {
+    "quote": "私たちIHIは、「資源・エネルギー・環境」「社会基盤」「産業システム・汎用機械」「航空・宇宙・防衛」の4つの事業分野を中心に価値を提供しています",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "先進技術により、航空輸送、防衛システムおよび宇宙利用の未来を切り拓き、豊かで安全な社会の実現に貢献する",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "のちの立飛企業株式会社、新立川航空機株式会社",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部門分離、株式会社石川島自動車製作所設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "のちにいくつかの合併を経て、いすゞ自動車株式会社に",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "石川島重工業株式会社と株式会社播磨造船所とが合併、石川島播磨重工業株式会社発足",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "右が石川島重工業の土光敏夫社長、左は播磨造船所の六岡周三社長",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋造船株式会社および名古屋重工業株式会社と合併（資本金240億円）",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日本航空機エンジン協会を設立（三菱重工業株式会社、川崎重工業株式会社と共同）",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙開発事業を株式会社アイ・エイチ・アイ・エアロスペースに統合",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "社名を石川島播磨重工業株式会社から株式会社IHIに変更",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー事業本部を廃止し、エネルギーシステムセクターと原子力セクターを新設",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "トンネル用シールド掘進機事業における競争力及び収益力の強化を図るため三菱重工メカトロシステムズ株式会社と事業統合を行ない、JIMテクノロジー株式会社として営業を開始",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "民間航空エンジンの整備拠点として鶴ヶ島工場が稼働開始",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "資源・エネルギー・環境 | 事業紹介 | 企業情報 | 株式会社IHI",
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/",
+    "pass": 1
+   },
+   {
+    "quote": "産業の発展、豊かな生活に欠かせないエネルギーを、地球にやさしい方法で生み出すIHIの製品・サービス",
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/",
+    "pass": 1
+   },
+   {
+    "quote": "創業から170年以上、造船で培った技術をもとに事業を拡大し、今では「資源・エネルギー・環境」「社会基盤」「産業システム・汎用機械」「航空・宇宙・防衛」の4分野で事業を展開",
+    "url": "https://www.ihi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "先進技術により、航空輸送、防衛システムおよび宇宙利用の未来を切り拓き、豊かで安全な社会の実現に貢献する",
+    "url": "https://www.ihi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "世界的な電力需要の増加が続くなか、原子力発電は脱炭素とエネルギー安全保障の両立に資する、信頼性の高い低炭素電源として、改めて注目を集めています",
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202241_13799.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後も、溶接をはじめとする高度な製造技術と、長年培ってきた品質管理およびプロジェクト遂行の経験を活かし、原子力発電プラント向けの重要機器の供給を通じて、世界の安全・安定的なエネルギー供給に貢献していきます",
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202241_13799.html",
+    "pass": 1
+   },
+   {
+    "quote": "IHI 常務執行役員、資源・エネルギー・環境事業領域長 小澤 典明",
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202227_13799.html",
+    "pass": 1
+   },
+   {
+    "quote": "IHIは、カーボンニュートラル社会の実現とエネルギー安全保障への貢献を目指し、クリーンエネルギー分野における事業基盤の強化や供給能力の拡充を推進しています",
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202227_13799.html",
+    "pass": 1
+   },
+   {
+    "quote": "IHIは、これまで培ってきた原子力分野での知見を活かし、今後も安心・安全で持続可能なエネルギーの供給に寄与してまいります",
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202227_13799.html",
+    "pass": 1
+   },
+   {
+    "quote": "ST Engineeringは、航空宇宙、スマートシティ、防衛、および安全保障といった多種多様な領域でグローバルに事業を展開しています",
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202227_13799.html",
+    "pass": 1
+   },
+   {
+    "quote": "内燃機関において吸入した空気を圧縮して送り込む装置の過給機は、大型の舶用・陸上発電用エンジンから小型の自動車エンジン用までをシリーズで供給しています",
+    "url": "https://www.ihi.co.jp/company/business/industrial_general_machine/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車用の過給機はすでに１億台以上を生産",
+    "url": "https://www.ihi.co.jp/company/business/industrial_general_machine/",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙・防衛 | 事業紹介 | 企業情報 | 株式会社IHI",
+    "url": "https://www.ihi.co.jp/company/business/aeroengine_space_defense/",
+    "pass": 1
+   },
+   {
+    "quote": "空、宇宙、防衛の未来を切り拓く",
+    "url": "https://www.ihi.co.jp/company/business/aeroengine_space_defense/",
+    "pass": 1
+   },
+   {
+    "quote": "航空エンジン、ロケットシステム・宇宙利用、防衛機器システムなどを手がけています",
+    "url": "https://www.ihi.co.jp/company/business/aeroengine_space_defense/",
+    "pass": 1
+   },
+   {
+    "quote": "航空エンジンのリーディングカンパニーとして空の交通を支え、宇宙開発分野ではロケットエンジンの心臓部「ターボポンプ」や次世代ロケット「イプシロン」の開発・製造を行っています",
+    "url": "https://www.ihi.co.jp/company/business/aeroengine_space_defense/",
+    "pass": 1
+   },
+   {
+    "quote": "防衛省が運用する航空エンジンの開発・生産を主契約者として担い、戦闘機用は全機種を担当しています",
+    "url": "https://www.ihi.co.jp/company/business/aeroengine_space_defense/",
+    "pass": 1
+   },
+   {
+    "quote": "また、民間航空エンジン事業では国際共同開発に参画",
+    "url": "https://www.ihi.co.jp/company/business/aeroengine_space_defense/",
+    "pass": 1
+   },
+   {
+    "quote": "環境にやさしい次世代エンジンの研究開発も進めています",
+    "url": "https://www.ihi.co.jp/company/business/aeroengine_space_defense/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年には固体燃料ロケットで実績を持つ日産自動車宇宙航空事業部を統合し、活動範囲を拡大",
+    "url": "https://www.ihi.co.jp/company/business/aeroengine_space_defense/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙ステーションの建設では、日本実験棟「きぼう」の船外実験プラットフォームなどの開発、生産において重要な役割を担うとともに、宇宙環境利用では各種国際共同実験に主要な実験システムを供給しています",
+    "url": "https://www.ihi.co.jp/company/business/aeroengine_space_defense/",
+    "pass": 1
+   },
+   {
+    "quote": "地球環境の変化や地政学リスクの高まりにより、エネルギーやインフラを取り巻く不確実性が増す中、人々の暮らしや産業活動を支える基盤の重要性は、これまで以上に高まっています",
+    "url": "https://www.ihi.co.jp/company/topmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "IHIグループは、社会と国家の基盤を支える企業として、エアロスペース、エネルギー、インフラといった分野において、世界各国の安全保障に加え、社会や産業基盤の安定に貢献していくことを目指します",
+    "url": "https://www.ihi.co.jp/company/topmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "21世紀の環境、エネルギー、産業・社会基盤における諸問題を、ものづくり技術を中核とするエンジニアリング力によって解決し、地球と人類に豊かさと安全・安心を提供するグローバルな企業グループとなる",
+    "url": "https://www.ihi.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "資源・エネルギー動向をふまえたエネルギー関連分野等の開発・製造・貯蔵・輸送システム、環境負荷低減・省エネに貢献するための化石燃料および新エネルギーの燃焼・利用システムならびに原子力発電のためのキーハードを、独自技術に基づいて提供する",
+    "url": "https://www.ihi.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくり技術の高度化をはかり、航空エンジン事業において主導的地位を確保するとともに、宇宙開発事業においては推進系技術を中核として産業化を確立する",
+    "url": "https://www.ihi.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "主要製品：航空エンジン、ロケットシステム・宇宙利用",
+    "url": "https://www.ihi.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙・防衛事業領域長、グループ経済安全保障担当、グループ調達担当",
+    "url": "https://www.ihi.co.jp/company/executivelist/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社IHIエアロスペース 代表取締役会長（兼）航空・宇宙・防衛事業領域 副事業領域長",
+    "url": "https://www.ihi.co.jp/company/executivelist/",
+    "pass": 1
+   },
+   {
+    "quote": "資源・エネルギー・環境事業領域 副事業領域長",
+    "url": "https://www.ihi.co.jp/company/executivelist/",
+    "pass": 1
+   },
+   {
+    "quote": "業務内容：航空エンジン・ガスタービン・宇宙機器",
+    "url": "https://www.ihi.co.jp/company/offices/",
+    "pass": 1
+   },
+   {
+    "quote": "業務内容：航空エンジン、ガスタービン、エンジン制御機器の製造・修理・開発、宇宙関連機器の製作および防衛機器の修理",
+    "url": "https://www.ihi.co.jp/company/offices/",
+    "pass": 1
+   },
+   {
+    "quote": "各種物流機器、一般産業機械の設計製造販売および付帯する一切の事業",
+    "url": "https://www.ihi.co.jp/company/offices/",
+    "pass": 1
+   },
+   {
+    "quote": "ターボチャージャーの再生事業、アフターマーケット向けターボチャージャーの企画・設計・製造及び販売、自動車・産業機器向けの中古部品販売",
+    "url": "https://www.ihi.co.jp/company/offices/",
+    "pass": 1
+   },
+   {
+    "quote": "物流機器、ＦＡ機器ならびに産業機械に関する販売、設計、製作、調達、建設、据付工事、改造修理ならびに機器、部品の整備およびメンテナンスサービス",
+    "url": "https://www.ihi.co.jp/company/offices/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙機器、防衛機器等の設計、製造、販売及び航空機部品の製造、販売など",
+    "url": "https://www.ihi.co.jp/company/offices/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙機器などの設計・研究・実験などに関する業務の受託",
+    "url": "https://www.ihi.co.jp/company/offices/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機ジェットエンジンコンプレッサーブレード加工",
+    "url": "https://www.ihi.co.jp/company/offices/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスタービンメンテナンス、航空エンジン・宇宙機器の技術支援など",
+    "url": "https://www.ihi.co.jp/company/offices/",
+    "pass": 1
+   },
+   {
+    "quote": "IHIでは、二酸化炭素（CO₂）と水素（H₂）から直接SAF（持続可能な航空燃料）を作り出す技術を開発しています",
+    "url": "https://www.ihi.co.jp/company/gallery/",
+    "pass": 1
+   },
+   {
+    "quote": "技術が、未来をつくる 航空機電動化編",
+    "url": "https://www.ihi.co.jp/company/gallery/",
+    "pass": 1
+   },
+   {
+    "quote": "IHIは、航空機のトータルエネルギーマネジメントを通じて、CO₂排出量削減を目指しています",
+    "url": "https://www.ihi.co.jp/company/gallery/",
+    "pass": 1
+   },
+   {
+    "quote": "21世紀の環境、エネルギー、産業・社会基盤における諸問題を、ものづくり技術を中核とするエンジニアリング力によって解決し、地球と人類に豊かさと安全・安心を提供するグローバルな企業グループとなる",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   },
+   {
+    "quote": "IHIは「資源・エネルギー・環境」「社会基盤」「産業システム・汎用機械」「航空・宇宙・防衛」の4分野で世界に事業展開しています",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   },
+   {
+    "quote": "地球にやさしいエネルギーを、創り出す",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   },
+   {
+    "quote": "産業の発展、豊かな生活に必要なエネルギー を、地球に優しく生み出す製品・サービス",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "第209回定時株主総会を開催しました",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、2026年6月24日(水)に第209回定時株主総会を開催いたしました",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "JEIが保有するEASへの出資持分の全てについてEASの株主であるCamargo Corrêa グループ及びQueiroz Galvão グループに譲渡することについて合意（平成28年４月に譲渡）",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "木質バイオマスによる発電事業を展開する、七ツ島バイオマスパワー合同会社を出資会社８社とともに設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "IRニュース | 株主・投資家情報 | 株式会社IHI",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第209回定時株主総会 株主さまからいただいた質問への回答を掲載しました",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第209回定時株主総会の動画を掲載しました",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第209回定時株主総会を開催いたしました",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "主要株主の異動に関するお知らせ(265 KB)",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "個⼈投資家の皆さまへ | 株主・投資家情報 | 株式会社IHI",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＨＩグループへのご理解を深めていただく機会として、株主さま向けの工場見学会等を開催しています",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   },
+   {
+    "quote": "・募集対象：2026年３月末時点で100株以上保有の株主さま",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   },
+   {
+    "quote": "・募集対象：2025年９月末時点で100株以上保有の株主さま",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   },
+   {
+    "quote": "・募集対象：2025年３月末時点で100株以上保有の株主さま",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   },
+   {
+    "quote": "・募集対象：2024年９月末時点で100株以上保有の株主さま",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   },
+   {
+    "quote": "・募集対象：2024年３月末時点で100株以上保有の株主さま",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   },
+   {
+    "quote": "経営情報 | 株主・投資家情報 | 株式会社IHI",
+    "url": "https://www.ihi.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "株主総会・株式情報 | 株主・投資家情報 | 株式会社IHI",
+    "url": "https://www.ihi.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "財務・業績情報 | 株主・投資家情報 | 株式会社IHI",
+    "url": "https://www.ihi.co.jp/ir/financial_performance/",
+    "pass": 1
+   },
+   {
+    "quote": "IR資料室 | 株主・投資家情報 | 株式会社IHI",
+    "url": "https://www.ihi.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "説明会資料 | 株主・投資家情報 | 株式会社IHI",
+    "url": "https://www.ihi.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "第209回定時株主総会 株主さまからいただいた質問への回答を掲載しました",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "第209回定時株主総会の動画を掲載しました",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "第209回定時株主総会を開催いたしました",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "売上収益 営業利益 税引前中間利益 中間利益 親会社の所有者に帰属する中間利益 中間包括利益合計額",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資産合計 資本合計 親会社の所有者に帰属する持分 親会社所有者帰属持分比率",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、持分法投資利益の増加等により、480億円増益の1,227億円、親会社の所有者に帰属する中間利益は290億円増",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これには、親会社の所有者に帰属",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以上の結果、親会社所有者帰属持分比率は、前連結会計年度末の26.9％から28.4％となりました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利益は2,600億円、親会社の所有者に帰属する当期利益は1,850億円に修正しました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社の所有者に帰属する持分合計 652,243 722,101",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社の所有者 55,912 84,994",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社の所有者 68,347 80,293",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４．株主還元",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社所有者帰属持分比率 ：28.4%（＋1.5pt）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社所有者帰属持分比率 ：26.9%",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社の所有者に帰属する持分 6,522 7,221 +698",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ROIC：（営業利益+受取利息・配当金）税引後／（親会社の所有者に帰属する持分+有利子負債）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ROE：親会社所有者帰属当期利益／親会社の所有者に帰属する持分",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社所有者帰属持分比率：親会社の所有者に帰属する持分／負債・資本合計",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027 年６月下旬に開催予定の当社第 210 回定時株主総会の決議を経て、実施する予定です",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/notice_261104.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年度）では、成長領域への投資を優先する一方で、株主還元については安定配当を基本と",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/notice_261104.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "As a manufacturing enterprise that handles everything from raw materials to fabrication and assembly at our own plants, each of our production center undergoes strict inspections backed by ISO",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/80de7d0533db6ceb1f617d56f0760688.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027 年６月下旬に開催予定の当社第 210 回定時株主総会の決議を経て、実施する予定です",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/11/04/notice_261104_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年度）では、成長領域への投資を優先する一方で、株主還元については安定配当を基本と",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/11/04/notice_261104_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資 本 関 係 当社が出資持分の 100％を保有しております",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/09/29/260929n-j_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "５．譲渡先（親会社）の概要",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/09/29/260929n-j_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（10） 大株主および持 株 比 率",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/09/29/260929n-j_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資 本 関 係 当社が出資持分の 100％を保有しております",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/09/29/260929n-j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "５．譲渡先（親会社）の概要",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/09/29/260929n-j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（10） 大株主および持 株 比 率",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/09/29/260929n-j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前四半期利益 四半期利益 親会社の所有者に帰属する四半期利益 四半期包括利益合計額",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資産合計 資本合計 親会社の所有者に帰属する持分 親会社所有者帰属持分比率",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "617億円増益の819億円、親会社の所有者に帰属する四半期利益は419億円増益の535億円です",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これには、親会社の所有者に帰属",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以上の結果、親会社所有者帰属持分比率は、前連結会計年度末の26.9％から28.3％となりました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "億円、売上収益を18,400億円、営業利益を2,500億円、税引前利益は2,400億円、親会社の所有者に帰属する当期利",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社の所有者に帰属する持分合計 652,243 696,605",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "1853 年の創業以来、私たちは社会の",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ペリー来航による欧米列強への対抗に迫られた幕府が、水戸藩に造船所設立を指示",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平野富二が海軍省から石川島修船場の跡地を借用し、石川島平野造船所を設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "兵庫県相生村（現在の相生市）村長、唐端清太郎が設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部門分離、株式会社石川島自動車製作所設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "芝浦製作所（現株式会社東芝）と共同で石川島芝浦タービン株式会社設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "芝浦製作所（現株式会社東芝）、米ユナイテッド・エンジニアリング社と共同で芝浦共同工業株式会社設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "石川島芝浦タービン株式会社の株式会社東芝への吸収合併に伴い、石川島芝浦精機株式会社を設立（のちに合併）",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日本航空機エンジン協会を設立（三菱重工業株式会社、川崎重工業株式会社と共同）",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日、英、米、独、伊5ヵ国による民間機用エンジン（V2500）の開発でインターナショナル・エアロエンジンズ社設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ディーゼルエンジン部門を分離し、株式会社ディーゼルユナイテッドを設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "住友重機械工業株式会社と共同で株式会社マリン ユナイテッドを設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製紙機械部門を分社化し、独・フォイト社と合弁で株式会社アイ・エイチ・アイ フォイト ペーパーテクノロジーを設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "船舶海洋事業を会社分割し、株式会社アイ・エイチ・アイ マリンユナイテッドを設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社新潟鐡工所の「原動機事業」および「交通システム・車両・除雪関連事業」を継承し、新潟原動機株式会社と新潟トランシス株式会社を設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "車両用ターボチャージャ「長春富奥石川島過給機有限公司」設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "機械式駐車設備「杭州西子石川島停車設備有限公司」（石川島運搬機械株式会社）設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用圧縮機「IHI寿力圧縮技術有限公司」設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社栗本鐵工所、松尾橋梁株式会社の橋梁・水門およびその他鋼構物事業を継承した新会社、株式会社IHIインフラシステムを設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "シールド掘進機事業の新会社であるジャパントンネルシステムズ株式会社を、JFEエンジニアリング株式会社と共同で設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社東芝と原子力発電所向けタービン用機器製造合弁会社「IHI・東芝パワーシステム株式会社」を設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ルクセンブルクのポールワース社と製鉄機械事業を行なう合弁会社、株式会社IHIポールワースを設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アイ・エイチ・アイ マリンユナイテッドと、JFEホールディングス株式会社傘下のユニバーサル造船株式会社を統合し、ジャパン マリンユナイテッド株式会社を設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "木質バイオマスによる発電事業を展開する、七ツ島バイオマスパワー合同会社を出資会社８社とともに設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "IHIのプロセスプラント事業と株式会社IHIプラントエンジニアリング、IHIプラント建設株式会社を統合し、株式会社IHIプラントを設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "IHIの陸用原動機事業と株式会社ディーゼルユナイテッド、新潟原動機株式会社を統合し、株式会社IHI原動機を設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "創業から170年以上、造船で培った技術をもとに事業を拡大し、今では「資源・エネルギー・環境」「社会基盤」「産業システム・汎用機械」「航空・宇宙・防衛」の4分野で事業を展開",
+    "url": "https://www.ihi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "IHIグループは、1853年の創業以来、「技術をもって社会の発展に貢献する」「人材こそが最大かつ唯一の財産である」という経営理念のもと、時代とともに技術を磨き、社会や産業の要請に応え続けてきました",
+    "url": "https://www.ihi.co.jp/company/topmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "石川島資料館は、IHIの創業の地である東京都中央区佃に位置するIHIの歴史を伝える資料館です",
+    "url": "https://www.ihi.co.jp/company/related_facilities/",
+    "pass": 1
+   },
+   {
+    "quote": "1936年 （昭和11年）6月設立",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1950年 （昭和25年）4月設立",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1962年 （昭和37年）9月設立 ＩＨＩタ ー ボ(ITJ)",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2007年 （平成19年）7月設立",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2010年 （平成22年） ４ 月設立～",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1978年 （昭和53年）4月設立",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1980年 （昭和55年）4月設立",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1980年 （昭和55年）6月設立",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1961年 （昭和36年）4月設立",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（６） 設立 年月 日 2003 年４月３日",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/09/29/260929n-j_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（６） 設立年月 日 2008 年２月 13日",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/09/29/260929n-j_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（６） 設立 年月 日 2003 年４月３日",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/09/29/260929n-j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（６） 設立年月 日 2008 年２月 13日",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/09/29/260929n-j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ファブラボ神田錦町とデザイニトは、都市型マイクロファクトリー「錦町三丁目工場」を創業した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "3D細胞プリントで食用培養肉製造目指す共同事業体設立、大阪万博で成果披露",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪大学大学院 工学研究科、島津製作所、伊藤ハム米久ホールディングス、凸版印刷、シグマクシスは“3Dバイオプリントによる食用培養肉製造技術に関する社会実装の具体的な取り組み”を目的とする「培養肉未来創造コンソーシアム」を設立した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "中国でバインダージェット方式3Dプリンタ事業の合弁会社を設立",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "ローランド ディー.ジー.は、愛司凱科技股?有限公司、景徳鎮昌南新区中熙投資合?企業、AGCセラミックスとともに、バインダージェット方式3Dプリンタ事業に関する合弁会社「微瓷科技（江西）有限公司」を中国・景徳鎮市に設立した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタの研究開発拠点を設立、デジタル技術で新たなモノづくりを創出",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "NTTデータ ザムテクノロジーズは、デジタル技術を融合した3Dプリンタ研究開発拠点「デジタルマニュファクチャリングセンター」を設立した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ミシュランタイヤと群馬県の自動車部品メーカーなど8社は2021年6月25日、オンラインと群馬県庁で会見を開き、「群馬積層造形プラットフォーム」を設立すると発表した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "NTTデータは、3Dプリンタを活用したアディティブマニュファクチャリング事業を専業とする新会社「NTTデータ ザムテクノロジーズ」を2020年5月18日付けで設立し、同年7月1日から事業を開始したことを発表した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabsが歯科事業部門を設立し、歯科市場への取り組みを強化",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ向けの特殊材料を開発・製造する合弁会社を米国で設立、長瀬産業子会社",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "Nagase AmericaとInterfacial Consultantsは、合弁会社「Infinite Material Solutions」を設立した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3DプリンタのEOSが日本法人設立、NDESと共に3Dプリンタ事業強化",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "EOSは事業強化に向け、日本法人を設立した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "創業84年の特殊銅合金一筋のメーカーとして、各種特殊銅合金素材を製造しており、2019年より金属３D造形用銅合金材料の検討を進めてきた",
+    "url": "https://www.saitama-j.or.jp/sentan/r7/advanced-materials-seminar/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年創業で、日本政策投資銀行（DBJ）や",
+    "url": "https://www.nikkei.com/article/DGKKZO79127130Q4A310C2TB0000/",
+    "pass": 3
+   },
+   {
+    "quote": "3DEOのCEO兼共同設立者であるマット・ペトロス氏は「航空宇宙製造の未来に対するビジョンを共有するIAと提携できることを大変光栄に思います",
+    "url": "https://idarts.co.jp/3dp/3deo-partner-ihi-aerospace/?srsltid=AYCX9vK6SKOvz2XyrhTycND6fE9VADfMOQJ_FTvE_j9jI6HVAfE0MzRe",
+    "pass": 3
+   },
+   {
+    "quote": "IHIは創業から約170年、総合重工業の事業を通じて世界の社会課題に取り組んできました",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/040700276/",
+    "pass": 3
+   }
+  ],
+  "参入の時期と形": [
+   {
+    "quote": "ペリー来航による欧米列強への対抗に迫られた幕府が、水戸藩に造船所設立を指示",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平野富二が海軍省から石川島修船場の跡地を借用し、石川島平野造船所を設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "兵庫県相生村（現在の相生市）村長、唐端清太郎が設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部門分離、株式会社石川島自動車製作所設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "芝浦製作所（現株式会社東芝）と共同で石川島芝浦タービン株式会社設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "芝浦製作所（現株式会社東芝）、米ユナイテッド・エンジニアリング社と共同で芝浦共同工業株式会社設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "石川島芝浦タービン株式会社の株式会社東芝への吸収合併に伴い、石川島芝浦精機株式会社を設立（のちに合併）",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日本航空機エンジン協会を設立（三菱重工業株式会社、川崎重工業株式会社と共同）",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日、英、米、独、伊5ヵ国による民間機用エンジン（V2500）の開発でインターナショナル・エアロエンジンズ社設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ディーゼルエンジン部門を分離し、株式会社ディーゼルユナイテッドを設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "住友重機械工業株式会社と共同で株式会社マリン ユナイテッドを設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製紙機械部門を分社化し、独・フォイト社と合弁で株式会社アイ・エイチ・アイ フォイト ペーパーテクノロジーを設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "船舶海洋事業を会社分割し、株式会社アイ・エイチ・アイ マリンユナイテッドを設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社新潟鐡工所の「原動機事業」および「交通システム・車両・除雪関連事業」を継承し、新潟原動機株式会社と新潟トランシス株式会社を設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "車両用ターボチャージャ「長春富奥石川島過給機有限公司」設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "機械式駐車設備「杭州西子石川島停車設備有限公司」（石川島運搬機械株式会社）設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用圧縮機「IHI寿力圧縮技術有限公司」設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社栗本鐵工所、松尾橋梁株式会社の橋梁・水門およびその他鋼構物事業を継承した新会社、株式会社IHIインフラシステムを設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "シールド掘進機事業の新会社であるジャパントンネルシステムズ株式会社を、JFEエンジニアリング株式会社と共同で設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社東芝と原子力発電所向けタービン用機器製造合弁会社「IHI・東芝パワーシステム株式会社」を設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ルクセンブルクのポールワース社と製鉄機械事業を行なう合弁会社、株式会社IHIポールワースを設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アイ・エイチ・アイ マリンユナイテッドと、JFEホールディングス株式会社傘下のユニバーサル造船株式会社を統合し、ジャパン マリンユナイテッド株式会社を設立",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "褐炭焚きボイラ市場への早期参入を目的として、Steinmuller Engineering GmbHを買収",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "総合熱処理受託サービスを行なうドイツのVTN Beteiligungsgesellschaft GmbH（現 IHI VTN GmbH）を買収し完全子会社化",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "JEIが保有するEASへの出資持分の全てについてEASの株主であるCamargo Corrêa グループ及びQueiroz Galvão グループに譲渡することについて合意（平成28年４月に譲渡）",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ひとり親家庭居住支援第2号ファンドの立ち上げについて",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "トラスコ中山の新物流センター「プラネット愛知」にて3次元高速ピッキングシステム「Skypod®」の本格運用を開始",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "SAR衛星の国内組立・試験能力習得に向けてトレーニングを開始",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱食品の草加FSDCにて「Skypod®」 と 「シャトル＆サーバ®」の本格運用を開始",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "アンモニア燃料を用いた陸用発電向けレシプロエンジンの実証試験を開始",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "IHIの衛星コンステレーション計画においてデータ取得開始",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社コベルコパワー神戸第二において、運転・保守支援システム「MEDICUS NAVI」に搭載された異常診断システムの本運用を開始",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "半期報告書提出予定日 2026年11月９日 配当支払開始予定日 2026年12月４日",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026.2.10 カーボンソリューション事業（海外） IHI Energy Solutions Inc. の清算プロセス（従業員解雇等）を開始（2026年1月12日）2025年度内に実質清算完了",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026.5.8 カーボンソリューション事業（海外） IHI SOLID BIOMASS MALAYSIA SDN.BHD. の清算プロセスを開始",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Acquired by lIshikawajima-Shibaura Okaya-",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/80de7d0533db6ceb1f617d56f0760688.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "launched the environmental equip -",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/80de7d0533db6ceb1f617d56f0760688.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Entered capital/technical agreement with",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/80de7d0533db6ceb1f617d56f0760688.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1936年 （昭和11年）6月設立",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1950年 （昭和25年）4月設立",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1962年 （昭和37年）9月設立 ＩＨＩタ ー ボ(ITJ)",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2007年 （平成19年）7月設立",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2010年 （平成22年） ４ 月設立～",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1978年 （昭和53年）4月設立",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1980年 （昭和55年）4月設立",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1980年 （昭和55年）6月設立",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1961年 （昭和36年）4月設立",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社の投資・コンサルティング施策と戦略的な追加買収策等を通じ、買収先を積極的に支援・発展さ",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/09/29/260929n-j_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（６） 設立 年月 日 2003 年４月３日",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/09/29/260929n-j_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資 本 関 係 当社が出資持分の 100％を保有しております",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/09/29/260929n-j_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（６） 設立年月 日 2008 年２月 13日",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/09/29/260929n-j_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社の投資・コンサルティング施策と戦略的な追加買収策等を通じ、買収先を積極的に支援・発展さ",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/09/29/260929n-j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（６） 設立 年月 日 2003 年４月３日",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/09/29/260929n-j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資 本 関 係 当社が出資持分の 100％を保有しております",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/09/29/260929n-j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（６） 設立年月 日 2008 年２月 13日",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/09/29/260929n-j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "APPLE TREEは、Bambu Lab製3Dプリンタ「H3C」の取り扱いと、フィラメント管理システム「AMS 3H」をセットにした「H3C Combo」の予約販売を開始した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "Perixx Computerは、人差し指で操作するトラックボールマウス「PERIMICE-822」「PERIMICE-522」を発売した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "APPLE TREEは、Flashforge製のデスクトップ型フルカラー3Dプリンタ「CJ270」の予約販売を開始した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "フクビ化学工業は、木粉を配合した独自の樹脂素材を3Dプリンタで造形した「トーカ ポータブルポット」のテスト販売を開始した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "放電精密加工研究所は、木質バイオマスや微細藻類などの未利用資源を意匠素材として活用するマテリアルブランド「ARINARU」の本格展開を開始した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   }
+  ],
+  "撤退・縮小の時期と理由": [
+   {
+    "quote": "セメントプラント事業をカワサキプラントシステムズ株式会社へ譲渡し、事業の選択と集中を進める",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "JEIが保有するEASへの出資持分の全てについてEASの株主であるCamargo Corrêa グループ及びQueiroz Galvão グループに譲渡することについて合意（平成28年４月に譲渡）",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "IHI建機株式会社の全株式について株式会社加藤製作所に譲渡",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "愛知工場についてF-LNG・海洋構造物の受注済案件の完工後、生産拠点としての機能を終了することを決定",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "舶用機械事業について株式会社相浦機械へ事業譲渡",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社IHIプラントの医薬品製造プラント事業を日揮株式会社へ譲渡",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社IHI技術教習所の全株式を株式会社PEO建機教習センタへ譲渡",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社IHI原動機の舶用大型エンジン事業を株式会社三井E＆Sホールディングスへ譲渡",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社IHI汎用ボイラの株式を株式会社タクマへ譲渡",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社IHIアグリテックの芝草・芝生管理機器事業を株式会社共栄社に譲渡",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "IHI運搬機械株式会社の運搬システム事業を株式会社タダノに譲渡",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社IHI建材工業の株式を株式会社ベルテクスコーポレーションに譲渡",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新潟トランシス株式会社の株式を株式会社ジェイ・ケイ・エフに譲渡",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "明星電気株式会社の株式を能美防災株式会社に譲渡",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "寿鉄工株式会社の株式を常石鉄工株式会社に譲渡",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ドイツ子会社Steinmüller Engineering GmbHの持分の譲渡に関するお知らせ(324 KB)",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "固定資産の譲渡および譲渡益の計上に関するお知らせ(262 KB)",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "当社連結子会社 株式会社ＩＨＩエアロスペースに対する競争参加資格停止処分について(537 KB)",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ＩＨＩ物流産業システムの株式の譲渡に関するお知らせ(338 KB)",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "固定資産の譲渡および譲渡益の計上に関するお知らせ(273 KB)",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "IHIグローバルCM「Embracing Complexity」",
+    "url": "https://www.ihi.co.jp/company/gallery/",
+    "pass": 1
+   },
+   {
+    "quote": "ドイツ子会社Steinmüller Engineering GmbHの持分の譲渡に関するお知らせ(324 KB)",
+    "url": "https://www.ihi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ドイツ子会社Steinmüller Engineering GmbHの持分の譲渡に関するお知らせ",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "IHIプラントにおける粉体関連設備の事業譲渡に関するお知らせ",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "固定資産の譲渡および譲渡益の計上に関するお知らせ",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "当社連結子会社 株式会社ＩＨＩエアロスペースに対する競争参加資格停止処分について",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ＩＨＩ物流産業システムの株式の譲渡に関するお知らせ",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "ー価格の高止まりや製造業の停滞等を背景に低調な推移となり、中国経済も不動産市場の停滞や内需の伸び悩みな",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "民間向け航空エンジンのアフターマーケット需要が堅調に伸長しており、防衛向けについても、防衛予算の増加を",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "GmbHに譲渡する（以下、 「本件取引」という",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）ことを決議し、本年10月15日に譲渡を完了しました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "東京都江東区の不動産の一部譲渡を完了しました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告に基づく費用請求が確認されたことを理由として、５か月間の競争参加資格停止処分を受けましたが、当該競",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "争参加資格停止処分は、11月１日をもって終了しました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益については、前期に複数の事業を譲渡した影響 による減収はあるものの、民間向 け航空エンジン・防",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イクルビジネス拡大、及び不動産譲渡利益の計上により、455億円増益の1,149億円となりました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "った一方で、不動産の譲渡による収入があったためです",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連の構造改革については、本年10月にカーボンソリューション事業のドイツ子会社を譲渡したことで一定の目途が",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "減価償却費、償却費及び減損損失 39,647 42,161",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年４月に当社が保有するILMの発行済み株式のうち80％を豊田自動織機に譲渡することを予定しています",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "りの20％持分につきましては、当社が５年間を目途として継続保有した後に豊田自動織機に譲渡することを予定して",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これに伴い、当中間連結会計期間において、譲渡の完了をもって発生が見込",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、同年10月15日に譲渡を完了し",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業譲渡損益 113 ▲140 ▲253",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 前期事業譲渡 ▲113",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024.10.28 汎用ボイラ事業 株式会社タクマに株式会社IHI汎用ボイラ株式100％が譲渡完了（2025年4月1日）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024.11.6 運搬システム事業 株式会社タダノにIHI運搬機械株式会社運搬システム事業が譲渡完了（2025年7月1日）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024.11.25 芝草・芝生管理機器事業 株式会社共栄社に株式会社IHIアグリテック芝草・芝生管理機器事業が譲渡完了（2025年6月1日）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025.3.27 コンクリート建材事業 株式会社ベルテクスコーポレーションに株式会社IHI建材工業株式100％が譲渡完了（2025年10月1日）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025.6.26 持分法投資 今治造船株式会社にジャパン マリンユナイテッド株式会社株式15％が譲渡完了（2026年1月5日）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025.8.6 交通システム事業 株式会社J-Willパートナーズ グループに新潟トランシス株式会社株式100％が譲渡完了（2025年12月30日）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025.8.6 気象・防災・宇宙事業 能美防災株式会社に明星電気株式会社株式100％が譲渡完了（2026年2月2日）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026.2.2 カーボンソリューション事業 常石鉄工株式会社に寿鉄工株式会社株式100％が譲渡完了（2026年2月1日）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026.3.16 カーボンソリューション事業（海外） 九州電力株式会社グループにIHI Power Services Corp.株式100%が譲渡完了（2026年6月1日）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026.5.8 物流・産業システム事業 株式会社豊田自動織機に株式会社IHI物流産業システム株式100%譲渡を合意（2027年4月1日に80％を譲渡、残り20％は５年後を目途として継続保有後に譲渡予定）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "- 熱・表面処理事業（海外） 欧州事業者にIHI VTN GmbH株式100%が譲渡完了（2026年9月17日）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026.9.29 カーボンソリューション事業（海外） Mutares SE & Co. KGaAグループにSteinmüller Engineering GmbH持分100%譲渡完了（2026年10月15日）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※’25年度構造改革費用の反動+187、’25年度運搬機械など譲渡益の反動▲149",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※1：’25.2Qの為替影響+22、’26.2Qの為替影響+156の差分 ※2：前期事業譲渡損益の反動▲113を含む",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（譲渡事業含む） 1,122 2,227 725 2,000 575 1,298 667 1,350",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   }
+  ],
+  "売上": [
+   {
+    "quote": "石川島芝浦精機株式会社および芝浦ミシン株式会社と合併（資本金154億円）",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋造船株式会社および名古屋重工業株式会社と合併（資本金240億円）",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1,071億円",
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1兆6,434億円（2026年3月期）",
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "各項目の金額は億円未満を切り捨てて表示しています",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前中間利益 中間利益 親会社の所有者に帰属する中間利益 中間包括利益合計額",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％ 円 銭",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益については、前期に複数の事業を譲渡した影響 による減収はあるものの、民間向 け航空エンジン・防",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "衛・原子力といった成長事業の拡大などにより、9.2％増の7,793億円となりました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イクルビジネス拡大、及び不動産譲渡利益の計上により、455億円増益の1,149億円となりました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、持分法投資利益の増加等により、480億円増益の1,227億円、親会社の所有者に帰属する中間利益は290億円増",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "益の849億円です",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業損益 売上収益 営業損益 売上収益 営業損益",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間連結会計期間末における総資産は２兆5,409億円となり、前連結会計年度末と比較して1,124億円増加しま",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主な増加項目は、棚卸資産で864億円、主な減少項目は、現金及び現金同等物で180億円です",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "負債は１兆7,923億円となり、前連結会計年度末と比較して453億円増加しました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "入金で662億円、主な減少項目は、営業債務及びその他の債務で505億円です",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て5,632億円となり、前連結会計年度末と比較して733億円増加しました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資本は7,486億円となり、前連結会計年度末と比較して670億円増加しました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "する中間利益849億円が含まれています",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間連結会計期間末における現金及び現金同等物の残高 は、前連結会計年度末と比較して 180億円減少し、",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1,370億円となりました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業活動によるキャッシュ・フローは 650億円の支出超過となりました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "投資活動によるキャッシュ・フローは89億円の収入超過となりました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "財務活動によるキャッシュ・フローは 384億円の収入超過となりました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスの実績などを踏まえ、受注高は1兆8,900億円、売上収益は１兆8,800億円、営業利益は2,700億円、税引前",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利益は2,600億円、親会社の所有者に帰属する当期利益は1,850億円に修正しました",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注1）各項目の金額は億円未満を切り捨てて表示しています",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 7,793億円 723億円（9.3％）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 1,149億円（14.8％） 849億円 営業CF ▲650億円当期利益",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注高 7,787億円 不動産売却除く営業利益",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "YoY +656億円 YoY +67億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "YoY +455億円（+5.1pt） YoY +290億円 YoY ▲78億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "YoY ▲1,146億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 1兆8,800億円 1,770億円（9.4％）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 2,700億円（14.4％） 1,850億円 営業CF 1,000億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注高 1兆8,900億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "+130億円 / +240億円+200億円 / +1,044億円（+4.3pt）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "+1,200億円 / ▲647億円 +400億円 / +2,365億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "±0億円 / ▲213億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "+200億円 / +339億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ ’25年度2Qの売上収益には+8億円、’26年度2Qの売上収益には+7億円のPW1100G-JMエンジン追加検査プログラムに関する為替評価替えによる影響を含む",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（単位：億円） ’25年度2Q ’26年度2Q 増減",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（単位：億円） ’26年度2Q’25年度2Q 増減",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 売上平均レート差 +135",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※1：会計基準に基づく売上収益（GAAPベース：Generally Accepted Accounting Principles）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スペアパーツ売上収益(Net)＝取扱高ー整備費用等",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資産合計 ：25,409億円（+1,124億円）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資産合計 ：24,285億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（単位：億円） ’26年度今回見通し 増減今回-前回",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（参考）為替感応度（為替相場の1円変動による、 3-4Qの営業利益への影響額）: USD 10億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "足元の業績を踏まえて受注高・売上収益・利益および年間配当を上方修正",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "国際財務報告基準（IFRS） （単位：百万円）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/notice_261104.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "In addition to our integrated information system, which synchronizes whole plant process from designs to production and sales as well as financial affairs, our lProduction Control Groupz is a",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/80de7d0533db6ceb1f617d56f0760688.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "serve as a sales and distri -",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/80de7d0533db6ceb1f617d56f0760688.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "国際財務報告基準（IFRS） （単位：百万円）",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/11/04/notice_261104_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本件取引により、2027 年３月期連結会計期間の連結財務諸表において、約140 億円をその他の費",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/09/29/260929n-j_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、個別財務諸表において約170 億円を特別損失として計上予定です",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/09/29/260929n-j_1.pdf",
+    "pass": 2
+   }
+  ],
+  "存続": [
+   {
+    "quote": "褐炭焚きボイラ市場への早期参入を目的として、Steinmuller Engineering GmbHを買収",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "総合熱処理受託サービスを行なうドイツのVTN Beteiligungsgesellschaft GmbH（現 IHI VTN GmbH）を買収し完全子会社化",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "舶用機械事業について株式会社相浦機械へ事業譲渡",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "IHIプラントにおける粉体関連設備の事業譲渡に関するお知らせ",
+    "url": "https://www.ihi.co.jp/all_news/",
+    "pass": 1
+   },
+   {
+    "quote": "事業譲渡損益 113 ▲140 ▲253",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 前期事業譲渡 ▲113",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026.2.10 カーボンソリューション事業（海外） IHI Energy Solutions Inc. の清算プロセス（従業員解雇等）を開始（2026年1月12日）2025年度内に実質清算完了",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026.5.8 カーボンソリューション事業（海外） IHI SOLID BIOMASS MALAYSIA SDN.BHD. の清算プロセスを開始",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※1：’25.2Qの為替影響+22、’26.2Qの為替影響+156の差分 ※2：前期事業譲渡損益の反動▲113を含む",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注２）事業譲渡・セグメント変更による影響のあるコンクリート建材、交通システム、運搬機械、および都市開発は過去実績から除いている",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Acquired by lIshikawajima-Shibaura Okaya-",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/80de7d0533db6ceb1f617d56f0760688.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Merged with lKonishi Farn Machinaryz(Date-city),",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/80de7d0533db6ceb1f617d56f0760688.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社の投資・コンサルティング施策と戦略的な追加買収策等を通じ、買収先を積極的に支援・発展さ",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/09/29/260929n-j_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社の投資・コンサルティング施策と戦略的な追加買収策等を通じ、買収先を積極的に支援・発展さ",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/09/29/260929n-j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Stratasys、Markforgedを4250万米ドルで買収へ",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasysは、連続炭素繊維技術に強みを持つMarkforgedを4250万米ドルの全額現金で買収することで最終合意したと発表した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "ストラタシスがD-MECを買収、日本市場での販売体制を強化",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasysは、3Dプリンタの製造販売会社ディーメックの買収契約を締結した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の買収は同社初で、D-MECは今後、ストラタシス・ジャパン傘下として事業を継続する",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "XYZプリンティングが3Dプリンタ事業から撤退、SLS部門はNexa3Dに事業売却",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "SLS以外のデスクトップ型3Dプリンタに関しても本体の販売を2023年9月15日をめどに終了し、段階的に3Dプリンタ事業から撤退する",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタメーカーが素材化学品メーカーの材料事業の買収を完了",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasysは、Covestroのアディティブマニュファクチャリング（AM）材料事業の買収を完了した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "買収には研究開発施設と活動、グローバルな開発および販売チーム、AM材料とIPのポートフォリオが含まれる",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "スリーディー・システムズ・ジャパンは、産業用大型3DプリンタメーカーのTitan Roboticsを買収し、3D SystemsのポリマーAMソリューションに、Titan Robotics独自の押出成形技術を追加したことを発表した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "Markforged、Digital Metalの買収で金属3Dプリンタのポートフォリオを拡充",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "米Markforgedの日本法人であるマークフォージド・ジャパンは、東京都内で記者説明会を開催し、2022年8月に買収したDigital Metalとのシナジーによる金属3Dプリンティング事業の強化およびその方向性について説明した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "Markforged、Digital Metalを買収し金属AMパーツの高速生産能力を獲得",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "Markforgedは、Digital Metalを買収する",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "主要なバインダージェッティングソリューションの開発元であるDigital Metalを買収することで、金属AMパーツを高速に生産する能力を得ることができる",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "MESの先進企業買収で、AM向けソフトウェアプラットフォーム構築を加速",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialiseは、積層造形ワークフローおよび製造実行システムに実績を持つ、Link3Dの買収オプションの行使に合意した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "買収により、大量生産を目的とした製造業のAM導入を加速",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialiseは、積層造形ワークフローや製造実行システムを提供するLink3Dの買収に向けたオプションを取得した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "DMLSプリンタ対応のソフトウェア開発企業を買収",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "シーメンスは、直接金属レーザー焼結プリンタ対応のソフトウェアを開発する、Atlas 3Dを買収する契約を締結した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "買収により、アディティブマニュファクチャリングのポートフォリオを拡張していく",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ事業を拡大、BNBがAdvanc3D MaterialsとSetup Performanceを買収",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "BASF New Businessは、3Dプリント材料メーカーのドイツAdvanc3D MaterialsとフランスSetup Performanceの2社を買収した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGKKZO79127130Q4A310C2TB0000/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXNZO55584170Z20C13A5TJ1000/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ＩＨＩアグリテックの芝草・芝生管理機器に関する事業を、株式会社共栄社へ事業譲渡した",
+    "url": "https://edinetdb.jp/company/E02128",
+    "pass": 3
+   },
+   {
+    "quote": "ＩＨＩ運搬機械株式会社の運搬機械事業を、株式会社タダノへ事業譲渡した",
+    "url": "https://edinetdb.jp/company/E02128",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ＩＨＩ原動機の大型エンジン及びその付随製品等に関する事業を、株式会社三井E&amp;Sへ事業譲渡した",
+    "url": "https://edinetdb.jp/company/E02128",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXZQOUB01AAU0R00C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "（平成27年）12月 - 総合熱処理受託サービスを行うドイツのVTN Beteiligungsgesellschaft GmbH（現・IHI VTN GmbH）を買収、完全子会社化",
+    "url": "https://ja.wikipedia.org/wiki/IHI",
+    "pass": 3
+   },
+   {
+    "quote": "も今治造船に15%を譲渡したことで、JMUは今治造船の子会社となり、持分法適用会社ではあるが、事実上の造船及び造船関連事業から完全に撤退",
+    "url": "https://ja.wikipedia.org/wiki/IHI",
+    "pass": 3
+   },
+   {
+    "quote": "2013年設立、2016年撤退により解散",
+    "url": "https://ja.wikipedia.org/wiki/IHI",
+    "pass": 3
+   },
+   {
+    "quote": "規模を追って無駄な企業買収や不採算受注を繰り返せばROICは低下し、不必要な増資を行えばEPSは希薄化します",
+    "url": "https://note.com/open_azalea2045/n/na1c9a81ec44c",
+    "pass": 3
+   },
+   {
+    "quote": "今後数回の四半期決算において、牽引役である「航空・宇宙・防衛事業」の営業マージンが構造的な要因で10%を下回る状態が続く場合、または経営陣がROIC重視の資本配分方針を放棄し、本業とシナジーのない無駄な企業買収に走った場合は、投資の前提シナリオが崩れたと判断し、売却を検討します",
+    "url": "https://note.com/open_azalea2045/n/na1c9a81ec44c",
+    "pass": 3
+   },
+   {
+    "quote": "昨年、私たちは事業構造改革や事業譲渡などを実行に移してきた",
+    "url": "https://note.com/sankituushin/n/n08d31f74aafa",
+    "pass": 3
+   }
+  ],
+  "素材": [
+   {
+    "quote": "IHIは、カーボンニュートラル社会の実現とエネルギー安全保障への貢献を目指し、クリーンエネルギー分野における事業基盤の強化や供給能力の拡充を推進しています",
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202227_13799.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要製品：カーボンソリューション、LNG受入基地・貯蔵タンク、プロセスプラント、プラント構成機器、原子力、ガスタービン・ガスエンジン・ディーゼルエンジン・推進装置",
+    "url": "https://www.ihi.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "成長事業へ経営資源を集中させるため、本年９月 28日には、当社カーボンソリューション 事業のドイツ子会社",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の海外におけるカーボンソリューション事業の構造改革の一環であり、当社は、成長領域への経営資源のシフ",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "損益面では、営業利益は、民間向け航空エンジンの需要拡大、国内カーボンソリューション・原動機のライフサ",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "活用に至るまでのバリューチェーン 構築を推進することで、カーボンフリー 社会の実現に貢献していきます",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連の構造改革については、本年10月にカーボンソリューション事業のドイツ子会社を譲渡したことで一定の目途が",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資源・エネルギー・環境 原動機（陸用原動機プラント、舶用原動機）、カーボンソリューション、原子力（原子力機器）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、海外におけるカーボンソリューション事業の 構造改革の一環として、2026年９月28日に 連結子会社の",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "民間エンジンの需要拡大に加えて、カーボンソリューション・原動機のLCB拡大により大幅増益",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ カーボンソリューション、原動機等、",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026.2.2 カーボンソリューション事業 常石鉄工株式会社に寿鉄工株式会社株式100％が譲渡完了（2026年2月1日）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026.2.10 カーボンソリューション事業（海外） IHI Energy Solutions Inc. の清算プロセス（従業員解雇等）を開始（2026年1月12日）2025年度内に実質清算完了",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026.3.16 カーボンソリューション事業（海外） 九州電力株式会社グループにIHI Power Services Corp.株式100%が譲渡完了（2026年6月1日）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026.5.8 カーボンソリューション事業（海外） IHI SOLID BIOMASS MALAYSIA SDN.BHD. の清算プロセスを開始",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026.9.29 カーボンソリューション事業（海外） Mutares SE & Co. KGaAグループにSteinmüller Engineering GmbH持分100%譲渡完了（2026年10月15日）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• カーボンソリューション、アジア拠点EPCなどで前",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を計上するも、原動機・カーボンソリューション・原",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "チタン合金やニッケル合金をはじめとする難削材から生みだされる翼部品",
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本件取引は、当社の海外におけるカーボンソリューション事業の構造改革の一環です",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/09/29/260929n-j_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本件取引は、当社の海外におけるカーボンソリューション事業の構造改革の一環です",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/09/29/260929n-j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "損益面では、営業利益は、民間向け航空エンジンや原子力事業の需要拡大、国内カーボンソリューション・原動",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "活用に至るまでのバリューチェーン 構築を推進することで、カーボンフリー 社会の実現に貢献していきます",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資源・エネルギー・環境 原動機（陸用原動機プラント、舶用原動機）、カーボンソリューション、原子力（原子力機器）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "木粉配合の樹脂を3Dプリンタで植木鉢に、125通りの組み合わせでテスト販売",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "フクビ化学工業は、木粉を配合した独自の樹脂素材を3Dプリンタで造形した「トーカ ポータブルポット」のテスト販売を開始した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "水溶性で引火点がなく低臭気な上に、天然由来のUV吸収剤で紫外線による未硬化樹脂の硬化を抑え、析出物の発生を低減する",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "老朽化したポンプの主要部品を金属3Dプリンタで一体造形、納期を3分の1に短縮",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所は、老朽化したポンプの整備に、金属AM技術を用いた「一体型プロペラ（羽根車）」の適用事例を発表した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋工芸は、自動車のヘッドランプ由来の樹脂廃材を再資源化して製作した3Dプリント部品が、鈴鹿8時間耐久ロードレースに参戦するHonda Tochigi Racingの車両に採用されたと発表した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "東レは、同社を代表機関とするプロジェクト「宇宙空間向け高機能樹脂材料、軌道上での3D積層造形技術の創出」が、JAXAの宇宙戦略基金事業に採択されたと発表した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "慶應義塾、アスペクト、エス.ラボと連携し、宇宙環境に適応する高機能樹脂材料と3D積層造形技術の開発に取り組む",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "狐のお面もカブトムシも金属化!? 金型なしで何でも作れる、新しい鋳造の形",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "キャステムは「第38回 機械要素技術展」に出展し、金型不要で1個から金属化する「デジタルキャスト」を紹介",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "最高造形速度700mm/sでPEEK造形が可能 国産3Dプリンタ「G-ZERO MP1」の強みとは",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "Bruleとグーテンベルクは東京都内で会見を開き、グーテンベルクが開発したPEEK（ポリエーテルエーテルケトン）造形に特化した国産デスクトップ型3Dプリンタ「G-ZERO MP1」の実機を披露し、製品特長について説明した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasysは、連続炭素繊維技術に強みを持つMarkforgedを4250万米ドルの全額現金で買収することで最終合意したと発表した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "DigitalArchiは、旭ビルウォールのGRC（ガラス繊維補強コンクリート）による3次元形状オブジェ製造に、3Dプリント樹脂製型枠を提供した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "カブクは、オンデマンド製造プラットフォーム「Kabuku Connect」の即時見積サービスにおいて、従来と比べて最大77.7％価格を抑えることが可能な「エコノミー版」の3Dプリント素材のラインアップに「光造形樹脂」を追加した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙産業でも使用する金属3Dプリント技術によって、従来の鋳造や鍛造では困難だった複雑な内部構造の形成に成功した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "直径2.5mの巨大アートを3Dプリント、カーボンリサイクル素材で実現",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "ExtraBoldは、カーボンリサイクル素材「CR LIMEX」と大型3Dプリンタで、アーティストの井村一登氏による直径2547.19mmのアート作品「bulbocodium」の制作に技術協力した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "298万円でスーパーエンプラ対応 産業向け最新3Dプリンタを日本初公開",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタと未利用木材を組み合わせた建築モジュール",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "XENCEは、WAAM方式金属3Dプリンタと未利用木材を組み合わせた建築モジュール「WOOD X NODE」を設計、施工した",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "金属ジョイントと地域産の木材を組み合わせ、資源循環と建築多様性の拡大を狙う",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "高精細なPEEK造形に対応する、国産超高速産業用3Dプリンタを発売",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "最高ノズル温度は450℃、最高造形速度は毎秒700mm、積層ピッチは0.05〜0.2mmで、従来困難だったPEEK部品の高精細な造形に対応する",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "エス.ラボは、自然由来の微細藻類と植物由来のバイオエンプラを活用した「藻類スツール」の販売を2025年10月14日より開始する",
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "pass": 3
+   },
+   {
+    "quote": "【終了】令和7年度「金属３Ｄプリンターを活用した先端材料セミナー」～軽量化・高機能化に向けた合金・マルチマテリアル～｜公益財団法人埼玉県産業振興公社（公式ホームページ）",
+    "url": "https://www.saitama-j.or.jp/sentan/r7/advanced-materials-seminar/",
+    "pass": 3
+   },
+   {
+    "quote": "【終了】令和7年度「金属３Ｄプリンターを活用した先端材料セミナー」～軽量化・高機能化に向けた合金・マルチマテリアル～",
+    "url": "https://www.saitama-j.or.jp/sentan/r7/advanced-materials-seminar/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは、複雑形状だけでなく、組織制御に基づく高機能化が可能です",
+    "url": "https://www.saitama-j.or.jp/sentan/r7/advanced-materials-seminar/",
+    "pass": 3
+   },
+   {
+    "quote": "○金属３Dプリンターの活用や開発に興味のある事業者の方",
+    "url": "https://www.saitama-j.or.jp/sentan/r7/advanced-materials-seminar/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 金属材料研究所 准教授 山中謙太氏",
+    "url": "https://www.saitama-j.or.jp/sentan/r7/advanced-materials-seminar/",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンターを用いた高機能材料・部材の開発",
+    "url": "https://www.saitama-j.or.jp/sentan/r7/advanced-materials-seminar/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは複雑形状の造形だけでなく、組織制御に基づく高機能化が可能である",
+    "url": "https://www.saitama-j.or.jp/sentan/r7/advanced-materials-seminar/",
+    "pass": 3
+   },
+   {
+    "quote": "本講演では、自動車への応用が期待されるマルチマテリアル部材の造形をはじめ、金属3Dプリンターに関する研究開発の最新動向を紹介する",
+    "url": "https://www.saitama-j.or.jp/sentan/r7/advanced-materials-seminar/",
+    "pass": 3
+   },
+   {
+    "quote": "金属３D造形用銅合金ワイヤー開発の状況",
+    "url": "https://www.saitama-j.or.jp/sentan/r7/advanced-materials-seminar/",
+    "pass": 3
+   },
+   {
+    "quote": "創業84年の特殊銅合金一筋のメーカーとして、各種特殊銅合金素材を製造しており、2019年より金属３D造形用銅合金材料の検討を進めてきた",
+    "url": "https://www.saitama-j.or.jp/sentan/r7/advanced-materials-seminar/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、金属３D造形用向け銅合金ワイヤー材の開発状況や今後の可能性について説明する",
+    "url": "https://www.saitama-j.or.jp/sentan/r7/advanced-materials-seminar/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "売上収益 営業利益 税引前中間利益 中間利益 親会社の所有者に帰属する中間利益 中間包括利益合計額",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "損益面では、営業利益は、民間向け航空エンジンの需要拡大、国内カーボンソリューション・原動機のライフサ",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度から2028年度までの３か年は、2029年度以降の営業利益・営業キャッシュ・フ",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスの実績などを踏まえ、受注高は1兆8,900億円、売上収益は１兆8,800億円、営業利益は2,700億円、税引前",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 69,449 114,979",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益又は損失（△）は、要約中間連結損益計算書の営業利益又は営業損失（△）と調整を行な",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 1,149億円（14.8％） 849億円 営業CF ▲650億円当期利益",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注高 7,787億円 不動産売却除く営業利益",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 2,700億円（14.4％） 1,850億円 営業CF 1,000億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "不動産売却除く営業利益（率） (9.2%) 656 (9.3%) 723 (＋0.1pt) +67",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（参考）一時要因除く営業利益：実力ベースの収益力が向上",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "不動産売却益除く営業利益（率） (9.2%) 656 (9.3%) 723 (＋0.1pt) +67",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一時要因除く営業利益（率） (7.3%) 521 (9.1%) 707 (＋1.8pt) +186",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益（実力値）の増加 +186",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "不動産売却除く営業利益（率） (8.5%) 1,570 (9.4%) 1,770 +200 (8.7%) 1,431 (8.5%) +339",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（参考）為替感応度（為替相場の1円変動による、 3-4Qの営業利益への影響額）: USD 10億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "計画的に資産売却も実行し、過去最高の営業利益2,700億円の達成を目指す",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益（実力値）の増益 +363",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別営業利益増減要因（2025年度2Q vs 2026年度2Q）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別営業利益増減要因（2025年度実績 vs 今回見通し）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別営業利益増減要因（前回見通し(8月公表) vs 今回見通し）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益を200億円上方修正、営業利益を",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "航空・宇宙・防衛セグメント営業利益四半期推移（為替影響・一時要因を除外）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "’26年度2Q EBITDA",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別売上収益・営業利益・EBITDA",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別EBITDA=各セグメント営業利益+各セグメント減価償却費",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "’26年度2Q 営業利益",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 不動産売却除くEBITDA=EBITDA-不動産売却益(426億円）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ROIC：（営業利益+受取利息・配当金）税引後／（親会社の所有者に帰属する持分+有利子負債）",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 279億円 814億円 819億円 ▲ 701億円 1,435億円 1,655億円 1,149億円 2,700億円 2,500億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "EBITDA ※2 923億円 911億円 1,511億円 1,750億円 2,156億円 2,418億円 1,563億円 3,500億円 3,300億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）純資産や営業利益等の金額については、譲渡先の意向により公表を控えさせていただきますが、",
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/09/29/260929n-j_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）純資産や営業利益等の金額については、譲渡先の意向により公表を控えさせていただきますが、",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/09/29/260929n-j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前四半期利益 四半期利益 親会社の所有者に帰属する四半期利益 四半期包括利益合計額",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "損益面では、営業利益は、民間向け航空エンジンや原子力事業の需要拡大、国内カーボンソリューション・原動",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "機事業等のライフサイクルビジネス 拡大に加えて、車両過給機事業の採算改善、および不動産譲渡に伴う400億円",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度から2028年度までの３か年は、2029年度以降の営業利益・営業キャッシュ・フ",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "億円、売上収益を18,400億円、営業利益を2,500億円、税引前利益は2,400億円、親会社の所有者に帰属する当期利",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 20,889 73,218",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益又は損失（△）は、要約四半期連結損益計算書の営業利益又は営業損失（△）と調整を行",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益は1,655億円、営業利益率10.1%",
+    "url": "https://edinetdb.jp/company/E02128",
+    "pass": 3
+   },
+   {
+    "quote": "売上高から各コストを差し引いて当期純利益に至る流れ（最新年度・百万円）",
+    "url": "https://edinetdb.jp/company/E02128",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 10.1%",
+    "url": "https://edinetdb.jp/company/E02128",
+    "pass": 3
+   },
+   {
+    "quote": "は8日、2027年3月期の連結純利益（国際会計基準）が前期比2%増の1650億円になる見通しだと発表した",
+    "url": "https://www.nikkei.com/article/DGXZQOUB01AAU0R00C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高にあたる売上収益は11%増の1兆8300億円、営業利益は45%増の2400億円を見込む",
+    "url": "https://www.nikkei.com/article/DGXZQOUB01AAU0R00C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "主力の航空・宇宙・防衛事業の営業利益は前期比16%増の1300億円を見込む",
+    "url": "https://www.nikkei.com/article/DGXZQOUB01AAU0R00C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "資源・エネルギー・環境も海外の低収益事業の構造改革が一段落し、採算が改善する",
+    "url": "https://www.nikkei.com/article/DGXZQOUB01AAU0R00C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "同事業の営業利益は330億円と、前期の5.6倍になる",
+    "url": "https://www.nikkei.com/article/DGXZQOUB01AAU0R00C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "27年3月期〜29年3月期までの3年間の営業利益率は10〜13%（前期は10%）、3年累計の営業キャッシュフロー（CF）は3500億円（同1213億円）を見込む",
+    "url": "https://www.nikkei.com/article/DGXZQOUB01AAU0R00C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "33年3月期〜35年3月期には累計営業キャッシュフロー1兆円以上、営業利益率15%以上を目指す",
+    "url": "https://www.nikkei.com/article/DGXZQOUB01AAU0R00C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "成長事業に据える民間エンジン・防衛・原子力の営業利益率は20%超を見込む",
+    "url": "https://www.nikkei.com/article/DGXZQOUB01AAU0R00C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "同日発表した26年3月期の連結決算は売上収益が前の期比1%増の1兆6434億円、純利益が43%増の1609億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB01AAU0R00C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "AOKIHDの4〜9月期、純利益75%減 天候不順で夏物販売が低迷",
+    "url": "https://www.nikkei.com/article/DGXZQOUB01AAU0R00C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "が発生しやすく、過去にもセグメントの採算悪化で業績が大きく振れた例があります",
+    "url": "https://note.com/kira_star11/n/n1d466780a23d",
+    "pass": 3
+   },
+   {
+    "quote": "ボーイングの生産遅延や工事採算の振れといった短期ノイズはありますが、航空需要の回復・防衛費の構造的増額・脱炭素関連の重工インフラ更新という3つの長期トレンドは、いずれもIHIの味方です",
+    "url": "https://note.com/kira_star11/n/n1d466780a23d",
+    "pass": 3
+   },
+   {
+    "quote": "3つ目は、営業利益率、ROIC、キャッシュフロー、財務体質が改善していることです",
+    "url": "https://note.com/ringochan_mirai/n/n88fe954a22dc",
+    "pass": 3
+   },
+   {
+    "quote": "IHIの2025年度実績は、売上収益1兆6,434億円、営業利益1,655億円、営業利益率10.1％、受注高1兆9,547億円です",
+    "url": "https://note.com/ringochan_mirai/n/n88fe954a22dc",
+    "pass": 3
+   },
+   {
+    "quote": "さらに2026年度見通しでは、売上収益1兆8,300億円、営業利益2,400億円、営業利益率13.1％を計画しています",
+    "url": "https://note.com/ringochan_mirai/n/n88fe954a22dc",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "最新技術と匠の技を融合する - IHI — 最新技術と匠の技を融合する - IHI 株式会社IHI PDF https://www.ihi.co.jp > afieldfile > 2023/06/16",
+    "url": "https://www.ihi.co.jp/technology/techinfo/contents_no/__icsFiles/afieldfile/2023/06/16/5dc746c90070b6fb78651b86399ac91d.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IHI 、車用過給器に100億円投資−試作期間半減など ... — IHI 、車用過給器に100億円投資−試作期間半減など ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/403635",
+    "pass": 3
+   },
+   {
+    "quote": "IHI 系、米 3Dプリンター に出資 ロケットに活用 - 日本経済新聞 — IHI 系、米 3Dプリンター に出資 ロケットに活用 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGKKZO79127130Q4A310C2TB0000/",
+    "pass": 3
+   },
+   {
+    "quote": "IHI 、金属 3Dプリント 企業に出資 | 3DP id.arts — IHI 、金属 3Dプリント 企業に出資 | 3DP id.arts アイディーアーツ株式会社 https://idarts.co.jp > Home > 最新情報",
+    "url": "https://idarts.co.jp/3dp/3deo-partner-ihi-aerospace/?srsltid=AYCX9vK6SKOvz2XyrhTycND6fE9VADfMOQJ_FTvE_j9jI6HVAfE0MzRe",
+    "pass": 3
+   },
+   {
+    "quote": "IHI が食品 3Dプリンタ の開発に挑戦、将来は宇宙ステーション ... — IHI が食品 3Dプリンタ の開発に挑戦、将来は宇宙ステーション ... MONOist https://monoist.itmedia.co.jp > articles > news086",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2309/21/news086.html",
+    "pass": 3
+   },
+   {
+    "quote": "IHI ・産総研が次世代 3Dプリンター 鋳物部品も量産 — IHI ・産総研が次世代 3Dプリンター 鋳物部品も量産 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXNZO55584170Z20C13A5TJ1000/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 状況 | 経営情報 | 株主・投資家情報 | 株式会社 IHI — 事業 状況 | 経営情報 | 株主・投資家情報 | 株式会社 IHI 株式会社IHI https://www.ihi.co.jp > 株主・投資家情報 > 経営情報",
+    "url": "https://www.ihi.co.jp/ir/management/business_summary/",
+    "pass": 3
+   },
+   {
+    "quote": "財務・業績情報 | 株主・投資家情報 | 株式会社 IHI — 財務・業績情報 | 株主・投資家情報 | 株式会社 IHI 株式会社IHI https://www.ihi.co.jp > 株主・投資家情報",
+    "url": "https://www.ihi.co.jp/ir/financial_performance/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 IHI （70130）の財務分析 - EDINET DB — 株式会社 IHI （70130）の財務分析 - EDINET DB EDINET DB https://edinetdb.jp > 機械",
+    "url": "https://edinetdb.jp/company/E02128",
+    "pass": 3
+   },
+   {
+    "quote": "事業 概況 - IHI — 事業 概況 - IHI 株式会社IHI PDF https://www.ihi.co.jp > library > annual > pdf",
+    "url": "https://www.ihi.co.jp/ir/library/annual/pdf/2025/ch1-17.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算: IHI が3年連続最高益 27年3月期、航空・防衛好調 — 決算: IHI が3年連続最高益 27年3月期、航空・防衛好調 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUB01AAU0R00C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 IHI #01｜「何を成し遂げたいか」を常に問う、未来 ... — 株式会社 IHI #01｜「何を成し遂げたいか」を常に問う、未来 ... Sony Acceleration Platform https://sony-acceleration-platform.com > article1629",
+    "url": "https://sony-acceleration-platform.com/article1629.html",
+    "pass": 3
+   },
+   {
+    "quote": "技術記事一覧 | 技術情報 | 株式会社 IHI — 技術記事一覧 | 技術情報 | 株式会社 IHI 株式会社IHI https://www.ihi.co.jp > 技術情報",
+    "url": "https://www.ihi.co.jp/technology/techinfo/",
+    "pass": 3
+   },
+   {
+    "quote": "IHI ・瀬尾明洋常務「人材基盤を強化し、社会 課題 に挑む」 — IHI ・瀬尾明洋常務「人材基盤を強化し、社会 課題 に挑む」 日経BP https://project.nikkeibp.co.jp > ESG > atcl > column",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/040700276/",
+    "pass": 3
+   },
+   {
+    "quote": "「魔改造の夜」から考える - CORE.tech — 「魔改造の夜」から考える - CORE.tech ihi-core.tech PDF https://ihi-core.tech > download > ihi_makaizo",
+    "url": "https://ihi-core.tech/makaizo/download/ihi_makaizo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・ 決算説明 資料 | IR資料室 | 株主・投資家情報 - IHI — 決算短信・ 決算説明 資料 | IR資料室 | 株主・投資家情報 - IHI 株式会社IHI https://www.ihi.co.jp > 株主・投資家情報 > IR資料室",
+    "url": "https://www.ihi.co.jp/ir/library/statements/",
+    "pass": 3
+   },
+   {
+    "quote": "「中長期の方向性」 「経営概況 - IHI — 「中長期の方向性」 「経営概況 - IHI 株式会社IHI PDF https://www.ihi.co.jp > FY2026-management",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/05/08/FY2026-management.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度 (2027年3月期） 第1四半期 決算説明 資料（IFRS） — 2026年度 (2027年3月期） 第1四半期 決算説明 資料（IFRS） 株式会社IHI PDF https://www.ihi.co.jp > afieldfile > 2026/08/05",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "説明 会資料 | 株主・投資家情報 | 株式会社 IHI — 説明 会資料 | 株主・投資家情報 | 株式会社 IHI 株式会社IHI https://www.ihi.co.jp > 株主・投資家情報",
+    "url": "https://www.ihi.co.jp/ir/event/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 (2026年3月期） 決算説明 資料（IFRS） - IHI — 2025年度 (2026年3月期） 決算説明 資料（IFRS） - IHI 株式会社IHI PDF https://www.ihi.co.jp > library > FY2025_KS_512_1",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/05/27/FY2025_KS_512_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 | 株式会社 IHI — 会社概要 | 企業情報 | 株式会社 IHI 株式会社IHI https://www.ihi.co.jp > 企業情報",
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "IHI - Wikipedia — IHI - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > IHI",
+    "url": "https://ja.wikipedia.org/wiki/IHI",
+    "pass": 3
+   },
+   {
+    "quote": "IHI の大 株主 - The社史 — IHI の大 株主 - The社史 The社史 https://the-shashi.com > IHIの歴史",
+    "url": "https://the-shashi.com/tse/7013/shareholders/",
+    "pass": 3
+   },
+   {
+    "quote": "沿革・あゆみ | 企業 情報 | 株式 会社IHI — 沿革・あゆみ | 企業 情報 | 株式 会社IHI 株式会社IHI https://www.ihi.co.jp > 企業情報",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "IHI 【7013】の大 株主 - バフェット・コード — IHI 【7013】の大 株主 - バフェット・コード バフェット・コード https://www.buffett-code.com > mainshareholder",
+    "url": "https://www.buffett-code.com/company/7013/mainshareholder",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【5分でわかる企業分析】 IHI ｜なぜ「造船から始まった会社 ... 【5分でわかる企業分析】 IHI ｜なぜ「造船から始まった会社 ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/kira_star11/n/n1d466780a23d",
+    "pass": 3
+   },
+   {
+    "quote": "IHI はなぜ再評価されるのか？防衛・航空エンジン・宇宙で読む IHI はなぜ再評価されるのか？防衛・航空エンジン・宇宙で読む note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/ringochan_mirai/n/n88fe954a22dc",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】 IHI は『買い』か？ — 航空エンジン事業 ... 【バフェットの視点】 IHI は『買い』か？ — 航空エンジン事業 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/open_azalea2045/n/na1c9a81ec44c",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチン接種証明書に必要な IHI (Individual Healthcare ... - note ワクチン接種証明書に必要な IHI (Individual Healthcare ... - note note https://note.com > コンピュータ・IT > コンピュータ・IT全般",
+    "url": "https://note.com/kangoshigotoo/n/ncd66b58c3007",
+    "pass": 3
+   },
+   {
+    "quote": "IHI 、 社長 が新入社員と直接対話、挑戦と継続の重要性を共有 IHI 、 社長 が新入社員と直接対話、挑戦と継続の重要性を共有 note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/sankituushin/n/n5d3c3df70071",
+    "pass": 3
+   },
+   {
+    "quote": "年頭所感(2026年) 株式会社 IHI 代表取締役 社長 井出 博 - note 年頭所感(2026年) 株式会社 IHI 代表取締役 社長 井出 博 - note note https://note.com > ビジネス > 経営・マネジメント",
+    "url": "https://note.com/sankituushin/n/n8317d34965d4",
+    "pass": 3
+   },
+   {
+    "quote": "IHI の井手 社長 、2025年度新規入社者へ訓示 - note IHI の井手 社長 、2025年度新規入社者へ訓示 - note note https://note.com > キャリア > 特定層向けキャリア",
+    "url": "https://note.com/sankituushin/n/n41577ed8d127",
+    "pass": 3
+   },
+   {
+    "quote": "年頭所感（2025年） 株式会社 IHI 代表取締役 社長 井手 博 - note 年頭所感（2025年） 株式会社 IHI 代表取締役 社長 井手 博 - note note https://note.com > キャリア > キャリア戦略",
+    "url": "https://note.com/sankituushin/n/n08d31f74aafa",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【5分でわかる企業分析】IHI｜なぜ「造船から始まった会社」が空と宇宙で稼げているのか？｜きらきら星⭐エンジニア投資家",
+    "url": "https://note.com/kira_star11/n/n1d466780a23d",
+    "pass": 3
+   },
+   {
+    "quote": "【5分でわかる企業分析】IHI｜なぜ「造船から始まった会社」が空と宇宙で稼げているのか？",
+    "url": "https://note.com/kira_star11/n/n1d466780a23d",
+    "pass": 3
+   },
+   {
+    "quote": "「IHIって、何の会社か説明できますか？」と聞かれて、すっと答えられる方は意外と少ないのではないでしょうか。",
+    "url": "https://note.com/kira_star11/n/n1d466780a23d",
+    "pass": 3
+   },
+   {
+    "quote": "旧社名は石川島播磨重工業。ルーツは1853年、幕末の造船所にまで遡る日本最古級の重工メーカーです。",
+    "url": "https://note.com/kira_star11/n/n1d466780a23d",
+    "pass": 3
+   },
+   {
+    "quote": "になり、ロケットのエンジン部品も手がけています。「鉄を切る会社」から「空と宇宙を飛ばす会社」へ。その転換の中身を5分で覗いてみます。",
+    "url": "https://note.com/kira_star11/n/n1d466780a23d",
+    "pass": 3
+   },
+   {
+    "quote": "IHIは、ジェットエンジン・宇宙ロケット・発電プラント・橋梁・物流設備などを手がける総合重工業メーカーです。事業は大きく4本柱に分かれます。",
+    "url": "https://note.com/kira_star11/n/n1d466780a23d",
+    "pass": 3
+   },
+   {
+    "quote": "で、売上の3割超を占め利益率も最も高い領域です。ボーイング737MAXやエアバスA320neoに搭載される民間航空機エンジン（LEAP）の主要部品をGEやCFMインターナショナルと共同開発・製造し、H3ロケットではメインエンジン「LE-9」の液体酸素・液体水素ターボポンプを担当し（エンジンシステムは三菱重工が担当）、航空自衛隊の戦闘機エンジン整備も担っています。",
+    "url": "https://note.com/kira_star11/n/n1d466780a23d",
+    "pass": 3
+   },
+   {
+    "quote": "（LNG大型貯蔵タンク、発電用ボイラー、ガスタービン）、",
+    "url": "https://note.com/kira_star11/n/n1d466780a23d",
+    "pass": 3
+   },
+   {
+    "quote": "IHIはなぜ再評価されるのか？防衛・航空エンジン・宇宙で読む、IHIの成長戦略と企業価値｜未来を読む資料室｜業界分析とキャリア戦略",
+    "url": "https://note.com/ringochan_mirai/n/n88fe954a22dc",
+    "pass": 3
+   },
+   {
+    "quote": "IHIはなぜ再評価されるのか？防衛・航空エンジン・宇宙で読む、IHIの成長戦略と企業価値",
+    "url": "https://note.com/ringochan_mirai/n/n88fe954a22dc",
+    "pass": 3
+   },
+   {
+    "quote": "今回の動画では、IHIがなぜ市場で再評価されているのかを、21枚のスライドで整理しました。",
+    "url": "https://note.com/ringochan_mirai/n/n88fe954a22dc",
+    "pass": 3
+   },
+   {
+    "quote": "動画では、IHIを「防衛関連株」としてだけ見るのではなく、航空エンジン、防衛、宇宙、原子力、キャッシュフロー、資本効率まで含めて、企業の全体像を解説しています。",
+    "url": "https://note.com/ringochan_mirai/n/n88fe954a22dc",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、動画はどうしても全体像を短時間でつかむ構成になります。",
+    "url": "https://note.com/ringochan_mirai/n/n88fe954a22dc",
+    "pass": 3
+   },
+   {
+    "quote": "そこでこの記事では、動画で扱った内容をさらに深掘りし、IHIを投資家向けの企業分析レポートとして整理します。",
+    "url": "https://note.com/ringochan_mirai/n/n88fe954a22dc",
+    "pass": 3
+   },
+   {
+    "quote": "この記事で見たいのは、単に「IHIが伸びそうか」ではありません。",
+    "url": "https://note.com/ringochan_mirai/n/n88fe954a22dc",
+    "pass": 3
+   },
+   {
+    "quote": "1つ目は、IHIの再評価は一時的な防衛テーマなのか。",
+    "url": "https://note.com/ringochan_mirai/n/n88fe954a22dc",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】IHIは『買い』か？ — 航空エンジン事業の強固な堀と隠れ資産がもたらす極限の安全余裕率｜AIバフェット研究所 所長",
+    "url": "https://note.com/open_azalea2045/n/na1c9a81ec44c",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】IHIは『買い』か？ — 航空エンジン事業の強固な堀と隠れ資産がもたらす極限の安全余裕率",
+    "url": "https://note.com/open_azalea2045/n/na1c9a81ec44c",
+    "pass": 3
+   },
+   {
+    "quote": "株式市場というものは、時として「優れたビジネスモデルを持つ優良企業」が「一時的な逆風」にさらされた際、その企業が持つ本質的価値（Intrinsic Value）を大きく見誤り、株価を非合理な水準まで叩き売ることがあります。私たちが投資で持続的に大きな成果を上げるために必要なのは、市場が悲観論に覆い尽くされ、株価に分厚い「安全余裕率（Margin of Safety）」が生まれた瞬間に、その企業が有する永続的な競争優位性（経済的な堀）を信じて静かに資金を投じることです。",
+    "url": "https://note.com/open_azalea2045/n/na1c9a81ec44c",
+    "pass": 3
+   },
+   {
+    "quote": "本日は、日本を代表する総合重工業メーカーであるIHI（証券コード：7013）を詳細な分析の俎上に載せます。同社は近年、主力事業である民間航空機エンジンの品質問題というかつてない試練に直面し、巨額の赤字を計上しました1。しかし、その裏側にある本業の稼ぐ力は損なわれておらず、直近の業績では目覚ましいV字回復を見せています3。さらに、同社の貸借対照表（バランスシート）の奥深くには、市場からほとんど評価されていない「莫大な不動産の含み益」という隠れ資産が眠っています。",
+    "url": "https://note.com/open_azalea2045/n/na1c9a81ec44c",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、事業のビジネスモデルの堅牢性、経済的な堀の深さ、財務健全性と資産の実態価値、そして過去10年間のPER分析とDCF（割引キャッシュフロー）法を用いた厳密なバリュエーションまで、あらゆる角度から同社を徹底的に解剖し、最終的な投資判断を下します。",
+    "url": "https://note.com/open_azalea2045/n/na1c9a81ec44c",
+    "pass": 3
+   },
+   {
+    "quote": "現在の日本の重工セクターは、歴史的な転換点に立たされています。地政学的リスクの高まりと各国の安全保障環境の激変に伴う防衛予算の抜本的な増額、新型コロナウイルス禍からの完全な正常化による世界的な航空機需要の爆発的な回復、そして脱炭素社会の実現に向けた次世代エネルギー（アンモニア混焼技術など）へのシフトという、3つの巨大なメガトレンドが同時に進行しているためです5。",
+    "url": "https://note.com/open_azalea2045/n/na1c9a81ec44c",
+    "pass": 3
+   },
+   {
+    "quote": "同業他社である三菱重工業（7011）や川崎重工業（7012）の株価が、防衛特需や原発回帰のテーマに乗って過去最高値圏へと再評価される中、IHIの株価は相対的に出遅れ感を伴っています。その最大の要因は、米プラット・アンド・ホイットニー（P&W）社が主導する民間航空機エンジン「PW1100G-JM」の品質問題（粉末冶金部材の欠陥による大規模な地上駐機：AOG）への対応費用として、2024年3月期に過去最大となる682億円もの最終赤字を計上した記憶が、未だに市場の心理的な重石となっているからです1。",
+    "url": "https://note.com/open_azalea2045/n/na1c9a81ec44c",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、賢明な投資家であれば、これが事業の構造的な敗北ではなく、一過性のトラブルに過ぎないことを見抜くはずです。事実、2025年3月期には営業利益が1,435億円へと驚異的なV字回復を遂げており、本業の力強さを証明しています3。市場が過去の痛みに囚われ、同業他社との間に大きなバリュエーションの歪みが生じている「今」こそ、長期的な視点を持つバリュー投資家にとって絶好の探求の機会となります。",
+    "url": "https://note.com/open_azalea2045/n/na1c9a81ec44c",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチン接種証明書に必要なIHI(Individual Healthcare Identifier)の作成方法：MyGov｜AKIKO|元消化器外科Nsのシドニー日記",
+    "url": "https://note.com/kangoshigotoo/n/ncd66b58c3007",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチン接種証明書に必要なIHI(Individual Healthcare Identifier)の作成方法：MyGov",
+    "url": "https://note.com/kangoshigotoo/n/ncd66b58c3007",
+    "pass": 3
+   },
+   {
+    "quote": "AKIKO|元消化器外科Nsのシドニー日記",
+    "url": "https://note.com/kangoshigotoo/n/ncd66b58c3007",
+    "pass": 3
+   },
+   {
+    "quote": "前回予防接種についてお話しさせていただいたのですが、今回はワクチン接種証明書の発行に必要なIHI(Individual Healthcare Identifier)について。",
+    "url": "https://note.com/kangoshigotoo/n/ncd66b58c3007",
+    "pass": 3
+   },
+   {
+    "quote": "IHIとは、オーストラリア内で医療目的で個人を識別するためにつかわれる番号です。この番号は、医療従事者が正しい以上情報を正しい本人と結びつけるために役立ちます。",
+    "url": "https://note.com/kangoshigotoo/n/ncd66b58c3007",
+    "pass": 3
+   },
+   {
+    "quote": "以下のいずれかに該当する場合、すでにIHIをもっています",
+    "url": "https://note.com/kangoshigotoo/n/ncd66b58c3007",
+    "pass": 3
+   },
+   {
+    "quote": "つまり永住権・市民権を持っている方はすでに持っています。",
+    "url": "https://note.com/kangoshigotoo/n/ncd66b58c3007",
+    "pass": 3
+   },
+   {
+    "quote": "ワーキングホリデー・学生ビザの留学生の方はメディケアの対象外なので、IHI番号を取得する必要があります。",
+    "url": "https://note.com/kangoshigotoo/n/ncd66b58c3007",
+    "pass": 3
+   },
+   {
+    "quote": "IHI、社長が新入社員と直接対話、挑戦と継続の重要性を共有｜kikai-news.net 産機通信",
+    "url": "https://note.com/sankituushin/n/n5d3c3df70071",
+    "pass": 3
+   },
+   {
+    "quote": "IHI、社長が新入社員と直接対話、挑戦と継続の重要性を共有",
+    "url": "https://note.com/sankituushin/n/n5d3c3df70071",
+    "pass": 3
+   },
+   {
+    "quote": "は4月1日、2026年度の新入社員を対象に、代表取締役社長・井手博氏が経営方針や同社グループの目指す姿について直接語るとともに、質疑応答を通じた対話イベントを実施した。新入社員一人ひとりが将来のキャリアや挑戦について主体的に考える機会の創出を目的としたもの。",
+    "url": "https://note.com/sankituushin/n/n5d3c3df70071",
+    "pass": 3
+   },
+   {
+    "quote": "同イベントでは、事業環境が大きく変化する中で、同社グループがこれまで変革を重ねてきた経緯と、今後も継続的な挑戦が不可欠である点が強調された。",
+    "url": "https://note.com/sankituushin/n/n5d3c3df70071",
+    "pass": 3
+   },
+   {
+    "quote": "井手社長はメッセージの中で、「IHIの仕事は長い時間をかけて形になるものが多い」と指摘し、成果の有無にかかわらず挑戦を継続する姿勢の重要性を訴えた。その上で、「自らの目指す方向や大切にする価値観を軸に、目の前の課題に粘り強く向き合ってほしい」と述べた。また、困難に直面した際には周囲に相談し、組織を活用しながら前進することを求めた。",
+    "url": "https://note.com/sankituushin/n/n5d3c3df70071",
+    "pass": 3
+   },
+   {
+    "quote": "質疑応答では、新入社員から「IHIの強み」「2040年に向けた取り組み」「人財育成の方針」「経営トップとして重視する価値観」など多岐にわたる質問が寄せられた。これに対し井手社長は、自身の経験を踏まえながら、挑戦に向き合う姿勢や学び続けることの重要性について率直に語った。",
+    "url": "https://note.com/sankituushin/n/n5d3c3df70071",
+    "pass": 3
+   },
+   {
+    "quote": "IHIは今後も、新たに加わった人材とともに挑戦を重ね、社会インフラを支える企業として持続的成長を目指す。",
+    "url": "https://note.com/sankituushin/n/n5d3c3df70071",
+    "pass": 3
+   },
+   {
+    "quote": "kikai-news.net note版（産機通信）",
+    "url": "https://note.com/sankituushin/n/n5d3c3df70071",
+    "pass": 3
+   },
+   {
+    "quote": "●年頭所感(2026年) 株式会社IHI 代表取締役社長 井出 博｜kikai-news.net 産機通信",
+    "url": "https://note.com/sankituushin/n/n8317d34965d4",
+    "pass": 3
+   },
+   {
+    "quote": "●年頭所感(2026年) 株式会社IHI 代表取締役社長 井出 博",
+    "url": "https://note.com/sankituushin/n/n8317d34965d4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度は「グループ経営方針2023」の最終年度であり、いよいよ総仕上げの時期を迎えている。2020年度からの「プロジェクトChange」で、事業変革の準備と移行を着実に進め、その基盤の上に、2023年度からの「グループ経営方針2023」では、事業ポートフォリオの改革や財務基盤の強化などに取り組んできた。IHIグループ全体で力を結集して進めてきたこれらの変革には、一定のめどがついた。",
+    "url": "https://note.com/sankituushin/n/n8317d34965d4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度からは新たな次期経営計画がスタートする。これまでの取り組みを土台とし、成長への大きな飛躍を実現するステージへと移行していく。",
+    "url": "https://note.com/sankituushin/n/n8317d34965d4",
+    "pass": 3
+   },
+   {
+    "quote": "大きな飛躍の実現に向けて、私の思いを３点お伝えする。",
+    "url": "https://note.com/sankituushin/n/n8317d34965d4",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度からキャッシュフローの徹底的な改善に取り組んできたことで、成果が出ている。しかし、今後の成長に向けて、財務基盤の強化はなお、道半ばだ。人財・成長への投資を実行するために、事業の収益性を一層高めることはもちろん、固定費や運転資本の削減などを継続的に進めていこう。",
+    "url": "https://note.com/sankituushin/n/n8317d34965d4",
+    "pass": 3
+   },
+   {
+    "quote": "IHIグループの成長は、社員一人ひとり、そして各部門が強くなることにかかっている。そのために、改めて自己と部門の強みを認識し、さらに必要な強みを明らかにしなければならない。教育や自己啓発、技術開発や投資などにより、現在の強みを一層強くし、必要な強みを獲得してほしい。",
+    "url": "https://note.com/sankituushin/n/n8317d34965d4",
+    "pass": 3
+   },
+   {
+    "quote": "③ 「挑戦」する文化が、 IHI を動かす",
+    "url": "https://note.com/sankituushin/n/n8317d34965d4",
+    "pass": 3
+   },
+   {
+    "quote": "IHIの井手 社長、2025年度新規入社者へ訓示｜kikai-news.net 産機通信",
+    "url": "https://note.com/sankituushin/n/n41577ed8d127",
+    "pass": 3
+   },
+   {
+    "quote": "IHIの井手 社長、2025年度新規入社者へ訓示",
+    "url": "https://note.com/sankituushin/n/n41577ed8d127",
+    "pass": 3
+   },
+   {
+    "quote": "は4月1日、2025年度入社式を行い、井手 博 代表取締役社長が、IHIグループの新規入社者に向けに、以下のとおり訓示を行った。要旨は次のとおり。",
+    "url": "https://note.com/sankituushin/n/n41577ed8d127",
+    "pass": 3
+   },
+   {
+    "quote": "【１．IHIグループが目指している社会と2025年度の取り組み】",
+    "url": "https://note.com/sankituushin/n/n41577ed8d127",
+    "pass": 3
+   },
+   {
+    "quote": "IHIグループでは、「自然と技術が調和する社会」の実現に向けて、中期経営計画「グループ経営方針2023」を進めており、本年度が最終年度となります。「グループ経営方針2023」では、事業ポートフォリオを含めた事業構造の変革、強靭な財務基盤を構築するためのバランスシート改革、皆さん一人一人が強みを発揮して活躍できる環境を作るための組織や意識の変革を進めています。これらの「変革」を、IHIグループが更なる成長軌道に乗るために、私たちは成し遂げなければなりません。皆さんはこうしたIHIグループの「変革」の真っただ中に、IHIグループに加わってくださったわけです。「変革」は過去との決別であり，過去からの延長線上にある思考を打ち破ることでもあります。皆さんには，過去のしがらみも慣習もありません。",
+    "url": "https://note.com/sankituushin/n/n41577ed8d127",
+    "pass": 3
+   },
+   {
+    "quote": "IHIグループでの経験・年数とは関係なく、今日この日から皆さんは「変革者」であり，IHIグループが進める変革に今日から一緒に行動できる人財でもあります。変革は、2026年度から始まる次期中期経営方針においても不断に進めていくことになります。そして、中核事業である資源・エネルギー・環境，社会基盤、産業システム・汎用機械分野を強靭化し、航空・宇宙・防衛分野が成長をけん引しながら、航空エンジンと双璧をなす将来の事業としてクリーンエネルギー分野を育成していくという事業の姿を実現していきます。",
+    "url": "https://note.com/sankituushin/n/n41577ed8d127",
+    "pass": 3
+   },
+   {
+    "quote": "もう一つ大事な取り組みをお伝えしておきたいと思います。それは「DE＆I (Diversity, Equity & Inclusion)」の推進についてです。私たちは「DE＆I」を「全員が働きがいを感じられる職場を作るための鍵であり、今後のIHIグループの発展に重要な要素」として位置づけ、積極的にその推進に取り組んでいます。難しく考えることはありません。皆さんには，出会う人一人一人のバックグランドを認め、相手に対して敬意を持って聞く、伝えることを意識していただきたいと思います。私も，先頭に立って「DE&I」を推進していきます。",
+    "url": "https://note.com/sankituushin/n/n41577ed8d127",
+    "pass": 3
+   },
+   {
+    "quote": "みなさんは、一日の多くの時間を職場で過ごすことになります。皆さん一人一人が働きがいを感じ、楽しく、笑顔で生き生きと働ける、そういった職場にあふれるIHIグループにしていきましょう。",
+    "url": "https://note.com/sankituushin/n/n41577ed8d127",
+    "pass": 3
+   },
+   {
+    "quote": "●年頭所感（2025年） 株式会社IHI代表取締役社長 井手 博｜kikai-news.net 産機通信",
+    "url": "https://note.com/sankituushin/n/n08d31f74aafa",
+    "pass": 3
+   },
+   {
+    "quote": "●年頭所感（2025年） 株式会社IHI代表取締役社長 井手 博",
+    "url": "https://note.com/sankituushin/n/n08d31f74aafa",
+    "pass": 3
+   },
+   {
+    "quote": "■ IHIグループ全従業員向け新年挨拶の要旨",
+    "url": "https://note.com/sankituushin/n/n08d31f74aafa",
+    "pass": 3
+   },
+   {
+    "quote": "2025年は「グループ経営方針2023」の仕上げの年となる。昨年まで実施してきた事業ポートフォリオ改革、バランスシート改革や意識改革など、さまざまな改革のスピードをさらに加速し、IHIグループの次なる成長フェーズへの準備を進めていきたいと考えている。",
+    "url": "https://note.com/sankituushin/n/n08d31f74aafa",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 IHI (@IHI_ad) / X 株式会社 IHI (@IHI_ad) / X X https://x.com > IHI_ad",
+    "url": "https://x.com/IHI_ad",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 IHI - X 株式会社 IHI - X X https://x.com > @IHI_ad",
+    "url": "https://x.com/IHI_ad/status/2117888054371508657",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 IHI - X 株式会社 IHI - X X https://x.com > @IHI_ad",
+    "url": "https://x.com/IHI_ad/status/2114634107275940053",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 IHI on X 株式会社 IHI on X X https://x.com > @IHI_ad",
+    "url": "https://x.com/IHI_ad/status/2115629703650320534",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 IHI 公式 X アカウントが「あ」と単独 投稿 し話題化 株式会社 IHI 公式 X アカウントが「あ」と単独 投稿 し話題化 X https://x.com > Trending",
+    "url": "https://x.com/i/trending/2026189677410058314",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "IHI | LinkedIn IHI | LinkedIn LinkedIn https://www.linkedin.com > ihi",
+    "url": "https://www.linkedin.com/company/ihi",
+    "pass": 3
+   },
+   {
+    "quote": "IHI Corporation - LinkedIn IHI Corporation - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/ihicorporation/",
+    "pass": 3
+   },
+   {
+    "quote": "IHI Corporation - LinkedIn IHI Corporation - LinkedIn LinkedIn https://jp.linkedin.com > company > ihicorporation",
+    "url": "https://jp.linkedin.com/company/ihicorporation",
+    "pass": 3
+   },
+   {
+    "quote": "IHI E&C International Corporation | LinkedIn IHI E&C International Corporation | LinkedIn LinkedIn https://jp.linkedin.com > company > ihi-ec",
+    "url": "https://jp.linkedin.com/company/ihi-ec",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Institute for Healthcare Improvement - IHI (@TheIHI) - Facebook Institute for Healthcare Improvement - IHI (@TheIHI) - Facebook Facebook https://www.facebook.com > ... > Medical & health",
+    "url": "https://www.facebook.com/TheIHI/",
+    "pass": 3
+   },
+   {
+    "quote": "Institute for Healthcare Improvement - IHI (@TheIHI) - Photos Institute for Healthcare Improvement - IHI (@TheIHI) - Photos Facebook https://www.facebook.com > TheIHI > photos",
+    "url": "https://www.facebook.com/TheIHI/photos/",
+    "pass": 3
+   },
+   {
+    "quote": "Institute for Healthcare Improvement - IHI (@TheIHI) - Videos Institute for Healthcare Improvement - IHI (@TheIHI) - Videos Facebook https://www.facebook.com > TheIHI > videos",
+    "url": "https://www.facebook.com/TheIHI/videos/",
+    "pass": 3
+   },
+   {
+    "quote": "For more than 30 years, IHI has partnered with health systems ... For more than 30 years, IHI has partnered with health systems ... Facebook https://www.facebook.com > TheIHI > posts > for-more-t...",
+    "url": "https://www.facebook.com/TheIHI/posts/for-more-than-30-years-ihi-has-partnered-with-health-systems-governments-and-com/1445406567621588/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ihi.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202241_13799.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202227_13799.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/infrastructure_offshore/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/industrial_general_machine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/aeroengine_space_defense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/topmessage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/executivelist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/offices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/gallery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/related_facilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/financial_performance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/sustainable/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/all_news/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-KT.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/2026-2Q-ks.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/11/04/notice_261104.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/80de7d0533db6ceb1f617d56f0760688.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/IRM_cp_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/offices/_cms_conf01/__icsFiles/afieldfile/2023/06/21/a0ccdb948463d3eb3e791129c8418a2d.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/11/04/notice_261104_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/09/29/260929n-j_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/09/29/260929n-j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/img/index_icon_bg.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/img/index_img01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/img/index_img02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/img/index_img03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/img/common_relation_img01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/img/common_relation_img02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saitama-j.or.jp/sentan/r7/advanced-materials-seminar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/403635",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO79127130Q4A310C2TB0000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/3deo-partner-ihi-aerospace/?srsltid=AYCX9vK6SKOvz2XyrhTycND6fE9VADfMOQJ_FTvE_j9jI6HVAfE0MzRe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2309/21/news086.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXNZO55584170Z20C13A5TJ1000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E02128",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUB01AAU0R00C26A5000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXNZO55584170Z20C13A5TJ1000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sony-acceleration-platform.com/article1629.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/040700276/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ihi-core.tech/makaizo/download/ihi_makaizo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/IHI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-shashi.com/tse/7013/shareholders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/7013/mainshareholder",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/kira_star11/n/n1d466780a23d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ringochan_mirai/n/n88fe954a22dc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/open_azalea2045/n/na1c9a81ec44c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kangoshigotoo/n/ncd66b58c3007",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/IHI_ad",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IHI_ad/status/2117888054371508657",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IHI_ad/status/2114634107275940053",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IHI_ad/status/2115629703650320534",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ihi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ihicorporation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/ihicorporation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/ihi-ec",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheIHI/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheIHI/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheIHI/videos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheIHI/posts/for-more-than-30-years-ihi-has-partnered-with-health-systems-governments-and-com/1445406567621588/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/sankituushin/n/n5d3c3df70071",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sankituushin/n/n8317d34965d4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sankituushin/n/n41577ed8d127",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sankituushin/n/n08d31f74aafa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/IHI_ad",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/trending/2026189677410058314",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "IHI 3Dプリンタ 撤退 OR 縮小 OR 終了",
+   "results": [
+    "https://www.ihi.co.jp/technology/techinfo/contents_no/__icsFiles/afieldfile/2023/06/16/5dc746c90070b6fb78651b86399ac91d.pdf",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "https://www.saitama-j.or.jp/sentan/r7/advanced-materials-seminar/",
+    "https://www.nikkan.co.jp/articles/view/403635",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.47news.jp/14407274.html",
+    "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "https://www.ihi.co.jp/ia/",
+    "https://www.ihi.co.jp/"
+   ]
+  },
+  {
+   "query": "IHI 3Dプリンタ 参入 OR 開始 OR 買収",
+   "results": [
+    "https://www.nikkei.com/article/DGKKZO79127130Q4A310C2TB0000/",
+    "https://idarts.co.jp/3dp/3deo-partner-ihi-aerospace/?srsltid=AYCX9vK6SKOvz2XyrhTycND6fE9VADfMOQJ_FTvE_j9jI6HVAfE0MzRe",
+    "https://monoist.itmedia.co.jp/mn/articles/2309/21/news086.html",
+    "https://www.nikkei.com/article/DGXNZO55584170Z20C13A5TJ1000/",
+    "https://www.ihi.co.jp/technology/techinfo/contents_no/__icsFiles/afieldfile/2023/06/16/5dc746c90070b6fb78651b86399ac91d.pdf",
+    "https://www.nikkan.co.jp/articles/view/403635",
+    "https://newswitch.jp/p/6491",
+    "https://news.sharelab.jp/cases/food/ihi-jumonji-231016/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://idarts.co.jp/3dp/3deo-partner-ihi-aerospace/"
+   ]
+  },
+  {
+   "query": "IHI 積層造形 事業 売上",
+   "results": [
+    "https://www.ihi.co.jp/ir/management/business_summary/",
+    "https://www.ihi.co.jp/ir/financial_performance/",
+    "https://edinetdb.jp/company/E02128",
+    "https://www.ihi.co.jp/ir/library/annual/pdf/2025/ch1-17.pdf",
+    "https://www.nikkei.com/article/DGXZQOUB01AAU0R00C26A5000000/",
+    "https://the-shashi.com/tse/7013/financials/sales/",
+    "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/05/08/FY2025_kt_1.pdf",
+    "https://irbank.net/E02128/segment",
+    "https://japanir.jp/company/company-7013/ir/7013-20261104-02_wp_financial_summary/",
+    "https://zukaikeizai.com/kaisha/7013/"
+   ]
+  },
+  {
+   "query": "IHI 3Dプリンター 社長 インタビュー 課題",
+   "results": [
+    "https://www.nikkei.com/article/DGXNZO55584170Z20C13A5TJ1000/",
+    "https://sony-acceleration-platform.com/article1629.html",
+    "https://www.ihi.co.jp/technology/techinfo/",
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/040700276/",
+    "https://ihi-core.tech/makaizo/download/ihi_makaizo.pdf",
+    "https://www.youtube.com/watch?v=nnj7XpmVIU0",
+    "https://www.nikkan.co.jp/articles/view/392109",
+    "https://www.ihi.co.jp/technology/techinfo/contents_no/__icsFiles/afieldfile/2023/06/16/5dc746c90070b6fb78651b86399ac91d.pdf",
+    "https://www.nikkan.co.jp/articles/view/441516",
+    "https://ja.wikipedia.org/wiki/井手博"
+   ]
+  },
+  {
+   "query": "IHI 決算説明 3Dプリンタ",
+   "results": [
+    "https://www.ihi.co.jp/ir/library/statements/",
+    "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/05/08/FY2026-management.pdf",
+    "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "https://www.ihi.co.jp/ir/event/",
+    "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/05/27/FY2025_KS_512_1.pdf",
+    "https://www.ihi.co.jp/ir/library/",
+    "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "https://finance.logmi.jp/companies/335",
+    "https://www.ihi.co.jp/ir/event/statements_meeting/backnumber/",
+    "https://www.ihi.co.jp/ir/event/statements_meeting/"
+   ]
+  },
+  {
+   "query": "IHI 会社概要 設立 株主",
+   "results": [
+    "https://www.ihi.co.jp/company/outline/",
+    "https://ja.wikipedia.org/wiki/IHI",
+    "https://the-shashi.com/tse/7013/shareholders/",
+    "https://www.ihi.co.jp/company/history/",
+    "https://www.buffett-code.com/company/7013/mainshareholder",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7013",
+    "https://www.ihi.co.jp/ims/company/about/index.html",
+    "https://www.ihi.co.jp/en/company/outline/pdf/IHI-CorporateProfile-ja-202604.pdf",
+    "http://go.ihi.co.jp/",
+    "https://finance.yahoo.co.jp/quote/7013.T/profile"
+   ]
+  },
+  {
+   "query": "site:note.com IHI",
+   "results": [
+    "https://note.com/kira_star11/n/n1d466780a23d",
+    "https://note.com/ringochan_mirai/n/n88fe954a22dc",
+    "https://note.com/open_azalea2045/n/na1c9a81ec44c",
+    "https://note.com/kangoshigotoo/n/ncd66b58c3007",
+    "https://note.com/company_scope/n/n84f744fdefce",
+    "https://note.com/apt_hebe8902/n/n69b162e50467",
+    "https://note.com/ramen_boxer/n/nc6bcc16946cc",
+    "https://note.com/ai_shukatsu28/n/n1b9cc8ed5cc4",
+    "https://note.com/space_wave_japan/n/nafc9df086640",
+    "https://note.com/umaki11/n/nbc8db5ff565c"
+   ]
+  },
+  {
+   "query": "site:x.com IHI",
+   "results": [
+    "https://x.com/IHI_ad",
+    "https://x.com/IHI_ad/status/2117888054371508657",
+    "https://x.com/IHI_ad/status/2114634107275940053",
+    "https://x.com/IHI_ad/status/2115629703650320534",
+    "https://x.com/IHI_ad/status/2117888061187280953",
+    "https://x.com/IHI_ad/status/2118226151592370433",
+    "https://x.com/IHI_ad/status/1543048443911737344",
+    "https://x.com/IHI_ad/status/2003313971366101130",
+    "https://x.com/IHI_ad/status/1694611036568211959",
+    "https://x.com/IHI_ad/status/2026119005828985329"
+   ]
+  },
+  {
+   "query": "site:linkedin.com IHI",
+   "results": [
+    "https://www.linkedin.com/company/ihi",
+    "https://www.linkedin.com/company/ihicorporation/",
+    "https://jp.linkedin.com/company/ihicorporation",
+    "https://jp.linkedin.com/company/ihi-ec",
+    "https://www.linkedin.com/company/ihi-aerospace",
+    "https://jp.linkedin.com/company/ihi-inc",
+    "https://www.linkedin.com/company/ihi-rme",
+    "https://sg.linkedin.com/company/ihiasiapacific",
+    "https://www.linkedin.com/company/ihi-energy-solutions",
+    "https://www.linkedin.com/company/ihi-ims"
+   ]
+  },
+  {
+   "query": "site:facebook.com IHI",
+   "results": [
+    "https://www.facebook.com/TheIHI/",
+    "https://www.facebook.com/TheIHI/photos/",
+    "https://www.facebook.com/TheIHI/videos/",
+    "https://www.facebook.com/TheIHI/posts/for-more-than-30-years-ihi-has-partnered-with-health-systems-governments-and-com/1445406567621588/",
+    "https://www.facebook.com/ihibkk/",
+    "https://www.facebook.com/TheIHI/mentions/",
+    "https://www.facebook.com/TheIHI/reels/",
+    "https://www.facebook.com/WorldNuclearNews/posts/japanese-engineering-firm-ihi-corporation-has-received-an-order-from-westinghous/1582819997206865/",
+    "https://www.facebook.com/ihiec/",
+    "https://www.facebook.com/TheIHI/photos/1067299522098963/"
+   ]
+  },
+  {
+   "query": "IHI note 社長",
+   "results": [
+    "https://note.com/sankituushin/n/n5d3c3df70071",
+    "https://note.com/sankituushin/n/n8317d34965d4",
+    "https://note.com/sankituushin/n/n41577ed8d127",
+    "https://note.com/sankituushin/n/n08d31f74aafa",
+    "https://www.ihi.co.jp/recruit/career/topmessage/index.html",
+    "https://www.nikkei.com/article/DGXZQOUC241B60U5A121C2000000/",
+    "https://note.com/sankituushin/n/n5eec5ae6ceda",
+    "https://www.youtube.com/watch?v=Q8MLrNvIfOo",
+    "https://ja.wikipedia.org/wiki/井手博",
+    "https://www.ihi.co.jp/company/executivelist/"
+   ]
+  },
+  {
+   "query": "IHI X 投稿",
+   "results": [
+    "https://x.com/IHI_ad",
+    "https://x.com/i/trending/2026189677410058314",
+    "https://news.allabout.co.jp/articles/o/111525/",
+    "https://news.livedoor.com/article/detail/30257378/",
+    "https://x.com/IHI_ad/status/2026119005828985329",
+    "https://trafficnews.jp/photo/638969",
+    "https://x.com/IHI_ad/with_replies",
+    "https://news.livedoor.com/topics/detail/30257378/",
+    "https://www.ihi.co.jp/socialmediapolicy/",
+    "https://search.yahoo.co.jp/realtime/search/IHI/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式28頁／PDF・画像16件／外部39頁・検索12回）"
+ }
+}

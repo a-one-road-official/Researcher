@@ -1,0 +1,3380 @@
+{
+ "name": "株式会社リコー",
+ "aliases": [
+  "リコー",
+  "RICOH 3D"
+ ],
+ "context": "3Dプリント事業（要確認）",
+ "researched_at": "2026-11-06T17:14:31.566215+00:00",
+ "official_url": "https://jp.ricoh.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1936年2月6日",
+    "url": "https://jp.ricoh.com/about/facts",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1936年2月6日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7752",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "社長執行役員 大山 晃（おおやま あきら） 役員一覧",
+    "url": "https://jp.ricoh.com/about/facts",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役",
+    "value": "大山 晃",
+    "url": "https://jp.ricoh.com/about/facts/board",
+    "pass": 1
+   },
+   {
+    "label": "代表者氏名",
+    "value": "大山　晃",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7752",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "連結売上高",
+    "value": "2兆6,083億円（2026年3月期）",
+    "url": "https://jp.ricoh.com/about/facts",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "連結従業員数",
+    "value": "75,635名（2026年3月31日現在）",
+    "url": "https://jp.ricoh.com/about/facts",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "4,596 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7752",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "参入の時期と形": [
+   {
+    "quote": "当社子会社の設立および会社分割（簡易吸収分割）による新設子会社へのサーマル事業承継に関するお知らせ(リコー)",
+    "url": "https://jp.ricoh.com/",
+    "pass": 1
+   },
+   {
+    "quote": "財団法人理化学研究所における発明の工業化を目的とする理化学興業株式会社から独立し、理研感光紙株式会社として設立",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "理研感光紙株式会社として設立（～1938年）",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "わが国の科学振興を目的に創設された理化学研究所はその研究成果の事業化を図るために1927年「理化学興業株式会社」を設立、ここから多くの理研製品が発売されていきました",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "彼は感光紙部門いっさいの事業を継承し、1936年2月6日にリコーのルーツである理研感光紙株式会社を設立",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "カメラの大衆化の先駆け、リコーフレックスを発売",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "カメラの大衆化・一大ブームを巻き起こし、国内のカメラ生産量の50%以上をこの一機種で独占したと言われています",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "ジアゾ複写機の1号機リコピー101を発売",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "ジアゾ複写機の1 号機「リコピー101」を発売",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "そのルーツは、1955年発売の「リコピー101」です",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1955年発売の「リコピー101」が複写機遺産に認定",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "ハーフサイズの大ヒット作となったリコーオートハーフを発売",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1960年には国産初の自動露出EEカメラ「リコーオート35」を完成したリコーは、1962年にはフィルムの巻き上げも自動化し、完全に押すだけで写るハーフサイズカメラ「リコーオートハーフ」を発売",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "静電複写機 電子リコピーBS-1を発売",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "静電複写機「電子リコピーBS-1」を発売",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1965年に発売された「電子リコピーBS-1」は、当時の業績不振からリコーを救った立役者となりました",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1965年発売の「電子リコピーBS-1」が複写機遺産に認定",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "ニューヨーク事務所とRicoh Industries, U.S.A., Inc.を統合して100％出資の現地法人Ricoh of America, Inc.をニュージャージー州に設立（～1984年）",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "100％出資の現地法人Ricoh of America, Inc.を",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "Ricoh of America, Inc.を設立（1970年1月）",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "世界的なヒット商品の誕生とともに世界各国の大手メーカーとの技術提携も活発に行われ、台湾、韓国、アメリカ、オランダに現地法人を次々と設立、海外へとリコーブランドを広げていきました",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "Industries, U.S.A., Inc.を統合し北米の拠点となるRicoh of America, Inc.をいち早く設立しています",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスコンピューターの1号機「リコム8」を発売",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスコンピューターの1号機「リコム 8」を発売",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "PPCのベストセラー機 ニューリコピーDT1200を発売",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "「ニューリコピーDT1200」を発売",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "当社子会社の設立および会社分割（簡易吸収分割）による新設子会社へのサーマル事業承継に関するお知らせ",
+    "url": "https://jp.ricoh.com/IR/news",
+    "pass": 1
+   },
+   {
+    "quote": "2024年には、デジタル人材育成を加速化するために「デジタルスキル標準」を採用し、人的資本の流動性を加味した新たなスキルアッププログラムを開始し現在取り組んでいます",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "同じく2025年4月には、高セキュリティなオンプレミス環境で生成AI活用できる「RICOH オンプレLLMスターターキット」を発売しました",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "リコー、金融業務特化型LLM（大規模言語モデル）を開発、10月末から個別提供開始",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "リコー、国産生成AI開発強化プロジェクト「GENIAC」第3期においてリーズニング性能を持つマルチモーダルLLMの開発開始",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "当社子会社の設立および会社分割（簡易吸収分割）による新設子会社へのサーマル事業承継に関するお知らせ",
+    "url": "https://jp.ricoh.com/IR",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター出力サービスを提供するリコー厚木事業所は、リコーの複合機、プリンターのキーパーツの試作、技術開発を行う生産拠点として1971年に設立、半世紀近くの歴史を持ち、以下のような特徴がある",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "設計まで行った一例としては日本光電（医療機器メーカー）様から、商品の立ち上げの中で必要になってくる治具",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "2012年にクリス・アンダーソンの「MAKERS 21世紀の産業革命が始まる」が日本で発売された頃の過熱ぶりが懐かしくなるくらい、現在では落ち着きを見せている3Dプリンターへの注目度",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXMZO20770480V00C17A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リコーとシーメンス・デジタル・インダストリーズ・ソフトウェア株式会社が、バインダージェット方式によるアルミニウム部品の量産化に向けた協業を開始したことを2023年11月1日に発表した",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "また、リコー社はシーメンス社の別のシステムを既に導入しており、品質の安定化と生産管理に必要な各工程の情報の収集と保存も開始している",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "リコーが廃プラスチックの一部をリサイクルし、3Dプリンターのプリント材料として活用する実証実験を開始",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "すぐに再生が開始しない場合は、デバイスを再起動してください",
+    "url": "https://www.youtube.com/watch?v=9Wunsl8ruHQ",
+    "pass": 3
+   },
+   {
+    "quote": "日本の産業界からも多くの関心が寄せられる金属3Dプリンター分野には、国内外のプレイヤーの参入が相次いでいます",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "少量生産に焦点を当てたStudio System™ はMEX方式の造形機と脱脂装置、焼結装置の3つの装置から構成されるシステムとして発売されました",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "🦉 AIニュース夕刊｜2026年11月2日（月）18時OpenAIがUAEと4件の協定、韓国はAI関連に21.3兆ウォン投資へ！――香港は金融AIの統制枠組みづくりに着手、日本ではリコーと川崎重工が提携",
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "1936年、理化学研究所の成果を製品化するために設立された理研感光紙株式会社を源流とする同社は、創業者・市村清が掲げた「三愛精神」（人を愛し、国を愛し、勤めを愛する）を経営の根幹に据えてきた 1",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、1962年のアメリカ現地法人設立から、最新の2026年に至るまでの進出の変遷を、技術革新、M&A戦略、そして事業構造の転換という観点から、時系列かつ事実ベースで詳細に分析する",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "リコーのアメリカにおける歴史の第一歩は、1962年にニューヨークに設立されたリコー・インダストリーズU.S.A.（Ricoh Industries U.S.A., Inc.）によって刻まれた 5",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、当時のアメリカ市場では未知のブランドであったリコーが販路を拡大するためには、既存の流通大手との提携が不可欠であった",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、1962年に発売された一眼レフ「リコー・シングルレックス（Ricoh Singlex）」は、1967年頃から「シアーズSL-11」としてカタログに掲載され、アメリカの一般家庭に深く浸透することとなった 8",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "1960年代中盤から、リコー・インダストリーズU.S.A.はカメラの輸入販売に加え、マイクロ写真機やオフセット印刷機、さらにはデータ処理システムなどの事務機器のマーケティング調査を開始し、将来の事業転換に向けた準備を整えていた 1",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "1970年1月、ニューヨーク事務所とリコー・インダストリーズU.S.A.を統合し、ニュージャージー州に「リコー・オブ・アメリカ（Ricoh of America, Inc.）」を設立した 1",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "1973年、リコーはカリフォルニア州アーバインに製造子会社「リコー・エレクトロニクス（Ricoh Electronics, Inc.：REI）」を設立した 2",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "REIの設立は、単なるコスト削減や貿易摩擦回避の手段ではなく、現地顧客のニーズに即応するための「地産地消」モデルの先駆けであった",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "1973年当時のアメリカ市場は、依然としてゼロックス社（Xerox）が圧倒的なシェアを誇っていたが、リコーが現地製造を開始したことは、アメリカ市場に深くコミットするという強い意思表示として、ディーラーや顧客から高く評価された",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "この時期、リコーは大規模な事業買収を通じて販路を確保し、同時に技術のデジタル化を強力に推進した",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "1980年、リコーはハリス・コーポレーション（Harris Corporation）の複写機事業を買収するという戦略的な一手に出た 10",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "1981年より、リコーは「リコー」ブランドを冠した乾式普通紙複写機（PPC）の本格的な展開を開始した 5",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "ハリス社の事業買収を機に、リコーは自社ブランドによる高付加価値戦略へと舵を切り、1984年にはアメリカ市場で7%のシェアを獲得するまでに成長した 5",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "リコーは1983年に初のレーザープリンター「Ricoh LP 4120」を発売し、1985年にはズーム機能を備えた高性能カラー複写機「Ricoh Color 5000」を市場に投入した 6",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "東芝テックとの複合機事業統合による新会社「エトリア」の設立、そして高性能スキャナーで名高いPFUの完全子会社化",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   }
+  ],
+  "参入しない・慎重な理由の発言": [
+   {
+    "quote": "「時間が空いてもタスクで埋まる」AIで創造性が生まれない本当の理由とは？効率化の先にある“問い”の作り方（動画コンテンツ）",
+    "url": "https://jp.ricoh.com/",
+    "pass": 1
+   },
+   {
+    "quote": "事業を通じて社会課題解決に貢献するリコーグループの取り組みをご紹介します",
+    "url": "https://jp.ricoh.com/",
+    "pass": 1
+   },
+   {
+    "quote": "この主な理由は、1つのドラムにCMYK（シアン、マゼンタ、イエロー、ブラック）の4色の作像を繰り返していたためです",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル機ならではの高画質、メモリーコピー機能などに加え、A3機で世界最小幅（当時）のコンパクトボディ、徹底した本体のコストダウンによる低価格の実現などもあり、中小企業ユーザーを中心に大ヒットを記録",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "リコー沼津事業所に、重合トナー「PxPトナー」の量産工場が竣工",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "重合トナー「PxPトナー」の量産工場が竣工",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "経済社会の将来動向と企業経営への影響を研究する「シンクタンク機能」と、その研究成果を基に経営陣に対して助言・課題提起を行う「アドバイザリー機能」を併せ持つ「リコー経済社会研究所（Ricoh Institute of Sustainability",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "このVCSELの搭載により、印刷物の多品種・短納期・小ロット化といった近年の新しい印刷(オンデマンド印刷)需要に応えられるプリンターが製品化されました",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "顕彰理由は、世界初の実用的国際間データ送受信を実現（A4サイズ1枚送信時間を従来の6分から1分に短縮）し、ファクシミリの普及に大きく寄与したこと",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "高齢化社会への対応、医療費削減、地域間の医療水準格差解消などが求められるヘルスケア分野を、社会課題の解決に取り組む分野の一つとして位置付け、事業参入することに決定",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "コーポレート執行役員 ESG・リスクマネジメント担当 鈴木 美佳子",
+    "url": "https://jp.ricoh.com/IR/events/business-briefing",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001認証",
+    "url": "https://jp.ricoh.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001認証",
+    "url": "https://jp.ricoh.com/about/to-our-stakeholders",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001認証",
+    "url": "https://jp.ricoh.com/about/facts",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001認証",
+    "url": "https://jp.ricoh.com/about/organization",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001認証",
+    "url": "https://jp.ricoh.com/about/at-a-glance%20",
+    "pass": 1
+   },
+   {
+    "quote": "中経ʼ26で導入したマトリックス体制に基づき、地域別戦略・事業戦略の課題認識と重点施策を一貫したストーリーで説明しています",
+    "url": "https://jp.ricoh.com/about/integrated-report/2026",
+    "pass": 1
+   },
+   {
+    "quote": "人的資本戦略では、中経ʼ26の実行を支える経営基盤として、人材の育成・活躍に向けた取り組みを紹介しています",
+    "url": "https://jp.ricoh.com/about/integrated-report/2026",
+    "pass": 1
+   },
+   {
+    "quote": "また、社外取締役対談では、第21次中期経営戦略の振り返りを踏まえた課題認識と、中経ʼ26における取締役会の役割を示しています",
+    "url": "https://jp.ricoh.com/about/integrated-report/2026",
+    "pass": 1
+   },
+   {
+    "quote": "リコーグループでは中期経営戦略の成長ストーリーを軸に、統合報告書で中長期の企業価値向上ストーリーを、有価証券報告書で財務状況やリスクなどの重要な事実情報を、サステナビリティレポートでESG の戦略・取り組み・実績を開示しています",
+    "url": "https://jp.ricoh.com/about/integrated-report/2026",
+    "pass": 1
+   },
+   {
+    "quote": "その実現を通じてグローバルに価値提供を広げ、企業価値向上と社会課題解決の両立を目指します",
+    "url": "https://jp.ricoh.com/about/integrated-report/2026",
+    "pass": 1
+   },
+   {
+    "quote": "人的資本戦略、ESG戦略、環境・社会への取り組みに加え、コーポレート・ガバナンス、リスクマネジメント、セキュリティへの取り組みを紹介します",
+    "url": "https://jp.ricoh.com/about/integrated-report/2026",
+    "pass": 1
+   },
+   {
+    "quote": "編集方針、重大な組織の変化、第三者認証",
+    "url": "https://jp.ricoh.com/about/integrated-report/2026",
+    "pass": 1
+   },
+   {
+    "quote": "1998年には「環境経営」を提唱し、「環境保全と利益創出の同時実現こそ、サステナブルな活動になる」という信念に基づき、事業を通じた社会課題解決を追求しています",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "人にしかできない創造力の発揮を目指し、お客様ごとに異なる課題をくみ上げ、リコーグループの技術力とデジタルの力を掛け合わせて、それぞれのお客様に最適な解決策を提供することで、はたらく人の創造力を支え、ワークプレイスを変えていくという思いです",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "リコーは今後も事業活動を通じた社会課題解決により、「“はたらく” に歓びを」 の実現を目指します",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "これらを実現するために戦略１：デジタル人材育成・強化、戦略２：RICOH Smart Integration（RSI）によるビジネス支援、戦略３：プロセス・IT・データによるオペレーショナルエクセレンス実現に向けた基盤整備と社内実践、戦略４：成長領域のサービス創出に向けたデジタル技術開発の４つの主要戦略を推進し、ワークプレイスサービスプロバイダーとしてのお客様への価値提供を全社で一層拡大していきます",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "DXを推進するにあたり、経営によるビジョンと戦略の一体化を図るため、CTOを責任者とする「デジタル戦略会議」や、BUのDX推進責任者が参加するDXOコミッティを通じ、デジタルサービスの会社への変革に向けた取組みを全社横断で加速させています",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "DXO：Digital Transformation Officer 各ビジネスユニット（BU）におけるDX推進責任者",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "戦略１ デジタル人材育成・強化",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "活躍の場を見据えたデジタル人材育成、重点育成人材の拡充、リコーデジタルアカデミーを核とした育成プログラムの継続・強化についてご紹介します",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "顧客接点で価値を創造し、事業成長を加速する「デジタル人材」（「デジタル技術とデータを使いこなし、デジタルサービスを創出・加速させる人材」と独自に定義）の育成・強化を経営戦略の柱に掲げるとともに、21次中経における全社のESG目標の1つとしてもコミットしています",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "この中で、特にデジタル人材戦略と関係するのは、柱②の「個人の成長と事業の成長を同軸にする」です",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との対話から真の課題を探り、素早く適切なデジタルサービスを提供する上で必要なマインドとして社内浸透を進めています",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "その中でデジタル戦略と各組織機能を定義し、その要素のひとつであるデジタル人材育成を推進するために、2022年4月にリコーデジタルアカデミーを開校しました",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "2023年には、21次中期経営戦略のESG目標として、デジタル人材育成の目標を定めました",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "2024年には、デジタル人材育成を加速化するために「デジタルスキル標準」を採用し、人的資本の流動性を加味した新たなスキルアッププログラムを開始し現在取り組んでいます",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "スキルアッププログラム：活躍の場を見据えたデジタル人材育成",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "本プログラムによるデジタル人材としてのリスキリングにより、成熟領域から、成長領域であるデジタルサービス分野に人材シフトを進めています",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "対象は、IT人材、AI人材、SE人材、プロセスDX人材の4つの人材で、初年度となる2024年度に94人がプログラムを修了しました",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "経済産業省とIPAが定める「デジタルスキル標準（DSS）」を参考にし、ビジネスアーキテクト、ソフトウェアエンジニア、データサイエンティスト、サイバーセキュリティの４つの重点育成人材を定めています",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "4つの重点育成人材の育成目標は21次中経中に達成するESG目標としても定めており、2025年度までの目標人数合計4,000人に対して、2025年１月末時点での累計実績は合計4,658人となり、１年前倒しで達成しました",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、2026年３月までに6,000人を超える見通しで、人材育成が進んでいます",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "「リコーデジタルアカデミー」は、社員一人ひとりがデジタル人材を目指し自律的に学ぶためのプラットフォームとして2022年4月に開校されました",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "国内リコーグループ全社員のデジタルスキルの底上げを図る「デジタルリテラシー」と、重点育成人材の分野で選出された社員の専門的な能力向上を目的とする「アップスキリング」の二層構造のカリキュラムとなっており、2024年度までに約1万6,000人が受講しています",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "人材育成に関する国内グループ横断コミュニティ活動",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルサービスを創出・加速するデジタル人材に加え、商品・サービスを支えるモノづくりに関わる人材を対象とした、技術者コミュニティ「リコーグループ技術専門委員会」を2022年度から設置しています",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "審査員コメントとしまして、デジタルサービスの企業への変革を掲げ、全社を挙げてデジタル人材育成を推進し続けた結果、デジタル分野の売上比率が如実に伸びているなど、ビジネスインパクトが大きく、人的資本戦略との連動性も総合的に高い、と評価いただきました",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "「大田区企業人材活用支援プログラム」において最初のマッチングが成立(リコー)",
+    "url": "https://jp.ricoh.com/about/empowering-each-other",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001認証",
+    "url": "https://jp.ricoh.com/about/advertisement",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001認証",
+    "url": "https://jp.ricoh.com/about/promotions",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001認証",
+    "url": "https://jp.ricoh.com/IR",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001認証",
+    "url": "https://jp.ricoh.com/IR/corporate-strategy",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001認証",
+    "url": "https://jp.ricoh.com/IR/events",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001認証",
+    "url": "https://jp.ricoh.com/IR/events/general-meeting",
+    "pass": 1
+   },
+   {
+    "quote": "環境への配慮を経営の中核に据えて、環境課題対応をコストではなく経営資源と捉え、利益と環境保全の両立を目指す経営手法",
+    "url": "https://jp.ricoh.com/sustainability/environment/eco-business-center",
+    "pass": 1
+   },
+   {
+    "quote": "その上で、お客様のリアルなお困りごとや課題について対話しながら、課題解決に向けた次の一手をともに考えていきます",
+    "url": "https://jp.ricoh.com/sustainability/environment/eco-business-center",
+    "pass": 1
+   },
+   {
+    "quote": "課題解決に至るまでの具体的なステップを紹介します",
+    "url": "https://jp.ricoh.com/sustainability/environment/eco-business-center",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の環境目標の達成にむけた課題解決と、お客様との技術や知見を掛け合わせた事業探索を指します",
+    "url": "https://jp.ricoh.com/sustainability/environment/eco-business-center",
+    "pass": 1
+   },
+   {
+    "quote": "木質バイオマスを活用した再エネ運用、ペロブスカイト太陽電池の実証、徹底された省エネの工夫、複合機のリユース・リサイクルを支える回収・診断・再資源化の技術など、普段は見ることのできない“環境経営のリアル”を一気に体験し、現場で得た気づきをAI・ファシリテーターとともに整理し、課題を深掘りすることで改善のヒントが自然と生まれる“学びの循環”が起きること",
+    "url": "https://jp.ricoh.com/sustainability/environment/eco-business-center",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "リコーグループは1936年の創業以来、お客様の“はたらく”に常に寄り添ってきました",
+    "url": "https://jp.ricoh.com/",
+    "pass": 1
+   },
+   {
+    "quote": "当社子会社の設立および会社分割（簡易吸収分割）による新設子会社へのサーマル事業承継に関するお知らせ(リコー)",
+    "url": "https://jp.ricoh.com/",
+    "pass": 1
+   },
+   {
+    "quote": "財団法人理化学研究所における発明の工業化を目的とする理化学興業株式会社から独立し、理研感光紙株式会社として設立",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "理研感光紙株式会社として設立（～1938年）",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "リコーの創業者、市村清",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "わが国の科学振興を目的に創設された理化学研究所はその研究成果の事業化を図るために1927年「理化学興業株式会社」を設立、ここから多くの理研製品が発売されていきました",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "同社の感光紙事業を大きく発展させたのがリコーの創業者、市村清（1900～1968）です",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "彼は感光紙部門いっさいの事業を継承し、1936年2月6日にリコーのルーツである理研感光紙株式会社を設立",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "創業の精神として市村が提唱した「三愛精神（人を愛し 国を愛し 勤めを愛す）」は、事業・仕事を通じて、自らとその家族、顧客、関係者、社会のすべてを豊かにすることを目指した考えで、今もリコーグループの全社員が経営や仕事を行ううえでの原点としているものです",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "ニューヨーク事務所とRicoh Industries, U.S.A., Inc.を統合して100％出資の現地法人Ricoh of America, Inc.をニュージャージー州に設立（～1984年）",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "Ricoh of America, Inc.を設立（1970年1月）",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "世界的なヒット商品の誕生とともに世界各国の大手メーカーとの技術提携も活発に行われ、台湾、韓国、アメリカ、オランダに現地法人を次々と設立、海外へとリコーブランドを広げていきました",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "Industries, U.S.A., Inc.を統合し北米の拠点となるRicoh of America, Inc.をいち早く設立しています",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "イギリスに現地法人Ricoh UK Products Ltd.を設立",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "Ricoh UK Products Ltd.を設立",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "RPLの設立を発表したラモント通産大臣と浜田社長（1983年10月）",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "創立50周年を機に中央研究所を横浜に設立",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "創立50周年を機にリコー中央研究所を横浜に設立",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "リコーは創立50周年記念事業の一環として、長期的視野に立った総合的な研究開発体制を強化拡充する「研究所群構想」を進めていましたが、その中核となる中央研究所を、1986年4月23日横浜市港北ニュータウンの一角に設立しました",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "子供たちの健全な育成と成長のため「市村自然塾 関東」設立",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "市村自然塾は、株式会社リコー及びリコー三愛グループの創業者である市村清の生誕100周年を記念して、神奈川県足柄上郡松田町に設立された特定非営利活動法人（NPO法人）",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "リコー創業者の市村清が“リコー三愛グループ”のシンボルとして、昭和38年1月に建設した三愛ドリームセンター",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "リコーが創業70周年を機に、新しい広告塔を設置しました",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "リコー環境事業開発センターは、創立80周年の記念事業の1つとして設立",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "リコー創立90周年",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "当社子会社の設立および会社分割（簡易吸収分割）による新設子会社へのサーマル事業承継に関するお知らせ",
+    "url": "https://jp.ricoh.com/IR/news",
+    "pass": 1
+   },
+   {
+    "quote": "リコー創業者・市村清の信条は、現在もリコーグループに根づいています",
+    "url": "https://jp.ricoh.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "リコーグループの創業者・市村清は、「人を愛し 国を愛し 勤めを愛す」という三愛精神を、企業活動の揺るがぬ原点に据えました",
+    "url": "https://jp.ricoh.com/about/to-our-stakeholders",
+    "pass": 1
+   },
+   {
+    "quote": "リコーは1936年の創業以来、90年にわたる事業活動を通じて、常に世の中の“はたらく”に寄り添ってきました",
+    "url": "https://jp.ricoh.com/about/to-our-stakeholders",
+    "pass": 1
+   },
+   {
+    "quote": "「三愛精神」は、1946年にリコーの創業者、市村清が提唱したもので、リコーでは創業の精神と位置付けています",
+    "url": "https://jp.ricoh.com/about/ricoh-way",
+    "pass": 1
+   },
+   {
+    "quote": "その原点は、1936 年の創業からリコーが受け継いできた三愛精神",
+    "url": "https://jp.ricoh.com/about/ricoh-way",
+    "pass": 1
+   },
+   {
+    "quote": "リコー創業者・市村清の信条は、現在もリコーグループに根づいています",
+    "url": "https://jp.ricoh.com/about/ricoh-way",
+    "pass": 1
+   },
+   {
+    "quote": "リコーグループの企業理念、創業から90年にわたる沿革と、事業概要およびさまざまな数字で見るリコーグループの今についてご紹介します",
+    "url": "https://jp.ricoh.com/about/integrated-report/2026",
+    "pass": 1
+   },
+   {
+    "quote": "リコーは創業以来、お客様の “はたらく” に変わらずに寄り添い続け、変わりゆくお客様の “はたらく” に応じた価値を提供し続けてきました",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "当社子会社の設立および会社分割（簡易吸収分割）による新設子会社へのサーマル事業承継に関するお知らせ",
+    "url": "https://jp.ricoh.com/IR",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター出力サービスを提供するリコー厚木事業所は、リコーの複合機、プリンターのキーパーツの試作、技術開発を行う生産拠点として1971年に設立、半世紀近くの歴史を持ち、以下のような特徴がある",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年創業のDesktop Metal（以下デスクトップメタル社）はそんな金属AM分野（※）で成長を続けるユニコーン企業として無視できない存在感を発揮しています",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "2015年の創業以来、デスクトップメタル社は成⻑を続けており、世界各国に拠点を展開するほか、2021年には NY証券取引所に上場するに至っています",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "序論：創業哲学とグローバル展開の思想的背景",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "1936年、理化学研究所の成果を製品化するために設立された理研感光紙株式会社を源流とする同社は、創業者・市村清が掲げた「三愛精神」（人を愛し、国を愛し、勤めを愛する）を経営の根幹に据えてきた 1",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、1962年のアメリカ現地法人設立から、最新の2026年に至るまでの進出の変遷を、技術革新、M&A戦略、そして事業構造の転換という観点から、時系列かつ事実ベースで詳細に分析する",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "リコーのアメリカにおける歴史の第一歩は、1962年にニューヨークに設立されたリコー・インダストリーズU.S.A.（Ricoh Industries U.S.A., Inc.）によって刻まれた 5",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "1970年1月、ニューヨーク事務所とリコー・インダストリーズU.S.A.を統合し、ニュージャージー州に「リコー・オブ・アメリカ（Ricoh of America, Inc.）」を設立した 1",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "1973年、リコーはカリフォルニア州アーバインに製造子会社「リコー・エレクトロニクス（Ricoh Electronics, Inc.：REI）」を設立した 2",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "REIの設立は、単なるコスト削減や貿易摩擦回避の手段ではなく、現地顧客のニーズに即応するための「地産地消」モデルの先駆けであった",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "東芝テックとの複合機事業統合による新会社「エトリア」の設立、そして高性能スキャナーで名高いPFUの完全子会社化",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リコー（証券コード: 7752）は、1936年に理化学研究所の研究成果を事業化する目的で設立された理研感光紙株式会社を源流とする、長い歴史を持つ企業です",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "2024年7月には、東芝テックとの事業統合により設立された合弁会社「エトリア株式会社」がこのセグメントの中核を担うことになりました",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "これはPFUの買収や東芝テックとの合弁会社設立（ETRIA）に伴う資産の承継などが主な要因です",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   }
+  ],
+  "撤退・縮小の時期と理由": [
+   {
+    "quote": "拡大・縮小機能つきA3判PPC リコピーFT4060を発売",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "拡大・縮小機能付A3判PPC",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "拡大・縮小機能付のA3判PPC 「リコピーFT4060」は、小型機でありながら高い画質と耐久性を誇り、発売からわずか10ヵ月で10万台を売り上げた大ヒットマシンでした",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "子会社（孫会社）持分の譲渡および譲渡益計上に関するお知らせ",
+    "url": "https://jp.ricoh.com/IR/news",
+    "pass": 1
+   },
+   {
+    "quote": "掲載期間終了により、ページが公開終了となった",
+    "url": "https://jp.ricoh.com/about/at-a-glance%20",
+    "pass": 1
+   },
+   {
+    "quote": "社内でのITインフラに関する問い合わせ業務のプロセスを見直し、生成AIやチャットボットを活用することで、膨大な工数を削減し、業務効率化に貢献しています",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "自己株式立会外買付取引(ToSTNeT-3)による自己株式の取得結果及び自己株式の取得終了並びに自己株式の消却に関するお知らせ [PDF]",
+    "url": "https://jp.ricoh.com/IR/stock/shareholder-returns",
+    "pass": 1
+   },
+   {
+    "quote": "⾃⼰株式の取得状況及び取得終了に関するお知らせ [PDF]",
+    "url": "https://jp.ricoh.com/IR/stock/shareholder-returns",
+    "pass": 1
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2026年10月22日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2026年9月24日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2026年8月27日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2026年7月23日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2026年6月25日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2026年5月21日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2026年4月23日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2026年3月26日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2026年2月26日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2026年1月27日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2026年1月14日 12:00～12:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2025年12月22日 8:30～9:00（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2025年12月19日 17:00～17:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2025年12月17日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2025年12月10日 12:00～12:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2025年10月29日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2025年10月22日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2025年9月24日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2025年8月27日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2025年7月30日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2025年6月25日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2025年5月28日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2025年4月23日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2025年3月26日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "システムメンテナンス終了のお知らせ 2025年2月26日 18:00～19:30（日本時間）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "リコー 産業用プリンタ撤退のニュース | インクマニアのブログ",
+    "url": "http://blog.inkmania.net/?eid=1236336",
+    "pass": 3
+   },
+   {
+    "quote": "保守パーツやスペアパーツなど、在庫を抱えるとコストが掛かりますが、絶対必要なものをなるべく少なく持っておきたいというケースや、あとはなくなったもの、生産終了したものが条件としてはマッチします",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "リコー 製造終了デジカメの部品、3Dプリンターで造形 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXMZO20770480V00C17A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "リコーを芯からアジャイルにする旅は続く 〜タスクフォースの終了と私たちのこれから",
+    "url": "https://note.com/mindeja_ricoh",
+    "pass": 3
+   },
+   {
+    "quote": "物流会社がメーカーを支配する時代？――日本の製造業を裏側から変える物流再編",
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "第五期：2000年–2010年 業界再編の主役としての巨大M&AとITへの傾斜",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "■ 5つのウルトラニッチ・ナレッジ ① 起業：資本金10万円から高付加価値事業を創る ② 事業開発：日米の現場でAIを武器にする事業創造 ③ 投資：インデックスからエンジェル投資まで ④ M&amp;A/PMI：事業譲渡・会社統合の泥臭い進め方 ⑤ グローバル：米国MBA、海外移住・就職の突破口",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "これらの動きは、単なる事業再編のパッチワークではなく、「守りを固め、攻めに転じる」という明確な戦略的意図に基づいています",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "財務データに刻まれた過去の軌跡を読み解き、事業再編の真の狙いを分析することで、同社が描く未来の青写真の実現可能性を多角的に検証します",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "収益の多くを、市場が縮小傾向にあるオフィスプリンティング事業に依存している構造",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "リコーは、強固な既存事業基盤という「強み」と、市場縮小という「弱み」を同時に抱えています",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "B/Sからは、積極的な事業再編を進めるリコーの姿と、それに伴う財務構造の変化が見て取れます",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "これらの資産が将来の収益に結びつかなければ、減損リスクが顕在化する可能性があります",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   }
+  ],
+  "AMの規模": [
+   {
+    "quote": "1960年代に入り売上高100億円を超える企業となった理研は、1963年4月社名を現在の「株式会社リコー」に改め、さらに大きな飛躍を遂げることになります",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "Industries, U.S.A., Inc.を統合し北米の拠点となるRicoh of America, Inc.をいち早く設立しています",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "続いて、1983年12月には、イギリス・テルフォードでOA関連製品の生産拠点としてリコーUKプロダクツがその活動を開始しています",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "応用基礎研究から実用化をねらった開発までを行う総合的な研究開発拠点です",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "リコーの国内出荷台数におけるデジタル率が50％を超えるなど、国内外でデジタル機の本格的な普及を促進しました",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "海老名市に複合機/プリンターの開発拠点として、",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "リコーテクノロジーセンターは、大森事業所（東京都大田区）や厚木事業所（厚木市）などに分散していた日本国内の画像＆ソリューション製品（複合機・プリンター等）の開発拠点を集結し、要素技術開発から生産技術、さらには製品評価までを一箇所に集約したリコーの技術開発拠点",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "新工場は、国内のサプライ生産拠点である沼津事業所（静岡県沼津市）に増設されました",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "主要製品の研究・開発拠点であるリコーテクノロジーセンター（神奈川県海老名市）が日本経済新聞社主催の第4回 日経ものづくり大賞を受賞",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "リアルタイム双方向通信や多拠点通信を可能にする最適なプラットフォームをクラウド上に構築し、インターネット経由で本社や支社間といった同一企業内はもちろん異なる企業間でもビジュアルコミュニケーションを可能にするテレビ会議/Web会議システム「ユニファイド",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターによる試作品",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターをキーとしたアディティブ・マニュファクチャリング事業(AM事業)に参入",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "事業の第一弾として、ものづくりイノベーション拠点「RICOH Rapid Fab」を開設",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターの仕入れ販売、3Dプリンター出力サービス、リコーの実践事例に基づくコンサルティング提案を展開し、順次グローバルに拠点を拡張していく予定です",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1,353億円（2026年3月31日現在）",
+    "url": "https://jp.ricoh.com/about/facts",
+    "pass": 1
+   },
+   {
+    "quote": "2兆6,083億円（2026年3月期）",
+    "url": "https://jp.ricoh.com/about/facts",
+    "pass": 1
+   },
+   {
+    "quote": "国内・海外拠点一覧 | リコーグループ 企業・IR | リコー",
+    "url": "https://jp.ricoh.com/about/location",
+    "pass": 1
+   },
+   {
+    "quote": "リコーグループは、日本、北米、中南米、欧州、アジア・パシフィックに拠点を置き、世界約200の国と地域で事業を展開しています",
+    "url": "https://jp.ricoh.com/about/location",
+    "pass": 1
+   },
+   {
+    "quote": "審査員コメントとしまして、デジタルサービスの企業への変革を掲げ、全社を挙げてデジタル人材育成を推進し続けた結果、デジタル分野の売上比率が如実に伸びているなど、ビジネスインパクトが大きく、人的資本戦略との連動性も総合的に高い、と評価いただきました",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルサービスの売上貢献に向けたリコーグループ共通のプラットフォームRSIの基盤強化と、AIソリューションを提供するプラットフォーム構築についてご紹介します",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "国内・海外拠点毎に共通業務基盤のクラウド移行を進めており、グローバル視点では、データ基盤整備とデータ標準化を実施しています",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "これはリコーの価値共創拠点であるRICOH BIL TOKYOでのお客様との共創活動がきっかけになっています",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "リコーの価値共創拠点 RICOH BUSINESS INNOVATION LOUNGE TOKYO",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "1,000億円",
+    "url": "https://jp.ricoh.com/IR/stock/shareholder-returns",
+    "pass": 1
+   },
+   {
+    "quote": "2023年8月28日訂正 P23 ストックビジネス売上 FY23見通し削除、FY25目標に修正記載",
+    "url": "https://jp.ricoh.com/IR/events/earning",
+    "pass": 1
+   },
+   {
+    "quote": "「ごてんば 響環の森」の最大の見どころは、1つの拠点で脱炭素（カーボンニュートラル）と資源循環（サーキュラーエコノミー）の両方の実践現場を体験できることです",
+    "url": "https://jp.ricoh.com/sustainability/environment/eco-business-center",
+    "pass": 1
+   },
+   {
+    "quote": "すべてのお知らせ｜リコー3Dプリンター出力サービス",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "『技術者が語る 3Dプリンターのいろは』最新記事を公開しました",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "【ご参加ありがとうございました】2月16日開催ウェビナー「技術者が語る3Dプリンターによるものづくり改革」",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "12月8日（木）開催セミナー（福岡）「設計出身者が考える、3Dプリンターで開発効率・生産性を向上させる発想とは！？」",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "【ご参加ありがとうございました】11月29日(火)開催ウェビナー「技術者が語る 3Dプリンター使いこなしへの道」",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "【ご参加ありがとうございました】9月15日(木)開催ウェビナー「技術者が語る 3Dプリンター使いこなしへの道 ～造形方式による表面性・文字の再現性の違い・一体成形時の留意点と、使いこなし例の紹介～」",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "『失敗しない！3Dプリンターでの大型部品造形のポイントを技術者が解説』取材記事を公開中です",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "【ご参加ありがとうございました】5/19（木）開催ウェビナー「技術者が語る3Dプリンター使いこなし術 ～造形方式・造形方向によって再現できる凹凸形状が異なる！？～」",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "『失敗しない！3Dプリンターでの大型部品造形のポイントを技術者が解説』を公開しました",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "【ご参加ありがとうございました】3/10（木）開催ウェビナー「技術者が語る『リコー3Dプリンター出力サービス』の効果的な活用方法」",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "【ご参加ありがとうございました】1/25（火）開催ウェビナー申込受付中！「技術者が語る3Dプリンター使いこなし術～造形方式・造形方向によって造形できる薄肉部が異なる！？～」",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンター活用事例】株式会社小川優機製作所様の事例を公開しました",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンター活用事例】株式会社トムス デザインセンター様の事例を公開しました",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "『動画でわかる！3Dプリンター出力サービス』を追加しました",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "リコー 3Dプリンター デジタルEXPO 2020開催！（6/18 ～ 7/31）",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター出力サービスWebサイトをリニューアル！",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "特設ページ「の3Dプリンター出力サービスで最終製品を造形」",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Monoist記事掲載「最新鋭の3Dプリンターと使いこなし…」",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Monoist記事掲載「金型レス時代の到来か、3Dプリンターは…」",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター出力サービス",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ある3Dプリンターの専属業者様とお話を",
+    "url": "http://blog.inkmania.net/?eid=1236336",
+    "pass": 3
+   },
+   {
+    "quote": "させていただいた時3Dプリンター事業に関しても東京には専属担当者がいるが、地方の出先になると知識不足のため我々専門業者に全て丸投げとなっているとのことでした",
+    "url": "http://blog.inkmania.net/?eid=1236336",
+    "pass": 3
+   },
+   {
+    "quote": "製造業を知り尽くしたリコーだからこそできる3Dプリンター出力サービス | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業を知り尽くしたリコーだからこそできる3Dプリンター出力サービス",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、3Dプリンターの出力サービス事業者は数多く存在する",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしリコーは製造業の企業としてもの作りの現場に精通すると同時に、3Dプリンターを20年以上活用してきたユーザーとしての顔を持つという、他にあまり例のない企業だ",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "リコーの取り組みと3Dプリンターを取り巻く状況について、事業開発本部AM事業センター RMマーケティング室 シニアスペシャリスト江本氏にお話をお聞きした（以下、インタビュー本文ではリコーで記載（敬省略））",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター出力サービスを提供するリコー厚木事業所は、リコーの複合機、プリンターのキーパーツの試作、技術開発を行う生産拠点として1971年に設立、半世紀近くの歴史を持ち、以下のような特徴がある",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "厚木事業所では各種の材料を扱える大型の高性能3Dプリンターを複数台導入し、出力サービスを提供している",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "実際の治具の使い方をヒアリングして、要望や条件に併せて設計自体をリコーで行い、正式な治具として使えるよう、3Dプリンターで少量作って提供しました",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "「3Dプリンターで解決できるもの」というくくりで問題解決をしています",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "元々、リコーは20年以上にわたって3Dプリンターを活用してきた歴史があります",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "自分たちがもの作りをしていて、それを改善するために、3Dプリンターは非常にいい道具だと気づきました",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   }
+  ],
+  "客の業界": [
+   {
+    "quote": "リコーは創立50周年記念事業の一環として、長期的視野に立った総合的な研究開発体制を強化拡充する「研究所群構想」を進めていましたが、その中核となる中央研究所を、1986年4月23日横浜市港北ニュータウンの一角に設立しました",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "応用基礎研究から実用化をねらった開発までを行う総合的な研究開発拠点です",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "リコー沼津事業所に、重合トナー「PxPトナー」の量産工場が竣工",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "重合トナー「PxPトナー」の量産工場が竣工",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "その後2014年9月には100%自然エネルギーで点灯する広告塔を設置し、現在に至ります",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターによる試作品",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "40チャンネル面発光型半導体レーザーアレイ素子（VCSEL: Vertical Cavity Surface Emitting Laser)を開発したリコー未来技術研究所技師長の佐藤俊一と、同研究所東北研究センターの軸谷直人が、平成27年度科学技術分野の文部科学大臣表彰において科学技術賞を受賞しました",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "高齢化社会への対応、医療費削減、地域間の医療水準格差解消などが求められるヘルスケア分野を、社会課題の解決に取り組む分野の一つとして位置付け、事業参入することに決定",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "その一環として、画像診断装置事業の事業展開・研究開発を加速するため、横河電機株式会社から2016年4月1日に脳磁計*事業を譲り受けました",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "メディカルイメージング領域では、脊髄や脳の神経活動を見える化する計測装置の開発・展開など、医療画像診断システム＆サービスを展開します",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "北陸自動車道丸岡ICより13km車で15分",
+    "url": "https://jp.ricoh.com/about/location",
+    "pass": 1
+   },
+   {
+    "quote": "360度の高画質映像/見たい角度を自由に選べる/複数のカメラを同時利用可能/通信環境が悪くても配信可能などの特徴があり、建設現場や点検業務、医療現場、イベント配信などで導入実績があります",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "新たな活用ケース（救急医療機関の機能強化）",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "施設の省エネルギーや、太陽光・バイオマスなどの再生可能エネルギーの利用・マネジメントについて、実践の現場で体験いただけます",
+    "url": "https://jp.ricoh.com/sustainability/environment/eco-business-center",
+    "pass": 1
+   },
+   {
+    "quote": "【ご参加頂きありがとうございました】7/8（木）開催ウェビナー「大型部品の造形は上手くいかない！？～コピー機の大型部品試作を例に、リコーメカ設計者が語るポイント～」",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Monoist記事掲載「金型レス時代の到来か、3Dプリンターは…」",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター出力サービスを提供するリコー厚木事業所は、リコーの複合機、プリンターのキーパーツの試作、技術開発を行う生産拠点として1971年に設立、半世紀近くの歴史を持ち、以下のような特徴がある",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "設計まで行った一例としては日本光電（医療機器メーカー）様から、商品の立ち上げの中で必要になってくる治具",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "—— 3Dプリンターと言えば「試作品」というイメージがありますが、「最終製品」の製造を手掛けることもあるのでしょうか？",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "国内は試作品製作に3Dプリンターを使うことが多く、大量生産を見越したものをあえて3Dプリンターで作るという発想は、まだまだ難しいと考えられており、日本企業の品質に求めるこだわりが、3Dプリンター活用の上で重要なテーマとなっていると言う",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "リコー：日本は金型によるもの作りの精度が非常に高く、更に大量生産でコストを下げることを実現しています",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "日本で3Dプリンターの活用が遅れる中、海外では航空機エンジンの部品生産に3Dプリンターが使われるなど、最終製品の量産を行う動きも出てきている",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "—— 3Dプリンターを「最終製品」の量産で使用する際の課題は？",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで試作品ではなく、最終製品を提供したいというのが究極の目標です",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "試作品や治具への利用については普及してきましたし、大手でも使われるようになってきました",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の製品開発プロセスにおける試作品だけでなく、顧客の手元に届く最終製品の製造手段としての活用も広がる3Dプリンター（AM、Additive Manufacturing）",
+    "url": "https://www.nikkei.com/article/DGXMZO20770480V00C17A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで再生医療 まず移植用組織",
+    "url": "https://www.nikkei.com/article/DGXMZO20770480V00C17A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター活用がベストな方法ではないと判断した場合は、金型成形など、お客様の課題に即した代替案をご提示することもあります",
+    "url": "https://www.ricoh.co.jp/3dp/advantage",
+    "pass": 3
+   },
+   {
+    "quote": "「厳しい試験にも適応できる高い機能性の造形物が欲しい」、「自社の3Dプリンターでは扱えない材料や大物をハイエンド装置で造形したい」、「試作段階の造形物を量産したい」など、あらゆる悩みにお応えし、3Dプリンター活用におけるビジネスの可能性を広げるご支援をいたします",
+    "url": "https://www.ricoh.co.jp/3dp/advantage",
+    "pass": 3
+   },
+   {
+    "quote": "業種：空調・給湯機器・半導体関連の制御機器医療機器の部品開発・製造",
+    "url": "https://www.ricoh.co.jp/3dp/advantage",
+    "pass": 3
+   },
+   {
+    "quote": "リコーとシーメンスが協業、工業用アルミニウム部品の量産化へ | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車（80）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙（74）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "医療（168）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リコーとシーメンス・デジタル・インダストリーズ・ソフトウェア株式会社が、バインダージェット方式によるアルミニウム部品の量産化に向けた協業を開始したことを2023年11月1日に発表した",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "リコー社は、熱伝導が良く軽量なことから、広く使われているアルミニウム部品の量産を可能にする3Dプリント技術の開発を進めてきた",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "指向性エネルギー堆積法 / DED（Direct Energy Deposition）を解説！WAAM方式と何が違う？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で活躍する3Dプリンター製の治具・工具",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の3Dプリンター活用の現状と将来",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界における3Dプリンターの活用",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界で活躍する3Dプリンター製最終製品",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "金属AMの量産への期待が高まるデスクトップメタルが日本の製造業に与える影響",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "今後の量産市場を担うバインダージェット方式",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "一言で表現するなら「試作から量産まで見据え、金属AMを中心にソフトウェアからハードウェアまで一体的に開発している企業」といえるでしょう",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "デスクトップメタル社は、試作や少量生産行うための Studio System™、中量生産を行うための Shop System™、本格的な量産を見据えた Production System™ の 3 つのシリーズを製造販売しています",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "デスクトップメタル社が目指しているのは「AM2.0」と呼ばれる金属AM による本格的な部品量産であり、AMを前提とした設計製造の普及です",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "量産を⾒据えた Shop System™ や Production System™ でアルミ材料の最終部品を製造できるとなれば、自動⾞業界をはじめとした日本の製造業に大きな影響を与えるでしょう",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "量産能力をもった Shop System™ や Production System™ では本格的な AM のための設計も採用できますが、そのための設計支援ソフトウェアとして Live Parts などの独自ソフトウェアの開発も進んでいます",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "2021 年現在の日本企業に関していえば、最終部品製造は従来工法で⾏うため、3Dプリンターは試作や治具にしか活用していない企業が大半です",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "この状況を変えるインパクトを持っているのが、量産に適した製造能力を持つバインダージェット方式です",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "その後の量産市場を狙う同社の製品は、すでに世界中で販売されおり、日本市場での今後の拡大が期待できます",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "リスクを取ってAM2.0と呼ばれる最終部品の量産に取り組む世界中の企業に対して、日本はどう渡り合っていくべきなのか",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "その半導体 \"誰\"が作っている？｜設計/材料/部品/装置まで世界の会社をまとめた【永久保存版】",
+    "url": "https://www.youtube.com/watch?v=9Wunsl8ruHQ",
+    "pass": 3
+   },
+   {
+    "quote": "🦉 AIニュース夕刊｜2026年11月2日（月）18時OpenAIがUAEと4件の協定、韓国はAI関連に21.3兆ウォン投資へ！――香港は金融AIの統制枠組みづくりに着手、日本ではリコーと川崎重工が提携",
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "印刷技術が次世代太陽電池に！リコーが量産へ大型投資",
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト量産へ国が1000億円 リコーと長州産業で挑む「日の丸太陽電池」の再起",
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池、官民で量産へ 国がリコー・長州産業に補助金1000億円",
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "1950年代、リコーはカメラの量産化に成功し、日本国内で事務用複写機「リコピー101」を投入して事務効率化の先駆者となった 1",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   }
+  ],
+  "素材": [
+   {
+    "quote": "樹脂判別ハンディセンサー「RICOH HANDY PLASTIC SENSOR B150」を発売",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "テレビCM 社員が語るストーリー 樹脂判別ハンディセンサー｜建部 哲郎（30秒）",
+    "url": "https://jp.ricoh.com/about/request",
+    "pass": 1
+   },
+   {
+    "quote": "「ごてんば 響環の森」の最大の見どころは、1つの拠点で脱炭素（カーボンニュートラル）と資源循環（サーキュラーエコノミー）の両方の実践現場を体験できることです",
+    "url": "https://jp.ricoh.com/sustainability/environment/eco-business-center",
+    "pass": 1
+   },
+   {
+    "quote": "Mark Two（樹脂3Dプリンター）導入による現場活性化",
+    "url": "https://www.ricoh.co.jp/3dp/advantage",
+    "pass": 3
+   },
+   {
+    "quote": "補助金活用による金属3Dプリンター「Metal X™ System」導入事例 -最適な設備投資による事業開拓への挑戦-",
+    "url": "https://www.ricoh.co.jp/3dp/advantage",
+    "pass": 3
+   },
+   {
+    "quote": "本体の他に関連装置が必要な機種もございますし、金属3Dプリンターなどでは設置環境の整備が必要な場合もございます",
+    "url": "https://www.ricoh.co.jp/3dp/advantage",
+    "pass": 3
+   },
+   {
+    "quote": "リコーとシーメンスが協業、工業用アルミニウム部品の量産化へ | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター（148）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター（104）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂材料（73）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "金属材料（29）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リコーとシーメンス・デジタル・インダストリーズ・ソフトウェア株式会社が、バインダージェット方式によるアルミニウム部品の量産化に向けた協業を開始したことを2023年11月1日に発表した",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェット方式は、金属3Dプリンターにおける造形方式の一種で、金属粉末を造形領域に広げ、その上に接着剤を塗布した後、部品を炉で焼結して強化する造形方式だ",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造や切削などの従来の金属加工方法では不可能だった複雑な形状の金属部品の製造が可能な点に特徴がある",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "リコー社はこのシステムの導入をすることで、アルミニウム部品をバインダージェット方式で生産するための準備、計画、スケジューリング、生産管理といったフローの最適化を目指す",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは、従来の加工方法では製造できない複雑で入り組んだ金属部品を製造できる点に大きな特徴がある",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "リコー社は、熱伝導が良く軽量なことから、広く使われているアルミニウム部品の量産を可能にする3Dプリント技術の開発を進めてきた",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "リコー社のバインダージェット方式は自社のインクジェットプリントの技術とノウハウを応用して開発されたもので、従来の金属3Dプリンターよりも複雑な形状の金属部品の製造が可能だ",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "世界初・貴金属のみの「ハイエントロピー合金粉末」の開発に成功",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "車や建物自体を充電に使える3D構造のカーボン材料を開発 ― 東北大学＆ジョンズ・ホプキンス大学",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪大学が金属3Dプリンターで骨に代替可能な新材料の開発に成功",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使える樹脂材料は？ABS樹脂やPLA樹脂など種類と特徴を解説",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使える金属材料は？ステンレスやアルミニウムなど種類と特徴を解説",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂・金属以外の材料の3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "金属AMのデスクトップメタルが日本の製造業に与える影響 | リコー",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "金属AMの量産への期待が高まるデスクトップメタルが日本の製造業に与える影響",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "リコージャパンが2020 年度に実施した3Dプリンター実態調査の結果、「次に3Dプリンターで造形したい材料は金属材料である」と回答した企業は17％ありました",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "日本の産業界からも多くの関心が寄せられる金属3Dプリンター分野には、国内外のプレイヤーの参入が相次いでいます",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "2015年創業のDesktop Metal（以下デスクトップメタル社）はそんな金属AM分野（※）で成長を続けるユニコーン企業として無視できない存在感を発揮しています",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "一言で表現するなら「試作から量産まで見据え、金属AMを中心にソフトウェアからハードウェアまで一体的に開発している企業」といえるでしょう",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "デスクトップメタルの金属3Dプリンターは、造形後に脱脂や焼結といった処理を行い金属部品を完成させる仕組みなのですが、各工程での造形シミュレーションを⾏うソフトウェア開発も行っています",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "原理的には、MIM（Metal Injection Molding／金属粉末射出成形）の技術を応用しています",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂とワックスと金属粉を混錬した材料に 3D プリンターで造形した後、脱脂装置でワックスを除去し、焼結装置で焼結しながら樹脂を抜いて金属部品として完成させる仕組みです",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "従来金属3Dプリンターで多く採用されてきた SLS （Selective Laser Sintering／粉末焼結積層造形）方式では、材料に金属粉を採用する関係上、粉塵爆発や粉塵による健康被害などを防ぐために大掛かりな設備を必要としていましたが、Studio System™ は棒状に固めた専用材料を造形に利用することで設備負担を大幅に軽減しています",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "こうした 3 つの装置を一体的に制御できるソフトウェアの開発や、専用材料開発を一つの企業の中で一貫して⾏うことで、MIM や焼結のノウハウがない企業でも金属造形を⼿がけられます",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "デスクトップメタルは材料、装置、制御ソフトウェアを一体的に提供することで、すべてのエンジニアが金属AMを活用できる環境を実現しようとしています",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "従来は金属粉と樹脂とワックスを混錬して材料を生成していたのですが、Studio System™ 2 ではワックスを使わずに金属粉と樹脂のみで製造できるように改良しています",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "ワックスが果たしていた役割を樹脂成分で補っているため、焼結時間を⻑くとり樹脂成分を揮発させる必要があります",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "脱脂装置（デバインダー）不要で金属部品を造形できる Studio System™ 2",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂 3D プリンターの場合もそうでしたが、まずは公設試験研究機関や大学、国の研究機関などの公的な機関への導入を目指しています",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "その次に実際金属加工を⾏っている企業への拡大を図っていきたいと考えています",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "現状、金属3Dプリンターは切削加工などほかの従来加工法と比べて、仕上がり精度が高くありません",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "現在、金属の切削加工に強みを持っている企業が導入すれば、金属の塊から削っていくよりも、ニアネットシェイプに造形した部品を切削加工で仕上げる方が加工時間もコストも削減できるため、既存加工技術の活用が可能になります",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "デスクトップメタル社が目指しているのは「AM2.0」と呼ばれる金属AM による本格的な部品量産であり、AMを前提とした設計製造の普及です",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "金属AMの分野ではアルミは難易度の高い材料の一つですが、デスクトップメタル社は 6061 アルミに相当する材料の開発を発表しています",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "量産を⾒据えた Shop System™ や Production System™ でアルミ材料の最終部品を製造できるとなれば、自動⾞業界をはじめとした日本の製造業に大きな影響を与えるでしょう",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "こうした金属AM 領域の拡大は、従来の金属加工技術と対⽴する技術として成⻑していくものではありません",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "むしろ金属AMを補完する技術として、切削などの従来加工技術が存在します",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "金属AMには専門的な取り組みが不可⽋ですが、大きな可能性が秘められていると思います",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "ニューヨーク事務所とRicoh Industries, U.S.A., Inc.を統合して100％出資の現地法人Ricoh of America, Inc.をニュージャージー州に設立（～1984年）",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "100％出資の現地法人Ricoh of America, Inc.を",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "第126回定時株主総会における議決権行使結果に対する分析・対応の概要について",
+    "url": "https://jp.ricoh.com/IR/news",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月23日に第126回定時株主総会を開催しました",
+    "url": "https://jp.ricoh.com/IR/news",
+    "pass": 1
+   },
+   {
+    "quote": "新サービス「株主総会リアルタイム字幕」を3社で共創(リコー)",
+    "url": "https://jp.ricoh.com/about/empowering-each-other",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報 | リコーグループ 企業・IR | リコー",
+    "url": "https://jp.ricoh.com/IR",
+    "pass": 1
+   },
+   {
+    "quote": "第126回定時株主総会（2026年6月23日開催）",
+    "url": "https://jp.ricoh.com/IR",
+    "pass": 1
+   },
+   {
+    "quote": "第126回定時株主総会における議決権行使結果に対する分析・対応の概要について",
+    "url": "https://jp.ricoh.com/IR",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家の皆さまからのIR・財務情報に関するご質問・お問い合わせはこちら",
+    "url": "https://jp.ricoh.com/IR",
+    "pass": 1
+   },
+   {
+    "quote": "株主還元 | リコーグループ 企業・IR | リコー",
+    "url": "https://jp.ricoh.com/IR/stock/shareholder-returns",
+    "pass": 1
+   },
+   {
+    "quote": "株主還元方針については、総還元性向50%を目安とし、配当利回りを意識した継続的な増配と機動的な自己株式取得を行う方針です",
+    "url": "https://jp.ricoh.com/IR/stock/shareholder-returns",
+    "pass": 1
+   },
+   {
+    "quote": "株主総会 | リコーグループ 企業・IR | リコー",
+    "url": "https://jp.ricoh.com/IR/events/general-meeting",
+    "pass": 1
+   },
+   {
+    "quote": "第126回 定時株主総会",
+    "url": "https://jp.ricoh.com/IR/events/general-meeting",
+    "pass": 1
+   },
+   {
+    "quote": "第125回 定時株主総会",
+    "url": "https://jp.ricoh.com/IR/events/general-meeting",
+    "pass": 1
+   },
+   {
+    "quote": "第124回 定時株主総会",
+    "url": "https://jp.ricoh.com/IR/events/general-meeting",
+    "pass": 1
+   },
+   {
+    "quote": "第123回 定時株主総会",
+    "url": "https://jp.ricoh.com/IR/events/general-meeting",
+    "pass": 1
+   },
+   {
+    "quote": "第122回 定時株主総会",
+    "url": "https://jp.ricoh.com/IR/events/general-meeting",
+    "pass": 1
+   },
+   {
+    "quote": "第121回 定時株主総会",
+    "url": "https://jp.ricoh.com/IR/events/general-meeting",
+    "pass": 1
+   },
+   {
+    "quote": "第120回 定時株主総会",
+    "url": "https://jp.ricoh.com/IR/events/general-meeting",
+    "pass": 1
+   },
+   {
+    "quote": "第119回 定時株主総会",
+    "url": "https://jp.ricoh.com/IR/events/general-meeting",
+    "pass": 1
+   },
+   {
+    "quote": "第118回 定時株主総会",
+    "url": "https://jp.ricoh.com/IR/events/general-meeting",
+    "pass": 1
+   },
+   {
+    "quote": "第117回 定時株主総会",
+    "url": "https://jp.ricoh.com/IR/events/general-meeting",
+    "pass": 1
+   },
+   {
+    "quote": "株主様向け巡珈（JUNCA）ご紹介動画（2026年9月期）／石光商事株式会社",
+    "url": "https://www.youtube.com/watch?v=9Wunsl8ruHQ",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料・決算説明会動画 | 株主・投資家の皆様へ | リコーリース株式会社",
+    "url": "https://www.r-lease.co.jp/ir/library/meeting/",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7752",
+    "pass": 3
+   },
+   {
+    "quote": "親会社の所有者に帰属する持分（自己資本）は1兆301億円、親会社所有者帰属持分比率（自己資本比率）は43.7%と、健全な水準を維持しています",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "継続してマイナス（2025年3月期は793億円のマイナス）となっており、PFUの買収やETRIAへの出資、設備投資など、将来の成長に向けた投資を積極的に行っていることが分かります",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "株主還元に積極的な姿勢が明確に表れています",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期の親会社所有者帰属持分当期利益率は4.42%と、多くの日本企業が目標とする8%を大きく下回っています",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "1株当たり親会社所有者帰属持分（BPS）:",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、財務基盤は健全であり、将来への投資と株主還元を積極的に行う余力は十分にある",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "1960年代に入り売上高100億円を超える企業となった理研は、1963年4月社名を現在の「株式会社リコー」に改め、さらに大きな飛躍を遂げることになります",
+    "url": "https://jp.ricoh.com/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1,353億円（2026年3月31日現在）",
+    "url": "https://jp.ricoh.com/about/facts",
+    "pass": 1
+   },
+   {
+    "quote": "2兆6,083億円（2026年3月期）",
+    "url": "https://jp.ricoh.com/about/facts",
+    "pass": 1
+   },
+   {
+    "quote": "審査員コメントとしまして、デジタルサービスの企業への変革を掲げ、全社を挙げてデジタル人材育成を推進し続けた結果、デジタル分野の売上比率が如実に伸びているなど、ビジネスインパクトが大きく、人的資本戦略との連動性も総合的に高い、と評価いただきました",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルサービスの売上貢献に向けたリコーグループ共通のプラットフォームRSIの基盤強化と、AIソリューションを提供するプラットフォーム構築についてご紹介します",
+    "url": "https://jp.ricoh.com/about/dx",
+    "pass": 1
+   },
+   {
+    "quote": "1,000億円",
+    "url": "https://jp.ricoh.com/IR/stock/shareholder-returns",
+    "pass": 1
+   },
+   {
+    "quote": "2023年8月28日訂正 P23 ストックビジネス売上 FY23見通し削除、FY25目標に修正記載",
+    "url": "https://jp.ricoh.com/IR/events/earning",
+    "pass": 1
+   },
+   {
+    "quote": "YOKOITO社、1億円投資で生産用3Dプリンター台数を4倍に増強",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社YOKOITO（京都府京都市）は、1億円の投資を行い、Yokoito Additive Manufacturing Center（YAMC）の最新アップ …",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "正確な売上高や累計出荷台数などは開示していないのですが、世界の3Dプリンターに関する統計情報を提供している3Dプリンター関連調査結果によると、1000台以上の出荷実績を持っているようです",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "135,364(百万円)",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7752",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 （百万円） ［］内は人数",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7752",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 （百万円）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7752",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト量産へ国が1000億円 リコーと長州産業で挑む「日の丸太陽電池」の再起",
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府が1,000億円支援！プリンター技術で太陽電池を作る時代が来た！｜リコー｜長州産業｜ペロブスカイト太陽電池｜GXサプライチェーン構築支援事業",
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池、官民で量産へ 国がリコー・長州産業に補助金1000億円",
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "当時の年間売上高は130万ドル程度であったが、ここからの成長は加速度的なものとなった 5",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "リコーのP/Lを概観すると、売上高は回復基調にあるものの、利益率の低さが構造的な課題であることが浮き彫りになります",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月期の1兆6,820億円を底に緩やかな回復を見せ、2025年3月期には2兆5,278億円に達しました",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "売上高の回復に比べ、利益の伸びは鈍いのが実情です",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は2.5%（2025年3月期実績の638億円÷2兆5,278億円）と、依然として低い水準にあります",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "税引前利益も700億円（同2.8%）と、売上規模に対して物足りない水準です",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期は457億円と、前期比で微増となりました",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期末で2兆3,571億円と、増加傾向にあります",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "親会社の所有者に帰属する持分（自己資本）は1兆301億円、親会社所有者帰属持分比率（自己資本比率）は43.7%と、健全な水準を維持しています",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期は1,368億円のプラスと、安定して本業で現金を稼ぐ力があることを示しています",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "継続してマイナス（2025年3月期は793億円のマイナス）となっており、PFUの買収やETRIAへの出資、設備投資など、将来の成長に向けた投資を積極的に行っていることが分かります",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期は455億円のマイナス",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "2017年10月31日訂正版 P5 営業利益推移 2018/03 Q2",
+    "url": "https://jp.ricoh.com/IR/events/earning",
+    "pass": 1
+   },
+   {
+    "quote": "特殊要因除く営業利益率 2.9% → 1.9%",
+    "url": "https://jp.ricoh.com/IR/events/earning",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率は2.5%（2025年3月期実績の638億円÷2兆5,278億円）と、依然として低い水準にあります",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "リコー 産業用プリンタ撤退のニュース | インクマニアのブログ",
+    "url": "http://blog.inkmania.net/?eid=1236336",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXMZO20770480V00C17A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "この時期、リコーは大規模な事業買収を通じて販路を確保し、同時に技術のデジタル化を強力に推進した",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "1980年、リコーはハリス・コーポレーション（Harris Corporation）の複写機事業を買収するという戦略的な一手に出た 10",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "ハリス社の事業買収を機に、リコーは自社ブランドによる高付加価値戦略へと舵を切り、1984年にはアメリカ市場で7%のシェアを獲得するまでに成長した 5",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代、リコーは「世界最大の複写機メーカー」という地位を確立するため、アメリカ市場においてかつてない規模の企業買収を連続して行った",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "サビン社（Savin）の買収とマルチブランド戦略の開始",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "サビン社は独自の強力なディーラーネットワークを全米に展開しており、この買収によってリコーは自社ブランドの「Ricoh」とは異なる顧客層へのアクセス権を確保した",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "リコーは、買収したブランドを消滅させるのではなく、あえて「Ricoh」「Savin」「Gestetner」という複数のブランドを併存させた 14",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "■ 5つのウルトラニッチ・ナレッジ ① 起業：資本金10万円から高付加価値事業を創る ② 事業開発：日米の現場でAIを武器にする事業創造 ③ 投資：インデックスからエンジェル投資まで ④ M&amp;A/PMI：事業譲渡・会社統合の泥臭い進め方 ⑤ グローバル：米国MBA、海外移住・就職の突破口",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "これはPFUの買収や東芝テックとの合弁会社設立（ETRIA）に伴う資産の承継などが主な要因です",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "継続してマイナス（2025年3月期は793億円のマイナス）となっており、PFUの買収やETRIAへの出資、設備投資など、将来の成長に向けた投資を積極的に行っていることが分かります",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "すべてのお知らせ｜ リコー3Dプリンター 出力サービス — すべてのお知らせ｜ リコー3Dプリンター 出力サービス リコー ソリューション・商品サイト https://blogs.ricoh.co.jp > print-service",
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "pass": 3
+   },
+   {
+    "quote": "リコー 産業用 プリンタ撤退 のニュース - インクマニアのブログ — リコー 産業用 プリンタ撤退 のニュース - インクマニアのブログ インクマニアのブログ http://blog.inkmania.net > ...",
+    "url": "http://blog.inkmania.net/?eid=1236336",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム部品の量産向け金属 3Dプリンター - リコー — アルミニウム部品の量産向け金属 3Dプリンター - リコー Ricoh https://jp.ricoh.com > 技術 > リコーの技術紹介",
+    "url": "https://jp.ricoh.com/technology/tech/123_metal_3D_printing",
+    "pass": 3
+   },
+   {
+    "quote": "製造業を知り尽くした リコー だからこそできる 3Dプリンター ... — 製造業を知り尽くした リコー だからこそできる 3Dプリンター ... ShareLab NEWS https://news.sharelab.jp > 独自記事",
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "pass": 3
+   },
+   {
+    "quote": "リコー 製造 終了 デジカメの部品、 3Dプリンター で造形 — リコー 製造 終了 デジカメの部品、 3Dプリンター で造形 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXMZO20770480V00C17A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 事業における5つの強み - リコージャパン — 3Dプリンター 事業における5つの強み - リコージャパン リコー ソリューション・商品サイト https://www.ricoh.co.jp > 3Dプリンター",
+    "url": "https://www.ricoh.co.jp/3dp/advantage",
+    "pass": 3
+   },
+   {
+    "quote": "リコー とシーメンスが協業、工業用アルミニウム部品の量産化へ — リコー とシーメンスが協業、工業用アルミニウム部品の量産化へ ShareLab NEWS https://news.sharelab.jp > 業界動向 > 金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "pass": 3
+   },
+   {
+    "quote": "「 RICOH 3Dプリンター 出力サービス」の紹介動画 - YouTube — 「 RICOH 3Dプリンター 出力サービス」の紹介動画 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=9Wunsl8ruHQ",
+    "pass": 3
+   },
+   {
+    "quote": "業績ハイライト | リコー グループ 企業・IR — 業績ハイライト | リコー グループ 企業・IR Ricoh https://jp.ricoh.com > 株主・投資家情報 > IR資料室",
+    "url": "https://jp.ricoh.com/IR/library/selected-consolidated-financial-data",
+    "pass": 3
+   },
+   {
+    "quote": "環境に配慮したバイオマス由来の光 造形 3Dプリンター ... - リコー — 環境に配慮したバイオマス由来の光 造形 3Dプリンター ... - リコー Ricoh https://jp.ricoh.com > info",
+    "url": "https://jp.ricoh.com/info/2022/0728_1",
+    "pass": 3
+   },
+   {
+    "quote": "金属AMのデスクトップメタルが日本の製造業に与える影響 — 金属AMのデスクトップメタルが日本の製造業に与える影響 リコー ソリューション・商品サイト https://www.ricoh.co.jp > 3Dプリンター",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "pass": 3
+   },
+   {
+    "quote": "社員を知る - 岡本 光平 | リコー グループ 企業・IR - リコー — 社員を知る - 岡本 光平 | リコー グループ 企業・IR - リコー Ricoh https://jp.ricoh.com > jobs > interview > okamoto",
+    "url": "https://jp.ricoh.com/jobs/interview/okamoto",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 | リコー グループ 企業・IR — 決算説明 会 | リコー グループ 企業・IR Ricoh https://jp.ricoh.com > 株主・投資家情報 > IRイベント",
+    "url": "https://jp.ricoh.com/IR/events/earning",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 | リコー グループ 企業・IR — 株主・投資家情報 | リコー グループ 企業・IR Ricoh https://jp.ricoh.com > ...",
+    "url": "https://jp.ricoh.com/IR",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 資料・ 決算説明 会動画 | 株主・投資家の皆様へ — 決算説明 資料・ 決算説明 会動画 | 株主・投資家の皆様へ リコーリース株式会社 https://www.r-lease.co.jp > library > meeting",
+    "url": "https://www.r-lease.co.jp/ir/library/meeting/",
+    "pass": 3
+   },
+   {
+    "quote": "革新的セラミックス 3Dプリンター | リコー グループ 企業・IR — 革新的セラミックス 3Dプリンター | リコー グループ 企業・IR Ricoh https://jp.ricoh.com > 技術 > リコーの技術紹介",
+    "url": "https://jp.ricoh.com/technology/tech/121_ceramics_3d_printer",
+    "pass": 3
+   },
+   {
+    "quote": "「RICOH 3Dプリンター 出力サービス」の紹介動画 - YouTube — 「RICOH 3Dプリンター 出力サービス」の紹介動画 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=9Wunsl8ruHQ",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | リコー ジャパン企業情報 — 会社概要 | リコー ジャパン企業情報 Ricoh https://jp.ricoh.com > リコージャパン 企業情報",
+    "url": "https://jp.ricoh.com/companies/ricoh-japan/outline",
+    "pass": 3
+   },
+   {
+    "quote": "会社 基本 情報 | リコー グループ 企業・IR — 会社 基本 情報 | リコー グループ 企業・IR Ricoh https://jp.ricoh.com > リコーについて",
+    "url": "https://jp.ricoh.com/about/facts",
+    "pass": 3
+   },
+   {
+    "quote": "株主 ・投資家 情報 | リコー グループ 企業・IR — 株主 ・投資家 情報 | リコー グループ 企業・IR Ricoh https://jp.ricoh.com > ...",
+    "url": "https://jp.ricoh.com/IR",
+    "pass": 3
+   },
+   {
+    "quote": "【 リコー 】[7752]企業 概要 社員数や役員報酬・資本金 | 日経 ... — 【 リコー 】[7752]企業 概要 社員数や役員報酬・資本金 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7752",
+    "pass": 3
+   },
+   {
+    "quote": "リコー ジャパン企業 情報 | リコー グループ 企業・IRサイト — リコー ジャパン企業 情報 | リコー グループ 企業・IRサイト Ricoh https://jp.ricoh.com > companies > ricoh-japan",
+    "url": "https://jp.ricoh.com/companies/ricoh-japan",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "リコー みんなのデザイン思考とアジャイル - note リコー みんなのデザイン思考とアジャイル - note note https://note.com > mindeja_ricoh",
+    "url": "https://note.com/mindeja_ricoh",
+    "pass": 3
+   },
+   {
+    "quote": "リコー の人気・新着記事まとめ - note リコー の人気・新着記事まとめ - note note https://note.com > tag > リコー",
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "リコー のアメリカ進出における戦略的変遷と米国でのM&A ... リコー のアメリカ進出における戦略的変遷と米国でのM&A ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "市場はまだ気づいていない。 リコー に隠された「脱・複合機 ... 市場はまだ気づいていない。 リコー に隠された「脱・複合機 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "リコー が語る 5週間でオウンドメディアを立ち上げた ... - note リコー が語る 5週間でオウンドメディアを立ち上げた ... - note note https://note.com > インタビュー・対談 > インタビュー・対談",
+    "url": "https://note.com/events/n/naeb0b18a534b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "リコー みんなのデザイン思考とアジャイル｜note",
+    "url": "https://note.com/mindeja_ricoh",
+    "pass": 3
+   },
+   {
+    "quote": "リコーを芯からアジャイルにする旅は続く 〜タスクフォースの終了と私たちのこれから",
+    "url": "https://note.com/mindeja_ricoh",
+    "pass": 3
+   },
+   {
+    "quote": "新しい仕事の仕方に向けて、チームはどう変化していけるのか",
+    "url": "https://note.com/mindeja_ricoh",
+    "pass": 3
+   },
+   {
+    "quote": "失敗した元マネージャーが後悔を胸に、新たにマネージャーになるあなたに伝えたいこと",
+    "url": "https://note.com/mindeja_ricoh",
+    "pass": 3
+   },
+   {
+    "quote": "変化の時代の価値創出へ、私たちはどう変わっていくべきか？みらいデザインLab.の探索に向けたチームビルディングリコーアジャイル 実践プログラム 活用インタビュー",
+    "url": "https://note.com/mindeja_ricoh",
+    "pass": 3
+   },
+   {
+    "quote": "自律したスペシャリスト集団をまとめ、チームとして存在価値を最大化するために重要なこと",
+    "url": "https://note.com/mindeja_ricoh",
+    "pass": 3
+   },
+   {
+    "quote": "【後編】実践者から学ぶ「組織が自律的に変わる・動く」ための仕組みとは？",
+    "url": "https://note.com/mindeja_ricoh",
+    "pass": 3
+   },
+   {
+    "quote": "複合機からデジタルサービスやAIへと舵を切る企業の変革期を扱っています。",
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "製品の活用術や投資分析、愛用するカメラの作例など様々な記事が集まっています。",
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "琵琶湖・瀬田川に流されて、祓戸四神を祀る佐久奈度神社へ：PENTAX K30 と Tamron 35-135mm 1:3.5-4.5 Model40A",
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "きょうの気になる企業ニュース（2026/10/27）",
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "【経営判断の教科書♯82】「うちを買ってもらえませんか」—苦戦する同業者の言葉に動揺を隠せない昼下がり",
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "物流会社がメーカーを支配する時代？――日本の製造業を裏側から変える物流再編",
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "🦉 AIニュース夕刊｜2026年11月2日（月）18時OpenAIがUAEと4件の協定、韓国はAI関連に21.3兆ウォン投資へ！――香港は金融AIの統制枠組みづくりに着手、日本ではリコーと川崎重工が提携",
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "リコーのアメリカ進出における戦略的変遷と米国でのM&Aを通じたデジタルサービス企業への転換｜Shota Atago/愛宕翔太(Taisho/大将)",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "リコーのアメリカ進出における戦略的変遷と米国でのM&Aを通じたデジタルサービス企業への転換",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "Shota Atago/愛宕翔太(Taisho/大将)",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "序論：創業哲学とグローバル展開の思想的背景",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リコー（以下、リコー）のアメリカ進出の歴史は、単なる一企業の海外展開という枠組みを超え、日本の精密機器産業が如何にして世界のビジネスインフラへと浸透し、さらにデジタル化という荒波の中で自己変革を遂げてきたかを象徴するものである。1936年、理化学研究所の成果を製品化するために設立された理研感光紙株式会社を源流とする同社は、創業者・市村清が掲げた「三愛精神」（人を愛し、国を愛し、勤めを愛する）を経営の根幹に据えてきた 1。この精神は、後年アメリカ市場において展開される「顧客中心主義（Customer-Centric）」や、働く人の歓びを追求する「Fulfillment through Work」というビジョンへと昇華されており、リコーのアメリカにおける歩みを理解する上での不可欠な通奏低音となっている 2。",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "1950年代、リコーはカメラの量産化に成功し、日本国内で事務用複写機「リコピー101」を投入して事務効率化の先駆者となった 1。しかし、市村は早くから日本市場の限界を見越し、世界最大の経済大国であるアメリカへの進出を悲願としていた。本記事では、1962年のアメリカ現地法人設立から、最新の2026年に至るまでの進出の変遷を、技術革新、M&A戦略、そして事業構造の転換という観点から、時系列かつ事実ベースで詳細に分析する。",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "第一期：1962年–1969年 初期進出とカメラ事業を通じたブランド形成",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "リコーのアメリカにおける歴史の第一歩は、1962年にニューヨークに設立されたリコー・インダストリーズU.S.A.（Ricoh Industries U.S.A., Inc.）によって刻まれた 5。当時の資本金はわずか10万ドル、従業員も数名という極めて小規模なスタートであったが、この拠点は将来の事務機器大国への橋頭堡としての役割を担っていた 5。",
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "pass": 3
+   },
+   {
+    "quote": "市場はまだ気づいていない。リコーに隠された「脱・複合機」の真の収益モデルと、株価2,000円超えも視野に入る3つの投資シナリオ｜HR7",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "市場はまだ気づいていない。リコーに隠された「脱・複合機」の真の収益モデルと、株価2,000円超えも視野に入る3つの投資シナリオ",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "かつて日本のオフィスを席巻し、「OA（オフィスオートメーション）の巨人」とまで呼ばれた株式会社リコー。その名を知らないビジネスパーソンはいないでしょう。しかし、株式市場におけるその評価は、過去の栄光とは裏腹に、長らく厳しい現実に直面してきました。株価は低迷し、PBR（株価純資産倍率）は解散価値とされる1倍を大きく割り込む状態が続いています。市場はリコーを「終わった企業」、すなわち斜陽産業であるオフィスプリンティング事業と共に緩やかに衰退していく存在と見なしているかのようです。",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、水面下では劇的な変化の潮流が生まれています。2023年に発表された第21次中期経営戦略は、単なるコスト削減や事業の効率化といった守りの姿勢ではありません。「“はたらく”に歓びを」という新たなパーパスを掲げ、オフィス機器メーカーから「デジタルサービスの会社」へと、その根幹から自己を再定義する、という力強い宣言でした。これは、過去の成功体験を捨て、未来へ大きく舵を切るという、まさに社運を賭けた挑戦と言えます。",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "東芝テックとの複合機事業統合による新会社「エトリア」の設立、そして高性能スキャナーで名高いPFUの完全子会社化。これらの動きは、単なる事業再編のパッチワークではなく、「守りを固め、攻めに転じる」という明確な戦略的意図に基づいています。斜陽事業のコスト構造を抜本的に改革し、そこで生み出した経営資源を、成長領域であるデジタルサービスへ集中的に投下する。このダイナミックな変革は、果たして市場の冷え切った評価を覆し、リコーを再成長の軌道に乗せることができるのでしょうか。",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "本稿では、提出されたばかりの最新の有価証券報告書を徹底的に解剖し、リコーが直面する構造的な課題と、それを乗り越えるために打ち出した戦略の核心に迫ります。財務データに刻まれた過去の軌跡を読み解き、事業再編の真の狙いを分析することで、同社が描く未来の青写真の実現可能性を多角的に検証します。これは、単なるバリュー株投資の分析ではありません。巨大企業が存亡をかけて挑む「変革の物語」を読み解き、そこに潜む巨大な投資機会を探る試みです。市場の無関心を逆手に取り、変革の胎動をいち早く捉えることができるか。この記事が、あなたの投資判断における羅針盤となることをお約束します。",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リコー（証券コード: 7752）は、1936年に理化学研究所の研究成果を事業化する目的で設立された理研感光紙株式会社を源流とする、長い歴史を持つ企業です。感光紙からカメラ、そして複写機へと事業の軸足を移し、特にオフィス向け複合機（MFP: Multi-Function Peripheral）の分野で世界的な地位を確立しました。しかし、ペーパーレス化という大きな時代の潮流の中で、同社は今、大きな変革の渦中にあります。",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "収益の源泉となっている事業セグメントと構造",
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "pass": 3
+   },
+   {
+    "quote": "リコーが語る ５週間でオウンドメディアを立ち上げたプロセスとは？ note pro事例セミナー｜noteイベント情報",
+    "url": "https://note.com/events/n/naeb0b18a534b",
+    "pass": 3
+   },
+   {
+    "quote": "リコーが語る ５週間でオウンドメディアを立ち上げたプロセスとは？ note pro事例セミナー",
+    "url": "https://note.com/events/n/naeb0b18a534b",
+    "pass": 3
+   },
+   {
+    "quote": "本セミナーは終了いたしました。アーカイブ動画を限定公開しております。下記「アーカイブを視聴する」よりダウンロード後、すぐに動画をご視聴いただけます。",
+    "url": "https://note.com/events/n/naeb0b18a534b",
+    "pass": 3
+   },
+   {
+    "quote": "※本内容はセミナー開催時点での情報です。note proご提供プラン・価格の最新情報は",
+    "url": "https://note.com/events/n/naeb0b18a534b",
+    "pass": 3
+   },
+   {
+    "quote": "※アーカイブのため質問・チャット・アンケートの利用はできません",
+    "url": "https://note.com/events/n/naeb0b18a534b",
+    "pass": 3
+   },
+   {
+    "quote": "以下、開催前の告知情報を掲載しております。",
+    "url": "https://note.com/events/n/naeb0b18a534b",
+    "pass": 3
+   },
+   {
+    "quote": "----------------------------------------------------------------------------",
+    "url": "https://note.com/events/n/naeb0b18a534b",
+    "pass": 3
+   },
+   {
+    "quote": "リコー株式会社では、グループ全体で世界に約8万人いる社員に対し、「文化風土の変革」という大きな挑戦をされています。",
+    "url": "https://note.com/events/n/naeb0b18a534b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "リコー / RICOH - X リコー / RICOH - X X https://x.com > ricoh",
+    "url": "https://x.com/ricoh",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by リコー / RICOH (@ ricoh ) / X Reposts by リコー / RICOH (@ ricoh ) / X X https://x.com > ricoh > reposts",
+    "url": "https://x.com/ricoh/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "リコー / RICOH - X リコー / RICOH - X X https://x.com > @ricoh",
+    "url": "https://x.com/ricoh/status/2105208579368059002",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "リコー - LinkedIn リコー - LinkedIn LinkedIn https://jp.linkedin.com > company > ricohgroup",
+    "url": "https://jp.linkedin.com/company/ricohgroup",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "リコー / RICOH (@ ricoh .jp) - Facebook リコー / RICOH (@ ricoh .jp) - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/ricoh.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "リコー ジャパン ウェブマガジン | Minato-ku Tokyo - Facebook リコー ジャパン ウェブマガジン | Minato-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > Brand > Product/service",
+    "url": "https://www.facebook.com/ricoh.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "リコー イメージング (@ricohimaging.jp) - Facebook リコー イメージング (@ricohimaging.jp) - Facebook Facebook https://www.facebook.com > ... > Brand > Camera/photo",
+    "url": "https://www.facebook.com/ricohimaging.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "リコー / RICOH (@ ricoh .jp) - Videos - Facebook リコー / RICOH (@ ricoh .jp) - Videos - Facebook Facebook https://www.facebook.com > ... > リコー / RICOH",
+    "url": "https://www.facebook.com/ricoh.jp/videos/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://jp.ricoh.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/about/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/IR/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/IR/events/business-briefing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/IR/events/business-briefing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/about/to-our-stakeholders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/about/ricoh-way",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/about/facts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/about/facts/board",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/about/organization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/about/location",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/about/at-a-glance%20",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/about/integrated-report/2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/about/dx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/about/empowering-each-other",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/about/advertisement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/about/promotions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/about/request",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/IR",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/IR/corporate-strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/IR/events/investors-meeting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/IR/stock/shareholder-returns",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/IR/events",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/IR/events/earning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/IR/events/general-meeting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/sustainability/environment/eco-business-center",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/about/at-a-glance%20",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/about/integrated-report/2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/news/stories/insight-workers/printing-director",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://jp.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/company/history/pdf/1936_1969/19360206.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/company/history/pdf/1936_1969/195003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/company/history/pdf/1936_1969/195511.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/company/history/pdf/1936_1969/196204.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/company/history/pdf/1936_1969/196205.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/company/history/pdf/1936_1969/196211.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/company/history/pdf/1936_1969/196304.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/company/history/pdf/1936_1969/196509.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/company/history/pdf/1970_1984/197001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/company/history/pdf/1970_1984/197003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/company/history/img/timeline/1985_1999/199503-detail02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://jp.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://jp.ricoh.com/-/media/Ricoh/Sites/jp_ricoh/about/dx/img/top/06-1.jpg?rev=ce51ba7bb547422a9f83b234e28c8c14&sc_lang=ja-JP",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://jp.ricoh.com/-/media/Ricoh/Sites/jp_ricoh/about/dx/img/top/06-2.png?rev=e668a864688442b59c4b6d7a6db34593&sc_lang=ja-JP",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://jp.ricoh.com/-/media/Ricoh/Sites/jp_ricoh/news/img/environment.webp?mh=250&mw=500&rev=c72e8bef1ef440a098c742098eabcd5d&sc_lang=ja-JP&hash=9538784CF433DE892F15978571475594",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://jp.ricoh.com/-/media/Ricoh/Sites/jp_ricoh/IR/img/pic_1_pc.webp?rev=16ea4a84d2454b03a858a9348232815c&sc_lang=ja-JP",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://blog.inkmania.net/?eid=1236336",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXMZO20770480V00C17A9000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/advantage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=9Wunsl8ruHQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sbbit.jp/article/cont1/29573",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/company/data/corporate_profile/pdf/202006_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/advantage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=9Wunsl8ruHQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-lease.co.jp/ir/library/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=9Wunsl8ruHQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7752",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mindeja_ricoh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shotar/n/nec7cfc52e78d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hr793/n/n1991228ae3b9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ricoh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ricoh/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ricoh/status/2105208579368059002",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/ricohgroup",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ricoh.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ricoh.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ricohimaging.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ricoh.jp/videos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/mindeja_ricoh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/events/n/naeb0b18a534b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ricoh",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "リコー 3Dプリンタ 撤退 OR 縮小 OR 終了",
+   "results": [
+    "https://blogs.ricoh.co.jp/3dp-news/print-service/",
+    "http://blog.inkmania.net/?eid=1236336",
+    "https://jp.ricoh.com/technology/tech/123_metal_3D_printing",
+    "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "https://www.nikkei.com/article/DGXMZO20770480V00C17A9000000/",
+    "https://www.ricoh.co.jp/3dp",
+    "https://jp.ricoh.com/technology/techreport/year",
+    "https://jp.ricoh.com/technology/tech/printing",
+    "https://www.businessinsider.jp/article/163278/",
+    "https://blogs.ricoh.co.jp/3dp-news/3dp/2026/"
+   ]
+  },
+  {
+   "query": "リコー 3Dプリンタ 参入 OR 開始 OR 買収",
+   "results": [
+    "https://jp.ricoh.com/technology/tech/123_metal_3D_printing",
+    "https://www.ricoh.co.jp/3dp/advantage",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/ricoh-siemens-additive-manufacturing-network-231114/",
+    "https://www.youtube.com/watch?v=9Wunsl8ruHQ",
+    "https://www.sbbit.jp/article/cont1/29573",
+    "https://jp.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/technology/exhibition/nanotech2022/pdf/3D_printer.pdf",
+    "https://japan.zdnet.com/article/35053474/",
+    "https://www.altech.co.jp/item_news/%E3%82%A2%E3%83%AB%E3%83%86%E3%83%83%E3%82%AF%E3%80%80%E3%83%AA%E3%82%B3%E3%83%BC%E3%81%A8%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%88%E3%82%8B-2",
+    "https://www.ricoh.co.jp/3dp/what",
+    "https://www.ricoh.co.jp/3dp"
+   ]
+  },
+  {
+   "query": "リコー 積層造形 事業 売上",
+   "results": [
+    "https://www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/company/data/corporate_profile/pdf/202006_jp.pdf",
+    "https://jp.ricoh.com/release/2025/0501_2",
+    "https://jp.ricoh.com/IR/library/selected-consolidated-financial-data",
+    "https://jp.ricoh.com/info/2022/0728_1",
+    "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "https://kitaishihon.com/company/7752/business",
+    "https://strainer.jp/tags/3d-printing",
+    "https://jp.ricoh.com/about/integrated-report/2025/value_creation_4",
+    "https://metoree.com/companies/657/",
+    "https://jp.ricoh.com/IR/library/financial-results"
+   ]
+  },
+  {
+   "query": "リコー 3Dプリンター 社長 インタビュー 課題",
+   "results": [
+    "https://www.ricoh.co.jp/3dp/advantage",
+    "https://jp.ricoh.com/jobs/interview/okamoto",
+    "https://jp.ricoh.com/technology/tech/123_metal_3D_printing",
+    "https://www.youtube.com/watch?v=9Wunsl8ruHQ",
+    "https://news.sharelab.jp/interviews/ricoh-sb/",
+    "https://jp.ricoh.com/release/2025/0501_2",
+    "https://www.youtube.com/watch?v=dkanjZcJoOY",
+    "https://www.businessinsider.jp/article/163278/",
+    "https://www.ricoh.co.jp/3dp/useful",
+    "https://jp.ricoh.com/news/stories/articles/ricoh-ignite-group-growth-strategy"
+   ]
+  },
+  {
+   "query": "リコー 決算説明 3Dプリンタ",
+   "results": [
+    "https://jp.ricoh.com/IR/events/earning",
+    "https://jp.ricoh.com/IR",
+    "https://www.r-lease.co.jp/ir/library/meeting/",
+    "https://jp.ricoh.com/technology/tech/121_ceramics_3d_printer",
+    "https://www.youtube.com/watch?v=9Wunsl8ruHQ",
+    "https://www.ricoh.co.jp/3dp/advantage",
+    "https://jp.ricoh.com/IR/news",
+    "https://jp.ricoh.com/-/media/Ricoh/Sites/jp_ricoh/IR/events/2025/pdf/r07q3_1.pdf?rev=7e2b1ac175e24c9784ff1a0589231a3f&sc_lang=ja-JP",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=7752",
+    "https://edinetdb.jp/company/E02275/presentations/"
+   ]
+  },
+  {
+   "query": "リコー 会社概要 設立 株主",
+   "results": [
+    "https://jp.ricoh.com/companies/ricoh-japan/outline",
+    "https://jp.ricoh.com/about/facts",
+    "https://jp.ricoh.com/IR",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7752",
+    "https://jp.ricoh.com/companies/ricoh-japan",
+    "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "https://jp.ricoh.com/-/media/Ricoh/Sites/jp_ricoh/IR/koukoku/teikan.pdf?rev=733879a8ef734a2da11bad763f21c696&sc_lang=ja-JP",
+    "https://job.mynavi.jp/28/pc/search/corp91/outline.html",
+    "https://www.ricoh.co.jp/about",
+    "https://ja.wikipedia.org/wiki/リコー"
+   ]
+  },
+  {
+   "query": "site:note.com リコー",
+   "results": [
+    "https://note.com/mindeja_ricoh",
+    "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "https://note.com/shotar/n/nec7cfc52e78d",
+    "https://note.com/hr793/n/n1991228ae3b9",
+    "https://note.com/maximum_aperture/n/nbd4e665c6e00",
+    "https://note.com/company_scope/n/nd05ada813d3b",
+    "https://note.com/bluebirdjourney/n/n458f7a9bc396",
+    "https://note.com/kabutabi2000/n/n6466853702ad",
+    "https://note.com/wataru_nishida/n/n12bee61f3004",
+    "https://note.com/mocchan/n/n07e0da117087"
+   ]
+  },
+  {
+   "query": "site:x.com リコー",
+   "results": [
+    "https://x.com/ricoh",
+    "https://x.com/ricoh/reposts",
+    "https://x.com/RicohJapan",
+    "https://x.com/ricoh/status/2105208579368059002",
+    "https://x.com/ricoh/status/2009536934457020536",
+    "https://x.com/ricoh/status/2083102919209992325",
+    "https://x.com/ricoh/status/1765877028556034195",
+    "https://x.com/ricoh/status/2103396643433271354/photo/2",
+    "https://x.com/ricoh/status/2112818721471311897",
+    "https://x.com/ricohimaging_jp"
+   ]
+  },
+  {
+   "query": "site:linkedin.com リコー",
+   "results": [
+    "https://jp.linkedin.com/company/ricohgroup",
+    "https://jp.linkedin.com/company/ricoh-company-ltd",
+    "https://www.linkedin.com/company/ricohjapan?trk=ppro_cprof",
+    "https://jp.linkedin.com/company/ricoh-company-ltd-?trk=public_profile_topcard-current-company",
+    "https://www.linkedin.com/company/ricohjapan/",
+    "https://jp.linkedin.com/company/ricohjapan",
+    "https://www.linkedin.com/pulse/ricoh-asia-pacific-acquires-global-vision-multimedia-strengthening-91u1c",
+    "https://jp.linkedin.com/showcase/ricoh-biomedical/",
+    "https://jp.linkedin.com/company/ricoh-electronics-inc-/?trk=organization-update_share-update_actor-text",
+    "https://www.linkedin.com/company/ricohgroup"
+   ]
+  },
+  {
+   "query": "site:facebook.com リコー",
+   "results": [
+    "https://www.facebook.com/ricoh.jp/",
+    "https://www.facebook.com/ricoh.co.jp/",
+    "https://www.facebook.com/ricohimaging.jp/",
+    "https://www.facebook.com/ricoh.jp/videos/",
+    "https://www.facebook.com/ricoh.jp/posts/%E6%9C%AC%E6%97%A52%E6%9C%886%E6%97%A5%E3%83%AA%E3%82%B3%E3%83%BC%E3%81%AF%E5%89%B5%E6%A5%AD90%E5%91%A8%E5%B9%B4%E3%82%92%E8%BF%8E%E3%81%88%E3%81%BE%E3%81%97%E3%81%9F%EF%B8%8F-%E3%81%9D%E3%82%8C%E3%82%92%E8%A8%98%E5%BF%B5%E3%81%97%E3%81%A6%E6%9C%AC%E6%97%A5%E4%BB%98%E3%81%AE%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E%E3%81%AB%E6%96%B0%E8%81%9E%E5%BA%83%E5%91%8A%E3%82%92%E5%87%BA%E7%A8%BF%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E4%BB%95%E4%BA%8B%E3%81%A7%E5%8D%98%E7%B4%94%E4%BD%9C%E6%A5%AD%E3%81%AE%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%97%E3%82%92%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8%E3%81%8C%E5%BE%8C%E5%9B%9E/1309198867684581/",
+    "https://www.facebook.com/RicohVisualCommunication/",
+    "https://www.facebook.com/groups/479231421821532/posts/834605419617462/",
+    "https://www.facebook.com/ricoh.jp/posts/%E3%81%AA%E3%82%8B%E3%81%BB%E3%81%A9%E3%83%AA%E3%82%B3%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3sd%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E9%9B%BB%E5%AD%90%E5%8C%96%E6%A5%AD%E5%8B%99%E3%82%92%E5%8A%B9%E7%8E%87%E5%8C%96a3%E3%82%AB%E3%83%A9%E3%83%BC%E8%A4%87%E5%90%88%E6%A9%9Fricoh-im-c6010sdc4510sdc3010sdsd%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AF%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E3%82%84%E9%A0%98%E5%8F%8E%E6%9B%B8%E3%81%A0%E3%81%91/1227676585836810/",
+    "https://www.facebook.com/groups/363978064347683/posts/2115648265847312/",
+    "https://www.facebook.com/Ricoh.Printer.jpn/"
+   ]
+  },
+  {
+   "query": "リコー note 社長",
+   "results": [
+    "https://note.com/mindeja_ricoh",
+    "https://note.com/events/n/naeb0b18a534b",
+    "https://jp.ricoh.com/governance/outside_director",
+    "https://note.com/tag/%E3%83%AA%E3%82%B3%E3%83%BC",
+    "https://prtimes.jp/main/html/rd/p/000000074.000043114.html",
+    "https://www.youtube.com/watch?v=rRr-lZdR1HU",
+    "https://www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/company/data/corporate_profile/pdf/202006_jp.pdf",
+    "https://note.com/mindeja_ricoh/m/mc4ce8bd7969e",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/7752/executives/ceo/oyama-akira/"
+   ]
+  },
+  {
+   "query": "リコー X 投稿",
+   "results": [
+    "https://x.com/ricoh",
+    "https://jp.ricoh.com/socialmedia",
+    "https://jp.ricoh.com/release/2022/0330_1",
+    "https://blog.ricoh360.com/ja/13352",
+    "https://gigazine.net/news/20220809-ricoh-theta-x-app/",
+    "https://www.youtube.com/watch?v=LDW77ga4RI8",
+    "https://support.matterport.com/s/article/FAQ-Ricoh-Theta-X-Camera?language=ja",
+    "https://kakaku.com/item/K0001432210/picture/",
+    "https://www.grblog.jp/",
+    "https://x.com/GR_RICOH"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式30頁／PDF・画像16件／外部32頁・検索12回）",
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像16件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式30頁／PDF・画像16件／外部32頁・検索12回）"
+ }
+}

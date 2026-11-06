@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・122品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・124品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -6207,6 +6207,58 @@
 - 生産能力・設備：記載なし（読んだ17頁・検索18回）
 - 10年推移：記載なし（読んだ17頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ17頁・検索18回）
+
+## 国民経済計算 経済活動別 産出デフレーター 金属製品 2015〜2022年（内閣府・名目の1人あたりを実質で読む2本目の分母・日銀の指数が取れない回の代わり・4-4・4-37・4-61）（Japan SNA output deflator fabricated metal products by economic activity annual）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：
+  - 「projected that a sense of labor shortage will grow as the economic growth rate rises, and」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「economies, although it is expected that investment to address labor shortages,」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「accelerate again, with a growing sense of labor shortage, and private consumption is」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「factors such as t he experience of COVID -19, intensifying labor shortages, and progress」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「economic structure and people's working styles. Intensifying labor shortages -- which are」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「increase gradually, since it is projected that a sense of labor shortage will grow as the」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「nonmanufacturing, the sense of labor shortage」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「clear the high levels of order backlogs and」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「the increased order backlog s and the」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「material prices and labor shortages have pushed」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「levels of order backlogs are expected to provide」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「investment to address structural labor shortages」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「which have faced severe labor shortages. While」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「labor shortages. However, with labor force」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「backlogs. Consumption of nondurable goods (e.g.,」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+- 10年推移：
+  - 「April 2025」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「Friday, May 2, 2025.」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「Outlook for Economic Activity and Prices (April 2025)」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「food) is likely to be in the range of 2.0 -2.5 percent for fiscal 2025, in the range of 1.5-2.0」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「rate for fiscal 2024 is somewhat higher, but the projected growth rates for fiscal 2025 and」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「2025 and 2026 are lower, mainly reflecting the decline in crude oil prices and the」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「fiscal 2025 and 2026. Risks to prices are also skewed to the downside for fiscal 2025 and」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「May 1, 2025.」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「and the tax reform in fiscal 2025. Meanwhile, public investment is expected to be more or」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「Outlook Report, the projected real GDP growth rate for fiscal 2024 is somewhat higher,」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「mainly led by private consumption. The projected growth rates for fiscal 2025 and 2026」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「range of 2.0-2.5 percent for fiscal 2025, in the range of 1.5-2.0 percent for fiscal 2026, and」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「fresh food) for fiscal 2025 and 2026 are lower, mainly reflecting the decline in crude oil」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「fiscal 2025, in the range of 1.5-2.0 percent for fiscal 2026 , and at around 2 percent for」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+  - 「6 For details, see the Bank's Financial System Report (April 2025).」（https://www.boj.or.jp/en/mopo/outlook/gor2504b.pdf）
+- 事業所数・社数：記載なし（読んだ20頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ20頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ20頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ20頁・検索18回）
+- 生産能力・設備：記載なし（読んだ20頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ20頁・検索18回）
+
+## 日本銀行 企業物価指数 年報・月報の統計表（金属製品の類別指数の水準・CSV か xlsx の表で・ページの別の金額を拾わない・4-41・4-61）（Bank of Japan CGPI annual report table metal products index level csv）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ22頁・検索18回）
+- 事業所数・社数：記載なし（読んだ22頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ22頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ22頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ22頁・検索18回）
+- 生産能力・設備：記載なし（読んだ22頁・検索18回）
+- 10年推移：記載なし（読んだ22頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ22頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

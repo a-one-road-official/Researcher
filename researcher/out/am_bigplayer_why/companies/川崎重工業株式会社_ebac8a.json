@@ -1,0 +1,4089 @@
+{
+ "name": "川崎重工業株式会社",
+ "aliases": [
+  "川崎重工",
+  "Kawasaki Heavy Industries"
+ ],
+ "context": "大手の内製（航空・防衛）",
+ "researched_at": "2026-11-06T17:14:38.325037+00:00",
+ "official_url": "https://www.khi.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1896年10月15日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7012",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1896年 （明治29年） 10月9日 （株式会社川崎造船所）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者氏名",
+    "value": "橋本　康彦",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7012",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "橋本康彦 （ 代表取締役 社長 執行役員 兼 CEO ） 山本克也（代表取締役副社長執行役員） 中谷浩（代表取締役副社長執行役員）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "15,361 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7012",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "41,652人 (2026年3月末現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社 所在地",
+    "value": "日本 東京本社 〒 105-8315 東京都 港区 海岸 一丁目14番5号 神戸本社 〒 650-8680 兵庫県 神戸市 中央区 東川崎町 三丁目1番1号 神戸クリスタルタワー",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "label": "本店 所在地",
+    "value": "〒 650-8670 兵庫県神戸市中央区東川崎町三丁目1番1号 神戸クリスタルタワー [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結：2兆3,112億円 （2026年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "主要 株主",
+    "value": "日本マスタートラスト信託銀行 （信託口） 15.01% 日本カストディ銀行 8.09% 日本生命保険 3.42% 川崎重工業従業員持株会 2.84% STATE STREET BANK AND TRUST COMPANY 2.76% 川崎重工共栄会 2.42% （2025年6月末現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "label": "株主代表訴訟",
+    "value": "「官製談合で損害」川崎重工業社長らを提訴",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "撤退・縮小の時期と理由": [
+   {
+    "quote": "振込手数料負担関係の見直しについて（2025年12月10日）",
+    "url": "https://www.khi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アーステクニカ株式譲渡契約締結に関するお知らせ （PDF:370.1 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アーステクニカ株式の譲渡の検討を開始する基本合意書の締結について （PDF:311.0 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "役員報酬制度の見直しに伴う業績連動型株式報酬制度の導入に関するお知らせ （PDF:596.0 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "車両事業における固定資産の減損損失の計上について（PDF:228KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "原子力事業の譲渡に関する基本合意の覚書締結について",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "会社分割（簡易吸収分割）による子会社への一部事業の譲渡に関するお知らせ （PDF:242.5 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "国内鉄構工事事業の一部譲渡および共同事業化に向けた株式譲渡契約等締結について",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "国内販売網再編によるモーターサイクル専門店リニューアル１号店をオープン（カワサキモータースジャパン）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "モーターサイクルの国内販売網を再編（カワサキモータースジャパン）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ＫＣＭＪの事業譲渡に関するお知らせ （PDF:372.7 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社KCMの株式の譲渡に関するお知らせ （PDF:185.7 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "会社分割による建設機械事業の再編のお知らせ （PDF:359.6 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "建設機械事業の提携とそれに伴う組織再編（会社分割）のお知らせ",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "橋梁・水門事業からの撤退について （PDF:7.6 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "タービン自体の発電効率の最大化はもちろん、電気と蒸気の供給バランスの見直しを行うことで、お客様の設備全体の運用コスト改善にも貢献します",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（坂出工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（兵庫工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（明石工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（名古屋第一工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（坂出工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（兵庫工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（明石工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（名古屋第一工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（坂出工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（兵庫工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（明石工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（名古屋第一工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（坂出工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（兵庫工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（明石工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（名古屋第一工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（坂出工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（兵庫工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（明石工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（名古屋第一工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（坂出工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（兵庫工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（明石工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（名古屋第一工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（坂出工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/private/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（兵庫工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/private/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（明石工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/private/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（名古屋第一工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/private/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（坂出工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/attention.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（兵庫工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/attention.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（明石工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/attention.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（名古屋第一工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/attention.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（坂出工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/public_notice/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（兵庫工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/public_notice/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（明石工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/public_notice/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（名古屋第一工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/public_notice/",
+    "pass": 1
+   },
+   {
+    "quote": "第203期定時株主総会終了のご報告",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アーステクニカ株式譲渡契約締結に関するお知らせ （PDF:370.1 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第202期定時株主総会終了のご報告",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アーステクニカ株式の譲渡の検討を開始する基本合意書の締結について （PDF:311.0 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第201期定時株主総会終了のご報告",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第200期定時株主総会終了のご報告",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Z2 / Z1用 シリンダーヘッド販売終了について",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第199期定時株主総会終了のご報告",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   }
+  ],
+  "参入しない・慎重な理由の発言": [
+   {
+    "quote": "ガスを使った発電・熱源設備をご検討のお客様（課題1～3）",
+    "url": "https://www.khi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスを使った発電・熱源設備をご検討のお客様（課題4）",
+    "url": "https://www.khi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスを使った発電・熱源設備をご検討のお客様（課題5）",
+    "url": "https://www.khi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大級、建設機械向け油圧ポンプ「K7V320」の量産を開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "当社施工のごみ処理施設として初となる『ZEB』認証を取得",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "建設機械向けの電気リモートコントロールユニット「ERUJ」の量産を開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "」を開発 ～ 地域の鉄道公共交通維持と非電化鉄道の地球環境課題解決の両立を実現 ～",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "船舶の運航管理を支援する「SOPass船上システム」において、サイバーレジリエンスに関する統一規則「IACS UR E27」に準拠した認証（Type Approval）を取得",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "液化水素用船陸間継手が日本海事協会（Class NK）の技術認証取得 （PDF:673.9 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「安全離着岸支援システム」の基本設計承認（AiP）および「操船支援情報表示装置」のP&S認証をClassNKから取得",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "（開示事項の経過）舶用エンジンにおける検査不正について （PDF:364.9 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "藤田医科大学 岡崎医療センターにて世界初となる サービスロボット連携による臨床検体配送から臨床検査機器への自動投入までの実証に成功 （PDF:772.4 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "（開⽰事項の経過）舶用エンジンにおける検査不正について（国土交通省への社内調査報告） （PDF:1.7 MB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "建設機械向けの新型電気リモートコントロールユニット「ERUHV」の量産を開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "（開⽰事項の経過）舶⽤エンジンにおける検査不正について （PDF:470.7 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用サイバーセキュリティ国際標準規格「IEC 62443-4-1」認証を取得",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "（開⽰事項の経過）舶用エンジンにおける検査不正について （PDF:1.0 MB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "舶用エンジンにおける検査不正について （PDF:388.2 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "温室効果ガス排出削減目標の国際認証「SBT」を取得",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "水素エンジンモーターサイクル 量産メーカーとして世界初の公開走行を実施（カワサキモータース）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "メキシコ工場でオフロード四輪車の量産開始（カワサキモータース）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "民間航空機分野の認証プログラム「Nadcap",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "建設機械の走行操作制御用電気リモートコントロールユニット 「ERUP2/L」の量産を開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "水素小型モビリティの課題抽出を目的に「ダカール2024」へ －基盤技術構築の加速化とグローバルな仲間づくりで小型モビリティ用水素エンジンの早期実現へ－（カワサキモータース） （PDF:586.3 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "AI を活用したソリューション創出および人材育成を目的に、神戸市に Microsoft AI Co-Innovation Lab を開設 （PDF:462.4 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "電気リモートコントロールユニット「ＥＲＵシリーズ」がIEC 61508およびISO 13849のTÜV-NORD認証を国内初取得",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "成田国際空港第１ターミナルでPCR検査サービスを開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「愛知県PCR等検査無料化事業(感染拡大傾向時の一般検査事業)」においてPCR検査サービスを開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者の川崎正蔵が東京・築地に川崎築地造船所を開設・創業して以来、川崎重工業は120年以上にわたり陸・海・空にわたり社会課題の解決のために幅広い技術・製品・サービスを世に生み出してきました",
+    "url": "https://www.khi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は120年にわたり革新的な技術を基盤にして、社会課題の解決と企業価値の向上を目指し、新製品・新事業の開発に取り組み続けています",
+    "url": "https://www.khi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスを使った発電・熱源設備をご検討のお客様（課題1～3）",
+    "url": "https://www.khi.co.jp/energy/environment_recycling/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスを使った発電・熱源設備をご検討のお客様（課題4）",
+    "url": "https://www.khi.co.jp/energy/environment_recycling/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスを使った発電・熱源設備をご検討のお客様（課題5）",
+    "url": "https://www.khi.co.jp/energy/environment_recycling/",
+    "pass": 1
+   },
+   {
+    "quote": "日本国内のみならず世界のお客様の課題解決に貢献してきました",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "使用する全技術及び全設計は、当社で管理しているため、発電用蒸気タービンの細部に至るまでお客様のリクエストに応じられるほか、納入後に生じた運用上の課題も迅速に解決",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "タービン自体の発電効率の最大化はもちろん、電気と蒸気の供給バランスの見直しを行うことで、お客様の設備全体の運用コスト改善にも貢献します",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "このバイオマス発電所は「再生可能エネルギーの固定価格買取制度（Feed-in Tariff）」を活用しており、一般送配電事業者を通じて、発電した電気を電力の需要者に供給しています",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "現在の設備・課題に合わせて、ヒアリングをもとに最適な方式をご提案します",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "発電用蒸気タービンで、様々な業界の課題解決に貢献しています",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "近年では、バイオマス発電やコンバインドサイクル発電など先端的な発電所の納入実績を伸ばしているほか、小規模発電事業者の課題解決にも貢献しています",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "優れた発電効率の実現はもちろん、異なる条件の電気・熱を様々な生産プロセスにそれぞれ供給するなど最適な課題解決をご提案します",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "導入・運用・維持にかかるコストを抑える目的で、シンプルな設計の発電用蒸気タービンをご提案しています",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "品質保証（ISO9001 Certificate / ASME U STAMP / ISO14001 Certificate）",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO9001やASME STAMPなど、品質管理の国際規格について認証を取得済みです",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "より良い課題解決とさらなる挑戦を成し遂げるため、技術開発を積極的に進めています",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "納入先の工場は生産能力の増強を進めており、これに伴う電力コストの削減と環境負荷の低減に当社が貢献しました",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "社会情勢やビジネス環境が変遷するなか、発電用蒸気タービンの開発や販売を通じてお客様の課題解決に貢献してきました",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスを使った発電・熱源設備をご検討のお客様（課題1～3）",
+    "url": "https://www.khi.co.jp/industrial_equipment/examination/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスを使った発電・熱源設備をご検討のお客様（課題4）",
+    "url": "https://www.khi.co.jp/industrial_equipment/examination/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスを使った発電・熱源設備をご検討のお客様（課題5）",
+    "url": "https://www.khi.co.jp/industrial_equipment/examination/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスを使った発電・熱源設備をご検討のお客様（課題1～3）",
+    "url": "https://www.khi.co.jp/news/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスを使った発電・熱源設備をご検討のお客様（課題4）",
+    "url": "https://www.khi.co.jp/news/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスを使った発電・熱源設備をご検討のお客様（課題5）",
+    "url": "https://www.khi.co.jp/news/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスを使った発電・熱源設備をご検討のお客様（課題1～3）",
+    "url": "https://www.khi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスを使った発電・熱源設備をご検討のお客様（課題4）",
+    "url": "https://www.khi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスを使った発電・熱源設備をご検討のお客様（課題5）",
+    "url": "https://www.khi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工グループの事業等に関わるリスクについてご説明します",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "また、将来予測その他掲載内容に関して、川崎重工は常に内容を更新し公表する責任を負いません",
+    "url": "https://www.khi.co.jp/ir/attention.html",
+    "pass": 1
+   },
+   {
+    "quote": "資料に記載されております業績見通し及び将来予測は、公表時点の状況に基づき川崎重工が予想したものであり、潜在的なリスク・不確実要因を含んでいます",
+    "url": "https://www.khi.co.jp/ir/attention.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大級、建設機械向け油圧ポンプ「K7V320」の量産を開始",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   }
+  ],
+  "客の業界": [
+   {
+    "quote": "バイオマス、石炭、石油、重油などの燃料を使ったエネルギー製品をご検討のお客様",
+    "url": "https://www.khi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "工場内の余剰エネルギーをご利用したいお客様",
+    "url": "https://www.khi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "船舶・舶用機械, 鉄道車両 , 航空宇宙",
+    "url": "https://www.khi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コージェネレーション, エネルギープラント, ガスタービン, ガスエンジン, 環境・リサイクルプラント など",
+    "url": "https://www.khi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "船舶, 舶用機械, 鉄道車両, 鉄道車両用台車, 航空機, ヘリコプター, ジェットエンジン など",
+    "url": "https://www.khi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コージェネレーション, エネルギープラント, ガスタービン, ガスエンジン など",
+    "url": "https://www.khi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース一覧 | 川崎重工業株式会社",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工とリコー、AIで設計業務の知識資産活用を推進する戦略的パートナーシップを構築 （PDF:704.6 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初、液化水素の船陸間荷役を支える商用仕様6インチローディングアーム 川崎重工とTBGが共同開発を完了 （PDF:433.1 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋第一工場で川崎重工グループ最大規模の太陽光発電設備を活用したオンサイト/オフサイトPPAサービスの利用開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "日本初、世界最高レベルの低NOx性能を実現する 水素航空エンジンの運転試験に成功",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "ヘルスケア分野向けソーシャルロボット「Home LEO」の試作機が完成",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "次世代医療ソリューション開発に向けたイタリア・ジェメッリ大学病院との覚書を締結",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大級、建設機械向け油圧ポンプ「K7V320」の量産を開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "EcoLog社と川崎重工、液水サプライチェーンの戦略的提携に関する覚書を締結 （PDF:884.8 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "建設機械向けの電気リモートコントロールユニット「ERUJ」の量産を開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工業と損害保険ジャパンがソフトバンクとともに船舶の安全運航を支える統合ソリューションの提供に向けた基本合意を締結 （PDF:589.6 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "神戸市立西神戸医療センターで屋内配送ロボット「FORRO（フォーロ）」の運用を開始 （PDF:494.0 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "東京女子医科大学附属八千代医療センターにて屋内配送ロボット「FORRO（フォーロ）」の運用を開始 （PDF:788.5 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "浅ノ川総合病院にて、北陸地方初となる屋内配送ロボット「FORRO（フォーロ）」の運用を開始 ～医療現場の業務効率化と医療従事者の働き方改革を推進～ （PDF:737.1 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "坂出LNG株式会社より坂出LNG基地大型増強工事を受注 ～ LNG設備建設を通じた社会のエネルギートランジションへの貢献 ～",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初、水素液化プラント向け遠心式水素圧縮機の実証運転を開始 ～水素エネルギー社会実現に向け世界をリード～",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "藤田医科大学 岡崎医療センターにて屋内配送ロボット「FORRO（フォーロ）」の本格運用を開始 （PDF:637.7 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工とBladeRobots、風力発電ブレード前縁補修分野での戦略的パートナーシップを締結 （PDF:557.9 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "Kotoznaと川崎重工が連携した旅行者向け多言語AIチャットボットサービスが沖縄県で正式導入 （PDF:729.1 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "国内初、水素航空機向け燃料タンクの液化水素充填試験に成功",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工業、サウジアラビア王国・アラブ首長国連邦／天然ガス及び水素焚きガスエンジン導入可能性調査事業、及び マレーシア／産業排出源へのCO₂回収技術の適用によるNDCや輸出競争力へ貢献する事業可能性調査事業が、経済産業省の令和６年度補正グローバルサウス未来志向型共創等事業費補助金（小規模実証・ＦＳ事業）に採択",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工とNTTドコモビジネスが、ロボット・モビリティ・社会インフラ等のネットワーク連携による新しい社会の創造に向けた戦略的協業に関する覚書を締結 （PDF:636.3 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "Dronamics社と航空機用レシプロエンジンの開発およびUAVの社会実装に向けた戦略的パートナーシップを締結（カワサキモータース）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "藤田医科大学 岡崎医療センターにて世界初となる サービスロボット連携による臨床検体配送から臨床検査機器への自動投入までの実証に成功 （PDF:772.4 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル技術を活用した「介護ＤＸパッケージモデルの開発」が日本医療研究開発機構「介護DXを利用した抜本的現場改善事業」に採択",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "Kawasaki History｜川崎重工業株式会社",
+    "url": "https://www.khi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工業の前身である川崎造船所の創業者である川崎正蔵から、経営の多角化を行った初代社長の松方幸次郎、そして社員とその家族の福祉と会社の経営安定化に邁進した第3代目社長である平生釟三郎の人物伝についてご紹介します",
+    "url": "https://www.khi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者の川崎正蔵が東京・築地に川崎築地造船所を開設・創業して以来、川崎重工業は120年以上にわたり陸・海・空にわたり社会課題の解決のために幅広い技術・製品・サービスを世に生み出してきました",
+    "url": "https://www.khi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは川崎重工業のはじまりから今に至るまでの軌跡を時代別にご紹介しています",
+    "url": "https://www.khi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1939年に経営の多角化と社業に合わせて川崎重工業㈱と社名変更がされました",
+    "url": "https://www.khi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "神戸市にある川崎重工グループの企業ミュージアム「カワサキワールド」は、代表的な製品を「見て」「触れて」楽しく学び、遊びながら「技術のすばらしさ」と「ものづくりの大切さ」を実感していただけます",
+    "url": "https://www.khi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "環境保全・リサイクルプラント | エネルギー・環境 | 川崎重工業株式会社",
+    "url": "https://www.khi.co.jp/energy/environment_recycling/",
+    "pass": 1
+   },
+   {
+    "quote": "バイオマス、石炭、石油、重油などの燃料を使ったエネルギー製品をご検討のお客様",
+    "url": "https://www.khi.co.jp/energy/environment_recycling/",
+    "pass": 1
+   },
+   {
+    "quote": "工場内の余剰エネルギーをご利用したいお客様",
+    "url": "https://www.khi.co.jp/energy/environment_recycling/",
+    "pass": 1
+   },
+   {
+    "quote": "船舶・舶用機械, 鉄道車両 , 航空宇宙",
+    "url": "https://www.khi.co.jp/energy/environment_recycling/",
+    "pass": 1
+   },
+   {
+    "quote": "コージェネレーション, エネルギープラント, ガスタービン, ガスエンジン, 環境・リサイクルプラント など",
+    "url": "https://www.khi.co.jp/energy/environment_recycling/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工グループは、広範な領域における高度な総合技術力によって、地球環境との調和を図りながら、豊かで美しい未来社会の形成に向けて、新たな価値を創造します",
+    "url": "https://www.khi.co.jp/energy/environment_recycling/",
+    "pass": 1
+   },
+   {
+    "quote": "蒸気タービン | エネルギー・環境| 川崎重工業株式会社",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "近年ではカーボンニュートラルの流れの中で、当社の発電用蒸気タービンは活躍の場が広がり、新エネルギー事業者のバイオマス発電所にも導入されています",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "高効率かつ設備運用に最適化した蒸気タービンの導入は省エネルギーの推進やカーボンフットプリントの削減につながります",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、タービン通過後の蒸気の全てが製紙プロセスで利用可能になるため、熱と電気の最適なエネルギーバランスを実現",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、近隣の日本製紙グループの工場にも蒸気を送れるため、企業グループ全体での省エネルギーと脱炭素の推進に貢献しました",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "このバイオマス発電所は「再生可能エネルギーの固定価格買取制度（Feed-in Tariff）」を活用しており、一般送配電事業者を通じて、発電した電気を電力の需要者に供給しています",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工業の発電用蒸気タービンは国内外の様々な産業で活用されています",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "台湾のプラント建設大手・台塑重工公司から発電用蒸気タービンを受注した事例です",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工グループは、広範な領域における高度な総合技術力によって、地球環境との調和を図りながら、豊かで美しい未来社会の形成に向けて、新たな価値を創造します",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "風洞試験設備 | 産業用設備 | 川崎重工業株式会社",
+    "url": "https://www.khi.co.jp/industrial_equipment/examination/",
+    "pass": 1
+   },
+   {
+    "quote": "バイオマス、石炭、石油、重油などの燃料を使ったエネルギー製品をご検討のお客様",
+    "url": "https://www.khi.co.jp/industrial_equipment/examination/",
+    "pass": 1
+   },
+   {
+    "quote": "工場内の余剰エネルギーをご利用したいお客様",
+    "url": "https://www.khi.co.jp/industrial_equipment/examination/",
+    "pass": 1
+   },
+   {
+    "quote": "船舶・舶用機械, 鉄道車両 , 航空宇宙",
+    "url": "https://www.khi.co.jp/industrial_equipment/examination/",
+    "pass": 1
+   },
+   {
+    "quote": "コージェネレーション, エネルギープラント, ガスタービン, ガスエンジン, 環境・リサイクルプラント など",
+    "url": "https://www.khi.co.jp/industrial_equipment/examination/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工はニーズに応じた試験用設備をご提案します",
+    "url": "https://www.khi.co.jp/industrial_equipment/examination/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工は、これまで風洞メーカーとして風速ゼロから超音速領域まで様々な用途・速度領域に対応した風洞を製作してきました",
+    "url": "https://www.khi.co.jp/industrial_equipment/examination/",
+    "pass": 1
+   },
+   {
+    "quote": "また、大型構造物、車両、航空機メーカーとして開発製造を通じて豊富な風洞利用の経験を培って参りました",
+    "url": "https://www.khi.co.jp/industrial_equipment/examination/",
+    "pass": 1
+   }
+  ],
+  "参入の時期と形": [
+   {
+    "quote": "サイバーセキュリティ対策を強化した産業用ロボット向けコントローラ「Fシリーズコントローラ S-type」を発売",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "ルーマニアTransgazと陸上水素ガス輸送に関する戦略的提携に合意",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋第一工場で川崎重工グループ最大規模の太陽光発電設備を活用したオンサイト/オフサイトPPAサービスの利用開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "遠隔操作ロボットシステム「Successor」の掻き混ぜ作業向けコミュニケーター「Plesio」を新発売",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄道による水素輸送の供給管理・環境価値管理システム開発の開始 （PDF:483.2 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大級、建設機械向け油圧ポンプ「K7V320」の量産を開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "富士通とフィジカルAIの社会実装に向けた事業検討を開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NVIDIAの技術を活用した「次世代デジタルシップヤード」の実現に向けたコラボレーションを開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "介護施設と入居者家族をつなぐ動画配信サービス「つづるムービー」の提供開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "郡山市富久山クリーンセンターにおいて、 当社初となるごみ焼却の燃焼排ガスを対象としたCO₂分離回収実証試験を開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "クロスカントリー専用モデル「KX327X」/モトクロス専用モデル「KX327」を発売（カワサキモータース）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "EcoLog社と川崎重工、液水サプライチェーンの戦略的提携に関する覚書を締結 （PDF:884.8 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「MOMOSEA」による係船管理の共同実証開始 （PDF:921.1 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "日本医科大学千葉北総病院にて屋内配送ロボット「FORRO（フォーロ）」の運用を開始 （PDF:557.5 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "建設機械向けの電気リモートコントロールユニット「ERUJ」の量産を開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "中京病院にて屋内配送ロボット「FORRO（フォーロ）」の運用を開始 （PDF:527.0 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "神戸市立西神戸医療センターで屋内配送ロボット「FORRO（フォーロ）」の運用を開始 （PDF:494.0 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "東京女子医科大学附属八千代医療センターにて屋内配送ロボット「FORRO（フォーロ）」の運用を開始 （PDF:788.5 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "県央県南広域環境組合（長崎県）向け 「県央県南クリーンセンター」の納入および運営業務の開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "浅ノ川総合病院にて、北陸地方初となる屋内配送ロボット「FORRO（フォーロ）」の運用を開始 ～医療現場の業務効率化と医療従事者の働き方改革を推進～ （PDF:737.1 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初、大型商船向け水素燃料エンジンの水素燃料運転を開始 ～水素燃料多目的船の実船実証に向けプロジェクトが本格加速～ （PDF:480.2 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初、水素液化プラント向け遠心式水素圧縮機の実証運転を開始 ～水素エネルギー社会実現に向け世界をリード～",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初となる水素発電における次世代水素燃料供給システムの運転を開始 （PDF:638.3 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「日本ニュージーランド水素コリドー」を設立 （PDF:644.4 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "会津若松地方広域市町村圏整備組合向け新ごみ焼却施設の竣工および運営業務の開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者である川崎正蔵は、「そのわざを通じて国家社会に奉仕する」の理念をもって、1878年に東京・築地に川崎築地造船所を開設し、1896年には神戸に(株)川崎造船所を設立しました",
+    "url": "https://www.khi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバーセキュリティ対策を強化した産業用ロボット向けコントローラ「Fシリーズコントローラ S-type」を発売",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ルーマニアTransgazと陸上水素ガス輸送に関する戦略的提携に合意",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋第一工場で川崎重工グループ最大規模の太陽光発電設備を活用したオンサイト/オフサイトPPAサービスの利用開始",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "遠隔操作ロボットシステム「Successor」の掻き混ぜ作業向けコミュニケーター「Plesio」を新発売",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工とEdgeCortix、次世代防衛システムの実現に向けたエッジAI分野での協業を開始",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄道による水素輸送の供給管理・環境価値管理システム開発の開始 （PDF:483.2 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大級、建設機械向け油圧ポンプ「K7V320」の量産を開始",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "富士通とフィジカルAIの社会実装に向けた事業検討を開始",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "NVIDIAの技術を活用した「次世代デジタルシップヤード」の実現に向けたコラボレーションを開始",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "介護施設と入居者家族をつなぐ動画配信サービス「つづるムービー」の提供開始",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "郡山市富久山クリーンセンターにおいて、 当社初となるごみ焼却の燃焼排ガスを対象としたCO₂分離回収実証試験を開始",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "クロスカントリー専用モデル「KX327X」/モトクロス専用モデル「KX327」を発売（カワサキモータース）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工西神工場において「ソーラーカーポート」を活用した寄付型コーポレートPPAの第2期提供開始について （PDF:963.4 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "EcoLog社と川崎重工、液水サプライチェーンの戦略的提携に関する覚書を締結 （PDF:884.8 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「MOMOSEA」による係船管理の共同実証開始 （PDF:921.1 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "日本医科大学千葉北総病院にて屋内配送ロボット「FORRO（フォーロ）」の運用を開始 （PDF:557.5 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "建設機械向けの電気リモートコントロールユニット「ERUJ」の量産を開始",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "中京病院にて屋内配送ロボット「FORRO（フォーロ）」の運用を開始 （PDF:527.0 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "神戸市立西神戸医療センターで屋内配送ロボット「FORRO（フォーロ）」の運用を開始 （PDF:494.0 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "東京女子医科大学附属八千代医療センターにて屋内配送ロボット「FORRO（フォーロ）」の運用を開始 （PDF:788.5 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "県央県南広域環境組合（長崎県）向け 「県央県南クリーンセンター」の納入および運営業務の開始",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "浅ノ川総合病院にて、北陸地方初となる屋内配送ロボット「FORRO（フォーロ）」の運用を開始 ～医療現場の業務効率化と医療従事者の働き方改革を推進～ （PDF:737.1 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "カワサキワールドにて未来のモビリティの常設展示を開始",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初、大型商船向け水素燃料エンジンの水素燃料運転を開始 ～水素燃料多目的船の実船実証に向けプロジェクトが本格加速～ （PDF:480.2 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初、水素液化プラント向け遠心式水素圧縮機の実証運転を開始 ～水素エネルギー社会実現に向け世界をリード～",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "1907（明治40）年に舶用蒸気タービンの製造を開始して以来、海から陸へと製品分野を拡げつつ事業展開を図ってきました",
+    "url": "https://www.khi.co.jp/history/business/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和24年頃に川崎航空機工業がバイクエンジンの開発を手掛け、その後二輪車の一貫生産を開始しました",
+    "url": "https://www.khi.co.jp/history/business/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和43年、海外との技術提携を行い翌年に国産初の産業用ロボットの生産と販売を始めました",
+    "url": "https://www.khi.co.jp/history/business/",
+    "pass": 1
+   },
+   {
+    "quote": "船舶部を分離して、川崎汽船（株）を設立",
+    "url": "https://www.khi.co.jp/history/genealogy/",
+    "pass": 1
+   },
+   {
+    "quote": "兵庫工場を分離して、川崎車輛(株)を設立",
+    "url": "https://www.khi.co.jp/history/genealogy/",
+    "pass": 1
+   },
+   {
+    "quote": "飛行機部門を分離して、川崎航空機工業（株）を設立",
+    "url": "https://www.khi.co.jp/history/genealogy/",
+    "pass": 1
+   },
+   {
+    "quote": "製鉄部門を分離して、川崎製鉄（株）を設立",
+    "url": "https://www.khi.co.jp/history/genealogy/",
+    "pass": 1
+   },
+   {
+    "quote": "モーターサイクル「H1」を発売",
+    "url": "https://www.khi.co.jp/history/genealogy/",
+    "pass": 1
+   },
+   {
+    "quote": "モーターサイクル「Z1」を発売",
+    "url": "https://www.khi.co.jp/history/genealogy/",
+    "pass": 1
+   }
+  ],
+  "AMの規模": [
+   {
+    "quote": "福岡市より消防ヘリコプターとして最新型ヘリコプター「H145//BK117 D-3」を受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "JERA武豊火力発電所向けバイオマス搬送設備改造工事を受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "経済産業省「契約学科制度」に向けて、「未来モビリティ共創開発拠点」を形成 （PDF:556.3 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "電動タグボート向け高出力型電気推進システムを受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "明石市より「明石市新ごみ処理施設整備・運営事業」を受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "東京二十三区清掃一部事務組合より「世田谷清掃工場建替工事」を受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "FBS福岡放送より報道用ヘリコプターとして最新型ヘリコプター「H145//BK117 D-3」を受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "東邦ガス向け発電容量10万kW級のガスエンジン発電設備を JFEエンジニアリングより受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "坂出LNG株式会社より坂出LNG基地大型増強工事を受注 ～ LNG設備建設を通じた社会のエネルギートランジションへの貢献 ～",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "千葉市より「千葉市新港清掃工場リニューアル整備・運営事業」を受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "Salus Aviation社より最新型ヘリコプター「H145//BK117 D-3」を初受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "インド現地法人「WiproKPM」において油圧機器のインド国内顧客向け累計出荷台数20万台に到達",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "博多と壱岐・対馬を結ぶ超高速旅客船「川崎ジェットフォイル」を受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "ニューヨーク市交通局向けR268型地下鉄電車378両の受注内定",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "島根県より防災ヘリコプターとして最新型ヘリコプター「H145//BK117 D-3」を受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "台塑石化(FPCC)社 台塑麥寮工業地区向けLNGタンク受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "サーマルリサイクル発電事業用の内部循環流動床ボイラを台湾で初受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "神戸市より消防ヘリコプターとして最新型ヘリコプター「H145//BK117 D-3」を受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "セントラルヘリコプターサービスより最新型ヘリコプター「H145//BK117 D-3」を受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "朝日航洋より最新型ヘリコプター「H145//BK117 D-3」を1機受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "淡路広域行政事務組合より「淡路地域広域ごみ処理施設整備・運営事業」を受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "ニューヨーク市交通局向けR211型地下鉄電車435両を追加受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "ソーシャルイノベーション共創拠点 CO-CREATION PARK - KAWARUBAオープン",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "警察庁から最新型ヘリコプター「H145//BK117 D-3」を受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "静岡市から消防・防災ヘリコプターとして最新型ヘリコプター「H145//BK117 D-3」を受注",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は稼働実績やアフターサービスの側面が高く評価されており、数多の更新案件を受注しています",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "【ニュース】日本製紙株式会社より蒸気タービン発電設備を受注（2024年06月06日発表)",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "【プレスリリース】台湾向けに蒸気タービン発電設備を受注（2022年08月04日発表)",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "環境プラントが専門の荏原環境プラントから受注した事例で、同社から受注したバイオマス発電所向けの蒸気タービン発電設備としては6件目に当たります",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "過去の実績がお客様から高評価を受けたことで、さらなる受注につながりました",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "【プレスリリース】台湾のごみ焼却発電プラント向けに蒸気タービン発電設備を受注（2023年03月29日発表)",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの稼働実績やアフターサービスが高評価を受けており、台湾での連鎖的な受注に繋がっています",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "【プレスリリース】インドネシア向け１５０ＭＷ級蒸気タービン発電設備２基を受注（2016年04月25日発表)",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "台湾のプラント建設大手・台塑重工公司から発電用蒸気タービンを受注した事例です",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "【プレスリリース】台湾のごみ焼却発電プラント向けに蒸気タービン発電設備を受注（2023年3月29日発表)",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "【プレスリリース】台湾向けに蒸気タービン発電設備を受注（2022年8月4日発表)",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "【プレスリリース】台湾向けに蒸気タービン発電設備を受注（2021年11月18日発表)",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "【プレスリリース】インドネシア向け150MW級蒸気タービン発電設備2基を受注（2016年4月25日発表）",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "福岡市より消防ヘリコプターとして最新型ヘリコプター「H145//BK117 D-3」を受注",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "JERA武豊火力発電所向けバイオマス搬送設備改造工事を受注",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "経済産業省「契約学科制度」に向けて、「未来モビリティ共創開発拠点」を形成 （PDF:556.3 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "電動タグボート向け高出力型電気推進システムを受注",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "明石市より「明石市新ごみ処理施設整備・運営事業」を受注",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "東京二十三区清掃一部事務組合より「世田谷清掃工場建替工事」を受注",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "FBS福岡放送より報道用ヘリコプターとして最新型ヘリコプター「H145//BK117 D-3」を受注",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ドイツ・ハンブルク港を拠点とする欧州向け液化水素回廊構築へ、3社が共同開発で合意",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "東邦ガス向け発電容量10万kW級のガスエンジン発電設備を JFEエンジニアリングより受注",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "坂出LNG株式会社より坂出LNG基地大型増強工事を受注 ～ LNG設備建設を通じた社会のエネルギートランジションへの貢献 ～",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "千葉市より「千葉市新港清掃工場リニューアル整備・運営事業」を受注",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Salus Aviation社より最新型ヘリコプター「H145//BK117 D-3」を初受注",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "インド現地法人「WiproKPM」において油圧機器のインド国内顧客向け累計出荷台数20万台に到達",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工の共創拠点KAWARUBAにてUCC水素焙煎コーヒーを導入",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ソーシャルロボットの実証実験場「Future Lab HANEDA」をソーシャルイノベーション共創拠点「KAWARUBA」に統合",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "博多と壱岐・対馬を結ぶ超高速旅客船「川崎ジェットフォイル」を受注",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニューヨーク市交通局向けR268型地下鉄電車378両の受注内定",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "島根県より防災ヘリコプターとして最新型ヘリコプター「H145//BK117 D-3」を受注",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "台塑石化(FPCC)社 台塑麥寮工業地区向けLNGタンク受注",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サーマルリサイクル発電事業用の内部循環流動床ボイラを台湾で初受注",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "神戸市より消防ヘリコプターとして最新型ヘリコプター「H145//BK117 D-3」を受注",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "セントラルヘリコプターサービスより最新型ヘリコプター「H145//BK117 D-3」を受注",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   }
+  ],
+  "素材": [
+   {
+    "quote": "アニオン交換膜（AEM）水電解装置向け高性能電極の開発に成功 ～カーボンニュートラルの実現に向けて、水素を「つくる」分野で新技術～ （PDF:666.4 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「アルミニウム車体の水平リサイクルに関する共同研究の基本方針に係る覚書」を締結しました ～アルミニウム車体の水平リサイクルの取組み検討着手～ （PDF:992.3 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "」でカーボンニュートラル社会の実現に貢献～ （PDF:475.3 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンニュートラル の早期実現に向け川崎市と川崎重工が連携協定を締結 （PDF:376.5 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工、SUBARU、トヨタ、マツダ、ヤマハ発動機、カーボンニュートラル実現に向け、 燃料を「つくる」「はこぶ」「つかう」選択肢を広げる取り組みに挑戦 ー電動化への取り組みに加え、内燃機関活用のさらなる広がりへー",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "低炭素・カーボンフリーな電力を取り扱う事業会社「カワサキグリーンエナジー株式会社」を設立",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "粗大ごみ、廃家電類、金属スクラップに適した竪型破砕機「ＶＳシュレッダ」を新発売（アーステクニカ）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "大型ニッケル水素電池「ギガセル」を用いたスマートグリッド実証試験を開始",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "ニッケル水素電池を用いた多機能電力貯蔵装置の開発について",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "住友金属工業和歌山製鉄所に蒸気タービン発電設備を納入",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "大型ニッケル水素電池「ギガセル」が地球温暖化防止活動環境大臣表彰を受賞",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大級のフェロニッケル製錬プラントを引き渡し（カワサキプラントシステムズ）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "日本で初めて大容量ニッケル水素電池による定電圧フロート充電に成功",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "二次電池（鉛蓄電池・ニッケル水素電池）と電気二重層キャパシタ併用運転による風力発電における電力安定化装置の実証試験開始について",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "大型ニッケル水素蓄電池「ギガセル」による風力発電出力の平滑化実証に成功",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大級のフェロニッケル精錬プラントを受注（カワサキプラントシステムズ）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "有害重金属による汚染土壌の無害化処理設備「エコレストア システム」を開発（アーステクニカ）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ合金厚板の摩擦攪拌接合（FSW）技術を日本で初めて確立",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "高強度の航空機用炭素繊維強化複合材料を新開発",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "近年ではカーボンニュートラルの流れの中で、当社の発電用蒸気タービンは活躍の場が広がり、新エネルギー事業者のバイオマス発電所にも導入されています",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "高効率かつ設備運用に最適化した蒸気タービンの導入は省エネルギーの推進やカーボンフットプリントの削減につながります",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンフットプリントの削減にも貢献しました",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンフットプリントの削減につながるだけでなく、電力供給の要となりうる設備を実現可能です",
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "pass": 1
+   },
+   {
+    "quote": "アニオン交換膜（AEM）水電解装置向け高性能電極の開発に成功 ～カーボンニュートラルの実現に向けて、水素を「つくる」分野で新技術～ （PDF:666.4 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「アルミニウム車体の水平リサイクルに関する共同研究の基本方針に係る覚書」を締結しました ～アルミニウム車体の水平リサイクルの取組み検討着手～ （PDF:992.3 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "」でカーボンニュートラル社会の実現に貢献～ （PDF:475.3 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンニュートラル の早期実現に向け川崎市と川崎重工が連携協定を締結 （PDF:376.5 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "米国で水素によるカーボンニュートラルを目指す民間団体「日本水素フォーラム」に参画",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工、SUBARU、トヨタ、マツダ、ヤマハ発動機、カーボンニュートラル実現に向け、 燃料を「つくる」「はこぶ」「つかう」選択肢を広げる取り組みに挑戦 ー電動化への取り組みに加え、内燃機関活用のさらなる広がりへー",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "低炭素・カーボンフリーな電力を取り扱う事業会社「カワサキグリーンエナジー株式会社」を設立",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「全国軽金属溶接技術競技会」、「兵庫県溶接技術競技会」の両大会で車両カンパニーが優勝",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "粗大ごみ、廃家電類、金属スクラップに適した竪型破砕機「ＶＳシュレッダ」を新発売（アーステクニカ）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "大型ニッケル水素電池「ギガセル」を用いたスマートグリッド実証試験を開始",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニッケル水素電池を用いた多機能電力貯蔵装置の開発について",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "住友金属工業和歌山製鉄所に蒸気タービン発電設備を納入",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "大型ニッケル水素電池「ギガセル」が地球温暖化防止活動環境大臣表彰を受賞",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大級のフェロニッケル製錬プラントを引き渡し（カワサキプラントシステムズ）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "日本で初めて大容量ニッケル水素電池による定電圧フロート充電に成功",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "二次電池（鉛蓄電池・ニッケル水素電池）と電気二重層キャパシタ併用運転による風力発電における電力安定化装置の実証試験開始について",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "大型ニッケル水素蓄電池「ギガセル」による風力発電出力の平滑化実証に成功",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大級のフェロニッケル精錬プラントを受注（カワサキプラントシステムズ）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "有害重金属による汚染土壌の無害化処理設備「エコレストア システム」を開発（アーステクニカ）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ合金厚板の摩擦攪拌接合（FSW）技術を日本で初めて確立",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "高強度の航空機用炭素繊維強化複合材料を新開発",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "わが国初の全アルミ合金製電車を山陽電気鉄道（株）に納入しました",
+    "url": "https://www.khi.co.jp/history/business/rs.html",
+    "pass": 1
+   },
+   {
+    "quote": "山陽電気鉄道2000形アルミ合金製電車",
+    "url": "https://www.khi.co.jp/history/business/rs.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界初、サスペンション機能を持つCFRPフレームを採用した次世代の鉄道車両台車「efWING」を開発",
+    "url": "https://www.khi.co.jp/history/business/rs.html",
+    "pass": 1
+   },
+   {
+    "quote": "地域の鉄道公共交通維持と非電化鉄道の地球環境課題解決の両立を目的に、将来のカーボンニュートラル実現に向けた新動力にも対応できるプラットフォーム車両として、電気式気動車「GreenDEC",
+    "url": "https://www.khi.co.jp/history/business/rs.html",
+    "pass": 1
+   },
+   {
+    "quote": "ドルニエ式全金属製重爆撃機を完成し陸軍が87式重爆撃機として採用",
+    "url": "https://www.khi.co.jp/history/business/aero.html",
+    "pass": 1
+   },
+   {
+    "quote": "わが国初の全金属製大型機で1932年までに26機が生産されました",
+    "url": "https://www.khi.co.jp/history/business/aero.html",
+    "pass": 1
+   },
+   {
+    "quote": "インドネシアAntam社へフェロニッケル精錬プラント第4系列設備を引渡し",
+    "url": "https://www.khi.co.jp/history/business/plant.html",
+    "pass": 1
+   },
+   {
+    "quote": "の実用性を高め、世界的な液化水素サプライチェーンの構築を通じてカーボンニュートラル社会の実現",
+    "url": "https://www.khi.co.jp/pressrelease/news_261014-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "国際海運の2050年カーボンニュートラルの実現へ向けて、次世代燃料エンジンの早期開発と社会実装が",
+    "url": "https://www.khi.co.jp/pressrelease/news_260908-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "して日本の海運・造船業界の発展に寄与すると同時に、海運業界における GHG削減と、2050年カーボン",
+    "url": "https://www.khi.co.jp/pressrelease/news_260908-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "カーボンニュートラル実現に向けた実効性の高い",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "など多様な選択肢でカーボンニュートラルに貢献",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ー安全保障・カーボンニュートラルの実現に向けた液化水素サプライチェーンの構築及びフィジカルAIの実装",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "証事業、及びその他カーボンニュートラル関連投資資金に充当する予定です",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "世界トップレベルの金属3Dプリンタ/粉末開発、造形技術に挑む国内先進事例セミナー 〜高性能・低価格化進む金属3Dプリンタを駆使した金属部品・金型の造形技術と活用事例（TRAFAM,国家プロジェクト,金属粉末,金属部品,金型,3Dシステムズ社製金属3Dプリンタ,ProX200,ハイブリッド金属3Dプリンタ,自動車部品,航空機用部品,エネルギー機器用部品,ターボ開発,3D冷却回路,ポーラス構造,ガス抜き効果,成形サイクル,成形時間,福田金属箔粉工業��,�晦CR,三光合成��,川崎重工業�梶j",
+    "url": "https://j-tic.co.jp/h90330.html",
+    "pass": 3
+   },
+   {
+    "quote": "〔金属･セラミックス3Dプリンタ､3D CAD･CAE､トポロジー最適化､他〕",
+    "url": "https://j-tic.co.jp/h90330.html",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "株主還元方針の変更および期末配当予想の修正（増配）に関するお知らせ（PDF：618KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "マレーシアの現地二輪車メーカーへ追加出資を決定",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "小型石油随伴ガス液化装置事業への出資について",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "エア・ウォーターと川重防災工業との包括的業務提携および資本提携について",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "第203期定時株主総会 足元の経営概況および中長期的な経営戦略説明資料（PDF：6.31MB）",
+    "url": "https://www.khi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "第14回株主向け工場見学会（岐阜工場）を開催",
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "第13回株主向け工場見学会（西神工場）を開催",
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "第12回株主向け工場見学会（坂出工場）を開催",
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "第11回株主向け工場見学会（名古屋第一工場）を開催",
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "第10回株主向け工場見学会（明石工場）を開催",
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "第9回株主向け工場見学会（播磨工場）を開催",
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "第8回株主向け工場見学会（神戸工場）を開催",
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "第7回株主向け工場見学会（西神工場）を開催",
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "第6回株主向け工場見学会（西神戸工場）を開催",
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "第5回株主向け工場見学会（岐阜工場）を開催",
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（坂出工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（兵庫工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（明石工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（名古屋第一工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "第14回株主向け工場見学会（岐阜工場）を開催",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "第13回株主向け工場見学会（西神工場）を開催",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "第12回株主向け工場見学会（坂出工場）を開催",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "第11回株主向け工場見学会（名古屋第一工場）を開催",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "第10回株主向け工場見学会（明石工場）を開催",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "第9回株主向け工場見学会（播磨工場）を開催",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "第8回株主向け工場見学会（神戸工場）を開催",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "第7回株主向け工場見学会（西神工場）を開催",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "第6回株主向け工場見学会（西神戸工場）を開催",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "第5回株主向け工場見学会（岐阜工場）を開催",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（坂出工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（兵庫工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（明石工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（名古屋第一工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "pass": 1
+   },
+   {
+    "quote": "株主および株式取得をご検討いただいている方にメールマガジンにて最新情報を無料でお届けしています",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "第14回株主向け工場見学会（岐阜工場）を開催",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "第13回株主向け工場見学会（西神工場）を開催",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "第12回株主向け工場見学会（坂出工場）を開催",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "第11回株主向け工場見学会（名古屋第一工場）を開催",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "第10回株主向け工場見学会（明石工場）を開催",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "第9回株主向け工場見学会（播磨工場）を開催",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "第8回株主向け工場見学会（神戸工場）を開催",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "第7回株主向け工場見学会（西神工場）を開催",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "第6回株主向け工場見学会（西神戸工場）を開催",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "第5回株主向け工場見学会（岐阜工場）を開催",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（坂出工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（兵庫工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（明石工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "株主向け工場見学会（名古屋第一工場）終了のご報告",
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が発行している株式の概要、主要株主（上位10名）の状況等を掲載しています",
+    "url": "https://www.khi.co.jp/ir/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "株主および株式取得をご検討いただいている方にメールマガジンにて最新情報を無料でお届けしています",
+    "url": "https://www.khi.co.jp/ir/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "第14回株主向け工場見学会（岐阜工場）を開催",
+    "url": "https://www.khi.co.jp/ir/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "第13回株主向け工場見学会（西神工場）を開催",
+    "url": "https://www.khi.co.jp/ir/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "第12回株主向け工場見学会（坂出工場）を開催",
+    "url": "https://www.khi.co.jp/ir/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "第11回株主向け工場見学会（名古屋第一工場）を開催",
+    "url": "https://www.khi.co.jp/ir/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "第10回株主向け工場見学会（明石工場）を開催",
+    "url": "https://www.khi.co.jp/ir/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "第9回株主向け工場見学会（播磨工場）を開催",
+    "url": "https://www.khi.co.jp/ir/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "第8回株主向け工場見学会（神戸工場）を開催",
+    "url": "https://www.khi.co.jp/ir/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "第7回株主向け工場見学会（西神工場）を開催",
+    "url": "https://www.khi.co.jp/ir/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "第6回株主向け工場見学会（西神戸工場）を開催",
+    "url": "https://www.khi.co.jp/ir/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "第5回株主向け工場見学会（岐阜工場）を開催",
+    "url": "https://www.khi.co.jp/ir/stocks/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "創立130周年を記念して、 映画『モネ 時の海を渡った絵』に特別協賛",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「日本ニュージーランド水素コリドー」を設立 （PDF:644.4 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "海外初となるR＆Dイノベーションセンター「Kawasaki Innovation Centre Europe SAS」を設立",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "中国における精密機械事業の合弁会社設立について",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "水素小型モビリティ・エンジン技術研究組合（HySE）の設立認可を取得 （PDF:512.5 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「株式会社Gachaco」の設立について～電動二輪車用共通仕様バッテリーのシェアリングサービスを提供～（カワサキモータース） （PDF:741.1 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「HyEng株式会社」設立のお知らせ （PDF:516.6 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工とソニーグループ リモートロボットプラットフォーム事業を行う新会社を設立",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "シールドマシン事業の新会社設立に関する基本合意書の締結について （PDF:235.4 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "低炭素・カーボンフリーな電力を取り扱う事業会社「カワサキグリーンエナジー株式会社」を設立",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "イタリアの高級二輪車メーカーBIMOTAの再生支援のために新たな二輪車メーカーを共同設立",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "英国スコットランドに自律型無人潜水機 （ＡＵＶ）の現地法人を設立",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "フリー水素サプライチェーン推進機構」を設立－水素エネルギー社会の実現に向けて活動を本格化－",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用ロボット開発に向けたマーケティング会社の共同設立",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "インドに建設機械用油圧ポンプの製造・販売・サービスに関する合弁会社を設立",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "最新鋭大型鍛造プレスによる航空機等鍛造品製造会社の共同設立",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "中国において汎用ガソリンエンジンの生産合弁会社を設立",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "中国におけるセメント排熱発電設備エンジニアリング合弁会社の設立に合意（カワサキプラントシステムズ）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "米国販売会社KPM（USA）を設立（カワサキプレシジョンマシナリ）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "中国における合弁会社設立について（川重冷熱工業）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "中国における鉄道車両エンジニアリング合弁会社の設立に合意",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "カヤバ・カワサキプレシジョン共同販売会社設立について（カワサキプレシジョンマシナリ）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "破砕機事業における営業・設計合弁会社の設立について",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工業の前身である川崎造船所の創業者である川崎正蔵から、経営の多角化を行った初代社長の松方幸次郎、そして社員とその家族の福祉と会社の経営安定化に邁進した第3代目社長である平生釟三郎の人物伝についてご紹介します",
+    "url": "https://www.khi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者の川崎正蔵が東京・築地に川崎築地造船所を開設・創業して以来、川崎重工業は120年以上にわたり陸・海・空にわたり社会課題の解決のために幅広い技術・製品・サービスを世に生み出してきました",
+    "url": "https://www.khi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者である川崎正蔵は、「そのわざを通じて国家社会に奉仕する」の理念をもって、1878年に東京・築地に川崎築地造船所を開設し、1896年には神戸に(株)川崎造船所を設立しました",
+    "url": "https://www.khi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "創立130周年を契機とした従業員持株会向け特別奨励金制度を導入",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "」『創立130周年、そのサキへ",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "創立130周年 記念ロゴマークおよび特設ウェブサイトについて",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "創立130周年を記念して、 映画『モネ 時の海を渡った絵』に特別協賛",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「日本ニュージーランド水素コリドー」を設立 （PDF:644.4 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "海外初となるR＆Dイノベーションセンター「Kawasaki Innovation Centre Europe SAS」を設立",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "インドネシアで設立した油圧機器販売会社が営業開始",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "中国における精密機械事業の合弁会社設立について",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "水素小型モビリティ・エンジン技術研究組合（HySE）の設立認可を取得 （PDF:512.5 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社メディカロイド シンガポール現地法人設立のお知らせ（メディカロイド）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「株式会社Gachaco」の設立について～電動二輪車用共通仕様バッテリーのシェアリングサービスを提供～（カワサキモータース） （PDF:741.1 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「HyEng株式会社」設立のお知らせ （PDF:516.6 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "COGEN World Coalitionに創立メンバーとして加盟",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工とソニーグループ リモートロボットプラットフォーム事業を行う新会社を設立",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "シールドマシン事業の新会社設立に関する基本合意書の締結について （PDF:235.4 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "低炭素・カーボンフリーな電力を取り扱う事業会社「カワサキグリーンエナジー株式会社」を設立",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「技術研究組合 産業用ロボット次世代基礎技術研究機構」を設立ー産業用ロボットのさらなる普及に向けて基礎技術研究基盤を強化ー（PDF:257.4KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「ロボット革命・産業IoTイニシアティブ協議会」の下に設立されたCHERSIに参画",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "産学が連携した「未来ロボティクスエンジニア育成協議会」設立へ（経済産業省ウェブサイトへリンク）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "イタリアの高級二輪車メーカーBIMOTAの再生支援のために新たな二輪車メーカーを共同設立",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "英国スコットランドに自律型無人潜水機 （ＡＵＶ）の現地法人を設立",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "カワサキロボット創業50周年記念サイト公開",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "創立120周年記念展の開催について",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "フリー水素サプライチェーン推進機構」を設立－水素エネルギー社会の実現に向けて活動を本格化－",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "創立１２０周年ロゴマークの作成について",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「造船業こそ国運を背負う事業」と考え明治11年に川崎築地造船所を創業し、造船業を起点として社業を拡大していきました",
+    "url": "https://www.khi.co.jp/history/business/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎正蔵が川崎築地造船所（東京）を開設（創業）",
+    "url": "https://www.khi.co.jp/history/genealogy/",
+    "pass": 1
+   },
+   {
+    "quote": "船舶部を分離して、川崎汽船（株）を設立",
+    "url": "https://www.khi.co.jp/history/genealogy/",
+    "pass": 1
+   },
+   {
+    "quote": "兵庫工場を分離して、川崎車輛(株)を設立",
+    "url": "https://www.khi.co.jp/history/genealogy/",
+    "pass": 1
+   },
+   {
+    "quote": "飛行機部門を分離して、川崎航空機工業（株）を設立",
+    "url": "https://www.khi.co.jp/history/genealogy/",
+    "pass": 1
+   },
+   {
+    "quote": "製鉄部門を分離して、川崎製鉄（株）を設立",
+    "url": "https://www.khi.co.jp/history/genealogy/",
+    "pass": 1
+   },
+   {
+    "quote": "創立100周年",
+    "url": "https://www.khi.co.jp/history/genealogy/",
+    "pass": 1
+   },
+   {
+    "quote": "シスメックス（株）と医療用ロボットの開発に向けたマーケティング会社（株）メディカロイドを設立",
+    "url": "https://www.khi.co.jp/history/genealogy/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎築地造船所の創業以来、「日本初」と形容される数々の船舶を建造してきました",
+    "url": "https://www.khi.co.jp/history/business/ship.html",
+    "pass": 1
+   }
+  ],
+  "売上": [
+   {
+    "quote": "双日と川崎重工、パキスタン最大規模の尿素製造設備を130億円で受注（カワサキプラントシステムズ）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "双日と川崎重工、パキスタン最大規模の尿素製造設備を130億円で受注（カワサキプラントシステムズ）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "展開を通じて、お客様の価値創出を支えています（2026 年 3 月期グループ連結売上高",
+    "url": "https://www.khi.co.jp/pressrelease/news_261102-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業利益は 357億円（前年同期比 +152 億円）と好調な滑り出し",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "為替前提レート1 ドル150円を据え置きつつ、事業利益を 1800億円（前回公表比",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "+100億円）に上方修正",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前年同期比で増収･増益、1Qにおける売上収益･各利益はそれぞれ過去最高を記録",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※2 為替変動に伴い事業利益に影響を与える外貨量であり、川崎重工業、川崎車両、カワサキモータースのドル建売上か",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "らドル建仕入を控除して算出（損失引当済み案件の外貨建売上を含む",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "四半期別 事業利益 (億円), 利益率",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 4,884 5,435 + 551",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上加重平均レート(USD/JPY)※1 143.79 158.05 + 14.26",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "車両は増収を達成する一方、売上構成の変動や1Qへの費用偏重により減益",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 4,884 100.0 5,435 100.0 + 551",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上原価 3,966 81.2 4,334 79.8 + 368",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益 918 18.8 1,100 20.3 + 182",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業利益+152億円",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※1 USDやEURを含む複数種類の通貨の変動に伴う事業利益への直接的な影響額を示していますが、間接的な影響額（物価変動影響など）は「売上構成変動等」および",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※2 PW1100G-JMエンジンの運航上の重要な問題に係る外貨建返金負債残高の為替変動に伴う評価替え影響（▲18億円）を含む",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上変動では航空宇宙システムや精密機械･ロボットの数量増が寄与",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上構成変動では航空宇宙システムや車両で一時的に悪化も、IEEPA関税還付のあった",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "為替変動※ 売上変動※ 売上構成変動等※ 販管費(▲は増加)持分法による投資損益米国関税政策によるコスト上昇",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※1 増減要因のうち、為替変動、売上変動および売上構成変動等は、当社が一定の基準を定めて算出した概算値です",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、それぞれの増減要因は不可分であることも多く、特に売上変動と売上構成変動等は合算した金額を確認することが望ましい場合があり得ます",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "うち 売上債権※1の増減額(▲は増加) 747 979 + 232",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価800億円を含む",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※1,2 売上債権には契約資産を含む",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "渡対価70億円を含む",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・事業利益は 357 億円（前年同期比+152 億円）と好調な滑り出し",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 事業利益 税引前利益 四半期利益",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 事業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％ 円 銭",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 488,440 543,576",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上原価 396,631 433,479",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益 91,809 110,097",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 101,581 55,240 96,677 56,930 160,320 17,688 488,440 － 488,440",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．セグメント間の内部売上収益又は振替高は市場実勢価格に基づいています",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益(事業利益)の調整額△5,814百万円には、セグメント間取引消去△254百万円、セグメントに",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "帰属しない一般管理費等△5,560百万円を含めています",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は△2,975百万円です",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益(事業利益)は、売上収益から売上原価、販売費及び一般管理費、持分法による投資利益又は",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 137,612 60,135 86,913 69,594 170,738 18,581 543,576 － 543,576",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益(事業利益)の調整額△5,238百万円には、セグメント間取引消去△394百万円、セグメントに",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "帰属しない一般管理費等△4,844百万円を含めています",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は△2,461百万円です",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "505億円及び代替新株予約権付社債券(本新株予約権付社債券の紛失、盗難又は滅失の場合に適切な証明",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "500億円及び代替新株予約権付社債券に係る本社債の額面金額合計額を合計した額",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本新株式の発行による手取概算額約924億円については、2029年３月末までに、各事業の成長を支える生産",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、本新株予約権付社債の発行による調達資金約1,010億円については、2031年３月末までに、エネルギ",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このうち、2031年満期新株予約権付社債については、(ⅰ)約200億円を当",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(ⅱ)約305億円については、フ",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2033年満期新株予約権付社債については、約505億円を当社子会社の日本",
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Arevoのクラウドファンディングが国内最大級の7億円の大台を突破",
+    "url": "https://news.sharelab.jp/cases/other-fields/3dprinter-mpa-210202/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/cases/other-fields/3dprinter-mpa-210202/",
+    "pass": 3
+   },
+   {
+    "quote": "TRAFAM参画企業（17年6月時点）TRAFAMの予算計画と実績（億円）",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工、31年3月期に売上高4割増 防衛装備・北米四輪がけん引 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOTG06DHP0W5A600C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "は2031年3月期に売上高にあたる連結売上収益（国際会計基準）を25年3月期（2兆1293億円）の1.4倍の3兆円に伸ばす方針だ",
+    "url": "https://www.nikkei.com/article/DGXZQOTG06DHP0W5A600C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "事業利益率で10%以上を目指す従来計画から逆算すると、本業の利益を示す事業利益は前期の2倍の3000億円規模になる",
+    "url": "https://www.nikkei.com/article/DGXZQOTG06DHP0W5A600C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "財務担当の山本克也副社長が日本経済新聞の取材に対し「30年ごろに（売上収益を）3兆円レベ...",
+    "url": "https://www.nikkei.com/article/DGXZQOTG06DHP0W5A600C2000000/",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "株式会社ＫＣＭＪの事業譲渡に関するお知らせ （PDF:372.7 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "橋梁・水門事業からの撤退について （PDF:7.6 KB）",
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ＫＣＭＪの事業譲渡に関するお知らせ （PDF:372.7 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "橋梁・水門事業からの撤退について （PDF:7.6 KB）",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "① 自社既存技術の応用 ② 他社との共同開発・買収 ③ 関連業務からの派生",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック 工作機械 レーザー焼結 ○ ○ - 買収したOPMラボラトリーと共同開発",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "航空機の市場規模予測 航空機部品分野での3Dプリンター活用を狙った買収事例（GE）",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "12/10 3Dプリンターのノウハウを有するMorris Technologiesと子会社のRapid Quality Manufacturingを買収（買収額非公表）",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "12/12 金属積層技術を有するAvio Aero社を買収し、航空機部品向け3Dプリンターの活用体制を整備（買収額43億ドル）",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ビーム方式）、Arcam社（電子ビーム方式）を買収を発表",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（買収額計14億ドル）",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "16/10 SLM Solutions社と同じ方式を得意とするConcept Laser社の買収を発表(買収額6億ドル<75%出資>)",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Innovations社を7.9百万米ドルで買収し、医療向",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "13/4 三井化学 歯科材料を手掛ける独Heraeus Dental社を570百万米ドルで買収",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "13/6 三井化学 歯科機器のサービスビューローである米Dentca社を買収",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14/4 3D Systems 外科治療機器を手掛ける米Medical Modeling社を83百万米ドルで買収",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14/7 3D Systems 医療用シミュレーションソフト販売等を手掛ける米Simbionix Corporation社を120百万米ドルで買収",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14/9 Arcam 整形外科向け機器･システム製造を手掛ける米DiSanto Technology社を16百万米ドルで買収",
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXZQOTG06DHP0W5A600C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "大和ハウスが23道県で新築撤退へ…ハウスメーカー業界のヤバい現状についてお伝えします",
+    "url": "https://www.youtube.com/watch?v=O7-RRXDWcwE",
+    "pass": 3
+   },
+   {
+    "quote": "SpaceJet（旧MRJ）撤退後、日本の航空機メーカーが「自社開発の旅客機を持つ」道は事実上閉ざされましたが、川崎重工はもともと自社単独の旅客機開発路線を取っておらず、ボーイングを軸とした国際共同開発と防衛機・無人機への集中という戦略を堅持しています",
+    "url": "https://note.com/hirokimiyano/n/n58c7dcca097b",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、清算価値を下回るような「資産の安全余裕」は現在の株価には全く存在しません",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "26年度1QのFCFは小幅な赤字も、通期では黒字を見込む",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "精密機械･ロボットでは係争和解金の獲得や採算性の改善により上方修正 1",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ホンダが上場来初の最終赤字4239億円 26年3月期、EV損失重く",
+    "url": "https://www.nikkei.com/article/DGXZQOTG06DHP0W5A600C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ホンダの最終黒字4000億円に上振れ 27年3月期、円安進行が寄与",
+    "url": "https://www.nikkei.com/article/DGXZQOTG06DHP0W5A600C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "【東京エレクトロン】半導体ショックで株価大幅下落！個人投資家はどう戦うべき？｜営業利益67.2%増・通期は1兆1690億円予想｜買い場か様子見か!?【元機関投資家が解説】",
+    "url": "https://www.youtube.com/watch?v=185D8-qEffU",
+    "pass": 3
+   },
+   {
+    "quote": "売上収益は2兆3千億円を超え、事業利益は1,450億円台、親会社株主帰属当期純利益は1千億円の大台を回復しました",
+    "url": "https://note.com/hirokimiyano/n/n58c7dcca097b",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期の通期実績は、売上収益が2兆3,112億円、事業利益が1,451億円、親会社株主帰属当期純利益が1,081億円でした",
+    "url": "https://note.com/hirokimiyano/n/n58c7dcca097b",
+    "pass": 3
+   },
+   {
+    "quote": "前期比では売上収益が8.5％増、事業利益が1.4％増、純利益が22.9％増です",
+    "url": "https://note.com/hirokimiyano/n/n58c7dcca097b",
+    "pass": 3
+   },
+   {
+    "quote": "実績はその計画を売上・事業利益で上回り、純利益では1,081億円と計画の900億円を大きく上回って着地しています",
+    "url": "https://note.com/hirokimiyano/n/n58c7dcca097b",
+    "pass": 3
+   },
+   {
+    "quote": "ROEの実績水準も、純利益1,081億円に対する自己資本約1兆円という規模感から、概ね10％前後で推移しており、目標である「ROE10％超の持続的達成」のラインに近づいてきています",
+    "url": "https://note.com/hirokimiyano/n/n58c7dcca097b",
+    "pass": 3
+   },
+   {
+    "quote": "その前提が崩れたとき、つまり防衛特需が一服する、水素商用化が想定より遅れる、パワースポーツの赤字が深まる、といった逆風が重なれば、株価評価は急速にしぼむ可能性もあります",
+    "url": "https://note.com/hirokimiyano/n/n58c7dcca097b",
+    "pass": 3
+   },
+   {
+    "quote": "自己資本利益率（ROE）の推移をデュポン分析（純利益率 × 総資産回転率 × 財務レバレッジ）を用いて分解することで、同社の収益構造の劇的な変化が浮かび上がってくる8",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "特に注目すべきは、過去最高益を記録した2026年3月期において、売上高純利益率が4.68%へと向上している一方で、財務レバレッジが過去の4.3倍程度から3.79倍へと明確に低下している点である8",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期の営業活動によるキャッシュフローは黒字を確保しているものの、次世代の水素インフラや航空宇宙事業向けの大規模な先行投資が継続しているため、売上高に対するFCFマージンは依然として薄い状態が続いている12",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "過去には航空エンジン関連での大規模な引当金の計上が見られたものの、直近のバランスシートの精査において、深刻な含み損を抱え、将来の減損リスクとなるような大規模な不採算資産の兆候は限定的である",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍からの民間航空機需要（ボーイング関連等）の完全回復に加え、防衛省向け事業の安定的な推移が相まって、採算性が大幅に改善している2",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "全社の営業利益率（事業利益率）は過去の低位水準から6.3%〜6.6%程度まで改善してきているが、パワースポーツ事業における海外市場の逆風を、高採算のインフラ事業といかにカバーし合うかが、今後の持続的な利益成長の鍵を握る6",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "現在の配当利回りは約1.53%前後（2026年8月時点の会社予想）であり、市場全体と比較して極端な高配当銘柄ではないものの、業績の拡大と純利益の増加に伴う安定的な増配トレンドが確認できる3",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度に純損失を計上するという極めて困難な局面から、不要な事業の徹底した整理とコスト構造の抜本的改革を断行し、2026年3月期には純利益1,081億円という過去最高益を達成するに至った経営手腕は、称賛に値する2",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "重厚長大産業の特性として、老朽化設備の更新や次世代技術（水素等）への投資が不可避であるため、税引後営業利益（NOPAT）の30%〜38%が継続的に設備投資や運転資本の増加に食われる（再投資される）という保守的な前提を適用する8",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "現在の1ドル＝159円台という極端な円安水準が、同社の輸出採算性を大きく底上げしていることは否定できない事実である14",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益は、コロナ禍の影響を大きく受けた2021年3月期の53億円の赤字から、直近の2026年3月期予想では1,455億円へと劇的なV字回復を遂げています",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期には377億円、2026年3月期には120億円の黒字へと転換しているものの、2兆円を超える売上規模に対して、手元に残るフリーキャッシュフローの割合（FCFマージン）は数パーセントにも満たない年がほとんどです5",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "プラント建設やインフラ工事を請け負う重工業ビジネスでは、想定外のインフレや資材高騰、工程の遅延によって採算が悪化し、巨額の特別損失（減損や工事損失引当金）を計上する歴史が幾度となく繰り返されてきました",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "実際、2024年3月期に利益が大きく落ち込んだ背景にも、特定プロジェクトにおける採算悪化の影が見え隠れしています",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "企業が事業に投じたすべての資金（有利子負債と株主資本の合計）からどれだけの本業の利益を生み出しているかを示すROIC（投下資本利益率）について、税引後営業利益を用いた概算を行うと、長期的には概ね5%〜7%程度のレンジに収斂すると考えられます",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "過去10年間の全社営業利益率の推移を見ると、1%台から6%台の間を激しく上下するジェットコースターのような軌跡を描いてきました3",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "直近の2026年3月期の営業利益率は5.46%〜6.3%（開示基準によるブレを含む）と想定されており、これは過去10年間で間違いなく最高水準の利益率です",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "この過去最高の利益水準をもたらしているのは、経営の構造改革というよりも、①航空宇宙分野の需要回復、②歴史的な円安による輸出採算の押し上げ効果、③二輪車事業における価格転嫁の成功、という3つの好条件が奇跡的なタイミングで重なった結果にすぎません",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "赤字によってPERが算定不能となった期を除外し、有効なデータのみを用いて統計処理を行っています",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "現在の川崎重工業は、営業利益1,455億円、最終純利益1,081億円という、過去10年で空前の「利益ピーク」にあります3",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "仮に、為替が円高方向へ修正され、二輪車の特需が一巡し、営業利益が過去10年の中期的な平均水準である500億〜600億円（正常化EPS）へと回帰したと想像してください",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "：米国をはじめとする保護主義的な関税政策の導入による、日本からの輸出採算の悪化",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "シンガポール海事港湾庁の舶用部品向け 3Dプリンタ 活用 ... — シンガポール海事港湾庁の舶用部品向け 3Dプリンタ 活用 ... 川崎重工業株式会社 https://www.khi.co.jp > pressrelease > detail",
+    "url": "https://www.khi.co.jp/pressrelease/detail/20201216_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニュース一覧 | 川崎重工業 株式会社 — ニュース一覧 | 川崎重工業 株式会社 川崎重工業株式会社 https://www.khi.co.jp > news",
+    "url": "https://www.khi.co.jp/news/",
+    "pass": 3
+   },
+   {
+    "quote": "船舶用部品の 3D プリティング活用プロジェクトに 川崎重工 ... — 船舶用部品の 3D プリティング活用プロジェクトに 川崎重工 ... ShareLab NEWS https://news.sharelab.jp > 事例 > その他業界事例",
+    "url": "https://news.sharelab.jp/cases/other-fields/3dprinter-mpa-210202/",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工 、防衛 事業 の 売上 収益上振れへ 半導体用ロボットの ... — 川崎重工 、防衛 事業 の 売上 収益上振れへ 半導体用ロボットの ... Reuters https://www.reuters.com > economy",
+    "url": "https://www.reuters.com/jp/economy/NEMBYQOC5ZNZBBWJUEWCUK7FHA-2026-10-06/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の業績 | 財務・業績情報 | 川崎重工業 株式会社 — セグメント別の業績 | 財務・業績情報 | 川崎重工業 株式会社 川崎重工業株式会社 https://www.khi.co.jp > financial > business_segment",
+    "url": "https://www.khi.co.jp/ir/financial/business_segment/",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工 、31年3月期に 売上 高4割増 防衛装備・北米四輪が ... — 川崎重工 、31年3月期に 売上 高4割増 防衛装備・北米四輪が ... 日本経済新聞 https://www.nikkei.com > マーケット > 株式",
+    "url": "https://www.nikkei.com/article/DGXZQOTG06DHP0W5A600C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度第3四半期決算説明資料 - 川崎重工業 — 2025年度第3四半期決算説明資料 - 川崎重工業 川崎重工業株式会社 PDF https://www.khi.co.jp > pdf",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260209-1j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工 、船舶保守部品の“地産地消”モデル目指す - モノクエ — 川崎重工 、船舶保守部品の“地産地消”モデル目指す - モノクエ Mono Que https://monoque.jp > news",
+    "url": "https://monoque.jp/news/f9fe8421b840697099a9675cabf913340c797403/",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工 、 社長 直轄プロジェクトで「事業創造」に挑め — 川崎重工 、 社長 直轄プロジェクトで「事業創造」に挑め ミドルの転職 https://mid-tenshoku.com > 特集記事一覧",
+    "url": "https://mid-tenshoku.com/featured/92/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 資料 | IRライブラリ | 川崎重工業 株式会社 — 決算説明 資料 | IRライブラリ | 川崎重工業 株式会社 川崎重工業株式会社 https://www.khi.co.jp > library > presentation",
+    "url": "https://www.khi.co.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度第1四半期 決算説明 資料 - 川崎重工業 — 2026年度第1四半期 決算説明 資料 - 川崎重工業 川崎重工業株式会社 PDF https://www.khi.co.jp > pdf",
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Kawasaki Heavy Industries - YouTube — Kawasaki Heavy Industries - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=185D8-qEffU",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー | IR | 川崎重工業 株式会社 — IRカレンダー | IR | 川崎重工業 株式会社 川崎重工業株式会社 https://www.khi.co.jp > calendar",
+    "url": "https://www.khi.co.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 | 川崎重工業 株式会社 — 会社概要 | 企業情報 | 川崎重工業 株式会社 川崎重工業株式会社 https://www.khi.co.jp > corporate > outline",
+    "url": "https://www.khi.co.jp/corporate/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ご存知ですか？ 川崎重工 のこと | 川崎重工業 株式 会社 — ご存知ですか？ 川崎重工 のこと | 川崎重工業 株式 会社 川崎重工業株式会社 https://www.khi.co.jp > private > about > know",
+    "url": "https://www.khi.co.jp/ir/private/about/know.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 川崎重工業 】[7012]企業 概要 社員数や役員報酬・資本金 — 【 川崎重工業 】[7012]企業 概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7012",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業 - Wikipedia — 川崎重工業 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 川崎重工業",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業 (株)の 会社概要 | マイナビ2028 — 川崎重工業 (株)の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp44 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp44/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "川崎重工業 ― 神戸発、陸海空のフロンティアを問い直す - note 川崎重工業 ― 神戸発、陸海空のフロンティアを問い直す - note note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/hirokimiyano/n/n58c7dcca097b",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】 川崎重工業 は『買い』か？ - note 【バフェットの視点】 川崎重工業 は『買い』か？ - note note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業 の人気・新着記事まとめ - note 川崎重工業 の人気・新着記事まとめ - note note https://note.com > tag > 川崎重工業",
+    "url": "https://note.com/tag/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】 川崎重工業 は『買い』か？ — 防衛特需 ... 【バフェットの視点】 川崎重工業 は『買い』か？ — 防衛特需 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "経営者懇談会の模様が可愛いいグラレコに！ 川崎重工業 ・原 ... 経営者懇談会の模様が可愛いいグラレコに！ 川崎重工業 ・原 ... note https://note.com > 人物・社会 > 経営者・実業家",
+    "url": "https://note.com/anchor_kobe/n/n3c40f3a2c318",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "企業探訪｜川崎重工業 ― 神戸発、陸海空のフロンティアを問い直す｜宮野宏樹",
+    "url": "https://note.com/hirokimiyano/n/n58c7dcca097b",
+    "pass": 3
+   },
+   {
+    "quote": "企業探訪｜川崎重工業 ― 神戸発、陸海空のフロンティアを問い直す",
+    "url": "https://note.com/hirokimiyano/n/n58c7dcca097b",
+    "pass": 3
+   },
+   {
+    "quote": "神戸三宮の駅から海側へ歩いて十数分。ポートタワーの足元、ハーバーランドの賑わいから少しだけ西に向かったところに、川崎重工業の本社が建っています。1896年（明治29年）、松方幸次郎が川崎正蔵から経営を引き継いだ川崎造船所を源流とするこの会社は、120年を超える歳月を、そのまま日本の近代産業史と重ねてきました。蒸気機関車、戦艦、商船、航空機、新幹線車両、産業用ロボット、ガスタービン、二輪車、そして液化水素運搬船。陸と海と空、地上から宇宙まで、ありとあらゆる「重い機械」と「動くもの」を作り続けてきた、日本でも稀有な総合重工メーカーです。",
+    "url": "https://note.com/hirokimiyano/n/n58c7dcca097b",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期は、その川崎重工にとって節目の年になりました。売上収益は2兆3千億円を超え、事業利益は1,450億円台、親会社株主帰属当期純利益は1千億円の大台を回復しました。株価はこの2年で大きく水準を切り上げ、PBRは2.5倍から3倍台、時価総額は2兆円を伺う水準まで戻ってきています。重工株は長らく「PBR1倍割れの代名詞」のように扱われてきましたが、川崎重工は、その重工業界において「資本市場の再評価が起きた銘柄」のひとつになりました。",
+    "url": "https://note.com/hirokimiyano/n/n58c7dcca097b",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、株価が上がっただけで企業の本質を語るのは早計です。この会社が今、何で稼ぎ、何で苦しみ、どこへ向かおうとしているのか。社長の橋本康彦氏が掲げる「ソリューション企業への変革」と「カワる、サキへ。」というコーポレートメッセージは、現場の事業構造とどう接続しているのか。水素サプライチェーンで日本の国策の中心を担いながら、北米の二輪市場では関税と競争激化に削られ、防衛費GDP2％の追い風を最大限に受け取りつつ、中国の建機市場の浮き沈みにも振り回される。この多面性こそが、川崎重工という企業を語る上で外せない核心部分です。",
+    "url": "https://note.com/hirokimiyano/n/n58c7dcca097b",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、神戸の本社、120年の歴史、6つの事業セグメント、最新の業績、水素・防衛・モーターサイクルの3つの主戦場、橋本康彦CEOの経営思想、株主還元の転換、そしてこの会社が抱える5つの構造的リスクまで、川崎重工業という巨大な総合重工メーカーの全体像を一気通貫で整理していきます。投資家として銘柄を見るとき、ビジネスパーソンとして日本のものづくりを考えるとき、あるいは単に「川崎」のブランドに惹かれる消費者として、この会社の現在地と未来をどう読むか。その手がかりを、できるかぎり具体的な数字と一緒に、最後まで丁寧にたどっていきます。",
+    "url": "https://note.com/hirokimiyano/n/n58c7dcca097b",
+    "pass": 3
+   },
+   {
+    "quote": "1. 1896年、松方幸次郎が引き継いだもの ― 川崎正蔵から続く創業の系譜",
+    "url": "https://note.com/hirokimiyano/n/n58c7dcca097b",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業のルーツをたどると、二人の人物に行き着きます。ひとりは創業者というべき川崎正蔵、もうひとりがその事業を本格的な近代企業に育てあげた松方幸次郎です。",
+    "url": "https://note.com/hirokimiyano/n/n58c7dcca097b",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】川崎重工業は『買い』か？ — 防衛・航空需要の回復と株価に織り込まれた過大評価の検証｜AIバフェット研究所 所長",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】川崎重工業は『買い』か？ — 防衛・航空需要の回復と株価に織り込まれた過大評価の検証",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の世界の株式市場において、資本財セクター、とりわけ防衛・航空宇宙・エネルギーインフラを担う重工業メーカーに対する投資家の注目はかつてない高まりを見せている。地政学的リスクの長期化に伴う各国の防衛費増額、パンデミック後の民間航空機需要の完全な回復、そして脱炭素社会に向けた水素エネルギー網の構築など、巨大なマクロトレンドが重工業界の追い風となっているためである。",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業は、三菱重工業、IHIと並ぶ日本を代表する総合重機メーカーの一角を占めている1。2026年3月期の通期決算においては、売上収益が過去最高の2兆3,112億円（前年比8.5％増）、事業利益が1,451億円に達し、力強い成長の軌道に乗っていることが確認された2。さらに、2027年3月期（今期）の会社計画でも売上収益2兆5,600億円、事業利益1,700億円という極めて強気な見通しが示されている2。市場はこれらの好材料を素早く織り込み、同社の時価総額は約2.28兆円規模にまで膨張している1。",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、賢明な投資家にとって重要なのは、企業が単に「素晴らしい事業を展開しているか」という定性的な評価にとどまらない。投資の成否を分けるのは、「その企業の現在の株価が、事業が生み出す将来のキャッシュフローに基づく本質的価値に対して妥当な水準にあり、十分な安全余裕（マージン・オブ・セーフティ）を確保しているか」という絶対的な基準に尽きる。市場が防衛関連銘柄やインフラ銘柄に熱狂し、バラ色のシナリオを描いている時こそ、冷静に財務データを分析し、ビジネスの真の価値を測定する規律が求められる。",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "本分析レポートでは、長期投資における不変の原則に基づき、川崎重工業の事業構造（サークル・オブ・コンピテンス）、競争優位性の源泉と耐久性（経済的な堀）、財務健全性、経営陣の資本配分能力を客観的かつ徹底的に解剖する。さらに、将来のフリー・キャッシュ・フロー（FCF）の予測に基づく本質的価値をDCF（割引キャッシュフロー）法によって算出し、現在の市場価格との乖離を厳密に測定する。",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "すべての検証を踏まえた最終的な投資判断（買い／見送り／売り）と主要なリスク要因については、本レポートの最後に明確な結論として提示する。本レポートが、表面的な好決算や市場のテーマ性に流されることなく、事業そのものの経済的価値に基づく意思決定の一助となることを期している。",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "企業の基礎理解（サークル・オブ・コンピテンス）",
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業の人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "防衛、航空宇宙、水素エネルギー、産業用ロボットなど多岐にわたる事業を展開しています。",
+    "url": "https://note.com/tag/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "最新の決算分析や投資戦略、採用情報に関する様々な記事が集まっています。",
+    "url": "https://note.com/tag/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "防衛、航空宇宙、水素エネルギー、産業用ロボットなど多岐にわたる事業を展開して…",
+    "url": "https://note.com/tag/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "きょうの気になる企業ニュース（2026/9/28）",
+    "url": "https://note.com/tag/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "【2027年度版】三菱重工業 企業研究＆転職戦略ガイド｜業界分析・年収と勤務地・防衛とエナジーの将来性から選考対策まで徹底解説",
+    "url": "https://note.com/tag/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "🦉 AIニュース夕刊｜2026年11月2日（月）18時OpenAIがUAEと4件の協定、韓国はAI関連に21.3兆ウォン投資へ！――香港は金融AIの統制枠組みづくりに着手、日本ではリコーと川崎重工が提携",
+    "url": "https://note.com/tag/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "年初来株価が低迷し、このところ下落基調が続いている川崎重工を取り上げます。川崎重工は株価が示すようにオワコンとなってるのか？それとも底打ちし反転して上昇傾向となっていく余地があるのか？産業分析とともに企業の持つ経営戦略を含め 分析していきます。",
+    "url": "https://note.com/tag/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】川崎重工業は『買い』か？ — 防衛特需とシクリカルの狭間で揺れる重厚長大企業の真価を問う｜AIバフェット研究所 所長",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】川崎重工業は『買い』か？ — 防衛特需とシクリカルの狭間で揺れる重厚長大企業の真価を問う",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "株式投資において、私たちが常に自問しなければならないのは、その企業が何をして現金を稼いでいるのかを深く理解できるかという「サークル・オブ・コンピテンス（理解の輪）」の確認と、その企業が持つ競争優位性、すなわち「経済的な堀（モート）」が今後10年、20年と持続するかという検証です。いかに魅力的なテーマ性に彩られていようとも、事業の実態が伴わず、本質的価値（Intrinsic Value）を大きく上回る価格で株を買ってしまえば、長期的な投資リターンは決して得られません。投資とは、ビジネスの所有権を適正な価格、あるいはそれ以下の価格で買い求める行為に他ならないからです。",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "本日は、日本の重工業を代表する企業のひとつであり、近年「防衛御三家」の一角として株式市場の熱い視線を集めている川崎重工業（証券コード：7012）を俎上に載せます。2026年現在、地政学的リスクの高まりや防衛予算の大幅な増額、そして為替相場の変動を背景に、同社の株価や業績は大きなうねりを見せています。しかし、私たちは市場の熱狂や一時的な好業績という華やかなヴェールに流されることなく、冷静に帳簿をめくり、事業の構造を解き明かし、価格と価値のギャップを測らなければなりません。",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、川崎重工業のビジネスモデルの堅牢性から、過去10年間の財務サイクルの分析、DCF（ディスカウント・キャッシュ・フロー）法による本質的価値の算出、そして歴史的PERの推移に基づく相対的バリュエーションまで、あらゆる角度から徹底的に解剖します。読者の皆様が投資判断を下すための、極めて詳細かつ実践的な羅針盤となれば幸いです。",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "結論は記事の最後に配置しています。それでは、探求の旅を始めましょう。",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "2026年現在、世界の地政学的環境は過去数十年で最も不確実な状況にあり、各国の安全保障政策は歴史的な転換点を迎えています。それに伴い、日本政府は防衛費をGDP比2%へと段階的に引き上げる強烈な国策を推進しており、この追い風を正面から受けているのが、三菱重工業、川崎重工業、IHIのいわゆる「防衛御三家」です。株式市場は、安定した政府調達と長期的な利益成長を期待し、これら防衛関連銘柄に多大なプレミアムを与え始めています。",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "とりわけ、業界トップである三菱重工業の株価収益率（PER）が34倍という歴史的な高水準に達する中、川崎重工業はPER17倍台で取引されており、一見すると「出遅れ銘柄」や「割安な代替投資先」として投資家の目に映るかもしれません1。さらに、ここ数年の円安基調は輸出比率の高い同社にとって短・中期的な利益の大きな押し上げ要因となり、直近の2026年3月期決算では事業利益が過去最高を更新する計画が示されています2。",
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "pass": 3
+   },
+   {
+    "quote": "■経営者懇談会の模様が可愛いいグラレコに！ 川崎重工業・原さん作成｜ANCHOR KOBE",
+    "url": "https://note.com/anchor_kobe/n/n3c40f3a2c318",
+    "pass": 3
+   },
+   {
+    "quote": "■経営者懇談会の模様が可愛いいグラレコに！ 川崎重工業・原さん作成",
+    "url": "https://note.com/anchor_kobe/n/n3c40f3a2c318",
+    "pass": 3
+   },
+   {
+    "quote": "「第５回企業経営者とスタートアップとの懇談会×KAWASAKI DAY vol.5」（8月30日、アンカー神戸）の講師を務めた川崎重工業、橋本康彦社長の講演の模様が、１枚のグラフィックレコーディング（グラレコ）にまとめられ、アンカー神戸に届きました。",
+    "url": "https://note.com/anchor_kobe/n/n3c40f3a2c318",
+    "pass": 3
+   },
+   {
+    "quote": "講演の内容が簡潔にまとまっているだけでなく、これがまた、かわいい‼",
+    "url": "https://note.com/anchor_kobe/n/n3c40f3a2c318",
+    "pass": 3
+   },
+   {
+    "quote": "作成したのは、同社イノベーション部の原純哉さん。原さんは懇談会の運営メンバーとして事前準備を進めてきたほか、当日も橋本社長の前に登壇し、参加者に同社の会社概要を説明。その上、このグラレコを作成するなど、まさに大車輪の活躍でした。",
+    "url": "https://note.com/anchor_kobe/n/n3c40f3a2c318",
+    "pass": 3
+   },
+   {
+    "quote": "さて、懇談会で橋本社長は「信頼のこたえを～ハシモトの挑戦の軌跡～」と題して講演。前半ではモノづくりが好きだった幼少時代から、ボランティア活動に汗を流した阪神・淡路大震災など、人格形成の礎を培った神戸でのエピソードを披露。後半は、川崎重工業に入社以来、技術者として半導体製造ロボットや手術支援ロボットの開発をリードしてきた半生と、未来への展望を語りました。グラレコには、重要なターニングポイントとなった出来事と印象的な言葉が抜き出されており、参加者にとってはこれを見るだけで当日の話が頭の中で蘇る、非常に優れた“記録媒体”になっています。",
+    "url": "https://note.com/anchor_kobe/n/n3c40f3a2c318",
+    "pass": 3
+   },
+   {
+    "quote": "余談になりますが、講演会などに参加した後、知人から「どんな話だった？」と聞かれたとき、うまく説明できない、という体験はありませんか。私はあります（笑）。「いい話だったよ…」の後が続かないのです。でも、今回は大丈夫。このグラレコが手元にあれば、スラスラ話せますね。",
+    "url": "https://note.com/anchor_kobe/n/n3c40f3a2c318",
+    "pass": 3
+   },
+   {
+    "quote": "アンカー神戸のスタッフが原さんのグラレコを知ったのは、４月に開かれた「ミートアップ（交流会）」でした。グループディスカッションで出た意見や提案が、絵や図形を交えて表現され、皆さんびっくり。交流会が大いに盛り上がりました。それを見たスタッフが、原さんをメインにしたイベントを企画。６月のアンカーナイトでは、原さんを講師にグラレコ・ワークショップを開催。参加者は○、△、□といった図形を使って自己紹介に挑戦するなど、グラレコの基本を楽しみながら学びました。",
+    "url": "https://note.com/anchor_kobe/n/n3c40f3a2c318",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "# 川崎重工業 - Search / X # 川崎重工業 - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "Ilan Goldfajn on X: \"Great visit to #Kawasaki Heavy Industries ... Ilan Goldfajn on X: \"Great visit to #Kawasaki Heavy Industries ... X https://x.com > @igoldfajn",
+    "url": "https://x.com/igoldfajn/status/2092472201396080891",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工 のライオン型4足モビリティ「CORLEO」2035年販売へ 川崎重工 のライオン型4足モビリティ「CORLEO」2035年販売へ X https://x.com > Trending",
+    "url": "https://x.com/i/trending/2106533899925074395",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業 （株） (@LlXeUp6viBbrc0Q) / X 川崎重工業 （株） (@LlXeUp6viBbrc0Q) / X X https://x.com > ...",
+    "url": "https://x.com/LlXeUp6viBbrc0Q",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "川崎重工業 株式会社 - LinkedIn 川崎重工業 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > kawasaki-heavy-industries",
+    "url": "https://jp.linkedin.com/company/kawasaki-heavy-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Kawasaki Heavy Industries, Ltd. - LinkedIn Kawasaki Heavy Industries, Ltd. - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/kawasaki-heavy-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業 （株） - LinkedIn 川崎重工業 （株） - LinkedIn LinkedIn https://www.linkedin.com > company > 川崎重工業（株）",
+    "url": "https://www.linkedin.com/company/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "Atsushi Ogura - 川崎重工業 株式会社 - LinkedIn Atsushi Ogura - 川崎重工業 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > atsushi-ogura",
+    "url": "https://jp.linkedin.com/in/atsushi-ogura",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "川崎重工業 株式会社 (@japan.kawasaki) - Facebook 川崎重工業 株式会社 (@japan.kawasaki) - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/japan.kawasaki/",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業 株式会社 (@japan.kawasaki) - Videos | Facebook 川崎重工業 株式会社 (@japan.kawasaki) - Videos | Facebook Facebook https://www.facebook.com > ... > 川崎重工業株式会社",
+    "url": "https://www.facebook.com/japan.kawasaki/videos/",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業 株式会社 - Facebook 川崎重工業 株式会社 - Facebook Facebook https://www.facebook.com > japan.kawasaki > posts",
+    "url": "https://www.facebook.com/japan.kawasaki/posts/1623356879576978/",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業 株式会社 - Facebook 川崎重工業 株式会社 - Facebook Facebook https://www.facebook.com > ... > Impresa industriale",
+    "url": "https://www.facebook.com/japan.kawasaki/reviews/?locale=it_IT",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工業 株式会社 (@japan.kawasaki) - Facebook 川崎重工業 株式会社 (@japan.kawasaki) - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/japan.kawasaki/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.khi.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/pressrelease/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/energy/environment_recycling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/energy/steam_turbines/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/energy/steam/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.khi.co.jp/industrial_equipment/examination/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/news/rd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/ir/library/audio/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/ir/policies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/ir/stocks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/ir/private/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/ir/attention.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/ir/public_notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/news_atom/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/sustainability/environment/performance/eco_products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/history/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/history/genealogy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/history/business/ship.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/history/business/rs.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/history/business/aero.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/history/business/engine.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/history/business/plant.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/history/business/energy_plant.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khi.co.jp/history/business/hydraulic.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.khi.co.jp/pressrelease/news_261102-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.khi.co.jp/pressrelease/news_261029-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.khi.co.jp/pressrelease/news_261014-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.khi.co.jp/pressrelease/news_260929-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.khi.co.jp/pressrelease/news_260929-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.khi.co.jp/pressrelease/news_260908-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.khi.co.jp/pressrelease/news_260828-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.khi.co.jp/pressrelease/news_260828-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.khi.co.jp/ir/pdf/sta_260807-1j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.khi.co.jp/history/img/gmenu_e.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.khi.co.jp/energy/environment_recycling/img/index_im01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.khi.co.jp/energy/environment_recycling/img/index_im03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.khi.co.jp/energy/environment_recycling/img/index_im04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.khi.co.jp/ir/img/index_im01-2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.khi.co.jp/ir/img/index_im02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://j-tic.co.jp/h90330.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kawasaki.jp/280/page/0000096370.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutoh.co.jp/support/3d/support_end/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/cases/other-fields/3dprinter-mpa-210202/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-tic.co.jp/h90330.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/611433",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reuters.com/jp/economy/NEMBYQOC5ZNZBBWJUEWCUK7FHA-2026-10-06/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOTG06DHP0W5A600C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://error.fc2.com/blog3/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/news/f9fe8421b840697099a9675cabf913340c797403/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mid-tenshoku.com/featured/92/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/396",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ugJKXqaQxBQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=185D8-qEffU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=O7-RRXDWcwE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7012",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp44/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/n58c7dcca097b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/open_azalea2045/n/n29111936c28f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/igoldfajn/status/2092472201396080891",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/trending/2106533899925074395",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LlXeUp6viBbrc0Q",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/kawasaki-heavy-industries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/kawasaki-heavy-industries/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/atsushi-ogura",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/japan.kawasaki/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/japan.kawasaki/videos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/japan.kawasaki/posts/1623356879576978/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/japan.kawasaki/reviews/?locale=it_IT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/anchor_kobe/n/n3c40f3a2c318",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/japan.kawasaki/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "川崎重工業 3Dプリンタ 撤退 OR 縮小 OR 終了",
+   "results": [
+    "https://www.khi.co.jp/pressrelease/detail/20201216_1.html",
+    "https://j-tic.co.jp/h90330.html",
+    "https://www.city.kawasaki.jp/280/page/0000096370.html",
+    "https://www.mutoh.co.jp/support/3d/support_end",
+    "https://www.khi.co.jp/news/",
+    "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "https://www.nedo.go.jp/content/100922599.pdf",
+    "https://skhonpo.com/blogs/blog/3d-2025-2026"
+   ]
+  },
+  {
+   "query": "川崎重工業 3Dプリンタ 参入 OR 開始 OR 買収",
+   "results": [
+    "https://www.khi.co.jp/pressrelease/detail/20201216_1.html",
+    "https://news.sharelab.jp/cases/other-fields/3dprinter-mpa-210202/",
+    "https://j-tic.co.jp/h90330.html",
+    "https://www.smbc.co.jp/hojin/report/investigationlecture/resources/pdf/3_00_CRSDReport038.pdf",
+    "https://www.nikkan.co.jp/articles/view/611433",
+    "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "https://www.techno-producer.com/column/metal-3d-printer-maker/",
+    "https://answers.khi.co.jp/ja/voices/20210806j-02/",
+    "https://www.nikkei.com/article/DGKKZO97454140Z00C26A7TB2000/"
+   ]
+  },
+  {
+   "query": "川崎重工業 積層造形 事業 売上",
+   "results": [
+    "https://www.reuters.com/jp/economy/NEMBYQOC5ZNZBBWJUEWCUK7FHA-2026-10-06/",
+    "https://www.khi.co.jp/ir/financial/business_segment/",
+    "https://www.nikkei.com/article/DGXZQOTG06DHP0W5A600C2000000/",
+    "https://news.kobekeizai.jp/blog-entry-23593.html",
+    "https://www.khi.co.jp/ir/pdf/pre_260209-1j.pdf",
+    "https://www.kaijipress.com/news/shipbuilding/2026/10/204746/",
+    "https://the-shashi.com/tse/7012/financials/sales/",
+    "https://www.youtube.com/watch?v=xTNjDQSD9qA",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=7012",
+    "https://zaimiru.jp/company/7012/segment"
+   ]
+  },
+  {
+   "query": "川崎重工業 3Dプリンター 社長 インタビュー 課題",
+   "results": [
+    "https://monoque.jp/news/f9fe8421b840697099a9675cabf913340c797403/",
+    "https://www.khi.co.jp/pressrelease/detail/20201216_1.html",
+    "https://mid-tenshoku.com/featured/92/",
+    "https://www.cct-inc.co.jp/koto-online/archives/396",
+    "https://www.youtube.com/watch?v=ugJKXqaQxBQ",
+    "https://news.sharelab.jp/cases/other-fields/3dprinter-mpa-210202/",
+    "https://j-tic.co.jp/h90330.html",
+    "https://avinton.com/blog/2021/01/kawasaki-heavy-industries-innovation/",
+    "https://www.nikkan.co.jp/articles/view/611433",
+    "https://answers.khi.co.jp/ja/special/visionmap2030/"
+   ]
+  },
+  {
+   "query": "川崎重工業 決算説明 3Dプリンタ",
+   "results": [
+    "https://www.khi.co.jp/ir/library/presentation.html",
+    "https://www.khi.co.jp/ir/pdf/pre_260807-1j.pdf",
+    "https://www.youtube.com/watch?v=185D8-qEffU",
+    "https://www.khi.co.jp/ir/calendar.html",
+    "https://www.youtube.com/watch?v=O7-RRXDWcwE",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260205548635/",
+    "https://www.khi.co.jp/ir/library/audio/20220510.html",
+    "https://www.khi.co.jp/ir/library/audio/",
+    "https://www.youtube.com/watch?v=L2BZT1PYvk8",
+    "https://edinetdb.jp/company/E02127/presentations/"
+   ]
+  },
+  {
+   "query": "川崎重工業 会社概要 設立 株主",
+   "results": [
+    "https://www.khi.co.jp/corporate/outline.html",
+    "https://www.khi.co.jp/ir/private/about/know.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7012",
+    "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "https://job.mynavi.jp/28/pc/search/corp44/outline.html",
+    "https://www.khi.co.jp/sustainability/library/report/2023/pdf/23_houkokusyo_20.pdf",
+    "https://www.khi.co.jp/ir/stocks/information/",
+    "https://www.khi.co.jp/sustainability/library/report/2019/pdf/19_houkokusyo_22.pdf",
+    "https://the-shashi.com/tse/7012/",
+    "https://ja.wikipedia.org/wiki/川崎重工業"
+   ]
+  },
+  {
+   "query": "site:note.com 川崎重工業",
+   "results": [
+    "https://note.com/hirokimiyano/n/n58c7dcca097b",
+    "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "https://note.com/tag/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "https://note.com/open_azalea2045/n/n29111936c28f",
+    "https://note.com/oh_no/n/n279a56d625f6",
+    "https://note.com/good_dill292/n/n34302da14961",
+    "https://note.com/longtermcompass/n/n07263c96c426",
+    "https://note.com/tag/vm/investment_money/company-7012",
+    "https://note.com/ai_shukatsu28/n/n225a7bbb967a",
+    "https://note.com/zosen_ojisan/n/ndd82fbd67e04"
+   ]
+  },
+  {
+   "query": "site:x.com 川崎重工業",
+   "results": [
+    "https://x.com/hashtag/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD",
+    "https://x.com/igoldfajn/status/2092472201396080891",
+    "https://x.com/i/trending/2106533899925074395",
+    "https://x.com/LlXeUp6viBbrc0Q",
+    "https://x.com/USConsOsakaKobe/status/2109802958158500296",
+    "https://x.com/i/trending/2045435774552899681",
+    "https://x.com/i/trending/2072142711428464743",
+    "https://x.com/ochyai/status/1767058465564791213",
+    "https://x.com/i/trending/2054204961647645131",
+    "https://x.com/nhk_news/status/2107417459934523568"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 川崎重工業",
+   "results": [
+    "https://jp.linkedin.com/company/kawasaki-heavy-industries",
+    "https://www.linkedin.com/company/kawasaki-heavy-industries/",
+    "https://www.linkedin.com/company/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/in/atsushi-ogura",
+    "https://www.linkedin.com/posts/boeing_%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD%E9%98%B2%E8%A1%9B%E7%9C%81%E3%81%AF40%E5%B9%B4%E3%81%AB%E3%82%8F%E3%81%9F%E3%82%8A%E8%BC%B8%E9%80%81%E3%83%98%E3%83%AA%E3%82%B3%E3%83%97%E3%82%BF%E3%83%BCch-47%E3%83%81%E3%83%8C%E3%83%BC%E3%82%AF-activity-7518136411942907904-W_jz",
+    "https://cn.linkedin.com/company/kawasaki-heavy-industries",
+    "https://www.linkedin.com/news/story/%E3%83%88%E3%83%A8%E3%82%BF%E7%B3%BB-%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E3%81%AA%E3%81%A9%E5%87%BA%E5%90%91%E5%8F%97%E3%81%91%E5%85%A5%E3%82%8C-4300985/",
+    "https://jp.linkedin.com/company/kawasaki-heavy-industries-ltd?trk=ppro_cprof",
+    "https://jp.linkedin.com/in/kei-nomura-517162a7",
+    "https://jp.linkedin.com/company/川崎重工業（株）"
+   ]
+  },
+  {
+   "query": "site:facebook.com 川崎重工業",
+   "results": [
+    "https://www.facebook.com/japan.kawasaki/",
+    "https://www.facebook.com/japan.kawasaki/videos/",
+    "https://www.facebook.com/japan.kawasaki/posts/1623356879576978/",
+    "https://www.facebook.com/japan.kawasaki/reviews/?locale=it_IT",
+    "https://www.facebook.com/japan.kawasaki/photos/1648913817021284/",
+    "https://www.facebook.com/japan.kawasaki/photos/",
+    "https://www.facebook.com/japan.kawasaki/posts/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E3%81%AF2030%E5%B9%B4%E3%81%AB%E7%9B%AE%E6%8C%87%E3%81%99%E5%B0%86%E6%9D%A5%E5%83%8F%E3%82%92%E5%AE%9A%E3%82%81%E3%81%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B32030%E3%81%AE%E9%80%B2%E6%8D%97%E5%A0%B1%E5%91%8A%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC2030%E5%B9%B4%E5%BA%A6%E3%81%AB%E5%A3%B2%E4%B8%8A%E5%8F%8E%E7%9B%8A33%E5%85%86%E5%86%86%E8%B6%85%E4%BA%8B%E6%A5%AD%E5%88%A9%E7%9B%8A3300%E5%84%84%E5%86%86%E8%B6%85%E4%BA%8B%E6%A5%AD%E5%88%A9%E7%9B%8A%E7%8E%8710%E8%B6%85%E3%81%AE%E5%AE%9F%E7%8F%BE/1635476355031697/",
+    "https://www.facebook.com/pages/%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%9D%B1%E4%BA%AC%E6%9C%AC%E7%A4%BEkawasaki-Heavy-Industries-Ltd-Tokyo-Office/275417402583263",
+    "https://www.facebook.com/japan.kawasaki/posts/%E4%BC%81%E6%A5%AD%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC%E3%82%AB%E3%83%AF%E3%82%8B%E3%82%B5%E3%82%AD%E3%81%B8%E5%89%B5%E7%AB%8B130%E5%91%A8%E5%B9%B4%E3%81%9D%E3%81%AE%E3%82%B5%E3%82%AD%E3%81%B8%E7%AF%87%E5%85%AC%E9%96%8B%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E3%81%AF2026%E5%B9%B410%E6%9C%8813%E6%97%A5%E7%81%AB%E3%81%AB%E4%BC%81%E6%A5%AD%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC%E3%82%AB%E3%83%AF%E3%82%8B%E3%82%B5%E3%82%AD%E3%81%B8%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%81%AE%E6%9C%80%E6%96%B0%E4%BD%9C%E3%81%A8%E3%81%97%E3%81%A6%E3%83%88%E3%83%A9%E3%82%A6%E3%83%87/1642014794377853/",
+    "https://www.facebook.com/japan.kawasaki/posts/川崎重工とリコーaiで設計業務の知識資産活用を推進する戦略的パートナーシップを構築高度な技術文書や暗黙知の活用を通じ技術者が創造的業務に集中できる環境の実現を目/1662172192362113/"
+   ]
+  },
+  {
+   "query": "川崎重工業 note 社長",
+   "results": [
+    "https://www.khi.co.jp/corporate/message.html",
+    "https://note.com/anchor_kobe/n/n3c40f3a2c318",
+    "https://note.com/open_azalea2045/n/nc8e6665dfd7f",
+    "https://www.youtube.com/watch?v=Y0uKEvikomY",
+    "https://www.nikkei.com/article/DGXZQOUC121RN0S6A011C2000000/",
+    "https://www.khi.co.jp/corporate/",
+    "https://the-shashi.com/tse/7012/ceo/",
+    "https://www.khi.co.jp/sustainability/message/",
+    "https://ja.wikipedia.org/wiki/長谷川聰",
+    "https://the-shashi.com/tse/7012/executives/ceo/hashimoto-yasuhiko/"
+   ]
+  },
+  {
+   "query": "川崎重工業 X 投稿",
+   "results": [
+    "https://x.com/Kawasaki_JPN",
+    "https://www.khi.co.jp/news/detail/post_44.html",
+    "https://www.khi.co.jp/corporate/advertisement/changingforward_archive.html",
+    "https://www.facebook.com/japan.kawasaki/?locale=ja_JP",
+    "https://kawasaki-bravethunders.com/news/detail/id=21743",
+    "https://x.com/LlXeUp6viBbrc0Q",
+    "https://www.youtube.com/watch?v=l7QObiFup10"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像16件／外部38頁・検索12回）"
+ }
+}

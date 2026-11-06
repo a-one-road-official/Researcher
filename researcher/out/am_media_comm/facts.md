@@ -1,4 +1,4 @@
-# AMのメディア・コミュニティ（日本・海外）：運営母体・規模・稼ぎ方・読者と会員（事実のみ・12社）
+# AMのメディア・コミュニティ（日本・海外）：運営母体・規模・稼ぎ方・読者と会員（事実のみ・20社）
 
 ## 3DPrint.com
 - 公式URL：https://3dprint.com（given）
@@ -196,6 +196,432 @@
 - 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索15回）
 - 代表者：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索15回）
 
+## 3Dnatives
+- 公式URL：https://www.3dnatives.com（given）
+- 稼ぎ方：
+  - 「Sponsoriser le podcast」（https://www.3dnatives.com/・1回目）
+  - 「Sponsoriser le podcast」（https://www.3dnatives.com/publicite/・1回目）
+  - 「reel sponsorisé sur nos réseaux」（https://www.3dnatives.com/publicite/・1回目）
+  - 「vues sur un reel sponsorisé」（https://www.3dnatives.com/publicite/・1回目）
+  - 「Sponsoriser le podcast」（https://www.3dnatives.com/newsletter-impression-3d/・1回目）
+  - 「Sponsoriser le podcast」（https://www.3dnatives.com/aminsider-podcast-fabrication-additive-13102026/・1回目）
+  - 「3DnativesのYouTubeチャンネルでは、3Dプリンティングに関する最新ニュースや、世界各地で開催される様々な積層造形関連の展示会、イベント、見本市の独占レポートをお届けします！」（https://www.youtube.com/3dnatives・3回目）
+  - 「デトロイトで開催されたRAPID + TCTの独占インタビューシリーズへようこそ！3DnativesとSMEとのコラボレーションにより、今年のイベントで大きな成果をもたらした企業をご紹介できることを大変嬉しく思います」（https://www.youtube.com/watch?v=d-dKeX32UTc・3回目）
+  - 「3DnativesのYouTubeチャンネルでは、3Dプリンティングの最新ニュースや、世界各地で開催される様々な積層造形ショー、イベント、見本市などの独占情報を提供しています！」（https://www.youtube.com/watch?v=d-dKeX32UTc・3回目）
+- 規模：
+  - 「Inscrivez-vous à notre newsletter !」（https://www.3dnatives.com/・1回目）
+  - 「Inscrivez-vous à notre newsletter !」（https://www.3dnatives.com/publicite/・1回目）
+  - 「Newsletter de l'impression 3D - 3Dnatives」（https://www.3dnatives.com/newsletter-impression-3d/・1回目）
+  - 「Newsletter de l’impression 3D」（https://www.3dnatives.com/newsletter-impression-3d/・1回目）
+  - 「Pour suivre toute l’actualité de l’impression 3D et de la fabrication additive, inscrivez-vous à la newsletter hebdomadaire 3Dnatives. Chaque mercredi, recevez le meilleur de l’actualité qui a marqué les derniers jours de la planète impression 3D !」（https://www.3dnatives.com/newsletter-impression-3d/・1回目）
+  - 「Inscrivez-vous à notre newsletter !」（https://www.3dnatives.com/newsletter-impression-3d/・1回目）
+  - 「Inscrivez-vous à notre newsletter !」（https://www.3dnatives.com/aminsider-podcast-fabrication-additive-13102026/・1回目）
+  - 「チャンネル登録者数 1.59万人」（https://www.youtube.com/3dnatives・3回目）
+  - 「3Dnatives, under its “ADDITIV” brand, also produces online and in-person events dedicated to 3D printing and its applications. 2023 events will focus on additive manufacturing in the medical, automotive, and aerospace sectors. The company’s recent events included over 200 expert speakers from top-tier companies (such as L’Oréal, Audi, NASA, Boeing, etc.) and more than 15,000 attendees overall.」（https://www.4spe.org/3dnatives/・3回目）
+  - 「チャンネル登録者数 1.59万人」（https://www.youtube.com/watch?v=d-dKeX32UTc・3回目）
+  - 「3Dnativesは、月間100万人以上の読者を擁する、3Dプリンティングに関するあらゆる情報を提供するオンラインメディアであり、主要な情報源です」（https://www.youtube.com/watch?v=d-dKeX32UTc・3回目）
+- 読者・会員は誰か：
+  - 「Arrêtez de payer pour une audience qui n'achète jamais.」（https://www.3dnatives.com/publicite/・1回目）
+  - 「vous donne la parole devant notre audience : vous expliquez ce que vous faites réellement, les participants vous posent des questions, et votre histoire est perçue comme un témoignage qui mérite d'être écouté.」（https://www.3dnatives.com/publicite/・1回目）
+  - 「arrive dans le fil que votre concurrent convoite, devant une audience qui nous suit déjà pour l'actualité de la fabrication additive.」（https://www.3dnatives.com/publicite/・1回目）
+  - 「et vous enverra les données d'audience ainsi que les tarifs.」（https://www.3dnatives.com/publicite/・1回目）
+  - 「48時間で900万ドルを調達」（https://www.youtube.com/3dnatives・3回目）
+  - 「TPM3D CF200 は中小企業にとって最もアクセスしやすい SLS プリンターでしょうか?」（https://www.youtube.com/3dnatives・3回目）
+  - 「This Wednesday, October 21, we're bringing together clinical leaders, medical executives and pioneering engineers for a 2.5-hour briefing on the future of personalized medicine, and the challenges that stand between this technology and the patients who need it most.」（https://www.youtube.com/3dnatives・3回目）
+  - 「ソフトウェアエンジニアから3Dプリンターオタクへ：全貌」（https://www.youtube.com/3dnatives・3回目）
+  - 「Society of Plastics Engineers Acquires 3Dnatives, the Leading Global Media and Event Platform for Additive Manufacturing | SPE」（https://www.4spe.org/3dnatives/・3回目）
+  - 「DANBURY, CT – February 27, 2023: The Society of Plastics Engineers (SPE) has acquired 3Dnatives, a French company that produces a media platform and international events for professionals in 3D printing, additive manufacturing, and their related market applications.」（https://www.4spe.org/3dnatives/・3回目）
+  - 「アジアの 3D プリント大手はヨーロッパや米国で競争できるか?」（https://www.youtube.com/3dnatives・3回目）
+- AMの扱い：
+  - 「JENIは、LCD樹脂3Dプリンターと洗浄・硬化ステーションがタワー状に積み上げられた構造で、ロボット式ガントリーが造形プレートを各ステーション間を移動させ、最終的に完成品が排出されます」（https://www.youtube.com/3dnatives・3回目）
+  - 「3DnativesのYouTubeチャンネルでは、3Dプリンティングに関する最新ニュースや、世界各地で開催される様々な積層造形関連の展示会、イベント、見本市の独占レポートをお届けします！」（https://www.youtube.com/3dnatives・3回目）
+  - 「Raise3D初のSLS 3Dプリンターをテストしました – 結果はこちら！ | Raise3D RMS220」（https://www.youtube.com/3dnatives・3回目）
+  - 「最も使いやすいレジン3Dプリンターは？ Raise3D DF2+テスト | 3Dnatives Lab」（https://www.youtube.com/3dnatives・3回目）
+  - 「Ultimaker S8レビュー：S7より速い？3Dプリンターテストと考察（+S6）」（https://www.youtube.com/3dnatives・3回目）
+  - 「Formnext is the largest event for additive manufacturing players, find the best interviews, machines and innovations of the AM show of the year.」（https://www.youtube.com/3dnatives・3回目）
+  - 「Formnext 2025 の付加製造分野の最新情報は何ですか?」（https://www.youtube.com/3dnatives・3回目）
+  - 「Formnext 2025で発表される最大の3Dプリンター」（https://www.youtube.com/3dnatives・3回目）
+  - 「In our 3D Explained video series, explore and learn all about 3D printing technologies with Elliot Sadukaite.」（https://www.youtube.com/3dnatives・3回目）
+  - 「Understand 3D Printing in Under a Minute | 3D Explained | 3Dnatives」（https://www.youtube.com/3dnatives・3回目）
+  - 「FDM or FFF 3D Printing, What’s the Fuss? | 3D Explained | 3Dnatives」（https://www.youtube.com/3dnatives・3回目）
+  - 「3D Printing Metal Powder? Powder Bed Fusion (DMLS) Pt.2 | 3D Explained | 3Dnatives」（https://www.youtube.com/3dnatives・3回目）
+- 売上：
+  - 「1,3 million」（https://www.3dnatives.com/publicite/・1回目）
+  - 「Industrial 3D printing currently only accounts for about 0.1% of the $12.8 trillion global manufacturing economy, but it’s growing rapidly. The additive manufacturing market is expected to reach $107.7 billion by 2031, representing a Compound Annual Growth Rate (CAGR) of 21.9%*.」（https://www.4spe.org/3dnatives/・3回目）
+- 黒字・収益性：
+  - 「. Nous testons votre solution d'impression 3D, publions nos conclusions, et les ingénieurs s'y fient parce que nous ne mâchons pas nos mots. Profitez de la crédibilité que nous avons mis des années à acquérir.」（https://www.3dnatives.com/publicite/・1回目）
+  - 「造形プレート1枚は約20秒ごとに完成し、Photocentric社は1日5000個以上の生産量で採算が取れると述べています」（https://www.youtube.com/3dnatives・3回目）
+- 存続：
+  - 「DANBURY, CT – February 27, 2023: The Society of Plastics Engineers (SPE) has acquired 3Dnatives, a French company that produces a media platform and international events for professionals in 3D printing, additive manufacturing, and their related market applications.」（https://www.4spe.org/3dnatives/・3回目）
+- 検索結果の抜粋：
+  - 「3Dnatives — 3Dnatives 3Dnatives https://www.3dnatives.com > ...」（https://www.3dnatives.com/en/・3回目）
+  - 「3Dnatives - LinkedIn — 3Dnatives - LinkedIn LinkedIn https://www.linkedin.com > 3dnatives」（https://www.linkedin.com/company/3dnatives/・3回目）
+  - 「3Dnatives - Facebook — 3Dnatives - Facebook Facebook https://www.facebook.com > ... > Media/news company」（https://www.facebook.com/3Dnatives/・3回目）
+  - 「3Dnatives - YouTube — 3Dnatives - YouTube YouTube https://www.youtube.com > 3dnatives」（https://www.youtube.com/3dnatives・3回目）
+  - 「SPE Acquires 3Dnatives , the Leading Global Media and Event ... — SPE Acquires 3Dnatives , the Leading Global Media and Event ... SPE-Inspiring Plastics Professionals https://www.4spe.org > 3dnatives」（https://www.4spe.org/3dnatives/・3回目）
+  - 「Advertise with us - 3Dnatives — Advertise with us - 3Dnatives 3Dnatives https://www.3dnatives.com > advertis...」（https://www.3dnatives.com/en/advertise-with-us-3dnatives/・3回目）
+  - 「SPE Has Acquired 3Dnatives , Expanding its Expertise in the ... — SPE Has Acquired 3Dnatives , Expanding its Expertise in the ... 3Dnatives https://www.3dnatives.com > spe-3dn...」（https://www.3dnatives.com/en/spe-3dnatives-acquisition-270220235/・3回目）
+  - 「3Dnatives Information - RocketReach — 3Dnatives Information - RocketReach RocketReach https://rocketreach.co > 3dnatives-pro...」（https://rocketreach.co/3dnatives-profile_b44d079cfd299d9d・3回目）
+  - 「3Dnatives - LinkedIn — 3Dnatives - LinkedIn LinkedIn https://fr.linkedin.com > 3dnatives」（https://fr.linkedin.com/company/3dnatives・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像3件／外部27頁・検索11回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像3件／外部27頁・検索11回）
+- 設立：記載なし（3回確認済み：公式4頁／PDF・画像3件／外部27頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像3件／外部27頁・検索11回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像3件／外部27頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像3件／外部27頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式4頁／PDF・画像3件／外部27頁・検索11回）
+- 運営母体：記載なし（3回確認済み：公式4頁／PDF・画像3件／外部27頁・検索11回）
+- 株主構成：記載なし（3回確認済み：公式4頁／PDF・画像3件／外部27頁・検索11回）
+
+## AMUG
+- 公式URL：https://www.amug.com（given）
+- 稼ぎ方：
+  - 「Sponsor & Exhibitor Opportunities」（https://www.amug.com/・1回目）
+  - 「Sponsor & Exhibitor Registration for AMUG 2027」（https://www.amug.com/・1回目）
+  - 「is now open for sponsors and AMUGexpo-only exhibitors.」（https://www.amug.com/・1回目）
+  - 「Sponsor & Exhibitor Opportunities」（https://www.amug.com/newsletter-signup/・1回目）
+  - 「AMUG membership is included, FREE of charge, with your conference registration fee.」（https://www.amug.com/newsletter-signup/・1回目）
+  - 「AMUG Conference Sponsors – Additive Manufacturing Users Group」（https://www.amug.com/sponsors/・1回目）
+  - 「Sponsor & Exhibitor Opportunities」（https://www.amug.com/sponsors/・1回目）
+  - 「AMUG 2027 Sponsors」（https://www.amug.com/sponsors/・1回目）
+  - 「AMUG thanks its 2027 Sponsors for their support of our members, our community and the industry.」（https://www.amug.com/sponsors/・1回目）
+  - 「Click on a sponsor level to see who is supporting AMUG and read their details.」（https://www.amug.com/sponsors/・1回目）
+  - 「Diamond Sponsors (1)」（https://www.amug.com/sponsors/・1回目）
+  - 「Platinum Sponsors (4)」（https://www.amug.com/sponsors/・1回目）
+- 規模：
+  - 「SIGN UP FOR AMUG NEWSLETTER」（https://www.amug.com/・1回目）
+  - 「Newsletter Signup – Additive Manufacturing Users Group」（https://www.amug.com/newsletter-signup/・1回目）
+  - 「AMUG membership is included, FREE of charge, with your conference registration fee.」（https://www.amug.com/newsletter-signup/・1回目）
+  - 「SIGN UP FOR AMUG NEWSLETTER」（https://www.amug.com/newsletter-signup/・1回目）
+  - 「AMUG thanks its 2027 Sponsors for their support of our members, our community and the industry.」（https://www.amug.com/sponsors/・1回目）
+  - 「Those resources include but are not limited to our Additive Talks series, our online media, and our print & digital magazine 3D ADEPT Mag. Attendees to AMUG have the opportunity to get a FREE digital/print subscription of 3D ADEPT Mag.」（https://www.amug.com/sponsors/・1回目）
+  - 「Airtech Advanced Materials Group is a global leader in large-scale additive manufacturing and advanced materials for the composites industry. With over 50 years of expertise, Airtech is the world’s largest manufacturer of vacuum bagging and composite tooling materials supporting aerospace, automotive, wind energy, marine, and industrial markets.」（https://www.amug.com/sponsors/・1回目）
+  - 「Continuum Powders partners with advanced manufacturers to transform high-value − virgin and reclaimed − metal feedstocks into premium production and specialty powders. We engineer materials for demanding performance requirements, accelerate specialty alloy innovation, and help customers build circular, resilient supply chains.」（https://www.amug.com/sponsors/・1回目）
+  - 「The AMUGexpo is a unique opportunity for industry-specific vendors to display their products and services to a focused market segment — conference attendees with experience using a wide array of additive manufacturing technologies in a broad range of industries.」（https://www.amug.com/sponsors/・1回目）
+  - 「SIGN UP FOR AMUG NEWSLETTER」（https://www.amug.com/sponsors/・1回目）
+  - 「At AMUG we consider ourselves very fortunate. There are so many passionate AMUG members and industry associates that contribute to the success of pulling off a large, volunteer-led conference.」（https://www.amug.com/media-sponsors/・1回目）
+  - 「SIGN UP FOR AMUG NEWSLETTER」（https://www.amug.com/media-sponsors/・1回目）
+- 読者・会員は誰か：
+  - 「HP helps designers, engineers, and manufacturers adopt and scale additive manufacturing, from initial applications through industrial production, with a focus on reliable, repeatable, scalable, and cost-effective manufacturing.」（https://www.amug.com/sponsors/・1回目）
+  - 「Launched in 2012, 3D Printing Industry has published over 20,000 articles. The go-to 3D printing news service for additive manufacturing professionals is produced by a team of journalists and supported by in-house engineers and AM experts.」（https://www.amug.com/sponsors/・1回目）
+  - 「Connect with technical buyers and decision makers.」（https://www.amug.com/sponsors/・1回目）
+  - 「でご紹介しましたが、今回特に自動車メーカーのFORDの方々が積極的に発表され、特に樹脂3Dプリンターによる量産工場での治工具の事例は、動画で見たものを直接見て触れることもでき、また詳しい情報も得られたのはとてもよかったです」（https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/201904_01.html・3回目）
+  - 「The Additive Manufacturing Users Group (AMUG) Conference brings together engineers, designers, managers, and educators from around the world to share expertise, best practices, challenges, and application developments in additive manufacturing. Expert, intermediate and novice users of all commercial additive manufacturing technologies are encouraged to attend the AMUG Conference.」（https://solaratm.com/amug-additive-manufacturing-users-group/・3回目）
+  - 「The AMUG Conference is widely regarded as one of the industry’s leading user-driven events, featuring keynotes, panel discussions, technical sessions, hands-on workshops, and the AMUGexpo. Attendees also participate in the AMUG Technical Competition and social events such as the AMUGderby, all designed to foster knowledge sharing among equipment operators, engineers, and researchers.」（https://www.voxelmatters.com/amug-conference-2026-heads-to-reno-with-early-registration-discount-available-through-december-13/・3回目）
+  - 「VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.」（https://www.voxelmatters.com/amug-conference-2026-heads-to-reno-with-early-registration-discount-available-through-december-13/・3回目）
+  - 「VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.」（https://www.voxelmatters.com/amug-technical-competition-names-2026-winners/・3回目）
+- 運営母体：
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.com/amug-conference-2026-heads-to-reno-with-early-registration-discount-available-through-december-13/・3回目）
+  - 「, AMUG President, explains, “The AMUG Conference is difficult to explain to someone who has not experienced it because it doesn’t feel like a typical conference; it feels like a family. New attendees quickly find people willing to share what they know, make introductions, and help them become part of the AMUG community.”」（https://3dadept.com/registration-for-2027-amug-conference-is-now-open/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.com/amug-technical-competition-names-2026-winners/・3回目）
+- AMの扱い：
+  - 「Additive Manufacturing Users Group」（https://www.amug.com/・1回目）
+  - 「ADDITIVE MANUFACTURING」（https://www.amug.com/・1回目）
+  - 「© 2026 Additive Manufacturing Users Group.」（https://www.amug.com/・1回目）
+  - 「Newsletter Signup – Additive Manufacturing Users Group」（https://www.amug.com/newsletter-signup/・1回目）
+  - 「© 2026 Additive Manufacturing Users Group.」（https://www.amug.com/newsletter-signup/・1回目）
+  - 「AMUG Conference Sponsors – Additive Manufacturing Users Group」（https://www.amug.com/sponsors/・1回目）
+  - 「HP helps designers, engineers, and manufacturers adopt and scale additive manufacturing, from initial applications through industrial production, with a focus on reliable, repeatable, scalable, and cost-effective manufacturing.」（https://www.amug.com/sponsors/・1回目）
+  - 「Oqton Manufacturing Operating System (MOS), an enterprise platform for managing production workflows, traceability, and digital inventory across machines and sites. Together, Oqton, 3DXpert, and MOS enable manufacturers to scale additive manufacturing efficiently in aerospace, automotive, medical, energy, and industrial applications.」（https://www.amug.com/sponsors/・1回目）
+  - 「Launched in 2012, 3D Printing Industry has published over 20,000 articles. The go-to 3D printing news service for additive manufacturing professionals is produced by a team of journalists and supported by in-house engineers and AM experts.」（https://www.amug.com/sponsors/・1回目）
+  - 「Airtech Advanced Materials Group is a global leader in large-scale additive manufacturing and advanced materials for the composites industry. With over 50 years of expertise, Airtech is the world’s largest manufacturer of vacuum bagging and composite tooling materials supporting aerospace, automotive, wind energy, marine, and industrial markets.」（https://www.amug.com/sponsors/・1回目）
+  - 「Arkema, a materials company driving innovation for a more sustainable world, offers a comprehensive portfolio of high-performance materials for additive manufacturing. Its offering includes UV-curable liquid resins, thermoplastic powders for powder bed fusion, and thermoplastic pellets for filament extrusion.」（https://www.amug.com/sponsors/・1回目）
+  - 「The name M5D symbolizes our combined technical expertise in digital 2D and 3D printing technologies and manufacturing solutions, as well as our commitment to supporting overall customer success across dimensions such as profitability, alignment, agility, results, and evolution.」（https://www.amug.com/sponsors/・1回目）
+- 株主構成：
+  - 「MC Machinery Systems provides innovative manufacturing solutions across fabrication, machining, automation, and service. Backed by Mitsubishi Corporation, we empower manufacturers with cutting-edge technology, integrated systems, and responsive support that drive efficiency, precision, and long-term growth.」（https://www.amug.com/sponsors/・1回目）
+  - 「This is not the flashiest award on the list, but smaller scholarships like this often matter because they are easier to stack and can help cover books, lab fees, travel, software, or materials. For students in materials and manufacturing lanes, that makes it more useful than it looks at first glance. It is also backed by the same ASM ecosystem that gives the award real technical relevance.」（https://scholarshipsandgrants.us/other/3d-printing-additive-manufacturing-scholarships-30-verified-awards-for-2026/・3回目）
+- 創業年度：
+  - 「Founded in Japan in 1936, Sugino Corp. began U.S. operations in 1980, headquartered in Itasca, Illinois, with a Technical Center in Wixom, Michigan.」（https://www.amug.com/sponsors/・1回目）
+  - 「Founded in the late 1980s, the users group was dedicated to the users of 3D Systems’ stereolithography technology.」（https://www.amug.com/about/・1回目）
+  - 「This group, also founded in the early 1990s, focused on the users of DTM Corporation’s selective laser sintering (SLS) technology.」（https://www.amug.com/about/・1回目）
+- 売上：
+  - 「Airgas helps its more than 1 million customers advance their business performance and reach their full potential with reliable products, services and expertise used to create, build, care, serve and sustain. With nearly 18,000 associates, over 1,400 locations, a robust eBusiness platform, and Airgas Total Access® telesales channel, Airgas is ready to help customers fill their potential, every day.」（https://www.amug.com/sponsors/・1回目）
+  - 「AMUG is a catalyst that moves you along the sales process with quality leads – a high signal-to-noise ratio.」（https://www.amug.com/why-sponsor/・1回目）
+  - 「Sales and Account Manager」（https://www.amug.com/why-sponsor/・1回目）
+  - 「Michelle Wilkins, Sales and Account Manager」（https://www.amug.com/sponsorship-opportunities/・1回目）
+  - 「Sales and Account Manager」（https://www.amug.com/sponsor-registration/・1回目）
+- 黒字・収益性：
+  - 「The name M5D symbolizes our combined technical expertise in digital 2D and 3D printing technologies and manufacturing solutions, as well as our commitment to supporting overall customer success across dimensions such as profitability, alignment, agility, results, and evolution.」（https://www.amug.com/sponsors/・1回目）
+- 存続：
+  - 「In 2001, 3D Systems acquired DTM Corporation. Shortly after, the users groups for stereolithography and selective laser sintering consolidated into one association.」（https://www.amug.com/about/・1回目）
+  - 「SPE’s general scholarship cycle has used an April 1 deadline; the 2026–27 cycle is currently closed, so verify the next opening on the official page」（https://scholarshipsandgrants.us/other/3d-printing-additive-manufacturing-scholarships-30-verified-awards-for-2026/・3回目）
+  - 「The work presented a production-ready chemical process that removes sintered powder from enclosed internal passages in metal powder bed fusion components, without degrading thin-wall geometries. High-resolution X-ray CT analysis validated near-complete powder removal and preservation of functional flow paths in complex triply periodic minimal surface (TPMS)-based heat exchanger architectures.」（https://www.voxelmatters.com/amug-technical-competition-names-2026-winners/・3回目）
+- 検索結果の抜粋：
+  - 「AMUG 2026-2027 Board of Directors — AMUG 2026-2027 Board of Directors Additive Manufacturing Users Group https://www.amug.com > news > 202...」（https://www.amug.com/news/2026-board-announcement/・3回目）
+  - 「About AMUG – Additive Manufacturing Users Group — About AMUG – Additive Manufacturing Users Group Additive Manufacturing Users Group https://www.amug.com > about」（https://www.amug.com/about/・3回目）
+  - 「アメリカ AMUG に来ています！ - 丸紅I-DIGIOグループ — アメリカ AMUG に来ています！ - 丸紅I-DIGIOグループ 丸紅I-DIGIOグループ https://www.marubeni-idigio.com > column_innovators」（https://www.marubeni-idigio.com/product/3dprinter/lab/column_innovators/201904_01.html・3回目）
+  - 「AMUG Conference Media Sponsors — AMUG Conference Media Sponsors Additive Manufacturing Users Group https://www.amug.com > media-spon...」（https://www.amug.com/media-sponsors/・3回目）
+  - 「AMUG Sponsor and Exhibitor Details — AMUG Sponsor and Exhibitor Details Additive Manufacturing Users Group https://www.amug.com > sponsorship...」（https://www.amug.com/sponsorship-details/・3回目）
+  - 「AMUG - Additive Manufacturing Users Group - March 14-18 — AMUG - Additive Manufacturing Users Group - March 14-18 Solar Atmospheres https://solaratm.com > amug-additive-...」（https://solaratm.com/amug-additive-manufacturing-users-group/・3回目）
+  - 「AMUG Conference 2026 heads to Reno with early registration ... — AMUG Conference 2026 heads to Reno with early registration ... VoxelMatters https://www.voxelmatters.com > amu...」（https://www.voxelmatters.com/amug-conference-2026-heads-to-reno-with-early-registration-discount-available-through-december-13/・3回目）
+  - 「AMUG Conference Sponsors — AMUG Conference Sponsors Additive Manufacturing Users Group https://www.amug.com > sponsors」（https://www.amug.com/sponsors/・3回目）
+  - 「Carl Dekker ( AMUG ) - LinkedIn — Carl Dekker ( AMUG ) - LinkedIn LinkedIn https://www.linkedin.com > carl-dekk...」（https://www.linkedin.com/in/carl-dekker-amug%F0%9F%A6%95-03387b5・3回目）
+  - 「Registration for 2027 AMUG conference is now open - 3d adept — Registration for 2027 AMUG conference is now open - 3d adept 3d adept https://3dadept.com > registration-for...」（https://3dadept.com/registration-for-2027-amug-conference-is-now-open/・3回目）
+  - 「Antimicrobial Use Guidelines ( AMUG ) version 21 - UW Health — Antimicrobial Use Guidelines ( AMUG ) version 21 - UW Health YUMPU https://www.yumpu.com > view > ant...」（https://www.yumpu.com/en/document/view/48994867/antimicrobial-use-guidelines-amug-version-21-uw-health・3回目）
+  - 「AMUG Conference – Additive Manufacturing Users Group — AMUG Conference – Additive Manufacturing Users Group Additive Manufacturing Users Group https://www.amug.com > amug-confe...」（https://www.amug.com/amug-conference/・3回目）
+- 株主：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部26頁・検索11回）
+- 設立：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部26頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部26頁・検索11回）
+- 所在地：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部26頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部26頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部26頁・検索11回）
+
+## AM Chronicle
+- 公式URL：https://amchronicle.com（given）
+- 稼ぎ方：
+  - 「Media Kit - AM Chronicle」（https://amchronicle.com/media-kit/・1回目）
+- 規模：
+  - 「India’s Skyroot Aerospace Tests 3D-Printed Vacuum Engine for Spaceflight」（https://amchronicle.com/・1回目）
+  - 「In a significant leap for India’s private space sector, Skyroot Aerospace has successfully tested its 3D-printed Raman 2 engine equipped with a vacuum nozzle, marking the final flight-qualified iteration of…」（https://amchronicle.com/・1回目）
+  - 「We invite you to stay connected, subscribe to our newsletter, follow us on social media, engage with our events, and participate in the evolving dialogue of additive, advanced manufacturing, and materials innovation.」（https://amchronicle.com/about-us/・1回目）
+- 読者・会員は誰か：
+  - 「For decades, aluminum has been the “golden child” of the automotive and aerospace sectors—lightweight, abundant, and strong. However, it has always harbored a fundamental weakness: heat. At temperatures exceeding 200°C, conventional aluminum alloys lose their structural integrity, forcing engineers to…」（https://amchronicle.com/・1回目）
+- 運営母体：
+  - 「This is also an endearing part of being human.」（https://note.com/haruhiko_writes/n/n8ecb0e5d264b?hl=en・3回目）
+- AMの扱い：
+  - 「Global Additive Manufacturing & 3D Printing Industry Insights Hub」（https://amchronicle.com/・1回目）
+  - 「Lodestar3D Announces Exclusive Partnership with Prodways Group: Revolutionising Ceramic 3D Printing in India」（https://amchronicle.com/・1回目）
+  - 「ARCI and Raghu Vamsi Machine Tools Sign MoU to Advance Additive Manufacturing and Surface Engineering」（https://amchronicle.com/・1回目）
+  - 「Breaking the Thermal Barrier: 3D Printing Research on High-Performance Aluminum Alloys Innovates a New Class of Alloys」（https://amchronicle.com/・1回目）
+  - 「Making Milestones: 3D printing for a greener tomorrow」（https://amchronicle.com/・1回目）
+  - 「Nestlé embraces technology and innovation in 3D printing」（https://amchronicle.com/・1回目）
+  - 「Addireen: Pioneering Copper Printing in Metal Additive Manufacturing」（https://amchronicle.com/・1回目）
+  - 「Case Study: Eaton Corporation’s Strategic Transition to In-House 3D Printing for Tooling Applications」（https://amchronicle.com/・1回目）
+  - 「How Imaginarium Helped Kaash Studio Scale with the Right 3D Printing Technology」（https://amchronicle.com/・1回目）
+  - 「Sustainable Production of Metal Powder for Additive Manufacturing with Bruce Bradshaw」（https://amchronicle.com/・1回目）
+  - 「Meeting Evolving Customer Demands in the Additive Manufacturing Industry with Tyler Reid」（https://amchronicle.com/・1回目）
+  - 「3D Printing Workshops at AMUG with Edward Graham」（https://amchronicle.com/・1回目）
+- 売上：
+  - 「But what if I were a salesman, for example?」（https://note.com/haruhiko_writes/n/n8ecb0e5d264b?hl=en・3回目）
+- 検索結果の抜粋：
+  - 「Media Kit - AM Chronicle — Media Kit - AM Chronicle AM Chronicle https://amchronicle.com > media-kit」（https://amchronicle.com/media-kit/・3回目）
+  - 「AM Chronicle — AM Chronicle AM Chronicle https://amchronicle.com」（https://amchronicle.com/・3回目）
+  - 「AM Chronicle | LinkedIn — AM Chronicle | LinkedIn LinkedIn India https://in.linkedin.com > amchronicle」（https://in.linkedin.com/company/amchronicle・3回目）
+  - 「AM Chronicle (@am_chronicle) • Instagram photos and videos — AM Chronicle (@am_chronicle) • Instagram photos and videos Instagram https://www.instagram.com > am_chr...」（https://www.instagram.com/am_chronicle/・3回目）
+- 創業年度：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）
+- 株主：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）
+- 設立：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）
+- 所在地：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）
+- 株主構成：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）
+- 黒字・収益性：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）
+- 存続：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部25頁・検索11回）
+
+## Additive Manufacturing Media
+- 公式URL：https://www.additivemanufacturing.media（given）
+- 稼ぎ方：
+  - 「This webinar provides an in-depth technical exploration into how the electron beam in EB-PBF works, focusing on the physics and control systems behind the electron beam. This will include advanced electron beam capabilities, such as beam shaping, charge neutralization and melt pool correction strategies enabled by patented technologies.」（https://www.additivemanufacturing.media/・1回目）
+  - 「Subscription Customer」（https://www.additivemanufacturing.media/・1回目）
+  - 「This webinar provides an in-depth technical exploration into how the electron beam in EB-PBF works, focusing on the physics and control systems behind the electron beam. This will include advanced electron beam capabilities, such as beam shaping, charge neutralization and melt pool correction strategies enabled by patented technologies.」（https://www.additivemanufacturing.media/auth/signin?ReturnUrl=%2Fauth%2Faccount%2Fnewsletters・1回目）
+  - 「Subscription Customer」（https://www.additivemanufacturing.media/auth/signin?ReturnUrl=%2Fauth%2Faccount%2Fnewsletters・1回目）
+  - 「This webinar provides an in-depth technical exploration into how the electron beam in EB-PBF works, focusing on the physics and control systems behind the electron beam. This will include advanced electron beam capabilities, such as beam shaping, charge neutralization and melt pool correction strategies enabled by patented technologies.」（https://www.additivemanufacturing.media/news/reshoring-what-do-you-have-to-say-about-it・1回目）
+  - 「Subscription Customer」（https://www.additivemanufacturing.media/news/reshoring-what-do-you-have-to-say-about-it・1回目）
+  - 「This webinar provides an in-depth technical exploration into how the electron beam in EB-PBF works, focusing on the physics and control systems behind the electron beam. This will include advanced electron beam capabilities, such as beam shaping, charge neutralization and melt pool correction strategies enabled by patented technologies.」（https://www.additivemanufacturing.media/events・1回目）
+  - 「Subscription Customer」（https://www.additivemanufacturing.media/events・1回目）
+  - 「This webinar provides an in-depth technical exploration into how the electron beam in EB-PBF works, focusing on the physics and control systems behind the electron beam. This will include advanced electron beam capabilities, such as beam shaping, charge neutralization and melt pool correction strategies enabled by patented technologies.」（https://www.additivemanufacturing.media/events/details/plasma-facing-component-testing-of-3d-printed-tungsten・1回目）
+  - 「In this webinar, Jonathan Buckley from JEOL USA will present results from reactor testing of Electron Beam Powder Bed Fusion divertor tiles, which survived exposure with minimal damage.」（https://www.additivemanufacturing.media/events/details/plasma-facing-component-testing-of-3d-printed-tungsten・1回目）
+  - 「In this webinar, Jonathan Buckley from JEOL USA will present results from reactor testing of Electron Beam Powder Bed Fusion divertor tiles, which survived exposure with minimal damage. The manufacturing of these Tungsten divertor tiles, from powder to finished product, will be shown along with details on the testing and results.」（https://www.additivemanufacturing.media/events/details/plasma-facing-component-testing-of-3d-printed-tungsten・1回目）
+  - 「Subscription Customer」（https://www.additivemanufacturing.media/events/details/plasma-facing-component-testing-of-3d-printed-tungsten・1回目）
+- 規模：
+  - 「3D Printed PVC Saves OEM Days of Assembly for Wastewater Product: The Cool Parts Show #86」（https://www.additivemanufacturing.media/・1回目）
+  - 「3D Printed Modular Vacuum Generator for End-of-Arm Tooling: Pic of the Week」（https://www.additivemanufacturing.media/・1回目）
+  - 「This week’s Pic features a 3D printed modular vacuum generator, demonstrating the convergence between additive manufacturing and end-of-arm tooling.」（https://www.additivemanufacturing.media/・1回目）
+  - 「One-click signup for newsletters and magazines」（https://www.additivemanufacturing.media/・1回目）
+  - 「3D Printed PVC Saves OEM Days of Assembly for Wastewater Product: The Cool Parts Show #86」（https://www.additivemanufacturing.media/auth/signin?ReturnUrl=%2Fauth%2Faccount%2Fnewsletters・1回目）
+  - 「3D Printed PVC Saves OEM Days of Assembly for Wastewater Product: The Cool Parts Show #86」（https://www.additivemanufacturing.media/news/reshoring-what-do-you-have-to-say-about-it・1回目）
+  - 「3D Printed Modular Vacuum Generator for End-of-Arm Tooling: Pic of the Week」（https://www.additivemanufacturing.media/news/reshoring-what-do-you-have-to-say-about-it・1回目）
+  - 「One-click signup for newsletters and magazines」（https://www.additivemanufacturing.media/news/reshoring-what-do-you-have-to-say-about-it・1回目）
+  - 「3D Printed PVC Saves OEM Days of Assembly for Wastewater Product: The Cool Parts Show #86」（https://www.additivemanufacturing.media/events・1回目）
+  - 「One-click signup for newsletters and magazines」（https://www.additivemanufacturing.media/events・1回目）
+  - 「3D Printed PVC Saves OEM Days of Assembly for Wastewater Product: The Cool Parts Show #86」（https://www.additivemanufacturing.media/events/details/plasma-facing-component-testing-of-3d-printed-tungsten・1回目）
+  - 「One-click signup for newsletters and magazines」（https://www.additivemanufacturing.media/events/details/plasma-facing-component-testing-of-3d-printed-tungsten・1回目）
+- 読者・会員は誰か：
+  - 「Atlas Building Composites fuses shredded, single-use plastic with glass fiber in a waterless process, then uses 3D printing to produce trusses, foundations and decking, most recently for a 40-foot U.S. Army Corps of Engineers bridge.」（https://www.additivemanufacturing.media/・1回目）
+  - 「In a study led by RMIT’s Center for Additive Manufacturing, Australian engineers have created a strong, lightweight and buoyant titanium material to improve marine infrastructure.」（https://www.additivemanufacturing.media/・1回目）
+  - 「Atlas Building Composites fuses shredded, single-use plastic with glass fiber in a waterless process, then uses 3D printing to produce trusses, foundations and decking, most recently for a 40-foot U.S. Army Corps of Engineers bridge.」（https://www.additivemanufacturing.media/auth/signin?ReturnUrl=%2Fauth%2Faccount%2Fnewsletters・1回目）
+  - 「Atlas Building Composites fuses shredded, single-use plastic with glass fiber in a waterless process, then uses 3D printing to produce trusses, foundations and decking, most recently for a 40-foot U.S. Army Corps of Engineers bridge.」（https://www.additivemanufacturing.media/news/reshoring-what-do-you-have-to-say-about-it・1回目）
+  - 「Atlas Building Composites fuses shredded, single-use plastic with glass fiber in a waterless process, then uses 3D printing to produce trusses, foundations and decking, most recently for a 40-foot U.S. Army Corps of Engineers bridge.」（https://www.additivemanufacturing.media/events・1回目）
+  - 「Atlas Building Composites fuses shredded, single-use plastic with glass fiber in a waterless process, then uses 3D printing to produce trusses, foundations and decking, most recently for a 40-foot U.S. Army Corps of Engineers bridge.」（https://www.additivemanufacturing.media/events/details/plasma-facing-component-testing-of-3d-printed-tungsten・1回目）
+  - 「Atlas Building Composites fuses shredded, single-use plastic with glass fiber in a waterless process, then uses 3D printing to produce trusses, foundations and decking, most recently for a 40-foot U.S. Army Corps of Engineers bridge.」（https://www.additivemanufacturing.media/events/details/fpowder-metallurgy-to-powder-bed-fusion-an-analysis-of-am-for-tungsten・1回目）
+  - 「Atlas Building Composites fuses shredded, single-use plastic with glass fiber in a waterless process, then uses 3D printing to produce trusses, foundations and decking, most recently for a 40-foot U.S. Army Corps of Engineers bridge.」（https://www.additivemanufacturing.media/events/details/machine-learning-in-am-layer-by-layer-defect-detection-in-powder-bed-fusion・1回目）
+  - 「Atlas Building Composites fuses shredded, single-use plastic with glass fiber in a waterless process, then uses 3D printing to produce trusses, foundations and decking, most recently for a 40-foot U.S. Army Corps of Engineers bridge.」（https://www.additivemanufacturing.media/events/details/powder-bed-fusion-mechanics-electron-beam-technology・1回目）
+  - 「Atlas Building Composites fuses shredded, single-use plastic with glass fiber in a waterless process, then uses 3D printing to produce trusses, foundations and decking, most recently for a 40-foot U.S. Army Corps of Engineers bridge.」（https://www.additivemanufacturing.media/events/details/formnext-2026・1回目）
+  - 「Atlas Building Composites fuses shredded, single-use plastic with glass fiber in a waterless process, then uses 3D printing to produce trusses, foundations and decking, most recently for a 40-foot U.S. Army Corps of Engineers bridge.」（https://www.additivemanufacturing.media/events/details/ndia-ntsa-i-itsec-2026・1回目）
+  - 「Atlas Building Composites fuses shredded, single-use plastic with glass fiber in a waterless process, then uses 3D printing to produce trusses, foundations and decking, most recently for a 40-foot U.S. Army Corps of Engineers bridge.」（https://www.additivemanufacturing.media/events/details/ndia-delaware-valley-2026-naval-nuclear-submarine-aircraft-carrier-suppliers-conference-technology-expo・1回目）
+- 運営母体：
+  - 「The Massachusetts contract manufacturer is part of the next wave of additive manufacturers, pursuing higher volumes and greater automation, on proven applications.」（https://www.additivemanufacturing.media/・1回目）
+  - 「The Massachusetts contract manufacturer is part of the next wave of additive manufacturers, pursuing higher volumes and greater automation, on proven applications.」（https://www.additivemanufacturing.media/auth/signin?ReturnUrl=%2Fauth%2Faccount%2Fnewsletters・1回目）
+  - 「The Massachusetts contract manufacturer is part of the next wave of additive manufacturers, pursuing higher volumes and greater automation, on proven applications.」（https://www.additivemanufacturing.media/news/reshoring-what-do-you-have-to-say-about-it・1回目）
+  - 「The Massachusetts contract manufacturer is part of the next wave of additive manufacturers, pursuing higher volumes and greater automation, on proven applications.」（https://www.additivemanufacturing.media/events・1回目）
+  - 「The Massachusetts contract manufacturer is part of the next wave of additive manufacturers, pursuing higher volumes and greater automation, on proven applications.」（https://www.additivemanufacturing.media/events/details/plasma-facing-component-testing-of-3d-printed-tungsten・1回目）
+  - 「The Massachusetts contract manufacturer is part of the next wave of additive manufacturers, pursuing higher volumes and greater automation, on proven applications.」（https://www.additivemanufacturing.media/events/details/fpowder-metallurgy-to-powder-bed-fusion-an-analysis-of-am-for-tungsten・1回目）
+  - 「The Massachusetts contract manufacturer is part of the next wave of additive manufacturers, pursuing higher volumes and greater automation, on proven applications.」（https://www.additivemanufacturing.media/events/details/machine-learning-in-am-layer-by-layer-defect-detection-in-powder-bed-fusion・1回目）
+  - 「The Massachusetts contract manufacturer is part of the next wave of additive manufacturers, pursuing higher volumes and greater automation, on proven applications.」（https://www.additivemanufacturing.media/events/details/powder-bed-fusion-mechanics-electron-beam-technology・1回目）
+  - 「The Massachusetts contract manufacturer is part of the next wave of additive manufacturers, pursuing higher volumes and greater automation, on proven applications.」（https://www.additivemanufacturing.media/events/details/formnext-2026・1回目）
+  - 「The Massachusetts contract manufacturer is part of the next wave of additive manufacturers, pursuing higher volumes and greater automation, on proven applications.」（https://www.additivemanufacturing.media/events/details/ndia-ntsa-i-itsec-2026・1回目）
+  - 「The Massachusetts contract manufacturer is part of the next wave of additive manufacturers, pursuing higher volumes and greater automation, on proven applications.」（https://www.additivemanufacturing.media/events/details/ndia-delaware-valley-2026-naval-nuclear-submarine-aircraft-carrier-suppliers-conference-technology-expo・1回目）
+  - 「The Massachusetts contract manufacturer is part of the next wave of additive manufacturers, pursuing higher volumes and greater automation, on proven applications.」（https://www.additivemanufacturing.media/events/details/md-m-west-2027・1回目）
+- AMの扱い：
+  - 「Covering additive and 3D printing technologies for the production of functional, end use parts | Additive Manufacturing」（https://www.additivemanufacturing.media/・1回目）
+  - 「Reporting on 3D printing for industrial production」（https://www.additivemanufacturing.media/・1回目）
+  - 「Stratasys Additive Manufacturing Solutions Scale Across GM Production Facilities」（https://www.additivemanufacturing.media/・1回目）
+  - 「Stratasys is expanding its collaboration with General Motors, rolling out FDM-based additive manufacturing solutions across 20+ GM manufacturing facilities in North and South America to reduce lead times and costs while improving operational efficiency.」（https://www.additivemanufacturing.media/・1回目）
+  - 「3D Printing Turns At-Home Cake Pop Business into a Baking Tool Manufacturer」（https://www.additivemanufacturing.media/・1回目）
+  - 「IMTS – The International Manufacturing Technology Show offers a snapshot of additive manufacturing in the context of the broader manufacturing landscape. This year, exhibitors highlighted part production services, advances in machine setup and postprocessing, robot-enabled flexibility, their own supply chains and the one application on everyone’s mind: drones.」（https://www.additivemanufacturing.media/・1回目）
+  - 「There are absolutely cases where additive manufacturing makes sense, but don’t let it be the only tool in your toolbox.」（https://www.additivemanufacturing.media/・1回目）
+  - 「Additive Manufacturing Is a Doorway to New Markets」（https://www.additivemanufacturing.media/・1回目）
+  - 「The concluded CHIPART (Chips to Parts: Circularity of titanium scrap from machining to additive manufacturing) project, supported by the European Defence Agency, validates that titanium chips from aerospace suppliers can be converted into metal powder suitable for additive manufacturing without energy-intensive remelting.」（https://www.additivemanufacturing.media/・1回目）
+  - 「Atlas Building Composites fuses shredded, single-use plastic with glass fiber in a waterless process, then uses 3D printing to produce trusses, foundations and decking, most recently for a 40-foot U.S. Army Corps of Engineers bridge.」（https://www.additivemanufacturing.media/・1回目）
+  - 「Inside Haddy's Large-Format Additive Manufacturing Microfactory」（https://www.additivemanufacturing.media/・1回目）
+  - 「CSIRO Powder Lab Advances Metal 3D Printing Feedstock Capabilities」（https://www.additivemanufacturing.media/・1回目）
+- 株主構成：
+  - 「Florida to Host New Defense Manufacturing Lab Backed by $9M Investment」（https://www.additivemanufacturing.media/・1回目）
+  - 「Florida to Host New Defense Manufacturing Lab Backed by $9M Investment」（https://www.additivemanufacturing.media/auth/signin?ReturnUrl=%2Fauth%2Faccount%2Fnewsletters・1回目）
+  - 「Florida to Host New Defense Manufacturing Lab Backed by $9M Investment」（https://www.additivemanufacturing.media/news/reshoring-what-do-you-have-to-say-about-it・1回目）
+  - 「Florida to Host New Defense Manufacturing Lab Backed by $9M Investment」（https://www.additivemanufacturing.media/events・1回目）
+  - 「Florida to Host New Defense Manufacturing Lab Backed by $9M Investment」（https://www.additivemanufacturing.media/events/details/plasma-facing-component-testing-of-3d-printed-tungsten・1回目）
+  - 「Florida to Host New Defense Manufacturing Lab Backed by $9M Investment」（https://www.additivemanufacturing.media/events/details/fpowder-metallurgy-to-powder-bed-fusion-an-analysis-of-am-for-tungsten・1回目）
+  - 「Florida to Host New Defense Manufacturing Lab Backed by $9M Investment」（https://www.additivemanufacturing.media/events/details/machine-learning-in-am-layer-by-layer-defect-detection-in-powder-bed-fusion・1回目）
+  - 「Florida to Host New Defense Manufacturing Lab Backed by $9M Investment」（https://www.additivemanufacturing.media/events/details/powder-bed-fusion-mechanics-electron-beam-technology・1回目）
+  - 「Florida to Host New Defense Manufacturing Lab Backed by $9M Investment」（https://www.additivemanufacturing.media/events/details/formnext-2026・1回目）
+  - 「Florida to Host New Defense Manufacturing Lab Backed by $9M Investment」（https://www.additivemanufacturing.media/events/details/ndia-ntsa-i-itsec-2026・1回目）
+  - 「Florida to Host New Defense Manufacturing Lab Backed by $9M Investment」（https://www.additivemanufacturing.media/events/details/ndia-delaware-valley-2026-naval-nuclear-submarine-aircraft-carrier-suppliers-conference-technology-expo・1回目）
+  - 「Florida to Host New Defense Manufacturing Lab Backed by $9M Investment」（https://www.additivemanufacturing.media/events/details/md-m-west-2027・1回目）
+- 創業年度：
+  - 「The Reshoring Initiative, founded in 2010, assists companies in accurately assessing their total cost of offshoring. The Initiative's mission is to balance the $1.2trillion goods trade deficit. Primarily as a result of more reshoring and less offshoring,manufacturing employment has risen over the last 14 years, the best record in the last 45 years.」（https://www.additivemanufacturing.media/news/reshoring-what-do-you-have-to-say-about-it・1回目）
+  - 「Gardner Business Media has been the premier publisher for the heart of manufacturing in North America since 1928 – providing one-of-a-kind,」（https://www.gardnerweb.com/brands/additive-manufacturing・3回目）
+- 売上：
+  - 「Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.」（https://www.additivemanufacturing.media/・1回目）
+  - 「Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.」（https://www.additivemanufacturing.media/auth/signin?ReturnUrl=%2Fauth%2Faccount%2Fnewsletters・1回目）
+  - 「Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.」（https://www.additivemanufacturing.media/news/reshoring-what-do-you-have-to-say-about-it・1回目）
+  - 「Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.」（https://www.additivemanufacturing.media/events・1回目）
+  - 「Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.」（https://www.additivemanufacturing.media/events/details/plasma-facing-component-testing-of-3d-printed-tungsten・1回目）
+  - 「Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.」（https://www.additivemanufacturing.media/events/details/fpowder-metallurgy-to-powder-bed-fusion-an-analysis-of-am-for-tungsten・1回目）
+  - 「Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.」（https://www.additivemanufacturing.media/events/details/machine-learning-in-am-layer-by-layer-defect-detection-in-powder-bed-fusion・1回目）
+  - 「Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.」（https://www.additivemanufacturing.media/events/details/powder-bed-fusion-mechanics-electron-beam-technology・1回目）
+  - 「Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.」（https://www.additivemanufacturing.media/events/details/formnext-2026・1回目）
+  - 「Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.」（https://www.additivemanufacturing.media/events/details/ndia-ntsa-i-itsec-2026・1回目）
+  - 「Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.」（https://www.additivemanufacturing.media/events/details/ndia-delaware-valley-2026-naval-nuclear-submarine-aircraft-carrier-suppliers-conference-technology-expo・1回目）
+  - 「Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.」（https://www.additivemanufacturing.media/events/details/md-m-west-2027・1回目）
+- 黒字・収益性：
+  - 「Stratasys and Limbitless Solutions, a nonprofit at the University of Central Florida, are deepening a 12-year collaboration focused on sustainability, education and expanding access to bionic prosthetic devices for children.」（https://www.additivemanufacturing.media/・1回目）
+  - 「Addman Advanced Metals has scaled from a single 3D printer to 25 while also building out a robust array of subtractive machines. In this video, find out how the shop manages its additive and subtractive workflows — and how it combines the two into a profitable niche.」（https://www.additivemanufacturing.media/・1回目）
+  - 「Stratasys and Limbitless Solutions, a nonprofit at the University of Central Florida, are deepening a 12-year collaboration focused on sustainability, education and expanding access to bionic prosthetic devices for children.」（https://www.additivemanufacturing.media/auth/signin?ReturnUrl=%2Fauth%2Faccount%2Fnewsletters・1回目）
+  - 「Addman Advanced Metals has scaled from a single 3D printer to 25 while also building out a robust array of subtractive machines. In this video, find out how the shop manages its additive and subtractive workflows — and how it combines the two into a profitable niche.」（https://www.additivemanufacturing.media/auth/signin?ReturnUrl=%2Fauth%2Faccount%2Fnewsletters・1回目）
+  - 「Stratasys and Limbitless Solutions, a nonprofit at the University of Central Florida, are deepening a 12-year collaboration focused on sustainability, education and expanding access to bionic prosthetic devices for children.」（https://www.additivemanufacturing.media/news/reshoring-what-do-you-have-to-say-about-it・1回目）
+  - 「Addman Advanced Metals has scaled from a single 3D printer to 25 while also building out a robust array of subtractive machines. In this video, find out how the shop manages its additive and subtractive workflows — and how it combines the two into a profitable niche.」（https://www.additivemanufacturing.media/news/reshoring-what-do-you-have-to-say-about-it・1回目）
+  - 「Specializing in lean manufacturing and distribution leadership placements, Regions Recruiting serves as a strategic talent partner to SMEs and Fortune 1000s across the Southeastern U.S. to drive growth, innovation, transformation and profitability.」（https://www.additivemanufacturing.media/news/reshoring-what-do-you-have-to-say-about-it・1回目）
+  - 「Stratasys and Limbitless Solutions, a nonprofit at the University of Central Florida, are deepening a 12-year collaboration focused on sustainability, education and expanding access to bionic prosthetic devices for children.」（https://www.additivemanufacturing.media/events・1回目）
+  - 「Addman Advanced Metals has scaled from a single 3D printer to 25 while also building out a robust array of subtractive machines. In this video, find out how the shop manages its additive and subtractive workflows — and how it combines the two into a profitable niche.」（https://www.additivemanufacturing.media/events・1回目）
+  - 「Stratasys and Limbitless Solutions, a nonprofit at the University of Central Florida, are deepening a 12-year collaboration focused on sustainability, education and expanding access to bionic prosthetic devices for children.」（https://www.additivemanufacturing.media/events/details/plasma-facing-component-testing-of-3d-printed-tungsten・1回目）
+  - 「Addman Advanced Metals has scaled from a single 3D printer to 25 while also building out a robust array of subtractive machines. In this video, find out how the shop manages its additive and subtractive workflows — and how it combines the two into a profitable niche.」（https://www.additivemanufacturing.media/events/details/plasma-facing-component-testing-of-3d-printed-tungsten・1回目）
+  - 「Stratasys and Limbitless Solutions, a nonprofit at the University of Central Florida, are deepening a 12-year collaboration focused on sustainability, education and expanding access to bionic prosthetic devices for children.」（https://www.additivemanufacturing.media/events/details/fpowder-metallurgy-to-powder-bed-fusion-an-analysis-of-am-for-tungsten・1回目）
+- 存続：
+  - 「The two companies have developed a closed-loop supply chain for tantalum implant production. Unused powder returns to the metal supplier for more economical and sustainable use of the biocompatible material.」（https://www.additivemanufacturing.media/news/reshoring-what-do-you-have-to-say-about-it・1回目）
+  - 「Project presents a significant opportunity to enhance the AM supply chain by improving alignment with government acquisition requirements.」（https://www.additivemanufacturing.media/news/reshoring-what-do-you-have-to-say-about-it・1回目）
+- 検索結果の抜粋：
+  - 「Additive Manufacturing Media - LinkedIn — Additive Manufacturing Media - LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/addmfgmedia・3回目）
+  - 「Additive Manufacturing Media — Additive Manufacturing Media additivemanufacturing.media https://www.additivemanufacturing.media」（https://www.additivemanufacturing.media/・3回目）
+  - 「Additive Manufacturing | Gardner Business Media — Additive Manufacturing | Gardner Business Media Gardner Business Media https://www.gardnerweb.com > brands」（https://www.gardnerweb.com/brands/additive-manufacturing・3回目）
+- 株主：記載なし（3回確認済み：公式15頁／PDF・画像3件／外部25頁・検索11回）
+- 設立：記載なし（3回確認済み：公式15頁／PDF・画像3件／外部25頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式15頁／PDF・画像3件／外部25頁・検索11回）
+- 所在地：記載なし（3回確認済み：公式15頁／PDF・画像3件／外部25頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式15頁／PDF・画像3件／外部25頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式15頁／PDF・画像3件／外部25頁・検索11回）
+
+## Additive Manufacturing Research
+- 公式URL：https://additivemanufacturingresearch.com/（search:yahoo_jp:Additive Manufacturing Research）
+- 稼ぎ方：
+  - 「All Additive Manufacturing Research Reports」（https://additivemanufacturingresearch.com/・1回目）
+  - 「The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「Market Research Reports」（https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-equipment-market-report・3回目）
+  - 「For report inquiries, custom research, subscriptions and other market intelligence requirements.」（https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-equipment-market-report・3回目）
+  - 「Syndicated Market Research Reports」（https://straitsresearch.com/report/metal-additive-manufacturing-market・3回目）
+  - 「(For sponsorship and speaking opportunities, please apply to」（https://additivemanufacturingstrategies.com/・3回目）
+  - 「Thank you to our Sponsors/Exhibitors」（https://additivemanufacturingstrategies.com/・3回目）
+  - 「Click here for Sponsorship & Exhibition options」（https://additivemanufacturingstrategies.com/・3回目）
+  - 「Exhibit Space & Sponsorship Information」（https://additivemanufacturingstrategies.com/・3回目）
+  - 「Discounted parking is available at GGMC 50 Battery Place (2nd Place, New York, NY 10280) parking garage. Present your parking ticket at the welcome desk for discount validation.」（https://additivemanufacturingstrategies.com/・3回目）
+- 規模：
+  - 「For many years, it almost seemed as if the only company to do additive manufacturing in Japan was Matsuura. The consumer AM craze only marginally touched Japan, with a number of FabLabs emerging and online AM service provider」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「Over the two and a half days of AMS, attendees have heard that additive manufacturing is part of a broader advanced manufacturing value chain, which is both complex and rapidly growing. With tremendous opportunities to invest in the industry, how does one make informed decisions without getting caught up in the hype cycle?」（https://additivemanufacturingstrategies.com/・3回目）
+  - 「Subscribe to our newsletter」（https://additivemanufacturingstrategies.com/・3回目）
+- 読者・会員は誰か：
+  - 「trend will enable designers and engineers」（https://additivemanufacturingresearch.com/・1回目）
+  - 「軍事・防衛部門における付加製造 (AM)：2024年」（https://www.gii.co.jp/publisher/stmp/・3回目）
+  - 「Processes for Production.” Proceedings of the Institution of Mechanical Engineers, Part C : Journal of」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+  - 「Engineers, Part B: Journal of Engineering Manufacture. 2006. 1417-1427.」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+  - 「Ruffo, M, Christopher Tuck, Richard J.M. Hague. “Cost Estimation for Rapid Manufacturing – Laser Sintering Production for Low to Medium Volumes.” Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture. 2006. 1417–1427. <」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5524380/・3回目）
+  - 「Hopkinson, Neil, and Phill M. Dickens. “Analysis of Rapid Manufacturing – Using Layer Manufacturing Processes for Production.” Proceedings of the Institution of Mechanical Engineers, Part C : Journal of Mechanical Engineering Science. 2003. 217(C1): 31–39. <」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5524380/・3回目）
+  - 「Ruffo, M, Christopher Tuck, Richard J.M. Hague. “Cost Estimation for Rapid Manufacturing – Laser Sintering Production for Low to Medium Volumes.” Proceedings of the Institution of Mechanical Engineers, Part B: Journal」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5524380/・3回目）
+  - 「Hopkinson Neil, Dickens P. Analysis of Rapid Manufacturing—using Layer Manufacturing Processes for Production. Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science; 2003. pp. 31–39.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5524380/・3回目）
+  - 「Ruffo M, Hague R. Cost Estimation for Rapid Manufacturing-Simultaneous Production of Mixed Components Using Laser Sintering. Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture; 2007. pp. 1585–91.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5524380/・3回目）
+  - 「Ruffo M, Tuck C, Hague R. Cost Estimation for Rapid Manufacturing-Laser Sintering Production for Low to Medium Volumes. Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture; 2006. pp. 1417–27.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5524380/・3回目）
+  - 「VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+- 運営母体：
+  - 「Additive Manufacturing Research社の発行する市場調査レポートを取り扱っています」（https://www.gii.co.jp/publisher/stmp/・3回目）
+  - 「inventories for each part of one product. It also reduces the transportation of parts」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+  - 「, which is part of the Mitsubishi Group. The Velo3D systems, along with other systems, is now installed in the Advanced AM Room research center that Tayo Nippon Sanso」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「Over the two and a half days of AMS, attendees have heard that additive manufacturing is part of a broader advanced manufacturing value chain, which is both complex and rapidly growing. With tremendous opportunities to invest in the industry, how does one make informed decisions without getting caught up in the hype cycle?」（https://additivemanufacturingstrategies.com/・3回目）
+- AMの扱い：
+  - 「3D Printing And Additive Manufacturing Reports By Additive Manufacturing Research」（https://additivemanufacturingresearch.com/・1回目）
+  - 「The Leading Source of Industry Analysis, Market Forecasting and Data for the Additive Manufacturing Business」（https://additivemanufacturingresearch.com/・1回目）
+  - 「Contact us to learn how we can help you succeed in Additive Manufacturing.」（https://additivemanufacturingresearch.com/・1回目）
+  - 「Full Service Analysis of 3D Printing Opportunities」（https://additivemanufacturingresearch.com/・1回目）
+  - 「why Additive Manufacturing Research is trusted by leading firms in」（https://additivemanufacturingresearch.com/・1回目）
+  - 「the additive manufacturing business.」（https://additivemanufacturingresearch.com/・1回目）
+  - 「Additive Manufacturing Research offers customized consulting services, providing our clients with even more in-depth analysis and forecasts than」（https://additivemanufacturingresearch.com/・1回目）
+  - 「that each report released by Additive Manufacturing Research is backed by reliable, accurate data.」（https://additivemanufacturingresearch.com/・1回目）
+  - 「innovators, 3D printing technology is going」（https://additivemanufacturingresearch.com/・1回目）
+  - 「support that 3D printing firms need to make」（https://additivemanufacturingresearch.com/・1回目）
+  - 「Additive Manufacturing Research has already published widely on these opportunities, and continue to monitor new developments in this space.」（https://additivemanufacturingresearch.com/・1回目）
+  - 「Additive Manufacturing Research provides clients with data focused deliverables, modeling, market forecasting and industry tracking.」（https://additivemanufacturingresearch.com/・1回目）
+- 株主構成：
+  - 「that each report released by Additive Manufacturing Research is backed by reliable, accurate data.」（https://additivemanufacturingresearch.com/・1回目）
+- 創業年度：
+  - 「販売・提供 | 1983年創業」（https://www.gii.co.jp/publisher/stmp/・3回目）
+- 売上：
+  - 「3D Printing Financials: Nikon’s Digital Manufacturing Revenue Grows 77% as Sam O’Leary Moves to Supervisory Board」（https://additivemanufacturingresearch.com/・1回目）
+  - 「Globally, an estimated $967 million in revenue was collected for additive manufactured」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+  - 「goods4 with the U.S. accounting for an estimated $367 million or 38 % of global」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+  - 「($millions,」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+  - 「for the U.S. as it is globally. It is also assumed that the U.S. share of AM systems sold is equal to the share of revenue for AM」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+  - 「industry would reach $50 billion between 2029 and 2031, while reaching $100 billion」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+  - 「The total global revenue from additive manufacturing system sales was $502.5 million」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+  - 「with U.S. revenue estimated at $323.6 million. These systems are categorized into」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+  - 「Approximately $327.1 million was spent globally on materials for additive」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+  - 「$208 billion or the equivalent of 14 % of annual revenue held in inventory for medium-」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+  - 「and high-tech manufacturing15 with an estimated cost of $52 billion or 3 % of revenue.16」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+  - 「Inventory: At the beginning of 2011, there were $537 billion in inventories in the」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+- 黒字・収益性：
+  - 「At the company level, the goal is to maximize profit; however, at the societal level there」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+  - 「resource use. A company can maximize profit by either altering resources or by reducing」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+  - 「chain is performance, which is often measured in profit, revenue, or customer satisfaction」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+- 存続：
+  - 「10 3D Systems purchased Z Corporation in 2012. Stratasys merged with Objet in 2012 and is now」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+  - 「and another 20.6 hours in down time when the factory is closed. Another 1.3 days is」（https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf・3回目）
+  - 「is broken into the time items spend in material inventory, work-in-process, work-in-process downtime when the factory is closed, and finished goods inventory. On average, the time spent in work-in-process is 13 % of the total time. The longest flow path through the supply chain is 604.6 days, as outlined in」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5524380/・3回目）
+  - 「). Perhaps one of the most interesting projects undertaken by Canon in the 3D printing area just emerged recently through it fully owned subsidiary Canon Ecology Industry as the company—which specializes in recycling and upcycling used Canon 2D printing equipment such as toner cartridges and copier parts—began producing」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「acquired major filament manufacturer Dutch Filaments」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「, the world’s largest manufacturer of foundry equipment, when it acquired French ceramic stereolithography hardware manufacturer」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「In electronics 3D printing, CMK Corporation, one of Japan’s largest manufacturers of printed circuit boards (PCBs), recently acquired a Dragonfly 3D printer from segment leader Nano Dimension. Also, nano 3D printer hardware manufacturer Nanoscribe」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「Incodema3D expanded its metal additive manufacturing capacity through the acquisition of additional EOS metal 3D printing systems, including EOS M 400-4, EOS M4 ONYX, and EOS M 300-4 platforms. The expansion increased Incodema3D’s installed base of metal additive manufacturing systems to support growing production requirements in aerospace, defense, and industrial applications.」（https://straitsresearch.com/report/metal-additive-manufacturing-market・3回目）
+- 検索結果の抜粋：
+  - 「Additive Manufacturing Research — Additive Manufacturing Research Additive Manufacturing Research https://additivemanufacturingresearch.com」（https://additivemanufacturingresearch.com/・3回目）
+  - 「Additive Manufacturing Research の市場調査レポート — Additive Manufacturing Research の市場調査レポート グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > publisher > stmp」（https://www.gii.co.jp/publisher/stmp/・3回目）
+  - 「Additive Manufacturing Research Center (AMRC) - NIST — Additive Manufacturing Research Center (AMRC) - NIST National Institute of Standards and Technology (.gov) https://www.nist.gov > laboratories」（https://www.nist.gov/laboratories/tools-instruments/additive-manufacturing-research-center-amrc・3回目）
+  - 「Additive Manufacturing Research | LinkedIn — Additive Manufacturing Research | LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/additive-manufacturing-research・3回目）
+- 株主：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）
+- 設立：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）
+- 代表者：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）
+
 ## All3DP
 - 公式URL：https://all3dp.com（given）
 - 稼ぎ方：
@@ -262,6 +688,173 @@
 - 代表者：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索11回）
 - 運営母体：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索11回）
 - 黒字・収益性：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索11回）
+
+## America Makes
+- 公式URL：https://www.americamakes.us（given）
+- 稼ぎ方：
+  - 「Webinars & Recordings」（https://www.americamakes.us/・1回目）
+  - 「We collaborate with our membership to advance additive manufacturing technology development, adoption, commercialization, and education.」（https://www.americamakes.us/・1回目）
+  - 「The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.」（https://www.americamakes.us/・1回目）
+  - 「Webinars & Recordings」（https://www.americamakes.us/about/・1回目）
+  - 「The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.」（https://www.americamakes.us/about/・1回目）
+  - 「Webinars & Recordings」（https://www.americamakes.us/about/our-team/・1回目）
+  - 「Senior Membership Coordinator」（https://www.americamakes.us/about/our-team/・1回目）
+  - 「The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.」（https://www.americamakes.us/about/our-team/・1回目）
+  - 「Webinars & Recordings」（https://www.americamakes.us/about/our-facility/・1回目）
+  - 「The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.」（https://www.americamakes.us/about/our-facility/・1回目）
+  - 「Webinars & Recordings」（https://www.americamakes.us/membership/member-benefits/・1回目）
+  - 「Membership is limited to U.S.-based organizations.」（https://www.americamakes.us/membership/member-benefits/・1回目）
+- 規模：
+  - 「America Makes is the nation’s leading public-private partnership for additive manufacturing technology and education. Our members from industry, academia, government, and workforce and economic development organizations work together to accelerate the adoption of additive manufacturing and the nation’s global manufacturing competitiveness.」（https://www.americamakes.us/・1回目）
+  - 「We collaborate with our membership to advance additive manufacturing technology development, adoption, commercialization, and education.」（https://www.americamakes.us/・1回目）
+  - 「Senior Membership Coordinator」（https://www.americamakes.us/about/our-team/・1回目）
+  - 「Several of our members submitted parts for display in our Youngstown facility. We are still accepting parts. Parts received and displayed will be rotated continuously.」（https://www.americamakes.us/about/our-facility/・1回目）
+  - 「. America Makes members who contribute to the exhibit can also earn cost-share credit.」（https://www.americamakes.us/about/our-facility/・1回目）
+  - 「Membership is limited to U.S.-based organizations.」（https://www.americamakes.us/membership/member-benefits/・1回目）
+  - 「Benefits to Membership」（https://www.americamakes.us/membership/member-benefits/・1回目）
+  - 「Members are eligible to participate in Open Project Calls, Rapid Innovation Calls, Direct Projects, and Challenges.」（https://www.americamakes.us/membership/member-benefits/・1回目）
+  - 「Your place to access resources and related applications, post news or career openings, and network with the entire membership.」（https://www.americamakes.us/membership/member-benefits/・1回目）
+  - 「Present your organization’s capabilities and advancements to the membership. This presentation earns cost share credits!」（https://www.americamakes.us/membership/member-benefits/・1回目）
+  - 「Approved discounts on sales to members may qualify for cost share credits.」（https://www.americamakes.us/membership/member-benefits/・1回目）
+  - 「Earn credits toward the cost of membership with eligible Project and @Program activities.」（https://www.americamakes.us/membership/member-benefits/・1回目）
+- 読者・会員は誰か：
+  - 「Disseminating results to the broadest available audience while adhering to government-directed OPSEC and Intellectual Property procedures.」（https://www.americamakes.us/about/・1回目）
+  - 「3Dプリンティングが米国製造業の成功に不可欠な理由 | FT Film」（https://www.youtube.com/watch?v=ICEl0HGjOwI・3回目）
+- 運営母体：
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.americamakes.us/・1回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.americamakes.us/about/・1回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.americamakes.us/about/our-team/・1回目）
+  - 「Whether you’re a part of the local community or a member of the AM industry, this dynamic space offers:」（https://www.americamakes.us/about/our-facility/・1回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.americamakes.us/about/our-facility/・1回目）
+  - 「Technology Roadmap – Be an integral part of shaping the industry. These Groups follow our Technology Roadmap to advance the industry and shape the future of the Institute.」（https://www.americamakes.us/membership/member-benefits/・1回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.americamakes.us/membership/member-benefits/・1回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.americamakes.us/membership/at-program/・1回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.americamakes.us/membership/current-members/・1回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.americamakes.us/membership/america-makes-core/・1回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.americamakes.us/upcoming-events/・1回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.americamakes.us/upcoming-events/trx-virtual/・1回目）
+- AMの扱い：
+  - 「America Makes is the nation’s leading public-private partnership for additive manufacturing technology and education. Our members from industry, academia, government, and workforce and economic development organizations work together to accelerate the adoption of additive manufacturing and the nation’s global manufacturing competitiveness.」（https://www.americamakes.us/・1回目）
+  - 「What is additive manufacturing?」（https://www.americamakes.us/・1回目）
+  - 「We collaborate with our membership to advance additive manufacturing technology development, adoption, commercialization, and education.」（https://www.americamakes.us/・1回目）
+  - 「America Makes convenes government, industry, academia, the workforce, and economic development organizations to accelerate additive manufacturing (AM) adoption and support global U.S. manufacturing competitiveness.」（https://www.americamakes.us/about/・1回目）
+  - 「Building a skilled workforce to design, create, and support 3D-printed products is just as vital as advancing the technology itself. That’s why we’re driving the adoption of cutting-edge 3D printing materials, technologies, and products—fueling innovation and ensuring the success of our industry.」（https://www.americamakes.us/about/・1回目）
+  - 「America Makes is committed to creating platforms and spaces where stakeholders of all sizes exchange innovative ideas, share best practices, and collaboratively advance the possibilities of additive manufacturing.」（https://www.americamakes.us/about/・1回目）
+  - 「Additive Manufacturing Research Director」（https://www.americamakes.us/about/our-team/・1回目）
+  - 「Discover the future of manufacturing at the America Makes facility located at 236 W. Boardman St. in Youngstown, Ohio! Our “Front Door to Additive” is more than just a space – it’s a gateway to the groundbreaking world of additive manufacturing.」（https://www.americamakes.us/about/our-facility/・1回目）
+  - 「Tours of the “Front Door to Additive” are available by appointment only. While we can’t accommodate walk-ins, scheduling a tour is simple! Request your visit and start your journey into the world of additive manufacturing.」（https://www.americamakes.us/about/our-facility/・1回目）
+  - 「Accelerating the Adoption of Additive Manufacturing」（https://www.americamakes.us/about/our-facility/・1回目）
+  - 「Additive Manufacturing Processes」（https://www.americamakes.us/about/our-facility/・1回目）
+  - 「Deloitte and America Makes are committed to workforce development. America Makes is a leader when it comes to shaping how workers think of additive manufacturing and partnering with programs to advance the workforce.」（https://www.americamakes.us/membership/member-benefits/・1回目）
+- 株主構成：
+  - 「With seven locations nationwide, NCDMM is a subsidiary of the Manufacturing Technology Deployment Group, Inc. (」（https://www.ncdmm.org/category/america-makes/・3回目）
+- 創業年度：
+  - 「Founded in 2012 as the Department of War’s National Manufacturing Innovation Institute for AM and the first of the」（https://www.americamakes.us/・1回目）
+  - 「The CORE of all we do. Here you will find all technology project deliverables since 2012, EWD project assets, and selected event recordings.」（https://www.americamakes.us/membership/member-benefits/・1回目）
+- 売上：
+  - 「Approved discounts on sales to members may qualify for cost share credits.」（https://www.americamakes.us/membership/member-benefits/・1回目）
+  - 「Inside the stadium, in addition to food, drinks, and merchandise sales, various spectating experiences are provided according to price ranges, such as VIP seats and suites.」（https://note.com/miki_stepout/n/n6bbe15dd8437?hl=en・3回目）
+- 黒字・収益性：
+  - 「network, America Makes is based in Youngstown, Ohio, and managed by the not-for-profit」（https://www.americamakes.us/・1回目）
+  - 「, America Makes is based in Youngstown, Ohio, and managed by the not-for-profit National Center for Defense Manufacturing and Machining (」（https://www.americamakes.us/media-kit/・1回目）
+  - 「The United States is a world leader in manufacturing innovation. Manufacturing USA’s network of institutes exists to ensure that these innovations are used to successfully and profitably produce products here in America.」（https://www.manufacturingusa.com/institutes/america-makes・3回目）
+- 存続：
+  - 「Arc Impact Acquisition Corporation」（https://www.americamakes.us/membership/current-members/・1回目）
+  - 「5594.003 Adaptive Closed-Loop Control of Wire-Arc Additive Manufacturing」（https://www.americamakes.us/projects/・1回目）
+  - 「This project develops a real-time, closed-loop control system that continuously adjusts toolpath coordinates and deposition parameters during the build process, without stopping operation. The system...」（https://www.americamakes.us/projects/・1回目）
+- 検索結果の抜粋：
+  - 「America Makes | Manufacturing USA — America Makes | Manufacturing USA Manufacturing USA https://www.manufacturingusa.com > ...」（https://www.manufacturingusa.com/institutes/america-makes・3回目）
+  - 「America Makes : Home — America Makes : Home America Makes https://www.americamakes.us」（https://www.americamakes.us/・3回目）
+  - 「America Makes - National Additive Manufacturing Institute — America Makes - National Additive Manufacturing Institute YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=ICEl0HGjOwI・3回目）
+  - 「America Makes - DoD ManTech — America Makes - DoD ManTech DoD ManTech (.mil) https://www.dodmantech.mil > Ameri...」（https://www.dodmantech.mil/About-Us/Manufacturing-Innovation-Institutes-MIIs/America-Makes/・3回目）
+  - 「America Makes | LinkedIn — America Makes | LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/america-makes・3回目）
+  - 「Media Kit - America Makes — Media Kit - America Makes America Makes https://www.americamakes.us > media...」（https://www.americamakes.us/media-kit/・3回目）
+  - 「Overview & Benefits - America Makes — Overview & Benefits - America Makes America Makes https://www.americamakes.us > mem...」（https://www.americamakes.us/membership/member-benefits/・3回目）
+  - 「America Makes - National Additive Manufacturing Innovation ... — America Makes - National Additive Manufacturing Innovation ... YouTube https://www.youtube.com > channel」（https://www.youtube.com/channel/UCxPcZVxm6b1OLM3yxrgtKrw・3回目）
+  - 「America Makes Announces Winners of MIAMI Project Call ... — America Makes Announces Winners of MIAMI Project Call ... America Makes https://www.americamakes.us > ameri...」（https://www.americamakes.us/america-makes-announces-winners-of-miami-project-call-worth-12-4m-in-funding/・3回目）
+  - 「America Makes - NCDMM — America Makes - NCDMM NCDMM https://www.ncdmm.org > category」（https://www.ncdmm.org/category/america-makes/・3回目）
+  - 「America Makes Announces $25.6M in Funding for MIAMI and ... — America Makes Announces $25.6M in Funding for MIAMI and ... LinkedIn https://www.linkedin.com > posts > a...」（https://www.linkedin.com/posts/america-makes_america-makes-announces-two-project-calls-activity-7455698092806389760-t3VC・3回目）
+  - 「About - America Makes — About - America Makes America Makes https://www.americamakes.us > about」（https://www.americamakes.us/about/・3回目）
+- 株主：記載なし（3回確認済み：公式19頁／PDF・画像0件／外部30頁・検索11回）
+- 設立：記載なし（3回確認済み：公式19頁／PDF・画像0件／外部30頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式19頁／PDF・画像0件／外部30頁・検索11回）
+- 所在地：記載なし（3回確認済み：公式19頁／PDF・画像0件／外部30頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式19頁／PDF・画像0件／外部30頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式19頁／PDF・画像0件／外部30頁・検索11回）
+
+## Fabbaloo
+- 公式URL：https://www.fabbaloo.com（given）
+- 稼ぎ方：
+  - 「and participates in speaking events and webinars to help keep on top of what’s going on in the 3D printing eco-system. You can find articles written by Jess on many 3D print publications.」（https://www.fabbaloo.com/about・1回目）
+  - 「Fabbaloo Media Kit and Advertising Options」（https://www.fabbaloo.com/advertise・1回目）
+  - 「Click for Advertising Enquiry Form」（https://www.fabbaloo.com/advertise・1回目）
+  - 「Newsletter Sponsorship」（https://www.fabbaloo.com/advertise・1回目）
+  - 「: Your advertising material appears at the top of each and every one of our emailed newsletters, sent daily and weekly to well over 4,300 dedicated subscribers.」（https://www.fabbaloo.com/advertise・1回目）
+  - 「: Your graphical advertisements appear in our sidebar on every story. Requires 300px wide graphic.」（https://www.fabbaloo.com/advertise・1回目）
+  - 「Advertising in our newsletter」（https://www.fabbaloo.com/advertise・1回目）
+  - 「. Your advertising material appears in our emailed newsletter, sent daily and weekly to well over 4,500+ dedicated subscribers.」（https://www.fabbaloo.com/advertise・1回目）
+  - 「Ad Hoc Advertising Services」（https://www.fabbaloo.com/advertise・1回目）
+  - 「In addition to the above options, we are always open to any feasible proposal for advertising or promotion, and have very often partnered with clients to provide an unusual service they require. Of course, we cannot provide specific costs until we understand what you seek. If you have an idea, we’d be please to hear it. Please use the advertising form below to contact us to discuss further.」（https://www.fabbaloo.com/advertise・1回目）
+  - 「Free Community Advertising」（https://www.fabbaloo.com/advertise・1回目）
+  - 「Fabbaloo offers the opportunity for non-profit groups to obtain free advertising services to our worldwide audience. If you’re interested, please check out our」（https://www.fabbaloo.com/advertise・1回目）
+- 規模：
+  - 「Charles R. Goulding and Kate Esposito take readers inside the rapidly evolving eVTOL industry, where Boeing, Archer, Wisk, and Joby are using additive manufacturing to overcome the challenges of electric aviation…」（https://www.fabbaloo.com/・1回目）
+  - 「Subscribe To Fabbaloo’s Daily Newsletter」（https://www.fabbaloo.com/subscribe・1回目）
+  - 「Or, if you prefer a weekly newsletter:」（https://www.fabbaloo.com/subscribe・1回目）
+  - 「Subscribe to Fabbaloo’s Weekly Newsletter」（https://www.fabbaloo.com/subscribe・1回目）
+  - 「It’s always amazing and quite gratifying when we hear praise from our readers who frequently represent the top end of those working in 3D printing. We’ve gathered together a few quotes from leading individuals working across the 3D printing industry about our work.」（https://www.fabbaloo.com/advertise・1回目）
+  - 「: A link to your business page (or a business mention) within a relevant story can drive new potential buyers for your business. Stories with links are pushed through all of our many social channels and appear within our daily and weekly newsletter.」（https://www.fabbaloo.com/advertise・1回目）
+  - 「Have your company, product, service or team member interact with Fabbaloo’s newsletter subscribers. We offer two options:」（https://www.fabbaloo.com/advertise・1回目）
+  - 「: A dedicated newsletter offers a very high value promotion of your business message sent directly to our daily and weekly newsletter subscribers」（https://www.fabbaloo.com/advertise・1回目）
+  - 「Newsletter Sponsorship」（https://www.fabbaloo.com/advertise・1回目）
+  - 「: Your advertising material appears at the top of each and every one of our emailed newsletters, sent daily and weekly to well over 4,300 dedicated subscribers.」（https://www.fabbaloo.com/advertise・1回目）
+  - 「Advertising in our newsletter」（https://www.fabbaloo.com/advertise・1回目）
+  - 「. Your advertising material appears in our emailed newsletter, sent daily and weekly to well over 4,500+ dedicated subscribers.」（https://www.fabbaloo.com/advertise・1回目）
+- 読者・会員は誰か：
+  - 「Fabbaloo offers the opportunity for non-profit groups to obtain free advertising services to our worldwide audience. If you’re interested, please check out our」（https://www.fabbaloo.com/advertise・1回目）
+- 運営母体：
+  - 「is a loving mother, a devoted wife and a part of the team supporting」（https://www.fabbaloo.com/about・1回目）
+- AMの扱い：
+  - 「3D Printing News ~ Fabbaloo」（https://www.fabbaloo.com/・1回目）
+  - 「Stay Updated on 3D Printing News」（https://www.fabbaloo.com/・1回目）
+  - 「An dispute has emerged over one of the oldest names in large-scale 3D printing.」（https://www.fabbaloo.com/・1回目）
+  - 「Acquisitions, Aircraft, and Additive Manufacturing: How a Deal Between Boeing and Archer Aviation Shapes the Future of eVTOL Technology」（https://www.fabbaloo.com/・1回目）
+  - 「Charles R. Goulding and Kate Esposito take readers inside the rapidly evolving eVTOL industry, where Boeing, Archer, Wisk, and Joby are using additive manufacturing to overcome the challenges of electric aviation…」（https://www.fabbaloo.com/・1回目）
+  - 「AI Study Finds Big Strength Differences in 3D Printing Infill」（https://www.fabbaloo.com/・1回目）
+  - 「Hawaii’s Startup Surge: Can 3D Printing Help Build the Next Tech Economy?」（https://www.fabbaloo.com/・1回目）
+  - 「MultiMaterial 3D Printing Has a Hidden Weak Point」（https://www.fabbaloo.com/・1回目）
+  - 「Vision Miner 22 IDEX V4 Delivers Inexpensive PEEK-Class 3D Printing」（https://www.fabbaloo.com/・1回目）
+  - 「PCBWAY to Launch September Promotion with 36% Discount on TPU 3D Printing」（https://www.fabbaloo.com/・1回目）
+  - 「Creality and AMISS Partner to Bring 3D Printing Innovation to Fashion Industry」（https://www.fabbaloo.com/・1回目）
+  - 「Creality seems to have developed an entirely new application for 3D printing, this time in the fashion industry.」（https://www.fabbaloo.com/・1回目）
+- 創業年度：
+  - 「Rachel Park is an accomplished print and web writer and editor with more than 24 years’ experience. Her specific area of expertise is the 3D Printing and Additive Manufacturing sector, a market she has been immersed in since 1996. Rachel works as an independent freelance journalist, runs her own copywriting and editing business, as well as being a key member of PYL Associates.」（https://www.fabbaloo.com/about・1回目）
+- 売上：
+  - 「It’s that time of year again, and there are quite a few Black Friday sales on for desktop 3D printers.」（https://www.fabbaloo.com/・1回目）
+  - 「California-based Nora Toure is the woman behind “Women in 3D Printing”, a group dedicated to promoting and showcasing the use of 3D printing for women. She’s also the Director, Sales & Service Factory Operations at Fast Radius.」（https://www.fabbaloo.com/about・1回目）
+  - 「Corporation, a worldwide leader in providing computer-aided manufacturing (CAM) software products for the small to mid-market segments earned his MS degree, in Mechanical Engineering from Clemson University in 1984, performing research on robot path planning and simulation. Joe is a proven expert in Software Development, Mechanical Engineering, Entrepreneurship and project management and sales.」（https://www.fabbaloo.com/about・1回目）
+- 黒字・収益性：
+  - 「Fabbaloo offers the opportunity for non-profit groups to obtain free advertising services to our worldwide audience. If you’re interested, please check out our」（https://www.fabbaloo.com/advertise・1回目）
+- 存続：
+  - 「An dispute has emerged over one of the oldest names in large-scale 3D printing.」（https://www.fabbaloo.com/・1回目）
+  - 「Acquisitions, Aircraft, and Additive Manufacturing: How a Deal Between Boeing and Archer Aviation Shapes the Future of eVTOL Technology」（https://www.fabbaloo.com/・1回目）
+- 検索結果の抜粋：
+  - 「Subscribe - Fabbaloo — Subscribe - Fabbaloo Fabbaloo https://www.fabbaloo.com > subscribe」（https://www.fabbaloo.com/subscribe・3回目）
+  - 「Fabbaloo - LinkedIn — Fabbaloo - LinkedIn LinkedIn https://www.linkedin.com > fabbaloo」（https://www.linkedin.com/company/fabbaloo・3回目）
+  - 「Fabbaloo (@TheFabbaloo) - Facebook — Fabbaloo (@TheFabbaloo) - Facebook Facebook https://www.facebook.com > ... > Computer Company」（https://www.facebook.com/TheFabbaloo/・3回目）
+  - 「Fabbaloo (@ fabbaloo ) • Instagram photos and videos — Fabbaloo (@ fabbaloo ) • Instagram photos and videos Instagram https://www.instagram.com > fabbaloo」（https://www.instagram.com/fabbaloo/・3回目）
+  - 「Advertise - Fabbaloo — Advertise - Fabbaloo Fabbaloo https://www.fabbaloo.com > advertise」（https://www.fabbaloo.com/advertise・3回目）
+  - 「Introducing the Fabbaloo 3D Print Cost Calculator — Introducing the Fabbaloo 3D Print Cost Calculator Fabbaloo https://www.fabbaloo.com > News」（https://www.fabbaloo.com/news/introducing-the-fabbaloo-3d-print-cost-calculator・3回目）
+  - 「Roboze Strengthens Digital Supply Chain Strategy ... - Fabbaloo — Roboze Strengthens Digital Supply Chain Strategy ... - Fabbaloo Fabbaloo https://www.fabbaloo.com > News」（https://www.fabbaloo.com/news/roboze-strengthens-digital-supply-chain-strategy-with-acquisition-of-dimanex・3回目）
+  - 「3D Printing Revenue Soars in 2023, Yet Company Valuations ... — 3D Printing Revenue Soars in 2023, Yet Company Valuations ... Fabbaloo https://www.fabbaloo.com > News」（https://www.fabbaloo.com/news/3d-printing-revenue-soars-in-2023-yet-company-valuations-dip・3回目）
+  - 「Entry-Level 3D Printer Sales Surge as Industry Revenue ... — Entry-Level 3D Printer Sales Surge as Industry Revenue ... Fabbaloo https://www.fabbaloo.com > News」（https://www.fabbaloo.com/news/entry-level-3d-printer-sales-surge-as-industry-revenue-climbs-32・3回目）
+- 株主：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索11回）
+- 設立：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索11回）
+- 所在地：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索11回）
+- 株主構成：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索11回）
 
 ## MONOist
 - 公式URL：https://promotion.itmedia.co.jp/（search:yahoo_jp:株式会社MONOist）
@@ -734,6 +1327,103 @@
 - 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部30頁・検索19回）
 - 代表者：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部30頁・検索19回）
 - 黒字・収益性：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部30頁・検索19回）
+
+## Wohlers Associates
+- 公式URL：https://www.astm.org/（search:yahoo_jp:Wohlers Associates）
+- 稼ぎ方：
+  - 「Updating Your Standards Subscription to ASTM Compass®」（https://www.astm.org/・1回目）
+  - 「Looking to transition your standards subscription from Accuris to ASTM? Our Client Engagement Team is here to help answer any questions and secure your standards access by the end of the year. Contact us to get started.」（https://www.astm.org/・1回目）
+  - 「Membership & Participation」（https://www.astm.org/・1回目）
+  - 「Learn More About Membership & Participation」（https://www.astm.org/・1回目）
+  - 「Get your standards instantly with our revolutionary subscription-based platforms, online volumes, and enterprise solutions. Learn how your entire organization can benefit from our sophisticated standards user tools and collaboration software.」（https://www.astm.org/・1回目）
+  - 「ASTM International establishes new student membership category.」（https://www.astm.org/about/history・1回目）
+  - 「Learn more about ASTM membership.」（https://www.astm.org/about/diversity-inclusion・1回目）
+  - 「Join a team of people committed to serving global societal needs. ASTM International positively impacts public health and safety, consumer confidence and overall quality of life. We integrate consensus standards, developed with our international membership of volunteer technical experts, and innovative services to improve lives… helping our world work better.」（https://www.astm.org/about/careers・1回目）
+  - 「Membership & Participation Overview | ASTM」（https://www.astm.org/membership-participation・1回目）
+  - 「Membership & Participation Overview」（https://www.astm.org/membership-participation・1回目）
+  - 「Choose the type of membership that works for you and enjoy a host of benefits, from access to the latest standards to outstanding networking opportunities and global visibility for your business.」（https://www.astm.org/membership-participation・1回目）
+  - 「Participating Membership」（https://www.astm.org/membership-participation・1回目）
+- 規模：
+  - 「Membership & Participation」（https://www.astm.org/・1回目）
+  - 「Join more than 35,000 members worldwide in the development of global standards. Our 150+ technical committees and more than 2,100 subcommittees span a wide range of industries.」（https://www.astm.org/・1回目）
+  - 「Learn More About Membership & Participation」（https://www.astm.org/・1回目）
+  - 「For a modest fee, members help create and update standards while gaining knowledge, leadership skills, professional networks, and more.」（https://www.astm.org/about・1回目）
+  - 「Bios for board members and list of ASTM standing committees.」（https://www.astm.org/about・1回目）
+  - 「Our mission statement. Our core values. Our strategic objectives. Individual pages for board members. Links to documents, and more.」（https://www.astm.org/about・1回目）
+  - 「A series of free online training courses for MoU members and partners.」（https://www.astm.org/about・1回目）
+  - 「Our members and consumers are at the heart of everything we do. We believe in the power of standardization to drive quality, safety, and performance. Our success is built on a voluntary, consensus-based process where all voices matter.」（https://www.astm.org/about/governance・1回目）
+  - 「with passion, commitment, and integrity, striving to exceed the expectations of each other, our members, and all those who rely on us.」（https://www.astm.org/about/governance・1回目）
+  - 「ASTM's Board of Directors is made up of long-time members, heads of corporations and professional associations, industry experts, and innovators. Learn more about each member by visiting our Board of Directors pages. For a full-size photo of the board,」（https://www.astm.org/about/governance・1回目）
+  - 「Download MoU Members List (PDF)」（https://www.astm.org/about/global-cooperation・1回目）
+  - 「ASTM offers a series of free one-hour online training courses for our 120+ MoU partners and members.」（https://www.astm.org/about/global-cooperation・1回目）
+- 読者・会員は誰か：
+  - 「Open to all with interest in ASTM International’s standardization or related activities – engineers, researchers, scientists, academicians, government representatives, consultants, consumers, students, and more.」（https://www.astm.org/about/diversity-inclusion・1回目）
+  - 「Some consumer members are retired engineers or experts with technical knowledge. Others provide input that is based solely on their passions,」（https://www.astm.org/membership-participation/consumer-participation・1回目）
+  - 「Continuing Education – Professional Engineers」（https://www.astm.org/standards-and-solutions/training-courses・1回目）
+- 運営母体：
+  - 「“It’s truly inspiring to witness the level of support and investment ASTM International dedicates to the EP program. Being part of it is both a humbling and empowering experience.”」（https://www.astm.org/membership-participation/emerging-professionals・1回目）
+  - 「As part of the acquisition, ASTM International acquires the Wohlers Report, the premier publication for the AM industry, along with intelligence briefs, specialized reports, training in design for AM, and consulting services.」（https://www.americamakes.us/astm-international-acquires-global-additive-manufacturing-intelligence-leader-wohlers-associates/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.americamakes.us/astm-international-acquires-global-additive-manufacturing-intelligence-leader-wohlers-associates/・3回目）
+  - 「ASTMが今後何年もReportを発行することにコミットしたことを喜んでいる」と語った」（https://kyodonewsprwire.jp/release/202111163442・3回目）
+  - 「Wohlers Report は、世界の付加製造(AM:Additive Manufacturing)/3Dプリンタ市場の分析レポートを30年間以上継続的に発行されています」（https://3dprint.or.jp/wohlers-report/・3回目）
+  - 「as a part of the registration fee. It has served as the undisputed industry-leading report on AM for 24 consecutive years. "For those unfamiliar with this technology or looking for details on the players, markets, applications, and forecasts, I recommend the industry’s ‘bible’ from Wohlers Associates," stated Mark Mills, columnist for」（https://www.sme.org/aboutsme/newsroom/press-releases/2020/sme-announces-insights-on-additive-manufacturing-for-investors-by-wohlers-associates-at-rapid--tct-2020/・3回目）
+- AMの扱い：
+  - 「Covering the latest in R&D, trends, and new developments in additive manufacturing」（https://www.astm.org/・1回目）
+  - 「First Center of Excellence launched, focused on additive manufacturing (3D printing).」（https://www.astm.org/about/history・1回目）
+  - 「Wondering if ASTM has a committee for your industry? ASTM technical committees are grouped by designation according to related activities within a particular scope of work, from building and construction materials and petroleum to consumer products, aerospace, additive manufacturing, and much more. ASTM members can participate on one or more committees.」（https://www.astm.org/membership-participation/membership・1回目）
+  - 「In-depth coverage of the latest research and development topics, plus the most current information on growth, trends, and new developments in additive manufacturing.」（https://www.astm.org/standards-and-solutions/market-insights-and-innovation・1回目）
+  - 「additive manufacturing」（https://www.astm.org/standards-and-solutions/market-insights-and-innovation・1回目）
+  - 「ASTM International Acquires Global Additive Manufacturing Intelligence Leader Wohlers Associates - America Makes」（https://www.americamakes.us/astm-international-acquires-global-additive-manufacturing-intelligence-leader-wohlers-associates/・3回目）
+  - 「ASTM International Acquires Global Additive Manufacturing Intelligence Leader Wohlers Associates」（https://www.americamakes.us/astm-international-acquires-global-additive-manufacturing-intelligence-leader-wohlers-associates/・3回目）
+  - 「Global standards organization ASTM International has announced the acquisition of Wohlers Associates, a global intelligence leader in the additive manufacturing (AM) and 3D printing industry. The announcement coincided with the Standards Forum at Formnext 2021, which serves as the leading trade show for AM and next-generation intelligent manufacturing solutions.」（https://www.americamakes.us/astm-international-acquires-global-additive-manufacturing-intelligence-leader-wohlers-associates/・3回目）
+  - 「ASTM Internationalが世界的な付加製造（AM）情報のリーダーWohlers Associatesを買収 | ASTM Internationalのプレスリリース | 共同通信PRワイヤー」（https://kyodonewsprwire.jp/release/202111163442・3回目）
+  - 「【ウェストコンショホッケン（米ペンシルベニア州）2021年11月16日PR Newswire=共同通信JBN】国際標準化機関ASTM Internationalは16日、付加製造（AM）・3Dプリンティング産業の世界的情報リーダーWohlers Associatesの買収を発表した」（https://kyodonewsprwire.jp/release/202111163442・3回目）
+  - 「Wohlers Report は、世界の付加製造(AM:Additive Manufacturing)/3Dプリンタ市場の分析レポートを30年間以上継続的に発行されています」（https://3dprint.or.jp/wohlers-report/・3回目）
+  - 「ASTM 認定コース: 積層造形の品質保証」（https://3dprint.or.jp/wohlers-report/・3回目）
+- 創業年度：
+  - 「2018年に設立されたAMCoEは、ASTM Internationalと産業界、政府、学界の代表との共同事業体であり、AM技術のあらゆる側面で基準を進歩させるための戦略的研究開発を実施している」（https://kyodonewsprwire.jp/release/202111163442・3回目）
+- 売上：
+  - 「Over 13,000 ASTM standards operate globally. Defined and set by us, they improve the lives of millions every day. Combined with our innovative business services, they enhance performance and help everyone have confidence in the things they buy and use.」（https://www.astm.org/about・1回目）
+  - 「Few household products are as ubiquitous as the vacuum cleaner. That’s one reason why, according to Statista, more than 38 million vacuums are sold every year in the U.S. alone, and the market is on track to top $6 billion in annual sales.」（https://www.astm.org/news/joint-standards-global-vacuum-cleaner-market・1回目）
+  - 「Certified Manufacturing Technology Sales Engineer (CMTSE)」（https://www.sme.org/aboutsme/newsroom/press-releases/2020/sme-announces-insights-on-additive-manufacturing-for-investors-by-wohlers-associates-at-rapid--tct-2020/・3回目）
+  - 「Wohlers Associates has tracked nearly $1.5 billion in AM-related investments, resulting in unmatched insight. Much of it has come from information requested from hundreds of AM system and material producers, service providers, government agencies, researchers, and industry experts for publication in」（https://www.sme.org/aboutsme/newsroom/press-releases/2020/sme-announces-insights-on-additive-manufacturing-for-investors-by-wohlers-associates-at-rapid--tct-2020/・3回目）
+  - 「3D Printing Financials: Protolabs Hits Record Q3 Revenue, 3D Printing Rebounds」（https://3dprint.com/170193/wohlers-report-2017-expert/・3回目）
+  - 「In Q3 2025, Protolabs‘ 3D printing revenue fell by around 6 percent year-over-year (YOY), and in Q2 2026, it declined another 2.6 percent to $20.7 million. In Q3 2026, however,...」（https://3dprint.com/170193/wohlers-report-2017-expert/・3回目）
+- 黒字・収益性：
+  - 「ASTM International also supports locally based nonprofits such as Angel Flight East, For Pete's Sake Cancer Respite Foundation, and the Kelly A. Dolan Memorial Fund.」（https://www.astm.org/about/corporate-citizenship・1回目）
+- 存続：
+  - 「Global standards organization ASTM International has announced the acquisition of Wohlers Associates, a global intelligence leader in the additive manufacturing (AM) and 3D printing industry. The announcement coincided with the Standards Forum at Formnext 2021, which serves as the leading trade show for AM and next-generation intelligent manufacturing solutions.」（https://www.americamakes.us/astm-international-acquires-global-additive-manufacturing-intelligence-leader-wohlers-associates/・3回目）
+  - 「As part of the acquisition, ASTM International acquires the Wohlers Report, the premier publication for the AM industry, along with intelligence briefs, specialized reports, training in design for AM, and consulting services.」（https://www.americamakes.us/astm-international-acquires-global-additive-manufacturing-intelligence-leader-wohlers-associates/・3回目）
+  - 「ASTM Internationalが世界的な付加製造（AM）情報のリーダーWohlers Associatesを買収 | ASTM Internationalのプレスリリース | 共同通信PRワイヤー」（https://kyodonewsprwire.jp/release/202111163442・3回目）
+  - 「【ウェストコンショホッケン（米ペンシルベニア州）2021年11月16日PR Newswire=共同通信JBN】国際標準化機関ASTM Internationalは16日、付加製造（AM）・3Dプリンティング産業の世界的情報リーダーWohlers Associatesの買収を発表した」（https://kyodonewsprwire.jp/release/202111163442・3回目）
+  - 「買収の一環として、ASTM Internationalは情報ブリーフ、専門報告書類、AM設計のトレーニング、コンサルタントサービスとともに、AM業界向け一流刊行物であるWohlers Reportも入手する」（https://kyodonewsprwire.jp/release/202111163442・3回目）
+  - 「この買収は、確固たるAMプログラム・サービス・商品の提供によりAM業界での影響力を拡大するためのASTMの成長ビジョンと投資を支える」（https://kyodonewsprwire.jp/release/202111163442・3回目）
+  - 「この買収により、多くの業界に新たな価値がもたらされ、AM商品・サービスの幅広い採用が可能になると期待される」（https://kyodonewsprwire.jp/release/202111163442・3回目）
+  - 「買収に関する記者会見は2021年11月16日火曜日のFormnext中に、PortalhausのレベルC、Room Prismaで中部欧州時間11時15分－11時45分に開催される」（https://kyodonewsprwire.jp/release/202111163442・3回目）
+  - 「買収に関する補足情報を含むAMCoEの業務の詳細は次を参照： www.amcoe.org」（https://kyodonewsprwire.jp/release/202111163442・3回目）
+  - 「また、企業の合併・買収、特許、規制などの法的な動向、材料や造形方法の大きな進歩についても調査しています」（https://3dprint.or.jp/wohlers-report/・3回目）
+  - 「ASTM International (West Conshohocken, PA) has acquired Wohlers Associates (Fort Collins, CO), the premier publication for the additive manufacturing industry, along with intelligence briefs,」（https://www.laserfocusworld.com/industrial-laser-solutions/article/14222044/astm-international-acquires-wohlers-associates・3回目）
+  - 「ASTM will leverage the existing Wohlers brand and build on its market influence and access to top additive manufacturing industry decision-makers worldwide. The acquisition is expected to bring new value to many industries, thus enabling wider adoption of additive manufacturing products and services.」（https://www.laserfocusworld.com/industrial-laser-solutions/article/14222044/astm-international-acquires-wohlers-associates・3回目）
+- 検索結果の抜粋：
+  - 「Wohlers Associates : Home — Wohlers Associates : Home Wohlers Associates https://wohlersassociates.com」（https://wohlersassociates.com/・3回目）
+  - 「ASTM International Acquires Global Additive Manufacturing ... — ASTM International Acquires Global Additive Manufacturing ... America Makes https://www.americamakes.us > astm-i...」（https://www.americamakes.us/astm-international-acquires-global-additive-manufacturing-intelligence-leader-wohlers-associates/・3回目）
+  - 「ASTM Internationalが世界的な付加製造（AM）情報のリーダー ... — ASTM Internationalが世界的な付加製造（AM）情報のリーダー ... 共同通信PRワイヤー https://kyodonewsprwire.jp > release」（https://kyodonewsprwire.jp/release/202111163442・3回目）
+  - 「Company - Wohlers Associates — Company - Wohlers Associates Wohlers Associates https://wohlersassociates.com > comp...」（https://wohlersassociates.com/company/・3回目）
+  - 「Wohlers Report / Wohlers Platform 紹介 — Wohlers Report / Wohlers Platform 紹介 日本 3Dプリンティング産業技術協会 https://3dprint.or.jp > wohlers-report」（https://3dprint.or.jp/wohlers-report/・3回目）
+  - 「Wohlers Report 2017: The Real Authority on 3D Printing — Wohlers Report 2017: The Real Authority on 3D Printing 3DPrint.com https://3dprint.com > wohlers-report-...」（https://3dprint.com/170193/wohlers-report-2017-expert/・3回目）
+  - 「Wohlers Associates Shows Metal Additive Manufacturing ... — Wohlers Associates Shows Metal Additive Manufacturing ... ASTM International https://www.astm.org > press-releases」（https://www.astm.org/news/press-releases/wohlers-associates-shows-metal-additive-manufacturing-growth-244-new-report・3回目）
+  - 「Wohlers Associates , Powered by ASTM - LinkedIn — Wohlers Associates , Powered by ASTM - LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/wohlers-associates・3回目）
+  - 「Wohlers Report 2025 vs. 2026 — Here's What's New — Wohlers Report 2025 vs. 2026 — Here's What's New Wohlers Associates https://wohlersassociates.com > before...」（https://wohlersassociates.com/uncategorized/before-and-after-wohlers-report-2025-vs-2026-heres-whats-new/・3回目）
+  - 「Latest Wohlers Report Assesses Global AM Trends — Latest Wohlers Report Assesses Global AM Trends UL Prospector https://www.ulprospector.com > pe-la...」（https://www.ulprospector.com/knowledge/21348/pe-latest-wohlers-report-assesses-global-am-trends/・3回目）
+  - 「ASTM International Has Acquired Wohlers Associates — ASTM International Has Acquired Wohlers Associates Wohlers Associates https://wohlersassociates.com > news」（https://wohlersassociates.com/news/wohlers-associates-aquired/・3回目）
+  - 「New Wohlers Report 2026 Values Additive Manufacturing ... — New Wohlers Report 2026 Values Additive Manufacturing ... ASTM International https://www.astm.org > press-releases」（https://www.astm.org/news/press-releases/wohlers-report-2026・3回目）
+- 株主：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部26頁・検索12回）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部26頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部26頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部26頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部26頁・検索12回）
+- 代表者：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部26頁・検索12回）
+- 株主構成：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部26頁・検索12回）
 
 ## fabcross
 - 公式URL：https://www.meitec.co.jp/（search:yahoo_jp:fabcross）

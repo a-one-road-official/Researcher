@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・127品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・129品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -341,6 +341,7 @@
   - 「Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「ビッグデータを活用した商業動態統計調査（試験調査：家電大型専門店分野）」（https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&result_page=1）
   - 「総務省統計局「社会人のためのデータサイエンス入門/公的データの使い方」のまとめと感想～e-Stat、なかなかやるなと思った話【Week4】｜水無瀬あずさ＠複業ライター」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
   - 「総務省統計局「社会人のためのデータサイエンス入門/公的データの使い方」のまとめと感想～e-Stat、なかなかやるなと思った話【Week4】」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
   - 「Week4「公的データの使い方」のまとめと感想」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
@@ -349,7 +350,6 @@
   - 「え、統計に関する法律なんてあるの･･･誰得･･･？って思いませんか？私、「統計法」って勝手に「統計方法」のことと思っていたんですが、法律のことだったんですね」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
   - 「適切かつ合理的な方法により、かつ、中立性及び信頼性が確保されるように作成されなければならない」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
   - 「子ども数・総数に対する割合，性、子どもの体型、１年間に医療機関などで診察を受けた（受けている）病気やけが（複数回答）別」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
-  - 「講義では、e-Statのさまざまな機能の使い方についての説明がありました」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
 - 突き合わせ・推定：
   - 「Excel の台帳を Notion へ移す進め方｜全件の照合までの手順」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
@@ -357,6 +357,7 @@
   - 「Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「家庭からの二酸化炭素排出量の推計に係る実態調査 試験調査」（https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&result_page=1）
   - 「e-Stat には膨大な統計表が登録されており、同じ「人口」でも「国勢調査」「人口推計」「住民基本台帳人口移動報告」など複数の調査に分かれています」（https://note.com/stats47/n/n7e4572d23a1b）
   - 「: 国勢調査 / 人口推計 / 経済センサス / 学校基本調査 / 賃金構造基本統計調査 など」（https://note.com/stats47/n/n7e4572d23a1b）
   - 「市町村別農業産出額（推計）」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
@@ -365,7 +366,6 @@
   - 「各部門別に全要素生産性（TFP）を推計するために、資本サービス投入指数と資本コスト、労働投入指数と労働コスト、名目・実質の生産・中間投入、TFPの上昇率を計算した成長会計の結果等を網羅した年次データから構成される」（https://note.com/keisemi/n/naf14ab3c9062）
   - 「オランダのフローニンゲン大学のチームが中心となってEU主要国、米国、韓国等について産業別に全要素生産性の推計を行ってきたデータベース」（https://note.com/keisemi/n/naf14ab3c9062）
   - 「選択バイアス（特定の人だけ回答）・確証バイアス（自分の仮説に合うデータのみ見る）・生存バイアス（成功事例しか残らない）など、データが偏る構造を意識する」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
-  - 「自分の仮説に合うデータだけを探す」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
 - 一次情報の探し方：
   - 「経済センサスの統計表の取り方と活用法｜業種の事業所数・企業等の数・売上の規模｜ゴムマリ」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「／ 経済センサスの統計表の取り方と活用法｜業種の事業所数・企業等の数・売上の規模」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
@@ -390,6 +390,7 @@
   - 「記号の意味は、利用上の注意に次のとおり書かれています」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております」（https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&result_page=1）
   - 「：検索入口、表示単位、ファイルとデータベース、公開更新日の注意」（https://blog.kurashiq.com/estat-first-search-guide/）
   - 「各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
   - 「キーワード検索を使う場合の注意（単語の間のスペース）」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
@@ -397,7 +398,6 @@
   - 「相関と因果・母集団と標本・バイアスの把握」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
   - 「バイアスの型を見抜く」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
   - 「選択バイアス（特定の人だけ回答）・確証バイアス（自分の仮説に合うデータのみ見る）・生存バイアス（成功事例しか残らない）など、データが偏る構造を意識する」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
-  - 「例: 成功したNPOの事例集——廃業した団体は調査に残らない（生存バイアス）」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
 - 実例：
   - 「e-Statには、5年ごとに行う経済センサス‐活動調査の令和3年の結果もあります」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「統計局の結果の頁は、Excelの統計表のほかに、統計データベースでデータ抽出や表の表示、ダウンロードができるとしています」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
@@ -409,11 +409,11 @@
   - 「Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
-  - 「初めて使うときは、検索結果の名前だけで決めず、統計名、対象期間、単位、注記まで順に確認すると、目的の表を見つけやすくなります」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「最初は日常語で検索し、結果に表示される統計名と所管府省を確認してから絞り込みます」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「e-Statの検索結果は、同じキーワードでも表示する単位を切り替えられます」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「制度の対象や申請結果を判定するものではありません」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「2025年国勢調査の結果はいつ？人口等基本集計は9月29日公表」（https://blog.kurashiq.com/estat-first-search-guide/）
+  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&result_page=1）
+  - 「衆議院議員総選挙 最高裁判所裁判官国民審査結果調」（https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&result_page=1）
+  - 「地方公共団体における人事評価結果の活用状況等調査」（https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&result_page=1）
+  - 「関税及び内国消費税脱税事件に係る犯則調査結果」（https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&result_page=1）
+  - 「関税及び内国消費税の申告内容の輸入事後調査結果」（https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&result_page=1）
 
 ## 業界分析・業界構造の調べ方（一次情報から）（industry analysis primary sources method）
 - 文脈：業界
@@ -2685,38 +2685,39 @@
 ## 非上場の売上を複数の信号で挟む（Inven・CUFinder）（private company revenue estimate multiple signals top-down bottom-up conservative）
 - 文脈：推定
 - 手順・やり方：
-  - 「企業の年間売上高調査の仕組み：かんたん3ステップ」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「企業の売上高を大規模に調べるのは3ステップ」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「How to Find a Company’s Annual Revenue (Public and Private)」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「Learn 6 proven methods to find company annual revenue data and size deals perfectly. Turn revenue intelligence into bigger proposals and higher win rates.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「How to Find the Annual Revenue of a Private Company」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「How to estimate the annual revenue of a private company that never files public numbers, using signals, benchmarks and enrichment data.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「Where to get reliable company revenue figures in 2026. The databases worth trusting and how to pull accurate numbers at scale.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「How to Find the Revenue of a Company (One or a Whole List)」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「最も手早いのは、CUFinderのような売上検索ツールを使う方法です」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「By implementing key steps and aligning operational forecasting with other key departments, such as accounting, companies can streamline their forecasting models and gain access to valuable business insights.」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
-  - 「A moving average model averages results over a fixed number of periods, allowing for steadier forecast trends that aren't heavily influenced by short-term fluctuations. This method is beneficial for companies that do not have strong seasonal patterns or those working with limited data.」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
-  - 「Time series modeling analyzes revenue data over a period of time to detect seasonal or cyclical trends. A benefit of this forecasting method is its ability to differentiate random, unexplained variations from true cyclical patterns. However, this model can miss new market dynamics since it is relying on historical data.」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
-  - 「The straight line method is a simple quantitative approach that assumes a company's financials will continue to grow or decline at the same rate of historic periods, regardless of market conditions or seasonal trends. This model is best suited to companies with predictable growth patterns, rather than those in rapidly evolving industries.」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
-  - 「This method aggregates revenue projections from various departments, such as sales, marketing and team leads, to create a company-wide forecast. While the bottom-up method can promote buy-in across the organization due to including a variety of team inputs, issues may arise if teams have inconsistent assumptions that skew the predictions.」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
+  - 「How to Find Revenue Estimates for Private Companies | Inven」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「How to Find Revenue Estimates for Private Companies」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Publicly traded companies disclose financial data, but private companies are not obligated to do so. So, how do you get the revenue estimates and the value for private companies? Here's the combination of methods, data sources, and best practices.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「It can be challenging to obtain revenue data for private companies due to the absence of mandatory public disclosures for private companies. Without them, analysts rely on alternative methods to approximate a private company's financial situation.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Revenue estimation methods have been developed for approximating the financial performance of private companies. Stakeholders can obtain a more comprehensive picture of a private company's revenue through a combination of top-down and bottom-up approaches. While not as precise as official financial statements, these estimates provide a useful proxy for understanding a company's position.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Key Revenue Estimation Methods」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Private company revenue estimates can be derived using several methods. These methods generally fall into two categories: top-down and bottom-up approaches.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Top-down methods start with broad market data and allocate a portion to the target company, while bottom-up methods build estimates from company-specific factors. Understanding these methods will help you to make more reliable revenue estimates.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「This method provides a clear view of revenue generation and helps identify opportunities for pricing optimization.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Public disclosures offer supplementary data points that can enhance revenue estimation when combined with other methods.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Industry specificity further complicates revenue estimation, which creates a need to adapt the methods. For instance, revenue estimation in the tech sector might heavily rely on user growth metrics and subscription models, while traditional manufacturing might focus more on production capacity and supply chain factors.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「, which involves using multiple estimation methods to create a more comprehensive picture. The combination of market research, competitor analysis, and financial ratio analysis, can cross-verify results and reduce the risk of error. For instance, market research reports can provide an overarching view of industry trends, while competitor analysis offers a benchmark.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「methodology and assumptions」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「The challenge in estimating the revenue of private companies comes from the absence of mandatory public disclosures for private companies. Various estimation methods range from top-down approaches to bottom-up methods.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Additionally, using alternative data sources, such as social media activity, customer reviews, and online traffic, can offer supplementary information for traditional estimation methods. We encourage you to leverage a combination of approaches to achieve most accurate estimates.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
 - 突き合わせ・推定：
-  - 「CUFinderなら、あらゆる企業の推定年間売上レンジを、一括でもAPI経由でも取得できます」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「企業名、ドメイン、またはLinkedIn URLをアップロードすると、CUFinderが各企業の推定年間売上レンジを返します」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「約1秒で、CUFinderが推定年間売上レンジを返します」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「CUFinderの企業売上ファインダーは、推定売上高を従業員数や業種とあわせて返すため、手作業のリサーチなしで規模別にアカウントを見極め、ティア分けできます」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「1B+件のプロフィールと照合」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「推測ではなく、検証済みの売上データ」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「CUFinderは、毎日更新されるデータベースと照合してすべての売上の数値を検証しており、全サービスで98%+の正確性を維持しています」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「CUFinderは10億件以上（1B+）のコンタクトプロファイルと8,500万件以上（85M+）の企業プロファイルを活用し、すべてを自動検証で毎日更新しています」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「How to estimate the annual revenue of a private company that never files public numbers, using signals, benchmarks and enrichment data.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「企業名、ドメイン、LinkedIn URLをアップロードするだけで、従業員規模、業界ベンチマーク、検証済みの情報源などのシグナルにもとづいて推定年間売上高が返されます」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「プレスリリース、LinkedInの従業員数、業界レポートから手作業で推定値をつなぎ合わせる必要はありません」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「非上場企業の売上データや推定値を調べるには？」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「数分で、非上場企業も含めたリスト内の各企業の売上推定値が得られます」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
-  - 「非上場企業の売上高を推定するには、通常、従業員数、業界平均、資金調達履歴、公開情報などを調べる必要があります」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
+  - 「How to Find Revenue Estimates for Private Companies | Inven」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「How to Find Revenue Estimates for Private Companies」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Publicly traded companies disclose financial data, but private companies are not obligated to do so. So, how do you get the revenue estimates and the value for private companies? Here's the combination of methods, data sources, and best practices.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Yet, revenue estimates are a crucial part of private company analysis - so how are they achieved then?」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Revenue estimation methods have been developed for approximating the financial performance of private companies. Stakeholders can obtain a more comprehensive picture of a private company's revenue through a combination of top-down and bottom-up approaches. While not as precise as official financial statements, these estimates provide a useful proxy for understanding a company's position.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Why Private Company Revenue Estimates Matter」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Private company revenue estimates play a crucial role in several key areas of business, including market research, competitor analysis and financial decisions.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「: Revenue estimates are essential for analyzing how different sectors are performing. This information is critical for companies’ forecasts, understanding the market landscape or planning market moves.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Accurate revenue estimates help investors assess a company's revenue potential. They enable investors to identify opportunities and make decisions on where to allocate capital.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「: Companies use revenue estimates to benchmark their performance against competitors. By comparing revenue estimates, companies can identify their own strengths and weaknesses, and develop strategies to gain a competitive edge.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Overall, private company revenue estimates are a vital tool for investors, analysts, and businesses, planning informed decision-making.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Private company revenue estimates can be derived using several methods. These methods generally fall into two categories: top-down and bottom-up approaches.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Top-down methods start with broad market data and allocate a portion to the target company, while bottom-up methods build estimates from company-specific factors. Understanding these methods will help you to make more reliable revenue estimates.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「: Reports may provide broad estimates that need to be tailored to specific companies.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「: Published data might not be the most current, potentially leading to outdated estimates.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
 - 一次情報の探し方：
+  - 「SEC EDGAR (sec.gov/edgar) for public company filings」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
   - 「How to find a company's revenue: free filings for public companies, honest estimate methods for private ones, and a bulk workflow for whole lists.」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
 - 失敗・落とし穴：
   - 「Revenue Forecasting: Models, Benefits, Tips & Pitfalls to Avoid | Cherry Bekaert」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
@@ -2726,6 +2727,7 @@
   - 「Other mistakes businesses should work to avoid include:」（https://www.cbh.com/insights/articles/revenue-forecasting-methods-tips-strategies/）
   - 「Common Mistakes to Avoid」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
 - 実例：
+  - 「Inven finds companies that are similar to your example company and provides their funding data, growth rate, headcount, ownership and geographical data. It has financial data with over 43M+ legal entities, with information on revenue, EBIT and balance sheet data. These data points will help you in defining the revenues of private companies both in the US and globally.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
   - 「手軽な単発検索でも一括の売上エンリッチメントでも、すぐに結果が返ります」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
   - 「「Not Found」（該当なし）の結果には料金がかからないため、見つからなくてもコストは一切かかりません」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
   - 「この圧倒的なデータ量があるからこそ、大量処理でも結果が信頼され、G2では1,000件以上のレビューをもとにLeaderとTop Performerのバッジを獲得しています」（https://cufinder.io/ja/enrichment-engine/find-company-annual-revenue）
@@ -5464,7 +5466,7 @@
   - 「Case Study Research: Principles and Practices」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「How Does Neopatrimonialism Affect the African State? The Case of Tax Collection in Zambia」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「Process Tracing and Elite Interviewing: A Case for Non-Probability Sampling」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
 
 ## 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）（revision bias significance test mean revision t-test methodological revisions）
 - 文脈：統計の版
@@ -5687,11 +5689,11 @@
 
 ## データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）（data journalism data dictionary verification workflow）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ14頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ14頁・検索12回）
+- 実例：記載なし（読んだ14頁・検索12回）
 
 ## 名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み）（entity resolution evaluation precision recall F1 ground truth pairs）
 - 文脈：同一性
@@ -7264,11 +7266,11 @@
 
 ## 調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ（cognitive bias investigation workflow disconfirming evidence osintblog）
 - 文脈：偏り
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）
 
 ## 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き（document version deduplication preprint published version citation independence library guide）
 - 文脈：突き合わせ・推定
@@ -7804,3 +7806,114 @@
   - 「公式資料や動画を参考にした説明と、実行して確認した結果は、この記事の中で区別しています」（https://note.com/ai_love_009/n/n2f8c22cb0191）
   - 「例えば「2026-09-05_メール分類_01」のようにします」（https://note.com/ai_love_009/n/n2f8c22cb0191）
   - 「例えば「分類が良くなった」と感じても、入力したメールが違えば、指示を直した効果なのか、簡単なメールに変わっただけなのか分かりません」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+
+## ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査）（point in time data survivorship bias research analyst method）
+- 文脈：検証
+- 手順・やり方：
+  - 「The fix in credit is the static pool or cohort method: fix the population at a start date, follow every member forward, and record every exit with its reason. A withdrawn rating is a censored observation, not a deleted one.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「In credit and fund studies, a stopped series carries information. Treat it with survival analysis methods, which use the partial history rather than discarding it.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Static pool (cohort) method:」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「and survival methods handle censoring properly. For experiments, analyse everyone assigned rather than everyone remaining, which is intent-to-treat and is the same discipline applied to a different exit.」（https://www.bellstatistics.com/glossary/survivorship-bias）
+  - 「Understanding why the uplift seen in A/B tests often differs from real-world outcomes is essential. Explore key reasons behind this discrepancy and insights on how to manage expectations effectively.」（https://www.bellstatistics.com/glossary/survivorship-bias）
+  - 「Wald, A. (1943). A Method of Estimating Plane Vulnerability Based on Damage of Survivors. Statistical Research Group, Columbia University.」（https://www.bellstatistics.com/glossary/survivorship-bias）
+- 突き合わせ・推定：
+  - 「US GDP preliminary estimates land roughly 30 days after quarter-end, and final figures can be revised for up to three years.」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
+  - 「Early 2008 to 2009 US job-loss estimates of 4.8 million were later revised to 8.7 million, an 81% understatement of the crisis at the time it was unfolding.」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
+  - 「What makes survivorship bias distinctive is its direction. Most sampling problems add noise or a bias of unknown sign. Removing the failures almost always pushes estimated returns up and estimated risk down, so it produces exactly the kind of result people are hoping to find.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Removing the worst paths also removes the worst drawdowns, so volatility, tail risk and maximum drawdown estimates are flattered too. A risk model calibrated on survivors understates the loss distribution it is supposed to describe.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Probability of default models must be estimated on cohorts that retain defaults, withdrawals and early repayments. Data migrations are a prime moment for defaulted names to vanish, so the default count should be reconciled before and after any system change.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+- 一次情報の探し方：
+  - 「Only roughly, and not reliably. Applying a fixed two or three month lag to period-end dates is the common quant workaround, but S&P Capital IQ found static lags cannot replicate true point-in-time results because filing timelines vary by region, company size, and period. The lag trades one set of errors for another.」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
+- 失敗・落とし穴：
+  - 「Point in time analysis studies data as it was known on a date, not as it reads now. See the 3 biases it removes and why diagnosis depends on it.」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
+  - 「The three biases point in time analysis removes」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
+  - 「Historical numbers change for three structural reasons, and each one biases analysis in a predictable direction. They are publication lag, revisions and restatements, and survivorship.」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
+  - 「What is look-ahead bias?」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
+  - 「Look-ahead bias is using information in a historical analysis that was not actually available at the time being studied. It happens when a backtest reads a revised or late-published figure as though it existed on the decision date, inflating results that cannot repeat in live conditions.」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
+  - 「What is survivorship bias in point in time analysis?」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
+  - 「Survivorship bias is the distortion that appears when failed or removed entities are dropped from a historical record. Studying only what survived into the present makes the past look healthier than it was. Point-in-time constituent data avoids it by keeping each entity in the record for the dates it actually existed.」（https://www.scoopanalytics.com/blog/point-in-time-analysis-why-data-snapshotting-matters-in-business-decisions）
+  - 「Survivorship Bias in Quantitative Analysis」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Survivorship bias in quantitative analysis explained: why dropping dead funds, delisted stocks and defaulters invents alpha, with a closed-form result, a ten-year zero-alpha fund simulation, index backtests and the fixes.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「1. Survivorship Bias in Plain English」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「The crucial point is that the bias does not need anyone to cheat. Nobody deletes the losers on purpose. Closed funds stop reporting, delisted tickers vanish from the vendor file the analyst happens to download, and defaulted borrowers are archived to a different system. Survivorship bias is a property of」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Sampling Bias in Financial Research」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Selection Bias in Financial Datasets」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「What makes survivorship bias distinctive is its direction. Most sampling problems add noise or a bias of unknown sign. Removing the failures almost always pushes estimated returns up and estimated risk down, so it produces exactly the kind of result people are hoping to find.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Two lessons fall straight out of the formula. First, the bias is proportional to σ. Double the dispersion of the population and you double the fake alpha, which is why survivorship matters far more for hedge funds, small caps and emerging market equities than for investment-grade bond funds. Second, the bias grows with the attrition rate」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+- 実例：
+  - 「the sample was drawn, which is why it is best understood as one specific case of the broader problem covered in」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Start with the simplest possible case. Suppose a set of funds has true excess returns that are normally distributed with mean zero and standard deviation σ. No fund has any skill. Now remove the worst fraction」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「3. Worked Example: Zero-Alpha Funds Over Ten Years」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+
+## AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ）（auditing AI chat output fabricated statistics verification）
+- 文脈：検証
+- 手順・やり方：
+  - 「生成AIの回答を信じて大丈夫？ハルシネーション（嘘）を見抜くファクトチェック手順」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「数字の直しが多ければ段階2で渡す資料を見直し、日付の直しが多ければ公式の発表を見る手順を先に固めます」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「AI顧問・FDE型AI伴走支援・AIエージェント開発など、生成AIの相談から構築・現場定着までを一社で支援」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「数値なら「別の手順でもう一度計算して、2つが一致するか確かめて」と検算させると気づきやすくなります」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「外部から受け取る原稿にも、AI利用の有無と確認の方法を求める」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「導入前に整理しておきたい考え方、ルール設計、ツール選定、社内定着の進め方をまとめた資料です」（https://panhouse.jp/insight/what-is-hallucination/）
+- 突き合わせ・推定：
+  - 「1つ目は、作成者が確かめる語（数字・固有名詞・日付・条文や引用）に印をつけ、原典と1語ずつ突き合わせること」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「段階3に作成者の突き合わせ（確認①）、段階4に別の人の確認（確認②）を足し、段階3で残した原典の控えを段階6で使います（確認③）」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「印をつけた語を1語ずつ原典で突き合わせたか」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「増える作業は、段階3の突き合わせと、段階4の別の1人の確認です」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「段階2でAIに社内の資料や原典のPDFを渡して答えさせておくと、段階3で突き合わせる先が最初から手元にそろいます」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「AI同士の照合は怪しい語を見つける補助で、原典を読む代わりにはなりません」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「社内に「裏取り」を根づかせる体制と、社内だけで決めきれない境目」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「裏取りを根づかせるのは個人の心がけではなく、書類の行き先ごとに「誰が・何を・どこまで見るか」を決めた1枚の表です」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「作成者が4種類の語に印をつけて原典と突き合わせ、別の1人が印の語だけを見てから送る」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「判例・統計・引用・金額は「原典と突き合わせるまでが完了」と決める」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「：引用した判例が公式の判例データベースに実在するかを、事件番号で照合する」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「同紙の検証では、推薦図書以外の記事にも、実在の人物が言っていない発言や、実在が確認できない専門家の発言が見つかりました（」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「Chicago Sun-Times による検証記事、2025年5月29日」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「：脚注・参考文献を1件ずつ原典と照合する」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「AIの出力そのものより「原典と照合する工程が無い、または形だけだったこと」が損害につながっている」（https://panhouse.jp/insight/what-is-hallucination/）
+- 一次情報の探し方：
+  - 「e-Gov法令検索、発行元のPDF」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「Webの記事、プレスリリース、採用ページ」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「御社の公開情報と業界の一次統計をもとに、本当の課題、選んだテーマの解決策、効果の試算の式、最初の30日までを」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「PDF・15ページ」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「質問文と、社内の資料や原典のPDF」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「段階2でAIに社内の資料や原典のPDFを渡して答えさせておくと、段階3で突き合わせる先が最初から手元にそろいます」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「社内の資料や原典のPDFを渡し、「この資料に書かれている範囲で答える」「書かれていなければ、書かれていないと答える」と範囲を決めると、作り話の入る余地は小さくなります」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「COMPANY PROFILE ／ PDF 全46ページ」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「その外側——最新の出来事、社内だけの情報、ニッチな統計——を聞かれると、近そうな情報から推測で埋めてしまいます」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「判例・法令・統計数値の引用、契約条件、顧客への公式回答——正解が1つで、間違いが外に出る／法的な力を持つ」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「判例・統計・引用・金額は「原典と突き合わせるまでが完了」と決める」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「いずれも公的な決定文・当事者の発表・報道で確認できたものです（事例1〜5は2026年9月27日、事例6は10月15日確認）」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「著者の大学教員は、「スタンフォード大学図書館バーチャル判例集国際犯罪裁判記録」というデータベースのURLを生成AIに渡して事例を出すよう指示し、AIが出した英文の判例をデータベースから引き出したものと思い込んで、確認せずに採用していました（」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「採用・人材育成の実務経験を活かし、企業向け「AI活用研修」の講師を担当」（https://panhouse.jp/insight/what-is-hallucination/）
+- 失敗・落とし穴：
+  - 「AIの誤りは、数字・固有名詞・日付・条文や引用の4種類の語に集まります」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「ハルシネーションとは？AIの回答に誤りが混ざる仕組み」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「誤りが入りやすいのは、文章の言い回しよりも、事実を名指しする語です」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「GoogleのAI回答にも「間違いが含まれている場合があります」と出る」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「Google検索のAIモードのヘルプには、AIの回答には間違いが含まれている場合があるという注意書きがあり、ウェブの内容を誤って解釈することがあるとも書かれています」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「検索結果の上に出るAIの回答でも、提供する側が誤りを前提にしています」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「AIの誤りは、どの書類に乗って社外に出るのか」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「AIの誤りが会社の問題になるのは、社外に出た時点です」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「行き先ごとに、誤りが出たときの重さが違う」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「同じ誤りでも、乗った書類によって訂正の重さが変わります」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「ファクトチェックは、作成者の注意力に任せる作業ではありません」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「段階3では、作成者が自分の書いた文として読み返すので、大部分が正しい文の中にある1語の誤りが目に入りにくくなります」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「質問の出し方で減らせる誤りと、減らせない誤り」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「質問の出し方を変えれば誤りは減りますが、無くなりはしません」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「減らせる誤りと残る誤りを分けると、確認の手間をどこに残すかが決まります」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+- 実例：
+  - 「検索結果の上に出るAIの回答でも、提供する側が誤りを前提にしています」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
+  - 「今回は、なぜこれが起きるのか（実はこれまでの記事が、全部その伏線でした）、なぜ消せないのか、そしてどう付き合えばいいのかを、国内外の事故事例と、確認時にそのまま使えるチェックリストもまじえて整理します」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「上の図は、後で紹介する研修現場の実例をもとにしています」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「：検索やRAGを使っても、AIが検索結果を誤読してハルシネーションが残ることはあります」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「業務別ハルシネーション事例6選——「うちは関係ない」と思う前に」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「法務、カスタマーサポート、報道、調査報告、地域PR、出版と、すでにさまざまな業務で実害の出た事例があります」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「いずれも公的な決定文・当事者の発表・報道で確認できたものです（事例1〜5は2026年9月27日、事例6は10月15日確認）」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「著者の大学教員は、「スタンフォード大学図書館バーチャル判例集国際犯罪裁判記録」というデータベースのURLを生成AIに渡して事例を出すよう指示し、AIが出した英文の判例をデータベースから引き出したものと思い込んで、確認せずに採用していました（」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「事例から逆算した、AIを使った成果物を社外に出す前の確認項目です」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「AIに「このデータベースで探して」と頼んだ結果も、データベース側で検索し直す」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「生成AI研修の会社が、AIに架空のパン屋にされる——笑い話のようですが、「本物と同じ自信度で、いくらでもそれらしい話を作れる」という、この記事の主張を体現した実例です」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「そして、原典を1回開くだけで防げるという点も、事例6選と同じです」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「以前は簡単に嘘を引き出せていたのが、最新モデルでは「その情報は確認できません」「実在するか分かりません」と、AIの側が先に音を上げるケースが増えています」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「ただしこれは、ユーザーが誤りを報告した会話など、誤りが起きやすい場面を集めて測った結果で、実際の利用時の誤り率そのものではありません（」（https://panhouse.jp/insight/what-is-hallucination/）
+  - 「ただし測り方で結果は大きく変わり、文書の要約に限った第三者の比較（Vectara、2026年9月22日更新版）では、OpenAI・Anthropic・Googleの最新モデルでも6〜13%程度のハルシネーションが残り、新しいモデルが必ずしも低いわけではありません（いずれも2026年9月27日確認）」（https://panhouse.jp/insight/what-is-hallucination/）
