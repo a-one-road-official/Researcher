@@ -1,0 +1,513 @@
+{
+ "name": "日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48）",
+ "en": "BOJ Tankan employment conditions DI manufacturing by size time series",
+ "aliases": [
+  "短観 雇用人員判断DI 製造業 中小企業 推移 site:boj.or.jp",
+  "雇用人員判断DI 製造業 時系列 xlsx site:boj.or.jp"
+ ],
+ "context": "比べる相手・一次",
+ "kind": "market",
+ "researched_at": "2026-11-06T04:10:17.714808+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "pandemic, the Japanese economy has experienced severe labor shortage . The business",
+    "url": "https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "despite the severe labor shortage after the COVID-19 pandemic in 2022, the HP filter",
+    "url": "https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "yen, real, chained, prices in 2015, seasonally adjusted) in the System of National Accounts.",
+    "url": "https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "first and third answers for estimation. Our sample covers the period of 1980Q1 to 2025Q1.",
+    "url": "https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "early 2020s. The survey-based output gap declined in each of these recession phases.",
+    "url": "https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "despite the severe labor shortage after the COVID-19 pandemic in 2022, the HP filter",
+    "url": "https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1978Q1 to 2025Q1 for the manufacturing sector and the period of 1990Q4 to 2025Q1 for",
+    "url": "https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016Q1. The share of the manufacturing sector was 32.8 percent on average during the",
+    "url": "https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "period of 1994Q1 to 2016Q2. We aggregate the capital input gap in the manufacturing",
+    "url": "https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "of 1974Q2 to 2025Q1.",
+    "url": "https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "calculated to be 66.0 percent on average during the period of 1994 to 2023.",
+    "url": "https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2009Q2 during the GFC; the most recent value is 1.3% in 2025Q1.",
+    "url": "https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020s. When the economy is hit by large shocks, it takes time for firms to make full",
+    "url": "https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "of Health, Labour, and Welfare as the index on total hours worked (2020 = 100, seasonally",
+    "url": "https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the product with 2020 = 100. Our sample covers the period of 1990Q4 to 2025Q1.",
+    "url": "https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "estimation. Our sample covers the period of 1990Q4 to 2025Q1.",
+    "url": "https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.reuters.com/jp/economy/bank-of-japan/HV6F67V3UNK3ZG2BQEFINMX5VY-2025-12-15/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://eiko-et.com/tankan-koyou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nli-research.co.jp/report/detail/id=38252?site=nli",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2606.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-am.co.jp/market/marketcomment/20251216_Tankan2512.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/n/n7176693ccfeb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bk.mufg.jp/report/ecoinf2026/report_jp_20261001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keizai-marumie.com/tankan/business_conditions_di/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%813%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gpc-gifu.or.jp/chousa/keikyou/siryou11/11_09/01-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.monex.co.jp/articles/-/24130",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/world/japan/PEQX4ZYGJJOCDGA4PMODVDTBLA-2026-10-01/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nli-research.co.jp/report/detail/id=86826?site=nli",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smtam.jp/report_column/pdf/cat_03/HP20261001kk.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/0b96f8e9-a72f-4227-9455-e58de997079a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shiny_moraea618/n/n3786cff5bc6f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/shoukibodeta/html/b1_1_0_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mri.co.jp/knowledge/insight/dep/2015/uploadfiles/dep20150701.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/todobuono/n/nd388cfd3ff99",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/outline/exp/tk/extk.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.macromicro.me/charts/1081/tankan-employment-conditions",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/english/estatis/eshuyo/e0212.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tradingeconomics.com/japan/reuters-tankan-index",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat-search.boj.or.jp/ssi/mtshtml/co_q_6_en.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48） 人手不足 受注 断る",
+   "results": [
+    "https://www.reuters.com/jp/economy/bank-of-japan/HV6F67V3UNK3ZG2BQEFINMX5VY-2025-12-15/",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=38252?site=nli",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://note.com/ogawa_tech/n/n7176693ccfeb",
+    "https://www.nomura-am.co.jp/market/marketcomment/20251216_Tankan2512.pdf",
+    "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%813%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "https://keizai-marumie.com/tankan/employment_di/"
+   ]
+  },
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48） 受注残 人手不足",
+   "results": [
+    "https://www.reuters.com/jp/economy/bank-of-japan/HV6F67V3UNK3ZG2BQEFINMX5VY-2025-12-15/",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.boj.or.jp/statistics/tk/yoshi/tk2606.htm",
+    "https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf",
+    "https://www.nomura-am.co.jp/market/marketcomment/20251216_Tankan2512.pdf",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://note.com/ogawa_tech/n/n7176693ccfeb",
+    "https://www.nli-research.co.jp/report/detail/id=38252?site=nli",
+    "https://www.bk.mufg.jp/report/ecoinf2026/report_jp_20261001.pdf"
+   ]
+  },
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48） 人手不足 損失 億円",
+   "results": [
+    "https://www.reuters.com/jp/economy/bank-of-japan/HV6F67V3UNK3ZG2BQEFINMX5VY-2025-12-15/",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "https://www.nomura-am.co.jp/market/marketcomment/20251216_Tankan2512.pdf",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://keizai-marumie.com/tankan/business_conditions_di/",
+    "https://note.com/ogawa_tech/n/n7176693ccfeb",
+    "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%813%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/"
+   ]
+  },
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48）",
+   "results": [
+    "https://www.reuters.com/jp/economy/bank-of-japan/HV6F67V3UNK3ZG2BQEFINMX5VY-2025-12-15/",
+    "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=38252?site=nli",
+    "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%813%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "https://www.gpc-gifu.or.jp/chousa/keikyou/siryou11/11_09/01-2.html",
+    "https://media.monex.co.jp/articles/-/24130"
+   ]
+  },
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48） 推移",
+   "results": [
+    "https://www.reuters.com/jp/economy/bank-of-japan/HV6F67V3UNK3ZG2BQEFINMX5VY-2025-12-15/",
+    "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=38252?site=nli",
+    "https://www.bk.mufg.jp/report/ecoinf2026/report_jp_20261001.pdf",
+    "https://www.nomura-am.co.jp/market/marketcomment/20251216_Tankan2512.pdf",
+    "https://www.indb.co.jp/insight/economydata_2512_tankan_2/"
+   ]
+  },
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48） 統計 PDF",
+   "results": [
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.bk.mufg.jp/report/ecoinf2026/report_jp_20261001.pdf",
+    "https://www.reuters.com/jp/world/japan/PEQX4ZYGJJOCDGA4PMODVDTBLA-2026-10-01/",
+    "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "https://www.nli-research.co.jp/report/detail/id=86826?site=nli",
+    "https://www.smtam.jp/report_column/pdf/cat_03/HP20261001kk.pdf"
+   ]
+  },
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.reuters.com/jp/economy/bank-of-japan/HV6F67V3UNK3ZG2BQEFINMX5VY-2025-12-15/",
+    "https://www.boj.or.jp/statistics/tk/yoshi/tk2606.htm",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%813%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "https://www.gpc-gifu.or.jp/chousa/keikyou/siryou11/11_09/01-2.html",
+    "https://finance.biggo.jp/news/0b96f8e9-a72f-4227-9455-e58de997079a",
+    "https://www.nli-research.co.jp/report/detail/id=86826?site=nli",
+    "https://note.com/shiny_moraea618/n/n3786cff5bc6f"
+   ]
+  },
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48） 従業者規模別",
+   "results": [
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "https://www.reuters.com/jp/economy/bank-of-japan/HV6F67V3UNK3ZG2BQEFINMX5VY-2025-12-15/",
+    "https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=38252?site=nli",
+    "https://note.com/ogawa_tech/n/n7176693ccfeb",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/shoukibodeta/html/b1_1_0_1.html",
+    "https://media.monex.co.jp/articles/-/24130"
+   ]
+  },
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48） 1人当たり 万円",
+   "results": [
+    "https://www.reuters.com/jp/economy/bank-of-japan/HV6F67V3UNK3ZG2BQEFINMX5VY-2025-12-15/",
+    "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=38252?site=nli",
+    "https://www.nomura-am.co.jp/market/marketcomment/20251216_Tankan2512.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/shoukibodeta/html/b1_1_0_1.html",
+    "https://media.monex.co.jp/articles/-/24130"
+   ]
+  },
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48） 2015 2025",
+   "results": [
+    "https://www.boj.or.jp/statistics/tk/yoshi/tk2606.htm",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf",
+    "https://www.boj.or.jp/statistics/tk/index.htm",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.reuters.com/jp/world/japan/PEQX4ZYGJJOCDGA4PMODVDTBLA-2026-10-01/",
+    "https://www.mri.co.jp/knowledge/insight/dep/2015/uploadfiles/dep20150701.pdf",
+    "https://note.com/todobuono/n/nd388cfd3ff99",
+    "https://www.indb.co.jp/insight/economydata_2512_tankan_2/",
+    "https://www.bk.mufg.jp/report/ecoinf2026/report_jp_20261001.pdf"
+   ]
+  },
+  {
+   "query": "BOJ Tankan employment conditions DI manufacturing by size time series Japan statistics",
+   "results": [
+    "https://www.boj.or.jp/en/statistics/outline/exp/tk/extk.htm",
+    "https://en.macromicro.me/charts/1081/tankan-employment-conditions",
+    "https://www.jil.go.jp/english/estatis/eshuyo/e0212.html",
+    "https://tradingeconomics.com/japan/reuters-tankan-index",
+    "https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf",
+    "https://www.stat-search.boj.or.jp/ssi/mtshtml/co_q_6_en.html",
+    "https://app.indexbox.io/indicators/symbol/tankan-d-i-business-conditions-all-enterprises-other-manufacturing-actual-result-survey-balance-percent-points-bank-of-japan-japan/",
+    "https://www.investopedia.com/terms/t/tankan.asp",
+    "https://finance.biggo.com/news/c6313078-2edd-4cdb-a88a-2856146020f3",
+    "https://www.boj.or.jp/en/statistics/tk/index.htm"
+   ]
+  },
+  {
+   "query": "site:note.com 日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48）",
+   "results": [
+    "https://note.com/foresight_jp/n/ncfdb5c049c9f",
+    "https://note.com/niyu020114/n/n0d118d2bfb0d",
+    "https://note.com/noteworkr/n/n4b457bb1a6ad",
+    "https://note.com/akiyoshitakumori/n/n88acde120b20",
+    "https://note.com/shirabe_labs/n/n76d75ab6d84d",
+    "https://note.com/niyu020114/n/n3fb09a00fb38",
+    "https://note.com/akiyoshitakumori/n/n8eb3c1c1784f"
+   ]
+  },
+  {
+   "query": "site:x.com 日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48）",
+   "results": [
+    "https://x.com/kyookine/status/2072162617507090847",
+    "https://x.com/i/trending/2039130656148685125",
+    "https://x.com/marketdata_jp/status/2101468886172381604",
+    "https://x.com/Invesco_Sato/status/2072923291426189549",
+    "https://x.com/suuji_annai/status/2105453516827525329",
+    "https://x.com/NFCMarketLive/status/2105446773171093954",
+    "https://x.com/zensaikyou/status/2105810317326659672"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48）",
+   "results": [
+    "https://www.linkedin.com/company/sany-heavy-industry",
+    "https://jp.linkedin.com/jobs/view/【di戦略企画部】日本を代表する製造業におけるデジタルイノベーション戦略策定、実行メンバを募集中-at-mitsubishi-heavy-industries-4297278304",
+    "https://jp.linkedin.com/posts/yutaka-watanabe-19732912b_中小企業庁及び中小機構が中小企業景況調査報告第184回2026年4-6月期調査結果-activity-7480451810965483521-X-7F",
+    "https://jp.linkedin.com/posts/y-ishii_リクルートワークス研究所-2027卒大卒求人倍率調査-27卒求人倍率は162-activity-7453702561473224704-As1Z",
+    "https://jp.linkedin.com/posts/dolbix-consulting-inc_審査委員の就任実績-経済産業省-中堅中小企業の賃上げに向けた省力化等の大規模成長投資補助金-activity-7427985328009048065-iplw",
+    "https://jp.linkedin.com/posts/達也-代慶-126586226_中堅がいない職場採用抑制でひずみ30代は昭和と令和の板挟み-日本経済新聞-activity-7398866453237620736-v4cO",
+    "https://jp.linkedin.com/posts/mani-inc_2026年版すごい中堅企業100社リスト日本酒コンビニから造船海底ケーブル-activity-7454364131870236672-jKou"
+   ]
+  },
+  {
+   "query": "site:facebook.com 日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48）",
+   "results": [
+    "https://www.facebook.com/public/日銀短観-2025年9月　解説/",
+    "https://www.facebook.com/murc.jp/posts/日銀短観結果2025年9月調査①大企業の業況判断-di製造業は改善非製造業は横ばい②中小企業の業況判断-di製造業は横ばい非製造業は悪化③設備投資計画2025-/1276263010970341/",
+    "https://www.facebook.com/PRI.MOF.Japan/posts/9月1日-法人企業統計調査-令和7年46月期令和6年度年次別調査の結果を公表いたしました下記リンクから調査の結果についてご確認いただけますのでどうぞご覧ください/1192735222894708/",
+    "https://www.facebook.com/tsrnet/posts/tsrデータインサイト2024年の中堅企業は9229社-企業支援の枠組み新設で成長を促進し未来志向へ2024年中堅企業動向調査経済産業省は大企業と中小企業の間に/1135450054425096/",
+    "https://www.facebook.com/smrjpr/posts/中小企業の業況判断di-は3期連続して低下-1980年から40年以上続く中小企業景況調査本日2025年1-3月期の調査結果を公表しました-調査結果はこちらhtt/1137380728427875/",
+    "https://www.facebook.com/tokyocci/videos/11月分の結果公表早期景気観測調査lobo調査業況diは前月から09ポイントで横ばいの圏内先行きは年末年始商戦のへの期待から今月17見込みと上向き基調業種別ブロ/515455998171737/",
+    "https://www.facebook.com/kyotoshimbun/posts/日本政策金融公庫が３日発表した２０２５年１０１２月期の京滋地区の中小企業動向調査によると業況判断指数ｄｉは前期同７９月比４/1518727420255730/"
+   ]
+  },
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48） note 社長",
+   "results": [
+    "https://www.reuters.com/jp/economy/bank-of-japan/HV6F67V3UNK3ZG2BQEFINMX5VY-2025-12-15/",
+    "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf",
+    "https://note.com/ogawa_tech/n/n7176693ccfeb",
+    "https://www.nli-research.co.jp/report/detail/id=38252?site=nli",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.nomura-am.co.jp/market/marketcomment/20251216_Tankan2512.pdf",
+    "https://www.indb.co.jp/insight/economydata_2512_tankan_2/"
+   ]
+  },
+  {
+   "query": "日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48） X 投稿",
+   "results": [
+    "https://www.reuters.com/jp/economy/bank-of-japan/HV6F67V3UNK3ZG2BQEFINMX5VY-2025-12-15/",
+    "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm",
+    "https://eiko-et.com/tankan-koyou/",
+    "https://www.nli-research.co.jp/report/detail/id=38252?site=nli",
+    "https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.yutaka-trusty.co.jp/market/blog_oogo/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%9A%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%813%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9/",
+    "https://www.gpc-gifu.or.jp/chousa/keikyou/siryou11/11_09/01-2.html",
+    "https://media.monex.co.jp/articles/-/24130"
+   ]
+  },
+  {
+   "query": "BOJ Tankan employment conditions DI manufacturing by size time series site:linkedin.com",
+   "results": [
+    "https://uk.linkedin.com/company/ceic-data",
+    "https://www.linkedin.com/posts/metricshour_bank-of-japan-september-2026-tankan-large-activity-7512271666324987904-DS2F",
+    "https://www.linkedin.com/posts/yano-research-institute-ltd-_bojs-june-tankan-large-companies-show-further-activity-7486193454591463424-_yBt",
+    "https://pe.linkedin.com/posts/quickcorp_quickcorp-boj-tankan-activity-7261631528340742144-ta4_",
+    "https://www.linkedin.com/posts/quickcorp_quickcorp-boj-tankan-activity-7394270975418073090-H2Jj",
+    "https://www.linkedin.com/posts/quickcorp_quickcorp-boj-tankan-activity-7381629544262275072-wKak",
+    "https://www.linkedin.com/posts/erudite-asia_cognitiveasia-japan-activity-7445457598008680449-1hCU",
+    "https://www.linkedin.com/posts/quickcorp_quickcorp-boj-tankan-activity-7287753977100689408-FS6F"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ31頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ31頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ31頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ31頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ31頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ31頁・検索18回）"
+ }
+}

@@ -8,8 +8,100 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-05T21:50:46.153394+00:00",
+ "researched_at": "2026-11-06T04:27:35.000948+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "* 本稿の内容は、 東京大学金融教育研究センター・日本銀行調査統計局第9 回共催コンファレン",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "† 日本銀行調査統計局（tomoyuki.yagi@boj.or.jp）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "‡ 日本銀行調査統計局（kakuho.furukawa@boj.or.jp）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "§ 日本銀行調査統計局（jouchi.nakajima@boj.or.jp）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2 2005 年以降、東京大学金融教育研究センターと日本銀行調査統計局は、計 9 回にわたって共",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統計を用いて確認するべく、法人企業統計 （四半期別調査）で計算すると、2010",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、 法人企業統計ベースの労働生",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "法人企業統計における臨時従業員数は、 臨時従業員の総労働時間",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ェアや研究開発、労働者の持つ能力や技術等の人的資産、 特許や著作権などの知",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "は統計的に有意にプラスとなっており、無形資産投資は労働生産性の成長率を",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コノミー）を担う企業の産出量を既存統計（GDP 等）で捕捉できていない可能",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "性や、IT 関連の財やサービスの価格低下を既存統計で正確に計測できていない",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "すなわち、求職者側のスキルと求人側が求めるスキルが十分に符合し",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "と考えられるが、欧米では、 公的に人的資本の蓄積を促す制度が多く存在してお",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この間、感染症拡大防止に向けてデジタル技術の採用が拡がるなかで、 ソフト",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "型コロナウイルス感染症拡大下における労働生産性の動向を 分析し、ウィズコ",
@@ -97,6 +189,26 @@
    },
    {
     "quote": "他方で、 上述の対面型サービス業の落ち",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "ただし、残された誤りは筆者らに帰する",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "認識や起業能力に対する認識が低いほか、 失敗に対する恐れが高い （図 24）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新興国等、産業構造の大きく異なる国や地域の比較を行う際には注意が必要で",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -285,408 +397,335 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "ただし、残された誤りは筆者らに帰する",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "認識や起業能力に対する認識が低いほか、 失敗に対する恐れが高い （図 24）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新興国等、産業構造の大きく異なる国や地域の比較を行う際には注意が必要で",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "* 本稿の内容は、 東京大学金融教育研究センター・日本銀行調査統計局第9 回共催コンファレン",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "† 日本銀行調査統計局（tomoyuki.yagi@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "‡ 日本銀行調査統計局（kakuho.furukawa@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "§ 日本銀行調査統計局（jouchi.nakajima@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2 2005 年以降、東京大学金融教育研究センターと日本銀行調査統計局は、計 9 回にわたって共",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計を用いて確認するべく、法人企業統計 （四半期別調査）で計算すると、2010",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なお、 法人企業統計ベースの労働生",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "法人企業統計における臨時従業員数は、 臨時従業員の総労働時間",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ェアや研究開発、労働者の持つ能力や技術等の人的資産、 特許や著作権などの知",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は統計的に有意にプラスとなっており、無形資産投資は労働生産性の成長率を",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コノミー）を担う企業の産出量を既存統計（GDP 等）で捕捉できていない可能",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "性や、IT 関連の財やサービスの価格低下を既存統計で正確に計測できていない",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "すなわち、求職者側のスキルと求人側が求めるスキルが十分に符合し",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "と考えられるが、欧米では、 公的に人的資本の蓄積を促す制度が多く存在してお",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この間、感染症拡大防止に向けてデジタル技術の採用が拡がるなかで、 ソフト",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://en.wikipedia.org/wiki/The_Hollywood_Reporter",
+    "url": "https://note.com/kabu_memo_1114/n/ne936fe5a7fd3",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.hollywoodreporter.com/",
+    "url": "https://note.com/qp2hp7ga_/n/nc76b72ea361c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.hollywoodreporter.com/node/0/",
+    "url": "https://note.com/lyco_pene/n/n7241631b660c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.hollywoodreporter.com/c/tv/",
+    "url": "https://note.com/kens_reading1/n/n17626df2cb9d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.hollywoodreporter.com/c/news/",
+    "url": "https://note.com/kanemonfin/n/n769910385371",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.hollywoodreporter.com/pmc-ajax/",
+    "url": "https://note.com/serene_chives592/n/n1d7d276f777e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.microsoft.com/en-us/",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://techcommunity.microsoft.com/blog/exchange/released-september-2026-exchange-server-security-updates/4554411",
+    "url": "https://web-material3.yokogawa.com/GSML1-01E_002.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://techcommunity.microsoft.com/blog/exchange/released-october-2026-exchange-server-security-updates/4563014",
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2021/wp21j13.htm",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://support.microsoft.com/en-gb/contactus",
+    "url": "https://jsite.mhlw.go.jp/yamagata-roudoukyoku/seisansei_keisanhouhou.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://support.microsoft.com/en-gb/outlook/install-or-reinstall-classic-outlook-on-a-windows-pc",
+    "url": "https://rmc-oden.com/blog/archives/140347",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.lonelyplanet.com/destinations/italy/the-veneto/verona",
+    "url": "https://www.univcoop.jp/hosei/ebook01/14.html",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
-    "url": "https://shop.lonelyplanet.com/collections/italy",
+    "url": "https://www.zentsuken.net/journal/file/144_5.html",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
-    "url": "https://shop.lonelyplanet.com/products/experience-italy",
+    "url": "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/50kinen/stat50_3.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://shop.lonelyplanet.com/products/southern-italy",
-    "status": "ok",
-    "method": "http"
+    "url": "https://release.nikkei.co.jp/attach_file/0536598_03.pdf",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
-    "url": "https://shop.lonelyplanet.com/products/your-trip-starts-here",
-    "status": "ok",
-    "method": "http"
+    "url": "https://da.lib.kobe-u.ac.jp/da/kernel/E0042420/E0042420.pdf",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
-    "url": "https://www.centralgatech.edu/",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://www.merriam-webster.com/dictionary/central",
+    "url": "https://www.jftc.go.jp/cprc/reports/index_files/cr-0411.pdf",
     "status": "http_403",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://dictionary.cambridge.org/dictionary/english/central",
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2206.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/research/wps_rev/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.central.com/",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_all/index.htm",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.central-insurance.com/",
+    "url": "https://www.ijcb.org/journal/v19n5/credit-booms-labor-reallocation-and-productivity-growth",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.thefreedictionary.com/central",
+    "url": "https://www.chicagofed.org/publications/economic-perspectives/2025/1",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/research-1/Decomposing-the-Labor-Productivity-Gap-between-Upper-Middle-Income-and-High-Income-Countries.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://openknowledge.worldbank.org/bitstreams/edbc2c82-a185-510c-968b-6708a0bd9219/download",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bis.org/publications/working-paper-534-labour-reallocation-and-productivity-dynamics-financial-causes-real-consequences.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
+    "status": "ok",
+    "method": "pdf"
    }
   ]
  },
  "search_log": [
   {
    "query": "中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方） site:note.com",
-   "results": []
+   "results": [
+    "https://note.com/kabu_memo_1114/n/ne936fe5a7fd3",
+    "https://note.com/qp2hp7ga_/n/nc76b72ea361c",
+    "https://note.com/lyco_pene/n/n7241631b660c",
+    "https://note.com/kens_reading1/n/n17626df2cb9d",
+    "https://note.com/kanemonfin/n/n769910385371",
+    "https://note.com/serene_chives592/n/n1d7d276f777e",
+    "https://note.com/chic_deer1160/n/n6c90181b6a4f",
+    "https://note.com/kens_reading1/n/n09f86965e019",
+    "https://note.com/ogawa_tech/n/nac3afbb88c71"
+   ]
   },
   {
    "query": "中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方） note",
    "results": [
-    "https://en.wikipedia.org/wiki/The_Hollywood_Reporter",
-    "https://www.hollywoodreporter.com/",
-    "https://www.hollywoodreporter.com/node/0/",
-    "https://www.hollywoodreporter.com/c/tv/",
-    "https://www.hollywoodreporter.com/c/news/",
-    "https://www.hollywoodreporter.com/pmc-ajax/",
-    "https://www.hollywoodreporter.com/c/movies/",
-    "https://www.hollywoodreporter.com/h/",
-    "https://www.youtube.com/hollywoodreporter",
-    "https://www.instagram.com/hollywoodreporter/"
+    "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://web-material3.yokogawa.com/GSML1-01E_002.pdf",
+    "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.boj.or.jp/research/wps_rev/wps_2021/wp21j13.htm",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
+    "https://researchmap.jp/blogs/blog_entries/view/446415/3225e7b582aa475d005e104dcbae8a9c?page_id=834263&lang=ja",
+    "https://www.boj.or.jp/research/wps_rev/"
    ]
   },
   {
    "query": "中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方） やり方",
    "results": [
-    "https://www.microsoft.com/en-us/",
-    "https://techcommunity.microsoft.com/blog/exchange/released-september-2026-exchange-server-security-updates/4554411",
-    "https://techcommunity.microsoft.com/blog/exchange/released-october-2026-exchange-server-security-updates/4563014",
-    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
-    "https://support.microsoft.com/en-gb/contactus",
-    "https://support.microsoft.com/en-gb/outlook/install-or-reinstall-classic-outlook-on-a-windows-pc",
-    "https://support.microsoft.com/en-us/forms/sign-in-to-microsoft-forms",
-    "https://techcommunity.microsoft.com/category/windows/discussions/windowsinsiderprogram",
-    "https://techcommunity.microsoft.com/blog/excelblog/unlock-the-power-of-copilot-in-excel-now-generally-available/4242810",
-    "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650"
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://jsite.mhlw.go.jp/yamagata-roudoukyoku/seisansei_keisanhouhou.html",
+    "https://web-material3.yokogawa.com/GSML1-01E_002.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://rmc-oden.com/blog/archives/140347",
+    "https://www.univcoop.jp/hosei/ebook01/14.html",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/50kinen/stat50_3.pdf",
+    "https://release.nikkei.co.jp/attach_file/0536598_03.pdf",
+    "https://www.boj.or.jp/research/wps_rev/"
    ]
   },
   {
    "query": "中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方） 事例",
    "results": [
-    "https://www.lonelyplanet.com/destinations/italy/the-veneto/verona",
-    "https://shop.lonelyplanet.com/collections/italy",
-    "https://shop.lonelyplanet.com/products/experience-italy",
-    "https://shop.lonelyplanet.com/products/southern-italy",
-    "https://shop.lonelyplanet.com/products/your-trip-starts-here"
+    "https://www.boj.or.jp/research/wps_rev/wps_2021/wp21j13.htm",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://da.lib.kobe-u.ac.jp/da/kernel/E0042420/E0042420.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.jftc.go.jp/cprc/reports/index_files/cr-0411.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2206.pdf",
+    "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/50kinen/stat50_3.pdf",
+    "https://www.boj.or.jp/research/wps_rev/"
    ]
   },
   {
    "query": "central bank working paper labor productivity measurement part-time mergers reallocation decomposition",
    "results": [
-    "https://www.centralgatech.edu/",
-    "https://www.merriam-webster.com/dictionary/central",
-    "https://dictionary.cambridge.org/dictionary/english/central",
-    "https://www.central.com/",
-    "https://www.central-insurance.com/",
-    "https://www.thefreedictionary.com/central",
-    "https://dictionary.cambridge.org/us/dictionary/english/central",
-    "https://www.vocabulary.com/dictionary/central",
-    "https://www.collinsdictionary.com/dictionary/english/central",
-    "https://centralreach.com/"
+    "https://www.ijcb.org/journal/v19n5/credit-booms-labor-reallocation-and-productivity-growth",
+    "https://www.chicagofed.org/publications/economic-perspectives/2025/1",
+    "https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/research-1/Decomposing-the-Labor-Productivity-Gap-between-Upper-Middle-Income-and-High-Income-Countries.pdf",
+    "https://openknowledge.worldbank.org/bitstreams/edbc2c82-a185-510c-968b-6708a0bd9219/download",
+    "https://www.bis.org/publications/working-paper-534-labour-reallocation-and-productivity-dynamics-financial-causes-real-consequences.pdf",
+    "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
+    "https://www.aeaweb.org/conference/2016/retrieve.php?pdfid=21384&tk=5Yh2FaT5",
+    "https://conference.nber.org/confer/2015/SI2015/PRCR/Bai_Carvalho_Phillips.pdf",
+    "https://www.conference-board.org/pdf_free/workingPapers/E-0024-07-WP.pdf"
    ]
   },
   {
    "query": "site:note.com 中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方）",
    "results": [
-    "https://www.trainerstotherescue.net/obedienceequipment",
-    "https://sottogermanshepherds.weebly.com/sottogermanshepherds.html",
-    "https://boardworking.com/collections/dumbbells",
-    "https://www.etsy.com/market/custom_obedience_dumbbell",
-    "https://www.facebook.com/marketplace/111833038833860/dumbbells/",
-    "https://www.etsy.com/market/wooden_dog_training_dumbbell",
-    "https://www.trainerstotherescue.net/product-page/dumbbells",
-    "https://www.facebook.com/marketplace/louisville/dumbbells/",
-    "https://www.homadewoods.com/products",
-    "https://www.ebay.com/shop/wooden-dumbbells?_nkw=wooden+dumbbells"
+    "https://note.com/kabu_memo_1114/n/ne936fe5a7fd3",
+    "https://note.com/kens_reading1/n/n17626df2cb9d",
+    "https://note.com/lyco_pene/n/n7241631b660c",
+    "https://note.com/ogawa_tech/n/nac3afbb88c71",
+    "https://note.com/kens_reading1/n/n09f86965e019",
+    "https://note.com/serene_chives592/n/n1d7d276f777e",
+    "https://note.com/kanemonfin/n/n769910385371",
+    "https://note.com/chic_deer1160/n/n6c90181b6a4f"
    ]
   },
   {
    "query": "site:x.com 中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方）",
    "results": [
-    "https://www.medicalnewstoday.com/articles/324913",
-    "https://www.kidney.org/kidney-topics/hyperkalemia-high-potassium",
-    "https://www.webmd.com/a-to-z-guides/hyperkalemia-potassium-importance",
-    "https://my.clevelandclinic.org/health/diseases/15184-hyperkalemia-high-blood-potassium",
-    "https://www.webmd.com/a-to-z-guides/high-potassium-defined",
-    "https://whyismy.org/articles/why-is-my-potassium-high",
-    "https://www.mayoclinic.org/symptoms/hyperkalemia/basics/causes/sym-20050776",
-    "https://www.healthline.com/health/high-potassium-hyperkalemia",
-    "https://themetabolicjournal.com/biomarkers/potassium-levels",
-    "https://mymedicineadvisor.com/health/high-potassium-causes-cmp/"
+    "https://jf.x.com/images/media-preview/2107040014349881640",
+    "https://jf.x.com/images/media-preview/2092041057940705458",
+    "https://x.com/fedboj/status/2071925040459989033",
+    "https://x.com/Masa_Aug2020/status/2020292637891477991",
+    "https://x.com/gpiftweets/status/2097814809274446208",
+    "https://x.com/kenbiolab/status/2096089655880114186",
+    "https://x.com/aoi_kujaku/status/2076258405665366182"
    ]
   },
   {
    "query": "site:linkedin.com 中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方）",
    "results": [
-    "http://www.jlaforums.com/viewrecent.php?start=5371900",
-    "http://www.jlaforums.com/viewforum.php?f=175",
-    "http://www.jlaforums.com/viewforum.php?f=162",
-    "http://www.jlaforums.com/viewrecent.php",
-    "http://www.jlaforums.com/viewforum.php?f=62",
-    "http://www.jlaforums.com/viewforum.php?f=78",
-    "http://www.jlaforums.com/viewtopic.php?t=28107179",
-    "http://www.jlaforums.com/viewtopic.php?t=2052985",
-    "http://www.jlaforums.com/viewtopic.php?t=35088400",
-    "http://www.jlaforums.com/viewtopic.php?t=197577919"
+    "https://jp.linkedin.com/in/nshiraki",
+    "https://jp.linkedin.com/pulse/productivity-paradox-ai-age-luca-collina-mba-asrte?tl=ja",
+    "https://jp.linkedin.com/pulse/サーキュラーエコノミーceの費用対効果を見える化するce付加価値生産性指標cvpに関するディスカッションペーパー-7342490674727931904-xxlac",
+    "https://www.linkedin.com/pulse/データの正規性確認不良データのバラつきを科学的に評価する実験計画法を実践する前に知っておくべき統計的思考-鈴木-xjnbc/",
+    "https://www.linkedin.com/posts/kzappmusi9_研究集会第22-回ノンパラメトリック統計解析とベイズ統計中央大学にて報告してきました-activity-6914134531230904320-GFJk",
+    "https://in.linkedin.com/posts/otamakoto_デジタルスイスフランに関するホワイトペーパーデポジットトークンseymour-activity-7065837612963414016-yMuL",
+    "https://jp.linkedin.com/pulse/economic-impact-regulation-ai-key-takeaways-from-imf-alex-chandra-trhjf?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com 中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方）",
    "results": [
-    "https://download.mcafee.com/products/webhelp/4/1033/GUID-EEED223A-05D6-4557-A042-B52306D2B36C.html",
-    "https://download.mcafee.com/products/webhelp/4/1033/GUID-024BEBBD-AFAF-4729-A93A-95E4F4878743.html",
-    "https://us.mcafee.com/apps/mobk/onlinehelp/5.6.114/15/en/concepts/loc_of_restored_files_c.html",
-    "https://us.mcafee.com/apps/mobk/onlinehelp/5.6.114/15/en/tasks/restore_all_files_wr.html",
-    "https://download.mcafee.com/products/webhelp/4/1033/GUID-B4D9DBDF-A0E5-4302-9ACD-61AFA799B7A3.html",
-    "https://www.mcafee.com/en-us/antivirus/downloads.html",
-    "https://www.mcafee.com/es-mx/antivirus/mcafee-livesafe.html",
-    "https://download.mcafee.com/products/webhelp/4/3081/GUID-D8455535-C698-4BCC-AC38-1FFF46501FEB.html",
-    "https://download.mcafee.com/products/webhelp/4/1033/guid-92b9f7ad-28e9-430a-a3b3-c2dcc653d194.html",
-    "https://www.mcafee.com/zh-tw/index.html"
+    "https://www.facebook.com/VUC2021/",
+    "https://www.facebook.com/stat.japan/",
+    "https://www.facebook.com/stat.japan/posts/統計today-no146-平成はどのような時代だったか人口減少社会元年非正規雇用女性活躍デフレ統計todayは統計をめぐる新しい動きやメッセージをお届けするも/2169871449759007/",
+    "https://www.facebook.com/workstyletech/posts/1718816675075683/",
+    "https://www.facebook.com/japan.marketing.academy/photos/ワーキングペーパーvol12-no4紹介大平進network-based-relationship-value-creation-and-its-effects/1416076347214474/",
+    "https://www.facebook.com/japan.marketing.academy/posts/ワーキングペーパーvol13-no2紹介劉沛然日系小売チェーンの進出先市場における受容の経時的変化と標準化適応化行動の動態性-ユニクロと無印良品の中国市場進出と/1543740914448016/",
+    "https://www.facebook.com/UTokyo.IFI/posts/渡部俊也-東京大学未来ビジョン研究センター-教授アラタマシアン-ハーバード大学-コンプライアンスオフィサーによるワーキングペーパー国における学等の学術研究機関に/745810134008288/",
+    "https://www.facebook.com/JICARIJ/posts/ワーキングペーパーno212発刊マイクロファイナンス機関が非常に発達しているカンボジアとフィリピン20092015年の両国のマイクロファイナンス機関の経営特性と/1696942177128433/"
    ]
   },
   {
    "query": "中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方） note 社長",
    "results": [
-    "https://www.favfamilyrecipes.com/easiest-crab-salad-recipe/",
-    "https://www.allrecipes.com/recipe/232287/mels-crab-salad/",
-    "https://www.dinneratthezoo.com/crab-salad-recipe/",
-    "https://www.allrecipes.com/recipes/2811/salad/seafood-salad/crab-salad/",
-    "https://fantabulosity.com/crab-salad/",
-    "https://www.foodnetwork.com/recipes/food-network-kitchen/crab-salad-recipe-2011466",
-    "https://seafoodvoyage.com/crab-salad-recipes/",
-    "https://downshiftology.com/recipes/crab-salad/",
-    "https://www.southerncravings.com/crab-salad/",
-    "https://bellyfull.net/crab-salad/"
+    "https://www.boj.or.jp/research/wps_rev/wps_2021/wp21j13.htm",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "https://note.com/todobuono/m/m212af1fc670f/hashtag/%E9%89%B1%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3%E6%8C%87%E6%95%B0",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://researchmap.jp/blogs/blog_entries/view/446415/3225e7b582aa475d005e104dcbae8a9c?page_id=834263&lang=ja",
+    "https://recog.works/ja/news/detail/584",
+    "https://lab.jinjib.co.jp/archives/category/personnelcolumn/page/3?postID=2708",
+    "https://www.boj.or.jp/research/wps_rev/"
    ]
   },
   {
    "query": "中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方） X 投稿",
    "results": [
-    "https://www.linkedin.com/pub/dir/Sirisha/Bhimavaram",
-    "https://in.linkedin.com/",
-    "https://www.linkedin.com/pub/dir/Suresh/Bhimavaram",
-    "https://in.linkedin.com/jobs/jobs-in-bhimavaram",
-    "https://nitw.ac.in/api/static/files/05_02_2024_Academic_Report_2020_21.pdf",
-    "https://www.linkedin.com/pub/dir/+/Hr+Executive",
-    "https://www.linkedin.com/pub/dir/hr/head",
-    "https://en.wikipedia.org/wiki/2026_United_States_elections",
-    "https://www.britannica.com/event/2026-US-midterm-elections",
-    "https://www.uspresidentialelectionnews.com/2026-midterm-elections/"
+    "https://www.boj.or.jp/research/wps_rev/index.htm",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://hosei.ecats-library.jp/da/repository/00009642/32sugimoto.pdf",
+    "https://researchmap.jp/blogs/blog_entries/view/446415/3225e7b582aa475d005e104dcbae8a9c?page_id=834263&lang=ja",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93301",
+    "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
+    "https://www.nri-social.co.jp/rengo/faq/index.php?action=attachment&id=2",
+    "https://release.nikkei.co.jp/attach_file/0504463_02.pdf",
+    "https://www.boj.or.jp/research/wps_rev/"
    ]
   },
   {
    "query": "central bank working paper labor productivity measurement part-time mergers reallocation decomposition site:linkedin.com",
    "results": [
-    "https://www.centralgatech.edu/",
-    "https://www.merriam-webster.com/dictionary/central",
-    "https://dictionary.cambridge.org/dictionary/english/central",
-    "https://www.central.com/",
-    "https://www.central-insurance.com/",
-    "https://www.thefreedictionary.com/central",
-    "https://dictionary.cambridge.org/us/dictionary/english/central",
-    "https://www.vocabulary.com/dictionary/central",
-    "https://www.collinsdictionary.com/dictionary/english/central",
-    "https://centralreach.com/"
+    "https://www.linkedin.com/posts/nishant-kashyap-75866996_creation-after-destruction-financial-intermediation-activity-7516323497112055808-KsQ2",
+    "https://www.linkedin.com/posts/international-and-monetary-economics-network_highly-relevant-webinar-industrial-activity-7510816691526877184--OKe",
+    "https://www.linkedin.com/pulse/advanced-ai-investment-banking-transformative-risk-anand-ramachandran-31xee",
+    "https://be.linkedin.com/in/charles-de-beauffort-03410141",
+    "https://no.linkedin.com/in/elizaveta-sizova-38394b17a",
+    "https://in.linkedin.com/in/saieekatarkar",
+    "https://uk.linkedin.com/in/junning-li-853051223",
+    "https://no.linkedin.com/in/hengxiang-yu-630230104",
+    "https://in.linkedin.com/in/abhirajjamwal",
+    "https://www.linkedin.com/in/agrawalminal24"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-05T17:51:10.008965+00:00"
 }

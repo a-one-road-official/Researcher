@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・95品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・98品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -5317,25 +5317,25 @@
 
 ## 工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳）（Census of Manufacture processing fee revenue by detailed industry Japan METI xls）
 - 文脈：全体・統計・一次
-- 痛み・損（深さの印）：記載なし（読んだ50頁・検索18回）
-- 事業所数・社数：記載なし（読んだ50頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ50頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ50頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ50頁・検索18回）
-- 生産能力・設備：記載なし（読んだ50頁・検索18回）
-- 10年推移：記載なし（読んだ50頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ50頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 10年推移：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
 
 ## 工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016）（Census of Manufacture 2010-2017 industry tables excel METI）
 - 文脈：全体・統計・一次
-- 痛み・損（深さの印）：記載なし（読んだ34頁・検索18回）
-- 事業所数・社数：記載なし（読んだ34頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ34頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ34頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ34頁・検索18回）
-- 生産能力・設備：記載なし（読んだ34頁・検索18回）
-- 10年推移：記載なし（読んだ34頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ34頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ35頁・検索18回）
+- 事業所数・社数：記載なし（読んだ35頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ35頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ35頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ35頁・検索18回）
+- 生産能力・設備：記載なし（読んだ35頁・検索18回）
+- 10年推移：記載なし（読んだ35頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ35頁・検索18回）
 
 ## 工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上）（Japan Census of Manufactures 2016 establishments discontinuity economic census coverage）
 - 文脈：全体・切れ目
@@ -5393,6 +5393,55 @@
 - 生産能力・設備：記載なし（読んだ15頁・検索18回）
 - 10年推移：記載なし（読んだ15頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ15頁・検索18回）
+
+## 人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48）（share of SMEs that declined orders due to labor shortage Japan manufacturing survey）
+- 文脈：穴埋め・一次0件
+- 痛み・損（深さの印）：記載なし（読んだ22頁・検索18回）
+- 事業所数・社数：記載なし（読んだ22頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ22頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ22頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ22頁・検索18回）
+- 生産能力・設備：記載なし（読んだ22頁・検索18回）
+- 10年推移：記載なし（読んだ22頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ22頁・検索18回）
+
+## 日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48）（BOJ Tankan employment conditions DI manufacturing by size time series）
+- 文脈：比べる相手・一次
+- 痛み・損（深さの印）：
+  - 「pandemic, the Japanese economy has experienced severe labor shortage . The business」（https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf）
+  - 「despite the severe labor shortage after the COVID-19 pandemic in 2022, the HP filter」（https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf）
+- 10年推移：
+  - 「yen, real, chained, prices in 2015, seasonally adjusted) in the System of National Accounts.」（https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf）
+  - 「first and third answers for estimation. Our sample covers the period of 1980Q1 to 2025Q1.」（https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf）
+  - 「early 2020s. The survey-based output gap declined in each of these recession phases.」（https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf）
+  - 「despite the severe labor shortage after the COVID-19 pandemic in 2022, the HP filter」（https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf）
+  - 「1978Q1 to 2025Q1 for the manufacturing sector and the period of 1990Q4 to 2025Q1 for」（https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf）
+  - 「2016Q1. The share of the manufacturing sector was 32.8 percent on average during the」（https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf）
+  - 「period of 1994Q1 to 2016Q2. We aggregate the capital input gap in the manufacturing」（https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf）
+  - 「of 1974Q2 to 2025Q1.」（https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf）
+  - 「calculated to be 66.0 percent on average during the period of 1994 to 2023.」（https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf）
+  - 「2009Q2 during the GFC; the most recent value is 1.3% in 2025Q1.」（https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf）
+  - 「2020s. When the economy is hit by large shocks, it takes time for firms to make full」（https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf）
+  - 「of Health, Labour, and Welfare as the index on total hours worked (2020 = 100, seasonally」（https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf）
+  - 「the product with 2020 = 100. Our sample covers the period of 1990Q4 to 2025Q1.」（https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf）
+  - 「estimation. Our sample covers the period of 1990Q4 to 2025Q1.」（https://ies.keio.ac.jp/upload/DP2026-004_EN.pdf）
+- 事業所数・社数：記載なし（読んだ31頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ31頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ31頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ31頁・検索18回）
+- 生産能力・設備：記載なし（読んだ31頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ31頁・検索18回）
+
+## 人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合）（manufacturing equipment idle due to labor shortage survey Japan）
+- 文脈：穴埋め・出典1か所
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 10年推移：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

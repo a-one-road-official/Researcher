@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・96品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・98品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -328,8 +328,8 @@
   - 「Real‑World Example: Turning a Vague Posting into a Winning Application」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Insert concrete examples—e.g., “Led a cross‑functional team of 5 to deliver project X two weeks ahead of schedule.”」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Add at least one quantified soft‑skill example.」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
 
 ## 統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方（how to use Japanese government statistics time series）
 - 文脈：統計
@@ -2158,6 +2158,9 @@
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
 - 手順・やり方：
+  - 「一般社団法人が電子公告で決算公告を行う方法｜手順・費用・株式会社との違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「一般社団法人の決算公告を電子公告で行う方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「決算短信・有価証券報告書との関係、会社規模別の開示義務、公告方法と費用まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「官報の決算公告の見方を徹底解説｜貸借対照表要旨から財務状況を読み取る方法【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「官報の決算公告の見方を徹底解説｜貸借対照表要旨から財務状況を読み取る方法【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「本記事では、官報に掲載される決算公告の見方・読み方を項目ごとに丁寧に解説し、財務分析への実践的な活用方法まで詳しく説明します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -2170,9 +2173,6 @@
   - 「日経テレコンでは法定公告の本文検索ができない実態、縮刷版の使い方、帝国データバンクなど確実な代替手段まで紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「対象会社・公告内容・期限・方法・罰則（976条）と2026年会社法改正の動向まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「一般社団法人に決算公告は必要？義務の根拠・方法・罰則を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「公告方法によって開示されている情報の範囲が大きく異なる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「さらに取引先調査や競合分析に活かすための実践的な手順もご紹介しますので、最後まで読めば「決算公告の見方」を自信を持って人に説明できるようになるはずです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「まず決算公告の基本的な構造を確認し、次に公告方法別の開示範囲の違いを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 - 突き合わせ・推定：
   - 「前期と今期の純資産を比較することで、利益の増減を推定できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「ただし、前期と今期の純資産の差額から大まかな利益・損失の傾向を推定することは可能です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -3039,11 +3039,11 @@
 
 ## 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果（statistical literacy bias types survivorship selection measurement correlation causation）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ17頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
-- 実例：記載なし（読んだ17頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 生産性の分解（内部効果・構成効果・参入退出効果）（productivity decomposition within between entry exit effect）
 - 文脈：突き合わせ・推定
@@ -5163,46 +5163,73 @@
 ## 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）（official statistics revision analysis vintages real-time data revision triangle）
 - 文脈：統計の版
 - 手順・やり方：
-  - 「Still others come from methodological changes or benchmark updates.」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「In this euro area example, the efficient-release step selects」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「Topic 4 Revisions Analysis | Time Series Methods for Official Statistics」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Time Series Methods for Official Statistics」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「The introduction of new methods and concepts: e.g. improvements in the estimation methods, changes in classifications, introduction of new definitions;」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Eurostat (2014), “Memobust Handbook on Methodology of Modern Business Statistics”.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「No. The measured economy in that quarter did not travel backward in time. The statistical representation changed because later information, improved seasonal adjustment, corrected source records or revised methods changed what could be estimated about that past state.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「A data vintage preserves what a series looked like at a particular release date. Benchmark revisions make larger, planned changes to sources, methods, classifications or base structures. Together, these mechanisms let official statistics improve without pretending that every earlier estimate never existed.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「A major revision can incorporate new data sources, updated classifications, methodological changes, new estimation systems or changes in index weights.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「Eurostat notes that major revisions may follow infrequent sources such as censuses or input-output tables, updated base-year weights, new international standards or substantial methodology improvements.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「These changes can alter long stretches of a time series. That is often desirable. If the statistical framework changes, revising only the latest point would leave a break between old and new concepts.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「In national accounts, a benchmark revision is a major regular revision that incorporates substantial source and methodological improvements.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「explains that benchmark revisions can incorporate new basic data sources and estimation methods and are coordinated across statistical domains.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「An index series may be rebased so a newer reference year equals 100. This changes the displayed level of every observation while often preserving relative movements, subject to the index construction method.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「When definitions or classifications change, statistical agencies may reconstruct earlier periods under the new framework so users have a longer comparable series.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「This is often preferable to leaving an abrupt methodological break. But the backcast history is not identical to contemporaneous historical publication. It is a reconstructed series using later concepts and possibly later source information.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「At minimum, important statistical products should preserve reference period, release date, revision status, source and method notes, and—when needed—links to prior vintages.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
 - 突き合わせ・推定：
-  - 「Previously Published Estimates (Bureau of Economic Analysis」（https://svannorden.org/original-vintage-data-sources/）
-  - 「Gross domestic product (GDP), inflation, employment, and other official statistics arrive as early estimates, then get revised as new source data arrive, seasonal adjustment is updated, or benchmarking changes are applied.」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「Estimate Std. Error t value Pr(>|t|)」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「That matters if you need to make decisions on preliminary data but also want a structured way to estimate how those figures are likely to change later.」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「Both approaches cast the revision problem into state-space form, which makes it possible to estimate the dynamics of news and noise in successive data releases.」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「, then estimate the revision system on the corresponding panel of releases.」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「Parameter Estimate Std.Error」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「Given a particular indicator (that is, a time series) and two subsequent estimates of it, which both refer to the same period」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「is a a preliminary (or earlier) estimate and」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「a later (more recent) estimate of the indicator. This definition of revision is used when dealing with indicators measured in growth rates (period-on-period or year-on-year growth rates). Instead, when dealing with revisions to values in level, we define revisions in relative terms:」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「represents the point in time when the vintage that contained that particular estimate of the indicator was released, that is, when the indicator relative to time」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「was estimated. The real-time dataset is constructed as follows.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「, from the preliminary estimates to the latest (such information is useful to assess the reliability of the earlier estimates). Finally, when triangles are read along the main diagonal (or the first sub-diagonal, or the second sub-diagonal, …), they give the time series of the first (or second, or third, …) releases. To be more specific, assuming that」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「is the preliminary estimate of the indicator relative to time」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「It is easy to understand why it is called triangle, since the grey part of the table represents forecasts and not data that is actually available at the moment of its release. The first column collects the subsequent revisions that have been made to update the estimate of the indicator relative to time」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Correlation between revision and earlier estimate (test if revisions are “noise”).」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「is statistically significant, this implies that there was information available at the time of the first estimate which was not efficiently exploited and therefore the revisions can be interpreted as “noise”.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Correlation between revision and earlier estimate (test if revisions are “news”).」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「are the standard deviations of the latest and preliminary estimates, respectively, and」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「is the proportion of MSR which is not caused by systematic differences between earlier and later estimates.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+- 一次情報の探し方：
+  - 「https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
 - 失敗・落とし穴：
+  - 「The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Some revisions correct mistakes. Many do not.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「Examples include a coding mistake, duplicate source records, a corrupted transformation, incorrect seasonal factors or an error reported by a data provider.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「Bias in revisions can reveal a systematic early-estimate problem」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「A fictional worked example of revision bias」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「scale changes are mistaken for economic change.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
   - 「Those revisions matter because they can change the narrative around turning points, policy mistakes, and forecast performance.」（https://ropensci.org/blog/2026/04/13/reviser/）
   - 「summarize bias, dispersion, and serial dependence in revisions;」（https://ropensci.org/blog/2026/04/13/reviser/）
   - 「Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.」（https://ropensci.org/blog/2026/04/13/reviser/）
   - 「id release `Bias (mean)` `Bias (robust p-value)` `Noise/Signal`」（https://ropensci.org/blog/2026/04/13/reviser/）
   - 「• No significant bias detected (p = 0.52 )」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「• No significant bias detected (p = 0.425 )」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「• No significant bias detected (p = 0.507 )」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「• No significant bias detected (p = 0.851 )」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「• No significant bias detected (p = 0.326 )」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「• No significant bias detected (p = 0.181 )」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「• No significant bias detected (p = 0.202 )」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「The revision summary reports quantities that applied work often needs but usually rebuilds ad hoc: mean bias, quantiles, volatility, noise-to-signal ratios, and hypothesis tests for bias, serial correlation, and news-versus-noise interpretations.」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.」（https://ropensci.org/blog/2026/04/13/reviser/）
 - 実例：
+  - 「(for example, a given month or quarter) a revision can be defined as」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「. However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「As an example, the file below reports a revision triangle of the GDP series, and it has been published to demonstrate the reliability of the GDP estimates for the Euro area. The reported revision triangle is relative to the period 2017:Q4-2020:Q3. In particular, this example shows an application to the Quarter on Quarter percentage rates of changes of seasonally and calendar adjusted GDP.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「. The numerical examples below are illustrative, not claims about current economic data.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「Examples include a coding mistake, duplicate source records, a corrupted transformation, incorrect seasonal factors or an error reported by a data provider.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「A fictional worked example of revision bias」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「A second worked example: sign reversal」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「Eurostat revision-policy, vintage and national-accounts materials were checked for this edition on 5 September 2026. Numerical examples are original and hypothetical.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
+  - 「Choose a familiar Primary Science example. Explain the evidence, the idea and the result without notes. Then change one condition and explain your prediction.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
   - 「A compact example with GDP vintages」（https://ropensci.org/blog/2026/04/13/reviser/）
   - 「The package ships with a GDP example dataset in long vintage format.」（https://ropensci.org/blog/2026/04/13/reviser/）
   - 「In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.」（https://ropensci.org/blog/2026/04/13/reviser/）
   - 「For many users, revision summaries will be the main use case.」（https://ropensci.org/blog/2026/04/13/reviser/）
   - 「example following the Kishor-Koenig workflow from the」（https://ropensci.org/blog/2026/04/13/reviser/）
   - 「In this euro area example, the efficient-release step selects」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「Diagnostic plot from the Kishor-Koenig nowcast example.」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「If you find gaps in the workflow or have a use case to share, open an issue or contribute an example.」（https://ropensci.org/blog/2026/04/13/reviser/）
-  - 「A digest of R package and software review news, use cases, blog posts, and events, curated monthly. Subscribe to get it in your inbox, or check the」（https://ropensci.org/blog/2026/04/13/reviser/）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点）（source triangulation matrix independence scoring）
 - 文脈：裏取り
@@ -5869,3 +5896,95 @@
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 - 実例：記載なし（読んだ30頁・検索12回）
+
+## 構造化分析手法（シナリオの4本・仮定の書き出し・グループでの分析）の実務（structured analytic techniques scenarios key assumptions check practitioner）
+- 文脈：突き合わせ・推定
+- 手順・やり方：
+  - 「How To Use These Techniques .................................................................................. 5」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「HOW TO USE THESE TECHNIQUES」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「step process will help analysts:」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「other structured methods explained later」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「possible next steps for further research」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Like other contrarian methods, “What If?”」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「stepping back to consider what alternative」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「to step outside their normal analytic」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「A two-phase, twelve-step, structured」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「managers—are reluctant to change. Rather than trying to ft ideas into the framework of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「next steps for analysis.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「and contextual framework. By recasting the」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「• It provides a broader analytic framework」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「a more advanced analytic methods course and usually require substantial commitments of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「political causes of some predictable surprises and outlines steps to overcome them.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+- 突き合わせ・推定：
+  - 「Availability. Probability estimates are」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Anchoring. Probability estimates are」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「certainty into a probability estimate, people」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「goal-maximizing policy is overestimated.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「His assumptions have to be mostly true for his decision not to be a life-ending one. They seem the main source of potential failure should he keep the money. But we’ve already uncovered several sources of uncertainty. Moss may overestimate himself. And we’re only halfway through our analysis.」（https://themindcollection.com/structured-analytic-techniques/）
+- 一次情報の探し方：
+  - 「support to field partners, namely on profiling, and strategic advice on data; consolidates its」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「analysed and related to the joint analysis steps in the profiling process.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「coordinating and facilitating collaborative data processes, notably profiling coordinators,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「be structured and planned as part of a displacement profiling process. The utility of certain」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「techniques, however, may extend beyond joint analysis to other aspects of profiling, joint needs」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「a profiling exercise or a joint needs assessment.31」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「analysis processes in profiling or joint needs assessments. A description of each technique is」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「for contextualising and operationalising JSATs in the joint analysis phase of the profiling process.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「cognitive_biases_march_2016.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「acaps.org/sites/acaps/files/resources/files/acaps_analysis_spectrum_poster.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「apr09.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「cb27cc09c84d056b66616b4da5c02a4d/OSS2000-01-23.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「3rd%20Edition.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+- 失敗・落とし穴：
+  - 「treatment of cognitive bias found in the Sherman」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Cognitive and perceptual biases in」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Common Perceptual and Cognitive Biases」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Biases in Evaluating Evidence」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Biases in Estimating Probabilities」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Biases in Perceiving Causality」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「bias, “analysis can be improved.”3」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「common mistakes that can lead to」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「free of his or her cognitive biases without」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「to good analysis and provides techniques for overcoming mind-sets and cognitive biases.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「increased objectivity and reduced bias.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「to help mitigate the adverse impact on analysis of one's cognitive limitations and pitfalls. 7」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「JSAT can thus help to avoid cognitive limitations, pitfalls, and groupthink as the structure guides」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「limitations, analytic pitfalls and mindset problems.16 As of 2011, the intelligence community had at」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+- 実例：
+  - 「example, the extent to which other people」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「or example, military analysis may focus」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「these forces actually fght?). In this case,」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「might fuctuate. All of these examples」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Key Assumptions Check: The 2002 DC Sniper Case」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「a good example of how this technique could have been applied. After the initial furry of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「accurately. In the case of HUMINT , this will」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「builds a more concrete case for the analytic」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「when it is important to make a case that a」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「hypotheses—in some cases, analysts」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「hypotheses. In the latter case, the evidence can」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「case, explore what could account for」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「best possible case for an alternative」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「In some cases, the analyst or a team」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「merits of each case, pose questions back」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+
+## DI・%ポイントと割合の取り違え（統計の読み違いの実例と防ぎ方）（diffusion index percentage points misread statistics journalism）
+- 文脈：失敗
+- 手順・やり方：
+  - 「最初から一つの「前回比」にまとめないのがコツです」（https://note.com/fx_shunya/n/n2c0eeaa5d416）
+- 突き合わせ・推定：
+  - 「DIから三つの割合を逆算することはできないので、都合のよい構成を補わないでください」（https://note.com/fx_shunya/n/n2c0eeaa5d416）
+  - 「たとえば自分の仮説を「現状の改善が幅広く、利益にも表れれば、景気への慎重な見方を弱める材料になり得る」と書きます」（https://note.com/fx_shunya/n/n2c0eeaa5d416）
+  - 「仮説が外れた場合も、統計の転記ミスだったのか、別の材料を見落としたのかを分ければ、次の学習課題が具体的になります」（https://note.com/fx_shunya/n/n2c0eeaa5d416）
+- 一次情報の探し方：
+  - 「今回は、DIが何を数えているのかを計算し、統計表から言えることと言えないことを分けてみましょう」（https://note.com/fx_shunya/n/n2c0eeaa5d416）
+  - 「ここから先は統計の定義ではなく、ほかの材料も使って組み立てる解釈です」（https://note.com/fx_shunya/n/n2c0eeaa5d416）
+  - 「統計の理解と、その日の相場実況は別の作業として扱う方が正確です」（https://note.com/fx_shunya/n/n2c0eeaa5d416）
+  - 「仮説が外れた場合も、統計の転記ミスだったのか、別の材料を見落としたのかを分ければ、次の学習課題が具体的になります」（https://note.com/fx_shunya/n/n2c0eeaa5d416）
+- 失敗・落とし穴：
+  - 「記録を見返すときは、予測が当たったかだけでなく、読み取りの間違いがなかったかを先に点検します」（https://note.com/fx_shunya/n/n2c0eeaa5d416）
+- 実例：
+  - 「先行きは企業の見通しなので、その後に確定する結果そのものではありません」（https://note.com/fx_shunya/n/n2c0eeaa5d416）
