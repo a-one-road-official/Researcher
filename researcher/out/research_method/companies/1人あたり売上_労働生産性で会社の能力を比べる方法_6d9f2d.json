@@ -8,8 +8,332 @@
  ],
  "context": "能力",
  "kind": "market",
- "researched_at": "2026-11-06T05:26:05.739469+00:00",
+ "researched_at": "2026-11-06T09:07:40.064460+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "Common Mistakes",
+    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "間違いだらけのリスク対応やいつまでもなくならない悪徳企業に対する対策について一言申し上げたく思います",
+    "url": "https://note.com/high_city/n/n0bdd75891593",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【オンデマンド配信】育成・コミュニケーションの 「意図せぬすれ違い」を生むバイアス ～企業事例をご紹介～",
+    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【百名山から学ぶベンチャー経営論】第六部「失敗から学び、成長を続ける」",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本連載では、その挑戦の中で経験した成功や失敗、そこからの学びを、ベンチャー経営や組織運営になぞらえながら考察しています",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この一年間、毎回の登山を振り返り、失敗から学び、鍛錬を繰り返しながら、挑戦できる山のレベルを徐々に上げてきました",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第六部では、失敗を認識し、そこから学び、次の挑戦につなげていくことが成長の源になる、ということについて考えてみます",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "16.一座登る度に振り返りを行う～失敗しないことよりも、失敗から学ぶことが重要～",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして、同じことを繰り返さないためには、どこに注意すべきかを考える",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "百名山への挑戦を始める前は山の素人だった私ですが、こうした振り返りによって数々の失敗を認識し、そこから多くのことを学んできました",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・岩場の下山では足首捻りを起こしやすいので、特に注意する・皮の剥がれた木の根は、濡れると滑りやすい・長距離歩行では、空腹を感じる前にこまめにカロリーを補給する・けいれん予防には水分と塩分のこまめな補給が有効だった・捻挫、膝痛、マメの予防のため、各箇所にテーピングを活用する・登山前日の睡眠の質は、疲労度合いに大きく影響する",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "だからこそ、実際の失敗から学ぶ姿勢が、ベンチャー企業には欠かせません",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗しないように無難な道を選ぶのではなく、失敗を恐れず挑戦し、振り返りによって経験値を高めていく",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "登山でもビジネスでも、重要なのは失敗しないことではなく、失敗から何を学び、それを次にどう活かすかです",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "経験を振り返り、失敗の原因を言語化し、次の行動を変えて初めて、その経験は「学び」に変わるのです",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、自分が取り組む事業領域に関する成功・失敗の事例研究をしたり、類似企業や競合企業について、公開情報をもとに深く分析したりといった勉強も怠ってはいけません",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日頃から幅広い知識を蓄え、他社の成功や失敗を疑似体験し、自分ならどう判断するかを考えておく",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "もちろん、場数を踏めば失敗しなくなるわけではありません",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では計算式、業種別目安、労働分配率との関係、見るときの注意点を解説します",
+    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1人当たり営業利益を見るときの注意点",
+    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "混在させると数値の意味が変わるため要注意です",
+    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "経営効率を飛躍的に向上させる一人当たり売上高を向上させるには、ヒト×テクノロジー×経営戦略の掛け算の上に成り立つということになると思います",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その為に必要なものが、ヒト×テクノロジー×経営戦略の掛け算であると、ディ・ポップスグループは考えます",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1つ目は、「AIを使いこなす力」と「顧客を知る力」の掛け算で、FDEを育てること",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "M&Aや事業ポートフォリオ見直しの効果検証、業界内のベンチマーク、就職活動の企業研究まで幅広く活用されます",
+    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "peppereffect measurement, September 2026. Medians, not averages. Quartile spread on the full set: current visits per employee 38 at the 25th percentile, 135 median, 577 at the 75th. Our figures are estimated monthly organic visits, which is close to but not identical with a GA4 session count.",
+    "url": "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "備忘録#011｜中小企業庁統計による経営指標",
+    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業の決算書に「付加価値」という項目はありません",
+    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "営業利益 ＋ 人件費 ＋ 賃借料 ＋ 租税公課 ＋ 減価償却費 ＋ 知財特許料",
+    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "〇政府統計からオープンデータまで活用した経営判断指標の可視化",
+    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上場企業の決算資料でみる一人当たりの売上・粗利の目安｜ストアレコード事務局",
+    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上場企業の決算資料でみる一人当たりの売上・粗利の目安",
+    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従業員数は有価証券報告書で報告されている従業員数を用いているため、パート・アルバイトを含まない数字となっています",
+    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特に採用の意思決定の際に一人当たり売上高を意識していると人員計画の意思決定がスムーズになるとともに、3か年などの中期の経営計画も立てやすくなります",
+    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どうしても労働生産性の指標がない中だと、目先の売上を無視してどんどん採用して固定費が重くなりがちだったり、逆に人員を増やさないと現場が疲弊してしまうのに、固定費が気になり採用ができないなど極端な選択になってしまいがちです",
+    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CTC金融事業グループが取り組む「事業部主導」採用～タレントアクイジション戦略と実践プロセス～",
+    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「法定雇用率を満たすため」の採用に奔走する企業も少なくない中、特例子会社や現場の最前線で問われているのは、障がい者雇用を個別の施策として捉えるのではなく、多様な人材が […]",
+    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用・組織・労務・HR Techなど、人事担当者や経営者の皆さまの課題に寄り添った幅広いコンテンツを公開しています",
+    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "決算で初めて問題に気づくのではなく、毎月の数字の動きから兆しをつかめれば、",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "賃上げや採用強化を進める場合でも、数字でバランスを確認すれば、無理のない範囲での投資判断が可能になります",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、採用強化で人件費が増えた、残業が増えて労務費が膨らんでいる、間接部門が増えている、などの原因が考えられます",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "必要に応じて、外注の活用や採用強化も選択肢になるでしょう",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「１人当たり人件費」が上がっている場合は、採用・賃上げ・残業などの要因を整理し、限界利益との釣り合いを確認することが重要です",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中小企業の人材採用戦略 〜求める人材の確保と定着率を高める仕組みづくり〜",
+    "url": "https://www.mytaxpro.jp/tax-content/258",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回モデルケースとして採用したB社は前回の「在庫回転率」で取り上げたB社と同じ会社（数字を最新のものに更新しました）、C社はB社のライバル会社として知られる会社です",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「ベンチャーエコシステムとは？」では、エコシステムを支える要素として、コラボレーション（顧客開拓・協業・人材交流・新規事業創出）と、学び合いと助け合い（勉強会・レンタル移籍・共同採用）を挙げています",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "勉強会は開発責任者層の知見共有から、ようやく現場メンバーが登壇する共有会へと広がるところですし、レンタル移籍や共同採用は、3社横断の人材活用の取り組みとして、これから手をつけます",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回取り上げている「人」が原価となるビジネスで利益を上げたければ、販売系の派遣ビジネスでも、エンジニア系のSESや受託開発・準委任のビジネスでも、営業マンを増やして新規の仕事を取って売上を上げたり、採用を増やして原価となる人を増やし売上を上げたり、高単価の仕事を選んで販売価格を上げたりすることよりもまず、働く社員の工数管理（稼働管理）を行い、最適な人員数で最適な人工を実現する上手な原価管理、すなわち「利は元にあり」を実践することが、利益を出すことに直結すると思います",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回の「工数管理」の話を通してディ・ポップスグループとしてお伝えしたいことは、ビジネスは例えるなら打撃、組み技、寝技を駆使して戦う総合格闘技の様のもので、売上を追いかける営業や人増やす採用や開発する技術といったことがバラバラで成り立っているわけではなく、「工数管理」のように非常に地味なことがしっかりできていることが前提でその上に営業や採用や技術といったことを駆使することで成り立っていると言うことです",
+    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "営業利益は損益計算書、従業員数は有価証券報告書の「従業員の状況」",
+    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "営業利益は損益計算書、従業員数は有価証券報告書「従業員の状況」で確認できます",
+    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "両方を割れば自分で計算可能で、決算説明会資料に直接記載する企業もあります",
+    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "売上単価の低下、原材料費・人件費の上昇、新規採用による分母拡大などが代表的です",
+    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "平均付加価値率は、業種によって大きく異なり、付加価値率は必ずしも企業の収益性と比例しませんが、付加価値率を高めることは収益性を向上させる方法の一つになります",
@@ -456,298 +780,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Common Mistakes",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "間違いだらけのリスク対応やいつまでもなくならない悪徳企業に対する対策について一言申し上げたく思います",
-    "url": "https://note.com/high_city/n/n0bdd75891593",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【オンデマンド配信】育成・コミュニケーションの 「意図せぬすれ違い」を生むバイアス ～企業事例をご紹介～",
-    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【百名山から学ぶベンチャー経営論】第六部「失敗から学び、成長を続ける」",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本連載では、その挑戦の中で経験した成功や失敗、そこからの学びを、ベンチャー経営や組織運営になぞらえながら考察しています",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この一年間、毎回の登山を振り返り、失敗から学び、鍛錬を繰り返しながら、挑戦できる山のレベルを徐々に上げてきました",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第六部では、失敗を認識し、そこから学び、次の挑戦につなげていくことが成長の源になる、ということについて考えてみます",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "16.一座登る度に振り返りを行う～失敗しないことよりも、失敗から学ぶことが重要～",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そして、同じことを繰り返さないためには、どこに注意すべきかを考える",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "百名山への挑戦を始める前は山の素人だった私ですが、こうした振り返りによって数々の失敗を認識し、そこから多くのことを学んできました",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・岩場の下山では足首捻りを起こしやすいので、特に注意する・皮の剥がれた木の根は、濡れると滑りやすい・長距離歩行では、空腹を感じる前にこまめにカロリーを補給する・けいれん予防には水分と塩分のこまめな補給が有効だった・捻挫、膝痛、マメの予防のため、各箇所にテーピングを活用する・登山前日の睡眠の質は、疲労度合いに大きく影響する",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "だからこそ、実際の失敗から学ぶ姿勢が、ベンチャー企業には欠かせません",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗しないように無難な道を選ぶのではなく、失敗を恐れず挑戦し、振り返りによって経験値を高めていく",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "登山でもビジネスでも、重要なのは失敗しないことではなく、失敗から何を学び、それを次にどう活かすかです",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "経験を振り返り、失敗の原因を言語化し、次の行動を変えて初めて、その経験は「学び」に変わるのです",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、自分が取り組む事業領域に関する成功・失敗の事例研究をしたり、類似企業や競合企業について、公開情報をもとに深く分析したりといった勉強も怠ってはいけません",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日頃から幅広い知識を蓄え、他社の成功や失敗を疑似体験し、自分ならどう判断するかを考えておく",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "もちろん、場数を踏めば失敗しなくなるわけではありません",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では計算式、業種別目安、労働分配率との関係、見るときの注意点を解説します",
-    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1人当たり営業利益を見るときの注意点",
-    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "混在させると数値の意味が変わるため要注意です",
-    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "備忘録#011｜中小企業庁統計による経営指標",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業の決算書に「付加価値」という項目はありません",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "営業利益 ＋ 人件費 ＋ 賃借料 ＋ 租税公課 ＋ 減価償却費 ＋ 知財特許料",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "〇政府統計からオープンデータまで活用した経営判断指標の可視化",
-    "url": "https://note.com/yajirushi_works/n/nacbfd931b027",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上場企業の決算資料でみる一人当たりの売上・粗利の目安｜ストアレコード事務局",
-    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上場企業の決算資料でみる一人当たりの売上・粗利の目安",
-    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員数は有価証券報告書で報告されている従業員数を用いているため、パート・アルバイトを含まない数字となっています",
-    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に採用の意思決定の際に一人当たり売上高を意識していると人員計画の意思決定がスムーズになるとともに、3か年などの中期の経営計画も立てやすくなります",
-    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "どうしても労働生産性の指標がない中だと、目先の売上を無視してどんどん採用して固定費が重くなりがちだったり、逆に人員を増やさないと現場が疲弊してしまうのに、固定費が気になり採用ができないなど極端な選択になってしまいがちです",
-    "url": "https://note.com/bizgem_1220/n/n09441131d3fe",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CTC金融事業グループが取り組む「事業部主導」採用～タレントアクイジション戦略と実践プロセス～",
-    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「法定雇用率を満たすため」の採用に奔走する企業も少なくない中、特例子会社や現場の最前線で問われているのは、障がい者雇用を個別の施策として捉えるのではなく、多様な人材が […]",
-    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用・組織・労務・HR Techなど、人事担当者や経営者の皆さまの課題に寄り添った幅広いコンテンツを公開しています",
-    "url": "https://hrnote.jp/contents/soshiki-rodoseisansei-20200618/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "決算で初めて問題に気づくのではなく、毎月の数字の動きから兆しをつかめれば、",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "賃上げや採用強化を進める場合でも、数字でバランスを確認すれば、無理のない範囲での投資判断が可能になります",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、採用強化で人件費が増えた、残業が増えて労務費が膨らんでいる、間接部門が増えている、などの原因が考えられます",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "必要に応じて、外注の活用や採用強化も選択肢になるでしょう",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「１人当たり人件費」が上がっている場合は、採用・賃上げ・残業などの要因を整理し、限界利益との釣り合いを確認することが重要です",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "中小企業の人材採用戦略 〜求める人材の確保と定着率を高める仕組みづくり〜",
-    "url": "https://www.mytaxpro.jp/tax-content/258",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回モデルケースとして採用したB社は前回の「在庫回転率」で取り上げたB社と同じ会社（数字を最新のものに更新しました）、C社はB社のライバル会社として知られる会社です",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「ベンチャーエコシステムとは？」では、エコシステムを支える要素として、コラボレーション（顧客開拓・協業・人材交流・新規事業創出）と、学び合いと助け合い（勉強会・レンタル移籍・共同採用）を挙げています",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "勉強会は開発責任者層の知見共有から、ようやく現場メンバーが登壇する共有会へと広がるところですし、レンタル移籍や共同採用は、3社横断の人材活用の取り組みとして、これから手をつけます",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回取り上げている「人」が原価となるビジネスで利益を上げたければ、販売系の派遣ビジネスでも、エンジニア系のSESや受託開発・準委任のビジネスでも、営業マンを増やして新規の仕事を取って売上を上げたり、採用を増やして原価となる人を増やし売上を上げたり、高単価の仕事を選んで販売価格を上げたりすることよりもまず、働く社員の工数管理（稼働管理）を行い、最適な人員数で最適な人工を実現する上手な原価管理、すなわち「利は元にあり」を実践することが、利益を出すことに直結すると思います",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回の「工数管理」の話を通してディ・ポップスグループとしてお伝えしたいことは、ビジネスは例えるなら打撃、組み技、寝技を駆使して戦う総合格闘技の様のもので、売上を追いかける営業や人増やす採用や開発する技術といったことがバラバラで成り立っているわけではなく、「工数管理」のように非常に地味なことがしっかりできていることが前提でその上に営業や採用や技術といったことを駆使することで成り立っていると言うことです",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "営業利益は損益計算書、従業員数は有価証券報告書の「従業員の状況」",
-    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "営業利益は損益計算書、従業員数は有価証券報告書「従業員の状況」で確認できます",
-    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "両方を割れば自分で計算可能で、決算説明会資料に直接記載する企業もあります",
-    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "売上単価の低下、原材料費・人件費の上昇、新規採用による分母拡大などが代表的です",
-    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "実例": [
    {
     "quote": "例えば、最新鋭設備の導入により省力化を図った場合、従業員数が減った分だけ労働生産性が上がります",
@@ -1109,38 +1141,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "経営効率を飛躍的に向上させる一人当たり売上高を向上させるには、ヒト×テクノロジー×経営戦略の掛け算の上に成り立つということになると思います",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その為に必要なものが、ヒト×テクノロジー×経営戦略の掛け算であると、ディ・ポップスグループは考えます",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1つ目は、「AIを使いこなす力」と「顧客を知る力」の掛け算で、FDEを育てること",
-    "url": "https://d-pops-group.co.jp/column/revenue-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "M&Aや事業ポートフォリオ見直しの効果検証、業界内のベンチマーク、就職活動の企業研究まで幅広く活用されます",
-    "url": "https://kigyo-scope.jp/glossary/profit-per-employee/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "peppereffect measurement, September 2026. Medians, not averages. Quartile spread on the full set: current visits per employee 38 at the 25th percentile, 135 median, 577 at the 75th. Our figures are estimated monthly organic visits, which is close to but not identical with a GA4 session count.",
-    "url": "https://peppereffect.com/blog/revenue-per-employee-benchmarks",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -1212,12 +1212,12 @@
     "method": "http"
    },
    {
-    "url": "https://slack.com/intl/ja-jp/blog/collaboration/how-to-measure-indicator-of-productivity",
+    "url": "https://canon.jp/biz/trend/bpo-27",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://canon.jp/biz/trend/bpo-27",
+    "url": "https://slack.com/intl/ja-jp/blog/collaboration/how-to-measure-indicator-of-productivity",
     "status": "ok",
     "method": "http"
    },
@@ -1242,12 +1242,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.r-agent.com/business/knowhow/article/9555/",
+    "url": "https://takakuka.jp/column/organization/okok.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://takakuka.jp/column/organization/okok.html",
+    "url": "https://www.r-agent.com/business/knowhow/article/9555/",
     "status": "ok",
     "method": "http"
    },
@@ -1257,12 +1257,12 @@
     "method": "browser"
    },
    {
-    "url": "https://salesnow.jp/insights/score/revenue-per-employee/",
+    "url": "https://retailguide.tokubai.co.jp/knowledge/37159/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://hitorieki.jp/tools/hito-productivity/",
+    "url": "https://salesnow.jp/insights/score/revenue-per-employee/",
     "status": "ok",
     "method": "http"
    },
@@ -1326,17 +1326,17 @@
     "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
     "https://biz.moneyforward.com/erp/basic/2625/",
     "https://www.motivation-cloud.com/hr2048/c489",
-    "https://notepm.jp/blog/24039"
+    "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/"
    ]
   },
   {
    "query": "1人あたり売上・労働生産性で会社の能力を比べる方法 やり方",
    "results": [
-    "https://www.hitachi-solutions.co.jp/wsi/column/c022.html",
     "https://www.layers.co.jp/solution/action/",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c022.html",
     "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
-    "https://slack.com/intl/ja-jp/blog/collaboration/how-to-measure-indicator-of-productivity",
     "https://canon.jp/biz/trend/bpo-27",
+    "https://slack.com/intl/ja-jp/blog/collaboration/how-to-measure-indicator-of-productivity",
     "https://www.jpc-net.jp/research/list/comparison.html",
     "https://tayori.com/blog/labor-productivity/",
     "https://www.ojt-s.jp/kaizenlibrary/seisansei/labor-productivity/",
@@ -1351,10 +1351,10 @@
     "https://www.layers.co.jp/solution/action/",
     "https://www.motivation-cloud.com/hr2048/c489",
     "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
-    "https://www.r-agent.com/business/knowhow/article/9555/",
-    "https://takakuka.jp/column/organization/okok.html",
-    "https://slack.com/intl/ja-jp/blog/collaboration/how-to-measure-indicator-of-productivity",
     "https://canon.jp/biz/trend/bpo-27",
+    "https://takakuka.jp/column/organization/okok.html",
+    "https://www.r-agent.com/business/knowhow/article/9555/",
+    "https://slack.com/intl/ja-jp/blog/collaboration/how-to-measure-indicator-of-productivity",
     "https://www.jpc-net.jp/research/list/comparison.html",
     "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/"
    ]
@@ -1370,7 +1370,8 @@
     "https://www.metrichq.org/finance/revenue-per-employee/",
     "https://www.benchmarkit.ai/saas-talk-1/revenue-per-employee",
     "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "https://umbrex.com/resources/company-analysis/human-resources/revenue-per-employee/"
+    "https://umbrex.com/resources/company-analysis/human-resources/revenue-per-employee/",
+    "https://www.companysights.com/resources/revenue-per-employee-a-key-benchmarking-metric-for-businesses"
    ]
   },
   {
@@ -1408,8 +1409,8 @@
    "results": [
     "https://jp.linkedin.com/pulse/march-18-2026-culture-credibility-architecture-jessica-gioglio-3z3vc?tl=ja",
     "https://jp.linkedin.com/in/%E4%BA%AE%E4%BB%8B-%E9%95%B7%E4%B9%85-225205235",
-    "https://www.linkedin.com/showcase/realpacking-japan/",
     "https://jp.linkedin.com/in/hidetoshitakano",
+    "https://www.linkedin.com/showcase/realpacking-japan/",
     "https://jp.linkedin.com/in/isc-ceo",
     "https://jp.linkedin.com/in/dmaeda-2147ba11a",
     "https://za.linkedin.com/in/coach-koichi/ja",
@@ -1423,7 +1424,7 @@
    "results": [
     "https://www.facebook.com/kiichiro.minami/posts/%E7%94%9F%E7%94%A3%E6%80%A7%E3%81%AE%E8%A9%B1%E3%82%92%E3%81%99%E3%82%8B%E3%81%AA%E3%82%89%E5%AE%9F%E9%9A%9B%E3%81%AE%E5%95%86%E5%A3%B2%E3%82%92%E8%80%83%E3%81%88%E3%81%A6%E3%81%BF%E3%82%8C%E3%81%B0%E3%81%84%E3%81%84%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC%E3%81%A7300%E5%86%86%E3%81%A7%E5%A3%B2%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%83%81%E3%82%A7%E3%82%B3%E8%A3%BD%E3%81%AE%E3%83%9C%E3%83%98%E3%83%9F%E3%82%A2%E3%83%B3%E3%83%AF%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9%E3%82%923000%E5%86%86%E3%81%A7%E5%A3%B2%E3%82%8B500%E5%86%86%E3%81%AE%E3%83%AF%E3%82%A4%E3%83%B3%E3%82%92%E5%A3%B2%E3%82%8B%E3%82%88%E3%82%8A50/39348168478160668/",
     "https://www.facebook.com/bioforestation/",
-    "https://www.facebook.com/100064515737150/?locale=mk_MK",
+    "https://www.facebook.com/100064515737150/?locale=th_TH",
     "https://www.facebook.com/VUC2021/",
     "https://www.facebook.com/yosuke.naganawa/",
     "https://www.facebook.com/61554216255590/posts/%E9%9B%BB%E6%B0%97%E4%BB%A3%E3%81%8C%E6%97%A5%E6%9C%AC%E4%B8%80%E9%AB%98%E3%81%84%E3%81%AE%E3%81%AF%E6%9D%B1%E4%BA%AC%E3%81%A7%E3%82%82%E5%A4%A7%E9%98%AA%E3%81%A7%E3%82%82%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E5%85%A8%E5%9B%BD47%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E3%81%AE%E5%B9%B4%E9%96%93%E9%9B%BB%E6%B0%97%E4%BB%A3%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B01%E4%BD%8D%E3%81%AF%E7%A6%8F%E4%BA%95%E7%9C%8C%E3%81%AE215694%E5%86%86%E6%9C%80%E4%B8%8B%E4%BD%8D%E3%81%AF%E5%85%B5%E5%BA%AB%E7%9C%8C%E3%81%AE115320%E5%86%86%E3%81%9D%E3%81%AE%E5%B7%AE%E5%B9%B4%E9%96%93%E3%81%AA%E3%82%93%E3%81%A8%E7%B4%84/122276952386140541/",
@@ -1455,32 +1456,32 @@
     "https://www.oro.com/zac/blog/gross-profit-per-man-hour/",
     "https://www.layers.co.jp/solution/action/",
     "https://www.ojt-s.jp/kaizenlibrary/seisansei/labor-productivity/",
-    "https://canon.jp/biz/trend/bpo-27",
-    "https://saireco.jp/hr-system-nav/1096/",
     "https://www.jmam.co.jp/hrm/column/0129-labor_productivity.html",
-    "https://takakuka.jp/column/organization/okok.html",
+    "https://saireco.jp/hr-system-nav/1096/",
     "https://tayori.com/blog/labor-productivity/",
+    "https://takakuka.jp/column/organization/okok.html",
+    "https://www.attax.co.jp/e-kaisha/kaikei/%E4%BA%BA%E6%9D%90%E3%81%AE%E7%94%9F%E7%94%A3%E6%80%A7%EF%BD%9E%EF%BC%91%E4%BA%BA%E5%BD%93%E3%82%8A%E4%BB%98%E5%8A%A0%E4%BE%A1%E5%80%A4%E3%83%BB%E5%8A%B4%E5%83%8D%E5%88%86%E9%85%8D%E7%8E%87/",
     "https://companyinformation.jp/articles/listed-company-revenue-per-employee-ranking/"
    ]
   },
   {
    "query": "revenue per employee benchmark analysis site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/top-content/retail-merchandising/retail-performance-metrics/revenue-per-employee-statistics/",
     "https://www.linkedin.com/pulse/what-revenue-per-employee-how-can-i-use-grow-my-hancott-cgma-gysve",
+    "https://www.linkedin.com/top-content/retail-merchandising/retail-performance-metrics/revenue-per-employee-statistics/",
     "https://www.linkedin.com/pulse/how-healthy-your-pr-firm-understanding-revenue-per-chuck-tanowitz",
-    "https://www.linkedin.com/pulse/revenue-per-employee-lets-talk-numbers-strategy-bobby-kimani-wpnuf",
     "https://www.linkedin.com/posts/ivanlandabaso_anthropic-generates-56m-revenue-per-employee-activity-7430865110384021504-b42v",
-    "https://www.linkedin.com/posts/uphoff-advisory-llc_%F0%9D%97%A5%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%82%F0%9D%97%B2-%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%97%B2%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%BC%F0%9D%98%86%F0%9D%97%B2%F0%9D%97%B2-%F0%9D%98%82-activity-7517983947734245376-PxQl",
     "https://www.linkedin.com/pulse/global-cost-per-employee-benchmarks-delivery-models-ali-katkhada-fbmrf",
     "https://www.linkedin.com/pulse/arr-per-employee-false-metric-ai-boom-nitish-shrivastava-dbonc",
-    "https://www.linkedin.com/pulse/four-real-world-employeerevenue-ratios-can-drive-your-glenn-perkins",
-    "https://www.linkedin.com/posts/emergence-capital-partners_ai-companies-arent-more-efficient-than-non-ai-activity-7483234142415953920-Y-dn"
+    "https://www.linkedin.com/posts/indmoney_automobile-business-productivity-activity-7474364957133017088-5g31",
+    "https://www.linkedin.com/pulse/revenue-per-vendor-services-firms-needs-change-up-down-phil-hassey-0mwhc",
+    "https://www.linkedin.com/posts/emergence-capital-partners_ai-companies-arent-more-efficient-than-non-ai-activity-7483234142415953920-Y-dn",
+    "https://www.linkedin.com/posts/alvinfsc_ai-companies-are-rewriting-the-economics-activity-7506894988014862336-aGAM"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 12,
+ "runs": 13,
  "first_researched_at": "2026-11-05T00:00:25.623714+00:00"
 }

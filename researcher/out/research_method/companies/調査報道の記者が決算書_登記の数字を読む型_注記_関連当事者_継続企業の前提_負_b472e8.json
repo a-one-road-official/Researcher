@@ -8,8 +8,16 @@
  ],
  "context": "失敗・落とし穴",
  "kind": "market",
- "researched_at": "2026-11-06T05:13:39.989691+00:00",
+ "researched_at": "2026-11-06T09:07:22.914581+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "Centrica accounts (PDF)",
+    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "Here, for example, is the Chairman of a football club criticising “so called fans” [sic] — as well as the local newspaper",
@@ -67,14 +75,6 @@
    },
    {
     "quote": ", for example, includes a whole ‘",
-    "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "Centrica accounts (PDF)",
     "url": "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -145,7 +145,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kaburobo/n/n3234f1af464a",
+    "url": "https://note.com/van_finance9999/n/ned7ee1a74ac1",
     "status": "ok",
     "method": "http"
    },
@@ -155,12 +155,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/van_finance9999/n/ned7ee1a74ac1",
+    "url": "https://note.com/ledge_globe/n/ne5fc5b799c01",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ledge_globe/n/ne5fc5b799c01",
+    "url": "https://note.com/kyo_lowkeylife75/n/n80d6c7978c2a",
     "status": "ok",
     "method": "http"
    },
@@ -225,11 +225,6 @@
     "method": "http"
    },
    {
-    "url": "https://www.bus.nihon-u.ac.jp/wp-content/themes/nichidai/assets/img/unique/laboratory/kiyo/87-1_HamamotoAkira.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "status": "ok",
     "method": "http"
@@ -245,17 +240,17 @@
     "method": "http"
    },
    {
+    "url": "https://www.k-larc.jp/terminology/%E5%AF%A9%E6%9F%BB%E9%96%A2%E9%80%A3-%E9%96%8B%E7%A4%BA-j-sox/gc%E6%B3%A8%E8%A8%98/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://zeimu.online/dai51-financial-notes/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.ir-tracker.com/ja/columns/basic-metrics/financial-statement-notes",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://sao.wa.gov/bars-annual-filing/bars-cash-manual/reporting/notes-financial-statements/note-x-going-concern",
     "status": "ok",
     "method": "http"
    },
@@ -270,18 +265,23 @@
     "method": "pdf"
    },
    {
+    "url": "https://sao.wa.gov/bars-annual-filing/bars-cash-manual/reporting/notes-financial-statements/note-x-going-concern",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/financial_statement_/financial_statement___18_US/chapter_24_risks_and_US/245_going_concern_US.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://pcaobus.org/oversight/standards/archived-standards/details/AU341A",
+    "url": "https://pcaobus.org/oversight/standards/auditing-standards/details/AS2415",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.thecaq.org/going-concern-management-and-auditor-responsibilities",
-    "status": "ok",
+    "url": "https://gijn.org/stories/9-ways-to-find-stories-in-company-accounts/",
+    "status": "http_403",
     "method": "http"
    }
   ]
@@ -292,12 +292,13 @@
    "results": [
     "https://note.com/paguinu/n/n668cc7419453",
     "https://note.com/pure_accountant/n/n01a0f6d7715b",
-    "https://note.com/kaburobo/n/n3234f1af464a",
-    "https://note.com/super_shisetucho/n/n973f90730c06",
     "https://note.com/van_finance9999/n/ned7ee1a74ac1",
+    "https://note.com/super_shisetucho/n/n973f90730c06",
     "https://note.com/ledge_globe/n/ne5fc5b799c01",
     "https://note.com/kyo_lowkeylife75/n/n80d6c7978c2a",
-    "https://note.com/finance_clinic/n/n1b223f531d59"
+    "https://note.com/haru2006ppe/n/n6ab886dbb003",
+    "https://note.com/finance_clinic/n/n1b223f531d59",
+    "https://note.com/kaburobo/n/n3234f1af464a"
    ]
   },
   {
@@ -311,8 +312,8 @@
     "https://ipo-method.com/accounting/4011/",
     "https://www.k-larc.jp/%E7%94%A8%E8%AA%9E%E9%9B%86/%E5%AF%A9%E6%9F%BB%E9%96%A2%E9%80%A3-%E9%96%8B%E7%A4%BA-j-sox/gc%E6%B3%A8%E8%A8%98/",
     "https://shikiho.toyokeizai.net/news/0/637641",
-    "https://www.youtube.com/watch?v=DBV1D4GuMXk",
-    "https://prime-partners.co.jp/related-party-note-example/"
+    "https://www.active-labo.com/%E4%B8%8E%E4%BF%A1%E7%AE%A1%E7%90%86%E3%82%B3%E3%83%A9%E3%83%A0/%EF%BD%87%EF%BD%83%E6%B3%A8%E8%A8%98%E3%82%92%E3%82%81%E3%81%90%E3%82%8B-%E8%AA%A4%E8%A7%A3/",
+    "https://www.youtube.com/watch?v=0g9pm0h3T_I"
    ]
   },
   {
@@ -338,41 +339,49 @@
     "https://jicpa.or.jp/news/information/files/2-8-74-2-20090421_1.pdf",
     "https://toma.co.jp/blog/overseas/%E3%88%B1%E6%9D%B1%E8%8A%9D%E3%81%AE%E6%B1%BA%E7%AE%97%E3%81%A7%E8%A9%B1%E9%A1%8C%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E7%B6%99%E7%B6%9A%E4%BC%81%E6%A5%AD%E3%81%AE%E5%89%8D%E6%8F%90%E3%81%A8%E3%81%AF-w/",
     "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/20250217_05.pdf",
-    "https://www.bus.nihon-u.ac.jp/wp-content/themes/nichidai/assets/img/unique/laboratory/kiyo/87-1_HamamotoAkira.pdf",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.nomura.co.jp/terms/japan/ke/keizokukigyou.html",
     "https://www.zeiken.co.jp/kaijidb/article/cat/1751.php",
+    "https://www.k-larc.jp/%E7%94%A8%E8%AA%9E%E9%9B%86/%E5%AF%A9%E6%9F%BB%E9%96%A2%E9%80%A3-%E9%96%8B%E7%A4%BA-j-sox/gc%E6%B3%A8%E8%A8%98/",
     "https://www.youtube.com/watch?v=0g9pm0h3T_I"
    ]
   },
   {
    "query": "how journalists read company accounts notes related party going concern",
    "results": [
-    "https://sao.wa.gov/bars-annual-filing/bars-cash-manual/reporting/notes-financial-statements/note-x-going-concern",
     "https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/",
     "https://tcij.org/wp-content/uploads/2019/07/Guide-to-Company-Accounts.pdf",
+    "https://sao.wa.gov/bars-annual-filing/bars-cash-manual/reporting/notes-financial-statements/note-x-going-concern",
     "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/financial_statement_/financial_statement___18_US/chapter_24_risks_and_US/245_going_concern_US.html",
-    "https://pcaobus.org/oversight/standards/archived-standards/details/AU341A",
-    "https://www.thecaq.org/going-concern-management-and-auditor-responsibilities",
+    "https://pcaobus.org/oversight/standards/auditing-standards/details/AS2415",
+    "https://gijn.org/stories/9-ways-to-find-stories-in-company-accounts/",
+    "https://www.frc.org.uk/library/standards-codes-policy/accounting-and-reporting/annual-corporate-reporting/guidance-on-going-concern-basis/",
     "https://kpmg.com/kpmg-us/content/dam/kpmg/frv/pdf/2024/handbook-going-concern.pdf",
     "https://arch.bdo.com/going-concern-assessments",
-    "https://publications.aaahq.org/ajpt/article/43/4/143/12198/How-Management-Disclosure-and-Auditor-Disclosure",
-    "https://fedlaws.org/going-concern-disclosure-examples-gaap-rules-and-consequences/"
+    "https://kpmg.com/kpmg-us/content/dam/kpmg/frv/pdf/2025/going-concern.pdf"
    ]
   },
   {
    "query": "site:note.com 調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字）",
-   "results": []
+   "results": [
+    "https://note.com/pure_accountant/n/n01a0f6d7715b",
+    "https://note.com/ledge_globe/n/ne5fc5b799c01",
+    "https://note.com/van_finance9999/n/ned7ee1a74ac1",
+    "https://note.com/kyo_lowkeylife75/n/n80d6c7978c2a",
+    "https://note.com/super_shisetucho/n/n973f90730c06",
+    "https://note.com/finance_clinic/n/n1b223f531d59",
+    "https://note.com/haru2006ppe/n/n6ab886dbb003"
+   ]
   },
   {
    "query": "site:x.com 調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字）",
    "results": [
     "https://x.com/NessaAof4/status/2117537058868846658",
-    "https://x.com/Yf2JBeb3O918862/status/2049479423196582236",
     "https://x.com/100sha_knock",
-    "https://x.com/shachou_k_ai/status/2091003090820644867",
-    "https://x.com/black1mmm/status/2110659258174103580",
+    "https://x.com/Yf2JBeb3O918862/status/2049479423196582236",
     "https://x.com/nkinvestigation",
+    "https://x.com/boki_accounting/status/2115370753822781748",
+    "https://x.com/shachou_k_ai/status/2091003090820644867",
     "https://x.com/kaisha_cfo"
    ]
   },
@@ -380,7 +389,7 @@
    "query": "site:linkedin.com 調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字）",
    "results": [
     "https://jp.linkedin.com/in/naoki-asanuma-a2ba82264",
-    "https://jp.linkedin.com/in/正行-鈴木-810a1a17b",
+    "https://jp.linkedin.com/in/大城-岡嶋-571535245",
     "https://jp.linkedin.com/pulse/決算書重視の信用調査-hiroyuki-nakamura",
     "https://jp.linkedin.com/in/龍二-神澤-122902205",
     "https://www.linkedin.com/posts/rokkakuakio_決算書の数字は１００真実ではない六角明雄中小企業診断士経営コンサルタントビジネス-activity-7220050424140058626-inER",
@@ -404,28 +413,28 @@
    "query": "調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字） note 社長",
    "results": [
     "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/20250217_05.pdf",
-    "https://www.tsr-net.co.jp/data/detail/1202922_1527.html",
-    "https://toma.co.jp/blog/overseas/%E3%88%B1%E6%9D%B1%E8%8A%9D%E3%81%AE%E6%B1%BA%E7%AE%97%E3%81%A7%E8%A9%B1%E9%A1%8C%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E7%B6%99%E7%B6%9A%E4%BC%81%E6%A5%AD%E3%81%AE%E5%89%8D%E6%8F%90%E3%81%A8%E3%81%AF-w/",
     "https://jicpa.or.jp/specialized_field/2-24-570-2-20221013.pdf",
+    "https://www.tsr-net.co.jp/data/detail/1202922_1527.html",
     "https://www.ey.com/ja_jp/technical/corporate-accounting/commentary/other/commentary-other-2013-12-20-01",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.k-larc.jp/%E7%94%A8%E8%AA%9E%E9%9B%86/%E5%AF%A9%E6%9F%BB%E9%96%A2%E9%80%A3-%E9%96%8B%E7%A4%BA-j-sox/gc%E6%B3%A8%E8%A8%98/",
+    "https://toma.co.jp/blog/overseas/%E3%88%B1%E6%9D%B1%E8%8A%9D%E3%81%AE%E6%B1%BA%E7%AE%97%E3%81%A7%E8%A9%B1%E9%A1%8C%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E7%B6%99%E7%B6%9A%E4%BC%81%E6%A5%AD%E3%81%AE%E5%89%8D%E6%8F%90%E3%81%A8%E3%81%AF-w/",
     "https://www.youtube.com/watch?v=k4d5ELPEGGg",
+    "https://www.k-larc.jp/%E7%94%A8%E8%AA%9E%E9%9B%86/%E5%AF%A9%E6%9F%BB%E9%96%A2%E9%80%A3-%E9%96%8B%E7%A4%BA-j-sox/gc%E6%B3%A8%E8%A8%98/",
     "https://www.active-labo.com/%E4%B8%8E%E4%BF%A1%E7%AE%A1%E7%90%86%E3%82%B3%E3%83%A9%E3%83%A0/%EF%BD%87%EF%BD%83%E6%B3%A8%E8%A8%98%E3%82%92%E3%82%81%E3%81%90%E3%82%8B-%E8%AA%A4%E8%A7%A3/",
-    "https://prime-partners.co.jp/related-party-note-example/"
+    "https://www.youtube.com/watch?v=0g9pm0h3T_I"
    ]
   },
   {
    "query": "調査報道の記者が決算書・登記の数字を読む型（注記・関連当事者・継続企業の前提・負の数字） X 投稿",
    "results": [
     "https://www.ey.com/ja_jp/technical/corporate-accounting/commentary/other/commentary-other-2013-12-20-01",
-    "https://jicpa.or.jp/specialized_field/2-24-570-2-20221013.pdf",
+    "https://jicpa.or.jp/specialized_field/2-24-570-2-20191009.pdf",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.k-larc.jp/%E7%94%A8%E8%AA%9E%E9%9B%86/%E5%AF%A9%E6%9F%BB%E9%96%A2%E9%80%A3-%E9%96%8B%E7%A4%BA-j-sox/gc%E6%B3%A8%E8%A8%98/",
     "https://www.active-labo.com/%E4%B8%8E%E4%BF%A1%E7%AE%A1%E7%90%86%E3%82%B3%E3%83%A9%E3%83%A0/%EF%BD%87%EF%BD%83%E6%B3%A8%E8%A8%98%E3%82%92%E3%82%81%E3%81%90%E3%82%8B-%E8%AA%A4%E8%A7%A3/",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://jicpa.or.jp/specialized_field/2-24-570-2-20191009.pdf",
     "https://www.ey.com/ja_jp/technical/library/info-sensor/2021/info-sensor-2021-12-11",
+    "https://jicpa.or.jp/news/information/files/2-8-74-2-20090421_1.pdf",
     "https://www.murc.jp/wp-json/wp/v2/column_reports/93218/revisions",
     "https://www.youtube.com/watch?v=0g9pm0h3T_I"
    ]
@@ -438,11 +447,11 @@
     "https://www.linkedin.com/in/marc-pentacoff-bb4645a8",
     "https://ca.linkedin.com/company/thomson-reuters",
     "https://www.linkedin.com/in/mariana-van-zeller-4aa89774",
-    "https://www.linkedin.com/company/association-of-health-care-journalists",
+    "https://www.linkedin.com/in/juliawallace1",
     "https://www.linkedin.com/in/vindugoel",
     "https://www.linkedin.com/in/theofrancis",
-    "https://www.linkedin.com/in/juliawallace1",
-    "https://ca.linkedin.com/in/craigjsilverman"
+    "https://ca.linkedin.com/in/craigjsilverman",
+    "https://www.linkedin.com/in/jorja-siemons-68a6511b7"
    ]
   }
  ],
@@ -451,6 +460,6 @@
   "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-05T10:44:49.352522+00:00"
 }
