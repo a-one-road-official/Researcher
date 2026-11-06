@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・101品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・104品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -5584,14 +5584,74 @@
 
 ## 工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31）（Census of Manufacture detailed industry by employee size 2016-2019 per employee）
 - 文脈：全体・統計
-- 痛み・損（深さの印）：記載なし（読んだ16頁・検索18回）
-- 事業所数・社数：記載なし（読んだ16頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ16頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ16頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ16頁・検索18回）
-- 生産能力・設備：記載なし（読んだ16頁・検索18回）
-- 10年推移：記載なし（読んだ16頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ16頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ21頁・検索18回）
+- 事業所数・社数：記載なし（読んだ21頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ21頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ21頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ21頁・検索18回）
+- 生産能力・設備：記載なし（読んだ21頁・検索18回）
+- 10年推移：記載なし（読んだ21頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ21頁・検索18回）
+
+## 国内企業物価指数 金属製品・表面処理・金型の類別 2016〜2019年（名目の1人あたり出荷額・付加価値を実質で読む分母・4-37）（Bank of Japan corporate goods price index metal products 2016-2019）
+- 文脈：全体・統計
+- 事業所数・社数：
+  - 「7－1．調査価格数・調査先企業数」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+- 受注金額・加工賃収入：
+  - 「・2019 年の国内向け出荷額 （2019 年工」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「業統計の出荷額から、2019 年貿易統」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「の国内向け出荷額（2019 年工業統計」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「の出荷額を 2020 年動態統計で延長」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「3 国内取引については、①、②、③の取引額を生産者の出荷額ベースで算出している」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「ウエイト対象総取引額 2,229,261億円 656,062 億円 690,426 億円」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「採用基準額 669 億円 328億円 345億円」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「＜参考＞2015年基準 215 億円 343億円 369億円」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「取引総額 (A) 2,345,440億円 672,727億円 725,816億円」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「ウエイト対象総取引額 (B) 2,229,261億円 656,062億円 690,426億円」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「採用商品の取引額 (C) 1,812,944億円 474,514億円 517,206億円」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+- 10年推移：
+  - 「2020 年基準」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「2022年 6月」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「12－3．価格変動に季節性が強い品目における補完方法（前年比補完）」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「5－1．2019～2021年平均（2015年基準指数）における品質調整の実施状況」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「1．2020年基準接続指数 ....................................................... 86」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「2．2020年基準改定の概要 ..................................................... 93」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「を、基準時点（2020 年）の価格を 100 として、指数化したものである」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「基準時 指数の基準時は、2020 年の年平均」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「ウエイトは、2019 年と 2020 年の平均値を適用」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「・2019 年の国内向け出荷額 （2019 年工」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「業統計の出荷額から、2019 年貿易統」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「計の輸出額を控除した額） と2020 年」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「の国内向け出荷額（2019 年工業統計」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「の出荷額を 2020 年動態統計で延長」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「推計した額から、2020 年貿易統計の」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+- 痛み・損（深さの印）：記載なし（読んだ34頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ34頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ34頁・検索18回）
+- 生産能力・設備：記載なし（読んだ34頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ34頁・検索18回）
+
+## 工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30）（Census of Manufacture 2010-2014 industry tables e-Stat 00550010）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 10年推移：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 電気めっき・金属熱処理の加工単価の値上げ 2016〜2019年（1人あたり出荷額の上向きが単価か量かを分ける・代わりの仮説・4-32）（Japan electroplating heat treatment processing price increase 2016-2019）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ48頁・検索18回）
+- 事業所数・社数：記載なし（読んだ48頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ48頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ48頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ48頁・検索18回）
+- 生産能力・設備：記載なし（読んだ48頁・検索18回）
+- 10年推移：記載なし（読んだ48頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ48頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

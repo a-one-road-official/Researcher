@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・101品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・104品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -764,6 +764,7 @@
 ## コンサル・アナリストのリサーチの型（consultant research methodology）
 - 文脈：型
 - 手順・やり方：
+  - 「プロフェッショナル／ハンズオン型経営コンサルティング会社/年収：～1600万円/東京都」（https://www.kotora.jp/c/77700-2/）
   - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法｜30代コンサルマネージャー｜仕事とキャリアのリアル」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「1. コンサルが実務で使っている「リサーチの型」を理解できる」（https://note.com/gomaengineer/n/nf0782f7d7838）
@@ -778,8 +779,8 @@
   - 「現代のリサーチにおいて重要なのは、方法やツールが進化しても、思考の本質は変わらないという点です」（https://note.com/ten365_blog/n/n7c6df28110e7）
   - 「仮説は答えではなく分析の出発点であり、思考を導くフレームです」（https://note.com/ten365_blog/n/n7c6df28110e7）
   - 「なぜなら、情報をどう読み解くかという行為そのものが、すでに自分の思考フレームに影響されているからです」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「世の中のあらゆるファクトは、誰かが形づくった一面である――その前提を忘れずにいることが、思考の質を保ち続ける唯一の方法なのです」（https://note.com/ten365_blog/n/n7c6df28110e7）
 - 突き合わせ・推定：
+  - 「これらの業務は、クライアントの課題に寄り添い、仮説検証型でソリューションを提供す […]」（https://www.kotora.jp/c/77700-2/）
   - 「② 調べるべき論点（＝仮説）」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「コンサルは最初に仮説を立てますが、これは「当てるため」ではなく 調査の抜け漏れ防止のための枠組みづくり です」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「• 論点（仮説）は整理したか？」（https://note.com/gomaengineer/n/nf0782f7d7838）
@@ -794,7 +795,6 @@
   - 「問いを再設定し、仮説を再構築する」（https://note.com/ten365_blog/n/n7c6df28110e7）
   - 「データを排除するのではなく、そのデータがどのような問いに基づき、どのような条件で集められたのかを検証する」（https://note.com/ten365_blog/n/n7c6df28110e7）
   - 「自らの仮説や前提もまた、常に検証の対象でなければなりません」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「自分の立てた仮説を一度壊し、再構築する勇気がなければ、リサーチは硬直化し、思考は停滞します」（https://note.com/ten365_blog/n/n7c6df28110e7）
 - 一次情報の探し方：
   - 「① 一次情報 → 二次情報 → Web の順に見る」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「2. 省庁資料・クレディブルな統計データ」（https://note.com/gomaengineer/n/nf0782f7d7838）
@@ -4487,6 +4487,8 @@
   - 「Markup vs Margin Calculator Explained With Real Business Examples」（https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry）
   - 「Finance teams can use the metric to test hiring plans. If projected headcount growth is much faster than projected revenue growth, revenue per employee may decline. That may be acceptable, but it should be visible. Include base, upside, and downside cases in your planning spreadsheet so leadership can see the expected impact.」（https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry）
   - 「This metric becomes less useful at a narrow departmental level unless revenue can be credibly attributed. Sales teams may influence revenue more directly than HR or finance, so department-level comparisons need care. In most cases, it is better to use function-specific KPIs and reserve revenue per employee for the company level or business unit level.」（https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry）
+- 検索結果の抜粋：
+  - 「Revenue Per Employee 2026: $130K-$249K by Stage — Jul 7, 2026 · Startup revenue per employee benchmarks for 2026: median and top-quartile figures by funding stage, sector, and headcount band, what the metric」（https://stealthagents.com/research/startup-revenue-per-employee-benchmarks）
 - 一次情報の探し方：記載なし（読んだ20頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
 
@@ -4789,54 +4791,55 @@
 ## 競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例）（how to research competitor revenue private company step by step sources）
 - 文脈：推定
 - 手順・やり方：
-  - 「この記事では、無料で確認できる情報源、非上場企業を調べる方法、売上と利益率を比べる手順を解説します」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「競合分析とは？やり方6ステップ・比較項目・フレームワーク10選」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「競合の選び方、調査項目と施策へつなぐ手順を紹介します」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「会社法440条は、株式会社の計算書類の公告について、対象書類と方法、有価証券報告書提出会社の適用除外を定めています」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「G-Searchは、帝国データバンク・東京商工リサーチの企業情報で非上場企業の業績を確認する方法を紹介しています」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「企業会計基準のセグメント情報の定めでは、外部顧客への売上高とセグメント間の内部売上高を分け、測定方法なども開示対象としています」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「項目名、算定方法、注記」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「競合シェアの調べ方｜情報源・計算方法と比較の注意点」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「市場シェアを調べる情報源と、比較範囲をそろえる方法を解説します」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「公表された実績と分け、算定方法や対象範囲、誤差の可能性を明記します」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「同じ条件に見えて差が残る場合は、出所と算定方法を確認し、不明点を注記します」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ｜ナレッジ｜イノベーション総合研究所」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「本記事では、無料で探す5ステップ、有料サービスの選び方、売上が不明なときの推定方法を解説します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「イノベーション総研の888名調査と実務向けの記録例も使い、調べた数字を参入判断や次の顧客検証へつなげる方法まで整理します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「How to Find Competitor Revenue: 10 Sources and How Wrong Each One Is」（https://www.flares.tech/sources/competitor-revenue）
+  - 「How to find competitor revenue, step by step」（https://www.flares.tech/sources/competitor-revenue）
+  - 「"Bigger or smaller than us" needs a completely different method from "what is their ARR to the nearest million". Most real decisions need the first, and chasing the second is where weeks disappear.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Sanity-check with a second method」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Run headcount times revenue per employee for the same company. If the two methods disagree by more than roughly a factor of two, one of your assumptions is wrong and it is usually the customer count.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from」（https://www.flares.tech/sources/competitor-revenue）
+  - 「by something between $100,000 and $300,000 depending on funding stage. It is fine as a plausibility check and poor as an estimate, because revenue per employee varies by several times with sales motion, offshore ratio and how much of the workforce is contracted. If your bottom-up build and this method disagree by more than roughly a factor of two, go back and check your customer count.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「How to verify a competitor revenue figure」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Two rough methods that agree are far more trustworthy than one precise-looking figure from a database. If they disagree, the gap tells you which assumption to attack.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「how to find a competitor’s customers」（https://www.flares.tech/sources/competitor-revenue）
+  - 「How to keep competitor revenue figures current」（https://www.flares.tech/sources/competitor-revenue）
+  - 「How to automate competitor revenue tracking」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Build it bottom-up: a verified average price multiplied by an estimated customer count, both of which are obtainable from the public sources covered above. Then run a second, independent method and compare. Two rough methods that agree are far more trustworthy than one precise-looking number from a database, and when they disagree the gap tells you which assumption to attack first.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「How to Find Revenue Estimates for Private Companies | Inven」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「How to Find Revenue Estimates for Private Companies」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
 - 突き合わせ・推定：
-  - 「非公開や未確認の数字を、0や推定の実績で埋めません」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「同名の別会社との混同も避け、所在地、事業内容、証券コードなどで対象を照合します」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「会社が説明する増収の理由と、自分が考えた仮説も分けます」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「貸借対照表に当期純利益が記載されていても、そこから売上は逆算できません」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「実績、会社予想、第三者の推計」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「資産、純資産、当期純利益の金額から売上を逆算せず、売上が掲載された資料がなければ未確認として残します」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「アクセス数や従業員数から競合の売上を推定できますか？」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「推計する場合も、購入率や単価、生産性などの前提に左右されます」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「本記事では、無料で探す5ステップ、有料サービスの選び方、売上が不明なときの推定方法を解説します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「イノベーション総研の888名調査と実務向けの記録例も使い、調べた数字を参入判断や次の顧客検証へつなげる方法まで整理します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「単体と連結、売上高と取扱高、実績と推定を混ぜない」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「公告が見つかったら、対象会社と決算期を照合し、損益計算書に売上高の記載があるかを読みます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「対象企業が多い、事業別の売上まで整理したい、情報同士の矛盾を調べる必要がある場合は、調査会社への依頼も選択肢です」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「06 撤退の規律：調べ続けて検証へ進めない」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「競合調査の先にある、顧客検証を進める」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
+  - 「A defensible estimate whose assumptions you can show and defend」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Data provider estimates」（https://www.flares.tech/sources/competitor-revenue）
+  - 「App store revenue estimates」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Estimate customer count from logo walls, review volume and case studies, then multiply by a price you have already verified. Show your working, because the assumptions are what a reader will want to argue with.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Mark each number Filed, Stated or Estimated. A report that mixes an audited figure with a model and prints both in the same font is worse than no report at all.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「A raise usually comes with a press release, and often with a growth claim attached. The raise amount itself is not revenue, but it bounds the burn they can sustain, and the valuation sometimes implies a revenue multiple if the round is discussed in the trade press. Useful as a cross-check, never as the figure.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「The two ways to build an estimate yourself」（https://www.flares.tech/sources/competitor-revenue）
+  - 「This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from」（https://www.flares.tech/sources/competitor-revenue）
+  - 「by something between $100,000 and $300,000 depending on funding stage. It is fine as a plausibility check and poor as an estimate, because revenue per employee varies by several times with sales motion, offshore ratio and how much of the workforce is contracted. If your bottom-up build and this method disagree by more than roughly a factor of two, go back and check your customer count.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Estimates somebody else already built」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Data provider estimates.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「App store revenue estimates.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「You already know something no database does: how often you meet them, and how often they win. If you compete in 200 deals a year and they take 60 of them, you can size their revenue in your segment directly from your own average contract value. It is the narrowest estimate on this list and frequently the most decision-useful, because it is scoped to the market you actually sell in.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Write Filed, Stated or Estimated next to every number, every time. This single habit does more for the credibility of a competitive report than any amount of extra research.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Do not publish an estimate in a way that implies it is audited. Stating a modelled figure as fact about a named company is a reputational and, in some jurisdictions, a legal risk.」（https://www.flares.tech/sources/competitor-revenue）
 - 一次情報の探し方：
-  - 「上場企業はIR資料やEDINET、非上場企業は会社概要・公表資料・決算公告」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「公式サイトの「IR情報」「投資家情報」「決算」「会社概要」から探すと、資料の出所を確認しやすくなります」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「検索する場合も、会社名に「売上高」「決算短信」「有価証券報告書」「決算公告」などを組み合わせます」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「会社概要、IR資料、決算説明資料、公表された業績」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「決算短信、業績予想の修正、事業に関する開示」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「上場企業の売上を、IR・EDINET・決算短信で調べる」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「IR資料で決算の数字と事業別の内訳を確認する図」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「IR資料では、まず決算短信や有価証券報告書から対象年度の売上・利益を確認します」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「決算説明資料は、増減の背景、事業別の動き、会社が説明する今後の方針を読む補助になります」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「EDINETは、金融商品取引法に基づく有価証券報告書などを検索・閲覧する金融庁のシステムです」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「対象の有価証券報告書を開いたら、主要な経営指標、経営成績の説明、連結損益計算書、セグメント情報などを確認します」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「また、非上場でも有価証券報告書を提出する企業があるため、上場していないことだけを理由に検索対象から外す必要はありません」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「金融庁は、EDINETを、有価証券報告書などの提出から公衆縦覧までを電子化するシステムと説明し、正規の閲覧サイトを案内しています」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「適時開示では、最新の決算と業績予想の変更を見る」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「決算短信や業績予想の修正は、企業のIRサイトや日本取引所グループの適時開示情報から探せます」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
+  - 「Notice how the reliability column collapses toward the bottom. That is not a flaw in the research, it is the actual shape of the problem: outside a filing obligation, nobody knows a private company’s revenue except the company.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Re-check on their filing calendar」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Filing obligations, thresholds and the level of detail vary by country and by company size, and small companies can often file abridged accounts that omit the profit and loss statement. But the accounts themselves are public, searchable, and free or nearly free in most jurisdictions.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Filed accounts, free. Employee numbers are a mandatory disclosure even in abridged small-company filings.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Published annual financial statements for companies above the filing thresholds.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「A brand often trades through several legal entities, each filing separately. Search the register for the operating entity name from the footer of their website or their terms of service, and check whether a group parent files consolidated accounts. Using one national subsidiary’s revenue as the whole company is one of the most common errors in this work.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「publish varies enormously by jurisdiction, and so does how old a perfectly compliant filing is allowed to be.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Filed accounts often cover a fiscal year ending mid-calendar, and a European filing is in euros or pounds. Converting at today’s rate rather than the period average quietly moves the number.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Company registers and regulatory filings exist precisely so that anyone can read them. Reading them, downloading them and republishing figures from them with attribution is entirely legitimate. The constraints are narrow and worth stating plainly.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Revenue data arrives on a schedule, which makes it one of the easier things to keep fresh: set the review for when the next accounts or quarterly report is actually due rather than an arbitrary date. Between filings, the things that move your estimate are」（https://www.flares.tech/sources/competitor-revenue）
+  - 「So the job to automate here is not the number but the events between filings. That is what a」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Flares watches funding news, filings and public claims, then tells you which ones change the picture.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「For a listed company, yes, exactly: audited revenue appears in its quarterly and annual filings. For a private company it depends entirely on where it is incorporated. In most of Europe private companies must file annual accounts that become public, so the answer is often yes there too. In the US, a private company has no general obligation to publish revenue, so anything you find is an estimate.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「SEC EDGAR for US-listed companies, the national business register for private European companies (Companies House in the UK, the Bundesanzeiger in Germany, and the equivalents reachable through the EU's business-registers portal), and the company's own investor page. All are free. The paid databases mostly resell and model on top of these same filings.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Many do, and this is the single most under-used fact in competitor research. Filing thresholds and the level of detail vary by country and company size, and small companies can often file abridged accounts, but a filed set of accounts in a national register is a genuine audited figure rather than a model. Always check the register before you resort to estimating.」（https://www.flares.tech/sources/competitor-revenue）
 - 失敗・落とし穴：
+  - 「Common Mistakes to Avoid」（https://targetcompanyresearch.com/how-to-find-a-companys-revenue-complete-2026-guide/）
   - 「競合シェアの調べ方｜情報源・計算方法と比較の注意点」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
   - 「ただし、ページに更新日があっても、売上の対象年度が新しいとは限らない点に注意してください」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「失敗への懸念を伝え、軌道修正につながったと回答した材料」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
@@ -4847,6 +4850,11 @@
   - 「Better answers come from curiosity, clear questions, and a customer-first frame. The biggest mistake is getting defensive because the topic is a competitor. People sense that tension and share less.」（https://www.questionpro.com/blog/competitive-intelligence-sources/）
   - 「Most failures come from process, not from missing information. These mistakes show up most often:」（https://www.questionpro.com/blog/competitive-intelligence-sources/）
 - 実例：
+  - 「Estimate customer count from logo walls, review volume and case studies, then multiply by a price you have already verified. Show your working, because the assumptions are what a reader will want to argue with.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from」（https://www.flares.tech/sources/competitor-revenue）
+  - 「Inven finds companies that are similar to your example company and provides their funding data, growth rate, headcount, ownership and geographical data. It has financial data with over 43M+ legal entities, with information on revenue, EBIT and balance sheet data. These data points will help you in defining the revenues of private companies both in the US and globally.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「A commonly used shortcut is to estimate revenue based on the number of employees and average industry revenue-per-employee ratios. For example, if a software company has 100 employees and the industry average revenue per employee is $200,000, a rough estimate would put annual revenue around $20 million.」（https://targetcompanyresearch.com/how-to-find-a-companys-revenue-complete-2026-guide/）
+  - 「Learn the PESTLE analysis framework with real industry examples. Evaluate Political, Economic, Social, Technological, Legal & Environmental factors.」（https://vantainsights.com/insights/competitive-analysis-framework）
   - 「例えば会社が買収の影響を説明しているなら、売上増加をそのまま既存事業の顧客獲得力と捉えないようにします」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
   - 「実在企業の調査結果やDSSの実績ではありません」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
   - 「検索結果の短い説明文だけでは採用せず、元ページやPDFを開いて数字の前後を読みます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
@@ -4857,11 +4865,6 @@
   - 「従業員数に業界平均の1人あたり売上を掛ける方法もありますが、実際には、外注の多さ、卸売かサービス業か、兼業の有無で結果は大きく変わります」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「これは大企業の新規事業関与者が、直近の経験に最も近い選択肢を一つ選んだ結果で、非上場企業の売上の公開状況を調べたものではありません」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「例えば、競合の伸びが想定より小さければ、価格、対象顧客、販売方法のどれを追加確認するかまで記録します」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「例えば、発注支援ソフトの事業を検討しているなら、次のように整理できます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「調査結果はそろっているのに参入や検証の判断が進まない場合は、」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「調査結果を報告する際に迷いやすい、非公開情報・AIの利用・数字の不一致について答えます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「調査結果を、次の事業判断に使える形へ」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「最初に決めるのは、その調査結果を何の判断に使うのかという一文です」（https://savee.co.jp/analytics/research/kyougou-chousa-yarikata/）
 
 ## 大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API）（e-Stat user guide university library statistics code database API）
 - 文脈：統計
@@ -5042,54 +5045,56 @@
 ## 市場規模の資料が食い違うときの照合（商品の範囲・地域・売上か出荷額か・実績か予測か）（reconciling conflicting market size estimates scope geography revenue shipments forecast）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「むしろ、収穫前の栽培方法が、色、香り、うま味、渋味、価格を大きく左右する」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「一方、現在の量産型茶園では、黒い化学繊維の被覆資材を茶樹に直接かぶせる方法や、棚式の寒冷紗が広く使われる」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「高級品では一番茶や手摘み原料が重視されるが、業務用・加工用では乗用型摘採機も利用される」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「中国の量産型茶園では、平坦化された畝、機械摘採、集約的な労務配置によって、収穫量と作業効率を高めている」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「貴州省は、銅仁市江口県を中心に、輸出基準に対応した大型工場と原料基地を構築した」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「これは「宇治のコピー」というより、宇治のブランドモデルと、中国型の工業化・地方振興モデルを組み合わせた産業政策である」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「銅仁市の抹茶産業は、生産設備を増やすだけの段階から、標準、商品開発、販売拠点、体験型消費を一体化する段階へ進んでいる」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「しかし、その荒てん茶を最終的な抹茶粉へ精製する工程は、ごく少数の大型施設に集中している」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「銅仁市の公表資料によれば、市内にはすでに年間生産能力1万トン級の大型抹茶精製工場が稼働している」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「栽培方法の転換には、農家ごとの判断、設備投資、後継者、収益見通しが必要になる」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「中国の大型工場は超微粉砕設備を導入し、粒度管理を強化している」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「抹茶の原型である「末茶」を点てる作法が、ここから日本へ伝わったとされる」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「煎茶園からてん茶園への転換には、被覆設備、摘採方法、荒茶工場、栽培技術が必要であり、短期間では進まない」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「乗用型摘採機に対応した茶園の基盤整備と平坦化」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「しかし、産地を作り直す方法論は、すでに日本国内に存在している」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「数値を引用するときは、発表主体、調査時点、対象範囲、集計方法を記録してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「公表された市場規模を調べる5ステップ」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「Step1：市場の定義と調査目的を1文にする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「Step2：キーワードと類義語を洗い出す」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「Step4：数字の定義と調査範囲をそろえる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「トップダウンは、上位概念の市場規模に、対象地域、顧客属性、利用率などの条件を掛け合わせる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「ボトムアップは、現場に近いデータを積み上げる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
 - 突き合わせ・推定：
-  - 「本文では中国側の公開資料と照合し、数字の定義と対象範囲も検証します」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「以下、この数字が何を意味するのかを、日中双方の公開統計、産業計画、価格データと突き合わせながら読み解いていく」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「Grand View Researchは、広義の世界抹茶市場を2025年に約51億ドル、2026年に約55億ドル、2033年に約89億ドルと推計している」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「一方、抹茶茶葉、粉末、プレミックス、RTD飲料など、より狭い「Matcha Tea Market」の推計では、2025年は約9億6,580万ドルとなっている」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「茶道用、高級飲用、家庭用、カフェ、製菓、外食向けなどを含めると、日本国内の抹茶市場は概ね500億～600億円程度と推定される」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「したがって、あいやの取扱規模は年間2,000トン前後とみることができるが、これは参考推計であり、同社が完成抹茶粉を実際に2,400トン生産したと断定する数字ではない」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「つまり日本では、数量最大手でも2,000トン級と推定される」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「これに対して、今回訪問した工場が説明した2026年の5,000トンは、日本最大手の推定取扱量の約2倍以上に相当する」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「これは業界団体による発表ベースの数字であり、第三者が検証した統計ではない」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「抹茶粉や直接販売を中心とする中国市場について、2025年に約72億元とする推計がある」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「これらは中国政府による単一の確定統計ではなく、民間調査や業界資料に基づく推計である」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「この種の食い違いをどう読むかは、第10章でまとめて扱う」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「冒頭に示した工場側の説明を、ここで公開データと突き合わせる」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「食い違いは、三つの理由で説明できる」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「もっとも、これは公開資料と現地説明を突き合わせた解釈にすぎない」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「一次調査は、市場規模そのものを直接測るだけでなく、ボトムアップ推計に使う「対象者の割合」「利用頻度」「1回あたりの支出」などの前提を得るためにも使えます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「AIリサーチは、公開情報の探索、仮説の整理、対象者の関心の把握を効率化する選択肢です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「その場合は、計算式と仮定を明示して推計します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「上位概念の市場規模 × 対象地域比率 × 対象顧客比率 × 利用率 ＝ 対象市場の推計規模」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「対象顧客数 × 利用率 × 1回あたりの単価 × 年間利用回数 ＝ 年間市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「実際の調査では、顧客数、利用率、単価、頻度それぞれの根拠と、値が変わった場合の推計レンジを示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「出典・対象年・単位・実測値／推定値／仮定の区分」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「特定企業の売上高と市場シェアが確認できる場合は、次の考え方で市場全体を推計できます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「企業の対象事業売上高 ÷ 市場シェア ＝ 市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
 - 一次情報の探し方：
-  - 「※現地ヒアリングの数値は企業側の説明であり、公的な確定統計とは区別して記載しています」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「以下、この数字が何を意味するのかを、日中双方の公開統計、産業計画、価格データと突き合わせながら読み解いていく」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「日本では、完成品としての「抹茶粉」だけを切り出した公的生産統計は十分に整備されていない」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「農林水産省の作物統計によると、2024年産の主産県における荒茶生産量は6万6,900トンだった」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「日本の茶統計を引用する際は、主産県ベースか全国ベースか、荒茶かてん茶か、暦年か年産かを必ず確認しなければならない」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「これは茶作経営全体の統計であり、抹茶専業農家だけを示すものではないが、増産の基盤となる人材構造の厳しさを示している」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「日本国内の抹茶市場についても、統一された公的統計は存在しない」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「日本茶輸出促進協議会が財務省貿易統計を整理した2025年通年資料では、緑茶輸出額は約721億円となり、2024年の364億円からほぼ倍増した」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「なお、2025年値は貿易統計上の緑茶全体であり、厳密な抹茶だけの数字ではない」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「ただし、税関統計の「粉末状の緑茶」には、厳密なてん茶由来の抹茶だけでなく、粉末緑茶などが含まれる可能性がある」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「中国の抹茶市場も、統計の定義に大きなばらつきがある」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「ただし、この数字は中国茶葉流通協会の業界報告に基づくもので、各国の税関統計や日本の「てん茶」統計と同じ定義で集計された国際公的統計ではない」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「これは業界団体による発表ベースの数字であり、第三者が検証した統計ではない」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「ただし、中国の全国業界団体が公式に「輸出で日本を抜いた」と宣言した事実そのものが、産業の段階が変わったことを示している」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「これらは中国政府による単一の確定統計ではなく、民間調査や業界資料に基づく推計である」（https://note.com/kagawatomo/n/ndf2b3052b863）
+  - 「しかし、検索して見つけた資料によって市場規模の数字が違ったり、そもそも細分化された市場の統計が見つからなかったりすることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「最初に確認したいのは、政府統計や各省庁の白書です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「: 政府統計をキーワード、分野、作成機関などから探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「: 生産、出荷、販売、サービスなどの統計を探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「公的統計は、調査対象や定義が公開されていることが多く、全体像を把握する入口になります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「業界団体の統計や企業の決算資料は、業界の売上、出荷、企業数、シェアを補う場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「一方で、業界団体の統計は加盟企業のみを対象にしていることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「民間の市場調査レポートには、官公庁統計にない細かなカテゴリー、企業シェア、チャネル別データ、将来予測が含まれる場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「その場合は、アンケートやインタビューで一次情報を集めます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「まず公的資料で市場の土台となる数字を確認し、業界団体・企業資料・民間レポートで細かなカテゴリーや企業情報を補います」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「会員企業だけの統計を業界全体の数字として扱っていないか」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「最終報告では、採用値だけを見せるのではなく、なぜその資料を採用したのかを説明します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「公的統計を使う場合は、資料名・統計表番号・対象年・URLを記録します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
 - 失敗・落とし穴：
+  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
   - 「抹茶の市場規模を語る際には注意が必要である」（https://note.com/kagawatomo/n/ndf2b3052b863）
   - 「ただし、この45％を日本のてん茶生産量へそのまま掛けることには注意が必要である」（https://note.com/kagawatomo/n/ndf2b3052b863）
   - 「ここで注意したいのは、「貴州省の2,500トン」と「銅仁市の2,500トン」が同じ数字として流通していることである」（https://note.com/kagawatomo/n/ndf2b3052b863）
@@ -5103,24 +5108,22 @@
   - 「代替性が強ければ、一方の価格変更によって顧客が他方へ移りやすくなるため、企業は競合価格やキャンペーンに注意を払う必要があります」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
   - 「もう一つの注意点は、売上や販売量の変化を、代替関係だけで説明してしまうことです」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
   - 「また、代替財の関係を固定的に扱うのも誤りです」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「ECだけでなく、専門性の高い情報発信やデジタルサービスに応用する考え方、成果を確かめる際の指標、陥りやすい失敗も含めて整理します」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「ロングテール現象を取り入れるメリットと注意点」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
 - 実例：
-  - 「その結果、抹茶特有の鮮やかで深い緑色が生まれる」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「日本茶輸出促進協議会の月次報告には、価格改定と日本産原料の不足によって他国産へ切り替える動きが出ていること、圃場視察を口実に生葉生産者へ直接買い付けを模索する事例が続いていることが記されている」（https://note.com/kagawatomo/n/ndf2b3052b863）
-  - 「一方で、市場の範囲や集計方法を決めずに計算すると、同じ商品でも結果が大きく変わることがあります」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「最初から一つの説明に決めつけず、複数のデータを照らし合わせ、施策を実施した時期と結果がどう対応しているかを確認します」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「結果を解釈して、次の打ち手につなげる」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「小さな検証で反応を確認できる場合は、対象地域や顧客を限定して試し、結果に応じて施策を拡大する方法が考えられます」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「定期的に結果を確認し、前提や市場環境に変化があれば戦略を調整します」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「分析結果を営業、商品企画、経営などの関係部門で共有し、次の判断に使える形に整えましょう」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「分析結果をマーケティングと経営判断に活かす」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「小さな母数の結果を市場全体の傾向と誤解しないよう、対象人数や販売件数も併せて確認してください」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「定義をそろえて定期的に測り、結果に応じて判断を更新することが、マーケットシェアを実務に活かす基本です」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「たとえば、財Aの価格が上がり、その結果として財Bの購入が増えるなら、BはAの代替候補と考えられます」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「現実の商品では、味、品質、使いやすさなどの違いがあるため、完全代替に当たるケースは限られます」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「通勤時間を短くしたい、空き時間に資格の知識を身につけたいなど、利用場面と期待する結果を絞ると、現実に比較される選択肢を見つけやすくなります」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「理論上の分類と、個別の市場で確認された行動を混同しないことが、分析結果を実務に役立てるうえで欠かせません」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
+  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「フェルミ推定では、結果の数字だけでなく、「なぜこの変数を置いたのか」「仮定を変えると結果がどう変わるのか」を示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「そのため、出力を市場規模の根拠として使うには、情報源の確認や事実検証が必要となり、結局時間がかかってしまうというケースがよくあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「中堅企業従業員と生成AI・リスキリング関連キーワード群を掛け合わせた抽出条件と結果」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「抽出結果は、次のとおりです」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「この結果から、中堅企業従業員のセグメントでは、DMP全体と比べて生成AI・リスキリング関連キーワードの出現頻度が高い傾向が示されました」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「4. 実証結果から分かることと、追加確認が必要なこと」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「の結果は、公開統計や実測値の代わりではありません」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
+  - 「担当者、費用・作業時間の上限、結果を判断する日を一緒に決め、上限に達したら自動延長しません」（https://iri-group.jp/knowledge/knowhow/plan/shinki-jigyo-shijo-chosa-yarikata/）
+  - 「検索結果の見出しや要約だけで数字を採用しません」（https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/）
 
 ## データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説（common data journalism mistakes averages totals denominators）
 - 文脈：失敗
@@ -6175,3 +6178,165 @@
   - 「を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
   - 「筆者がこれまで支援してきた企業の多くは、市場規模を過大評価したまま参入し、事業計画が破綻する事例を繰り返してきました」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
   - 「筆者が支援したある消費財メーカーでは、市場機会分析を実施せずに新カテゴリーに参入した結果、想定市場規模の5分の1しか存在せず、3年で撤退を余儀なくされました」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+
+## 名寄せ・照合の精度をまとまり単位の抜き取りで測る方法（件数に比例した抜き取り・ペア単位の精度の偏り）（entity resolution evaluation cluster sampling precision bias）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「This paper introduces a novel evaluation methodology for entity resolution algorithms. It is motivated」（https://arxiv.org/pdf/2210.01230）
+  - 「using an entity resolution algorithm. We provide a data collection methodology and tailored performance」（https://arxiv.org/pdf/2210.01230）
+  - 「performance. In the case of PatentsView’s disambiguation, no principled evaluation methodology is avail-」（https://arxiv.org/pdf/2210.01230）
+  - 「able to measure performance, to inform users of the reliability of the data, and to support methodological」（https://arxiv.org/pdf/2210.01230）
+  - 「porting methodological research to improve disambiguation algorithms. We propose novel evaluation method-」（https://arxiv.org/pdf/2210.01230）
+  - 「datasets, with nearly perfect precision and recall reported in the latest methodological report (Monath et al.,」（https://arxiv.org/pdf/2210.01230）
+  - 「There are two main uses for accurate and statistically rigorous evaluation methodology.」（https://arxiv.org/pdf/2210.01230）
+  - 「biguation methodology. This requires choosing between alternative methods and evaluating the results of」（https://arxiv.org/pdf/2210.01230）
+  - 「methodological experiments. Without sound evaluation methodology, decisions regarding the disambigua-」（https://arxiv.org/pdf/2210.01230）
+  - 「disambiguation methodology for evaluation, the proposed estimators, and our simulation study that we use」（https://arxiv.org/pdf/2210.01230）
+  - 「2 Data and Methodology」（https://arxiv.org/pdf/2210.01230）
+  - 「In this section, we introduce the benchmark datasets used at PatentsView, our hand-disambiguation method-」（https://arxiv.org/pdf/2210.01230）
+  - 「ology, our proposed performance metric estimators, and the simulation framework that we use to compare」（https://arxiv.org/pdf/2210.01230）
+  - 「2.2 Hand-Disambiguation Methodology」（https://arxiv.org/pdf/2210.01230）
+  - 「Note that our data collection methodology is biased toward PantentsView’s current disambiguation.」（https://arxiv.org/pdf/2210.01230）
+- 突き合わせ・推定：
+  - 「is to obtain estimates that are representative of performance on the full data, for which no ground truth」（https://arxiv.org/pdf/2210.01230）
+  - 「tative performance estimates (Fuller, 2011).」（https://arxiv.org/pdf/2210.01230）
+  - 「Figure 1: Distribution of precision estimates versus the true precision of 52% (shown as a dotted vertical」（https://arxiv.org/pdf/2210.01230）
+  - 「line). Panel A shows the trivial precision estimates computed for sampled records. Panel B shows our」（https://arxiv.org/pdf/2210.01230）
+  - 「proposed precision estimates which accounts for the sampling mechanism. Sample bias and root mean squared」（https://arxiv.org/pdf/2210.01230）
+  - 「In panel A of ﬁgure 1, we see the distribution of precision estimates versus the true precision of 52%」（https://arxiv.org/pdf/2210.01230）
+  - 「shown as a dotted vertical line. Precision estimates are usually very close to 100% and always higher than」（https://arxiv.org/pdf/2210.01230）
+  - 「benchmark datasets. In our simulation studies (see Figure 3 for instance), naive precision estimates are」（https://arxiv.org/pdf/2210.01230）
+  - 「estimate precision and recall from sampled record pairs. Other approaches to the estimation of performance」（https://arxiv.org/pdf/2210.01230）
+  - 「metrics are model based, where estimated precision and recall can be obtained from predicted match prob-」（https://arxiv.org/pdf/2210.01230）
+  - 「2. It can easily be generalized to estimate other clustering metrics, such as cluster precision, cluster recall,」（https://arxiv.org/pdf/2210.01230）
+  - 「provide estimates for precision or recall (McVeigh et al., 2019), or provided solutions tailored to very speciﬁc」（https://arxiv.org/pdf/2210.01230）
+  - 「provide cost-eﬀective estimates for any disambiguation algorithm.」（https://arxiv.org/pdf/2210.01230）
+  - 「to validate the performance of our estimators. Section 3 then presents our performance estimates and results」（https://arxiv.org/pdf/2210.01230）
+  - 「estimates based on this data might therefore be slightly optimistic, which should be acknowledged when」（https://arxiv.org/pdf/2210.01230）
+- 失敗・落とし穴：
+  - 「estimators that account for sampling biases. Our approach is simple, practical and principled – key」（https://arxiv.org/pdf/2210.01230）
+  - 「leads to misleading and highly biased performance metrics as shown in section 1.1. This is concerning given」（https://arxiv.org/pdf/2210.01230）
+  - 「Example 1 (Bias of precision computed on benchmark datasets). To exemplify the problem with the trivial」（https://arxiv.org/pdf/2210.01230）
+  - 「bias = 0.467」（https://arxiv.org/pdf/2210.01230）
+  - 「bias = -0.001」（https://arxiv.org/pdf/2210.01230）
+  - 「proposed precision estimates which accounts for the sampling mechanism. Sample bias and root mean squared」（https://arxiv.org/pdf/2210.01230）
+  - 「proposed precision estimator which is nearly unbiased. Both precision estimators rely on exactly the same」（https://arxiv.org/pdf/2210.01230）
+  - 「discussed in section 1.1, are nearly unbiased, and are easy to use in practice.」（https://arxiv.org/pdf/2210.01230）
+  - 「Furthermore, our approach is novel. To our knowledge, we are the ﬁrst to propose unbiased performance」（https://arxiv.org/pdf/2210.01230）
+  - 「estimators based on cluster and block samples. Past work either ignored biases when computing precision」（https://arxiv.org/pdf/2210.01230）
+  - 「Note that our data collection methodology is biased toward PantentsView’s current disambiguation.」（https://arxiv.org/pdf/2210.01230）
+  - 「readability, we present here a generic formula for an approximately unbiased estimator of the ratio of means」（https://arxiv.org/pdf/2210.01230）
+  - 「and then specify the needed quantities for each representation below. The estimator applies a ﬁrst order bias」（https://arxiv.org/pdf/2210.01230）
+  - 「assuming the corrected estimator has a small bias (S¨ arndal et al., 2003; Fuller, 2011). The generic formula」（https://arxiv.org/pdf/2210.01230）
+  - 「100 times in order to provide the distribution of the estimators and metrics such as bias and root mean」（https://arxiv.org/pdf/2210.01230）
+- 実例：
+  - 「performance. In the case of PatentsView’s disambiguation, no principled evaluation methodology is avail-」（https://arxiv.org/pdf/2210.01230）
+  - 「example 1 below.」（https://arxiv.org/pdf/2210.01230）
+  - 「Example 1 (Bias of precision computed on benchmark datasets). To exemplify the problem with the trivial」（https://arxiv.org/pdf/2210.01230）
+  - 「used in numerous scientiﬁc studies (Toole et al., 2021). For example, Choudhury and Kim (2019) studied」（https://arxiv.org/pdf/2210.01230）
+  - 「In cases where no errors were found, the current disambiguation was assumed to be correct. Performance」（https://arxiv.org/pdf/2210.01230）
+  - 「Figure 2: Example of ground truth clustering C (represented by boxes with a full border) and pre-」（https://arxiv.org/pdf/2210.01230）
+  - 「Cluster Sampling Representation In the cluster sampling case, sampling probabilities are typically」（https://arxiv.org/pdf/2210.01230）
+  - 「rate helps showcase the properties of our estimators when only a small proportion of the sampled clusters is」（https://arxiv.org/pdf/2210.01230）
+  - 「record/cluster sampling cases, we looked at the eﬀect of sampling 100, 200 and 400 records/clusters.」（https://arxiv.org/pdf/2210.01230）
+  - 「and with the bias adjustment given in (8). Note that in the case of recall with cluster blocks, the」（https://arxiv.org/pdf/2210.01230）
+  - 「naive recall estimator performs well in this case. However, the recall estimator accounting for the sampling」（https://arxiv.org/pdf/2210.01230）
+  - 「size distributions. The bias of ratio estimators can be high in this case, especially when using small samples」（https://arxiv.org/pdf/2210.01230）
+  - 「estimation accuracy in such cases.」（https://arxiv.org/pdf/2210.01230）
+  - 「This section provides more information on example 1.」（https://arxiv.org/pdf/2210.01230）
+  - 「For this example, we considered the RLdata10000 dataset from Sariyar and Borg (2022). This is a」（https://arxiv.org/pdf/2210.01230）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+
+## 調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法（outcome switching pre-registration discrepancy detection research）
+- 文脈：失敗
+- 手順・やり方：
+  - 「How to detect outcome switching by comparing a trial’s registered outcomes against its published results, what CONSORT 2010 and ICMJE require, and how trial teams and reviewers can catch and prevent it.」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
+  - 「) against the published paper, outcome by outcome. This guide covers what counts as switching versus a legitimate pre-specified amendment, how to check for it as a reviewer or reader, what the standards bodies require, and how to avoid it as a trial team.」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
+  - 「How to detect it: the registry-comparison method」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
+  - 「The registration number should be in the paper’s methods section or abstract (this is what CONSORT 2010 item 24 requires). Search the exact number on the registry it names, or search」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
+  - 「This exact method — registry-to-publication comparison across every trial in a defined set of journals, rather than a spot check — is the approach the」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
+  - 「[REPORTED — the project’s existence, timeframe, institutional home, and methodology are confirmed directly against the project’s own site; this page does not cite a specific discrepancy percentage or letter-publication count, since those weren’t independently re-verified this session — re-confirm the exact figures against a COMPare/BMJ primary source before citing a specific number.]」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
+  - 「How to prevent it as a trial team」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
+  - 「also defining minor switching between trial protocol and published RCT. This method was implemented to increase the awareness of, and to more easily communicate the extent of outcome switching in published RCTs」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
+  - 「Kay A, Higgins J, Day AG, Meyer RM, Booth CM. Randomized controlled trials in the era of molecular oncology: methodology, biomarkers, and end points. Ann Oncol. 2012;23:1646–1651. doi: 10.1093/annonc/mdr492.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
+- 突き合わせ・推定：
+  - 「State the amendment explicitly in the published paper, per CONSORT item 6b, rather than leaving a reader to discover it by cross-checking the registry independently.」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
+  - 「. Outcome switching towards positive results might overestimate treatment effects for published data.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
+- 一次情報の探し方：
+  - 「[REPORTED — the project’s existence, timeframe, institutional home, and methodology are confirmed directly against the project’s own site; this page does not cite a specific discrepancy percentage or letter-publication count, since those weren’t independently re-verified this session — re-confirm the exact figures against a COMPare/BMJ primary source before citing a specific number.]」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
+  - 「PDF (1.5 MB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
+- 失敗・落とし穴：
+  - 「Why it matters: the reporting-bias mechanism」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
+  - 「. Publication bias filters which studies get published at all, based on whether the overall result was positive; outcome switching filters which」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
+  - 「risk-of-bias assessment」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
+  - 「: RoB 2’s fifth domain covers exactly this — “bias in selection of the reported result.” A registry-versus-publication mismatch you find while extracting data is directly reportable evidence for that domain judgement, not a separate side note.」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
+  - 「: a discrepancy is still worth a letter to the editor or a comment through the journal’s post-publication commenting system; several of the corrections publicly documented in the reporting-bias literature originated exactly this way.」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
+  - 「. Selecting only results from high-impact journals might bias results towards certain journals」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
+  - 「it is probable that industry funded research is more well planned at the time of trial registration. However, for-profit funded research has also been associated with non-publication of trials and publication bias favoring positive results. Hence, the negative association between for-profit RCTs and outcome switching could be due to publication bias rather than superior study quality」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
+- 実例：
+  - 「when the published report and the trial’s own registry entry disagree on what was measured as primary or secondary, and the disagreement isn’t explained. Three patterns cover most real cases:」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
+  - 「= 0.06). Twenty studies with major switching and 19 studies with minor switching were observed. Examples of major switches according to Chan」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
+  - 「was the presence of a new primary outcome or an initially secondary outcome listed as a primary outcome in the published manuscript. Examples of minor switches were related to reformulated primary outcomes or rearrangements in pre-specified lists of several primary outcomes.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
+
+## OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務（OSINT evidence preservation chain of custody hashing web capture）
+- 文脈：記録
+- 手順・やり方：
+  - 「探偵業者や調査会社がネット調査の結果を報告書で裏づける方法がProofSnapです」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「調査から納品まで4ステップ」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「「この法律において「探偵業務」とは、他人の依頼を受けて、特定人の所在又は行動についての情報であって当該依頼に係るものを収集することを目的として面接による聞込み、尾行、張込みその他これらに類する方法により実地の調査を行い、その調査の結果を当該依頼者に報告する業務をいう」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「Document the date and time of capture, the method used, and the identity of the investigator who performed the capture.」（https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/）
+  - 「Document the source, method, and time of every evidence capture.」（https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/）
+  - 「IP address analysis is fundamental to cybercrime investigations, threat intelligence, and network forensics. When investigating cyberattacks, phishing campaigns, or unauthorized access, identifying the source IP address is often the first step in attribution.」（https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/）
+  - 「OSINT investigations rarely rely on a single tool. Here's how to combine Forensic OSINT utilities for maximum effectiveness:」（https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/）
+  - 「OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them | Authentic8」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Is there a documented record of the investigative steps used to reach the conclusion?」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Document the tools, methods, and relevant technical conditions used to access and capture the evidence.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Source URL and access method」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「The most common OSINT chain-of-custody failures occur when investigators collect information without preserving the metadata, methodology, and contextual records needed to verify it later.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Capturing visual evidence without documenting its source, timestamp, or collection method.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Transferring evidence without the methodology and context supporting it.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+- 突き合わせ・推定：
+  - 「探偵・調査会社向けOSINT証拠保全2026｜報告書に添える検証可能な記録と社名入りPDF｜ProofSnap」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「検証ツール（Trust Verifier）」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「依頼者も、その先の弁護士も、無料の検証ツールで独立に検証できます」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「リンクまたはファイルをお送りいただければ、裁判所が検証できる署名付き・タイムスタンプ付きのパッケージを48時間以内にお返しします」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「：自社ロゴ入りPDFと証拠ZIPを添付し、依頼者と弁護士が独立に検証できる形で引き渡します」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「NTPで検証した時刻、DNSの解決結果、TLS情報、HTTPレスポンスヘッダ、WHOIS情報も併せて記録され、ISO/IEC 27037の考え方に沿った構成になっています」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「弁護士側は無料の検証ツールで独立に検証できるため、調査会社の信用に依存しない形で受け渡せます」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+- 一次情報の探し方：
+  - 「探偵・調査会社向けOSINT証拠保全2026｜報告書に添える検証可能な記録と社名入りPDF｜ProofSnap」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「社名入りPDF · 複数タブのセッション記録 ·」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「各タブにスクリーンショット、ページソース、メタデータ、チェーン・オブ・カストディ、PDFを生成」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「：自社ロゴ入りPDFと証拠ZIPを添付し、依頼者と弁護士が独立に検証できる形で引き渡します」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「EnterpriseとCompanyでは自社ロゴ入りPDFを出力でき、報告書と体裁を統一できます」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「法人サイトの沿革や役員情報、求人票の記載、報道、口コミ」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「各タブにスクリーンショット、ページソース、テキスト、メタデータ、チェーン・オブ・カストディ、PDFが生成されます」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「EnterpriseプランおよびCompanyプランでは、証拠PDFに自社のロゴ、名称、住所、連絡先、指定色を反映できます」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「Capture pages exactly as seen, expand comments automatically, and generate digitally signed PDF evidence in seconds.」（https://www.forensicosint.com/）
+  - 「Generate digitally signed, court-ready PDF reports at capture time」（https://www.forensicosint.com/）
+  - 「Generate professional PDF reports structured for investigative review, disclosure, and legal scrutiny.」（https://www.forensicosint.com/）
+  - 「Professional PDF Reports」（https://www.forensicosint.com/）
+  - 「Digitally signed PDF outputs, with the time recorded by the Forensic OSINT system.」（https://www.forensicosint.com/）
+  - 「You can generate professional, court-ready PDF reports that include:」（https://www.forensicosint.com/）
+- 失敗・落とし穴：
+  - 「OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them | Authentic8」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「What Are the 8 Most Common OSINT Chain-of-Custody Mistakes?」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「This can create concerns about selective reporting or confirmation bias, particularly when the investigation is challenged.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+- 実例：
+  - 「探偵業者や調査会社がネット調査の結果を報告書で裏づける方法がProofSnapです」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「bbs.example.jp/thread/8812」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「market.example/items/33914」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「example.co.jp/company/history」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「ネット調査の結果を、報告書でどう裏づけますか？」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「時系列で複数回取得しておくと、変化そのものが調査結果になります」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「「この法律において「探偵業務」とは、他人の依頼を受けて、特定人の所在又は行動についての情報であって当該依頼に係るものを収集することを目的として面接による聞込み、尾行、張込みその他これらに類する方法により実地の調査を行い、その調査の結果を当該依頼者に報告する業務をいう」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「取得の各工程が操作種別、時刻、対象、結果とともに記録され、各エントリが直前のハッシュを含む連鎖構造になっています」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「DNSの解決結果、TLS情報、HTTPレスポンスヘッダ、WHOIS情報が同時に記録されます」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「取得の各工程が、操作の種類、時刻、対象、結果とともに記録され、各エントリが直前のエントリのハッシュを含む連鎖構造になっています」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「NTPで検証した時刻、DNSの解決結果、TLS情報、HTTPレスポンスヘッダ、WHOIS情報も併せて記録され、ISO/IEC 27037の考え方に沿った構成になっています」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「Organize evidence into cases and disclosure-ready packages」（https://www.forensicosint.com/）
+  - 「Example of a digitally signed, court-ready capture report」（https://www.forensicosint.com/）
+  - 「Cases are built across days, weeks, or months. Evidence must stay organized, traceable, and connected as the case develops.」（https://www.forensicosint.com/）
+  - 「Notes, observations, and investigative context are captured with the evidence itself, not stored separately. This keeps meaning, intent, and relevance intact as the case develops.」（https://www.forensicosint.com/）

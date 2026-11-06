@@ -1,0 +1,602 @@
+{
+ "name": "国内企業物価指数 金属製品・表面処理・金型の類別 2016〜2019年（名目の1人あたり出荷額・付加価値を実質で読む分母・4-37）",
+ "en": "Bank of Japan corporate goods price index metal products 2016-2019",
+ "aliases": [
+  "企業物価指数 金属製品 2016 2019 site:boj.or.jp",
+  "企業物価指数 類別 金属製品 時系列 データ",
+  "日本銀行 時系列統計 企業物価 金属製品"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-06T05:53:36.985986+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "7－1．調査価格数・調査先企業数",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "・2019 年の国内向け出荷額 （2019 年工",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業統計の出荷額から、2019 年貿易統",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の国内向け出荷額（2019 年工業統計",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の出荷額を 2020 年動態統計で延長",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 国内取引については、①、②、③の取引額を生産者の出荷額ベースで算出している",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウエイト対象総取引額 2,229,261億円 656,062 億円 690,426 億円",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "採用基準額 669 億円 328億円 345億円",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜参考＞2015年基準 215 億円 343億円 369億円",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取引総額 (A) 2,345,440億円 672,727億円 725,816億円",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウエイト対象総取引額 (B) 2,229,261億円 656,062億円 690,426億円",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "採用商品の取引額 (C) 1,812,944億円 474,514億円 517,206億円",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2020 年基準",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年 6月",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "12－3．価格変動に季節性が強い品目における補完方法（前年比補完）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5－1．2019～2021年平均（2015年基準指数）における品質調整の実施状況",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1．2020年基準接続指数 ....................................................... 86",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2．2020年基準改定の概要 ..................................................... 93",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を、基準時点（2020 年）の価格を 100 として、指数化したものである",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "基準時 指数の基準時は、2020 年の年平均",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウエイトは、2019 年と 2020 年の平均値を適用",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・2019 年の国内向け出荷額 （2019 年工",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業統計の出荷額から、2019 年貿易統",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "計の輸出額を控除した額） と2020 年",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の国内向け出荷額（2019 年工業統計",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の出荷額を 2020 年動態統計で延長",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "推計した額から、2020 年貿易統計の",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・貿易統計（輸出額、輸入額）における2019 年と",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020 年の平均値を採用",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：調査価格数は、2022 年 3月時点",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neji-bane.jp/statistics/price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/notice_2019/data/not190116b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://release.nikkei.co.jp/attach_file/0504463_02.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp010501006000010572/2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://site1.sbisec.co.jp/ETGate/?_ControlID=WPLETmgR001Control&_PageID=WPLETmgR001Mdtl30&_ActionID=DefaultAID&_DataStoreID=DSWPLETmgR001Control&OutSide=on&getFlg=on&burl=search_market&cat1=market&cat2=report&dir=report&file=report_top.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/otsu/2019/pdf/2019report10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.komeri.com/include_html/commodities_insert/koukoku/18_kao/05.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports/93723/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komeri.com/include_html/commodities_insert/koukoku/HB101/001.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/nihon/g4017.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/pi/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat-search.boj.or.jp/ssi/cgi-bin/famecgi2?cgi=$nme_a000&lstSelection=PR01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat-search.boj.or.jp/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000822503.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kantoko.com/blog/2022/01/89663/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.komeri.com/include_html/commodities_insert/koukoku/13_mog/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/openurl?cs=api_openurl&q-title=%E5%B7%A5%E5%A0%B4%E3%80%81%E9%91%9B%E5%B1%B1%E3%81%AE%E7%94%A3%E6%A5%AD%E5%8F%8A%E8%B3%83%E9%8A%80%E5%BD%A2%E6%85%8B%E5%88%A5%E5%8B%9E%E5%83%8D%E8%80%85%E6%95%B8%E7%B5%B1%E8%A8%88%E8%A1%A8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://release.nikkei.co.jp/attach_file/0502013_01.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.komeri.com/include_html/commodities_insert/koukoku/onshitsu/13.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mynewsdesk.com/us/reportbazzarreports/pressreleases/japan-metal-casting-industry-2016-market-research-report-1381419.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://release.nikkei.co.jp/attach_file/0510280_05.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.komeri.com/include_html/commodities_insert/koukoku/12_kyatatsu/2d.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2606.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ycharts.com/indicators/japan_domestic_corporate_goods_price_index_metal_products",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/pi/cgpi_release/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/PPI00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.indexbox.io/indicators/symbol/export-prices-yen-basis-subgroup-metal-products-corporate-goods-price-index-2020-base-percent-change-on-a-year-earlier-bank-of-japan-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.macromicro.me/charts/687/jp-corporate-goods-price-index",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "国内企業物価指数 金属製品・表面処理・金型の類別 2016〜2019年（名目の1人あたり出荷額・付加価値を実質で読む分母・4-37） 人手不足 受注 断る",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.boj.or.jp/statistics/outline/notice_2019/data/not190116b.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://release.nikkei.co.jp/attach_file/0504463_02.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010572/2",
+    "https://site1.sbisec.co.jp/ETGate/?_ControlID=WPLETmgR001Control&_PageID=WPLETmgR001Mdtl30&_ActionID=DefaultAID&_DataStoreID=DSWPLETmgR001Control&OutSide=on&getFlg=on&burl=search_market&cat1=market&cat2=report&dir=report&file=report_top.html",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/HB101/001.html",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010572/4"
+   ]
+  },
+  {
+   "query": "国内企業物価指数 金属製品・表面処理・金型の類別 2016〜2019年（名目の1人あたり出荷額・付加価値を実質で読む分母・4-37） 受注残 人手不足",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.boj.or.jp/statistics/outline/notice_2019/data/not190116b.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010572/2",
+    "https://release.nikkei.co.jp/attach_file/0504463_02.pdf",
+    "https://site1.sbisec.co.jp/ETGate/?_ControlID=WPLETmgR001Control&_PageID=WPLETmgR001Mdtl30&_ActionID=DefaultAID&_DataStoreID=DSWPLETmgR001Control&OutSide=on&getFlg=on&burl=search_market&cat1=market&cat2=report&dir=report&file=report_top.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/otsu/2019/pdf/2019report10.pdf",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/18_kao/05.html",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93723"
+   ]
+  },
+  {
+   "query": "国内企業物価指数 金属製品・表面処理・金型の類別 2016〜2019年（名目の1人あたり出荷額・付加価値を実質で読む分母・4-37） 人手不足 損失 億円",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.boj.or.jp/statistics/outline/notice_2019/data/not190116b.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010572/2",
+    "https://release.nikkei.co.jp/attach_file/0504463_02.pdf",
+    "https://site1.sbisec.co.jp/ETGate/?_ControlID=WPLETmgR001Control&_PageID=WPLETmgR001Mdtl30&_ActionID=DefaultAID&_DataStoreID=DSWPLETmgR001Control&OutSide=on&getFlg=on&burl=search_market&cat1=market&cat2=report&dir=report&file=report_top.html",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/HB101/001.html",
+    "https://www.stat.go.jp/data/nihon/g4017.html"
+   ]
+  },
+  {
+   "query": "国内企業物価指数 金属製品・表面処理・金型の類別 2016〜2019年（名目の1人あたり出荷額・付加価値を実質で読む分母・4-37）",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.boj.or.jp/statistics/outline/notice_2019/data/not190116b.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010572/2",
+    "https://release.nikkei.co.jp/attach_file/0504463_02.pdf",
+    "https://site1.sbisec.co.jp/ETGate/?_ControlID=WPLETmgR001Control&_PageID=WPLETmgR001Mdtl30&_ActionID=DefaultAID&_DataStoreID=DSWPLETmgR001Control&OutSide=on&getFlg=on&burl=search_market&cat1=market&cat2=report&dir=report&file=report_top.html",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/HB101/001.html"
+   ]
+  },
+  {
+   "query": "国内企業物価指数 金属製品・表面処理・金型の類別 2016〜2019年（名目の1人あたり出荷額・付加価値を実質で読む分母・4-37） 推移",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.soumu.go.jp/main_content/000822503.pdf",
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://kantoko.com/blog/2022/01/89663/",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010572/2",
+    "https://site1.sbisec.co.jp/ETGate/?_ControlID=WPLETmgR001Control&_PageID=WPLETmgR001Mdtl30&_ActionID=DefaultAID&_DataStoreID=DSWPLETmgR001Control&OutSide=on&getFlg=on&burl=search_market&cat1=market&cat2=report&dir=report&file=report_top.html"
+   ]
+  },
+  {
+   "query": "国内企業物価指数 金属製品・表面処理・金型の類別 2016〜2019年（名目の1人あたり出荷額・付加価値を実質で読む分母・4-37） 統計 PDF",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "https://www.boj.or.jp/statistics/outline/notice_2019/data/not190116b.pdf",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://site1.sbisec.co.jp/ETGate/?_ControlID=WPLETmgR001Control&_PageID=WPLETmgR001Mdtl30&_ActionID=DefaultAID&_DataStoreID=DSWPLETmgR001Control&OutSide=on&getFlg=on&burl=search_market&cat1=market&cat2=report&dir=report&file=report_top.html",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/13_mog/index.html",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010572/2",
+    "https://iss.ndl.go.jp/api/openurl?mediatype=1&rft.title=%E5%B7%A5%E5%A0%B4%E3%80%81%E9%91%9B%E5%B1%B1%E3%81%AE%E7%94%A3%E6%A5%AD%E5%8F%8A%E8%B3%83%E9%8A%80%E5%BD%A2%E6%85%8B%E5%88%A5%E5%8B%9E%E5%83%8D%E8%80%85%E6%95%B8%E7%B5%B1%E8%A8%88%E8%A1%A8"
+   ]
+  },
+  {
+   "query": "国内企業物価指数 金属製品・表面処理・金型の類別 2016〜2019年（名目の1人あたり出荷額・付加価値を実質で読む分母・4-37） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.boj.or.jp/statistics/outline/notice_2019/data/not190116b.pdf",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://site1.sbisec.co.jp/ETGate/?_ControlID=WPLETmgR001Control&_PageID=WPLETmgR001Mdtl30&_ActionID=DefaultAID&_DataStoreID=DSWPLETmgR001Control&OutSide=on&getFlg=on&burl=search_market&cat1=market&cat2=report&dir=report&file=report_top.html",
+    "https://release.nikkei.co.jp/attach_file/0502013_01.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010572/2",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/HB101/001.html"
+   ]
+  },
+  {
+   "query": "国内企業物価指数 金属製品・表面処理・金型の類別 2016〜2019年（名目の1人あたり出荷額・付加価値を実質で読む分母・4-37） 従業者規模別",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.boj.or.jp/statistics/outline/notice_2019/data/not190116b.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010572/2",
+    "https://site1.sbisec.co.jp/ETGate/?_ControlID=WPLETmgR001Control&_PageID=WPLETmgR001Mdtl30&_ActionID=DefaultAID&_DataStoreID=DSWPLETmgR001Control&OutSide=on&getFlg=on&burl=search_market&cat1=market&cat2=report&dir=report&file=report_top.html",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/onshitsu/13.html",
+    "https://iss.ndl.go.jp/api/openurl?mediatype=1&rft.title=%E5%B7%A5%E5%A0%B4%E3%80%81%E9%91%9B%E5%B1%B1%E3%81%AE%E7%94%A3%E6%A5%AD%E5%8F%8A%E8%B3%83%E9%8A%80%E5%BD%A2%E6%85%8B%E5%88%A5%E5%8B%9E%E5%83%8D%E8%80%85%E6%95%B8%E7%B5%B1%E8%A8%88%E8%A1%A8"
+   ]
+  },
+  {
+   "query": "国内企業物価指数 金属製品・表面処理・金型の類別 2016〜2019年（名目の1人あたり出荷額・付加価値を実質で読む分母・4-37） 1人当たり 万円",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.boj.or.jp/statistics/outline/notice_2019/data/not190116b.pdf",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010572/2",
+    "https://release.nikkei.co.jp/attach_file/0504463_02.pdf",
+    "https://site1.sbisec.co.jp/ETGate/?_ControlID=WPLETmgR001Control&_PageID=WPLETmgR001Mdtl30&_ActionID=DefaultAID&_DataStoreID=DSWPLETmgR001Control&OutSide=on&getFlg=on&burl=search_market&cat1=market&cat2=report&dir=report&file=report_top.html",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/HB101/001.html"
+   ]
+  },
+  {
+   "query": "国内企業物価指数 金属製品・表面処理・金型の類別 2016〜2019年（名目の1人あたり出荷額・付加価値を実質で読む分母・4-37） 2015 2025",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.soumu.go.jp/main_content/000822503.pdf",
+    "https://www.boj.or.jp/statistics/outline/notice_2019/data/not190116b.pdf",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.mynewsdesk.com/us/reportbazzarreports/pressreleases/japan-metal-casting-industry-2016-market-research-report-1381419.pdf",
+    "https://release.nikkei.co.jp/attach_file/0510280_05.pdf",
+    "https://site1.sbisec.co.jp/ETGate/?_ControlID=WPLETmgR001Control&_PageID=WPLETmgR001Mdtl30&_ActionID=DefaultAID&_DataStoreID=DSWPLETmgR001Control&OutSide=on&getFlg=on&burl=search_market&cat1=market&cat2=report&dir=report&file=report_top.html",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/12_kyatatsu/2d.html"
+   ]
+  },
+  {
+   "query": "Bank of Japan corporate goods price index metal products 2016-2019 Japan statistics",
+   "results": [
+    "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2606.pdf",
+    "https://ycharts.com/indicators/japan_domestic_corporate_goods_price_index_metal_products",
+    "https://www.boj.or.jp/en/statistics/pi/cgpi_release/index.htm",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/PPI00",
+    "https://app.indexbox.io/indicators/symbol/export-prices-yen-basis-subgroup-metal-products-corporate-goods-price-index-2020-base-percent-change-on-a-year-earlier-bank-of-japan-japan/",
+    "https://en.macromicro.me/charts/687/jp-corporate-goods-price-index",
+    "https://www.stat.go.jp/english/data/cpi/158c.html",
+    "https://fred.stlouisfed.org/series/COJPNZ332",
+    "https://db.nomics.world/BOJ/CGPI",
+    "https://www.boj.or.jp/en/statistics/pi/index.htm"
+   ]
+  },
+  {
+   "query": "site:note.com 国内企業物価指数 金属製品・表面処理・金型の類別 2016〜2019年（名目の1人あたり出荷額・付加価値を実質で読む分母・4-37）",
+   "results": [
+    "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "https://note.com/andy868/n/n797d2f8be589",
+    "https://note.com/kabunewstock/n/nfdeaf60a8253",
+    "https://note.com/sya_tousi7777/n/nd01ea2b4e949",
+    "https://note.com/sya_tousi7777/n/nd01ea2b4e949?hl=en",
+    "https://note.com/ogawa_tech/n/n98ec8dc88d23",
+    "https://note.com/3n7no_tech_pr/n/n3ea2e6b3cdf7"
+   ]
+  },
+  {
+   "query": "site:x.com 国内企業物価指数 金属製品・表面処理・金型の類別 2016〜2019年（名目の1人あたり出荷額・付加価値を実質で読む分母・4-37）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2105102116444680567",
+    "https://jf.x.com/images/media-preview/2113603718679822770",
+    "https://jf.x.com/images/media-preview/2114701082966536331",
+    "https://jf.x.com/images/media-preview/2111557039554175169",
+    "https://jf.x.com/images/media-preview/2114964538563109131",
+    "https://x.com/asahicom/status/2117013822678736971",
+    "https://x.com/hasibiro_maga/status/2097704211471581378"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 国内企業物価指数 金属製品・表面処理・金型の類別 2016〜2019年（名目の1人あたり出荷額・付加価値を実質で読む分母・4-37）",
+   "results": [
+    "https://jp.linkedin.com/in/takuya-kawai-207841227",
+    "https://economicgraph.linkedin.com/",
+    "https://in.linkedin.com/in/karthickrajas20",
+    "https://jp.linkedin.com/pulse/金型および金型製品市場調査による2026年から2033年までの金型および金型製品-7505704297985282048-wzscf",
+    "https://jp.linkedin.com/pulse/tungsten-price-market-trends-regional-qydcc",
+    "https://jp.linkedin.com/pulse/global-研磨仕上げ機-market-studyその規模成長可能性および2026年から2033年までの年平均成長率cagrを含む-7yjue",
+    "https://jp.linkedin.com/pulse/日本製品の地味な魅力が海外で評価される理由と市場調査での活かし方-嘉一-中島-5jrcc"
+   ]
+  },
+  {
+   "query": "site:facebook.com 国内企業物価指数 金属製品・表面処理・金型の類別 2016〜2019年（名目の1人あたり出荷額・付加価値を実質で読む分母・4-37）",
+   "results": [
+    "https://www.facebook.com/jpkanagata/",
+    "https://www.facebook.com/groups/1194947818324113/",
+    "https://www.facebook.com/p/金型部品のテイト-61557642395687/",
+    "https://www.facebook.com/profile.php/?id=61570619146059",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-1月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1571957758266375/",
+    "https://www.facebook.com/asahicom/videos/t261024_国内の金型業者が減少mxmp4/1661230312217847/",
+    "https://www.facebook.com/INTERMOLD/posts/1809681779076679/"
+   ]
+  },
+  {
+   "query": "国内企業物価指数 金属製品・表面処理・金型の類別 2016〜2019年（名目の1人あたり出荷額・付加価値を実質で読む分母・4-37） note 社長",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.boj.or.jp/statistics/outline/notice_2019/data/not190116b.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010572/2",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/18_kao/05.html",
+    "https://release.nikkei.co.jp/attach_file/0524039_04.pdf",
+    "https://www.mynewsdesk.com/us/reportbazzarreports/pressreleases/japan-metal-casting-industry-2016-market-research-report-1381419.pdf",
+    "https://kanpou.npb.go.jp/20250422/20250422g00090/pdf/20250422g000900093.pdf",
+    "https://www.precisionreports.co/jp/market-reports/methodology/aerospace-special-metal-market-608750"
+   ]
+  },
+  {
+   "query": "国内企業物価指数 金属製品・表面処理・金型の類別 2016〜2019年（名目の1人あたり出荷額・付加価値を実質で読む分母・4-37） X 投稿",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.boj.or.jp/statistics/outline/notice_2019/data/not190116b.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010572/2",
+    "https://release.nikkei.co.jp/attach_file/0504463_02.pdf",
+    "https://site1.sbisec.co.jp/ETGate/?_ControlID=WPLETmgR001Control&_PageID=WPLETmgR001Mdtl30&_ActionID=DefaultAID&_DataStoreID=DSWPLETmgR001Control&OutSide=on&getFlg=on&burl=search_market&cat1=market&cat2=report&dir=report&file=report_top.html",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/HB101/001.html"
+   ]
+  },
+  {
+   "query": "Bank of Japan corporate goods price index metal products 2016-2019 site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/patrick-guerriero-01817b59",
+    "https://www.linkedin.com/in/pranav-nair",
+    "https://in.linkedin.com/in/umesh-vashishth-466625288",
+    "https://in.linkedin.com/in/kumar-saurabh-83563760",
+    "https://ua.linkedin.com/in/artem-starosiek/en",
+    "https://ch.linkedin.com/in/james-griffiths-6798a639",
+    "https://id.linkedin.com/in/chandra-prakash-bansal-a7ba6b7",
+    "https://id.linkedin.com/in/dewi-ayati-16a3a81b4",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7500344465036001281",
+    "https://www.linkedin.com/posts/japannews24_the-corporate-goods-price-index-cgpi-for-activity-7196206436643659778-eILS"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ34頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ34頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ34頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ34頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ34頁・検索18回）"
+ }
+}
