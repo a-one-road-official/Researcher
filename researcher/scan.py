@@ -745,6 +745,29 @@ def kougyo_size_section(topic):
     md.append("")
     return md
 
+# 2026-11-07 4-68（Journalist's Resource「Basic data analysis: making the call」：比べる単位の平均の周りの95%の幅を出し、
+# その中に入る単位は「平均並み」として高い・低いと書かない）。kougyo_series.csv の最新の同じ年で、注目の細分類の
+# 従業者1人あたり製造品出荷額等の平均・標準誤差・95%の幅を出し、幅の外の細分類だけを高い・低いとして挙げる
+METHOD_DISC = re.compile(r"(n\s*[=＝]\s*\d|回答(数|者数|企業数|率)|有効回答|社を対象|名を対象|人を対象|調査方法|調査手法|調査概要|標本|サンプル(数|サイズ)|調査期間|調査対象|sample size|respondents|methodology)", re.I)
+def kougyo_callband(by):
+    fld = "従業者1人あたり製造品出荷額等"
+    pts = {}
+    for (code, name), rs in by.items():
+        if not KOUGYO_FOCUS.search(name or "") or len(str(code)) != 4: continue
+        for y, r in rs:
+            v = _kf(r.get(fld))
+            if v is not None and v > 0: pts.setdefault(y, {})[(code, name)] = v
+    ys = [y for y in sorted(pts) if len(pts[y]) >= 5]
+    if not ys: return []
+    y = ys[-1]; vals = list(pts[y].values()); n = len(vals)
+    m = statistics.mean(vals); sd = statistics.stdev(vals); se = sd / n ** 0.5; ci = 1.96 * se
+    hi = [f"{c} {nm} {v:,.1f}" for (c, nm), v in sorted(pts[y].items(), key=lambda kv: -kv[1]) if v > m + ci]
+    lo = [f"{c} {nm} {v:,.1f}" for (c, nm), v in sorted(pts[y].items(), key=lambda kv: kv[1]) if v < m - ci]
+    mid = n - len(hi) - len(lo)
+    return [f"- 平均並みの幅（4-68・{y}年・注目の細分類{n}業種・{fld}・百万円）：平均 {m:,.2f}・標準誤差 {se:,.3f}・95%の幅 {m - ci:,.2f}〜{m + ci:,.2f}。"
+            f"幅の中の{mid}業種は「平均並み」として高い・低いと書かない",
+            "  - 幅より上：" + ("、".join(hi[:8]) or "なし"), "  - 幅より下：" + ("、".join(lo[:8]) or "なし")]
+
 def kougyo_section(topic):
     f = os.path.join(OUT, topic, "kougyo_series.csv")
     if not os.path.exists(f): return []
@@ -795,6 +818,7 @@ def kougyo_section(topic):
             shown += 1
     if shown == 0: md.append("- （番号つきの行が年2点以上そろわない）")
     md += kougyo_segments(by)
+    md += kougyo_callband(by)
     return md + [""]
 
 # 2026-11-06 走査で見つかった失敗から（4-26・4-37・4-44）：上の年率は実績2013→2019年を1本で結ぶので、
@@ -1129,6 +1153,11 @@ def scan(topic):
             md.append(f"  - 書き方（4-23）：{phrasing(gr, g)}／格付け（4-28・出どころA〜F×情報1〜6）：{admiralty(g, gr)}")
             fse = {}
             for r in g: fse[fse_of(r)] = fse.get(fse_of(r), 0) + 1
+            # 2026-11-07 4-68（HR Fraternity「conflicting market research」：方法・標本数・利害を開示しない推計は注意して扱う）。
+            # 調査会社の値があるのに、方法・標本・対象の開示の語を含む引用が1件も無ければ印を付ける
+            _rc = [r for r in g if r["一次"] == "調査会社"]
+            if _rc and not any(METHOD_DISC.search(r.get("引用", "")) for r in _rc):
+                md.append(f"  - ⚠ 方法の開示が見えない推計 {len(_rc)}件（4-68）：標本数・調査方法・調査対象の語が引用に無い。方法を開示した版（報告書の概要・調査概要）を取るまで、採る値・裏付けにしない")
             md.append("  - 数字の種類（4-51・届出／言明／報道／推定）：" + "・".join(f"{k}{fse.get(k, 0)}" for k in ("届出", "言明", "報道", "推定")) + ("。届出0件：「〇〇によると」で書き、確かめた値のように書かない" if not fse.get("届出") else ""))
             # 2026-11-06 4-44 走査の失敗から：金型の従業者数で、金型工業会の「就労者12万人」（年なし・昔の値）と「約7万人」（年なし）と記事の2024年69,553人が
             # 同じ欄で【裏付けあり】になった。時点の違う値の一致・年の無い値は、同じ対象の裏付けではない（4-1 の①時点の違い）
