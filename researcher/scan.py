@@ -16,10 +16,12 @@ PRIMARY = re.compile(r"(\.go\.jp|xbrl|kanpo|houjin-bangou|\.lg\.jp|e-stat|edinet
 NEWSHOST = re.compile(r"^(news\.|.*(note\.com|sharelab|nikkei|itmedia|monoist|prtimes|yahoo|newswitch|nikkan|livedoor|ameblo|hatena))", re.I)
 # 2026-11-05 4-24：登記・開示・判決の「写し」を載せたまとめサイトは一次にしない（Altss OSINT 検証基準：
 # 登記の写しは、役所・登記所の仕組みから取り直すまで報道と同じ扱い）。EDINET・法人番号の写しのサイトが URL に edinet・houjin を含んでも一次にしない
-COPYHOST = re.compile(r"(irbank|buffett-code|kabutan|minkabu|ullet|houjin\.info|houjin-info|corporate-number|alarmbox|catr\.jp|b2bportal|houjinbangou\.|stockclip|kabuyoho|yahoo)", re.I)
+COPYHOST = re.compile(r"(irbank|buffett-code|kabutan|minkabu|ullet|houjin\.info|houjin-info|corporate-number|alarmbox|catr\.jp|kanpoo\.jp|kanpo-kensaku|b2bportal|houjinbangou\.|stockclip|kabuyoho|yahoo)", re.I)
 # 2026-11-05 走査の失敗から：神奈川県・京都府の統計（www.pref.kanagawa.jp・www.pref.kyoto.jp）が「.lg.jp」でないため一次0件と出た（mfg_capacity の工業統計表の品目）。
 # 都道府県・市の公式ドメイン（pref.<名>.jp・city.<名>.<…>.jp・metro.tokyo）は自治体自身の統計なので一次にする
 LOCALGOV = re.compile(r"(^|\.)(pref\.[a-z]+\.jp|city\.[a-z-]+(\.[a-z]+)?\.jp|metro\.tokyo(\.lg)?\.jp)$", re.I)
+# 2026-11-06 4-49：範囲の違いの語（グロービス「マーケットシェア」・電子決算公告ドットコム「官報の決算公告の閲覧」）
+SCOPEMIX = re.compile(r"(合算|を含む|を含めた|含まない|を除く|連結ベース|全事業|グループ全体|広義|狭義)")
 def is_primary(url):
     host = urlparse(url).netloc
     return (bool(PRIMARY.search(url)) or bool(LOCALGOV.search(host))) and not NEWSHOST.search(host) and not COPYHOST.search(host)
@@ -587,7 +589,9 @@ def kougyo_segments(by):
     def segs(years):
         out, cur = [], []
         for y in years:
-            if cur and (y in breaks or cur[-1] in breaks or y != cur[-1] + 1):
+            # 2026-11-06 走査の失敗から：段差の年 y は「y−1 と y の間が切れる」の意味。前は段差の年の後ろでも切っていて、
+            # 2016年が1点だけの区間になり、同じ工業統計の続きの 2016→2019年が 2017→2019年（3点）に縮んでいた
+            if cur and (y in breaks or y != cur[-1] + 1):
                 out.append(cur); cur = []
             cur.append(y)
         if cur: out.append(cur)
@@ -796,6 +800,18 @@ def scan(topic):
                 if len(vals) >= 4:
                     q1, _, q3 = statistics.quantiles(vals, n=4)
                     if pv < q1 or pv > q3: md.append(f"  - ⚠ 採る値が中ほど半分の幅（{q1:g}〜{q3:g}）の外：代表値の選び方で結論が変わりうる。幅の両端で同じ結論になるかを確かめてから書く（4-48）")
+                # 2026-11-06 4-49：最初に見つけた数字に引っ張られていないか（アンカリング。haurix「バイアスと競合仮説分析の心理学」）。
+                # 採る値が最初に取得した日の値だけと同じで、あとの日に取った値の半分以上が採る値から2倍以上離れていれば、最初の数字に寄った疑いを出す
+                dated = sorted((r for r in g if r.get("取得日")), key=lambda r: r["取得日"])
+                if len(dated) >= 4 and pv:
+                    d0 = dated[0]["取得日"]; first = {r["値"] for r in dated if r["取得日"] == d0}; later = [r["値"] for r in dated if r["取得日"] > d0]
+                    far = [v for v in later if v and (v / pv >= 2 or pv / v >= 2)] if pv > 0 else []
+                    if pv in first and later and len(far) * 2 >= len(later):
+                        md.append(f"  - ⚠ 最初の数字に寄った疑い（アンカリング）：採る値は最初の取得日（{d0}）の値で、あとで取った{len(later)}件のうち{len(far)}件が2倍以上離れる。あとの値の定義・年を先に確かめる（4-49）")
+            # 2026-11-06 4-49：市場の定義・範囲が違う数字を同じ欄で比べない（グロービス「マーケットシェア」：定義を変えたのに過去の数値と比べるのがよくある失敗／
+            # 決算が複数事業の合算なら対象の売上を切り分ける）。引用に合算・含む・範囲の語があれば件数を印す
+            mix = [r for r in g if SCOPEMIX.search(r["引用"])]
+            if mix: md.append(f"  - ⚠ 範囲が違う数字の疑い {len(mix)}件（合算・〜を含む・範囲の語）：何を含む数字かをそろえてから突き合わせる。合算の決算は対象の事業を切り分ける（4-49）")
             if gr in ("【食い違い】", "【未確認】") and len(vals) >= 2:
                 md.append(f"  - 【推定】保守側の値（低い側に寄せる・低確度）：{conservative(vals):g}{u}")
             # 2026-11-05 4-15：外れ値に引っ張られた幅か、全体が散っているかを見るため四分位も出す（感度の確認）
