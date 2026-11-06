@@ -191,6 +191,9 @@ def norm(v, u):
     return x, u
 
 OUTLIERS = {}
+# 2026-11-07 4-61：【食い違い】の欄のうち、記録した次元（期間・定義・版・規模・種類）で分かれた欄と分かれなかった欄の数。
+# 分かれない欄が多いほど、同じ対象か・単位の読みの誤りか（4-1 の③④）を本文で確かめる必要が大きい
+DIMSPLIT = {}
 # 2026-11-05 4-39：除外の点検（Kasica ら「Dirty Data in the Newsroom」CHI'23 の filter check：行を落としたら要約を取り直す。
 # 落とした件数を見ないと、見かけの完全さだけが上がる）。規則ごとに外した数字の件数を数えて scan_auto.md に出す
 DROPS = {}
@@ -201,6 +204,8 @@ SHORTQ = 12
 AMITEM = re.compile(r"金属AM|AM受託|積層造形|3Dプリン|WAAM|DED", re.I)
 AMWORD = re.compile(r"積層|3D|ＡＭ|\bAM\b|アディティブ|additive|プリンタ", re.I)
 MTORDER = re.compile(r"工作機械(の)?受注|日工会|日本工作機械工業会")
+PRICEIDX = re.compile(r"(物価指数|デフレーター|価格指数)")
+PRICEWORD = re.compile(r"(指数|物価|価格|デフレーター|前年比|騰落)")
 SHIPWORK = re.compile(r"造船.{0,12}(就労|従業|人手|働く)")
 SEAFARER = re.compile(r"(船員|外航|内航|定員|乗組)")
 SHIPYARD = re.compile(r"(造船|造船所|舶用|建造)")
@@ -225,15 +230,36 @@ def listpage_urls(d):
             per.setdefault(it.get("url", ""), []).append(bool(LISTLINE.match(q)) and not NUM.search(q))
     return {u for u, f in per.items() if u and len(f) >= 5 and sum(f) / len(f) >= 0.6}
 
+# 2026-11-07 4-61（jack4manastalk note の AI との対話の監査：利用者が「〜なのでしょうか？」と疑問文で尋ねた内容を、AI が
+# 「統計的に少数派」と断定に書き換え、存在しない統計が事実として残った）。疑問文の中の数字は問いであって事実ではない。
+# また AI の対話の出力をそのまま載せたページ（「ユーザーのご指摘」「結論から申し上げますと」「[一般知識」「推論合成」の型）は
+# 出典ではなく生成物なので、その型の引用が同じURLに2件以上あれば、そのURLの数字をすべて事実にしない（4-16 生成と検証を分ける）
+QUESTION = re.compile(r"(でしょうか|ですか|ませんか|のか|だろうか)\s*[？?]?\s*[」』)）]?\s*$|[？?]\s*[」』)）]?\s*$")
+AIGEN = re.compile(r"(ユーザーの(ご指摘|仮説|ご質問)|結論から申し上げますと|\[一般知識|推論合成|知識再生\]|AIの回答|ChatGPT(の|に)(回答|答え))")
+def aigen_urls(d):
+    per = {}
+    for items in (d.get("evidence") or {}).values():
+        for it in items or []:
+            q = unicodedata.normalize("NFKC", it.get("quote", "") or "")
+            if AIGEN.search(q): per[it.get("url", "")] = per.get(it.get("url", ""), 0) + 1
+    return {u for u, c in per.items() if u and c >= 2}
+
 def rows_from_doc(topic, d):
     if True:
         name = d.get("name", "")
         lpu = listpage_urls(d)
+        agu = aigen_urls(d)
         for cat, items in (d.get("evidence") or {}).items():
             for it in items or []:
                 q, url = unicodedata.normalize("NFKC", it.get("quote", "") or ""), it.get("url", "")  # 全角数字・全角％を半角に（4-12）
                 q = join_okuman(q)
                 if is_job_search(url): drop(topic, "求人サイトの検索結果ページ（4-31）"); continue
+                if url in agu:
+                    if NUM.search(q): drop(topic, "AIの対話の出力をそのまま載せたページ（4-61）")
+                    continue
+                if QUESTION.search(q.strip()):
+                    if NUM.search(q): drop(topic, "疑問文の中の数字（4-61）")
+                    continue
                 if url in lpu and LISTLINE.match(q.strip()):
                     if NUM.search(q): drop(topic, "一覧・目次のページの題名の行（4-60）")
                     continue  # 4-31 求人サイトの検索結果ページの数字は事実にしない
@@ -251,6 +277,12 @@ def rows_from_doc(topic, d):
                 # 品目が造船の就労者・従業員なのに、引用が船員・外航・内航・定員の語を含み造船・造船所の語を含まないものは、その品目の事実にしない
                 if SHIPWORK.search(name) and SEAFARER.search(q) and not SHIPYARD.search(q):
                     if NUM.search(q): drop(topic, "主語が別の対象（船員・定員・4-58）")
+                    continue
+                # 2026-11-07 走査の失敗から（4-61 主語の一致）：mfg_capacity の「日本銀行 企業物価指数 金属製品の年平均指数」の品目に、
+                # 指数の水準（単位の無い数字）は1つも入らず、日銀のページの別の統計の金額（万円・幅 2.15e+06〜2.2e+10）が15件入った。
+                # 品目が物価指数なのに、引用が指数・物価の語を含まない金額・人数は、その品目の事実にしない
+                if PRICEIDX.search(name) and not PRICEWORD.search(q):
+                    if NUM.search(q): drop(topic, "主語が別の統計（物価指数の品目に金額・4-61）")
                     continue
                 ys = YEAR.findall(q)
                 ctx = context_of(q)
@@ -323,9 +355,12 @@ GOLD = [
     ("金額の階級の境目・以下（4-40）", "500万円以下", "https://www.e-stat.go.jp/dbview?sid=1", []),
     ("表の番号（4-40）", "表 33 事業所数、従業者数", "https://www.pref.kanagawa.jp/a", []),
     ("階級でない金額は残す（4-40）", "売上高は5,000万円だった", "https://example.go.jp/a", [(5000, "万円")]),
+    ("疑問文の数字は事実にしない（4-61）", "製造業の3割が受注を断ったのでしょうか？", "https://example.com/a", []),
+    ("断定文の数字は残す（4-61）", "製造業の受注は3,000万円だった", "https://example.go.jp/a", [(3000, "万円")]),
     ("DIの%ポイントは割合にしない（4-48）", "雇用人員判断DIはマイナス35%ポイントと不足超", "https://www5.cao.go.jp/a", []),
 ]
 GOLD_DOCS = [  # 2026-11-07 4-60：1つの文書の中で決まる判定（一覧・目次のページ）
+    ("AIの対話の出力のページ（4-61）", ["結論から申し上げますと、約3割の企業です。", "ユーザーのご指摘は鋭く、売上は5,000万円規模です。", "従業者は12人である。"], "https://example.com/ai", []),
     ("一覧ページの題名の数字（4-60）", ["記事A 正規表現の実装", "記事B LSM フレームワーク", "記事C 仮想化の手引き", "記事D 3つの設定方法", "記事E 入力メソッド"], "https://example.org/notes/x", []),
     ("本文の数字は残す（4-60）", ["加工賃収入は3,000万円だった。", "従業者は12人である。", "設備は2台で、稼働は昼だけ。", "取引先は5社に増えた。", "受注の半分は県外から。"], "https://example.go.jp/a", [(3000, "万円"), (12, "人")]),
 ]
@@ -1116,6 +1151,7 @@ def scan(topic):
                     for fld, lab in (("年", "期間"), ("定義", "定義"), ("版", "版"), ("規模", "規模の範囲"), ("一次", "出どころの種類"), ("予測", "実績か見通しか")):
                         a0 = {r.get(fld) or "（無印）" for r in lo_g}; b0 = {r.get(fld) or "（無印）" for r in hi_g}
                         if lo_g and hi_g and not (a0 & b0): dims.append(f"{lab}（低い側 {'/'.join(sorted(a0))[:40]}｜高い側 {'/'.join(sorted(b0))[:40]}）")
+                    DIMSPLIT.setdefault(topic, [0, 0])[0 if dims else 1] += 1
                     md.append("  - 食い違いの次元（4-60）：" + ("、".join(dims) + "で分かれる。そろう組どうしでだけ比べる" if dims else "期間・定義・版・規模・種類では分かれない。同じ対象かと単位を本文で確かめ、解けるまで両端を残す"))
             # 2026-11-05 4-15：外れ値に引っ張られた幅か、全体が散っているかを見るため四分位も出す（感度の確認）
             if len(vals) >= 4:
@@ -1411,6 +1447,9 @@ def scan(topic):
            f"- 仕様にあるがまだ一度も回っていない品目：{len(notrun)}件" + ("（数字0件とは別。次の回を待つ）" if notrun else ""), *(f"  - {n}" for n in notrun[:20]),
            f"- 仕様から外れたのに結果が残る品目：{len(orphan)}件（結論に使うときは、外した理由を先に確かめる）", *(f"  - {n}" for n in orphan[:10]),
            f"- 同じ品目・同じ年に年度と暦年の引用が並ぶ欄：{len(fymix)}件（期間をそろえるまで向き・食い違いを読まない）", *(f"  - {n}" for n in fymix[:15]), ""]
+    ds = DIMSPLIT.get(topic)
+    if ds:
+        md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")
     open(os.path.join(OUT, topic, "scan_auto.md"), "w", encoding="utf-8").write("\n".join(md))
     return len(rows)
 
