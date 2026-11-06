@@ -3,7 +3,7 @@ kind: market
 title: リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）
 input: researcher/inputs/research_method.csv
 columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
-refresh_hours: 24  # 2026-11-06 1時間おき→1日1回（手法の書き足しが暴走の元だったため）
+refresh_hours: 1
 evidence:
   手順・やり方: [手順, ステップ, やり方, 方法, 型, フレーム, 進め方, コツ, 使い方, how to, step, method, framework]
   突き合わせ・推定: [推定, 推計, 逆算, 割り算, 掛け算, 仮説, 検証, 突き合わせ, 照合, 三角測量, クロスチェック, 矛盾, 食い違い, 裏取り, estimate, triangulation, cross-check, back-of-the-envelope]

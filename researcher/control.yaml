@@ -3,22 +3,22 @@
 # run: false にして push すると、次の回から止まる。
 # shards = 同時に回す本数、per_run = 1本が1回で調べる社数。
 # 2026-11-06 軸（本人合意）：A1の売る先の中で、樹脂以外の領域で、誰が夜も眠れないほど困っていて、その損をこちらが金額で示せるか。
-# ①どこに深い痛みがあるか ②その損はいくらか ③誰がもう解いているか。どれにも効かないテーマは run: false（データは消さない）。担ぐ物から探すテーマは①②が出てから③として再開。
+# ①どこに深い痛みがあるか ②その損はいくらか ③誰がもう解いているか。担ぐ物から探すテーマ（C）だけ run: false、①②が出てから③として再開。それ以外は止めない（本人指示）。
 topics:
-  research_method: {run: true, shards: 1, per_run: 4}  # 2026-11-05 リサーチ手法を外部（note・ブログ）から3時間おきに集め続ける。METHOD.md の書き換え材料
+  research_method: {run: true, shards: 3, per_run: 4}  # 2026-11-05 リサーチ手法を外部（note・ブログ）から3時間おきに集め続ける。METHOD.md の書き換え材料
   mfg_capacity: {run: true, shards: 6, per_run: 3}  # 2026-11-05 受託加工の全業種：平均社員数・受注額（加工賃収入）・1人あたり生産能力の金額を業種・規模別に10年推移で
   am_trade: {run: false, shards: 6, per_run: 12}
-  jgs17_market: {run: false, shards: 6, per_run: 7}
+  jgs17_market: {run: true, shards: 6, per_run: 7}
   deal_size: {run: false, shards: 4, per_run: 3}
   bundle_bench: {run: false, shards: 3, per_run: 3}
-  ir1000: {run: false, shards: 12, per_run: 8}
-  am_flow: {run: false, shards: 8, per_run: 10}
+  ir1000: {run: true, shards: 12, per_run: 8}
+  am_flow: {run: true, shards: 8, per_run: 10}
   whitelabel: {run: false, shards: 8, per_run: 3}  # 2026-11-03 追加24品目＋ゼロ9品目やり直し
-  materials_growth: {run: false, shards: 8, per_run: 3}
-  carmaker_sidebiz: {run: false, shards: 8, per_run: 4}
-  mfg_platforms: {run: false, shards: 8, per_run: 5}
+  materials_growth: {run: true, shards: 8, per_run: 3}
+  carmaker_sidebiz: {run: true, shards: 8, per_run: 4}
+  mfg_platforms: {run: true, shards: 8, per_run: 5}
   mfg_recruit_pr: {run: false, shards: 7, per_run: 2}
-  material_traders: {run: false, shards: 8, per_run: 5}
+  material_traders: {run: true, shards: 8, per_run: 5}
   am_software: {run: false, shards: 8, per_run: 5}
   field6_gap: {run: true, shards: 8, per_run: 4}  # 2026-11-05 穴埋め：造船の受注残と人手不足（一次）を追加（H7）。 2026-11-03 対象6分野33小区分：国内規模・参入社数・需給の差・法律・国の予算
   wl_field6: {run: false, shards: 8, per_run: 3}  # 2026-11-03 対象6分野33小区分の買い手向けホワイトラベルソフト（世界）と提供企業の黒字の証拠。第2段で会社ごとに黒字を三重確認
@@ -31,8 +31,8 @@ topics:
   mfg_hiring_seg: {run: true, shards: 8, per_run: 2}  # 2026-11-05 穴埋め4品目（規模別の採用費の統計・ワークス研究所の原典・職業別求人倍率・造船瀬戸内）。 2026-11-03 製造業の採用コストを規模（5区分）・職種・業種・地域に分けて取る（「中小製造業」で括らない）
   biz3_market: {run: false, shards: 7, per_run: 2}  # 2026-11-04 再実行（複数語の別名が一致しない不具合を修正） 2026-11-03 3つの選択肢（Yomi／卓上金属AMを担ぐ／WLソフトを受託開発会社へ）の市場の前提：売り先の数・単価・取り分・補助金・競合
   desktop_metal_makers: {run: false, shards: 4, per_run: 1}  # 2026-11-03 SnowXほか卓上金属AM 4社：価格・代理店条件・保守・ISO・創業年度・株主構成・売上
-  design_arch_count: {run: false, shards: 3, per_run: 2}  # 2026-11-04 デザイン事務所・建築設計事務所の数（規模別・都道府県別・瀬戸内）
-  trade_bench: {run: false, shards: 3, per_run: 1}  # 2026-11-04 商社の手本3社（マクニカ・ディッカー・データ・コーンズ）の始まり方・粗利・運転資金
+  design_arch_count: {run: true, shards: 3, per_run: 2}  # 2026-11-04 デザイン事務所・建築設計事務所の数（規模別・都道府県別・瀬戸内）
+  trade_bench: {run: true, shards: 3, per_run: 1}  # 2026-11-04 商社の手本3社（マクニカ・ディッカー・データ・コーンズ）の始まり方・粗利・運転資金
   export_cand: {run: false, shards: 5, per_run: 1}  # 2026-11-04 ゼロ2品目を短い別名で取り直し＋中古工作機械の輸出業者・外需の一次統計・商流と手数料を追加
   tenm_bench: {run: true, shards: 7, per_run: 2}  # 2026-11-04 ものづくり企業が年1,000万円以上を払う外部サービス14品目：価格帯・提供企業・導入期間・不満（大野式4軸の材料）
   value_process: {run: true, shards: 5, per_run: 2}  # 2026-11-04 キーエンスの高付加価値の作り方・大型ディールの型・ものづくり企業の工程ごとの置き換え余地（キャディは公開情報のみ）
@@ -41,19 +41,19 @@ topics:
   frame_import: {run: true, shards: 8, per_run: 2}  # 2026-11-04 業界の3C＋PEST（海外→日本）33小区分。同上
   industry_news: {run: true, shards: 6, per_run: 3}  # 2026-11-04 業界ニュース（毎日）33小区分
   customer_3c: {run: true, shards: 3, per_run: 1}  # 2026-11-04 顧客1社ごとの3C＋PEST（一次情報）。inputs/customer_3c.csv に足せば回る
-  am_ceiling: {run: false, shards: 6, per_run: 2}  # 2026-11-05 穴埋め3品目（公式料金表・海外上場の決算・防衛省の契約）を足して再開。 2026-11-04 金属AM受託の頭打ち金額：1件・1社年間・用途ごとの上限（12品目）
+  am_ceiling: {run: true, shards: 6, per_run: 2}  # 2026-11-05 穴埋め3品目（公式料金表・海外上場の決算・防衛省の契約）を足して再開。 2026-11-04 金属AM受託の頭打ち金額：1件・1社年間・用途ごとの上限（12品目）
   am_bureau: {run: false, shards: 7, per_run: 4}  # 2026-11-04 金属AM受託会社26社の売上・受託売上・設備台数・最大案件・料金・創業年度・株主構成
   entry_fit: {run: true, shards: 7, per_run: 3}  # 2026-11-04 5品目を細分化（セキュリティ4層は外して15層）：A1が入れるか・回せるか（精度に責任を持たない経営判断支援の層）。予知保全は工場設備だけ（プラントはやらない）
   entry_bench: {run: true, shards: 2, per_run: 1}  # 2026-11-04 手本の会社（AIVALIX・Fracta）の売り方・責任範囲・料金・創業年度・株主構成
-  phys_ai_demand: {run: false, shards: 6, per_run: 3}  # 2026-11-04 フィジカルAI・無人化で増える部材と用途19品目（超薄型モーターと素材を追加）（素材側優先。プラント・サイバー・ソフト側AIは除外）
-  feedstock_market: {run: false, shards: 7, per_run: 2}  # 2026-11-04 3分野（航空宇宙・パワー半導体・マテリアル）向け金属AM原料（粉・ワイヤ・フィラメント）17品目（日本の顧客が買うかを追加）：ニッチ度・CAGR・主要プレイヤー複数社・市場規模・売り方・繰り返し性・価格・シェア
-  kurosaki_scan: {run: false, shards: 6, per_run: 3}  # 2026-11-04 黒崎式・第1段：A1の売る先16産業の需給の差×大手プラットフォームの不在
+  phys_ai_demand: {run: true, shards: 6, per_run: 3}  # 2026-11-04 フィジカルAI・無人化で増える部材と用途19品目（超薄型モーターと素材を追加）（素材側優先。プラント・サイバー・ソフト側AIは除外）
+  feedstock_market: {run: true, shards: 7, per_run: 2}  # 2026-11-04 3分野（航空宇宙・パワー半導体・マテリアル）向け金属AM原料（粉・ワイヤ・フィラメント）17品目（日本の顧客が買うかを追加）：ニッチ度・CAGR・主要プレイヤー複数社・市場規模・売り方・繰り返し性・価格・シェア
+  kurosaki_scan: {run: true, shards: 6, per_run: 3}  # 2026-11-04 黒崎式・第1段：A1の売る先16産業の需給の差×大手プラットフォームの不在
   kurosaki_unit: {run: false, shards: 5, per_run: 2}  # 2026-11-04 黒崎式・第2段：入口候補10種の3つの数字（獲得単価・払う単価・成約率）と許可・立ち上がり期間
   recruit_pr_verify: {run: true, shards: 8, per_run: 3}  # 2026-11-04 仮説の検証：中堅製造業向け採用広報を一次情報で23品目（営業より採用に困っているか・瀬戸内・造船・対象3分野・意思決定者・高卒・外国人材を追加）
   mfg_recruit_cos: {run: true, shards: 6, per_run: 3}  # 2026-11-04 製造業の採用領域の前例17社（製造業特化の全国＋瀬戸内の地場）：売上・料金・売り方・創業年度・株主構成
   mfg_hiring_pain: {run: true, shards: 6, per_run: 2}  # 2026-11-06 製造業の採用の困りごとを職種別×規模別×地域（京浜）で。求人倍率・高卒・充足率・受注を断った・倒産の数字
-  bv100: {run: false, shards: 8, per_run: 6}  # 2026-11-05 ベストベンチャー100（2016〜2026）全選出企業：公式サイト＋年ごとのアーカイブ（web.archive.org）＋選出プレスリリースで名簿→産業を中身で判定（取引先・客の呼び方・扱う職種・許認可、2つ一致で確定。機能ラベルは使わない）→各社の資本金・設立・株主
-  census_jsic: {run: false, shards: 6, per_run: 3}  # 2026-11-05 経済センサス 大分類18：企業数・従業者数・売上・資本金1億円以上の社数・広告宣伝費（ベストベンチャー100の社数と並べてブランクを見る）
+  bv100: {run: true, shards: 8, per_run: 6}  # 2026-11-05 ベストベンチャー100（2016〜2026）全選出企業：公式サイト＋年ごとのアーカイブ（web.archive.org）＋選出プレスリリースで名簿→産業を中身で判定（取引先・客の呼び方・扱う職種・許認可、2つ一致で確定。機能ラベルは使わない）→各社の資本金・設立・株主
+  census_jsic: {run: true, shards: 6, per_run: 3}  # 2026-11-05 経済センサス 大分類18：企業数・従業者数・売上・資本金1億円以上の社数・広告宣伝費（ベストベンチャー100の社数と並べてブランクを見る）
   setouchi_mfg: {run: true, shards: 8, per_run: 8}  # 2026-11-05 瀬戸内(+全国町工場)の製造業中小：大学/高専の説明会・タウンページ・地元求人から社名→検索で照合→求人媒体と想定年収→公式サイトで採用の出し方
 
 # X の困りごと（有料API・1投稿ごとに課金）。topics とは別の仕組み（.github/workflows/x_pain.yml）。
