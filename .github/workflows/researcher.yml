@@ -113,7 +113,7 @@ jobs:
         run: |
           shopt -s nullglob
           for d in dl/research-*/*/; do t=$(basename "$d"); mkdir -p "researcher/out/$t/companies"; cp "$d"companies/*.json "researcher/out/$t/companies/" 2>/dev/null || true; done
-          for t in researcher/out/*/; do [ "$(basename "$t")" = brief ] || python -m researcher.merge "$(basename "$t")"; done
+          for t in researcher/out/*/; do n=$(basename "$t"); [ "$n" = brief ] && continue; [ -f "researcher/topics/$n.yaml" ] || continue; python -m researcher.merge "$n" || echo "merge $n failed"; done
           python -m researcher.scan || true
           python -m researcher.health || true
           python -m researcher.brief
