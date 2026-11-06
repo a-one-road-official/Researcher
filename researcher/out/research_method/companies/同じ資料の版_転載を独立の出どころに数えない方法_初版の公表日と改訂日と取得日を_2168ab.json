@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ・推定",
  "kind": "market",
- "researched_at": "2026-11-06T13:56:44.264451+00:00",
+ "researched_at": "2026-11-06T18:05:24.145087+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -59,22 +59,17 @@
     "method": "browser"
    },
    {
-    "url": "https://www.turnitins.org/tips/ja/ja-turnitin-academic-writing-2",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "http://www.yamanouchi-yri.com/yrihp/techwrt-2-3s/t-2-3s05f.htm",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://daigakusei.spring-online.jp/column/37/",
+    "url": "https://www.turnitins.org/tips/ja/ja-turnitin-academic-writing-2",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.kwire.co.jp/blog/faq/a65",
+    "url": "https://daigakusei.spring-online.jp/column/37/",
     "status": "ok",
     "method": "http"
    },
@@ -94,9 +89,19 @@
     "method": "http"
    },
    {
-    "url": "https://www.kwire.co.jp/blog/faq/a56",
+    "url": "https://www.jstage.jst.go.jp/article/jjsme/105/2/105_17/_pdf/-char/en",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sme.or.jp/wp-content/uploads/2021/11/jsme_reference_style_20211031.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sme.or.jp/wp-content/uploads/2025/06/jsme_reference_style.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://manuelgarcia.info/guides/research/guide/preprint-published-version-double-counting",
@@ -119,12 +124,12 @@
     "method": "http"
    },
    {
-    "url": "https://scispace.com/guides/mind-the-updates-converting-preprint-citations-when-papers-get-published",
+    "url": "https://guides.lib.byu.edu/c.php?g=1534497&p=11501186",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://guides.lib.byu.edu/c.php?g=1534497&p=11501186",
+    "url": "https://guides.augusta.edu/APA/InformallyPublishedArticles",
     "status": "ok",
     "method": "http"
    }
@@ -172,7 +177,7 @@
     "https://shiryouhunters.com/document-version-control-comparison/",
     "https://jmla1927.org/doc/ill/ill_manual.pdf",
     "https://help.autodesk.com/view/NINCAD/2027/JPN/?guid=GUID-5EB32BFA-C6B7-4445-AB82-5B05AB908568",
-    "https://www.turnitins.org/tips/ja/ja-turnitin-academic-writing-2"
+    "http://www.yamanouchi-yri.com/yrihp/techwrt-2-3s/t-2-3s05f.htm"
    ]
   },
   {
@@ -187,7 +192,7 @@
     "https://shiryouhunters.com/document-version-control-comparison/",
     "https://jmla1927.org/doc/ill/ill_manual.pdf",
     "https://help.autodesk.com/view/NINCAD/2027/JPN/?guid=GUID-5EB32BFA-C6B7-4445-AB82-5B05AB908568",
-    "https://www.turnitins.org/tips/ja/ja-turnitin-academic-writing-2"
+    "https://daigakusei.spring-online.jp/column/37/"
    ]
   },
   {
@@ -197,24 +202,24 @@
     "https://guides.lib.unc.edu/evidence-synthesis/citations",
     "https://libraries.apu.edu/deduplicate",
     "https://guides.lib.utexas.edu/systematicreviews/deduplication",
-    "https://scispace.com/resources/mind-the-updates-converting-preprint-citations-when-papers-get-published/",
     "https://guides.lib.byu.edu/c.php?g=1534497&p=11501186",
     "https://guides.augusta.edu/APA/InformallyPublishedArticles",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10789108/",
     "https://uvu.libguides.com/systematic-review/deduplication",
-    "https://guides.library.duke.edu/c.php?g=633433&p=4429292",
-    "https://casrai.org/guides/preprint-prior-publication-conflict"
+    "https://scispace.com/resources/mind-the-updates-converting-preprint-citations-when-papers-get-published/",
+    "https://casrai.org/guides/preprint-version-numbering-citation-tracking"
    ]
   },
   {
    "query": "site:note.com 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き",
    "results": [
-    "https://note.com/megasameta/n/n4a3c2effd8cc",
     "https://note.com/akachan_dn/n/ndc1c9714c189",
     "https://note.com/ojisan_fox6008/n/n329298d69b7c",
-    "https://note.com/sensou188/n/n018cbef4789c",
     "https://note.com/moritomokyan/n/n194bac433163",
+    "https://note.com/shin_yoshimura/n/nfde1abb74fe9",
     "https://note.com/fukuidharu/n/nca0390441108",
-    "https://note.com/chosakuken/n/n9cc63ad9d85e"
+    "https://note.com/k42uk1yura/n/n2b83c45b50f4",
+    "https://note.com/lithe_macaw336/n/nb1551ee73c2a"
    ]
   },
   {
@@ -222,11 +227,11 @@
    "results": [
     "https://x.com/SuguruKun_ai/status/2081243132923179021",
     "https://x.com/Cristoforou/status/2108004013761552558",
+    "https://help.x.com/ja/rules-and-policies/copyright-policy",
     "https://x.com/kamonnanami/status/2109541760146002081",
     "https://x.com/kensumi_ai/status/2101364465468121424",
-    "https://x.com/tsuntsun2914/status/2065335458033516717",
-    "https://x.com/i/status/2073595757140275442",
-    "https://x.com/MDPI_Japan/status/2118166182301954304"
+    "https://x.com/Nonamed_A/status/2083109830752190855",
+    "https://x.com/i/status/2073595757140275442"
    ]
   },
   {
@@ -236,9 +241,9 @@
     "https://www.linkedin.com/help/linkedin/answer/a6282984",
     "https://jp.linkedin.com/learning/google-sheets-essential-traning/5018644",
     "https://www.linkedin.com/posts/利明-和泉-331756322_同じ物件情報を扱っていても相談したい相手は分かれる差がつくのは情報の量ではなく-activity-7507831166876483584-YF7I",
+    "https://jp.linkedin.com/posts/伸一-吉村-096684223_売れる営業ほど資料の中身にこだわらず売れない営業ほど資料が悪いと言い訳する-activity-7429479766564601856-nxn_",
     "https://jp.linkedin.com/posts/teradanaofumi_aiで自動化する前にその仕事自体を消した方がいい-最近かなりそう思っています-activity-7498180479892791296-YyXj",
-    "https://jp.linkedin.com/learning/solidworks-2021-essential-training-assemblies-and-sketches/3032099",
-    "https://jp.linkedin.com/pulse/丁寧に整理する人ほど伝わらない-並べることは構造化ではない-hiroaki-mori-81mkc"
+    "https://jp.linkedin.com/learning/cert-prep-system-development-for-fundamental-information-technology-engineer-examination/4470167"
    ]
   },
   {
@@ -246,39 +251,39 @@
    "results": [
     "https://www.facebook.com/adachi.hanga/posts/浮世絵の初版しょはんと後版あとはんとは-アダチの初版へのこだわり-先日ご紹介した広重の猿若町夜の景この作品の満月にかかるあてなしぼかしで摺られた一筋の黒い雲は初/1709043655914249/",
     "https://www.facebook.com/kenji.shibata.54/photos/前作の制作時と同じ資料写真をベースに作業しておりますがそのまま同じように描くのもつまらないので微妙に仕様を変えて/24837631269246183/",
-    "https://www.facebook.com/igcc.jp/posts/研究員からのレポート初版とか二版とか-こんにちはキバンゲリオンです今回は基板のお話しをします初版とか二版とか最初に言い出したのは誰なのかしら-駆け抜けてゆく消費/331961793906514/",
-    "https://www.facebook.com/keiohistory/posts/学問のすゝめ初編初版本は激レア本こちらの学問のすゝめは明治5年今から150年前に印刷された最初の版ですわずか20ページあまりでまだ珍しい金属活字を用いており日本/463442642440388/",
+    "https://www.facebook.com/elsevierjapan/posts/エルゼビアジャパンで出版している書籍オンライン商品などで使用している図版などの転載をご希望の方は以下のサイトにアクセスしてフォームにご記入をお願いいたしますht/2062316100452256/",
     "https://www.facebook.com/JapanLungCancerSociety/posts/重要転載許諾申請がオンラインになりました2025年7月1日火より日本肺癌学会が発行する刊行物の転載許諾申請方法がオンライン申請に変更となりました以下の内容をご確/1045672987770866/",
-    "https://www.facebook.com/takaokamunicipalmuseum/posts/２年前被災資料レスキューに仁ヶ竹主幹がお伺いした際に発見した屏風が清暉の真筆とされる作品と同じものである可能性があるとし確認が進められているとのことです北日本新/1516681313588090/",
-    "https://www.facebook.com/elsevierjapan/posts/エルゼビアジャパンで出版している書籍オンライン商品などで使用している図版などの転載をご希望の方は以下のサイトにアクセスしてフォームにご記入をお願いいたしますht/2062316100452256/"
+    "https://www.facebook.com/keiohistory/posts/学問のすゝめ初編初版本は激レア本こちらの学問のすゝめは明治5年今から150年前に印刷された最初の版ですわずか20ページあまりでまだ珍しい金属活字を用いており日本/463442642440388/",
+    "https://www.facebook.com/igcc.jp/posts/研究員からのレポート初版とか二版とか-こんにちはキバンゲリオンです今回は基板のお話しをします初版とか二版とか最初に言い出したのは誰なのかしら-駆け抜けてゆく消費/331961793906514/",
+    "https://www.facebook.com/takaokamunicipalmuseum/posts/２年前被災資料レスキューに仁ヶ竹主幹がお伺いした際に発見した屏風が清暉の真筆とされる作品と同じものである可能性があるとし確認が進められているとのことです北日本新/1516681313588090/"
    ]
   },
   {
    "query": "同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き note 社長",
    "results": [
-    "https://www.janul.jp/sites/default/files/%E5%A4%A7%E5%AD%A6%E5%9B%B3%E6%9B%B8%E9%A4%A8%E9%96%93%E7%9B%B8%E4%BA%92%E5%88%A9%E7%94%A8%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB.pdf",
     "https://mimasaka.jp/library/news/119-131",
+    "https://www.janul.jp/sites/default/files/%E5%A4%A7%E5%AD%A6%E5%9B%B3%E6%9B%B8%E9%A4%A8%E9%96%93%E7%9B%B8%E4%BA%92%E5%88%A9%E7%94%A8%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB.pdf",
     "https://contents.nii.ac.jp/sites/default/files/catill/2022-08/copyrightQA_1.pdf",
-    "http://www.sllr.j.u-tokyo.ac.jp/info/20191216inyou.pdf",
     "https://waseda-jp.libguides.com/ld.php?content_id=51333510",
-    "https://www.ngu.jp/library/guidance/sougoriyou/",
+    "http://www.sllr.j.u-tokyo.ac.jp/info/20191216inyou.pdf",
     "https://shiryouhunters.com/document-version-control-comparison/",
-    "https://jmla1927.org/doc/ill/ill_manual.pdf",
-    "https://help.autodesk.com/view/NINCAD/2027/JPN/?guid=GUID-5EB32BFA-C6B7-4445-AB82-5B05AB908568"
+    "https://www.ngu.jp/library/guidance/sougoriyou/",
+    "https://www.nul.nagoya-u.ac.jp/oap/os/rdata.html",
+    "https://www.tcl.gr.jp/usage-guidance/copy/copy-rule/"
    ]
   },
   {
    "query": "同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き X 投稿",
    "results": [
-    "https://www.janul.jp/sites/default/files/%E5%A4%A7%E5%AD%A6%E5%9B%B3%E6%9B%B8%E9%A4%A8%E9%96%93%E7%9B%B8%E4%BA%92%E5%88%A9%E7%94%A8%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB.pdf",
     "https://mimasaka.jp/library/news/119-131",
+    "https://www.janul.jp/sites/default/files/%E5%A4%A7%E5%AD%A6%E5%9B%B3%E6%9B%B8%E9%A4%A8%E9%96%93%E7%9B%B8%E4%BA%92%E5%88%A9%E7%94%A8%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB.pdf",
     "https://contents.nii.ac.jp/sites/default/files/catill/2022-08/copyrightQA_1.pdf",
-    "http://www.sllr.j.u-tokyo.ac.jp/info/20191216inyou.pdf",
     "https://waseda-jp.libguides.com/ld.php?content_id=51333510",
-    "https://www.ngu.jp/library/guidance/sougoriyou/",
+    "http://www.sllr.j.u-tokyo.ac.jp/info/20191216inyou.pdf",
     "https://shiryouhunters.com/document-version-control-comparison/",
-    "https://jmla1927.org/doc/ill/ill_manual.pdf",
-    "https://help.autodesk.com/view/NINCAD/2027/JPN/?guid=GUID-5EB32BFA-C6B7-4445-AB82-5B05AB908568",
+    "https://www.ngu.jp/library/guidance/sougoriyou/",
+    "https://www.nul.nagoya-u.ac.jp/oap/os/rdata.html",
+    "https://www.tcl.gr.jp/usage-guidance/copy/copy-rule/",
     "https://www.turnitins.org/tips/ja/ja-turnitin-academic-writing-2"
    ]
   },
@@ -290,22 +295,22 @@
     "https://www.linkedin.com/in/indiyoung",
     "https://www.linkedin.com/in/hlflanagan",
     "https://ci.linkedin.com/in/rabah-arezki-40b14a66",
-    "https://www.linkedin.com/in/peterjbromberg",
-    "https://www.linkedin.com/company/paradigmpubserv",
     "https://www.linkedin.com/company/guide-labs",
-    "https://uk.linkedin.com/company/cambridgeinternational",
-    "https://www.linkedin.com/company/ucb-pharma"
+    "https://www.linkedin.com/company/paradigmpubserv",
+    "https://be.linkedin.com/in/giovannicircella",
+    "https://www.linkedin.com/company/4d-molecular-therapeutics-llc",
+    "https://www.linkedin.com/in/aprilrinne"
    ]
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ23頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ23頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ23頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ23頁・検索12回）",
-  "実例": "記載なし（読んだ23頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ24頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ24頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ24頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ24頁・検索12回）",
+  "実例": "記載なし（読んだ24頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-06T13:56:44.264451+00:00"
 }

@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・129品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・132品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1662,56 +1662,62 @@
 ## 調査会社の市場規模推計の食い違いと見分け方（market research report estimates discrepancy how to evaluate）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「数えた方法は、報告書に書いてある」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「2024年の大型案件の上位4件のうち、歴代の上位10件に入るのは1件だけで、残る9件は2019〜2022年に集まったという」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「方法の詳細は、三つの公開ページには示されていない」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「数えた手順が公開されない数字は、数えた主体が名乗っていても、手の届かないところにある」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「JETROが引く統計資料と、共同通信が伝える協会の数字は、どちらも集計の手順を書いていない」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「ただし、数えた手順は、公開ページには出ておらず、有料の本編の中にあるとみられる」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「有料の本編を読めていないため、三つのページの数字が、どの手順で作られたのかは分からない」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「論文のように、手順をすべて開示する場ではない」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「その資料の、集計方法の節を読む」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「最後の段で、方法が有料の本編にあると分かれば、そこが公開情報の行き止まりである」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「従来型の小売（記事はMULOと呼ぶ）は5.1%増、自然食品系は6.1%減だった」（https://note.com/sun_r_lab/n/n46a73223c4d4）
-  - 「一因は新型コロナで持ち出し需要が減ったことだ、と同担当者は見る」（https://note.com/sun_r_lab/n/n46a73223c4d4）
-  - 「従来型の小売では、首位のGT's Living Foodsが4%増だった」（https://note.com/sun_r_lab/n/n46a73223c4d4）
-  - 「2位のKeVita（PepsiCo）は、従来型で2.2%減、自然食品系で13.1%減である」（https://note.com/sun_r_lab/n/n46a73223c4d4）
-  - 「製品別では、従来型が91.2%で、アルコール入りのハードは2026年から2033年に年平均11.5%で伸びる、と予測する」（https://note.com/sun_r_lab/n/n46a73223c4d4）
+  - 「市場規模の調べ方｜国内の無料データソースと推計手順 | ネクストイノベーションベース」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「市場規模の調べ方｜国内の無料データソースと推計手順」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「市場規模の算定方法は、大きな統計から対象分を絞るトップダウンと、顧客数・購入頻度・単価を積み上げるボトムアップの2系統です」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「年齢、世帯類型、地域など統計表ごと」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「調査会社や業界メディアの数字は、無料公開部分で定義・推計方法・基準年・地域を確認できなければ計算根拠に置きません」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「7工程は、国内の公的統計を初期推計へつなぎ、第三者が同じ計算をたどれる状態にするための手順です」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「数字が更新されても、同じ手順で差し替えられる状態が目的です」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「複数の市場規模が食い違うときは、正誤を急いで決めず、対象、地域、時点、取引段階、単位、推計方法を横並びにします」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「比較表には、資料名と作成機関、対象年、商品・顧客・地域の定義、取引段階、税と表示単位、集計・推計方法、採否の理由を並べます」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「一点推計を避けるには、根拠が最も強い値で基準シナリオを作り、結果を大きく動かす変数を一つずつ振る方法が有効です」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「Navigating Conflicting Market Research Results: How to Identify the Most Accurate Analysis – HR Fraternity」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
+  - 「Navigating Conflicting Market Research Results: How to Identify the Most Accurate Analysis」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
+  - 「how to identify accurate market research analysis」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
+  - 「Understanding Market Research Methodologies」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
+  - 「? Understanding Market Research Methodologies」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
 - 突き合わせ・推定：
-  - 「その数字は、誰が計ったのか ― 発酵食品市場規模のデータ検証 ―｜Sun&R.Lab合同会社」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「その数字は、誰が計ったのか ― 発酵食品市場規模のデータ検証 ―」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「報告書自身が、これを保守的な推計と呼ぶ」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「第二に、同じページの中に、食い違いがある」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「URLと閲覧日の付いた引用は、読者に検証の入口を手渡す」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「SNS Insiderの2026年6月4日付のページは、2025年を3,022.8億ドルと推計する」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「GMIのページは、2022〜2035年の推計を、金額（億ドル）と数量（キロトン）の両方で行うと書く」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「読者が検証できる形では、示されていない」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「そのうえで、保守的な推計だと、報告書自身が断る」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「だが、人目を引くことと、検証できることは、別の性質である」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「この検証には、ほかにも限界がある」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「決めていたのは、検証の入口が付いているかどうかだった」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「脚注の番号とURLと閲覧日は、読者に検証の権利を手渡す行為である」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「GFIは、自分の数字を保守的な推計と書き、集計元の替わりも注記した」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「2010年に棚から消えた瓶、2016年の買収、2020年の売上の記録、調査会社が出す市場規模の推計、そして2021年に動いた発酵への資金である」（https://note.com/sun_r_lab/n/n46a73223c4d4）
+  - 「市場規模の調べ方｜国内の無料データソースと推計手順 | ネクストイノベーションベース」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「市場規模の調べ方｜国内の無料データソースと推計手順」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「第三者が再計算できる経路を残すことが、細かな一点推計より重要です」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「この記事では、市場規模の推計に必要な基礎数値を無料の公的統計からどう探し、どうそろえ、2つの経路で計算して差を検証するところまでを追います」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「市場規模は外部にある確定値ではなく、意思決定のために置く仮説でもあります」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「何が分かれば推計を更新し、何が崩れたら対象市場を見直すかまで、調査前に決めておきます」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「市場規模の調べ方はトップダウンとボトムアップを照合する」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「2つの推計が一致する必要はありません」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「市場規模をそのまま掲載した資料が見つからなくても、推計に必要な母集団や支出額は公開されていることがあります」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「調査会社や業界メディアの数字は、無料公開部分で定義・推計方法・基準年・地域を確認できなければ計算根拠に置きません」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「公開統計で埋まらない導入率、利用頻度、支払意思は、顧客候補への聞き取りや販売検証へ渡します」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「公開統計から取った値と、一次調査で置いた仮説は、同じ強さの根拠として扱いません」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「市場規模調査は、定義、変数分解、分類照合、原典取得、正規化、2系統の計算、差分検証の7工程で進めます」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「7工程は、国内の公的統計を初期推計へつなぎ、第三者が同じ計算をたどれる状態にするための手順です」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「7工程では、推計レンジと、定義・原典・式・未確認事項がつながった計算経路を一組で残します」（https://media.spready.co.jp/how-to-estimate-market-size/）
 - 一次情報の探し方：
-  - 「日本貿易振興機構（JETRO）の輸出品目別レポート（しょうゆ、2025年7月更新）は、しょうゆ情報センターの統計資料を引く」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「出荷量を数えたのは、しょうゆ情報センターの統計資料である」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「業界団体の日本醤油協会が明らかにした数字だという」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「JETROが引く統計資料と、共同通信が伝える協会の数字は、どちらも集計の手順を書いていない」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「調査主体、調査時期、母数を添えるという、統計を引くときの定石を、検査の書式にしたものだ」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「自社で計った数字について、本稿で示せる一次情報はない」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「https://gfi.org/wp-content/uploads/2022/04/2021-Fermentation-State-of-the-Industry-Report.pdf」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「https://gfi.org/wp-content/uploads/2025/04/2024-Executive-summary-Fermentation-for-meat-seafood-eggs-dairy-and-ingredients.pdf」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「https://www.jetro.go.jp/ext_images/industry/foods/item/19.pdf」（https://note.com/sun_r_lab/n/n495b9a988be5）
-  - 「ただし、その標準化がどこまで進んだのかを数えた統計は、確認できた資料の中にない」（https://note.com/sun_r_lab/n/n46a73223c4d4）
-  - 「ただし、同記事は、この傾きを示す統計を挙げていない」（https://note.com/sun_r_lab/n/n46a73223c4d4）
-  - 「業界団体Kombucha Brewers International（KBI）の、2020年のオンライン会議KombuchaKonでの報告だと、同誌は伝える」（https://note.com/sun_r_lab/n/n46a73223c4d4）
-  - 「自社の売上や市場での位置は、本稿で示せる一次情報がない」（https://note.com/sun_r_lab/n/n46a73223c4d4）
-  - 「https://gfi.org/wp-content/uploads/2022/04/2021-Fermentation-State-of-the-Industry-Report.pdf」（https://note.com/sun_r_lab/n/n46a73223c4d4）
-  - 「事業計画の基準線として採用するには楽観的すぎる、という点は押さえておきたい」（https://note.com/tomohironakagawa/n/n66a9824ad706）
+  - 「次に、公的統計から母集団、支出、販売額を取り、同じ年次・単位・範囲へそろえます」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「この記事では、市場規模の推計に必要な基礎数値を無料の公的統計からどう探し、どうそろえ、2つの経路で計算して差を検証するところまでを追います」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「市場規模の算定方法は、大きな統計から対象分を絞るトップダウンと、顧客数・購入頻度・単価を積み上げるボトムアップの2系統です」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「トップダウンが大きすぎるなら、上位統計に対象外の用途が混ざっている可能性があります」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「無料データの起点は、官公庁が公表する統計です」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「市場名から探すのではなく、必要な変数が企業数なのか、世帯支出なのか、販売額なのかを決めてから統計を選びます」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「統計ごとの公表周期、対象年、確報・速報を確認」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「年齢、世帯類型、地域など統計表ごと」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「為替、分類、名目・実質、暦年・年度を国内統計と揃える必要がある」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「医療、介護、建設、教育、エネルギーなどは、e-Statで所管機関の統計を探し、作成機関の原典へ戻ります」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「法人企業統計調査を使う場合も、資本金規模や業種区分が顧客条件と合うかを見ます」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「広い品目の総額を自社市場と置かず、商業動態統計調査を併用するなら、世帯支出と小売販売額が同じ取引段階を見ているかを確かめます」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「公開統計で埋まらない導入率、利用頻度、支払意思は、顧客候補への聞き取りや販売検証へ渡します」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「公開統計から取った値と、一次調査で置いた仮説は、同じ強さの根拠として扱いません」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「市場規模の調べ方｜公的統計を式へつなぐ7工程」（https://media.spready.co.jp/how-to-estimate-market-size/）
 - 失敗・落とし穴：
   - 「定点調査とは？基本からメリット・デメリットや活用事例、注意点をご紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「セグメンテーションとは？重要なポイントや失敗事例を紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「全体の桁を見誤りにくい反面、掛ける比率の出典が弱いと、計算を重ねるほど根拠が薄くなります」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「BtoCでは、利用者が個人でも支出主体が世帯である商品に注意が必要です」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「Identifying Bias in Market Research Reports」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
+  - 「? Identifying Bias in Market Research Reports」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
+  - 「Triangulation involves comparing multiple data sources or methods to validate findings, helping to identify consistent patterns and reduce bias.」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
+  - 「Engaging stakeholders can provide diverse perspectives and insights, helping to contextualize the data and identify potential biases or gaps in the research.」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
   - 「これは、数字を誤りと断ずるものではない」（https://note.com/sun_r_lab/n/n495b9a988be5）
   - 「では、総説の予測は誤りだったのか」（https://note.com/sun_r_lab/n/n495b9a988be5）
   - 「注記がないことと、誤りであることは、別の話である」（https://note.com/sun_r_lab/n/n495b9a988be5）
@@ -1719,13 +1725,12 @@
   - 「もう一つ、注意がある」（https://note.com/sun_r_lab/n/n46a73223c4d4）
   - 「年をまたぐ比較には、もう一つ落とし穴がある」（https://note.com/sun_r_lab/n/n46a73223c4d4）
   - 「注意したいのは、数えた範囲である」（https://note.com/sun_r_lab/n/n46a73223c4d4）
-  - 「一方で、CBDそのものの売上を知りたい場合には数字が過大に見える点に注意が必要だ」（https://note.com/tomohironakagawa/n/n66a9824ad706）
-  - 「重要なのは、ひとつの数字を「市場規模の真実」として鵜呑みにしないことだ」（https://note.com/tomohironakagawa/n/n66a9824ad706）
-  - 「まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「実際にデータを利用する際は、調査対象が全数か抽出か、特定の規模制限があるかといった点に注意が必要です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「ただし、これらのデータは基本的に会員企業の数値に基づいている点に注意が必要です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「この手法で最も注意すべきは、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
 - 実例：
+  - 「架空ケース｜2経路の差から次の検証項目を決める」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「以下は計算経路を示すための、法人向け研修予約サービスの架空ケースです」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「このケースでは36億〜48億円を初期の仮説レンジとし、対象用途の比率、導入割合、実際の年間契約額を次の検証変数にします」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「一点推計を避けるには、根拠が最も強い値で基準シナリオを作り、結果を大きく動かす変数を一つずつ振る方法が有効です」（https://media.spready.co.jp/how-to-estimate-market-size/）
+  - 「判断要約には、対象市場の定義、推計レンジ、トップダウンとボトムアップの結果、差の主因、投資判断への影響を書きます」（https://media.spready.co.jp/how-to-estimate-market-size/）
   - 「これらの前提を事前に整理しておくことで、調査結果の説得力は格段に向上します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
@@ -1736,11 +1741,6 @@
   - 「たとえば、新規参入の判断においては、市場全体の把握よりも、価格帯別・顧客業種別の構成や、勝ち筋に直結する「顧客の購買プロセス」といった具体的なデータの方が、価値が高いケースも多々あります」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「既存のレポートが存在していても、地域や用途、販売チャネルなどの切り口が自社の想定と異なれば、そのまま実務に活用できないケースが多いためです」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「前提条件の置き方によって結果が大きく変動します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「その反面、元データの定義が自社の狙いと少しでもズレていると、最終的な算出結果に大きな誤差が生じるリスクも含んでいます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「東京都内の小売店舗数 × 1店舗あたりの平均冷凍ショーケース（扉）数 × 1扉あたりの平均陳列パック数 × 1日の棚回転率（％） × 1パックあたりの平均単価 × 1年の営業日」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「結果を左右する重要なパラメータを見極めること」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「※ 感度分析とは、前提条件や入力変数（パラメータ）を変化させた際に、それが最終的な出力結果（利益、解析の結論など）にどの程度の影響を与えるかを定量的に確認・評価する手法です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「複数社で同様の逆算を行い、結果が近いレンジに収束するかを確認する」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
 
 ## 同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ）（entity resolution company record matching rules）
 - 文脈：同一性
@@ -3713,6 +3713,8 @@
 - 失敗・落とし穴：
   - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「無料の故か、更新した旨の通知が無いなど少々不親切な面もあるようですが、経団連という威厳のある団体が関係法令の改正に合わせて随時更新しているひな型なので、これを活用すればまず間違いはありません」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「3つの公告方法、それぞれのメリットと注意点」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「サイトをリニューアルしてアドレスが変わった場合は、あらためてURLの変更登記が必要になる点に注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
@@ -3724,8 +3726,6 @@
   - 「株式会社の決算公告を調べる際と対象を混同しないようご注意ください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「拘置所・刑務所など刑事施設への被収容者（被告人・受刑者など）を登記当事者とする場合の注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「相続クイズ５０問（間違いだらけのネット情報）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 実例：
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -4515,8 +4515,8 @@
   - 「This metric becomes less useful at a narrow departmental level unless revenue can be credibly attributed. Sales teams may influence revenue more directly than HR or finance, so department-level comparisons need care. In most cases, it is better to use function-specific KPIs and reserve revenue per employee for the company level or business unit level.」（https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry）
 - 検索結果の抜粋：
   - 「Revenue Per Employee 2026: $130K-$249K by Stage — Jul 7, 2026 · Startup revenue per employee benchmarks for 2026: median and top-quartile figures by funding stage, sector, and headcount band, what the metric」（https://stealthagents.com/research/startup-revenue-per-employee-benchmarks）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
 
 ## 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）（statistical data revisions analysis real-time vintages revision size bias preliminary final）
 - 文脈：改訂
@@ -5152,15 +5152,15 @@
   - 「企業が見落としがちな“データの落とし穴”と解決策」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8e450d4c08bfd188ab70e2b4983d31d4）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8e450d4c08bfd188ab70e2b4983d31d4）
+  - 「顧客満足度(CS)調査のやり方｜調査手法や分析手法、失敗例と注意点まで紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=584fc501626968d477570f6e6a0ce183）
+  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=584fc501626968d477570f6e6a0ce183）
   - 「抹茶の市場規模を語る際には注意が必要である」（https://note.com/kagawatomo/n/ndf2b3052b863）
   - 「ただし、この45％を日本のてん茶生産量へそのまま掛けることには注意が必要である」（https://note.com/kagawatomo/n/ndf2b3052b863）
   - 「ここで注意したいのは、「貴州省の2,500トン」と「銅仁市の2,500トン」が同じ数字として流通していることである」（https://note.com/kagawatomo/n/ndf2b3052b863）
   - 「これは統計の誤りではなく、貴州省の抹茶がほぼ銅仁市に集中しているためだと考えられる」（https://note.com/kagawatomo/n/ndf2b3052b863）
   - 「もう一つ、比較の土台そのものに注意が要る」（https://note.com/kagawatomo/n/ndf2b3052b863）
   - 「ただし、シェアが高ければ利益も必ず大きいとは限らず、数値の読み取りには注意が必要です」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「マーケットシェアとは何を示す指標なのかを整理したうえで、実務での算出方法、分析の手順、戦略へのつなげ方、見落としやすい注意点を順に確認していきましょう」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「数量の定義を変えたときは、過去のデータとの比較可能性にも注意します」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
-  - 「よくある失敗と、分析の精度を保つための注意点」（https://nano.globis.ac.jp/r/digital-glossary/article/221）
 - 実例：
   - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
   - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ab22111b7e1aa47363e91b5a6c6d89ab）
@@ -7278,11 +7278,11 @@
 
 ## 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き（document version deduplication preprint published version citation independence library guide）
 - 文脈：突き合わせ・推定
-- 手順・やり方：記載なし（読んだ23頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
-- 実例：記載なし（読んだ23頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）（Denzin triangulation types between-method within-method divergent findings interpretation）
 - 文脈：突き合わせ
@@ -7405,6 +7405,8 @@
   - 「1項）、記載を忘れないよう注意が必要です」（https://shiodome.co.jp/js/blog/13590）
   - 「無料の故か、更新した旨の通知が無いなど少々不親切な面もあるようですが、経団連という威厳のある団体が関係法令の改正に合わせて随時更新しているひな型なので、これを活用すればまず間違いはありません」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「官報で要旨を載せていた会社が電子公告へ切り替えると、公告する分量が大きく増える点に注意が必要です」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
+  - 「合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「決算公告を怠ると罰則が課せられるため、注意が必要です」（https://biz.moneyforward.com/erp/basic/2193/）
 - 実例：
   - 「Q1. 中小企業でも官報に損益計算書を掲載しなければならないケースはありますか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「中堅企業でも増資を重ねた結果、5億円を超えるケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
@@ -7421,7 +7423,7 @@
   - 「変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「公告する貸借対照表の項目の数次第となりますが、「2枠」又は「3枠」に収まるケースが多いでしょう」（https://shiodome.co.jp/js/blog/13590）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
 
 ## 分野ごとに言葉が違う対象の検索語の作り方（論文と特許・統計と業界紙・官公庁と求人の言い換え辞書）（building synonym lists across domains patent vs paper terminology search strategy）
 - 文脈：手順
@@ -7921,3 +7923,157 @@
   - 「以前は簡単に嘘を引き出せていたのが、最新モデルでは「その情報は確認できません」「実在するか分かりません」と、AIの側が先に音を上げるケースが増えています」（https://panhouse.jp/insight/what-is-hallucination/）
   - 「ただしこれは、ユーザーが誤りを報告した会話など、誤りが起きやすい場面を集めて測った結果で、実際の利用時の誤り率そのものではありません（」（https://panhouse.jp/insight/what-is-hallucination/）
   - 「ただし測り方で結果は大きく変わり、文書の要約に限った第三者の比較（Vectara、2026年9月22日更新版）では、OpenAI・Anthropic・Googleの最新モデルでも6〜13%程度のハルシネーションが残り、新しいモデルが必ずしも低いわけではありません（いずれも2026年9月27日確認）」（https://panhouse.jp/insight/what-is-hallucination/）
+
+## 公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き）（Berkeley Protocol digital open source investigations search bias verification steps）
+- 文脈：検証
+- 手順・やり方：
+  - 「B. Methodological principles ....................13」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「III. LEGAL FRAMEWORK ................... 17」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「methods of fact-finding and analysis. One of the」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「prosecutors and counsel. If, however, unsound methods」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「or crime-based evidence. Common methodological」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「methodological principles and approaches to support」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「digital technologies and methodologies to expose」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「range of technical, legal and methodological experts,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「and methods for uncovering, assessing, verifying」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Methodology, Education and Training Section of」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「methodology, OHCHR and the Human Rights」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「also provides guidance on methodologies and」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「The Berkeley Protocol follows in the footsteps of」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「lawyers on how to recognize and document the」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「consistent methods, which both strengthen the」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+- 一次情報の探し方：
+  - 「PDF Portable Document Format」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「p. E-7. Available at https://aspe.hhs.gov/system/files/pdf/77196/rpt_Disclosure.pdf. See also David E. Pozen, “The mosaic theory,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Documents/HRBodies/HRCouncil/CoIBurundi/TermsofreferenceCOIBurundiENGL.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Doc.3_Framework%20of%20Analysis%20for%20Atrocity%20Crimes_EN.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「pdf?x32994.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「interior_cover2.pdf. Hearsay evidence is information outside the direct knowledge of the testifying witness. In some jurisdictions, hearsay」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「at https://ohchr.org/Documents/Publications/AttributingIndividualResponsibility.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「uploads/2017/04/vicarioustrauma.pdf); Center for Human Rights and Global Justice, “Human rights resilience project launches new」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「at www.itu.int/en/action/gender-equality/Documents/EQUALS%20Research%20Report%202019.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Development” (Geneva, 2018). Available at www.ohchr.org/Documents/Issues/HRIndicators/GuidanceNoteonApproachtoData.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+- 失敗・落とし穴：
+  - 「and structural biases to affect their work and」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Inherent biases in the Internet’s architecture」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「counterbalance such biases by applying」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「correct for their own biases, which may be」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Oxford University Press, 2020) (discussing the ways in which the selection of search engines and search terms can bias the results of」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「of bias, see chap. II.C below on ethical principles and chap. V.B below on digital landscape assessment.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「24 See, e.g., Forensic Science Regulator, Cognitive Bias Effects Relevant to Forensic Science Investigations, FSR-G-217 (Birmingham, United」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Kingdom, 2015) (discussing various categories of cognitive bias that can negatively affect investigative quality, including expectation」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「bias, confirmation bias, anchoring, contextual bias, and role and reconstruction effects); Wayne A. Wallace, The Effect of Confirmation」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Bias on Criminal Investigative Decision Making (Minneapolis, Walden University ScholarWorks, 2015) (explaining confirmation bias」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「excusing disconfirmatory evidence”); Michael Pittaro, “Implicit bias within the criminal justice system”, Psychology Today, 21 November」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「2018 (discussing biases that can influence criminal investigations generally and suggesting known debiasing techniques); Jon S. Byrd,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「“Confirmation bias, ethics, and mistakes in forensics”, Forensic Pathways, 21 March 2020 (discussing various cognitive and ethical」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「chances of biased selection, interpretation and」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「biases in the data available online. All of」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+- 実例：
+  - 「establishing facts in a case. Courts and investigative」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「manner, which is often the case in international」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Stuart Casey-Maslen, Honorary Professor, Faculty」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Stuart Casey-Maslen, University of Pretoria」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「may include, for example: content posted on」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「reports of the fact-finding mission were also relied upon in the case filed before the International Court of Justice by the Gambia against」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「investigation took place, for example, due to」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「in cases in which there is State cooperation,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「example is information that can only be acquired」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「12 The dark web refers to that part of the Internet that can only be accessed through specialized software. The Tor browser is one example」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「be accessed, for example, on public websites,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「source, examples include privileged, classified」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「such cases, while the information is observable」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「human rights cases, open source intelligence is」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「making functions – for example, to inform」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+
+## リアルタイムデータ（その時点の版）で過去の数字を比べる実務（速報と確報を系列の中で混ぜない）（real-time data vintage analysis first release versus latest vintage practice）
+- 文脈：改訂
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 引用が実在しても主張を支えていない（根拠のずれ）を見つける点検（AI検索・RAGの誤りの評価）（misgrounded citation detection RAG hallucination evaluation legal research）
+- 文脈：検証
+- 手順・やり方：
+  - 「検索した情報を回答の材料にする方法の一つが、RAG（検索拡張生成）です」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
+  - 「プロンプトを整え、必要なコンテキストを渡し、確認手順をSkillにまとめる」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
+  - 「RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法｜AIよろず室」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「※RAG製品の検索方法、分割方法、権限、同期、評価機能は異なり、仕様も変わります」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「本記事は特定製品の障害対応手順ではなく、中小企業が原因を整理するための一般的な実務手順です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「AIよろず室では、この順序で調べる方法を「RAG故障診断・5層」と呼んでいます」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「公的な標準ではなく、技術担当者だけでなく文書責任者や現場担当者も、原因を共通言語で確認するための整理方法です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「この記事では、RAG導入で起きやすい7つの失敗、原因の切り分け方、コピペできる失敗記録と再試験の方法を解説します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「この場合は、回答指示、渡す文脈の量、モデル、出力形式、人の確認方法を見直します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「例えば「領収書を紛失した場合の申請方法」を社員が質問しても、規程には通常時の提出方法しか書かれていないことがあります」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「AIへ登録する文書の選び方は、RAG導入判断記事からつながる文書整理手順で確認できます」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「製品ごとに確認方法は異なりますが、検索結果だけを観察できるなら、原因を切り分けやすくなります」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「暗黙知しかない場合は、担当者への聞き取りから、業務責任者が確認した手順へ変えます」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「研究でAIの誤りを減らすための具体的な検証方法」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
+- 突き合わせ・推定：
+  - 「3．出典を開き、主張と原文を照合する」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
+  - 「引用文もAIが生成したものなら、原文に実際に存在するかを照合します」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
+  - 「AIにもう一度「正しい？」と聞くことは点検の補助にはなりますが、外部の根拠との照合を代替するものではありません」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
+  - 「重要な主張は、人が原文と照合します」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
+  - 「引用先を開けず、検証できない」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「答えがない、矛盾している、正式版が不明なら、根拠層の問題です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「AIはもっともらしい嘘をつく｜ハルシネーションから論文を守る3つの検証法｜臨床AIラボ｜現役医師のAI研究」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
+  - 「AIはもっともらしい嘘をつく｜ハルシネーションから論文を守る3つの検証法」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
+  - 「研究でAIの誤りを減らすための具体的な検証方法」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
+  - 「見た目では区別できないからこそ、検証が要ります」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
+  - 「AIが挙げた文献を検証する3つの手順」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
+  - 「逆に言えば、検証さえ徹底すれば、AIは恐れる道具ではなく、頼れる道具になります」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
+  - 「AIが示した引用を検証する方法と、研究上の倫理については、別の記事でさらに踏み込んで扱う予定です」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
+  - 「プロンプトで「引用してください」とお願いする実装と、APIが構造化された引用を返す実装では、後から検証できるかどうかが変わってくる、という整理です」（https://note.com/shigyoai/n/nc722ae05f766）
+  - 「当社のRAGツール「OfficeAI社員®」の導入企業である大手自動車部品メーカーでは、過去のトラブル対応記録が表形式で蓄積されていたため、複数の生成AIツールを同条件で比較検証しました」（https://officebot.jp/columns/basic-knowledge/rag-assignment/）
+- 一次情報の探し方：
+  - 「公的な標準ではなく、技術担当者だけでなく文書責任者や現場担当者も、原因を共通言語で確認するための整理方法です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「有病率、感度、特異度、オッズ比、ハザード比などの数値は、原著論文の本文、表、図、補足資料、または公的統計の原表で確認します」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
+  - 「Claude APIにはCitationsの機能があり、PDF・プレーンテキスト・カスタムコンテンツの3種類のドキュメントを渡すと、回答テキストに対して文書のインデックス・文字位置 (PDFではページ番号)・引用された原文を、構造化された形で返してくれます」（https://note.com/shigyoai/n/nc722ae05f766）
+  - 「個人情報保護委員会「生成AIサービスの利用に関する注意喚起等について」別添1 (2023年6月2日): https://www.ppc.go.jp/files/pdf/230602_alert_generative_AI_service.pdf」（https://note.com/shigyoai/n/nc722ae05f766）
+  - 「キーワード検索に加え、言葉の概念が近い情報を探す「ベクトル検索（Azure AI Searchによるハイブリッド検索）」を採用」（https://officebot.jp/columns/basic-knowledge/rag-assignment/）
+  - 「PDFやWord、スキャン画像など、さまざまな形式の文書データからテキストを抽出します」（https://www.msiism.jp/article/rag.html）
+  - 「機械学習、統計解析、数理計画、シミュレーションなどの数理科学を」（https://www.msiism.jp/article/rag.html）
+  - 「統計解析・データマイニング・機械学習といった技術でどのようなことができるのかを解説」（https://www.msiism.jp/article/rag.html）
+  - 「理想を言うと、すべての非構造化データ(PDF, Office, 音声, 動画, 画像)をテキスト化して、RAG の Store に格納することが望ましいです」（https://zenn.dev/microsoft/articles/rag_textbook）
+  - 「- その他のライブラリ（PyMuPDF, PDFMiner など）」（https://zenn.dev/microsoft/articles/rag_textbook）
+  - 「PDF/Office などのドキュメント分析によく使われるサービスとしては、Azure AI Document Intelligence がよく使われます」（https://zenn.dev/microsoft/articles/rag_textbook）
+  - 「また、Azure AI Vision の OCR 機能を使うことで、画像や PDF からのテキスト抽出も行うことができます」（https://zenn.dev/microsoft/articles/rag_textbook）
+  - 「コサインはスケール不変なので扱いやすく、RAG の多くはコサインを採用」（https://zenn.dev/microsoft/articles/rag_textbook）
+  - 「「＊＊株式会社」と必ず記載する、特許内容は要約のみ出力など」（https://zenn.dev/microsoft/articles/rag_textbook）
+  - 「よくある入力文書としてはPDFがありますが、これに対する戦略は、なるべく代替となるデータソース（Word文書など）を探して、そちらを処理するほうが良いということです（代替となるものがないとか、あっても持ち主が渡してくれないとかあると思いますが）」（https://fintan.jp/page/10301/）
+- 失敗・落とし穴：
+  - 「形式が整っているからこそ、誤りを見過ごしやすくなります」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
+  - 「OpenAIの研究では、事前学習で学ぶパターンだけでは確実に答えられない事実があることに加え、不明と答えるより推測した方が評価される学習・評価のあり方も、誤りが残る要因として論じられています」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
+  - 「しかし、その一文だけで、AIが自分の誤りを必ず認識できるようにはなりません」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
+  - 「実務では、存在しない情報を丸ごと作る場合だけでなく、正しい情報の一部をずらす誤りにも注意が必要です」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
+  - 「例外や注意書きを落としていないかを確認します」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
+  - 「RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法｜AIよろず室」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「RAG導入でよくある失敗7選｜社内文書検索AIが答えられない原因と改善方法」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「RAGの失敗は、少なくとも次の5層へ分けて確認します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「：改定・削除・同期・失敗報告が回っているか」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「この記事では、RAG導入で起きやすい7つの失敗、原因の切り分け方、コピペできる失敗記録と再試験の方法を解説します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「同じ問題を再発させない失敗記録テンプレート」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「RAGの失敗を「5層」へ分ける」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「そのため、回答が間違っていても、失敗地点は一つではありません」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「回答内容が正しくても、見せてはいけない情報を返したら失敗です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「一度の精度テストではなく、改定・失敗・製品変更後に再試験する仕組みが必要です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+- 実例：
+  - 「例えば、論文名の形式や著者・発行年の書き方を知っていても、特定の論文が実在するとは限りません」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
+  - 「古い版だけを拾ったり、対象のプランが違ったり、重要な例外が検索結果に含まれていなかったりすれば、回答の材料が不足します」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
+  - 「特定の製品で観測した実験結果ではありません」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
+  - 「例えば、「この資料では確認できない」と答える余地を残します」（https://note.com/amity_ai_lab/n/n4eb1b4355c6b）
+  - 「検索結果として取得された文書名と該当箇所を確認します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「例えば「領収書を紛失した場合の申請方法」を社員が質問しても、規程には通常時の提出方法しか書かれていないことがあります」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「失敗3：正しい文書があるのに、検索結果へ出ない」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「検索結果には正しい条件と例外が含まれているのに、回答で一部が抜ける場合です」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「Amazon Bedrock Knowledge Basesの公式資料では、関連する文書断片を返す処理と、検索結果から自然文を生成する処理を分けて利用できることが説明されています［3］」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「製品ごとに確認方法は異なりますが、検索結果だけを観察できるなら、原因を切り分けやすくなります」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「元文書の更新日時、検索対象への反映日時、同期結果、旧版の削除状態を確認します」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「検索結果を見ずに、回答だけを何度も採点しません」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「Q. 検索結果を確認できない製品では、どうすればよいですか？」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
+  - 「例えば「外来の2型糖尿病患者の悪化を予測した先行研究を10本挙げてください」と頼むと、AIは著者名・雑誌名・出版年のそろった、それらしい文献リストを返してきます」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
+  - 「しかし、検索結果の取り違え、原文の読み違い、引用と主張の不一致の可能性は残ります」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）

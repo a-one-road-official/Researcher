@@ -1,0 +1,311 @@
+{
+ "name": "米国防総省のAM支出・部品調達の推移",
+ "en": "US Department of Defense additive manufacturing spending by fiscal year",
+ "aliases": [
+  "DoD additive manufacturing budget trend",
+  "DLA 3D printed parts contracts",
+  "米軍 3Dプリンタ 予算 推移"
+ ],
+ "context": "海外・国防総省",
+ "kind": "market",
+ "researched_at": "2026-11-06T17:59:57.904644+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.reuters.com/jp/world/security/XJQUB42J3FLM3DLJBXXVKNNFGI-2024-03-11/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.usafe.af.mil/News/Article-Display/Tag/102969/spending/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E8%BB%8D%E4%BA%8B%E4%BA%88%E7%AE%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://power.lowyinstitute.org/embed/chart/distribution/military-expenditure-forecast-2035/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.usaspending.gov/agency/department-of-defense?fy=2025",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.arpc.afrc.af.mil/News/Article-Display/Tag/102969/spending/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://oag.state.va.us/files/Expenditures/HESS_FY15qtr3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nistep.go.jp/wp/wp-content/uploads/column_2024_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.usaspending.gov/trends?trendreport=default&viewreport=yes&contracts=Y&maj_contracting_agency_t=&pop_state_t=&pop_cd_t=&vendor_state_t=&vendor_cd_t=&psc_cat_t=&tab=Graph+View&Go.x=Go",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/united-states-defense-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E8%BB%8D%E4%BA%8B%E4%BA%88%E7%AE%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jst.go.jp/crds/pdf/2014/FU/US20140901.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/zaiseia20211115/02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/soubiseisaku/onestop/handbook_onestop_20250707.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://militaryreach.auburn.edu/detail?resourceid=967ef8b9-335a-4c11-a815-cee3faca7405&resType=resSum&pdf=research",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://erdc-library.erdc.dren.mil/verify-page.html?next=/entities/publication/81b728f7-6abd-4ef8-e053-411ac80adeb3",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dodig.mil/Portals/48/Documents/News%20Room/Press%20Kit/DoW%20Financial%20Statement%20Audit%20FY2025.pdf?ver=vvuVuWxyqO3ptUzOOHhZyg%3D%3D",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://warontherocks.com/cogs-of-war/the-additive-manufacturing-mirage-in-defense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/analysis-of-u-s-military-budget-shows-increased-commitment-to-additive-manufacturing-241651/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/america-makes_analysis-of-us-military-budget-shows-increased-activity-7350909997066694660-o9DH",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://manufacturing-today.com/news/us-military-additive-manufacturing-spend-surges-166-year-over-year/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.stratasys.com/news-events/press-releases/detail/978/stratasys-selected-for-multi-million-dollar-u-s-department",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cto.mil/dod-ams/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "米国防総省のAM支出・部品調達の推移 推移",
+   "results": [
+    "https://www.reuters.com/jp/world/security/XJQUB42J3FLM3DLJBXXVKNNFGI-2024-03-11/",
+    "https://www.usafe.af.mil/News/Article-Display/Tag/102969/spending/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E8%BB%8D%E4%BA%8B%E4%BA%88%E7%AE%97",
+    "https://www.youtube.com/watch?v=MfsoXyClA_I",
+    "https://power.lowyinstitute.org/embed/chart/distribution/military-expenditure-forecast-2035/",
+    "https://www.usaspending.gov/agency/department-of-defense?fy=2025",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://keizai-marumie.com/fred_defense_spending/",
+    "https://www.asahi.com/articles/ASV1H4FLQV1HUTIL019M.html",
+    "https://ja.wikipedia.org/wiki/アメリカ合衆国の軍事予算"
+   ]
+  },
+  {
+   "query": "米国防総省のAM支出・部品調達の推移 年度別",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E8%BB%8D%E4%BA%8B%E4%BA%88%E7%AE%97",
+    "https://www.reuters.com/jp/world/security/XJQUB42J3FLM3DLJBXXVKNNFGI-2024-03-11/",
+    "https://www.arpc.afrc.af.mil/News/Article-Display/Tag/102969/spending/",
+    "https://oag.state.va.us/files/Expenditures/HESS_FY15qtr3.pdf",
+    "https://www.nistep.go.jp/wp/wp-content/uploads/column_2024_1.pdf",
+    "https://www.youtube.com/watch?v=MfsoXyClA_I",
+    "http://www.usaspending.gov/trends?trendreport=default&viewreport=yes&contracts=Y&maj_contracting_agency_t=&pop_state_t=&pop_cd_t=&vendor_state_t=&vendor_cd_t=&psc_cat_t=&tab=Graph+View&Go.x=Go",
+    "https://power.lowyinstitute.org/embed/chart/distribution/military-expenditure-forecast-2035/",
+    "https://www.mordorintelligence.com/ja/industry-reports/united-states-defense-market",
+    "https://ja.wikipedia.org/wiki/アメリカ合衆国の軍事予算"
+   ]
+  },
+  {
+   "query": "米国防総省のAM支出・部品調達の推移 件数 pdf",
+   "results": [
+    "https://www.jst.go.jp/crds/pdf/2014/FU/US20140901.pdf",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/zaiseia20211115/02.pdf",
+    "https://www.mod.go.jp/atla/soubiseisaku/onestop/handbook_onestop_20250707.pdf",
+    "https://oag.state.va.us/files/Expenditures/HESS_FY15qtr3.pdf",
+    "https://militaryreach.auburn.edu/detail?resourceid=967ef8b9-335a-4c11-a815-cee3faca7405&resType=resSum&pdf=research",
+    "https://erdc-library.erdc.dren.mil/entities/publication/81b728f7-6abd-4ef8-e053-411ac80adeb3",
+    "https://www.dodig.mil/Portals/48/Documents/News%20Room/Press%20Kit/DoW%20Financial%20Statement%20Audit%20FY2025.pdf?ver=vvuVuWxyqO3ptUzOOHhZyg%3D%3D",
+    "https://comptroller.war.gov/Portals/45/Documents/defbudget/FY2027/FY2027_Budget_Request_Overview_Book.pdf",
+    "https://report.jbaudit.go.jp/org/pdf/080116_zenbun.pdf",
+    "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary298.pdf"
+   ]
+  },
+  {
+   "query": "US Department of Defense additive manufacturing spending by fiscal year",
+   "results": [
+    "https://warontherocks.com/cogs-of-war/the-additive-manufacturing-mirage-in-defense/",
+    "https://3dprintingindustry.com/news/analysis-of-u-s-military-budget-shows-increased-commitment-to-additive-manufacturing-241651/",
+    "https://www.linkedin.com/posts/america-makes_analysis-of-us-military-budget-shows-increased-activity-7350909997066694660-o9DH",
+    "https://manufacturing-today.com/news/us-military-additive-manufacturing-spend-surges-166-year-over-year/",
+    "https://investors.stratasys.com/news-events/press-releases/detail/978/stratasys-selected-for-multi-million-dollar-u-s-department",
+    "https://www.cto.mil/dod-ams/",
+    "https://www.gao.gov/products/gao-16-56",
+    "https://www.rapid3devent.com/event/news/the-expanding-role-of-additive-manufacturing-in-the-defense-industrial-base/",
+    "https://aiinstitute.hbs.edu/platform-rctom/submission/revolutionizing-an-entire-supply-chain-additive-manufacturing-and-the-us-army/",
+    "https://3dprint.com/314995/department-of-defense-spent-almost-1b-directly-on-3d-printing-in-2024-amr-reports/"
+   ]
+  },
+  {
+   "query": "site:note.com 米国防総省のAM支出・部品調達の推移",
+   "results": [
+    "https://note.com/noted_jacana411/n/nb78ec8cde75a",
+    "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "https://note.com/amane_bombaye/n/nc815646e529b",
+    "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "https://note.com/amane_bombaye/n/n22f57abd8cd2",
+    "https://note.com/amane_bombaye/n/nf0ce4b554c74",
+    "https://note.com/amane_bombaye/n/nf83ce5880bfc",
+    "https://note.com/amane_bombaye/n/ne5b0ab8b3392",
+    "https://note.com/american_stock/n/n2cf8f2ab686f",
+    "https://note.com/amane_bombaye/n/nb1ef3590f80f"
+   ]
+  },
+  {
+   "query": "site:x.com 米国防総省のAM支出・部品調達の推移",
+   "results": [
+    "https://x.com/KagawaTomo/status/2112833501351612703",
+    "https://x.com/search?f=live&vertical=default&q=uic.io/ar/luckyday/2296/12/15/&src=typd&lang=ja",
+    "https://x.com/sputnik_jp/status/2044010661844525180",
+    "https://x.com/kyookine/status/2089368764718665852",
+    "https://x.com/sputnik_jp/status/2046921591372591385",
+    "https://x.com/rockfish31/status/2113415649745949041",
+    "https://x.com/amatsuda7/status/2100444684359496083",
+    "https://x.com/teppoblog/status/2069622206653718733",
+    "https://x.com/Mongoose2011/status/2117197321289322829"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 米国防総省のAM支出・部品調達の推移",
+   "results": [
+    "https://in.linkedin.com/jobs/capgemini-careers-jobs",
+    "https://www.linkedin.com/posts/global-advantage-consulting-group_navigating-defense-innovation-unveiling-activity-7099344386588647425-Y8UM",
+    "https://jp.linkedin.com/posts/tetsuya-n-a7699928b_米新興が高純度鉄生産で200億円調達国防総省とトヨタ系出資-日本経済新聞-activity-7514559944147476480-ue6Z",
+    "https://jp.linkedin.com/posts/shoji-terayama-75066891_企業価値45兆円の米防衛テックのアンドゥリル日本進出純国産ドローン開発へ-activity-7401968470730416128-xSmA",
+    "https://uk.linkedin.com/posts/nihonmatsu_軍事テックの専門家米議会に助言ai停止はほぼ不可能-activity-7056475169225134080-1l9T",
+    "https://www.linkedin.com/pulse/秋田の現場から世界と勝負する-competing-world-from-front-lines-akita--kctyc",
+    "https://jp.linkedin.com/pulse/why-big-tech-spending-more-ai-than-some-countries-9z7nc?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 米国防総省のAM支出・部品調達の推移",
+   "results": [
+    "https://www.facebook.com/atlamod/photos/３月１９日防衛装備庁と米国防安全保障協力庁の間で安全保障協力協議会合を行いました会合に先立ち若宮防衛大臣補佐官は米国防安全保障協力庁長官の表敬を受けｆｍｓ調達の/122151288818575382/",
+    "https://www.facebook.com/100064020642606/posts/米国防総省は13日台湾への戦闘機の予備部品や修理部品を売却することを承認した総額3億3千万米ドル約510億円規模と見られる国防部国防省は14日空軍戦闘機の戦闘準/1263448679132475/",
+    "https://www.facebook.com/sensyuboueijp/posts/1250381918451967/",
+    "https://www.facebook.com/atlamod/photos/令和７年３月１９日石川防衛装備庁長官は米国防安全保障協力庁長官との間で第９回安全保障協力協議会合ｓｃｃｍを開催しｆｍｓ調達を巡る諸課題について協議を行いました両/122151284378575382/",
+    "https://www.facebook.com/miyataosamu.jp/photos/日経新聞は１７日米政府から防衛装備品を調達するｆｍｓを巡り早期警戒機の整備機材など１１８件１兆１４００億円分が契約から５年以上経過しても納入されていない米製造元/26178794745038972/",
+    "https://www.facebook.com/groups/nihonkokubouei/posts/29958574610411131/",
+    "https://www.facebook.com/okinawatimes/posts/基地資材調達の米ノーブル社が破産-沖縄県内25社に多額の未払い発生-最高4億円超も/1706124271515838/"
+   ]
+  },
+  {
+   "query": "米国防総省のAM支出・部品調達の推移 note 社長",
+   "results": [
+    "https://note.com/takeuchi_kazuto/n/n7bedd355b374",
+    "https://note.com/kandoinspirefact/n/n3720811ec16b",
+    "https://www.wpafb.af.mil/News/Article-Display/Tag/909/finances/",
+    "https://www.jst.go.jp/crds/pdf/2014/FU/US20140901.pdf",
+    "https://www.reuters.com/jp/world/security/XJQUB42J3FLM3DLJBXXVKNNFGI-2024-03-11/",
+    "https://note.com/tag/%E7%B1%B3%E5%9B%BD%E5%9B%BD%E9%98%B2%E7%B7%8F%E7%9C%81",
+    "https://www.youtube.com/watch?v=MfsoXyClA_I",
+    "https://finance.biggo.jp/news/tpfLbZ4BoQmpnl366JQ-",
+    "https://note.com/hirokimiyano/n/ne5f08fe7e0a1",
+    "https://note.com/osint_japan/n/ne74c7cfc8361"
+   ]
+  },
+  {
+   "query": "米国防総省のAM支出・部品調達の推移 X 投稿",
+   "results": [
+    "https://www.reuters.com/jp/world/security/XJQUB42J3FLM3DLJBXXVKNNFGI-2024-03-11/",
+    "https://www.arpc.afrc.af.mil/News/Article-Display/Tag/102969/spending/",
+    "https://www.usaspending.gov/keyword_search/70FA3125D00000001",
+    "https://www.youtube.com/watch?v=MfsoXyClA_I",
+    "https://madehere.co.jp/insight/dmsms-usfj",
+    "https://www.war.gov/News/Tag/46922/",
+    "https://tiatra.com/%E7%B1%B3%E5%9B%BD%E3%81%A8%E6%97%A5%E6%9C%AC%E3%81%AE%E9%98%B2%E8%A1%9B%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E5%BC%B7%E9%9D%AD%E5%8C%96%E3%81%A8%E8%A3%BD%E9%80%A0/",
+    "http://www.clearing.mod.go.jp/hakusho_data/2023/html/n410406000.html",
+    "https://seisan-navi.com/20260108-am/",
+    "https://seisan-navi.com/20260107-am/"
+   ]
+  },
+  {
+   "query": "US Department of Defense additive manufacturing spending by fiscal year site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/paulperera_analysis-of-us-military-budget-shows-increased-activity-7407877007230869505-owb_",
+    "https://www.linkedin.com/company/america-makes",
+    "https://www.linkedin.com/posts/dr-david-jewell-dba-b66b3362_additivemanufacturing-3dprinting-advancedmanufacturing-activity-7520104601946218496-QQqL",
+    "https://www.linkedin.com/pulse/building-future-transformative-potential-additive-defense-glenn",
+    "https://www.linkedin.com/in/mhans80",
+    "https://www.linkedin.com/pulse/3d-opportunity-additive-manufacturing-defense-forum-recap-ray",
+    "https://www.linkedin.com/in/andy-davis1",
+    "https://www.linkedin.com/in/foster-ferguson",
+    "https://www.linkedin.com/in/arnassar",
+    "https://www.linkedin.com/in/bioengr"
+   ]
+  }
+ ],
+ "missing": {
+  "件数の推移": "記載なし（読んだ24頁・検索11回）",
+  "金額の推移": "記載なし（読んだ24頁・検索11回）",
+  "AM・3Dプリンタ": "記載なし（読んだ24頁・検索11回）",
+  "素材の内訳": "記載なし（読んだ24頁・検索11回）",
+  "場面・目的": "記載なし（読んだ24頁・検索11回）",
+  "推移": "記載なし（読んだ24頁・検索11回）",
+  "期間・審査": "記載なし（読んだ24頁・検索11回）",
+  "主体": "記載なし（読んだ24頁・検索11回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-06T17:59:57.904644+00:00"
+}
